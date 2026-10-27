@@ -1,0 +1,4544 @@
+[
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/c8/2016-12-01_153211.jpg",
+    "path": "/bilder/wiki/2016-12-01-153211-21c59162.jpg",
+    "sha256": "527956142f3a019d31135437ba0330cc0aac521bcfac9d681ba463767a3ac3d4",
+    "bytes": 23700
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/fd/Abfrage-aktualisieren.png",
+    "path": "/bilder/wiki/abfrage-aktualisieren-c0f770fa.png",
+    "sha256": "609be94512c8d10b16cd208cf91d5e697dcc625f540917f1c8db01e3cf859e4b",
+    "bytes": 391
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d8/AbiturTut01.jpg",
+    "path": "/bilder/wiki/abiturtut01-63ef9b62.jpg",
+    "sha256": "245d101a8e986c2c6198f5e84aa5560cc6fbdeb9864fbb3d3561025b0a137908",
+    "bytes": 68783
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/43/AbiturTut02.jpg",
+    "path": "/bilder/wiki/abiturtut02-c081a783.jpg",
+    "sha256": "e27662ef45cfec653c884901ee61a91fc2849fefd0562eeaa596f26ef376beae",
+    "bytes": 38289
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/01/AbiturTut03.jpg",
+    "path": "/bilder/wiki/abiturtut03-4c78acb4.jpg",
+    "sha256": "1bc906cd4a72a0b11519d38d8ab2d6eaa67165326c8cd313e694682491865ba4",
+    "bytes": 14174
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/a6/AbiturTut04.jpg",
+    "path": "/bilder/wiki/abiturtut04-920162f5.jpg",
+    "sha256": "4b05c539b843a37720b20b9829d200dcaf4e218db663ccba0725baf0910e8dd4",
+    "bytes": 60438
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/8c/AbiturTut05.jpg",
+    "path": "/bilder/wiki/abiturtut05-45e833a9.jpg",
+    "sha256": "122a227a23890be3398a46978fe63731cc6fe5ad1491e7c26f5f030a5c8c9548",
+    "bytes": 39069
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/e0/AbiturTut06.jpg",
+    "path": "/bilder/wiki/abiturtut06-d9cd4664.jpg",
+    "sha256": "3f0e194aea9429b2c0ae4ef213adb8fd918270b0854e7b1768979aa90b81bc7d",
+    "bytes": 14935
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f0/Achtung.png",
+    "path": "/bilder/wiki/achtung-9e2b77bc.png",
+    "sha256": "3c18b22ed81566753fcb2a88601205e2ae51944c4c1d12c1ad7987188d042d25",
+    "bytes": 1761
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/1/1c/Adminzugriff.jpg",
+    "path": "/bilder/wiki/adminzugriff-bcfaa136.jpg",
+    "sha256": "06e73c2e9bbd28d4e9809a06594fec84659cb5817537b942629a99d982a166ec",
+    "bytes": 21678
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d7/AdresseNeueingabe.jpg",
+    "path": "/bilder/wiki/adresseneueingabe-94efb282.jpg",
+    "sha256": "91bbc30796e27a7e8171a5ff43dedef7f025d5537ff63a800696b90d93516cd7",
+    "bytes": 197900
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/73/Akt.Halbjahr-Uebersicht.png",
+    "path": "/bilder/wiki/akt-halbjahr-uebersicht-9b46b3d0.png",
+    "sha256": "8f00a144b8400b53b70bcb08520db8543ff4d65e5994423dd2982f0dabb53097",
+    "bytes": 6274
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/ab/AktHalbjahrG9.png",
+    "path": "/bilder/wiki/akthalbjahrg9-c4819e77.png",
+    "sha256": "c1518464bfefb1fa85a9d715ea65902b47a97fe13d900b44a414a8bbe4124c85",
+    "bytes": 42259
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/8b/Aktualisieren.jpg",
+    "path": "/bilder/wiki/aktualisieren-b51e2d56.jpg",
+    "sha256": "ed9bd2e7a061b0cde22919793d670de9c3e6f61c5e81fca820bca5bf9cf8acea",
+    "bytes": 1759
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/1/13/Allgemeine_Adressen_bearbeiten.jpg",
+    "path": "/bilder/wiki/allgemeine-adressen-bearbeiten-da0ffa08.jpg",
+    "sha256": "1db0d0ba5ee80111c4a82778d334ef4e2735cdec96ca97d64b640084685fd827",
+    "bytes": 38920
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d7/AllgemeineAdressen.jpg",
+    "path": "/bilder/wiki/allgemeineadressen-378a2bcc.jpg",
+    "sha256": "47e82eb0e5ea918bcb696c1d402cc2c9773d6b373623ba6b0b01d65febe51cae",
+    "bytes": 277372
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/ec/ASDPC_Abitur.png",
+    "path": "/bilder/wiki/asdpc-abitur-3f0237fc.png",
+    "sha256": "27c1c7b25fca0ee18f4f86249f289347a00d1dcef5ced60fedef58c8b710fec2",
+    "bytes": 53815
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/98/ASDPC_ASD_Signatur_Export.png",
+    "path": "/bilder/wiki/asdpc-asd-signatur-export-3744c34d.png",
+    "sha256": "27fe6d65120ff5a3d71273e593185dc7528d25f74d904093cf6741ff5420b4dd",
+    "bytes": 28476
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/e0/ASDPC_B_Beispielfehler.png",
+    "path": "/bilder/wiki/asdpc-b-beispielfehler-272e973b.png",
+    "sha256": "ac74fd6138195633fe9891f131df9a3d96a2cad8ba23e471c77185c91625c032",
+    "bytes": 96219
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/1/16/ASDPC_B_Daten_zu_Satz.png",
+    "path": "/bilder/wiki/asdpc-b-daten-zu-satz-c671b591.png",
+    "sha256": "a95e90b590fcb4a281933c5c573649ddb43519d1afa09619f5df6eb790dd3431",
+    "bytes": 198919
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/2c/ASDPC_B_Kommentar.png",
+    "path": "/bilder/wiki/asdpc-b-kommentar-a0676513.png",
+    "sha256": "9d8c5d1377dd2ab18b042c6e32fcbc297ff5932d81e7e6db51e675485d234d81",
+    "bytes": 146595
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/a3/ASDPC_B_Pr%C3%BCfen.png",
+    "path": "/bilder/wiki/asdpc-b-pruefen-a27ba9f5.png",
+    "sha256": "25c628768bfce14c0d9f419ca6b724ec24fbc06a7067b4ab620020b64f828c1c",
+    "bytes": 231011
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/7d/ASDPC_B_Satzdetails.png",
+    "path": "/bilder/wiki/asdpc-b-satzdetails-ed2886d3.png",
+    "sha256": "b99fe6a0448703b932d8f0fcc4a3196ee8dc41ac9d435f1f98ac1609fe8a7615",
+    "bytes": 118146
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/6e/ASDPC_B_%C3%9Cbersicht.png",
+    "path": "/bilder/wiki/asdpc-b-uebersicht-d6f31add.png",
+    "sha256": "d50f333c5fff5a308d18da4f0eca21f475a825f3a846ca045d4fd92f65e40010",
+    "bytes": 246312
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/cf/ASDPC_Belege.png",
+    "path": "/bilder/wiki/asdpc-belege-ccb4c5a3.png",
+    "sha256": "45094d34b72d557783af93d213eddeb41b84403bd349beb1feb13cb54c7103ad",
+    "bytes": 88286
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/e8/ASDPC_Belege_in_der_HE.png",
+    "path": "/bilder/wiki/asdpc-belege-in-der-he-3b4c1541.png",
+    "sha256": "31b553486f7be9c3e62797b4f6b6558e7526c1b6e8e75697aa44d86a91a2e5e6",
+    "bytes": 89148
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/db/ASDPC_Daten_l%C3%B6schen.png",
+    "path": "/bilder/wiki/asdpc-daten-loeschen-7260ea80.png",
+    "sha256": "b69d5131162153c7b976f18ac84b8ac2b15d575581ed890ed6bc5f8385536918",
+    "bytes": 72618
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/1/13/ASDPC_Deutschf%C3%B6rdergruppen.png",
+    "path": "/bilder/wiki/asdpc-deutschfoerdergruppen-1c12e146.png",
+    "sha256": "0873de6dcc0134179bc3784e50f286f6d303fb1fd6e79e4d28a4043099c37c12",
+    "bytes": 62843
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/ad/ASDPC_Download.png",
+    "path": "/bilder/wiki/asdpc-download-c47e9b44.png",
+    "sha256": "f11dbf70be581e6ca461b91ce25b26fd0cae2316f6a1e0119aa55c29f8db369d",
+    "bytes": 64092
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/5c/ASDPC_Download_Programm.png",
+    "path": "/bilder/wiki/asdpc-download-programm-5c64b043.png",
+    "sha256": "2dce6e7a451d6988117e16f5e9ba2de80238f8d01756b6794241e2acc30535ca",
+    "bytes": 60902
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/da/ASDPC_Drucken.png",
+    "path": "/bilder/wiki/asdpc-drucken-1f19eacb.png",
+    "sha256": "596d2181769704b9458b9b4380b240f943d7c9c0be465892311d74f574e38ef1",
+    "bytes": 90240
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/59/ASDPC_Export.png",
+    "path": "/bilder/wiki/asdpc-export-dc3fc469.png",
+    "sha256": "2b4fed18824196facbdabfa1d82495994a35105403faf4d760d39675587fce8c",
+    "bytes": 34396
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/54/ASDPC_Export_IT.NRW.png",
+    "path": "/bilder/wiki/asdpc-export-it-nrw-cbe2367b.png",
+    "sha256": "ec22acfe3827cc7aa3f6a8fa6a575422f5d10e8f830be73057ebde5f73fd767a",
+    "bytes": 34113
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/db/ASDPC_Extract.png",
+    "path": "/bilder/wiki/asdpc-extract-e2e7ac68.png",
+    "sha256": "f3ebc03cbdc88f38cf0e61bef068439e213e0b58942ed7d4ef0ddef9bd6aeada",
+    "bytes": 15129
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/8e/ASDPC_Extras.png",
+    "path": "/bilder/wiki/asdpc-extras-bc4281c9.png",
+    "sha256": "35ae851cab15f16b82c07c7ac7365e8c43811535564776b474974209540e7044",
+    "bytes": 50198
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/db/ASDPC_Fehler_Monitor.png",
+    "path": "/bilder/wiki/asdpc-fehler-monitor-279515c2.png",
+    "sha256": "8e99bb6b764d8a1dea77201a3a3b24faf7ab2f99f7a96b441d1782fed9ffae84",
+    "bytes": 17952
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/ac/ASDPC_Haupterhebung_Starten.png",
+    "path": "/bilder/wiki/asdpc-haupterhebung-starten-bc925a45.png",
+    "sha256": "e4d6bc75eef5b9d5b6ba4fd903c825b418a9e9bc3ac56473fc784b4b984f9fb8",
+    "bytes": 18080
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/2b/ASDPC_HE_Hauptfenster.png",
+    "path": "/bilder/wiki/asdpc-he-hauptfenster-4181ead7.png",
+    "sha256": "fec88b031464eae019b970a46783e3c1abfc42819fae735b5afcd30fc14e3808",
+    "bytes": 49636
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/e5/ASDPC_HE_Menu.png",
+    "path": "/bilder/wiki/asdpc-he-menu-dda6b55e.png",
+    "sha256": "ebcac877422681afe46ab4a6e919858d739be9ec0cb200db3edaa93727582b69",
+    "bytes": 7870
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/db/ASDPC_Hilfe.png",
+    "path": "/bilder/wiki/asdpc-hilfe-939f203f.png",
+    "sha256": "3f4b3e3bd96e64b5b4abc04c8523c1fb03dbe00e554b098f208d83cc08497f88",
+    "bytes": 34212
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/43/ASDPC_Import.png",
+    "path": "/bilder/wiki/asdpc-import-14aa6503.png",
+    "sha256": "a08b17a14173eda650605af204b9a60d72dd006d4742b659fc9ffff4567e9c77",
+    "bytes": 41014
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/44/ASDPC_Import_Vorgabedaten.png",
+    "path": "/bilder/wiki/asdpc-import-vorgabedaten-3c6da7e8.png",
+    "sha256": "383e6a09c86ecec2cb9af83591f471ed6457bad608451fd3cb60d6a19eff36b8",
+    "bytes": 73372
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/32/ASDPC_Inhaltsverzeichnis.png",
+    "path": "/bilder/wiki/asdpc-inhaltsverzeichnis-7a33b862.png",
+    "sha256": "14a28788c8394038216c6cdc0b8b727e25078d7b045279e790ed82db0e8c30e0",
+    "bytes": 439530
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/09/ASDPC_Installation_Admin.png",
+    "path": "/bilder/wiki/asdpc-installation-admin-df967338.png",
+    "sha256": "8c11ca37160601d2c7ca0b8f25a50327600758d19949ab5aec9d7eb60ca24531",
+    "bytes": 5969
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/a4/ASDPC_Installation_Admin2.png",
+    "path": "/bilder/wiki/asdpc-installation-admin2-b2098096.png",
+    "sha256": "acf4cd3fc57bd5eb11da6c97d76b36a816434d5086625dae4b6cbc84301e8139",
+    "bytes": 23837
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/01/ASDPC_Internat.png",
+    "path": "/bilder/wiki/asdpc-internat-2e507d26.png",
+    "sha256": "25208d1367611b68ead36316e9ae94a57edc62d593576027e798b776cc76c10b",
+    "bytes": 32635
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/cf/ASDPC_KLD1.png",
+    "path": "/bilder/wiki/asdpc-kld1-0d4a7ce2.png",
+    "sha256": "c82cbbd04c718397219dfcdb6a1de67a232f5a9f28b9cb6d278503d220d37df8",
+    "bytes": 326590
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/9c/ASDPC_Optionen.png",
+    "path": "/bilder/wiki/asdpc-optionen-b494ae3a.png",
+    "sha256": "282fec9b78e841003cb80449b1aa2608676fcea2c1c7ffcd32501345f5d0bd82",
+    "bytes": 32081
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/85/ASDPC_Pr%C3%BCfen.png",
+    "path": "/bilder/wiki/asdpc-pruefen-dead5265.png",
+    "sha256": "e41535b0d7238d5d4900b79f3152d213b8574dab54f8a7d041e4b62726612594",
+    "bytes": 37029
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/24/ASDPC_SCD011.png",
+    "path": "/bilder/wiki/asdpc-scd011-ae81964a.png",
+    "sha256": "5373c3e5bb6f7f9b7def646fc66d8df7521f07e541118ba179db348ceb9c2558",
+    "bytes": 314032
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f1/ASDPC_SCD012.png",
+    "path": "/bilder/wiki/asdpc-scd012-6f689f95.png",
+    "sha256": "e89bb3c9e07136b24d117a7a9cf7e31e78dbf04d718ecc05dfc78fbcd3671dd2",
+    "bytes": 293101
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/fa/ASDPC_Sch%C3%BClersummen_Kontrolle.png",
+    "path": "/bilder/wiki/asdpc-schuelersummen-kontrolle-52a19247.png",
+    "sha256": "8898d830bd940fb060ab9fb4970666cce8938dc4df02cbf7aa7d751445392d36",
+    "bytes": 190364
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/53/ASDPC_Sicherung.png",
+    "path": "/bilder/wiki/asdpc-sicherung-40c9b163.png",
+    "sha256": "27edb70df7a7489aeeff5db55c78cafabeb56e7f203bed896a695762a51ddd72",
+    "bytes": 115907
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/b1/ASDPC-Startinformationen.jpg",
+    "path": "/bilder/wiki/asdpc-startinformationen-cc3f7a4b.jpg",
+    "sha256": "ddcbf9153c3440f4c659753c611f84b474b1ec46d9026c347aa88167c25c623a",
+    "bytes": 497648
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/5e/ASDPC_UVD1.png",
+    "path": "/bilder/wiki/asdpc-uvd1-594fdd88.png",
+    "sha256": "bd9fedc1b471e74b33a9d1515a8f338c1da9c70df8f7bc9056fa964ce8b371c6",
+    "bytes": 236837
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/0c/ASDPC_Verzeichnisse.png",
+    "path": "/bilder/wiki/asdpc-verzeichnisse-5321b389.png",
+    "sha256": "86c1f03f3fa8c9c963be30efc4f0875ccab7561b0cf01f29be460c2c4d6fdc69",
+    "bytes": 44674
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/0b/ASDPC_Weitere_Belege.png",
+    "path": "/bilder/wiki/asdpc-weitere-belege-8902bb0a.png",
+    "sha256": "b720f6469f038c622a517af3f5ccdcdd697058fd6fc7b4cf9a610d4254c6b875",
+    "bytes": 81300
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/36/ASDPC_Wohnorte.png",
+    "path": "/bilder/wiki/asdpc-wohnorte-9074506c.png",
+    "sha256": "b8643716291a03ce4252b230a7685b8cd2a6bcfcdb2b299660d183842c743823",
+    "bytes": 213047
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d9/ASDPC_WohnorteAuswahl.png",
+    "path": "/bilder/wiki/asdpc-wohnorteauswahl-63909cf7.png",
+    "sha256": "5b72d78db388b79f50e74c96cbb098fc3b94adce4dddb1252afd5a663049bee7",
+    "bytes": 86920
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/a0/ASDPC_ZuwGeschi.png",
+    "path": "/bilder/wiki/asdpc-zuwgeschi-f210f6ed.png",
+    "sha256": "34cbbdb04a593983704fa8aea526e370b673be1d6c93697ea3d568b8caa1da31",
+    "bytes": 174918
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d0/ASDPC_ZuwGeschi_Kontrolle.png",
+    "path": "/bilder/wiki/asdpc-zuwgeschi-kontrolle-0aaef788.png",
+    "sha256": "cdc04264b6b1ac4148b901f839419814d5daee9bb2be836a59cacac996518ad8",
+    "bytes": 65598
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d8/ASDPCErhebungStarten.jpg",
+    "path": "/bilder/wiki/asdpcerhebungstarten-c7312d17.jpg",
+    "sha256": "1fc74aaf8a0bbc98fcf004a8971adfe71cea22aa11de807df7a886feef676d46",
+    "bytes": 47594
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/90/ASDPCKorrektur91.png",
+    "path": "/bilder/wiki/asdpckorrektur91-57217344.png",
+    "sha256": "4c39bc30da576f8824c74292f76e120dd3cd4df4ddd02d07f9ed788326f13ad9",
+    "bytes": 40995
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/c6/ASDPCSchluesseASDSIg.jpg",
+    "path": "/bilder/wiki/asdpcschluesseasdsig-4f9a7839.jpg",
+    "sha256": "166c4e586755683cc6ab895f3770c035f29b8e1ec0a7dcf7f413a6e2e810e7ea",
+    "bytes": 37500
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/9a/ASDPCSchluesselerstellung.jpg",
+    "path": "/bilder/wiki/asdpcschluesselerstellung-8d493d67.jpg",
+    "sha256": "c3d1394be317115c1073ca3f89732ecbe5e88b8a135469ce9c2b78c5f1a9f6b8",
+    "bytes": 68841
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/cf/ASDPCSchluesselversendung.jpg",
+    "path": "/bilder/wiki/asdpcschluesselversendung-3ca1abdf.jpg",
+    "sha256": "4b97eb57832281451f07291197e036ad33b837fd1b52fab8190a1bba7e85fac5",
+    "bytes": 82330
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/71/ASDPCSchuldaten.jpg",
+    "path": "/bilder/wiki/asdpcschuldaten-d92237d7.jpg",
+    "sha256": "46ffefdd1147ecd0b0eacb59d9e45be873106e7e44c15a6fe94fc04d8e80ba78",
+    "bytes": 185787
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/94/ASDUpdate.jpg",
+    "path": "/bilder/wiki/asdupdate-cd5e457c.jpg",
+    "sha256": "4cffbeebe71468938ef2d8e52ca15f249a073b66293daf055855efb939b811b8",
+    "bytes": 53837
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/b0/Assistent-Auswahl.png",
+    "path": "/bilder/wiki/assistent-auswahl-74bad494.png",
+    "sha256": "67be4877b1f077c30e3f1b1ac22fa94021cc2af646536f07c8b7ea3a1b44bb18",
+    "bytes": 8588
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/00/Assistent-Berichtsstil.png",
+    "path": "/bilder/wiki/assistent-berichtsstil-3b54857b.png",
+    "sha256": "3c95469cc005f08a2846057691947087e9e1e741de9aa48e0868e9aba1a869ee",
+    "bytes": 19790
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/33/Assistent-Datenfelder.png",
+    "path": "/bilder/wiki/assistent-datenfelder-f44a323e.png",
+    "sha256": "4503e816979bc01960019ea7b6112e67effb780860186e11bf3554ef08fe42a6",
+    "bytes": 19273
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/94/Assistent-Layout.png",
+    "path": "/bilder/wiki/assistent-layout-0b4f7c0b.png",
+    "sha256": "1a84c1bec1dfc97ec2c292393203e582d4ef51f7464d5b5118a3e289ccb139e2",
+    "bytes": 20542
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/39/Assistent-Uebersicht.png",
+    "path": "/bilder/wiki/assistent-uebersicht-eb4256f2.png",
+    "sha256": "29cd914fd78a02440fca3df8ffb49717da40d909b43bcb7da0043f4b2713f939",
+    "bytes": 16544
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/98/Assistent-Vorschau.png",
+    "path": "/bilder/wiki/assistent-vorschau-5fa738fc.png",
+    "sha256": "2dcca46c1b7be04e60f0c1e1a4126a6ad72ece1704d445c6369916d6d6ff7585",
+    "bytes": 7140
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/e8/Attributsfilter01.jpg",
+    "path": "/bilder/wiki/attributsfilter01-60067369.jpg",
+    "sha256": "a7080c9ed845d21988fde252b6482232db22df0b69829bc465a5357117659929",
+    "bytes": 46957
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/e5/Attributsfilter02.jpg",
+    "path": "/bilder/wiki/attributsfilter02-260da80a.jpg",
+    "sha256": "78df6781b95aaa0b1818344d4018717b0f975c39adffb91a203fd1bec1225ce9",
+    "bytes": 38102
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/5f/Aufnahmejahr.png",
+    "path": "/bilder/wiki/aufnahmejahr-656335e5.png",
+    "sha256": "49c760f5ce5e2469035ac19ec43384e0803bd77eeb2b7684e63d6094180b0b8c",
+    "bytes": 14544
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f2/Auswahl_01.jpg",
+    "path": "/bilder/wiki/auswahl-01-60c1b1b0.jpg",
+    "sha256": "d757c5c5dac84402adfe4711d561a4941fc8119b3f85e055fe63fad13517f234",
+    "bytes": 41720
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/cb/Auswahl_alle_Einwilligungen_setzen.png",
+    "path": "/bilder/wiki/auswahl-alle-einwilligungen-setzen-10364248.png",
+    "sha256": "34dc2672fb5e51022fb5618aff83cb96854903ea1920c263158842f1a84df453",
+    "bytes": 5915
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/36/BAN_Export_Abschluss.png",
+    "path": "/bilder/wiki/ban-export-abschluss-1b15a7da.png",
+    "sha256": "79752a3794cc7bb33462cb002f4ffa34d132ec97a69e98e8daa9ab24b5ecdaf6",
+    "bytes": 19936
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d6/Beispiel.png",
+    "path": "/bilder/wiki/beispiel-8f819ddc.png",
+    "sha256": "ad76d14b4a117605b4e3706da06816fea62e4b1f3fd215235d1ad37060195706",
+    "bytes": 1989
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/6c/Benutzergruppen.png",
+    "path": "/bilder/wiki/benutzergruppen-55ff3316.png",
+    "sha256": "900d743fed1f557d1cdd8ad6373ce6afbbf322113523026fdacce946104c52d4",
+    "bytes": 118008
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/43/Benutzerverwaltung_plugin.jpg",
+    "path": "/bilder/wiki/benutzerverwaltung-plugin-027dbd7d.jpg",
+    "sha256": "fd8119fabfac6268cbdae475de2854ba5fa0917627fe367e74b4e17c5a9cd591",
+    "bytes": 53024
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/47/Best%C3%A4tigung_alle_Einwilligungen_setzen.png",
+    "path": "/bilder/wiki/bestaetigung-alle-einwilligungen-setzen-a63e1fc1.png",
+    "sha256": "aa4bee15a151901f4b9f9b6b1c696c337c19a145dd25b8ad6a9691ecba3cdf57",
+    "bytes": 7702
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/26/Bild_2022-01-03_104947.png",
+    "path": "/bilder/wiki/bild-2022-01-03-104947-1dd79bdf.png",
+    "sha256": "ce1ab69d549d51ffb2601f61ed087c4e006aba367821192bce677d907a2ae553",
+    "bytes": 259422
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/47/Bilinguale_bescheinigungen.png",
+    "path": "/bilder/wiki/bilinguale-bescheinigungen-813a3527.png",
+    "sha256": "bcb19ccc43c6c904aed77c621ffd01c184aa9532e2dfa5f959fc0da2cecff3fd",
+    "bytes": 73246
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/0f/BK_Abschluss_A01.png",
+    "path": "/bilder/wiki/bk-abschluss-a01-9c93bccd.png",
+    "sha256": "8d24e4b165ae13d3060eb83417a464b06406bd04710528a983e381771d3afe35",
+    "bytes": 27408
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d5/BK_Abschluss_A03.png",
+    "path": "/bilder/wiki/bk-abschluss-a03-17746248.png",
+    "sha256": "1ad04aff8f5e7fc1fdc056be096b8e5d9a46d83c205edc1081b5ef67a91b4dbd",
+    "bytes": 28408
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/a1/BK_Abschluss_A12.png",
+    "path": "/bilder/wiki/bk-abschluss-a12-0ddfabda.png",
+    "sha256": "67880c7007233ba4bd52048245bada72b13e4a7c70c0edd83375c97f0109d5b4",
+    "bytes": 26042
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/ea/BK_Abschluss_A13.png",
+    "path": "/bilder/wiki/bk-abschluss-a13-43a443eb.png",
+    "sha256": "756175d86fb53d5f2aa0d58474c78037ca3c569907e45ab74a8b08dacf524704",
+    "bytes": 24157
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/0f/BK-Abschluss-AnlageA-Teil1.png",
+    "path": "/bilder/wiki/bk-abschluss-anlagea-teil1-2c4281b1.png",
+    "sha256": "05c11ea329197b7b83f447076bc8fab03694a141a386c236f495b2fd61488490",
+    "bytes": 5401
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d7/BK-Abschluss-AnlageB-Teil1.png",
+    "path": "/bilder/wiki/bk-abschluss-anlageb-teil1-4f95e7b5.png",
+    "sha256": "fcdcdd49a62bac8c6dd20988ea63c64525653aac87ec7264848c5bfbf7cb6a8f",
+    "bytes": 6676
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/25/BK-Abschluss-AnlageC-Teil1.png",
+    "path": "/bilder/wiki/bk-abschluss-anlagec-teil1-bd417f76.png",
+    "sha256": "1059c99a7a07b225ed832ee783eec1571334c6666afa108ac31c97649e0f094b",
+    "bytes": 7064
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f5/BK-Abschluss-AnlageC-Teil2.png",
+    "path": "/bilder/wiki/bk-abschluss-anlagec-teil2-7e030c01.png",
+    "sha256": "d6093a4f21c81ad695d2a6fa0bbaef9f73d0be7c36919981117ebd456247dd65",
+    "bytes": 3684
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/2a/BK-Abschluss-AnlageE-Teil1.png",
+    "path": "/bilder/wiki/bk-abschluss-anlagee-teil1-59cbfb50.png",
+    "sha256": "27b4a581a5f3a631a8c41b5f407a9943feb0f964f3d5221c95579ab4dab89200",
+    "bytes": 6142
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d8/BK_Abschluss_B06.png",
+    "path": "/bilder/wiki/bk-abschluss-b06-60c3c218.png",
+    "sha256": "bd389395f446820863273a549233a3df537d1e15861f261a73562bcd190c60fd",
+    "bytes": 25017
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/07/BK_Abschluss_B07.png",
+    "path": "/bilder/wiki/bk-abschluss-b07-3a4f57c6.png",
+    "sha256": "1fe5e0ed53879d4e208d21f6fd884ce591bac846f3c55f2d47770d4f436baa40",
+    "bytes": 26034
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/0d/BK_Abschluss_C01.png",
+    "path": "/bilder/wiki/bk-abschluss-c01-a42a328f.png",
+    "sha256": "3dd7ab13e1f02127f330b74c87cc4a4e8cb9caa5f463e907dd14c5dcc308c6ae",
+    "bytes": 35875
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/31/BK_Abschluss_C02.png",
+    "path": "/bilder/wiki/bk-abschluss-c02-d65fd7d7.png",
+    "sha256": "929892460a1f68a4c3ce6544e0647966790c35455bddd62be6bffa3d69e05d88",
+    "bytes": 30541
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/91/BK_Abschluss_C05.png",
+    "path": "/bilder/wiki/bk-abschluss-c05-50a35778.png",
+    "sha256": "208f2f3dfd2ccf906efa4e125fe6b691ef1c36f36d4b4da95714570b388a114f",
+    "bytes": 26716
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/a2/BK_Abschluss_C06.png",
+    "path": "/bilder/wiki/bk-abschluss-c06-10ba6351.png",
+    "sha256": "0d5b7508dbb4f7a3b0fd5f94ae6fd05d1fd1f0c2416d0ff01e1fcb6924e942aa",
+    "bytes": 34428
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/75/BK_Abschluss_C08.png",
+    "path": "/bilder/wiki/bk-abschluss-c08-259a13c5.png",
+    "sha256": "8b4a9a409707223b27e6cb4b0f9322a1bdc79ebec6729ded0132a705d6161fcf",
+    "bytes": 34065
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/09/BK_Abschluss_E02.png",
+    "path": "/bilder/wiki/bk-abschluss-e02-cdcc7f76.png",
+    "sha256": "93c00c24f43b15ac3663f9b52dc31f8c15821520c38d39b769c545fd26796447",
+    "bytes": 31948
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/c3/BK-Abschluss-Reiter.jpg",
+    "path": "/bilder/wiki/bk-abschluss-reiter-da72b48d.jpg",
+    "sha256": "9cdacbdd4ca4be6f8639d0fb90840e5f1c5fd2cd654c438fa178f0d1747a6f47",
+    "bytes": 109354
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/b4/BKF%C3%A4chereinstellungen.jpg",
+    "path": "/bilder/wiki/bkfaechereinstellungen-5725d663.jpg",
+    "sha256": "c4d040a705e2e4a42b5b69a9f493670a29d52283b3ed6a227291c014aa4beb79",
+    "bytes": 27439
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/0f/Branche.jpg",
+    "path": "/bilder/wiki/branche-2845b4f1.jpg",
+    "sha256": "5f733731db47a9213fb8a68589f6626d2da281dce1e64f4b8655ae3ebb8fb2ea",
+    "bytes": 3650
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/79/Chat_starten.jpg",
+    "path": "/bilder/wiki/chat-starten-f11f03c1.jpg",
+    "sha256": "23d1a895da13eb2c6b8ff2b86282d667349de0301df9b2b374ffb8928235018e",
+    "bytes": 15978
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/55/Chatmodul01.jpg",
+    "path": "/bilder/wiki/chatmodul01-af8829b7.jpg",
+    "sha256": "8d83841ab4a75b00918f5f97e51071f91ce74dafcd36fb9e9c55f90169e059dc",
+    "bytes": 31990
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/eb/Chatmodul02.jpg",
+    "path": "/bilder/wiki/chatmodul02-92bd3b9e.jpg",
+    "sha256": "3e06086e8e4d6b9b6972b0caf6599a860ebc8710a7695fe3a8e45723732d44a1",
+    "bytes": 37077
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/df/Chatmodul03.jpg",
+    "path": "/bilder/wiki/chatmodul03-67e33229.jpg",
+    "sha256": "c2864897ccfc4c01a6c13d8a49a0e466f79b1c951ef1b81a1bcf9121b9e28e7c",
+    "bytes": 34036
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/30/Chatmodul04.jpg",
+    "path": "/bilder/wiki/chatmodul04-54eeaa5b.jpg",
+    "sha256": "e75ccf25c325564b06aa8f11aaa602fb416b0612c7b4950f027b428e25bf9a9c",
+    "bytes": 46974
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/95/Container_01.jpg",
+    "path": "/bilder/wiki/container-01-113c694e.jpg",
+    "sha256": "ff414805dd4e0b55a346ca3c391ebb02c987a9ba26b1efdbcf3de254e6651dca",
+    "bytes": 12128
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/65/Container_02.jpg",
+    "path": "/bilder/wiki/container-02-f3bc06a7.jpg",
+    "sha256": "69a4033a985232c623b76778cfd035ba735ff702d46a9d8fa86eded7bcc5a161",
+    "bytes": 13330
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/4a/Container_02a.jpg",
+    "path": "/bilder/wiki/container-02a-a97da895.jpg",
+    "sha256": "6d53e1287225d3e1147a3964e190b2394de089d298d19e4e12dca6858ea2f1c5",
+    "bytes": 4149
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/ee/Container_re_Maus.jpg",
+    "path": "/bilder/wiki/container-re-maus-321a85cc.jpg",
+    "sha256": "7ef1af1a913527efc7d3d1d8de87d004cc7b019f2d538497c0c0807b4ac5e744",
+    "bytes": 91646
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/85/Dateimaske.jpg",
+    "path": "/bilder/wiki/dateimaske-27d19d65.jpg",
+    "sha256": "53372e41a0a0c4fbacafa51a8a0aaf24b7d736a7f41e915fa07b36cb00b41603",
+    "bytes": 75597
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/48/Datenaustausch_01.jpg",
+    "path": "/bilder/wiki/datenaustausch-01-ac25ce1a.jpg",
+    "sha256": "7f4e66fb2580a2af09095cf1b0f929c415863bd58aa8aa2251e57dc0f9a85fb1",
+    "bytes": 33423
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/22/Datenaustausch-Schildweb.png",
+    "path": "/bilder/wiki/datenaustausch-schildweb-d1efa1d5.png",
+    "sha256": "7b3914446a4b494a1767f919fa408a723aabdb2d11f99ab88f658683ce9a22c7",
+    "bytes": 14425
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/be/Datenbankdatei.jpg",
+    "path": "/bilder/wiki/datenbankdatei-efc922f3.jpg",
+    "sha256": "6630cccafdbcd5c3334dc877deb31c96012bcffc3444ed56ab2355a354588242",
+    "bytes": 2852
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/ce/Datenexport_Excel.jpg",
+    "path": "/bilder/wiki/datenexport-excel-025d4447.jpg",
+    "sha256": "b9a18d01fee9cb8ebbeb26ff528f0ee6119b28710fcd90d1547c4cca0f474842",
+    "bytes": 178089
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/b4/Datensicherung.jpg",
+    "path": "/bilder/wiki/datensicherung-26f351c7.jpg",
+    "sha256": "8beaf3179a6d2f879dd30fad87f7896222d5669c4f725a87279c4efdcabe6842",
+    "bytes": 48001
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/1/16/DB-kopieren-01.png",
+    "path": "/bilder/wiki/db-kopieren-01-796c0225.png",
+    "sha256": "3fb398f621355a2826e54ed48cedfb99e1c856a95544d15af63b5d0f705c2b20",
+    "bytes": 37305
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/7c/DB-kopieren-02.png",
+    "path": "/bilder/wiki/db-kopieren-02-163262af.png",
+    "sha256": "1c1dccadefeaf3adf905fae1a631c356b95570f2c39e389ab20df0e5cc00e95f",
+    "bytes": 20499
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/4f/DB-kopieren-03.png",
+    "path": "/bilder/wiki/db-kopieren-03-2fa2f264.png",
+    "sha256": "db3552264d0763e7ad774e51f993ba8b889f34934159bf3e149b8cd48ab0edb1",
+    "bytes": 11778
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/6e/DB-kopieren-04.png",
+    "path": "/bilder/wiki/db-kopieren-04-0d6b5da2.png",
+    "sha256": "47d33be745689642f5d2bf4e87e08e51d625795d4e7d9ece0876b7a29ccf79d3",
+    "bytes": 6737
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/7b/DB-kopieren-05.png",
+    "path": "/bilder/wiki/db-kopieren-05-2fea1391.png",
+    "sha256": "38927c0747d2cbfb87bf217a3ef6cc15d9429c67cda01ef9c53a2fa38ae5284c",
+    "bytes": 3316
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/21/DBConfigEXE.jpg",
+    "path": "/bilder/wiki/dbconfigexe-3f2c985a.jpg",
+    "sha256": "1ce7199813f6c1b7623043b5f6858542d4d9caf7aa285bfd9afe3203fc4b0088",
+    "bytes": 30461
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/38/DBConfigEXE2.jpg",
+    "path": "/bilder/wiki/dbconfigexe2-b11106bf.jpg",
+    "sha256": "516d94c80a9447511e2b89d53c2e025e058408a5872bc957bfa9a1a81025ff50",
+    "bytes": 27700
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/63/Details_Unterrichtsf%C3%A4cher.JPG",
+    "path": "/bilder/wiki/details-unterrichtsfaecher-6b38169a.jpg",
+    "sha256": "87f0945db10fb2a757a6afbb3fe813ed0d601b275bdd086f097ca541c395cd69",
+    "bytes": 45389
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/b7/DFKlassenart1.png",
+    "path": "/bilder/wiki/dfklassenart1-961315cf.png",
+    "sha256": "0674e50d3a2f2bda5963c668dd9412edcaf082322e5bc48876652e6d667365fa",
+    "bytes": 47639
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/62/DFKlassenartGP.png",
+    "path": "/bilder/wiki/dfklassenartgp-ec71e692.png",
+    "sha256": "6d778fcea67714e29c31cc2936be7148a3902030fd63ddcde8e78063f94a621b",
+    "bytes": 21771
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/1/1a/DFSchulbesuch.png",
+    "path": "/bilder/wiki/dfschulbesuch-d466b645.png",
+    "sha256": "534e837d0a610083136a33272444e4a361376696870f9020846b4a49182338a7",
+    "bytes": 21529
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/6d/DFSchulbesuchG.png",
+    "path": "/bilder/wiki/dfschulbesuchg-6339a72f.png",
+    "sha256": "94383b0ce088d6485f312c8569394f5cc0e07e2834355875ff1d78502a3f4d28",
+    "bytes": 12105
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/48/DFVorherigerAbschnitt.png",
+    "path": "/bilder/wiki/dfvorherigerabschnitt-8118f06c.png",
+    "sha256": "e58f1bdbdba1ddfe69cc60a961a4ddfebc34c3759aa36d6e88eef50dad3a255d",
+    "bytes": 40603
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/bf/DFVorherigerAbschnittGP.png",
+    "path": "/bilder/wiki/dfvorherigerabschnittgp-a0816a53.png",
+    "sha256": "100058935aad91c2057df6f3e749646ad996bf0240f917017ff77d9340fc7ffa",
+    "bytes": 18670
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/cd/Dokumentenverwaltung-01.png",
+    "path": "/bilder/wiki/dokumentenverwaltung-01-1fa2303c.png",
+    "sha256": "db2e31ae1a5127f628ac1bae3739c64eafadae56a050e1ac615aa25482adf11a",
+    "bytes": 33190
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/09/Dokumentenverwaltung-02.png",
+    "path": "/bilder/wiki/dokumentenverwaltung-02-cab4dc55.png",
+    "sha256": "deaddc2d95ee58def855f8841a3c09cd2877c2b091f1fa07ecad98f2bd60bf16",
+    "bytes": 29947
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d2/Dokumentenverwaltung-03.png",
+    "path": "/bilder/wiki/dokumentenverwaltung-03-b7bb07c3.png",
+    "sha256": "b70d657a4a1b2310eace2b558e409ff631feba6ad50e520b643b64400c09f8fe",
+    "bytes": 7139
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/c5/Dokumentenverwaltung-04.png",
+    "path": "/bilder/wiki/dokumentenverwaltung-04-aef82aac.png",
+    "sha256": "c3c8bddbf88e6c2aff2f1a59ef4e5586fa653a00e882c35d559a80e501af244e",
+    "bytes": 22293
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/a9/Dokumentenverwaltung-05.png",
+    "path": "/bilder/wiki/dokumentenverwaltung-05-ce5b1276.png",
+    "sha256": "5d3f08015b9ab531415d070606671724f674a9f2114f396ea0bfb1ae97656a80",
+    "bytes": 104364
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/63/Dokumentenverwaltung-06.png",
+    "path": "/bilder/wiki/dokumentenverwaltung-06-cc4a930d.png",
+    "sha256": "049f902199b70044bebc76da9e4c89404894c2cb4ed96a185170df20bd518813",
+    "bytes": 118965
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/c0/Dokumentenverwaltung-07.png",
+    "path": "/bilder/wiki/dokumentenverwaltung-07-2b615279.png",
+    "sha256": "53442d1b5b653a58aee4f37f033aad337a8f50892c7dfa02286764b7e38e9888",
+    "bytes": 24422
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/34/Druck-Auswahl.png",
+    "path": "/bilder/wiki/druck-auswahl-d5de1372.png",
+    "sha256": "4699ec152961357ec66af5ce97e1c88b6daa9eddbb9296f2e70679b7ba60aaee",
+    "bytes": 9111
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/22/Druck-Druckauswahl.png",
+    "path": "/bilder/wiki/druck-druckauswahl-7e5f1175.png",
+    "sha256": "980100cbc03a15914a97e83555d167762e6472bb1f0a21f0f10a087545cb1580",
+    "bytes": 14431
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/6d/Druckausgabe_01.jpg",
+    "path": "/bilder/wiki/druckausgabe-01-0a82bab5.jpg",
+    "sha256": "43519c2862809c8a535e9649a428e34f5dcdba7e830035ce305b93c4c81a40f4",
+    "bytes": 19445
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/0a/Druckausgabe-Explorer1.png",
+    "path": "/bilder/wiki/druckausgabe-explorer1-2c3d3263.png",
+    "sha256": "3c6a30f2320ab644a28afd79a482a7f5b3c65e2483639568ab817a88cedc6767",
+    "bytes": 23920
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/c4/Druckausgabe-Explorer2.png",
+    "path": "/bilder/wiki/druckausgabe-explorer2-f865d8a2.png",
+    "sha256": "9493e4faedc132dd149fcf48b65f493a6f8ff7ed73f4a606bfcb028f25c23f86",
+    "bytes": 45493
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f6/Druckbutton.jpg",
+    "path": "/bilder/wiki/druckbutton-0814191b.jpg",
+    "sha256": "6cb210b4ae05d6de4d8677e72bf0d3fcf6b19181136ea890a77437a93bb0eeb5",
+    "bytes": 12422
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/51/Drucken-Standard1.png",
+    "path": "/bilder/wiki/drucken-standard1-5854d7d0.png",
+    "sha256": "62dec2f65706506cdeb36cd903efab3a7c3f3edb3473018143a13f7d5380898c",
+    "bytes": 10760
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/a4/Drucken-Standard2.png",
+    "path": "/bilder/wiki/drucken-standard2-91193704.png",
+    "sha256": "39a1fcf292b99a07a5591bc485160d8f53541bcc9d91e2d8e6037db5718fdb8a",
+    "bytes": 17100
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/8c/Drucken01.png",
+    "path": "/bilder/wiki/drucken01-84563ab6.png",
+    "sha256": "1f965e91a8933fb7a94fb5d52f47bbbdf9f427c5a1eae3cbbba441255795f2da",
+    "bytes": 13957
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/7a/Drucken02.png",
+    "path": "/bilder/wiki/drucken02-38b61c77.png",
+    "sha256": "aec6dfdfffd5bce61913582e4154fa3d4e91f10ad4473ff1e1d4f8125165359b",
+    "bytes": 54831
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/db/EigeneSteuerdatei.png",
+    "path": "/bilder/wiki/eigenesteuerdatei-082da698.png",
+    "sha256": "b89e6e89d881c84440eb1799b088433622ee9f69c9c9e7e43c1d632222028aa2",
+    "bytes": 24377
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/ed/EintragKompetenzen.png",
+    "path": "/bilder/wiki/eintragkompetenzen-eff6b18f.png",
+    "sha256": "8e5858f8502ecae975f40dbbfdaf9c0b0c00bad9ab65d3e6a3dee161c94bed75",
+    "bytes": 25970
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f5/Einwilligungen_Lehrer.png",
+    "path": "/bilder/wiki/einwilligungen-lehrer-c6c48e12.png",
+    "sha256": "3379f2d0cf7869b9b51ac898f7f7da1647a679815e01b3ebc295108f789af7fb",
+    "bytes": 17567
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/69/Einwilligungen001.png",
+    "path": "/bilder/wiki/einwilligungen001-5b57d477.png",
+    "sha256": "3ce39f3a38a58a7e28922b2d0ea79f17384a3076741ad96972f5bdaaf988444e",
+    "bytes": 30748
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/c2/Einwilligungen002.png",
+    "path": "/bilder/wiki/einwilligungen002-51d6ace4.png",
+    "sha256": "5e360217c9177f0918d769303fe8a3065f5a7373b73d690ffc9efda6033a0888",
+    "bytes": 16272
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f4/Einwilligungen003.png",
+    "path": "/bilder/wiki/einwilligungen003-4d221ca3.png",
+    "sha256": "bd1474ad372205c05df9e04a0051463480d66445897befe1a2be4114c70fab5f",
+    "bytes": 31310
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/79/Einwilligungen004.png",
+    "path": "/bilder/wiki/einwilligungen004-9f253edf.png",
+    "sha256": "f95882c69b8e28c21652d12bd873ab6ef71f7dd75b666c98e18dc8b4e43c5893",
+    "bytes": 18042
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/43/Einwilligungen005.png",
+    "path": "/bilder/wiki/einwilligungen005-ce7a9f0a.png",
+    "sha256": "497d2ebed96b36fc0d26f9eb04789e5a2aff502408ad5f805e1317dbeabb9f66",
+    "bytes": 25867
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/4c/Einwilligungen006.png",
+    "path": "/bilder/wiki/einwilligungen006-ede3bc39.png",
+    "sha256": "b8ccef42c7969311c7e1580c622a672ae54c321afbdc3fdc600bcfe19e6dc249",
+    "bytes": 26871
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/c3/Einwilligungen007.png",
+    "path": "/bilder/wiki/einwilligungen007-eebbf5f0.png",
+    "sha256": "d301b249f47ac77b4d37a8bbef8286a8a4411dffb8e01d6f1d018de23df2c4db",
+    "bytes": 6103
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/86/Emailnewfile.png",
+    "path": "/bilder/wiki/emailnewfile-5575fb4a.png",
+    "sha256": "630a6250934d7caa1e163153dc1c2101933160e2cbfdcef378822284ace86015",
+    "bytes": 26802
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/0b/Emailsettings.png",
+    "path": "/bilder/wiki/emailsettings-820f18f6.png",
+    "sha256": "9073d2910a8ff2f6f0c4b188b6ccdeacfab4014d217329a502c3c05b0989e407",
+    "bytes": 8853
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/cb/ENM_wine.jpg",
+    "path": "/bilder/wiki/enm-wine-1758a378.jpg",
+    "sha256": "fba19cf81a78485963e4aa9f26b86692c7ada0a5c5d421c75196e75f3b8861ce",
+    "bytes": 293766
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/07/Entlassgr%C3%BCnde.jpg",
+    "path": "/bilder/wiki/entlassgruende-23f143b4.jpg",
+    "sha256": "7103ced35778030d8115fb6cbb4aa2ea3c6524627c1134fd370e66ec554fc5c0",
+    "bytes": 41120
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/65/Erzieher-01.jpg",
+    "path": "/bilder/wiki/erzieher-01-77cb88cb.jpg",
+    "sha256": "9a9d94a384834bc6f24f98fcdd080b7d3b97670ad26890813967d44c7297d6f9",
+    "bytes": 101646
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d0/Erzieher-Arten.jpg",
+    "path": "/bilder/wiki/erzieher-arten-bb17d5e0.jpg",
+    "sha256": "3a3c0b1c7a225425af241fe35f47159d66cc5d0933d30751e14238693455fab5",
+    "bytes": 52723
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/9d/Erzieher-mit-Funktionen.jpg",
+    "path": "/bilder/wiki/erzieher-mit-funktionen-f7024d6e.jpg",
+    "sha256": "a0db3f67d3f4726b8b1a30c7a7780b33f05ba15cd17eb1269a883938364f637e",
+    "bytes": 111341
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/db/Erzieherbrief-00.png",
+    "path": "/bilder/wiki/erzieherbrief-00-1084fa37.png",
+    "sha256": "e947758dbf727d78703d1fd2d1a6a6c87671aa073a73cb830c0659635f0a8934",
+    "bytes": 32140
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/8c/Erzieherbrief-01.png",
+    "path": "/bilder/wiki/erzieherbrief-01-8a41d13c.png",
+    "sha256": "61952a4c3bf0ff829e6223a09ddb0624b8a7d4dbd6960a751ec3e182a605e8d3",
+    "bytes": 15755
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/25/Erzieherbrief-02.png",
+    "path": "/bilder/wiki/erzieherbrief-02-be5f8363.png",
+    "sha256": "6f14dc7e2f9f2da97a8e85214ca6842735f848b30bc25d38885faa1ec9dfda5e",
+    "bytes": 175355
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/7d/Erzieherbrief-03.png",
+    "path": "/bilder/wiki/erzieherbrief-03-d7d70279.png",
+    "sha256": "b8bf2ee577703bce30f025d158e5af7812752175c315fafe394b0f20e302e9a3",
+    "bytes": 33031
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/6a/Erzieherbrief-07.png",
+    "path": "/bilder/wiki/erzieherbrief-07-1d4a3366.png",
+    "sha256": "26bd3356ae8cd91373199de946d9579d2d21e2ae4980ff68123dba38b8a18da4",
+    "bytes": 8206
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f5/Erzieherbrief-08.png",
+    "path": "/bilder/wiki/erzieherbrief-08-d3d4b090.png",
+    "sha256": "a24c483dae54aa12843b3a5bd52413e269e52588385d727469662addb7ec13d6",
+    "bytes": 24019
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/30/Erzieherbrief-09.png",
+    "path": "/bilder/wiki/erzieherbrief-09-b98f1899.png",
+    "sha256": "f18c210733afcf7d77722be25e3c787fb95308d816b21ba0ad339605ff46e8f2",
+    "bytes": 36071
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/fe/Erzieherbrief-10.png",
+    "path": "/bilder/wiki/erzieherbrief-10-2eafeffb.png",
+    "sha256": "e710480ac82fce4014a84f7751a570bb08f5aba9b15182f46bd42e9c5ed3f2d9",
+    "bytes": 20044
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/c9/Erzieherfunktion-01.png",
+    "path": "/bilder/wiki/erzieherfunktion-01-ba32f427.png",
+    "sha256": "e669ddfc46b08f9792253865b2fd9b8b22a2ada52e26169b3b9f6c8cafcbceae",
+    "bytes": 32031
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/6f/Erzieherfunktion-02.png",
+    "path": "/bilder/wiki/erzieherfunktion-02-e7cc3847.png",
+    "sha256": "7d7d2a4c426ce886bae309e61d3b8ca29cd1969d44c7f91f09d103296bd9fb4e",
+    "bytes": 28836
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/8c/Erzieherfunktion-03.png",
+    "path": "/bilder/wiki/erzieherfunktion-03-83307b8e.png",
+    "sha256": "3b2bc170978b09ad451afdfc6930e07108a5b599cffecc1477c2a0d86b46a4a6",
+    "bytes": 15411
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/98/Excelexport.jpg",
+    "path": "/bilder/wiki/excelexport-d2c5edb1.jpg",
+    "sha256": "7f807d7a39101ecec680e4b745ac537814ef0f0f9ab6aa233736a9298483801d",
+    "bytes": 43934
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/42/Exchange.png",
+    "path": "/bilder/wiki/exchange-ee265ce4.png",
+    "sha256": "65a250ebd2b5688f885adf0cbc259dbeff95c98437df64b12baac822b8bcc23f",
+    "bytes": 27243
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/3f/Explorer-Einstellungen.png",
+    "path": "/bilder/wiki/explorer-einstellungen-d531cfa1.png",
+    "sha256": "b9bf4e2cc17068a062bc484d1f4f26da7309b2cb5bbd222c6cbf5b5902066a50",
+    "bytes": 11281
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/fa/Explorer-Symbole.png",
+    "path": "/bilder/wiki/explorer-symbole-4f6f280f.png",
+    "sha256": "e98a1cdad4fb1a6937aed1709b3dd6da91f6706e43a6788819c3de2a3cc8077f",
+    "bytes": 19941
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/a7/Export-Excel-01.png",
+    "path": "/bilder/wiki/export-excel-01-0fb37ddb.png",
+    "sha256": "75688b5983fab9437239a82b1653c4d0df84a65ddf5d3073dac5f82ad1e42174",
+    "bytes": 14748
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/ee/Export-Excel-02.png",
+    "path": "/bilder/wiki/export-excel-02-fc1cfe67.png",
+    "sha256": "d7d8dac63cbdf0d246f0a870d7ef64cd233b35bcd3f74d7486ecf6dc7cb26332",
+    "bytes": 445746
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/7c/Export-Excel-03.png",
+    "path": "/bilder/wiki/export-excel-03-c4a9fade.png",
+    "sha256": "2d141176e9413ed01c74af1fa9bdde69b6dbdcae92b5396a1d42de8269966ac8",
+    "bytes": 129384
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/62/Export-Excel-04.png",
+    "path": "/bilder/wiki/export-excel-04-1cdc4c12.png",
+    "sha256": "e451da7ced4f0cd3aa6788339050e6762021e1f18bba6b6847efd7b52ebb97a3",
+    "bytes": 88746
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d0/Export-Excel-05.png",
+    "path": "/bilder/wiki/export-excel-05-2728dfea.png",
+    "sha256": "f94f4cafdb2975df66867f592aff24fbb9fade71cb39daa6766351868cec1f0a",
+    "bytes": 102022
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/48/Export_Iserv.png",
+    "path": "/bilder/wiki/export-iserv-11d67fe0.png",
+    "sha256": "6169af9603dd50a9d6c813ac1b9d3c1f13b39691c9b77e8825f8b848ad286976",
+    "bytes": 51419
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/8c/Export_Logineo_LMS.png",
+    "path": "/bilder/wiki/export-logineo-lms-4e8d2c4a.png",
+    "sha256": "bdf6bf91dd8d5db0706d62548a2aad1b01da68d6dfb25954678cfbf8a211dc4b",
+    "bytes": 40585
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/2b/Export_Plattformen.png",
+    "path": "/bilder/wiki/export-plattformen-f37571da.png",
+    "sha256": "ca6ae91ec36099c08b40d171a34e5ec5b5c28a089c1c9a839ed14bf2805aefb0",
+    "bytes": 23290
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/bd/Export_SDS.png",
+    "path": "/bilder/wiki/export-sds-a5052c93.png",
+    "sha256": "0aae47efcf061f9977ddc6d116db138f4029f137f8b9006fa48f5dbeec14f550",
+    "bytes": 51722
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/7f/Export_XLM_Logineo.png",
+    "path": "/bilder/wiki/export-xlm-logineo-daede597.png",
+    "sha256": "744888a3823fe3d5da89d48b1ed43c544594b582742041969199d21d5ec36683",
+    "bytes": 23839
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/3c/ExternImport1.jpg",
+    "path": "/bilder/wiki/externimport1-cd80cdfd.jpg",
+    "sha256": "14ff533779489e2eb7ad2d39fea1af151791dc0a25d7f1f84d9b76afd6d03270",
+    "bytes": 16710
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/c5/ExternImport2.jpg",
+    "path": "/bilder/wiki/externimport2-c36ca6d2.jpg",
+    "sha256": "17badc0e11d943c798caebb509ac04ae318ab4577dd069fa0c626463d484e0cd",
+    "bytes": 53409
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/c4/ExternImport4.jpg",
+    "path": "/bilder/wiki/externimport4-c425934a.jpg",
+    "sha256": "fddf7cad017c0c7df70228f12168724ecc1e292452e8b9a3463e49463b290d06",
+    "bytes": 82430
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/8d/ExtMod-01.png",
+    "path": "/bilder/wiki/extmod-01-e99f49ff.png",
+    "sha256": "d3eeabb023df756c333df714d360b796bd9e3701a36b649b8e7672b080d91e27",
+    "bytes": 59210
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/45/ExtMod-02.png",
+    "path": "/bilder/wiki/extmod-02-028ecfc5.png",
+    "sha256": "2e920238c11cd61fcd8cfaf5a1d05534410854ecc0c251810f518c22a55a2426",
+    "bytes": 57147
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/71/ExtMod-03.png",
+    "path": "/bilder/wiki/extmod-03-dc2b7904.png",
+    "sha256": "e79608a1a45e1f5299fd4ad8869e4439529ffbbf32ea80f8b002166d4cea7886",
+    "bytes": 7740
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f5/ExtMod-04.png",
+    "path": "/bilder/wiki/extmod-04-e2686170.png",
+    "sha256": "939d16647586a8a2895242a2f3908ce180ea78b71f34125b4e2ba50144e06f2f",
+    "bytes": 13089
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/53/ExtMod-05.png",
+    "path": "/bilder/wiki/extmod-05-b8e8fdd5.png",
+    "sha256": "24a3171adbe7045f14810caeb31185f5ee1b596655d47f6fa3c1698d0cbd003e",
+    "bytes": 2900
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/7d/ExtMod-06.png",
+    "path": "/bilder/wiki/extmod-06-4cf8b625.png",
+    "sha256": "bf50c67b3c636f884ca29cd4c7a8799b23e12d7d8a91d1f64d6bacd3c85282bb",
+    "bytes": 191298
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/4f/ExtMod-07.png",
+    "path": "/bilder/wiki/extmod-07-0dffa986.png",
+    "sha256": "1a7b36313ef8e383a858b283611eab27c4b3aeca390fd6dff1894a0c70b84a0f",
+    "bytes": 107754
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/c3/ExtMod-08.png",
+    "path": "/bilder/wiki/extmod-08-b7fff8d8.png",
+    "sha256": "9974b67cd0883073b7e5f060e753b671e34fdbda9a12befc9f013551039d2726",
+    "bytes": 25169
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/02/ExtMod-09.png",
+    "path": "/bilder/wiki/extmod-09-e36cd5aa.png",
+    "sha256": "67aeadeef6cbb6deb01065036b82f8e0c14a88697b7cf4464d23a5d58c0cc539",
+    "bytes": 4884
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/01/ExtMod-10.png",
+    "path": "/bilder/wiki/extmod-10-6f6a06d4.png",
+    "sha256": "6144cf5e73928383e2132301b57e61852eddad1c9f50b7b267e400447125ed71",
+    "bytes": 16158
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/05/Extras_01.jpg",
+    "path": "/bilder/wiki/extras-01-e0028f19.jpg",
+    "sha256": "a0b283e54d4f28ef06216e986ac651022ff68ac51e73574fa85a93e2c2c1536c",
+    "bytes": 42315
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/de/Extras.jpg",
+    "path": "/bilder/wiki/extras-5a623853.jpg",
+    "sha256": "98ed1fe55d59704a169af33cc53753a2304aec87d4c2a642618920c149474ac2",
+    "bytes": 43068
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/37/FachbezogeneBem-00.png",
+    "path": "/bilder/wiki/fachbezogenebem-00-a536a663.png",
+    "sha256": "74204516589bee244d63675011adf7ff16c1ee5d855a29682500466511987ca2",
+    "bytes": 10297
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/29/FachbezogeneBem-01.png",
+    "path": "/bilder/wiki/fachbezogenebem-01-6072c571.png",
+    "sha256": "af39b2b007cd01e1f833e743f6739c93407c916e4a254e1bfec008550bc8ab3a",
+    "bytes": 36527
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/b1/FachbezogeneBem-02.png",
+    "path": "/bilder/wiki/fachbezogenebem-02-3d06190c.png",
+    "sha256": "2b540be3ee0e545eb0b4454d492c864d35817ae9373ad1f10cae76b64d06aea7",
+    "bytes": 12489
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/3e/FachbezogeneBem-03.png",
+    "path": "/bilder/wiki/fachbezogenebem-03-49ed934e.png",
+    "sha256": "281a4296420a618210f637d0ac1a03f4109d4f263f1a03370d4bf9a6f8907b99",
+    "bytes": 28255
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/6f/FachbezogeneBem-04.png",
+    "path": "/bilder/wiki/fachbezogenebem-04-53cb420f.png",
+    "sha256": "6552b2232ef44fd230f191f0e3c732c95976ec0d5784e4def67dd5d6619813b6",
+    "bytes": 37475
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/cb/Fachglobal.jpg",
+    "path": "/bilder/wiki/fachglobal-ddedc671.jpg",
+    "sha256": "7823e2701603d8e47ff512a9895b5bfe0c12b9f8d345bb00df7ad792958a6b8c",
+    "bytes": 20130
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/47/Fachklassen.jpg",
+    "path": "/bilder/wiki/fachklassen-785c4fdc.jpg",
+    "sha256": "2451c911902eacf6c3aedad2141c412aa7c583cc289db854d7c9305a30e6808c",
+    "bytes": 207352
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/e1/F%C3%A4cherfarben.jpg",
+    "path": "/bilder/wiki/faecherfarben-694ff39b.jpg",
+    "sha256": "0a0e15b661e3fbc3b66d252e4e6fee8aadf40c6fc0a2a37a5848c4d0b2708b79",
+    "bytes": 52319
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/49/F%C3%A4cherOberstufe.jpg",
+    "path": "/bilder/wiki/faecheroberstufe-9449004f.jpg",
+    "sha256": "2dcabe0d91c858805c4c4a28b6a82b6f7ff3f8a6b5a7e2fbef1cc39c735082ba",
+    "bytes": 109489
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/94/Fahrsch%C3%BCler.jpg",
+    "path": "/bilder/wiki/fahrschueler-8237a61b.jpg",
+    "sha256": "6cc19022d45f4169c6b119327b17c7b282510cab03130b4954c029f061d562af",
+    "bytes": 38938
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/b0/FehlendeEintraege.jpg",
+    "path": "/bilder/wiki/fehlendeeintraege-316043ec.jpg",
+    "sha256": "5e7944684841d060e0fc02675febb0e1dcebec08e1add8e814078cd7b7205f53",
+    "bytes": 12892
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/c0/FehlerE89.png",
+    "path": "/bilder/wiki/fehlere89-86147705.png",
+    "sha256": "16c1ddafe2950ec2d3046df06168ca1f30bcd597890e01cbae31239dac844d4f",
+    "bytes": 22002
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/b4/FehlerE89Lsg.png",
+    "path": "/bilder/wiki/fehlere89lsg-bf26bfe7.png",
+    "sha256": "75abfe04ef83cf457b8e772198aa292fd5ecf18c81688c1a774e5fc6e2ccee0d",
+    "bytes": 12019
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/cf/Fehlzeiten001.png",
+    "path": "/bilder/wiki/fehlzeiten001-adbf1c85.png",
+    "sha256": "4a1ef072d3559d5afc0977c67a5fb4fa6297d6584d2202f02410af3595518eda",
+    "bytes": 15927
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/70/Fehlzeiten002.png",
+    "path": "/bilder/wiki/fehlzeiten002-dacad938.png",
+    "sha256": "2aa105573cdb3ac5b416a069f207eea7f4b69d27f9829b835dd16411550e4a37",
+    "bytes": 14745
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d2/Fehlzeiten003.png",
+    "path": "/bilder/wiki/fehlzeiten003-4dc462ce.png",
+    "sha256": "8a83681206e65a3124068d824ddd6826a021ae9634c698760daf8e9c3e45905d",
+    "bytes": 28131
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/52/Fehlzeiten004.png",
+    "path": "/bilder/wiki/fehlzeiten004-0cf265fc.png",
+    "sha256": "b92dfea18f544bb310b2a39dbc10047bdd6dff98d5ff0ba8f09b0445166538e2",
+    "bytes": 8283
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/cf/Fehlzeiten005.png",
+    "path": "/bilder/wiki/fehlzeiten005-8a5b954a.png",
+    "sha256": "ad4f5d2f30ffe70092ac25fa5c16600f82afdb484216b19794722d7d9c150355",
+    "bytes": 6312
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/86/Fehlzeiten006.png",
+    "path": "/bilder/wiki/fehlzeiten006-02599083.png",
+    "sha256": "88a0bb198530a26e2a4d7daf80ce07d1630205ced6d68c95e99c275a02f2495a",
+    "bytes": 6388
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/eb/Fehlzeiten007.png",
+    "path": "/bilder/wiki/fehlzeiten007-d940d1da.png",
+    "sha256": "6ce652e4d4ebba07fb83e093718cc8cd5bab10bd381a7be32a5ab6a83b6e3853",
+    "bytes": 3979
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/2c/Fehlzeiten008.png",
+    "path": "/bilder/wiki/fehlzeiten008-92180ee5.png",
+    "sha256": "a4416667eb105933f5feaf495e386973e6dc8383162a8e32a0a7d4c1580973af",
+    "bytes": 14976
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/61/Fehlzeiten009.jpg",
+    "path": "/bilder/wiki/fehlzeiten009-39bd9efd.jpg",
+    "sha256": "d22d84ac0e3e6e31aff6c1946bbb3c6abe6740fc00c1844f2c8ee8ba8318eedf",
+    "bytes": 14833
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/df/FHR-Karteikarte.png",
+    "path": "/bilder/wiki/fhr-karteikarte-58cc21ab.png",
+    "sha256": "ebfd0283233f76631775f1b6424dc90bfe770996b7cf0e37837ef1dfc38817db",
+    "bytes": 5281
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/c2/Filter_II_Mahnungen.png",
+    "path": "/bilder/wiki/filter-ii-mahnungen-2c7a5921.png",
+    "sha256": "746e0002cd3a0f37940d7d31c4058ed074850e3f4119a6672f01901d40377170",
+    "bytes": 134788
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/56/FilterI01.jpg",
+    "path": "/bilder/wiki/filteri01-b7f7d381.jpg",
+    "sha256": "43d29872ef3e9fb4530850ba928821ee557edc04f8d0a583a36e03374f33d2a8",
+    "bytes": 104906
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/eb/FilterI02.jpg",
+    "path": "/bilder/wiki/filteri02-60bbd537.jpg",
+    "sha256": "5d5cf45a4460d2517ac0064bec709ffa47bd4fd7c617c37d85d2d09c5abcd5a9",
+    "bytes": 4018
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/82/FilterI03.jpg",
+    "path": "/bilder/wiki/filteri03-f80a7919.jpg",
+    "sha256": "8cc04a48377354f4c82fe4098ff625f25b20cbdf95b1665cab866c6694b97a78",
+    "bytes": 26241
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/b2/FilterII01.jpg",
+    "path": "/bilder/wiki/filterii01-8abb4560.jpg",
+    "sha256": "e76315c698901d3858c4b52632a383e3e2a07b19063bc61afae5d2d80423c8a7",
+    "bytes": 49441
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/ed/FilterII02.jpg",
+    "path": "/bilder/wiki/filterii02-3ab603e9.jpg",
+    "sha256": "d8bd7ec9e6bf006544c7bf970c86ee991cadaca84225da0690152ef5fee792a7",
+    "bytes": 93576
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/68/FilterITut01.jpg",
+    "path": "/bilder/wiki/filteritut01-f027677a.jpg",
+    "sha256": "6c81e666c9e0aef80e90ef8e6256e66457c013a518349f1f0246763160c006c6",
+    "bytes": 8351
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/08/FilterITut02.jpg",
+    "path": "/bilder/wiki/filteritut02-8ddb744c.jpg",
+    "sha256": "4b145634e4b40dd4e6711693a481078a8820bca30cc40aebaf122faea3207c56",
+    "bytes": 3226
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/02/FilterITut03.jpg",
+    "path": "/bilder/wiki/filteritut03-c759e67c.jpg",
+    "sha256": "d3536d2c4d0235f22473cedb134f84a2a90806c1808077e42d1d5c9b229f6ab6",
+    "bytes": 10212
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/a2/FilterITut04.jpg",
+    "path": "/bilder/wiki/filteritut04-28c1a4f0.jpg",
+    "sha256": "a37afd15a53c16bc766837ee137ddf146ad9ca0f4e9a3d3fc95a5d5c335bf247",
+    "bytes": 158997
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/6f/FilterITut05.jpg",
+    "path": "/bilder/wiki/filteritut05-0dce8a58.jpg",
+    "sha256": "68e77c7f7836516dbc52a8259fe26ba8087b5ca186a1645bb8d5e95f3ec721fd",
+    "bytes": 81531
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/5f/FilterITut06.jpg",
+    "path": "/bilder/wiki/filteritut06-6bf43aee.jpg",
+    "sha256": "8cda341372146471de6545615d56c8a5b4c51643382691dd94406d374fd5b940",
+    "bytes": 54594
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/97/FilterITut07.jpg",
+    "path": "/bilder/wiki/filteritut07-faaa81cb.jpg",
+    "sha256": "af646a4dcd317b6215308e0065baf4b3cb99b5f87fe85b9ef9105a3fbfd31921",
+    "bytes": 59843
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/2b/Filterladen.jpg",
+    "path": "/bilder/wiki/filterladen-6439c59d.jpg",
+    "sha256": "9a2a67362fb3d122692eb7025f587012105417992590b205120c1bd4fdeba30d",
+    "bytes": 17201
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/29/Filterloeschen.jpg",
+    "path": "/bilder/wiki/filterloeschen-7b97744c.jpg",
+    "sha256": "c3ac472f3feb23b98032c5a506c30d460dd9d3d0cee0a043a58ccb461b7bfc73",
+    "bytes": 23305
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/db/Floskeleingabe.jpg",
+    "path": "/bilder/wiki/floskeleingabe-4a97eef1.jpg",
+    "sha256": "1f5b15b56610965d870ebf7d799d8c4c7f8291fd717b9a91e6a4066043018b45",
+    "bytes": 116786
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/83/Floskelgruppen.jpg",
+    "path": "/bilder/wiki/floskelgruppen-69235357.jpg",
+    "sha256": "f223fa5040fe433f840498e61a2f9120f20cc8923565defc34e3447a2652b975",
+    "bytes": 46961
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/7f/Floskeln.jpg",
+    "path": "/bilder/wiki/floskeln-a0eff808.jpg",
+    "sha256": "1813f253d9ea63bd2dcbe353c6508512a6df92982f87ed3fca551be2cfa71dbe",
+    "bytes": 126770
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/95/Foerdermassnahmen01.jpg",
+    "path": "/bilder/wiki/foerdermassnahmen01-16f1a2a7.jpg",
+    "sha256": "c49697ddff9bf6fcf430c6c6d5aca4c921af86c72ca216cf62d04d176933757f",
+    "bytes": 55560
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f6/Foerdermassnahmen02.jpg",
+    "path": "/bilder/wiki/foerdermassnahmen02-1a6a66f4.jpg",
+    "sha256": "c454edaa04acd5868419c3d5c3a1ddcdf2e62f75f719342340b15efd059dff8f",
+    "bytes": 152789
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/e6/Foerdermassnahmen03.jpg",
+    "path": "/bilder/wiki/foerdermassnahmen03-02417f69.jpg",
+    "sha256": "dfacfa2ad8d6ed7c3574fdf8e44e8f878460e610717a02035baab000332fd17c",
+    "bytes": 42315
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/36/F%C3%B6rderschwerpunkt.jpg",
+    "path": "/bilder/wiki/foerderschwerpunkt-002f6606.jpg",
+    "sha256": "09c357a0397b9f2525a98e744a1509ad9ecece905a20d8083d237277e5faa953",
+    "bytes": 17545
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/56/ForumReg.jpg",
+    "path": "/bilder/wiki/forumreg-a12bd662.jpg",
+    "sha256": "3a333efff6ca732d4b09b768aceb524e07c77d0ad426596d7d29c97b8ad44328",
+    "bytes": 126375
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/89/Fotolistetxt.jpg",
+    "path": "/bilder/wiki/fotolistetxt-5133aeb2.jpg",
+    "sha256": "60817ed9028ee4f1ac080f6f15c82b16ae5ae6a25bae7c73af20e1fd10d99f71",
+    "bytes": 75247
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/1/1b/Fsp_faecher.png",
+    "path": "/bilder/wiki/fsp-faecher-b2f627dc.png",
+    "sha256": "0ea8f305c6956de2fb5929ffae6bff50a71db8819b4ba8ae582936b9054c800f",
+    "bytes": 14337
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/0a/Fsp_leistungsdaten.png",
+    "path": "/bilder/wiki/fsp-leistungsdaten-988ef783.png",
+    "sha256": "930a497a77762e1d0feba89f8169a5485c38c8ca265fb229f3199931dd6e6e44",
+    "bytes": 22730
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f3/Fsp_sprachenfolge.png",
+    "path": "/bilder/wiki/fsp-sprachenfolge-1889587b.png",
+    "sha256": "9d803d1a9fdb4cbfe4a41cbe00de0e7faf30cb91458d4f5a1501b85b8ae4220a",
+    "bytes": 7505
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/6a/GER-1.JPG",
+    "path": "/bilder/wiki/ger-1-3dfac9a5.jpg",
+    "sha256": "d89538ce724629399cf20e36252bdf89d051dab7405ee782576121f2314d9cbb",
+    "bytes": 50488
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/1/12/GER-2.JPG",
+    "path": "/bilder/wiki/ger-2-349be235.jpg",
+    "sha256": "1ee1663f75eee04a3dab72a5f6f7812eb64de4694089d16eafdd45c827efcd69",
+    "bytes": 8969
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/1/17/GER-3.JPG",
+    "path": "/bilder/wiki/ger-3-185bdc3a.jpg",
+    "sha256": "6c87da304fdfb164b2e853a6e183cc175caf3bea0e7f240f404f08a1c331a04c",
+    "bytes": 8047
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/81/GER-4.JPG",
+    "path": "/bilder/wiki/ger-4-40635bed.jpg",
+    "sha256": "25c9fb7c3ad6313319c884b431334d2be76c32c0d57cb9e7fe9a4e5108757e12",
+    "bytes": 9220
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f5/GER-5.JPG",
+    "path": "/bilder/wiki/ger-5-6f602098.jpg",
+    "sha256": "63349504fa0d467be084ac9a1758973877fa4a40d686ceaa651efff9f2ffc968",
+    "bytes": 31663
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d7/Gesamtueb-Laufbahn.png",
+    "path": "/bilder/wiki/gesamtueb-laufbahn-aa41fd3a.png",
+    "sha256": "0662db30e912ac047491d60868c7f633c139fe714f624cd150873ec707166204",
+    "bytes": 6030
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/a5/Gesamtueb-Leistungsdaten.png",
+    "path": "/bilder/wiki/gesamtueb-leistungsdaten-667b549d.png",
+    "sha256": "eb1f6c06a4ed01894f6d0b671657d722dbb02e07b9d7395afb36484ec2318884",
+    "bytes": 6500
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/fa/GliederungG9.png",
+    "path": "/bilder/wiki/gliederungg9-63a8dacc.png",
+    "sha256": "bb875eac1b7413297a780a90e4179570fd62862cb4ef9595b154ff16ec3f105a",
+    "bytes": 23385
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/7f/Gliederungseinstellungen.jpg",
+    "path": "/bilder/wiki/gliederungseinstellungen-b2238c83.jpg",
+    "sha256": "489f091e915076e956b625284cda14d19038912acc9012d0c234e110fc3e96b5",
+    "bytes": 115919
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/1/1d/GP-Abitur.jpg",
+    "path": "/bilder/wiki/gp-abitur-6f9dae98.jpg",
+    "sha256": "6e5bc3de9953e2639bc8f4cb11dad4531106a5e611ef4b47e74b23636889b4a6",
+    "bytes": 29194
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/eb/GP-AbiturGesamtergebnis.jpg",
+    "path": "/bilder/wiki/gp-abiturgesamtergebnis-4aacd888.jpg",
+    "sha256": "8b22e4655a98579113140b3bbd9f3b7ed7a474c1825edda81d1fea282ebc2e2f",
+    "bytes": 23880
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/bb/GP-Allgemeines.jpg",
+    "path": "/bilder/wiki/gp-allgemeines-2a54ac87.jpg",
+    "sha256": "34448e81d0a2bf350a9a7a2dfb5cfae66dd4aa4d73652676d8491149ec6f210b",
+    "bytes": 49542
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/bf/GP-Betriebe-Adressen.png",
+    "path": "/bilder/wiki/gp-betriebe-adressen-5ed8a381.png",
+    "sha256": "a84e0d12ccf0ac0b8eb91e040839f42efdca4e51cccb313855a13b6387dc47d0",
+    "bytes": 9832
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/87/GP-BK-Reiter.jpg",
+    "path": "/bilder/wiki/gp-bk-reiter-d9ea6946.jpg",
+    "sha256": "18720d4d6ce140d026ffa4f7c6285ecc7e8cd8a9a62f5c864d0d2833b51fa4ac",
+    "bytes": 17010
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/3a/GP-Dokuaufraeumen.jpg",
+    "path": "/bilder/wiki/gp-dokuaufraeumen-31ae3f1f.jpg",
+    "sha256": "1bca246515f9f2f8f8487b3b8925ac31c87512854a4a7b88b8dfec151c61bbba",
+    "bytes": 20878
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/7a/GP-F%C3%A4cher.jpg",
+    "path": "/bilder/wiki/gp-faecher-7e1efe3f.jpg",
+    "sha256": "30fe2a2c4e48da9fcf523c6302dc19521951affc8e394f5a38135eaa9a1bed63",
+    "bytes": 37932
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f0/GP-Faecheraendern01.jpg",
+    "path": "/bilder/wiki/gp-faecheraendern01-6b572a01.jpg",
+    "sha256": "86e93471616fd511b4dc2fbff077181610ead1fa4d76495b71f9b8e7515acf01",
+    "bytes": 37194
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/aa/GP-Faecheraendern02.jpg",
+    "path": "/bilder/wiki/gp-faecheraendern02-2f122d7c.jpg",
+    "sha256": "d0aed78870200158638d2db777d2521a0ce4cdf947be82d935e31ac12813de6a",
+    "bytes": 35181
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/1/1f/GP-FaecherohneNoten.jpg",
+    "path": "/bilder/wiki/gp-faecherohnenoten-cb6cf925.jpg",
+    "sha256": "37ccd75ca1b267b9d415eca83643d3a89862d44c87b4b7f4ed5e5342c32b54af",
+    "bytes": 14956
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/5b/GP-FaecherShinzufuegen.jpg",
+    "path": "/bilder/wiki/gp-faechershinzufuegen-569961db.jpg",
+    "sha256": "9d64378efe40f9f52ab2055bbb9614111ae5cdd43924dc098ce63f2f764e3067",
+    "bytes": 24084
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/5b/GP-FaecherSloeschen.jpg",
+    "path": "/bilder/wiki/gp-faechersloeschen-3d086d8e.jpg",
+    "sha256": "52f45290b0166677416cd931de938b63a6b03d903f61e524f1fedebe21dbae83",
+    "bytes": 19036
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/20/GP-FaechervorherigemAbschnitt.jpg",
+    "path": "/bilder/wiki/gp-faechervorherigemabschnitt-9aeabc84.jpg",
+    "sha256": "0924df7c42f77954396ad37ef2752b076bb8485e7e02475be7b48fb20f1bbfe5",
+    "bytes": 50498
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/38/GP-FaecherzuweisenT1.jpg",
+    "path": "/bilder/wiki/gp-faecherzuweisent1-a25498d4.jpg",
+    "sha256": "cfd0f9b40658fa253b3d4991c4fad52a97d575152cf7d962ce9ac1208523529e",
+    "bytes": 21203
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/53/GP-FaecherzuweisenT2.jpg",
+    "path": "/bilder/wiki/gp-faecherzuweisent2-ecb75357.jpg",
+    "sha256": "1c9f5fa6a45968a4e12570c625e1bce999c89540b9ec87ee2e669bdd41398c57",
+    "bytes": 119156
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/c1/GP-Klassenunterrichtbearbeiten.jpg",
+    "path": "/bilder/wiki/gp-klassenunterrichtbearbeiten-b881e106.jpg",
+    "sha256": "55948c9be0e384bb90d248e28126171e4b3d42b7dee7ebdefee8885beb019fbb",
+    "bytes": 57965
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/09/GP-Konferenzdatumsetzen.jpg",
+    "path": "/bilder/wiki/gp-konferenzdatumsetzen-3dc96adb.jpg",
+    "sha256": "718dd08b98c1a5bab62b28d28b3af2dae70eaa434da8ce5ad5e61da09ddeab82",
+    "bytes": 19393
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/41/GP-KursezuweisenE.jpg",
+    "path": "/bilder/wiki/gp-kursezuweisene-a1a89e7d.jpg",
+    "sha256": "eed4583e3cd59c6894dbcfc9c052c8f28e3f9498116ee3da431aba9375158756",
+    "bytes": 125916
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/af/GP-KursezuweisenM.jpg",
+    "path": "/bilder/wiki/gp-kursezuweisenm-6168375a.jpg",
+    "sha256": "2f31a163a6ff51c9ca6a67cd4489c9d28bdfe9999561a8a8155e206755cf512a",
+    "bytes": 134470
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d2/GP-Lernabschnitte.jpg",
+    "path": "/bilder/wiki/gp-lernabschnitte-40925f7f.jpg",
+    "sha256": "c27190cfad9aa8621a5e91041a3e1477579812e60938bf04d018244597183d00",
+    "bytes": 31557
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/bd/GP-Lernabschnittindanlegen.jpg",
+    "path": "/bilder/wiki/gp-lernabschnittindanlegen-5914240d.jpg",
+    "sha256": "7990d430a87c6f44cd55eb91829402da2fa9f4f0c5e042db364616daf86f27cf",
+    "bytes": 32380
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/ac/GP-MdlPruefungen.jpg",
+    "path": "/bilder/wiki/gp-mdlpruefungen-6e73c80c.jpg",
+    "sha256": "8a1ff7d130fdcd310152ae42db2d805cc9b5b57c82e16aeaae70a35f788e11d4",
+    "bytes": 38668
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/4b/GP-Migrationshintergrund-01.png",
+    "path": "/bilder/wiki/gp-migrationshintergrund-01-94c62b25.png",
+    "sha256": "22948f1a36213f086f0cd55367739aaeef6cf441e092b808456f26ad0b8ea3a8",
+    "bytes": 59424
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/2d/GP-Noten.jpg",
+    "path": "/bilder/wiki/gp-noten-0acd1dab.jpg",
+    "sha256": "011164851ee2b20ca8340b5785a0f6dcb5de685cb6f48245ec45b9fd470f3f84",
+    "bytes": 38342
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/4b/GP-NotenFehlstdeingeben.jpg",
+    "path": "/bilder/wiki/gp-notenfehlstdeingeben-7b232b08.jpg",
+    "sha256": "1d8397a2a886ca58368a02b246673516ffb6a4888ef8adf8b47244104094dfb0",
+    "bytes": 131317
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/8d/GP-Pruefungsergebnisse.jpg",
+    "path": "/bilder/wiki/gp-pruefungsergebnisse-37c59cde.jpg",
+    "sha256": "2dcd0f27e33a7402e08a0392935fd6bc3549e34bdfce179d79ec6a1d88356d8a",
+    "bytes": 31215
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/33/GP-SchuelerDatensaetzeloeschen.jpg",
+    "path": "/bilder/wiki/gp-schuelerdatensaetzeloeschen-84831daf.jpg",
+    "sha256": "a8772517788019468b4e3015ace9809028a23b1bc166101dc06ba4cbfd429cbe",
+    "bytes": 20899
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/79/GP-Sprachenersetzen.jpg",
+    "path": "/bilder/wiki/gp-sprachenersetzen-6ad392e6.jpg",
+    "sha256": "59dfc586379daa1396fa7647a8845a68f0d7f9aee58417a6b907a8ab17539d94",
+    "bytes": 13890
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/c1/GP-Sprachenfolgezuweisen.jpg",
+    "path": "/bilder/wiki/gp-sprachenfolgezuweisen-0e3f70dc.jpg",
+    "sha256": "702b5f2e16820f341892dc4f6f50506c62b975cde6ca061ae78362f0f1f28c11",
+    "bytes": 30026
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/5e/GP-Stundentafelzuweisen.jpg",
+    "path": "/bilder/wiki/gp-stundentafelzuweisen-62832825.jpg",
+    "sha256": "6e42adc09c014fe7e47a2d7bc645798a5c1b91ffd2fdf6018e099c89df19dba2",
+    "bytes": 74983
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/23/GP-Teilleistungen.jpg",
+    "path": "/bilder/wiki/gp-teilleistungen-6aa38476.jpg",
+    "sha256": "0d0e443bdbdc5f67c9b72a721f717afcc6bba554e3962363854f9e36220b8d1b",
+    "bytes": 42117
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/bd/GP-Teilleistungen01.jpg",
+    "path": "/bilder/wiki/gp-teilleistungen01-36823c45.jpg",
+    "sha256": "865f5ccca416e182bfda69c06074cc96c4e2477acee0a43b7d950851dd6b108a",
+    "bytes": 38845
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/e4/GP-Teilleistungen02.jpg",
+    "path": "/bilder/wiki/gp-teilleistungen02-8dc2e62d.jpg",
+    "sha256": "41d10c13aa5b9caaa6f76c5060a945eaebd2b3dc57d6b0c72f7de4e32aa79cf4",
+    "bytes": 66537
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/af/GP-Vermerkeloeschen.jpg",
+    "path": "/bilder/wiki/gp-vermerkeloeschen-16eec7d5.jpg",
+    "sha256": "15f6a65a2b72f0269e4383049c84e951c9cd4319520608272ae8932eb0e31c3a",
+    "bytes": 21053
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/3a/GP-VersetzungUebertragung01.jpg",
+    "path": "/bilder/wiki/gp-versetzunguebertragung01-26d6dac7.jpg",
+    "sha256": "fc3eb4579581b4b7b5eafeb7ff35b6dd4d56210e7c78b89531257456ccb66eca",
+    "bytes": 58768
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/94/GP-VersetzungUebertragung02.jpg",
+    "path": "/bilder/wiki/gp-versetzunguebertragung02-0f3b7657.jpg",
+    "sha256": "9554d360261480ea1cf73a53e0671f21ca3486115445586210e0d55f09e940ad",
+    "bytes": 75945
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/3c/GP-VersetzungUebertragung03.jpg",
+    "path": "/bilder/wiki/gp-versetzunguebertragung03-8fe43f4a.jpg",
+    "sha256": "accf68d4bf13792b2c428c5986dff52da8a9530485a7cc37c779bf33b1757d95",
+    "bytes": 89607
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/a0/GP-VersetzungUebertragung04.jpg",
+    "path": "/bilder/wiki/gp-versetzunguebertragung04-9cf39fc9.jpg",
+    "sha256": "92e1c47c6acacc47445a1aab959f97c2022e73cb12914094f35c878346f1de89",
+    "bytes": 22054
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/fa/GP-Zeugnisausschulen.jpg",
+    "path": "/bilder/wiki/gp-zeugnisausschulen-d1fd7d72.jpg",
+    "sha256": "ecda59e22828fdd5f00f9c50484ef2d2ed457a8c500320e6e2e81032017a4c0b",
+    "bytes": 49808
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/53/GP-Zusatzdaten.jpg",
+    "path": "/bilder/wiki/gp-zusatzdaten-8cd9cb5b.jpg",
+    "sha256": "f4f6e6fd8818f43cf26f96bf7d1a2cfbfd2c4c25b0fb6aad465e6d4a6abf6306",
+    "bytes": 63230
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/78/Gruppen_001.jpg",
+    "path": "/bilder/wiki/gruppen-001-7fa402c2.jpg",
+    "sha256": "a846a806e92b7d498a9b08bd05f6599d93d9b74f960b5a56964a678e0721cbc8",
+    "bytes": 44535
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/1/19/Gruppenprozess_Einwilligungen.png",
+    "path": "/bilder/wiki/gruppenprozess-einwilligungen-49afc5ad.png",
+    "sha256": "cf71afe3c6ad82e0d0f581d95c899340613155a806267baf89e80f4db82ebb2c",
+    "bytes": 35710
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/2a/Gruppenprozesse_01.jpg",
+    "path": "/bilder/wiki/gruppenprozesse-01-4673730d.jpg",
+    "sha256": "85cc71f490003df67f96ae83a36566a0302cc002b03cd75dad064bd6a4db8388",
+    "bytes": 12681
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f8/Gruppenprozesse01.jpg",
+    "path": "/bilder/wiki/gruppenprozesse01-418d0da2.jpg",
+    "sha256": "aa5f8e2d6afe4b1d488f77e0b9ff947610b97e56c28b90e07969ac683a288f50",
+    "bytes": 77643
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/09/GruppenprozesseTut01.jpg",
+    "path": "/bilder/wiki/gruppenprozessetut01-dfceb8db.jpg",
+    "sha256": "9fdb814375bf87489b9be37b9780e7b35ac890b1b15c149ddef791b9f05f6e14",
+    "bytes": 31900
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/6f/GruppenprozesseTut02.jpg",
+    "path": "/bilder/wiki/gruppenprozessetut02-99f01163.jpg",
+    "sha256": "c1a6cb9ade11ee9fa14cca6cf5f05752cbfa5005eee0da0a5855c5bf605552e4",
+    "bytes": 52414
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d3/GruppenprozesseTut03.jpg",
+    "path": "/bilder/wiki/gruppenprozessetut03-7ee6969d.jpg",
+    "sha256": "430cad393a8dc0ab0aa392268bee8a0f8a5d7ea617437f79ca66667919fbb95a",
+    "bytes": 130639
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/58/GruppenprozesseTut04.jpg",
+    "path": "/bilder/wiki/gruppenprozessetut04-d081d779.jpg",
+    "sha256": "ebf01c8d45d08ab247542ecb73d17ac8f69daf0a40dd5e6a90e345ac4a17b633",
+    "bytes": 16644
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/01/GruppenprozesseTut05.jpg",
+    "path": "/bilder/wiki/gruppenprozessetut05-8704ed77.jpg",
+    "sha256": "5fd04c3d99d4ec668d2b4d49331b37212b6f67d18d81db032e6245c6e15f13d9",
+    "bytes": 28975
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f1/GruppenprozesseTut06.jpg",
+    "path": "/bilder/wiki/gruppenprozessetut06-5d9fe6ce.jpg",
+    "sha256": "1e966b38abd82b0beff87fc6ffb8267d94d5136a72a1f71778ce2b0dfca62169",
+    "bytes": 33450
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/98/GruppenprozesseTut07.jpg",
+    "path": "/bilder/wiki/gruppenprozessetut07-4e8f6932.jpg",
+    "sha256": "1cbdf7b66ae2148ad272696a71319db8e5f8ec9c62dd581915c9dadd0c95bc90",
+    "bytes": 56013
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f4/GruppenprozesseTut08.jpg",
+    "path": "/bilder/wiki/gruppenprozessetut08-5aa58084.jpg",
+    "sha256": "20c8048939fdf96197ad6315c9333063dcd1e3f4047d4c102009474b565ab4a6",
+    "bytes": 13412
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/84/GruppenprozesseTut09.jpg",
+    "path": "/bilder/wiki/gruppenprozessetut09-7094ee07.jpg",
+    "sha256": "03ec0b5e379220b6f91766a77f4f3a20bfe51c13f30d255829bb4c4b1092fb75",
+    "bytes": 12661
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/89/GruppenprozesseTut10.jpg",
+    "path": "/bilder/wiki/gruppenprozessetut10-68fc95fb.jpg",
+    "sha256": "0efa741755c14667bca22bc73451475347602f7eae4822f40b355e7c534d1dd4",
+    "bytes": 26370
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/20/GruppenprozesseTut11.jpg",
+    "path": "/bilder/wiki/gruppenprozessetut11-d07082a9.jpg",
+    "sha256": "8f452ba3b082a40aa2a2cd8abc707bbe19c4a951c832cd160d7043b10bb406c6",
+    "bytes": 58567
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/c8/GruppenprozesseTut12.jpg",
+    "path": "/bilder/wiki/gruppenprozessetut12-74419936.jpg",
+    "sha256": "e36a1a7b961c4a5cdaabc1793f79392e1481b57f6a492be720c1ebdde45cd015",
+    "bytes": 100675
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/81/GruppenprozessMerkmal.png",
+    "path": "/bilder/wiki/gruppenprozessmerkmal-66ae1a89.png",
+    "sha256": "edf13dded0fe944a28d23a5135abf8e1125fcef0ba16dfac7a91db585b2fc656",
+    "bytes": 387052
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/4d/GruppenprozessOrganisationsform.png",
+    "path": "/bilder/wiki/gruppenprozessorganisationsform-1e16628b.png",
+    "sha256": "b443cd11fc006385713aa5317340e0c1af10d4b7b791193e09225e1362405f0e",
+    "bytes": 374108
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f2/GSDaten.jpg",
+    "path": "/bilder/wiki/gsdaten-82294b84.jpg",
+    "sha256": "c764a8433e95f4341929999d634a028ae815594c49148b8c73cfade1b0968201",
+    "bytes": 76564
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/2f/Halbjahreswechsel.jpg",
+    "path": "/bilder/wiki/halbjahreswechsel-5d14e34e.jpg",
+    "sha256": "d63bb07038da5e0a11f8d92d9af09c62a8ddaa894be6e8bc62eabd98e7efe554",
+    "bytes": 89432
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/47/Haltestelle.jpg",
+    "path": "/bilder/wiki/haltestelle-238a7ed8.jpg",
+    "sha256": "41c04d4515e829a12e870c59b540c9a4b7345f11572a73d138c8d22a50c7f388",
+    "bytes": 39256
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/ae/Haltestelle_Fahrsch%C3%BCler.jpg",
+    "path": "/bilder/wiki/haltestelle-fahrschueler-856f67f4.jpg",
+    "sha256": "68bdce3aa03a3c326acc86b915ec3c1c74fae94228f3c2ebe913a4c3de417cee",
+    "bytes": 38082
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/20/Hauptfenster_Schema.png",
+    "path": "/bilder/wiki/hauptfenster-schema-d2f9c5c6.png",
+    "sha256": "520bff2a7115bae2a02da7b0709efc1466c06725c3f5334c8747d8ebafd23ad4",
+    "bytes": 314420
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/93/Herkunftbk1.jpg",
+    "path": "/bilder/wiki/herkunftbk1-afbad8e7.jpg",
+    "sha256": "893c2ad3f18d100a2ba2c73848492cf60f8dada6d8247a6dc70b6226ab701edd",
+    "bytes": 47097
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f2/Herkunftbk2.jpg",
+    "path": "/bilder/wiki/herkunftbk2-323f334e.jpg",
+    "sha256": "d7c26e0724b339584f454b7c44636d96964cefbe48e6dde861b194f6163a7f5c",
+    "bytes": 20398
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d9/Herkunftbk3.jpg",
+    "path": "/bilder/wiki/herkunftbk3-229ec798.jpg",
+    "sha256": "caf65002e21d4aadb8b8087a58e53268eb3b1d9f2466c4e5b4e8e3043df00944",
+    "bytes": 88726
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/28/HilfebeiProblemen.jpg",
+    "path": "/bilder/wiki/hilfebeiproblemen-9fb4d013.jpg",
+    "sha256": "064c632506ac9c605d0ac51d31a29322c97545456d361b6b30f67d24d5f7fbc8",
+    "bytes": 29923
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/db/Hsu_faecher.png",
+    "path": "/bilder/wiki/hsu-faecher-7a714cc6.png",
+    "sha256": "d1174d1dd7e1a973f6ff810ad50d08e6af0fd480e64a45915bdaaa3b9ad10d12",
+    "bytes": 15046
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/1/10/Hsu_leistungsdaten.png",
+    "path": "/bilder/wiki/hsu-leistungsdaten-785f890d.png",
+    "sha256": "9d9552d8bd9c79cc84fd13e6236d553f10d4296944a8059b2bf4ed3860063070",
+    "bytes": 10300
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/b1/Hsu_sprachenfolge.png",
+    "path": "/bilder/wiki/hsu-sprachenfolge-47772d7b.png",
+    "sha256": "9149e845d6960a5ef8ef86848aa6d0bf214936bab2faaba24fa36edd719e8edb",
+    "bytes": 7597
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/ba/Iconleiste.jpg",
+    "path": "/bilder/wiki/iconleiste-30c44934.jpg",
+    "sha256": "ecd08b4672c9c98692011955f4714ecc58311fa85a3b4fd683f6d29361612ca8",
+    "bytes": 10969
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/ba/IK-AktHalbjahr.jpg",
+    "path": "/bilder/wiki/ik-akthalbjahr-bbadcc5c.jpg",
+    "sha256": "9d90d22c25c032cfdd7e0960fd0fec76077d654303008ca6318cfc9c648b5f75",
+    "bytes": 98477
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/9e/IK-Individualdaten.png",
+    "path": "/bilder/wiki/ik-individualdaten-a7412420.png",
+    "sha256": "9ed6eb0c5b409f18e852ef7934d7075ebd8c92ea5b8c926bdb59045a9e78aa7e",
+    "bytes": 10007
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d0/IK-Migrationshintergrund.png",
+    "path": "/bilder/wiki/ik-migrationshintergrund-e6efe7b9.png",
+    "sha256": "7ccccc2995b0f58dcd4f766beaaf2dc1b455f2635d936b19f3873b13ad566f85",
+    "bytes": 4415
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/1/1f/IK-Migrationshintergrund2.png",
+    "path": "/bilder/wiki/ik-migrationshintergrund2-9c99abcc.png",
+    "sha256": "7be16a642ce1baf58e586259b3c03417aa715cac9cb2615aa3b8f0a95c2fd457",
+    "bytes": 5900
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/ec/IK-Schulbesuch.png",
+    "path": "/bilder/wiki/ik-schulbesuch-b2411c3d.png",
+    "sha256": "61f6fc3c58d0e6ba851e28bba749c348ae2ac43edd72a6e0ec91c56114b79dc9",
+    "bytes": 8510
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/20/IK-Staatsangehoerigkeit.png",
+    "path": "/bilder/wiki/ik-staatsangehoerigkeit-bfd93781.png",
+    "sha256": "d349db745cdf57bfa33c7812338d30f8161dc3f809f89205bd8b73113bc1b462",
+    "bytes": 1420
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/39/IK-Versetzungstabelle.png",
+    "path": "/bilder/wiki/ik-versetzungstabelle-cf5344e4.png",
+    "sha256": "d04bec73a53d1a6a7e6cc7be5865d9d823976e3b976ea82574949011c0322f88",
+    "bytes": 16345
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/6f/Individualdaten-Registerkarten.jpg",
+    "path": "/bilder/wiki/individualdaten-registerkarten-09b1a92c.jpg",
+    "sha256": "426f7cd8cdd5b15fa3b6f11e5c3c9156a7191f3656e4a3931d43ed6760dedd34",
+    "bytes": 70380
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/8a/IndividualdatenG9.png",
+    "path": "/bilder/wiki/individualdateng9-98c0f623.png",
+    "sha256": "dc3fb6c0db0e7a7fa9b3d588d828b5f8be03176769242d2f2c989cca782d1c5c",
+    "bytes": 57840
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/4c/IndSchuelergruppe.jpg",
+    "path": "/bilder/wiki/indschuelergruppe-91c3751e.jpg",
+    "sha256": "f19dddb7408822ec6104689bc3fc0076b84bdcbdac370f0ed6edaa961e144cf4",
+    "bytes": 43829
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/b3/Info.png",
+    "path": "/bilder/wiki/info-c50017bb.png",
+    "sha256": "c7ea770bf453bf312a07bbca52424c185b9e6e1e3ac50ae4b4c9dc17fb2f8407",
+    "bytes": 1876
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/e9/Info.jpg",
+    "path": "/bilder/wiki/info-e45bfb82.jpg",
+    "sha256": "ac7487bffeec5b159542edec319f23a07f6e00a0269095d8af591c9b88542eae",
+    "bytes": 42389
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/a7/Informationen-Datenquellen.png",
+    "path": "/bilder/wiki/informationen-datenquellen-3d7473bc.png",
+    "sha256": "28302191435d80c99b2d72f89dc2ab203364ea99ede9a569c5771263dd35fb07",
+    "bytes": 25348
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f2/Inhalt.png",
+    "path": "/bilder/wiki/inhalt-9f456689.png",
+    "sha256": "6da5532999933fc60174c0f04761890dc3abbc0c2a977d2cc3cd53ee56ca1754",
+    "bytes": 19109
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/6f/ISG-001.jpg",
+    "path": "/bilder/wiki/isg-001-09492543.jpg",
+    "sha256": "9d14e924e7168465f37f89a2de9704c2b09f0a1240f43ff422111465efac3457",
+    "bytes": 51439
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f7/ISG-002.jpg",
+    "path": "/bilder/wiki/isg-002-57c35c09.jpg",
+    "sha256": "e277797d8be4a27ee62a899bae56baba276737f72f5e1c44cdee186b74690f2a",
+    "bytes": 87210
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/1/1a/ISG-003.jpg",
+    "path": "/bilder/wiki/isg-003-29e607d2.jpg",
+    "sha256": "4d11ac889710c9da04ad62e4163f5916bc9bcbd738d45d2ddc5105bfb25b7a82",
+    "bytes": 81740
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/a9/JaNa-Textdatei.png",
+    "path": "/bilder/wiki/jana-textdatei-ee35af0e.png",
+    "sha256": "b024d21f2b275f2c93ae07942a44b3c86d21d2f5ef480f227d35d0be6180b42e",
+    "bytes": 13477
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/93/JG_Tabelle_BK.jpg",
+    "path": "/bilder/wiki/jg-tabelle-bk-668c91e3.jpg",
+    "sha256": "649e629829686e7e7ea787208d288fee56875ae9eaaca5257b4e150fc498f939",
+    "bytes": 277331
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/4f/JG_Tabelle_GE.jpg",
+    "path": "/bilder/wiki/jg-tabelle-ge-f1bda336.jpg",
+    "sha256": "5f0d87238ef5cc65b073a013df8e3e258cc499295be29f2df8d2c3ad2072cdfe",
+    "bytes": 136913
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/0d/JG_Tabelle_GS_neu.jpg",
+    "path": "/bilder/wiki/jg-tabelle-gs-neu-5badc641.jpg",
+    "sha256": "26572b889f2795271d8984028a522a096bd952057a9020f7466b9727f411d53f",
+    "bytes": 75730
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/1/13/JGTabelle_GY.png",
+    "path": "/bilder/wiki/jgtabelle-gy-cb2746c3.png",
+    "sha256": "6bfae36227332d3f5ef0c515a682ce1c69ca0b2e2407861ee2bb45cf59389cac",
+    "bytes": 175011
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/6d/KA33_001.jpg",
+    "path": "/bilder/wiki/ka33-001-0a09b70a.jpg",
+    "sha256": "fc2ac5fe57a2cc97f6bad2031255a53b116cab5145b424c037968f48f8b8df31",
+    "bytes": 45835
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/b7/KA33_002.jpg",
+    "path": "/bilder/wiki/ka33-002-6f8d2279.jpg",
+    "sha256": "e3f71ac213f6095c7eeef152f552dce17c0ec178483133d64946534de3157db8",
+    "bytes": 44724
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/9b/KA33_003.jpg",
+    "path": "/bilder/wiki/ka33-003-efd43389.jpg",
+    "sha256": "0594cef88a38706ee5238fe585ec0f5b7488cd7a0194f078ffa678fd8bc18a1a",
+    "bytes": 27460
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/63/KA33_004.jpg",
+    "path": "/bilder/wiki/ka33-004-a52e870a.jpg",
+    "sha256": "97089f99cb197fe5ccaaa43ceb8ed1a65d0f6d92294ebf25a57d0957743658c5",
+    "bytes": 39143
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/ab/KA33_005.jpg",
+    "path": "/bilder/wiki/ka33-005-3f81fe81.jpg",
+    "sha256": "b75bd225e0263f96071abc4283598140280384ba606ffbdb5a9220a624ea5b64",
+    "bytes": 33763
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/fd/KA33_006.jpg",
+    "path": "/bilder/wiki/ka33-006-a9053f82.jpg",
+    "sha256": "f4cd26397b6b972f82834767ecad60e934013552f5b8e641c10d5760939895ad",
+    "bytes": 152932
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/90/Karteikaesten_01.jpg",
+    "path": "/bilder/wiki/karteikaesten-01-8eff683a.jpg",
+    "sha256": "8d8e00d6a6e45e11875248672162efc2145524c6a8baa298559b2f040326db91",
+    "bytes": 6425
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/86/Karteikarte_Schulbesuch.png",
+    "path": "/bilder/wiki/karteikarte-schulbesuch-a461bb37.png",
+    "sha256": "587315c7315c2bcb8b46f9576eabfa3e7d4c41b4b653a4659c07df1670aa60cd",
+    "bytes": 26935
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/3a/Karteireiter_01.jpg",
+    "path": "/bilder/wiki/karteireiter-01-92390e75.jpg",
+    "sha256": "2c29d3916e56d655694c902c67802bf762375182ea8d5885f5ea9126574c9d4d",
+    "bytes": 23427
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/da/Karteireiter-Abitur1.png",
+    "path": "/bilder/wiki/karteireiter-abitur1-6583997b.png",
+    "sha256": "e49631626f56695adde1bf895d4fc88664f23b105ee76c04fc40437af82140ac",
+    "bytes": 11417
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/6f/Karteireiter-Abitur2.png",
+    "path": "/bilder/wiki/karteireiter-abitur2-d18ce3d1.png",
+    "sha256": "b5efc2ec41144e9916eb9788f9786020b168bb78bffbf23bf55b632662ead207",
+    "bytes": 2776
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/83/Karteireiter-Abitur3.jpg",
+    "path": "/bilder/wiki/karteireiter-abitur3-9e317350.jpg",
+    "sha256": "cceaf12472b53fbc93bc7ffcb8d32ad25fe6607e975405c6cd7c1dd1f8ba6155",
+    "bytes": 34492
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/2f/Karteireiter-Abitur4.jpg",
+    "path": "/bilder/wiki/karteireiter-abitur4-8764d30b.jpg",
+    "sha256": "79cc67a3298235ae2ab09a8cb031e3d8fb45229341e8bed8e8b648892678a796",
+    "bytes": 25539
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/cd/Karteireiter-Abitur5.jpg",
+    "path": "/bilder/wiki/karteireiter-abitur5-8008912f.jpg",
+    "sha256": "c6f56d91464a86f84151925b8dd83c8838be28336d82fb669fee16d89c6363c8",
+    "bytes": 67975
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/6c/Karteireiter-Abitur6.jpg",
+    "path": "/bilder/wiki/karteireiter-abitur6-9470c18c.jpg",
+    "sha256": "8b3243ac36d932f8a91d6003adde669a74a2f798a7a74ac109c83ac3482acd40",
+    "bytes": 7368
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/98/Kataloge_01.jpg",
+    "path": "/bilder/wiki/kataloge-01-c32eb1d4.jpg",
+    "sha256": "699d92f840500ecfe716da4506670e0c6621b1b794c0c289e817df83973f83c4",
+    "bytes": 21082
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/e3/Klassen-Abteilungen-01.jpg",
+    "path": "/bilder/wiki/klassen-abteilungen-01-51eeccf5.jpg",
+    "sha256": "d135e1b1ac80703a657380d09d930c8d45ec98d63c87ec0ff57940c2deea3539",
+    "bytes": 73583
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/1/19/Klassen-Abteilungen-02.jpg",
+    "path": "/bilder/wiki/klassen-abteilungen-02-e3163555.jpg",
+    "sha256": "65963d9ff5e37a81b363841c1898d142e6edd03bce26ab25234d3de03dd792cc",
+    "bytes": 36618
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/0b/Klassen-Versetzungstabelle.jpg",
+    "path": "/bilder/wiki/klassen-versetzungstabelle-b7f69246.jpg",
+    "sha256": "f253f68cf966fc0d61eba85f72e3f8f0d1b606726b4ee91ebcc604d78262b8f5",
+    "bytes": 54545
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/05/KlassenVersetzungstabelleG8G9.png",
+    "path": "/bilder/wiki/klassenversetzungstabelleg8g9-aac5ae2c.png",
+    "sha256": "497570960a052b295b4bd5708acc0861dd91daf277c544dd9c1a9d56a6e081a2",
+    "bytes": 28658
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/c4/KlassenVersetzungstabelleG9.png",
+    "path": "/bilder/wiki/klassenversetzungstabelleg9-067903c8.png",
+    "sha256": "f5b64c9a0462bb0c7fcc983e436393625c626af0488d97b7aea1081327aeca8a",
+    "bytes": 15073
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/98/KM2_BemerkungsFelder.png",
+    "path": "/bilder/wiki/km2-bemerkungsfelder-e2150696.png",
+    "sha256": "4dc7efd5682faa39186f3c008692f15015fbab91c11b4b576d752ec570796be3",
+    "bytes": 5509
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/dc/KM2_BemerkungsMarkierung.png",
+    "path": "/bilder/wiki/km2-bemerkungsmarkierung-7b661779.png",
+    "sha256": "b6904dd6c765bb20bab5801e658c3e48b38aa4afa359c962667bb6c9fc18040e",
+    "bytes": 10456
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/9c/KM2_Bildschirmaufbau_01.png",
+    "path": "/bilder/wiki/km2-bildschirmaufbau-01-c97fa288.png",
+    "sha256": "e17648f66c37f286f0cac28c003ad43d45e248768f56e05d8ece148be22d4b07",
+    "bytes": 56203
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/20/KM2_LeistungsUebersicht_Bsp_01.png",
+    "path": "/bilder/wiki/km2-leistungsuebersicht-bsp-01-5a861b1a.png",
+    "sha256": "3f375cf2987ee06d16159e41f19ff45e5f0e57de7a1a8b57e1deaca56ce73adb",
+    "bytes": 45182
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/25/Km2-logo.png",
+    "path": "/bilder/wiki/km2-logo-6df70bfe.png",
+    "sha256": "cf397321def356df3a188f6a144adc66106ae9c192b09791140e34506418470b",
+    "bytes": 3190
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/42/KM2_NotenAuswahl.png",
+    "path": "/bilder/wiki/km2-notenauswahl-dea22771.png",
+    "sha256": "8b18473b4f4b686129d2d4667be4db87d8192e7c7bc6e8c37054e0280c6e0f3d",
+    "bytes": 23578
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/02/Km2_parameter_admin.png",
+    "path": "/bilder/wiki/km2-parameter-admin-94dfe50a.png",
+    "sha256": "aaef18c77937bf89620af8e05857477a58d36266515ac7b5be45b99788b8c63e",
+    "bytes": 15483
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/27/Km2_parameter_allgemein.png",
+    "path": "/bilder/wiki/km2-parameter-allgemein-a0b8f42a.png",
+    "sha256": "551faf2e78b01683d55ba717e64b2a70c4b2d417cb86bc4d82826585d9d31168",
+    "bytes": 31542
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/54/KM2_parameter_allgemein_ersatzfaecher.png",
+    "path": "/bilder/wiki/km2-parameter-allgemein-ersatzfaecher-d746c905.png",
+    "sha256": "6b464bd37657a42975118cd62577d1cda99b22bd963ebcf04f0582013e77ecf7",
+    "bytes": 11060
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/50/KM2_parameter_allgemein_sonst.png",
+    "path": "/bilder/wiki/km2-parameter-allgemein-sonst-caa50a86.png",
+    "sha256": "fa103aad49b5d3dc1c676591b27a02694bd23009b805df02ca4b7f985eb31946",
+    "bytes": 8088
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/1/15/KM2_Protokolldaten_allgemein.png",
+    "path": "/bilder/wiki/km2-protokolldaten-allgemein-9a7991b7.png",
+    "sha256": "94fbac505dbbcff19c77af821ebf2a6a39efbe9fd09cf0461cd4dd33b89ac522",
+    "bytes": 25415
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f0/KM2_Protokolldaten_Klasse.png",
+    "path": "/bilder/wiki/km2-protokolldaten-klasse-19b36db4.png",
+    "sha256": "eacce05e3b15cfea985ff7e54b0ff0b7ada0859deb795eab671e903bb04de1f7",
+    "bytes": 24716
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/c5/Km2_schild_klassengruppen_abteilungen.png",
+    "path": "/bilder/wiki/km2-schild-klassengruppen-abteilungen-297a9b38.png",
+    "sha256": "5fb101b35eb9eb04619dc263227ef895679e5f4e0c740828133afbd236614474",
+    "bytes": 13444
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/1/18/KM2_SchuelerLupe_Bsp_01.png",
+    "path": "/bilder/wiki/km2-schuelerlupe-bsp-01-37968a2c.png",
+    "sha256": "1ed47ca934a259f68b9c3f6fcfb7f30e59e6abb23d93412f31344b207dea11b5",
+    "bytes": 49257
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/8a/KM2_Update_01.png",
+    "path": "/bilder/wiki/km2-update-01-3218b5d9.png",
+    "sha256": "836586ef794582cd11346c0cef14eb60438607dde9da22984d0ea31afefe3301",
+    "bytes": 10941
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/7b/KM2_Update_02.png",
+    "path": "/bilder/wiki/km2-update-02-e6bc532b.png",
+    "sha256": "8a0209d68a2662b3255e26310422a6a0f74ea5084e7c785a63027b19b8a650f6",
+    "bytes": 16254
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/87/KM2_Update_03.png",
+    "path": "/bilder/wiki/km2-update-03-6ca5a222.png",
+    "sha256": "2f684c40add5c744f777ece39929aa8a431fbec3c79738a1df4800dcc01ad516",
+    "bytes": 16855
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/9d/KM2_Update_04.png",
+    "path": "/bilder/wiki/km2-update-04-d0d0a99c.png",
+    "sha256": "999dfa59be9d0caa7b804b6966930351d3be06a29d8332c9107b7d7d6bc49f89",
+    "bytes": 16755
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/84/Km2_verbindung_testen.png",
+    "path": "/bilder/wiki/km2-verbindung-testen-e00595dc.png",
+    "sha256": "f9a3847d7a4694c8a63d7926e7c15f01c37559a404d1a6371c70f2662312da5b",
+    "bytes": 6698
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/94/KM2_ZeugnisBemerkungen.png",
+    "path": "/bilder/wiki/km2-zeugnisbemerkungen-8ff8fb52.png",
+    "sha256": "ddc19f4fdd94bd12308033fa637a9a78cd81b4816b82646ba9dc6a32a5559ea1",
+    "bytes": 7831
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/79/KM2ParameterFestlegen.png",
+    "path": "/bilder/wiki/km2parameterfestlegen-ffa92457.png",
+    "sha256": "06d98c145cdc37a4c7ae9c3bd22651ae4f3f608da7bc89635b8314d54052f001",
+    "bytes": 234
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/64/KM2ParameterRegister.png",
+    "path": "/bilder/wiki/km2parameterregister-506996a2.png",
+    "sha256": "56ba7ac0c862728f3bd14f1776dc3dd82e12e69ceb883690387e1047085edd33",
+    "bytes": 26814
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/ea/Kompetenzen.png",
+    "path": "/bilder/wiki/kompetenzen-3caed16b.png",
+    "sha256": "654665650a9f50ff4e146da8bfb90e1a83983bf554af363159854df4123dc6e2",
+    "bytes": 20640
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/9e/Kreuztabelle-CrossTab2.png",
+    "path": "/bilder/wiki/kreuztabelle-crosstab2-2e8be566.png",
+    "sha256": "ccb6a99c2f97ad282d525a3026ce2cf4a1e5443c4b547307230a08aad4885ad2",
+    "bytes": 2528
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/7d/Kreuztabelle-einrichten.png",
+    "path": "/bilder/wiki/kreuztabelle-einrichten-5aa852b7.png",
+    "sha256": "1dff48cfa452e09e2e02c4e9feccb23e9be2f43bf7774d97d5c0f2c3ce0e4ea1",
+    "bytes": 71073
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f9/Kreuztabelle-konfigurieren.png",
+    "path": "/bilder/wiki/kreuztabelle-konfigurieren-ddcdf1d5.png",
+    "sha256": "7dafe0f67e5387ae467a1cd5dc518b39ab3e422985f85733dc5449c92fdb69a9",
+    "bytes": 12868
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/3a/Kreuztabelle-Layout.png",
+    "path": "/bilder/wiki/kreuztabelle-layout-5398a963.png",
+    "sha256": "6787d15d33b45f66096803b14d91b04ff937d9ce13c47415d5f99e0ba29024e3",
+    "bytes": 18768
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/be/Kreuztabelle-Religion1.png",
+    "path": "/bilder/wiki/kreuztabelle-religion1-3165f7a3.png",
+    "sha256": "31f15d4697c39eb5075707d3741f845beb526228004736c6bb976c203746820e",
+    "bytes": 11581
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/8f/Kreuztabelle-Uebersicht.png",
+    "path": "/bilder/wiki/kreuztabelle-uebersicht-83a2be0a.png",
+    "sha256": "c79081b903a1092e511ba67b0b1ffb906aca75b341aff4e846b07ad94de70cca",
+    "bytes": 14454
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/40/Kurs42ToCNF_Logo.png",
+    "path": "/bilder/wiki/kurs42tocnf-logo-0eadca3b.png",
+    "sha256": "cdf28a6b0f69f7e3a669ad2328096af599389046b6dcf6c6f4bccc7a3271a463",
+    "bytes": 385977
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/0a/Kurse.jpg",
+    "path": "/bilder/wiki/kurse-369021dd.jpg",
+    "sha256": "a581c7c9a99f54f70d360298266a91304d144bc0f9bab46ccbc4f32d6dc20790",
+    "bytes": 105088
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d1/Lehrer_01.jpg",
+    "path": "/bilder/wiki/lehrer-01-1feb61f3.jpg",
+    "sha256": "26b9f63c41e4331180e6fb27c3100be7a5b54df1425fcd0ce8ed5af05557b08c",
+    "bytes": 43228
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/29/Lehrer_02.jpg",
+    "path": "/bilder/wiki/lehrer-02-493d7b1c.jpg",
+    "sha256": "13009bd23ad9485cdb77dffd1bfbff48e6c6f33abfc19752dd8ef70fd028c88d",
+    "bytes": 58788
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/30/LehrerFunktionen.jpg",
+    "path": "/bilder/wiki/lehrerfunktionen-53421d57.jpg",
+    "sha256": "46ca507c218b738c0228604cf5c18bc4102ae79e8238c17b0bbff917587994a8",
+    "bytes": 41562
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/a2/LeistungsdatenKlasseTut01.jpg",
+    "path": "/bilder/wiki/leistungsdatenklassetut01-b652728e.jpg",
+    "sha256": "abf5ac14e7551c7267eee89316097a9a1e190fa4a7d3dcb4115b7c0a1b13aa60",
+    "bytes": 86504
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/43/LeistungsdatenKlasseTut02.jpg",
+    "path": "/bilder/wiki/leistungsdatenklassetut02-3147d436.jpg",
+    "sha256": "3fd2f36508bf245c61a75427dacf9b7fb29c728917b59c0bd981b98b7e092678",
+    "bytes": 161187
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/b0/LeistungsdatenKlasseTut03.jpg",
+    "path": "/bilder/wiki/leistungsdatenklassetut03-79c57626.jpg",
+    "sha256": "d1f0fd1784745b0b74e3906c6e41f7b960cf0802defe297eeac50183e04b4d29",
+    "bytes": 68842
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/37/LeistungsdatenKlasseTut04.jpg",
+    "path": "/bilder/wiki/leistungsdatenklassetut04-d5cb245e.jpg",
+    "sha256": "0adcf11de85cede12b36859582fec12c721c95e0decb3bf745f10bc50287883a",
+    "bytes": 75767
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/e1/LeistungsdatenKlasseTut05.jpg",
+    "path": "/bilder/wiki/leistungsdatenklassetut05-a6afca6e.jpg",
+    "sha256": "5b9985520e77acda6699dee74f38a2a88de1ec61c289e71964c9848d540dc713",
+    "bytes": 78951
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/aa/LeistungsdatenKursTut01.jpg",
+    "path": "/bilder/wiki/leistungsdatenkurstut01-985f1581.jpg",
+    "sha256": "b6a97e3a10b10cbbc51ac0e9ccb051a0c6b9abcf9c7b7234e8036e81f447729e",
+    "bytes": 38392
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/46/LeistungsdatenKursTut02.jpg",
+    "path": "/bilder/wiki/leistungsdatenkurstut02-100e1f9a.jpg",
+    "sha256": "8a8f88f21f34c6740151895649d3c8742be3f807258f1715b72a1617710dddea",
+    "bytes": 55024
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d2/LeistungsdatenKursTut03.jpg",
+    "path": "/bilder/wiki/leistungsdatenkurstut03-dcd699e3.jpg",
+    "sha256": "91031a165863a4078439df72e36b51648254b6f7589477270af73320c87b1e5e",
+    "bytes": 60613
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/de/LeistungsdatenKursTut04.jpg",
+    "path": "/bilder/wiki/leistungsdatenkurstut04-24a34185.jpg",
+    "sha256": "3738e6bd28759c4ae67f365c6c53c566c75fd1ec917187216cc522ba13a322c3",
+    "bytes": 111178
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/aa/LeistungsdatenKursTut05.jpg",
+    "path": "/bilder/wiki/leistungsdatenkurstut05-c0aad5b0.jpg",
+    "sha256": "4ebad8348f45c5f049aa53f12c1f75cbea1758a9fd201c17bb3a43fb6954a0b8",
+    "bytes": 107630
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/2f/Leistungsuebersicht-01.png",
+    "path": "/bilder/wiki/leistungsuebersicht-01-3a12792b.png",
+    "sha256": "a1b1035776d83c7a6d540954e148e4743d0a5b14e9270e0c2795df2907d5b1af",
+    "bytes": 5867
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d7/Leistungsuebersicht-02.png",
+    "path": "/bilder/wiki/leistungsuebersicht-02-d1b0595a.png",
+    "sha256": "7d076662fa797cb818cd883eed362021267ef0e0c1cd591eb37bb7c743cc2920",
+    "bytes": 7292
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/e8/Leistungsuebersicht-03.png",
+    "path": "/bilder/wiki/leistungsuebersicht-03-416ef80a.png",
+    "sha256": "9823092cdcb49c12d98408c001d689d6862b737f4eb3a160bcf90fc2ccf7dcd8",
+    "bytes": 7940
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/fb/Leistungsuebersicht-04.png",
+    "path": "/bilder/wiki/leistungsuebersicht-04-a7385a27.png",
+    "sha256": "5ef77b79dfda0d39090524c1be3ec7553336ba8a874d4ff3798c39c3651d3cf7",
+    "bytes": 5839
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/88/Leistungsuebersicht-05.png",
+    "path": "/bilder/wiki/leistungsuebersicht-05-9ff9d923.png",
+    "sha256": "6200adc2be383b123230cd1a7202cde0816cdf681e24c1b0415fcff9ffee3b63",
+    "bytes": 12667
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/ae/Leistungsuebersicht-06.png",
+    "path": "/bilder/wiki/leistungsuebersicht-06-712a39aa.png",
+    "sha256": "16ca66d8f3f16bc0cd7017ba21133df1cffc58a037fc84e9a96cc9e4a84803c5",
+    "bytes": 15845
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/66/Leistungsuebersicht-07.png",
+    "path": "/bilder/wiki/leistungsuebersicht-07-973ffc3e.png",
+    "sha256": "f2ee8d08b60e833d7fbe61bcd15a594a6d238f8f92ab8b49fe47dff42e410d80",
+    "bytes": 35182
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/4c/Leistungsuebersicht-08.png",
+    "path": "/bilder/wiki/leistungsuebersicht-08-57622717.png",
+    "sha256": "3fb99bc22d7b9ad4a386aa1f5fce06767c27570f3534554f8d0c8dfb1dd62eeb",
+    "bytes": 14330
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/8f/Leistungsuebersicht-09.png",
+    "path": "/bilder/wiki/leistungsuebersicht-09-70e5981d.png",
+    "sha256": "600f0eb21e4ebf2f5574fefc74650716333bcae03b523038820ff667510e842d",
+    "bytes": 11834
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/27/Leistungsuebersicht-10.png",
+    "path": "/bilder/wiki/leistungsuebersicht-10-074181a4.png",
+    "sha256": "8ecd05af23e1524ba5a77c74f3e18545076acf6914aa562f85a2cba01bea15da",
+    "bytes": 12901
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/e4/L%C3%B6schung.jpg",
+    "path": "/bilder/wiki/loeschung-8b55bd8a.jpg",
+    "sha256": "6f3a355a5d3f23c8615e5e78ee0f9f5890baa5be3fd89e60178fad0e588273ea",
+    "bytes": 23685
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/95/Lupo_hauptseite.png",
+    "path": "/bilder/wiki/lupo-hauptseite-bf47bfe8.png",
+    "sha256": "7918a9127b47187efff5bba22237d1d44a79c83ff81934634c5470e0aee794ec",
+    "bytes": 35313
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/fe/LupoExport1.jpg",
+    "path": "/bilder/wiki/lupoexport1-21f9425c.jpg",
+    "sha256": "807b9bfb8c65870d8c99b61a64a443691fef6d7cb607e442891dbb90f4a95f28",
+    "bytes": 63228
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/35/LupoExport2.jpg",
+    "path": "/bilder/wiki/lupoexport2-a87aeed8.jpg",
+    "sha256": "b8062dd93174f0d0bfdd7c85adcacb1de1fd9f1f32b40c26ba7d1e9fa9190d76",
+    "bytes": 27754
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/59/Mahndatum_setzen.png",
+    "path": "/bilder/wiki/mahndatum-setzen-ef23f47e.png",
+    "sha256": "51fee7f6a241d2a553d9b61fc00a051ffa5e400999c8b4bdb5cb87e4b1a6a091",
+    "bytes": 55638
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/0e/MahnungDrucken.png",
+    "path": "/bilder/wiki/mahnungdrucken-2f85d5be.png",
+    "sha256": "61f0d5138cf80c29024741dcb84d9b8f5ea3001a6d0af55e07bbc17832865c1f",
+    "bytes": 53850
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/1/1f/MahnungDrucken3.png",
+    "path": "/bilder/wiki/mahnungdrucken3-df9eec46.png",
+    "sha256": "045b81b3a63897c2d8e917334e0186def0cf7fe2ca5246de4fe9511558379906",
+    "bytes": 54984
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/34/MerkmaleDefinieren.png",
+    "path": "/bilder/wiki/merkmaledefinieren-116904c3.png",
+    "sha256": "05c9ef25cad4e12a47057055e3e3cc3585a08e4ea403f372cdaaf5489db5dfcb",
+    "bytes": 28819
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/6c/MerkmalLeer.png",
+    "path": "/bilder/wiki/merkmalleer-cc47c0f4.png",
+    "sha256": "9f58f6d6a19944ae439dc5bb3a84fd191d0aafa42a7e40d10d170a00323bd384",
+    "bytes": 22037
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/a1/MerkmalUebermittag.png",
+    "path": "/bilder/wiki/merkmaluebermittag-97332c7c.png",
+    "sha256": "2c3450254869ad5a56026b358c76e8bd9d73beea166f862f64a1a659c53de6d7",
+    "bytes": 33254
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/24/Migrationshintergrund.png",
+    "path": "/bilder/wiki/migrationshintergrund-066adf7e.png",
+    "sha256": "57ecaf9e967160b8c1f6d76ce1b0dd99414231d322b2336bac8d060bf3bbe827",
+    "bytes": 13899
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/83/Migrationshintergrund01.jpg",
+    "path": "/bilder/wiki/migrationshintergrund01-6fa0b3ad.jpg",
+    "sha256": "061844c4b7b90e1373ab287532a57eb217e295dbfebf1dc726861fc1029cf8f8",
+    "bytes": 24766
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/02/Migrationshintergrund02.jpg",
+    "path": "/bilder/wiki/migrationshintergrund02-47e221db.jpg",
+    "sha256": "dd2b11ab3128f32cf4ed3008556ea34e689716e7b600add2679287f963f9df56",
+    "bytes": 29098
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/57/Migrationstool.jpg",
+    "path": "/bilder/wiki/migrationstool-8d6bf900.jpg",
+    "sha256": "74668c24c185202d3a3daf439b5a4465869bc778b7b8f6b8d9ce0035df655d93",
+    "bytes": 43286
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f8/Multi_Klausurplaner_Klausuren_pro_Tag.png",
+    "path": "/bilder/wiki/multi-klausurplaner-klausuren-pro-tag-588bd2a6.png",
+    "sha256": "fe4deae29da6bef6ab483616dbfe9c4d3cf334923602dbb39107f799e08d4169",
+    "bytes": 329003
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/c6/Multi_Klausurplaner_Klausurplan.png",
+    "path": "/bilder/wiki/multi-klausurplaner-klausurplan-31cf5494.png",
+    "sha256": "5d212145e89ad7f2cfef841f37054e089b0035223337398f4c8152522bd2a813",
+    "bytes": 177552
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d6/Multi_Klausurplaner_Main.png",
+    "path": "/bilder/wiki/multi-klausurplaner-main-832fca8c.png",
+    "sha256": "0744f16dede75bcea587ded2375ff3bff4cdc092bcdcaac9986052e7c1e0941c",
+    "bytes": 284485
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d7/Multi_Klausurplaner_Zellen%C3%BCbersicht.png",
+    "path": "/bilder/wiki/multi-klausurplaner-zellenuebersicht-6c7c9796.png",
+    "sha256": "012812167d88d28f79ee57fb02308b661c433a5c4390e5d7355b1cd260a93004",
+    "bytes": 153192
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d6/MysqlConnector.jpg",
+    "path": "/bilder/wiki/mysqlconnector-9ff6960c.jpg",
+    "sha256": "41c7765bfa5a2ce6eac0fe744055064e86066308a007f4b86d65c9afc0c12e18",
+    "bytes": 75532
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/cd/NE-Teilleistung-vorbereitet.jpg",
+    "path": "/bilder/wiki/ne-teilleistung-vorbereitet-aca64bdd.jpg",
+    "sha256": "4c94fe19ba1c796a14f1c263816236b3b257396d11bae309bac3705a1de4992a",
+    "bytes": 59344
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/6d/NE-Teilleitsung-nv.jpg",
+    "path": "/bilder/wiki/ne-teilleitsung-nv-923e35f8.jpg",
+    "sha256": "8a9356081abcf21af3ee9cadba2ae89cf5b70a3b407027404a8bec5183687922",
+    "bytes": 64805
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/09/Neuaufnahme.png",
+    "path": "/bilder/wiki/neuaufnahme-f27e28c8.png",
+    "sha256": "234d82d8298bb55eadc98831855380efae21ceba0df87f0c8476570e311899aa",
+    "bytes": 16099
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/fa/News_Kurs42_001.jpg",
+    "path": "/bilder/wiki/news-kurs42-001-a7e6e7cb.jpg",
+    "sha256": "19269671c892d4ca11c19369d50e950fdf9180e81914a4d7bb399d62ad09b003",
+    "bytes": 53940
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/3b/News_Kurs42_002.jpg",
+    "path": "/bilder/wiki/news-kurs42-002-20938a73.jpg",
+    "sha256": "6c6982dcaac5b144ac923ae400239406aa73dd2048bbbeb7bf1a1275b7d4f9a7",
+    "bytes": 47371
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/29/News_Kurs42_003.jpg",
+    "path": "/bilder/wiki/news-kurs42-003-93daa022.jpg",
+    "sha256": "7cdc60bd9d09736780b17eaf76148734fe99e02d0897f66c63303626fe34f514",
+    "bytes": 54449
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/2b/News_Kurs42_004.jpg",
+    "path": "/bilder/wiki/news-kurs42-004-75cdb3cf.jpg",
+    "sha256": "a96eeff5e6a86a8081ed987103a26d5ac6003018e468398cbbc9c507e3e471e8",
+    "bytes": 36764
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/9d/News_Kurs42_005.jpg",
+    "path": "/bilder/wiki/news-kurs42-005-10af7fff.jpg",
+    "sha256": "b777761117d730f5246dbc4a0aae5ed8d8a386759cf91b6d088b14cfff971f3d",
+    "bytes": 18970
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f2/News_Kurs42_006.jpg",
+    "path": "/bilder/wiki/news-kurs42-006-77ddd776.jpg",
+    "sha256": "51515f22ab0429ce0b6d30d5d469d962d517ac19be95b482e40c3740c9211f58",
+    "bytes": 13937
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/ca/News_Kurs42_007.jpg",
+    "path": "/bilder/wiki/news-kurs42-007-4063b151.jpg",
+    "sha256": "7ded5805dd9d1cb838d47b7582019e5f420a154746c920ae1613290eff9e9cf6",
+    "bytes": 46146
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/31/News_Kurs42_008.jpg",
+    "path": "/bilder/wiki/news-kurs42-008-8f257c8f.jpg",
+    "sha256": "8f050949b27113e36868df50e5f1d86ed61cb3c6688dd20fea92a46102ebf540",
+    "bytes": 51377
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/e2/News_Kurs42_009.jpg",
+    "path": "/bilder/wiki/news-kurs42-009-8feb7e3d.jpg",
+    "sha256": "34165ff455d110a05122c6c689dcf03c4c38e57c7f1af60a17ce5ae31cde86b1",
+    "bytes": 18228
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/5f/News_Kurs42_010.jpg",
+    "path": "/bilder/wiki/news-kurs42-010-93199e3a.jpg",
+    "sha256": "367109e8762cb31a3473d342225ee42e09a3b35d23533cc15549f3461d6b7624",
+    "bytes": 20429
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/0a/News_Kurs42_011.jpg",
+    "path": "/bilder/wiki/news-kurs42-011-865542c2.jpg",
+    "sha256": "6122a0ab563576178d3f56f3e45b3da4fc095bf31f72a6f07e83cdc6ada8f4d0",
+    "bytes": 24951
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/44/News_Kurs42_012.jpg",
+    "path": "/bilder/wiki/news-kurs42-012-38d31a43.jpg",
+    "sha256": "28d9918bad70c47e15890071b379cef1d2dfed5c4c2f88d6b6eadf58620c33a2",
+    "bytes": 43889
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/28/Nichtversetzung_Beispiel.png",
+    "path": "/bilder/wiki/nichtversetzung-beispiel-1f09bad9.png",
+    "sha256": "0ba5ccc47077d0a06e49598c831eba430fd64f8b4c83efbefeba193490d433f0",
+    "bytes": 156309
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/8b/NMFK-1.JPG",
+    "path": "/bilder/wiki/nmfk-1-ea885f7a.jpg",
+    "sha256": "8df46dfa696fe3c1c8ef96e60ac9eb1fce2f62de40f3a98ddecd84c65033aed8",
+    "bytes": 21916
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/b8/NMFK-2.JPG",
+    "path": "/bilder/wiki/nmfk-2-3ecfacda.jpg",
+    "sha256": "19494c018557984ec7fd599bc45bcd36e11d8a1b449a8518443525d387a2278b",
+    "bytes": 37403
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/56/NMFK-3.JPG",
+    "path": "/bilder/wiki/nmfk-3-3554c2f1.jpg",
+    "sha256": "b4ac6ec069b5be487fc15ceb7449be32bee1367a862c8d096ee5e9688a89e59d",
+    "bytes": 26483
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/1/17/Notenexport1.jpg",
+    "path": "/bilder/wiki/notenexport1-a494b829.jpg",
+    "sha256": "794dd5ff396a2e8f88c992242f3dc6dbfc13d445256919133151f0f1eebe7559",
+    "bytes": 22630
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/94/Notenexport2.jpg",
+    "path": "/bilder/wiki/notenexport2-75c209aa.jpg",
+    "sha256": "e57977310716312f36fdeb38e219102345ec1a6c54c32aa65ca33e6abc4ac27c",
+    "bytes": 52748
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/30/Notenmodulexport.jpg",
+    "path": "/bilder/wiki/notenmodulexport-baf0d84e.jpg",
+    "sha256": "f8f37b16c1d5ecd0b6364a28e13f8fba15d3d201efd41cf8fd330c652b8ce6a9",
+    "bytes": 18799
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/60/Notfallnummern.jpg",
+    "path": "/bilder/wiki/notfallnummern-e138654a.jpg",
+    "sha256": "8718e88604e98f0ec7946b0321cf3687f544c4dc97f890f540b7525d605c9055",
+    "bytes": 27182
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/95/NursichtbareFaecher.jpg",
+    "path": "/bilder/wiki/nursichtbarefaecher-8e889aff.jpg",
+    "sha256": "a91217acce9c91a5f9301566cc872725576d8e04815893357554b01aa520dbca",
+    "bytes": 5425
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/8e/Option-Standardsteuerdatei.png",
+    "path": "/bilder/wiki/option-standardsteuerdatei-59252287.png",
+    "sha256": "5f4c6a5631361e23c584bbd828e9d29f3039b1546070928c677f1510d7df2088",
+    "bytes": 23791
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/cc/OrganisationsformHalbtag.png",
+    "path": "/bilder/wiki/organisationsformhalbtag-b468ea5c.png",
+    "sha256": "28c72e6b5f5b560a99c1448022799b21104c0a22986d8ba64c8f8a5a0eee8e79",
+    "bytes": 76163
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/08/OrganisationsformOffenerGanztag.png",
+    "path": "/bilder/wiki/organisationsformoffenerganztag-70c50ef3.png",
+    "sha256": "14d9902a6778e8b87a2e3818b49f1c7f905549b5cabf3ab9350b049b3dd80286",
+    "bytes": 87097
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/2d/Ortsteile.jpg",
+    "path": "/bilder/wiki/ortsteile-a4a6d727.jpg",
+    "sha256": "551ee487b3212cf56d55a8f9739efbbc472c3970413ea5f883f9869b3b9dbbf0",
+    "bytes": 37845
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/56/PDF-Mailversand01.png",
+    "path": "/bilder/wiki/pdf-mailversand01-77407a28.png",
+    "sha256": "0214a1e7947da94d6a75a9d28384e10b25b6c1f3a1c223abdc98357f01cfba60",
+    "bytes": 37974
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/42/PDF-Mailversand02.png",
+    "path": "/bilder/wiki/pdf-mailversand02-08b6044a.png",
+    "sha256": "2e7658ff96a8a3d296f9582fc7182330a1fcdb073098c0f7b06aa7731a3ee1b9",
+    "bytes": 19002
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/33/PDF-Mailversand03.png",
+    "path": "/bilder/wiki/pdf-mailversand03-42166a87.png",
+    "sha256": "9cd1c7cd8bdf514c1987b6cea3de0992e91f07f3fc76d5eac5406fdadba44f11",
+    "bytes": 13723
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/af/Personengruppen.jpg",
+    "path": "/bilder/wiki/personengruppen-74be9140.jpg",
+    "sha256": "6fcb6070fa5e64dbb59e23aabce157e0f5d0f609e182091105dbb82617f9010a",
+    "bytes": 52063
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f6/Plattformen_anlegen.png",
+    "path": "/bilder/wiki/plattformen-anlegen-30727c76.png",
+    "sha256": "196f0af3dd22d8f20ab1621df7856b1d1a625735598ac7fac02b03e04a5cfc30",
+    "bytes": 10571
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/ec/PM_2_Speichern_verschl%C3%BCsselt.png",
+    "path": "/bilder/wiki/pm-2-speichern-verschluesselt-a2b87d35.png",
+    "sha256": "f17f8f742be49897fc18a33a35afdad146a77096358780035604e5035ac40e9e",
+    "bytes": 6032
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/cc/PM2_Analyse.png",
+    "path": "/bilder/wiki/pm2-analyse-2120fc71.png",
+    "sha256": "1ccfe2a3d0a826b1f69ee123567d2593c2105267cbc244b8c45bbb7d6c33e5cc",
+    "bytes": 5115
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/31/PM2_Anzeige.png",
+    "path": "/bilder/wiki/pm2-anzeige-01df97fe.png",
+    "sha256": "715a726c1590cb58a09dfb73e32a1f7bfdafaca907079410eaedb8a7f9b7bf0f",
+    "bytes": 4844
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/82/PM2_Auswahl_01.png",
+    "path": "/bilder/wiki/pm2-auswahl-01-9cf9f0d4.png",
+    "sha256": "1800e42bc43ef2fd1d1f76ee786d2985339cb8e2d430ab2b4da363e673ed7765",
+    "bytes": 23186
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/5a/PM2_Auswahl_D01.png",
+    "path": "/bilder/wiki/pm2-auswahl-d01-b30a1b47.png",
+    "sha256": "a97dce24492d3b0e2f203ae224954438482927d3ac6057b554a7e8ec63a9d371",
+    "bytes": 34332
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/0d/PM2_Auswahl_E01.png",
+    "path": "/bilder/wiki/pm2-auswahl-e01-180b66d4.png",
+    "sha256": "14a7a7aa946c471dcdd6bf6d32d0aaeabe35fbae244c873ce2dbbec40aba1661",
+    "bytes": 106272
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/03/PM2_Auswahl_K01.png",
+    "path": "/bilder/wiki/pm2-auswahl-k01-43f896ec.png",
+    "sha256": "d316ac251202c87cd60f2626b2d7ddf869d8c9424ca6667337438d2b42a90f24",
+    "bytes": 66957
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/56/PM2_beenden.png",
+    "path": "/bilder/wiki/pm2-beenden-639d5829.png",
+    "sha256": "defa9d896868eaab2d42d0764614a32141c557b095bec8ae0028d596c0f122dc",
+    "bytes": 1541
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/b9/PM2_Erststart_01.png",
+    "path": "/bilder/wiki/pm2-erststart-01-0623fff6.png",
+    "sha256": "eecfd8fcda2075b7ca88849e560ee1dcf867fc7a10511d3c44addc0175bd7afc",
+    "bytes": 31738
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/67/PM2_Erststart_02.png",
+    "path": "/bilder/wiki/pm2-erststart-02-1cb3b9db.png",
+    "sha256": "58230db9584ae997c1599641e9d71289f4aeec41d91d75cc7d91ff4fd9fe5790",
+    "bytes": 42796
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/2b/PM2_Erststart_03.png",
+    "path": "/bilder/wiki/pm2-erststart-03-8dff6e1a.png",
+    "sha256": "407b6a2b8e168c7eaaf31712cebf21e15dfcd0355e71da17f628442193a509e6",
+    "bytes": 39790
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/65/PM2_Erststart_04.png",
+    "path": "/bilder/wiki/pm2-erststart-04-33c00a7e.png",
+    "sha256": "e54b96ee3f50e1d488871cefd3f4d0b08dfbb2915a3f29f43efb3324a31b9f29",
+    "bytes": 57581
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/28/PM2_Erststart_05.png",
+    "path": "/bilder/wiki/pm2-erststart-05-629afdc3.png",
+    "sha256": "36cd5a7847acce101f1a817a4663523e3c16135ba196d5d089513e0b81d2f9c8",
+    "bytes": 16296
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/b1/PM2_Lernabschnitt.png",
+    "path": "/bilder/wiki/pm2-lernabschnitt-f0afdd7c.png",
+    "sha256": "2ea70eda50da198cf43c2fecf314ba25625a451108a719a7a011fa09f34d1eba",
+    "bytes": 5018
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/5d/PM2_Optionen.png",
+    "path": "/bilder/wiki/pm2-optionen-2b608c62.png",
+    "sha256": "c7f22d86545c6c0b2ccea2e0dcfd968ddfbd6df009758eddc880c94532cb5b66",
+    "bytes": 7548
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/6f/PM2_Setup_01.png",
+    "path": "/bilder/wiki/pm2-setup-01-6c837cda.png",
+    "sha256": "27c315a22b7d0974eae06bbf8b5a48272f02c530e09352ec5c83772ae13c13cd",
+    "bytes": 146284
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f3/PM2_Setup_02.png",
+    "path": "/bilder/wiki/pm2-setup-02-2bfd9cb5.png",
+    "sha256": "38a222443db4d446cb1c228c820c46e15ddf17640e9eae04d36b220b4df3fba1",
+    "bytes": 48591
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f6/PM2_Setup_03.png",
+    "path": "/bilder/wiki/pm2-setup-03-5505cc60.png",
+    "sha256": "3a336565443c1cc31262a379403f12a0362157cb966aeac6d413c862ebdeb94a",
+    "bytes": 113026
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/1/12/PM2_Setup_04.png",
+    "path": "/bilder/wiki/pm2-setup-04-12c52a1a.png",
+    "sha256": "9a6137d5dd35926611157299b3967ea8fcdef70e183d2fa3c9ec13e07df076ce",
+    "bytes": 101792
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/e8/PM2_Setup_05.png",
+    "path": "/bilder/wiki/pm2-setup-05-e9906a01.png",
+    "sha256": "053512fc9cae77809ae5402b262e86bffc76658d0f9ff1d7a6ec10dbaaa70ae3",
+    "bytes": 96865
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/0c/PM2_Setup_06.png",
+    "path": "/bilder/wiki/pm2-setup-06-c8a506b4.png",
+    "sha256": "9664d615f78e949ab89bd1747915a3af5eba7119b7bdae949d47d196bf9270eb",
+    "bytes": 101767
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/5d/PM2_Setup_07.png",
+    "path": "/bilder/wiki/pm2-setup-07-67a082fc.png",
+    "sha256": "ec7d2da3250feeccdba2e3b1bf7dbb861d8e9ead6c3abc3a3d9bb867a6aaf29b",
+    "bytes": 131780
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/af/PM2_Speichern_unter_01.png",
+    "path": "/bilder/wiki/pm2-speichern-unter-01-04d02073.png",
+    "sha256": "5e09d203e31319c432230d58e5482a635c8ea6b6616a601c572058d7ed27adda",
+    "bytes": 2576
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/8c/PM2_Speichern_unter_02.png",
+    "path": "/bilder/wiki/pm2-speichern-unter-02-842f56c0.png",
+    "sha256": "233e257313bb736b6df73f2f13026bbf360746aa8c3a3333b619dff1f834fd49",
+    "bytes": 9829
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/cc/PM2_Speichern_unter_03.png",
+    "path": "/bilder/wiki/pm2-speichern-unter-03-23ba2794.png",
+    "sha256": "034ef862452463cedf47089ce9e4ace843693407925e12fade0a4ccbaa4897e6",
+    "bytes": 6816
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f2/Prognos_Logo.png",
+    "path": "/bilder/wiki/prognos-logo-2111870e.png",
+    "sha256": "28ff5ceeb5fcb4e0e51f868f584f32d8c39bc9c021c1c81281d434c360aa3afe",
+    "bytes": 18947
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/34/Raf-Datei-Beispiel.png",
+    "path": "/bilder/wiki/raf-datei-beispiel-67411c14.png",
+    "sha256": "d33083ebbdc0b1db19d9eaebb4e99f320ba0a8d5e7f560613d561cdd038b609c",
+    "bytes": 2935
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/c5/Reiter_Einwilligungen.png",
+    "path": "/bilder/wiki/reiter-einwilligungen-777a9dc5.png",
+    "sha256": "77de1c742867c8595b564b1226fb37ad2df1b936fc3ea4e0bf0f4f0ce6b58862",
+    "bytes": 26911
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/cc/Reiter_Einwilligungen_Lehrer.png",
+    "path": "/bilder/wiki/reiter-einwilligungen-lehrer-03ae5fa8.png",
+    "sha256": "13ffa99a057a1b1f032ec23848c8361d564c30a65bb96bde9b76d07734d08aae",
+    "bytes": 21940
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/c8/RepBau01.jpg",
+    "path": "/bilder/wiki/repbau01-ea9fbcaa.jpg",
+    "sha256": "1a4abefcfd6eb89d2f0946e42e74d2db44c9e817bfb8e52f543161014b8c2c86",
+    "bytes": 29217
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/00/RepBau02.jpg",
+    "path": "/bilder/wiki/repbau02-45c47307.jpg",
+    "sha256": "0538eff7295b26763e139c3a9c14d091db564d07d536ccf19feedf125002c640",
+    "bytes": 73557
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/c4/RepBau03.jpg",
+    "path": "/bilder/wiki/repbau03-a162297d.jpg",
+    "sha256": "3bc8b9b44b7ae8380a3f7604da13150edc1216c000c4674ed22e485727ce978a",
+    "bytes": 1025
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/4d/RepBau04.jpg",
+    "path": "/bilder/wiki/repbau04-4ddb49e0.jpg",
+    "sha256": "fd00adc6a5938a67bb613d6fe3a9e329f6622ad017eee959462e5d825bcf104d",
+    "bytes": 1122
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/0a/RepBau05.jpg",
+    "path": "/bilder/wiki/repbau05-7b508a77.jpg",
+    "sha256": "e8f487525123b7c664d162f9f948acebcef8100196aba2782d8f7523bc0a38f7",
+    "bytes": 1105
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/94/RepBau06.jpg",
+    "path": "/bilder/wiki/repbau06-6890f235.jpg",
+    "sha256": "cb0fc951ad98ab28ec3a301b96452ada03b433c7d3b83ef6709e86ea7c40220f",
+    "bytes": 986
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/57/RepBau07.jpg",
+    "path": "/bilder/wiki/repbau07-89010027.jpg",
+    "sha256": "a2c0dee9bdf9b97d7a406a7153cf7f1533ccff737cd68c2b1194444cb36c3fad",
+    "bytes": 954
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d1/RepBau08.jpg",
+    "path": "/bilder/wiki/repbau08-a748c762.jpg",
+    "sha256": "ec912aa5926060e4bced49d7333d29d75d6ffb1fc9784b32a91e044747049576",
+    "bytes": 1017
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/56/RepBau09.jpg",
+    "path": "/bilder/wiki/repbau09-23a77213.jpg",
+    "sha256": "1a86db8848497788600dbc7098db6e6abf59a23bde14977a351abdb4818f8612",
+    "bytes": 1058
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/4e/RepBau10.jpg",
+    "path": "/bilder/wiki/repbau10-6dc5fcf4.jpg",
+    "sha256": "fcbb6a7b0770c2124f3dcbe6c2712dae54e65a8b34b3162f51ff8fa7e2be271b",
+    "bytes": 1076
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/b1/RepBau11.jpg",
+    "path": "/bilder/wiki/repbau11-c14e39da.jpg",
+    "sha256": "c84bd5fbef7f80553f94bd43805b722a3d6ccf46e4cf381c204825c4b34eced5",
+    "bytes": 28953
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/9b/RepBau12.jpg",
+    "path": "/bilder/wiki/repbau12-aef42fab.jpg",
+    "sha256": "d3b1ff26d565951b17a07e8e51d553fc653a0a33dfec008944461e72ed353ade",
+    "bytes": 14251
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/08/RepBau13.jpg",
+    "path": "/bilder/wiki/repbau13-3641e3f3.jpg",
+    "sha256": "85c74e31f0ab8e1436141f0adc0c0db45aeb9a62f7d69fd6f84152911cbeea98",
+    "bytes": 38254
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d9/RepBau14.jpg",
+    "path": "/bilder/wiki/repbau14-efd8f96b.jpg",
+    "sha256": "63eeb93a4c526022c84bb0dc61052aa9266ef8a02966846519ed9bef11c01a59",
+    "bytes": 42779
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/e6/RepBau15.jpg",
+    "path": "/bilder/wiki/repbau15-ef3ab2cc.jpg",
+    "sha256": "8b19f639ec6c2c03e0c79a4d7e80024f5a5d8a89739b1ffe17e1ae27c4540540",
+    "bytes": 50472
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/54/RepBau16.jpg",
+    "path": "/bilder/wiki/repbau16-07188044.jpg",
+    "sha256": "15e11dcec6c64d9f4606db72806843371c3774638040b3c520b4f40a22a77e63",
+    "bytes": 25718
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/33/RepBau17.jpg",
+    "path": "/bilder/wiki/repbau17-00d082c4.jpg",
+    "sha256": "365506f62301838f64d402f526111188a43cc5a6bd4b2d0cb1d7331507f074f2",
+    "bytes": 47365
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/64/RepBau18.jpg",
+    "path": "/bilder/wiki/repbau18-5a9d01bc.jpg",
+    "sha256": "6a72f241a7e6584859a4ed225430a24b15faab9c57b06795954a394b0ce79a57",
+    "bytes": 72030
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/41/RepBau19.jpg",
+    "path": "/bilder/wiki/repbau19-0876eed9.jpg",
+    "sha256": "7d42cdc2bd5de6ecd24f3851df3a5e9fe6b7c814d89cd97743a86c5a8dd3d575",
+    "bytes": 21159
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/02/RepBau20.jpg",
+    "path": "/bilder/wiki/repbau20-ec6aee73.jpg",
+    "sha256": "5a70b58c4f967f610291a94a897dd0833898599730260779d0a6ed697801e863",
+    "bytes": 51070
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f9/RepBau21.jpg",
+    "path": "/bilder/wiki/repbau21-f59a0445.jpg",
+    "sha256": "9899d334499bb9e68e6d00c927bda9eaa61bdab2da2d584f19baa8f1a638bde7",
+    "bytes": 37402
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/ce/RepBau22.jpg",
+    "path": "/bilder/wiki/repbau22-79bd61c3.jpg",
+    "sha256": "e3b9a0030c3b6457dd53711ad32fa976e18df5a5092d7e3fdc11add065926c29",
+    "bytes": 57816
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/a7/RepBau23.jpg",
+    "path": "/bilder/wiki/repbau23-b63f3104.jpg",
+    "sha256": "fa190c6739cdef138ea1b2eb43ca2f1e6d7d74805d32afbaac24f8d814b57638",
+    "bytes": 2029
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/38/RepBau24.jpg",
+    "path": "/bilder/wiki/repbau24-a75168c8.jpg",
+    "sha256": "a63ed945742d0b00d774318a500e5759917360b13c94d4a8869854df5b4c762f",
+    "bytes": 81965
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d2/RepBau25.jpg",
+    "path": "/bilder/wiki/repbau25-dbd5469b.jpg",
+    "sha256": "5d837f05a7d2e7b48b0440e0bbad7c242b436b6e0428b3e2a2e1730850a4ac51",
+    "bytes": 26594
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/74/RepBau26.jpg",
+    "path": "/bilder/wiki/repbau26-d954c4ea.jpg",
+    "sha256": "305773608ca5c753b924e3f9e05fb470aa9545e411fc6a1ef00afaef669b914e",
+    "bytes": 42546
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/37/RepBau27.jpg",
+    "path": "/bilder/wiki/repbau27-a6344f2a.jpg",
+    "sha256": "60a3a0931eef3eed9971d99173fe9ef715be254070ac0701d93686122a901464",
+    "bytes": 29707
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/9c/RepBau28.jpg",
+    "path": "/bilder/wiki/repbau28-cb4b7474.jpg",
+    "sha256": "94a5e5b0081c235e58262c96ff18ab95da41f867494e5e7626cc09fc1d64ac7a",
+    "bytes": 7893
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/1/17/RepBau30.jpg",
+    "path": "/bilder/wiki/repbau30-a46b1d14.jpg",
+    "sha256": "6259daf84c575811394a49c41e6ce32a2de0b480afdf0430f2c9705fcf0e5147",
+    "bytes": 13591
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/71/RepBau31.jpg",
+    "path": "/bilder/wiki/repbau31-86eaf270.jpg",
+    "sha256": "e2d209fda5d808512cc6daa046c7a1199849c3df194ed299ada4c1ba93fb378d",
+    "bytes": 16988
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/54/RepBau32.jpg",
+    "path": "/bilder/wiki/repbau32-2c23b73f.jpg",
+    "sha256": "424f2cc0bccb8b62d7b03682944a770778b65a99900efa9f3337656dcc7b8abe",
+    "bytes": 49136
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/c8/RepBau33.jpg",
+    "path": "/bilder/wiki/repbau33-d171f2b2.jpg",
+    "sha256": "a6eac45a14aa14142e65c2ca99e2734243449725af54fcd7e22b920a64994c77",
+    "bytes": 29410
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/e3/RepBau34.jpg",
+    "path": "/bilder/wiki/repbau34-c7e48857.jpg",
+    "sha256": "beb06e7ae01663f99a0d6727ec52452bf217f2419d786a73095600ba78906474",
+    "bytes": 44412
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/01/RepBau35.jpg",
+    "path": "/bilder/wiki/repbau35-aa39f89f.jpg",
+    "sha256": "112c9beaee91af39827aea62109371d046f3b8b69121fc08cc22ac36094b5a61",
+    "bytes": 43963
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/6d/RepBau36.jpg",
+    "path": "/bilder/wiki/repbau36-e40eedf7.jpg",
+    "sha256": "077bbc2302a2ee06a5a9e9c0d95269f1658ab083617464ffe49f6086c542ea13",
+    "bytes": 51391
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/b5/RepBau37.jpg",
+    "path": "/bilder/wiki/repbau37-a01c779a.jpg",
+    "sha256": "de1886ee21da65c9a3fb969d64dfd08fff5168a696bb61791e3da59a1e351380",
+    "bytes": 20581
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/ea/Report-bearbeiten.png",
+    "path": "/bilder/wiki/report-bearbeiten-297e7a98.png",
+    "sha256": "539b54d38b1b6b845b9e38609e27fd3743802a056b0d621a3519b8c5c8c7fd8f",
+    "bytes": 565
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/03/Report-Header-dynSubreport.png",
+    "path": "/bilder/wiki/report-header-dynsubreport-aab71a51.png",
+    "sha256": "93ab0ddeb2d31514c6ecb44d327ebc7e139743a543624fa36c25210f4486f650",
+    "bytes": 599
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/2c/Report-Header-Einstellung.png",
+    "path": "/bilder/wiki/report-header-einstellung-40c80fa0.png",
+    "sha256": "20e5252679cf9807fea45e71ae620f9e664105a0321a51475b17943688c2aaf4",
+    "bytes": 14041
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/fe/Report-Header-mitSubreport.png",
+    "path": "/bilder/wiki/report-header-mitsubreport-75f45455.png",
+    "sha256": "abee2b4f2c01479a7576f9bdba744dfe2c14b812ef1b511755e79786a14a8380",
+    "bytes": 3404
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/4e/Report-Header-ohneSubreport.png",
+    "path": "/bilder/wiki/report-header-ohnesubreport-0518d8b3.png",
+    "sha256": "f8f303af8834b67c21ec826eda9a64a6a22f30d258e5a8e27702ee6dc239d31d",
+    "bytes": 4028
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/ea/Report-Header-SchulkopfEinfach.png",
+    "path": "/bilder/wiki/report-header-schulkopfeinfach-dd2638c7.png",
+    "sha256": "96c83d4668c644de6316c72d1019612ad08aa5abbfb9cc79a267522975f4087b",
+    "bytes": 3027
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/a9/Report-Header-Struktur.png",
+    "path": "/bilder/wiki/report-header-struktur-00556ef1.png",
+    "sha256": "daa2d66201a4217f7fe635a6982557a2f7b59c1281bcb848e38d8de767995ff6",
+    "bytes": 6008
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/3c/Report-Header-Vorschau.png",
+    "path": "/bilder/wiki/report-header-vorschau-8bbbec36.png",
+    "sha256": "c97bb414c1ea976adae97368536468ff54e88dd104963b5af45e96ef0ed7d68d",
+    "bytes": 19328
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/31/Report-Neu-2.png",
+    "path": "/bilder/wiki/report-neu-2-350d7025.png",
+    "sha256": "67a42792c03ff72b0d4d1730f6f4afc28be0450a98a793cc054e19438dc90ab1",
+    "bytes": 47653
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/8b/Report-Neu-DBText-1.png",
+    "path": "/bilder/wiki/report-neu-dbtext-1-4014efa3.png",
+    "sha256": "200411dd6c3ec6ff1b145ae9fc553b1faaae72c99446028e0aa21fb65f4ec2e4",
+    "bytes": 346
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d2/Report-Neu-DBText-2.png",
+    "path": "/bilder/wiki/report-neu-dbtext-2-421ed3bc.png",
+    "sha256": "6df653349ac3de289f036a0e53981b0abcbdc7c6e37343632632f9420044135c",
+    "bytes": 1481
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/01/Report-Neu-DBText-3.png",
+    "path": "/bilder/wiki/report-neu-dbtext-3-477f349a.png",
+    "sha256": "b2aced0173353607ce601373e7687dac8dad8acc70db8f33fcf215ef07024d3a",
+    "bytes": 15389
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/05/Report-Neu-Label.png",
+    "path": "/bilder/wiki/report-neu-label-fd828752.png",
+    "sha256": "8665cfa05dbcfa85d4135f91d1204b3530729b739ad57c94dcc1dafe2d59cee8",
+    "bytes": 1775
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/fd/Report-Neu-Label-Symbol.png",
+    "path": "/bilder/wiki/report-neu-label-symbol-814e4826.png",
+    "sha256": "b4c25465bf23af4f58f21ab22d59ddf95f0a1c93850823271ce7604a598c3b6a",
+    "bytes": 309
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/97/Report-Neu-Lineal.png",
+    "path": "/bilder/wiki/report-neu-lineal-4f3e6ef0.png",
+    "sha256": "a8de219c7257fd71839f90c20b65792d846211e94e60f21bb7598905a8dcf65d",
+    "bytes": 19841
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/1/12/Report-Neu-Linie.png",
+    "path": "/bilder/wiki/report-neu-linie-aab8a899.png",
+    "sha256": "3def3311c6c8c4672f455a90c1031057d4b19f96ffe010700d0dd45f4573d9c1",
+    "bytes": 538
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/8d/Report-Neu-Linie-Kontext.png",
+    "path": "/bilder/wiki/report-neu-linie-kontext-ad1a1537.png",
+    "sha256": "3cfac8c728f7dea00ed33ad7f6752a7930a3f72f75e5740436c433cb5e88e53a",
+    "bytes": 4602
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/75/Report-Neu-mm.png",
+    "path": "/bilder/wiki/report-neu-mm-9858a353.png",
+    "sha256": "67947cebe10db990a98bc56af7c546c49b5f11cf9806afad25c9cab054759bb3",
+    "bytes": 41275
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/56/Report-Neu-Ohne-WL.png",
+    "path": "/bilder/wiki/report-neu-ohne-wl-06cfc1cb.png",
+    "sha256": "b042bf68df214d4dae6b53754a43d2570f10d68b24e14ccc4f973a514ec7ff30",
+    "bytes": 16875
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/7e/Report-Neu-Raender.png",
+    "path": "/bilder/wiki/report-neu-raender-fcfdbd31.png",
+    "sha256": "2c829049d328ebd80868ef7cca8673bbc001f437b0787a8755431009c37cdd45",
+    "bytes": 17952
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/fa/Report-Neu-SeiteEinrichten.png",
+    "path": "/bilder/wiki/report-neu-seiteeinrichten-34dc338e.png",
+    "sha256": "bc21c6c2f6d5e6f389a677021c57348ca9385989fa1ab0a838417f63675849ed",
+    "bytes": 4991
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/fd/Report-Neu-Symbol.png",
+    "path": "/bilder/wiki/report-neu-symbol-9849e53f.png",
+    "sha256": "5a3ef2d7b6ac0a92fb75ec326b376ebaeedadc6a7c2963432fc0ee0ec66ff06c",
+    "bytes": 567
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/9f/Report-Neu-Systemvariable.png",
+    "path": "/bilder/wiki/report-neu-systemvariable-aa998c7d.png",
+    "sha256": "9bb99a96d6e703da79d2c6a45a4df01c3d7a3519e59770ca4b47ff26da7767de",
+    "bytes": 362
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/7d/Report-Neu-Systemvariable-Auswahl.png",
+    "path": "/bilder/wiki/report-neu-systemvariable-auswahl-9cb97b47.png",
+    "sha256": "572ff474f18dd51ed457cf3a8d849c096d9aa5fd918a90b04b5470d5a4ae184b",
+    "bytes": 6528
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/76/Report-Neu-Vorschau-1.png",
+    "path": "/bilder/wiki/report-neu-vorschau-1-de02199d.png",
+    "sha256": "a6a22a99555303fd00b5c936d793f058a8274854eb765e5326cedb52c6533b4e",
+    "bytes": 2362
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/7a/Report-Neu-Vorschau-2.png",
+    "path": "/bilder/wiki/report-neu-vorschau-2-095a294a.png",
+    "sha256": "8d5e559b43126bc9d1c8042c5a6ab6cdebe0665cf1d8983f4b3d9209a8740030",
+    "bytes": 2911
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/92/Report-Neu-Vorschau-3.png",
+    "path": "/bilder/wiki/report-neu-vorschau-3-ee56aedf.png",
+    "sha256": "ea750630742bc626adf75c1640ad53ea0537c4a14f198514d3a1f281b2a71e4c",
+    "bytes": 15799
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/c3/Report-Neu-Werkzeugleisten.png",
+    "path": "/bilder/wiki/report-neu-werkzeugleisten-a6898be4.png",
+    "sha256": "8281313308865b62f453721844c457bf46d966723515c3153a07c52b9de6dc15",
+    "bytes": 40244
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/1/10/Reportbaukasten-02.png",
+    "path": "/bilder/wiki/reportbaukasten-02-7569eb11.png",
+    "sha256": "4a98b6b2109f6e3937dc8e364986f701b63eaf1f884bc1d83feffdb019d0b1a8",
+    "bytes": 23790
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/8e/Reportbaukasten-03.png",
+    "path": "/bilder/wiki/reportbaukasten-03-7ea296f7.png",
+    "sha256": "acae352af9e1a56d577f7eec89155cf0f26360328251c320061cbcd694394b65",
+    "bytes": 7004
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/85/Reportexplorer.jpg",
+    "path": "/bilder/wiki/reportexplorer-0f25c092.jpg",
+    "sha256": "567ba97e932e0cfc3dbc51474f46f978ae151e3f3cc17496f759668b74ce3b0f",
+    "bytes": 31315
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/3e/Reporting.png",
+    "path": "/bilder/wiki/reporting-198f76b1.png",
+    "sha256": "041d46c2096d3cfe991224e5b0d831008d8d5a5ea4c8cac928953a68dde80f5f",
+    "bytes": 16021
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/b9/Reportordner.jpg",
+    "path": "/bilder/wiki/reportordner-90c33894.jpg",
+    "sha256": "3a3a41120fefa9c329b27f27937322cfb6c1e82fe23c1b302151df0aded57605",
+    "bytes": 16203
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/70/Reports.jpg",
+    "path": "/bilder/wiki/reports-a0eebace.jpg",
+    "sha256": "d105b291d42cada70fa0c76a98a3998aebca3eb0c0ffdcfc8a3d18402a10af70",
+    "bytes": 38082
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/84/Reports_alt.png",
+    "path": "/bilder/wiki/reports-alt-0eb0b359.png",
+    "sha256": "a96fc9b4ce64db1c39afcf184cd690cf11fb86b030babacf8029326e541f252f",
+    "bytes": 52461
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/97/Reports.png",
+    "path": "/bilder/wiki/reports-c2b7a268.png",
+    "sha256": "2e3bfeb90850fa7df2a0a0f3ebe3ce8eecc76278d43cf400c983c67e6ae1ea23",
+    "bytes": 28191
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/b2/Reportverzeichnisse.jpg",
+    "path": "/bilder/wiki/reportverzeichnisse-15553f8c.jpg",
+    "sha256": "8ab03ae2b63761971e61c31c227ac8bab002cae174bb416a28db45a824f6b2c3",
+    "bytes": 65275
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/c1/Rtf-Dokumente.png",
+    "path": "/bilder/wiki/rtf-dokumente-bcd3de75.png",
+    "sha256": "38d54443e9b261c5bfc43e567f59254b55e515f55766dcc8c2185e65f8131263",
+    "bytes": 5354
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/40/RTM-Mailversand.png",
+    "path": "/bilder/wiki/rtm-mailversand-ad3f1220.png",
+    "sha256": "143d1f5ad90ca71e44bdc983bb9bf22d7ab4024462dda0a21d11aa00312747e2",
+    "bytes": 33628
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/72/S1P-001-Ersteinrichtung.jpg",
+    "path": "/bilder/wiki/s1p-001-ersteinrichtung-adf4370a.jpg",
+    "sha256": "20e447543e12a472e2cb8cfa814a0f342a291f21ad7298cc28102e731d0fb83f",
+    "bytes": 21039
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f0/S1P-002-Zugriffskonfiguration.jpg",
+    "path": "/bilder/wiki/s1p-002-zugriffskonfiguration-30984c8b.jpg",
+    "sha256": "bdfd59637c70cbaf97e520dd7bea9c640296a5f7d97302cacbc93f97d97f03a9",
+    "bytes": 40449
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/36/S1P-003-Schild-Zugriff.jpg",
+    "path": "/bilder/wiki/s1p-003-schild-zugriff-ff80866e.jpg",
+    "sha256": "75c4b92a3fb34327548d65e4a16d6f3f8e3e2b6cd056db3526945798a19a2ca0",
+    "bytes": 8540
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/5b/S1P-004-Auswahl_DB.jpg",
+    "path": "/bilder/wiki/s1p-004-auswahl-db-aaaed1ef.jpg",
+    "sha256": "455322039eace1bd95b525200e1a21f5fa58edd314930c113b746bf8858dce99",
+    "bytes": 5462
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/cc/S1P-005-Verbindung_testen.jpg",
+    "path": "/bilder/wiki/s1p-005-verbindung-testen-95c68d69.jpg",
+    "sha256": "709cc4c4d9f4922d5ccfdf062bb04fe597f86b8efcd2917c8ab90c67cc84fd44",
+    "bytes": 1642
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/71/S1P-006-Zugriffsinfo.jpg",
+    "path": "/bilder/wiki/s1p-006-zugriffsinfo-b89c1209.jpg",
+    "sha256": "c856c5bc08c7de3a5f67cb0143b0a989d4854a0ea63032b77c755dacefe9c29e",
+    "bytes": 7230
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/b4/S1P-007-speichern.jpg",
+    "path": "/bilder/wiki/s1p-007-speichern-7acc2b3c.jpg",
+    "sha256": "7eba034bb81db58d45dcac62739f0853eb8c5554d817b6c05e6884679f04e2b9",
+    "bytes": 1692
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/b6/S1P-008-Kursprofil_festlegen.jpg",
+    "path": "/bilder/wiki/s1p-008-kursprofil-festlegen-f272d263.jpg",
+    "sha256": "f911dcfcf45b12ef1efd77912419992b6bda2b77aae6bb31de1d6b1bc52ee82d",
+    "bytes": 28139
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/31/S1P-009-w%C3%A4hlen.jpg",
+    "path": "/bilder/wiki/s1p-009-waehlen-be609f68.jpg",
+    "sha256": "23c9fda3fba60153d09b4d668aa174cfb4afe2e5768a0a3b680c028af4af10ba",
+    "bytes": 1415
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/4e/S1P-010-Aufklappsymbol.JPG",
+    "path": "/bilder/wiki/s1p-010-aufklappsymbol-913dcc2b.jpg",
+    "sha256": "f02cd84ba790a8e9a9ce59e83f0880209121c70317980d8a9db2172ad916f0ac",
+    "bytes": 7922
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/c9/S1P-011-%C3%9Cbersicht.jpg",
+    "path": "/bilder/wiki/s1p-011-uebersicht-bfd49c35.jpg",
+    "sha256": "1cd3d565ccddadfb4a1f66a6fd5c85fbc27006133973e4af9063e0eeeb6882b2",
+    "bytes": 40857
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/e8/S1P-013-Kursprofil_anlegen.jpg",
+    "path": "/bilder/wiki/s1p-013-kursprofil-anlegen-2cf0768c.jpg",
+    "sha256": "c2c13246cb06419362a318f3d63bfc6bcadcf315f76feacfb6df8cb1e7e8de90",
+    "bytes": 18412
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/ef/S1P-014-Kursprofil_JG6.jpg",
+    "path": "/bilder/wiki/s1p-014-kursprofil-jg6-3da78632.jpg",
+    "sha256": "81bac4d476bf247160df1057ef860e2e6fe386956033c6022ded0df797903ec6",
+    "bytes": 16478
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/0b/S1P-015-Kurse_anlegen.jpg",
+    "path": "/bilder/wiki/s1p-015-kurse-anlegen-1a6e45f4.jpg",
+    "sha256": "5280c44fa40a63e3c47364ba1faca29314ff09c7a0d37b9c671558bc162eb4da",
+    "bytes": 18270
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/ff/S1P-016-Kursdateneingabe.JPG",
+    "path": "/bilder/wiki/s1p-016-kursdateneingabe-c9400ecf.jpg",
+    "sha256": "292c331a24f62c659db12866d8222f115b18f521e310a16098286cba1f06ebf0",
+    "bytes": 36433
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/92/S1P-016-Stammdaten.JPG",
+    "path": "/bilder/wiki/s1p-016-stammdaten-0a0a1165.jpg",
+    "sha256": "77dd19f87b12d73e0696eb085170e18f25215ea20c5e19c5e2231202f6f3bd02",
+    "bytes": 5221
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/97/S1P-017-Kurs%C3%BCbersicht.jpg",
+    "path": "/bilder/wiki/s1p-017-kursuebersicht-92b5a0e8.jpg",
+    "sha256": "a415b8513dfa8c152747c3c520162c422122e18bbb1e112ce3fe2a756ab97b22",
+    "bytes": 36552
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/7d/S1P-019-Kurszuweisung-alle.JPG",
+    "path": "/bilder/wiki/s1p-019-kurszuweisung-alle-97e9f3af.jpg",
+    "sha256": "65f5cd4f21fb843f9941ed35dea86ba8047575859a7af617918014dcb1d710c4",
+    "bytes": 18482
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d6/S1P-020-Kurszuweisung-alle.JPG",
+    "path": "/bilder/wiki/s1p-020-kurszuweisung-alle-57a40569.jpg",
+    "sha256": "350cf58f70cc9d3692c17640a62fed1bb36877fddb50754ae345bdc14c78e8f7",
+    "bytes": 44488
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/25/S1P-021-Export_nach_Schild.JPG",
+    "path": "/bilder/wiki/s1p-021-export-nach-schild-23587408.jpg",
+    "sha256": "1b6d468fac35dbb53685e11e5d49632e7cb4c6978f36892c983974c47a94a55a",
+    "bytes": 20609
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/b1/S1P-022-%C3%9Cbersichtsseite.JPG",
+    "path": "/bilder/wiki/s1p-022-uebersichtsseite-e0321d26.jpg",
+    "sha256": "23c40278da01c1365733337a5485ae8c2f6230c02e9174ef108595697d7dce92",
+    "bytes": 62080
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/2e/S1P-023-Export-Fenster.JPG",
+    "path": "/bilder/wiki/s1p-023-export-fenster-ea3131ab.jpg",
+    "sha256": "8268f5a402239e9ca059fa7b637d118ebfb6dd415d332b96534bd1e79c4441f2",
+    "bytes": 112634
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f1/S1P-024-Export-Knopf.JPG",
+    "path": "/bilder/wiki/s1p-024-export-knopf-90fd442c.jpg",
+    "sha256": "1ec299299f18295d40446d58254e9aaf2687a40d37edb4270631b8e5adf393ab",
+    "bytes": 8614
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/2f/S1P-025-Export-Fenster-2.JPG",
+    "path": "/bilder/wiki/s1p-025-export-fenster-2-82ecd091.jpg",
+    "sha256": "3548cf8ef22a42d99a953d4b7c465edd8768becf23f2dfa2e698a83d1f8349f4",
+    "bytes": 96397
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d3/S1P-026-Kurse_in_Schild.JPG",
+    "path": "/bilder/wiki/s1p-026-kurse-in-schild-5de0ad4d.jpg",
+    "sha256": "73ce11d06dc2ae8b251daad347a70ce9d05b2552f25a5e94363ccb04446d07da",
+    "bytes": 32772
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/20/S1P-027-Kurse_bei_Sch%C3%BCler_in_Schild.JPG",
+    "path": "/bilder/wiki/s1p-027-kurse-bei-schueler-in-schild-99f65aa8.jpg",
+    "sha256": "26c42ee0a2f2a39f38dc5268384389e4099b0107f8dd86915684b0db52289b7f",
+    "bytes": 40407
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/56/S1P-028-Kursprofil.JPG",
+    "path": "/bilder/wiki/s1p-028-kursprofil-ae974474.jpg",
+    "sha256": "9b56f7bab97dc9c94259f2388b1529b68776ffbd69dd5586d9630e1a45114557",
+    "bytes": 27872
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/5a/S1P-029-AG-Fach-fuer-SP.JPG",
+    "path": "/bilder/wiki/s1p-029-ag-fach-fuer-sp-31360850.jpg",
+    "sha256": "70c26daa00b8e8f500c59b3c2667bf47df957a78d3b46c720e3600652ef5d3e6",
+    "bytes": 24936
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/ed/S1P-030-klassenweise-Zuordnung.JPG",
+    "path": "/bilder/wiki/s1p-030-klassenweise-zuordnung-498d6605.jpg",
+    "sha256": "90e143925eb5349190e2bab992a435280d16e101c47b98c1168c81587d2a2bee",
+    "bytes": 24723
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/4e/S1P-031-Klassenauswahl.JPG",
+    "path": "/bilder/wiki/s1p-031-klassenauswahl-9a207152.jpg",
+    "sha256": "7fb02e9e883506e0816bbccbf3d6256f0b01c60c8782015a7a7b47ee84f7d57a",
+    "bytes": 17679
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/8a/S1P-032-Matrix-Sch%C3%BClerw%C3%BCnsche.JPG",
+    "path": "/bilder/wiki/s1p-032-matrix-schuelerwuensche-06bb2079.jpg",
+    "sha256": "f307e79ef5f91ab533c7a9e694c77186d755ee692200a205ec608e4ab00080ec",
+    "bytes": 23960
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/a4/S1P-033-Matrix-der-W%C3%BCnsche.JPG",
+    "path": "/bilder/wiki/s1p-033-matrix-der-wuensche-850603c3.jpg",
+    "sha256": "d5c7f0ffb7652ef3802c1a58b530a0085c9807e178941185af1fb276ecbfeb2b",
+    "bytes": 21932
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/54/S1P-034-Erstwunsch-zuweisen.JPG",
+    "path": "/bilder/wiki/s1p-034-erstwunsch-zuweisen-da4b37dc.jpg",
+    "sha256": "75c30ead1346f204b3c939a48107a4e89d3c7973dc196d7a352c729b15d860fb",
+    "bytes": 20073
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/1/17/S1P-035-Erstwunsch-zugewiesen.JPG",
+    "path": "/bilder/wiki/s1p-035-erstwunsch-zugewiesen-046d11e9.jpg",
+    "sha256": "f26d786a906f90c683f134e34ee1a25ab7c33111e5728a5cd6a987ceca0e5ddb",
+    "bytes": 29697
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/3b/S1P-036-Kurs%C3%BCbersicht-Erstwunsch-zugewiesen.JPG",
+    "path": "/bilder/wiki/s1p-036-kursuebersicht-erstwunsch-zugewiesen-5d5ca1c2.jpg",
+    "sha256": "5a4c69b1905eb9fed7aa9823a81ada1d51ac5fb2849ee742802e0fc71a3ef824",
+    "bytes": 20867
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/e3/S1P-037-Men%C3%BCpunkt-Optimieren.JPG",
+    "path": "/bilder/wiki/s1p-037-menuepunkt-optimieren-094546db.jpg",
+    "sha256": "f9251c1ee6158ae559729c77a2bb8284189bcd6e1addaae029f8edfa39ad1f7f",
+    "bytes": 22338
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/a5/S1P-038-Optimierungsfenster.JPG",
+    "path": "/bilder/wiki/s1p-038-optimierungsfenster-2ca9010b.jpg",
+    "sha256": "0dbec00d4fc0e5920cd28b4120ccf32ea95e8f80bf8c9f48ffd6eee3b204b41b",
+    "bytes": 85406
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/8a/S1P-039-Optimierungsergebnis.JPG",
+    "path": "/bilder/wiki/s1p-039-optimierungsergebnis-17be7cf7.jpg",
+    "sha256": "d86c1f43bb0337fa790013d9da982efc124b21a53a2a6a3fb262007e533ee315",
+    "bytes": 85474
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/a9/S1P-040-Optimierung-speichern.JPG",
+    "path": "/bilder/wiki/s1p-040-optimierung-speichern-5816e19b.jpg",
+    "sha256": "4a9e09081d91a896c627a85aef8fa65c048e95dcda21eb9ebaa0222d2da05b8b",
+    "bytes": 8765
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/5b/S1P-042-Kursprofil.JPG",
+    "path": "/bilder/wiki/s1p-042-kursprofil-ee8c9588.jpg",
+    "sha256": "2392bc5fc506dd89095cefc2c548c72729620259970659107b79a4e085d8b2aa",
+    "bytes": 11925
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/88/S1P-043-Kursprofil-PUT.JPG",
+    "path": "/bilder/wiki/s1p-043-kursprofil-put-59fe150c.jpg",
+    "sha256": "cab0fda20b547e57c1c79007c3616b729495484e6bf4994803b373433c043189",
+    "bytes": 25150
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/3f/S1P-045-Abgleich-mit-Schild-Fenster-2.JPG",
+    "path": "/bilder/wiki/s1p-045-abgleich-mit-schild-fenster-2-b36e2582.jpg",
+    "sha256": "2c99f5c9bbdc8b19fba6a0c2f61fdabc78111c71c13b0b854d9ff05ff0526a44",
+    "bytes": 127807
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f6/S1P-046-nach-Abgleich-mit-Schild.JPG",
+    "path": "/bilder/wiki/s1p-046-nach-abgleich-mit-schild-377ddcf0.jpg",
+    "sha256": "5f5dd540ad345231d5c07ffcb1da568a746ef168b0158c18e45cf06e1962f3eb",
+    "bytes": 147301
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/df/S1P-047-fixieren.JPG",
+    "path": "/bilder/wiki/s1p-047-fixieren-bac71d06.jpg",
+    "sha256": "1cc5345ddf06f0c819888abff0d811d3af265f8e87d118198855f0d192734455",
+    "bytes": 14804
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/5d/S1P-048-Einzelexport.JPG",
+    "path": "/bilder/wiki/s1p-048-einzelexport-a419f313.jpg",
+    "sha256": "70a53e2b05392a8c8dffb158b3bac5f676e34f0162c8d9b3b0b246f61906148f",
+    "bytes": 8201
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f6/S1P-Anhang-01-Men%C3%BCpunkt-Datei.JPG",
+    "path": "/bilder/wiki/s1p-anhang-01-menuepunkt-datei-678ce1b3.jpg",
+    "sha256": "e2e41f8ddd3b7d99b2165539b55856664ca6a2f213a0ad2f8f9867a57b4ac336",
+    "bytes": 34070
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/7e/Schaubild_ASDPC2.png",
+    "path": "/bilder/wiki/schaubild-asdpc2-2bcea4ae.png",
+    "sha256": "b31c6669b5470b6bc4822f71bc48b15ea07ec2276eb68421248146309f960260",
+    "bytes": 34614
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/8a/Schaubild.png",
+    "path": "/bilder/wiki/schaubild-b331026f.png",
+    "sha256": "b076b2bbcb32df4c729846252a88dd2fe0c6ace4cd1cc46e2b2220211fe0429a",
+    "bytes": 87923
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/6a/Schaubild_Schluessel.png",
+    "path": "/bilder/wiki/schaubild-schluessel-c2b30142.png",
+    "sha256": "c9a6c97fe936effcbe42aa295139462d2467216d27e0392b8a08670265044722",
+    "bytes": 65715
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/72/SchILD_Export.png",
+    "path": "/bilder/wiki/schild-export-999a5812.png",
+    "sha256": "e1e6abd08afb31db297c5ed7bab666851b9090e4d20acae8e699843e9af0a4e9",
+    "bytes": 268053
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/46/SchILD_Gesamtpr%C3%BCfung.png",
+    "path": "/bilder/wiki/schild-gesamtpruefung-4c0cde75.png",
+    "sha256": "9bdefaaae0edc4874a2a256145dbe19a60803a3ea31137b52e554bd9ff2203ff",
+    "bytes": 256524
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/a0/SchILD-NRW_Export_BAN-Portal_Markieren.png",
+    "path": "/bilder/wiki/schild-nrw-export-ban-portal-markieren-fc15379f.png",
+    "sha256": "41fa5fa7e2d68f676271a3ae543f102925d5d7e8172082fe000738088e09f23c",
+    "bytes": 306594
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/28/SchILD-NRW_Export_ExportBAN.png",
+    "path": "/bilder/wiki/schild-nrw-export-exportban-c47a737c.png",
+    "sha256": "f52aa6d80fc57c7bca75e0541e930e4d0e1d1450cdbe896c5b8f8579586d6d76",
+    "bytes": 153069
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f9/SchILD-NRW_Export_ExportBAN_Datei.png",
+    "path": "/bilder/wiki/schild-nrw-export-exportban-datei-9bfdfdb9.png",
+    "sha256": "bc77871d0994692538eb2a74978fa87ebf397a20246286bc36919aa119735584",
+    "bytes": 92321
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/29/Schild-NRW-Hauptfenster.jpg",
+    "path": "/bilder/wiki/schild-nrw-hauptfenster-e39ee227.jpg",
+    "sha256": "85d8822382e5494f49f50aed81695e98cbad4f1f52227c8c0ff5ce25a49100da",
+    "bytes": 35821
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/85/SchILD_Update.png",
+    "path": "/bilder/wiki/schild-update-ba525f0f.png",
+    "sha256": "2762b1354ba813031b3bee370efb986800df9be4a5ee2cd0cad45ec20ce6066b",
+    "bytes": 210040
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/b3/Schildmig3EXE.jpg",
+    "path": "/bilder/wiki/schildmig3exe-d08ee75a.jpg",
+    "sha256": "1f9dfc0714211521e0cdf04ee8fb354f9a8fd3d5e8fdc3a9a40a934ee6eed613",
+    "bytes": 46807
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/39/Schnellfilter_01.jpg",
+    "path": "/bilder/wiki/schnellfilter-01-503ec237.jpg",
+    "sha256": "48d46cd4759639c083fff285b49f5e4be16505f52902ed889a64489d4a29b236",
+    "bytes": 4191
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/3f/Schnellzugriff.jpg",
+    "path": "/bilder/wiki/schnellzugriff-88636147.jpg",
+    "sha256": "06bd41bdf5590c56f9bef432c9b5e27ea51c0ecee6cec95deda7390ef89e355c",
+    "bytes": 45610
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/6c/Schnellzugriff-Fenster.jpg",
+    "path": "/bilder/wiki/schnellzugriff-fenster-8a4ea0aa.jpg",
+    "sha256": "b3f84a5675f2b369384e59809b319209afb5a6fe2f72f78f7393c0fdd589a4b6",
+    "bytes": 9894
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/45/Schnittstelle.jpg",
+    "path": "/bilder/wiki/schnittstelle-2a9d0cdb.jpg",
+    "sha256": "a80aa550b7d891cae2a788f9fa8e775c8b4acf56579c966403a81465489e6a67",
+    "bytes": 73407
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/fd/Sch%C3%BClerkursarten.jpg",
+    "path": "/bilder/wiki/schuelerkursarten-b3a5b280.jpg",
+    "sha256": "2ed6bbe5da8dddd6daaff417b3da4169a89350cdfca9bc04182d3beb8d2a6983",
+    "bytes": 111887
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/08/Schulbesuch.jpg",
+    "path": "/bilder/wiki/schulbesuch-36e0636a.jpg",
+    "sha256": "689ccfd261801dd5b93c16bca2a3c6969c0944a4e6775b21fa9f419811e2b596",
+    "bytes": 66693
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/4f/Schule_bearbeiten.jpg",
+    "path": "/bilder/wiki/schule-bearbeiten-2860c99a.jpg",
+    "sha256": "82a81e17eebb699bc8bf9fb8386286c584fca94ed1c27db362776989bde53ce4",
+    "bytes": 126575
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/bb/Schulen_Ausland.jpg",
+    "path": "/bilder/wiki/schulen-ausland-cd97a251.jpg",
+    "sha256": "fca62427f3489b2f1cc3b0311ad1b45a591c68ee0f536a04a94751b8393a3d33",
+    "bytes": 138061
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/b6/Schuljahreswechsel.jpg",
+    "path": "/bilder/wiki/schuljahreswechsel-4c32caa9.jpg",
+    "sha256": "bfd27fd81587855f420d8df6d89048ae40a2bded4ed521c3652414545827f33f",
+    "bytes": 225661
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/fe/Schulverwaltung_01.jpg",
+    "path": "/bilder/wiki/schulverwaltung-01-f6550f07.jpg",
+    "sha256": "ce31af5b782f399d792af55151122241390ce01f9d4762eaa5bd7d81e15aec8a",
+    "bytes": 25363
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d1/Sortierung-01.png",
+    "path": "/bilder/wiki/sortierung-01-60a2dca6.png",
+    "sha256": "9fcd75eeaa5442be68467b72d1f02b513c982f4daca04ad1bf6410f956c53a4e",
+    "bytes": 38358
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/41/Sortierung-02.png",
+    "path": "/bilder/wiki/sortierung-02-2e628b39.png",
+    "sha256": "ded978749cca6de2775318dd988712027423ba59085f28fee0d4c849dabaec98",
+    "bytes": 28447
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/8f/Sortierung-03.png",
+    "path": "/bilder/wiki/sortierung-03-877de671.png",
+    "sha256": "3fdd90227a9f99cc35a1488ae9a3f38d86acbcda94a3d3bedde8c06574caed9a",
+    "bytes": 38008
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/81/Sortierung-04.png",
+    "path": "/bilder/wiki/sortierung-04-91f7a2d9.png",
+    "sha256": "20d00b11ab0832cecd99065abff0e8b2490b2cfd9fd61312553a5718a3c2547c",
+    "bytes": 32202
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/1/11/Sortierung-05.png",
+    "path": "/bilder/wiki/sortierung-05-7325acf8.png",
+    "sha256": "8b51e241edb59a66aa4e5200e1e1db7b80b5dc97769f408b580d81e1f5de13e9",
+    "bytes": 5874
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/00/Sortierung-SII.jpg",
+    "path": "/bilder/wiki/sortierung-sii-caec6f9e.jpg",
+    "sha256": "37e20a23ed8fabf8ce9aba8e6f94b648daff51113f1f14fbb96e3c66861d2373",
+    "bytes": 21091
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/ef/SortierungKatalog.jpg",
+    "path": "/bilder/wiki/sortierungkatalog-422d12f3.jpg",
+    "sha256": "b5390a3d66dfbb17d01cb5f43f903a0ce2e8a5345980492f14b9dd1a0ff42f72",
+    "bytes": 107817
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/fa/SPD-01.png",
+    "path": "/bilder/wiki/spd-01-a6dc31f2.png",
+    "sha256": "9aa3f1aca7d8c1ce662cbaa4644b6afc28142c62f7a647f83f1aea2a7be98ec1",
+    "bytes": 5788
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/ef/SPD-02.png",
+    "path": "/bilder/wiki/spd-02-f562b9b8.png",
+    "sha256": "e1adba635afd9dc689c236219a0fc3aae36f4d2158e42e6122eb80b4b3f41bc4",
+    "bytes": 60392
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/70/SPD-03.png",
+    "path": "/bilder/wiki/spd-03-ddeb2f3a.png",
+    "sha256": "3fe790d277b87bf53d4e4cf592a97b657fca49faaa12ddbcc1c3a9a9c7ab715e",
+    "bytes": 27909
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/84/SPD-04.png",
+    "path": "/bilder/wiki/spd-04-7b741041.png",
+    "sha256": "319c21e975081e2ba9d4482984af2a8f8a31ca9fa4041e71cc5f8a3701d4d100",
+    "bytes": 86721
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/28/Sportbefreit.jpg",
+    "path": "/bilder/wiki/sportbefreit-bd1fbca8.jpg",
+    "sha256": "232645d4abeafaf594f68ec135ca6054223016a9af57abdc36f78c317ad07bfb",
+    "bytes": 55754
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/7c/Sprachenfolge.png",
+    "path": "/bilder/wiki/sprachenfolge-89da87e3.png",
+    "sha256": "474f9c5941dabd007fbed6ab904281cda85ed4353d4926d213b306ed77585844",
+    "bytes": 16252
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d3/StatistikJahrgaengeG9.png",
+    "path": "/bilder/wiki/statistikjahrgaengeg9-e2875338.png",
+    "sha256": "b533e9b43b826a97b892026027964e39e07b72a961700ff4ae9d31d929c3020a",
+    "bytes": 26248
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/0a/Statuswechsel.png",
+    "path": "/bilder/wiki/statuswechsel-279e47b3.png",
+    "sha256": "9afda129b7ca7ecec97bc23147ebb0164fb406bc4798fa81c0ead846406a26a4",
+    "bytes": 70551
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/dd/Stufen.png",
+    "path": "/bilder/wiki/stufen-c2612103.png",
+    "sha256": "ceb5fa891b4844a54f4572f0f390dba0ad0e03a7a38ce495a91403a8d0540bf3",
+    "bytes": 11644
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/24/Stundentafel_01.jpg",
+    "path": "/bilder/wiki/stundentafel-01-372d7d5a.jpg",
+    "sha256": "1a2f12f4fb49fd50b635d31cbc5ecf13cefe667d488bcac4190560114b25e5c0",
+    "bytes": 33015
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/53/Stundentafel_02.jpg",
+    "path": "/bilder/wiki/stundentafel-02-f32f5788.jpg",
+    "sha256": "1be5f3fe1de7d16e51b64245350ae9c07abb03dceb0aff940bf1565a6925ff0f",
+    "bytes": 40909
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/c3/Symbol-Datenquellen.png",
+    "path": "/bilder/wiki/symbol-datenquellen-90e74b6b.png",
+    "sha256": "dd0b9cd68f2d6ce65ca9ac72350ce76d8cc201474eb630f49415d0bea6ec9550",
+    "bytes": 619
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/dd/Symbol-Einstellungen.png",
+    "path": "/bilder/wiki/symbol-einstellungen-ee623e9c.png",
+    "sha256": "bc4366a2e02ea4f6c8d7eec4283bdd05424b56f8032de59cbbf04f21f2d59073",
+    "bytes": 376
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/9b/Symbol-Vorschau.png",
+    "path": "/bilder/wiki/symbol-vorschau-7270615a.png",
+    "sha256": "3afe37c48a9c1a75f8fde050e7af53ae4bdda672079300c60b65777bf3447c00",
+    "bytes": 907
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/30/Symbolleiste-Plus.png",
+    "path": "/bilder/wiki/symbolleiste-plus-57efca91.png",
+    "sha256": "10c7096cffdbce1f98aed11b3ecb4da0769e47ba0f92e029c8ba952036c06495",
+    "bytes": 5822
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/94/Teilleistungs-Arten.jpg",
+    "path": "/bilder/wiki/teilleistungs-arten-b38e9152.jpg",
+    "sha256": "4769fb7b42fc90aac18f4074ca64013811868c75a63aa73c44af6fc37861781f",
+    "bytes": 48959
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d3/Teilleistungsarten-Faecher.jpg",
+    "path": "/bilder/wiki/teilleistungsarten-faecher-1e0f31fb.jpg",
+    "sha256": "50cad3967e9fb7d85fad4c974e67a7b0c9ea017009f73fb2cbe65238512a3744",
+    "bytes": 40620
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/8e/TelefonAnsprechpartner.jpg",
+    "path": "/bilder/wiki/telefonansprechpartner-7b2d7846.jpg",
+    "sha256": "8e38730311a605f25c6b3cc62a842d3e951ac0c89e9f7e175a913203998e5b8e",
+    "bytes": 61747
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f8/Textverarbeitungsprogramm.png",
+    "path": "/bilder/wiki/textverarbeitungsprogramm-4ed106ef.png",
+    "sha256": "e9872d27efc035a3c28ea200a91a723a4c3c5bb291d6bd4624d9595436e9f9ea",
+    "bytes": 51055
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/20/Tipp.png",
+    "path": "/bilder/wiki/tipp-79c4b39d.png",
+    "sha256": "45890ccd4316737f12ab5d1491aee2e7d0e0675d8a3cb968bb98e965d520b8f9",
+    "bytes": 2025
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/7a/Tl1.jpg",
+    "path": "/bilder/wiki/tl1-6c61ae81.jpg",
+    "sha256": "cafad4b89a75506f97c47b806ecbeae0c9714452c6a2f5f8c80cde74b9942811",
+    "bytes": 40355
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/78/Tl2.jpg",
+    "path": "/bilder/wiki/tl2-f76fdf25.jpg",
+    "sha256": "a73d0412debbfc039127bd6005bc5b14f4dfb754796a8904cce8c80538f57156",
+    "bytes": 88945
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/62/Tl3.jpg",
+    "path": "/bilder/wiki/tl3-a4ef4dce.jpg",
+    "sha256": "61c0556fcf72f018a0c85fb2965cd97b32255dbe441d89d4d031cb413d76cad2",
+    "bytes": 74587
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/03/Tl4.jpg",
+    "path": "/bilder/wiki/tl4-5d57e42f.jpg",
+    "sha256": "a2efeaba7deb8f7ead540346982714c8523e3d072529dffe3a41c2a2145e2d8f",
+    "bytes": 77614
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f9/Tl5.jpg",
+    "path": "/bilder/wiki/tl5-cdb5df8d.jpg",
+    "sha256": "50158c71a709a221c3fbb6b9019b9ed4bd5acff09a6d8a08a429830dc16ef0ab",
+    "bytes": 110007
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/df/Tutorial.png",
+    "path": "/bilder/wiki/tutorial-42baaaf3.png",
+    "sha256": "d6bbb94c6cc2b10e5bbd35d2dd1de178b68f98de090fe2f30426c7e892710e52",
+    "bytes": 63466
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/7d/UdlDateien.jpg",
+    "path": "/bilder/wiki/udldateien-4c98e4fd.jpg",
+    "sha256": "5d9fbf026c24914ebbc1a9e354b5c2def5d77993d69763bbc92343a44b952bd2",
+    "bytes": 6667
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/0f/Uebersicht-Primar.jpg",
+    "path": "/bilder/wiki/uebersicht-primar-3e21a54e.jpg",
+    "sha256": "1e8e348eac48f9cd234edb542400419f78721c75618d7b1bd45a409554dbc47a",
+    "bytes": 41928
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/9a/Uebersicht-Primara.jpg",
+    "path": "/bilder/wiki/uebersicht-primara-82535ec8.jpg",
+    "sha256": "8ba2c89383a0bc41837056a7bdc31b46b5f2e0ce51b12319e791ba8f08cdbdda",
+    "bytes": 97993
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/68/Uebersicht-SI.jpg",
+    "path": "/bilder/wiki/uebersicht-si-dc66811c.jpg",
+    "sha256": "3d47f0bb9c58a9803496ad1b2c3e7f729ad9f8e877788ecf56c85e4126c5bd45",
+    "bytes": 43139
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/ff/Uebersicht-SIa.jpg",
+    "path": "/bilder/wiki/uebersicht-sia-eca31377.jpg",
+    "sha256": "1c563bf2a6e345cb6e07fecb7c0644df211e762b97ae42c6085506dab88abbbf",
+    "bytes": 49528
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/7c/Uebersicht-SII.png",
+    "path": "/bilder/wiki/uebersicht-sii-c4815b7d.png",
+    "sha256": "a127e8a601a8627c08f3a25e2e5aa4cbfe7e7ae1c82e0e3b17592dd0d75d5b87",
+    "bytes": 7093
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/0c/Unfallanzeige-01.png",
+    "path": "/bilder/wiki/unfallanzeige-01-59990440.png",
+    "sha256": "803ea1cb9abefb8a91361558b3068ea78553fade12b5c4d8e4e80f595f264732",
+    "bytes": 17394
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/ca/Unfallanzeige-02.png",
+    "path": "/bilder/wiki/unfallanzeige-02-c1a82fd0.png",
+    "sha256": "67f3fade6a6f7465b2876200dad5436faa80eb2d808898703f5053676004930f",
+    "bytes": 13763
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/af/Unfallanzeige-03.png",
+    "path": "/bilder/wiki/unfallanzeige-03-edecac85.png",
+    "sha256": "2e674f83c50f03c8615cc553b5cfbc7da4ffdee639344d462c6747c046598f72",
+    "bytes": 23899
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/5f/Unfallanzeige-04.png",
+    "path": "/bilder/wiki/unfallanzeige-04-fb896043.png",
+    "sha256": "5b345ddbe2fb51614997156a44e52f0c57d1bf1a4a23bdbe8a6e1adf87199527",
+    "bytes": 2141
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/67/Unfallanzeige-05.png",
+    "path": "/bilder/wiki/unfallanzeige-05-f0d7ff10.png",
+    "sha256": "98e73ca55cd51b819cd477d9d59e23a7f6a607c168387c25c44bd184550fdcfe",
+    "bytes": 909
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/05/Unfallanzeige-06.png",
+    "path": "/bilder/wiki/unfallanzeige-06-b6872113.png",
+    "sha256": "a7019fefcad7f19bdbfb11b7814a6c56fa1f4595c019f104f572617194792dd3",
+    "bytes": 6986
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d0/Unterbericht_002.png",
+    "path": "/bilder/wiki/unterbericht-002-f4061e45.png",
+    "sha256": "e7bac8e841faeccd9e94359cf3c38083c3e4b7aa8bbf5be6b13f23c9f4e980a7",
+    "bytes": 52235
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/8d/Unterbericht_004.png",
+    "path": "/bilder/wiki/unterbericht-004-ea6cbb04.png",
+    "sha256": "6505d6ba93c6e7e1a1076a284e2d27ce954443f1607b03932a294deae77a805d",
+    "bytes": 4176
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/88/Unterrichtsfaecher-01.jpg",
+    "path": "/bilder/wiki/unterrichtsfaecher-01-eb69854a.jpg",
+    "sha256": "ebcbc6da9d64f70d4bae7e4dd4ddb07c173f5f1516221d9bf14d6d185a98b0d7",
+    "bytes": 92045
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/c0/UserAdmn.png",
+    "path": "/bilder/wiki/useradmn-2a9b6bee.png",
+    "sha256": "8ffb3b146c39206f3db7daa501a7d1eb5abe87a98a07ce7120cfcab5a6c7a4a2",
+    "bytes": 115557
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/1/1a/UVD_3.png",
+    "path": "/bilder/wiki/uvd-3-0dd2fbcc.png",
+    "sha256": "f2e9b7bd7d20119c4dc30073fa2708bf751fd9e939d7c4808a0f9e792a58df9a",
+    "bytes": 129046
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/7f/UVD_4.png",
+    "path": "/bilder/wiki/uvd-4-6340e0e4.png",
+    "sha256": "533f54dff811b2db96fc4802f51681047da1b015db06f32b78de7db82e072276",
+    "bytes": 139936
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/b6/UVDExelImport.jpg",
+    "path": "/bilder/wiki/uvdexelimport-270d7bef.jpg",
+    "sha256": "7b6921dc16a42da24ddac4d62852375a79252335468cac36a6e2e63240961d00",
+    "bytes": 23547
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/5b/UVDtxtImport.jpg",
+    "path": "/bilder/wiki/uvdtxtimport-e2a2f800.jpg",
+    "sha256": "f16200f7096ed44ec0880e9d9160f814180cee29645a05d78076b4f03daa3d07",
+    "bytes": 23460
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/3e/Verkehrssprachen.jpg",
+    "path": "/bilder/wiki/verkehrssprachen-4a728861.jpg",
+    "sha256": "6f415ffdf448a63bcc185bee4d99ffc780754ad1a0bc283d712a7d9b28999bdd",
+    "bytes": 53358
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/e0/Verkehrssprachen2.jpg",
+    "path": "/bilder/wiki/verkehrssprachen2-07c63441.jpg",
+    "sha256": "d585b2f3cc1479e15165fdbe02462dd88a2abe56cdb12c3db98f77dc414d4d9e",
+    "bytes": 22149
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/33/Vermerkarten.jpg",
+    "path": "/bilder/wiki/vermerkarten-a2ae13a0.jpg",
+    "sha256": "c90d4714d41a4d0d8d87a878aa42c197dd746bec8dc92918c3fcfcdb699f5b0c",
+    "bytes": 52884
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/33/VermerkSetzen.png",
+    "path": "/bilder/wiki/vermerksetzen-0ecaf89f.png",
+    "sha256": "47993d899714d816478ea2dad70fdf29125275820a65947218394ffd706a9f2b",
+    "bytes": 7159
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/b2/Versetzungstabelle.png",
+    "path": "/bilder/wiki/versetzungstabelle-2c4f2d32.png",
+    "sha256": "f90e7a555e1e0d7476a8c24db17cb677c713ea46817dfe15069a3e618d9afbf0",
+    "bytes": 18269
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/fe/Versetzungstabelle-Jahrgangsuebergreifend.jpg",
+    "path": "/bilder/wiki/versetzungstabelle-jahrgangsuebergreifend-f2ba03ba.jpg",
+    "sha256": "fd78a35d8b72eea4afc7a400e778b219ddcd2b41b27af8f078782667132e1106",
+    "bytes": 65723
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/3b/VersetzungstabelleGsJg.png",
+    "path": "/bilder/wiki/versetzungstabellegsjg-5b5b5f81.png",
+    "sha256": "e596c2e4e97d49ef6fb8b255418667a0687302220d3a2e7ba893a77441e39638",
+    "bytes": 13743
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/48/VersetzungstabelleGsJu.png",
+    "path": "/bilder/wiki/versetzungstabellegsju-8f33b0fd.png",
+    "sha256": "ace3f2f28968275558c0326f1df27963aac61955586868deb6b33aa8539f4703",
+    "bytes": 21821
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f2/Verzeichnisbaum-aktualisieren.png",
+    "path": "/bilder/wiki/verzeichnisbaum-aktualisieren-4a57f54f.png",
+    "sha256": "2d2da3011ef81dc0d318147d74bb96917be45a177d8bd80ecd3cf5b722d693e9",
+    "bytes": 792
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/a4/WechselSchule1.jpg",
+    "path": "/bilder/wiki/wechselschule1-b364d9b3.jpg",
+    "sha256": "203546cc6167d984a3ba0c1da052fd708c99d1794ead033a4d81610113f15525",
+    "bytes": 8223
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/94/WechselSchule2.jpg",
+    "path": "/bilder/wiki/wechselschule2-d86b5481.jpg",
+    "sha256": "01e7244c719433d2df7e350be404bb0b9f3abc66bf2d6a632277011fe8714d6a",
+    "bytes": 9278
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/2f/WeitereSchultexte.jpg",
+    "path": "/bilder/wiki/weitereschultexte-51764aa9.jpg",
+    "sha256": "9b00595448f952744fd26403ba59fc225d407c0a80a2e2d3385af1ee1157d7dd",
+    "bytes": 87477
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/c7/Wichtig.png",
+    "path": "/bilder/wiki/wichtig-92c6d2c9.png",
+    "sha256": "99052c4f3b6d9735bc72b815e169e7e114d92ddabd656e05fb68c7b1472dba1b",
+    "bytes": 2179
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/bd/Wiedervorlage-01.jpg",
+    "path": "/bilder/wiki/wiedervorlage-01-5729b3b0.jpg",
+    "sha256": "2278ee0d0e1a87d778fe5e38a0a1459f523f580fd0fe73cd877906048b015dc7",
+    "bytes": 26310
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/9d/Wiedervorlage-Iconleiste.jpg",
+    "path": "/bilder/wiki/wiedervorlage-iconleiste-50ac476a.jpg",
+    "sha256": "906a525904aa27c782e19c0f840aa8768e222425019392edb25fdbf172262662",
+    "bytes": 45743
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/4f/Wiegervorlage-GP.jpg",
+    "path": "/bilder/wiki/wiegervorlage-gp-f18a49e9.jpg",
+    "sha256": "1eafdde874a0a752dc393526ff1dcf82f82e2598ffdd973ecb4d7f7733ec1e3d",
+    "bytes": 42916
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/45/WikiSupportangebote.png",
+    "path": "/bilder/wiki/wikisupportangebote-65f9e32a.png",
+    "sha256": "48939d1a6af6e057bb7b657ba6a37cb84b9d5ff5793b4b195b44d3409cecffce",
+    "bytes": 35181
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/fa/Wohnortdaten.jpg",
+    "path": "/bilder/wiki/wohnortdaten-950dce91.jpg",
+    "sha256": "1caefc132fcb7f33d8ff21f6d75c2cda5612bc1587fa20d9881aefb0c723dda8",
+    "bytes": 37113
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/91/Word-Seriendruck01.png",
+    "path": "/bilder/wiki/word-seriendruck01-5ec3d54b.png",
+    "sha256": "7f62691b5214be83aa2f402c220c5eae1d9ea7419b41ce0601d65e296cbf3b0b",
+    "bytes": 13924
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/bd/Zeichensatz-anpassen.png",
+    "path": "/bilder/wiki/zeichensatz-anpassen-ea33b39d.png",
+    "sha256": "7d79b5e22266eb57041ceb3f1d33c2bb2406ff85e055fd4a97bbba063bc1af41",
+    "bytes": 888
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/7b/ZeitdatenLehrer.jpg",
+    "path": "/bilder/wiki/zeitdatenlehrer-b9241577.jpg",
+    "sha256": "4a233326d1fc2bcaad2c9ae81822ec833447a1acea35298f3ecca351127dd779",
+    "bytes": 51776
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/52/Zeugnis-Abschluss.png",
+    "path": "/bilder/wiki/zeugnis-abschluss-b2a0aab2.png",
+    "sha256": "4a55b16fccc932969140e08e63eac2d5bfbf4d4121d6d6af189f475041e1c12c",
+    "bytes": 6157
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/ba/Zeugnisabfrage.png",
+    "path": "/bilder/wiki/zeugnisabfrage-95feafdc.png",
+    "sha256": "8e44c862aa16b7c32eeff0ec7d3164f3a3ccaf36225c30d6f875ca48b06164f5",
+    "bytes": 2293
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/9f/ZeugnisdruckTut01.jpg",
+    "path": "/bilder/wiki/zeugnisdrucktut01-99edb1f6.jpg",
+    "sha256": "e13c22427ee58fb1b9ff088e3e5f0ab20832626bc73b7ff9b9819b3a0d170e9e",
+    "bytes": 31318
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/1/1a/ZeugnisdruckTut02.jpg",
+    "path": "/bilder/wiki/zeugnisdrucktut02-9907b7db.jpg",
+    "sha256": "4a602571a6c95cda198848bec9cad77ba808704d313c548466ac9e123b554141",
+    "bytes": 130517
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/ee/ZeugnisdruckTut03.jpg",
+    "path": "/bilder/wiki/zeugnisdrucktut03-04b60126.jpg",
+    "sha256": "adcf91fa43866a960b4c82d79a4273041c93c18c7ab9451a616ae393354c3c3d",
+    "bytes": 44514
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/9f/ZeugnisdruckTut04.jpg",
+    "path": "/bilder/wiki/zeugnisdrucktut04-6bb53409.jpg",
+    "sha256": "a2ec9aa2eb6bdb0856ba898b17f6ab98b2b784a926078445c1243fd6588b8149",
+    "bytes": 125935
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/58/ZeugnisZU02.jpg",
+    "path": "/bilder/wiki/zeugniszu02-d59a5c82.jpg",
+    "sha256": "87f7ff7009d70c3abf206feef5f6dfcdd1fa7a3c84907555603f888f799fbc89",
+    "bytes": 54164
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f6/Zeugniszuordnung.png",
+    "path": "/bilder/wiki/zeugniszuordnung-2b764b50.png",
+    "sha256": "3cae341ef26327b011e1812516999367ec266decfd41feb12d4be9f2b03279de",
+    "bytes": 28654
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/ed/ZP10-ZK.jpg",
+    "path": "/bilder/wiki/zp10-zk-11d42a5b.jpg",
+    "sha256": "8a0c0ca445127f3e636392c9de4241c2bbba2d30f057be906c95fb5c6c7eaa09",
+    "bytes": 107089
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/03/ZuegnisZU01.jpg",
+    "path": "/bilder/wiki/zuegniszu01-8382e1fe.jpg",
+    "sha256": "fdf876124109ef8c0adfd3f92a72c7bf7689a1e42d3c8b0d2bc184004c80bece",
+    "bytes": 24181
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/e8/Faecher.dat",
+    "path": "/dateien/wiki/faecher-f76c8a51.dat",
+    "sha256": "a76ee74dec5ae0e6e3904e2df94d22050ed43ac0917680715ff6d0bfc50ba852",
+    "bytes": 11797
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/ea/Jahrgaenge.dat",
+    "path": "/dateien/wiki/jahrgaenge-546fc188.dat",
+    "sha256": "9c035bbb1b46560333b694563126613e7dcf0d01abbe1b1981f8c304a4483da1",
+    "bytes": 170
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/9d/MSSQL_Script_2021_02_22.zip",
+    "path": "/dateien/wiki/mssql-script-2021-02-22-44a64a7b.zip",
+    "sha256": "31e4c6996a47e69686ac640647e6caf5ddaa4e3780c0480fc8edd5998c330ac7",
+    "bytes": 14304
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/65/MySQL_Script_2023_10_21.zip",
+    "path": "/dateien/wiki/mysql-script-2023-10-21-dadbda68.zip",
+    "sha256": "2c11ee5cb12a9dfe63153a6d92fdf69bc8611adb45a35fe1ab656b2ca0ff127e",
+    "bytes": 13080
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/1/16/Notenbeispiel.xlsx",
+    "path": "/dateien/wiki/notenbeispiel-e5e8e2ce.xlsx",
+    "sha256": "30321d2349112b6c6293645059767cccad7780dbd99836e23399f37e1c40b9c8",
+    "bytes": 11363
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/78/Schildnrw_mysql_installation.pdf",
+    "path": "/dateien/wiki/schildnrw-mysql-installation-3e4cc65d.pdf",
+    "sha256": "0eac56f3ff005320eb970eae9deb617251ebad06b8d9c12de18b31d75ec1807c",
+    "bytes": 807865
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/bb/SchuelerAdressen.dat",
+    "path": "/dateien/wiki/schueleradressen-983c73da.dat",
+    "sha256": "7e506acd9fd9b10f09063817b58cce696383e1381c15a115808f2e2d1308a584",
+    "bytes": 1987
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f2/SchuelerLeistungsdaten.dat",
+    "path": "/dateien/wiki/schuelerleistungsdaten-9a84d62c.dat",
+    "sha256": "c65dd3038649098f7cd870989a940bf9375484884201c362ec5d7430bca45165",
+    "bytes": 2148
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/02/SchuelerLernabschnittsdaten.dat",
+    "path": "/dateien/wiki/schuelerlernabschnittsdaten-f34f777a.dat",
+    "sha256": "2d6cb56f28cd46c7d141916ca43dfa34128f85a58e30e9d0eb5504c04e82ff35",
+    "bytes": 428
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/1/18/Schulform_Jahrgang_Nichtversetzte_Matrix.ods",
+    "path": "/dateien/wiki/schulform-jahrgang-nichtversetzte-matrix-50c8e079.ods",
+    "sha256": "b6294ca4e824abca81cbc8d95cbdc400ee50c15c0060c6e7ad610675efd4f18b",
+    "bytes": 31333
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/44/Schulform_Jahrgang_Nichtversetzte_Matrix.xlsx",
+    "path": "/dateien/wiki/schulform-jahrgang-nichtversetzte-matrix-90b9c252.xlsx",
+    "sha256": "b5a1676b3aff3557c9d043b5e182e4a110a14940588181606eeed47e083fc80a",
+    "bytes": 24502
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/4a/SPD_Dateien.zip",
+    "path": "/dateien/wiki/spd-dateien-176ffe85.zip",
+    "sha256": "745a47917c3ac3f26c22dbc3815e5ce79086757a652a9b11752e5478f29ed466",
+    "bytes": 263634
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f6/Verfahrensverzeichnis.pdf",
+    "path": "/dateien/wiki/verfahrensverzeichnis-34512fbd.pdf",
+    "sha256": "7287840d9a3efad67ddc7afb37ae4644cb680200d9c61b1985f1af6d08bb5869",
+    "bytes": 35081
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/49/VO-DV_I.pdf",
+    "path": "/dateien/wiki/vo-dv-i-6e5a587d.pdf",
+    "sha256": "e70612c2e3832ca6fc243a84cf195a510f08f8f5cd309918dea3672655f363d1",
+    "bytes": 49638
+  }
+]

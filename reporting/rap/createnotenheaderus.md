@@ -1,0 +1,51 @@
+---
+title: "CreateNotenHeaderUS"
+wiki_title: "CreateNotenHeaderUS"
+wiki_page_id: 16
+wiki_revision: 35
+---
+
+# CreateNotenHeaderUS
+
+<a id="RAP-Funktion_&quot;CreateNotenHeaderUS&quot;"></a>
+<a id="RAP-Funktion_.22CreateNotenHeaderUS.22"></a>
+
+## RAP-Funktion "CreateNotenHeaderUS"
+
+## Beschreibung
+
+```pascal
+'''procedure CreateNotenHeaderUS(aFaecherListe: String);'''
+(*US steht für unsortiert, d.h. der erzeugte Header entspricht der im
+Parameter übergebenen Fächerfolge*). Diese Prozedur ist nur nötig und sinnvoll,
+wenn eine tabellarische Übersicht über alle gewählten Schüler 
+und deren Leistungsdaten gewünscht wird, da ein Aufruf dieser Prozedur dazu führt,
+dass die Leistungsdaten aller in der Auswahl befindlichen Schüler gelesen werden,
+damit eine interne Tabelle mit diesen Fächern angelegt werden kann.
+In allen anderen Fällen ist dieser Aufruf unnötig! Nach der Darstellung der Tabelle muss
+unbedingt die Prozedur 'ResetFaechervorbelegung' aufgerufen werden!
+```
+
+## Parameter
+
+```text
+aFaecherListe      - Kommaseparierte Liste der Fachkürzel, für die
+                     eine Übersicht erzeugt werden soll.
+```
+
+## Rückgabewert
+
+```text
+...
+```
+
+## Beispiel
+
+```text
+CreateNotenHeaderUS('D,E,M,F,L');
+```
+
+
+---
+
+Quelle: [CreateNotenHeaderUS – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=CreateNotenHeaderUS&oldid=35) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=CreateNotenHeaderUS&action=history)

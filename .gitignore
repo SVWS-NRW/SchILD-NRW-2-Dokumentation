@@ -1,0 +1,28 @@
+tmp
+node_modules/
+__pycache__/
+.vitepress/dist
+.vitepress/cache
+.DS_Store
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.eslintcache
+
+# Local browser test output
+test-results/

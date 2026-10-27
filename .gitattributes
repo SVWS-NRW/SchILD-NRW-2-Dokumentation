@@ -1,0 +1,4 @@
+* text=auto eol=lf
+# Exact source snapshots and original attachments retain their byte checksums.
+migration/snapshot/*.json -text
+public/** -text

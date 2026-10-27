@@ -1,0 +1,203 @@
+{
+  "checks": [
+    {
+      "route": "/",
+      "width": 1440,
+      "dark": false,
+      "overflow": false
+    },
+    {
+      "route": "/einstieg/",
+      "width": 1440,
+      "dark": false,
+      "overflow": false
+    },
+    {
+      "route": "/administration/installation/schild-nrw-installation.html",
+      "width": 1440,
+      "dark": false,
+      "overflow": false
+    },
+    {
+      "route": "/schild2/import-export-statistik/schnittstellenbeschreibung.html",
+      "width": 1440,
+      "dark": false,
+      "overflow": false
+    },
+    {
+      "route": "/reporting/rap/anrede.html",
+      "width": 1440,
+      "dark": false,
+      "overflow": false
+    },
+    {
+      "route": "/programmreferenz/",
+      "width": 1440,
+      "dark": false,
+      "overflow": false
+    },
+    {
+      "route": "/bilder/",
+      "width": 1440,
+      "dark": false,
+      "overflow": false
+    },
+    {
+      "route": "/hilfe/alle-artikel.html",
+      "width": 1440,
+      "dark": false,
+      "overflow": false
+    },
+    {
+      "route": "/",
+      "width": 1440,
+      "dark": true,
+      "overflow": false
+    },
+    {
+      "route": "/einstieg/",
+      "width": 1440,
+      "dark": true,
+      "overflow": false
+    },
+    {
+      "route": "/administration/installation/schild-nrw-installation.html",
+      "width": 1440,
+      "dark": true,
+      "overflow": false
+    },
+    {
+      "route": "/schild2/import-export-statistik/schnittstellenbeschreibung.html",
+      "width": 1440,
+      "dark": true,
+      "overflow": false
+    },
+    {
+      "route": "/reporting/rap/anrede.html",
+      "width": 1440,
+      "dark": true,
+      "overflow": false
+    },
+    {
+      "route": "/programmreferenz/",
+      "width": 1440,
+      "dark": true,
+      "overflow": false
+    },
+    {
+      "route": "/bilder/",
+      "width": 1440,
+      "dark": true,
+      "overflow": false
+    },
+    {
+      "route": "/hilfe/alle-artikel.html",
+      "width": 1440,
+      "dark": true,
+      "overflow": false
+    },
+    {
+      "route": "/",
+      "width": 390,
+      "dark": false,
+      "overflow": false
+    },
+    {
+      "route": "/einstieg/",
+      "width": 390,
+      "dark": false,
+      "overflow": false
+    },
+    {
+      "route": "/administration/installation/schild-nrw-installation.html",
+      "width": 390,
+      "dark": false,
+      "overflow": false
+    },
+    {
+      "route": "/schild2/import-export-statistik/schnittstellenbeschreibung.html",
+      "width": 390,
+      "dark": false,
+      "overflow": false
+    },
+    {
+      "route": "/reporting/rap/anrede.html",
+      "width": 390,
+      "dark": false,
+      "overflow": false
+    },
+    {
+      "route": "/programmreferenz/",
+      "width": 390,
+      "dark": false,
+      "overflow": false
+    },
+    {
+      "route": "/bilder/",
+      "width": 390,
+      "dark": false,
+      "overflow": false
+    },
+    {
+      "route": "/hilfe/alle-artikel.html",
+      "width": 390,
+      "dark": false,
+      "overflow": false
+    },
+    {
+      "route": "/",
+      "width": 390,
+      "dark": true,
+      "overflow": false
+    },
+    {
+      "route": "/einstieg/",
+      "width": 390,
+      "dark": true,
+      "overflow": false
+    },
+    {
+      "route": "/administration/installation/schild-nrw-installation.html",
+      "width": 390,
+      "dark": true,
+      "overflow": false
+    },
+    {
+      "route": "/schild2/import-export-statistik/schnittstellenbeschreibung.html",
+      "width": 390,
+      "dark": true,
+      "overflow": false
+    },
+    {
+      "route": "/reporting/rap/anrede.html",
+      "width": 390,
+      "dark": true,
+      "overflow": false
+    },
+    {
+      "route": "/programmreferenz/",
+      "width": 390,
+      "dark": true,
+      "overflow": false
+    },
+    {
+      "route": "/bilder/",
+      "width": 390,
+      "dark": true,
+      "overflow": false
+    },
+    {
+      "route": "/hilfe/alle-artikel.html",
+      "width": 390,
+      "dark": true,
+      "overflow": false
+    }
+  ],
+  "reference": true,
+  "search": true,
+  "catalog": true,
+  "mobileMenu": true,
+  "pascalStrings": true,
+  "sectionPrint": true,
+  "errors": []
+}

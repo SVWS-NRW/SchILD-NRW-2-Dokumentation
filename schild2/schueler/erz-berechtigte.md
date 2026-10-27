@@ -1,0 +1,36 @@
+---
+title: "Erz.-Berechtigte"
+wiki_title: "Erz.-Berechtigte"
+wiki_page_id: 300
+wiki_revision: 1332
+---
+
+# Erz.-Berechtigte
+
+Auf dem Karteireiter *Erz.-Berechtigte* werden die Adressen und Telefonnummern der Erziehungsberechtigten verwaltet.
+
+Bei der Eingabe sollte zunächst die Erzieherart gewählt werden. Hier einige Möglichkeiten:
+
+1\. Eltern leben gemeinsam:
+
+**Art: Eltern** wählen. Unter 1.Person die Daten der Mutter, unter 2.Person die Daten des Vaters eingeben. Der Schalter **Schüleradresse übernehmen** spart Tipparbeit. Im Erzieherfenster sehen Sie das Ergebnis, dass die Elterndaten zusammengefasst werden.
+
+2\. Eltern leben getrennt:
+
+**Art: Mutter** wählen. Unter 1.Person die Daten der Mutter eingeben (incl. Adresse). Anschließend mit dem Schalter '+' einen neuen Datensatz anlegen. Art: Vater und dann wieder unter 1.Person die Daten des Vaters angeben. Sollen beide angeschrieben werden, dann bitte das Häkchen bei 'erhält Anschreiben' setzen. Im Erzieherfenster sehen Sie anschließend zwei Datensätze.
+
+3\. Es gibt nur Vater oder Mutter:
+
+wie bei 1. Nur Erzieherart wählen und Daten bei 1.Person eintragen.
+
+![Erzieher-01](/bilder/wiki/erzieher-01-77cb88cb.jpg)
+
+Der untere Bereich der Registerkarte ist für Telefonnummern reserviert. Auf der Registerkarte Individualdaten I konnte nur eine Telefonnummer pro Schüler eingegeben werden.
+
+An dieser Stelle können beliebig viele Telefonnummern mit ihren Ansprechpartnern angegeben werden. Sie werden in der Tabelle 'SchuelerTelefone' gespeichert und müssen in einem Subreport abgefragt werden. Sollte Ihnen im Katalog **Ansprechpartner** ein passender Eintrag fehlen, so finden Sie hier Hinweise zur Erweiterung des Katalogs [Telefonische Ansprechpartner](/schild2/unterricht-kataloge/telefonische-ansprechpartner).
+
+------------------------------------------------------------------------
+
+---
+
+Quelle: [Erz.-Berechtigte – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Erz.-Berechtigte&oldid=1332) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Erz.-Berechtigte&action=history)

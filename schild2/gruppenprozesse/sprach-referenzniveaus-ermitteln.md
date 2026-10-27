@@ -1,0 +1,18 @@
+---
+title: "Sprach-Referenzniveaus ermitteln"
+wiki_title: "Sprach-Referenzniveaus ermitteln"
+wiki_page_id: 366
+wiki_revision: 2792
+---
+
+# Sprach-Referenzniveaus ermitteln
+
+Dieser Gruppenprozess ermittelt aus den vorhandenen Einträgen bei der Sprachenfolge und den Leistungsdaten die Sprachreferenzniveaus der ausgewählten Schüler und trägt sie unter [Laufbahninfo](/schild2/schueler/laufbahninfo) bei der entsprechenden Sprache ein. Einzelne Einträge oder Änderungen sollte man direkt bei dem betroffenen Schüler durchführen.
+
+Damit die Einträge zum Gemeinsamen europäischen Referenzrahmen für Sprachen (GeR) auf Abschluss- und Abgangszeugnissen eingetragen werden können, muss dieser Prozess vor der Erstellung der entsprechenden Zeugnisse angestoßen werden.
+
+------------------------------------------------------------------------
+
+---
+
+Quelle: [Sprach-Referenzniveaus ermitteln – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sprach-Referenzniveaus+ermitteln&oldid=2792) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sprach-Referenzniveaus+ermitteln&action=history)

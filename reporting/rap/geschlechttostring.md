@@ -1,0 +1,44 @@
+---
+title: "GeschlechtToString"
+wiki_title: "GeschlechtToString"
+wiki_page_id: 31
+wiki_revision: 5650
+---
+
+# GeschlechtToString
+
+<a id="RAP-Funktion_&quot;GeschlechtToString&quot;"></a>
+<a id="RAP-Funktion_.22GeschlechtToString.22"></a>
+
+## RAP-Funktion "GeschlechtToString"
+
+## Beschreibung
+
+```pascal
+function GeschlechtToString(aGeschlecht: integer; aMaennl_Form, aWeibl_Form: String): String;
+```
+
+## Parameter
+
+```text
+aGeschlecht        - Geschlecht, m=3, w=4
+aMaennl_Form       - männliche Form
+aWeibl_Form        - weibliche Form
+```
+
+## Rückgabewert
+
+```text
+Vorgabe, je nach Geschlecht
+```
+
+## Beispiel
+
+```pascal
+lAnrede:=GeschlechtToString(Schueler['Geschlecht'],'Schüler','Schülerin')
+```
+
+
+---
+
+Quelle: [GeschlechtToString – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=GeschlechtToString&oldid=5650) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=GeschlechtToString&action=history)

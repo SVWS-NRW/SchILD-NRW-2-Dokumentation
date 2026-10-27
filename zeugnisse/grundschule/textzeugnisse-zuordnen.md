@@ -1,0 +1,24 @@
+---
+title: "Textzeugnisse zuordnen"
+wiki_title: "Textzeugnisse zuordnen"
+wiki_page_id: 637
+wiki_revision: 2477
+---
+
+# Textzeugnisse zuordnen
+
+Wenn Sie den Menüpunkt **"Textzeugnisse zuordnen"** auswählen, öffnet sich das Fenster **"Zeugniszuordnung"**. In der Tabelle sehen Sie, welcher Klasse bzw. Jahrgangsstufe welches Word-Zeugnisformular zugeordnet ist. Mit dem Klicken auf das **+**-Zeichen öffnet sich eine neue Zeile, in der Sie eine weitere Zuordnung vornehmen können.
+
+![Zeugniszuordnung](/bilder/wiki/zeugniszuordnung-2b764b50.png)
+
+Möchten Sie ein Zeugnisformular bearbeiten, dann aktivieren Sie die zugehörige Zeile und klicken Sie auf **Zeugnisdatei** bearbeiten. Im Textverarbeitungsprogramm öffnet sich die ausgewählte Serienbriefvorlage und zusätzlich wird zur Kontrolle ein Serienbrief mit den Musterdaten erzeugt.
+
+*Hinweis:* Wird in der Serienbriefvorlage ein Seriendruckfeld verwendet, das nicht in der Steuerdatei enthalten ist, liegt das Fenster mit diesem Hinweis möglicherweise hinter dem Schild-NRW-Fenster. Das zeigt sich daran, dass Schild scheinbar nicht mehr reagiert. Über den Task-Manager kann man auf jeden Fall in das Fenster "ungültiges Seriendruckfeld" wechseln und die Seriendruckfelder ersetzen bzw. löschen.
+
+Bei Grundschulen lautet dieser Menüpunkt **"Grundschulzeugnisse zuordnen"**.
+
+------------------------------------------------------------------------
+
+---
+
+Quelle: [Textzeugnisse zuordnen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Textzeugnisse+zuordnen&oldid=2477) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Textzeugnisse+zuordnen&action=history)

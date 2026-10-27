@@ -1,0 +1,49 @@
+---
+title: "EinzelElement"
+wiki_title: "EinzelElement"
+wiki_page_id: 119
+wiki_revision: 164
+---
+
+# EinzelElement
+
+<a id="RAP-Funktion_&quot;EinzelElement&quot;"></a>
+<a id="RAP-Funktion_.22EinzelElement.22"></a>
+
+## RAP-Funktion "EinzelElement"
+
+## Beschreibung
+
+```pascal
+ 
+    function EinzelElement( const text, trennzeichen: string; const position: integer ):
+string
+   Liefert das Einzelelement an Position "position" aus dem durch das Trennzeichen
+   getrennten Text "text"
+```
+
+## Parameter
+
+```text
+text: der zu analysierende Text
+trennzeichen: Das Trennzeichen
+position: Die Position des Einzelelementes im Text (beginnend bei 1)
+```
+
+## Rückgabewert
+
+```text
+...
+```
+
+## Beispiel
+
+```pascal
+txt := '1,2,3,4':
+if einzelelement( txt, ',', 2 ) = '2' then
+```
+
+
+---
+
+Quelle: [EinzelElement – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=EinzelElement&oldid=164) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=EinzelElement&action=history)

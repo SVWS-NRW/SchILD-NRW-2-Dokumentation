@@ -1,0 +1,102 @@
+/* Browser print and Save as PDF share the same article-only A4 layout. */
+.print-only { display: none; }
+
+@page { size: A4; margin: 16mm 16mm 18mm; }
+
+@media print {
+  :root, :root.dark {
+    color-scheme: light;
+    --vp-c-bg: #fff;
+    --vp-c-bg-alt: #fff;
+    --vp-c-bg-soft: #f5f5f5;
+    --vp-c-text-1: #111;
+    --vp-c-text-2: #444;
+    --vp-c-text-3: #555;
+    --vp-c-divider: #bbb;
+    --vp-code-bg: #f2f2f2;
+  }
+  html, body, .Layout, .VPContent, .VPDoc { background: #fff !important; color: #111 !important; }
+  html, body { min-width: 0 !important; font-size: 10.5pt; }
+  body { margin: 0; }
+  .VPNav, .VPLocalNav, .VPSidebar, .VPBackdrop, .VPSkipLink,
+  .VPFooter, .VPDocFooter, .VPDoc .aside, .VPLocalSearchBox,
+  .vp-doc .header-anchor, .vp-doc iframe,
+  .vp-doc button, .vp-doc .line-numbers-wrapper,
+  .vp-doc div[class*='language-'] > span.lang { display: none !important; }
+
+  .Layout, .Layout .VPContent, .Layout .VPDoc,
+  .Layout .VPDoc > .container, .Layout .VPDoc .content,
+  .Layout .VPDoc .content-container, .Layout .VPDoc .main {
+    display: block !important;
+    width: 100% !important;
+    min-width: 0 !important;
+    max-width: none !important;
+    height: auto !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    overflow: visible !important;
+  }
+  .vp-doc { font-size: 10.5pt; line-height: 1.45; }
+  .vp-doc h1 { font-size: 21pt; line-height: 1.2; margin: 0 0 6mm; }
+  .vp-doc h2 { font-size: 15pt; line-height: 1.3; margin: 7mm 0 3mm; padding: 0; border: 0; }
+  .vp-doc h3 { font-size: 12pt; margin: 5mm 0 2mm; }
+  .vp-doc h4 { font-size: 10.5pt; }
+  .vp-doc h1, .vp-doc h2, .vp-doc h3, .vp-doc h4 { break-after: avoid-page; }
+  .vp-doc p, .vp-doc li { orphans: 3; widows: 3; }
+  .vp-doc p { margin: 0 0 3mm; }
+  .vp-doc a, .vp-doc a > code { color: #111 !important; text-decoration: underline; }
+  .vp-doc a::after { display: none !important; }
+  .vp-doc img {
+    display: block; max-width: 100% !important; max-height: 210mm;
+    width: auto; height: auto; object-fit: contain; break-inside: avoid-page;
+  }
+  .vp-doc p:has(> img), .vp-doc p:has(> a > img) { break-inside: avoid-page; break-after: avoid-page; }
+  .vp-doc p:has(> img) + p:has(> em:only-child),
+  .vp-doc p:has(> a > img) + p:has(> em:only-child) { break-before: avoid-page; font-size: 9pt; }
+
+  .Layout .vp-doc table, .Layout .vp-doc .interface-fields {
+    display: table; width: 100%; min-width: 0; max-width: 100%;
+    table-layout: fixed; border-collapse: collapse; font-size: 8.5pt; line-height: 1.35;
+  }
+  .Layout .vp-doc .interface-fields { font-size: 7.8pt; }
+  .Layout .vp-doc .interface-table-scroll { overflow: visible; max-width: none; }
+  .vp-doc .interface-fields .field-number { width: 8%; }
+  .vp-doc .interface-fields .field-remarks { width: 38%; }
+  .vp-doc thead { display: table-header-group; }
+  .vp-doc tbody { display: table-row-group; }
+  .vp-doc tr { break-inside: avoid-page; }
+  .Layout .vp-doc th, .Layout .vp-doc td {
+    padding: 1.5mm 1.8mm; vertical-align: top; border: 0.2mm solid #bbb;
+    overflow-wrap: anywhere; white-space: normal; color: #111; background: #fff;
+  }
+  .Layout .vp-doc th { background: #eee; }
+  .vp-doc pre, .vp-doc pre code {
+    white-space: pre-wrap !important; overflow-wrap: anywhere; word-break: break-word;
+    overflow: visible !important; font-size: 8pt; line-height: 1.4;
+  }
+  .vp-doc pre { padding: 3mm !important; margin: 0; }
+  .vp-doc div[class*='language-'] { margin: 3mm 0; background: #f5f5f5; border: 0.2mm solid #ccc; }
+  .vp-doc code, .vp-doc code span { color: #111 !important; background: transparent !important; }
+  .vp-doc td code { white-space: normal; }
+  .vp-doc .custom-block {
+    color: #111; background: #fafafa; border: 0.2mm solid #bbb;
+    border-left-width: 0.8mm; border-radius: 0; break-inside: avoid-page;
+  }
+  .vp-doc .custom-block.example { color: #111; background: #fafafa; border-color: #bbb; }
+  .vp-doc details.custom-block { break-inside: auto; }
+  .vp-doc details > summary { break-after: avoid-page; }
+  .print-only { display: block; }
+  .print-source, .print-media-link { font-size: 8pt; line-height: 1.4; overflow-wrap: anywhere; }
+  .print-source { margin: 0 0 5mm; color: #555; }
+  .print-media-link { margin: 2mm 0 4mm; }
+}
+
+@media print {
+  .article-print-controls, .book-toolbar { display: none !important; }
+  .vp-doc h1:has(.article-print-controls) { padding-right: 0; }
+  .book-toc { padding: 0; border: 0; border-radius: 0; font-size: 9pt; }
+  .book-toc li { margin: 1mm 0; }
+  .book-article { break-before: page; margin: 0; padding: 0; border: 0; }
+  .book-article-source { font-size: 8pt; break-after: avoid-page; }
+  .book-article h2:first-child { margin-top: 0; font-size: 18pt; }
+}
