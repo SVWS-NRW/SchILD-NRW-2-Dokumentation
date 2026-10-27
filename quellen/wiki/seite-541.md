@@ -9,7 +9,7 @@ title: "Wiki-Quelle: KM2 003"
 
 Gesicherte Wiki-Seite · Namensraum 0 · Version 2189 · Stand 2014-05-21.
 
-[Lesbaren Artikel öffnen](/hilfe/zusatzprogramme/km2-003) · [Originaldaten herunterladen](/dateien/quellen/seite-541.json) · [Zum Quellenarchiv](/quellen/)
+[Lesbaren Artikel öffnen](/hilfe/zusatzprogramme/modulbenutzung) · [Originaldaten herunterladen](/dateien/quellen/seite-541.json) · [Zum Quellenarchiv](/quellen/)
 
 ## Originalquelltext
 

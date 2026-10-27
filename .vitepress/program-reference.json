@@ -1289,7 +1289,7 @@
         {
           "id": "menue-74",
           "text": "Textzeugnisse erzeugen",
-          "link": "/zeugnisse/grundschule/textzeugnisse-erzeugen",
+          "link": "/tools/notenmodul-grundschule/rueckgabe-und-druck",
           "source_title": "Textzeugnisse erzeugen",
           "items": []
         }

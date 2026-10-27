@@ -326,10 +326,6 @@
               },
               {
                 "text": "Teilleistungen Einrichten und Verwalten",
-                "link": "/schild2/unterricht-kataloge/teilleistungen-einrichten-und-verwalten-1152"
-              },
-              {
-                "text": "Teilleistungen einrichten und verwalten",
                 "link": "/schild2/unterricht-kataloge/teilleistungen-einrichten-und-verwalten"
               },
               {
@@ -390,10 +386,6 @@
               },
               {
                 "text": "Haltestelle",
-                "link": "/schild2/unterricht-kataloge/haltestelle"
-              },
-              {
-                "text": "Haltestellen",
                 "link": "/schild2/unterricht-kataloge/haltestellen"
               },
               {
@@ -915,11 +907,11 @@
               },
               {
                 "text": "Grundschulzeugnisse Ankreuzzeugnis",
-                "link": "/zeugnisse/grundschule/grundschulzeugnisse-ankreuzzeugnis"
+                "link": "/tools/notenmodul-grundschule/leistungsdaten"
               },
               {
                 "text": "Grundschulzeugnisse Lernstandsberichte",
-                "link": "/zeugnisse/grundschule/grundschulzeugnisse-lernstandsberichte"
+                "link": "/zeugnisse/grundschule"
               },
               {
                 "text": "Textzeugnisse drucken",
@@ -927,7 +919,7 @@
               },
               {
                 "text": "Textzeugnisse erzeugen",
-                "link": "/zeugnisse/grundschule/textzeugnisse-erzeugen"
+                "link": "/tools/notenmodul-grundschule/rueckgabe-und-druck"
               },
               {
                 "text": "Textzeugnisse zuordnen",
@@ -1728,36 +1720,50 @@
             "link": "/tools/kurs42",
             "items": [
               {
-                "text": "K422CNF:Übersicht",
-                "link": "/hilfe/zusatzprogramme/k422cnf-uebersicht"
-              },
-              {
-                "text": "Klausurplanung CNF:Hauptseite",
-                "link": "/hilfe/zusatzprogramme/klausurplanung-cnf-hauptseite"
-              },
-              {
-                "text": "Kurs42 To CNF:Hauptseite",
-                "link": "/hilfe/zusatzprogramme/kurs42-to-cnf-hauptseite"
-              },
-              {
-                "text": "Kurs42:Inhaltsverzeichnis",
-                "link": "/hilfe/zusatzprogramme/kurs42-inhaltsverzeichnis"
-              },
-              {
-                "text": "Kurs42:Installationshinweise",
+                "text": "Installation",
                 "link": "/hilfe/zusatzprogramme/kurs42-installationshinweise"
               },
               {
-                "text": "Kurs42:Versionsgeschichte",
-                "link": "/hilfe/zusatzprogramme/kurs42-versionsgeschichte"
+                "text": "Zusammenspiel mit SchILD und LuPO",
+                "link": "/tools/kurs42/datenfluss"
               },
               {
-                "text": "Multi Klausurplanung CNF:Hauptseite",
-                "link": "/hilfe/zusatzprogramme/multi-klausurplanung-cnf-hauptseite"
+                "text": "Neue Blockung erstellen",
+                "link": "/tools/kurs42/neue-blockung"
               },
               {
-                "text": "News:Kurs42 unter Schild-Zentral",
+                "text": "Klausuren planen",
+                "link": "/tools/kurs42/klausurplanung"
+              },
+              {
+                "text": "Halbjahreswechsel und Fachwahlabgleich",
+                "link": "/tools/kurs42/halbjahreswechsel"
+              },
+              {
+                "text": "Externe Blockungsverfahren",
+                "link": "/hilfe/zusatzprogramme/k422cnf-uebersicht",
+                "items": [
+                  {
+                    "text": "Blockung mit CNF",
+                    "link": "/hilfe/zusatzprogramme/kurs42-to-cnf-hauptseite"
+                  },
+                  {
+                    "text": "Klausurplanung mit CNF",
+                    "link": "/hilfe/zusatzprogramme/klausurplanung-cnf-hauptseite"
+                  },
+                  {
+                    "text": "Mehrere Klausurplanungen",
+                    "link": "/hilfe/zusatzprogramme/multi-klausurplanung-cnf-hauptseite"
+                  }
+                ]
+              },
+              {
+                "text": "Einsatz unter SchILDzentral",
                 "link": "/hilfe/zusatzprogramme/news-kurs42-unter-schild-zentral"
+              },
+              {
+                "text": "Versionsgeschichte",
+                "link": "/hilfe/zusatzprogramme/kurs42-versionsgeschichte"
               }
             ]
           },
@@ -1766,56 +1772,50 @@
             "link": "/tools/lupo",
             "items": [
               {
-                "text": "LuPO Einleitung",
-                "link": "/hilfe/zusatzprogramme/lupo-einleitung"
-              },
-              {
-                "text": "Lupo:Auswertung der Fachwahlen",
-                "link": "/tools/lupo/lupo-auswertung-der-fachwahlen"
-              },
-              {
-                "text": "Lupo:Der Beratungsprozess",
-                "link": "/tools/lupo/lupo-der-beratungsprozess"
-              },
-              {
-                "text": "Lupo:Einleitung",
+                "text": "Einleitung",
                 "link": "/tools/lupo/lupo-einleitung"
               },
               {
-                "text": "Lupo:Erste Schritte in Lupo",
-                "link": "/tools/lupo/lupo-erste-schritte-in-lupo"
-              },
-              {
-                "text": "Lupo:Handbuch",
-                "link": "/tools/lupo/lupo-handbuch"
-              },
-              {
-                "text": "Lupo:Installation",
+                "text": "Installation",
                 "link": "/tools/lupo/lupo-installation"
               },
               {
-                "text": "Lupo:LuPO",
-                "link": "/hilfe/zusatzprogramme/lupo-lupo"
-              },
-              {
-                "text": "Lupo:Schülerdateien erzeugen",
-                "link": "/tools/lupo/lupo-schuelerdateien-erzeugen"
-              },
-              {
-                "text": "Lupo:Versionsgeschichte",
-                "link": "/tools/lupo/lupo-versionsgeschichte"
-              },
-              {
-                "text": "Lupo:Vorbereitungen in Schild-NRW",
+                "text": "Vorbereitungen in SchILD",
                 "link": "/tools/lupo/lupo-vorbereitungen-in-schild-nrw"
               },
               {
-                "text": "Lupo:Weitere Laufbahnprüfungen",
+                "text": "Erste Schritte",
+                "link": "/tools/lupo/lupo-erste-schritte-in-lupo",
+                "items": [
+                  {
+                    "text": "Schülerdateien erzeugen",
+                    "link": "/tools/lupo/lupo-schuelerdateien-erzeugen"
+                  }
+                ]
+              },
+              {
+                "text": "Beratungsprozess",
+                "link": "/tools/lupo/lupo-der-beratungsprozess"
+              },
+              {
+                "text": "Fachwahlen auswerten",
+                "link": "/tools/lupo/lupo-auswertung-der-fachwahlen"
+              },
+              {
+                "text": "Fachwahlen an Kurs42 übergeben",
+                "link": "/tools/lupo/lupo-uebergabe-der-fachwahlen-an-kurs42"
+              },
+              {
+                "text": "Weitere Laufbahnprüfungen",
                 "link": "/tools/lupo/lupo-weitere-laufbahnpruefungen"
               },
               {
-                "text": "Lupo:Übergabe der Fachwahlen an Kurs42",
-                "link": "/tools/lupo/lupo-uebergabe-der-fachwahlen-an-kurs42"
+                "text": "Versionsgeschichte",
+                "link": "/tools/lupo/lupo-versionsgeschichte"
+              },
+              {
+                "text": "Inhaltsverzeichnis",
+                "link": "/tools/lupo/lupo-handbuch"
               }
             ]
           },
@@ -1824,68 +1824,94 @@
             "link": "/tools/asdpc",
             "items": [
               {
-                "text": "Statistik mit ASDPC",
-                "link": "/schild2/import-export-statistik/statistik-mit-asdpc"
-              },
-              {
-                "text": "Statistik mit ASDPC Fehlersuche",
-                "link": "/schild2/import-export-statistik/statistik-mit-asdpc-fehlersuche"
-              },
-              {
-                "text": "Statistik mit ASDPC Haupterhebung",
-                "link": "/schild2/import-export-statistik/statistik-mit-asdpc-haupterhebung"
-              },
-              {
-                "text": "Statistik mit ASDPC Uebersicht",
-                "link": "/schild2/import-export-statistik/statistik-mit-asdpc-uebersicht-1346"
-              },
-              {
-                "text": "Statistik mit ASDPC Vorbereitung",
-                "link": "/schild2/import-export-statistik/statistik-mit-asdpc-vorbereitung"
-              },
-              {
-                "text": "Statistik mit ASDPC Übersicht",
+                "text": "Überblick",
                 "link": "/schild2/import-export-statistik/statistik-mit-asdpc-uebersicht"
               },
               {
-                "text": "Statistik mit ASDPC-Aufbau",
+                "text": "Gesamtablauf",
+                "link": "/schild2/import-export-statistik/statistik-mit-asdpc"
+              },
+              {
+                "text": "Installation und Technik",
+                "link": "/schild2/import-export-statistik/statistik-mit-asdpc-technik"
+              },
+              {
+                "text": "Programmaufbau",
                 "link": "/schild2/import-export-statistik/statistik-mit-asdpc-aufbau"
               },
               {
-                "text": "Statistik mit ASDPC-Schluesselmanagement",
+                "text": "Vorbereitung",
+                "link": "/schild2/import-export-statistik/statistik-mit-asdpc-vorbereitung"
+              },
+              {
+                "text": "Schlüsselmanagement",
                 "link": "/schild2/import-export-statistik/statistik-mit-asdpc-schluesselmanagement"
               },
               {
-                "text": "Statistik mit ASDPC-Technik",
-                "link": "/schild2/import-export-statistik/statistik-mit-asdpc-technik"
+                "text": "Haupterhebung",
+                "link": "/schild2/import-export-statistik/statistik-mit-asdpc-haupterhebung"
+              },
+              {
+                "text": "Fehlersuche",
+                "link": "/schild2/import-export-statistik/statistik-mit-asdpc-fehlersuche"
               }
             ]
           },
           {
             "text": "Notenmodul für Grundschulen",
             "link": "/tools/notenmodul-grundschule",
-            "items": []
+            "items": [
+              {
+                "text": "Vorbereitung und Export",
+                "link": "/tools/notenmodul-grundschule/vorbereitung"
+              },
+              {
+                "text": "Leistungsdaten eingeben",
+                "link": "/tools/notenmodul-grundschule/leistungsdaten"
+              },
+              {
+                "text": "Rückgabe, Import und Druck",
+                "link": "/tools/notenmodul-grundschule/rueckgabe-und-druck"
+              }
+            ]
           },
           {
             "text": "ENM-Notenmanager",
             "link": "/tools/enm-notenmanager",
-            "items": []
+            "items": [
+              {
+                "text": "Ersteinrichtung und Anzeige",
+                "link": "/tools/enm-notenmanager/ersteinrichtung"
+              },
+              {
+                "text": "Noten, Teilleistungen und Bemerkungen",
+                "link": "/tools/enm-notenmanager/leistungsdaten"
+              },
+              {
+                "text": "Zentrale Prüfungen und Rückgabe",
+                "link": "/tools/enm-notenmanager/pruefungen-und-rueckgabe"
+              },
+              {
+                "text": "Datenimport und Druck",
+                "link": "/tools/enm-notenmanager/import-und-druck"
+              }
+            ]
           },
           {
             "text": "Externes Notenmodul für weiterführende Schulen",
             "link": "/tools/externes-notenmodul",
             "items": [
               {
-                "text": "Benutzung des externen Notenmoduls",
+                "text": "Vorbereitung und Datenaustausch",
+                "link": "/zeugnisse/vorbereitung/externes-notenmodul"
+              },
+              {
+                "text": "Noten eingeben und zurückgeben",
                 "link": "/zeugnisse/vorbereitung/benutzung-des-externen-notenmoduls"
               },
               {
-                "text": "Einrichtung des ENM-Moduls unter Ubuntu 18.04",
+                "text": "Einrichtung unter Ubuntu 18.04",
                 "link": "/administration/installation/einrichtung-des-enm-moduls-unter-ubuntu-18-04"
-              },
-              {
-                "text": "Externes Notenmodul",
-                "link": "/zeugnisse/vorbereitung/externes-notenmodul"
               }
             ]
           },
@@ -1894,36 +1920,28 @@
             "link": "/tools/km2",
             "items": [
               {
-                "text": "KM2 - Parameter - Administration",
-                "link": "/hilfe/zusatzprogramme/km2-parameter-administration"
-              },
-              {
-                "text": "KM2 - Parameter - Allgemein",
-                "link": "/hilfe/zusatzprogramme/km2-parameter-allgemein"
-              },
-              {
-                "text": "KM2 001",
-                "link": "/hilfe/zusatzprogramme/km2-001"
-              },
-              {
-                "text": "KM2 002",
-                "link": "/hilfe/zusatzprogramme/km2-002"
-              },
-              {
-                "text": "KM2 003",
-                "link": "/hilfe/zusatzprogramme/km2-003"
-              },
-              {
-                "text": "KM2-Programmupdate",
-                "link": "/hilfe/zusatzprogramme/km2-programmupdate"
-              },
-              {
-                "text": "Konferenzmodul KM2.exe",
+                "text": "Überblick",
                 "link": "/hilfe/zusatzprogramme/konferenzmodul-km2-exe"
               },
               {
-                "text": "Modulbenutzung",
+                "text": "Installation und Ersteinrichtung",
+                "link": "/hilfe/zusatzprogramme/km2-001"
+              },
+              {
+                "text": "Datenbank und Administration",
+                "link": "/hilfe/zusatzprogramme/km2-parameter-administration"
+              },
+              {
+                "text": "Allgemeine Einstellungen",
+                "link": "/hilfe/zusatzprogramme/km2-parameter-allgemein"
+              },
+              {
+                "text": "Konferenz und Dateneingabe",
                 "link": "/hilfe/zusatzprogramme/modulbenutzung"
+              },
+              {
+                "text": "Programmupdate",
+                "link": "/hilfe/zusatzprogramme/km2-programmupdate"
               }
             ]
           },
@@ -1932,36 +1950,42 @@
             "link": "/tools/pm2",
             "items": [
               {
-                "text": "Prognos",
+                "text": "Überblick",
                 "link": "/hilfe/zusatzprogramme/prognos"
               },
               {
-                "text": "Prognos:Analyseverfahren: Datei",
-                "link": "/hilfe/zusatzprogramme/prognos-analyseverfahren-datei"
-              },
-              {
-                "text": "Prognos:Analyseverfahren: Einzelfall",
-                "link": "/hilfe/zusatzprogramme/prognos-analyseverfahren-einzelfall"
-              },
-              {
-                "text": "Prognos:Analyseverfahren: Klasse",
-                "link": "/hilfe/zusatzprogramme/prognos-analyseverfahren-klasse"
-              },
-              {
-                "text": "Prognos:Einleitung",
+                "text": "Einleitung",
                 "link": "/hilfe/zusatzprogramme/prognos-einleitung"
               },
               {
-                "text": "Prognos:Hauptfenster",
-                "link": "/hilfe/zusatzprogramme/prognos-hauptfenster"
-              },
-              {
-                "text": "Prognos:Installation",
+                "text": "Installation",
                 "link": "/hilfe/zusatzprogramme/prognos-installation"
               },
               {
-                "text": "Prognos:Programmstart",
+                "text": "Programmstart",
                 "link": "/hilfe/zusatzprogramme/prognos-programmstart"
+              },
+              {
+                "text": "Hauptfenster",
+                "link": "/hilfe/zusatzprogramme/prognos-hauptfenster",
+                "items": [
+                  {
+                    "text": "Einzelanalyse",
+                    "link": "/hilfe/zusatzprogramme/prognos-analyseverfahren-einzelfall"
+                  },
+                  {
+                    "text": "Klassenanalyse",
+                    "link": "/hilfe/zusatzprogramme/prognos-analyseverfahren-klasse"
+                  },
+                  {
+                    "text": "Dateianalyse",
+                    "link": "/hilfe/zusatzprogramme/prognos-analyseverfahren-datei"
+                  }
+                ]
+              },
+              {
+                "text": "Analysen und Ergebnisse",
+                "link": "/tools/pm2/analysen-und-ergebnisse"
               }
             ]
           },
@@ -1970,42 +1994,55 @@
             "link": "/tools/s1plan",
             "items": [
               {
-                "text": "S1PLAN:Anhang",
-                "link": "/hilfe/zusatzprogramme/s1plan-anhang"
+                "text": "Überblick",
+                "link": "/hilfe/zusatzprogramme/s1plan-uebersicht"
               },
               {
-                "text": "S1PLAN:Einrichtung von Kursen",
-                "link": "/hilfe/zusatzprogramme/s1plan-einrichtung-von-kursen"
-              },
-              {
-                "text": "S1PLAN:Erster Programmstart",
-                "link": "/hilfe/zusatzprogramme/s1plan-erster-programmstart"
-              },
-              {
-                "text": "S1PLAN:Installation",
+                "text": "Installation",
                 "link": "/hilfe/zusatzprogramme/s1plan-installation"
               },
               {
-                "text": "S1PLAN:Übernahme von Kursen aus Schild",
+                "text": "Erster Programmstart",
+                "link": "/hilfe/zusatzprogramme/s1plan-erster-programmstart"
+              },
+              {
+                "text": "Kurse einrichten und zuweisen",
+                "link": "/hilfe/zusatzprogramme/s1plan-einrichtung-von-kursen"
+              },
+              {
+                "text": "Kurse aus SchILD übernehmen",
                 "link": "/hilfe/zusatzprogramme/s1plan-uebernahme-von-kursen-aus-schild"
               },
               {
-                "text": "S1PLAN:Übersicht",
-                "link": "/hilfe/zusatzprogramme/s1plan-uebersicht"
+                "text": "Anhang",
+                "link": "/hilfe/zusatzprogramme/s1plan-anhang"
               }
             ]
           },
           {
             "text": "MA2LBV",
             "link": "/tools/ma2lbv",
-            "items": []
+            "items": [
+              {
+                "text": "Einrichtung und Datenbankzugriff",
+                "link": "/tools/ma2lbv/einrichtung"
+              },
+              {
+                "text": "Daten importieren",
+                "link": "/tools/ma2lbv/datenimport"
+              },
+              {
+                "text": "Abrechnung und Ausgabe",
+                "link": "/tools/ma2lbv/abrechnung"
+              }
+            ]
           },
           {
             "text": "Migrationstool",
             "link": "/tools/migrationstool",
             "items": [
               {
-                "text": "Schild-NRW-Daten in eine andere Datenbank übertragen (migrieren)",
+                "text": "Datenbank übertragen",
                 "link": "/administration/datenbanken/schild-nrw-daten-in-eine-andere-datenbank-uebertragen-migrieren"
               }
             ]
@@ -2020,7 +2057,7 @@
             "link": "/tools/import-textdateien",
             "items": [
               {
-                "text": "Import aus Textdateien",
+                "text": "Datenimport vorbereiten und ausführen",
                 "link": "/schild2/import-export-statistik/import-aus-textdateien"
               }
             ]
@@ -2043,10 +2080,6 @@
                 "link": "/hilfe/zusatzprogramme/kursplanung-kplan-exe"
               },
               {
-                "text": "Kursverwaltung KPlan.exe",
-                "link": "/hilfe/zusatzprogramme/kursverwaltung-kplan-exe"
-              },
-              {
                 "text": "SchildChat.exe",
                 "link": "/hilfe/zusatzprogramme/schildchat-exe"
               },
@@ -2065,20 +2098,8 @@
             ]
           },
           {
-            "text": "Alle Handbücher und Downloads",
-            "link": "/tools/handbuecher"
-          },
-          {
-            "text": "Alle Handbücher und Downloads",
-            "link": "/tools/handbuecher"
-          },
-          {
-            "text": "Alle Handbücher und Downloads",
-            "link": "/tools/handbuecher"
-          },
-          {
-            "text": "Alle Handbücher und Downloads",
-            "link": "/tools/handbuecher"
+            "text": "Alle Anleitungen",
+            "link": "/tools/anleitungen"
           }
         ]
       }
@@ -3370,7 +3391,7 @@
               {
                 "id": "menue-74",
                 "text": "Textzeugnisse erzeugen",
-                "link": "/zeugnisse/grundschule/textzeugnisse-erzeugen",
+                "link": "/tools/notenmodul-grundschule/rueckgabe-und-druck",
                 "source_title": "Textzeugnisse erzeugen",
                 "items": []
               }
@@ -3846,18 +3867,6 @@
           {
             "text": "Vollständiges Quellenarchiv",
             "link": "/quellen/"
-          },
-          {
-            "text": "Vollständiges Quellenarchiv",
-            "link": "/quellen/"
-          },
-          {
-            "text": "Vollständiges Quellenarchiv",
-            "link": "/quellen/"
-          },
-          {
-            "text": "Vollständiges Quellenarchiv",
-            "link": "/quellen/"
           }
         ]
       }
@@ -3873,10 +3882,6 @@
           {
             "text": "Alle Originaldateien",
             "link": "/quellen/dateien"
-          },
-          {
-            "text": "Noch nicht gesicherte Altdateien",
-            "link": "/quellen/fehlende-downloads"
           },
           {
             "text": "Artikel",

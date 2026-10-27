@@ -2,10 +2,10 @@
 
 Hier bleiben sämtliche aktuellen Wiki-Seiten aller Namensräume und sämtliche hochgeladenen Originaldateien erhalten. Die lesbaren Fachartikel stehen in den Themenrubriken; Vorlagen, Dateibeschreibungen und andere Wiki-Seiten sind zusätzlich im Original gesichert.
 
-**1405 Wiki-Seiten · 910 Wiki-Dateien · 34 zusätzliche Downloads**
+**1.405 Wiki-Seiten · 910 Wiki-Dateien**
 
 - [Alle Originaldateien](/quellen/dateien)
-- [Handbücher und weitere Downloads](/tools/handbuecher)
+- [Anleitungen zu den Tools](/tools/anleitungen)
 - [Gesamten aktuellen Wiki-Quelltext herunterladen (ZIP)](/dateien/quellen/wiki-quelltexte.zip)
 
 ## Namensräume

@@ -1,0 +1,518 @@
+{
+  "authorization": "Benutzerauftrag: überflüssige Downloads, veraltete Verweise und Leerartikel entfernen; PDFs in Artikel überführen; Tool-Menüs kürzen und ordnen.",
+  "changed_articles": [
+    {
+      "path": "einstieg/erste-schritte/neuaufnahmen-in-schild-nrw-001.md",
+      "reason": "Entfallener Altdatei-Verweis auf ausdrücklichen Benutzerwunsch",
+      "before_sha256": "f5caa17a1e8ee1774a578d3aa2d63df6092b6cba1a276c2a9947c29f1ab4a86a",
+      "after_sha256": "feeb3ca1ce2db711533ab81998e58354d3ea3d4e21474877049dfcdbd26a5d1f"
+    },
+    {
+      "path": "schild2/unterricht-kataloge/eingabe-der-ger-niveaus.md",
+      "reason": "Entfallener Altdatei-Verweis auf ausdrücklichen Benutzerwunsch",
+      "before_sha256": "07846f0fb852c1090d7e8388dd329dcd29f573c27578bf8b5ba194470dd96016",
+      "after_sha256": "6ca24d23b17fcec5e9763b35ad1dfb2e55f653c5fbccc9c7230b54d98a394a73"
+    },
+    {
+      "path": "schild2/unterricht-kataloge/konfessionen.md",
+      "reason": "Entfallener Altdatei-Verweis auf ausdrücklichen Benutzerwunsch",
+      "before_sha256": "43ca98ce2df070d763ed1204442994eaaf3c48dacf2d1718e38d6dd31f4145bd",
+      "after_sha256": "e9490059fb8c7041a1d9a990633e5fe9acf54150cefb52655ab5f5ef4beebdf6"
+    },
+    {
+      "path": "schild2/import-export-statistik/statistik-amtliche-schuldaten.md",
+      "reason": "Entfallener Altdatei-Verweis auf ausdrücklichen Benutzerwunsch",
+      "before_sha256": "f1cc7ece499d9b3fa0e1917c0a7a8bad5633cb3a41d9d2a703b6f73c36e8392a",
+      "after_sha256": "c6789bfa8ab0477876e0c59792032bbd820e9342eed127f73de2f12e4fbd5ef1"
+    },
+    {
+      "path": "schild2/import-export-statistik/statistik-mit-asdpc-vorbereitung.md",
+      "reason": "Entfallener Altdatei-Verweis auf ausdrücklichen Benutzerwunsch",
+      "before_sha256": "80e0d6b8e230453ea053958323edb49ce828ceaeb1764551bc3bc712068e2883",
+      "after_sha256": "679a56ca0113da0d1d342603af91cad2c286fb540bc5701561b71dbf0eef558c"
+    },
+    {
+      "path": "schild2/import-export-statistik/statistik-mit-asdpc-technik.md",
+      "reason": "Entfallener Altdatei-Verweis auf ausdrücklichen Benutzerwunsch",
+      "before_sha256": "98292f7d844d0b85ff5722399ad8c6c484576e6f65a2e9560157ee8c4cb3e714",
+      "after_sha256": "24c27a5be54a2bf0b51fdc85fef9b11ea529aff91356839c9ac45dbb27b2ebca"
+    },
+    {
+      "path": "schild2/import-export-statistik/statistik-mit-asdpc-aufbau.md",
+      "reason": "Entfallener Altdatei-Verweis auf ausdrücklichen Benutzerwunsch",
+      "before_sha256": "16dad33deb45aa52f957438a3714b09165998e792347e91e8027cf966152d7c9",
+      "after_sha256": "86ad54d2e76d9a9263ead24c956ffcf291fdfdf3b0308dc999a2fee47214c658"
+    },
+    {
+      "path": "hilfe/zusatzprogramme/km2-001.md",
+      "reason": "Ergänzung aus ausgewerteter PDF-Anleitung",
+      "before_sha256": "626093fb3cb2e9e45b6621b5a142c87edc2e30cf513cfc0e41422be022e87779",
+      "after_sha256": "8e46680c7108c3b2cfd97a72a456d9313a1b26af07e72626076d2c3e1b506d27"
+    },
+    {
+      "path": "hilfe/zusatzprogramme/s1plan-einrichtung-von-kursen.md",
+      "reason": "Ergänzung aus ausgewerteter PDF-Anleitung",
+      "before_sha256": "b3d7ae5b3e7157f6d43f5360ebee5dbc37efdabfdd574b3a8410ce9b6607ccd0",
+      "after_sha256": "76e238fb3c54a671360ba70f689812c524ed0d811f7bec394de32c071ccbcbba"
+    },
+    {
+      "path": "hilfe/zusatzprogramme/s1plan-uebernahme-von-kursen-aus-schild.md",
+      "reason": "Ergänzung aus ausgewerteter PDF-Anleitung",
+      "before_sha256": "b15db89d27700d24d69f8059dc89e1de67857fc1b2e7ea7354448db5325ad8fb",
+      "after_sha256": "6c477752a4809f310354a8774b9f2ac8a5422cf9637d30cb5daf501a37766cb6"
+    }
+  ],
+  "removed_downloads": [
+    {
+      "source": "https://www.svws.nrw.de/system/files/media/document/file/anonymisierungstool.zip",
+      "path": "/dateien/handbuecher/anonymisierungstool-ae444121.zip",
+      "name": "anonymisierungstool.zip",
+      "bytes": 3274256,
+      "sha256": "ae1b0d5bbe9ecf3cc5cbcd0887c219d2cd9fc40c7543f41729ba23d05369b169",
+      "references": [
+        {
+          "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+          "label": "Anonymisierungstool"
+        }
+      ]
+    },
+    {
+      "source": "https://github.com/msoos/cryptominisat/releases/download/5.6.8/cryptominisat5-win-amd64-nogauss.exe",
+      "path": "/dateien/handbuecher/cryptominisat5-win-amd64-nogauss-a549f8ab.exe",
+      "name": "cryptominisat5-win-amd64-nogauss.exe",
+      "bytes": 1618432,
+      "sha256": "5c23d407046787c51b1d4fb7ecad6d5f03ee1971be4b7fec35e63d959aecfbb7",
+      "references": [
+        {
+          "source": "Kurs42 To CNF:Hauptseite",
+          "label": "https://github.com/msoos/cryptominisat/releases/download/5.6.8/cryptominisat5-win-amd64-nogauss.exe"
+        }
+      ]
+    },
+    {
+      "source": "https://www.svws.nrw.de/system/files/media/document/file/enm_bedienungsanleitung_2.pdf",
+      "path": "/dateien/handbuecher/enm-bedienungsanleitung-2-32737c0f.pdf",
+      "name": "enm_bedienungsanleitung_2.pdf",
+      "bytes": 2917945,
+      "sha256": "e23026f3ee98499996cb4e0b7eb551e457f32e581ed72906bc48b14f8085f68f",
+      "references": [
+        {
+          "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+          "label": "Anleitung ENM-Notenmanager PDF"
+        }
+      ]
+    },
+    {
+      "source": "https://www.svws.nrw.de/system/files/media/document/file/enm-notenmanager_portable_v1.4.9.2.zip",
+      "path": "/dateien/handbuecher/enm-notenmanager-portable-v1-4-9-2-3edbca4a.zip",
+      "name": "enm-notenmanager_portable_v1.4.9.2.zip",
+      "bytes": 30273550,
+      "sha256": "4376a6d5534b5ba48a15ecfb704cac5be89217eed4d1d57d7c35182abfbf8739",
+      "references": [
+        {
+          "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+          "label": "ENM-Notenmanager Portable ZIP v1.9.4.2"
+        }
+      ]
+    },
+    {
+      "source": "https://www.svws.nrw.de/system/files/media/document/file/enm-notenmanager_setup_exe_v1.4.9.2.zip",
+      "path": "/dateien/handbuecher/enm-notenmanager-setup-exe-v1-4-9-2-5a28fecb.zip",
+      "name": "enm-notenmanager_setup_exe_v1.4.9.2.zip",
+      "bytes": 30273550,
+      "sha256": "4376a6d5534b5ba48a15ecfb704cac5be89217eed4d1d57d7c35182abfbf8739",
+      "references": [
+        {
+          "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+          "label": "ENM-Notenmanager Setup EXE v1.4.9.2 (gezippt)"
+        }
+      ]
+    },
+    {
+      "source": "https://www.svws.nrw.de/system/files/media/document/file/externes_notenmodul_portable_v3.0.2.2_veraltet.zip",
+      "path": "/dateien/handbuecher/externes-notenmodul-portable-v3-0-2-2-veraltet-db474a4c.zip",
+      "name": "externes_notenmodul_portable_v3.0.2.2_veraltet.zip",
+      "bytes": 4349176,
+      "sha256": "82ac2c564ec0ce992974e3d3efa35dbb0d1b0107aaa9391e18dd86f515438eb4",
+      "references": [
+        {
+          "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+          "label": "Externes Notenmodul Portable ZIP v3.0.2.2 (veraltet)"
+        }
+      ]
+    },
+    {
+      "source": "https://www.svws.nrw.de/system/files/media/document/file/externes_notenmodul_repots_veraltet.zip",
+      "path": "/dateien/handbuecher/externes-notenmodul-repots-veraltet-3343fe8c.zip",
+      "name": "externes_notenmodul_repots_veraltet.zip",
+      "bytes": 16677,
+      "sha256": "121cef3ee0af2962efafa661b2d48621015bedcf07b9b44f7063bdaa1e856090",
+      "references": [
+        {
+          "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+          "label": "Externes Notenmodul Reports (veraltet)"
+        }
+      ]
+    },
+    {
+      "source": "https://www.svws.nrw.de/system/files/media/document/file/handbuch-schild-lupo-kurs42-22.auflage.pdf",
+      "path": "/dateien/handbuecher/handbuch-schild-lupo-kurs42-22-auflage-76622459.pdf",
+      "name": "handbuch-schild-lupo-kurs42-22.auflage.pdf",
+      "bytes": 9418022,
+      "sha256": "65177f6b62bba55f4d6d162f5b0fed9a820e82e19aa4af5884a4783fd3b91c5b",
+      "references": [
+        {
+          "source": "user",
+          "label": "Handbuch SchILD–LuPO–Kurs42, 22. Auflage"
+        },
+        {
+          "source": "https://www.svws.nrw.de/schild-nrw-2/kurs42",
+          "label": "Handbuch Kurs42-Schild-Lupo PDF"
+        }
+      ]
+    },
+    {
+      "source": "https://www.svws.nrw.de/system/files/media/document/file/import_aus_textdatei.zip",
+      "path": "/dateien/handbuecher/import-aus-textdatei-8bd7dc45.zip",
+      "name": "import_aus_textdatei.zip",
+      "bytes": 1729284,
+      "sha256": "f95b833998805e6fd02145588caae591f36b77d128cd8d1c1e8f5ee9f025e252",
+      "references": [
+        {
+          "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+          "label": "Import aus Textdatei"
+        }
+      ]
+    },
+    {
+      "source": "https://www.svws.nrw.de/system/files/media/document/file/km2-portable_1_9_6_3.zip",
+      "path": "/dateien/handbuecher/km2-portable-1-9-6-3-e1af2c26.zip",
+      "name": "km2-portable_1_9_6_3.zip",
+      "bytes": 31266348,
+      "sha256": "6cb9afe6f16adfa1144cda5587fee0c229f1c24745a74097d14f80205c328412",
+      "references": [
+        {
+          "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+          "label": "KM2 Portable v1.9.6.3 ZIP"
+        }
+      ]
+    },
+    {
+      "source": "https://www.svws.nrw.de/system/files/media/document/file/km2-setup-exe_1_9_6_3_0.zip",
+      "path": "/dateien/handbuecher/km2-setup-exe-1-9-6-3-0-85c5576c.zip",
+      "name": "km2-setup-exe_1_9_6_3_0.zip",
+      "bytes": 29971813,
+      "sha256": "9ef7b71aaab1137ac036336dd0991d7bce1143d1e0c0f16a0b69c7ed1ede2916",
+      "references": [
+        {
+          "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+          "label": "PM2 Setup EXE v1.8.3 (gezippt)"
+        }
+      ]
+    },
+    {
+      "source": "https://www.svws.nrw.de/system/files/media/document/file/km2-setup-exe_1_9_6_3_1.zip",
+      "path": "/dateien/handbuecher/km2-setup-exe-1-9-6-3-1-fe7c23ed.zip",
+      "name": "km2-setup-exe_1_9_6_3_1.zip",
+      "bytes": 29971813,
+      "sha256": "9ef7b71aaab1137ac036336dd0991d7bce1143d1e0c0f16a0b69c7ed1ede2916",
+      "references": [
+        {
+          "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+          "label": "KM2 Setup EXE v1.9.6.3 (gezippt)"
+        }
+      ]
+    },
+    {
+      "source": "https://www.svws.nrw.de/system/files/media/document/file/km2_versionsgeschichte.pdf",
+      "path": "/dateien/handbuecher/km2-versionsgeschichte-a9d96999.pdf",
+      "name": "km2_versionsgeschichte.pdf",
+      "bytes": 173401,
+      "sha256": "a2ab3b40f5266e93f1c59de8ef75cb9be7ebc16303af87747021cc4484b7b302",
+      "references": [
+        {
+          "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+          "label": "Versionsgeschichte KM2 PDF"
+        }
+      ]
+    },
+    {
+      "source": "https://www.svws.nrw.de/system/files/media/document/file/kursplan_2024_03_08.zip",
+      "path": "/dateien/handbuecher/kursplan-2024-03-08-4c35e247.zip",
+      "name": "kursplan_2024_03_08.zip",
+      "bytes": 8179913,
+      "sha256": "6b9b07d62faf4019d0d3d4b49a37d3990bcb2e7cab2413b475e29ec9da77f093",
+      "references": [
+        {
+          "source": "https://www.svws.nrw.de/schild-nrw-2/kurs42",
+          "label": "Kurs42 Stundenplan Plugin ZIP"
+        }
+      ]
+    },
+    {
+      "source": "https://www.svws.nrw.de/system/files/media/document/file/kurssetup_3_33_30_528.zip",
+      "path": "/dateien/handbuecher/kurssetup-3-33-30-528-e73e0d12.zip",
+      "name": "kurssetup_3_33_30_528.zip",
+      "bytes": 29278640,
+      "sha256": "47a399e1f198d3f6cf66f179953ef939c60b08abc0bc0625c906a63b1939a20e",
+      "references": [
+        {
+          "source": "https://www.svws.nrw.de/schild-nrw-2/kurs42",
+          "label": "Kurs42 Setup v3.33.30.528 EXE"
+        }
+      ]
+    },
+    {
+      "source": "https://www.svws.nrw.de/system/files/media/document/file/kursupdate_3_33_30_528.zip",
+      "path": "/dateien/handbuecher/kursupdate-3-33-30-528-b822f39c.zip",
+      "name": "kursupdate_3_33_30_528.zip",
+      "bytes": 40306912,
+      "sha256": "a183fe78bf97f50c2b9ab45a7c9465f5d8aa16c44ae897809b4a17208fe3c591",
+      "references": [
+        {
+          "source": "https://www.svws.nrw.de/schild-nrw-2/kurs42",
+          "label": "Kurs42 Portable v3.33.30.528 ZIP"
+        }
+      ]
+    },
+    {
+      "source": "https://www.svws.nrw.de/system/files/media/document/file/lupo_nrw_2_1_8_1.zip",
+      "path": "/dateien/handbuecher/lupo-nrw-2-1-8-1-eefc636e.zip",
+      "name": "lupo_nrw_2_1_8_1.zip",
+      "bytes": 22011829,
+      "sha256": "7ac190f429597fa8cd0c602b43e13625d06b3bdf4fce2e1001d18a07cfe966d6",
+      "references": [
+        {
+          "source": "https://www.svws.nrw.de/schild-nrw-2/lupo",
+          "label": "LuPO Portable/Update ZIP v2.1.8.1"
+        }
+      ]
+    },
+    {
+      "source": "https://www.svws.nrw.de/system/files/media/document/file/ma22lbv_verfahrensverzeichnis.doc",
+      "path": "/dateien/handbuecher/ma22lbv-verfahrensverzeichnis-24717c76.doc",
+      "name": "ma22lbv_verfahrensverzeichnis.doc",
+      "bytes": 85504,
+      "sha256": "a2f190354404d03cdc0117c3d2f685a37fee50ed209619401c9b31d92e16f4dd",
+      "references": [
+        {
+          "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+          "label": "Verfahrensverzeichnis MA2LBV DOC"
+        }
+      ]
+    },
+    {
+      "source": "https://www.svws.nrw.de/system/files/media/document/file/ma2lbv_anleitung.pdf",
+      "path": "/dateien/handbuecher/ma2lbv-anleitung-d576bdb8.pdf",
+      "name": "ma2lbv_anleitung.pdf",
+      "bytes": 2100077,
+      "sha256": "49e8ac036bb9cb26c721f47b0f6847f288e4bf4588ee0837870aa5a6ef76a165",
+      "references": [
+        {
+          "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+          "label": "Anleitung MA2LBV PDF"
+        }
+      ]
+    },
+    {
+      "source": "https://www.svws.nrw.de/system/files/media/document/file/ma2lbv_portable_v3.2.3.2.zip",
+      "path": "/dateien/handbuecher/ma2lbv-portable-v3-2-3-2-b7e6c4f2.zip",
+      "name": "ma2lbv_portable_v3.2.3.2.zip",
+      "bytes": 35088529,
+      "sha256": "78fd285f47c204fdf240bf4d6e2d449adeb6eb636a9b863bb1cbd31737f3c345",
+      "references": [
+        {
+          "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+          "label": "MA2LBV Portable ZIP v3.2.3.2"
+        }
+      ]
+    },
+    {
+      "source": "https://www.svws.nrw.de/system/files/media/document/file/ma2lbv_setup_exe_v3.2.3.2.zip",
+      "path": "/dateien/handbuecher/ma2lbv-setup-exe-v3-2-3-2-04bb1736.zip",
+      "name": "ma2lbv_setup_exe_v3.2.3.2.zip",
+      "bytes": 32324543,
+      "sha256": "4b3199a8ef1a81755cfee6373de902f8eb15eb2c215be78571b8bbf0ad38891f",
+      "references": [
+        {
+          "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+          "label": "MA2LBV Setup EXE v3.2.3.2 (gezippt)"
+        }
+      ]
+    },
+    {
+      "source": "https://www.svws.nrw.de/system/files/media/document/file/ma2pdf_versionsgeschichte.pdf",
+      "path": "/dateien/handbuecher/ma2pdf-versionsgeschichte-90b1c6c9.pdf",
+      "name": "ma2pdf_versionsgeschichte.pdf",
+      "bytes": 41381,
+      "sha256": "c8b1036b2713d5714a04340610e3254e0e7a2e939ee6cfb3d178e750ca0bb91d",
+      "references": [
+        {
+          "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+          "label": "Versionsgeschichte MA2LBV PDF"
+        }
+      ]
+    },
+    {
+      "source": "https://www.svws.nrw.de/system/files/media/document/file/migrationstool.zip",
+      "path": "/dateien/handbuecher/migrationstool-3c291f2e.zip",
+      "name": "migrationstool.zip",
+      "bytes": 10006099,
+      "sha256": "9d2c0e9dc5cdb6cea6818f87491ad55993aa7ed7e202891274849dffdfc78079",
+      "references": [
+        {
+          "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+          "label": "Migrationstool"
+        }
+      ]
+    },
+    {
+      "source": "https://www.svws.nrw.de/system/files/media/document/file/notenmodul_grundschule_anleitung.pdf",
+      "path": "/dateien/handbuecher/notenmodul-grundschule-anleitung-5cb16b36.pdf",
+      "name": "notenmodul_grundschule_anleitung.pdf",
+      "bytes": 929376,
+      "sha256": "7a29026505696ed08799ec45ff39d44cef822180f87ac693dac66a10520bed27",
+      "references": [
+        {
+          "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+          "label": "Anleitung Notenmodul für Grundschulen PDF"
+        }
+      ]
+    },
+    {
+      "source": "https://www.svws.nrw.de/system/files/media/document/file/notenmodul_grundschule_portable_v3.0.2.2.zip",
+      "path": "/dateien/handbuecher/notenmodul-grundschule-portable-v3-0-2-2-6db7cc81.zip",
+      "name": "notenmodul_grundschule_portable_v3.0.2.2.zip",
+      "bytes": 14899460,
+      "sha256": "471fdf31df09cee97064711e17c47559ca5c6d22b86d4fba8cb135a67ebc5b3b",
+      "references": [
+        {
+          "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+          "label": "Notenmodul für Grundschulen ZIP v3.0.2.2"
+        }
+      ]
+    },
+    {
+      "source": "https://www.svws.nrw.de/system/files/media/document/file/pm2_bedienungsanleitung_1.pdf",
+      "path": "/dateien/handbuecher/pm2-bedienungsanleitung-1-243583cf.pdf",
+      "name": "pm2_bedienungsanleitung_1.pdf",
+      "bytes": 5457647,
+      "sha256": "51c972f639f085186f8d6dd0210ae6c36a1555edbec4271188a3aa623f16afcf",
+      "references": [
+        {
+          "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+          "label": "Anleitung PM2 PDF"
+        }
+      ]
+    },
+    {
+      "source": "https://www.svws.nrw.de/system/files/media/document/file/pm2_portable_1_8_3.zip",
+      "path": "/dateien/handbuecher/pm2-portable-1-8-3-26f9137f.zip",
+      "name": "pm2_portable_1_8_3.zip",
+      "bytes": 22955502,
+      "sha256": "7cc013bc9162e15d2774dfe2232c2a15689cee5b72696426c3b479b78e44256e",
+      "references": [
+        {
+          "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+          "label": "PM2 Portable v1.8.3 ZIP"
+        }
+      ]
+    },
+    {
+      "source": "https://www.svws.nrw.de/system/files/media/document/file/pm2_versionsgeschichte.pdf",
+      "path": "/dateien/handbuecher/pm2-versionsgeschichte-69ad3040.pdf",
+      "name": "pm2_versionsgeschichte.pdf",
+      "bytes": 239149,
+      "sha256": "c293512a3012ade3d1893a04bcd03ab400bf022db30814a3f4c0922ce93f1e6e",
+      "references": [
+        {
+          "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+          "label": "Versionsgeschichte PM2 PDF"
+        }
+      ]
+    },
+    {
+      "source": "https://www.svws.nrw.de/system/files/media/document/file/s1plan_anleitung.pdf",
+      "path": "/dateien/handbuecher/s1plan-anleitung-fd5a0113.pdf",
+      "name": "s1plan_anleitung.pdf",
+      "bytes": 5435725,
+      "sha256": "07b87f2ec936fcc6258fb358b414b6b28a9d1f29fe064d85ac3db76b35725f64",
+      "references": [
+        {
+          "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+          "label": "Anleitung S1Plan PDF"
+        }
+      ]
+    },
+    {
+      "source": "https://www.svws.nrw.de/system/files/media/document/file/s1plan_portable.zip",
+      "path": "/dateien/handbuecher/s1plan-portable-2c97d95d.zip",
+      "name": "s1plan_portable.zip",
+      "bytes": 31324338,
+      "sha256": "5f3c4b287983e249a098a61423dbdb8ba5dede8937c9b2dae968904ee194d668",
+      "references": [
+        {
+          "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+          "label": "S1Plan Portable ZIP v1.4.4.1"
+        }
+      ]
+    },
+    {
+      "source": "https://www.svws.nrw.de/system/files/media/document/file/s1plan_setup_exe.zip",
+      "path": "/dateien/handbuecher/s1plan-setup-exe-881b1348.zip",
+      "name": "s1plan_setup_exe.zip",
+      "bytes": 28193000,
+      "sha256": "fd0777a9cc06407e5c1f96368eb80c54ce4c74264a4bc6994939edfdc9e6eb97",
+      "references": [
+        {
+          "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+          "label": "S1Plan Setup EXE v1.4.4.1 (gezippt)"
+        }
+      ]
+    },
+    {
+      "source": "https://www.svws.nrw.de/uploads/media/schildinfo.rtf",
+      "path": "/dateien/handbuecher/schildinfo-c56f68dc.rtf",
+      "name": "schildinfo.rtf",
+      "bytes": 1387,
+      "sha256": "cf9f4249ad24523bf30b91dd149ec9bdad37de5743711b79bc009d765499257c",
+      "references": [
+        {
+          "source": "Versionsgeschichte Schild-NRW",
+          "label": "https://www.svws.nrw.de/uploads/media/schildinfo.rtf"
+        },
+        {
+          "source": "Versionsgeschichte Schild-NRW",
+          "label": "https://www.svws.nrw.de/uploads/media/schildinfo.rtf"
+        }
+      ]
+    },
+    {
+      "source": "https://www.svws.nrw.de/system/files/media/document/file/schuljahr_erhoehen.zip",
+      "path": "/dateien/handbuecher/schuljahr-erhoehen-0959a599.zip",
+      "name": "schuljahr_erhoehen.zip",
+      "bytes": 1005384,
+      "sha256": "694cb9415d28c5c0f66e4dd4234fdcf65be996b1625b4d7b218ad450e4b97a96",
+      "references": [
+        {
+          "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+          "label": "Schuljahr Erhöhen"
+        }
+      ]
+    },
+    {
+      "source": "https://www.svws.nrw.de/system/files/media/document/file/setup_lupo_2_1_7_2_1.zip",
+      "path": "/dateien/handbuecher/setup-lupo-2-1-7-2-1-f506581e.zip",
+      "name": "setup_lupo_2_1_7_2_1.zip",
+      "bytes": 15356257,
+      "sha256": "604572670caa82b36dc1f80368ab1a0895185174dae62af14ecea96976f43d39",
+      "references": [
+        {
+          "source": "https://www.svws.nrw.de/schild-nrw-2/lupo",
+          "label": "LuPO Setup EXE v2.1.7.2"
+        }
+      ]
+    }
+  ],
+  "retired_count": 12
+}

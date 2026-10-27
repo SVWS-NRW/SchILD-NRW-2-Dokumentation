@@ -18,7 +18,7 @@ try {
   const page = await browser.newPage()
   page.on('pageerror', e=>errors.push(e.message))
   await fs.mkdir('test-results', {recursive:true})
-  const paths = ['/', '/einstieg/', '/administration/installation/schild-nrw-installation.html', '/schild2/import-export-statistik/schnittstellenbeschreibung.html', '/reporting/rap/anrede.html', '/programmreferenz/', '/bilder/', '/hilfe/alle-artikel.html','/tools/','/tools/lupo.html','/tools/ma2lbv.html','/quellen/','/quellen/dateien.html','/quellen/fehlende-downloads.html']
+  const paths = ['/', '/einstieg/', '/administration/installation/schild-nrw-installation.html', '/schild2/import-export-statistik/schnittstellenbeschreibung.html', '/reporting/rap/anrede.html', '/programmreferenz/', '/bilder/', '/hilfe/alle-artikel.html','/tools/','/tools/lupo.html','/tools/ma2lbv.html','/quellen/','/quellen/dateien.html','/tools/enm-notenmanager/leistungsdaten.html','/tools/notenmodul-grundschule/vorbereitung.html','/tools/ma2lbv/abrechnung.html']
   for (const width of [1440,390]) for (const dark of [false,true]) {
     await page.setViewportSize({width,height:900})
     for (const route of paths) {
@@ -44,10 +44,15 @@ try {
   await page.goto(base+'/reporting/rap/anrede.html',{waitUntil:'networkidle'})
   assert((await page.locator('.vp-doc').innerText()).includes("Anrede('Herr','','Meier'"), 'Leere Pascal-Zeichenkette wurde verändert')
   await page.goto(base+'/tools/lupo.html',{waitUntil:'networkidle'})
-  assert(await page.locator('.vp-doc a[href$=".pdf"]').count()>0,'Lokales LuPO-Handbuch fehlt')
-  assert(await page.locator('.vp-doc a[href*="lupo-handbuch"]').count()>0,'LuPO-Wiki-Handbuch fehlt')
+  assert(await page.locator('.vp-doc a[href*="lupo-einleitung"]').count()>0,'LuPO-Einstieg fehlt')
+  assert.equal(await page.locator('a[href^="/dateien/handbuecher/"]').count(),0,'Zusätzliche Downloads sind noch verlinkt')
   await page.goto(base+'/hilfe/zusatzprogramme/lupo-lupo.html',{waitUntil:'networkidle'})
+  await page.waitForURL('**/tools/lupo.html')
   assert(await page.locator('.VPNavBarMenu a[href="/tools/"]').evaluate(e=>e.classList.contains('active')),'Alte LuPO-Adresse muss Tools im Kopfmenü aktivieren')
+  await page.goto(base+'/schild2/import-export-statistik/statistik-mit-asdpc-uebersicht-1346.html',{waitUntil:'networkidle'})
+  await page.waitForURL('**/statistik-mit-asdpc-uebersicht.html')
+  await page.goto(base+'/hilfe/zusatzprogramme/prognos-analyseverfahren-klasse.html',{waitUntil:'networkidle'})
+  assert((await page.locator('#VPSidebarNav').innerText()).includes('PM2'),'Verschachtelte Klassenanalyse muss das Tool-Menü behalten')
   await page.goto(base+'/bilder/',{waitUntil:'networkidle'})
   await page.getByRole('searchbox').fill('hauptfenster')
   assert(await page.locator('.image-catalog img').count()>0,'Bilderkatalog findet kein Hauptfenster')

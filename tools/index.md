@@ -18,4 +18,4 @@ Wählen Sie das gewünschte Programm. Die Unterseiten verbinden die vollständig
 - [Schuljahr erhöhen](/tools/schuljahr-erhoehen)
 - [Weitere Zusatzprogramme](/tools/weitere)
 
-- [Alle Handbücher und Downloads](/tools/handbuecher)
+- [Alle Anleitungen](/tools/anleitungen)

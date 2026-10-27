@@ -25,4 +25,3 @@ SchILD-NRW 2 greift direkt auf die eingerichtete Datenbank zu. Ein SVWS-Server i
 - [Benutzer](/administration/benutzer-einstellungen/benutzer)
 - [Benutzerverwaltung](/administration/benutzer-einstellungen/benutzerverwaltung)
 - [Benutzerverwaltung Useradmn.exe](/administration/benutzer-einstellungen/benutzerverwaltung-useradmn-exe)
-

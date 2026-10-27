@@ -13,10 +13,10 @@ Noten vorbereiten, Abschlüsse berechnen und Zeugnisse erstellen.
 ## [Grundschulzeugnisse](/zeugnisse/grundschule)
 
 - [Grundschulzeugnisse Textzeugnis](/zeugnisse/grundschule/grundschulzeugnisse-textzeugnis)
-- [Grundschulzeugnisse Ankreuzzeugnis](/zeugnisse/grundschule/grundschulzeugnisse-ankreuzzeugnis)
-- [Grundschulzeugnisse Lernstandsberichte](/zeugnisse/grundschule/grundschulzeugnisse-lernstandsberichte)
+- [Grundschulzeugnisse Ankreuzzeugnis](/tools/notenmodul-grundschule/leistungsdaten)
+- [Grundschulzeugnisse Lernstandsberichte](/zeugnisse/grundschule)
 - [Textzeugnisse drucken](/zeugnisse/grundschule/textzeugnisse-drucken)
-- [Textzeugnisse erzeugen](/zeugnisse/grundschule/textzeugnisse-erzeugen)
+- [Textzeugnisse erzeugen](/tools/notenmodul-grundschule/rueckgabe-und-druck)
 
 ## [Sekundarstufen und Abitur](/zeugnisse/sekundarstufen)
 
@@ -33,4 +33,3 @@ Noten vorbereiten, Abschlüsse berechnen und Zeugnisse erstellen.
 - [Anlage D01](/zeugnisse/berufskolleg/anlage-d01)
 - [Eintragung Herkunft am BK/WBK](/zeugnisse/berufskolleg/eintragung-herkunft-am-bk-wbk)
 - [A01 Fachklassen (BS; TZ)](/zeugnisse/berufskolleg/a01-fachklassen-bs-tz)
-

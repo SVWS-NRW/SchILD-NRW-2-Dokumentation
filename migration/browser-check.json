@@ -79,7 +79,19 @@
       "overflow": false
     },
     {
-      "route": "/quellen/fehlende-downloads.html",
+      "route": "/tools/enm-notenmanager/leistungsdaten.html",
+      "width": 1440,
+      "dark": false,
+      "overflow": false
+    },
+    {
+      "route": "/tools/notenmodul-grundschule/vorbereitung.html",
+      "width": 1440,
+      "dark": false,
+      "overflow": false
+    },
+    {
+      "route": "/tools/ma2lbv/abrechnung.html",
       "width": 1440,
       "dark": false,
       "overflow": false
@@ -163,7 +175,19 @@
       "overflow": false
     },
     {
-      "route": "/quellen/fehlende-downloads.html",
+      "route": "/tools/enm-notenmanager/leistungsdaten.html",
+      "width": 1440,
+      "dark": true,
+      "overflow": false
+    },
+    {
+      "route": "/tools/notenmodul-grundschule/vorbereitung.html",
+      "width": 1440,
+      "dark": true,
+      "overflow": false
+    },
+    {
+      "route": "/tools/ma2lbv/abrechnung.html",
       "width": 1440,
       "dark": true,
       "overflow": false
@@ -247,7 +271,19 @@
       "overflow": false
     },
     {
-      "route": "/quellen/fehlende-downloads.html",
+      "route": "/tools/enm-notenmanager/leistungsdaten.html",
+      "width": 390,
+      "dark": false,
+      "overflow": false
+    },
+    {
+      "route": "/tools/notenmodul-grundschule/vorbereitung.html",
+      "width": 390,
+      "dark": false,
+      "overflow": false
+    },
+    {
+      "route": "/tools/ma2lbv/abrechnung.html",
       "width": 390,
       "dark": false,
       "overflow": false
@@ -331,7 +367,19 @@
       "overflow": false
     },
     {
-      "route": "/quellen/fehlende-downloads.html",
+      "route": "/tools/enm-notenmanager/leistungsdaten.html",
+      "width": 390,
+      "dark": true,
+      "overflow": false
+    },
+    {
+      "route": "/tools/notenmodul-grundschule/vorbereitung.html",
+      "width": 390,
+      "dark": true,
+      "overflow": false
+    },
+    {
+      "route": "/tools/ma2lbv/abrechnung.html",
       "width": 390,
       "dark": true,
       "overflow": false

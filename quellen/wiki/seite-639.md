@@ -9,7 +9,7 @@ title: "Wiki-Quelle: Textzeugnisse erzeugen"
 
 Gesicherte Wiki-Seite · Namensraum 0 · Version 2476 · Stand 2014-08-15.
 
-[Lesbaren Artikel öffnen](/zeugnisse/grundschule/textzeugnisse-erzeugen) · [Originaldaten herunterladen](/dateien/quellen/seite-639.json) · [Zum Quellenarchiv](/quellen/)
+[Lesbaren Artikel öffnen](/tools/notenmodul-grundschule/rueckgabe-und-druck) · [Originaldaten herunterladen](/dateien/quellen/seite-639.json) · [Zum Quellenarchiv](/quellen/)
 
 ## Originalquelltext
 

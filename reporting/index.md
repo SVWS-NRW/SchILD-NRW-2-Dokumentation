@@ -25,4 +25,3 @@ Reports verwalten, erstellen und mit RAP erweitern.
 - [Anrede](/reporting/rap/anrede)
 - [AnzahlElemente](/reporting/rap/anzahlelemente)
 - [AssignFont](/reporting/rap/assignfont)
-

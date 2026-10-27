@@ -9,7 +9,7 @@ title: "Wiki-Quelle: Kurs42:Inhaltsverzeichnis"
 
 Gesicherte Wiki-Seite · Namensraum 0 · Version 4610 · Stand 2020-06-12.
 
-[Lesbaren Artikel öffnen](/hilfe/zusatzprogramme/kurs42-inhaltsverzeichnis) · [Originaldaten herunterladen](/dateien/quellen/seite-139.json) · [Zum Quellenarchiv](/quellen/)
+[Lesbaren Artikel öffnen](/tools/kurs42) · [Originaldaten herunterladen](/dateien/quellen/seite-139.json) · [Zum Quellenarchiv](/quellen/)
 
 ## Originalquelltext
 

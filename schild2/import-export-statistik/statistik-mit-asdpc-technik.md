@@ -63,7 +63,7 @@ Klicken Sie bei der Installation von ASDPC nun immer auf die Felder, mit denen d
 
 Um ASDPC zu updaten können Sie hier [ein eventuelles Update](https://schulverwaltungsprogramme.msb.nrw.de/schulen/download.htm#D91) herunterladen.
 
-Speichern Sie hierzu die [asdupd.zip](/quellen/fehlende-downloads#asdupd-zip) in Ihrer ASDPC-Installation im Ordner
+Speichern Sie die heruntergeladene ZIP-Datei in Ihrer ASDPC-Installation im Ordner
 
 ...\ASDPC32\update
 
@@ -77,7 +77,7 @@ Es lässt sich auch von ASDPC heraus auf Updates prüfen:
 
 ![ASDUpdate](/bilder/wiki/asdupdate-cd5e457c.jpg)
 
-Unter dem folgenden Link finden Sie eine ausführliche Anleitung, wie die Dateien zu kopieren sind und wie das Update auszuführen ist: [Anleitung](/quellen/fehlende-downloads#asdpc-updatehinweis-pdf).
+
 
 Wenn Sie den Link zum Update aufrufen und etwas herunterscrollen, finden sich auch typische Problemsituationen mit ihren Lösungen, die im Zusammenhang mit dem Update auftreten können.
 
@@ -158,7 +158,7 @@ Haben Sie einmal den Modus "Erhebung Amtliche Schuldaten (ASDPC)" aufgerufen, bi
 ![ASDPC_Optionen](/bilder/wiki/asdpc-optionen-b494ae3a.png)
 
 - *Optionen*
-  - *Verzeichnisse* - Wählen Sie die Speicherorte für die Hauptdatenbank (ASDPC.mdb) sowie die benötigten weiteren Daten. Nutzen Sie ASDPC in einer Netzwerkumgebung ist es wichtig, diese Pfade korrekt zu nutzen. Lesen Sie hierzu die gesonderte Anleitung [ASDPC in einer Netzwerkumgebung nutzen](/quellen/fehlende-downloads#anleitung-asdpc-in-einer-netzwerkumgebung-nutzen-pdf).
+  - *Verzeichnisse* - Wählen Sie die Speicherorte für die Hauptdatenbank (ASDPC.mdb) sowie die benötigten weiteren Daten. Nutzen Sie ASDPC in einer Netzwerkumgebung ist es wichtig, diese Pfade korrekt zu nutzen.
   - *Daten bei Programmstart sichern* - Bestätigen Sie mit einem Haken, wenn automatisch eine Sicherung beim Start von ASDPC angelegt werden soll. Sie finden die Sicherung im ASDPC-Installationsverzeichnis \ASD\sicherungen, also bei einer Installation auf Laufwerk C: z.B. bei C:\ASDPC32\ASD\Sicherungen.
   - *Unterrichtseinheiten in Minuten* - wird diese Option aktiviert, werden alle Angaben in der Unterrichtsverteilung (UVD) und den Lehrerdaten (LID) in Minuteneinheiten umgerechnet, d.h. sie werden mit 45 multipliziert, um der Standard-Einheitendauer zu entsprechend. **Vorsicht**: die Umrechnung gilt für *künftige* Importe der UVD.TXT, LEHRER.TXT und EXTERN.DAT. Das Einlesen von Abteilungsdaten oder Sicherungen kann zu Umrechnungsproblemen führen. Sollte weiterhin später wieder auf das Stundenmodell zurückgeschaltet werden, kann es zu Rundungsverlusten kommen.
   - *Farbeinstellung (Rotschwäche)* - ASDPC kann hier einen barrierefreien Modus für Rotschwäche geschaltet werden.

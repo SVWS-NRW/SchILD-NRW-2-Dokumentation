@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 import navigation from './navigation.json'
 import { createSidebar } from './sidebar.mjs'
 import { configureMarkdown, containerLabels } from './markdown.mjs'
-import { compactSiteData, verifyBuiltHtml } from './site-data.mjs'
+import { compactSiteData, verifyBuiltHtml, writeArticleRedirects } from './site-data.mjs'
 
 // VitePress must recognize spreadsheet links as files on server and client.
 const extraExtensions = [process.env.VITE_EXTRA_EXTENSIONS, 'ods', 'xlsx', 'dat', 'chm', 'spd', 'exe', 'doc', 'txt', 'mdb', 'chm', 'spd', 'exe', 'doc', 'txt', 'mdb', 'chm', 'spd', 'exe', 'doc', 'txt', 'mdb', 'chm', 'spd', 'exe', 'doc', 'txt', 'mdb'].filter(Boolean).join(',')
@@ -16,7 +16,7 @@ export default defineConfig({
   description: 'Dokumentation für SchILD-NRW 2: Praxisanleitungen, Reporting und Nachschlagewerk',
   srcExclude: ['README.md', 'migration/**', 'CONTRIBUTING.md', 'tests/**', 'scripts/**', 'node_modules/**', 'tmp/**', 'test-results/**'],
   transformHtml: compactSiteData,
-  buildEnd: verifyBuiltHtml,
+  buildEnd(config) { verifyBuiltHtml(config); writeArticleRedirects(config) },
   markdown: {
     image: { lazyLoading: true },
     config: configureMarkdown,

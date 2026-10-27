@@ -203,6 +203,21 @@ Analog zu den AG-Wahlen können auch z.B. die Wahlen zu Projekten bei einer Proj
 
 [Weiter zu Übernahme von Kursen aus Schild](/hilfe/zusatzprogramme/s1plan-uebernahme-von-kursen-aus-schild)
 
+
+## Zuweisungen und Export kontrollieren
+
+Führen Sie vor der Schülerzuweisung den SchILD-Abgleich durch. Für eine Kursart, in der jede Person genau einen Kurs belegt, kann die **Einzelzuweisung** verwendet werden; bei aktivierter **Schnellzuweisung** genügt ein Klick in die Zuordnungsmatrix. Speichern Sie die Zuweisungen vor dem Export.
+
+Bei Arbeitsgemeinschaften oder Projekten mit Erst-, Zweit- und Drittwunsch muss das Kursprofil die **Wunschspalten** enthalten. Eine Optimierung kann Personen auf einen anderen der erfassten Wünsche verschieben. Kontrollieren und speichern Sie deshalb das Ergebnis und das zugehörige Protokoll.
+
+:::danger Export nach SchILD
+Der vollständige Export kann die bisherigen SchILD-Kurse des gewählten Jahrgangs löschen, deren Kursarten zum verwendeten S1Plan-Kursprofil gehören. Kontrollieren Sie Kursprofil, Jahrgang und Bestätigungsdialog. Die im Handbuch beschriebenen Doppelpfeile erlauben daneben eine Übertragung ohne vorherige Löschung der vorhandenen SchILD-Kurse.
+:::
+
+Im Exportfenster stehen links die Kurse und Zuordnungen aus S1Plan, rechts die vorhandenen beziehungsweise vorgesehenen Daten in SchILD. Grüne Markierungen zeigen die erfolgte Übertragung an.
+
+Quelle der Ergänzung: [S1Plan-Bedienungsanleitung, Druckstand 11.12.2018](https://www.svws.nrw.de/system/files/media/document/file/s1plan_anleitung.pdf), Kapitel 4, Seiten 13–26.
+
 ---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1088) · [S1PLAN:Einrichtung von Kursen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=S1PLAN%3AEinrichtung+von+Kursen&oldid=4078)
