@@ -5,6 +5,8 @@ on:
     branches: [dev, main]
   push:
     branches: [dev]
+env:
+  NODE_OPTIONS: --max-old-space-size=6144
 permissions:
   contents: read
 jobs:
