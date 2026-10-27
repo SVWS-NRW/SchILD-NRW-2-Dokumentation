@@ -330,6 +330,9 @@ def scaffolding():
         if name=='sidebar.mjs':
             text=dest.read_text(encoding='utf8').replace('.map(([, text, link]) => ({ text, link }))','.map(([, text, link]) => ({ text, link }))\n        .filter(item => !/^\\/(?:dateien|bilder\\/wiki)\\//.test(item.link))')
             dest.write_text(text,encoding='utf8')
+        if name=='section-print.mjs':
+            text=dest.read_text(encoding='utf8').replace("const fragment = url.hash ?", "const fragment = url.hash && url.hash !== '#top' ?")
+            dest.write_text(text,encoding='utf8')
     shutil.copytree(REF/'.vitepress/theme',ROOT/'.vitepress/theme',dirs_exist_ok=True)
     for name in ['artikel.data.mjs','alle-artikel.md','artikel-schreiben.md','markdown-und-gestaltung.md','bedienung.md']:
         text=(REF/'hilfe'/name).read_text(encoding='utf8').replace('schild3/','schild2/').replace('SchILD-NRW 3','SchILD-NRW 2').replace('SchILD3_Doku','SchILD2_Doku')

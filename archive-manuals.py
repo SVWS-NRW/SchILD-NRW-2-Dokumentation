@@ -28,6 +28,12 @@ def main():
             href=normalize(U.urljoin(net.BASE,a.get('href')))
             if U.urlsplit(href).netloc!='wiki.svws.nrw.de' and EXT.search(U.urlsplit(href).path):links.setdefault(href,[]).append({'source':d['title'],'label':a.text_content().strip()})
     save(OUT/'sources.json',sources);save(OUT/'links.json',links)
+    resolutions=OUT/'resolutions.json'
+    if resolutions.exists():
+        for resolved in json.loads(resolutions.read_text(encoding='utf8')):
+            local=ROOT/'public'/resolved['path'].lstrip('/')
+            if local.is_file() and hashlib.sha256(local.read_bytes()).hexdigest()==resolved['sha256']:
+                links.pop(resolved['original'],None)
     def fetch(item):
         url,refs=item
         name=U.unquote(U.urlsplit(url).path.rsplit('/',1)[-1]);ext=Path(name).suffix.lower()
