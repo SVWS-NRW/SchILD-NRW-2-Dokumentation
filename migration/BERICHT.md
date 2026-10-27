@@ -1,50 +1,66 @@
-# Vollständige Bestandsübernahme des SchILD2-Wikis
+# Redaktionelle Bereinigung der Tools-Dokumentation
 
-Stand: 27. Oktober 2026. Diese Erweiterung ersetzt die Begrenzung des Erstimports auf den Hauptnamensraum. Basis ist der zusammengeführte PR #1 in `dev` von `Raffenberg/SchILD2_Doku`.
+Stand: 27. Oktober 2026. Grundlage ist der zusammengeführte PR #2 in `dev` von `Raffenberg/SchILD2_Doku`.
 
-## Umfang
+## Ergebnis
 
-| Bestand | Gesichert |
-| --- | ---: |
-| Aktuelle Wiki-Seiten aller Namensräume | 1405 |
-| Lesbar übertragene Inhaltsseiten | 473 |
-| Originaldateien aus dem Wiki | 910 |
-| Zusätzliche externe Originaldownloads | 34 |
-| Originale Überschriftsanker der Inhaltsseiten | 1229 |
-| Lesbar geprüfte PDF-Dateien | 14 mit zusammen 430 Seiten |
-| Verglichene Quellwörter | 143126, davon 0 fehlend |
+- Die zu acht entfallenen Altdateien gehörenden Links, Downloadankündigungen und überflüssigen Klammern wurden aus den Fachartikeln entfernt. Die gesonderte Liste offener Downloads und die entsprechende Website-Seite sind entfallen.
+- 34 zusätzlich heruntergeladene Dateien sind aus dem aktuellen Git-Stand entfernt. Dazu gehören Programmpakete, Hilfsprogramme und die nach ihrer Auswertung nicht mehr benötigten PDF-Kopien. Die Git-Historie wurde nicht umgeschrieben.
+- Neun PDF-Quellen wurden ausgewertet. Daraus entstanden 15 neue Fachartikel und Ergänzungen zu drei vorhandenen Wiki-Artikeln. Quellen, Ausgaben und Seitenbereiche sind in den Artikeln angegeben. Die Zuordnung ist zusätzlich in `manuals/evaluated-pdfs.json` mit den Prüfsummen der ausgewerteten Quellen dokumentiert.
+- Zwölf leere Platzhalter beziehungsweise reine Weiterleitungsartikel sind aus dem aktiven Bestand entfernt. Alte Lesezeichen werden auf statischem Hosting direkt zum passenden Ersatzinhalt geführt; die Leerartikel erscheinen nicht in Suche oder Menüs.
+- Tool-Untermenüs verwenden kurze Bezeichnungen. Die Reihenfolge folgt den beschriebenen Voraussetzungen und Arbeitsschritten. LuPO übernimmt die Reihenfolge des ursprünglichen Handbuchs einschließlich der unter „Erste Schritte“ eingeordneten Schülerdateien.
 
-Alle 18 im Wiki registrierten Namensräume wurden abgefragt, einschließlich leerer Namensräume. Die 1.405 vorhandenen Seiten verteilen sich auf Artikel (456), LuPO (11), Wiki-Projektseiten (3), Hilfe (1), Kategorien (2), Dateibeschreibungen (910), Vorlagen (16), MediaWiki-Seiten (4) und Benutzerseiten (2).
+Die vollständigen Originalquellen aller 1.405 Wiki-Seiten und die 910 ursprünglichen Wiki-Dateien sind unverändert erhalten. Grafische Fachartikel, die eine aussagekräftige Abbildung enthalten, wurden nicht als leer entfernt. Der aktive Fachbestand umfasst 461 übernommene Wiki-Artikel und 15 aus den PDF-Quellen erarbeitete Artikel, zusätzlich zu den Themenübersichten und Hilfeseiten.
 
-Alle 473 Inhaltsseiten stehen als normale Markdown-Artikel zur Verfügung. Die übrigen Wiki-Seiten sind im vollständigen lokalen Quellenarchiv lesbar und als Originaldaten abrufbar. Alle 910 hochgeladenen Wiki-Dateien wurden heruntergeladen – auch bislang unbenutzte Bilder und Anhänge. Ihre SHA-1-Prüfsummen stimmen mit den vom Wiki gelieferten Werten überein; zusätzliche SHA-256-Werte sind dokumentiert. Acht alte Metadatensätze meldeten fälschlich eine Größe von null Bytes; deren tatsächliche Dateien konnten dennoch vollständig und prüfsummengleich gesichert werden.
+## Ausgewertete PDF-Quellen
 
-## Navigation und Tools
+| Quelle | Daraus entstandene beziehungsweise ergänzte Artikel |
+| --- | --- |
+| [enm_bedienungsanleitung_2.pdf](https://www.svws.nrw.de/system/files/media/document/file/enm_bedienungsanleitung_2.pdf) | [tools/enm-notenmanager/ersteinrichtung.md](../tools/enm-notenmanager/ersteinrichtung.md); [tools/enm-notenmanager/leistungsdaten.md](../tools/enm-notenmanager/leistungsdaten.md); [tools/enm-notenmanager/pruefungen-und-rueckgabe.md](../tools/enm-notenmanager/pruefungen-und-rueckgabe.md); [tools/enm-notenmanager/import-und-druck.md](../tools/enm-notenmanager/import-und-druck.md) |
+| [handbuch-schild-lupo-kurs42-22.auflage.pdf](https://www.svws.nrw.de/system/files/media/document/file/handbuch-schild-lupo-kurs42-22.auflage.pdf) | [tools/kurs42/datenfluss.md](../tools/kurs42/datenfluss.md); [tools/kurs42/neue-blockung.md](../tools/kurs42/neue-blockung.md); [tools/kurs42/klausurplanung.md](../tools/kurs42/klausurplanung.md); [tools/kurs42/halbjahreswechsel.md](../tools/kurs42/halbjahreswechsel.md) |
+| [km2_versionsgeschichte.pdf](https://www.svws.nrw.de/system/files/media/document/file/km2_versionsgeschichte.pdf) | [tools/km2.md](../tools/km2.md); [hilfe/zusatzprogramme/km2-001.md](../hilfe/zusatzprogramme/km2-001.md) |
+| [ma2lbv_anleitung.pdf](https://www.svws.nrw.de/system/files/media/document/file/ma2lbv_anleitung.pdf) | [tools/ma2lbv/einrichtung.md](../tools/ma2lbv/einrichtung.md); [tools/ma2lbv/abrechnung.md](../tools/ma2lbv/abrechnung.md); [tools/ma2lbv/datenimport.md](../tools/ma2lbv/datenimport.md) |
+| [ma2pdf_versionsgeschichte.pdf](https://www.svws.nrw.de/system/files/media/document/file/ma2pdf_versionsgeschichte.pdf) | [tools/ma2lbv/einrichtung.md](../tools/ma2lbv/einrichtung.md); [tools/ma2lbv/abrechnung.md](../tools/ma2lbv/abrechnung.md) |
+| [notenmodul_grundschule_anleitung.pdf](https://www.svws.nrw.de/system/files/media/document/file/notenmodul_grundschule_anleitung.pdf) | [tools/notenmodul-grundschule/vorbereitung.md](../tools/notenmodul-grundschule/vorbereitung.md); [tools/notenmodul-grundschule/leistungsdaten.md](../tools/notenmodul-grundschule/leistungsdaten.md); [tools/notenmodul-grundschule/rueckgabe-und-druck.md](../tools/notenmodul-grundschule/rueckgabe-und-druck.md) |
+| [pm2_bedienungsanleitung_1.pdf](https://www.svws.nrw.de/system/files/media/document/file/pm2_bedienungsanleitung_1.pdf) | [tools/pm2/analysen-und-ergebnisse.md](../tools/pm2/analysen-und-ergebnisse.md) |
+| [pm2_versionsgeschichte.pdf](https://www.svws.nrw.de/system/files/media/document/file/pm2_versionsgeschichte.pdf) | [tools/pm2/analysen-und-ergebnisse.md](../tools/pm2/analysen-und-ergebnisse.md) |
+| [s1plan_anleitung.pdf](https://www.svws.nrw.de/system/files/media/document/file/s1plan_anleitung.pdf) | [hilfe/zusatzprogramme/s1plan-einrichtung-von-kursen.md](../hilfe/zusatzprogramme/s1plan-einrichtung-von-kursen.md); [hilfe/zusatzprogramme/s1plan-uebernahme-von-kursen-aus-schild.md](../hilfe/zusatzprogramme/s1plan-uebernahme-von-kursen-aus-schild.md) |
 
-Das Kopfmenü hat sechs Zugänge: **Einstieg · SchILD2 · Zeugnisse · Reporting · Tools · Nachschlagen**. Die tägliche Arbeit und die Administration sind unter „SchILD2“ erreichbar. Programmreferenz, Artikelverzeichnis, Hilfe, Bilderkatalog und Quellenarchiv sind unter „Nachschlagen“ gebündelt. Keine bisher veröffentlichte Artikeladresse wurde für die Umordnung geändert.
+## Entfernte Leer- und Weiterleitungsartikel
 
-Die Tools-Rubrik enthält Kurs42, LuPO, ASDPC, Notenmodul für Grundschulen, ENM-Notenmanager, externes Notenmodul für weiterführende Schulen, KM2, PM2, S1Plan, MA2LBV, Migrationstool, Anonymisierungstool, Import aus Textdateien und Schuljahr erhöhen. Weitere ältere Zusatzprogramme bleiben ebenfalls enthalten.
+| Wiki-Artikel | Ersatzinhalt | Begründung |
+| --- | --- | --- |
+| Haltestelle | `/schild2/unterricht-kataloge/haltestellen` | Leerer Artikel; der ausgearbeitete Katalogartikel heißt Haltestellen. |
+| Kurs42:Inhaltsverzeichnis | `/tools/kurs42` | Enthielt nur zwei nicht vorhandene Wiki-Ziele; durch den ausgearbeiteten Tool-Einstieg ersetzt. |
+| KM2 002 | `/hilfe/zusatzprogramme/km2-001#ersteinrichtung` | Nur Überschrift und Weiter-Link; Ersteinrichtung ist im Installationsartikel ergänzt. |
+| KM2 003 | `/hilfe/zusatzprogramme/modulbenutzung` | Nur Überschrift und Platzhalter; ausgearbeitete Bedienungsanleitung vorhanden. |
+| Textzeugnisse erzeugen | `/tools/notenmodul-grundschule/rueckgabe-und-druck` | Leerer Artikel; Ausgabe und Rückgabe sind nun beschrieben. |
+| Lupo:LuPO | `/tools/lupo` | Nicht ausgearbeiteter Einleitungsplatzhalter. |
+| LuPO Einleitung | `/tools/lupo/lupo-einleitung` | Reine Weiterleitungsseite ohne eigenen Inhalt. |
+| Kursverwaltung KPlan.exe | `/hilfe/zusatzprogramme/kursplanung-kplan-exe` | Leerer Artikel; ausgearbeitete Kursplanung vorhanden. |
+| Teilleistungen Einrichten und Verwalten | `/schild2/unterricht-kataloge/teilleistungen-einrichten-und-verwalten` | Reine, zuvor auf sich selbst zeigende Weiterleitung. |
+| Grundschulzeugnisse Ankreuzzeugnis | `/tools/notenmodul-grundschule/leistungsdaten` | Enthielt ausschließlich eine Ankündigung; Anleitung ist nun ausgearbeitet. |
+| Grundschulzeugnisse Lernstandsberichte | `/zeugnisse/grundschule` | Enthielt ausschließlich eine Ankündigung ohne Fachinhalt. |
+| Statistik mit ASDPC Uebersicht | `/schild2/import-export-statistik/statistik-mit-asdpc-uebersicht` | Reine Weiterleitung auf die vorhandene Übersicht. |
 
-Die offiziellen Beschreibungen und Downloadverweise wurden von den vier Programmseiten zu Tools/Modulen, Kurs42, LuPO und ASDPC gesichert. Das gemeinsame Handbuch SchILD–LuPO–Kurs42, 22. Auflage, liegt als unveränderte vollständige PDF mit 184 Seiten lokal vor. Auch erreichbare Installationspakete, portable Versionen und Begleitdateien sind lokal archiviert. Sie wurden nicht ausgeführt.
+## Menüabläufe
 
-## Unabhängigkeit vom abgeschalteten Wiki
+- **Kurs42:** Installation, Zusammenspiel mit SchILD und LuPO, neue Blockung, Klausurplanung, Halbjahreswechsel, externe Blockungsverfahren, SchILDzentral und Versionsgeschichte.
+- **LuPO:** Einleitung, Installation, Vorbereitungen in SchILD, erste Schritte mit Schülerdateien, Beratung, Auswertung, Übergabe an Kurs42 und weitere Laufbahnprüfungen; ergänzende Verzeichnisse folgen am Ende.
+- **ASDPC:** Überblick, Gesamtablauf, Installation/Technik, Programmaufbau, Vorbereitung, Schlüsselmanagement, Haupterhebung und Fehlersuche.
+- **Grundschul-Notenmodul:** Vorbereitung und Export, Dateneingabe, Rückgabe/Import und Druck.
+- **ENM-Notenmanager:** Ersteinrichtung, Leistungsdaten, zentrale Prüfungen/Rückgabe sowie Import und Druck.
+- **KM2:** Überblick, Installation/Einrichtung, Datenbank/Administration, persönliche Einstellungen, Konferenzarbeit und Update.
+- **PM2:** Überblick und Einleitung, Installation, Programmstart, Hauptfenster mit den Analyseverfahren sowie Ergebnisausgabe.
+- **S1Plan:** Überblick, Installation, erster Start, Kurse einrichten/zuweisen, vorhandene Kurse übernehmen und Anhang.
+- **MA2LBV/MA2:** Einrichtung, Datenimport, Abrechnung und Ausgabe.
 
-Inhaltsverweise auf vorhandene Wiki-Seiten führen auf lokale Artikel oder lokale Archivseiten. Alle Artikel besitzen einen lokalen Quellennachweis. Dateibeschreibungen verknüpfen die gesicherten Originaldateien. Ein ZIP-Download enthält den vollständigen aktuellen Wiki-Quelltextbestand; Bilder und Binärdateien stehen zusätzlich einzeln im Dateiarchiv bereit. Die ursprünglichen URLs bleiben als Herkunftsnachweis nachvollziehbar.
+## Prüfung und Pflege
 
-Gesichert ist die aktuelle Fassung jeder vorhandenen Seite, einschließlich eigenständiger Versionsgeschichtsartikel. Frühere Bearbeitungsstände einzelner Seiten sowie bereits gelöschte Seiten oder Dateien sind keine Bestandteile dieser aktuellen Bestandsübernahme. Nicht vorhandene Wiki-Artikel werden weiterhin nicht erfunden.
+Die Bestandsprüfung kontrolliert weiterhin sämtliche Originalquellen und Wiki-Dateien. Für entfernte Leerartikel prüft sie dokumentierte Gründe und vorhandene Ersatzinhalte. Zusätzliche Tests kontrollieren Menüreihenfolge, kurze Namen, eindeutige Einträge, die PDF-zu-Artikel-Zuordnung und das Fehlen der entfernten Downloads. Linkkontrolle und Browserprüfung berücksichtigen die statischen Weiterleitungen und verschachtelte Tool-Menüs.
 
-## Acht externe Quellenlücken
+Die historischen Erstimport-Skripte dürfen die redaktionell gepflegten Inhalte nicht wieder überschreiben. Der PDF-Helfer lädt ausschließlich belegte PDF-Quellen in den ignorierten temporären Sichtungsordner. Es werden keine zusätzlichen Programme oder PDF-Sammlungen im veröffentlichten Dateibestand erzeugt.
 
-**Keine der 910 unmittelbar im Wiki gespeicherten Dateien fehlt.** Acht externe Altdateien konnten dagegen nicht abgerufen werden: Vier ursprüngliche SVWS-Adressen liefern HTTP 404, vier ASDPC-Adressen laufen aus dieser Arbeitsumgebung in eine Zeitüberschreitung. Diese Befunde werden nicht gleichgesetzt. Die verweisenden Artikel sind erhalten; ihre betroffenen Links führen auf eine lokale Erläuterung mit der Originaladresse.
+Weitere redaktionelle Änderungen erfolgen direkt an den Artikeln und an `.vitepress/navigation.json`. Die Originalquellen im Archiv werden dabei nicht verändert.
 
-Die vollständige Zuordnung der Dateinamen zu den aufrufenden Wiki-Artikeln steht in [OFFENE-DOWNLOADS.md](OFFENE-DOWNLOADS.md). Treffer aus einem Benutzerarchiv sollen zunächst auf Inhalt und Version gesichtet und erst danach übernommen werden. Die Abschaltung des Wikis führt dadurch zu keinem zusätzlichen Verlust der bereits vorhandenen Wiki-Dateien; die acht externen Quellenlücken bleiben ausdrücklich offen.
-
-## Prüfung und Nachweise
-
-- Migrationsprüfung und vollständige Bestandsprüfung: sämtliche Inhaltsseiten, 1.405 lokale Originalquellen, 910 Wiki-Dateien, ergänzende Downloads und alle benötigten Tool-Zugänge.
-- Textvergleich: Der bereinigte Originaltext sämtlicher Inhaltsseiten wird gegen den übertragenen Text verglichen; Wiki-Bedienelemente und ersetzte Boxentitel sind ausgenommen.
-- PDF-Prüfung: Alle 14 PDFs lassen sich öffnen; das gemeinsame Handbuch wurde zusätzlich anhand gerenderter Seiten visuell geprüft. Originaldateien wurden nicht verändert.
-- Bau, interne Links und Sprungmarken sowie Browserbedienung werden lokal und in GitHub Actions geprüft. Die erweiterten Browserprüfungen umfassen 56 Ansichten bei 390/1440 Pixeln in Hell/Dunkel sowie Suche, Bilderkatalog, Referenzkontext, Mobilmenü, lokale LuPO-Handbücher und Rubrikdruck.
-
-Belege: `wiki-complete/inventory.json`, `wiki-complete/pages/`, `wiki-complete/files.json`, `wiki-complete/assets.json`, `manuals/sources.json`, `manuals/assets.json`, `manuals/errors.json`, `manuals/resolutions.json`, `articles.json`, `text-audit.json`, `pdf-check.json`, `link-check.txt` und `browser-check.json`.
-
-Die ursprünglichen Verfasser-, Versions- und Rechteangaben der Texte und Dateien bleiben erhalten. Eine neue Nutzungslizenz wird durch die technische Übertragung nicht erteilt. Eine Veröffentlichung und ein Merge werden nicht automatisch vorgenommen.
+Abschlussprüfung: vollständiger Seitenaufbau erfolgreich; 1.968 Seiten ohne fehlerhafte interne Links oder Bilder; sechs Bestand-/Menütests erfolgreich; 64 Browseransichten bei 390/1440 Pixeln in heller und dunkler Darstellung sowie Suche, Mobilmenü, Weiterleitungen und Rubrikdruck erfolgreich geprüft.

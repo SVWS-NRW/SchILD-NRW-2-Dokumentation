@@ -16,4 +16,3 @@ Grundlagen kennenlernen und die ersten Schritte mit SchILD-NRW 2 gehen.
 - [Einführung in die Gruppenprozesse 001](/einstieg/erste-schritte/einfuehrung-in-die-gruppenprozesse-001)
 - [Schule bearbeiten](/einstieg/erste-schritte/schule-bearbeiten)
 - [Schild-NRW-Tutorials](/einstieg/erste-schritte/schild-nrw-tutorials)
-

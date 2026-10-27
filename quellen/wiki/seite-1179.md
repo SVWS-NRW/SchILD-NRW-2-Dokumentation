@@ -9,7 +9,7 @@ title: "Wiki-Quelle: Grundschulzeugnisse Lernstandsberichte"
 
 Gesicherte Wiki-Seite · Namensraum 0 · Version 4619 · Stand 2020-09-01.
 
-[Lesbaren Artikel öffnen](/zeugnisse/grundschule/grundschulzeugnisse-lernstandsberichte) · [Originaldaten herunterladen](/dateien/quellen/seite-1179.json) · [Zum Quellenarchiv](/quellen/)
+[Lesbaren Artikel öffnen](/zeugnisse/grundschule) · [Originaldaten herunterladen](/dateien/quellen/seite-1179.json) · [Zum Quellenarchiv](/quellen/)
 
 ## Originalquelltext
 

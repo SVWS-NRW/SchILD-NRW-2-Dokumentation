@@ -445,6 +445,8 @@ def finish():
     write('hilfe/ueber-diese-dokumentation.md','# Über diese Dokumentation\n\nDiese Dokumentation überträgt das SchILD-NRW-2-Wiki in die bewährte Themenstruktur der SchILD3-Dokumentation. Die Inhalte stammen aus dem öffentlichen Wiki; die jeweilige Quelle und Bearbeitungsgeschichte stehen unter jedem übernommenen Artikel.\n\nSchILD2 arbeitet unmittelbar mit einer Datenbank. Für den Betrieb ist kein SVWS-Server erforderlich. Menünamen und Verfahren richten sich nach SchILD2.\n\n## Quellenstand\n\nDer Export wurde am 27. Oktober 2026 erstellt. Er enthält alle 456 zum Abrufzeitpunkt vorhandenen Seiten im Hauptnamensraum, einschließlich Weiterleitungen und älterer Verfahren. Externe Handbücher und nicht vorhandene Wiki-Seiten bleiben als externe Links erkennbar. Die Übertragung aktualisiert keine historischen Rechtsstände oder Programmbeschreibungen.\n\n## Rechte und Verantwortlichkeit\n\nDie Inhalte und Abbildungen stammen von den jeweiligen Wiki-Autoren. Die ursprünglichen Quellen und Versionsgeschichten bleiben verlinkt. Es wird hier keine zusätzliche Nutzungslizenz für fremde Inhalte vergeben. Vor einer öffentlichen Bereitstellung sind die Nutzungsrechte sowie die erforderlichen Angaben zu Verantwortlichkeit und Datenschutz zu klären.\n')
 
 if __name__=='__main__':
+    if (ROOT/'migration/editorial-changes.json').exists():
+        raise SystemExit('Erstimport abgeschlossen: Die redaktionell gepflegten Artikel werden nicht erneut aus den Wiki-Originalen überschrieben.')
     previous=ROOT/'migration/articles.json'
     if previous.exists():
         for p in json.loads(previous.read_text(encoding='utf8')):

@@ -28,7 +28,7 @@ Schülerdaten, Lehrkräfte, Unterricht, Gruppenprozesse und Schuljahreswechsel.
 - [Kataloge](/schild2/unterricht-kataloge/kataloge)
 - [Leistungsdaten Klassenunterricht](/schild2/unterricht-kataloge/leistungsdaten-klassenunterricht)
 - [Leistungsdaten Kursunterricht](/schild2/unterricht-kataloge/leistungsdaten-kursunterricht)
-- [Teilleistungen Einrichten und Verwalten](/schild2/unterricht-kataloge/teilleistungen-einrichten-und-verwalten-1152)
+- [Teilleistungen Einrichten und Verwalten](/schild2/unterricht-kataloge/teilleistungen-einrichten-und-verwalten)
 
 ## [Gruppenprozesse](/schild2/gruppenprozesse)
 
@@ -53,4 +53,3 @@ Schülerdaten, Lehrkräfte, Unterricht, Gruppenprozesse und Schuljahreswechsel.
 - [Schnittstelle Schild-NRW](/schild2/import-export-statistik/schnittstelle-schild-nrw)
 - [Schnittstellenbeschreibung](/schild2/import-export-statistik/schnittstellenbeschreibung)
 - [Vorbemerkungen-Schnittstelle](/schild2/import-export-statistik/vorbemerkungen-schnittstelle)
-

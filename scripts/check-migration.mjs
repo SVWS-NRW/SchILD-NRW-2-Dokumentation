@@ -12,6 +12,7 @@ export function checkMigration() {
   const articles = json('migration/articles.json')
   const assets = json('migration/assets.json')
   const navigation = json('.vitepress/navigation.json')
+  const retired = new Map(json('migration/retired-articles.json').map(a=>[a.pageid,a]))
   const errors = []
   const routes = new Set()
   function visit(node) {
@@ -23,10 +24,17 @@ export function checkMigration() {
   if (new Set(articles.map(p => p.path)).size !== articles.length) errors.push('Doppelte Artikeladressen')
   for (const article of articles) {
     const snapshot = json(`migration/snapshot/${article.pageid}.json`)
-    const markdown = read(article.path)
     if (hash(snapshot.wikitext['*']) !== article.source_sha256) errors.push(`Originalquelle verändert: ${article.title}`)
     if (!inventory.some(p => p.pageid === article.pageid && p.title === article.title)) errors.push(`Artikel fehlt im Inventar: ${article.title}`)
     if (snapshot.revid !== article.revision) errors.push(`Falsche Quellversion: ${article.title}`)
+    if (retired.has(article.pageid)) {
+      const retirement=retired.get(article.pageid)
+      if (fs.existsSync(path.join(root,article.path))) errors.push(`Leerartikel weiterhin vorhanden: ${article.title}`)
+      const target=retirement.replacement.split('#')[0].replace(/\/$/,'/index')+'.md'
+      if (!retirement.reason || !fs.existsSync(path.join(root,target))) errors.push(`Ersatz für Leerartikel fehlt: ${article.title}`)
+      continue
+    }
+    const markdown = read(article.path)
     if (!markdown.includes(`wiki_revision: ${article.revision}`)) errors.push(`Quellennachweis fehlt: ${article.title}`)
     if (!routes.has('/' + article.path.replace(/\.md$/, ''))) errors.push(`Nicht im Themenmenü: ${article.title}`)
     if (/MIGRATION(?:BOX|ANCHOR)\d+END/.test(markdown)) errors.push(`Konvertierungsmarker: ${article.title}`)

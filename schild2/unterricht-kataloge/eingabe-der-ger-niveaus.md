@@ -7,7 +7,6 @@ wiki_revision: 3121
 
 # Eingabe der GeR-Niveaus
 
-Sie finden hier eine "Eintragungshilfe zu den Bemerkungen der Sprachniveaus des gemeinsamen europäischen Referenzrahmens (GeR)" \[[\[1\]](/quellen/fehlende-downloads#ka09-eintragung-der-sprachniveaus-pdf)\].
 
 Die Vergabe des GeR-Niveaus hängt unmittelbar mit dem korrekten Eintrag der Sprachenfolge auf der Karteikarte „Laufbahninfo“ zusammen. Neben der Sprachenfolge ist das GeR-Niveau auf jedem Abschlusszeugnis zu dokumentieren. Es wird nicht für die Sprachen Lateinisch, Hebräisch und Altgriechisch vergeben, sondern nur für die „modernen“ Fremdsprachen. Es gibt zwei Möglichkeiten der Erfassung des GeR:
 

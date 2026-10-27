@@ -9,7 +9,7 @@ title: "Wiki-Quelle: Grundschulzeugnisse Ankreuzzeugnis"
 
 Gesicherte Wiki-Seite · Namensraum 0 · Version 4618 · Stand 2020-09-01.
 
-[Lesbaren Artikel öffnen](/zeugnisse/grundschule/grundschulzeugnisse-ankreuzzeugnis) · [Originaldaten herunterladen](/dateien/quellen/seite-1178.json) · [Zum Quellenarchiv](/quellen/)
+[Lesbaren Artikel öffnen](/tools/notenmodul-grundschule/leistungsdaten) · [Originaldaten herunterladen](/dateien/quellen/seite-1178.json) · [Zum Quellenarchiv](/quellen/)
 
 ## Originalquelltext
 

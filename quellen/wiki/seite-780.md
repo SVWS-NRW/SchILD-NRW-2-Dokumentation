@@ -9,7 +9,7 @@ title: "Wiki-Quelle: Lupo:LuPO"
 
 Gesicherte Wiki-Seite · Namensraum 0 · Version 3042 · Stand 2015-05-01.
 
-[Lesbaren Artikel öffnen](/hilfe/zusatzprogramme/lupo-lupo) · [Originaldaten herunterladen](/dateien/quellen/seite-780.json) · [Zum Quellenarchiv](/quellen/)
+[Lesbaren Artikel öffnen](/tools/lupo) · [Originaldaten herunterladen](/dateien/quellen/seite-780.json) · [Zum Quellenarchiv](/quellen/)
 
 ## Originalquelltext
 

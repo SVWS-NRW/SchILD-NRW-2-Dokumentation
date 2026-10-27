@@ -77,7 +77,7 @@ Lesen Sie bitte hier weiter: [Textzeugnisse zuordnen](/zeugnisse/grundschule/tex
 
 <a id="Textzeugnisse_erzeugen"></a>
 
-## [Textzeugnisse erzeugen](/zeugnisse/grundschule/textzeugnisse-erzeugen)
+## [Textzeugnisse erzeugen](/tools/notenmodul-grundschule/rueckgabe-und-druck)
 
 In Grundschuldatenbanken heißt diese Funktion "Grundschulzeugnisse erzeugen".
 

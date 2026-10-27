@@ -37,6 +37,10 @@ export function checkComplete() {
   for (const key of ['kurs42','lupo','asdpc','notenmodul-grundschule','enm-notenmanager','externes-notenmodul','km2','pm2','s1plan','ma2lbv','migrationstool','anonymisierungstool','import-textdateien','schuljahr-erhoehen']) {
     if (!fs.existsSync(`tools/${key}.md`)) errors.push(`Tool fehlt: ${key}`)
   }
-  if (!manuals.some(a=>a.source.endsWith('handbuch-schild-lupo-kurs42-22.auflage.pdf'))) errors.push('Gemeinsames Handbuch fehlt')
+  if (manuals.length) errors.push('Zusätzliche Downloads dürfen nicht mehr vorgehalten werden')
+  for (const source of read('migration/manuals/evaluated-pdfs.json')) {
+    if (!source.source.endsWith('.pdf') || !source.sha256 || !source.articles.length) errors.push('PDF-Auswertung nicht belegt')
+    for (const file of source.articles) if (!fs.existsSync(file)) errors.push(`Ausgewerteter PDF-Artikel fehlt: ${file}`)
+  }
   return {pages:inventory.length,articles:articles.length,wikiFiles:wikiFiles.length,manuals:manuals.length,errors}
 }

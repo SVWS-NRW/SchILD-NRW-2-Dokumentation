@@ -2,93 +2,8 @@
   "wiki_pages": 1405,
   "articles": 473,
   "wiki_files": 910,
-  "manual_downloads": 34,
-  "manual_errors": [
-    {
-      "source": "https://schulverwaltungsprogramme.msb.nrw.de/download/asdupd.zip",
-      "references": [
-        {
-          "source": "Statistik mit ASDPC-Technik",
-          "label": "asdupd.zip"
-        }
-      ],
-      "error": "<urlopen error [WinError 10060] Ein Verbindungsversuch ist fehlgeschlagen, da die Gegenstelle nach einer bestimmten Zeitspanne nicht richtig reagiert hat, oder die hergestellte Verbindung war fehlerhaft, da der verbundene Host nicht reagiert hat>"
-    },
-    {
-      "source": "https://schulverwaltungsprogramme.msb.nrw.de/download/ASDPC_Updatehinweis.pdf",
-      "references": [
-        {
-          "source": "Statistik mit ASDPC-Technik",
-          "label": "Anleitung"
-        }
-      ],
-      "error": "<urlopen error [WinError 10060] Ein Verbindungsversuch ist fehlgeschlagen, da die Gegenstelle nach einer bestimmten Zeitspanne nicht richtig reagiert hat, oder die hergestellte Verbindung war fehlerhaft, da der verbundene Host nicht reagiert hat>"
-    },
-    {
-      "source": "https://schulverwaltungsprogramme.msb.nrw.de/download/Anleitung-ASDPC_in_einer_Netzwerkumgebung_nutzen.pdf",
-      "references": [
-        {
-          "source": "Statistik mit ASDPC-Technik",
-          "label": "ASDPC in einer Netzwerkumgebung nutzen"
-        },
-        {
-          "source": "Statistik mit ASDPC-Aufbau",
-          "label": "ASDPC in einer Netzwerkumgebung nutzen"
-        }
-      ],
-      "error": "<urlopen error [WinError 10060] Ein Verbindungsversuch ist fehlgeschlagen, da die Gegenstelle nach einer bestimmten Zeitspanne nicht richtig reagiert hat, oder die hergestellte Verbindung war fehlerhaft, da der verbundene Host nicht reagiert hat>"
-    },
-    {
-      "source": "https://schulverwaltungsprogramme.msb.nrw.de/schulen/ASDPC32%20To%20Do-Liste.pdf",
-      "references": [
-        {
-          "source": "Statistik mit ASDPC Vorbereitung",
-          "label": "ToDo-Liste"
-        }
-      ],
-      "error": "<urlopen error [WinError 10060] Ein Verbindungsversuch ist fehlgeschlagen, da die Gegenstelle nach einer bestimmten Zeitspanne nicht richtig reagiert hat, oder die hergestellte Verbindung war fehlerhaft, da der verbundene Host nicht reagiert hat>"
-    },
-    {
-      "source": "http://www.svws.nrw.de/uploads/media/KA20_Katalog_der_Konfessionen.pdf",
-      "references": [
-        {
-          "source": "Konfessionen",
-          "label": "hier"
-        }
-      ],
-      "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "source": "http://www.svws.nrw.de/fileadmin/user_upload/Kurzanleitungen/KA11_Installation_Schild-NRW.pdf",
-      "references": [
-        {
-          "source": "Statistik / amtliche Schuldaten",
-          "label": "http://www.svws.nrw.de/fileadmin/user_upload/Kurzanleitungen/KA11_Installation_Schild-NRW.pdf"
-        }
-      ],
-      "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "source": "http://www.svws.nrw.de/uploads/media/Handbuch_Teil_1.pdf",
-      "references": [
-        {
-          "source": "Neuaufnahmen in Schild-NRW 001",
-          "label": "[1]"
-        }
-      ],
-      "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "source": "http://www.svws.nrw.de/uploads/media/KA09_Eintragung_der_Sprachniveaus.pdf",
-      "references": [
-        {
-          "source": "Eingabe der GeR-Niveaus",
-          "label": "[1]"
-        }
-      ],
-      "error": "HTTP Error 404: Not Found"
-    }
-  ],
+  "manual_downloads": 0,
+  "manual_errors": [],
   "namespace_counts": {
     "0": 456,
     "2": 2,
@@ -100,5 +15,9 @@
     "14": 2,
     "200": 11
   },
-  "source_zip_sha256": "71ed3eb56c0987e073baf2a0ccde101ba9897affc355e1887c4f085e2d15b3ed"
+  "source_zip_sha256": "71ed3eb56c0987e073baf2a0ccde101ba9897affc355e1887c4f085e2d15b3ed",
+  "retired_articles": 12,
+  "evaluated_pdfs": 9,
+  "active_wiki_articles": 461,
+  "additional_manual_articles": 15
 }

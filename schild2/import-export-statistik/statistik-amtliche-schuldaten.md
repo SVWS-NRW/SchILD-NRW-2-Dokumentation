@@ -15,7 +15,6 @@ Teilanonymisiert heißt, dass die Schülerdaten hier noch mit einer Statistiknum
 
 Beim Aufruf der Prüfroutinen wird dann das Statistikmodul von IT.NRW aufgerufen. Bitte beachten Sie, dass es hier in Serverumgebungen sehr häufig zu Fehlermeldungen kommt, wenn die Installationsanleitung für den Schild-NRW-Client nicht beachtet wurde.
 
-<http://www.svws.nrw.de/fileadmin/user_upload/Kurzanleitungen/KA11_Installation_Schild-NRW.pdf>
 
 <a id="Daten_prüfen"></a>
 <a id="Daten_pr.C3.BCfen"></a>

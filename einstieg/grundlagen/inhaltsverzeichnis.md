@@ -83,7 +83,7 @@ wiki_revision: 5938
     - [Aus Archiv drucken](/reporting/verwaltung/report-aus-archiv-drucken)
     - [Word-Seriendruck](/reporting/verwaltung/word-seriendruck)
     - [Textzeugnisse zuordnen](/zeugnisse/grundschule/textzeugnisse-zuordnen)
-    - [Textzeugnisse erzeugen](/zeugnisse/grundschule/textzeugnisse-erzeugen)
+    - [Textzeugnisse erzeugen](/tools/notenmodul-grundschule/rueckgabe-und-druck)
   - [Datenaustausch](/schild2/import-export-statistik/datenaustausch)
     - [Externes Notenmodul](/zeugnisse/vorbereitung/externes-notenmodul)
     - [Export in Text-/Excel-Dateien](/schild2/import-export-statistik/export-in-text-excel-dateien)

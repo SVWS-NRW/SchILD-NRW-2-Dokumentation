@@ -124,7 +124,7 @@ Alle 473 Inhaltsseiten sind einer lokalen Markdown-Datei und einer gesicherten W
 | Hauptfenster | [Artikel](/einstieg/grundlagen/hauptfenster) | [Version 4287](/quellen/wiki/seite-134) |
 | StatistikKuerzelAusFachKuerzel | [Artikel](/reporting/rap/statistikkuerzelausfachkuerzel) | [Version 265](/quellen/wiki/seite-136) |
 | Karteikasten | [Artikel](/einstieg/grundlagen/karteikasten) | [Version 400](/quellen/wiki/seite-138) |
-| Kurs42:Inhaltsverzeichnis | [Artikel](/hilfe/zusatzprogramme/kurs42-inhaltsverzeichnis) | [Version 4610](/quellen/wiki/seite-139) |
+| Kurs42:Inhaltsverzeichnis | [Artikel](/tools/kurs42) | [Version 4610](/quellen/wiki/seite-139) |
 | Kataloge | [Artikel](/schild2/unterricht-kataloge/kataloge) | [Version 939](/quellen/wiki/seite-140) |
 | Konfessionen | [Artikel](/schild2/unterricht-kataloge/konfessionen) | [Version 936](/quellen/wiki/seite-145) |
 | Staatsangehörigkeiten / Herkunftsländer | [Artikel](/schild2/unterricht-kataloge/staatsangehoerigkeiten-herkunftslaender) | [Version 937](/quellen/wiki/seite-146) |
@@ -146,7 +146,7 @@ Alle 473 Inhaltsseiten sind einer lokalen Markdown-Datei und einer gesicherten W
 | Verkehrssprachen | [Artikel](/schild2/unterricht-kataloge/verkehrssprachen) | [Version 3777](/quellen/wiki/seite-167) |
 | Erzieher-Arten | [Artikel](/schild2/unterricht-kataloge/erzieher-arten) | [Version 935](/quellen/wiki/seite-169) |
 | Fahrschüler-Arten | [Artikel](/schild2/unterricht-kataloge/fahrschueler-arten) | [Version 465](/quellen/wiki/seite-171) |
-| Haltestelle | [Artikel](/schild2/unterricht-kataloge/haltestelle) | [Version 435](/quellen/wiki/seite-173) |
+| Haltestelle | [Artikel](/schild2/unterricht-kataloge/haltestellen) | [Version 435](/quellen/wiki/seite-173) |
 | Haltestellen | [Artikel](/schild2/unterricht-kataloge/haltestellen) | [Version 490](/quellen/wiki/seite-175) |
 | Andere Schulen und Schulnummern | [Artikel](/schild2/unterricht-kataloge/andere-schulen-und-schulnummern) | [Version 933](/quellen/wiki/seite-176) |
 | Schulen in NRW | [Artikel](/schild2/unterricht-kataloge/schulen-in-nrw) | [Version 462](/quellen/wiki/seite-178) |
@@ -309,8 +309,8 @@ Alle 473 Inhaltsseiten sind einer lokalen Markdown-Datei und einer gesicherten W
 | Reportexplorer aufrufen | [Artikel](/reporting/verwaltung/reportexplorer-aufrufen) | [Version 2416](/quellen/wiki/seite-536) |
 | Dokumentenverwaltung | [Artikel](/administration/benutzer-einstellungen/dokumentenverwaltung) | [Version 3436](/quellen/wiki/seite-538) |
 | KM2 001 | [Artikel](/hilfe/zusatzprogramme/km2-001) | [Version 2185](/quellen/wiki/seite-539) |
-| KM2 002 | [Artikel](/hilfe/zusatzprogramme/km2-002) | [Version 2187](/quellen/wiki/seite-540) |
-| KM2 003 | [Artikel](/hilfe/zusatzprogramme/km2-003) | [Version 2189](/quellen/wiki/seite-541) |
+| KM2 002 | [Artikel](/hilfe/zusatzprogramme/km2-001#ersteinrichtung) | [Version 2187](/quellen/wiki/seite-540) |
+| KM2 003 | [Artikel](/hilfe/zusatzprogramme/modulbenutzung) | [Version 2189](/quellen/wiki/seite-541) |
 | KM2 - Parameter - Administration | [Artikel](/hilfe/zusatzprogramme/km2-parameter-administration) | [Version 2983](/quellen/wiki/seite-572) |
 | Benutzerverwaltung | [Artikel](/administration/benutzer-einstellungen/benutzerverwaltung) | [Version 3047](/quellen/wiki/seite-573) |
 | KM2 - Parameter - Allgemein | [Artikel](/hilfe/zusatzprogramme/km2-parameter-allgemein) | [Version 2984](/quellen/wiki/seite-574) |
@@ -332,7 +332,7 @@ Alle 473 Inhaltsseiten sind einer lokalen Markdown-Datei und einer gesicherten W
 | Word-Seriendruck | [Artikel](/reporting/verwaltung/word-seriendruck) | [Version 2436](/quellen/wiki/seite-625) |
 | Abiturdurchlauf | [Artikel](/zeugnisse/sekundarstufen/abiturdurchlauf) | [Version 2576](/quellen/wiki/seite-630) |
 | Textzeugnisse zuordnen | [Artikel](/zeugnisse/grundschule/textzeugnisse-zuordnen) | [Version 2477](/quellen/wiki/seite-637) |
-| Textzeugnisse erzeugen | [Artikel](/zeugnisse/grundschule/textzeugnisse-erzeugen) | [Version 2476](/quellen/wiki/seite-639) |
+| Textzeugnisse erzeugen | [Artikel](/tools/notenmodul-grundschule/rueckgabe-und-druck) | [Version 2476](/quellen/wiki/seite-639) |
 | Textzeugnisse drucken | [Artikel](/zeugnisse/grundschule/textzeugnisse-drucken) | [Version 2482](/quellen/wiki/seite-640) |
 | Neuaufnahmen in Schild-NRW 001 | [Artikel](/einstieg/erste-schritte/neuaufnahmen-in-schild-nrw-001) | [Version 2591](/quellen/wiki/seite-641) |
 | Einführung in die Gruppenprozesse 001 | [Artikel](/einstieg/erste-schritte/einfuehrung-in-die-gruppenprozesse-001) | [Version 3598](/quellen/wiki/seite-646) |
@@ -351,8 +351,8 @@ Alle 473 Inhaltsseiten sind einer lokalen Markdown-Datei und einer gesicherten W
 | Mündliche Prüfungen A1-A3 festlegen | [Artikel](/zeugnisse/sekundarstufen/muendliche-pruefungen-a1-a3-festlegen) | [Version 2899](/quellen/wiki/seite-754) |
 | Zusatzdaten (Latimun...) eingeben | [Artikel](/zeugnisse/sekundarstufen/zusatzdaten-latimun-eingeben) | [Version 2900](/quellen/wiki/seite-755) |
 | Teilleistungen | [Artikel](/schild2/gruppenprozesse/teilleistungen) | [Version 3622](/quellen/wiki/seite-758) |
-| Lupo:LuPO | [Artikel](/hilfe/zusatzprogramme/lupo-lupo) | [Version 3042](/quellen/wiki/seite-780) |
-| LuPO Einleitung | [Artikel](/hilfe/zusatzprogramme/lupo-einleitung) | [Version 5491](/quellen/wiki/seite-805) |
+| Lupo:LuPO | [Artikel](/tools/lupo) | [Version 3042](/quellen/wiki/seite-780) |
+| LuPO Einleitung | [Artikel](/tools/lupo/lupo-einleitung) | [Version 5491](/quellen/wiki/seite-805) |
 | Benutzung von Filter I 001 | [Artikel](/schild2/auswahl/benutzung-von-filter-i-001) | [Version 3255](/quellen/wiki/seite-806) |
 | Datenexport nach Excel oder OpenOffice-Calc | [Artikel](/schild2/import-export-statistik/datenexport-nach-excel-oder-openoffice-calc) | [Version 3244](/quellen/wiki/seite-829) |
 | Sortierung ändern | [Artikel](/schild2/auswahl/sortierung-aendern) | [Version 3214](/quellen/wiki/seite-835) |
@@ -385,7 +385,7 @@ Alle 473 Inhaltsseiten sind einer lokalen Markdown-Datei und einer gesicherten W
 | JaNa-Export (Jahrgang und Nationalität) | [Artikel](/schild2/import-export-statistik/jana-export-jahrgang-und-nationalitaet) | [Version 3861](/quellen/wiki/seite-1003) |
 | SchILDweb | [Artikel](/hilfe/zusatzprogramme/schildweb) | [Version 3865](/quellen/wiki/seite-1005) |
 | Individuelle Schülergruppen bearbeiten und nutzen | [Artikel](/schild2/auswahl/individuelle-schuelergruppen-bearbeiten-und-nutzen) | [Version 3878](/quellen/wiki/seite-1007) |
-| Kursverwaltung KPlan.exe | [Artikel](/hilfe/zusatzprogramme/kursverwaltung-kplan-exe) | [Version 3906](/quellen/wiki/seite-1015) |
+| Kursverwaltung KPlan.exe | [Artikel](/hilfe/zusatzprogramme/kursplanung-kplan-exe) | [Version 3906](/quellen/wiki/seite-1015) |
 | Kursplanung KPlan.exe | [Artikel](/hilfe/zusatzprogramme/kursplanung-kplan-exe) | [Version 3913](/quellen/wiki/seite-1016) |
 | Schild-NRW Wiki:Aktuelle Ereignisse | [Artikel](/hilfe/wiki-archiv/schild-nrw-wiki-aktuelle-ereignisse) | [Version 3947](/quellen/wiki/seite-1017) |
 | Access-Datenbanken und Windows-Server 2012 | [Artikel](/administration/installation/access-datenbanken-und-windows-server-2012) | [Version 3931](/quellen/wiki/seite-1018) |
@@ -405,7 +405,7 @@ Alle 473 Inhaltsseiten sind einer lokalen Markdown-Datei und einer gesicherten W
 | AufFaecherFiltern | [Artikel](/reporting/rap/auffaecherfiltern) | [Version 4247](/quellen/wiki/seite-1144) |
 | Datenliste | [Artikel](/reporting/rap/datenliste) | [Version 4250](/quellen/wiki/seite-1145) |
 | Teilleistungen einrichten und verwalten | [Artikel](/schild2/unterricht-kataloge/teilleistungen-einrichten-und-verwalten) | [Version 5289](/quellen/wiki/seite-1146) |
-| Teilleistungen Einrichten und Verwalten | [Artikel](/schild2/unterricht-kataloge/teilleistungen-einrichten-und-verwalten-1152) | [Version 4270](/quellen/wiki/seite-1152) |
+| Teilleistungen Einrichten und Verwalten | [Artikel](/schild2/unterricht-kataloge/teilleistungen-einrichten-und-verwalten) | [Version 4270](/quellen/wiki/seite-1152) |
 | Schild-NRW Wiki:Impressum | [Artikel](/hilfe/wiki-archiv/schild-nrw-wiki-impressum) | [Version 4283](/quellen/wiki/seite-1153) |
 | Schild-NRW Wiki:Datenschutz | [Artikel](/hilfe/wiki-archiv/schild-nrw-wiki-datenschutz) | [Version 6069](/quellen/wiki/seite-1154) |
 | Externe Blockungs-Tools | [Artikel](/hilfe/zusatzprogramme/externe-blockungs-tools) | [Version 4572](/quellen/wiki/seite-1155) |
@@ -416,8 +416,8 @@ Alle 473 Inhaltsseiten sind einer lokalen Markdown-Datei und einer gesicherten W
 | Inhaltsverzeichnis | [Artikel](/einstieg/grundlagen/inhaltsverzeichnis) | [Version 5938](/quellen/wiki/seite-1169) |
 | Einrichtung des ENM-Moduls unter Ubuntu 18.04 | [Artikel](/administration/installation/einrichtung-des-enm-moduls-unter-ubuntu-18-04) | [Version 4609](/quellen/wiki/seite-1174) |
 | Grundschulzeugnisse Textzeugnis | [Artikel](/zeugnisse/grundschule/grundschulzeugnisse-textzeugnis) | [Version 5515](/quellen/wiki/seite-1177) |
-| Grundschulzeugnisse Ankreuzzeugnis | [Artikel](/zeugnisse/grundschule/grundschulzeugnisse-ankreuzzeugnis) | [Version 4618](/quellen/wiki/seite-1178) |
-| Grundschulzeugnisse Lernstandsberichte | [Artikel](/zeugnisse/grundschule/grundschulzeugnisse-lernstandsberichte) | [Version 4619](/quellen/wiki/seite-1179) |
+| Grundschulzeugnisse Ankreuzzeugnis | [Artikel](/tools/notenmodul-grundschule/leistungsdaten) | [Version 4618](/quellen/wiki/seite-1178) |
+| Grundschulzeugnisse Lernstandsberichte | [Artikel](/zeugnisse/grundschule) | [Version 4619](/quellen/wiki/seite-1179) |
 | Versetzung ins neue Schuljahr / Abschnittswechsel durchführen | [Artikel](/schild2/versetzung/versetzung-ins-neue-schuljahr-abschnittswechsel-durchfuehren) | [Version 4653](/quellen/wiki/seite-1182) |
 | Youtube | [Artikel](/hilfe/wiki-archiv/youtube) | [Version 4699](/quellen/wiki/seite-1183) |
 | Mailversand aus der Reporting | [Artikel](/reporting/verwaltung/mailversand-aus-der-reporting) | [Version 4731](/quellen/wiki/seite-1185) |
@@ -456,7 +456,7 @@ Alle 473 Inhaltsseiten sind einer lokalen Markdown-Datei und einer gesicherten W
 | Statistik mit ASDPC Vorbereitung | [Artikel](/schild2/import-export-statistik/statistik-mit-asdpc-vorbereitung) | [Version 5308](/quellen/wiki/seite-1342) |
 | Statistik mit ASDPC Haupterhebung | [Artikel](/schild2/import-export-statistik/statistik-mit-asdpc-haupterhebung) | [Version 5313](/quellen/wiki/seite-1343) |
 | Statistik mit ASDPC Übersicht | [Artikel](/schild2/import-export-statistik/statistik-mit-asdpc-uebersicht) | [Version 5350](/quellen/wiki/seite-1345) |
-| Statistik mit ASDPC Uebersicht | [Artikel](/schild2/import-export-statistik/statistik-mit-asdpc-uebersicht-1346) | [Version 5343](/quellen/wiki/seite-1346) |
+| Statistik mit ASDPC Uebersicht | [Artikel](/schild2/import-export-statistik/statistik-mit-asdpc-uebersicht) | [Version 5343](/quellen/wiki/seite-1346) |
 | Versionsgeschichte Schild-NRW | [Artikel](/hilfe/wiki-archiv/versionsgeschichte-schild-nrw) | [Version 6074](/quellen/wiki/seite-1352) |
 | Fehler beim Export der Statistikdateien - Klasse nicht registriert | [Artikel](/hilfe/probleme/fehler-beim-export-der-statistikdateien-klasse-nicht-registriert) | [Version 5469](/quellen/wiki/seite-1361) |
 | Schild-NRW Installation | [Artikel](/administration/installation/schild-nrw-installation) | [Version 6059](/quellen/wiki/seite-1362) |

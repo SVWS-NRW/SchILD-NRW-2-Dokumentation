@@ -1,5 +1,6 @@
 import { readFileSync } from 'node:fs'
 import { fileURLToPath } from 'node:url'
+const descendants = items => items.flatMap(item => [item, ...descendants(item.items || [])])
 
 // Explicit article menus take precedence; legacy topics use overview links.
 // Different route configurations reset VitePress's collapse state when the
@@ -31,8 +32,8 @@ export function createSidebar(navigation, root = new URL('../', import.meta.url)
       result[`${topic.link}.md`] = sidebar
       result[`${topic.link}/`] = sidebar
       // A task can group articles whose preserved URL lives in another directory.
-      for (const article of topic.items) {
-        if (explicitTopics.has(topic.link) && article.link?.startsWith('/') && !article.link.startsWith(`${topic.link}/`)) {
+      for (const article of descendants(topic.items)) {
+        if (explicitTopics.has(topic.link) && article.link?.startsWith('/') && !article.link.includes('#') && !article.link.startsWith(`${topic.link}/`)) {
           exactArticles[`${article.link}.md`] = sidebar
         }
       }

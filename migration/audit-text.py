@@ -21,6 +21,9 @@ def audit(article):
     return {'title':article['title'],'path':article['path'],'source_words':source.total(),'missing_words':missing.total(),'missing':dict(missing)}
 if __name__=='__main__':
     articles=json.loads((ROOT/'migration/articles.json').read_text(encoding='utf8'))
+    retired=ROOT/'migration/retired-articles.json'
+    ids={a['pageid'] for a in json.loads(retired.read_text(encoding='utf8'))} if retired.exists() else set()
+    articles=[a for a in articles if a['pageid'] not in ids]
     with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:results=list(pool.map(audit,articles))
     (ROOT/'migration/text-audit.json').write_text(json.dumps(results,ensure_ascii=False,indent=2),encoding='utf8')
     for r in results:

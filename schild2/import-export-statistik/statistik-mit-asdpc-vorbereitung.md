@@ -65,9 +65,8 @@ Werden SchILD und ASDPC in einer Netzwerkumgebung eingesetzt, ist darauf zu acht
 
 Laden Sie sich nun die jeweils auf das aktuelle Jahr der Statistik angepasste Material herunter:
 
-1.  Die aktuelle [ToDo-Liste](/quellen/fehlende-downloads#asdpc32-to-do-liste-pdf), die von IT.NRW gepflegt wird. Entlang dieser kann der Arbeitsstand verfolgt werden.
-2.  Die aktuellen [Eintragungshilfen nach Schulform Eintragungshilfen (Lang) nach Schulform](https://schulverwaltungsprogramme.msb.nrw.de/schulen/download.htm#D90). Änderungen zum letzten Jahr sind in Gelb deutlich hervorgehoben (Streichungen bzw. Neuerungen).
-3.  Die aktuellen [Schlüsseltabellen nach Schulform](https://schulverwaltungsprogramme.msb.nrw.de/schulen/download.htm#D89). In ihnen werden die von ASDPC genutzten Kurzschlüssel erläutert; es finden sich auch hier Hinweise und in Gelb hervorgehobene Änderungen zum Vorjahr.
+1.  Die aktuellen [Eintragungshilfen nach Schulform Eintragungshilfen (Lang) nach Schulform](https://schulverwaltungsprogramme.msb.nrw.de/schulen/download.htm#D90). Änderungen zum letzten Jahr sind in Gelb deutlich hervorgehoben (Streichungen bzw. Neuerungen).
+2.  Die aktuellen [Schlüsseltabellen nach Schulform](https://schulverwaltungsprogramme.msb.nrw.de/schulen/download.htm#D89). In ihnen werden die von ASDPC genutzten Kurzschlüssel erläutert; es finden sich auch hier Hinweise und in Gelb hervorgehobene Änderungen zum Vorjahr.
 
 :::info
 Die Eintragungshilfen und Schlüsseltabellen für Ihre Schulform können auch direkt aus ASDPC aufgerufen und somit ohne Suchen im Browser angezeigt werden. Wählen Sie hierzu "Hilfe" ➥ "Eintragungshilfen/Schlüsseltabellen" in ASDPC an.

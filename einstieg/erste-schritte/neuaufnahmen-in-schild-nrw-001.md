@@ -7,7 +7,7 @@ wiki_revision: 2591
 
 # Neuaufnahmen in Schild-NRW 001
 
-Die Beschreibung des Ablaufes "Neuaufnahmen in Schild-NRW" orientiert sich am Handbuch-Teil 1 aus dem Jahr 2003 ([\[1\]](/quellen/fehlende-downloads#handbuch-teil-1-pdf)) und versucht die Neuerungen bis zur aktuellen Version aufzunehmen.\
+Diese Anleitung beschreibt die Neuaufnahme von Schülerinnen und Schülern in SchILD-NRW.
 
 Als Voraussetzung für die Neuaufnahme und damit für den Eintrag der Daten von Schülern müssen alle grundlegenden schulspezifischen Eintragungen in Schild-NRW erfolgt sein. Weitere Informationen hierzu finden Sie im Menü [Schulverwaltung](/schild2/unterricht-kataloge/schulverwaltung) und [Kataloge](/schild2/unterricht-kataloge/kataloge).\
 

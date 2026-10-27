@@ -88,6 +88,17 @@ Im Fenster „Abgleich Kurse/SchILD-Kurse“ kann der Export auch für andere Zw
 
 [Weiter zu Anhang](/hilfe/zusatzprogramme/s1plan-anhang)
 
+
+## Vorhandene Kurse übernehmen
+
+Legen Sie zuerst das zum Import passende Kursprofil an und führen Sie den Datenbankabgleich durch. Nach Auswahl der in SchILD vorhandenen Kurse kann deren Stand einschließlich vorhandener Schülerzuordnungen nach S1Plan übernommen werden.
+
+:::warning
+Der Import ersetzt die bereits in S1Plan bestehenden Kurse der betroffenen Kursart. Prüfen Sie den Bestätigungsdialog, bevor Sie eine schon bearbeitete Kursverteilung überschreiben.
+:::
+
+Quelle der Ergänzung: [S1Plan-Bedienungsanleitung, Druckstand 11.12.2018](https://www.svws.nrw.de/system/files/media/document/file/s1plan_anleitung.pdf), Kapitel 5, Seiten 27–31.
+
 ---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1090) · [S1PLAN:Übernahme von Kursen aus Schild – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=S1PLAN%3A%C3%9Cbernahme+von+Kursen+aus+Schild&oldid=4073)

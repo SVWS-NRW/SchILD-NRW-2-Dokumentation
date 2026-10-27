@@ -8,6 +8,8 @@ def load(p):return json.loads((ROOT/p).read_text(encoding='utf8'))
 def write(p,s):b.write(p,s)
 def js(p,x):b.js(p,x)
 def main():
+    if (ROOT/'migration/editorial-changes.json').exists():
+        raise SystemExit('Erstimport abgeschlossen: Die gepflegten Tool-Artikel und Menüs werden nicht neu generiert.')
     inventory=load('migration/wiki-complete/inventory.json');articles=load('migration/articles.json')
     docs={p['pageid']:'/'+p['path'][:-3] for p in articles}
     wiki=load('migration/wiki-complete/assets.json');manuals=load('migration/manuals/assets.json')
