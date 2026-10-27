@@ -1,0 +1,47 @@
+---
+title: "SetTextAttributes"
+wiki_title: "SetTextAttributes"
+wiki_page_id: 91
+wiki_revision: 115
+---
+
+# SetTextAttributes
+
+<a id="RAP-Funktion_&quot;SetTextAttributes&quot;"></a>
+<a id="RAP-Funktion_.22SetTextAttributes.22"></a>
+
+## RAP-Funktion "SetTextAttributes"
+
+## Beschreibung
+
+```pascal
+procedure SetTextAttributes(aText: TppCustomRichText);
+```
+
+## Parameter
+
+```text
+aText  - Richtextelement
+```
+
+## Rückgabewert
+
+```text
+...
+```
+
+## Beispiel
+
+```pascal
+Richtext1.Font.Name:=='Tahoma';
+Richtext1.Font.Size:=16;
+Richtext1.Font.Bold:=True;
+Richtext1.Font.Italic:=True;
+SetTextattributes(Richtext1);
+Formatiert den gesamten Text des Richtextelementes in dem gewünschten Zeichensatz.
+```
+
+
+---
+
+Quelle: [SetTextAttributes – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetTextAttributes&oldid=115) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetTextAttributes&action=history)

@@ -1,0 +1,3194 @@
+[
+  {
+    "title": "Hauptseite",
+    "path": "hilfe/wiki-archiv/hauptseite.md",
+    "source_words": 273,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Schild-NRW-Index",
+    "path": "einstieg/grundlagen/schild-nrw-index.md",
+    "source_words": 842,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Reporting",
+    "path": "reporting/erstellung/reporting.md",
+    "source_words": 186,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "RAP-Funktionen",
+    "path": "reporting/rap/rap-funktionen.md",
+    "source_words": 125,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Anrede",
+    "path": "reporting/rap/anrede.md",
+    "source_words": 75,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "AssignFont",
+    "path": "reporting/rap/assignfont.md",
+    "source_words": 45,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "AufzaehlungRTF",
+    "path": "reporting/rap/aufzaehlungrtf.md",
+    "source_words": 118,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Bestaetigung",
+    "path": "reporting/rap/bestaetigung.md",
+    "source_words": 61,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "CreateNotenHeader",
+    "path": "reporting/rap/createnotenheader.md",
+    "source_words": 165,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "CreateNotenHeaderUS",
+    "path": "reporting/rap/createnotenheaderus.md",
+    "source_words": 100,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "EditRichText",
+    "path": "reporting/rap/editrichtext.md",
+    "source_words": 29,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "EditRichTextEx",
+    "path": "reporting/rap/editrichtextex.md",
+    "source_words": 36,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Faechervorbelegen",
+    "path": "reporting/rap/faechervorbelegen.md",
+    "source_words": 88,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "FileAge",
+    "path": "reporting/rap/fileage.md",
+    "source_words": 31,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "FileExists",
+    "path": "reporting/rap/fileexists.md",
+    "source_words": 37,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "FileOpenDlg",
+    "path": "reporting/rap/fileopendlg.md",
+    "source_words": 50,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "FileSaveDlg",
+    "path": "reporting/rap/filesavedlg.md",
+    "source_words": 52,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "FilterAdressArt",
+    "path": "reporting/rap/filteradressart.md",
+    "source_words": 20,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "FilterAdresse",
+    "path": "reporting/rap/filteradresse.md",
+    "source_words": 20,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "FilterErzieherfunktion",
+    "path": "reporting/rap/filtererzieherfunktion.md",
+    "source_words": 42,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "FilterLaufbahnJahr",
+    "path": "reporting/rap/filterlaufbahnjahr.md",
+    "source_words": 64,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "FilterLaufbahnJahrgangASD",
+    "path": "reporting/rap/filterlaufbahnjahrgangasd.md",
+    "source_words": 45,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "FilterSchuelerAdressArt",
+    "path": "reporting/rap/filterschueleradressart.md",
+    "source_words": 52,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "FormatRTF",
+    "path": "reporting/rap/formatrtf.md",
+    "source_words": 99,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "GeschlechtToString",
+    "path": "reporting/rap/geschlechttostring.md",
+    "source_words": 36,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "GetFachgruppe",
+    "path": "reporting/rap/getfachgruppe.md",
+    "source_words": 23,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "GetSqlText",
+    "path": "reporting/rap/getsqltext.md",
+    "source_words": 45,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "GruppenDesBenutzers",
+    "path": "reporting/rap/gruppendesbenutzers.md",
+    "source_words": 46,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "IncFontSize",
+    "path": "reporting/rap/incfontsize.md",
+    "source_words": 47,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "IstInDerGruppe",
+    "path": "reporting/rap/istindergruppe.md",
+    "source_words": 53,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "IstLeer",
+    "path": "reporting/rap/istleer.md",
+    "source_words": 44,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "JahrgangsListe",
+    "path": "reporting/rap/jahrgangsliste.md",
+    "source_words": 42,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "KursBezIgnorieren",
+    "path": "reporting/rap/kursbezignorieren.md",
+    "source_words": 63,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "LehrerAuswaehlen",
+    "path": "reporting/rap/lehrerauswaehlen.md",
+    "source_words": 73,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "LehrerDatenLaden",
+    "path": "reporting/rap/lehrerdatenladen.md",
+    "source_words": 74,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "LehrerKursartStatistikLaden",
+    "path": "reporting/rap/lehrerkursartstatistikladen.md",
+    "source_words": 62,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "LehrerUnterrichtLaden",
+    "path": "reporting/rap/lehrerunterrichtladen.md",
+    "source_words": 35,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "LoadFromFile",
+    "path": "reporting/rap/loadfromfile.md",
+    "source_words": 33,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "LoadNotenliste",
+    "path": "reporting/rap/loadnotenliste.md",
+    "source_words": 37,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "LoadVermerke",
+    "path": "reporting/rap/loadvermerke.md",
+    "source_words": 72,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "LoadVermerkeEx",
+    "path": "reporting/rap/loadvermerkeex.md",
+    "source_words": 87,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "LoadVermerkeVonBis",
+    "path": "reporting/rap/loadvermerkevonbis.md",
+    "source_words": 100,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "LongDayNames",
+    "path": "reporting/rap/longdaynames.md",
+    "source_words": 24,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "LookupSprachenfolge",
+    "path": "reporting/rap/lookupsprachenfolge.md",
+    "source_words": 63,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Mehrfachauswahl",
+    "path": "reporting/rap/mehrfachauswahl.md",
+    "source_words": 59,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "MehrfachauswahlEx",
+    "path": "reporting/rap/mehrfachauswahlex.md",
+    "source_words": 85,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "MitLernabschnitten",
+    "path": "reporting/rap/mitlernabschnitten.md",
+    "source_words": 37,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "NotenDurchschnitt",
+    "path": "reporting/rap/notendurchschnitt.md",
+    "source_words": 80,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "NurErzieherMitAnschreiben",
+    "path": "reporting/rap/nurerziehermitanschreiben.md",
+    "source_words": 39,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "NurFaecherMitAufsZeugnisFlag",
+    "path": "reporting/rap/nurfaechermitaufszeugnisflag.md",
+    "source_words": 77,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "NurFaecherMitNoten",
+    "path": "reporting/rap/nurfaechermitnoten.md",
+    "source_words": 50,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "PickDatum",
+    "path": "reporting/rap/pickdatum.md",
+    "source_words": 31,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "QuotedStr",
+    "path": "reporting/rap/quotedstr.md",
+    "source_words": 35,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "ReadDateTime",
+    "path": "reporting/rap/readdatetime.md",
+    "source_words": 67,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "ReplaceDefault",
+    "path": "reporting/rap/replacedefault.md",
+    "source_words": 124,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "ReplaceStandardVar",
+    "path": "reporting/rap/replacestandardvar.md",
+    "source_words": 40,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "ReplaceText",
+    "path": "reporting/rap/replacetext.md",
+    "source_words": 46,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "ReplaceTextEx",
+    "path": "reporting/rap/replacetextex.md",
+    "source_words": 48,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "ResetAdressArt",
+    "path": "reporting/rap/resetadressart.md",
+    "source_words": 35,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "ResetAdressFilter",
+    "path": "reporting/rap/resetadressfilter.md",
+    "source_words": 15,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "ResetFaechervorbelegung",
+    "path": "reporting/rap/resetfaechervorbelegung.md",
+    "source_words": 33,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "ResetFilterErzieherfunktion",
+    "path": "reporting/rap/resetfiltererzieherfunktion.md",
+    "source_words": 15,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "ResetFilterLaufbahnJahr",
+    "path": "reporting/rap/resetfilterlaufbahnjahr.md",
+    "source_words": 16,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "RtfToPlaintext",
+    "path": "reporting/rap/rtftoplaintext.md",
+    "source_words": 30,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "SchuljahrToStr",
+    "path": "reporting/rap/schuljahrtostr.md",
+    "source_words": 42,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "SchuljahrToStrEx",
+    "path": "reporting/rap/schuljahrtostrex.md",
+    "source_words": 104,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "SchulText",
+    "path": "reporting/rap/schultext.md",
+    "source_words": 34,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "SelectAdressArt",
+    "path": "reporting/rap/selectadressart.md",
+    "source_words": 35,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "SelectAdressName",
+    "path": "reporting/rap/selectadressname.md",
+    "source_words": 36,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "SelectErzFunktion",
+    "path": "reporting/rap/selecterzfunktion.md",
+    "source_words": 26,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Selectfont",
+    "path": "reporting/rap/selectfont.md",
+    "source_words": 45,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "SelectFromList",
+    "path": "reporting/rap/selectfromlist.md",
+    "source_words": 54,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "SelectFromListEx",
+    "path": "reporting/rap/selectfromlistex.md",
+    "source_words": 68,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "SelectNotenliste",
+    "path": "reporting/rap/selectnotenliste.md",
+    "source_words": 22,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "SelectOption",
+    "path": "reporting/rap/selectoption.md",
+    "source_words": 76,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "SelectString",
+    "path": "reporting/rap/selectstring.md",
+    "source_words": 43,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "SelectStringEx",
+    "path": "reporting/rap/selectstringex.md",
+    "source_words": 55,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "SetAbitur",
+    "path": "reporting/rap/setabitur.md",
+    "source_words": 44,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "SetAdressArt",
+    "path": "reporting/rap/setadressart.md",
+    "source_words": 45,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "SetBKAbschluss",
+    "path": "reporting/rap/setbkabschluss.md",
+    "source_words": 35,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "SetFont",
+    "path": "reporting/rap/setfont.md",
+    "source_words": 39,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "SetJgIntervall",
+    "path": "reporting/rap/setjgintervall.md",
+    "source_words": 59,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "SetJgIntervall ASD",
+    "path": "reporting/rap/setjgintervall-asd.md",
+    "source_words": 42,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "SetKursSchuelerFaecherListe",
+    "path": "reporting/rap/setkursschuelerfaecherliste.md",
+    "source_words": 34,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "SetTextAttributes",
+    "path": "reporting/rap/settextattributes.md",
+    "source_words": 39,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "SetUebersicht",
+    "path": "reporting/rap/setuebersicht.md",
+    "source_words": 51,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "SetUebersichtEx",
+    "path": "reporting/rap/setuebersichtex.md",
+    "source_words": 60,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "SetUebersichtKursartFilter",
+    "path": "reporting/rap/setuebersichtkursartfilter.md",
+    "source_words": 100,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Setzefilter",
+    "path": "reporting/rap/setzefilter.md",
+    "source_words": 132,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "SetzeKlassenAdressArt",
+    "path": "reporting/rap/setzeklassenadressart.md",
+    "source_words": 46,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "SetzeSortierung",
+    "path": "reporting/rap/setzesortierung.md",
+    "source_words": 70,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "SetzeSortierungEx",
+    "path": "reporting/rap/setzesortierungex.md",
+    "source_words": 65,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "ShortDayNames",
+    "path": "reporting/rap/shortdaynames.md",
+    "source_words": 24,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "SortierungVon",
+    "path": "reporting/rap/sortierungvon.md",
+    "source_words": 53,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "StringInput",
+    "path": "reporting/rap/stringinput.md",
+    "source_words": 33,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "SummeFehlstunden",
+    "path": "reporting/rap/summefehlstunden.md",
+    "source_words": 61,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "UebersichtsfachModus",
+    "path": "reporting/rap/uebersichtsfachmodus.md",
+    "source_words": 100,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "UeberspringeRecord",
+    "path": "reporting/rap/ueberspringerecord.md",
+    "source_words": 51,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "VerzeichnisseErzeugen",
+    "path": "reporting/rap/verzeichnisseerzeugen.md",
+    "source_words": 105,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "WaehleDatumStr",
+    "path": "reporting/rap/waehledatumstr.md",
+    "source_words": 43,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "WaehleDatumUndZeit",
+    "path": "reporting/rap/waehledatumundzeit.md",
+    "source_words": 48,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Wiederholungen",
+    "path": "reporting/rap/wiederholungen.md",
+    "source_words": 60,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Zahlwort",
+    "path": "reporting/rap/zahlwort.md",
+    "source_words": 26,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "ZensurToStr",
+    "path": "reporting/rap/zensurtostr.md",
+    "source_words": 22,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "ZeugnisParameter",
+    "path": "reporting/rap/zeugnisparameter.md",
+    "source_words": 119,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Iconleiste",
+    "path": "einstieg/grundlagen/iconleiste.md",
+    "source_words": 125,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "PipelineOeffnen",
+    "path": "reporting/rap/pipelineoeffnen.md",
+    "source_words": 23,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "PluginVersion",
+    "path": "reporting/rap/pluginversion.md",
+    "source_words": 29,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "AnzahlElemente",
+    "path": "reporting/rap/anzahlelemente.md",
+    "source_words": 38,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "EinzelElement",
+    "path": "reporting/rap/einzelelement.md",
+    "source_words": 49,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "SetQuartalsnotenInUebersicht",
+    "path": "reporting/rap/setquartalsnoteninuebersicht.md",
+    "source_words": 27,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "FilterLaufbahnStufen",
+    "path": "reporting/rap/filterlaufbahnstufen.md",
+    "source_words": 55,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Praktikumstage",
+    "path": "reporting/rap/praktikumstage.md",
+    "source_words": 59,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "LernfelderZuFachklasse",
+    "path": "reporting/rap/lernfelderzufachklasse.md",
+    "source_words": 38,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "ZeugnisDatenquellenOeffnen",
+    "path": "reporting/rap/zeugnisdatenquellenoeffnen.md",
+    "source_words": 69,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "DateinameFuerDVAuswaehlen",
+    "path": "reporting/rap/dateinamefuerdvauswaehlen.md",
+    "source_words": 140,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "NurGewerteteAbschnitte",
+    "path": "reporting/rap/nurgewerteteabschnitte.md",
+    "source_words": 51,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Hauptfenster",
+    "path": "einstieg/grundlagen/hauptfenster.md",
+    "source_words": 565,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "StatistikKuerzelAusFachKuerzel",
+    "path": "reporting/rap/statistikkuerzelausfachkuerzel.md",
+    "source_words": 72,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Karteikasten",
+    "path": "einstieg/grundlagen/karteikasten.md",
+    "source_words": 322,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Kurs42:Inhaltsverzeichnis",
+    "path": "hilfe/zusatzprogramme/kurs42-inhaltsverzeichnis.md",
+    "source_words": 4,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Kataloge",
+    "path": "schild2/unterricht-kataloge/kataloge.md",
+    "source_words": 316,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Konfessionen",
+    "path": "schild2/unterricht-kataloge/konfessionen.md",
+    "source_words": 198,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Staatsangehörigkeiten / Herkunftsländer",
+    "path": "schild2/unterricht-kataloge/staatsangehoerigkeiten-herkunftslaender.md",
+    "source_words": 128,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Auswahl",
+    "path": "schild2/auswahl/auswahl.md",
+    "source_words": 108,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Individuelle Schülergruppe auswählen",
+    "path": "schild2/auswahl/individuelle-schuelergruppe-auswaehlen.md",
+    "source_words": 40,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Individuelle Schülergruppe bearbeiten",
+    "path": "schild2/auswahl/individuelle-schuelergruppe-bearbeiten.md",
+    "source_words": 140,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Nur Schüler mit Geschwistern zeigen",
+    "path": "schild2/auswahl/nur-schueler-mit-geschwistern-zeigen.md",
+    "source_words": 164,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Schüler mit Statistik-Fehlern zeigen",
+    "path": "schild2/auswahl/schueler-mit-statistik-fehlern-zeigen.md",
+    "source_words": 96,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Schüler mit fehlendem Abschnitt (Status=Aktiv,..)",
+    "path": "schild2/auswahl/schueler-mit-fehlendem-abschnitt-status-aktiv.md",
+    "source_words": 52,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Schüler mit fehlendem Abschnitt (Status=Abgang,..)",
+    "path": "schild2/auswahl/schueler-mit-fehlendem-abschnitt-status-abgang.md",
+    "source_words": 53,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Filter auf fehlende Einträge",
+    "path": "schild2/auswahl/filter-auf-fehlende-eintraege.md",
+    "source_words": 59,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Standard-Auswahl laden",
+    "path": "schild2/auswahl/standard-auswahl-laden.md",
+    "source_words": 46,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Vorhandene Filterdefinition laden",
+    "path": "schild2/auswahl/vorhandene-filterdefinition-laden.md",
+    "source_words": 99,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Vorhandene Filterdefinition löschen",
+    "path": "schild2/auswahl/vorhandene-filterdefinition-loeschen.md",
+    "source_words": 80,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Attributsfilter",
+    "path": "schild2/auswahl/attributsfilter.md",
+    "source_words": 333,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "ThemaProjektKurs",
+    "path": "reporting/rap/themaprojektkurs.md",
+    "source_words": 21,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "EditText",
+    "path": "reporting/rap/edittext.md",
+    "source_words": 24,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Förderschwerpunkte",
+    "path": "schild2/unterricht-kataloge/foerderschwerpunkte.md",
+    "source_words": 146,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Verkehrssprachen",
+    "path": "schild2/unterricht-kataloge/verkehrssprachen.md",
+    "source_words": 52,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Erzieher-Arten",
+    "path": "schild2/unterricht-kataloge/erzieher-arten.md",
+    "source_words": 61,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Fahrschüler-Arten",
+    "path": "schild2/unterricht-kataloge/fahrschueler-arten.md",
+    "source_words": 79,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Haltestelle",
+    "path": "schild2/unterricht-kataloge/haltestelle.md",
+    "source_words": 0,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Haltestellen",
+    "path": "schild2/unterricht-kataloge/haltestellen.md",
+    "source_words": 109,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Andere Schulen und Schulnummern",
+    "path": "schild2/unterricht-kataloge/andere-schulen-und-schulnummern.md",
+    "source_words": 209,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Schulen in NRW",
+    "path": "schild2/unterricht-kataloge/schulen-in-nrw.md",
+    "source_words": 116,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Kindergärten",
+    "path": "schild2/unterricht-kataloge/kindergaerten.md",
+    "source_words": 115,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Orte",
+    "path": "schild2/unterricht-kataloge/orte.md",
+    "source_words": 185,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Container",
+    "path": "einstieg/grundlagen/container.md",
+    "source_words": 781,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Telefonische Ansprechpartner",
+    "path": "schild2/unterricht-kataloge/telefonische-ansprechpartner.md",
+    "source_words": 77,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Sportbefreiungen",
+    "path": "schild2/unterricht-kataloge/sportbefreiungen.md",
+    "source_words": 91,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Entlassungs-Bemerkungen",
+    "path": "schild2/unterricht-kataloge/entlassungs-bemerkungen.md",
+    "source_words": 52,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Adress-Arten",
+    "path": "schild2/unterricht-kataloge/adress-arten.md",
+    "source_words": 67,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Allgemeine Adressen",
+    "path": "schild2/unterricht-kataloge/allgemeine-adressen.md",
+    "source_words": 206,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Ortsteile",
+    "path": "schild2/unterricht-kataloge/ortsteile.md",
+    "source_words": 41,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Schulverwaltung",
+    "path": "schild2/unterricht-kataloge/schulverwaltung.md",
+    "source_words": 90,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Schule bearbeiten",
+    "path": "einstieg/erste-schritte/schule-bearbeiten.md",
+    "source_words": 870,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Lehrkräfte",
+    "path": "schild2/lehrkraefte/lehrkraefte.md",
+    "source_words": 745,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Datenaustausch",
+    "path": "schild2/import-export-statistik/datenaustausch.md",
+    "source_words": 75,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Schnittstelle Schild-NRW",
+    "path": "schild2/import-export-statistik/schnittstelle-schild-nrw.md",
+    "source_words": 117,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Schnittstellenbeschreibung",
+    "path": "schild2/import-export-statistik/schnittstellenbeschreibung.md",
+    "source_words": 7703,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Datenschutzhinweis",
+    "path": "administration/benutzer-einstellungen/datenschutzhinweis.md",
+    "source_words": 136,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Individual-Daten I",
+    "path": "schild2/schueler/individual-daten-i.md",
+    "source_words": 298,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Extras",
+    "path": "administration/benutzer-einstellungen/extras.md",
+    "source_words": 247,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Vorbemerkungen-Schnittstelle",
+    "path": "schild2/import-export-statistik/vorbemerkungen-schnittstelle.md",
+    "source_words": 435,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Statistik-Jahrgänge",
+    "path": "schild2/unterricht-kataloge/statistik-jahrgaenge.md",
+    "source_words": 633,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Gruppenprozesse",
+    "path": "schild2/gruppenprozesse/gruppenprozesse.md",
+    "source_words": 225,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "JG-Tabelle-GY",
+    "path": "schild2/unterricht-kataloge/jg-tabelle-gy.md",
+    "source_words": 31,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "JG-Tabelle-GE",
+    "path": "schild2/unterricht-kataloge/jg-tabelle-ge.md",
+    "source_words": 23,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "JG-Tabelle-GS",
+    "path": "schild2/unterricht-kataloge/jg-tabelle-gs.md",
+    "source_words": 485,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Schüler ohne Fächer",
+    "path": "schild2/auswahl/schueler-ohne-faecher.md",
+    "source_words": 83,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Programm-Einstellungen",
+    "path": "administration/benutzer-einstellungen/programm-einstellungen.md",
+    "source_words": 2624,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Externes Notenmodul",
+    "path": "zeugnisse/vorbereitung/externes-notenmodul.md",
+    "source_words": 696,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Kataloge exportieren",
+    "path": "schild2/import-export-statistik/kataloge-exportieren.md",
+    "source_words": 143,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Export in Text-/Excel-Dateien",
+    "path": "schild2/import-export-statistik/export-in-text-excel-dateien.md",
+    "source_words": 488,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Hilfe",
+    "path": "hilfe/probleme/hilfe.md",
+    "source_words": 540,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Import aus Textdateien",
+    "path": "schild2/import-export-statistik/import-aus-textdateien.md",
+    "source_words": 555,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Export für Lupo",
+    "path": "schild2/import-export-statistik/export-fuer-lupo.md",
+    "source_words": 371,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Unterrichtsdaten (als Excel Dateien) importieren",
+    "path": "schild2/import-export-statistik/unterrichtsdaten-als-excel-dateien-importieren.md",
+    "source_words": 555,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "UVD-Datei importieren",
+    "path": "schild2/import-export-statistik/uvd-datei-importieren.md",
+    "source_words": 77,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Fotos",
+    "path": "schild2/import-export-statistik/fotos.md",
+    "source_words": 102,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Wohnortdaten exportieren",
+    "path": "schild2/import-export-statistik/wohnortdaten-exportieren.md",
+    "source_words": 23,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Aufräumen",
+    "path": "administration/datenbanken/aufraeumen.md",
+    "source_words": 189,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Filter I",
+    "path": "schild2/auswahl/filter-i.md",
+    "source_words": 232,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Filter II",
+    "path": "schild2/auswahl/filter-ii.md",
+    "source_words": 542,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Allgemeines",
+    "path": "schild2/gruppenprozesse/allgemeines.md",
+    "source_words": 80,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Schild-NRW-Tutorials",
+    "path": "einstieg/erste-schritte/schild-nrw-tutorials.md",
+    "source_words": 201,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Fächer",
+    "path": "schild2/gruppenprozesse/faecher.md",
+    "source_words": 69,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Noten, Zeugnisvorbereitung",
+    "path": "zeugnisse/vorbereitung/noten-zeugnisvorbereitung.md",
+    "source_words": 79,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Lernabschnitte, Versetzung",
+    "path": "schild2/versetzung/lernabschnitte-versetzung.md",
+    "source_words": 40,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Gruppenprozesse Abitur",
+    "path": "zeugnisse/sekundarstufen/gruppenprozesse-abitur.md",
+    "source_words": 45,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Gruppenaktionen Abitur",
+    "path": "zeugnisse/sekundarstufen/gruppenaktionen-abitur.md",
+    "source_words": 45,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Klassen-/Versetzungstabelle",
+    "path": "schild2/unterricht-kataloge/klassen-versetzungstabelle.md",
+    "source_words": 643,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Einrichtung des Report-Explorers",
+    "path": "reporting/erstellung/einrichtung-des-report-explorers.md",
+    "source_words": 685,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Klassengruppen/Abteilungen",
+    "path": "schild2/unterricht-kataloge/klassengruppen-abteilungen.md",
+    "source_words": 153,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Erz.-Berechtigte",
+    "path": "schild2/schueler/erz-berechtigte.md",
+    "source_words": 190,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Unterrichtsfächer",
+    "path": "schild2/unterricht-kataloge/unterrichtsfaecher.md",
+    "source_words": 1318,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Wiedervorlage",
+    "path": "schild2/schueler/wiedervorlage.md",
+    "source_words": 400,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Eintrag in Wiedervorlage machen",
+    "path": "schild2/schueler/eintrag-in-wiedervorlage-machen.md",
+    "source_words": 85,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Individualdaten ändern",
+    "path": "schild2/gruppenprozesse/individualdaten-aendern.md",
+    "source_words": 136,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Fachklassen",
+    "path": "schild2/unterricht-kataloge/fachklassen.md",
+    "source_words": 66,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Individual-Daten II",
+    "path": "schild2/schueler/individual-daten-ii.md",
+    "source_words": 138,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Schulbesuch",
+    "path": "schild2/schueler/schulbesuch.md",
+    "source_words": 545,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Weitere Adressen",
+    "path": "schild2/schueler/weitere-adressen.md",
+    "source_words": 108,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Dateimaske bearbeiten",
+    "path": "administration/benutzer-einstellungen/dateimaske-bearbeiten.md",
+    "source_words": 112,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Laufbahninfo",
+    "path": "schild2/schueler/laufbahninfo.md",
+    "source_words": 167,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Datensicherung",
+    "path": "administration/datenbanken/datensicherung.md",
+    "source_words": 189,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Datei",
+    "path": "administration/datenbanken/datei.md",
+    "source_words": 107,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Automatische Prozesse ausführen",
+    "path": "schild2/gruppenprozesse/automatische-prozesse-ausfuehren.md",
+    "source_words": 71,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Gelöschte Daten zurückholen",
+    "path": "schild2/gruppenprozesse/geloeschte-daten-zurueckholen.md",
+    "source_words": 118,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Schulpflicht autom. setzen zum SJ.-Ende",
+    "path": "schild2/gruppenprozesse/schulpflicht-autom-setzen-zum-sj-ende.md",
+    "source_words": 107,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Fehlende Abschnittsdaten anlegen",
+    "path": "schild2/gruppenprozesse/fehlende-abschnittsdaten-anlegen.md",
+    "source_words": 50,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Kurse neu laden (nach Bearbeitung in Kurs42)",
+    "path": "schild2/gruppenprozesse/kurse-neu-laden-nach-bearbeitung-in-kurs42.md",
+    "source_words": 63,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Fächer in Leistungsdaten neu sortieren",
+    "path": "schild2/gruppenprozesse/faecher-in-leistungsdaten-neu-sortieren.md",
+    "source_words": 80,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Fotos neu skalieren",
+    "path": "schild2/gruppenprozesse/fotos-neu-skalieren.md",
+    "source_words": 48,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Kurse neu sortieren",
+    "path": "schild2/gruppenprozesse/kurse-neu-sortieren.md",
+    "source_words": 10,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Aufnahmejahr für Neuaufnahmen zurücksetzen",
+    "path": "schild2/gruppenprozesse/aufnahmejahr-fuer-neuaufnahmen-zuruecksetzen.md",
+    "source_words": 62,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Straße und Hausnummer bei Schülerdaten trennen",
+    "path": "schild2/gruppenprozesse/strasse-und-hausnummer-bei-schuelerdaten-trennen.md",
+    "source_words": 63,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "SQL-Befehle eingeben",
+    "path": "administration/datenbanken/sql-befehle-eingeben.md",
+    "source_words": 92,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Klassenlehrer aktualisieren",
+    "path": "schild2/gruppenprozesse/klassenlehrer-aktualisieren.md",
+    "source_words": 24,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Abschlussdatum neu berechnen",
+    "path": "schild2/gruppenprozesse/abschlussdatum-neu-berechnen.md",
+    "source_words": 43,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Schulbesuchsjahre neu berechnen",
+    "path": "schild2/gruppenprozesse/schulbesuchsjahre-neu-berechnen.md",
+    "source_words": 96,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Eigene Schule in Abgangsliste setzen",
+    "path": "schild2/gruppenprozesse/eigene-schule-in-abgangsliste-setzen.md",
+    "source_words": 32,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Fotos löschen",
+    "path": "schild2/gruppenprozesse/fotos-loeschen.md",
+    "source_words": 36,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Vermerke/Merkmale löschen",
+    "path": "schild2/gruppenprozesse/vermerke-merkmale-loeschen.md",
+    "source_words": 50,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Sprachenfolge aus Leistungsdaten ermitteln",
+    "path": "schild2/gruppenprozesse/sprachenfolge-aus-leistungsdaten-ermitteln.md",
+    "source_words": 63,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Sprachenfolge zuweisen",
+    "path": "schild2/gruppenprozesse/sprachenfolge-zuweisen.md",
+    "source_words": 62,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Fächer in Sprachenfolge ersetzen",
+    "path": "schild2/gruppenprozesse/faecher-in-sprachenfolge-ersetzen.md",
+    "source_words": 54,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Sprach-Referenzniveaus ermitteln",
+    "path": "schild2/gruppenprozesse/sprach-referenzniveaus-ermitteln.md",
+    "source_words": 68,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Fachhochschulreife prüfen",
+    "path": "schild2/gruppenprozesse/fachhochschulreife-pruefen.md",
+    "source_words": 81,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Stundentafeln",
+    "path": "schild2/unterricht-kataloge/stundentafeln.md",
+    "source_words": 182,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Schülerspezifische Kursarten",
+    "path": "schild2/unterricht-kataloge/schuelerspezifische-kursarten.md",
+    "source_words": 100,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Kurse",
+    "path": "schild2/unterricht-kataloge/kurse.md",
+    "source_words": 659,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Zeugnisvorlagen zuordnen",
+    "path": "schild2/unterricht-kataloge/zeugnisvorlagen-zuordnen.md",
+    "source_words": 98,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Teilleistungs-Arten",
+    "path": "schild2/unterricht-kataloge/teilleistungs-arten.md",
+    "source_words": 94,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Vermerk-Arten",
+    "path": "schild2/unterricht-kataloge/vermerk-arten.md",
+    "source_words": 157,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "\"Floskeln\" bearbeiten",
+    "path": "schild2/unterricht-kataloge/floskeln-bearbeiten.md",
+    "source_words": 302,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Erzieher-Funktionen",
+    "path": "schild2/unterricht-kataloge/erzieher-funktionen.md",
+    "source_words": 174,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Erzieher mit schulinternen Funktionen",
+    "path": "schild2/unterricht-kataloge/erzieher-mit-schulinternen-funktionen.md",
+    "source_words": 179,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Personengruppen",
+    "path": "schild2/unterricht-kataloge/personengruppen.md",
+    "source_words": 354,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Statistik / amtliche Schuldaten",
+    "path": "schild2/import-export-statistik/statistik-amtliche-schuldaten.md",
+    "source_words": 547,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Reportbaukasten",
+    "path": "reporting/erstellung/reportbaukasten.md",
+    "source_words": 2039,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Akt. Halbjahr",
+    "path": "zeugnisse/vorbereitung/akt-halbjahr.md",
+    "source_words": 618,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Druckausgabe",
+    "path": "reporting/verwaltung/druckausgabe.md",
+    "source_words": 278,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Übersicht S II",
+    "path": "zeugnisse/sekundarstufen/uebersicht-s-ii.md",
+    "source_words": 70,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Gesamtübersicht",
+    "path": "zeugnisse/sekundarstufen/gesamtuebersicht.md",
+    "source_words": 80,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "FHR",
+    "path": "zeugnisse/sekundarstufen/fhr.md",
+    "source_words": 24,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "BKAbschluss",
+    "path": "zeugnisse/berufskolleg/bkabschluss.md",
+    "source_words": 231,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "BK-Abschluss",
+    "path": "zeugnisse/berufskolleg/bk-abschluss.md",
+    "source_words": 235,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Benutzer",
+    "path": "administration/benutzer-einstellungen/benutzer.md",
+    "source_words": 103,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Stundentafeln zuweisen",
+    "path": "schild2/gruppenprozesse/stundentafeln-zuweisen.md",
+    "source_words": 117,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Kurse zuweisen (Einzelkurs)",
+    "path": "schild2/gruppenprozesse/kurse-zuweisen-einzelkurs.md",
+    "source_words": 192,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Kurse zuweisen (mehrere Kurse)",
+    "path": "schild2/gruppenprozesse/kurse-zuweisen-mehrere-kurse.md",
+    "source_words": 123,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Fächer zuweisen (tabellarisch)",
+    "path": "schild2/gruppenprozesse/faecher-zuweisen-tabellarisch.md",
+    "source_words": 245,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Fächer aus vorherigem Abschnitt holen",
+    "path": "schild2/gruppenprozesse/faecher-aus-vorherigem-abschnitt-holen.md",
+    "source_words": 109,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Fächer ohne Noten suchen",
+    "path": "zeugnisse/vorbereitung/faecher-ohne-noten-suchen.md",
+    "source_words": 73,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Fächer ohne Lehrkraft suchen",
+    "path": "zeugnisse/vorbereitung/faecher-ohne-lehrkraft-suchen.md",
+    "source_words": 106,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Klassenunterrichte bearbeiten",
+    "path": "schild2/gruppenprozesse/klassenunterrichte-bearbeiten.md",
+    "source_words": 34,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Details zu Fächern bei Schülern ändern",
+    "path": "schild2/gruppenprozesse/details-zu-faechern-bei-schuelern-aendern.md",
+    "source_words": 111,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Einzelne Fächer bei Schülern löschen",
+    "path": "schild2/gruppenprozesse/einzelne-faecher-bei-schuelern-loeschen.md",
+    "source_words": 75,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Einzelne Fächer bei Schülern hinzufügen",
+    "path": "schild2/gruppenprozesse/einzelne-faecher-bei-schuelern-hinzufuegen.md",
+    "source_words": 86,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Teilleistungen eingeben",
+    "path": "schild2/gruppenprozesse/teilleistungen-eingeben.md",
+    "source_words": 151,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Doppelte Fächer löschen",
+    "path": "schild2/gruppenprozesse/doppelte-faecher-loeschen.md",
+    "source_words": 78,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Fehlstunden-Summen automatisch berechnen",
+    "path": "zeugnisse/vorbereitung/fehlstunden-summen-automatisch-berechnen.md",
+    "source_words": 123,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Noten, Mahnungen und Fehlstunden eingeben",
+    "path": "zeugnisse/vorbereitung/noten-mahnungen-und-fehlstunden-eingeben.md",
+    "source_words": 208,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Lernbereichsnoten eingeben",
+    "path": "zeugnisse/vorbereitung/lernbereichsnoten-eingeben.md",
+    "source_words": 78,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Konferenz-/Zeugnis-Datum setzen",
+    "path": "zeugnisse/vorbereitung/konferenz-zeugnis-datum-setzen.md",
+    "source_words": 88,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Fehlstunden-Summen manuell eingeben",
+    "path": "zeugnisse/vorbereitung/fehlstunden-summen-manuell-eingeben.md",
+    "source_words": 78,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Mahnungen automatisch setzen",
+    "path": "zeugnisse/vorbereitung/mahnungen-automatisch-setzen.md",
+    "source_words": 85,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Mahnungen drucken",
+    "path": "zeugnisse/vorbereitung/mahnungen-drucken.md",
+    "source_words": 1586,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Leistungsdaten holen",
+    "path": "zeugnisse/sekundarstufen/leistungsdaten-holen.md",
+    "source_words": 112,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Kurse algorithmisch markieren",
+    "path": "zeugnisse/sekundarstufen/kurse-algorithmisch-markieren.md",
+    "source_words": 123,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Abitur-Zulassung berechnen",
+    "path": "zeugnisse/sekundarstufen/abitur-zulassung-berechnen.md",
+    "source_words": 101,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Prüfungsergebnisse eingeben",
+    "path": "zeugnisse/sekundarstufen/pruefungsergebnisse-eingeben.md",
+    "source_words": 159,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Mdl. Prüfungen A1-A3 festlegen",
+    "path": "zeugnisse/sekundarstufen/mdl-pruefungen-a1-a3-festlegen.md",
+    "source_words": 135,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Gesamtergebnis berechnen",
+    "path": "zeugnisse/sekundarstufen/gesamtergebnis-berechnen.md",
+    "source_words": 72,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Zusatzdaten (Latinum...) eingeben",
+    "path": "zeugnisse/sekundarstufen/zusatzdaten-latinum-eingeben.md",
+    "source_words": 86,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Gesamt-Fehlstunden berechnen",
+    "path": "zeugnisse/sekundarstufen/gesamt-fehlstunden-berechnen.md",
+    "source_words": 69,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Abitur-Jahr setzen (für Statistik)",
+    "path": "zeugnisse/sekundarstufen/abitur-jahr-setzen-fuer-statistik.md",
+    "source_words": 43,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Versetzungs-/Abschluss-Berechnung",
+    "path": "schild2/versetzung/versetzungs-abschluss-berechnung.md",
+    "source_words": 93,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Lernabschnitt individuell anlegen/bearbeiten",
+    "path": "schild2/versetzung/lernabschnitt-individuell-anlegen-bearbeiten.md",
+    "source_words": 98,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Zeugnisbemerkungen eintragen",
+    "path": "zeugnisse/vorbereitung/zeugnisbemerkungen-eintragen.md",
+    "source_words": 123,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Abschnittsdaten löschen",
+    "path": "schild2/versetzung/abschnittsdaten-loeschen.md",
+    "source_words": 66,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Noten des aktuellen Abschnittes löschen",
+    "path": "zeugnisse/vorbereitung/noten-des-aktuellen-abschnittes-loeschen.md",
+    "source_words": 53,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Zuweisungen durchführen",
+    "path": "zeugnisse/vorbereitung/zuweisungen-durchfuehren.md",
+    "source_words": 49,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Abgeschlossene Fächer holen",
+    "path": "zeugnisse/vorbereitung/abgeschlossene-faecher-holen.md",
+    "source_words": 226,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Abgeschlossene Fächer löschen",
+    "path": "zeugnisse/vorbereitung/abgeschlossene-faecher-loeschen.md",
+    "source_words": 52,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Belegprüfung für Sek. II",
+    "path": "schild2/gruppenprozesse/belegpruefung-fuer-sek-ii.md",
+    "source_words": 30,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Hochrechnung durchführen und speichern",
+    "path": "schild2/gruppenprozesse/hochrechnung-durchfuehren-und-speichern.md",
+    "source_words": 242,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Noten von Epochal-Fächern ergänzen",
+    "path": "schild2/gruppenprozesse/noten-von-epochal-faechern-ergaenzen.md",
+    "source_words": 96,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Zugeordnete Zeugnisformulare drucken",
+    "path": "zeugnisse/vorbereitung/zugeordnete-zeugnisformulare-drucken.md",
+    "source_words": 55,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Zeugnisse drucken und Schüler ausschulen",
+    "path": "zeugnisse/vorbereitung/zeugnisse-drucken-und-schueler-ausschulen.md",
+    "source_words": 114,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "JG-Tabelle-BK",
+    "path": "schild2/unterricht-kataloge/jg-tabelle-bk.md",
+    "source_words": 25,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Versetzung/Übertragung ins neue Halbjahr oder in Abschluss",
+    "path": "schild2/versetzung/versetzung-uebertragung-ins-neue-halbjahr-oder-in-abschluss.md",
+    "source_words": 378,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Zusatzprogramme / Tools",
+    "path": "hilfe/zusatzprogramme/zusatzprogramme-tools.md",
+    "source_words": 24,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Benutzerverwaltung Useradmn.exe",
+    "path": "administration/benutzer-einstellungen/benutzerverwaltung-useradmn-exe.md",
+    "source_words": 475,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Benutzerverwaltung PlugIn-DLL",
+    "path": "administration/benutzer-einstellungen/benutzerverwaltung-plugin-dll.md",
+    "source_words": 57,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Shortcuts in Schild-NRW",
+    "path": "administration/benutzer-einstellungen/shortcuts-in-schild-nrw.md",
+    "source_words": 55,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Konferenzmodul KM2.exe",
+    "path": "hilfe/zusatzprogramme/konferenzmodul-km2-exe.md",
+    "source_words": 385,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Abitur",
+    "path": "zeugnisse/sekundarstufen/abitur.md",
+    "source_words": 466,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Betrieb/Adresse zuweisen",
+    "path": "schild2/gruppenprozesse/betrieb-adresse-zuweisen.md",
+    "source_words": 47,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Reportexplorer aufrufen",
+    "path": "reporting/verwaltung/reportexplorer-aufrufen.md",
+    "source_words": 423,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Dokumentenverwaltung",
+    "path": "administration/benutzer-einstellungen/dokumentenverwaltung.md",
+    "source_words": 515,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "KM2 001",
+    "path": "hilfe/zusatzprogramme/km2-001.md",
+    "source_words": 26,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "KM2 002",
+    "path": "hilfe/zusatzprogramme/km2-002.md",
+    "source_words": 6,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "KM2 003",
+    "path": "hilfe/zusatzprogramme/km2-003.md",
+    "source_words": 5,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "KM2 - Parameter - Administration",
+    "path": "hilfe/zusatzprogramme/km2-parameter-administration.md",
+    "source_words": 248,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Benutzerverwaltung",
+    "path": "administration/benutzer-einstellungen/benutzerverwaltung.md",
+    "source_words": 166,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "KM2 - Parameter - Allgemein",
+    "path": "hilfe/zusatzprogramme/km2-parameter-allgemein.md",
+    "source_words": 948,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Modulbenutzung",
+    "path": "hilfe/zusatzprogramme/modulbenutzung.md",
+    "source_words": 591,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "KM2-Programmupdate",
+    "path": "hilfe/zusatzprogramme/km2-programmupdate.md",
+    "source_words": 160,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Schüler-Datensätze löschen",
+    "path": "schild2/gruppenprozesse/schueler-datensaetze-loeschen.md",
+    "source_words": 80,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Grundschuldaten löschen",
+    "path": "schild2/gruppenprozesse/grundschuldaten-loeschen.md",
+    "source_words": 46,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Dokumentenverzeichnisse aktualisieren",
+    "path": "administration/benutzer-einstellungen/dokumentenverzeichnisse-aktualisieren.md",
+    "source_words": 61,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Dokumentenverwaltung aufräumen",
+    "path": "administration/benutzer-einstellungen/dokumentenverwaltung-aufraeumen.md",
+    "source_words": 63,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Übersicht S I",
+    "path": "zeugnisse/sekundarstufen/uebersicht-s-i.md",
+    "source_words": 97,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Übersicht Primarstufe",
+    "path": "zeugnisse/grundschule/uebersicht-primarstufe.md",
+    "source_words": 82,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "ZP10/ZK10",
+    "path": "zeugnisse/sekundarstufen/zp10-zk10.md",
+    "source_words": 235,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Eintragung Herkunft am BK/WBK",
+    "path": "zeugnisse/berufskolleg/eintragung-herkunft-am-bk-wbk.md",
+    "source_words": 92,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Grundschuldaten eingeben",
+    "path": "schild2/schueler/grundschuldaten-eingeben.md",
+    "source_words": 50,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Standard-Formulare drucken",
+    "path": "reporting/verwaltung/standard-formulare-drucken.md",
+    "source_words": 86,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Hochschreibungsalgorithmus",
+    "path": "schild2/versetzung/hochschreibungsalgorithmus.md",
+    "source_words": 719,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Report aus Archiv drucken",
+    "path": "reporting/verwaltung/report-aus-archiv-drucken.md",
+    "source_words": 82,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Word-Seriendruck",
+    "path": "reporting/verwaltung/word-seriendruck.md",
+    "source_words": 255,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Abiturdurchlauf",
+    "path": "zeugnisse/sekundarstufen/abiturdurchlauf.md",
+    "source_words": 749,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Textzeugnisse zuordnen",
+    "path": "zeugnisse/grundschule/textzeugnisse-zuordnen.md",
+    "source_words": 139,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Textzeugnisse erzeugen",
+    "path": "zeugnisse/grundschule/textzeugnisse-erzeugen.md",
+    "source_words": 0,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Textzeugnisse drucken",
+    "path": "zeugnisse/grundschule/textzeugnisse-drucken.md",
+    "source_words": 101,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Neuaufnahmen in Schild-NRW 001",
+    "path": "einstieg/erste-schritte/neuaufnahmen-in-schild-nrw-001.md",
+    "source_words": 315,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Einführung in die Gruppenprozesse 001",
+    "path": "einstieg/erste-schritte/einfuehrung-in-die-gruppenprozesse-001.md",
+    "source_words": 620,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Zeugnisvorbereitungen und Druck",
+    "path": "zeugnisse/vorbereitung/zeugnisvorbereitungen-und-druck.md",
+    "source_words": 788,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Leistungsdaten Kursunterricht",
+    "path": "schild2/unterricht-kataloge/leistungsdaten-kursunterricht.md",
+    "source_words": 563,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Erstellen einfacher Reports",
+    "path": "reporting/erstellung/erstellen-einfacher-reports.md",
+    "source_words": 1975,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "AlleFaecherLaden",
+    "path": "reporting/rap/allefaecherladen.md",
+    "source_words": 32,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "GeRNiveauAusFachKrz",
+    "path": "reporting/rap/gerniveauausfachkrz.md",
+    "source_words": 29,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Fördermaßnahmen",
+    "path": "schild2/schueler/foerdermassnahmen.md",
+    "source_words": 327,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Excel-Notendateien",
+    "path": "zeugnisse/vorbereitung/excel-notendateien.md",
+    "source_words": 272,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Eingabe der GeR-Niveaus",
+    "path": "schild2/unterricht-kataloge/eingabe-der-ger-niveaus.md",
+    "source_words": 244,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Nicht mögliche Fachkombinationen",
+    "path": "schild2/unterricht-kataloge/nicht-moegliche-fachkombinationen.md",
+    "source_words": 44,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Ausgewählte Beispiele aus der BASIC-Sammlung",
+    "path": "reporting/erstellung/ausgewaehlte-beispiele-aus-der-basic-sammlung.md",
+    "source_words": 1190,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Leistungsdaten Klassenunterricht",
+    "path": "schild2/unterricht-kataloge/leistungsdaten-klassenunterricht.md",
+    "source_words": 542,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Sprachenfolge bei Seiteneinsteigern des Gymnasiums in Zeugnis korrekt ausgeben",
+    "path": "zeugnisse/sekundarstufen/sprachenfolge-bei-seiteneinsteigern-des-gymnasiums-in-zeugnis-korrekt-ausgeben.md",
+    "source_words": 88,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Mündliche Prüfungen A1-A3 festlegen",
+    "path": "zeugnisse/sekundarstufen/muendliche-pruefungen-a1-a3-festlegen.md",
+    "source_words": 135,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Zusatzdaten (Latimun...) eingeben",
+    "path": "zeugnisse/sekundarstufen/zusatzdaten-latimun-eingeben.md",
+    "source_words": 86,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Teilleistungen",
+    "path": "schild2/gruppenprozesse/teilleistungen.md",
+    "source_words": 279,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Lupo:LuPO",
+    "path": "hilfe/zusatzprogramme/lupo-lupo.md",
+    "source_words": 2,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "LuPO Einleitung",
+    "path": "hilfe/zusatzprogramme/lupo-einleitung.md",
+    "source_words": 4,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Benutzung von Filter I 001",
+    "path": "schild2/auswahl/benutzung-von-filter-i-001.md",
+    "source_words": 524,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Datenexport nach Excel oder OpenOffice-Calc",
+    "path": "schild2/import-export-statistik/datenexport-nach-excel-oder-openoffice-calc.md",
+    "source_words": 413,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Sortierung ändern",
+    "path": "schild2/auswahl/sortierung-aendern.md",
+    "source_words": 151,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Import der Zeugnisformulare in Schild-NRW",
+    "path": "zeugnisse/vorbereitung/import-der-zeugnisformulare-in-schild-nrw.md",
+    "source_words": 153,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Fachbezogene Bemerkungen",
+    "path": "zeugnisse/vorbereitung/fachbezogene-bemerkungen.md",
+    "source_words": 160,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Datenbank kopieren",
+    "path": "administration/datenbanken/datenbank-kopieren.md",
+    "source_words": 115,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Transaktionsprotokoll verwenden",
+    "path": "administration/datenbanken/transaktionsprotokoll-verwenden.md",
+    "source_words": 112,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Benutzung des externen Notenmoduls",
+    "path": "zeugnisse/vorbereitung/benutzung-des-externen-notenmoduls.md",
+    "source_words": 525,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Eintragung der Schüler im offenen Ganztag",
+    "path": "schild2/schueler/eintragung-der-schueler-im-offenen-ganztag.md",
+    "source_words": 240,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Eigene Datenquellen für Schild-Reports",
+    "path": "reporting/erstellung/eigene-datenquellen-fuer-schild-reports.md",
+    "source_words": 399,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "DQ01-Demo.spd",
+    "path": "reporting/erstellung/dq01-demo-spd.md",
+    "source_words": 753,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Eingabe von Flüchtlingskindern",
+    "path": "schild2/schueler/eingabe-von-fluechtlingskindern.md",
+    "source_words": 422,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Erzieher mit Funktionen",
+    "path": "schild2/unterricht-kataloge/erzieher-mit-funktionen.md",
+    "source_words": 129,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "FilterFachUebersichtAufKlasse",
+    "path": "reporting/rap/filterfachuebersichtaufklasse.md",
+    "source_words": 123,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Textbreite",
+    "path": "reporting/rap/textbreite.md",
+    "source_words": 65,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Papierkorb zeigen",
+    "path": "schild2/auswahl/papierkorb-zeigen.md",
+    "source_words": 100,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "SEM:Schnelleingabemodul",
+    "path": "hilfe/zusatzprogramme/sem-schnelleingabemodul.md",
+    "source_words": 605,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "SchildChat.exe",
+    "path": "hilfe/zusatzprogramme/schildchat-exe.md",
+    "source_words": 249,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Migrationshintergrund automatisch setzen",
+    "path": "schild2/gruppenprozesse/migrationshintergrund-automatisch-setzen.md",
+    "source_words": 18,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "JaNa-Export (Jahrgang und Nationalität)",
+    "path": "schild2/import-export-statistik/jana-export-jahrgang-und-nationalitaet.md",
+    "source_words": 23,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "SchILDweb",
+    "path": "hilfe/zusatzprogramme/schildweb.md",
+    "source_words": 39,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Individuelle Schülergruppen bearbeiten und nutzen",
+    "path": "schild2/auswahl/individuelle-schuelergruppen-bearbeiten-und-nutzen.md",
+    "source_words": 186,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Kursverwaltung KPlan.exe",
+    "path": "hilfe/zusatzprogramme/kursverwaltung-kplan-exe.md",
+    "source_words": 0,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Kursplanung KPlan.exe",
+    "path": "hilfe/zusatzprogramme/kursplanung-kplan-exe.md",
+    "source_words": 168,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Access-Datenbanken und Windows-Server 2012",
+    "path": "administration/installation/access-datenbanken-und-windows-server-2012.md",
+    "source_words": 134,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "UDL-Dateien unter 64-BIT",
+    "path": "administration/installation/udl-dateien-unter-64-bit.md",
+    "source_words": 167,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "S1PLAN:Übersicht",
+    "path": "hilfe/zusatzprogramme/s1plan-uebersicht.md",
+    "source_words": 224,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "News:Kurs42 unter Schild-Zentral",
+    "path": "hilfe/zusatzprogramme/news-kurs42-unter-schild-zentral.md",
+    "source_words": 848,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "S1PLAN:Installation",
+    "path": "hilfe/zusatzprogramme/s1plan-installation.md",
+    "source_words": 167,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "S1PLAN:Erster Programmstart",
+    "path": "hilfe/zusatzprogramme/s1plan-erster-programmstart.md",
+    "source_words": 285,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "S1PLAN:Einrichtung von Kursen",
+    "path": "hilfe/zusatzprogramme/s1plan-einrichtung-von-kursen.md",
+    "source_words": 944,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "S1PLAN:Übernahme von Kursen aus Schild",
+    "path": "hilfe/zusatzprogramme/s1plan-uebernahme-von-kursen-aus-schild.md",
+    "source_words": 358,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Umgang mit Bildungsgangswechlsern am BK",
+    "path": "schild2/versetzung/umgang-mit-bildungsgangswechlsern-am-bk.md",
+    "source_words": 347,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Datenbank reparieren und komprimieren",
+    "path": "administration/datenbanken/datenbank-reparieren-und-komprimieren.md",
+    "source_words": 77,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "S1PLAN:Anhang",
+    "path": "hilfe/zusatzprogramme/s1plan-anhang.md",
+    "source_words": 37,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "BK-Abschluss:Anlage-D",
+    "path": "zeugnisse/berufskolleg/bk-abschluss-anlage-d.md",
+    "source_words": 72,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Anlage D01",
+    "path": "zeugnisse/berufskolleg/anlage-d01.md",
+    "source_words": 349,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Umstellung der Gymnasien von G8 auf G9",
+    "path": "schild2/versetzung/umstellung-der-gymnasien-von-g8-auf-g9.md",
+    "source_words": 429,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "AufFaecherFiltern",
+    "path": "reporting/rap/auffaecherfiltern.md",
+    "source_words": 64,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Datenliste",
+    "path": "reporting/rap/datenliste.md",
+    "source_words": 56,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Teilleistungen einrichten und verwalten",
+    "path": "schild2/unterricht-kataloge/teilleistungen-einrichten-und-verwalten.md",
+    "source_words": 324,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Teilleistungen Einrichten und Verwalten",
+    "path": "schild2/unterricht-kataloge/teilleistungen-einrichten-und-verwalten-1152.md",
+    "source_words": 6,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Externe Blockungs-Tools",
+    "path": "hilfe/zusatzprogramme/externe-blockungs-tools.md",
+    "source_words": 447,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "K422CNF:Übersicht",
+    "path": "hilfe/zusatzprogramme/k422cnf-uebersicht.md",
+    "source_words": 97,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Kurs42 To CNF:Hauptseite",
+    "path": "hilfe/zusatzprogramme/kurs42-to-cnf-hauptseite.md",
+    "source_words": 2808,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Klausurplanung CNF:Hauptseite",
+    "path": "hilfe/zusatzprogramme/klausurplanung-cnf-hauptseite.md",
+    "source_words": 615,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Multi Klausurplanung CNF:Hauptseite",
+    "path": "hilfe/zusatzprogramme/multi-klausurplanung-cnf-hauptseite.md",
+    "source_words": 3384,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Inhaltsverzeichnis",
+    "path": "einstieg/grundlagen/inhaltsverzeichnis.md",
+    "source_words": 240,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Einrichtung des ENM-Moduls unter Ubuntu 18.04",
+    "path": "administration/installation/einrichtung-des-enm-moduls-unter-ubuntu-18-04.md",
+    "source_words": 83,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Grundschulzeugnisse Textzeugnis",
+    "path": "zeugnisse/grundschule/grundschulzeugnisse-textzeugnis.md",
+    "source_words": 177,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Grundschulzeugnisse Ankreuzzeugnis",
+    "path": "zeugnisse/grundschule/grundschulzeugnisse-ankreuzzeugnis.md",
+    "source_words": 4,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Grundschulzeugnisse Lernstandsberichte",
+    "path": "zeugnisse/grundschule/grundschulzeugnisse-lernstandsberichte.md",
+    "source_words": 4,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Versetzung ins neue Schuljahr / Abschnittswechsel durchführen",
+    "path": "schild2/versetzung/versetzung-ins-neue-schuljahr-abschnittswechsel-durchfuehren.md",
+    "source_words": 457,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Youtube",
+    "path": "hilfe/wiki-archiv/youtube.md",
+    "source_words": 0,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Mailversand aus der Reporting",
+    "path": "reporting/verwaltung/mailversand-aus-der-reporting.md",
+    "source_words": 226,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "BK-Abschluss:Anlage-A",
+    "path": "zeugnisse/berufskolleg/bk-abschluss-anlage-a.md",
+    "source_words": 65,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "BK-Abschluss:Anlage-B",
+    "path": "zeugnisse/berufskolleg/bk-abschluss-anlage-b.md",
+    "source_words": 76,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "BK-Abschluss:Anlage-C",
+    "path": "zeugnisse/berufskolleg/bk-abschluss-anlage-c.md",
+    "source_words": 68,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "D01 Berufsabschluss/Allg. Hochschulreife (mit Berufspraktikum) (BAB/AHR 4j; VZ)",
+    "path": "zeugnisse/berufskolleg/d01-berufsabschluss-allg-hochschulreife-mit-berufspraktikum-bab-ahr-4j-vz.md",
+    "source_words": 347,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "BK-Abschluss:Anlage-E",
+    "path": "zeugnisse/berufskolleg/bk-abschluss-anlage-e.md",
+    "source_words": 54,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "A01 Fachklassen (BS; TZ)",
+    "path": "zeugnisse/berufskolleg/a01-fachklassen-bs-tz.md",
+    "source_words": 0,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "A03 Fachklassen/erweiterte Zusatzqualifikation (BS/ZQ; TZ)",
+    "path": "zeugnisse/berufskolleg/a03-fachklassen-erweiterte-zusatzqualifikation-bs-zq-tz.md",
+    "source_words": 0,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "A13 Ausbildungsvorbereitung (BS 1j; TZ)",
+    "path": "zeugnisse/berufskolleg/a13-ausbildungsvorbereitung-bs-1j-tz.md",
+    "source_words": 0,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "A12 Ausbildungsvorbereitung (BS 1j; VZ)",
+    "path": "zeugnisse/berufskolleg/a12-ausbildungsvorbereitung-bs-1j-vz.md",
+    "source_words": 0,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "B06 Berufliche Kenntnisse/Hauptschulabschluss Kl. 10 (BK/HSA10; 1j. VZ)",
+    "path": "zeugnisse/berufskolleg/b06-berufliche-kenntnisse-hauptschulabschluss-kl-10-bk-hsa10-1j-vz.md",
+    "source_words": 0,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "B07 Berufliche Kenntnisse/mittlerer Schulabschluss (BK/FOR; 1j. VZ)",
+    "path": "zeugnisse/berufskolleg/b07-berufliche-kenntnisse-mittlerer-schulabschluss-bk-for-1j-vz.md",
+    "source_words": 0,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "C01 Berufsabschluss/Fachhochschulreife (ohne Berufspraktikum) BAB/FHR 3j; VZ",
+    "path": "zeugnisse/berufskolleg/c01-berufsabschluss-fachhochschulreife-ohne-berufspraktikum-bab-fhr-3j-vz.md",
+    "source_words": 0,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "C02 Berufsabschluss f. Hochschulzugangsberechtigte (BAB 2j; VZ) BFS",
+    "path": "zeugnisse/berufskolleg/c02-berufsabschluss-f-hochschulzugangsberechtigte-bab-2j-vz-bfs.md",
+    "source_words": 0,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "C05 Fachoberschule Kl. 11 (BK/FHR 1j; TZ)",
+    "path": "zeugnisse/berufskolleg/c05-fachoberschule-kl-11-bk-fhr-1j-tz.md",
+    "source_words": 0,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "C06 Fachoberschule Kl. 12S (BK/FHR 1j; VZ)",
+    "path": "zeugnisse/berufskolleg/c06-fachoberschule-kl-12s-bk-fhr-1j-vz.md",
+    "source_words": 0,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "C08 Fachoberschule Kl. 12B (BK/FHR 1j; VZ)",
+    "path": "zeugnisse/berufskolleg/c08-fachoberschule-kl-12b-bk-fhr-1j-vz.md",
+    "source_words": 0,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "E02 Fachschule Teilzeit (BW 4j; TZ)",
+    "path": "zeugnisse/berufskolleg/e02-fachschule-teilzeit-bw-4j-tz.md",
+    "source_words": 0,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Prognos",
+    "path": "hilfe/zusatzprogramme/prognos.md",
+    "source_words": 16,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Prognos:Einleitung",
+    "path": "hilfe/zusatzprogramme/prognos-einleitung.md",
+    "source_words": 69,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Prognos:Installation",
+    "path": "hilfe/zusatzprogramme/prognos-installation.md",
+    "source_words": 289,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Statistik mit ASDPC",
+    "path": "schild2/import-export-statistik/statistik-mit-asdpc.md",
+    "source_words": 1176,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Prognos:Programmstart",
+    "path": "hilfe/zusatzprogramme/prognos-programmstart.md",
+    "source_words": 155,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Prognos:Hauptfenster",
+    "path": "hilfe/zusatzprogramme/prognos-hauptfenster.md",
+    "source_words": 636,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Prognos:Analyseverfahren: Einzelfall",
+    "path": "hilfe/zusatzprogramme/prognos-analyseverfahren-einzelfall.md",
+    "source_words": 27,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Prognos:Analyseverfahren: Klasse",
+    "path": "hilfe/zusatzprogramme/prognos-analyseverfahren-klasse.md",
+    "source_words": 29,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Einwilligungen",
+    "path": "schild2/schueler/einwilligungen.md",
+    "source_words": 261,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Prognos:Analyseverfahren: Datei",
+    "path": "hilfe/zusatzprogramme/prognos-analyseverfahren-datei.md",
+    "source_words": 55,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Lernplattformen",
+    "path": "schild2/unterricht-kataloge/lernplattformen.md",
+    "source_words": 451,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Statistik mit ASDPC-Schluesselmanagement",
+    "path": "schild2/import-export-statistik/statistik-mit-asdpc-schluesselmanagement.md",
+    "source_words": 527,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Statistik mit ASDPC-Technik",
+    "path": "schild2/import-export-statistik/statistik-mit-asdpc-technik.md",
+    "source_words": 933,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Statistik mit ASDPC-Aufbau",
+    "path": "schild2/import-export-statistik/statistik-mit-asdpc-aufbau.md",
+    "source_words": 502,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Statistik mit ASDPC Fehlersuche",
+    "path": "schild2/import-export-statistik/statistik-mit-asdpc-fehlersuche.md",
+    "source_words": 271,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Statistik mit ASDPC Vorbereitung",
+    "path": "schild2/import-export-statistik/statistik-mit-asdpc-vorbereitung.md",
+    "source_words": 531,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Statistik mit ASDPC Haupterhebung",
+    "path": "schild2/import-export-statistik/statistik-mit-asdpc-haupterhebung.md",
+    "source_words": 4074,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Statistik mit ASDPC Übersicht",
+    "path": "schild2/import-export-statistik/statistik-mit-asdpc-uebersicht.md",
+    "source_words": 194,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Statistik mit ASDPC Uebersicht",
+    "path": "schild2/import-export-statistik/statistik-mit-asdpc-uebersicht-1346.md",
+    "source_words": 6,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Versionsgeschichte Schild-NRW",
+    "path": "hilfe/wiki-archiv/versionsgeschichte-schild-nrw.md",
+    "source_words": 14205,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Fehler beim Export der Statistikdateien - Klasse nicht registriert",
+    "path": "hilfe/probleme/fehler-beim-export-der-statistikdateien-klasse-nicht-registriert.md",
+    "source_words": 414,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Schild-NRW Installation",
+    "path": "administration/installation/schild-nrw-installation.md",
+    "source_words": 3643,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Schild-NRW-Daten in eine andere Datenbank übertragen (migrieren)",
+    "path": "administration/datenbanken/schild-nrw-daten-in-eine-andere-datenbank-uebertragen-migrieren.md",
+    "source_words": 279,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Kurs42:Installationshinweise",
+    "path": "hilfe/zusatzprogramme/kurs42-installationshinweise.md",
+    "source_words": 224,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Kurs42:Versionsgeschichte",
+    "path": "hilfe/zusatzprogramme/kurs42-versionsgeschichte.md",
+    "source_words": 9594,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Testseite",
+    "path": "hilfe/wiki-archiv/testseite.md",
+    "source_words": 75,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "DatensatzZeigerBewegen",
+    "path": "reporting/rap/datensatzzeigerbewegen.md",
+    "source_words": 37,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Versetzungstabelle bei jahrgangsübergreifenden Klassen",
+    "path": "schild2/versetzung/versetzungstabelle-bei-jahrgangsuebergreifenden-klassen.md",
+    "source_words": 158,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Export für BAN-Portal",
+    "path": "schild2/import-export-statistik/export-fuer-ban-portal.md",
+    "source_words": 725,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Angaben für Ankreuzzeugnisse/-kompetenzen",
+    "path": "zeugnisse/vorbereitung/angaben-fuer-ankreuzzeugnisse-kompetenzen.md",
+    "source_words": 160,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Serienbrief Nichtversetzte",
+    "path": "zeugnisse/sekundarstufen/serienbrief-nichtversetzte.md",
+    "source_words": 498,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Bescheinigungen des Bilingualen Bildungsgangs",
+    "path": "zeugnisse/sekundarstufen/bescheinigungen-des-bilingualen-bildungsgangs.md",
+    "source_words": 124,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Sprachprüfung (Feststellungsprüfung) anstelle von Pflichtfremdsprachen oder Wahlpflichtfremdsprachen BASS 13-61 Nr. 1",
+    "path": "schild2/schueler/sprachpruefung-feststellungspruefung-anstelle-von-pflichtfremdsprachen-oder-wahlpflichtfremdsprachen-bass-13-61-nr-1.md",
+    "source_words": 987,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Herkunftssprachlicher Unterricht BASS 13-61 Nr. 2",
+    "path": "schild2/schueler/herkunftssprachlicher-unterricht-bass-13-61-nr-2.md",
+    "source_words": 683,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Erklärung zur Barrierefreiheit",
+    "path": "hilfe/wiki-archiv/erklaerung-zur-barrierefreiheit.md",
+    "source_words": 526,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Deutschförderung nach BASS 13-63 Nr. 3 (Stand 29.08.2024)",
+    "path": "schild2/schueler/deutschfoerderung-nach-bass-13-63-nr-3-stand-29-08-2024.md",
+    "source_words": 532,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Schüler im offenen Ganztag und in der Übermittagsbetreuung",
+    "path": "schild2/schueler/schueler-im-offenen-ganztag-und-in-der-uebermittagsbetreuung.md",
+    "source_words": 281,
+    "missing_words": 0,
+    "missing": {}
+  }
+]
