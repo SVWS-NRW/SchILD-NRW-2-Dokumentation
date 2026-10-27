@@ -107,4 +107,4 @@ Hockey \|   \| 2006 \| 2 \| 08 \| SP \| AGGT \| 2 \|   \|  
 
 ---
 
-Quelle: [Unterrichtsdaten (als Excel Dateien) importieren – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Unterrichtsdaten+%28als+Excel+Dateien%29+importieren&oldid=1170) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Unterrichtsdaten+%28als+Excel+Dateien%29+importieren&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-267) · [Unterrichtsdaten (als Excel Dateien) importieren – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Unterrichtsdaten+%28als+Excel+Dateien%29+importieren&oldid=1170)

@@ -1,0 +1,29 @@
+{
+  "pageid": 149,
+  "ns": 0,
+  "title": "Individuelle Schülergruppe bearbeiten",
+  "revisions": [
+    {
+      "revid": 966,
+      "parentid": 506,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-01-27T11:46:40Z",
+      "sha1": "a6b63fa7b99f7803ddf84112b80604cd8483ba89",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Manchmal sucht man eine Filtermöglichkeit, die nicht den bekannten Kriterien wie Klasse, Jahrgang, Kurs, evangelisch, katholisch entspricht. Hier hat man die Möglichkeit, eine Schülergruppe einzurichten, der man Schülerinnen und Schüler aus unterschiedlichen Klassen zuweisen kann.\n\n[[File:IndSchuelergruppe.jpg|rechts|400px]]\n\n\nDazu legt man mit dem '+'-Schalter eine neue Schülergruppe an, der man unter Bezeichnung einen eindeutigen aussagekräftigen Namen geben sollte.\n\n'''Hinweis:''' \n\nWenn das Häkchen bei 'nur für eigenen Gebrauch' gesetzt ist, kann kein anderer Schild-Nutzer diese Schülergruppe sehen bzw. nutzen.\n\nNach dem Speichern verlässt man diesen Menüpunkt und markiert im Schüler-Container die Schülerinnen und Schüler, die dieser Gruppe zugewiesen werden sollen.\nMit einem Rechtsklick wählt man den Eintrag 'Zu individueller Gruppe hinzufügen' und fügt die markierten Schüler der entsprechenden Schülergruppe zu.\nMit dem Schalter \"Schüler aus Gruppe entfernen\" kann man nach Auswahl der entsprechenden Schülergruppe und Anklicken des Schülernamens den gewünschten Schüler aus der Gruppe wieder herausnehmen.\n\n\n\n----\n\n[[Auswahl|Zurück zu Auswahl]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-01-27T11:46:40Z",
+  "lastrevid": 966,
+  "length": 1190
+}

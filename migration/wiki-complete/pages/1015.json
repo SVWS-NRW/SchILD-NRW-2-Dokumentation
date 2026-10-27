@@ -1,0 +1,29 @@
+{
+  "pageid": 1015,
+  "ns": 0,
+  "title": "Kursverwaltung KPlan.exe",
+  "revisions": [
+    {
+      "revid": 3906,
+      "parentid": 3904,
+      "user": "UBlomeyer",
+      "timestamp": "2016-09-01T07:47:56Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": "Die Seite wurde geleert."
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2016-09-01T07:47:56Z",
+  "lastrevid": 3906,
+  "length": 0
+}

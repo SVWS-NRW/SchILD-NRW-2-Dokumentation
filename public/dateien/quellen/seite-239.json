@@ -1,0 +1,30 @@
+{
+  "pageid": 239,
+  "ns": 6,
+  "title": "Datei:GS VersTabelle jgb.jpg",
+  "revisions": [
+    {
+      "revid": 998,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-01-27T15:21:19Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2016-08-25T06:01:43Z",
+  "lastrevid": 998,
+  "length": 0,
+  "new": ""
+}

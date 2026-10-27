@@ -1,0 +1,30 @@
+{
+  "pageid": 554,
+  "ns": 6,
+  "title": "Datei:Km2 installation 06.png",
+  "revisions": [
+    {
+      "revid": 2210,
+      "parentid": 0,
+      "user": "UBlomeyer",
+      "timestamp": "2014-05-21T17:56:58Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-05-21T17:56:59Z",
+  "lastrevid": 2210,
+  "length": 0,
+  "new": ""
+}

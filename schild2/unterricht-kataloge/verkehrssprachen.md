@@ -21,4 +21,4 @@ Wählen Sie die an Ihrer Schule benötigten Sprachen ein und sortieren diese ggf
 
 ---
 
-Quelle: [Verkehrssprachen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Verkehrssprachen&oldid=3777) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Verkehrssprachen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-167) · [Verkehrssprachen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Verkehrssprachen&oldid=3777)

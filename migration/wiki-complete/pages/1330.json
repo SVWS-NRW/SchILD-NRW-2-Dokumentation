@@ -1,0 +1,30 @@
+{
+  "pageid": 1330,
+  "ns": 6,
+  "title": "Datei:ASDPC Download.png",
+  "revisions": [
+    {
+      "revid": 5195,
+      "parentid": 0,
+      "user": "FFrodermann",
+      "timestamp": "2022-01-03T13:11:10Z",
+      "sha1": "53ad705f00818d2942f840ee6e92bd5199da61be",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "== Beschreibung ==\nASDPC Download Screenshot"
+        }
+      },
+      "comment": "ASDPC Download Screenshot"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-01-04T09:00:12Z",
+  "lastrevid": 5195,
+  "length": 44,
+  "new": ""
+}

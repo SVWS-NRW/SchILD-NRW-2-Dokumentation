@@ -1,0 +1,29 @@
+{
+  "pageid": 541,
+  "ns": 0,
+  "title": "KM2 003",
+  "revisions": [
+    {
+      "revid": 2189,
+      "parentid": 2188,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-05-21T16:21:32Z",
+      "sha1": "38ecfce8abfeafac0ab7d3245062c0fa8cb2d1fc",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "== Bedienung des Programms ==\n\n\n\n\n\n\n\n----\n\n[[KM2_004|Weiter zu Kompetenzmodus]]\n\n[[KM2_002|Zurück zum Einrichtung]]\n\n[[Zusatzprogramme / Tools|Zurück zu Zusatzprogramme / Tools]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-05-21T16:21:32Z",
+  "lastrevid": 2189,
+  "length": 180
+}

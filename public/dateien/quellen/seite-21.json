@@ -1,0 +1,30 @@
+{
+  "pageid": 21,
+  "ns": 0,
+  "title": "FileExists",
+  "revisions": [
+    {
+      "revid": 41,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T14:36:07Z",
+      "sha1": "3ce2e960a876d8399e54485250cb7bdb11f685b7",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    function FileExists(const aFilename: String): Boolean;\n    prüft, ob eine Datei existiert\n|-\n|'''Parameter''' || \n    aFilename          - Dateiname incl. Pfad\n|-\n|'''Rückgabewert''' ||\n    True, falls die Datei existiert, sonst False\n|- \n|'''Beispiel''' || \n    If FileExists('C:\\Schild-NRW\\Schild-Reports\\Zeugnisse\\Zeugnis_11.rtm') then...;\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      function FileExists(const aFilename: String): Boolean;     prüft, ob ein…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T14:36:07Z",
+  "lastrevid": 41,
+  "length": 472,
+  "new": ""
+}

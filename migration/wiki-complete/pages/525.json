@@ -1,0 +1,29 @@
+{
+  "pageid": 525,
+  "ns": 0,
+  "title": "Benutzerverwaltung PlugIn-DLL",
+  "revisions": [
+    {
+      "revid": 2158,
+      "parentid": 2157,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-05-14T12:30:46Z",
+      "sha1": "589ea20a05d85a2bc298dcb03e43ec2ce9648481",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Wenn in Schild-NRW bei \"Extras/Programm-Einstellungen/Plugins\" ein Häkchen vor „Benutzerverwaltung“ gesetzt ist, wird ganz rechts im SchILD-Menü ein neuer Menüpunkt \"Benutzer\" (mit \"Angemeldete Benutzer\" und \"Benutzerverwaltung\") angezeigt. So kann man einfach aus Schild heraus die Benutzerverwaltung aufrufen, ohne den Umweg über UserAdmn.exe zu nehmen.\n\nBeim Aufruf der Benutzerverwaltung wird das Passwort des aktuellen Users nochmals abgefragt.\n\n----\n\n[[Zusatzprogramme / Tools|Zurück zu Zusatzprogramme / Tools]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-05-14T12:30:46Z",
+  "lastrevid": 2158,
+  "length": 527
+}

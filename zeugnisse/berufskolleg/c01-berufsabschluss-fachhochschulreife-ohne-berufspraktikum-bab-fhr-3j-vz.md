@@ -11,4 +11,4 @@ wiki_revision: 4762
 
 ---
 
-Quelle: [C01 Berufsabschluss/Fachhochschulreife (ohne Berufspraktikum) BAB/FHR 3j; VZ – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=C01+Berufsabschluss%2FFachhochschulreife+%28ohne+Berufspraktikum%29+BAB%2FFHR+3j%3B+VZ&oldid=4762) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=C01+Berufsabschluss%2FFachhochschulreife+%28ohne+Berufspraktikum%29+BAB%2FFHR+3j%3B+VZ&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1211) · [C01 Berufsabschluss/Fachhochschulreife (ohne Berufspraktikum) BAB/FHR 3j; VZ – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=C01+Berufsabschluss%2FFachhochschulreife+%28ohne+Berufspraktikum%29+BAB%2FFHR+3j%3B+VZ&oldid=4762)

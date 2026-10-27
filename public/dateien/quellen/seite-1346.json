@@ -1,0 +1,31 @@
+{
+  "pageid": 1346,
+  "ns": 0,
+  "title": "Statistik mit ASDPC Uebersicht",
+  "revisions": [
+    {
+      "revid": 5343,
+      "parentid": 0,
+      "user": "FFrodermann",
+      "timestamp": "2022-02-07T12:28:28Z",
+      "sha1": "d8c7e952ff613d77773d02634d41f17a02aeaf0a",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "#WEITERLEITUNG [[Statistik mit ASDPC Übersicht]]"
+        }
+      },
+      "comment": "FFrodermann verschob die Seite [[Statistik mit ASDPC Uebersicht]] nach [[Statistik mit ASDPC Übersicht]]: Umlaut"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-02-07T18:03:13Z",
+  "lastrevid": 5343,
+  "length": 49,
+  "redirect": "",
+  "new": ""
+}

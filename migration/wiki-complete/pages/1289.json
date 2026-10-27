@@ -1,0 +1,30 @@
+{
+  "pageid": 1289,
+  "ns": 6,
+  "title": "Datei:PM2 Auswahl K01.png",
+  "revisions": [
+    {
+      "revid": 5068,
+      "parentid": 0,
+      "user": "SpehJ",
+      "timestamp": "2021-11-20T12:06:38Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2021-11-20T12:13:11Z",
+  "lastrevid": 5068,
+  "length": 0,
+  "new": ""
+}

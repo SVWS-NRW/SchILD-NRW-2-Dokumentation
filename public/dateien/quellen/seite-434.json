@@ -1,0 +1,29 @@
+{
+  "pageid": 434,
+  "ns": 0,
+  "title": "Druckausgabe",
+  "revisions": [
+    {
+      "revid": 2415,
+      "parentid": 1803,
+      "user": "BPanzlaff",
+      "timestamp": "2014-08-08T15:33:36Z",
+      "sha1": "5de1bf809b8019599a925113e16b794b3a90dd20",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "=== [[Reportexplorer aufrufen]] ===\n\nDer Aufruf dieses Menüpunktes \"Report-Explorer aufrufen\" kann in den Benutzereinstellungen gesteuert werden.\nLiegen die entsprechenden Berechtigungen vor, so kann damit der Reportexplorer aufgerufen werden.\n\nHier haben Sie Zugriff auf alle Reports, die im Report-Verzeichnis von Schild-NRW gespeichert sind.\n\nWeitere Informationen: [[Reportexplorer aufrufen]]\n\n\n----\n\n\n\n=== Report aus Ordner Standard drucken ===\n\nHier wird der Report-Explorer genauso aufgerufen, wie im o.g. Menüpunkt.\nEinziger Unterschied ist jedoch, dass hier für den User nur ein spezieller Ordner angezeigt wird.\n\nAlle anderen Reports, die außerhalb der Ordners \"Standard\" liegen, werden dann vor dem Benutzer verborgen. Diese Option kann dazu benutzt werden, bestimmten Nutzern auch nur Zugriff auf bestimmte Reports zu ermöglichen.\n\nAnsonsten sind die Funktionen je nach Benutzereinstellungen wie im Menüpunkt\n\n[[Reportexplorer aufrufen]].\n\n\n----\n\n=== [[Report aus Archiv drucken]] ===\n\nDer ReportBuilder ermöglicht es, aus allen Reports in ein Schild-NRW eigenes Archiv-Format zu drucken.\n\nInformationen und Hinweise zum Archivdruck finden Sie hier.\n\n[[Report aus Archiv drucken]]\n\n\n----\n\n=== [[Word-Seriendruck]] ===\n\nEs werden zwei Textverarbeitungsprogramme unterstützt. (OpenOffice und MSWord)\n\nSchild-NRW erzeugt dabei eine Steuerdatei für den Serienbriefdruck und verknüpft die entsprechenden Dokumente direkt mit dieser Steuerdatei.\n\nHinweise zum Verfahren mit Serienbriefen finden Sie hier: [[Word-Seriendruck]]\n\n\n----\n\n\n=== [[Textzeugnisse zuordnen]] ===\n\nHauptsächlich an Grundschulen wird die Funktion [[Textzeugnisse zuordnen]] genutzt.\n\nHier heißt die Funktion auch \"Grundschulzeugnisse zuordnen\".\n\nHier können Word-Serienbriefe zu bestimmten Schülergruppen (meist Klassen) zugewiesen werden.\n\nDiese Vordrucke werden dann mit entsprechenden Daten versehen, wobei Leistungsdaten hier nicht (!) enthalten sind.\n\nDie Zeugnisse können dann von den Kollegen außerhalb von Schild-NRW vervollständigt werden.\n\nLesen Sie bitte hier weiter: [[Textzeugnisse zuordnen]].\n\n\n----\n\n=== [[Textzeugnisse erzeugen]] ===\n\nIn Grundschuldatenbanken heißt diese Funktion \"Grundschulzeugnisse erzeugen\".\n\nSind im oberen Menüpunkt die Vorlagen zugeordnet worden, so können hier die Text-Dokumente erzeugt werden.\n\nDabei werden diese dann gruppenweise in einem Ordner abgelegt.\n\nBitte entnehmen Sie hier die Vorgehensweise: [[Textzeugnisse drucken]].\n\n\n----\n\n\n[[#top|Zum Seitenanfang]]\n\n[[Schild-NRW-Index|Zurück zu Schild-NRW-Index]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-08-25T09:27:11Z",
+  "lastrevid": 2415,
+  "length": 2556
+}

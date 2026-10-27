@@ -47,4 +47,4 @@ Procedure ReportBeforePrint;
 
 ---
 
-Quelle: [SetJgIntervall – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetJgIntervall&oldid=112) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetJgIntervall&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-88) · [SetJgIntervall – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetJgIntervall&oldid=112)

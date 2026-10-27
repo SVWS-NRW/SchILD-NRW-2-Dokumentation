@@ -1,0 +1,30 @@
+{
+  "pageid": 768,
+  "ns": 6,
+  "title": "Datei:Leistungsuebersicht-03.png",
+  "revisions": [
+    {
+      "revid": 2965,
+      "parentid": 0,
+      "user": "BPanzlaff",
+      "timestamp": "2015-04-10T10:17:43Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-04-10T10:17:43Z",
+  "lastrevid": 2965,
+  "length": 0,
+  "new": ""
+}

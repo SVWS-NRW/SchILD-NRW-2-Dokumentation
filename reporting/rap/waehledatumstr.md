@@ -43,4 +43,4 @@ liefert (z.B.) 'Sonntag, 26. Mai 1996'
 
 ---
 
-Quelle: [WaehleDatumStr – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=WaehleDatumStr&oldid=131) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=WaehleDatumStr&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-106) · [WaehleDatumStr – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=WaehleDatumStr&oldid=131)

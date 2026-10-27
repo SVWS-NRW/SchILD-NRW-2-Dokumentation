@@ -19,4 +19,4 @@ Hier werden lediglich Schüler gefunden, die z.B. mitten im Schuljahr hinzugezog
 
 ---
 
-Quelle: [Schüler ohne Fächer – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sch%C3%BCler+ohne+F%C3%A4cher&oldid=1053) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sch%C3%BCler+ohne+F%C3%A4cher&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-246) · [Schüler ohne Fächer – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sch%C3%BCler+ohne+F%C3%A4cher&oldid=1053)

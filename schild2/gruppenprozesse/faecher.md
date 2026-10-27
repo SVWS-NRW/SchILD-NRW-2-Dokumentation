@@ -34,4 +34,4 @@ Bitte klicken Sie die Artikel an, um Informationen zu den dahinter liegenden Sam
 
 ---
 
-Quelle: [Fächer – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%A4cher&oldid=1309) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%A4cher&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-288) · [Fächer – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%A4cher&oldid=1309)

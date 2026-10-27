@@ -1,0 +1,30 @@
+{
+  "pageid": 1209,
+  "ns": 0,
+  "title": "B07 Berufliche Kenntnisse/mittlerer Schulabschluss (BK/FOR; 1j. VZ)",
+  "revisions": [
+    {
+      "revid": 4760,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2021-04-22T11:04:39Z",
+      "sha1": "1fcf3f08b6a01d06ed5d1a65875665dc35a7a68e",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "[[Datei:BK Abschluss B07.png]]"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „[[Datei:BK Abschluss B07.png]]“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2021-04-22T11:04:39Z",
+  "lastrevid": 4760,
+  "length": 30,
+  "new": ""
+}

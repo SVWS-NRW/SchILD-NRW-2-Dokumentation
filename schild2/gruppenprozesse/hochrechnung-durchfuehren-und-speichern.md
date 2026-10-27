@@ -30,4 +30,4 @@ Dann kann man die:
 
 ---
 
-Quelle: [Hochrechnung durchführen und speichern – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Hochrechnung+durchf%C3%BChren+und+speichern&oldid=2090) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Hochrechnung+durchf%C3%BChren+und+speichern&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-511) · [Hochrechnung durchführen und speichern – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Hochrechnung+durchf%C3%BChren+und+speichern&oldid=2090)

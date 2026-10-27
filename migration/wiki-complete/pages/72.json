@@ -1,0 +1,30 @@
+{
+  "pageid": 72,
+  "ns": 0,
+  "title": "SchuljahrToStrEx",
+  "revisions": [
+    {
+      "revid": 93,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T16:51:31Z",
+      "sha1": "3c501569eadc9fb4eb6946683dd8c6190347bcb7",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    function SchuljahrToStrEx(aJahr, aAbschnitt: integer; Format: String; AbschnittVorn: Boolean): String;\n|-\n|'''Parameter''' || \n    aJahr              - Jahr, in dem das Schuljahr anfing\n    aAbschnitt         - Schuljahresabschnitt. Falls aAbschnitt = 0 ist, wird der\n                         String ohne Abschnitt erzeugt\n    Format             - Formatanweisung. Text mit Platzhaltern für numerische\n                         Variablen. An der gewünschten Position ist ein %[w]d\n                         einzufügen. Der optionale Parameter w enthält die\n                         gewünschte Breite, falls notwendig, wird linksbündig mit\n                         Nullen aufgefüllt.\n    AbschnittVorn      - Wenn AbschnittVorn wahr ist, werden die Parameter in der\n                         Reihenfolge Abschnitt, Jahr, Jahr + 1 aufgefüllt, sonst in\n                         der Reihenfolge Jahr, Jahr + 1, Abschnitt\n|-\n|'''Rückgabewert''' ||\n    Schuljahr in der durch Format vorgegebenen Form\n|- \n|'''Beispiel''' || \n    SchuljahrStr:=SchuljahrToStrEx(2005,3,'%d. Quartal %d/%2d',True);\n    Ergebnis: lSchuljahrStr = '3. Quartal 2005/06'\n    SchuljahrStr:=SchuljahrToStrEx(2005,2,'Schuljahr %d/%2d, %d. Halbjahr',False);\n    Ergebnis: lSchuljahrStr = 'Schuljahr 2005/06, 2. Halbjahr'\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      function SchuljahrToStrEx(aJahr, aAbschnitt: integer; Format: String; Abs…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T16:51:31Z",
+  "lastrevid": 93,
+  "length": 1419,
+  "new": ""
+}

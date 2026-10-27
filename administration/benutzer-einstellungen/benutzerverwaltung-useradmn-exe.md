@@ -33,4 +33,4 @@ Eine spezielle Funktion hat die **Schaltfläche "DB-Version zurücksetzen"**. Be
 
 ---
 
-Quelle: [Benutzerverwaltung Useradmn.exe – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Benutzerverwaltung+Useradmn.exe&oldid=5740) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Benutzerverwaltung+Useradmn.exe&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-524) · [Benutzerverwaltung Useradmn.exe – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Benutzerverwaltung+Useradmn.exe&oldid=5740)

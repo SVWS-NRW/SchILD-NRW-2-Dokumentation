@@ -1,0 +1,30 @@
+{
+  "pageid": 1196,
+  "ns": 0,
+  "title": "D01 Berufsabschluss/Allg. Hochschulreife (mit Berufspraktikum) (BAB/AHR 4j; VZ)",
+  "revisions": [
+    {
+      "revid": 4745,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2021-04-22T10:39:16Z",
+      "sha1": "7376c28c08c606c6b0ccc70964cfd29486c2fd47",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Die Berechnungen finden im 4. Jahrgang des Bildungsgangs nach dem Abitur statt.\nEs wird vorrausgesetzt, dass die Berechnungen auf dem Reiter Abitur gemacht wurden.\n\n== Leistungsdaten holen ==\n\nEs werden die Leistungsdaten aus 13.1 und 13.2 (3.Jahrgang BK) geholt und von Punkten zu Noten ohne Tendenzen umgerechnet.\nDabei wird zu Gunsten des Schülers gerundet. Die Noten können dann vom User manuell korrigiert werden.\n\nDie Noten der Berufsabschlussfächer werden nicht geholt. Diese Fächer sind unter den Unterrichtsfächern mit dem Merkmal \"schriftl. berufbez.\" gekennzeichnet.\n\nDas Fach der Fachpraxis aus der 11.2 (2.Jahrgang BK) muss als abgeschlossenes Fach auf dem Reiter Übersicht SII geholt worden sein. Dann erscheint auch hier die Note der Fachpraxis.\n\n\n\n== Zulassung prüfen ==\n\nEs wird geprüft, ob maximal 2 mangelhafte Noten vorliegen, wobei die zweite Fremdsprache unberücksichtigt bleibt.\nAuch einmal ungenügend führt zur \"nicht Zulassung\".\n\n\n\n\n== Anrechnung der Abiturergebnisse ==\n\nDie Noten der Abiturprüfungen werden auch auf den Reiter BKAbschluss übertragen und von Punkten in Noten umgerechnet.\nEs werden dabei die drei schriftl. Abiturprüfungen sowie eine mündliche Abiturprüfung übertragen.\nGgf. vorhandene Abweichungs-, Bestehens- und freiwillige Prüfungen werden auch übertragen.\n\n\n\n== manuelle Eintragung der Prüfungsnoten ==\n\nEingabe der zwei Vornoten in die leeren Felder in den Berufsbezogenen schriftlichen Fächern.\n\nEingabe der Prüfungsnoten der zwei zusätzlichen schriftlichen Prüfungen dieser beiden Fächer.\n\n\n\n== Berechnung der Abschlussnoten ==\n\nEs werden dann per Knopfdruck die vorläufigen Abschlussnoten gebildet.\nDie Durchschnitte werden wieder zu Gunsten des Schülers gerundet und können danach manuell verändert werden.\nDie gefundene Note aus der Fachpraxis geht in diesen Durchschnitt mit ein. (einfache Wertung)\n\n\n== praktische Prüfung ==\n\nEingabe der praktischen Prüfung in das Feld unten links.\nBei den Fachklassen der Erzieher ist dies gleichbedeutend mit dem Kolloquium.\n\n\n== Eintragung der Inhalte der fachpraktischen Prüfung ==\n\nEs stehen unten nun bis zu vier Memofelder zur Verfügung.\nDiese Felder könnnen mit den Inhalten der Fachpraktischen Prüfungen gefüllt werden und für den Druck des zusätzlichen Zeugnisformulars genutzt werden.\n\n== freiwillige mündliche Prüfungen ==\n\nDie Schüler können in seltenen Fällen freiwillige Prüfungen zur Verbesserung machen,\noder haben eine Bestehensprüfung in den \"nicht Abiturfächern\".\nDie Ergebnisse dieser Prüfungen können in die Spalte der mündlichen Prüfungen eingetragen werden.\n\nDer Button \"vorl. Abschlussnoten berechnen\" muss dann erneut betätigt werden.\nManuelle Änderungen müssen dann erneut vorgenommen werden!\n\n\n== Abschluss berechnen==\n\nDie Spalte \"vorl. Abschlussnoten\" wird auf max. ein Mangelhaft geprüft,\naußerdem muss die Praktische Prüfung mindestens ausreichend sein.\n\n\n\n\n----"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „Die Berechnungen finden im 4. Jahrgang des Bildungsgangs nach dem Abitur statt. Es wird vorrausgesetzt, dass die Berechnungen auf dem Reiter Abitur gemacht wur…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2021-04-22T10:39:16Z",
+  "lastrevid": 4745,
+  "length": 2940,
+  "new": ""
+}

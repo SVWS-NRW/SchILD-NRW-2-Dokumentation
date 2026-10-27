@@ -45,4 +45,4 @@ Ergebnis: Sehr geehrter Herr Meier, sehr geehrte Frau Dr. Müller-Lüdenscheid
 
 ---
 
-Quelle: [Anrede – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Anrede&oldid=5722) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Anrede&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-11) · [Anrede – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Anrede&oldid=5722)

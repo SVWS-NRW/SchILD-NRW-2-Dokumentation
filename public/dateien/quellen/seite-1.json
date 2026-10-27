@@ -1,0 +1,29 @@
+{
+  "pageid": 1,
+  "ns": 0,
+  "title": "Hauptseite",
+  "revisions": [
+    {
+      "revid": 6060,
+      "parentid": 6057,
+      "user": "JRaffenberg",
+      "timestamp": "2025-11-20T09:00:25Z",
+      "sha1": "30c286e25011a1ecdd5fcbce596b583660c04df4",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "__NOTOC__\n'''Sie befinden sich im Dokumentationsbereich von Schild-NRW 2'''\n\n<mark>Seit dem 31.10.25 steht der Nachfolger zur Verfügung:\n\n[https://www.svws.nrw.de/ '''Schild-NRW 3 und SVWS-Server'''] \n</mark>\n\n-> zum [https://schulverwaltungsinfos.nrw.de/svws/wiki/ Schild3-Wiki]\n\n-> zur [https://doku.svws-nrw.de/ SVWS-Server Dokumentation]\n\n\n\n= Bereiche =\n\n== [[Schild-NRW-Index|Schild-NRW-Übersicht]] ==\n\n[[File:Inhalt.png|links|Inhalt]] \n\nDieser Teil des Schild-NRW-Wiki bietet Ihnen eine Auflistung\n\nder Funktionen nach den Menüpunkten in Schild-NRW.\n\n\nDabei können Sie sich an der Struktur des Bildschirms orientieren.\n\nVerweise auf die Tutorials oder Kurzanleitungen finden Sie dann\n\nin den einzelnen Abteilungen.\n\n                        '''[[Schild-NRW-Index|Schild-NRW-Übersicht]]'''\n\n== [[Schild-NRW-Tutorials]] ==\n\n\n[[File:Tutorial.png|links|Inhalt]] Hier finden Sie zu bestimmten Themen einige Anleitungen,\n\ndie nach Tätigkeiten gruppiert sind. Ein Einsteigertutorial soll allen Usern,\n\ndie sich neu in Schild-NRW einarbeiten müssen, helfen,\n\nsich möglichst schnell zurechtzufinden.\n\n\nArbeiten, wie die Versetzung, Kurszuweisungen u.v.m. werden hier beschrieben.\n\n                        '''[[Schild-NRW-Tutorials]]'''\n\n\n----\n\n== [[Reporting]] ==\n\n\n[[File:Reporting.png|links|Inhalt]] In diesem Bereich gibt es ein Einsteigerhandbuch zur Erstellung von Reports. \n\nSowie eine Auflistung aller Funktionen, die in der Reporting verwendet werden können. \n\nEin Reportbaukasten verrät, wie bestimmte Formulare aufgebaut sein müssen. \n\nAußerdem gibt es viele Beispiele und Anregungen für die Programmierung von Formularen.\n\nNähere Informationen gibt es im folgenden Artikel:\n\n\n\n              '''[[Reporting]]'''\n\n\n----\n\n== [[Lupo:Handbuch|Lupo Handbuch]] ==\n\n\n[[File:lupo_hauptseite.png|links|Inhalt]] Das Laufbahnberatungs- und Planungstool unterstützt Beratungslehrer der Oberstufe\n\nbei der Laufbahnberatung der Schülerinnen und Schüler der Oberstufe. Das Handbuch\n\nführt anhand eines typischen Beratungs-Zyklus in die Funktionsweise des Programms\n\nein. Auf diese Weise liefert das Handbuch zum individuellen Beratungszeitpunkt\n\nschnell die benötigte Informationen.\n\n\n\n              '''[[Lupo:Handbuch|Lupo Handbuch]]'''\n\n\n\n----\n\n== [[Externe_Blockungs-Tools|Externe Blockungs-Tools]] ==\n\n\n[[File:Kurs42ToCNF_Logo.png|150px|links|Inhalt]] Hier finden Sie die Anleitungen zu folgenden externen Blockungstools: \n\nKurs42_To_CNF\n\nKlausurplanung_CNF\n\nKonferenzplanung_CNF\n\nSitzplangenerator\n\n\n\n              '''[[Externe_Blockungs-Tools|Externe Blockungs-Tools]]'''\n\n\n\n\n----\n\n== [[Prognos|Prognos]] ==\n\n\n[[File:Prognos_Logo.png|150px|links|Inhalt]] Hier finden Sie (demnächst) die Anleitung zum Prognose-Tool Prognos: \n\nPrognos PM2\n\n(Die Seiten werden in den nächsten Wochen und Monaten aufgebaut, und werden daher ständig ergänzt und erweitert. Wenn die Erstellung abgeschlossen ist, wird dieser Hinweis entfernt.\n\n\n\n              '''[[Prognos|Prognos]]'''\n\n\n\n\n----\n\n[[#top|Zum Seitenanfang]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2025-11-20T09:00:25Z",
+  "lastrevid": 6060,
+  "length": 3019
+}

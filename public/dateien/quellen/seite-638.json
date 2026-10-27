@@ -1,0 +1,30 @@
+{
+  "pageid": 638,
+  "ns": 6,
+  "title": "Datei:Zeugniszuordnung.png",
+  "revisions": [
+    {
+      "revid": 2473,
+      "parentid": 0,
+      "user": "BPanzlaff",
+      "timestamp": "2014-08-15T10:06:12Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-08-15T10:06:12Z",
+  "lastrevid": 2473,
+  "length": 0,
+  "new": ""
+}

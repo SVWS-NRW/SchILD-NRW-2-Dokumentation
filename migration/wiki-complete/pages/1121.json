@@ -1,0 +1,30 @@
+{
+  "pageid": 1121,
+  "ns": 6,
+  "title": "Datei:Gruppen 001.jpg",
+  "revisions": [
+    {
+      "revid": 4137,
+      "parentid": 0,
+      "user": "JStaratschek",
+      "timestamp": "2017-05-21T18:17:00Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2017-05-21T18:45:43Z",
+  "lastrevid": 4137,
+  "length": 0,
+  "new": ""
+}

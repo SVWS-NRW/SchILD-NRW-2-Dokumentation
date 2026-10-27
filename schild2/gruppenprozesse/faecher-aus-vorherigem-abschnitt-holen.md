@@ -19,4 +19,4 @@ Im Falle einer Kontrolle, ob ggf. schon Einträge im neuen (aktiven) Abschnitt v
 
 ---
 
-Quelle: [Fächer aus vorherigem Abschnitt holen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%A4cher+aus+vorherigem+Abschnitt+holen&oldid=3620) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%A4cher+aus+vorherigem+Abschnitt+holen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-460) · [Fächer aus vorherigem Abschnitt holen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%A4cher+aus+vorherigem+Abschnitt+holen&oldid=3620)

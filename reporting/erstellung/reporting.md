@@ -56,4 +56,4 @@ werden diese in ihrer Syntax dargestellt und (wo nötig) mit einem Beispiel erkl
 
 ---
 
-Quelle: [Reporting – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Reporting&oldid=4707) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Reporting&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-8) · [Reporting – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Reporting&oldid=4707)

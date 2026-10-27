@@ -1,0 +1,29 @@
+{
+  "pageid": 584,
+  "ns": 0,
+  "title": "Übersicht S I",
+  "revisions": [
+    {
+      "revid": 2283,
+      "parentid": 2282,
+      "user": "Mhoffmann",
+      "timestamp": "2014-05-26T10:58:46Z",
+      "sha1": "594489ead96b3c48e9478aa4ba19d49ad8974387",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Die '''Übersicht S I''' ermöglicht den Überblick über alle dokumentierten Leistungsdaten in der S I. Je nach Bedarf kann die Anzeige für die Kursarten oder die Lehrkräfte erfolgen. Wenn Sie auf das Excel-Symbol klicken, wird die Übersicht in eine Excel-Tabelle exportiert.\n\n[[Datei:Uebersicht-SI.jpg|700px]]\n\nWird die Anzeige für die Kursarten gewählt wird direkt unter den Leistungsnoten der zurückliegenden Halbjahre die Kursart (PUK, PUT, WPII etc.) angezeigt.\nWählt man die Anzeige für die Lehrkräfte wird direkt unter den Leistungsnoten die Lehrkraft angezeigt.\n\nWeitere Informationen (Klassenlehrer, Versetzungsentscheidung, Bemerkung,...) zu zurückliegenden Schulhalbjahren erhält man, wenn man in die entsprechende Halbjahresspalte klickt. Daraufhin wird unten im Fenster ein Bereich \"Allgemeine Angaben in ...\" eingeblendet.\n\n[[Datei:Uebersicht-SIa.jpg|700px]]\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Hauptfenster#Karteireiter|Zurück zu Karteireiter]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-05-26T10:58:46Z",
+  "lastrevid": 2283,
+  "length": 973
+}

@@ -1,0 +1,30 @@
+{
+  "pageid": 1262,
+  "ns": 6,
+  "title": "Datei:ASDPC HE Hauptfenster.png",
+  "revisions": [
+    {
+      "revid": 4982,
+      "parentid": 0,
+      "user": "FFrodermann",
+      "timestamp": "2021-10-20T10:50:59Z",
+      "sha1": "3a6769e47a1747ee4afa019a4193e454a826ca5c",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "== Beschreibung ==\nASDPC Hauptfenster Screenshot"
+        }
+      },
+      "comment": "ASDPC Hauptfenster Screenshot"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-01-22T09:22:16Z",
+  "lastrevid": 4982,
+  "length": 48,
+  "new": ""
+}

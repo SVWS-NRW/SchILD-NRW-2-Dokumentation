@@ -1,17 +1,5 @@
 [
   {
-    "article": "Hauptseite",
-    "target": "Lupo:Handbuch",
-    "url": "https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo:Handbuch",
-    "redlink": false
-  },
-  {
-    "article": "Hauptseite",
-    "target": "Lupo:Handbuch",
-    "url": "https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo:Handbuch",
-    "redlink": false
-  },
-  {
     "article": "Hauptfenster",
     "target": "Übersicht",
     "url": "https://wiki.svws.nrw.de/mediawiki/index.php?title=%C3%9Cbersicht&action=edit&redlink=1",
@@ -190,12 +178,6 @@
     "target": "Lupo:Benutzerverwaltung",
     "url": "https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo:Benutzerverwaltung&action=edit&redlink=1",
     "redlink": true
-  },
-  {
-    "article": "LuPO Einleitung",
-    "target": "Lupo:Einleitung",
-    "url": "https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo:Einleitung",
-    "redlink": false
   },
   {
     "article": "BK-Abschluss:Anlage-D",

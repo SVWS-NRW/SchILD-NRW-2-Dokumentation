@@ -1,0 +1,29 @@
+{
+  "pageid": 1224,
+  "ns": 0,
+  "title": "Prognos:Einleitung",
+  "revisions": [
+    {
+      "revid": 4836,
+      "parentid": 4835,
+      "user": "SpehJ",
+      "timestamp": "2021-08-31T17:00:53Z",
+      "sha1": "1dd2041adcb3ed46bd51b179644d49017f631cb5",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Prognos PM2 ist ein Zusatzprogramm, mit dessen Hilfe Gesamt- und Sekundarschulen in NRW auf Basis von Leistungsdaten (z.B. aus der Schild-DB oder speziell erfassten) den daraus resultierenden Abschluss ermitteln können. Die Berechnungen basieren auf der maßgeblichen Ausbildungs- und Prüfungsordnung (APO-SI). Die Berechnung ersetzt niemals die genaue Prüfung durch die zuständige Lehrkraft, sondern sie kann nur als Unterstützung zur Ermittlung dienen.\n\nVerfügbar ist das Programm neben dem Hauptprogramm Schild-NRW in dessen Download-Bereich."
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2021-08-31T17:00:53Z",
+  "lastrevid": 4836,
+  "length": 551
+}

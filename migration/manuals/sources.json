@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+    "file": "migration/manuals/page-0.html",
+    "title": "Tools & Module",
+    "sha256": "749f8539fa7003313af06e875b2ae4b5c869881c93cfab491ba30e721ae4f4df"
+  },
+  {
+    "url": "https://www.svws.nrw.de/schild-nrw-2/kurs42",
+    "file": "migration/manuals/page-1.html",
+    "title": "Kurs42",
+    "sha256": "635b68e6f6f5a6d42b7f98a961cfa1c2e1edaea81d2261a5968b65b4294b17e5"
+  },
+  {
+    "url": "https://www.svws.nrw.de/schild-nrw-2/lupo",
+    "file": "migration/manuals/page-2.html",
+    "title": "LuPO",
+    "sha256": "c176b441734f3ab35a7cd48c1f64682e8bbf80436ac1d6645fcb1f9b3c136f3f"
+  },
+  {
+    "url": "https://www.svws.nrw.de/statistik/asdpc",
+    "file": "migration/manuals/page-3.html",
+    "title": "ASDPC",
+    "sha256": "09435892d67d38d9f5311c463b7a1ff6ba043cc6cd9cbdc12824d7d66cb2323e"
+  }
+]

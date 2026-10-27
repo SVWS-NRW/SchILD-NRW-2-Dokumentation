@@ -17,4 +17,4 @@ An den Restabschnitten sieht man, dass jedes Schuljahr vier Abschnitte hat. Auß
 
 ---
 
-Quelle: [JG-Tabelle-GE – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=JG-Tabelle-GE&oldid=1038) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=JG-Tabelle-GE&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-237) · [JG-Tabelle-GE – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=JG-Tabelle-GE&oldid=1038)

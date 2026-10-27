@@ -66,6 +66,82 @@
     "bytes": 197900
   },
   {
+    "name": "AG-Benutzer.jpg",
+    "timestamp": "2015-03-25T15:00:12Z",
+    "size": 14751,
+    "width": 443,
+    "height": 184,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/8/83/AG-Benutzer.jpg",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:AG-Benutzer.jpg",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=763",
+    "sha1": "602b703da87d461c64802c157a8161c4807e456d",
+    "mime": "image/jpeg",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:AG-Benutzer.jpg",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/83/AG-Benutzer.jpg",
+    "path": "/bilder/wiki/ag-benutzer-0b3229fc.jpg",
+    "sha256": "1c718ee7b4dcb37bc1069b45bb3a0aa8ea08b0db349a63b1120c5e1c174d71ae",
+    "bytes": 14751
+  },
+  {
+    "name": "AG-Datei-Schildzugriff.jpg",
+    "timestamp": "2015-03-25T14:57:48Z",
+    "size": 14875,
+    "width": 233,
+    "height": 115,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/2/24/AG-Datei-Schildzugriff.jpg",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:AG-Datei-Schildzugriff.jpg",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=762",
+    "sha1": "bb0d2ef625b9ae42cb90d1f2458206e0a34b5f20",
+    "mime": "image/jpeg",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:AG-Datei-Schildzugriff.jpg",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/24/AG-Datei-Schildzugriff.jpg",
+    "path": "/bilder/wiki/ag-datei-schildzugriff-ccbe0c2d.jpg",
+    "sha256": "459820e2b2b4d180bedcdbe279507be325310855bdfb389f3dfe73bc21645091",
+    "bytes": 14875
+  },
+  {
+    "name": "AG-Fenster.jpg",
+    "timestamp": "2015-03-25T15:02:46Z",
+    "size": 211464,
+    "width": 1114,
+    "height": 712,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/a/a2/AG-Fenster.jpg",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:AG-Fenster.jpg",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=764",
+    "sha1": "7c606717b231dabe92512d1ea6d5dcebf715bc44",
+    "mime": "image/jpeg",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:AG-Fenster.jpg",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/a2/AG-Fenster.jpg",
+    "path": "/bilder/wiki/ag-fenster-7ad7d6f7.jpg",
+    "sha256": "31521bd11faee260a20e7b8110840263a5ed9f5b9087736543e51d0c3c43f5ff",
+    "bytes": 211464
+  },
+  {
+    "name": "AG-Filter-löschen.jpg",
+    "timestamp": "2015-03-25T15:13:39Z",
+    "size": 2123,
+    "width": 47,
+    "height": 52,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/4/49/AG-Filter-l%C3%B6schen.jpg",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:AG-Filter-l%C3%B6schen.jpg",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=765",
+    "sha1": "2aaf74cccf47514d580938d36ef8ef7ac1b8f11d",
+    "mime": "image/jpeg",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:AG-Filter-löschen.jpg",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/49/AG-Filter-l%C3%B6schen.jpg",
+    "path": "/bilder/wiki/ag-filter-loeschen-9a6d9ae4.jpg",
+    "sha256": "f74757ea5d9b9fdb3266999711f4ee5429a3a14a319c17560f5b4d057549ddb0",
+    "bytes": 2123
+  },
+  {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/7/73/Akt.Halbjahr-Uebersicht.png",
     "path": "/bilder/wiki/akt-halbjahr-uebersicht-9b46b3d0.png",
     "sha256": "8f00a144b8400b53b70bcb08520db8543ff4d65e5994423dd2982f0dabb53097",
@@ -94,6 +170,25 @@
     "path": "/bilder/wiki/allgemeineadressen-378a2bcc.jpg",
     "sha256": "47e82eb0e5ea918bcb696c1d402cc2c9773d6b373623ba6b0b01d65febe51cae",
     "bytes": 277372
+  },
+  {
+    "name": "AngabenAufSchuelernUebertragenG9.png",
+    "timestamp": "2019-08-22T09:13:23Z",
+    "size": 11318,
+    "width": 521,
+    "height": 382,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/f/f2/AngabenAufSchuelernUebertragenG9.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:AngabenAufSchuelernUebertragenG9.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=1138",
+    "sha1": "75134351667d177f2094c073c4aa324d212cc0f9",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:AngabenAufSchuelernUebertragenG9.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f2/AngabenAufSchuelernUebertragenG9.png",
+    "path": "/bilder/wiki/angabenaufschuelernuebertrageng9-e09fd31a.png",
+    "sha256": "67ecccf833533c2dc2c5dda9653d7c76739f38a5633edbc1a3cbc15985293fc8",
+    "bytes": 11318
   },
   {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/e/ec/ASDPC_Abitur.png",
@@ -366,10 +461,48 @@
     "bytes": 65598
   },
   {
+    "name": "ASDPCAktuellWarnung.jpg",
+    "timestamp": "2021-09-09T09:37:57Z",
+    "size": 42933,
+    "width": 566,
+    "height": 294,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/6/60/ASDPCAktuellWarnung.jpg",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:ASDPCAktuellWarnung.jpg",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=1227",
+    "sha1": "5c5e3a896308072e017e3fd662c0bffa0468c016",
+    "mime": "image/jpeg",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:ASDPCAktuellWarnung.jpg",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/60/ASDPCAktuellWarnung.jpg",
+    "path": "/bilder/wiki/asdpcaktuellwarnung-318bc746.jpg",
+    "sha256": "46a9bb032a043b5f484f79eb690e22af7756f6c0fa8b73ee3f27eb0de2c051ac",
+    "bytes": 42933
+  },
+  {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d8/ASDPCErhebungStarten.jpg",
     "path": "/bilder/wiki/asdpcerhebungstarten-c7312d17.jpg",
     "sha256": "1fc74aaf8a0bbc98fcf004a8971adfe71cea22aa11de807df7a886feef676d46",
     "bytes": 47594
+  },
+  {
+    "name": "ASDPCHaupterhebungStarten.jpg",
+    "timestamp": "2021-10-20T10:46:37Z",
+    "size": 44073,
+    "width": 678,
+    "height": 218,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/e/e6/ASDPCHaupterhebungStarten.jpg",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:ASDPCHaupterhebungStarten.jpg",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=1260",
+    "sha1": "9a4ca28d58741a5ee71d3beda553beb90c7adff4",
+    "mime": "image/jpeg",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:ASDPCHaupterhebungStarten.jpg",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/e6/ASDPCHaupterhebungStarten.jpg",
+    "path": "/bilder/wiki/asdpchaupterhebungstarten-d1a0613b.jpg",
+    "sha256": "20f29805608bee648dfaeba252924659eb8ba649e41ba163e2cf3a6f5f9627c2",
+    "bytes": 44073
   },
   {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/9/90/ASDPCKorrektur91.png",
@@ -508,6 +641,44 @@
     "path": "/bilder/wiki/bild-2022-01-03-104947-1dd79bdf.png",
     "sha256": "ce1ab69d549d51ffb2601f61ed087c4e006aba367821192bce677d907a2ae553",
     "bytes": 259422
+  },
+  {
+    "name": "Bilinguael_bescheinigungen.png",
+    "timestamp": "2024-06-13T08:13:33Z",
+    "size": 27223,
+    "width": 194,
+    "height": 282,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/1/13/Bilinguael_bescheinigungen.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Bilinguael_bescheinigungen.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=1413",
+    "sha1": "8f89422e433e9c9c74d1357a1168aeff5e242a03",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Bilinguael bescheinigungen.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/1/13/Bilinguael_bescheinigungen.png",
+    "path": "/bilder/wiki/bilinguael-bescheinigungen-753ffb76.png",
+    "sha256": "69762f6ff46ae66f9c96471e18f607fd07eb6526c8297d304d9f8d09fc75b92a",
+    "bytes": 27223
+  },
+  {
+    "name": "Bilinguaele_bescheinigungen.png",
+    "timestamp": "2024-06-13T08:14:42Z",
+    "size": 27223,
+    "width": 194,
+    "height": 282,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/3/33/Bilinguaele_bescheinigungen.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Bilinguaele_bescheinigungen.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=1414",
+    "sha1": "8f89422e433e9c9c74d1357a1168aeff5e242a03",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Bilinguaele bescheinigungen.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/33/Bilinguaele_bescheinigungen.png",
+    "path": "/bilder/wiki/bilinguaele-bescheinigungen-42ba6e87.png",
+    "sha256": "69762f6ff46ae66f9c96471e18f607fd07eb6526c8297d304d9f8d09fc75b92a",
+    "bytes": 27223
   },
   {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/4/47/Bilinguale_bescheinigungen.png",
@@ -852,6 +1023,25 @@
     "bytes": 24422
   },
   {
+    "name": "Download_plugins.jpg",
+    "timestamp": "2013-12-11T00:37:16Z",
+    "size": 75808,
+    "width": 533,
+    "height": 440,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/c/cc/Download_plugins.jpg",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Download_plugins.jpg",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=202",
+    "sha1": "b7bc06a9ad97aee8dac8c49e88b102f90cd2a356",
+    "mime": "image/jpeg",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Download plugins.jpg",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/cc/Download_plugins.jpg",
+    "path": "/bilder/wiki/download-plugins-e2bbd767.jpg",
+    "sha256": "d25401304384da6701ab4d2e1c8e48fcfbe9657d20f6cc6766ead8c20cd40360",
+    "bytes": 75808
+  },
+  {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/3/34/Druck-Auswahl.png",
     "path": "/bilder/wiki/druck-auswahl-d5de1372.png",
     "sha256": "4699ec152961357ec66af5ce97e1c88b6daa9eddbb9296f2e70679b7ba60aaee",
@@ -922,6 +1112,25 @@
     "path": "/bilder/wiki/eintragkompetenzen-eff6b18f.png",
     "sha256": "8e5858f8502ecae975f40dbbfdaf9c0b0c00bad9ab65d3e6a3dee161c94bed75",
     "bytes": 25970
+  },
+  {
+    "name": "Einwilligungen_Art.png",
+    "timestamp": "2022-01-03T10:25:09Z",
+    "size": 8429,
+    "width": 302,
+    "height": 261,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/8/88/Einwilligungen_Art.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Einwilligungen_Art.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=1319",
+    "sha1": "43bdedec92e1faa5cbcf3d78742a4507bd9e264b",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Einwilligungen Art.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/88/Einwilligungen_Art.png",
+    "path": "/bilder/wiki/einwilligungen-art-b99da44d.png",
+    "sha256": "8b4f5a2fa6976fc37d4506a3d2e9ba302a678a8a6db7fbc9a88b17af7bf1604e",
+    "bytes": 8429
   },
   {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f5/Einwilligungen_Lehrer.png",
@@ -1032,10 +1241,86 @@
     "bytes": 175355
   },
   {
+    "name": "Erzieherbrief-02a.png",
+    "timestamp": "2015-02-16T18:10:36Z",
+    "size": 4491,
+    "width": 708,
+    "height": 229,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/e/e3/Erzieherbrief-02a.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Erzieherbrief-02a.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=732",
+    "sha1": "507b0a8e9609a3d7926a79eb6668bb169f437618",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Erzieherbrief-02a.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/e3/Erzieherbrief-02a.png",
+    "path": "/bilder/wiki/erzieherbrief-02a-36897bb6.png",
+    "sha256": "44bc09ab37e814894fb86ed081c832956dc10efaa9af5159e99ad61bf3bc5f2b",
+    "bytes": 4491
+  },
+  {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/7/7d/Erzieherbrief-03.png",
     "path": "/bilder/wiki/erzieherbrief-03-d7d70279.png",
     "sha256": "b8bf2ee577703bce30f025d158e5af7812752175c315fafe394b0f20e302e9a3",
     "bytes": 33031
+  },
+  {
+    "name": "Erzieherbrief-03a.png",
+    "timestamp": "2015-02-16T18:12:16Z",
+    "size": 6369,
+    "width": 285,
+    "height": 285,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/b/b9/Erzieherbrief-03a.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Erzieherbrief-03a.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=734",
+    "sha1": "c5a3f6e52939758b3de070b56a9334961152efa4",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Erzieherbrief-03a.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/b9/Erzieherbrief-03a.png",
+    "path": "/bilder/wiki/erzieherbrief-03a-1fe981b0.png",
+    "sha256": "16f2fa155651b2ec541f37cb5b85c1c0cbc32c5f36ed632680808af6fa58bbb7",
+    "bytes": 6369
+  },
+  {
+    "name": "Erzieherbrief-05.png",
+    "timestamp": "2015-02-16T18:12:30Z",
+    "size": 8093,
+    "width": 792,
+    "height": 406,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/9/90/Erzieherbrief-05.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Erzieherbrief-05.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=735",
+    "sha1": "8199b9d0a20a9d4920a74e0653abd845be3078a5",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Erzieherbrief-05.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/90/Erzieherbrief-05.png",
+    "path": "/bilder/wiki/erzieherbrief-05-9d31dfaf.png",
+    "sha256": "8b080b57ce120f4a7be02b2596f32b9d48054c27f1cd09a91aa95f548a9b618b",
+    "bytes": 8093
+  },
+  {
+    "name": "Erzieherbrief-06.png",
+    "timestamp": "2015-02-16T18:12:59Z",
+    "size": 2640,
+    "width": 359,
+    "height": 118,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/a/a3/Erzieherbrief-06.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Erzieherbrief-06.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=736",
+    "sha1": "33d504a6133071587a2b1127bc6420e550648c4b",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Erzieherbrief-06.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/a3/Erzieherbrief-06.png",
+    "path": "/bilder/wiki/erzieherbrief-06-f6f49856.png",
+    "sha256": "b83f579f265ae641b2f9a48873a2417baf0087b1cf43367ff4f087af49ce1e57",
+    "bytes": 2640
   },
   {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/6/6a/Erzieherbrief-07.png",
@@ -1254,6 +1539,25 @@
     "bytes": 43068
   },
   {
+    "name": "Fachberatersuche.png",
+    "timestamp": "2021-09-16T14:20:09Z",
+    "size": 183367,
+    "width": 1709,
+    "height": 1302,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/c/cc/Fachberatersuche.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Fachberatersuche.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=1235",
+    "sha1": "b2ae524e1ab96b5128e280d1cf73c05ee98edb3b",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Fachberatersuche.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/cc/Fachberatersuche.png",
+    "path": "/bilder/wiki/fachberatersuche-6b3dd840.png",
+    "sha256": "ee803055792a4ba844a1c8ab496e830bf53dd0fc77e397187743d5a85835355a",
+    "bytes": 183367
+  },
+  {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/3/37/FachbezogeneBem-00.png",
     "path": "/bilder/wiki/fachbezogenebem-00-a536a663.png",
     "sha256": "74204516589bee244d63675011adf7ff16c1ee5d855a29682500466511987ca2",
@@ -1312,6 +1616,25 @@
     "path": "/bilder/wiki/fahrschueler-8237a61b.jpg",
     "sha256": "6cc19022d45f4169c6b119327b17c7b282510cab03130b4954c029f061d562af",
     "bytes": 38938
+  },
+  {
+    "name": "Falsch.png",
+    "timestamp": "2015-07-22T21:21:08Z",
+    "size": 1933,
+    "width": 32,
+    "height": 32,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/6/6d/Falsch.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Falsch.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=882",
+    "sha1": "ab9b176b42a862b32be7f308bda0584e51b278e7",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Falsch.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/6d/Falsch.png",
+    "path": "/bilder/wiki/falsch-afc9282c.png",
+    "sha256": "1fc97298ba73ab2262e8273db0d7bef7e12c38dac2542afe5c17b906c0fe9739",
+    "bytes": 1933
   },
   {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/b/b0/FehlendeEintraege.jpg",
@@ -1426,6 +1749,25 @@
     "path": "/bilder/wiki/filterii02-3ab603e9.jpg",
     "sha256": "d8bd7ec9e6bf006544c7bf970c86ee991cadaca84225da0690152ef5fee792a7",
     "bytes": 93576
+  },
+  {
+    "name": "FilterII03.jpg",
+    "timestamp": "2014-02-10T07:34:04Z",
+    "size": 14742,
+    "width": 551,
+    "height": 110,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/4/47/FilterII03.jpg",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:FilterII03.jpg",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=285",
+    "sha1": "799d5e94afd196562bd59d41aa1d9760bef266b2",
+    "mime": "image/jpeg",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:FilterII03.jpg",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/47/FilterII03.jpg",
+    "path": "/bilder/wiki/filterii03-018b1b95.jpg",
+    "sha256": "cccced199add629217a204175617af9428f19f17f16743bdec92dd2b235955b9",
+    "bytes": 14742
   },
   {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/6/68/FilterITut01.jpg",
@@ -1734,6 +2076,25 @@
     "bytes": 32380
   },
   {
+    "name": "GP-Mahnungenausgeben.jpg",
+    "timestamp": "2014-03-31T12:17:43Z",
+    "size": 41727,
+    "width": 707,
+    "height": 295,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/c/c9/GP-Mahnungenausgeben.jpg",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:GP-Mahnungenausgeben.jpg",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=487",
+    "sha1": "3bfc0562b514c3b7f1e71799cfd71f3ce7aa87fe",
+    "mime": "image/jpeg",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:GP-Mahnungenausgeben.jpg",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/c9/GP-Mahnungenausgeben.jpg",
+    "path": "/bilder/wiki/gp-mahnungenausgeben-fbfd75b5.jpg",
+    "sha256": "6e1869b3026fc47b7e1a1e0a8d73e31305c29d15b9f21e3866c4878eb299ef25",
+    "bytes": 41727
+  },
+  {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/a/ac/GP-MdlPruefungen.jpg",
     "path": "/bilder/wiki/gp-mdlpruefungen-6e73c80c.jpg",
     "sha256": "8a1ff7d130fdcd310152ae42db2d805cc9b5b57c82e16aeaae70a35f788e11d4",
@@ -1854,6 +2215,25 @@
     "bytes": 44535
   },
   {
+    "name": "Gruppen_002.png",
+    "timestamp": "2017-05-21T18:17:31Z",
+    "size": 26066,
+    "width": 369,
+    "height": 445,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/8/81/Gruppen_002.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Gruppen_002.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=1122",
+    "sha1": "0f1a72e15c3e1fee607445b457f893d85e7fbd74",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Gruppen 002.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/81/Gruppen_002.png",
+    "path": "/bilder/wiki/gruppen-002-34398887.png",
+    "sha256": "fd746500f13cd2f967ae77272b1b99305d14d17b8ab04ac076c1a240050d3ac8",
+    "bytes": 26066
+  },
+  {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/1/19/Gruppenprozess_Einwilligungen.png",
     "path": "/bilder/wiki/gruppenprozess-einwilligungen-49afc5ad.png",
     "sha256": "cf71afe3c6ad82e0d0f581d95c899340613155a806267baf89e80f4db82ebb2c",
@@ -1956,6 +2336,82 @@
     "bytes": 374108
   },
   {
+    "name": "GS_KLD_jgü.jpg",
+    "timestamp": "2014-01-27T18:04:05Z",
+    "size": 80430,
+    "width": 674,
+    "height": 375,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/8/81/GS_KLD_jg%C3%BC.jpg",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:GS_KLD_jg%C3%BC.jpg",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=245",
+    "sha1": "592493b7519ea6579656b749025762edf9c162e8",
+    "mime": "image/jpeg",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:GS KLD jgü.jpg",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/81/GS_KLD_jg%C3%BC.jpg",
+    "path": "/bilder/wiki/gs-kld-jgue-42d6d77d.jpg",
+    "sha256": "763fd11963df65271fd34c8c51d6d85b0843a87c1e74c0ea221e2943efb6e169",
+    "bytes": 80430
+  },
+  {
+    "name": "GS_Vers_Tabelle_jgü1.jpg",
+    "timestamp": "2014-01-27T16:11:53Z",
+    "size": 52529,
+    "width": 600,
+    "height": 293,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/e/e6/GS_Vers_Tabelle_jg%C3%BC1.jpg",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:GS_Vers_Tabelle_jg%C3%BC1.jpg",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=242",
+    "sha1": "343abbc0a8f0657a8f93ff1c6f4d49c3f3358e53",
+    "mime": "image/jpeg",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:GS Vers Tabelle jgü1.jpg",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/e6/GS_Vers_Tabelle_jg%C3%BC1.jpg",
+    "path": "/bilder/wiki/gs-vers-tabelle-jgue1-fa2bf2dd.jpg",
+    "sha256": "659079643161a5eebc64c8575a8c41ff0cdfcd95e711524dd3038960aa3ad29b",
+    "bytes": 52529
+  },
+  {
+    "name": "GS_Vers_Tabelle_jgü2.jpg",
+    "timestamp": "2014-01-27T17:34:50Z",
+    "size": 67106,
+    "width": 598,
+    "height": 439,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/e/ea/GS_Vers_Tabelle_jg%C3%BC2.jpg",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:GS_Vers_Tabelle_jg%C3%BC2.jpg",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=243",
+    "sha1": "1d2e79a5096e4f174015f1edb356d2387263acda",
+    "mime": "image/jpeg",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:GS Vers Tabelle jgü2.jpg",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/ea/GS_Vers_Tabelle_jg%C3%BC2.jpg",
+    "path": "/bilder/wiki/gs-vers-tabelle-jgue2-48f246a3.jpg",
+    "sha256": "5aed2688c954921c54c59aa5f1dba8b1e5a405c9b7a8d894774d9f14dc25ee42",
+    "bytes": 67106
+  },
+  {
+    "name": "GS_VersTabelle_jgb.jpg",
+    "timestamp": "2014-01-27T15:21:19Z",
+    "size": 48819,
+    "width": 587,
+    "height": 285,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/d/d8/GS_VersTabelle_jgb.jpg",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:GS_VersTabelle_jgb.jpg",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=239",
+    "sha1": "801569d202a86fa8385a691ebd0cca3d3a40ae13",
+    "mime": "image/jpeg",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:GS VersTabelle jgb.jpg",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d8/GS_VersTabelle_jgb.jpg",
+    "path": "/bilder/wiki/gs-verstabelle-jgb-d3b95d10.jpg",
+    "sha256": "c0aa9b8b1a7b0cc42424c5d0eccfc15071eee15eaa5bf534122153b6a96fa935",
+    "bytes": 48819
+  },
+  {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f2/GSDaten.jpg",
     "path": "/bilder/wiki/gsdaten-82294b84.jpg",
     "sha256": "c764a8433e95f4341929999d634a028ae815594c49148b8c73cfade1b0968201",
@@ -2004,6 +2460,25 @@
     "bytes": 88726
   },
   {
+    "name": "Hilfe-Fenster.jpg",
+    "timestamp": "2014-01-28T22:46:33Z",
+    "size": 11727,
+    "width": 209,
+    "height": 126,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/5/51/Hilfe-Fenster.jpg",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Hilfe-Fenster.jpg",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=256",
+    "sha1": "abeaee8449a03407e27c6baf9aa288439e20fd53",
+    "mime": "image/jpeg",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Hilfe-Fenster.jpg",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/51/Hilfe-Fenster.jpg",
+    "path": "/bilder/wiki/hilfe-fenster-d1d2ff19.jpg",
+    "sha256": "9d3743ba71870629be6f693270197ba0c4522d253a0da00d9e25c5498fe02337",
+    "bytes": 11727
+  },
+  {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/2/28/HilfebeiProblemen.jpg",
     "path": "/bilder/wiki/hilfebeiproblemen-9fb4d013.jpg",
     "sha256": "064c632506ac9c605d0ac51d31a29322c97545456d361b6b30f67d24d5f7fbc8",
@@ -2032,6 +2507,25 @@
     "path": "/bilder/wiki/iconleiste-30c44934.jpg",
     "sha256": "ecd08b4672c9c98692011955f4714ecc58311fa85a3b4fd683f6d29361612ca8",
     "bytes": 10969
+  },
+  {
+    "name": "IK-AktHalbjahr.png",
+    "timestamp": "2015-09-08T15:04:37Z",
+    "size": 17554,
+    "width": 551,
+    "height": 296,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/2/2e/IK-AktHalbjahr.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:IK-AktHalbjahr.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=948",
+    "sha1": "9c47b7c5e53c4361742e6d6558ad0d52b10c18b6",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:IK-AktHalbjahr.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/2e/IK-AktHalbjahr.png",
+    "path": "/bilder/wiki/ik-akthalbjahr-29a5e280.png",
+    "sha256": "58b8b780f97e589379031828a41529e9b5af9b3b5fc6bbbc2a44587cd620536f",
+    "bytes": 17554
   },
   {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/b/ba/IK-AktHalbjahr.jpg",
@@ -2076,6 +2570,44 @@
     "bytes": 16345
   },
   {
+    "name": "Import-Zeugnisformulare-01.png",
+    "timestamp": "2015-06-01T12:40:20Z",
+    "size": 155002,
+    "width": 977,
+    "height": 655,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/6/68/Import-Zeugnisformulare-01.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Import-Zeugnisformulare-01.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=842",
+    "sha1": "d1d333997b923968f46958119d681b372c4b9f97",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Import-Zeugnisformulare-01.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/68/Import-Zeugnisformulare-01.png",
+    "path": "/bilder/wiki/import-zeugnisformulare-01-d8d8487f.png",
+    "sha256": "5a52603a236447d1b41532384a8a007fda4d78e361e6e66f53039f25a10b16f7",
+    "bytes": 155002
+  },
+  {
+    "name": "Import-Zeugnisformulare-02.png",
+    "timestamp": "2015-06-01T12:54:29Z",
+    "size": 102447,
+    "width": 925,
+    "height": 602,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/d/de/Import-Zeugnisformulare-02.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Import-Zeugnisformulare-02.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=843",
+    "sha1": "cb86bdd83276b6e004ea62aa7078b7f6bd904630",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Import-Zeugnisformulare-02.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/de/Import-Zeugnisformulare-02.png",
+    "path": "/bilder/wiki/import-zeugnisformulare-02-b8ff052d.png",
+    "sha256": "07b9a795877e2d2cc1e6e81def1fa26c98213d7dbd1f35528c706cf19130b671",
+    "bytes": 102447
+  },
+  {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/6/6f/Individualdaten-Registerkarten.jpg",
     "path": "/bilder/wiki/individualdaten-registerkarten-09b1a92c.jpg",
     "sha256": "426f7cd8cdd5b15fa3b6f11e5c3c9156a7191f3656e4a3931d43ed6760dedd34",
@@ -2118,6 +2650,31 @@
     "bytes": 19109
   },
   {
+    "name": "Inormationen-Datenquellen.png",
+    "timestamp": "2014-05-26T12:07:56Z",
+    "size": 25348,
+    "width": 626,
+    "height": 529,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/f/f6/Inormationen-Datenquellen.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Inormationen-Datenquellen.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=597",
+    "sha1": "4be69d715d26409a0ed2a3c08e0973252286fa08",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Inormationen-Datenquellen.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f6/Inormationen-Datenquellen.png",
+    "path": "/bilder/wiki/inormationen-datenquellen-10a140e8.png",
+    "sha256": "28302191435d80c99b2d72f89dc2ab203364ea99ede9a569c5771263dd35fb07",
+    "bytes": 25348
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/da/Installation.png",
+    "path": "/bilder/wiki/installation-c68b48ce.png",
+    "sha256": "962485a25c96ab84596a83f173e7e4ebc2270c5a3ea5460be339d11ac0f75922",
+    "bytes": 51093
+  },
+  {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/6/6f/ISG-001.jpg",
     "path": "/bilder/wiki/isg-001-09492543.jpg",
     "sha256": "9d14e924e7168465f37f89a2de9704c2b09f0a1240f43ff422111465efac3457",
@@ -2142,6 +2699,44 @@
     "bytes": 13477
   },
   {
+    "name": "JG_Tabell_GS_jgü1.jpg",
+    "timestamp": "2016-02-12T09:31:55Z",
+    "size": 81813,
+    "width": 1313,
+    "height": 247,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/8/88/JG_Tabell_GS_jg%C3%BC1.jpg",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:JG_Tabell_GS_jg%C3%BC1.jpg",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=241",
+    "sha1": "007eaadb9734728e4b84cf0eac54fb517739e008",
+    "mime": "image/jpeg",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:JG Tabell GS jgü1.jpg",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/88/JG_Tabell_GS_jg%C3%BC1.jpg",
+    "path": "/bilder/wiki/jg-tabell-gs-jgue1-ce4f8e8f.jpg",
+    "sha256": "25a9584f4e125dddc9bb552ac47573fa7b8f890e5a0c181c3921af91a179f6e2",
+    "bytes": 81813
+  },
+  {
+    "name": "JG_Tabell_GS_jgü2.jpg",
+    "timestamp": "2016-02-12T09:32:43Z",
+    "size": 84209,
+    "width": 1310,
+    "height": 221,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/5/5c/JG_Tabell_GS_jg%C3%BC2.jpg",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:JG_Tabell_GS_jg%C3%BC2.jpg",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=244",
+    "sha1": "5fc96828666e23da3029694e15f83363ac6511d5",
+    "mime": "image/jpeg",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:JG Tabell GS jgü2.jpg",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/5c/JG_Tabell_GS_jg%C3%BC2.jpg",
+    "path": "/bilder/wiki/jg-tabell-gs-jgue2-97be0220.jpg",
+    "sha256": "09e15ee45656fc122e4d06404785e86d80f012c7dc70b937ba19e1137b6e29c2",
+    "bytes": 84209
+  },
+  {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/9/93/JG_Tabelle_BK.jpg",
     "path": "/bilder/wiki/jg-tabelle-bk-668c91e3.jpg",
     "sha256": "649e629829686e7e7ea787208d288fee56875ae9eaaca5257b4e150fc498f939",
@@ -2154,10 +2749,86 @@
     "bytes": 136913
   },
   {
+    "name": "JG_Tabelle_GS_jgb.jpg",
+    "timestamp": "2016-02-12T09:30:25Z",
+    "size": 91606,
+    "width": 1314,
+    "height": 262,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/0/01/JG_Tabelle_GS_jgb.jpg",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:JG_Tabelle_GS_jgb.jpg",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=238",
+    "sha1": "0d9dbd3db8cbdd8df44d7d665a568c4feb134748",
+    "mime": "image/jpeg",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:JG Tabelle GS jgb.jpg",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/01/JG_Tabelle_GS_jgb.jpg",
+    "path": "/bilder/wiki/jg-tabelle-gs-jgb-a8523f23.jpg",
+    "sha256": "1bad71ed10f66ea573b31eec3ab7d2cb4307c0b783c84c698834f0ca0fded5ef",
+    "bytes": 91606
+  },
+  {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/0/0d/JG_Tabelle_GS_neu.jpg",
     "path": "/bilder/wiki/jg-tabelle-gs-neu-5badc641.jpg",
     "sha256": "26572b889f2795271d8984028a522a096bd952057a9020f7466b9727f411d53f",
     "bytes": 75730
+  },
+  {
+    "name": "JG_Tabelle_GY.jpg",
+    "timestamp": "2014-01-27T14:55:16Z",
+    "size": 134100,
+    "width": 939,
+    "height": 408,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/0/04/JG_Tabelle_GY.jpg",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:JG_Tabelle_GY.jpg",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=234",
+    "sha1": "55d54228841e00eb0d3cc06c04cf5eeeda38deb5",
+    "mime": "image/jpeg",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:JG Tabelle GY.jpg",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/04/JG_Tabelle_GY.jpg",
+    "path": "/bilder/wiki/jg-tabelle-gy-45b3e5d6.jpg",
+    "sha256": "a0109d35864b182b6568d2fca41086a93e57164435acc05899756366aa2e0e7e",
+    "bytes": 134100
+  },
+  {
+    "name": "Jg_tabelle_jguebergreifend_gesamt.png",
+    "timestamp": "2016-08-25T20:29:48Z",
+    "size": 15967,
+    "width": 1109,
+    "height": 202,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/b/b1/Jg_tabelle_jguebergreifend_gesamt.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Jg_tabelle_jguebergreifend_gesamt.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=1013",
+    "sha1": "7a15bab8c3ad44f236b858987a6e12652a7c62e7",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Jg tabelle jguebergreifend gesamt.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/b1/Jg_tabelle_jguebergreifend_gesamt.png",
+    "path": "/bilder/wiki/jg-tabelle-jguebergreifend-gesamt-8bd7678b.png",
+    "sha256": "30c7f96172015d78bc4213846f2c5ab510b2ce257c8c62913e1109e373454cc7",
+    "bytes": 15967
+  },
+  {
+    "name": "Jg_tabelle_jguebergreifend_gesamt2.png",
+    "timestamp": "2016-08-25T20:30:17Z",
+    "size": 13049,
+    "width": 778,
+    "height": 358,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/0/0e/Jg_tabelle_jguebergreifend_gesamt2.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Jg_tabelle_jguebergreifend_gesamt2.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=1014",
+    "sha1": "be221fef23849409092c58e6cd2d86a0e3807a18",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Jg tabelle jguebergreifend gesamt2.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/0e/Jg_tabelle_jguebergreifend_gesamt2.png",
+    "path": "/bilder/wiki/jg-tabelle-jguebergreifend-gesamt2-be683296.png",
+    "sha256": "97091e3ef2e77c0ffe4b0a4d515a44bc4285aa227cace86145c76c1eac9ee788",
+    "bytes": 13049
   },
   {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/1/13/JGTabelle_GY.png",
@@ -2262,6 +2933,82 @@
     "bytes": 21082
   },
   {
+    "name": "Klasse_versetzungsdetails_jb.png",
+    "timestamp": "2016-08-25T05:59:56Z",
+    "size": 13193,
+    "width": 778,
+    "height": 359,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/0/09/Klasse_versetzungsdetails_jb.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Klasse_versetzungsdetails_jb.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=1011",
+    "sha1": "07c4cd28315136b55a974dd4a2d9c5d7ff6db928",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Klasse versetzungsdetails jb.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/09/Klasse_versetzungsdetails_jb.png",
+    "path": "/bilder/wiki/klasse-versetzungsdetails-jb-bdd5c888.png",
+    "sha256": "00c1db7ab0f60bb4fd7b3e6df404bf248f17dc747334cbbd20db5a1628491094",
+    "bytes": 13193
+  },
+  {
+    "name": "Klasse_versetzungsdetails_jb.jpg",
+    "timestamp": "2017-05-23T11:17:02Z",
+    "size": 76651,
+    "width": 850,
+    "height": 437,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/d/d6/Klasse_versetzungsdetails_jb.jpg",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Klasse_versetzungsdetails_jb.jpg",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=1127",
+    "sha1": "8710ec6612a74e94cdafcc8961b8935a679fdbe3",
+    "mime": "image/jpeg",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Klasse versetzungsdetails jb.jpg",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d6/Klasse_versetzungsdetails_jb.jpg",
+    "path": "/bilder/wiki/klasse-versetzungsdetails-jb-cb900d34.jpg",
+    "sha256": "102053024f5068fe5a15fcba4df4da411f3cffc80b322ccf4e774839092d176c",
+    "bytes": 76651
+  },
+  {
+    "name": "Klasse_versetzungsdetails_jg.png",
+    "timestamp": "2016-08-25T06:05:20Z",
+    "size": 13112,
+    "width": 778,
+    "height": 362,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/7/74/Klasse_versetzungsdetails_jg.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Klasse_versetzungsdetails_jg.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=1012",
+    "sha1": "edc92ad9cec9f51aaa995f8d160d31e25b6bdea0",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Klasse versetzungsdetails jg.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/74/Klasse_versetzungsdetails_jg.png",
+    "path": "/bilder/wiki/klasse-versetzungsdetails-jg-0d3d9367.png",
+    "sha256": "b0ed633d9989c0dc10aa498345d991e643aa830372e65d0ed57b7b54a127d87e",
+    "bytes": 13112
+  },
+  {
+    "name": "Klasse_versetzungsdetails_jg.jpg",
+    "timestamp": "2017-05-23T11:26:00Z",
+    "size": 79508,
+    "width": 843,
+    "height": 434,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/e/ec/Klasse_versetzungsdetails_jg.jpg",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Klasse_versetzungsdetails_jg.jpg",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=1128",
+    "sha1": "f65f11034354309c23ff9fc1c099d804562bc883",
+    "mime": "image/jpeg",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Klasse versetzungsdetails jg.jpg",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/ec/Klasse_versetzungsdetails_jg.jpg",
+    "path": "/bilder/wiki/klasse-versetzungsdetails-jg-aadd9890.jpg",
+    "sha256": "c238df012e6daf37d02ad43a7c6c2eb1526df543ccccb8dd0a4bda581a8ce10b",
+    "bytes": 79508
+  },
+  {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/e/e3/Klassen-Abteilungen-01.jpg",
     "path": "/bilder/wiki/klassen-abteilungen-01-51eeccf5.jpg",
     "sha256": "d135e1b1ac80703a657380d09d930c8d45ec98d63c87ec0ff57940c2deea3539",
@@ -2292,6 +3039,25 @@
     "bytes": 15073
   },
   {
+    "name": "KM2.jpg",
+    "timestamp": "2014-05-19T15:09:43Z",
+    "size": 180845,
+    "width": 1108,
+    "height": 423,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/3/3d/KM2.jpg",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:KM2.jpg",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=528",
+    "sha1": "6694e31523702dcef69dfe39fff26a193080ebfe",
+    "mime": "image/jpeg",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:KM2.jpg",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/3d/KM2.jpg",
+    "path": "/bilder/wiki/km2-30e2623c.jpg",
+    "sha256": "57a0269335509fdbec5f5362ddea64ea4e64c00ffb4095b49203f3047686e765",
+    "bytes": 180845
+  },
+  {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/9/98/KM2_BemerkungsFelder.png",
     "path": "/bilder/wiki/km2-bemerkungsfelder-e2150696.png",
     "sha256": "4dc7efd5682faa39186f3c008692f15015fbab91c11b4b576d752ec570796be3",
@@ -2308,6 +3074,120 @@
     "path": "/bilder/wiki/km2-bildschirmaufbau-01-c97fa288.png",
     "sha256": "e17648f66c37f286f0cac28c003ad43d45e248768f56e05d8ece148be22d4b07",
     "bytes": 56203
+  },
+  {
+    "name": "Km2_installation_01.png",
+    "timestamp": "2014-05-21T17:54:49Z",
+    "size": 36962,
+    "width": 519,
+    "height": 404,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/c/c3/Km2_installation_01.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Km2_installation_01.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=550",
+    "sha1": "62e22b66340b7588922eea536685b03bc4b4d29f",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Km2 installation 01.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/c3/Km2_installation_01.png",
+    "path": "/bilder/wiki/km2-installation-01-3fd50a6b.png",
+    "sha256": "1f374530806add747d6776b7b28baa10c1f9d54411378c12ded27a5b70144c99",
+    "bytes": 36962
+  },
+  {
+    "name": "Km2_installation_02.png",
+    "timestamp": "2014-05-21T17:55:46Z",
+    "size": 30116,
+    "width": 519,
+    "height": 404,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/0/0f/Km2_installation_02.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Km2_installation_02.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=551",
+    "sha1": "dd19f0317ed7afdaa51c4635982dd2c66935a48f",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Km2 installation 02.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/0f/Km2_installation_02.png",
+    "path": "/bilder/wiki/km2-installation-02-6a80efec.png",
+    "sha256": "0c4c5fbab134b5c310aaeab43de0ca6e41585c5d1f48b58d0e6fd63af19c65ff",
+    "bytes": 30116
+  },
+  {
+    "name": "Km2_installation_03.png",
+    "timestamp": "2014-05-21T17:56:05Z",
+    "size": 35792,
+    "width": 519,
+    "height": 404,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/6/65/Km2_installation_03.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Km2_installation_03.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=552",
+    "sha1": "6a9edcf66cd7ed339c91d6a71b1dcaa9129cba37",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Km2 installation 03.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/65/Km2_installation_03.png",
+    "path": "/bilder/wiki/km2-installation-03-468103da.png",
+    "sha256": "0d4b706fac7a27300f0625aee26fcca0c7a2a452765ae7bf57f680ee0d18a182",
+    "bytes": 35792
+  },
+  {
+    "name": "Km2_installation_04.png",
+    "timestamp": "2014-05-21T17:56:40Z",
+    "size": 34856,
+    "width": 519,
+    "height": 404,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/e/e9/Km2_installation_04.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Km2_installation_04.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=553",
+    "sha1": "d349f7cdc244d0398a7864ff3250a41f0f4c2e47",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Km2 installation 04.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/e9/Km2_installation_04.png",
+    "path": "/bilder/wiki/km2-installation-04-c1e42a0e.png",
+    "sha256": "bb3c212fc730927d0f10513bbc999e73a0f884f0c20efaac697b19ea2f306608",
+    "bytes": 34856
+  },
+  {
+    "name": "Km2_installation_06.png",
+    "timestamp": "2014-05-21T17:56:58Z",
+    "size": 35006,
+    "width": 519,
+    "height": 404,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/9/95/Km2_installation_06.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Km2_installation_06.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=554",
+    "sha1": "e76dd49ea87bcf32e6059c60a4039a1e015e023b",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Km2 installation 06.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/95/Km2_installation_06.png",
+    "path": "/bilder/wiki/km2-installation-06-7efd1c40.png",
+    "sha256": "2fe30c5845f79b21da837e33d3b1ecf56e5e3655ff1a5741d3de1c80843e4bcf",
+    "bytes": 35006
+  },
+  {
+    "name": "Km2_installation_07.png",
+    "timestamp": "2014-05-21T17:57:16Z",
+    "size": 36601,
+    "width": 519,
+    "height": 404,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/2/29/Km2_installation_07.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Km2_installation_07.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=555",
+    "sha1": "6701f57201b50eaddc3fb2283f4bf593a607f160",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Km2 installation 07.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/29/Km2_installation_07.png",
+    "path": "/bilder/wiki/km2-installation-07-e0b2af56.png",
+    "sha256": "9a53aef56df57a6484451f75b97fe895a4b4b830af2711151b41987b48d30562",
+    "bytes": 36601
   },
   {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/2/20/KM2_LeistungsUebersicht_Bsp_01.png",
@@ -2412,6 +3292,44 @@
     "bytes": 7831
   },
   {
+    "name": "Km2_zugangskontrolle.png",
+    "timestamp": "2014-05-21T18:02:49Z",
+    "size": 4068,
+    "width": 302,
+    "height": 215,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/2/28/Km2_zugangskontrolle.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Km2_zugangskontrolle.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=570",
+    "sha1": "7a0d3a7ba7d5f5f2ab5455f38d7c896878d184be",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Km2 zugangskontrolle.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/28/Km2_zugangskontrolle.png",
+    "path": "/bilder/wiki/km2-zugangskontrolle-ce386e6b.png",
+    "sha256": "b095e75050645e446e0848717ad02376289e3c444dd7e7af0e7a9c8867730654",
+    "bytes": 4068
+  },
+  {
+    "name": "KM2ParameterAdminAL1.png",
+    "timestamp": "2014-05-21T18:03:08Z",
+    "size": 3258,
+    "width": 406,
+    "height": 129,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/2/2c/KM2ParameterAdminAL1.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:KM2ParameterAdminAL1.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=571",
+    "sha1": "628a3a0f8fb030f93f056b25ba8e8d9de35acb61",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:KM2ParameterAdminAL1.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/2c/KM2ParameterAdminAL1.png",
+    "path": "/bilder/wiki/km2parameteradminal1-d528ea90.png",
+    "sha256": "5bfa8e74d96faa3c5a56a9ba457c6c96e2ec52cde136acac89e9aca4d42fe9e3",
+    "bytes": 3258
+  },
+  {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/7/79/KM2ParameterFestlegen.png",
     "path": "/bilder/wiki/km2parameterfestlegen-ffa92457.png",
     "sha256": "06d98c145cdc37a4c7ae9c3bd22651ae4f3f608da7bc89635b8314d54052f001",
@@ -2464,6 +3382,25 @@
     "path": "/bilder/wiki/kreuztabelle-uebersicht-83a2be0a.png",
     "sha256": "c79081b903a1092e511ba67b0b1ffb906aca75b341aff4e846b07ad94de70cca",
     "bytes": 14454
+  },
+  {
+    "name": "Kurs42_To_CNF_Bild_Maximalwerte.png",
+    "timestamp": "2020-05-28T07:29:41Z",
+    "size": 8802,
+    "width": 247,
+    "height": 338,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/6/6b/Kurs42_To_CNF_Bild_Maximalwerte.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Kurs42_To_CNF_Bild_Maximalwerte.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=1170",
+    "sha1": "60bd55e2ffc642b03b09713fd23a3ab2f1b2ab4c",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Kurs42 To CNF Bild Maximalwerte.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/6b/Kurs42_To_CNF_Bild_Maximalwerte.png",
+    "path": "/bilder/wiki/kurs42-to-cnf-bild-maximalwerte-a44a2630.png",
+    "sha256": "a64dfd6caae0eeb5ced076bd661779c59c2668df5acac57586ed22d4786e9ec2",
+    "bytes": 8802
   },
   {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/4/40/Kurs42ToCNF_Logo.png",
@@ -2622,10 +3559,228 @@
     "bytes": 23685
   },
   {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/91/Lupo_biliwechsel.png",
+    "path": "/bilder/wiki/lupo-biliwechsel-7d602e34.png",
+    "sha256": "fea4c3cef7842e51eb3ab473de31e8893a3c4c73113853befea1923bdb57cce3",
+    "bytes": 3150
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d1/Lupo_datenaustausch_schueler_beratungsdateien.png",
+    "path": "/bilder/wiki/lupo-datenaustausch-schueler-beratungsdateien-8513c9b8.png",
+    "sha256": "ddb5d87e456086a22ee01fad5410ee852910e185551878206378f3f578315fc1",
+    "bytes": 14927
+  },
+  {
+    "name": "Lupo_datenaustausch_schueler_einzelauswahl_1.png",
+    "timestamp": "2017-03-10T12:57:48Z",
+    "size": 14322,
+    "width": 392,
+    "height": 484,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/f/f1/Lupo_datenaustausch_schueler_einzelauswahl_1.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Lupo_datenaustausch_schueler_einzelauswahl_1.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=1109",
+    "sha1": "82785adbca33fbe8c1b15be8e6b81a8e1539a4ec",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Lupo datenaustausch schueler einzelauswahl 1.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f1/Lupo_datenaustausch_schueler_einzelauswahl_1.png",
+    "path": "/bilder/wiki/lupo-datenaustausch-schueler-einzelauswahl-1-ee284799.png",
+    "sha256": "04e8640477c7c65ce85750105b9bff23d2a557042c7031f22659694472610f46",
+    "bytes": 14322
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/78/Lupo_druckvorschau.png",
+    "path": "/bilder/wiki/lupo-druckvorschau-9e62d42a.png",
+    "sha256": "2dbf45c59d8c95b0d423f7eb20f67715fe2608c6bebca32980248a35046fc8fb",
+    "bytes": 28746
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/a4/Lupo_ersteinrichtung.png",
+    "path": "/bilder/wiki/lupo-ersteinrichtung-55c3fd99.png",
+    "sha256": "553053b3d74792389ab9b3c09bdb852543e5470bc00fad94cdc1f614787fbc19",
+    "bytes": 39622
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/4b/Lupo_faecher_bearbeiten.png",
+    "path": "/bilder/wiki/lupo-faecher-bearbeiten-0996c665.png",
+    "sha256": "6d08e9c056ae58ea6d3afaf4f24f54142614907790b7a810db0b17be91050eba",
+    "bytes": 32251
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/ce/Lupo_faecherkombi_zusatzkurs.png",
+    "path": "/bilder/wiki/lupo-faecherkombi-zusatzkurs-43d51692.png",
+    "sha256": "72a7d8e7c8a120a081af6b598b3fdcd3cf91db4e4b0461233c2ddc84bf4a62a9",
+    "bytes": 4595
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/eb/Lupo_grundeinstellungen.png",
+    "path": "/bilder/wiki/lupo-grundeinstellungen-88569eb4.png",
+    "sha256": "ad185840dc1b82d13fcd20488147cf67030ed419515aff0798d1402a12507a41",
+    "bytes": 12043
+  },
+  {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/9/95/Lupo_hauptseite.png",
     "path": "/bilder/wiki/lupo-hauptseite-bf47bfe8.png",
     "sha256": "7918a9127b47187efff5bba22237d1d44a79c83ff81934634c5470e0aee794ec",
     "bytes": 35313
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/50/Lupo_hochschreiben.png",
+    "path": "/bilder/wiki/lupo-hochschreiben-20e7fc24.png",
+    "sha256": "16145e29d256c02d5a3b7cb0695a77ba3aff95d21cd1d35770b69b3f21d154e1",
+    "bytes": 5383
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/96/Lupo_laufbahnplanung_1.png",
+    "path": "/bilder/wiki/lupo-laufbahnplanung-1-b2eb3a65.png",
+    "sha256": "5715f05cf5fcb1f8788fdf265a932103238f8ac6254bf764f913b8e7929c6046",
+    "bytes": 86516
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/99/Lupo_lehrerdateien_import.png",
+    "path": "/bilder/wiki/lupo-lehrerdateien-import-28722a65.png",
+    "sha256": "3b8e3ca49e4b8139891ba9ea12963d97b33a618f4712838f36598570fccdfa4b",
+    "bytes": 13468
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/e2/Lupo_reiter_abitur.png",
+    "path": "/bilder/wiki/lupo-reiter-abitur-a1527a81.png",
+    "sha256": "84e3e1f67a1bf3659e3ff18b73529d7cc4473a5097a7d13ccb7159decee45c76",
+    "bytes": 53974
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/cf/Lupo_reiter_laufbahn.png",
+    "path": "/bilder/wiki/lupo-reiter-laufbahn-ee0b4926.png",
+    "sha256": "add3625b616ca9e2155de3c167e774c58f93f58ed965047fed6eae1087e34642",
+    "bytes": 78890
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/08/Lupo_ribbon_1.png",
+    "path": "/bilder/wiki/lupo-ribbon-1-9ea28085.png",
+    "sha256": "ff96a9e04a0c689d4ed52fda57145003a55a5ff4a6ca36db4babfc66233589f5",
+    "bytes": 7468
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/25/Lupo_schild_individualdaten_bili.png",
+    "path": "/bilder/wiki/lupo-schild-individualdaten-bili-ed7e9f93.png",
+    "sha256": "27a36a43628633f4013805c1ae1dfc1c91d86cbace94bc3cba7316428cd4a3da",
+    "bytes": 11702
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/34/Lupo_schild_initial_export1.png",
+    "path": "/bilder/wiki/lupo-schild-initial-export1-8f677a9c.png",
+    "sha256": "93f5d97bad32b44b4744146e3c51bbb6ab62289b57f95494d23629cdc31f2470",
+    "bytes": 51618
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/33/Lupo_schild_initial_export2.png",
+    "path": "/bilder/wiki/lupo-schild-initial-export2-b7e09063.png",
+    "sha256": "f399948d104b4b84f466783039ef48ef401029f1fb7285d2060bc60b2bc1c7df",
+    "bytes": 47491
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/a9/Lupo_schild_sprachenfolge.png",
+    "path": "/bilder/wiki/lupo-schild-sprachenfolge-a940e041.png",
+    "sha256": "c87081f659be7f2529bf61bbd69d9bc5410839d043bd18ff1882117f98049426",
+    "bytes": 10683
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/7b/Lupo_schild_unterrichtsfaecher_1.png",
+    "path": "/bilder/wiki/lupo-schild-unterrichtsfaecher-1-3290c45d.png",
+    "sha256": "c90e11bf3955466cd1c703b3d8dcc51f7950aee17c81a72cd3a0dfb341929a37",
+    "bytes": 16735
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/9e/Lupo_schild_unterrichtsfaecher_2.png",
+    "path": "/bilder/wiki/lupo-schild-unterrichtsfaecher-2-b3fe28e3.png",
+    "sha256": "c6ae1c3a596aa865b9a6cd9a2e177f2e1a383e3ddbc912e8d9e650c7443ef3fb",
+    "bytes": 13546
+  },
+  {
+    "name": "Lupo_schild_unterrichtsfaecher.png",
+    "timestamp": "2015-07-21T20:55:06Z",
+    "size": 0,
+    "width": 352,
+    "height": 317,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/0/08/Lupo_schild_unterrichtsfaecher.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Lupo_schild_unterrichtsfaecher.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=871",
+    "sha1": "139e4641461765ac2c951fccf40d77a511fa7f0c",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Lupo schild unterrichtsfaecher.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/08/Lupo_schild_unterrichtsfaecher.png",
+    "path": "/bilder/wiki/lupo-schild-unterrichtsfaecher-2a335d78.png",
+    "sha256": "18a63368652db19d7eef354bedba38fb60abb2161d0f28720dcdef2ff1cda401",
+    "bytes": 50580
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/44/Lupo_schild_unterrichtsfaecher_3.png",
+    "path": "/bilder/wiki/lupo-schild-unterrichtsfaecher-3-b6cd9b2f.png",
+    "sha256": "082c4e587f375334b63f1dff2ef4d414286ae00a62624f87096281854efa33f0",
+    "bytes": 20845
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/5e/Lupo_schild_unterrichtsfaecher_4.png",
+    "path": "/bilder/wiki/lupo-schild-unterrichtsfaecher-4-cd2db176.png",
+    "sha256": "9e6a06717612ed1ef85e5a4f81bb09b595ccea72695d08f8f5df3e6c9779b1c7",
+    "bytes": 5915
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/04/Lupo_schild_unterrichtsfaecher_5.png",
+    "path": "/bilder/wiki/lupo-schild-unterrichtsfaecher-5-00af9ea1.png",
+    "sha256": "70d00e1864f28b3b67ff9dcf5ab621c247e4a226025d183d465d95145f3e6df4",
+    "bytes": 33630
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/a4/Lupo_schnittstellen_dateien1.png",
+    "path": "/bilder/wiki/lupo-schnittstellen-dateien1-6ce57c36.png",
+    "sha256": "19f288d4e14dcd502067e3cb3a7c02c34ec42623c23258c09775a193811c8fef",
+    "bytes": 4901
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/54/Lupo_schnittstellen_dateien2.png",
+    "path": "/bilder/wiki/lupo-schnittstellen-dateien2-c0cfa9fd.png",
+    "sha256": "2a380379c442397eb1a5e1afc88035ab6bb93ae89de8c38f71cfcdb62de4e9da",
+    "bytes": 21165
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/4c/Lupo_schueler_bearbeiten_1.png",
+    "path": "/bilder/wiki/lupo-schueler-bearbeiten-1-e8d814bb.png",
+    "sha256": "7a0fef29635eafa19b6e0725c410112a8e84cb5b766e7cf223e39a01fd6aee0f",
+    "bytes": 48422
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/05/Lupo_schuelerdateien_importieren.png",
+    "path": "/bilder/wiki/lupo-schuelerdateien-importieren-96ae539f.png",
+    "sha256": "4f38acd7b72ceffb6e3483b260237a5f4a75be75ee284a149e47bba0a85dd86f",
+    "bytes": 4486
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/98/Lupo_schuelerliste_drucken.png",
+    "path": "/bilder/wiki/lupo-schuelerliste-drucken-01c817a9.png",
+    "sha256": "f51a51670bd4f291e658f55869e6c2e3c3cbbac761b84fc31acb99bf5df8c025",
+    "bytes": 17040
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/42/Lupo_schuelerversion.png",
+    "path": "/bilder/wiki/lupo-schuelerversion-7445f855.png",
+    "sha256": "b38c1048f4fd31ba21ac25067561f4a56ef1e5c54e57fabfc2e06f49a6bb5d2a",
+    "bytes": 64863
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/35/Lupo_sprachenfolge_1.png",
+    "path": "/bilder/wiki/lupo-sprachenfolge-1-9a23c852.png",
+    "sha256": "459e8aa9dc91a8407f31ecd08dfa3e5d24b7debd003808d4b211f029b96e3e42",
+    "bytes": 10135
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/0e/Lupo_unterrichtsfaecher_2.png",
+    "path": "/bilder/wiki/lupo-unterrichtsfaecher-2-9848c5f0.png",
+    "sha256": "5e1c91ea63d07d6679e9d1af00f9f3679c53f75b7361ce9c44e51e5143ed91be",
+    "bytes": 19573
   },
   {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/f/fe/LupoExport1.jpg",
@@ -2652,6 +3807,25 @@
     "bytes": 53850
   },
   {
+    "name": "MahnungDrucken2.png",
+    "timestamp": "2023-04-13T20:49:17Z",
+    "size": 54035,
+    "width": 823,
+    "height": 329,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/1/1f/MahnungDrucken2.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:MahnungDrucken2.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=1379",
+    "sha1": "6d10fe5d143b950e340744124c426bc8600dc2be",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:MahnungDrucken2.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/1/1f/MahnungDrucken2.png",
+    "path": "/bilder/wiki/mahnungdrucken2-93ac66c4.png",
+    "sha256": "17d4c6293c97f41574c1e50f05ed09ff69d77b512a40d93d91facc5d940341a4",
+    "bytes": 54035
+  },
+  {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/1/1f/MahnungDrucken3.png",
     "path": "/bilder/wiki/mahnungdrucken3-df9eec46.png",
     "sha256": "045b81b3a63897c2d8e917334e0186def0cf7fe2ca5246de4fe9511558379906",
@@ -2674,6 +3848,25 @@
     "path": "/bilder/wiki/merkmaluebermittag-97332c7c.png",
     "sha256": "2c3450254869ad5a56026b358c76e8bd9d73beea166f862f64a1a659c53de6d7",
     "bytes": 33254
+  },
+  {
+    "name": "Migration.jpg",
+    "timestamp": "2015-09-07T13:46:01Z",
+    "size": 31807,
+    "width": 781,
+    "height": 123,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/4/4d/Migration.jpg",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Migration.jpg",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=939",
+    "sha1": "68b6a9233496090c1e7610db6c6a858ce4399afe",
+    "mime": "image/jpeg",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Migration.jpg",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/4d/Migration.jpg",
+    "path": "/bilder/wiki/migration-4221e48d.jpg",
+    "sha256": "f92a81b9dd3c334026a53cc45a5918db5f00445be1935589919f918e3d3ba7ca",
+    "bytes": 31807
   },
   {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/2/24/Migrationshintergrund.png",
@@ -2872,6 +4065,139 @@
     "path": "/bilder/wiki/nursichtbarefaecher-8e889aff.jpg",
     "sha256": "a91217acce9c91a5f9301566cc872725576d8e04815893357554b01aa520dbca",
     "bytes": 5425
+  },
+  {
+    "name": "OGS-01.png",
+    "timestamp": "2015-08-24T07:16:37Z",
+    "size": 1393,
+    "width": 118,
+    "height": 40,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/5/5e/OGS-01.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:OGS-01.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=922",
+    "sha1": "93c83267ac164927eda0a6709a8aa8b998d328cb",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:OGS-01.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/5e/OGS-01.png",
+    "path": "/bilder/wiki/ogs-01-2c8b3d01.png",
+    "sha256": "d32e0c8345799fb1c19a3d7480aa047285950c2a1cbdc7e0b8da859607d1b208",
+    "bytes": 1393
+  },
+  {
+    "name": "OGS-02.png",
+    "timestamp": "2015-08-24T07:31:11Z",
+    "size": 4772,
+    "width": 337,
+    "height": 105,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/8/84/OGS-02.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:OGS-02.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=923",
+    "sha1": "fd2c6fe7156e27e5dab477a7d12fa87d17f8f06e",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:OGS-02.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/84/OGS-02.png",
+    "path": "/bilder/wiki/ogs-02-9b594fec.png",
+    "sha256": "9db15592ee3e8bf07668946624b56aee533cda41bf4954ddc3009af03af51e6c",
+    "bytes": 4772
+  },
+  {
+    "name": "OGS-03.png",
+    "timestamp": "2015-08-24T07:44:53Z",
+    "size": 9911,
+    "width": 419,
+    "height": 184,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/0/05/OGS-03.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:OGS-03.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=924",
+    "sha1": "96afde3914674c49186c881b9abdaa2d90a08d6b",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:OGS-03.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/05/OGS-03.png",
+    "path": "/bilder/wiki/ogs-03-60995d96.png",
+    "sha256": "55fe5d6e7d64905bd14b9d8f08dcb281d107ec92bbd1347461076373b68a9fa7",
+    "bytes": 9911
+  },
+  {
+    "name": "OGS-04.png",
+    "timestamp": "2015-08-24T07:45:06Z",
+    "size": 11902,
+    "width": 505,
+    "height": 153,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/8/80/OGS-04.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:OGS-04.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=925",
+    "sha1": "b7cc3050861949a94877401ede569a4bdcca6416",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:OGS-04.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/80/OGS-04.png",
+    "path": "/bilder/wiki/ogs-04-1a9fc86a.png",
+    "sha256": "9a58e9d975a405e97eed7c99a82e37fe3a46370dd3a6345f85cf278f135af73c",
+    "bytes": 11902
+  },
+  {
+    "name": "OGS-05.png",
+    "timestamp": "2015-08-24T08:05:00Z",
+    "size": 4733,
+    "width": 200,
+    "height": 193,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/1/1e/OGS-05.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:OGS-05.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=926",
+    "sha1": "5a4046ca43ede42c0a1b1e50ad645160750d86e0",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:OGS-05.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/1/1e/OGS-05.png",
+    "path": "/bilder/wiki/ogs-05-b5d37c79.png",
+    "sha256": "5ce1385307f23467de441735d948015710beafb0d064f5b5e82cc459376a3edb",
+    "bytes": 4733
+  },
+  {
+    "name": "OGS-06.png",
+    "timestamp": "2015-08-24T08:05:10Z",
+    "size": 10840,
+    "width": 284,
+    "height": 116,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/3/3c/OGS-06.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:OGS-06.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=927",
+    "sha1": "69df767bdae53b89af39ac64868ebf7b76b0c732",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:OGS-06.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/3c/OGS-06.png",
+    "path": "/bilder/wiki/ogs-06-67f6c498.png",
+    "sha256": "5692cc31956976d008ba2a488ff1ce4455ad65fe83abbc3e019163a16e73d3e2",
+    "bytes": 10840
+  },
+  {
+    "name": "OGS-07.png",
+    "timestamp": "2015-08-24T08:05:22Z",
+    "size": 4099,
+    "width": 362,
+    "height": 124,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/b/b9/OGS-07.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:OGS-07.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=928",
+    "sha1": "dc387a0005bf4737f83f94e9a2552e1c7cd8cc91",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:OGS-07.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/b9/OGS-07.png",
+    "path": "/bilder/wiki/ogs-07-0995ce87.png",
+    "sha256": "e9c8a1c747fdb5a2eadc2a05230a24b279223fdc3cd37acfe9c81c74cd2fa3ec",
+    "bytes": 4099
   },
   {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/8/8e/Option-Standardsteuerdatei.png",
@@ -3270,6 +4596,25 @@
     "bytes": 7893
   },
   {
+    "name": "RepBau29.jpg",
+    "timestamp": "2014-03-10T15:27:54Z",
+    "size": 36461,
+    "width": 674,
+    "height": 243,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/f/f5/RepBau29.jpg",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:RepBau29.jpg",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=415",
+    "sha1": "b5d7dc60e9dd602649663c6a3abc496ce69f09fa",
+    "mime": "image/jpeg",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:RepBau29.jpg",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f5/RepBau29.jpg",
+    "path": "/bilder/wiki/repbau29-dfcd3705.jpg",
+    "sha256": "733dfaa1f33af0e293b559a3eb865b1292204b693a9e3294605946a236bd3c82",
+    "bytes": 36461
+  },
+  {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/1/17/RepBau30.jpg",
     "path": "/bilder/wiki/repbau30-a46b1d14.jpg",
     "sha256": "6259daf84c575811394a49c41e6ce32a2de0b480afdf0430f2c9705fcf0e5147",
@@ -3364,6 +4709,25 @@
     "path": "/bilder/wiki/report-header-vorschau-8bbbec36.png",
     "sha256": "c97bb414c1ea976adae97368536468ff54e88dd104963b5af45e96ef0ed7d68d",
     "bytes": 19328
+  },
+  {
+    "name": "Report-Neu-1.png",
+    "timestamp": "2014-11-21T16:03:39Z",
+    "size": 0,
+    "width": 666,
+    "height": 491,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/e/e2/Report-Neu-1.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Report-Neu-1.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=667",
+    "sha1": "9a3fa9a6ac49aaa2f8967a926e44c9a7e6d7753f",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Report-Neu-1.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/e2/Report-Neu-1.png",
+    "path": "/bilder/wiki/report-neu-1-4de2f33f.png",
+    "sha256": "67a42792c03ff72b0d4d1730f6f4afc28be0450a98a793cc054e19438dc90ab1",
+    "bytes": 47653
   },
   {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/3/31/Report-Neu-2.png",
@@ -3540,6 +4904,44 @@
     "bytes": 65275
   },
   {
+    "name": "Repot-Neu-Label-Symbol.png",
+    "timestamp": "2014-11-23T08:43:08Z",
+    "size": 309,
+    "width": 21,
+    "height": 19,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/f/fc/Repot-Neu-Label-Symbol.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Repot-Neu-Label-Symbol.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=690",
+    "sha1": "f6abed8673ed615789ebab93ca77e0fdf8998b24",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Repot-Neu-Label-Symbol.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/fc/Repot-Neu-Label-Symbol.png",
+    "path": "/bilder/wiki/repot-neu-label-symbol-583fdec8.png",
+    "sha256": "b4c25465bf23af4f58f21ab22d59ddf95f0a1c93850823271ce7604a598c3b6a",
+    "bytes": 309
+  },
+  {
+    "name": "Richtig.png",
+    "timestamp": "2015-07-22T21:20:42Z",
+    "size": 2036,
+    "width": 32,
+    "height": 32,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/3/31/Richtig.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Richtig.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=881",
+    "sha1": "2766a4497d07254ca04592b1adab89ead9f7ece5",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Richtig.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/31/Richtig.png",
+    "path": "/bilder/wiki/richtig-4a78f82a.png",
+    "sha256": "b5e806078dbe19ee422e9c92eac63186e957d321b912013444bd56ea4ea56c7e",
+    "bytes": 2036
+  },
+  {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/c/c1/Rtf-Dokumente.png",
     "path": "/bilder/wiki/rtf-dokumente-bcd3de75.png",
     "sha256": "38d54443e9b261c5bfc43e567f59254b55e515f55766dcc8c2185e65f8131263",
@@ -3612,10 +5014,48 @@
     "bytes": 7922
   },
   {
+    "name": "S1P-011-Teile-überdeckt.jpg",
+    "timestamp": "2016-11-25T10:24:37Z",
+    "size": 18065,
+    "width": 395,
+    "height": 194,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/7/77/S1P-011-Teile-%C3%BCberdeckt.jpg",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:S1P-011-Teile-%C3%BCberdeckt.jpg",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=1046",
+    "sha1": "556302aed9ac8907365b71bb7e18b3a85c781758",
+    "mime": "image/jpeg",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:S1P-011-Teile-überdeckt.jpg",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/77/S1P-011-Teile-%C3%BCberdeckt.jpg",
+    "path": "/bilder/wiki/s1p-011-teile-ueberdeckt-b59522aa.jpg",
+    "sha256": "e698bc81272a8419b796e732d8075e361313b166c801374b1826aa1c44f2571b",
+    "bytes": 18065
+  },
+  {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/c/c9/S1P-011-%C3%9Cbersicht.jpg",
     "path": "/bilder/wiki/s1p-011-uebersicht-bfd49c35.jpg",
     "sha256": "1cd3d565ccddadfb4a1f66a6fd5c85fbc27006133973e4af9063e0eeeb6882b2",
     "bytes": 40857
+  },
+  {
+    "name": "S1P-012-alles-sichtbar.JPG",
+    "timestamp": "2016-11-25T10:24:58Z",
+    "size": 37821,
+    "width": 454,
+    "height": 243,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/a/ad/S1P-012-alles-sichtbar.JPG",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:S1P-012-alles-sichtbar.JPG",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=1047",
+    "sha1": "b37b82f69cb9dfca90d58f4a5ec5779b53a2f1a8",
+    "mime": "image/jpeg",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:S1P-012-alles-sichtbar.JPG",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/a/ad/S1P-012-alles-sichtbar.JPG",
+    "path": "/bilder/wiki/s1p-012-alles-sichtbar-14e7c1cc.jpg",
+    "sha256": "d1c073e959b8ba9e35d07ea8ccf0e41560a9b5f9d7b18f240b37c275b11d0ed5",
+    "bytes": 37821
   },
   {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/e/e8/S1P-013-Kursprofil_anlegen.jpg",
@@ -3652,6 +5092,25 @@
     "path": "/bilder/wiki/s1p-017-kursuebersicht-92b5a0e8.jpg",
     "sha256": "a415b8513dfa8c152747c3c520162c422122e18bbb1e112ce3fe2a756ab97b22",
     "bytes": 36552
+  },
+  {
+    "name": "S1P-018-Schild-Abgleich.JPG",
+    "timestamp": "2016-11-29T15:03:43Z",
+    "size": 14453,
+    "width": 199,
+    "height": 123,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/7/78/S1P-018-Schild-Abgleich.JPG",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:S1P-018-Schild-Abgleich.JPG",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=1053",
+    "sha1": "6ae56c09ad463f3738a3b03b224c12a67a7d954b",
+    "mime": "image/jpeg",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:S1P-018-Schild-Abgleich.JPG",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/78/S1P-018-Schild-Abgleich.JPG",
+    "path": "/bilder/wiki/s1p-018-schild-abgleich-c3d2e7c5.jpg",
+    "sha256": "7761941b49fbb9d38f2a18346c92c3f938246830cba74c01c76cd94cbfe56aea",
+    "bytes": 14453
   },
   {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/7/7d/S1P-019-Kurszuweisung-alle.JPG",
@@ -3786,6 +5245,25 @@
     "bytes": 8765
   },
   {
+    "name": "S1P-041-Ergebnis-nach-Optimierung.JPG",
+    "timestamp": "2016-11-25T11:04:43Z",
+    "size": 43480,
+    "width": 896,
+    "height": 149,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/c/ca/S1P-041-Ergebnis-nach-Optimierung.JPG",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:S1P-041-Ergebnis-nach-Optimierung.JPG",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=1076",
+    "sha1": "7d4d9579104cfe08da708010c10ccad4f9c723e4",
+    "mime": "image/jpeg",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:S1P-041-Ergebnis-nach-Optimierung.JPG",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/ca/S1P-041-Ergebnis-nach-Optimierung.JPG",
+    "path": "/bilder/wiki/s1p-041-ergebnis-nach-optimierung-51c2ca0b.jpg",
+    "sha256": "e85b21c56d6760a2c6f99c5fad4342008756e0cb590879e53382e13dd034c6fe",
+    "bytes": 43480
+  },
+  {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/5/5b/S1P-042-Kursprofil.JPG",
     "path": "/bilder/wiki/s1p-042-kursprofil-ee8c9588.jpg",
     "sha256": "2392bc5fc506dd89095cefc2c548c72729620259970659107b79a4e085d8b2aa",
@@ -3858,6 +5336,101 @@
     "bytes": 256524
   },
   {
+    "name": "SchILD-NRW_Export_BAN-Portal_GP_AktuellenAbschnittVerwenden.png",
+    "timestamp": "2024-03-14T08:14:19Z",
+    "size": 70563,
+    "width": 833,
+    "height": 219,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/3/30/SchILD-NRW_Export_BAN-Portal_GP_AktuellenAbschnittVerwenden.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:SchILD-NRW_Export_BAN-Portal_GP_AktuellenAbschnittVerwenden.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=1394",
+    "sha1": "91a2c4986afcf54e0144dfb7031432da63915518",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:SchILD-NRW Export BAN-Portal GP AktuellenAbschnittVerwenden.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/30/SchILD-NRW_Export_BAN-Portal_GP_AktuellenAbschnittVerwenden.png",
+    "path": "/bilder/wiki/schild-nrw-export-ban-portal-gp-aktuellenabschnittverwenden-978017f2.png",
+    "sha256": "871795ed4ecd9536d59cd9ddff90a899e27668ae1034fbe1ba1cce9cd8bdf120",
+    "bytes": 70563
+  },
+  {
+    "name": "SchILD-NRW_Export_BAN-Portal_GP_BANaktivieren.png",
+    "timestamp": "2024-03-14T08:01:24Z",
+    "size": 538921,
+    "width": 1523,
+    "height": 1270,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/5/55/SchILD-NRW_Export_BAN-Portal_GP_BANaktivieren.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:SchILD-NRW_Export_BAN-Portal_GP_BANaktivieren.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=1390",
+    "sha1": "86cc308cab207dde9b34f9f856129a3e5bc1f61a",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:SchILD-NRW Export BAN-Portal GP BANaktivieren.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/55/SchILD-NRW_Export_BAN-Portal_GP_BANaktivieren.png",
+    "path": "/bilder/wiki/schild-nrw-export-ban-portal-gp-banaktivieren-1c8b65f2.png",
+    "sha256": "bb47eca32de20e509ed179562ac709a638ed2fd791d46c80113d94cbe3e0b0a4",
+    "bytes": 538921
+  },
+  {
+    "name": "SchILD-NRW_Export_BAN-Portal_GP_JGwählen.png",
+    "timestamp": "2024-03-14T07:58:31Z",
+    "size": 64138,
+    "width": 456,
+    "height": 346,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/8/8a/SchILD-NRW_Export_BAN-Portal_GP_JGw%C3%A4hlen.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:SchILD-NRW_Export_BAN-Portal_GP_JGw%C3%A4hlen.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=1389",
+    "sha1": "cadff0900ab81e68b603752e1517486aed85ae03",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:SchILD-NRW Export BAN-Portal GP JGwählen.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/8a/SchILD-NRW_Export_BAN-Portal_GP_JGw%C3%A4hlen.png",
+    "path": "/bilder/wiki/schild-nrw-export-ban-portal-gp-jgwaehlen-f0c82a96.png",
+    "sha256": "89101eacfc9b15e143fe3513f2014dc177cdb3595a8ac88ada8f4141eaccf852",
+    "bytes": 64138
+  },
+  {
+    "name": "SchILD-NRW_Export_BAN-Portal_GP_Rückfrage.png",
+    "timestamp": "2024-03-14T08:07:54Z",
+    "size": 11791,
+    "width": 541,
+    "height": 179,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/1/19/SchILD-NRW_Export_BAN-Portal_GP_R%C3%BCckfrage.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:SchILD-NRW_Export_BAN-Portal_GP_R%C3%BCckfrage.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=1392",
+    "sha1": "020a4397584d3faf309532ff17df6bc486fa0507",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:SchILD-NRW Export BAN-Portal GP Rückfrage.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/1/19/SchILD-NRW_Export_BAN-Portal_GP_R%C3%BCckfrage.png",
+    "path": "/bilder/wiki/schild-nrw-export-ban-portal-gp-rueckfrage-dbebfb60.png",
+    "sha256": "ca070becb4410ecaefd4e810b0e927befde3e95b11c5e0a6b9a1baac6f28db4a",
+    "bytes": 11791
+  },
+  {
+    "name": "SchILD-NRW_Export_BAN-Portal_GP_Rückfrage_Viele.png",
+    "timestamp": "2024-03-14T08:08:01Z",
+    "size": 14641,
+    "width": 541,
+    "height": 191,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/e/e4/SchILD-NRW_Export_BAN-Portal_GP_R%C3%BCckfrage_Viele.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:SchILD-NRW_Export_BAN-Portal_GP_R%C3%BCckfrage_Viele.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=1393",
+    "sha1": "814cf6b7d6f08f58cbdd3759d2f88e445f4bead0",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:SchILD-NRW Export BAN-Portal GP Rückfrage Viele.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/e4/SchILD-NRW_Export_BAN-Portal_GP_R%C3%BCckfrage_Viele.png",
+    "path": "/bilder/wiki/schild-nrw-export-ban-portal-gp-rueckfrage-viele-86dea9db.png",
+    "sha256": "da1c7164be525e7a6de469195aab6294564e14da7fa5469e0b948c653a7614e0",
+    "bytes": 14641
+  },
+  {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/a/a0/SchILD-NRW_Export_BAN-Portal_Markieren.png",
     "path": "/bilder/wiki/schild-nrw-export-ban-portal-markieren-fc15379f.png",
     "sha256": "41fa5fa7e2d68f676271a3ae543f102925d5d7e8172082fe000738088e09f23c",
@@ -3882,10 +5455,48 @@
     "bytes": 35821
   },
   {
+    "name": "Schild-NRW-Icon.jpg",
+    "timestamp": "2015-05-01T12:04:01Z",
+    "size": 4855,
+    "width": 174,
+    "height": 100,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/b/b2/Schild-NRW-Icon.jpg",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Schild-NRW-Icon.jpg",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=779",
+    "sha1": "6c11a3dcf08c937adabf3df16467a02033383b2c",
+    "mime": "image/jpeg",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Schild-NRW-Icon.jpg",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/b2/Schild-NRW-Icon.jpg",
+    "path": "/bilder/wiki/schild-nrw-icon-bb2685f9.jpg",
+    "sha256": "50046cd00b8b64dbd4c88785112b04e6a0e265fdf030a932ddb2bf43706f053c",
+    "bytes": 4855
+  },
+  {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/8/85/SchILD_Update.png",
     "path": "/bilder/wiki/schild-update-ba525f0f.png",
     "sha256": "2762b1354ba813031b3bee370efb986800df9be4a5ee2cd0cad45ec20ce6066b",
     "bytes": 210040
+  },
+  {
+    "name": "SchILD_Verwaltung_Export_BAN_GP_Auswählen.png",
+    "timestamp": "2024-03-22T11:40:09Z",
+    "size": 172065,
+    "width": 962,
+    "height": 594,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/f/f1/SchILD_Verwaltung_Export_BAN_GP_Ausw%C3%A4hlen.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:SchILD_Verwaltung_Export_BAN_GP_Ausw%C3%A4hlen.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=1406",
+    "sha1": "b008c5b04b1657c85dd5b4391dcbded4de202391",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:SchILD Verwaltung Export BAN GP Auswählen.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f1/SchILD_Verwaltung_Export_BAN_GP_Ausw%C3%A4hlen.png",
+    "path": "/bilder/wiki/schild-verwaltung-export-ban-gp-auswaehlen-fd171ebc.png",
+    "sha256": "6aa90e09ef7f54ac89f13a20a969a42e0b79f53be7055e99c210160273ef81ee",
+    "bytes": 172065
   },
   {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/b/b3/Schildmig3EXE.jpg",
@@ -3942,6 +5553,25 @@
     "bytes": 138061
   },
   {
+    "name": "Schulform999000.jpg",
+    "timestamp": "2015-09-07T13:42:25Z",
+    "size": 41299,
+    "width": 759,
+    "height": 139,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/f/fc/Schulform999000.jpg",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Schulform999000.jpg",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=937",
+    "sha1": "5dc14191510b88395f2514226319dc270416a240",
+    "mime": "image/jpeg",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Schulform999000.jpg",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/fc/Schulform999000.jpg",
+    "path": "/bilder/wiki/schulform999000-dbce50aa.jpg",
+    "sha256": "c35364b50bbba3783f7f2e3b12aa979cbfe08667ccb5b555346e066ca95b0eca",
+    "bytes": 41299
+  },
+  {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/b/b6/Schuljahreswechsel.jpg",
     "path": "/bilder/wiki/schuljahreswechsel-4c32caa9.jpg",
     "sha256": "bfd27fd81587855f420d8df6d89048ae40a2bded4ed521c3652414545827f33f",
@@ -3952,6 +5582,82 @@
     "path": "/bilder/wiki/schulverwaltung-01-f6550f07.jpg",
     "sha256": "ce31af5b782f399d792af55151122241390ce01f9d4762eaa5bd7d81e15aec8a",
     "bytes": 25363
+  },
+  {
+    "name": "Serienbrief-01.png",
+    "timestamp": "2015-11-16T09:21:09Z",
+    "size": 43254,
+    "width": 572,
+    "height": 172,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/8/85/Serienbrief-01.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Serienbrief-01.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=960",
+    "sha1": "cca4979a2394c47af3a43b4db7c03742d04d0c29",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Serienbrief-01.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/85/Serienbrief-01.png",
+    "path": "/bilder/wiki/serienbrief-01-b36fda10.png",
+    "sha256": "23676313930ac3155a3dfd1ee3377f167e5b267079ff13bd808b61fa8707c77c",
+    "bytes": 43254
+  },
+  {
+    "name": "Serienbrief-02.png",
+    "timestamp": "2015-11-16T09:25:17Z",
+    "size": 3220,
+    "width": 315,
+    "height": 104,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/4/48/Serienbrief-02.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Serienbrief-02.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=961",
+    "sha1": "a532faf1b798ddc7e4f5d35904b1d135a9a79931",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Serienbrief-02.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/48/Serienbrief-02.png",
+    "path": "/bilder/wiki/serienbrief-02-efae88be.png",
+    "sha256": "7ddd79ce0d9d15742d6eb6a81baa65f423d9719d6993ca0657bdb1e1dfe65203",
+    "bytes": 3220
+  },
+  {
+    "name": "Serienbrief-03.png",
+    "timestamp": "2015-11-16T09:48:14Z",
+    "size": 38047,
+    "width": 701,
+    "height": 516,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/f/fc/Serienbrief-03.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Serienbrief-03.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=962",
+    "sha1": "dceec81877ad1bec734f9e9485460f00a8b92069",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Serienbrief-03.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/fc/Serienbrief-03.png",
+    "path": "/bilder/wiki/serienbrief-03-d49ff2a2.png",
+    "sha256": "7f073219122af82f82f79261815870c935e1d77fb698753b07e765f774af185e",
+    "bytes": 38047
+  },
+  {
+    "name": "Serienbrief-04.png",
+    "timestamp": "2015-11-16T09:55:26Z",
+    "size": 94844,
+    "width": 983,
+    "height": 587,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/6/6a/Serienbrief-04.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Serienbrief-04.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=963",
+    "sha1": "41995795381c0a2562f18991b36a150f9e6e178e",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Serienbrief-04.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/6a/Serienbrief-04.png",
+    "path": "/bilder/wiki/serienbrief-04-264c4646.png",
+    "sha256": "a70cf052d269d926b514f482c1bee330ad2712b98b125c3522ac1164deb8541d",
+    "bytes": 94844
   },
   {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d1/Sortierung-01.png",
@@ -4032,6 +5738,25 @@
     "bytes": 16252
   },
   {
+    "name": "Staatsang.jpg",
+    "timestamp": "2015-09-07T13:43:43Z",
+    "size": 9229,
+    "width": 373,
+    "height": 100,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/e/e5/Staatsang.jpg",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Staatsang.jpg",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=938",
+    "sha1": "749785e6b0f1d65dba5ecdb6bb281207220c9fef",
+    "mime": "image/jpeg",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Staatsang.jpg",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/e5/Staatsang.jpg",
+    "path": "/bilder/wiki/staatsang-c8cb9cea.jpg",
+    "sha256": "1831c8ea12bf8db6b421541d5ae92f20ec7e1e929c0bae4de19c6f4b13e10267",
+    "bytes": 9229
+  },
+  {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d3/StatistikJahrgaengeG9.png",
     "path": "/bilder/wiki/statistikjahrgaengeg9-e2875338.png",
     "sha256": "b533e9b43b826a97b892026027964e39e07b72a961700ff4ae9d31d929c3020a",
@@ -4060,6 +5785,12 @@
     "path": "/bilder/wiki/stundentafel-02-f32f5788.jpg",
     "sha256": "1be5f3fe1de7d16e51b64245350ae9c07abb03dceb0aff940bf1565a6925ff0f",
     "bytes": 40909
+  },
+  {
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/8f/Supportkonzept_des_MSW.png",
+    "path": "/bilder/wiki/supportkonzept-des-msw-65ee2bfa.png",
+    "sha256": "46129cc9ebac5c09deac31c6c027701b3427eabc9aee9eb562033bc8af6b7266",
+    "bytes": 473657
   },
   {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/c/c3/Symbol-Datenquellen.png",
@@ -4224,6 +5955,44 @@
     "bytes": 6986
   },
   {
+    "name": "Unicode.png",
+    "timestamp": "2022-03-12T22:51:07Z",
+    "size": 117178,
+    "width": 605,
+    "height": 522,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/2/2b/Unicode.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Unicode.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=1366",
+    "sha1": "d70aa01de7508d514059f89528e635d34ee262b1",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Unicode.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/2b/Unicode.png",
+    "path": "/bilder/wiki/unicode-1b3d00f0.png",
+    "sha256": "267638f96b4e03ac493099de6f265214997ce8a71b9e9ad5f3b9b9487304f3f9",
+    "bytes": 117178
+  },
+  {
+    "name": "Unterbericht_001.png",
+    "timestamp": "2017-05-21T18:47:52Z",
+    "size": 73813,
+    "width": 1382,
+    "height": 744,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/2/23/Unterbericht_001.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Unterbericht_001.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=1123",
+    "sha1": "3d02dc40c0ea5e1329e9eb2ce6ead1e18c68ecc6",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Unterbericht 001.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/23/Unterbericht_001.png",
+    "path": "/bilder/wiki/unterbericht-001-60a852e1.png",
+    "sha256": "7850dffc251f77a58f8e334f74a62cbd7f42a4f5697788629fd277e6718d624d",
+    "bytes": 73813
+  },
+  {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/d/d0/Unterbericht_002.png",
     "path": "/bilder/wiki/unterbericht-002-f4061e45.png",
     "sha256": "e7bac8e841faeccd9e94359cf3c38083c3e4b7aa8bbf5be6b13f23c9f4e980a7",
@@ -4242,10 +6011,48 @@
     "bytes": 92045
   },
   {
+    "name": "Unterrichtsfaecher-02.jpg",
+    "timestamp": "2014-02-13T15:15:11Z",
+    "size": 68453,
+    "width": 787,
+    "height": 401,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/b/b8/Unterrichtsfaecher-02.jpg",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Unterrichtsfaecher-02.jpg",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=310",
+    "sha1": "4dabcba7652457e0f8d2f30264658c307449bae6",
+    "mime": "image/jpeg",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Unterrichtsfaecher-02.jpg",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/b8/Unterrichtsfaecher-02.jpg",
+    "path": "/bilder/wiki/unterrichtsfaecher-02-b9a8b53a.jpg",
+    "sha256": "5d3116170c688dc51da1721e8a28db127622a60de9afea2d619c3331cf1d0f92",
+    "bytes": 68453
+  },
+  {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/c/c0/UserAdmn.png",
     "path": "/bilder/wiki/useradmn-2a9b6bee.png",
     "sha256": "8ffb3b146c39206f3db7daa501a7d1eb5abe87a98a07ce7120cfcab5a6c7a4a2",
     "bytes": 115557
+  },
+  {
+    "name": "UserAdmn_exe1.jpg",
+    "timestamp": "2014-05-14T12:34:35Z",
+    "size": 73190,
+    "width": 645,
+    "height": 388,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/8/86/UserAdmn_exe1.jpg",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:UserAdmn_exe1.jpg",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=526",
+    "sha1": "1d819116841ab474891bd623d54e7505784523f8",
+    "mime": "image/jpeg",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:UserAdmn exe1.jpg",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/86/UserAdmn_exe1.jpg",
+    "path": "/bilder/wiki/useradmn-exe1-5b610000.jpg",
+    "sha256": "05042680f9d8e3f5f5318753a6e623cf9332cf87a476d29f3c9e7e598fde9370",
+    "bytes": 73190
   },
   {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/1/1a/UVD_3.png",
@@ -4294,6 +6101,367 @@
     "path": "/bilder/wiki/vermerksetzen-0ecaf89f.png",
     "sha256": "47993d899714d816478ea2dad70fdf29125275820a65947218394ffd706a9f2b",
     "bytes": 7159
+  },
+  {
+    "name": "Versetzung-GS-01.png",
+    "timestamp": "2015-05-30T10:52:17Z",
+    "size": 27215,
+    "width": 499,
+    "height": 222,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/6/60/Versetzung-GS-01.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Versetzung-GS-01.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=811",
+    "sha1": "f16b3cb5da67638e8024d942f70049c45e77cc27",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Versetzung-GS-01.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/60/Versetzung-GS-01.png",
+    "path": "/bilder/wiki/versetzung-gs-01-ca4e7561.png",
+    "sha256": "163f00a40090136cd0658679f4a7a8fb509d3cc336da8e41279539654974da7f",
+    "bytes": 27215
+  },
+  {
+    "name": "Versetzung-GS-02.png",
+    "timestamp": "2015-05-30T11:00:47Z",
+    "size": 11526,
+    "width": 420,
+    "height": 256,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/2/26/Versetzung-GS-02.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Versetzung-GS-02.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=812",
+    "sha1": "dfd4d924c2c87dcfc673f190311b954daf345644",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Versetzung-GS-02.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/26/Versetzung-GS-02.png",
+    "path": "/bilder/wiki/versetzung-gs-02-272a1bdb.png",
+    "sha256": "45301e962877a85985b92f1eca7815bfa6d8e4e625c567953927cc2d1b537f86",
+    "bytes": 11526
+  },
+  {
+    "name": "Versetzung-GS-03.png",
+    "timestamp": "2015-05-30T11:01:01Z",
+    "size": 40998,
+    "width": 526,
+    "height": 439,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/9/93/Versetzung-GS-03.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Versetzung-GS-03.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=813",
+    "sha1": "4ccb88c993ea04a320368aac4df7c4618c7f8802",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Versetzung-GS-03.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/93/Versetzung-GS-03.png",
+    "path": "/bilder/wiki/versetzung-gs-03-553cdf01.png",
+    "sha256": "ca29deae5cbdf731836e8c5ec07bdc9657d7141ce9bba838a104edf7964d1d45",
+    "bytes": 40998
+  },
+  {
+    "name": "Versetzung-GS-04.png",
+    "timestamp": "2015-05-30T11:09:23Z",
+    "size": 3217,
+    "width": 373,
+    "height": 73,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/e/e9/Versetzung-GS-04.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Versetzung-GS-04.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=814",
+    "sha1": "ac35f2a4432d04536fe85bc8b53652bfdc0c4b78",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Versetzung-GS-04.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/e9/Versetzung-GS-04.png",
+    "path": "/bilder/wiki/versetzung-gs-04-71830cc3.png",
+    "sha256": "90005d8b3ccff158b4423bec2ddbb8a515865482f08d501d80ad1c33d99b1f63",
+    "bytes": 3217
+  },
+  {
+    "name": "Versetzung-GS-05.png",
+    "timestamp": "2015-05-30T11:09:35Z",
+    "size": 14049,
+    "width": 528,
+    "height": 145,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/2/23/Versetzung-GS-05.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Versetzung-GS-05.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=815",
+    "sha1": "c8d6811009f99b8d72a1b6db417d43db954ddef6",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Versetzung-GS-05.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/2/23/Versetzung-GS-05.png",
+    "path": "/bilder/wiki/versetzung-gs-05-319dcba3.png",
+    "sha256": "f5998dc2276cb11982355f441c464ed2c73d7ea0153aaf42108aae9676b2e51b",
+    "bytes": 14049
+  },
+  {
+    "name": "Versetzung-GS-06.png",
+    "timestamp": "2015-05-30T11:19:37Z",
+    "size": 45677,
+    "width": 398,
+    "height": 149,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/6/63/Versetzung-GS-06.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Versetzung-GS-06.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=816",
+    "sha1": "e58ca1fcfbe944a38838d2965edad070bfcb264f",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Versetzung-GS-06.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/63/Versetzung-GS-06.png",
+    "path": "/bilder/wiki/versetzung-gs-06-f80a22d3.png",
+    "sha256": "d055980126e582cddeea7c25a9fb82658243a7bd1d5ee20699a1215f443beacc",
+    "bytes": 45677
+  },
+  {
+    "name": "Versetzung-GS-07.png",
+    "timestamp": "2015-05-30T12:11:14Z",
+    "size": 564126,
+    "width": 949,
+    "height": 687,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/e/e0/Versetzung-GS-07.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Versetzung-GS-07.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=818",
+    "sha1": "8bd7f2d9c41a49242b4ab1c081734bc50580ef29",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Versetzung-GS-07.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/e0/Versetzung-GS-07.png",
+    "path": "/bilder/wiki/versetzung-gs-07-98457ff0.png",
+    "sha256": "0bc1c3d3e64ac100202ab4f300f938e02a4639b83b1f9a8f0af13e317cb5aa69",
+    "bytes": 564126
+  },
+  {
+    "name": "Versetzung-GS-08.png",
+    "timestamp": "2015-07-21T13:23:37Z",
+    "size": 50680,
+    "width": 782,
+    "height": 410,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/b/b5/Versetzung-GS-08.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Versetzung-GS-08.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=817",
+    "sha1": "5c26c15f4cb1815fe3a0060224d673f8253a6145",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Versetzung-GS-08.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/b5/Versetzung-GS-08.png",
+    "path": "/bilder/wiki/versetzung-gs-08-8e23aea1.png",
+    "sha256": "cd8281a70aba6cff36a8b0e8ce075342e7c923093f474d94f6645af6bea163ce",
+    "bytes": 50680
+  },
+  {
+    "name": "Versetzung-GS-09.png",
+    "timestamp": "2015-05-30T15:55:34Z",
+    "size": 2547,
+    "width": 464,
+    "height": 67,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/9/90/Versetzung-GS-09.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Versetzung-GS-09.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=819",
+    "sha1": "ab73661f3a44cdce1da9a3d599e866dd4b34d03d",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Versetzung-GS-09.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/90/Versetzung-GS-09.png",
+    "path": "/bilder/wiki/versetzung-gs-09-018b08ee.png",
+    "sha256": "0595efbe4cf6ff4eece52597d7796394dd86900fd1f2157579afefe14ce2040a",
+    "bytes": 2547
+  },
+  {
+    "name": "Versetzung-GS-10.png",
+    "timestamp": "2015-05-30T15:55:50Z",
+    "size": 60287,
+    "width": 571,
+    "height": 106,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/4/48/Versetzung-GS-10.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Versetzung-GS-10.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=820",
+    "sha1": "5f28bbdf84d81ffe6227d4c4405c62be00cbff78",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Versetzung-GS-10.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/4/48/Versetzung-GS-10.png",
+    "path": "/bilder/wiki/versetzung-gs-10-b08c7d76.png",
+    "sha256": "f0e13e9741a8f6a08393a407d290e1a9b002629ad1b568034f08df7bb1365c7e",
+    "bytes": 60287
+  },
+  {
+    "name": "Versetzung-GS-11.png",
+    "timestamp": "2015-05-30T16:53:13Z",
+    "size": 10142,
+    "width": 234,
+    "height": 208,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/6/6a/Versetzung-GS-11.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Versetzung-GS-11.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=821",
+    "sha1": "cac15b2a37e32c4ae764c9d4f63f88dcf4c5c86e",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Versetzung-GS-11.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/6a/Versetzung-GS-11.png",
+    "path": "/bilder/wiki/versetzung-gs-11-7cb34ebb.png",
+    "sha256": "783e89028c0c0cbd4f69ff7e50fa648e876940ac7a277c195731a8b2c095b5be",
+    "bytes": 10142
+  },
+  {
+    "name": "Versetzung-GS-12.png",
+    "timestamp": "2015-05-30T16:53:22Z",
+    "size": 10688,
+    "width": 169,
+    "height": 133,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/c/c8/Versetzung-GS-12.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Versetzung-GS-12.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=822",
+    "sha1": "5b8055c2b97a82878d8d2dc04e657e01a88ac574",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Versetzung-GS-12.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/c8/Versetzung-GS-12.png",
+    "path": "/bilder/wiki/versetzung-gs-12-55cc7820.png",
+    "sha256": "a5f98ef9ef28038ba837792c7da9995c2eba26ff481e549f6feb1776af553924",
+    "bytes": 10688
+  },
+  {
+    "name": "Versetzung-GS-13.png",
+    "timestamp": "2015-07-21T13:30:27Z",
+    "size": 71339,
+    "width": 891,
+    "height": 594,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/6/65/Versetzung-GS-13.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Versetzung-GS-13.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=854",
+    "sha1": "812e938adfe86cdb7ed796fc725de0ae84e3476a",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Versetzung-GS-13.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/6/65/Versetzung-GS-13.png",
+    "path": "/bilder/wiki/versetzung-gs-13-82edba5d.png",
+    "sha256": "08bf460744af7f87eb8805e114c3476961e8cff6ac4a4900d9caf0a7e59cf113",
+    "bytes": 71339
+  },
+  {
+    "name": "Versetzung-GS-14.png",
+    "timestamp": "2015-06-23T07:16:56Z",
+    "size": 8703,
+    "width": 495,
+    "height": 151,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/8/8f/Versetzung-GS-14.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Versetzung-GS-14.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=855",
+    "sha1": "8c5526ec5ee1f3c3d95a3ef2789d614e58531490",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Versetzung-GS-14.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/8f/Versetzung-GS-14.png",
+    "path": "/bilder/wiki/versetzung-gs-14-2ff98453.png",
+    "sha256": "a0daae9e45a0b7a2d4de1502405d18cd096425e4629757089cb0571fe92ee830",
+    "bytes": 8703
+  },
+  {
+    "name": "Versetzung-SI-01.png",
+    "timestamp": "2015-06-01T08:37:12Z",
+    "size": 19046,
+    "width": 329,
+    "height": 202,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/e/e0/Versetzung-SI-01.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Versetzung-SI-01.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=824",
+    "sha1": "80c7077c74fa81dbeb7ed88c6f8ea5809b08713a",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Versetzung-SI-01.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/e0/Versetzung-SI-01.png",
+    "path": "/bilder/wiki/versetzung-si-01-7ae24fbc.png",
+    "sha256": "3870920e800d50aa1537f36d6eab0ad8792a30d6b1506930bff4d6b2d3b771c5",
+    "bytes": 19046
+  },
+  {
+    "name": "Versetzung-SI-02.png",
+    "timestamp": "2015-06-01T08:46:31Z",
+    "size": 86163,
+    "width": 891,
+    "height": 594,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/9/9b/Versetzung-SI-02.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Versetzung-SI-02.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=825",
+    "sha1": "9d743d267b3b7592e6135094f6e07c8ea6f3035a",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Versetzung-SI-02.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/9b/Versetzung-SI-02.png",
+    "path": "/bilder/wiki/versetzung-si-02-5be53336.png",
+    "sha256": "800bae46cec5add8a72a7b5725747809ae3cd4cd0c27cae0721e424d98464e09",
+    "bytes": 86163
+  },
+  {
+    "name": "Versetzung-SI-03.png",
+    "timestamp": "2015-06-01T08:48:20Z",
+    "size": 11048,
+    "width": 539,
+    "height": 107,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/7/74/Versetzung-SI-03.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Versetzung-SI-03.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=826",
+    "sha1": "a3f23259feded78cbe2c5ba46cd3299a2ceea914",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Versetzung-SI-03.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/7/74/Versetzung-SI-03.png",
+    "path": "/bilder/wiki/versetzung-si-03-6db03d74.png",
+    "sha256": "b664354dffda22e494880397d722c96cbca8b117d073157f72556fa0e5b5d0df",
+    "bytes": 11048
+  },
+  {
+    "name": "Versetzung-SI-04.png",
+    "timestamp": "2015-06-01T08:54:00Z",
+    "size": 8122,
+    "width": 513,
+    "height": 107,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/0/0b/Versetzung-SI-04.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Versetzung-SI-04.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=827",
+    "sha1": "7c680a99d063b37516efb1f4b61059bc06ba4dc5",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Versetzung-SI-04.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/0b/Versetzung-SI-04.png",
+    "path": "/bilder/wiki/versetzung-si-04-8b59c22a.png",
+    "sha256": "d21e513ddcf4a6084a42d11d910b34f51fd5da4c1112125425583259a90138e5",
+    "bytes": 8122
+  },
+  {
+    "name": "Versetzung-SI-05.png",
+    "timestamp": "2015-06-01T08:54:27Z",
+    "size": 11131,
+    "width": 890,
+    "height": 131,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/0/01/Versetzung-SI-05.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Versetzung-SI-05.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=828",
+    "sha1": "19bc12372adb1ad0baa73bd79bb670351cae857a",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Versetzung-SI-05.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/01/Versetzung-SI-05.png",
+    "path": "/bilder/wiki/versetzung-si-05-584189d9.png",
+    "sha256": "4ef05c75a28955f697abbda795b2954f374dfc2136b18c495bad82017747a6f1",
+    "bytes": 11131
   },
   {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/b/b2/Versetzungstabelle.png",
@@ -4404,6 +6572,82 @@
     "bytes": 6157
   },
   {
+    "name": "Zeugnis-Kopf-01.png",
+    "timestamp": "2016-12-14T12:32:10Z",
+    "size": 111978,
+    "width": 455,
+    "height": 221,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/3/32/Zeugnis-Kopf-01.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Zeugnis-Kopf-01.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=791",
+    "sha1": "15a143518d243b2b8ada08768f769cf3f4c68807",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Zeugnis-Kopf-01.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/32/Zeugnis-Kopf-01.png",
+    "path": "/bilder/wiki/zeugnis-kopf-01-b49d4f5e.png",
+    "sha256": "a54f56f3cc2b8913ff192f0be9b2e428a3264bad748f2411c12aff125ccbcb74",
+    "bytes": 111978
+  },
+  {
+    "name": "Zeugnis-Kopf-02.png",
+    "timestamp": "2015-05-07T18:44:54Z",
+    "size": 16373,
+    "width": 448,
+    "height": 386,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/8/82/Zeugnis-Kopf-02.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Zeugnis-Kopf-02.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=793",
+    "sha1": "fdca84a8d0b2770a5d90477e3fe7f92397304a4f",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Zeugnis-Kopf-02.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/8/82/Zeugnis-Kopf-02.png",
+    "path": "/bilder/wiki/zeugnis-kopf-02-4786a022.png",
+    "sha256": "adb9bfffb826c6094c9873d099aac5c97122a2dc667b60da55375bc1fdc49e51",
+    "bytes": 16373
+  },
+  {
+    "name": "Zeugnis-Kopf-03.png",
+    "timestamp": "2015-05-07T18:47:20Z",
+    "size": 1475,
+    "width": 99,
+    "height": 40,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/5/56/Zeugnis-Kopf-03.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Zeugnis-Kopf-03.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=794",
+    "sha1": "88cf084305d1666df87fdcfc1f5ef6f92926a72b",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Zeugnis-Kopf-03.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/56/Zeugnis-Kopf-03.png",
+    "path": "/bilder/wiki/zeugnis-kopf-03-ec4dd330.png",
+    "sha256": "ed8b0a83efac85e2c6441a1305d5d4cc3e088a3f3a90419940a89837190840f8",
+    "bytes": 1475
+  },
+  {
+    "name": "Zeugnis-Kopf-04.png",
+    "timestamp": "2015-05-07T18:53:05Z",
+    "size": 0,
+    "width": 306,
+    "height": 167,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/5/52/Zeugnis-Kopf-04.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Zeugnis-Kopf-04.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=796",
+    "sha1": "b60b5658f48f7382284df985dbaf111db3b07b99",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Zeugnis-Kopf-04.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/5/52/Zeugnis-Kopf-04.png",
+    "path": "/bilder/wiki/zeugnis-kopf-04-cc69f011.png",
+    "sha256": "b0e3f0f421ebdb0109fd3e5a54ebe366f14fa3512fe9542aa111357093b80572",
+    "bytes": 74843
+  },
+  {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/b/ba/Zeugnisabfrage.png",
     "path": "/bilder/wiki/zeugnisabfrage-95feafdc.png",
     "sha256": "8e44c862aa16b7c32eeff0ec7d3164f3a3ccaf36225c30d6f875ca48b06164f5",
@@ -4446,6 +6690,25 @@
     "bytes": 28654
   },
   {
+    "name": "Zeunis-Kopf-04.png",
+    "timestamp": "2015-05-07T18:52:28Z",
+    "size": 74843,
+    "width": 306,
+    "height": 167,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/3/3c/Zeunis-Kopf-04.png",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Zeunis-Kopf-04.png",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=795",
+    "sha1": "b60b5658f48f7382284df985dbaf111db3b07b99",
+    "mime": "image/png",
+    "mediatype": "BITMAP",
+    "ns": 6,
+    "title": "Datei:Zeunis-Kopf-04.png",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/3/3c/Zeunis-Kopf-04.png",
+    "path": "/bilder/wiki/zeunis-kopf-04-97d75982.png",
+    "sha256": "b0e3f0f421ebdb0109fd3e5a54ebe366f14fa3512fe9542aa111357093b80572",
+    "bytes": 74843
+  },
+  {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/e/ed/ZP10-ZK.jpg",
     "path": "/bilder/wiki/zp10-zk-11d42a5b.jpg",
     "sha256": "8a0c0ca445127f3e636392c9de4241c2bbba2d30f057be906c95fb5c6c7eaa09",
@@ -4458,10 +6721,498 @@
     "bytes": 24181
   },
   {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/anonymisierungstool.zip",
+    "path": "/dateien/handbuecher/anonymisierungstool-ae444121.zip",
+    "name": "anonymisierungstool.zip",
+    "bytes": 3274256,
+    "sha256": "ae1b0d5bbe9ecf3cc5cbcd0887c219d2cd9fc40c7543f41729ba23d05369b169",
+    "references": [
+      {
+        "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+        "label": "Anonymisierungstool"
+      }
+    ]
+  },
+  {
+    "source": "https://github.com/msoos/cryptominisat/releases/download/5.6.8/cryptominisat5-win-amd64-nogauss.exe",
+    "path": "/dateien/handbuecher/cryptominisat5-win-amd64-nogauss-a549f8ab.exe",
+    "name": "cryptominisat5-win-amd64-nogauss.exe",
+    "bytes": 1618432,
+    "sha256": "5c23d407046787c51b1d4fb7ecad6d5f03ee1971be4b7fec35e63d959aecfbb7",
+    "references": [
+      {
+        "source": "Kurs42 To CNF:Hauptseite",
+        "label": "https://github.com/msoos/cryptominisat/releases/download/5.6.8/cryptominisat5-win-amd64-nogauss.exe"
+      }
+    ]
+  },
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/enm_bedienungsanleitung_2.pdf",
+    "path": "/dateien/handbuecher/enm-bedienungsanleitung-2-32737c0f.pdf",
+    "name": "enm_bedienungsanleitung_2.pdf",
+    "bytes": 2917945,
+    "sha256": "e23026f3ee98499996cb4e0b7eb551e457f32e581ed72906bc48b14f8085f68f",
+    "references": [
+      {
+        "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+        "label": "Anleitung ENM-Notenmanager PDF"
+      }
+    ]
+  },
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/enm-notenmanager_portable_v1.4.9.2.zip",
+    "path": "/dateien/handbuecher/enm-notenmanager-portable-v1-4-9-2-3edbca4a.zip",
+    "name": "enm-notenmanager_portable_v1.4.9.2.zip",
+    "bytes": 30273550,
+    "sha256": "4376a6d5534b5ba48a15ecfb704cac5be89217eed4d1d57d7c35182abfbf8739",
+    "references": [
+      {
+        "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+        "label": "ENM-Notenmanager Portable ZIP v1.9.4.2"
+      }
+    ]
+  },
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/enm-notenmanager_setup_exe_v1.4.9.2.zip",
+    "path": "/dateien/handbuecher/enm-notenmanager-setup-exe-v1-4-9-2-5a28fecb.zip",
+    "name": "enm-notenmanager_setup_exe_v1.4.9.2.zip",
+    "bytes": 30273550,
+    "sha256": "4376a6d5534b5ba48a15ecfb704cac5be89217eed4d1d57d7c35182abfbf8739",
+    "references": [
+      {
+        "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+        "label": "ENM-Notenmanager Setup EXE v1.4.9.2 (gezippt)"
+      }
+    ]
+  },
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/externes_notenmodul_portable_v3.0.2.2_veraltet.zip",
+    "path": "/dateien/handbuecher/externes-notenmodul-portable-v3-0-2-2-veraltet-db474a4c.zip",
+    "name": "externes_notenmodul_portable_v3.0.2.2_veraltet.zip",
+    "bytes": 4349176,
+    "sha256": "82ac2c564ec0ce992974e3d3efa35dbb0d1b0107aaa9391e18dd86f515438eb4",
+    "references": [
+      {
+        "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+        "label": "Externes Notenmodul Portable ZIP v3.0.2.2 (veraltet)"
+      }
+    ]
+  },
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/externes_notenmodul_repots_veraltet.zip",
+    "path": "/dateien/handbuecher/externes-notenmodul-repots-veraltet-3343fe8c.zip",
+    "name": "externes_notenmodul_repots_veraltet.zip",
+    "bytes": 16677,
+    "sha256": "121cef3ee0af2962efafa661b2d48621015bedcf07b9b44f7063bdaa1e856090",
+    "references": [
+      {
+        "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+        "label": "Externes Notenmodul Reports (veraltet)"
+      }
+    ]
+  },
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/handbuch-schild-lupo-kurs42-22.auflage.pdf",
+    "path": "/dateien/handbuecher/handbuch-schild-lupo-kurs42-22-auflage-76622459.pdf",
+    "name": "handbuch-schild-lupo-kurs42-22.auflage.pdf",
+    "bytes": 9418022,
+    "sha256": "65177f6b62bba55f4d6d162f5b0fed9a820e82e19aa4af5884a4783fd3b91c5b",
+    "references": [
+      {
+        "source": "user",
+        "label": "Handbuch SchILD–LuPO–Kurs42, 22. Auflage"
+      },
+      {
+        "source": "https://www.svws.nrw.de/schild-nrw-2/kurs42",
+        "label": "Handbuch Kurs42-Schild-Lupo PDF"
+      }
+    ]
+  },
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/import_aus_textdatei.zip",
+    "path": "/dateien/handbuecher/import-aus-textdatei-8bd7dc45.zip",
+    "name": "import_aus_textdatei.zip",
+    "bytes": 1729284,
+    "sha256": "f95b833998805e6fd02145588caae591f36b77d128cd8d1c1e8f5ee9f025e252",
+    "references": [
+      {
+        "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+        "label": "Import aus Textdatei"
+      }
+    ]
+  },
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/km2-portable_1_9_6_3.zip",
+    "path": "/dateien/handbuecher/km2-portable-1-9-6-3-e1af2c26.zip",
+    "name": "km2-portable_1_9_6_3.zip",
+    "bytes": 31266348,
+    "sha256": "6cb9afe6f16adfa1144cda5587fee0c229f1c24745a74097d14f80205c328412",
+    "references": [
+      {
+        "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+        "label": "KM2 Portable v1.9.6.3 ZIP"
+      }
+    ]
+  },
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/km2-setup-exe_1_9_6_3_0.zip",
+    "path": "/dateien/handbuecher/km2-setup-exe-1-9-6-3-0-85c5576c.zip",
+    "name": "km2-setup-exe_1_9_6_3_0.zip",
+    "bytes": 29971813,
+    "sha256": "9ef7b71aaab1137ac036336dd0991d7bce1143d1e0c0f16a0b69c7ed1ede2916",
+    "references": [
+      {
+        "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+        "label": "PM2 Setup EXE v1.8.3 (gezippt)"
+      }
+    ]
+  },
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/km2-setup-exe_1_9_6_3_1.zip",
+    "path": "/dateien/handbuecher/km2-setup-exe-1-9-6-3-1-fe7c23ed.zip",
+    "name": "km2-setup-exe_1_9_6_3_1.zip",
+    "bytes": 29971813,
+    "sha256": "9ef7b71aaab1137ac036336dd0991d7bce1143d1e0c0f16a0b69c7ed1ede2916",
+    "references": [
+      {
+        "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+        "label": "KM2 Setup EXE v1.9.6.3 (gezippt)"
+      }
+    ]
+  },
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/km2_versionsgeschichte.pdf",
+    "path": "/dateien/handbuecher/km2-versionsgeschichte-a9d96999.pdf",
+    "name": "km2_versionsgeschichte.pdf",
+    "bytes": 173401,
+    "sha256": "a2ab3b40f5266e93f1c59de8ef75cb9be7ebc16303af87747021cc4484b7b302",
+    "references": [
+      {
+        "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+        "label": "Versionsgeschichte KM2 PDF"
+      }
+    ]
+  },
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/kursplan_2024_03_08.zip",
+    "path": "/dateien/handbuecher/kursplan-2024-03-08-4c35e247.zip",
+    "name": "kursplan_2024_03_08.zip",
+    "bytes": 8179913,
+    "sha256": "6b9b07d62faf4019d0d3d4b49a37d3990bcb2e7cab2413b475e29ec9da77f093",
+    "references": [
+      {
+        "source": "https://www.svws.nrw.de/schild-nrw-2/kurs42",
+        "label": "Kurs42 Stundenplan Plugin ZIP"
+      }
+    ]
+  },
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/kurssetup_3_33_30_528.zip",
+    "path": "/dateien/handbuecher/kurssetup-3-33-30-528-e73e0d12.zip",
+    "name": "kurssetup_3_33_30_528.zip",
+    "bytes": 29278640,
+    "sha256": "47a399e1f198d3f6cf66f179953ef939c60b08abc0bc0625c906a63b1939a20e",
+    "references": [
+      {
+        "source": "https://www.svws.nrw.de/schild-nrw-2/kurs42",
+        "label": "Kurs42 Setup v3.33.30.528 EXE"
+      }
+    ]
+  },
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/kursupdate_3_33_30_528.zip",
+    "path": "/dateien/handbuecher/kursupdate-3-33-30-528-b822f39c.zip",
+    "name": "kursupdate_3_33_30_528.zip",
+    "bytes": 40306912,
+    "sha256": "a183fe78bf97f50c2b9ab45a7c9465f5d8aa16c44ae897809b4a17208fe3c591",
+    "references": [
+      {
+        "source": "https://www.svws.nrw.de/schild-nrw-2/kurs42",
+        "label": "Kurs42 Portable v3.33.30.528 ZIP"
+      }
+    ]
+  },
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/lupo_nrw_2_1_8_1.zip",
+    "path": "/dateien/handbuecher/lupo-nrw-2-1-8-1-eefc636e.zip",
+    "name": "lupo_nrw_2_1_8_1.zip",
+    "bytes": 22011829,
+    "sha256": "7ac190f429597fa8cd0c602b43e13625d06b3bdf4fce2e1001d18a07cfe966d6",
+    "references": [
+      {
+        "source": "https://www.svws.nrw.de/schild-nrw-2/lupo",
+        "label": "LuPO Portable/Update ZIP v2.1.8.1"
+      }
+    ]
+  },
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/ma22lbv_verfahrensverzeichnis.doc",
+    "path": "/dateien/handbuecher/ma22lbv-verfahrensverzeichnis-24717c76.doc",
+    "name": "ma22lbv_verfahrensverzeichnis.doc",
+    "bytes": 85504,
+    "sha256": "a2f190354404d03cdc0117c3d2f685a37fee50ed209619401c9b31d92e16f4dd",
+    "references": [
+      {
+        "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+        "label": "Verfahrensverzeichnis MA2LBV DOC"
+      }
+    ]
+  },
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/ma2lbv_anleitung.pdf",
+    "path": "/dateien/handbuecher/ma2lbv-anleitung-d576bdb8.pdf",
+    "name": "ma2lbv_anleitung.pdf",
+    "bytes": 2100077,
+    "sha256": "49e8ac036bb9cb26c721f47b0f6847f288e4bf4588ee0837870aa5a6ef76a165",
+    "references": [
+      {
+        "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+        "label": "Anleitung MA2LBV PDF"
+      }
+    ]
+  },
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/ma2lbv_portable_v3.2.3.2.zip",
+    "path": "/dateien/handbuecher/ma2lbv-portable-v3-2-3-2-b7e6c4f2.zip",
+    "name": "ma2lbv_portable_v3.2.3.2.zip",
+    "bytes": 35088529,
+    "sha256": "78fd285f47c204fdf240bf4d6e2d449adeb6eb636a9b863bb1cbd31737f3c345",
+    "references": [
+      {
+        "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+        "label": "MA2LBV Portable ZIP v3.2.3.2"
+      }
+    ]
+  },
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/ma2lbv_setup_exe_v3.2.3.2.zip",
+    "path": "/dateien/handbuecher/ma2lbv-setup-exe-v3-2-3-2-04bb1736.zip",
+    "name": "ma2lbv_setup_exe_v3.2.3.2.zip",
+    "bytes": 32324543,
+    "sha256": "4b3199a8ef1a81755cfee6373de902f8eb15eb2c215be78571b8bbf0ad38891f",
+    "references": [
+      {
+        "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+        "label": "MA2LBV Setup EXE v3.2.3.2 (gezippt)"
+      }
+    ]
+  },
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/ma2pdf_versionsgeschichte.pdf",
+    "path": "/dateien/handbuecher/ma2pdf-versionsgeschichte-90b1c6c9.pdf",
+    "name": "ma2pdf_versionsgeschichte.pdf",
+    "bytes": 41381,
+    "sha256": "c8b1036b2713d5714a04340610e3254e0e7a2e939ee6cfb3d178e750ca0bb91d",
+    "references": [
+      {
+        "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+        "label": "Versionsgeschichte MA2LBV PDF"
+      }
+    ]
+  },
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/migrationstool.zip",
+    "path": "/dateien/handbuecher/migrationstool-3c291f2e.zip",
+    "name": "migrationstool.zip",
+    "bytes": 10006099,
+    "sha256": "9d2c0e9dc5cdb6cea6818f87491ad55993aa7ed7e202891274849dffdfc78079",
+    "references": [
+      {
+        "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+        "label": "Migrationstool"
+      }
+    ]
+  },
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/notenmodul_grundschule_anleitung.pdf",
+    "path": "/dateien/handbuecher/notenmodul-grundschule-anleitung-5cb16b36.pdf",
+    "name": "notenmodul_grundschule_anleitung.pdf",
+    "bytes": 929376,
+    "sha256": "7a29026505696ed08799ec45ff39d44cef822180f87ac693dac66a10520bed27",
+    "references": [
+      {
+        "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+        "label": "Anleitung Notenmodul für Grundschulen PDF"
+      }
+    ]
+  },
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/notenmodul_grundschule_portable_v3.0.2.2.zip",
+    "path": "/dateien/handbuecher/notenmodul-grundschule-portable-v3-0-2-2-6db7cc81.zip",
+    "name": "notenmodul_grundschule_portable_v3.0.2.2.zip",
+    "bytes": 14899460,
+    "sha256": "471fdf31df09cee97064711e17c47559ca5c6d22b86d4fba8cb135a67ebc5b3b",
+    "references": [
+      {
+        "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+        "label": "Notenmodul für Grundschulen ZIP v3.0.2.2"
+      }
+    ]
+  },
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/pm2_bedienungsanleitung_1.pdf",
+    "path": "/dateien/handbuecher/pm2-bedienungsanleitung-1-243583cf.pdf",
+    "name": "pm2_bedienungsanleitung_1.pdf",
+    "bytes": 5457647,
+    "sha256": "51c972f639f085186f8d6dd0210ae6c36a1555edbec4271188a3aa623f16afcf",
+    "references": [
+      {
+        "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+        "label": "Anleitung PM2 PDF"
+      }
+    ]
+  },
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/pm2_portable_1_8_3.zip",
+    "path": "/dateien/handbuecher/pm2-portable-1-8-3-26f9137f.zip",
+    "name": "pm2_portable_1_8_3.zip",
+    "bytes": 22955502,
+    "sha256": "7cc013bc9162e15d2774dfe2232c2a15689cee5b72696426c3b479b78e44256e",
+    "references": [
+      {
+        "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+        "label": "PM2 Portable v1.8.3 ZIP"
+      }
+    ]
+  },
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/pm2_versionsgeschichte.pdf",
+    "path": "/dateien/handbuecher/pm2-versionsgeschichte-69ad3040.pdf",
+    "name": "pm2_versionsgeschichte.pdf",
+    "bytes": 239149,
+    "sha256": "c293512a3012ade3d1893a04bcd03ab400bf022db30814a3f4c0922ce93f1e6e",
+    "references": [
+      {
+        "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+        "label": "Versionsgeschichte PM2 PDF"
+      }
+    ]
+  },
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/s1plan_anleitung.pdf",
+    "path": "/dateien/handbuecher/s1plan-anleitung-fd5a0113.pdf",
+    "name": "s1plan_anleitung.pdf",
+    "bytes": 5435725,
+    "sha256": "07b87f2ec936fcc6258fb358b414b6b28a9d1f29fe064d85ac3db76b35725f64",
+    "references": [
+      {
+        "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+        "label": "Anleitung S1Plan PDF"
+      }
+    ]
+  },
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/s1plan_portable.zip",
+    "path": "/dateien/handbuecher/s1plan-portable-2c97d95d.zip",
+    "name": "s1plan_portable.zip",
+    "bytes": 31324338,
+    "sha256": "5f3c4b287983e249a098a61423dbdb8ba5dede8937c9b2dae968904ee194d668",
+    "references": [
+      {
+        "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+        "label": "S1Plan Portable ZIP v1.4.4.1"
+      }
+    ]
+  },
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/s1plan_setup_exe.zip",
+    "path": "/dateien/handbuecher/s1plan-setup-exe-881b1348.zip",
+    "name": "s1plan_setup_exe.zip",
+    "bytes": 28193000,
+    "sha256": "fd0777a9cc06407e5c1f96368eb80c54ce4c74264a4bc6994939edfdc9e6eb97",
+    "references": [
+      {
+        "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+        "label": "S1Plan Setup EXE v1.4.4.1 (gezippt)"
+      }
+    ]
+  },
+  {
+    "source": "https://www.svws.nrw.de/uploads/media/schildinfo.rtf",
+    "path": "/dateien/handbuecher/schildinfo-c56f68dc.rtf",
+    "name": "schildinfo.rtf",
+    "bytes": 1387,
+    "sha256": "cf9f4249ad24523bf30b91dd149ec9bdad37de5743711b79bc009d765499257c",
+    "references": [
+      {
+        "source": "Versionsgeschichte Schild-NRW",
+        "label": "https://www.svws.nrw.de/uploads/media/schildinfo.rtf"
+      },
+      {
+        "source": "Versionsgeschichte Schild-NRW",
+        "label": "https://www.svws.nrw.de/uploads/media/schildinfo.rtf"
+      }
+    ]
+  },
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/schuljahr_erhoehen.zip",
+    "path": "/dateien/handbuecher/schuljahr-erhoehen-0959a599.zip",
+    "name": "schuljahr_erhoehen.zip",
+    "bytes": 1005384,
+    "sha256": "694cb9415d28c5c0f66e4dd4234fdcf65be996b1625b4d7b218ad450e4b97a96",
+    "references": [
+      {
+        "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+        "label": "Schuljahr Erhöhen"
+      }
+    ]
+  },
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/setup_lupo_2_1_7_2_1.zip",
+    "path": "/dateien/handbuecher/setup-lupo-2-1-7-2-1-f506581e.zip",
+    "name": "setup_lupo_2_1_7_2_1.zip",
+    "bytes": 15356257,
+    "sha256": "604572670caa82b36dc1f80368ab1a0895185174dae62af14ecea96976f43d39",
+    "references": [
+      {
+        "source": "https://www.svws.nrw.de/schild-nrw-2/lupo",
+        "label": "LuPO Setup EXE v2.1.7.2"
+      }
+    ]
+  },
+  {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/e/e8/Faecher.dat",
     "path": "/dateien/wiki/faecher-f76c8a51.dat",
     "sha256": "a76ee74dec5ae0e6e3904e2df94d22050ed43ac0917680715ff6d0bfc50ba852",
     "bytes": 11797
+  },
+  {
+    "name": "Foerdermassnahme-V02.zip",
+    "timestamp": "2015-11-26T12:46:29Z",
+    "size": 3709,
+    "width": 0,
+    "height": 0,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/f/fc/Foerdermassnahme-V02.zip",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Foerdermassnahme-V02.zip",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=969",
+    "sha1": "0ed3c29652cb733629bd7318f9f8036cbe9e46af",
+    "mime": "application/zip",
+    "mediatype": "ARCHIVE",
+    "ns": 6,
+    "title": "Datei:Foerdermassnahme-V02.zip",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/fc/Foerdermassnahme-V02.zip",
+    "path": "/dateien/wiki/foerdermassnahme-v02-dfcabde2.zip",
+    "sha256": "40c9312628c19414d2bf9d48d4a538278e48094be815d16d052da94dd0d92ccf",
+    "bytes": 3709
+  },
+  {
+    "name": "Foerdermassnahmen_Abschnitt_DV_V01.zip",
+    "timestamp": "2015-11-26T12:53:21Z",
+    "size": 0,
+    "width": 0,
+    "height": 0,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/c/cd/Foerdermassnahmen_Abschnitt_DV_V01.zip",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Foerdermassnahmen_Abschnitt_DV_V01.zip",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=972",
+    "sha1": "918f84983b12da536d3f92a4a2b6072e6a601a9b",
+    "mime": "application/zip",
+    "mediatype": "ARCHIVE",
+    "ns": 6,
+    "title": "Datei:Foerdermassnahmen Abschnitt DV V01.zip",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/c/cd/Foerdermassnahmen_Abschnitt_DV_V01.zip",
+    "path": "/dateien/wiki/foerdermassnahmen-abschnitt-dv-v01-31efc0cd.zip",
+    "sha256": "768e9d944eb878a701e692dd8cc75c6b841a3257d9102343189c38f8e47eed77",
+    "bytes": 3993
   },
   {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/e/ea/Jahrgaenge.dat",
@@ -4470,10 +7221,86 @@
     "bytes": 170
   },
   {
+    "name": "KA17_Zeugnis_Kopf.pdf",
+    "timestamp": "2015-05-07T19:00:06Z",
+    "size": 161467,
+    "width": 0,
+    "height": 0,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/b/b3/KA17_Zeugnis_Kopf.pdf",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:KA17_Zeugnis_Kopf.pdf",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=797",
+    "sha1": "7d94dac675fad957af247dcb67c7738e4b17c245",
+    "mime": "application/pdf",
+    "mediatype": "OFFICE",
+    "ns": 6,
+    "title": "Datei:KA17 Zeugnis Kopf.pdf",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/b/b3/KA17_Zeugnis_Kopf.pdf",
+    "path": "/dateien/wiki/ka17-zeugnis-kopf-128afae2.pdf",
+    "sha256": "288002afbddc0d8946dfc45a8e98862a36180e2d428fcbcfaaf479c55e2ffd81",
+    "bytes": 161467
+  },
+  {
+    "name": "Liste_Foerdermassnahmen_V01.zip",
+    "timestamp": "2015-11-26T12:49:52Z",
+    "size": 3019,
+    "width": 0,
+    "height": 0,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/0/08/Liste_Foerdermassnahmen_V01.zip",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Liste_Foerdermassnahmen_V01.zip",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=970",
+    "sha1": "d52f0e2e02823596040b8ee77dbc6edc076462c1",
+    "mime": "application/zip",
+    "mediatype": "ARCHIVE",
+    "ns": 6,
+    "title": "Datei:Liste Foerdermassnahmen V01.zip",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/08/Liste_Foerdermassnahmen_V01.zip",
+    "path": "/dateien/wiki/liste-foerdermassnahmen-v01-a4bc0697.zip",
+    "sha256": "18606c6d1e0e11447f9da5ff2817923466bbec55249ea3d231153dcd5b7c0623",
+    "bytes": 3019
+  },
+  {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/9/9d/MSSQL_Script_2021_02_22.zip",
     "path": "/dateien/wiki/mssql-script-2021-02-22-44a64a7b.zip",
     "sha256": "31e4c6996a47e69686ac640647e6caf5ddaa4e3780c0480fc8edd5998c330ac7",
     "bytes": 14304
+  },
+  {
+    "name": "MySQL_Script_2020_08_20.zip",
+    "timestamp": "2022-03-16T10:24:35Z",
+    "size": 13064,
+    "width": 0,
+    "height": 0,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/9/93/MySQL_Script_2020_08_20.zip",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:MySQL_Script_2020_08_20.zip",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=1367",
+    "sha1": "e4a9ab09de8f0a94246f2ea55e2a467c0555d5eb",
+    "mime": "application/zip",
+    "mediatype": "ARCHIVE",
+    "ns": 6,
+    "title": "Datei:MySQL Script 2020 08 20.zip",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/93/MySQL_Script_2020_08_20.zip",
+    "path": "/dateien/wiki/mysql-script-2020-08-20-b89d249c.zip",
+    "sha256": "413acebf3c4200cd35f420801a3a7e45b04a8eeaa0ede7e26be24e0dc5b23a40",
+    "bytes": 13064
+  },
+  {
+    "name": "MySQL_Script_2023_10_18.zip",
+    "timestamp": "2023-10-18T12:19:04Z",
+    "size": 13475,
+    "width": 0,
+    "height": 0,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/f/f9/MySQL_Script_2023_10_18.zip",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:MySQL_Script_2023_10_18.zip",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=1382",
+    "sha1": "b1dda6bed743f486c3446f182cd97412886979d8",
+    "mime": "application/zip",
+    "mediatype": "ARCHIVE",
+    "ns": 6,
+    "title": "Datei:MySQL Script 2023 10 18.zip",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f9/MySQL_Script_2023_10_18.zip",
+    "path": "/dateien/wiki/mysql-script-2023-10-18-9cfd7b69.zip",
+    "sha256": "48d6622a73d60a71fc7ea90054f58c0eb21cdad7c2188f689fd69b0209a0e106",
+    "bytes": 13475
   },
   {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/6/65/MySQL_Script_2023_10_21.zip",
@@ -4486,6 +7313,44 @@
     "path": "/dateien/wiki/notenbeispiel-e5e8e2ce.xlsx",
     "sha256": "30321d2349112b6c6293645059767cccad7780dbd99836e23399f37e1c40b9c8",
     "bytes": 11363
+  },
+  {
+    "name": "Notendateitext.txt",
+    "timestamp": "2021-03-17T09:45:02Z",
+    "size": 501,
+    "width": 0,
+    "height": 0,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/0/0e/Notendateitext.txt",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Notendateitext.txt",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=1192",
+    "sha1": "eb912ee9f4a17504478f76cb3992b971c7bd7f95",
+    "mime": "text/plain",
+    "mediatype": "TEXT",
+    "ns": 6,
+    "title": "Datei:Notendateitext.txt",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/0e/Notendateitext.txt",
+    "path": "/dateien/wiki/notendateitext-b8c20be9.txt",
+    "sha256": "3a357b423e78670918f1a1b7fdbdda3174574109f5a897576b0efaa1332e631b",
+    "bytes": 501
+  },
+  {
+    "name": "Report-Baukasten.zip",
+    "timestamp": "2015-11-09T10:45:42Z",
+    "size": 45294,
+    "width": 0,
+    "height": 0,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/9/94/Report-Baukasten.zip",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Report-Baukasten.zip",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=407",
+    "sha1": "c8ca08c6c9522af527acd26577929de044c999f3",
+    "mime": "application/zip",
+    "mediatype": "ARCHIVE",
+    "ns": 6,
+    "title": "Datei:Report-Baukasten.zip",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/9/94/Report-Baukasten.zip",
+    "path": "/dateien/wiki/report-baukasten-24954b57.zip",
+    "sha256": "6e493c6520f847562270b2af8c1239bd827ab05fe966cdd3e28b0359864f5a70",
+    "bytes": 45294
   },
   {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/7/78/Schildnrw_mysql_installation.pdf",
@@ -4524,10 +7389,86 @@
     "bytes": 24502
   },
   {
+    "name": "Serienbrief_Mahnung_gefährdete_Versetzung_Filter_II.zip",
+    "timestamp": "2025-05-16T07:32:53Z",
+    "size": 1398,
+    "width": 0,
+    "height": 0,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/e/ea/Serienbrief_Mahnung_gef%C3%A4hrdete_Versetzung_Filter_II.zip",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Serienbrief_Mahnung_gef%C3%A4hrdete_Versetzung_Filter_II.zip",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=1402",
+    "sha1": "4a30336cec8b54301afaca781d4c2e5bd2543252",
+    "mime": "application/zip",
+    "mediatype": "ARCHIVE",
+    "ns": 6,
+    "title": "Datei:Serienbrief Mahnung gefährdete Versetzung Filter II.zip",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/ea/Serienbrief_Mahnung_gef%C3%A4hrdete_Versetzung_Filter_II.zip",
+    "path": "/dateien/wiki/serienbrief-mahnung-gefaehrdete-versetzung-filter-ii-211e3c93.zip",
+    "sha256": "2189e7b29f0d660aa05b0798e2f112d542424486bfd02891acf18b3bbe78f4ec",
+    "bytes": 1398
+  },
+  {
+    "name": "Serienbrief_Mahnung_gefährdete_Versetzung_Filter_II_SchILDzentral.zip",
+    "timestamp": "2025-05-16T07:32:39Z",
+    "size": 1581,
+    "width": 0,
+    "height": 0,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/0/02/Serienbrief_Mahnung_gef%C3%A4hrdete_Versetzung_Filter_II_SchILDzentral.zip",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Serienbrief_Mahnung_gef%C3%A4hrdete_Versetzung_Filter_II_SchILDzentral.zip",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=1405",
+    "sha1": "4b278f1fbfc7feac51ead2b2c56233849839dc9f",
+    "mime": "application/zip",
+    "mediatype": "ARCHIVE",
+    "ns": 6,
+    "title": "Datei:Serienbrief Mahnung gefährdete Versetzung Filter II SchILDzentral.zip",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/02/Serienbrief_Mahnung_gef%C3%A4hrdete_Versetzung_Filter_II_SchILDzentral.zip",
+    "path": "/dateien/wiki/serienbrief-mahnung-gefaehrdete-versetzung-filter-ii-schildzentral-5642ca5b.zip",
+    "sha256": "9cae5fe77f7055f2b2d74d08402bafb2500ba92b81b9e55f4e52d99df2054dfc",
+    "bytes": 1581
+  },
+  {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/4/4a/SPD_Dateien.zip",
     "path": "/dateien/wiki/spd-dateien-176ffe85.zip",
     "sha256": "745a47917c3ac3f26c22dbc3815e5ce79086757a652a9b11752e5478f29ed466",
     "bytes": 263634
+  },
+  {
+    "name": "Supportkonzept_des_MSW.pdf",
+    "timestamp": "2014-03-12T08:48:35Z",
+    "size": 126756,
+    "width": 0,
+    "height": 0,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/e/ed/Supportkonzept_des_MSW.pdf",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Supportkonzept_des_MSW.pdf",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=429",
+    "sha1": "0eaa1e313ffbc247d0e92c70151349c9f28282a9",
+    "mime": "application/pdf",
+    "mediatype": "OFFICE",
+    "ns": 6,
+    "title": "Datei:Supportkonzept des MSW.pdf",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/e/ed/Supportkonzept_des_MSW.pdf",
+    "path": "/dateien/wiki/supportkonzept-des-msw-49f6bce7.pdf",
+    "sha256": "c123747c47e768ba4920cdfa15b1ab29da25ba4cd83b6f71cbfb26e3ed535797",
+    "bytes": 126756
+  },
+  {
+    "name": "Udlfile_open32_reg.zip",
+    "timestamp": "2016-11-07T11:21:24Z",
+    "size": 679,
+    "width": 0,
+    "height": 0,
+    "url": "http://wiki.svws.nrw.de/mediawiki/images/0/00/Udlfile_open32_reg.zip",
+    "descriptionurl": "http://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Udlfile_open32_reg.zip",
+    "descriptionshorturl": "http://wiki.svws.nrw.de/mediawiki/index.php?curid=1020",
+    "sha1": "dda6b54ebc583fb55fb1bee5ec3d05d91e93d401",
+    "mime": "application/zip",
+    "mediatype": "ARCHIVE",
+    "ns": 6,
+    "title": "Datei:Udlfile open32 reg.zip",
+    "source": "https://wiki.svws.nrw.de/mediawiki/images/0/00/Udlfile_open32_reg.zip",
+    "path": "/dateien/wiki/udlfile-open32-reg-cb5cf3a2.zip",
+    "sha256": "997c2ff7791757c26d10531dfb7701de53ac39abf021435bc637b5df1bb61b80",
+    "bytes": 679
   },
   {
     "source": "https://wiki.svws.nrw.de/mediawiki/images/f/f6/Verfahrensverzeichnis.pdf",

@@ -15,4 +15,4 @@ Damit die Einträge zum Gemeinsamen europäischen Referenzrahmen für Sprachen (
 
 ---
 
-Quelle: [Sprach-Referenzniveaus ermitteln – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sprach-Referenzniveaus+ermitteln&oldid=2792) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sprach-Referenzniveaus+ermitteln&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-366) · [Sprach-Referenzniveaus ermitteln – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sprach-Referenzniveaus+ermitteln&oldid=2792)

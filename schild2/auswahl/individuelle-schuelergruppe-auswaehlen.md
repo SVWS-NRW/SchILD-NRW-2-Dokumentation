@@ -17,4 +17,4 @@ Alle Operationen wie Listendruck, Anschreiben o. Ä. werden nun nur für diese S
 
 ---
 
-Quelle: [Individuelle Schülergruppe auswählen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Individuelle+Sch%C3%BClergruppe+ausw%C3%A4hlen&oldid=967) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Individuelle+Sch%C3%BClergruppe+ausw%C3%A4hlen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-148) · [Individuelle Schülergruppe auswählen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Individuelle+Sch%C3%BClergruppe+ausw%C3%A4hlen&oldid=967)

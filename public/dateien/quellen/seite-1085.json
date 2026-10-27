@@ -1,0 +1,29 @@
+{
+  "pageid": 1085,
+  "ns": 0,
+  "title": "S1PLAN:Erster Programmstart",
+  "revisions": [
+    {
+      "revid": 4028,
+      "parentid": 4027,
+      "user": "Pfotenhauer",
+      "timestamp": "2016-11-30T12:05:07Z",
+      "sha1": "56fb553a8eb5a9b5122a20c006b3b31f3e7ca9ee",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Nach der Erstinstallation erscheint beim Programmstart zunächst ein Hinweis-fenster für die Ersteinrichtung des Programms:\n\n[[Image:S1P-001-Ersteinrichtung.jpg|Center]]\n \nNach Klick auf „OK“ ist im Fenster mit der Zugangskontrolle der  Benutzerna-men „S1PAdmin“ und das Passwort „schild“ einzugeben. Schließen Sie dieses Fenster mit Klick auf „Anmelden“.\nWählen Sie danach das Schuljahr (z.B. 2016, Lernabschnitt 1 für 1. Halbjahr im Schuljahr 2016/17).\nIm nächsten Fenster wird darauf hingewiesen, dass noch keine Verbindung zur SchILD-Datenbank hergestellt ist. \n\nDies geschieht im nächsten Fenster\n\n[[Image:S1P-002-Zugriffskonfiguration.jpg|Center]]\n \nDen Schild-Zugriff können Sie über\n\n[[Image:S1P-003-Schild-Zugriff.jpg|Center]]\n \nund Auswahl der zugehörigen Datenbank\n\n[[Image:S1P-004-Auswahl DB.jpg]]\n\nsteuern.\n\n\nWenn im oberen Fenster „SchILDNRW UDL-Datei(*.UDL) gewählt wurde, kann im unteren Fenster die entsprechende UDL-Datei ausgewählt werden. Beach-ten Sie dabei, dass bei Verwendung der Schild-Standarddatenbank (schild2000n.mdb) der Zugriff über die MDB-Datei erfolgen muss, weil zur Schild-Standarddatenbank keine UDL-Datei existiert.\n\nÜber [[Image:S1P-005-Verbindung testen.jpg]]  erkennt man, ob die Verbindung erfolgreich ist. \n\n\nEs empfiehlt sich, im folgenden Fenster \n\n\n[[Image:S1P-006-Zugriffsinfo.jpg|Center]]\n\nDirekt die Stammdaten abzugleichen. Dies wird nach kurzer Zeit vom Pro-gramm bestätigt.\n\nVerlassen Sie das SchILD-Zugriffs-Fenster durch Klick auf [[Image:S1P-007-speichern.jpg]].\n\nAls nächstes können ein oder mehrere Kursprofile festgelegt werden.\n\nIm folgenden Beispiel wurde ein Kursprofil für den Jahrgang 08 und den Kurs-arten AGGT, PUT, WPI und WPII ausgewählt. Die Benutzer BN1 und BN2 (siehe oberes Bild zur SchILD-Zugriffskonfiguration) dürfen dieses Profil verwenden und bearbeiten:\n\n[[Image:S1P-008-Kursprofil festlegen.jpg|Center]]\n \nHier wurde „Wunschspalten“ nicht angeklickt, weil im Bereich WPI Schüler-wünsche nicht zugelassen sein sollten.\nDas Profil wird zweckmäßig in einem Unterordner „Profile“ von S1Plan ge-speichert. Als sinnvoller Name bietet sich „06-WPI-WPII-AG-PUT“ an. Als Namensendung wird automatisch „.kpp“ vergeben.\n\nDurch Klick auf [[Image:S1P-009-wählen.jpg]]  wird das Programm (mit zunächst leeren Fens-tern) gestartet:\n\n[[Image:S1P-011-Übersicht.jpg|Center]]\n\n{{Hinweis|Falls Beim Klicken auf die obere Menüleiste die ersten Zeilen in den darunter liegenden Fenstern überdeckt werden sollten, wird durch Klick auf das rechts oben stehende Symbol [[Image:S1P-010-Aufklappsymbol.JPG]]  die Fensteranordnung korrekt eingestellt.}}\n \t\t \n----\n\n[[S1PLAN:Installation|Zurück zu Installation]]\n\n[[S1PLAN:Einrichtung von Kursen|Weiter zu Einrichtung von Kursen]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-04-03T16:11:15Z",
+  "lastrevid": 4028,
+  "length": 2792
+}

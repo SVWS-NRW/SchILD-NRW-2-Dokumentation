@@ -45,4 +45,4 @@ Danach erscheint, wie bei jedem weiteren Programmstart, das folgende Fenster:
 
 ---
 
-Quelle: [Prognos:Programmstart – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Prognos%3AProgrammstart&oldid=5339) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Prognos%3AProgrammstart&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1243) · [Prognos:Programmstart – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Prognos%3AProgrammstart&oldid=5339)

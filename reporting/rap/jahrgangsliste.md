@@ -46,4 +46,4 @@ Procedure ReportBeforePrint;
 
 ---
 
-Quelle: [JahrgangsListe – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=JahrgangsListe&oldid=59) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=JahrgangsListe&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-38) · [JahrgangsListe – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=JahrgangsListe&oldid=59)

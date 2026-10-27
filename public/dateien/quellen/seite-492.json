@@ -1,0 +1,30 @@
+{
+  "pageid": 492,
+  "ns": 6,
+  "title": "Datei:GP-Pruefungsergebnisse.jpg",
+  "revisions": [
+    {
+      "revid": 2018,
+      "parentid": 0,
+      "user": "Mhoffmann",
+      "timestamp": "2014-04-01T11:58:28Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-04-01T11:58:28Z",
+  "lastrevid": 2018,
+  "length": 0,
+  "new": ""
+}

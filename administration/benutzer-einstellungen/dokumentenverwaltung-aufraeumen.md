@@ -21,4 +21,4 @@ Durch setzen des unteren Häkchens kann man eine Datensicherung der zu löschend
 
 ---
 
-Quelle: [Dokumentenverwaltung aufräumen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Dokumentenverwaltung+aufr%C3%A4umen&oldid=2257) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Dokumentenverwaltung+aufr%C3%A4umen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-582) · [Dokumentenverwaltung aufräumen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Dokumentenverwaltung+aufr%C3%A4umen&oldid=2257)

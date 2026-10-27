@@ -40,4 +40,4 @@ E13 Fachschule Teilzeit (BW 3j; TZ)
 
 ---
 
-Quelle: [BK-Abschluss:Anlage-E – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=BK-Abschluss%3AAnlage-E&oldid=4747) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=BK-Abschluss%3AAnlage-E&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1197) · [BK-Abschluss:Anlage-E – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=BK-Abschluss%3AAnlage-E&oldid=4747)

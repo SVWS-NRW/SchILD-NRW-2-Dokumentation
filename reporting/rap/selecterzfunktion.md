@@ -41,4 +41,4 @@ Siehe „Filtererzieherfunktion“
 
 ---
 
-Quelle: [SelectErzFunktion – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SelectErzFunktion&oldid=97) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=SelectErzFunktion&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-76) · [SelectErzFunktion – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SelectErzFunktion&oldid=97)

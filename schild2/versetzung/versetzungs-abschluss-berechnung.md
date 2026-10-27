@@ -17,4 +17,4 @@ Nach Aufruf des Prozesses werden die Berechnungen automatisch durchgeführt und 
 
 ---
 
-Quelle: [Versetzungs-/Abschluss-Berechnung – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Versetzungs-%2FAbschluss-Berechnung&oldid=3593) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Versetzungs-%2FAbschluss-Berechnung&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-500) · [Versetzungs-/Abschluss-Berechnung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Versetzungs-%2FAbschluss-Berechnung&oldid=3593)

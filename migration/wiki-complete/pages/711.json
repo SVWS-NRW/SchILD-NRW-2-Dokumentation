@@ -1,0 +1,29 @@
+{
+  "pageid": 711,
+  "ns": 0,
+  "title": "Fördermaßnahmen",
+  "revisions": [
+    {
+      "revid": 3726,
+      "parentid": 3725,
+      "user": "Pfotenhauer",
+      "timestamp": "2015-11-30T12:21:54Z",
+      "sha1": "d792bc417ef745c8023b5b007a73bbe5ac46cec3",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "[[Image:Foerdermassnahmen01.jpg|center|700px]]\n\n\nAuf dem Karteireiter '''Fördermaßnahmen''' kann bei nicht ausreichenden Leistungen in den Abschnitten eine Dokumentation über die zu erfolgende Förderung angelegt werden.\n\nEs gibt hier zwei Möglichkeiten, wie die Fördermaßnahmen verwaltet werden können.\n\n* Allgemein zum aktuellen Abschnitt\n* Fachbezogen zum aktuellen Abschnitt\n\nIn beiden Fällen können bestimmte Angaben zu den Problemfeldern und Förderabsprachen eingegeben werden.\nEs können zuständige Personen eingegeben werden.\nUnd es können Zeitrahmen gesetzt werden, in denen die Fördermaßnahme abgeschlossen werden soll.\n\nEine allgemeine Fördermaßnahme wird über den Button '''Allgemeine Fördermaßnahme anlegen''' erzeugt!\n\n[[Image:Foerdermassnahmen02.jpg|tlinks|500px]]\n\n\nFachspezifische Fördermaßnahmen werden auf dem Karteireiter [[Akt. Halbjahr]] angelegt.\n\n[[Image:Foerdermassnahmen03.jpg|rechts|300px]]\n\nGehen Sie dort auf den Reiter [[Leistungsdaten]]. Mit einem Rechtsklick auf eine Fächerzeile bekommen Sie ein Kontextmenü angeboten. Wählen Sie dort den Eintrag '''Fachbezogene Fördermaßnahme anlegen''' aus.\nBestätigen Sie die anschließende Frage mit \"Ja\".\n\nSie gelangen nun in den gleichen Bildschirm, der oben schon gezeigt wurde.\nJedoch ist das Fach zur Fördermaßnahme schon eingetragen.\n\nBitte beachten Sie, dass jeder eingetragene Fachlehrer eine Fördermaßnahme anlegen kann.\nAllgemeine Fördermaßnahmen können nur Klassenlehrer oder Abteilungsleiter anlegen.\n\n----\n\n''' Ausdruck von Fördermaßnahmen in der Reporting'''\n\nIn der Reporting (ab Schild-Version 2.0.14.1) stehen zwei Datenquellen zum Ausdruck der Fördermaßnahmen bereit.\nDiese sollen mit ihrem zugedachten Verwendungszweck hier beschrieben werden:\n\n* '''Datenquelle Foerdermassnahmen'''\n\nDiese Datenquelle stellt einen eigenen Bezug zu den Fördermaßnahmen her und ist nicht an die sonstigen Schülerdaten gekoppelt. Beim Aufruf dieser Datenquelle erscheint ein Auswahlfenster. \nIn diesem Fenster kann gewählt werden, aus welchen Lernabschnitten gedruckt werden soll. Die Auswahl filtert selbstständig alle Schüler, die in diesem Abschnitt eine Fördermaßnahme haben.\n\n1. [[Datei: Foerdermassnahme-V02.zip]]\n\n* '''Datenquelle Schueler > Lernabschnitte > SchuelerFoerdermassnahmen'''\n\nDiese Datenquelle stellt einen Bezug zu den Schülerdaten her. Hier werden die Fördermaßnahmen für den im Report-Explorer gewählten Lernabschnitt gedruckt.\nHier gibt es zwei Verwendungsbeispiele:\n\n1. [[Datei: Liste Foerdermassnahmen V01.zip]]\n\nDieser Report druckt eine Klassenliste, wobei bei den Schülern, die eine Fördermaßnahme haben (oder mehrere,) dies in der Zeile vermerkt ist.\n\n2. [[Datei: Foerdermassnahmen Abschnitt DV V01.zip]]\n\nDieser Report ist nach Schüler ID gruppiert und druckt alle Fördermaßnahmen zu einem Schüler auf eine eigene Seite. Für diesen Report ist es sinnvoll, vorher auf bestehende Fördermaßnahmen zu filtern. Dies geht ab Schild-Version 2.0.14.1 mit Filter I > Lernabschnitte! \nDieser Report ist geeignet, um in die Dokumentenverwaltung zu drucken.\n\n\n\n----\n\n\n[[#top|Zum Seitenanfang]]\n\n[[Hauptfenster#Karteireiter|Zurück zu Karteireiter]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-11-30T12:21:54Z",
+  "lastrevid": 3726,
+  "length": 3199
+}

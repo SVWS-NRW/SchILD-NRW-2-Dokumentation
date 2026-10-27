@@ -23,4 +23,4 @@ Testen Sie bitte die gewünschte Dokumentenstruktur ausführlich in einem Probes
 
 ---
 
-Quelle: [Dateimaske bearbeiten – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Dateimaske+bearbeiten&oldid=1508) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Dateimaske+bearbeiten&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-335) · [Dateimaske bearbeiten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Dateimaske+bearbeiten&oldid=1508)

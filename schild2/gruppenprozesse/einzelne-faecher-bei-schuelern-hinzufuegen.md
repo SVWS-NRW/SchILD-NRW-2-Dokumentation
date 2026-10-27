@@ -19,4 +19,4 @@ Neben der Angabe des Schuljahres und Abschnittes müssen auch das Fach, die Kurs
 
 ---
 
-Quelle: [Einzelne Fächer bei Schülern hinzufügen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Einzelne+F%C3%A4cher+bei+Sch%C3%BClern+hinzuf%C3%BCgen&oldid=3615) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Einzelne+F%C3%A4cher+bei+Sch%C3%BClern+hinzuf%C3%BCgen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-472) · [Einzelne Fächer bei Schülern hinzufügen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Einzelne+F%C3%A4cher+bei+Sch%C3%BClern+hinzuf%C3%BCgen&oldid=3615)

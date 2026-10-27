@@ -1,0 +1,29 @@
+{
+  "pageid": 386,
+  "ns": 6,
+  "title": "Datei:RepBau01.jpg",
+  "revisions": [
+    {
+      "revid": 3645,
+      "parentid": 3644,
+      "user": "BPanzlaff",
+      "timestamp": "2015-10-26T09:18:26Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": "BPanzlaff lud eine neue Version von „[[Datei:RepBau01.jpg]]“ hoch"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-10-26T09:18:26Z",
+  "lastrevid": 3645,
+  "length": 0
+}

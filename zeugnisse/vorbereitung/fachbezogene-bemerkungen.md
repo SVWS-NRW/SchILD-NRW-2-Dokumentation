@@ -37,4 +37,4 @@ Ein Doppelklick auf das Memofeld öffnet den aus Schild-NRW bekannten Texteditor
 
 ---
 
-Quelle: [Fachbezogene Bemerkungen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fachbezogene+Bemerkungen&oldid=3238) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fachbezogene+Bemerkungen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-844) · [Fachbezogene Bemerkungen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fachbezogene+Bemerkungen&oldid=3238)

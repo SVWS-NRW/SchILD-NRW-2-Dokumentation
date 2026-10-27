@@ -1,0 +1,29 @@
+{
+  "pageid": 362,
+  "ns": 0,
+  "title": "Sprachenfolge zuweisen",
+  "revisions": [
+    {
+      "revid": 1900,
+      "parentid": 1615,
+      "user": "Mhoffmann",
+      "timestamp": "2014-03-27T20:14:15Z",
+      "sha1": "a5bc9070c6b4f79ebfd21d9bb2933fbb3ec318bf",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Dieser Gruppenprozess ermöglicht es, allen Schülern in der aktuellen Auswahl eine Sprache zuzuweisen.\n\n[[Datei:GP-Sprachenfolgezuweisen.jpg|400px]]\n\n\nUnter Sprache werden alle Fremdsprachen, die man unter [[Schulverwaltung]] als [[Unterrichtsfächer|Unterrichtsfach]] deklariert hat, zur Auswahl angeboten. \n\nUnter Modus muss man angeben, ob es sich um einen Neueintrag, eine Aktualisierung oder eine Löschung handelt.\n\nWeiterhin muss man einen Eintrag bei \"Reihenfolge\" und dem \"Beginn-\" bzw. \"End\"-Jahrgang vornehmen. Ein Eintrag beim \"Referenzniveau\" ist nicht nötig.\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Allgemeines|Zurück zu Allgemeines]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-03-27T20:14:15Z",
+  "lastrevid": 1900,
+  "length": 648
+}

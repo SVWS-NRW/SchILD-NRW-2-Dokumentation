@@ -1,0 +1,30 @@
+{
+  "pageid": 82,
+  "ns": 0,
+  "title": "SelectString",
+  "revisions": [
+    {
+      "revid": 104,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T17:03:38Z",
+      "sha1": "044af8edfcdff4a07ea0964470056cba9a55c856",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    function SelectString(Prompt, Optionsliste: String): String;\n|-\n|'''Parameter''' || \n    Prompt             - Hinweistext\n    Optionsliste       - Mit Komma separierte Liste von Zeichenketten, die in einem\n                         Auswahldialog angezeigt werden.\n|-\n|'''Rückgabewert''' ||\n    Gewählte Option.\n|- \n|'''Beispiel''' || \n     Procedure ReportBeforePrint;\n     var\n       lSchulform : String;\n     begin\n       lSchulform:=SelectString('Bitte Schulform wählen',\n      'Gymnasium,Realschule,Hauptschule')\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      function SelectString(Prompt, Optionsliste: String): String; |- |'''Param…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T17:03:38Z",
+  "lastrevid": 104,
+  "length": 646,
+  "new": ""
+}

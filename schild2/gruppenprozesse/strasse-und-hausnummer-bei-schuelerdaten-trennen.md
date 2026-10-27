@@ -17,4 +17,4 @@ Werden bei dieser Einstellung Schülerdatensätze über die [Schnittstelle Schil
 
 ---
 
-Quelle: [Straße und Hausnummer bei Schülerdaten trennen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Stra%C3%9Fe+und+Hausnummer+bei+Sch%C3%BClerdaten+trennen&oldid=1543) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Stra%C3%9Fe+und+Hausnummer+bei+Sch%C3%BClerdaten+trennen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-352) · [Straße und Hausnummer bei Schülerdaten trennen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Stra%C3%9Fe+und+Hausnummer+bei+Sch%C3%BClerdaten+trennen&oldid=1543)

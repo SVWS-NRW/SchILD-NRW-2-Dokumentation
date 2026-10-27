@@ -17,6 +17,8 @@ DATA.sort(key=lambda d:d['pageid'])
 bytitle={d['title']:d for d in DATA}
 def norm(s): return s.replace('_',' ').strip().casefold()
 lookup={norm(d['title']):d for d in DATA}
+ALL_PAGES=json.loads((ROOT/'migration/wiki-complete/inventory.json').read_text(encoding='utf8')) if (ROOT/'migration/wiki-complete/inventory.json').exists() else []
+ARCHIVE_ROUTES={norm(p['title']):f'/quellen/wiki/seite-{p["pageid"]}' for p in ALL_PAGES}
 ALIASES={'DSGVO-Einwilligungen':'Einwilligungen','Individualdaten II':'Individual-Daten II','Floskeln bearbeiten':'"Floskeln" bearbeiten','Schnittstelle-Schild-NRW':'Schnittstelle Schild-NRW','JaNa-Export':'JaNa-Export (Jahrgang und Nationalität)','Aus Archiv drucken':'Report aus Archiv drucken','Tools':'Zusatzprogramme / Tools'}
 for old,new in ALIASES.items():lookup[norm(old)]=bytitle[new]
 def slug(s):
@@ -52,6 +54,24 @@ TOPICS={
  'hilfe/probleme':('Hilfe und Problemlösungen',['Hilfe','Fehler beim Export der Statistikdateien - Klasse nicht registriert']),
  'hilfe/wiki-archiv':('Wiki und Versionsgeschichte',['Versionsgeschichte Schild-NRW','Youtube','Testseite','Erklärung zur Barrierefreiheit']),
 }
+TOOL_DEFS={
+ 'kurs42':('Kurs42',['Kurs42','K422CNF','Kurs42 To CNF','Klausurplanung CNF','Multi Klausurplanung CNF','News:Kurs42']),
+ 'lupo':('LuPO',['Lupo:','LuPO ']),
+ 'asdpc':('ASDPC',['Statistik mit ASDPC']),
+ 'notenmodul-grundschule':('Notenmodul für Grundschulen',[]),
+ 'enm-notenmanager':('ENM-Notenmanager',[]),
+ 'externes-notenmodul':('Externes Notenmodul für weiterführende Schulen',['Externes Notenmodul','Benutzung des externen Notenmoduls','Einrichtung des ENM-Moduls']),
+ 'km2':('KM2 – Konferenzmodul',['KM2','Konferenzmodul KM2','Modulbenutzung']),
+ 'pm2':('PM2 – Prognosemodul',['Prognos']),
+ 's1plan':('S1Plan',['S1PLAN:']),
+ 'ma2lbv':('MA2LBV',[]),
+ 'migrationstool':('Migrationstool',['Schild-NRW-Daten in eine andere Datenbank übertragen']),
+ 'anonymisierungstool':('Anonymisierungstool',[]),
+ 'import-textdateien':('Import aus Textdateien',['Import aus Textdateien']),
+ 'schuljahr-erhoehen':('Schuljahr erhöhen',[]),
+ 'weitere':('Weitere Zusatzprogramme',['Zusatzprogramme / Tools','Externe Blockungs-Tools','SchILDweb','SchildChat','Kursplanung KPlan','Kursverwaltung KPlan','SEM:']),
+}
+for key,(name,_) in TOOL_DEFS.items():TOPICS['tools/'+key]=(name,[])
 assigned={}
 # Menu ownership uses only the direct links in the corresponding source article.
 for topic,(_,seeds) in TOPICS.items():
@@ -80,9 +100,15 @@ for t in ['Wiedervorlage','Eintrag in Wiedervorlage machen']:
     assigned[t]='schild2/schueler'
 assigned['Dateimaske bearbeiten']='administration/benutzer-einstellungen'
 assigned['Hauptseite']='hilfe/wiki-archiv'
+for d in DATA:
+    t=d['title']
+    if t.startswith(('Schild-NRW Wiki:','Hilfe:','Kategorie:')):assigned[t]='hilfe/wiki-archiv'
+    for key,(_,prefixes) in TOOL_DEFS.items():
+        if any(t.startswith(prefix) for prefix in prefixes):assigned[t]='tools/'+key;break
+PREVIOUS={p['title']:'/'+p['path'][:-3] for p in json.loads((ROOT/'migration/articles.json').read_text(encoding='utf8'))} if (ROOT/'migration/articles.json').exists() else {}
 routes={}; used=set()
 for d in DATA:
-    route=assigned[d['title']]+'/'+slug(d['title'])
+    route=PREVIOUS.get(d['title'],'').lstrip('/') or assigned[d['title']]+'/'+slug(d['title'])
     if route in used: route+='-'+str(d['pageid'])
     used.add(route); routes[d['title']]='/'+route
 
@@ -109,15 +135,20 @@ def collect_assets():
         for a in doc.xpath('//a[@href]'):
             url=U.urljoin(net.BASE,a.get('href'))
             if '/mediawiki/images/' in url and U.urlsplit(url).netloc=='wiki.svws.nrw.de': urls.add(original_asset(url))
+    archived=[]
+    for manifest in ['migration/wiki-complete/assets.json','migration/manuals/assets.json']:
+        if (ROOT/manifest).exists():archived.extend(json.loads((ROOT/manifest).read_text(encoding='utf8')))
+    for a in archived:previous[a['source']]=a
     def fetch(url):
-        p=ROOT/'public'/asset_path(url).lstrip('/')
+        relative=previous.get(url,{}).get('path') or asset_path(url)
+        p=ROOT/'public'/relative.lstrip('/')
         if not p.exists():
             old=ROOT/'public'/previous.get(url,{}).get('path','').lstrip('/')
             if old.is_file():
                 p.parent.mkdir(parents=True,exist_ok=True);shutil.move(old,p)
             else:
                 raw=net.get(url); p.parent.mkdir(parents=True,exist_ok=True); p.write_bytes(raw)
-        return {'source':url,'path':asset_path(url),'sha256':hashlib.sha256(p.read_bytes()).hexdigest(),'bytes':p.stat().st_size}
+        return {'source':url,'path':relative,'sha256':hashlib.sha256(p.read_bytes()).hexdigest(),'bytes':p.stat().st_size}
     results=[]; failures=[]
     with cf.ThreadPoolExecutor(max_workers=5) as pool:
         futures={pool.submit(fetch,u):u for u in sorted(urls)}
@@ -125,9 +156,16 @@ def collect_assets():
             try: results.append(f.result())
             except Exception as e: failures.append({'url':futures[f],'error':str(e)})
             if i%100==0: print(f'Assets {i}/{len(urls)}',flush=True)
+    merged={a['source']:a for a in archived}
+    merged.update({a['source']:a for a in results})
+    results=list(merged.values())
     js('migration/assets.json',sorted(results,key=lambda a:a['path']))
     js('migration/asset-errors.json',failures)
-    return {a['source']:a['path'] for a in results}
+    mapping={a['source']:a['path'] for a in results}
+    resolutions=ROOT/'migration/manuals/resolutions.json'
+    if resolutions.exists():
+        for a in json.loads(resolutions.read_text(encoding='utf8')):mapping[a['original']]=a['path']
+    return mapping
 
 UNRESOLVED=[]; CATALOG={}; PROOFS=[]
 def convert(d,assets):
@@ -177,8 +215,10 @@ def convert(d,assets):
         if p.netloc=='wiki.svws.nrw.de' and p.path.endswith('/index.php'):
             q=U.parse_qs(p.query); target=q.get('title',[''])[0]
             found=lookup.get(norm(target))
-            if found and not any(k in q for k in ['action','veaction','oldid','diff']):
+            if found and (not any(k in q for k in ['action','veaction','oldid','diff']) or 'redlink' in q):
                 a.set('href',routes[found['title']]+('#'+p.fragment if p.fragment else ''))
+            elif norm(target) in ARCHIVE_ROUTES:
+                a.set('href',ARCHIVE_ROUTES[norm(target)])
             else:
                 a.set('href',full)
                 if target and not found and not target.startswith(('Datei:','Spezial:','Kategorie:','Benutzer:','Diskussion:')):
@@ -280,13 +320,19 @@ def convert(d,assets):
     if title in ['Testseite','Erklärung zur Barrierefreiheit']:fm+='search: false\n'
     fm+='---\n\n'
     content=fm+'# '+html.escape(title)+'\n\n'+md+'\n\n---\n\n'
-    content+=f'Quelle: [{html.escape(title)} – SchILD2-Wiki]({url}&oldid={rev}) · [Bearbeitungsgeschichte]({url}&action=history)\n'
+    content+=f'Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-{d["pageid"]}) · [{html.escape(title)} – ursprüngliches Wiki]({url}&oldid={rev})\n'
     write(routes[title].lstrip('/')+'.md',content)
     PROOFS.append({'title':title,'pageid':d['pageid'],'revision':rev,'source':url,'path':routes[title].lstrip('/')+'.md','topic':assigned[title],'source_sha256':hashlib.sha256(d['wikitext']['*'].encode()).hexdigest(),'markdown_sha256':hashlib.sha256(content.encode()).hexdigest(),'source_characters':len(doc.text_content()),'markdown_characters':len(md)})
 
 def scaffolding():
     for name in ['markdown.mjs','hint-boxes.mjs','site-data.mjs','sidebar.mjs','article-index.mjs','reference-navigation.mjs','section-print.mjs','section-print-loader.mjs']:
         dest=ROOT/'.vitepress'/name; dest.parent.mkdir(exist_ok=True); shutil.copy2(REF/'.vitepress'/name,dest)
+        if name=='sidebar.mjs':
+            text=dest.read_text(encoding='utf8').replace('.map(([, text, link]) => ({ text, link }))','.map(([, text, link]) => ({ text, link }))\n        .filter(item => !/^\\/(?:dateien|bilder\\/wiki)\\//.test(item.link))')
+            dest.write_text(text,encoding='utf8')
+        if name=='section-print.mjs':
+            text=dest.read_text(encoding='utf8').replace("const fragment = url.hash ?", "const fragment = url.hash && url.hash !== '#top' ?")
+            dest.write_text(text,encoding='utf8')
     shutil.copytree(REF/'.vitepress/theme',ROOT/'.vitepress/theme',dirs_exist_ok=True)
     for name in ['artikel.data.mjs','alle-artikel.md','artikel-schreiben.md','markdown-und-gestaltung.md','bedienung.md']:
         text=(REF/'hilfe'/name).read_text(encoding='utf8').replace('schild3/','schild2/').replace('SchILD-NRW 3','SchILD-NRW 2').replace('SchILD3_Doku','SchILD2_Doku')
@@ -313,7 +359,7 @@ def scaffolding():
     lock['name']='schild2-doku';lock['packages']['']['name']='schild2-doku';lock['packages'][''].pop('license',None)
     js('package-lock.json',lock)
 
-SECTIONS={'einstieg':('Einstieg','Grundlagen kennenlernen und die ersten Schritte mit SchILD-NRW 2 gehen.'),'schild2':('Arbeiten mit SchILD','Schülerdaten, Lehrkräfte, Unterricht, Gruppenprozesse und Schuljahreswechsel.'),'zeugnisse':('Zeugnisse','Noten vorbereiten, Abschlüsse berechnen und Zeugnisse erstellen.'),'reporting':('Reporting','Reports verwalten, erstellen und mit RAP erweitern.'),'programmreferenz':('Programmreferenz','Funktionen anhand der tatsächlichen Menüs von SchILD2 nachschlagen.'),'administration':('Administration','Installation, direkter Datenbankzugriff, Sicherung und Benutzerrechte.'),'hilfe':('Hilfe','Problemlösungen, Zusatzprogramme und Unterstützung für die Dokumentation.')}
+SECTIONS={'einstieg':('Einstieg','Grundlagen kennenlernen und die ersten Schritte mit SchILD-NRW 2 gehen.'),'schild2':('Arbeiten mit SchILD','Schülerdaten, Lehrkräfte, Unterricht, Gruppenprozesse und Schuljahreswechsel.'),'zeugnisse':('Zeugnisse','Noten vorbereiten, Abschlüsse berechnen und Zeugnisse erstellen.'),'reporting':('Reporting','Reports verwalten, erstellen und mit RAP erweitern.'),'tools':('Tools und Zusatzprogramme','Handbücher und Anleitungen zu Kurs42, LuPO, ASDPC, Notenmodulen und weiteren Werkzeugen.'),'programmreferenz':('Programmreferenz','Funktionen anhand der tatsächlichen Menüs von SchILD2 nachschlagen.'),'administration':('Administration','Installation, direkter Datenbankzugriff, Sicherung und Benutzerrechte.'),'hilfe':('Hilfe','Problemlösungen, Quellenarchiv und Unterstützung für die Dokumentation.')}
 
 def portals():
     nav={'nav':[],'sidebar':{}}
@@ -379,6 +425,7 @@ def portals():
     refitems.extend({'text':n['text'],'link':n['link'],'items':n['items']} for n in reference['tabs'])
     nav['sidebar']['/programmreferenz/'].append({'text':'Themenbereiche','items':[{'text':label,'link':f'/{sec}/'} for sec,(label,_) in SECTIONS.items() if sec!='programmreferenz']})
     write('programmreferenz/index.md','# Programmreferenz\n\nDie Reihenfolge folgt den Menüs von SchILD-NRW 2. Über das Menü gelangen Sie direkt zu den beschriebenen Funktionen.\n\n'+'\n'.join(f'- [{n["text"]}]({n["link"]}?referenz={n["id"]})' for n in reference['tabs'])+'\n')
+    nav['nav']=[{'text':'Einstieg','link':'/einstieg/'},{'text':'SchILD2','activeMatch':'^/(schild2|administration)/','items':[{'text':'Arbeiten mit SchILD','link':'/schild2/'},{'text':'Installation und Administration','link':'/administration/'}]},{'text':'Zeugnisse','link':'/zeugnisse/'},{'text':'Reporting','link':'/reporting/'},{'text':'Tools','link':'/tools/'},{'text':'Nachschlagen','activeMatch':'^/(programmreferenz|hilfe|bilder|quellen)/','items':[{'text':'Programmreferenz','link':'/programmreferenz/'},{'text':'Alle Artikel','link':'/hilfe/alle-artikel'},{'text':'Hilfe und Autorenhinweise','link':'/hilfe/'},{'text':'Bilderkatalog','link':'/bilder/'},{'text':'Vollständiges Quellen- und Dateiarchiv','link':'/quellen/'}]}]
     js('.vitepress/navigation.json',nav)
     for sec,(label,_) in SECTIONS.items():
         write('druck/'+sec+'.md',f'---\ntitle: "Druckansicht: {label}"\naside: false\nsearch: false\n---\n\n<script setup>\nimport {{ data }} from \'./{sec}.data.mjs\'\n</script>\n\n# {label}\n\n<SectionPrintBook :articles="data.articles" :title="data.title" />\n')
@@ -394,7 +441,7 @@ def finish():
     js('migration/external-wiki-links.json',UNRESOLVED)
     js('.vitepress/image-catalog.json',list(CATALOG.values()))
     write('hilfe/bedienung.md','# SchILD-NRW 2 im Alltag bedienen\n\n## Orientierung\n\n- [Hauptfenster]('+routes['Hauptfenster']+')\n- [Iconleiste]('+routes['Iconleiste']+')\n- [Tastenkürzel]('+routes['Shortcuts in Schild-NRW']+')\n\n## Datensätze finden und bearbeiten\n\n- [Auswahl und Filter](/schild2/auswahl)\n- [Wiedervorlage]('+routes['Wiedervorlage']+')\n- [Programmeinstellungen]('+routes['Programm-Einstellungen']+')\n\n## Dokumentation nutzen\n\nDie Themenrubriken bündeln zusammengehörige Aufgaben. In der Programmreferenz folgen Sie den Menüs von SchILD2. Die Suche findet Begriffe über alle Artikel hinweg. Unter „Alle Artikel“ können Sie die Titel alphabetisch durchsehen. Das Drucksymbol öffnet die Druckansicht eines Artikels; die Druckansicht einer Rubrik fasst deren Artikel zusammen.\n')
-    write('hilfe/artikel-wiki-zuordnung.md','# Artikel und Wiki-Quellen\n\nJede der 456 exportierten Seiten bleibt einer Markdown-Datei und einer Wiki-Version zugeordnet. Die ursprünglichen Wiki-Titel und Sprungmarken bleiben nachvollziehbar.\n\n| Wiki-Artikel | Dokumentation | Wiki-Version |\n| --- | --- | --- |\n'+'\n'.join(f'| {p["title"].replace("|","&#124;")} | [Artikel](/{p["path"][:-3]}) | [{p["revision"]}]({p["source"]}&oldid={p["revision"]}) |' for p in PROOFS)+'\n')
+    write('hilfe/artikel-wiki-zuordnung.md',f'# Artikel und Wiki-Quellen\n\nAlle {len(PROOFS)} Inhaltsseiten sind einer lokalen Markdown-Datei und einer gesicherten Wiki-Version zugeordnet.\n\n| Wiki-Artikel | Dokumentation | Quelltext |\n| --- | --- | --- |\n'+'\n'.join(f'| {p["title"].replace("|","&#124;")} | [Artikel](/{p["path"][:-3]}) | [Version {p["revision"]}](/quellen/wiki/seite-{p["pageid"]}) |' for p in PROOFS)+'\n')
     write('hilfe/ueber-diese-dokumentation.md','# Über diese Dokumentation\n\nDiese Dokumentation überträgt das SchILD-NRW-2-Wiki in die bewährte Themenstruktur der SchILD3-Dokumentation. Die Inhalte stammen aus dem öffentlichen Wiki; die jeweilige Quelle und Bearbeitungsgeschichte stehen unter jedem übernommenen Artikel.\n\nSchILD2 arbeitet unmittelbar mit einer Datenbank. Für den Betrieb ist kein SVWS-Server erforderlich. Menünamen und Verfahren richten sich nach SchILD2.\n\n## Quellenstand\n\nDer Export wurde am 27. Oktober 2026 erstellt. Er enthält alle 456 zum Abrufzeitpunkt vorhandenen Seiten im Hauptnamensraum, einschließlich Weiterleitungen und älterer Verfahren. Externe Handbücher und nicht vorhandene Wiki-Seiten bleiben als externe Links erkennbar. Die Übertragung aktualisiert keine historischen Rechtsstände oder Programmbeschreibungen.\n\n## Rechte und Verantwortlichkeit\n\nDie Inhalte und Abbildungen stammen von den jeweiligen Wiki-Autoren. Die ursprünglichen Quellen und Versionsgeschichten bleiben verlinkt. Es wird hier keine zusätzliche Nutzungslizenz für fremde Inhalte vergeben. Vor einer öffentlichen Bereitstellung sind die Nutzungsrechte sowie die erforderlichen Angaben zu Verantwortlichkeit und Datenschutz zu klären.\n')
 
 if __name__=='__main__':

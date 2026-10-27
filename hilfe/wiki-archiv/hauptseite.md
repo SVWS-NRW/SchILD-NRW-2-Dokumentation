@@ -85,7 +85,7 @@ Nähere Informationen gibt es im folgenden Artikel:
 
 <a id="Lupo_Handbuch"></a>
 
-### [Lupo Handbuch](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo:Handbuch)
+### [Lupo Handbuch](/tools/lupo/lupo-handbuch)
 
 ![Inhalt](/bilder/wiki/lupo-hauptseite-bf47bfe8.png)
 Inhalt
@@ -100,7 +100,7 @@ ein. Auf diese Weise liefert das Handbuch zum individuellen Beratungszeitpunkt
 
 schnell die benötigte Informationen.
 
-             **[Lupo Handbuch](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo:Handbuch)**\
+             **[Lupo Handbuch](/tools/lupo/lupo-handbuch)**\
 
 ------------------------------------------------------------------------
 
@@ -144,4 +144,4 @@ Prognos PM2
 
 ---
 
-Quelle: [Hauptseite – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Hauptseite&oldid=6060) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Hauptseite&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1) · [Hauptseite – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Hauptseite&oldid=6060)

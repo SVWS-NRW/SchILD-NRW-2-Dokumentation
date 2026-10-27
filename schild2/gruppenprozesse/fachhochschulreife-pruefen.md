@@ -17,4 +17,4 @@ Danach kann man die Ergebnisse unter dem Reiter [FHR](/zeugnisse/sekundarstufen/
 
 ---
 
-Quelle: [Fachhochschulreife prüfen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fachhochschulreife+pr%C3%BCfen&oldid=2045) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fachhochschulreife+pr%C3%BCfen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-367) · [Fachhochschulreife prüfen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fachhochschulreife+pr%C3%BCfen&oldid=2045)

@@ -1,0 +1,29 @@
+{
+  "pageid": 355,
+  "ns": 0,
+  "title": "Abschlussdatum neu berechnen",
+  "revisions": [
+    {
+      "revid": 1587,
+      "parentid": 1556,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-03-05T13:19:23Z",
+      "sha1": "49476f285d880c11cc9ab31248355b9d757453fe",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Dieser Gruppenprozess realisiert das automatisierte Berechnen des Abschlussdatums. Damit diese Berechnung korrekt funktioniert, müssen bei den [[Statistik-Jahrgänge|Statistik-Jahrgängen]] die Restabschnitte (Anzahl der noch zu absolvierenden Halbjahre oder Quartale) korrekt eingetragen sein. Nach diesem Gruppenprozess steht das neu berechnete Abschlussdatum auf der Registerkarte [[Individual-Daten I]].\n\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Allgemeines|Zurück zu Allgemeines]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-03-05T13:19:23Z",
+  "lastrevid": 1587,
+  "length": 483
+}

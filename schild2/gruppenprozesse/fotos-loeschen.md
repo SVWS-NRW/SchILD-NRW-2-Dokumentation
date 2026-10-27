@@ -15,4 +15,4 @@ Sicherheitshalber sollte man vor dieser Aktion eine Datensicherung vornehmen.
 
 ---
 
-Quelle: [Fotos löschen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fotos+l%C3%B6schen&oldid=1903) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fotos+l%C3%B6schen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-358) · [Fotos löschen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fotos+l%C3%B6schen&oldid=1903)

@@ -1,0 +1,29 @@
+{
+  "pageid": 929,
+  "ns": 0,
+  "title": "Eigene Datenquellen für Schild-Reports",
+  "revisions": [
+    {
+      "revid": 3527,
+      "parentid": 3525,
+      "user": "BPanzlaff",
+      "timestamp": "2015-09-07T10:49:52Z",
+      "sha1": "84478acf4fcb572c33646abe2aae5011f02b1824",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "== Einleitung ==\n\nZur Nutzung von eigenen Datenquellen in der Reportverwaltung von Schild-NRW wurde ein Verfahren eingeführt, das es dem Nutzer ermöglicht, spezielle, für einen Report benötigte Datenquellendynamisch zu erstellen und diese dann auch an andere Schild-Installationen weiterzugeben, ohne dass die Datenquellen im Report immer wieder neu angelegt werden müssen.\n\nAußerdem besteht mit dieser Lösung eine Möglichkeit, auch für Schild-Zentral eigene Datenquellen zu nutzen. Die jeweiligen Datenquellen-Dateien müssen dann nur nach einer Sicherheitsüberprüfung von den jeweiligen IT-Administratoren in die Schild-Umgebung kopiert werden.\n\n== Einrichtung ==\n\nErstellen Sie zunächst ein Verzeichnis '''Schild-Pipelines''' in Ihrem Schild-NRW-Installationsordner.\n\n[[Datei:SPD-01.png]]\n\nIn diesen Ordner werden die Datenquellen-Dateien gespeichert.\n\nEs handelt sich dabei um einfache Textdateien mit der Dateiendung '''*.SPD'''.\n\n== Aufbau der Datenquellen-Dateien (*.SPD) ==\n\n[[Datei:SPD-02.png |450px |left ]]'''[Queries]'''\n\nHier werden alle neu zu definierenden Abfragen mit dem Namenszusatz ''__qry***'' aufgelistet.\n\n'''[Query__qryNamederAbfrage]'''\n\nDa dieser Name programmintern eindeutig sein muss, gilt die Konvention, dass __qry*** im Programmcode nicht benutzt wird, so dass keine Namenskollisionen entstehen können, wenn dieses Präfix genutzt wird.\n\nDer ''InitCommand''-Befehl initialisiert die Abfrage und setzt die Namen der zur Verfügung stehenden Felder im Reportexplorer fest.\n\nDie Befehle ''Command1'' und folgende setzen den SQL-Abfrage-String auf die Datenbank zusammen. Die Zusammensetzung aus Command1 + Command2 usw. wurde aus Übersichtsgründen erstellt. Der Befehl kann also auch in einen einzigen Command1-Befehl gesetzt werden.\n\nMit dem Platzhalter $Schulnr$ kann  die Schulnummer der DB abgefragt werden. (Wichtig für Schild-Zentral.)\n\nMit dem Befehl ''Mastersource=Schueler.Datasource'' kann eine übergeordnete Datenquelle angegeben werden. Dies ist über den Abfrageassistenten im Report-Designer nicht so einfach möglich.Der Datenquellenname (hier Schueler) muss in der Reporting bereits existieren. Also entweder als feste Datenquelle oder in einer SPD-Datei, die vorher schon abgearbeitet wurde. Dies kann über die alphabetische Sortierung der SPD-Dateinamen geregelt werden.\n\n[[Datei:SPD-03.png |300px | right ]]\nDie Übergabe des Mastersource-Parameters erfolgt über den Befehl A.Schueler_ID=:ID, wobei über den Doppelpunkt  :NamedesFeldesinderMasterSource die Koppelung geregelt wird.\n\n\n'''[Datasource__qryNamederAbfrage]'''\n\nHier wird die Datenquelle mit dem Befehl Name=__dsNamederAbfrage erzeugt.\n\n\n'''[Pipeline__qryNamederAbfrage]'''\n\nÜber ''Name=__pplnNamederQuelle'' wird dann die eigentliche Datenpipeline erzeugt.\nDie Befehle ''Opendatasource'', ''CloseDatasource'' und ''SkipWhenNoRecords'' entnehmen Sie bitte den Beispieldateien.\n\n\n\n''Username=xxNamederDatenQuelle'' stellt den eigentlichen Namen bereit, den der User später im Reportdesigner zu sehen bekommt.\n\n[[Datei:SPD-04.png |300px ]]\n\n\nDie Zeilen geführt von einem Semikolon werden als Kommentarzeilen interpretiert.\n\n\n\n{{Achtung|Die Datenquellendateien (SPD) und die zugehörigen Formulare können dann gemeinsam verteilt werden.\n\nBitte beachten Sie, dass bei der Verteilung der SPD-Dateien ein Schreibzugriff auf das Schild-NRW-Installationsverzeichnis benötigt wird.}}\n\n{{Beispiel|In der beiliegenden ZIP-Datei sind zwei Beispiele für solche dynamisch erstellte Datenquellen enthalten: '''[[Medium:SPD_Dateien.zip]]'''}}\n\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Schild-NRW-Tutorials|Zurück zur Schild-NRW-Tutorials]]"
+        }
+      },
+      "comment": "/* Aufbau der Datenquellen-Dateien (*.SPD) */"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-05-04T13:18:40Z",
+  "lastrevid": 3527,
+  "length": 3655
+}

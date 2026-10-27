@@ -54,4 +54,4 @@ procedure GlobalOnCreate;
 
 ---
 
-Quelle: [DateinameFuerDVAuswaehlen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=DateinameFuerDVAuswaehlen&oldid=6027) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=DateinameFuerDVAuswaehlen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-125) · [DateinameFuerDVAuswaehlen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=DateinameFuerDVAuswaehlen&oldid=6027)

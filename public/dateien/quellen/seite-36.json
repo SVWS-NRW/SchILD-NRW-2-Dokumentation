@@ -1,0 +1,30 @@
+{
+  "pageid": 36,
+  "ns": 0,
+  "title": "IstInDerGruppe",
+  "revisions": [
+    {
+      "revid": 57,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T15:17:49Z",
+      "sha1": "a160c29ea0f8fcaafa929ba68d44e04041fed945",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    function IstInDerGruppe(const aLoginName, aGruppenName: String): Boolean;\n    Diese Funktion ermittelt, ob ein bestimmter Benutzer einer Gruppe angehört\n|-\n|'''Parameter''' || \n    aLoginname    - der Schild-Loginname des Benutzers\n    aGruppenname  - die zu überprüfende Gruppe\n|-\n|'''Rückgabewert''' ||\n    TRUE, wenn der Benutzer der Gruppe angehört, FALSE sonst\n|- \n|'''Beispiel''' || \n    procedure DetailBeforePrint;\n    begin\n      Detail.Visible:=IstInDerGruppe('LEHRER',SchildUmgebung['Login_Name'])\n    end;\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      function IstInDerGruppe(const aLoginName, aGruppenName: String): Boolean;…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T15:17:49Z",
+  "lastrevid": 57,
+  "length": 650,
+  "new": ""
+}

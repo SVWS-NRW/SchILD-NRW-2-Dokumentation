@@ -39,4 +39,4 @@ Sollten Schüler keine Schule eingetragen haben, so werden diese auf der ersten 
 
 ---
 
-Quelle: [Sortierung ändern – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sortierung+%C3%A4ndern&oldid=3214) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sortierung+%C3%A4ndern&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-835) · [Sortierung ändern – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sortierung+%C3%A4ndern&oldid=3214)

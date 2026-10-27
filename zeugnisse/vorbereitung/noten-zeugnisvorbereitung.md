@@ -35,4 +35,4 @@ Bitte klicken Sie die Artikel an, um Informationen zu den dahinter liegenden Sam
 
 ---
 
-Quelle: [Noten, Zeugnisvorbereitung – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Noten%2C+Zeugnisvorbereitung&oldid=1292) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Noten%2C+Zeugnisvorbereitung&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-290) · [Noten, Zeugnisvorbereitung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Noten%2C+Zeugnisvorbereitung&oldid=1292)

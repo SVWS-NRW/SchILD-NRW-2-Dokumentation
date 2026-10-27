@@ -17,4 +17,4 @@ Im gefüllten Katalog ist eine Sortierung nach Name, PLZ, Ort und Benutzerdefini
 
 ---
 
-Quelle: [Kindergärten – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kinderg%C3%A4rten&oldid=455) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kinderg%C3%A4rten&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-179) · [Kindergärten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kinderg%C3%A4rten&oldid=455)

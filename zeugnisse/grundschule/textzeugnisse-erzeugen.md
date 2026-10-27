@@ -12,4 +12,4 @@ wiki_revision: 2476
 
 ---
 
-Quelle: [Textzeugnisse erzeugen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Textzeugnisse+erzeugen&oldid=2476) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Textzeugnisse+erzeugen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-639) · [Textzeugnisse erzeugen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Textzeugnisse+erzeugen&oldid=2476)

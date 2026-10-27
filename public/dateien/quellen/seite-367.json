@@ -1,0 +1,29 @@
+{
+  "pageid": 367,
+  "ns": 0,
+  "title": "Fachhochschulreife prüfen",
+  "revisions": [
+    {
+      "revid": 2045,
+      "parentid": 1898,
+      "user": "UMertsch",
+      "timestamp": "2014-04-02T08:30:28Z",
+      "sha1": "417f8a1773cae396aa330adf4f814eb37088964b",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Dieser Gruppenprozess steht nur für Schulen mit gymnasialer Oberstufe zur Verfügung.\n\nEr überprüft unter Verwendung der eingetragenen Leistungsdaten das Erreichen der Fachhochschulreife. Da dafür mindestens zwei vollständige Halbjahre nötig sind, kann dieser Gruppenprozess erstmals nach Abschluss der Qualifikationsphase 1 ausgeführt werden. Die Ergebnisse des Prüfalgorithmus werden für jeden Schüler der ausgewählten Schülermenge in einer Textdatei angezeigt. Diese Datei kann ggf. gespeichert und ausgedruckt werden.\n\nDanach kann man die Ergebnisse unter dem Reiter [[FHR]] einsehen. Dort kann man den Prüfalgorithmus für den aktuellen Schüler erneut ausführen.\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Allgemeines|Zurück zu Allgemeines]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-04-02T08:30:28Z",
+  "lastrevid": 2045,
+  "length": 756
+}

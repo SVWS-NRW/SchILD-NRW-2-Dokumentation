@@ -27,4 +27,4 @@ Bitte klicken Sie die Artikel an, um Informationen zu den dahinter liegenden Sam
 
 ---
 
-Quelle: [Gruppenaktionen Abitur – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Gruppenaktionen+Abitur&oldid=1286) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Gruppenaktionen+Abitur&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-295) · [Gruppenaktionen Abitur – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Gruppenaktionen+Abitur&oldid=1286)

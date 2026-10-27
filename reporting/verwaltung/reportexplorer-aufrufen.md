@@ -55,4 +55,4 @@ Informationen über die Datenquellen erhält man mit dem Klick auf das Symbol ![
 
 ---
 
-Quelle: [Reportexplorer aufrufen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Reportexplorer+aufrufen&oldid=2416) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Reportexplorer+aufrufen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-536) · [Reportexplorer aufrufen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Reportexplorer+aufrufen&oldid=2416)

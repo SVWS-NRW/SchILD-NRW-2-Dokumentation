@@ -1,0 +1,29 @@
+{
+  "pageid": 1134,
+  "ns": 0,
+  "title": "BK-Abschluss:Anlage-D",
+  "revisions": [
+    {
+      "revid": 4746,
+      "parentid": 4744,
+      "user": "Pfotenhauer",
+      "timestamp": "2021-04-22T10:39:47Z",
+      "sha1": "620848d65db0e97c632ceb08ac0bed1a1a3a0b28",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "In diesem Bereich sollen die Berechnungen der Anlage D, soweit diese in Schild-NRW hinterlegt sind, beschrieben werden.\n\nDazu werden die einzelnen Gliederungen (hier immer mit Statistikkennung genannt, abweichend zur Bezeichnung in der BASS) hier aufgelistet:\n\nAbitur wird auf dem Abiturreiter berechnet!\n\n[[D01 Berufsabschluss/Allg. Hochschulreife (mit Berufspraktikum) (BAB/AHR 4j; VZ)]]\n\n[[D02 Berufl. Kenntnisse/Allg. Hochschulreife (BK/AHR 3j; VZ)]]\n\n[[D03 Berufspraktikum (Vollzeit), Dauer bis zu 1 Jahr  (BP 1j; VZ)]]\n\n[[D04 Berufspraktikum Erzieher/innen (Teilzeit) (BP/Erz 2j; TZ)]]\n\n[[D05 AHR (gem. § 2 Abs. 3 Anlage D) (AHR 1j; VZ) FOS13]]\n\n[[D06 AHR (gem. § 2 Abs. 3 Anlage D) (AHR 2j; TZ) FOS13]]\n\n\n\n\n----\n[[BK-Abschluss|zurück zu BK-Abschluss]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2021-04-22T10:39:47Z",
+  "lastrevid": 4746,
+  "length": 761
+}

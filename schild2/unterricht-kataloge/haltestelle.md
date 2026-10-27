@@ -11,4 +11,4 @@ wiki_revision: 435
 
 ---
 
-Quelle: [Haltestelle – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Haltestelle&oldid=435) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Haltestelle&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-173) · [Haltestelle – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Haltestelle&oldid=435)

@@ -1,0 +1,29 @@
+{
+  "pageid": 211,
+  "ns": 0,
+  "title": "Datenaustausch",
+  "revisions": [
+    {
+      "revid": 5750,
+      "parentid": 3853,
+      "user": "FFrodermann",
+      "timestamp": "2024-03-14T07:43:06Z",
+      "sha1": "0ea4362b5007524d93fb5238e59eaf7bc330602b",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Der Menüpunkt [[Datenaustausch]] beinhaltet alle Optionen für den Import und Export von Daten.\nDabei gibt es in Schild-NRW die verschiedensten Möglichkeiten.\nBitte beachten Sie, dass dieser Menüpunkt je nach den Benutzerrechten mehr oder weniger Optionen enthalten kann.\n[[Image:exchange.png|right]]\n[[Externes Notenmodul]]\n\n[[Export in Text-/Excel-Dateien]]\n\n[[Import aus Textdateien]]\n\n[[Schnittstelle Schild-NRW]]\n\n[[Export für Lupo]]\n\n[[Unterrichtsdaten (als Excel Dateien) importieren]]\n\n[[Excel-Notendateien]]\n\n[[Fotos]]\n\n[[Wohnortdaten exportieren]]\n\n[[Kataloge exportieren]]\n\n[[UVD-Datei importieren]]\n\n[[SchILDweb]]\n\n[[JaNa-Export (Jahrgang und Nationalität)]]\n\n[[Export für BAN-Portal]]\n\n\n----\n\n\n[[Schild-NRW-Index|Zurück zu Schild-NRW-Index]]"
+        }
+      },
+      "comment": "Export für BAN-Portal - hinzugefügt"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2024-03-14T08:05:34Z",
+  "lastrevid": 5750,
+  "length": 761
+}

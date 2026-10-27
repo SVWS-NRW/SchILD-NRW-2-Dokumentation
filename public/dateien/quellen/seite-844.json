@@ -1,0 +1,29 @@
+{
+  "pageid": 844,
+  "ns": 0,
+  "title": "Fachbezogene Bemerkungen",
+  "revisions": [
+    {
+      "revid": 3238,
+      "parentid": 3235,
+      "user": "BPanzlaff",
+      "timestamp": "2015-06-01T13:17:14Z",
+      "sha1": "587880099411ed3c4db7c81fad62863dc24ec2ae",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "'''Hinweise zum Eintragen von fachbezogenen Bemerkungen'''\n\nFachbezogene Bemerkungen können freie Texteinträge zu beliebigen Unterrichtsfächern bei jedem einzelnen Schüler enthalten. Diese werden zum Beispiel dazu genutzt, um die Themenbezeichnungen für Fach- oder Abschlussarbeiten bei den Schülern speichern zu können. Dazu können diese Bemerkungen einzeln oder auch als Gruppenprozess bei mehreren Schülern gleichzeitig eingetragen werden.\n\n'''Fachbezogene Bemerkungen in SchILD-NRW aktivieren:'''\n\n[[Datei:FachbezogeneBem-00.png]]\n\nGehen Sie dazu in das Menü ''Extras -> Programmeinstellungen'' und aktivieren Sie bei den ''globalen Einstellungen'' auf dem Karteireiter ''Fächer, Noten'' den Haken bei ''Fachbezogenes Bemerkungsfeld zeigen''.\n\n[[Datei:FachbezogeneBem-01.png|200px]]\n\n\nDanach steht Ihnen unter dem Karteireiter Akt. Halbjahr (bzw. Akt. Quartal) in den Leistungsdaten der Schüler ein Memofeld am Ende der Fächerliste zur Verfügung.\n\n\n[[Datei:FachbezogeneBem-02.png|200px]]\n\n\n\n\nEin Doppelklick auf das Memofeld öffnet den aus Schild-NRW bekannten Texteditor und lässt nun eine freie Texteingabe zu.\nEs können zu allen Fächern Bemerkungen gemacht werden. Diese können auch von den Kollegen im Externen Notenmodul gemacht werden!\n\n'''Fachbezogene Bemerkungen als Gruppenprozess setzen:'''\n\nÜber den Gruppenprozess Details zu Fächern bei Schülern ändern können seit der Version 1.7.79.5 (Januar 2012) diese Fachbemerkungen nun gruppenweise gesetzt werden:\n\n\n[[Datei:FachbezogeneBem-03.png]]\n\n\n\n[[Datei:FachbezogeneBem-04.png]]\n\n\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Schild-NRW-Tutorials|Zurück zur Schild-NRW-Tutorials]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-06-01T13:17:14Z",
+  "lastrevid": 3238,
+  "length": 1660
+}

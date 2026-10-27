@@ -1,0 +1,29 @@
+{
+  "pageid": 1326,
+  "ns": 6,
+  "title": "Datei:Reiter Einwilligungen.png",
+  "revisions": [
+    {
+      "revid": 5361,
+      "parentid": 5168,
+      "user": "SpehJ",
+      "timestamp": "2022-02-10T19:09:53Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": "SpehJ lud eine neue Version von [[Datei:Reiter Einwilligungen.png]] hoch"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-02-10T19:09:53Z",
+  "lastrevid": 5361,
+  "length": 0
+}

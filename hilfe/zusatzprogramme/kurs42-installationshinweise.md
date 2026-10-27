@@ -32,4 +32,4 @@ Dies hat den Vorteil, das für alle Benutzer nur eine Installation aktuell gehal
 
 ---
 
-Quelle: [Kurs42:Installationshinweise – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurs42%3AInstallationshinweise&oldid=5508) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurs42%3AInstallationshinweise&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1371) · [Kurs42:Installationshinweise – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurs42%3AInstallationshinweise&oldid=5508)

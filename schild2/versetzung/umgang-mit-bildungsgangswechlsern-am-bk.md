@@ -60,4 +60,4 @@ Um dies zu erreichen geht man wie folgt vor:
 
 ---
 
-Quelle: [Umgang mit Bildungsgangswechlsern am BK – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Umgang+mit+Bildungsgangswechlsern+am+BK&oldid=4062) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Umgang+mit+Bildungsgangswechlsern+am+BK&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1091) · [Umgang mit Bildungsgangswechlsern am BK – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Umgang+mit+Bildungsgangswechlsern+am+BK&oldid=4062)

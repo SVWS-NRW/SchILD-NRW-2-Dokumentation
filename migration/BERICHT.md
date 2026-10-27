@@ -1,54 +1,50 @@
-# Migration des SchILD2-Wikis
+# Vollständige Bestandsübernahme des SchILD2-Wikis
 
-Stand: 27. Oktober 2026. Ausgangspunkt: `Raffenberg/SchILD2_Doku`, ursprünglicher Commit `d2c487e15fbea58f410901c736eebb7348238597`. Layout und Bedienkonzepte wurden aus `Raffenberg/SchILD3_Doku`, Branch `dev`, Commit `5cbc40be85c9398602ec07dc872171f2a2fc57e4` übernommen. Die Artikeltexte stammen aus dem SchILD2-Wiki.
+Stand: 27. Oktober 2026. Diese Erweiterung ersetzt die Begrenzung des Erstimports auf den Hauptnamensraum. Basis ist der zusammengeführte PR #1 in `dev` von `Raffenberg/SchILD2_Doku`.
 
-## Abgekürzte, überprüfbare Schrittfolge
+## Umfang
 
-1. **Endfassung als Vorlage:** Die bereits erprobten Rubriken, Hinweisboxen, aktive Navigation, Suche, Autorenhilfe, Bilderkatalog und Druckfunktionen aus SchILD3 wurden unmittelbar verwendet.
-2. **Quellen sichern:** Alle 456 vorhandenen Seiten im Hauptnamensraum wurden mit Wikitext, gerendertem Inhalt, Versionsnummern, Link- und Abschnittsangaben gespeichert. Prüfsummen sichern die Originale.
-3. **SchILD2 zuordnen:** Die Inhalte wurden in 22 Themenbereiche der sieben Rubriken eingeordnet. Die Programmreferenz folgt dem SchILD2-Inhaltsverzeichnis und den dort beschriebenen Menüs. Administration erklärt den direkten Datenbankzugriff ohne SVWS-Server; Access sowie SQL-Datenbanken bleiben berücksichtigt.
-4. **Direkt bereinigen:** 757 verwendete Bilder und Anhänge wurden lokal gespeichert. Lesbare Dateinamen, native Hinweisboxen, übersichtliche RAP-Abschnitte, einheitliche Überschriftsebenen und Quellenangaben wurden im Erstimport erzeugt. Bearbeitungsschaltflächen, Wiki-Spaltenlayouts und reine Rücksprungabsätze wurden entfernt. Videos sind über ausdrücklich anklickbare Links erreichbar.
-5. **Ergebnis prüfen:** Vollständigkeit, Dateien, Textbestand, historische Sprungmarken, HTML-Verknüpfungen und Browserbedienung wurden geprüft.
+| Bestand | Gesichert |
+| --- | ---: |
+| Aktuelle Wiki-Seiten aller Namensräume | 1405 |
+| Lesbar übertragene Inhaltsseiten | 473 |
+| Originaldateien aus dem Wiki | 910 |
+| Zusätzliche externe Originaldownloads | 34 |
+| Originale Überschriftsanker der Inhaltsseiten | 1229 |
+| Lesbar geprüfte PDF-Dateien | 14 mit zusammen 430 Seiten |
+| Verglichene Quellwörter | 143126, davon 0 fehlend |
 
-## Bestands- und Prüfergebnisse
+Alle 18 im Wiki registrierten Namensräume wurden abgefragt, einschließlich leerer Namensräume. Die 1.405 vorhandenen Seiten verteilen sich auf Artikel (456), LuPO (11), Wiki-Projektseiten (3), Hilfe (1), Kategorien (2), Dateibeschreibungen (910), Vorlagen (16), MediaWiki-Seiten (4) und Benutzerseiten (2).
 
-| Prüfung | Ergebnis |
-| --- | --- |
-| Wiki-Seiten im erfassten Hauptnamensraum | 456, sämtlich einer Markdown-Datei und einem Themenmenü zugeordnet |
-| Quellenüberschriften | 1.154 ursprüngliche Sprungmarken erhalten; zusätzliche ältere kodierte Alias-Varianten |
-| Bilder und Anhänge | 757 Dateien, 37.940.740 Bytes, Herkunft und SHA-256 dokumentiert |
-| Hinweisboxen | 140: 44 Hinweise, 42 Beispiele, 35 wichtige Hinweise, 18 Achtung-Hinweise, 1 Tipp |
-| Bereich RAP | 123 Seiten einschließlich Funktionsübersicht |
-| Textvergleich | 130.237 Quellwörter; keine fehlenden Wörter nach Bereinigung der Wiki-Bedienelemente und Ersetzung der Boxentitel |
-| VitePress-Bau | erfolgreich |
-| Fertige HTML-Seiten | 501 einschließlich Übersichten und Druckansichten |
-| Interne Links, Bilder und Sprungmarken | 0 Fehler |
-| Browseransichten | 32 bei 390/1440 Pixeln in Hell/Dunkel; kein Seitenüberlauf |
-| Bedienprüfungen | Suche, Bilderkatalog, Referenzkontext nach Neuladen, Mobilmenü, unveränderte leere Pascal-Zeichenketten und Rubrikdruck erfolgreich |
+Alle 473 Inhaltsseiten stehen als normale Markdown-Artikel zur Verfügung. Die übrigen Wiki-Seiten sind im vollständigen lokalen Quellenarchiv lesbar und als Originaldaten abrufbar. Alle 910 hochgeladenen Wiki-Dateien wurden heruntergeladen – auch bislang unbenutzte Bilder und Anhänge. Ihre SHA-1-Prüfsummen stimmen mit den vom Wiki gelieferten Werten überein; zusätzliche SHA-256-Werte sind dokumentiert. Acht alte Metadatensätze meldeten fälschlich eine Größe von null Bytes; deren tatsächliche Dateien konnten dennoch vollständig und prüfsummengleich gesichert werden.
 
-Der Wortvergleich ist eine zusätzliche Kontrolle des Textbestands, keine fachliche Neubewertung. Originalquellen und Bilder sind unverändert gesichert. Die Prüfsummen der erzeugten Markdown-Dateien in `articles.json` dokumentieren den Erstimport; spätere redaktionelle Bearbeitungen sind ausdrücklich möglich.
+## Navigation und Tools
 
-## Bewusst erhaltene Unterschiede und Quellengrenzen
+Das Kopfmenü hat sechs Zugänge: **Einstieg · SchILD2 · Zeugnisse · Reporting · Tools · Nachschlagen**. Die tägliche Arbeit und die Administration sind unter „SchILD2“ erreichbar. Programmreferenz, Artikelverzeichnis, Hilfe, Bilderkatalog und Quellenarchiv sind unter „Nachschlagen“ gebündelt. Keine bisher veröffentlichte Artikeladresse wurde für die Umordnung geändert.
 
-- SchILD2-Menüs und direkte Datenbankanbindung bleiben maßgeblich. SQL-Datenbankserver oder Netzwerkfreigaben sind von einem SVWS-Server zu unterscheiden.
-- Frühere Verfahren, alte Schuljahre, Windows-Versionen und Rechtsstände wurden erhalten. Historische Aussagen werden durch den Import nicht zu aktuell geprüften Empfehlungen.
-- Im Quellwiki gibt es Verweise auf **89 unterschiedliche nicht angelegte Seiten**. Ihre Linkbeschriftungen bleiben im Artikeltext stehen; Verknüpfungen zur Wiki-Bearbeitungsmaske wurden entfernt. Details enthält `external-wiki-links.json`.
-- Eigenständige Handbuchseiten außerhalb des Hauptnamensraums bleiben extern verlinkt. Der Import behauptet keinen vollständigen Umzug sämtlicher separater Programme oder Diskussionen des Wikis.
-- Die ursprüngliche Barrierefreiheitserklärung beschreibt das Wiki und ist im Quellenbereich gekennzeichnet. Sie ist keine Erklärung für die neue Website.
-- Die Wiki-Schnittstelle liefert keine allgemeine Inhaltslizenz. Quellen und Bearbeitungsgeschichten werden benannt; vor öffentlicher Bereitstellung sind Nutzungsrechte und Betreiberangaben festzulegen.
+Die Tools-Rubrik enthält Kurs42, LuPO, ASDPC, Notenmodul für Grundschulen, ENM-Notenmanager, externes Notenmodul für weiterführende Schulen, KM2, PM2, S1Plan, MA2LBV, Migrationstool, Anonymisierungstool, Import aus Textdateien und Schuljahr erhöhen. Weitere ältere Zusatzprogramme bleiben ebenfalls enthalten.
 
-## Prüfdateien und Wiederholung
+Die offiziellen Beschreibungen und Downloadverweise wurden von den vier Programmseiten zu Tools/Modulen, Kurs42, LuPO und ASDPC gesichert. Das gemeinsame Handbuch SchILD–LuPO–Kurs42, 22. Auflage, liegt als unveränderte vollständige PDF mit 184 Seiten lokal vor. Auch erreichbare Installationspakete, portable Versionen und Begleitdateien sind lokal archiviert. Sie wurden nicht ausgeführt.
 
-`snapshot-sha256.json`, `articles.json`, `assets.json` und `siteinfo.json` belegen Herkunft und Bestand. `text-audit.json`, `link-check.txt` und `browser-check.json` dokumentieren die lokalen Prüfungen. GitHub Actions wiederholt Migrationsprüfung, Bau, Linkkontrolle und Browserbedienung für Pull Requests.
+## Unabhängigkeit vom abgeschalteten Wiki
 
-```sh
-npm ci
-npm test
-npm run docs:build
-npm run docs:check
-npm run docs:check-browser
-```
+Inhaltsverweise auf vorhandene Wiki-Seiten führen auf lokale Artikel oder lokale Archivseiten. Alle Artikel besitzen einen lokalen Quellennachweis. Dateibeschreibungen verknüpfen die gesicherten Originaldateien. Ein ZIP-Download enthält den vollständigen aktuellen Wiki-Quelltextbestand; Bilder und Binärdateien stehen zusätzlich einzeln im Dateiarchiv bereit. Die ursprünglichen URLs bleiben als Herkunftsnachweis nachvollziehbar.
 
-Die letzte Prüfung benötigt zusätzlich Playwright und Chromium, siehe `CONTRIBUTING.md`. Für einen erneuten Vergleich des Originaltextes benötigt `migration/audit-text.py` außerdem Python, lxml und Pandoc.
+Gesichert ist die aktuelle Fassung jeder vorhandenen Seite, einschließlich eigenständiger Versionsgeschichtsartikel. Frühere Bearbeitungsstände einzelner Seiten sowie bereits gelöschte Seiten oder Dateien sind keine Bestandteile dieser aktuellen Bestandsübernahme. Nicht vorhandene Wiki-Artikel werden weiterhin nicht erfunden.
 
-Eine Veröffentlichung oder ein Merge wird durch den Import nicht automatisch vorgenommen.
+## Acht externe Quellenlücken
+
+**Keine der 910 unmittelbar im Wiki gespeicherten Dateien fehlt.** Acht externe Altdateien konnten dagegen nicht abgerufen werden: Vier ursprüngliche SVWS-Adressen liefern HTTP 404, vier ASDPC-Adressen laufen aus dieser Arbeitsumgebung in eine Zeitüberschreitung. Diese Befunde werden nicht gleichgesetzt. Die verweisenden Artikel sind erhalten; ihre betroffenen Links führen auf eine lokale Erläuterung mit der Originaladresse.
+
+Die vollständige Zuordnung der Dateinamen zu den aufrufenden Wiki-Artikeln steht in [OFFENE-DOWNLOADS.md](OFFENE-DOWNLOADS.md). Treffer aus einem Benutzerarchiv sollen zunächst auf Inhalt und Version gesichtet und erst danach übernommen werden. Die Abschaltung des Wikis führt dadurch zu keinem zusätzlichen Verlust der bereits vorhandenen Wiki-Dateien; die acht externen Quellenlücken bleiben ausdrücklich offen.
+
+## Prüfung und Nachweise
+
+- Migrationsprüfung und vollständige Bestandsprüfung: sämtliche Inhaltsseiten, 1.405 lokale Originalquellen, 910 Wiki-Dateien, ergänzende Downloads und alle benötigten Tool-Zugänge.
+- Textvergleich: Der bereinigte Originaltext sämtlicher Inhaltsseiten wird gegen den übertragenen Text verglichen; Wiki-Bedienelemente und ersetzte Boxentitel sind ausgenommen.
+- PDF-Prüfung: Alle 14 PDFs lassen sich öffnen; das gemeinsame Handbuch wurde zusätzlich anhand gerenderter Seiten visuell geprüft. Originaldateien wurden nicht verändert.
+- Bau, interne Links und Sprungmarken sowie Browserbedienung werden lokal und in GitHub Actions geprüft. Die erweiterten Browserprüfungen umfassen 56 Ansichten bei 390/1440 Pixeln in Hell/Dunkel sowie Suche, Bilderkatalog, Referenzkontext, Mobilmenü, lokale LuPO-Handbücher und Rubrikdruck.
+
+Belege: `wiki-complete/inventory.json`, `wiki-complete/pages/`, `wiki-complete/files.json`, `wiki-complete/assets.json`, `manuals/sources.json`, `manuals/assets.json`, `manuals/errors.json`, `manuals/resolutions.json`, `articles.json`, `text-audit.json`, `pdf-check.json`, `link-check.txt` und `browser-check.json`.
+
+Die ursprünglichen Verfasser-, Versions- und Rechteangaben der Texte und Dateien bleiben erhalten. Eine neue Nutzungslizenz wird durch die technische Übertragung nicht erteilt. Eine Veröffentlichung und ein Merge werden nicht automatisch vorgenommen.

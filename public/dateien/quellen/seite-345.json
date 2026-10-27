@@ -1,0 +1,29 @@
+{
+  "pageid": 345,
+  "ns": 0,
+  "title": "Schulpflicht autom. setzen zum SJ.-Ende",
+  "revisions": [
+    {
+      "revid": 1524,
+      "parentid": 1523,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-03-04T19:51:41Z",
+      "sha1": "f0303094e8b06be8d76e2815c2aed6fa48a37769",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Dieser Menüpunkt ist hauptsächlich für den Sek1-Bereich interessant.\n\nDa die Vollzeitschulpflicht in NRW nach 10 Schulbesuchsjahren (am G8-Gymnasium nach 9 Jahren) endet, muss für die Statistik der Haken \"Schulpflicht erfüllt\" auf dem Karteireiter [[Individual-Daten I]] gesetzt werden.\n\nDa die Schüler zu diesem Zeitpunkt vor den Sommerferien die Schulpflicht eigentlich noch nicht erfüllt haben, wird dieser Haken von den \"Automatischen Prozessen\" nicht gesetzt.\n\nDie Schüler \"wandern\" aber mit der Versetzung in aller Regel in den Karteikasten \"Abschluss\", von wo aus das nachträgliche Setzen der Schulpflicht oft vergessen wird, bzw. die \"Automatischen Prozesse\" nichts mehr an den Datensätzen ändern.\n\nDieser Menüpunkt hilft dabei, bei dem Abschlussjahrgang der Sekundarstufe 1 (z.B. Jahrgang 10 an der Gesamtschule) den Schulpflichthaken schon kurz vor den Sommerferien zu setzen.\n\n\n----\n\n\n[[Extras|Zurück zu Extras]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-03-04T19:51:41Z",
+  "lastrevid": 1524,
+  "length": 936
+}

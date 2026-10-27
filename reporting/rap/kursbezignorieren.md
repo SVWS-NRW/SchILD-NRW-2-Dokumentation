@@ -53,4 +53,4 @@ Procedure ReportBeforePrint;
 
 ---
 
-Quelle: [KursBezIgnorieren – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=KursBezIgnorieren&oldid=60) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=KursBezIgnorieren&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-39) · [KursBezIgnorieren – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=KursBezIgnorieren&oldid=60)

@@ -1,0 +1,29 @@
+{
+  "pageid": 1303,
+  "ns": 0,
+  "title": "Lernplattformen",
+  "revisions": [
+    {
+      "revid": 5384,
+      "parentid": 5382,
+      "user": "SpehJ",
+      "timestamp": "2022-02-15T19:22:11Z",
+      "sha1": "970aa0c02d499fe1fbb40e40eb9160cb348cb017",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "== Einleitung ==\n\nDie Bereitstellung von Daten für eine Lernplattform vollzieht sich in folgenden Schritten:\n\n# Anlegen der Lernplattform (siehe [[Lernplattformen#Schulverwaltung > Lernplattformen|Schulverwaltung > Lernplattformen]])\n# Erfassen der Einwilligungen der Schüler bzw. Lehrer (siehe [[Lernplattformen#Gruppenprozess Lernplattformen|Gruppenprozess Lernplattformen]])\n# Export der Daten\n\n{{Wichtig|Zwingend erforderlich ist der zweite Schritt, da ansonsten kein Export erfolgen kann!}}\n\n{{Wichtig|Dieser Eintrag befindet sich noch in der Bearbeitung, daher können sich die Inhalte noch ändern.}}\n\n== Schulverwaltung > Lernplattformen ==\n\nFür den ersten Schritt (Anlegen der Lernplattform) wird der Punkt Lernplattformen im Menüpunkt Schulverwaltung angeklickt. Nach dem Anklicken öffnet sich das folgende Fenster:\n\n[[File:Plattformen_anlegen.png|border=20|links|800px]]\n<br clear=all>\n\nDie gewünschten Lernplattformen werden in der Spalte Bezeichnung eingetragen und mittels Klick auf den Bestätigungshaken gespeichert.\nZur Vereinfachung des Ablaufs ist es möglich, direkt im Anschluss daran die erforderlichen Einwilligungen bei allen aktiven Schülerinnen und Schüler sowie der Lehrenden automatisch zu setzen.\n\n[[File:Bestätigung_alle_Einwilligungen_setzen.png|border=20|links|]]\n<br clear=all>\n\nWird dies bejaht, so kann im folgenden Fenster die Lernplattform ausgewählt werden. Zusätzlich kann für die Abfrage und die Nutzung der Einwilligung der vorzunehmende Eintrag (Nicht ändern, Ja, Nein) ausgewählt werden.\n\n[[File:Auswahl_alle_Einwilligungen_setzen.png|border=20|links|]]\n<br clear=all>\n\nWird der Eintrag nicht vorgenommen, so kann dies per Gruppenprozess nachgeholt werden. Sollten nur wenige \"Nein\" einzutragen sein, so könnten mit der o.g. Möglichkeit alle auf \"Ja\" gesetzt werden, anschließend per geeigneter Selektion und Gruppenprozess die anderen mit einem evtl. \"Nein\" überschrieben werden. Für Lehrkräfte muss in der entsprechenden Übersicht erfolgen.\n\n== Gruppenprozess Lernplattformen ==\n\n=== Einwilligungen für Schüler ===\nWenn eine Lernplattform angelegt worden ist, muss zwingend als nächster Schritt die Erfassung der Einwilligungen erfolgen. Wenn diese Erfassung nicht unmittelbar im Anschluss an die Anlage der Lernplattform erfolgt ist, kann dies hier erfolgen. Der entsprechende Gruppenprozess kann im Bereich Allgemeines aufgerufen werden.\n\n[[File:Gruppenprozess_Einwilligungen.png|border=20|links|]]\n<br clear=all>\n\n\nDas nächste Fenster bietet die Auswahl der entsprechenden Plattform mit den Punkten \"Einwilligung abgefragt\" und \"Einwilligung Nutzung\".\n\n[[File:Auswahl_alle_Einwilligungen_setzen.png|border=20|links|]]\n<br clear=all>\n\n\nErst nach dem Bestätigen und Ausführen dieses Gruppenprozesses kann der Export erfolgen! <br>\n\nAuf dem Reiter Einwilligungen können diese Einträge dann bei den Schülern einzeln bearbeitet werden.\n\n[[File:Reiter_Einwilligungen.png|border=20|links|800px]]\n<br clear=all>\n\n=== Einwilligungen für Lehrer ===\nFür die Erfassung der Einwilligungen wird die Übersicht der Lehrkräfte über Schulverwaltung < Lehrkräfte aufgerufen. Mittels Rechtsklick öffnet sich das Kontextmenü, in dem als Eintrag \"Einwilligungen zu Lernplattformen für ausgewählte Lehrkräfte\" zur Verfügung steht:\n\n[[File:Einwilligungen_Lehrer.png|border=20|links|]]\n<br clear=all>\n\nDas nächste Fenster bietet die gleiche Auswahl wie oben für die Schüler.\n\n[[File:Auswahl_alle_Einwilligungen_setzen.png|border=20|links|]]\n<br clear=all>\n\nEbenfalls analog zu den Schülern können die Einwilligungen auf dem entsprechenden Reiter auch bei den Lehrkräften einzeln bearbeitet werden.\n\n[[File:Reiter_Einwilligungen_Lehrer.png|border=20|links|800px]]\n<br clear=all>\n== Datenaustausch > Lernplattformen > Logineo NRW + LMS, IServ, SDS ==\n\nDer Export erfolgt über diesen Weg. Dabei stehen verschiedene Möglichkeiten zur Verfügung:\n\n# XML-Export für Logineo\n# CSV-Export für Logineo\n# Export für Iserv\n# Export für SDS (MNS-Pro)\n\n{{Wichtig|Beim Export ist zu beachten, dass die Einstellungen korrekt erfolgen. Die auf den folgenden Bildern eingetragenen Einstellungen sind lediglich zum Testen erfolgt und können nicht ohne Weiteres blind übernommen werden! Zu erwähnen ist, dass Umlaute aufgelöst werden und auch Sonderzeichen anderer Sprachen durch \"normale\" Buchstaben ersetzt werden.}}\n\n[[File:Export_Plattformen.png|border=20|links|500px]]\n<br clear=all>\n\n===XML-Export für Logineo NRW===\n\n[[File:Export_XLM_Logineo.png|border=20|links|500px]]\n<br clear=all>\n\n===CSV-Export für Logineo LMS===\n\n[[File:Export_Logineo_LMS.png|border=20|links|500px]]\n<br clear=all>\n\n===Export für Iserv===\n\n[[File:Export_Iserv.png|border=20|links|500px]]\n<br clear=all>\n\n===Export für SDS===\n\n[[File:Export_SDS.png|border=20|links|500px]]\n<br clear=all>"
+        }
+      },
+      "comment": "/* Export für Iserv */"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-04-03T16:17:27Z",
+  "lastrevid": 5384,
+  "length": 4834
+}

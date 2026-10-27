@@ -1,0 +1,29 @@
+{
+  "pageid": 946,
+  "ns": 6,
+  "title": "Datei:IK-Migrationshintergrund2.png",
+  "revisions": [
+    {
+      "revid": 5620,
+      "parentid": 3566,
+      "user": "JRaffenberg",
+      "timestamp": "2022-09-11T09:48:51Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": "JRaffenberg lud eine neue Version von [[Datei:IK-Migrationshintergrund2.png]] hoch"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-09-11T09:48:51Z",
+  "lastrevid": 5620,
+  "length": 0
+}

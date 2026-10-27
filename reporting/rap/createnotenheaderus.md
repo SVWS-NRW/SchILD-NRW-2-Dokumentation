@@ -48,4 +48,4 @@ CreateNotenHeaderUS('D,E,M,F,L');
 
 ---
 
-Quelle: [CreateNotenHeaderUS – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=CreateNotenHeaderUS&oldid=35) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=CreateNotenHeaderUS&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-16) · [CreateNotenHeaderUS – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=CreateNotenHeaderUS&oldid=35)

@@ -1,0 +1,30 @@
+{
+  "pageid": 105,
+  "ns": 0,
+  "title": "VerzeichnisseErzeugen",
+  "revisions": [
+    {
+      "revid": 129,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T18:55:15Z",
+      "sha1": "526d9dfbb13256f291cfd44af82b62eeaf38b213",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    function VerzeichnisseErzeugen(const aVerzeichnis : String): Boolean;\n    VerzeichnisseErzeugen erstellt das in 'aVerzeichnis' vollständig angegebene Verzeichnis.\n    Sind die übergeordneten Verzeichnisse nicht vorhanden, werden diese automatisch angelegt.\n    VerzeichnisseErzeugen gibt den Wert true zurück, wenn es alle notwendigen\n    Verzeichnisse erstellt hat, False, wenn das Verzeichnis nicht erstellt werden konnte.\n\n    Warnung: Rufen Sie VerzeichnisseErzeugen nicht mit einem leeren String auf.\n    Dies kann dazu führen, dass VerzeichnisseErzeugen eine Ausnahme auslöst.\n|-\n|'''Parameter''' || \n    aVerzeichnis   - Verzeichnis, das erzeugt werden soll\n|-\n|'''Rückgabewert''' ||\n    True, falls das Verzeichnis existiert oder erzeugt werden konnte, false sonst\n|- \n|'''Beispiel''' || \n    if VerzeichnisseErzeugen('c:\\programme\\schild-nrw\\ausgabe') then begin\n      Filename:='c:\\programme\\schild-nrw\\ausgabe\\Hinweis.txt'\n      Memo1.Lines.SaveToFile(Filename);\n    end;\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      function VerzeichnisseErzeugen(const aVerzeichnis : String): Boolean;    …“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T18:55:15Z",
+  "lastrevid": 129,
+  "length": 1116,
+  "new": ""
+}

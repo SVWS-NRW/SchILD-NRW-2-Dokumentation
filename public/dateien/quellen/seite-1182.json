@@ -1,0 +1,29 @@
+{
+  "pageid": 1182,
+  "ns": 0,
+  "title": "Versetzung ins neue Schuljahr / Abschnittswechsel durchführen",
+  "revisions": [
+    {
+      "revid": 4653,
+      "parentid": 4651,
+      "user": "Pfotenhauer",
+      "timestamp": "2020-09-23T11:52:56Z",
+      "sha1": "31ade0a9c4fe1642642ed6c3873656122f5bfc6d",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "__FORCETOC__\n\n= Einleitung =\n\nDer Schuljahres- oder Halbjahreswechsel kann in Schild-NRW auf verschiedene Arten durchgeführt werden.\nEntscheidend sind oft die Schulform und die Arbeitsweise an der jeweiligen Schule.\n\nGrundsätzlich kann aber gesagt werden, dass in aller Regel der Weg über Schulverwaltung > Schule bearbeiten gewählt werden kann.\n\nDie Schüler Klassen- oder Jahrgangsweise über den Gruppenprozess zu versetzen ist nur notwendig, wenn es an der Schule Jahrgänge oder Klassen gibt, die zu verschiedenen Zeitpunkten oder von verschiedenen Abteilungsleitern versetzt werden müssen.\n\n{{Wichtig|Grundschulen können fast immer den u.g. Weg wählen. Veraltete Anleitungen, die die Versetzung über Gruppenprozesse erklären, sollten nicht mehr verwendet werden!}}\n\n\n= Abschnittswechsel vom 1. Halbjahr ins 2. Halbjahr oder Wechsel des Quartals ohne Versetzung =\n\nGehen Sie einfach auf Schulverwaltung > Schule bearbeiten und klicken Sie den Button \"Halbjahreswechsel durchführen\".\nBei Quartalsbetrieb steht auf dem Button \"Quartalswechsel durchführen\".\nSie werden dann automatisch durch den Wechsel geleitet. Bitte kontrollieren Sie, ob der Haken zur Mitnahme der Fächer wie gewünscht gesetzt ist. In der Regel ist die Mitnahme der Fächer gewünscht.\n\nDie Angaben zu Beginn und Ende sind optional.\n\n[[Datei:Halbjahreswechsel.jpg|600px]]\n\n= Abschnittswechsel mit Versetzung (Schuljahreswechsel) =\n\nAm Ende des Schuljahres muss der Abschnittswechsel mit Versetzung durchgeführt werden.\nDazu werden zwei Vorgehensweisen unterschieden.\n\n* Die Schule hat die Zeugnisse mit Schild-NRW gedruckt und alle Versetzungsvermerke bei den Schülern wurden schon gesetzt.\n* Die Schule hat keine Zeugnisse mit Schild-NRW gedruckt und alle Versetzungsvermerke bei den Schülern sind leer.\n\nIn beiden Fällen ist es ratsam den Abschnittswechsel über '''Schulverwaltung > Schule bearbeiten''' durchzuführen.\nIm zweiten Fall muss beachten werden, das Schild-NRW bei einem leeren Versetzungsvermerk davon ausgeht, dass der Schülerdatensatz versetzt werden soll. Sollten hier Wiederholer vorhanden sein, muss der Versetzungsvermerk bei der visuellen Kontrolle im entsprechenden Fenster manuell geändert werden. Ansonsten ist das Vorgehen aber gleich.\n\nDrücken Sie den Button '''Schuljahreswechsel durchführen'''.\nAchten Sie im folgenden Menü darauf, dass der Haken zu den Fächern wie gewünscht gesetzt ist und, dass der Haken '''mit visueller Kontrolle''' gesetzt ist!\n\n[[Datei:Schuljahreswechsel.jpg]]\n\nKontrollieren Sie die Haken bei den Fächern. Fächer mit Kursangaben sollen in der Regel mitgenommen werden. Bei Fächern ohne Kurseintrag (Klassenunterricht) muss das individuell entschieden werden.\nAn Grundschulen kann die gesamte UVD durch Setzen der Haken mitgenommen werden! Der Klassen- und Kursunterricht muss im neuen Schuljahr dann nur noch auf Änderungen bei den Lehrkräften kontrolliert werden.\nDie Stundentafeln der neuen Schüler (in Grundschulen die Erstklässler, in Sek1-Schulen die 5.Klässler) müssen natürlich neu angelegt werden.\n\nKontrollieren Sie nun die Einstellungen bei den Schülern. Sollte die Schule die Versetzungsvermerke nicht gesetzt haben, müssen nicht versetze Schüler*innen manuell eingestellt werden.\nKontrollieren Sie, ob im letzten Jahrgang Ihrer Schule die Schüler auf '''Abschluss''' stehen.\n\nKlicken Sie danach auf '''Wechsel durchführen'''.\n\nIm Anschluss können die Schüler im Kasten '''Neuaufnahme''' aktiviert werden.\n\n= Erklärung des Versetzungsalgorithmus =\n\nIm Artikel '''[[Hochschreibungsalgorithmus]]''' wird beschrieben, nach welchen Kriterien Schild-NRW die Hochstufung des Jahrgangs, die Versetzung in die Folgeklasse und die Einteilung in den Status \"Abschluss\" vornimmt.\nDies ist eine sehr technische Erklärung und dient nur als Zusatz für interessierte Nutzer.\n\n\n----\n\n\n[[Schild-NRW-Tutorials|Zurück zu Schild-NRW-Tutorials]]\n\n[[Hauptseite|Zurück zur Hauptseite]]"
+        }
+      },
+      "comment": "/* Abschnittswechsel vom 1. Halbjahr ins 2. Halbjahr oder Wechsel des Quartals ohne Versetzung */"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-04-03T16:17:27Z",
+  "lastrevid": 4653,
+  "length": 3947
+}

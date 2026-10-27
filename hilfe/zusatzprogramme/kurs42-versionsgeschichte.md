@@ -1692,4 +1692,4 @@ Notenmobil=1
 
 ---
 
-Quelle: [Kurs42:Versionsgeschichte – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurs42%3AVersionsgeschichte&oldid=6010) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurs42%3AVersionsgeschichte&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1372) · [Kurs42:Versionsgeschichte – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurs42%3AVersionsgeschichte&oldid=6010)

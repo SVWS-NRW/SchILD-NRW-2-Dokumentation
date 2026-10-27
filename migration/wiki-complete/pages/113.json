@@ -1,0 +1,30 @@
+{
+  "pageid": 113,
+  "ns": 6,
+  "title": "Datei:Iconleiste.jpg",
+  "revisions": [
+    {
+      "revid": 140,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T22:13:55Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T22:15:08Z",
+  "lastrevid": 140,
+  "length": 0,
+  "new": ""
+}

@@ -52,4 +52,4 @@ Da SchILD abschnittsweise und im Gegensatz zu Kurs42 in Unterrichtsverteilung un
 
 ---
 
-Quelle: [Individuelle Schülergruppen bearbeiten und nutzen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Individuelle+Sch%C3%BClergruppen+bearbeiten+und+nutzen&oldid=3878) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Individuelle+Sch%C3%BClergruppen+bearbeiten+und+nutzen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1007) · [Individuelle Schülergruppen bearbeiten und nutzen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Individuelle+Sch%C3%BClergruppen+bearbeiten+und+nutzen&oldid=3878)

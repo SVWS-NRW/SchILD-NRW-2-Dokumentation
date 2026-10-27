@@ -9,7 +9,7 @@ wiki_revision: 938
 
 Bei Erstinstallation ist dieser Katalog leer.
 
-Sollten Kinder mit Förderschwerpunkt an die Schule kommen, müssen deren Förderschwerpunkte hier im Katalog eingetragen werden, um im Bereich der Sonderpädagogischen Förderung (befindet sich auf dem Karteireiter "[Individualdaten II](https://wiki.svws.nrw.de/mediawiki/index.php?title=Individualdaten_II&action=edit&redlink=1)") zur Verfügung zu stehen.
+Sollten Kinder mit Förderschwerpunkt an die Schule kommen, müssen deren Förderschwerpunkte hier im Katalog eingetragen werden, um im Bereich der Sonderpädagogischen Förderung (befindet sich auf dem Karteireiter "[Individualdaten II](/schild2/schueler/individual-daten-ii)") zur Verfügung zu stehen.
 
 ![Förderschwerpunkt](/bilder/wiki/foerderschwerpunkt-002f6606.jpg)
 
@@ -38,4 +38,4 @@ Es ist ratsam, erst mit dem Listenknopf eine dieser vorgegebenen ASD-Bezeichnung
 
 ---
 
-Quelle: [Förderschwerpunkte – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%B6rderschwerpunkte&oldid=938) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%B6rderschwerpunkte&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-163) · [Förderschwerpunkte – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%B6rderschwerpunkte&oldid=938)

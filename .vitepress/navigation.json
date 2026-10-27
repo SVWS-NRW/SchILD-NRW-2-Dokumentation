@@ -5,8 +5,18 @@
       "link": "/einstieg/"
     },
     {
-      "text": "Arbeiten mit SchILD",
-      "link": "/schild2/"
+      "text": "SchILD2",
+      "activeMatch": "^(?!(?:/tools/|/hilfe/zusatzprogramme/|(?:/hilfe/zusatzprogramme/kurs42\\-inhaltsverzeichnis|/zeugnisse/vorbereitung/externes\\-notenmodul|/schild2/import\\-export\\-statistik/import\\-aus\\-textdateien|/hilfe/zusatzprogramme/zusatzprogramme\\-tools|/hilfe/zusatzprogramme/konferenzmodul\\-km2\\-exe|/hilfe/zusatzprogramme/km2\\-001|/hilfe/zusatzprogramme/km2\\-002|/hilfe/zusatzprogramme/km2\\-003|/hilfe/zusatzprogramme/km2\\-parameter\\-administration|/hilfe/zusatzprogramme/km2\\-parameter\\-allgemein|/hilfe/zusatzprogramme/modulbenutzung|/hilfe/zusatzprogramme/km2\\-programmupdate|/hilfe/zusatzprogramme/lupo\\-lupo|/hilfe/zusatzprogramme/lupo\\-einleitung|/tools/lupo/lupo\\-handbuch|/tools/lupo/lupo\\-einleitung|/tools/lupo/lupo\\-installation|/tools/lupo/lupo\\-vorbereitungen\\-in\\-schild\\-nrw|/zeugnisse/vorbereitung/benutzung\\-des\\-externen\\-notenmoduls|/hilfe/zusatzprogramme/sem\\-schnelleingabemodul|/hilfe/zusatzprogramme/schildchat\\-exe|/tools/lupo/lupo\\-erste\\-schritte\\-in\\-lupo|/tools/lupo/lupo\\-schuelerdateien\\-erzeugen|/tools/lupo/lupo\\-der\\-beratungsprozess|/tools/lupo/lupo\\-auswertung\\-der\\-fachwahlen|/tools/lupo/lupo\\-uebergabe\\-der\\-fachwahlen\\-an\\-kurs42|/tools/lupo/lupo\\-weitere\\-laufbahnpruefungen|/hilfe/zusatzprogramme/schildweb|/hilfe/zusatzprogramme/kursverwaltung\\-kplan\\-exe|/hilfe/zusatzprogramme/kursplanung\\-kplan\\-exe|/hilfe/zusatzprogramme/s1plan\\-uebersicht|/hilfe/zusatzprogramme/news\\-kurs42\\-unter\\-schild\\-zentral|/hilfe/zusatzprogramme/s1plan\\-installation|/hilfe/zusatzprogramme/s1plan\\-erster\\-programmstart|/hilfe/zusatzprogramme/s1plan\\-einrichtung\\-von\\-kursen|/hilfe/zusatzprogramme/s1plan\\-uebernahme\\-von\\-kursen\\-aus\\-schild|/hilfe/zusatzprogramme/s1plan\\-anhang|/hilfe/zusatzprogramme/externe\\-blockungs\\-tools|/hilfe/zusatzprogramme/k422cnf\\-uebersicht|/hilfe/zusatzprogramme/kurs42\\-to\\-cnf\\-hauptseite|/hilfe/zusatzprogramme/klausurplanung\\-cnf\\-hauptseite|/hilfe/zusatzprogramme/multi\\-klausurplanung\\-cnf\\-hauptseite|/administration/installation/einrichtung\\-des\\-enm\\-moduls\\-unter\\-ubuntu\\-18\\-04|/hilfe/zusatzprogramme/prognos|/hilfe/zusatzprogramme/prognos\\-einleitung|/hilfe/zusatzprogramme/prognos\\-installation|/schild2/import\\-export\\-statistik/statistik\\-mit\\-asdpc|/hilfe/zusatzprogramme/prognos\\-programmstart|/hilfe/zusatzprogramme/prognos\\-hauptfenster|/hilfe/zusatzprogramme/prognos\\-analyseverfahren\\-einzelfall|/hilfe/zusatzprogramme/prognos\\-analyseverfahren\\-klasse|/hilfe/zusatzprogramme/prognos\\-analyseverfahren\\-datei|/schild2/import\\-export\\-statistik/statistik\\-mit\\-asdpc\\-schluesselmanagement|/schild2/import\\-export\\-statistik/statistik\\-mit\\-asdpc\\-technik|/schild2/import\\-export\\-statistik/statistik\\-mit\\-asdpc\\-aufbau|/schild2/import\\-export\\-statistik/statistik\\-mit\\-asdpc\\-fehlersuche|/schild2/import\\-export\\-statistik/statistik\\-mit\\-asdpc\\-vorbereitung|/schild2/import\\-export\\-statistik/statistik\\-mit\\-asdpc\\-haupterhebung|/schild2/import\\-export\\-statistik/statistik\\-mit\\-asdpc\\-uebersicht|/schild2/import\\-export\\-statistik/statistik\\-mit\\-asdpc\\-uebersicht\\-1346|/administration/datenbanken/schild\\-nrw\\-daten\\-in\\-eine\\-andere\\-datenbank\\-uebertragen\\-migrieren|/hilfe/zusatzprogramme/kurs42\\-installationshinweise|/hilfe/zusatzprogramme/kurs42\\-versionsgeschichte|/tools/lupo/lupo\\-versionsgeschichte)(?:\\.html)?(?:$|[?#])))/(schild2|administration)/",
+      "items": [
+        {
+          "text": "Arbeiten mit SchILD",
+          "link": "/schild2/"
+        },
+        {
+          "text": "Installation und Administration",
+          "link": "/administration/"
+        }
+      ]
     },
     {
       "text": "Zeugnisse",
@@ -17,16 +27,35 @@
       "link": "/reporting/"
     },
     {
-      "text": "Programmreferenz",
-      "link": "/programmreferenz/"
+      "text": "Tools",
+      "link": "/tools/",
+      "activeMatch": "^(?:/tools/|/hilfe/zusatzprogramme/|(?:/hilfe/zusatzprogramme/kurs42\\-inhaltsverzeichnis|/zeugnisse/vorbereitung/externes\\-notenmodul|/schild2/import\\-export\\-statistik/import\\-aus\\-textdateien|/hilfe/zusatzprogramme/zusatzprogramme\\-tools|/hilfe/zusatzprogramme/konferenzmodul\\-km2\\-exe|/hilfe/zusatzprogramme/km2\\-001|/hilfe/zusatzprogramme/km2\\-002|/hilfe/zusatzprogramme/km2\\-003|/hilfe/zusatzprogramme/km2\\-parameter\\-administration|/hilfe/zusatzprogramme/km2\\-parameter\\-allgemein|/hilfe/zusatzprogramme/modulbenutzung|/hilfe/zusatzprogramme/km2\\-programmupdate|/hilfe/zusatzprogramme/lupo\\-lupo|/hilfe/zusatzprogramme/lupo\\-einleitung|/tools/lupo/lupo\\-handbuch|/tools/lupo/lupo\\-einleitung|/tools/lupo/lupo\\-installation|/tools/lupo/lupo\\-vorbereitungen\\-in\\-schild\\-nrw|/zeugnisse/vorbereitung/benutzung\\-des\\-externen\\-notenmoduls|/hilfe/zusatzprogramme/sem\\-schnelleingabemodul|/hilfe/zusatzprogramme/schildchat\\-exe|/tools/lupo/lupo\\-erste\\-schritte\\-in\\-lupo|/tools/lupo/lupo\\-schuelerdateien\\-erzeugen|/tools/lupo/lupo\\-der\\-beratungsprozess|/tools/lupo/lupo\\-auswertung\\-der\\-fachwahlen|/tools/lupo/lupo\\-uebergabe\\-der\\-fachwahlen\\-an\\-kurs42|/tools/lupo/lupo\\-weitere\\-laufbahnpruefungen|/hilfe/zusatzprogramme/schildweb|/hilfe/zusatzprogramme/kursverwaltung\\-kplan\\-exe|/hilfe/zusatzprogramme/kursplanung\\-kplan\\-exe|/hilfe/zusatzprogramme/s1plan\\-uebersicht|/hilfe/zusatzprogramme/news\\-kurs42\\-unter\\-schild\\-zentral|/hilfe/zusatzprogramme/s1plan\\-installation|/hilfe/zusatzprogramme/s1plan\\-erster\\-programmstart|/hilfe/zusatzprogramme/s1plan\\-einrichtung\\-von\\-kursen|/hilfe/zusatzprogramme/s1plan\\-uebernahme\\-von\\-kursen\\-aus\\-schild|/hilfe/zusatzprogramme/s1plan\\-anhang|/hilfe/zusatzprogramme/externe\\-blockungs\\-tools|/hilfe/zusatzprogramme/k422cnf\\-uebersicht|/hilfe/zusatzprogramme/kurs42\\-to\\-cnf\\-hauptseite|/hilfe/zusatzprogramme/klausurplanung\\-cnf\\-hauptseite|/hilfe/zusatzprogramme/multi\\-klausurplanung\\-cnf\\-hauptseite|/administration/installation/einrichtung\\-des\\-enm\\-moduls\\-unter\\-ubuntu\\-18\\-04|/hilfe/zusatzprogramme/prognos|/hilfe/zusatzprogramme/prognos\\-einleitung|/hilfe/zusatzprogramme/prognos\\-installation|/schild2/import\\-export\\-statistik/statistik\\-mit\\-asdpc|/hilfe/zusatzprogramme/prognos\\-programmstart|/hilfe/zusatzprogramme/prognos\\-hauptfenster|/hilfe/zusatzprogramme/prognos\\-analyseverfahren\\-einzelfall|/hilfe/zusatzprogramme/prognos\\-analyseverfahren\\-klasse|/hilfe/zusatzprogramme/prognos\\-analyseverfahren\\-datei|/schild2/import\\-export\\-statistik/statistik\\-mit\\-asdpc\\-schluesselmanagement|/schild2/import\\-export\\-statistik/statistik\\-mit\\-asdpc\\-technik|/schild2/import\\-export\\-statistik/statistik\\-mit\\-asdpc\\-aufbau|/schild2/import\\-export\\-statistik/statistik\\-mit\\-asdpc\\-fehlersuche|/schild2/import\\-export\\-statistik/statistik\\-mit\\-asdpc\\-vorbereitung|/schild2/import\\-export\\-statistik/statistik\\-mit\\-asdpc\\-haupterhebung|/schild2/import\\-export\\-statistik/statistik\\-mit\\-asdpc\\-uebersicht|/schild2/import\\-export\\-statistik/statistik\\-mit\\-asdpc\\-uebersicht\\-1346|/administration/datenbanken/schild\\-nrw\\-daten\\-in\\-eine\\-andere\\-datenbank\\-uebertragen\\-migrieren|/hilfe/zusatzprogramme/kurs42\\-installationshinweise|/hilfe/zusatzprogramme/kurs42\\-versionsgeschichte|/tools/lupo/lupo\\-versionsgeschichte)(?:\\.html)?(?:$|[?#]))"
     },
     {
-      "text": "Administration",
-      "link": "/administration/"
-    },
-    {
-      "text": "Hilfe",
-      "link": "/hilfe/"
+      "text": "Nachschlagen",
+      "activeMatch": "^(?!(?:/tools/|/hilfe/zusatzprogramme/|(?:/hilfe/zusatzprogramme/kurs42\\-inhaltsverzeichnis|/zeugnisse/vorbereitung/externes\\-notenmodul|/schild2/import\\-export\\-statistik/import\\-aus\\-textdateien|/hilfe/zusatzprogramme/zusatzprogramme\\-tools|/hilfe/zusatzprogramme/konferenzmodul\\-km2\\-exe|/hilfe/zusatzprogramme/km2\\-001|/hilfe/zusatzprogramme/km2\\-002|/hilfe/zusatzprogramme/km2\\-003|/hilfe/zusatzprogramme/km2\\-parameter\\-administration|/hilfe/zusatzprogramme/km2\\-parameter\\-allgemein|/hilfe/zusatzprogramme/modulbenutzung|/hilfe/zusatzprogramme/km2\\-programmupdate|/hilfe/zusatzprogramme/lupo\\-lupo|/hilfe/zusatzprogramme/lupo\\-einleitung|/tools/lupo/lupo\\-handbuch|/tools/lupo/lupo\\-einleitung|/tools/lupo/lupo\\-installation|/tools/lupo/lupo\\-vorbereitungen\\-in\\-schild\\-nrw|/zeugnisse/vorbereitung/benutzung\\-des\\-externen\\-notenmoduls|/hilfe/zusatzprogramme/sem\\-schnelleingabemodul|/hilfe/zusatzprogramme/schildchat\\-exe|/tools/lupo/lupo\\-erste\\-schritte\\-in\\-lupo|/tools/lupo/lupo\\-schuelerdateien\\-erzeugen|/tools/lupo/lupo\\-der\\-beratungsprozess|/tools/lupo/lupo\\-auswertung\\-der\\-fachwahlen|/tools/lupo/lupo\\-uebergabe\\-der\\-fachwahlen\\-an\\-kurs42|/tools/lupo/lupo\\-weitere\\-laufbahnpruefungen|/hilfe/zusatzprogramme/schildweb|/hilfe/zusatzprogramme/kursverwaltung\\-kplan\\-exe|/hilfe/zusatzprogramme/kursplanung\\-kplan\\-exe|/hilfe/zusatzprogramme/s1plan\\-uebersicht|/hilfe/zusatzprogramme/news\\-kurs42\\-unter\\-schild\\-zentral|/hilfe/zusatzprogramme/s1plan\\-installation|/hilfe/zusatzprogramme/s1plan\\-erster\\-programmstart|/hilfe/zusatzprogramme/s1plan\\-einrichtung\\-von\\-kursen|/hilfe/zusatzprogramme/s1plan\\-uebernahme\\-von\\-kursen\\-aus\\-schild|/hilfe/zusatzprogramme/s1plan\\-anhang|/hilfe/zusatzprogramme/externe\\-blockungs\\-tools|/hilfe/zusatzprogramme/k422cnf\\-uebersicht|/hilfe/zusatzprogramme/kurs42\\-to\\-cnf\\-hauptseite|/hilfe/zusatzprogramme/klausurplanung\\-cnf\\-hauptseite|/hilfe/zusatzprogramme/multi\\-klausurplanung\\-cnf\\-hauptseite|/administration/installation/einrichtung\\-des\\-enm\\-moduls\\-unter\\-ubuntu\\-18\\-04|/hilfe/zusatzprogramme/prognos|/hilfe/zusatzprogramme/prognos\\-einleitung|/hilfe/zusatzprogramme/prognos\\-installation|/schild2/import\\-export\\-statistik/statistik\\-mit\\-asdpc|/hilfe/zusatzprogramme/prognos\\-programmstart|/hilfe/zusatzprogramme/prognos\\-hauptfenster|/hilfe/zusatzprogramme/prognos\\-analyseverfahren\\-einzelfall|/hilfe/zusatzprogramme/prognos\\-analyseverfahren\\-klasse|/hilfe/zusatzprogramme/prognos\\-analyseverfahren\\-datei|/schild2/import\\-export\\-statistik/statistik\\-mit\\-asdpc\\-schluesselmanagement|/schild2/import\\-export\\-statistik/statistik\\-mit\\-asdpc\\-technik|/schild2/import\\-export\\-statistik/statistik\\-mit\\-asdpc\\-aufbau|/schild2/import\\-export\\-statistik/statistik\\-mit\\-asdpc\\-fehlersuche|/schild2/import\\-export\\-statistik/statistik\\-mit\\-asdpc\\-vorbereitung|/schild2/import\\-export\\-statistik/statistik\\-mit\\-asdpc\\-haupterhebung|/schild2/import\\-export\\-statistik/statistik\\-mit\\-asdpc\\-uebersicht|/schild2/import\\-export\\-statistik/statistik\\-mit\\-asdpc\\-uebersicht\\-1346|/administration/datenbanken/schild\\-nrw\\-daten\\-in\\-eine\\-andere\\-datenbank\\-uebertragen\\-migrieren|/hilfe/zusatzprogramme/kurs42\\-installationshinweise|/hilfe/zusatzprogramme/kurs42\\-versionsgeschichte|/tools/lupo/lupo\\-versionsgeschichte)(?:\\.html)?(?:$|[?#])))/(programmreferenz|hilfe|bilder|quellen)/",
+      "items": [
+        {
+          "text": "Programmreferenz",
+          "link": "/programmreferenz/"
+        },
+        {
+          "text": "Alle Artikel",
+          "link": "/hilfe/alle-artikel"
+        },
+        {
+          "text": "Hilfe und Autorenhinweise",
+          "link": "/hilfe/"
+        },
+        {
+          "text": "Bilderkatalog",
+          "link": "/bilder/"
+        },
+        {
+          "text": "Vollständiges Quellen- und Dateiarchiv",
+          "link": "/quellen/"
+        }
+      ]
     }
   ],
   "sidebar": {
@@ -722,10 +751,6 @@
                 "link": "/schild2/import-export-statistik/vorbemerkungen-schnittstelle"
               },
               {
-                "text": "Statistik mit ASDPC",
-                "link": "/schild2/import-export-statistik/statistik-mit-asdpc"
-              },
-              {
                 "text": "JaNa-Export (Jahrgang und Nationalität)",
                 "link": "/schild2/import-export-statistik/jana-export-jahrgang-und-nationalitaet"
               },
@@ -750,44 +775,8 @@
                 "link": "/schild2/import-export-statistik/fotos"
               },
               {
-                "text": "Import aus Textdateien",
-                "link": "/schild2/import-export-statistik/import-aus-textdateien"
-              },
-              {
                 "text": "Kataloge exportieren",
                 "link": "/schild2/import-export-statistik/kataloge-exportieren"
-              },
-              {
-                "text": "Statistik mit ASDPC Fehlersuche",
-                "link": "/schild2/import-export-statistik/statistik-mit-asdpc-fehlersuche"
-              },
-              {
-                "text": "Statistik mit ASDPC Haupterhebung",
-                "link": "/schild2/import-export-statistik/statistik-mit-asdpc-haupterhebung"
-              },
-              {
-                "text": "Statistik mit ASDPC Uebersicht",
-                "link": "/schild2/import-export-statistik/statistik-mit-asdpc-uebersicht-1346"
-              },
-              {
-                "text": "Statistik mit ASDPC Vorbereitung",
-                "link": "/schild2/import-export-statistik/statistik-mit-asdpc-vorbereitung"
-              },
-              {
-                "text": "Statistik mit ASDPC Übersicht",
-                "link": "/schild2/import-export-statistik/statistik-mit-asdpc-uebersicht"
-              },
-              {
-                "text": "Statistik mit ASDPC-Aufbau",
-                "link": "/schild2/import-export-statistik/statistik-mit-asdpc-aufbau"
-              },
-              {
-                "text": "Statistik mit ASDPC-Schluesselmanagement",
-                "link": "/schild2/import-export-statistik/statistik-mit-asdpc-schluesselmanagement"
-              },
-              {
-                "text": "Statistik mit ASDPC-Technik",
-                "link": "/schild2/import-export-statistik/statistik-mit-asdpc-technik"
               },
               {
                 "text": "Unterrichtsdaten (als Excel Dateien) importieren",
@@ -833,14 +822,6 @@
               {
                 "text": "Akt. Halbjahr",
                 "link": "/zeugnisse/vorbereitung/akt-halbjahr"
-              },
-              {
-                "text": "Benutzung des externen Notenmoduls",
-                "link": "/zeugnisse/vorbereitung/benutzung-des-externen-notenmoduls"
-              },
-              {
-                "text": "Externes Notenmodul",
-                "link": "/zeugnisse/vorbereitung/externes-notenmodul"
               },
               {
                 "text": "Excel-Notendateien",
@@ -1726,6 +1707,378 @@
                 "link": "/reporting/rap/zeugnisparameter"
               }
             ]
+          }
+        ]
+      }
+    ],
+    "/tools/": [
+      {
+        "text": "Tools und Zusatzprogramme",
+        "items": [
+          {
+            "text": "Übersicht",
+            "link": "/tools/"
+          },
+          {
+            "text": "Druckansicht",
+            "link": "/druck/tools.html"
+          },
+          {
+            "text": "Kurs42",
+            "link": "/tools/kurs42",
+            "items": [
+              {
+                "text": "K422CNF:Übersicht",
+                "link": "/hilfe/zusatzprogramme/k422cnf-uebersicht"
+              },
+              {
+                "text": "Klausurplanung CNF:Hauptseite",
+                "link": "/hilfe/zusatzprogramme/klausurplanung-cnf-hauptseite"
+              },
+              {
+                "text": "Kurs42 To CNF:Hauptseite",
+                "link": "/hilfe/zusatzprogramme/kurs42-to-cnf-hauptseite"
+              },
+              {
+                "text": "Kurs42:Inhaltsverzeichnis",
+                "link": "/hilfe/zusatzprogramme/kurs42-inhaltsverzeichnis"
+              },
+              {
+                "text": "Kurs42:Installationshinweise",
+                "link": "/hilfe/zusatzprogramme/kurs42-installationshinweise"
+              },
+              {
+                "text": "Kurs42:Versionsgeschichte",
+                "link": "/hilfe/zusatzprogramme/kurs42-versionsgeschichte"
+              },
+              {
+                "text": "Multi Klausurplanung CNF:Hauptseite",
+                "link": "/hilfe/zusatzprogramme/multi-klausurplanung-cnf-hauptseite"
+              },
+              {
+                "text": "News:Kurs42 unter Schild-Zentral",
+                "link": "/hilfe/zusatzprogramme/news-kurs42-unter-schild-zentral"
+              }
+            ]
+          },
+          {
+            "text": "LuPO",
+            "link": "/tools/lupo",
+            "items": [
+              {
+                "text": "LuPO Einleitung",
+                "link": "/hilfe/zusatzprogramme/lupo-einleitung"
+              },
+              {
+                "text": "Lupo:Auswertung der Fachwahlen",
+                "link": "/tools/lupo/lupo-auswertung-der-fachwahlen"
+              },
+              {
+                "text": "Lupo:Der Beratungsprozess",
+                "link": "/tools/lupo/lupo-der-beratungsprozess"
+              },
+              {
+                "text": "Lupo:Einleitung",
+                "link": "/tools/lupo/lupo-einleitung"
+              },
+              {
+                "text": "Lupo:Erste Schritte in Lupo",
+                "link": "/tools/lupo/lupo-erste-schritte-in-lupo"
+              },
+              {
+                "text": "Lupo:Handbuch",
+                "link": "/tools/lupo/lupo-handbuch"
+              },
+              {
+                "text": "Lupo:Installation",
+                "link": "/tools/lupo/lupo-installation"
+              },
+              {
+                "text": "Lupo:LuPO",
+                "link": "/hilfe/zusatzprogramme/lupo-lupo"
+              },
+              {
+                "text": "Lupo:Schülerdateien erzeugen",
+                "link": "/tools/lupo/lupo-schuelerdateien-erzeugen"
+              },
+              {
+                "text": "Lupo:Versionsgeschichte",
+                "link": "/tools/lupo/lupo-versionsgeschichte"
+              },
+              {
+                "text": "Lupo:Vorbereitungen in Schild-NRW",
+                "link": "/tools/lupo/lupo-vorbereitungen-in-schild-nrw"
+              },
+              {
+                "text": "Lupo:Weitere Laufbahnprüfungen",
+                "link": "/tools/lupo/lupo-weitere-laufbahnpruefungen"
+              },
+              {
+                "text": "Lupo:Übergabe der Fachwahlen an Kurs42",
+                "link": "/tools/lupo/lupo-uebergabe-der-fachwahlen-an-kurs42"
+              }
+            ]
+          },
+          {
+            "text": "ASDPC",
+            "link": "/tools/asdpc",
+            "items": [
+              {
+                "text": "Statistik mit ASDPC",
+                "link": "/schild2/import-export-statistik/statistik-mit-asdpc"
+              },
+              {
+                "text": "Statistik mit ASDPC Fehlersuche",
+                "link": "/schild2/import-export-statistik/statistik-mit-asdpc-fehlersuche"
+              },
+              {
+                "text": "Statistik mit ASDPC Haupterhebung",
+                "link": "/schild2/import-export-statistik/statistik-mit-asdpc-haupterhebung"
+              },
+              {
+                "text": "Statistik mit ASDPC Uebersicht",
+                "link": "/schild2/import-export-statistik/statistik-mit-asdpc-uebersicht-1346"
+              },
+              {
+                "text": "Statistik mit ASDPC Vorbereitung",
+                "link": "/schild2/import-export-statistik/statistik-mit-asdpc-vorbereitung"
+              },
+              {
+                "text": "Statistik mit ASDPC Übersicht",
+                "link": "/schild2/import-export-statistik/statistik-mit-asdpc-uebersicht"
+              },
+              {
+                "text": "Statistik mit ASDPC-Aufbau",
+                "link": "/schild2/import-export-statistik/statistik-mit-asdpc-aufbau"
+              },
+              {
+                "text": "Statistik mit ASDPC-Schluesselmanagement",
+                "link": "/schild2/import-export-statistik/statistik-mit-asdpc-schluesselmanagement"
+              },
+              {
+                "text": "Statistik mit ASDPC-Technik",
+                "link": "/schild2/import-export-statistik/statistik-mit-asdpc-technik"
+              }
+            ]
+          },
+          {
+            "text": "Notenmodul für Grundschulen",
+            "link": "/tools/notenmodul-grundschule",
+            "items": []
+          },
+          {
+            "text": "ENM-Notenmanager",
+            "link": "/tools/enm-notenmanager",
+            "items": []
+          },
+          {
+            "text": "Externes Notenmodul für weiterführende Schulen",
+            "link": "/tools/externes-notenmodul",
+            "items": [
+              {
+                "text": "Benutzung des externen Notenmoduls",
+                "link": "/zeugnisse/vorbereitung/benutzung-des-externen-notenmoduls"
+              },
+              {
+                "text": "Einrichtung des ENM-Moduls unter Ubuntu 18.04",
+                "link": "/administration/installation/einrichtung-des-enm-moduls-unter-ubuntu-18-04"
+              },
+              {
+                "text": "Externes Notenmodul",
+                "link": "/zeugnisse/vorbereitung/externes-notenmodul"
+              }
+            ]
+          },
+          {
+            "text": "KM2 – Konferenzmodul",
+            "link": "/tools/km2",
+            "items": [
+              {
+                "text": "KM2 - Parameter - Administration",
+                "link": "/hilfe/zusatzprogramme/km2-parameter-administration"
+              },
+              {
+                "text": "KM2 - Parameter - Allgemein",
+                "link": "/hilfe/zusatzprogramme/km2-parameter-allgemein"
+              },
+              {
+                "text": "KM2 001",
+                "link": "/hilfe/zusatzprogramme/km2-001"
+              },
+              {
+                "text": "KM2 002",
+                "link": "/hilfe/zusatzprogramme/km2-002"
+              },
+              {
+                "text": "KM2 003",
+                "link": "/hilfe/zusatzprogramme/km2-003"
+              },
+              {
+                "text": "KM2-Programmupdate",
+                "link": "/hilfe/zusatzprogramme/km2-programmupdate"
+              },
+              {
+                "text": "Konferenzmodul KM2.exe",
+                "link": "/hilfe/zusatzprogramme/konferenzmodul-km2-exe"
+              },
+              {
+                "text": "Modulbenutzung",
+                "link": "/hilfe/zusatzprogramme/modulbenutzung"
+              }
+            ]
+          },
+          {
+            "text": "PM2 – Prognosemodul",
+            "link": "/tools/pm2",
+            "items": [
+              {
+                "text": "Prognos",
+                "link": "/hilfe/zusatzprogramme/prognos"
+              },
+              {
+                "text": "Prognos:Analyseverfahren: Datei",
+                "link": "/hilfe/zusatzprogramme/prognos-analyseverfahren-datei"
+              },
+              {
+                "text": "Prognos:Analyseverfahren: Einzelfall",
+                "link": "/hilfe/zusatzprogramme/prognos-analyseverfahren-einzelfall"
+              },
+              {
+                "text": "Prognos:Analyseverfahren: Klasse",
+                "link": "/hilfe/zusatzprogramme/prognos-analyseverfahren-klasse"
+              },
+              {
+                "text": "Prognos:Einleitung",
+                "link": "/hilfe/zusatzprogramme/prognos-einleitung"
+              },
+              {
+                "text": "Prognos:Hauptfenster",
+                "link": "/hilfe/zusatzprogramme/prognos-hauptfenster"
+              },
+              {
+                "text": "Prognos:Installation",
+                "link": "/hilfe/zusatzprogramme/prognos-installation"
+              },
+              {
+                "text": "Prognos:Programmstart",
+                "link": "/hilfe/zusatzprogramme/prognos-programmstart"
+              }
+            ]
+          },
+          {
+            "text": "S1Plan",
+            "link": "/tools/s1plan",
+            "items": [
+              {
+                "text": "S1PLAN:Anhang",
+                "link": "/hilfe/zusatzprogramme/s1plan-anhang"
+              },
+              {
+                "text": "S1PLAN:Einrichtung von Kursen",
+                "link": "/hilfe/zusatzprogramme/s1plan-einrichtung-von-kursen"
+              },
+              {
+                "text": "S1PLAN:Erster Programmstart",
+                "link": "/hilfe/zusatzprogramme/s1plan-erster-programmstart"
+              },
+              {
+                "text": "S1PLAN:Installation",
+                "link": "/hilfe/zusatzprogramme/s1plan-installation"
+              },
+              {
+                "text": "S1PLAN:Übernahme von Kursen aus Schild",
+                "link": "/hilfe/zusatzprogramme/s1plan-uebernahme-von-kursen-aus-schild"
+              },
+              {
+                "text": "S1PLAN:Übersicht",
+                "link": "/hilfe/zusatzprogramme/s1plan-uebersicht"
+              }
+            ]
+          },
+          {
+            "text": "MA2LBV",
+            "link": "/tools/ma2lbv",
+            "items": []
+          },
+          {
+            "text": "Migrationstool",
+            "link": "/tools/migrationstool",
+            "items": [
+              {
+                "text": "Schild-NRW-Daten in eine andere Datenbank übertragen (migrieren)",
+                "link": "/administration/datenbanken/schild-nrw-daten-in-eine-andere-datenbank-uebertragen-migrieren"
+              }
+            ]
+          },
+          {
+            "text": "Anonymisierungstool",
+            "link": "/tools/anonymisierungstool",
+            "items": []
+          },
+          {
+            "text": "Import aus Textdateien",
+            "link": "/tools/import-textdateien",
+            "items": [
+              {
+                "text": "Import aus Textdateien",
+                "link": "/schild2/import-export-statistik/import-aus-textdateien"
+              }
+            ]
+          },
+          {
+            "text": "Schuljahr erhöhen",
+            "link": "/tools/schuljahr-erhoehen",
+            "items": []
+          },
+          {
+            "text": "Weitere Zusatzprogramme",
+            "link": "/tools/weitere",
+            "items": [
+              {
+                "text": "Externe Blockungs-Tools",
+                "link": "/hilfe/zusatzprogramme/externe-blockungs-tools"
+              },
+              {
+                "text": "Kursplanung KPlan.exe",
+                "link": "/hilfe/zusatzprogramme/kursplanung-kplan-exe"
+              },
+              {
+                "text": "Kursverwaltung KPlan.exe",
+                "link": "/hilfe/zusatzprogramme/kursverwaltung-kplan-exe"
+              },
+              {
+                "text": "SchildChat.exe",
+                "link": "/hilfe/zusatzprogramme/schildchat-exe"
+              },
+              {
+                "text": "SchILDweb",
+                "link": "/hilfe/zusatzprogramme/schildweb"
+              },
+              {
+                "text": "SEM:Schnelleingabemodul",
+                "link": "/hilfe/zusatzprogramme/sem-schnelleingabemodul"
+              },
+              {
+                "text": "Zusatzprogramme / Tools",
+                "link": "/hilfe/zusatzprogramme/zusatzprogramme-tools"
+              }
+            ]
+          },
+          {
+            "text": "Alle Handbücher und Downloads",
+            "link": "/tools/handbuecher"
+          },
+          {
+            "text": "Alle Handbücher und Downloads",
+            "link": "/tools/handbuecher"
+          },
+          {
+            "text": "Alle Handbücher und Downloads",
+            "link": "/tools/handbuecher"
+          },
+          {
+            "text": "Alle Handbücher und Downloads",
+            "link": "/tools/handbuecher"
           }
         ]
       }
@@ -3246,6 +3599,10 @@
             "link": "/reporting/"
           },
           {
+            "text": "Tools und Zusatzprogramme",
+            "link": "/tools/"
+          },
+          {
             "text": "Administration",
             "link": "/administration/"
           },
@@ -3283,10 +3640,6 @@
               {
                 "text": "UDL-Dateien unter 64-BIT",
                 "link": "/administration/installation/udl-dateien-unter-64-bit"
-              },
-              {
-                "text": "Einrichtung des ENM-Moduls unter Ubuntu 18.04",
-                "link": "/administration/installation/einrichtung-des-enm-moduls-unter-ubuntu-18-04"
               }
             ]
           },
@@ -3309,10 +3662,6 @@
               {
                 "text": "Datenbank reparieren und komprimieren",
                 "link": "/administration/datenbanken/datenbank-reparieren-und-komprimieren"
-              },
-              {
-                "text": "Schild-NRW-Daten in eine andere Datenbank übertragen (migrieren)",
-                "link": "/administration/datenbanken/schild-nrw-daten-in-eine-andere-datenbank-uebertragen-migrieren"
               },
               {
                 "text": "Transaktionsprotokoll verwenden",
@@ -3400,164 +3749,7 @@
           {
             "text": "Zusatzprogramme und Handbücher",
             "link": "/hilfe/zusatzprogramme",
-            "items": [
-              {
-                "text": "Zusatzprogramme / Tools",
-                "link": "/hilfe/zusatzprogramme/zusatzprogramme-tools"
-              },
-              {
-                "text": "Externe Blockungs-Tools",
-                "link": "/hilfe/zusatzprogramme/externe-blockungs-tools"
-              },
-              {
-                "text": "Lupo:LuPO",
-                "link": "/hilfe/zusatzprogramme/lupo-lupo"
-              },
-              {
-                "text": "LuPO Einleitung",
-                "link": "/hilfe/zusatzprogramme/lupo-einleitung"
-              },
-              {
-                "text": "SchILDweb",
-                "link": "/hilfe/zusatzprogramme/schildweb"
-              },
-              {
-                "text": "SchildChat.exe",
-                "link": "/hilfe/zusatzprogramme/schildchat-exe"
-              },
-              {
-                "text": "Kursplanung KPlan.exe",
-                "link": "/hilfe/zusatzprogramme/kursplanung-kplan-exe"
-              },
-              {
-                "text": "Kursverwaltung KPlan.exe",
-                "link": "/hilfe/zusatzprogramme/kursverwaltung-kplan-exe"
-              },
-              {
-                "text": "Konferenzmodul KM2.exe",
-                "link": "/hilfe/zusatzprogramme/konferenzmodul-km2-exe"
-              },
-              {
-                "text": "Modulbenutzung",
-                "link": "/hilfe/zusatzprogramme/modulbenutzung"
-              },
-              {
-                "text": "Prognos",
-                "link": "/hilfe/zusatzprogramme/prognos"
-              },
-              {
-                "text": "SEM:Schnelleingabemodul",
-                "link": "/hilfe/zusatzprogramme/sem-schnelleingabemodul"
-              },
-              {
-                "text": "K422CNF:Übersicht",
-                "link": "/hilfe/zusatzprogramme/k422cnf-uebersicht"
-              },
-              {
-                "text": "Klausurplanung CNF:Hauptseite",
-                "link": "/hilfe/zusatzprogramme/klausurplanung-cnf-hauptseite"
-              },
-              {
-                "text": "KM2 - Parameter - Administration",
-                "link": "/hilfe/zusatzprogramme/km2-parameter-administration"
-              },
-              {
-                "text": "KM2 - Parameter - Allgemein",
-                "link": "/hilfe/zusatzprogramme/km2-parameter-allgemein"
-              },
-              {
-                "text": "KM2 001",
-                "link": "/hilfe/zusatzprogramme/km2-001"
-              },
-              {
-                "text": "KM2 002",
-                "link": "/hilfe/zusatzprogramme/km2-002"
-              },
-              {
-                "text": "KM2 003",
-                "link": "/hilfe/zusatzprogramme/km2-003"
-              },
-              {
-                "text": "KM2-Programmupdate",
-                "link": "/hilfe/zusatzprogramme/km2-programmupdate"
-              },
-              {
-                "text": "Kurs42 To CNF:Hauptseite",
-                "link": "/hilfe/zusatzprogramme/kurs42-to-cnf-hauptseite"
-              },
-              {
-                "text": "Kurs42:Inhaltsverzeichnis",
-                "link": "/hilfe/zusatzprogramme/kurs42-inhaltsverzeichnis"
-              },
-              {
-                "text": "Kurs42:Installationshinweise",
-                "link": "/hilfe/zusatzprogramme/kurs42-installationshinweise"
-              },
-              {
-                "text": "Kurs42:Versionsgeschichte",
-                "link": "/hilfe/zusatzprogramme/kurs42-versionsgeschichte"
-              },
-              {
-                "text": "Multi Klausurplanung CNF:Hauptseite",
-                "link": "/hilfe/zusatzprogramme/multi-klausurplanung-cnf-hauptseite"
-              },
-              {
-                "text": "News:Kurs42 unter Schild-Zentral",
-                "link": "/hilfe/zusatzprogramme/news-kurs42-unter-schild-zentral"
-              },
-              {
-                "text": "Prognos:Analyseverfahren: Datei",
-                "link": "/hilfe/zusatzprogramme/prognos-analyseverfahren-datei"
-              },
-              {
-                "text": "Prognos:Analyseverfahren: Einzelfall",
-                "link": "/hilfe/zusatzprogramme/prognos-analyseverfahren-einzelfall"
-              },
-              {
-                "text": "Prognos:Analyseverfahren: Klasse",
-                "link": "/hilfe/zusatzprogramme/prognos-analyseverfahren-klasse"
-              },
-              {
-                "text": "Prognos:Einleitung",
-                "link": "/hilfe/zusatzprogramme/prognos-einleitung"
-              },
-              {
-                "text": "Prognos:Hauptfenster",
-                "link": "/hilfe/zusatzprogramme/prognos-hauptfenster"
-              },
-              {
-                "text": "Prognos:Installation",
-                "link": "/hilfe/zusatzprogramme/prognos-installation"
-              },
-              {
-                "text": "Prognos:Programmstart",
-                "link": "/hilfe/zusatzprogramme/prognos-programmstart"
-              },
-              {
-                "text": "S1PLAN:Anhang",
-                "link": "/hilfe/zusatzprogramme/s1plan-anhang"
-              },
-              {
-                "text": "S1PLAN:Einrichtung von Kursen",
-                "link": "/hilfe/zusatzprogramme/s1plan-einrichtung-von-kursen"
-              },
-              {
-                "text": "S1PLAN:Erster Programmstart",
-                "link": "/hilfe/zusatzprogramme/s1plan-erster-programmstart"
-              },
-              {
-                "text": "S1PLAN:Installation",
-                "link": "/hilfe/zusatzprogramme/s1plan-installation"
-              },
-              {
-                "text": "S1PLAN:Übernahme von Kursen aus Schild",
-                "link": "/hilfe/zusatzprogramme/s1plan-uebernahme-von-kursen-aus-schild"
-              },
-              {
-                "text": "S1PLAN:Übersicht",
-                "link": "/hilfe/zusatzprogramme/s1plan-uebersicht"
-              }
-            ]
+            "items": []
           },
           {
             "text": "Hilfe und Problemlösungen",
@@ -3596,6 +3788,30 @@
               {
                 "text": "Hauptseite",
                 "link": "/hilfe/wiki-archiv/hauptseite"
+              },
+              {
+                "text": "Hilfe:Inhaltsverzeichnis",
+                "link": "/hilfe/wiki-archiv/hilfe-inhaltsverzeichnis"
+              },
+              {
+                "text": "Kategorie:Konferenzmodul KM2",
+                "link": "/hilfe/wiki-archiv/kategorie-konferenzmodul-km2"
+              },
+              {
+                "text": "Kategorie:LuPO",
+                "link": "/hilfe/wiki-archiv/kategorie-lupo"
+              },
+              {
+                "text": "Schild-NRW Wiki:Aktuelle Ereignisse",
+                "link": "/hilfe/wiki-archiv/schild-nrw-wiki-aktuelle-ereignisse"
+              },
+              {
+                "text": "Schild-NRW Wiki:Datenschutz",
+                "link": "/hilfe/wiki-archiv/schild-nrw-wiki-datenschutz"
+              },
+              {
+                "text": "Schild-NRW Wiki:Impressum",
+                "link": "/hilfe/wiki-archiv/schild-nrw-wiki-impressum"
               }
             ]
           },
@@ -3626,6 +3842,77 @@
           {
             "text": "Über diese Dokumentation",
             "link": "/hilfe/ueber-diese-dokumentation"
+          },
+          {
+            "text": "Vollständiges Quellenarchiv",
+            "link": "/quellen/"
+          },
+          {
+            "text": "Vollständiges Quellenarchiv",
+            "link": "/quellen/"
+          },
+          {
+            "text": "Vollständiges Quellenarchiv",
+            "link": "/quellen/"
+          },
+          {
+            "text": "Vollständiges Quellenarchiv",
+            "link": "/quellen/"
+          }
+        ]
+      }
+    ],
+    "/quellen/": [
+      {
+        "text": "Quellenarchiv",
+        "items": [
+          {
+            "text": "Übersicht",
+            "link": "/quellen/"
+          },
+          {
+            "text": "Alle Originaldateien",
+            "link": "/quellen/dateien"
+          },
+          {
+            "text": "Noch nicht gesicherte Altdateien",
+            "link": "/quellen/fehlende-downloads"
+          },
+          {
+            "text": "Artikel",
+            "link": "/quellen/namensraum-0"
+          },
+          {
+            "text": "Benutzer",
+            "link": "/quellen/namensraum-2"
+          },
+          {
+            "text": "Schild-NRW Wiki",
+            "link": "/quellen/namensraum-4"
+          },
+          {
+            "text": "Datei",
+            "link": "/quellen/namensraum-6"
+          },
+          {
+            "text": "MediaWiki",
+            "link": "/quellen/namensraum-8"
+          },
+          {
+            "text": "Vorlage",
+            "link": "/quellen/namensraum-10"
+          },
+          {
+            "text": "Hilfe",
+            "link": "/quellen/namensraum-12"
+          },
+          {
+            "text": "Kategorie",
+            "link": "/quellen/namensraum-14"
+          },
+          {
+            "text": "Lupo",
+            "link": "/quellen/namensraum-200"
           }
         ]
       }

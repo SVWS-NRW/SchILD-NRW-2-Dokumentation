@@ -1,0 +1,29 @@
+{
+  "pageid": 463,
+  "ns": 0,
+  "title": "Fächer ohne Noten suchen",
+  "revisions": [
+    {
+      "revid": 3624,
+      "parentid": 1894,
+      "user": "Mhoffmann",
+      "timestamp": "2015-09-20T09:32:35Z",
+      "sha1": "3ff7a7ba5fd8f11c9022edeef0f16019a1268ead",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Dieser Gruppenprozess sucht in der ausgewählten Schülermenge im aktuellen Abschnitt nach Fächern ohne Noteneintrag.\nWurden die Noten von Hand eingegeben oder mithilfe des externen Notenmoduls eingelesen, sollte man vor dem Zeugnisdruck diesen Gruppenprozess starten um die Vollständigkeit der Noteneinträge zu prüfen.\nIm sich öffnenden Fenster wird noch abgefragt, ob nur die \"zeugnisrelevanten\" oder alle Fächer überprüft werden sollen.\n\n:[[Image:GP-FaecherohneNoten.jpg|Left|500px]]\n\nDie erstellte Liste der fehlenden Noteneinträge wird nach Lehrerkürzel sortiert in einem gesonderten Fenster ausgegeben. Der Text kann gespeichert oder ausgedruckt werden. \n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Noten, Zeugnisvorbereitung|Zurück zu Noten, Zeugnisvorbereitung]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-09-20T09:32:35Z",
+  "lastrevid": 3624,
+  "length": 774
+}

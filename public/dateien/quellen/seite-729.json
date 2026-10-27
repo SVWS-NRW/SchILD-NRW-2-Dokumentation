@@ -1,0 +1,29 @@
+{
+  "pageid": 729,
+  "ns": 6,
+  "title": "Datei:Erzieherbrief-00.png",
+  "revisions": [
+    {
+      "revid": 2835,
+      "parentid": 2834,
+      "user": "BPanzlaff",
+      "timestamp": "2015-02-16T18:09:53Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": "BPanzlaff lud eine neue Version von „[[Datei:Erzieherbrief-00.png]]“ hoch"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-02-16T18:09:53Z",
+  "lastrevid": 2835,
+  "length": 0
+}

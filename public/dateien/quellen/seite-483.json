@@ -1,0 +1,30 @@
+{
+  "pageid": 483,
+  "ns": 6,
+  "title": "Datei:GP-Konferenzdatumsetzen.jpg",
+  "revisions": [
+    {
+      "revid": 1990,
+      "parentid": 0,
+      "user": "Mhoffmann",
+      "timestamp": "2014-03-31T11:23:10Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-03-31T11:23:10Z",
+  "lastrevid": 1990,
+  "length": 0,
+  "new": ""
+}

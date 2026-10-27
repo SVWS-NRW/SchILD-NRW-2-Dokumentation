@@ -1,0 +1,30 @@
+{
+  "pageid": 580,
+  "ns": 0,
+  "title": "Grundschuldaten löschen",
+  "revisions": [
+    {
+      "revid": 2250,
+      "parentid": 0,
+      "user": "Mhoffmann",
+      "timestamp": "2014-05-24T08:08:09Z",
+      "sha1": "29d29d29df672c2313f53298f0f086f0a2bd215a",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Dieser Gruppenprozess ermöglicht das komfortable Löschen der Grundschuldaten der ausgewählten Schülermenge.\n\nDabei werden die unter dem Karteireiter [[Schulbesuch]] unter der Schaltfläche \"Grundschuldaten eingeben\" eingegebenen Daten gelöscht. Dies sollte durchgeführt werden, wenn die Schülerinnen und Schüler die Orientierungsstufe beendet haben und diese Daten nicht mehr benötigt werden.\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Allgemeines|Zurück zu Allgemeines]]"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „Dieser Gruppenprozess ermöglicht das komfortable Löschen der Grundschuldaten der ausgewählten Schülermenge.  Dabei werden die unter dem Karteireiter [[Schu…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-05-24T08:08:09Z",
+  "lastrevid": 2250,
+  "length": 474,
+  "new": ""
+}

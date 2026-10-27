@@ -1,0 +1,30 @@
+{
+  "pageid": 101,
+  "ns": 0,
+  "title": "StringInput",
+  "revisions": [
+    {
+      "revid": 125,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T18:50:06Z",
+      "sha1": "a707705d1336bf24d9ee3d491210487f3c803f5f",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    function StringInput(aPrompt, Default: String): string;\n|-\n|'''Parameter''' || \n    aPrompt  - Hinweistext\n    Default  - Textvorgabe, kann leer sein\n|-\n|'''Rückgabewert''' ||\n    Eingegebener Text\n|- \n|'''Beispiel''' || \n    Label1.Caption:=StringInput('Bitte geben Sie das KFZ-Kennzeichen ein','NRW-4711');\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      function StringInput(aPrompt, Default: String): string; |- |'''Parameter'…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T18:50:06Z",
+  "lastrevid": 125,
+  "length": 437,
+  "new": ""
+}

@@ -37,4 +37,4 @@ Ist die Eingabe beendet, bitte nicht vergessen, auf die Schaltfläche "In Datenb
 
 ---
 
-Quelle: [Prüfungsergebnisse eingeben – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Pr%C3%BCfungsergebnisse+eingeben&oldid=3631) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Pr%C3%BCfungsergebnisse+eingeben&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-491) · [Prüfungsergebnisse eingeben – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Pr%C3%BCfungsergebnisse+eingeben&oldid=3631)

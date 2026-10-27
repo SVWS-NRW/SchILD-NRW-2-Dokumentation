@@ -1,0 +1,30 @@
+{
+  "pageid": 1246,
+  "ns": 6,
+  "title": "Datei:PM2 Erststart 03.png",
+  "revisions": [
+    {
+      "revid": 4939,
+      "parentid": 0,
+      "user": "SpehJ",
+      "timestamp": "2021-10-11T07:39:01Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2021-10-11T07:41:44Z",
+  "lastrevid": 4939,
+  "length": 0,
+  "new": ""
+}

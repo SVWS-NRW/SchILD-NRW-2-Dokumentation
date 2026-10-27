@@ -1,0 +1,30 @@
+{
+  "pageid": 1338,
+  "ns": 6,
+  "title": "Datei:Schaubild.png",
+  "revisions": [
+    {
+      "revid": 5282,
+      "parentid": 0,
+      "user": "FFrodermann",
+      "timestamp": "2022-01-11T18:07:54Z",
+      "sha1": "ddb1bcf11b674494c33e2490271af27aa107fd82",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "== Beschreibung ==\nSelbsterstellt"
+        }
+      },
+      "comment": "Selbsterstellt"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-02-07T12:27:24Z",
+  "lastrevid": 5282,
+  "length": 33,
+  "new": ""
+}

@@ -23,4 +23,4 @@ wiki_revision: 3939
 
 ---
 
-Quelle: [Zusatzprogramme / Tools – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zusatzprogramme+%2F+Tools&oldid=3939) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zusatzprogramme+%2F+Tools&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-523) · [Zusatzprogramme / Tools – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zusatzprogramme+%2F+Tools&oldid=3939)

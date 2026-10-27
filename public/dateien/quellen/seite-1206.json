@@ -1,0 +1,30 @@
+{
+  "pageid": 1206,
+  "ns": 6,
+  "title": "Datei:BK Abschluss B06.png",
+  "revisions": [
+    {
+      "revid": 4757,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2021-04-22T11:04:03Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2021-04-22T11:04:14Z",
+  "lastrevid": 4757,
+  "length": 0,
+  "new": ""
+}

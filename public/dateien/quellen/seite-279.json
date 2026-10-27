@@ -1,0 +1,29 @@
+{
+  "pageid": 279,
+  "ns": 0,
+  "title": "Filter II",
+  "revisions": [
+    {
+      "revid": 1192,
+      "parentid": 1190,
+      "user": "Mhoffmann",
+      "timestamp": "2014-02-03T09:57:33Z",
+      "sha1": "b71c321e803fca70bab5081a63698f21b6d4033d",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "[[File:FilterII01.jpg|rechts|thumb|300px]]\n\nUm Schülermengen zu erhalten, die sich nicht über die Auswahlmöglichkeiten des Attribut-Filters und des Filters I selektieren lassen, benötigt man den Filter II.\n\nDieses trifft vorwiegend bei ODER-Verknüpfungen zu.\n\nAuch hier ist es möglich, einmal erstellte Filter zu speichern, zu laden, erneut zu bearbeiten oder zu löschen (siehe [[Attributsfilter]]).\n\n\n'''Hinweis:'''\n\nDie in diesem Abschnitt festgelegten Filterbedingungen selektieren Schülerinnen und Schüler immer aus allen Karteikästen. Da sich im Schulalltag die Auswahl in der Regel auf die Schülerdaten im aktuellen Datenfenster bezieht, ist die Bedingung Status gleich Aktiv in die Filterbedingung zusätzlich aufzunehmen sowie anschließend über UND mit weiteren Bedingungen zu verknüpfen.\n\nNach Aufruf des Filter II erhalten Sie die Maske \"Allgemeine Filterbedingungen definieren\". Die Vorgabe beim Aufruf dieser Maske enthält die Bedingung Schüler nicht gelöscht.\n\n\n'''Und/Oder'''\n\nWahl der entsprechenden weiteren Filterverknüpfungen. Die Standardvorgabe ist UND.\n\nFür komplexere Filterverknüpfungen können Klammern gesetzt werden. \n\nMit 'Pfeil hoch' wird eine Klammer hinzugefügt, mit 'Pfeil runter' eine Klammer entfernt.\n\n\n'''Gruppe'''\n\nAus der Liste kann eine Datensatzgruppe ausgewählt werden, über die der Filter erstellt werden soll.\n\nMögliche Auswahl: Schüler - Erzieher - telef. Kontakte - Weitere Adressen\n\n\n'''Feldname'''\n\nIn der Liste werden aus der gewählten Gruppe die entsprechenden Datenfelder angeboten.\n\n\n'''Operator'''\n\nDie Liste enthält abhängig von dem vorher ausgewählten Datenfeld mögliche Vergleichsoperatoren.\n\n\n'''Feldwert'''\n\nJe nach vorheriger Auswahl wird hier ein Feld für eine Textangabe oder eine vorgegebene Liste eingeblendet, aus der ein Wert übernommen werden kann.\n\n\n'''In Filterbedingungen übernehmen'''\n\n[[File:FilterII02.jpg|rechts|thumb|300px]]\n\nDie in der oberen Zeile erstellte Filterbedingung wird als Klartext-Befehl und auch als SQL-Befehl in die entsprechenden Fenster übertragen.\n\n\n'''Einzelne Filterbedingung zurücksetzen'''\n\nDie in der Zeile für die einzelne Filterbedingung erfolgte Auswahl bzw. erfolgten Eintragungen werden gelöscht.\n\n\n'''gesamte Abfrage negieren'''\n\nMan erhält aufgrund der eingestellten Filterbedingung das Komplement der gefilterten Schülermenge.\n\n\n\n'''SQL-Befehle löschen'''\n\nEs werden die erstellten Filterbedingungen gelöscht und der Filter wird auf die Vorgabe Schüler nicht gelöscht zurückgesetzt.\n\n\n'''Aktuelle Auswahl übernehmen'''\n\nIst schon im Datenfenster eine aktuelle Schülermenge aufgrund eines Filters gebildet worden (geladener Attributsfilter oder Allgemeiner Filter, Auswahlknopf ist rot), so kann diese Bedingung als SQL-Befehl eingeblendet und in der Zeile einzelne Filterbedingung erweitert werden.\n\n\n'''Testen'''\n\nDa über den Filter II auch komplexere Bedingungen eingegeben werden können, wird hier geprüft, ob die gesetzte Filterbedingung von der Syntax her keine Fehler enthält. Bei einer nicht korrekt gebildeten Bedingung erscheint eine Fehlermeldung. \n\nEin Informationshinweis gibt darüber Auskunft, wie viele Schüler die eingestellte(n) Filterbedingung(en) erfüllen. Werden keine Schüler für diese Filtereinstellung gefunden, so kann man wählen, ob man zur aktiven Schülermenge zurückkehren will oder ob man eine weitere Filterbedingung erstellen möchte.\n\n\n'''Übernehmen'''\n\nDie gefilterte Schülermenge steht nach erfolgreichem Test im Datenfenster für eine weitere Bearbeitung zur Verfügung. (z.B. Ausdruck von Listen, gruppenweise Zuordnung bestimmter Felder etc.)\n\n\n'''Speichern'''\n\nAuch der Filter II kann vergleichbar den anderen Filterstufen zur späteren Wiederanwendung gespeichert werden (siehe [[Attributsfilter]]).\n\n\n'''Öffnen'''\n\nEs öffnet sich ein Fenster mit der Liste der bisher gespeicherten Filterbedingungen. \n\nDer entsprechende Filter wird markiert und durch Übernehmen erscheint der Filter im Klartext und als SQL-Befehl im Fenster \"Allgemeine Filterbedingung definieren\" und kann mit weiteren einzelnen Filterbedingungen verknüpft bzw. erweitert werden.\n\n\n'''In Datei speichern'''\n\nSollen Filterbedingungen zwischen mehreren Systemen (Dependance, anderen Rechnern) ausgetauscht werden, so kann über diesen Schaltknopf der entsprechende SQL-Befehl gespeichert werden. \n\nEs öffnet sich ein Fenster mit dem Textfeld Dateiname. Nach erfolgtem Eintrag kann die Filterbedingung auf dem Datenträger gespeichert werden.\n\n\n'''Aus Datei laden'''\n\nEine auf dem Datenträger gespeicherte Filterbedingung mit der Endung .sql kann in das Fenster \"Allgemeine Filterbedingung definieren\" geladen werden und steht zur  Ausführung oder Erweiterung bereit.\n\n\n'''Abbruch'''\n\nDie Maske kann ohne Veränderungen verlassen werden.\n\n\n----\n\n[[Auswahl|Zurück zu Auswahl]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-02-03T09:57:33Z",
+  "lastrevid": 1192,
+  "length": 4850
+}

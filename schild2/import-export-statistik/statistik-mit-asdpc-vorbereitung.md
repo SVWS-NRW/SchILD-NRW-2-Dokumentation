@@ -65,7 +65,7 @@ Werden SchILD und ASDPC in einer Netzwerkumgebung eingesetzt, ist darauf zu acht
 
 Laden Sie sich nun die jeweils auf das aktuelle Jahr der Statistik angepasste Material herunter:
 
-1.  Die aktuelle [ToDo-Liste](https://schulverwaltungsprogramme.msb.nrw.de/schulen/ASDPC32%20To%20Do-Liste.pdf), die von IT.NRW gepflegt wird. Entlang dieser kann der Arbeitsstand verfolgt werden.
+1.  Die aktuelle [ToDo-Liste](/quellen/fehlende-downloads#asdpc32-to-do-liste-pdf), die von IT.NRW gepflegt wird. Entlang dieser kann der Arbeitsstand verfolgt werden.
 2.  Die aktuellen [Eintragungshilfen nach Schulform Eintragungshilfen (Lang) nach Schulform](https://schulverwaltungsprogramme.msb.nrw.de/schulen/download.htm#D90). Änderungen zum letzten Jahr sind in Gelb deutlich hervorgehoben (Streichungen bzw. Neuerungen).
 3.  Die aktuellen [Schlüsseltabellen nach Schulform](https://schulverwaltungsprogramme.msb.nrw.de/schulen/download.htm#D89). In ihnen werden die von ASDPC genutzten Kurzschlüssel erläutert; es finden sich auch hier Hinweise und in Gelb hervorgehobene Änderungen zum Vorjahr.
 
@@ -84,4 +84,4 @@ Nun ist alles bereit! ✅
 
 ---
 
-Quelle: [Statistik mit ASDPC Vorbereitung – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC+Vorbereitung&oldid=5308) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC+Vorbereitung&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1342) · [Statistik mit ASDPC Vorbereitung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC+Vorbereitung&oldid=5308)

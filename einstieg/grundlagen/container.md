@@ -138,4 +138,4 @@ Löscht die Vorgaben aus der vorangegangenen Funktion.\
 
 ---
 
-Quelle: [Container – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Container&oldid=1108) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Container&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-181) · [Container – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Container&oldid=1108)

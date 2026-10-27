@@ -9,8 +9,8 @@ wiki_revision: 5491
 
 Weiterleitung nach:
 
-- [Lupo:Einleitung](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo:Einleitung)
+- [Lupo:Einleitung](/tools/lupo/lupo-einleitung)
 
 ---
 
-Quelle: [LuPO Einleitung – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LuPO+Einleitung&oldid=5491) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=LuPO+Einleitung&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-805) · [LuPO Einleitung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LuPO+Einleitung&oldid=5491)

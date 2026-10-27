@@ -1,0 +1,30 @@
+{
+  "pageid": 306,
+  "ns": 6,
+  "title": "Datei:Reports.jpg",
+  "revisions": [
+    {
+      "revid": 1339,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-02-13T10:44:42Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-02-13T10:49:50Z",
+  "lastrevid": 1339,
+  "length": 0,
+  "new": ""
+}

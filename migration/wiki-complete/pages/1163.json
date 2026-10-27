@@ -1,0 +1,29 @@
+{
+  "pageid": 1163,
+  "ns": 0,
+  "title": "Klausurplanung CNF:Hauptseite",
+  "revisions": [
+    {
+      "revid": 4499,
+      "parentid": 4498,
+      "user": "DKohle",
+      "timestamp": "2020-04-29T17:27:53Z",
+      "sha1": "758e73178f09f2a3f951bcee60ed3c5c2a16c295",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "=== Hinweise ===\nKlausurplanung_CNF wurde in JAVA von Benjamin Bartsch programmiert. Die Software ist \"open source\" und unterliegt der MIT oder der CC0 Lizenz, d.h. der Quellcode steht allen frei zur Verfügung, aber es dürfen keinerlei Ansprüche geltend gemacht werden. Wenn Sie den Autor kontaktieren möchten, finden Sie die E-Mail-Adresse innerhalb des Programms.\n\nDas Programm arbeitet auf Basis der Daten des Programms Kurs42. Wenn Sie eine Import/Exportfunktion zu anderen Programmen wünschen, können Sie den Autor kontaktieren.\n\nDas Programm unterstützt eine Vielzahl von Nebenbedingungen (Regeln genannt). Wenn Sie für Ihre Schule  zusätzliche Regeln benötigen, können Sie ebenfalls den Autor kontaktieren.\n\nDas Programm Klausurplanung_CNF berechnet den Klausurplan einer Jahrgangsstufe. Die Details dazu finden Sie in diesem Wiki. \n\n'''Wenn Sie sich neu mit diesem Programm beschäftigen, nutzen Sie bitte direkt den Multi-Klausurplaner: [https://wiki.svws.nrw.de/mediawiki/index.php?title=Multi_Klausurplanung_CNF:Hauptseite Klick!]. Dieses Programm wird nicht mehr gepflegt!'''\n\n=== Vorbereitungen ===\n\n* Laden Sie sich den folgenden SAT-Solver (https://github.com/msoos/cryptominisat/releases) herunter und speichern Sie die Datei (für Windows: cryptominisat5-win-amd64-nogauss.exe) auf Ihrem PC und merken Sie sich den Pfad.\n* Installieren Sie ggf. JAVA und laden sich sich dann die aktuellste Version von Klausurplanung_CNF herunter (https://schulverwaltungsinfos.nrw.de/svws/forum/viewtopic.php?f=71&t=1302).\n* Sie haben nun das Programm in Form einer JAR-Datei, welche man mit einem Doppelklick starten kann. Dort müssen Sie dort zunächst den Pfad zu cryptominisat...exe angeben und können dann arbeiten, aber zuvor müssen Sie jedoch noch aus Kurs42 Ihre Daten exportieren.\n\n=== Daten in Kurs42 vorbereiten und exportieren ===\n\n* Die Wahl der schriftlichen Fächer (Klausurverpflichtung) aller Schüler sollte in der zu importierenden Blockung vor dem Export aus Kurs42 gründlich geprüft werden.\n* Unter ''Import/Export --> Export in Textdatei'' werden sämtliche Häkchen gesetzt und ein Zielordner gewählt.\n* In Klausurplanung_CNF unter ''Importieren'' den soeben erstellten Ordner auswählen.\n* Das Programm ist nun bereit für die Arbeiten am Klausurplan.\n\n=== Vorbereitungen und Rechnung ===\n\n* Auf der Registerkarte \"Berechnungen\" legen Sie den Beginn und das Ende des Klausurzeitraums an (frühester Termin der 1. Klausur und spätester Termin der letzten Klausur).\n* Die maximale Anzahl von Klausuren eines Schüler bzw. einer Schülerin ist standardmäßig auf drei pro Woche voreingestellt. Dies kann bei Bedarf geändert werden.\n* Im Fenster Regeln werden nun die nötigen Regeln für den Klausurplan per Dropdown ausgewählt und präzisiert (siehe nachfolgender Abschnitt).\n* Ist dies geschehen, kann die Rechnung durch Klick auf \"+\" gestartet werden. Mehrere Rechnungen sind, je nach Leistung des Computers, möglich. Als Orientierungswert gilt: höchstens eine Rechnung pro CPU-Kern.\n\n=== Regelwerk ===\n\nDas Programm arbeitet mit Regeln, die der Nutzer selbst vorgibt und in deren Rahmen eine (mathematische) Lösung gesucht wird. In diesem Fall also eine funktionierende Klausurplanung, die gewisse Rahmenvorgaben erfüllt. Jede Schule hat hier Spezifika, die zunächst definiert werden müssen. Beispielsweise sind folgende Fragen relevant:\n* Werden Klausurpläne nach Fächern erstellt oder nach (Blockungs-)Schienen?\n* Welche Längen haben die einzelnen Klausuren?\n* Soll ein Klausurplan für ein Halbjahr oder ein Quartal erstellt werden (entscheidend für Zeitfenster des Planes und Anzahl der Klausuren pro Fach)?\n* Schreiben bestimmte Fächer (vorzugsweise in der EF) nur eine Klausur im Halbjahr oder keine Klausur im Quartal?\n* Welche Klausuren werden als mündliche Prüfungen durchgeführt?\n* Sind bestimmte Klausurtermine festgelegt, wie bspw. zentrale gestellte Klausuren?\n* Sind bestimmte Termine im Zeitfenster zu blockieren, bspw. Feiertage, pädagogische Tage, Ferien,...?\n* ...\n\nIst ein Regelkatalog mit grundsätzlichen Vorgaben erstellt, so folgt ein weiterer Teil des Regelkatalog, der durch das Programm optimiert werden soll. Auch hier sind Prioritäten zu setzen und dem Programm vorzugeben. Mögliche Faktoren einer Priorisierung sind:\n* Anzahl der Klausurtage\n* Anzahl der durch Klausuren betroffenen Stunden\n* Anzahl von Klausuren, die in einer bestimmten Stunde liegen (Unterrichtsausfall)\n* Anzahl der SchülerInnen, die Klausuren an zwei/drei aufeinanderfolgenden Tagen haben\n* Anzahl der Klausuren pro Woche (kann ggf. auf zwei reduziert werden?)\n* Anzahl von Klausurstunden, die innerhalb der regulären Unterrichtszeit liegen\n* Abstand von zwei Klausuren eines Kurses\n* ...\n\nIst die Festlegung der Prioritäten erfolgt, kann anhand dieser der Klausurplan errechnet werden. Beispiele finden Sie auf der Seite vom Multi_Klausurplaner_CNF: [https://wiki.svws.nrw.de/mediawiki/index.php?title=Multi_Klausurplanung_CNF:Hauptseite Klick!]."
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2020-04-29T17:27:53Z",
+  "lastrevid": 4499,
+  "length": 5015
+}

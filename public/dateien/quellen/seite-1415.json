@@ -1,0 +1,29 @@
+{
+  "pageid": 1415,
+  "ns": 6,
+  "title": "Datei:Bilinguale bescheinigungen.png",
+  "revisions": [
+    {
+      "revid": 5880,
+      "parentid": 5879,
+      "user": "JRaffenberg",
+      "timestamp": "2024-06-13T08:20:15Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": "JRaffenberg lud eine neue Version von [[Datei:Bilinguale bescheinigungen.png]] hoch"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2024-06-13T08:21:32Z",
+  "lastrevid": 5880,
+  "length": 0
+}

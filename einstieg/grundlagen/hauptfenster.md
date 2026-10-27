@@ -79,7 +79,7 @@ Im Folgenden werden die einzelnen Karteireiter aufgelistet und in ihren Artikeln
 - [Akt. Halbjahr](/zeugnisse/vorbereitung/akt-halbjahr)
 - [Laufbahninfo](/schild2/schueler/laufbahninfo)
 - [Fördermaßnahmen](/schild2/schueler/foerdermassnahmen)
-- [DSGVO-Einwilligungen](https://wiki.svws.nrw.de/mediawiki/index.php?title=DSGVO-Einwilligungen&action=edit&redlink=1)
+- [DSGVO-Einwilligungen](/schild2/schueler/einwilligungen)
 - Übersicht
 - [FHR](/zeugnisse/sekundarstufen/fhr)
 - [BK-Abschluss](/zeugnisse/berufskolleg/bk-abschluss)
@@ -93,4 +93,4 @@ Springe zu [Schild-NRW-Index](/einstieg/grundlagen/schild-nrw-index)
 
 ---
 
-Quelle: [Hauptfenster – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Hauptfenster&oldid=4287) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Hauptfenster&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-134) · [Hauptfenster – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Hauptfenster&oldid=4287)

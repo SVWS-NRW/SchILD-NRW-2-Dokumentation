@@ -1,0 +1,30 @@
+{
+  "pageid": 762,
+  "ns": 6,
+  "title": "Datei:AG-Datei-Schildzugriff.jpg",
+  "revisions": [
+    {
+      "revid": 2932,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2015-03-25T14:57:48Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-03-25T14:58:32Z",
+  "lastrevid": 2932,
+  "length": 0,
+  "new": ""
+}

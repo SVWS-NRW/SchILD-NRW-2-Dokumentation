@@ -42,4 +42,4 @@ DatensatzZeigerBewegen( Lernabschnitte, -1 );
 
 ---
 
-Quelle: [DatensatzZeigerBewegen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=DatensatzZeigerBewegen&oldid=5690) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=DatensatzZeigerBewegen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1381) · [DatensatzZeigerBewegen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=DatensatzZeigerBewegen&oldid=5690)

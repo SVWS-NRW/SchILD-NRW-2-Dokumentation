@@ -48,4 +48,4 @@ dies muss u.U. berücksichtigt werden!
 
 ---
 
-Quelle: [UeberspringeRecord – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=UeberspringeRecord&oldid=2723) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=UeberspringeRecord&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-104) · [UeberspringeRecord – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=UeberspringeRecord&oldid=2723)

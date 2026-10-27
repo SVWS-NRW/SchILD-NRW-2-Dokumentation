@@ -1,0 +1,30 @@
+{
+  "pageid": 65,
+  "ns": 0,
+  "title": "ResetAdressArt",
+  "revisions": [
+    {
+      "revid": 86,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T16:39:00Z",
+      "sha1": "554c5f9237c83ab1995a3e292c74c389bd9c11f6",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    procedure ResetAdressArt(aZiel: String);\n|-\n|'''Parameter''' || \n    aZiel   - ALLEADRESSEN' setzt den Filter für die Datenquelle\n             „AllgAdresseUndSchueler“ zurück, 'KLASSENADRESSEN' den Filter\n              auf  die Datenquelle „AllgAdresseZurLKlasse“ zurück\n|-\n|'''Rückgabewert''' ||\n    ...\n|- \n|'''Beispiel''' || \n    Procedure ReportAfterPrint;\n     begin\n       ResetAdressArt('ALLEADRESSEN');\n     end;\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      procedure ResetAdressArt(aZiel: String); |- |'''Parameter''' ||      aZie…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T16:39:00Z",
+  "lastrevid": 86,
+  "length": 560,
+  "new": ""
+}

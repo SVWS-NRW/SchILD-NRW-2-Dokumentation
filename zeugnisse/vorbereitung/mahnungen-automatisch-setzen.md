@@ -15,4 +15,4 @@ Wird der Gruppenprozess angestoßen, kommt nur eine Abfrage, ob die Mahnungen au
 
 ---
 
-Quelle: [Mahnungen automatisch setzen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Mahnungen+automatisch+setzen&oldid=2033) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Mahnungen+automatisch+setzen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-485) · [Mahnungen automatisch setzen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Mahnungen+automatisch+setzen&oldid=2033)

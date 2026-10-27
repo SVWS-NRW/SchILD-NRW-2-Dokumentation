@@ -35,4 +35,4 @@ Zur Noteneingabe können jetzt auch Excel-Dateien verwendet werden. Hierzu steht
 
 ---
 
-Quelle: [Excel-Notendateien – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Excel-Notendateien&oldid=2774) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Excel-Notendateien&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-719) · [Excel-Notendateien – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Excel-Notendateien&oldid=2774)

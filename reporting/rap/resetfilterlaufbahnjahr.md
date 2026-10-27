@@ -40,4 +40,4 @@ Setzt den über FilterLaufbahnJahr gesetzten Filter zurück
 
 ---
 
-Quelle: [ResetFilterLaufbahnJahr – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ResetFilterLaufbahnJahr&oldid=90) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=ResetFilterLaufbahnJahr&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-69) · [ResetFilterLaufbahnJahr – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ResetFilterLaufbahnJahr&oldid=90)

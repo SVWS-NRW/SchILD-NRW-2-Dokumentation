@@ -1,0 +1,29 @@
+{
+  "pageid": 175,
+  "ns": 0,
+  "title": "Haltestellen",
+  "revisions": [
+    {
+      "revid": 490,
+      "parentid": 470,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-12-06T09:11:18Z",
+      "sha1": "e176495e82a987390bde937e49f3ef494ea1367e",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Der Katalog der Haltestellen ist bei der Grundinstallation leer. \n\nDieser Katalog wird von Schulen verwendet, wenn Schulbusse oder andere Transportmittel verwendet werden und z.B. nachgehalten werden muss, wo die Schüler abgeholt werden sollen.\nUm diese Information zu den Schülern mit Hilfe von SchILD abzubilden, müssen alle, bei Ihren Schülern vorkommenden Haltestellen im Katalog zuerst eingegeben werden. Anschließend kann bei den Individualdaten des Schülers darauf zugegriffen werden. \n\n[[Datei:Haltestelle.jpg‎]]\n\nNeben den üblichen Sortiermöglichkeiten kann hier auch nach der Entfernung sortiert werden.\n\nZusätzlich kann eine Textdatei \"Haltestellen.txt\" im Schild-Installationsverzeichnis hinterlegt werden. Wenn das Programm eine Datei mit diesem Namen findet, dann wird der in Schild-NRW hinterlegte Katalog nicht verwendet, sondern alle Einträge der txt-Datei werden angezeigt.\n\nZurück zur Übersicht der [[Kataloge]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-12-06T09:11:18Z",
+  "lastrevid": 490,
+  "length": 944
+}

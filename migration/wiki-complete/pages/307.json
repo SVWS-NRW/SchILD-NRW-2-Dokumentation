@@ -1,0 +1,29 @@
+{
+  "pageid": 307,
+  "ns": 6,
+  "title": "Datei:Aktualisieren.jpg",
+  "revisions": [
+    {
+      "revid": 1343,
+      "parentid": 1340,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-02-13T10:51:09Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": "Pfotenhauer lud eine neue Version von „[[Datei:Aktualisieren.jpg]]“ hoch"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-02-13T10:51:09Z",
+  "lastrevid": 1343,
+  "length": 0
+}

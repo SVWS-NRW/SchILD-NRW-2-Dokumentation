@@ -23,4 +23,4 @@ Mit Schalter "Aufräumen" werden "alle Einträge gelöscht, die mit gelöschten 
 
 ---
 
-Quelle: [Erzieher mit schulinternen Funktionen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Erzieher+mit+schulinternen+Funktionen&oldid=1626) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Erzieher+mit+schulinternen+Funktionen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-376) · [Erzieher mit schulinternen Funktionen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Erzieher+mit+schulinternen+Funktionen&oldid=1626)

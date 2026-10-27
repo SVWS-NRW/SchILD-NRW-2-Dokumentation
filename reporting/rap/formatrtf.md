@@ -49,4 +49,4 @@ begin
 
 ---
 
-Quelle: [FormatRTF – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FormatRTF&oldid=51) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=FormatRTF&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-30) · [FormatRTF – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FormatRTF&oldid=51)

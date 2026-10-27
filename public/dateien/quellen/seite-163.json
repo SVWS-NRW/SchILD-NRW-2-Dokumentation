@@ -1,0 +1,29 @@
+{
+  "pageid": 163,
+  "ns": 0,
+  "title": "Förderschwerpunkte",
+  "revisions": [
+    {
+      "revid": 938,
+      "parentid": 439,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-01-23T14:58:34Z",
+      "sha1": "101ecb59d45182840577bdcc73b98509a0d051f6",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Bei Erstinstallation ist dieser Katalog leer. \n\nSollten Kinder mit Förderschwerpunkt an die Schule kommen, müssen deren Förderschwerpunkte hier im Katalog eingetragen werden, um im Bereich der Sonderpädagogischen Förderung (befindet sich auf dem Karteireiter \"[[Individualdaten II]]\") zur Verfügung zu stehen. \n\n[[Datei:Förderschwerpunkt.jpg]]\n\n\nBei der Bereitstellung der Förderschwerpunkte im Katalog sind Sie bei der Wahl der 'internen Bezeichnung' frei (z.B. ES, GS, blind...), müssen bei der ASD-Bezeichnung unter den zur Verfügung stehenden Begriffe wählen. \n\nFolgende Bezeichnungen stehen hier zur Verfügung: \n* Emotionale und soziale Entwicklung\n* Geistige Entwicklung\n* Hören und Kommunikation (Gehörlose)\n* Hören und Kommunikation (Schwerhörige)\n* kein Förderschwerpunkt\n* Körperliche und motorische Entwicklung\n* Lernen\n* Präventive Förderung\n* Präventive Förderung im Bereich Emotionale und soziale Entwicklung\n* Präventive Förderung im Bereich Lernen\n* Präventive Förderung im Bereich Sprache\n* Sehen (Blinde)\n* Sehen (Sehbehinderte)\n* Sprache\n\nEs ist ratsam, erst mit dem Listenknopf eine dieser vorgegebenen ASD-Bezeichnungen auszuwählen und dann im links davon befindlichen Feld eine frei formulierbare \"interne Bezeichnung\" dazu einzutragen (z.B. Körperliche Entwicklung -> KB). Den neuen Eintrag mit dem Häkchen zu bestätigen nicht vergessen.\n\n\n----\n\n\nZurück zur Übersicht der [[Kataloge]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-01-23T14:58:34Z",
+  "lastrevid": 938,
+  "length": 1439
+}

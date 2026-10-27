@@ -2314,4 +2314,4 @@ Kursart</th>
 
 ---
 
-Quelle: [Schnittstellenbeschreibung – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schnittstellenbeschreibung&oldid=6062) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schnittstellenbeschreibung&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-214) · [Schnittstellenbeschreibung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schnittstellenbeschreibung&oldid=6062)

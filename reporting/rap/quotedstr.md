@@ -40,4 +40,4 @@ Setzefilter(Klassenlehrer_mit_Noten,'Fachkrz=' + QuotedStr('M'));
 
 ---
 
-Quelle: [QuotedStr – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=QuotedStr&oldid=80) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=QuotedStr&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-59) · [QuotedStr – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=QuotedStr&oldid=80)

@@ -1,0 +1,29 @@
+{
+  "pageid": 152,
+  "ns": 0,
+  "title": "Schüler mit Statistik-Fehlern zeigen",
+  "revisions": [
+    {
+      "revid": 974,
+      "parentid": 483,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-01-27T11:51:41Z",
+      "sha1": "09e5f3011f83834bfeb387f9af7aba7b222ce8df",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Wenn Sie diesen Menüpunkt anwählen, werden Ihnen Statistik-Fehler angezeigt.\n\nWas sind nun Statistik-Fehler?\n\nWenn Sie Ihre Schild-Daten für die Haupterhebung in das Programm ASDPC32 übertragen wollen, werden Ihre Daten geprüft. Die Schüler, bei denen in diesem Prüfverfahren Fehler oder fehlende Einträge festgestellt wurden, werden hier im Container angezeigt. Aufgrund der Fehlerbeschreibung kann man sehr schnell die Daten bereinigen.\n\nWie kann ich das Prüfverfahren starten?\n\nIm Menü Schulverwaltung den Punkt ''Statistik/amtliche Schuldaten'' und hier ''Daten prüfen'' -> ''Gesamtprüfung der Daten starten.''\n\n'''Hinweis:'''\n\nEs empfiehlt sich, dieses Prüfverfahren nicht nur zur Haupterhebung zu starten, sondern auch zur Selbstkontrolle im Lauf eines Schuljahres.\n\n\n\n----\n\n[[Auswahl|Zurück zu Auswahl]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-01-27T11:51:41Z",
+  "lastrevid": 974,
+  "length": 824
+}

@@ -1,0 +1,29 @@
+{
+  "pageid": 104,
+  "ns": 0,
+  "title": "UeberspringeRecord",
+  "revisions": [
+    {
+      "revid": 2723,
+      "parentid": 2722,
+      "user": "Pfotenhauer",
+      "timestamp": "2015-01-09T11:35:05Z",
+      "sha1": "d89f56588dfbd943ad806b13c46563c3eca08de9",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    procedure UeberspringeRecord(aPipeline: TppDatapipeline);\n    überspringt einen Datensatz der Datenquelle\n|-\n|'''Parameter''' || \n    aPipeline  - Name der Datenpipeline\n|-\n|'''Rückgabewert''' ||\n    ...\n|- \n|'''Beispiel''' || \n    If Copy(Schueler['Name'],1,1) = 'D' then UeberspringeRecord(Schueler);\n    oder\n    While Copy(Schueler['Name'],1,1) = 'D' Do\n    Begin\n      UeberspringeRecord(Schueler);\n    End;\n\n    Bitte beachten Sie, dass die Funktion beim letzten Datensatz nicht weiterspringen kann,\n    dies muss u.U. berücksichtigt werden!\n\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-01-09T11:35:05Z",
+  "lastrevid": 2723,
+  "length": 679
+}

@@ -21,4 +21,4 @@ Außerdem steht für die Teilleistungen noch ein Gruppenprozess unter der Rubrik
 
 ---
 
-Quelle: [Teilleistungs-Arten – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Teilleistungs-Arten&oldid=4243) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Teilleistungs-Arten&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-372) · [Teilleistungs-Arten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Teilleistungs-Arten&oldid=4243)

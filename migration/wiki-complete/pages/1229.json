@@ -1,0 +1,30 @@
+{
+  "pageid": 1229,
+  "ns": 6,
+  "title": "Datei:ASDPCSchluesseASDSIg.jpg",
+  "revisions": [
+    {
+      "revid": 4852,
+      "parentid": 0,
+      "user": "FFrodermann",
+      "timestamp": "2021-09-09T09:38:58Z",
+      "sha1": "4988aee4f6adbb5d69e1d8f35ba456d49be0fb24",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "== Beschreibung ==\nSchlüsselerstellung mit ASD Signatur\n\n[Erstellt aus ASDPC]"
+        }
+      },
+      "comment": "Schlüsselerstellung mit ASD Signatur\n\n[Erstellt aus ASDPC]"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-01-04T08:55:11Z",
+  "lastrevid": 4852,
+  "length": 78,
+  "new": ""
+}

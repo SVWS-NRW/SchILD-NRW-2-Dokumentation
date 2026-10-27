@@ -1,0 +1,30 @@
+{
+  "pageid": 102,
+  "ns": 0,
+  "title": "SummeFehlstunden",
+  "revisions": [
+    {
+      "revid": 126,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T18:51:38Z",
+      "sha1": "3e4b32c5e520ff2cfa961e28a73769da77a87a6d",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    procedure SummeFehlstunden(aSchuelerId: integer; var FehlStd, uFehlStd: Integer);\n|-\n|'''Parameter''' || \n    aSchuelerId  - Id des gewünschten Schülers\n|-\n|'''Rückgabewert''' ||\n    FehlStd            - Fehlstunden des Schülers im aktuellen Schuljahr, d.h. es wird\n                         über die letzten zwei Abschnitte bzw. die letzten vier\n                         Quartale summiert.\n    uFehlStd           - Unentschuldigte Fehlstunden des Schülers\n|- \n|'''Beispiel''' || \n    Var\n      lFehl, lUFehl\n     begin\n       SummeFehlstunden(Schueler['ID'],lFehl,lUFehl);\n       Label1.Caption:='FehlStunden: ' + IntoStr(lFehl);\n       Label2.Caption:='davon unentschuldigt: ' + IntToStr(lUFehl\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      procedure SummeFehlstunden(aSchuelerId: integer; var FehlStd, uFehlStd: I…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T18:51:38Z",
+  "lastrevid": 126,
+  "length": 829,
+  "new": ""
+}

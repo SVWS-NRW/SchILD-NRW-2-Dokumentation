@@ -49,6 +49,42 @@
       "overflow": false
     },
     {
+      "route": "/tools/",
+      "width": 1440,
+      "dark": false,
+      "overflow": false
+    },
+    {
+      "route": "/tools/lupo.html",
+      "width": 1440,
+      "dark": false,
+      "overflow": false
+    },
+    {
+      "route": "/tools/ma2lbv.html",
+      "width": 1440,
+      "dark": false,
+      "overflow": false
+    },
+    {
+      "route": "/quellen/",
+      "width": 1440,
+      "dark": false,
+      "overflow": false
+    },
+    {
+      "route": "/quellen/dateien.html",
+      "width": 1440,
+      "dark": false,
+      "overflow": false
+    },
+    {
+      "route": "/quellen/fehlende-downloads.html",
+      "width": 1440,
+      "dark": false,
+      "overflow": false
+    },
+    {
       "route": "/",
       "width": 1440,
       "dark": true,
@@ -97,6 +133,42 @@
       "overflow": false
     },
     {
+      "route": "/tools/",
+      "width": 1440,
+      "dark": true,
+      "overflow": false
+    },
+    {
+      "route": "/tools/lupo.html",
+      "width": 1440,
+      "dark": true,
+      "overflow": false
+    },
+    {
+      "route": "/tools/ma2lbv.html",
+      "width": 1440,
+      "dark": true,
+      "overflow": false
+    },
+    {
+      "route": "/quellen/",
+      "width": 1440,
+      "dark": true,
+      "overflow": false
+    },
+    {
+      "route": "/quellen/dateien.html",
+      "width": 1440,
+      "dark": true,
+      "overflow": false
+    },
+    {
+      "route": "/quellen/fehlende-downloads.html",
+      "width": 1440,
+      "dark": true,
+      "overflow": false
+    },
+    {
       "route": "/",
       "width": 390,
       "dark": false,
@@ -145,6 +217,42 @@
       "overflow": false
     },
     {
+      "route": "/tools/",
+      "width": 390,
+      "dark": false,
+      "overflow": false
+    },
+    {
+      "route": "/tools/lupo.html",
+      "width": 390,
+      "dark": false,
+      "overflow": false
+    },
+    {
+      "route": "/tools/ma2lbv.html",
+      "width": 390,
+      "dark": false,
+      "overflow": false
+    },
+    {
+      "route": "/quellen/",
+      "width": 390,
+      "dark": false,
+      "overflow": false
+    },
+    {
+      "route": "/quellen/dateien.html",
+      "width": 390,
+      "dark": false,
+      "overflow": false
+    },
+    {
+      "route": "/quellen/fehlende-downloads.html",
+      "width": 390,
+      "dark": false,
+      "overflow": false
+    },
+    {
       "route": "/",
       "width": 390,
       "dark": true,
@@ -188,6 +296,42 @@
     },
     {
       "route": "/hilfe/alle-artikel.html",
+      "width": 390,
+      "dark": true,
+      "overflow": false
+    },
+    {
+      "route": "/tools/",
+      "width": 390,
+      "dark": true,
+      "overflow": false
+    },
+    {
+      "route": "/tools/lupo.html",
+      "width": 390,
+      "dark": true,
+      "overflow": false
+    },
+    {
+      "route": "/tools/ma2lbv.html",
+      "width": 390,
+      "dark": true,
+      "overflow": false
+    },
+    {
+      "route": "/quellen/",
+      "width": 390,
+      "dark": true,
+      "overflow": false
+    },
+    {
+      "route": "/quellen/dateien.html",
+      "width": 390,
+      "dark": true,
+      "overflow": false
+    },
+    {
+      "route": "/quellen/fehlende-downloads.html",
       "width": 390,
       "dark": true,
       "overflow": false

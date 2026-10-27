@@ -1,0 +1,30 @@
+{
+  "pageid": 1377,
+  "ns": 2,
+  "title": "Benutzer:Torsten.Engelke",
+  "revisions": [
+    {
+      "revid": 5624,
+      "parentid": 0,
+      "user": "Torsten.Engelke",
+      "timestamp": "2022-11-03T14:30:40Z",
+      "sha1": "8d902c93b85714adad8aba0855b5e90b07a98453",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Torsten Engelke"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „Torsten Engelke“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-11-03T14:30:40Z",
+  "lastrevid": 5624,
+  "length": 15,
+  "new": ""
+}

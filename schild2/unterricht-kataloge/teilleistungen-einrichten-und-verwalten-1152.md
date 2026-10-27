@@ -13,4 +13,4 @@ Weiterleitung nach:
 
 ---
 
-Quelle: [Teilleistungen Einrichten und Verwalten – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Teilleistungen+Einrichten+und+Verwalten&oldid=4270) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Teilleistungen+Einrichten+und+Verwalten&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1152) · [Teilleistungen Einrichten und Verwalten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Teilleistungen+Einrichten+und+Verwalten&oldid=4270)

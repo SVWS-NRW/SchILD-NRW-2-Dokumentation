@@ -33,4 +33,4 @@ An dieser Stelle können beliebig viele Telefonnummern mit ihren Ansprechpartner
 
 ---
 
-Quelle: [Erz.-Berechtigte – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Erz.-Berechtigte&oldid=1332) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Erz.-Berechtigte&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-300) · [Erz.-Berechtigte – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Erz.-Berechtigte&oldid=1332)

@@ -16,6 +16,9 @@ features:
   - title: Reporting
     details: Reports verwalten, erstellen und mit RAP erweitern.
     link: /reporting/
+  - title: Tools und Zusatzprogramme
+    details: Handbücher und Anleitungen zu Kurs42, LuPO, ASDPC, Notenmodulen und weiteren Werkzeugen.
+    link: /tools/
   - title: Programmreferenz
     details: Funktionen anhand der tatsächlichen Menüs von SchILD2 nachschlagen.
     link: /programmreferenz/
@@ -23,6 +26,6 @@ features:
     details: Installation, direkter Datenbankzugriff, Sicherung und Benutzerrechte.
     link: /administration/
   - title: Hilfe
-    details: Problemlösungen, Zusatzprogramme und Unterstützung für die Dokumentation.
+    details: Problemlösungen, Quellenarchiv und Unterstützung für die Dokumentation.
     link: /hilfe/
 ---

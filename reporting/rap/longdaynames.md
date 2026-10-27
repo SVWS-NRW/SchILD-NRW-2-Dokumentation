@@ -39,4 +39,4 @@ Label27.Caption:=LongDayNames(1); //(*Sonntag*)
 
 ---
 
-Quelle: [LongDayNames – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LongDayNames&oldid=70) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=LongDayNames&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-49) · [LongDayNames – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LongDayNames&oldid=70)

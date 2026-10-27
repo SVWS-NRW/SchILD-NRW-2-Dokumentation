@@ -1,0 +1,30 @@
+{
+  "pageid": 1140,
+  "ns": 6,
+  "title": "Datei:IndividualdatenG9.png",
+  "revisions": [
+    {
+      "revid": 4214,
+      "parentid": 0,
+      "user": "JRaffenberg",
+      "timestamp": "2019-08-22T09:13:47Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2019-08-22T09:13:47Z",
+  "lastrevid": 4214,
+  "length": 0,
+  "new": ""
+}

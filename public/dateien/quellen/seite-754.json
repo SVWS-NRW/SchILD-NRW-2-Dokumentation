@@ -1,0 +1,30 @@
+{
+  "pageid": 754,
+  "ns": 0,
+  "title": "Mündliche Prüfungen A1-A3 festlegen",
+  "revisions": [
+    {
+      "revid": 2899,
+      "parentid": 0,
+      "user": "Mhoffmann",
+      "timestamp": "2015-03-09T10:27:15Z",
+      "sha1": "469e89b77c575c49e6571a43eba03461c9e7ea86",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Dieser Gruppenprozess sollte erst durchgeführt werden, wenn die Ergebnisse in den ersten drei Abiturfächern ( mithilfe des Gruppenprozesses [[Prüfungsergebnisse eingeben]]) eingegeben wurden. \n\nDer Prozess überprüft mit den eingegebenen Prüfungsergebnissen und den durch den Prozess [[Abitur-Zulassung berechnen]] berechneten Durchschnittspunktzahlen der Abiturfächer, in welchen Fächern zusätzliche mündliche (Abweichungs- bzw. Bestehens-) Prüfungen angesetzt werden müssen. Anschließend wird wieder in einer Textdatei ausgegeben, welche Schüler zusätzliche Prüfungen ablegen müssen. Sollte bei einem Schüler doch noch eine Note im ersten bis dritten Abiturfach fehlen, wird \"Abiturergebnisse unvollständig\" ausgegeben. Diese Datei kann ausgedruckt oder abgespeichert werden.\n\nDie festgesetzten Prüfungen können dann unter dem Karteireiter \"Abitur\" eingesehen werden.\n* MAP steht für mündliche Abweichungsprüfung\n* MBP steht für mündliche Bestehensprüfung\n* MFP steht für mündliche freiwillige Prüfung\n\n[[Image:GP-MdlPruefungen.jpg|Left|500px]]\n\nFür einen einzelnen Schüler kann der Prozess auch unter dem Karteireiter \"Abitur\" durch Klicken auf die Schaltfläche \"Mdl. Prüfung festlegen\" initialisiert werden.\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Gruppenprozesse Abitur|Zurück zu Gruppenprozesse Abitur]]"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „Dieser Gruppenprozess sollte erst durchgeführt werden, wenn die Ergebnisse in den ersten drei Abiturfächern ( mithilfe des Gruppenprozesses [[Prüfungsergebn…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-03-09T10:27:15Z",
+  "lastrevid": 2899,
+  "length": 1340,
+  "new": ""
+}

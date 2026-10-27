@@ -1,0 +1,29 @@
+{
+  "pageid": 834,
+  "ns": 6,
+  "title": "Datei:Export-Excel-05.png",
+  "revisions": [
+    {
+      "revid": 3205,
+      "parentid": 3204,
+      "user": "BPanzlaff",
+      "timestamp": "2015-06-01T10:06:18Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": "BPanzlaff lud eine neue Version von „[[Datei:Export-Excel-05.png]]“ hoch"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-06-01T10:06:18Z",
+  "lastrevid": 3205,
+  "length": 0
+}

@@ -1,0 +1,29 @@
+{
+  "pageid": 322,
+  "ns": 6,
+  "title": "Datei:Individualdaten-Registerkarten.jpg",
+  "revisions": [
+    {
+      "revid": 1408,
+      "parentid": 1397,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-02-18T08:48:35Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": "Pfotenhauer lud eine neue Version von „[[Datei:Individualdaten-Registerkarten.jpg]]“ hoch"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-02-18T08:48:35Z",
+  "lastrevid": 1408,
+  "length": 0
+}

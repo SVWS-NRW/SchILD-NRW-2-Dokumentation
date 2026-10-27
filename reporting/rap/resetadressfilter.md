@@ -40,4 +40,4 @@ Entfernt den über FilterAdresse gesetzten Filter
 
 ---
 
-Quelle: [ResetAdressFilter – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ResetAdressFilter&oldid=87) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=ResetAdressFilter&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-66) · [ResetAdressFilter – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ResetAdressFilter&oldid=87)

@@ -15,4 +15,4 @@ wiki_revision: 4610
 
 ---
 
-Quelle: [Kurs42:Inhaltsverzeichnis – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurs42%3AInhaltsverzeichnis&oldid=4610) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurs42%3AInhaltsverzeichnis&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-139) · [Kurs42:Inhaltsverzeichnis – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurs42%3AInhaltsverzeichnis&oldid=4610)

@@ -57,4 +57,4 @@ Um die Standard-Schulbescheinigung und das -stammblatt zu drucken, müssen im Re
 
 ---
 
-Quelle: [Iconleiste – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Iconleiste&oldid=1386) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Iconleiste&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-112) · [Iconleiste – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Iconleiste&oldid=1386)

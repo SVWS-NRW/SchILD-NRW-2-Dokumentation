@@ -27,4 +27,4 @@ Bitte klicken Sie die Artikel an, um Informationen zu den dahinter liegenden Sam
 
 ---
 
-Quelle: [Gruppenprozesse Abitur – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Gruppenprozesse+Abitur&oldid=1291) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Gruppenprozesse+Abitur&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-293) · [Gruppenprozesse Abitur – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Gruppenprozesse+Abitur&oldid=1291)

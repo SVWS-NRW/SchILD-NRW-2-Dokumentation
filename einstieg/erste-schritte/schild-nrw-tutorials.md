@@ -83,4 +83,4 @@ Im Forum gibt es einen Bereich, in dem wir Antworten auf diese Fragen geben:
 
 ---
 
-Quelle: [Schild-NRW-Tutorials – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schild-NRW-Tutorials&oldid=6040) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schild-NRW-Tutorials&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-283) · [Schild-NRW-Tutorials – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schild-NRW-Tutorials&oldid=6040)

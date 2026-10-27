@@ -45,4 +45,4 @@ Mit der Software Kurs_to_CNF lässt sich das Blocken von Kursen, das sonst Kurs4
 
 ---
 
-Quelle: [K422CNF:Übersicht – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=K422CNF%3A%C3%9Cbersicht&oldid=4323) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=K422CNF%3A%C3%9Cbersicht&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1157) · [K422CNF:Übersicht – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=K422CNF%3A%C3%9Cbersicht&oldid=4323)

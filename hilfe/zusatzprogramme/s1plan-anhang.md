@@ -39,4 +39,4 @@ Führen Sie den Mauszeiger über die verschiedenen Symbole. Die Bedeutungen werd
 
 ---
 
-Quelle: [S1PLAN:Anhang – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=S1PLAN%3AAnhang&oldid=4075) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=S1PLAN%3AAnhang&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1104) · [S1PLAN:Anhang – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=S1PLAN%3AAnhang&oldid=4075)

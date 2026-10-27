@@ -1,0 +1,29 @@
+{
+  "pageid": 464,
+  "ns": 0,
+  "title": "Fächer ohne Lehrkraft suchen",
+  "revisions": [
+    {
+      "revid": 1897,
+      "parentid": 1896,
+      "user": "Mhoffmann",
+      "timestamp": "2014-03-27T19:53:37Z",
+      "sha1": "d86dcdc08b1d14c56d71fc970168bf378cd7408f",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Dieser Gruppenprozess sucht in der ausgewählten Schülermenge im aktuellen Abschnitt nach Fächern ohne Lehrkrafteintrag.\nWurde bei der Zuweisung von Unterricht die Lehrkraft offen gelassen (z.B. weil sie noch nicht feststand) oder wird ein Schüler in einer Kooperationsschule unterrichtet, kann mit diesem Gruppenprozess geprüft werden, bei welchen Schülern (sortiert nach Klasse, Name und Fach) der Lehrereintrag in einer Zeile der Leistungsdaten des aktuellen Abschnitts fehlt.\nDiese Angaben werden direkt in einer Liste bereitgestellt. Diese kann gespeichert oder ausgedruckt werden.\n\nSinnvoll ist dieser Gruppenprozess, bevor Sie die Dateien für das externe Notenmodul bereitstellen. Fehlt beim Unterricht eines Schülers der Eintrag des Lehrers, wird dieser Unterricht dem eigentlich zuständigen Kollegen auch nicht in seine Notendatei exportiert.\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Noten, Zeugnisvorbereitung|Zurück zu Noten, Zeugnisvorbereitung]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-03-27T19:53:37Z",
+  "lastrevid": 1897,
+  "length": 963
+}

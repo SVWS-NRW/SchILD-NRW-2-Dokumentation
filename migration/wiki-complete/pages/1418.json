@@ -1,0 +1,30 @@
+{
+  "pageid": 1418,
+  "ns": 6,
+  "title": "Datei:Fsp faecher.png",
+  "revisions": [
+    {
+      "revid": 5914,
+      "parentid": 0,
+      "user": "JRaffenberg",
+      "timestamp": "2024-06-27T06:40:41Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2024-06-27T06:42:00Z",
+  "lastrevid": 5914,
+  "length": 0,
+  "new": ""
+}

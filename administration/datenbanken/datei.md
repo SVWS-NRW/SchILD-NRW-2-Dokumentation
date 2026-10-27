@@ -33,4 +33,4 @@ Beendet das Programm.
 
 ---
 
-Quelle: [Datei – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datei&oldid=1539) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datei&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-342) · [Datei – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datei&oldid=1539)

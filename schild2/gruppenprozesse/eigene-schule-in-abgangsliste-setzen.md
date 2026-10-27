@@ -13,4 +13,4 @@ Dieser Gruppenprozess setzt bei allen zu entlassenden Schülerinnen und Schüler
 
 ---
 
-Quelle: [Eigene Schule in Abgangsliste setzen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Eigene+Schule+in+Abgangsliste+setzen&oldid=2043) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Eigene+Schule+in+Abgangsliste+setzen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-357) · [Eigene Schule in Abgangsliste setzen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Eigene+Schule+in+Abgangsliste+setzen&oldid=2043)

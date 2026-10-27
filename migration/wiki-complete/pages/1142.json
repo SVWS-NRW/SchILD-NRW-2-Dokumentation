@@ -1,0 +1,29 @@
+{
+  "pageid": 1142,
+  "ns": 6,
+  "title": "Datei:StatistikJahrgaengeG9.png",
+  "revisions": [
+    {
+      "revid": 4227,
+      "parentid": 4216,
+      "user": "JRaffenberg",
+      "timestamp": "2019-08-22T14:11:23Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": "JRaffenberg lud eine neue Version von [[Datei:StatistikJahrgaengeG9.png]] hoch"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2019-08-22T14:11:23Z",
+  "lastrevid": 4227,
+  "length": 0
+}

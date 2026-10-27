@@ -1,0 +1,29 @@
+{
+  "pageid": 108,
+  "ns": 0,
+  "title": "Wiederholungen",
+  "revisions": [
+    {
+      "revid": 5721,
+      "parentid": 133,
+      "user": "JRaffenberg",
+      "timestamp": "2024-02-18T13:59:30Z",
+      "sha1": "0bee380e1c8845346142119e4a4d34e1b5f2ddee",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    function Wiederholungen(const aSchuelerId: Integer): String;\n|-\n|'''Parameter''' || \n    aSchuelerId   - Id-Nummer des aktuellen Schuelers\n|-\n|'''Rückgabewert''' ||\n    String mit den wiederholten Schuljahren und Jahrgängen.\n    Achtung: Diese Funktion ist überflüssig geworden und sollte nicht mehr\n             verwendet werden\n|- \n|'''Beispiel''' || \n    Procedure Label4711OnGetText(var Text: String);\n     begin\n       Text:=Wiederholungen(Schueler['Id']);\n     end;\n    (*Ergebnis im akt Schuljahr 2005/06.2, wenn der Schüler im Schj. 2002/03 die 8 und\n     im Schj 2005/06 die 10 wiederholt:\n     '2002/03: 8.1; 2002/03: 8.2; 2005/06: 10.1; 2005/06: 10.2'\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "/* RAP-Funktion \"{{SEITENNAME}}\" */"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2024-02-18T13:59:30Z",
+  "lastrevid": 5721,
+  "length": 791
+}

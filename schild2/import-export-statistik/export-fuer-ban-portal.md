@@ -163,4 +163,4 @@ Die Spalte „voraussichtlich erreichter Abschluss“, die in der Exportdatei na
 
 ---
 
-Quelle: [Export für BAN-Portal – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Export+f%C3%BCr+BAN-Portal&oldid=6070) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Export+f%C3%BCr+BAN-Portal&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1391) · [Export für BAN-Portal – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Export+f%C3%BCr+BAN-Portal&oldid=6070)

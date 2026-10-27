@@ -30,8 +30,14 @@ Artikel werden als Markdown in den Themenordnern gepflegt. Die [Autorenhilfe](hi
 
 ## Quellenbestand
 
-`migration/snapshot/` enthält den unveränderten Ausgangsbestand. Bearbeiten Sie die Artikel in den Themenordnern; schreiben Sie die Quellensicherung nicht um. Die Migrationsprüfung kontrolliert die Zuordnung aller Originalseiten, Quellversionen, Sprungmarken und die Originaldateien. Sie verlangt keine unveränderten Artikeltexte nach einer redaktionellen Überarbeitung.
+`migration/snapshot/` enthält die Originale der lesbaren Inhaltsseiten. `migration/wiki-complete/` enthält zusätzlich sämtliche aktuellen Seiten aller Wiki-Namensräume und das vollständige Dateiinventar. Bearbeiten Sie die Artikel in den Themenordnern; schreiben Sie die Quellensicherung nicht um. Die Prüfungen kontrollieren Seitenzuordnung, lokale Originalquellen, Sprungmarken, alle 910 Wiki-Dateien, ergänzende Downloads und die Vollständigkeit der Tools. Sie verlangen keine unveränderten Artikeltexte nach einer redaktionellen Überarbeitung.
+
+Die obere Navigation hat sechs Zugänge. „SchILD2“ fasst Arbeit und Administration zusammen, „Nachschlagen“ Programmreferenz und Hilfe. Neue Tools werden in `tools/` und im Seitenmenü von `.vitepress/navigation.json` ergänzt. Bereits veröffentlichte Artikel bleiben unter ihren ursprünglichen Adressen erreichbar, auch wenn das Tool-Menü sie nun an anderer Stelle erschließt.
 
 Die Importscripte dienen der Reproduktion des Erstimports. Ein erneuter Lauf von `build-content.py` überschreibt die erzeugten Artikel und Menüs. Führen Sie ihn ausschließlich in einer separaten Arbeitskopie aus. Er benötigt Python mit `lxml` und Pandoc. Setzen Sie bei Bedarf `PANDOC` auf die ausführbare Datei. Die Originalquellen bleiben mit `import-wiki.py` erneut abrufbar; ein neuer Export ersetzt nicht automatisch den geprüften Quellenstand.
+
+Der vollständige Import verwendet nacheinander `archive-complete.py`, `archive-manuals.py`, `build-content.py` und `extend-site.py`. `import-wiki.py` ruft inzwischen ebenfalls den vollständigen Wiki-Export auf; die alte Begrenzung auf den Hauptnamensraum wird nicht wiederverwendet. Für den Darstellungsimport benötigt `build-content.py` die SchILD3-Vorlage im benachbarten Ordner `schild3-reference`. `extend-site.py` erzeugt anschließend die vollständigen Tools- und Archivzugänge. `migration/audit-text.py`, `migration/check-pdf.py` und `migration/write-report.py` ergänzen Textvergleich, PDF-Prüfung und Bestandsbericht.
+
+Offene externe Altdateien stehen mit ihren Wiki-Fundstellen in `migration/OFFENE-DOWNLOADS.md`. Archivtreffer zuerst sichten und die tatsächliche Datei mit dem beschriebenen Inhalt und der Version abgleichen. Eine ähnlich benannte oder neuere Anleitung darf nicht ohne Kennzeichnung als wiedergefundenes Original ausgegeben werden.
 
 Fachliche Anpassungen dürfen keine SchILD3-Menüs oder einen SVWS-Server als Voraussetzung für SchILD2 einführen. Historische Programmfunktionen bleiben enthalten; Aussagen zu früheren Rechtsständen müssen ihren zeitlichen Bezug behalten.

@@ -47,4 +47,4 @@ Procedure ReportBeforePrint;
 
 ---
 
-Quelle: [SetUebersichtEx – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetUebersichtEx&oldid=117) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetUebersichtEx&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-93) · [SetUebersichtEx – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetUebersichtEx&oldid=117)

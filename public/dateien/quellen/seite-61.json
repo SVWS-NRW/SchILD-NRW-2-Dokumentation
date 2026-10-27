@@ -1,0 +1,30 @@
+{
+  "pageid": 61,
+  "ns": 0,
+  "title": "ReplaceDefault",
+  "revisions": [
+    {
+      "revid": 82,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T16:34:48Z",
+      "sha1": "125259f95ea6d2ba495b60d08b845c5dccfae7d5",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    function ReplaceDefault(aText: String): String;\n    \n       Platzhalter              | Wird ersetzt durch\n      --------------------------+----------------------------------\n       $_NAME$                  | Schueler['Name']\n       $_VORNAME$               | Schueler['Vorname']\n       $_NAME_VORNAME$          | Schueler['NameVorname']\n       $_VORNAME_NAME$          | Schueler['VornameName']\n       $_ANREDE$                | Schueler['Anrede']\n       $_ER_ODER_SIE$           | Schueler['ErSie']\n       $_SOHN_ODER_TOCHTER$     | Schueler['SohnOderTochter']\n       $_ADRESSANREDE$          | Schueler['AdressAnrede']\n       $_STRASSE$               | Schueler['Strasse']\n       $_PLZ_ORT$               | Schueler['PLZ + ' ' + Schueler['OrtAbk']\n       $_ERZ_ADRESSANREDE$      | SchErzAdr['BriefAnrede']\n       $_ERZ_FORMALEANREDE$     | SchErzAdr['FormaleAnrede']\n       $_ERZ_VORNAMEN_UND_NAME$ | SchErzAdr['VornamenUndName']\n       $_ERZ_STRASSE$           | SchErzAdr['ErzStrasse']\n       $_ERZ_PLZ_ORT$           | SchErzAdr['ErzPLZ + ' ' + SchErzAdrOrt']\n\n    Zusätzlich werden im Text geschlechtsspezifische Umwandlungen nach dem Muster\n    der Bemerkungsfelder vorgenommen, d.h. aus &Text_männlich%Text_weiblich& wird\n    in Abhängigkeit vom Geschlecht des Schülerdatensatzes die korrekte Form gewählt.\n|-\n|'''Parameter''' || \n    aText - Text, in dem die oder der Standard-Platzhalter ersetzt\n            werden sollen.\n|-\n|'''Rückgabewert''' ||\n    ...\n|- \n|'''Beispiel''' || \n     Procedure DetailBeforePrint;\n     begin\n       ...\n       RichText1.Richtext:=ReplaceDefault(RichText1.Richtext);\n       ...\n     end;\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      function ReplaceDefault(aText: String): String;             Platzhalter  …“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T16:34:48Z",
+  "lastrevid": 82,
+  "length": 1765,
+  "new": ""
+}

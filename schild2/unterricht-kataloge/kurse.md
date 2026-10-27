@@ -157,4 +157,4 @@ Hier kann für alle markierten Kurse gleichzeitig die Fortschreibungsart
 
 ---
 
-Quelle: [Kurse – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurse&oldid=3757) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurse&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-370) · [Kurse – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurse&oldid=3757)

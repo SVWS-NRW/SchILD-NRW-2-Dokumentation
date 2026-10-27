@@ -36,4 +36,4 @@ Im unteren Teil der Karteikarte können in einem Feld die Themen der Abschlussar
 
 ---
 
-Quelle: [BK-Abschluss – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=BK-Abschluss&oldid=4186) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=BK-Abschluss&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-449) · [BK-Abschluss – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=BK-Abschluss&oldid=4186)

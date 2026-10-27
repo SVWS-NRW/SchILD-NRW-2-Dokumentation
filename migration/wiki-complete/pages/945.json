@@ -1,0 +1,30 @@
+{
+  "pageid": 945,
+  "ns": 6,
+  "title": "Datei:IK-Staatsangehoerigkeit.png",
+  "revisions": [
+    {
+      "revid": 3565,
+      "parentid": 0,
+      "user": "JRaffenberg",
+      "timestamp": "2015-09-08T14:50:39Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2017-06-21T08:04:27Z",
+  "lastrevid": 3565,
+  "length": 0,
+  "new": ""
+}

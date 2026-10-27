@@ -77,4 +77,4 @@ Ist die Festlegung der Prioritäten erfolgt, kann anhand dieser der Klausurplan 
 
 ---
 
-Quelle: [Klausurplanung CNF:Hauptseite – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Klausurplanung+CNF%3AHauptseite&oldid=4499) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Klausurplanung+CNF%3AHauptseite&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1163) · [Klausurplanung CNF:Hauptseite – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Klausurplanung+CNF%3AHauptseite&oldid=4499)

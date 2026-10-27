@@ -42,4 +42,4 @@ If WaehleDatum('Bitte Beginn der Veranstaltung
 
 ---
 
-Quelle: [WaehleDatumUndZeit – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=WaehleDatumUndZeit&oldid=132) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=WaehleDatumUndZeit&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-107) · [WaehleDatumUndZeit – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=WaehleDatumUndZeit&oldid=132)

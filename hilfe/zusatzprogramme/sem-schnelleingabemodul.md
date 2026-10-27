@@ -58,4 +58,4 @@ Um einen der genannten Kataloge zu ergänzen, wählen Sie das entsprechende Feld
 
 ---
 
-Quelle: [SEM:Schnelleingabemodul – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SEM%3ASchnelleingabemodul&oldid=3751) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=SEM%3ASchnelleingabemodul&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-973) · [SEM:Schnelleingabemodul – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SEM%3ASchnelleingabemodul&oldid=3751)

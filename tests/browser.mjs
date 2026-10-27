@@ -18,7 +18,7 @@ try {
   const page = await browser.newPage()
   page.on('pageerror', e=>errors.push(e.message))
   await fs.mkdir('test-results', {recursive:true})
-  const paths = ['/', '/einstieg/', '/administration/installation/schild-nrw-installation.html', '/schild2/import-export-statistik/schnittstellenbeschreibung.html', '/reporting/rap/anrede.html', '/programmreferenz/', '/bilder/', '/hilfe/alle-artikel.html']
+  const paths = ['/', '/einstieg/', '/administration/installation/schild-nrw-installation.html', '/schild2/import-export-statistik/schnittstellenbeschreibung.html', '/reporting/rap/anrede.html', '/programmreferenz/', '/bilder/', '/hilfe/alle-artikel.html','/tools/','/tools/lupo.html','/tools/ma2lbv.html','/quellen/','/quellen/dateien.html','/quellen/fehlende-downloads.html']
   for (const width of [1440,390]) for (const dark of [false,true]) {
     await page.setViewportSize({width,height:900})
     for (const route of paths) {
@@ -31,6 +31,7 @@ try {
       assert.deepEqual(broken,[],route)
       results.push({route,width,dark,overflow:false})
       if (route==='/' || route==='/programmreferenz/' || route.includes('schild-nrw-installation')) await page.screenshot({path:`test-results/${route==='/'?'start':route.includes('installation')?'installation':'referenz'}-${width}-${dark?'dark':'light'}.png`})
+      if (route==='/tools/' || route==='/tools/lupo.html') await page.screenshot({path:`test-results/${route==='/tools/'?'tools':'lupo'}-${width}-${dark?'dark':'light'}.png`})
     }
   }
   await page.setViewportSize({width:1440,height:900})
@@ -42,6 +43,11 @@ try {
   assert(await page.locator('.program-reference-menu .reference-active').count())
   await page.goto(base+'/reporting/rap/anrede.html',{waitUntil:'networkidle'})
   assert((await page.locator('.vp-doc').innerText()).includes("Anrede('Herr','','Meier'"), 'Leere Pascal-Zeichenkette wurde verändert')
+  await page.goto(base+'/tools/lupo.html',{waitUntil:'networkidle'})
+  assert(await page.locator('.vp-doc a[href$=".pdf"]').count()>0,'Lokales LuPO-Handbuch fehlt')
+  assert(await page.locator('.vp-doc a[href*="lupo-handbuch"]').count()>0,'LuPO-Wiki-Handbuch fehlt')
+  await page.goto(base+'/hilfe/zusatzprogramme/lupo-lupo.html',{waitUntil:'networkidle'})
+  assert(await page.locator('.VPNavBarMenu a[href="/tools/"]').evaluate(e=>e.classList.contains('active')),'Alte LuPO-Adresse muss Tools im Kopfmenü aktivieren')
   await page.goto(base+'/bilder/',{waitUntil:'networkidle'})
   await page.getByRole('searchbox').fill('hauptfenster')
   assert(await page.locator('.image-catalog img').count()>0,'Bilderkatalog findet kein Hauptfenster')

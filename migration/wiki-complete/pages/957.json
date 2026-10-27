@@ -1,0 +1,29 @@
+{
+  "pageid": 957,
+  "ns": 0,
+  "title": "FilterFachUebersichtAufKlasse",
+  "revisions": [
+    {
+      "revid": 4282,
+      "parentid": 3667,
+      "user": "Pfotenhauer",
+      "timestamp": "2020-01-26T13:19:21Z",
+      "sha1": "95225e40a03c203022fec82586aeb9033ddbba44",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    Procedure FilterFachUebersichtAufKlasse( const klasse: string );\nMit dieser Prozedur kann bei einem Gruppenwechsel (wobei die Gruppierung auf\n\"Klasse\" sein muss) eine Fachübersicht neu initialisiert werden. Der Aufruf erfolgt\ntypischerweise im Ereignis \"BeforeGroupBreak\", als Aufruf-Parameter wird die Klasse übergeben. Dadurch ist es möglich, Fachübersichten für\nmehrere Klassen (oder die ganze Schule) in einem Durchlauf auszugeben, wobei nur\ndie jeweils von der betreffenden Klasse belegten Fächer in der Übersicht erscheinen.\n\n|-\n|'''Parameter''' || \n    String - Klasse, für die die Übersicht erzeugt werden soll\n|-\n|'''Rückgabewert''' ||\n    Erzeugt einen neuen FachUebersichtsHeader, sobald die Gruppe wechselt.\n|- \n|'''Beispiel''' || \n    FilterFachUebersichtAufKlasse(Schueler['Klasse']);\n|}\n\n{{Wichtig|Der Aufruf sollte nur in Verbindung mit der Datenquelle \"Fachuebersicht\" erfolgen.\nEin Aufruf von \"FaecherVorbelegen\" ist nicht notwendig (wird intern von \"\nFilterFachUebersichtAufKlasse\" gemacht) und wäre auch kontraproduktiv (erhöhter\nZeitaufwand wegen doppeltem Aufruf).}}\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-04-03T16:17:27Z",
+  "lastrevid": 4282,
+  "length": 1224
+}

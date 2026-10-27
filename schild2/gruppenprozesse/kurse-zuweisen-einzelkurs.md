@@ -19,4 +19,4 @@ Soll eine Klasse auf zwei Kurse aufgeteilt werden, kann man nach Zuweisung der e
 
 ---
 
-Quelle: [Kurse zuweisen (Einzelkurs) – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurse+zuweisen+%28Einzelkurs%29&oldid=3617) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurse+zuweisen+%28Einzelkurs%29&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-454) · [Kurse zuweisen (Einzelkurs) – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurse+zuweisen+%28Einzelkurs%29&oldid=3617)

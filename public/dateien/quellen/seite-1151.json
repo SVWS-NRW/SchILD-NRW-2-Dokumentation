@@ -1,0 +1,30 @@
+{
+  "pageid": 1151,
+  "ns": 6,
+  "title": "Datei:Tl5.jpg",
+  "revisions": [
+    {
+      "revid": 4266,
+      "parentid": 0,
+      "user": "FMüller",
+      "timestamp": "2019-12-07T19:43:57Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2019-12-07T19:43:57Z",
+  "lastrevid": 4266,
+  "length": 0,
+  "new": ""
+}

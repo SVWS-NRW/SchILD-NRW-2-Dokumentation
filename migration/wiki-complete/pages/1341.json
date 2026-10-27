@@ -1,0 +1,30 @@
+{
+  "pageid": 1341,
+  "ns": 6,
+  "title": "Datei:Schaubild Schluessel.png",
+  "revisions": [
+    {
+      "revid": 5290,
+      "parentid": 0,
+      "user": "FFrodermann",
+      "timestamp": "2022-01-17T16:19:22Z",
+      "sha1": "c14aa922bae70e69b90240248ca375a9b48bce4c",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "== Beschreibung ==\nSelbsterstelltes Schaubild zum Verschlüsselungsverfahren ASDPC"
+        }
+      },
+      "comment": "Selbsterstelltes Schaubild zum Verschlüsselungsverfahren ASDPC"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-01-17T16:20:20Z",
+  "lastrevid": 5290,
+  "length": 82,
+  "new": ""
+}

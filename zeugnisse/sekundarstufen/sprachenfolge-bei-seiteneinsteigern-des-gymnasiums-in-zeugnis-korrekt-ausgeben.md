@@ -33,4 +33,4 @@ Hier muss man dann die erste Option wählen.
 
 ---
 
-Quelle: [Sprachenfolge bei Seiteneinsteigern des Gymnasiums in Zeugnis korrekt ausgeben – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sprachenfolge+bei+Seiteneinsteigern+des+Gymnasiums+in+Zeugnis+korrekt+ausgeben&oldid=2898) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sprachenfolge+bei+Seiteneinsteigern+des+Gymnasiums+in+Zeugnis+korrekt+ausgeben&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-753) · [Sprachenfolge bei Seiteneinsteigern des Gymnasiums in Zeugnis korrekt ausgeben – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sprachenfolge+bei+Seiteneinsteigern+des+Gymnasiums+in+Zeugnis+korrekt+ausgeben&oldid=2898)

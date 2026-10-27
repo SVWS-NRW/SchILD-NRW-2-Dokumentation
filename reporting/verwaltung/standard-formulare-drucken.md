@@ -25,4 +25,4 @@ Es öffnet sich der Ordner Standard des Report-Explorers und Sie können das gew
 
 ---
 
-Quelle: [Standard-Formulare drucken – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Standard-Formulare+drucken&oldid=2370) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Standard-Formulare+drucken&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-613) · [Standard-Formulare drucken – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Standard-Formulare+drucken&oldid=2370)

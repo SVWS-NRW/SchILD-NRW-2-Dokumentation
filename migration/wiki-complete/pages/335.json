@@ -1,0 +1,29 @@
+{
+  "pageid": 335,
+  "ns": 0,
+  "title": "Dateimaske bearbeiten",
+  "revisions": [
+    {
+      "revid": 1508,
+      "parentid": 1487,
+      "user": "UMertsch",
+      "timestamp": "2014-03-04T14:25:56Z",
+      "sha1": "95d8b8dd2f8d037a044508eec02d14c934ab5cd9",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Dieser Dialog bestimmt die Ordnerstruktur der Dokumentenverwaltung.\nAußerdem wird der Aufbau des Dateinamens festgelegt.\n\n[[Image:Dateimaske.jpg|Center|500px]]\n\nZiehen Sie durch \"Drag'n Drop\" die Parameter aus der Spalte Merkmale in die Rubrik \"Verzeichnisse\" oder \"Dateiname\".\nBeachten Sie bitte dabei, dass bestimmte Merkmale nur in einer Rubrik Sinn ergeben.\n\nDie Dateimaske wird in Kurzform in der unteren Zeile angegeben.\n\nIn der Praxis hat sich gezeigt, dass sehr verschachtelte Ordnerstrukturen eher Probleme schaffen, als die Übersichtlichkeit zu unterstützen.\nEine chronologische Reihenfolge kann z.B. allein durch das Druckdatum im Dateinamen erzeugt werden.\nBis zu einer gewissen Dokumentenzahl werden damit Unterordner für z.B. Schuljahr oder gar Halbjahr überhaupt nicht benötigt!\n\nTesten Sie bitte die gewünschte Dokumentenstruktur ausführlich in einem Probesystem.\nNachträgliche Änderungen können u.U. mit dem Verlust der vorhandenen Dokumente verbunden sein!\n\n\n----\n\n[[Programm-Einstellungen#Dokumentenverwaltung|Zurück zur Dokumentenverwaltung]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-03-04T14:25:56Z",
+  "lastrevid": 1508,
+  "length": 1074
+}

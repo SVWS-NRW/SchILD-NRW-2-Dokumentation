@@ -63,4 +63,4 @@ Wenn dies Ihre Filterkriterien sind, gehen Sie auf **Übernehmen**.
 
 ---
 
-Quelle: [Einwilligungen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Einwilligungen&oldid=5040) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Einwilligungen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1272) · [Einwilligungen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Einwilligungen&oldid=5040)

@@ -1,0 +1,29 @@
+{
+  "pageid": 351,
+  "ns": 0,
+  "title": "Aufnahmejahr für Neuaufnahmen zurücksetzen",
+  "revisions": [
+    {
+      "revid": 1542,
+      "parentid": 1534,
+      "user": "UMertsch",
+      "timestamp": "2014-03-04T22:17:26Z",
+      "sha1": "b06d25b6b10afcf89ba4cad2793a5a61fc0d60a5",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Wenn man in Schild-NRW über das \"+\"-Symbol neue Datensätze aufnehmen will, so erscheint ein Dialog, ob man die Schüler für das aktuelle oder das kommende Schuljahr aufnehmen will.\n\nNach dem erstmaligen Erscheinen merkt sich Schild-NRW diese Angabe bei allen weiteren Neuaufnahmen.\n\nMöchte man diese Einstellung ohne einen Neustart zurücksetzen, so kann man diese Funktion bemühen.\n\nBei der nächsten Neuaufnahme erscheint dann wieder der Auswahldialog.\n\n\n\n----\n\n\n[[Extras|Zurück zu Extras]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-03-04T22:17:26Z",
+  "lastrevid": 1542,
+  "length": 498
+}

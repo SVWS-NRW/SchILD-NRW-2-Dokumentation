@@ -21,4 +21,4 @@ An weiterführenden Schulen (nicht BK) wird das Erreichen der Schulpflicht gepr�
 
 ---
 
-Quelle: [Automatische Prozesse ausführen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Automatische+Prozesse+ausf%C3%BChren&oldid=1540) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Automatische+Prozesse+ausf%C3%BChren&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-343) · [Automatische Prozesse ausführen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Automatische+Prozesse+ausf%C3%BChren&oldid=1540)

@@ -59,4 +59,4 @@ Jetzt kann der Report wie gewohnt mit Doppelklick gedruckt werden, es erscheint 
 
 ---
 
-Quelle: [Dokumentenverwaltung – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Dokumentenverwaltung&oldid=3436) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Dokumentenverwaltung&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-538) · [Dokumentenverwaltung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Dokumentenverwaltung&oldid=3436)

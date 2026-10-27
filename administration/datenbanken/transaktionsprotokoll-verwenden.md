@@ -17,4 +17,4 @@ Wichtig: Wenn man "Transaktionsprotokoll zeigen" aufruft, wird anschließend das
 
 ---
 
-Quelle: [Transaktionsprotokoll verwenden – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Transaktionsprotokoll+verwenden&oldid=3419) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Transaktionsprotokoll+verwenden&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-900) · [Transaktionsprotokoll verwenden – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Transaktionsprotokoll+verwenden&oldid=3419)

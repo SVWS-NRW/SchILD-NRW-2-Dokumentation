@@ -23,4 +23,4 @@ Der Ortsname wird dann normal im vorgesehenen Eingabefeld von Hand eingetippt. A
 
 ---
 
-Quelle: [Orte – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Orte&oldid=2820) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Orte&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-180) · [Orte – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Orte&oldid=2820)

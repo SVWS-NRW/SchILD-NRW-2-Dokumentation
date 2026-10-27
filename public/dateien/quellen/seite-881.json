@@ -1,0 +1,30 @@
+{
+  "pageid": 881,
+  "ns": 6,
+  "title": "Datei:Richtig.png",
+  "revisions": [
+    {
+      "revid": 3349,
+      "parentid": 0,
+      "user": "JRaffenberg",
+      "timestamp": "2015-07-22T21:20:42Z",
+      "sha1": "6181cb571339466711ce86eba46e0392f5f24c20",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Richtig Button"
+        }
+      },
+      "comment": "Richtig Button"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-07-22T21:29:57Z",
+  "lastrevid": 3349,
+  "length": 14,
+  "new": ""
+}

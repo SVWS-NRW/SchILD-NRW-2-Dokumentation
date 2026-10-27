@@ -23,4 +23,4 @@ Im zweiten Fenster können nun für jeden Schüler die Teilleistungen und ggf. B
 
 ---
 
-Quelle: [Teilleistungen eingeben – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Teilleistungen+eingeben&oldid=3616) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Teilleistungen+eingeben&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-474) · [Teilleistungen eingeben – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Teilleistungen+eingeben&oldid=3616)

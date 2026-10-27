@@ -23,4 +23,4 @@ Bitte klicken Sie die Artikel an, um Informationen zu den dahinter liegenden Sam
 
 ---
 
-Quelle: [Lernabschnitte, Versetzung – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lernabschnitte%2C+Versetzung&oldid=1278) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lernabschnitte%2C+Versetzung&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-292) · [Lernabschnitte, Versetzung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lernabschnitte%2C+Versetzung&oldid=1278)

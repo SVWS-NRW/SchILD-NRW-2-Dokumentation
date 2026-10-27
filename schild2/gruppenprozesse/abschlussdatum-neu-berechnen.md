@@ -13,4 +13,4 @@ Dieser Gruppenprozess realisiert das automatisierte Berechnen des Abschlussdatum
 
 ---
 
-Quelle: [Abschlussdatum neu berechnen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Abschlussdatum+neu+berechnen&oldid=1587) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Abschlussdatum+neu+berechnen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-355) · [Abschlussdatum neu berechnen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Abschlussdatum+neu+berechnen&oldid=1587)

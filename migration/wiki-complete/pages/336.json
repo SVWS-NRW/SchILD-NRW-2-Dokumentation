@@ -1,0 +1,29 @@
+{
+  "pageid": 336,
+  "ns": 0,
+  "title": "Laufbahninfo",
+  "revisions": [
+    {
+      "revid": 3581,
+      "parentid": 3580,
+      "user": "Pfotenhauer",
+      "timestamp": "2015-09-09T10:57:04Z",
+      "sha1": "03fc01999bfa2a1a888045410b3b6753f2a84e40",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Die Karteikarte Laufbahninfo ist in die drei Unterbereiche '''Vermerke''', '''Sprachenfolge''' und '''Erreichte Abschlüsse und Berechtigungen an aktueller Schule''' aufgeteilt.\n\nBei Grundschulen wird nur der Bereich Vermerke eingeblendet.\n\nZu jedem '''Vermerk''', den Sie zu einem Schüler anlegen, möglichst mit Datum, wählen Sie die passende Vermerkart aus. Die [[Vermerk-Arten]] können Sie vorher unter [[Schulverwaltung]] --> [[Vermerk-Arten]] frei definiert festlegen. Bei der Eingabe eines frei formulierten Textes in das Schreibfeld unterhalb der ausgewählten Vermerkart ist der Datenschutz zu beachten!\n   \nMit \"Auswahl/Filter I\" können auf der Karte Weitere Daten im Bereich Vermerke nach „Art“ und „Teil des Vermerk-Textes“ Eingaben gesucht werden, bei „Vermerkdatum von...bis“ kann ein Zeitbereich gewählt werden.\n \n\n[[Datei:VermerkSetzen.png]]\n\n\n\n\nAlle Fremdsprachen, die in den [[Unterrichtsfächer]]n festgelegt werden, lassen sich im Bereich '''Sprachenfolge''' auswählen.\n\n[[Datei:Sprachenfolge.png]]\n\n\n{{Wichtig|Aufgrund interner Prozesse ist es in der Sprachenfolge nicht möglich in den Feldern Jahrgang\n von ... bis Buchstaben einzutragen. Bitte verwenden Sie hier ausschließlich Zahlenwerte. Beispiel: Jahrgang EF an einer Gesamtschule ist 11.}}\n\nHat ein Schüler in einem vorausgehenden Abschnitt einen Abschluss an der eigenen Schule erreicht, so wird dieser automatisch von SchILD in die Liste im Bereich '''Erreichte Abschlüsse und Berechtigungen an aktueller Schule''' eingetragen.\n\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Hauptfenster#Karteireiter|Zurück zu Karteireiter]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-04-03T16:17:27Z",
+  "lastrevid": 3581,
+  "length": 1619
+}

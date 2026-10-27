@@ -1,0 +1,29 @@
+{
+  "pageid": 866,
+  "ns": 10,
+  "title": "Vorlage:Forward",
+  "revisions": [
+    {
+      "revid": 3333,
+      "parentid": 3307,
+      "user": "JRaffenberg",
+      "timestamp": "2015-07-21T23:24:59Z",
+      "sha1": "e1f9a24c0c3c7ad10fa028b668c84feee3294303",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "<div style=\"font-size: 90%; font-style: italic; margin-top: 0.7em;\">[[{{{1}}}|weiter zum Artikel {{{2|{{{1}}}}}}]]</div>\n<noinclude>\n\n;Syntax: <pre>{{forward|<Link>|<optional:Linktext>}}</pre>\n[[Kategorie:Vorlage:Kastenbausteine|forward]]\n</noinclude>"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-07-21T23:24:59Z",
+  "lastrevid": 3333,
+  "length": 251
+}

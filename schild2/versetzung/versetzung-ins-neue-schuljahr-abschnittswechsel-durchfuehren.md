@@ -67,4 +67,4 @@ Im Artikel **[Hochschreibungsalgorithmus](/schild2/versetzung/hochschreibungsalg
 
 ---
 
-Quelle: [Versetzung ins neue Schuljahr / Abschnittswechsel durchführen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Versetzung+ins+neue+Schuljahr+%2F+Abschnittswechsel+durchf%C3%BChren&oldid=4653) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Versetzung+ins+neue+Schuljahr+%2F+Abschnittswechsel+durchf%C3%BChren&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1182) · [Versetzung ins neue Schuljahr / Abschnittswechsel durchführen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Versetzung+ins+neue+Schuljahr+%2F+Abschnittswechsel+durchf%C3%BChren&oldid=4653)

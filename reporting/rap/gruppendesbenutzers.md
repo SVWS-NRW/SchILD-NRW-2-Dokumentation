@@ -46,4 +46,4 @@ end;
 
 ---
 
-Quelle: [GruppenDesBenutzers – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=GruppenDesBenutzers&oldid=55) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=GruppenDesBenutzers&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-34) · [GruppenDesBenutzers – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=GruppenDesBenutzers&oldid=55)

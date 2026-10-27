@@ -63,4 +63,4 @@ Nur bei gefilterten ZP10/ZK Jahrgang
 
 ---
 
-Quelle: [Gruppenprozesse – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Gruppenprozesse&oldid=3609) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Gruppenprozesse&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-233) · [Gruppenprozesse – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Gruppenprozesse&oldid=3609)

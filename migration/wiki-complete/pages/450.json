@@ -1,0 +1,30 @@
+{
+  "pageid": 450,
+  "ns": 0,
+  "title": "Benutzer",
+  "revisions": [
+    {
+      "revid": 1848,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-03-25T10:18:35Z",
+      "sha1": "fdcad131bf02ad7a67807b42b150390bc6cd659c",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Dieser Punkt wird nur angezeigt, wenn unter \"Extras -> Programm-Einstellungen -> Plugins\" vor \"Benutzerliste\" ein Häkchen gesetzt wurde.\n \nUnter Benutzer findet sich \"Angemeldete Benutzer\". Im gleichnamigen Fenster sehen Sie dazu Angaben in den Spalten Anmeldename,  Name, Anmeldung, Abmeldung. Darüber sehen Sie fünf Icons (Filter auf nicht abgemeldete Benutzer, Filter aufheben (womit die Anzeige wieder vollständig wird), Tabelle bereinigen, Vorschau Drucker, Benutzeranzeige beenden (nur damit wird das Fensterchen geschlossen!)). \n\nNach Klick auf das Fragezeichen rechts oben werden Version und Autor angezeigt.\n\nEin weiterer Menüpunkt, der hier erscheinen kann, ist die [[Benutzerverwaltung]].\n\nAuch dieses Menü erscheint nur, wenn unter den \"Extras -> Programm-Einstellungen -> Plugins\" die [[Benutzerverwaltung]] aktiviert wurde.\n\n\n----\n\n\n[[Schild-NRW-Index|Zurück zu Schild-NRW-Index]]"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „Dieser Punkt wird nur angezeigt, wenn unter \"Extras -> Programm-Einstellungen -> Plugins\" vor \"Benutzerliste\" ein Häkchen gesetzt wurde.   Unter Benutzer find…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-05-21T18:06:20Z",
+  "lastrevid": 1848,
+  "length": 901,
+  "new": ""
+}

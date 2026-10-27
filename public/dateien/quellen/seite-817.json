@@ -1,0 +1,29 @@
+{
+  "pageid": 817,
+  "ns": 6,
+  "title": "Datei:Versetzung-GS-08.png",
+  "revisions": [
+    {
+      "revid": 3292,
+      "parentid": 3259,
+      "user": "BPanzlaff",
+      "timestamp": "2015-07-21T13:23:37Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": "BPanzlaff lud eine neue Version von „[[Datei:Versetzung-GS-08.png]]“ hoch"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-07-21T13:23:37Z",
+  "lastrevid": 3292,
+  "length": 0
+}

@@ -15,4 +15,4 @@ In Abhängigkeit von den Angaben auf dem Karteireiter **[Individual-Daten II](/s
 
 ---
 
-Quelle: [Migrationshintergrund automatisch setzen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Migrationshintergrund+automatisch+setzen&oldid=3780) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Migrationshintergrund+automatisch+setzen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-987) · [Migrationshintergrund automatisch setzen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Migrationshintergrund+automatisch+setzen&oldid=3780)

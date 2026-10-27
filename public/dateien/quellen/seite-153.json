@@ -1,0 +1,29 @@
+{
+  "pageid": 153,
+  "ns": 0,
+  "title": "Schüler mit fehlendem Abschnitt (Status=Aktiv,..)",
+  "revisions": [
+    {
+      "revid": 975,
+      "parentid": 369,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-01-27T11:52:27Z",
+      "sha1": "fd663b5997cfba560aa420d02f7f82ccc1790926",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Bei Auswahl dieser Filtermöglichkeit werden Ihnen unter allen aktiven bzw. externen Schülern alle die mit fehlendem Abschnitt angezeigt.\n\nDies könnte unter Umständen interessant für die Erstellung der Sim.txt im Rahmen der Schulstatistik ASDPC sein.\n\nSollten die Lernabschnitte im vorangegangenen Schuljahr nicht vollständig eingetragen sein, könnten sich beim Abgleich innerhalb von ASDPC Probleme ergeben.\n\n\n\n----\n\n[[Auswahl|Zurück zu Auswahl]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-01-27T11:52:27Z",
+  "lastrevid": 975,
+  "length": 454
+}

@@ -1,0 +1,29 @@
+{
+  "pageid": 132,
+  "ns": 6,
+  "title": "Datei:Datenaustausch 01.jpg",
+  "revisions": [
+    {
+      "revid": 3852,
+      "parentid": 215,
+      "user": "BPanzlaff",
+      "timestamp": "2016-04-25T09:41:37Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": "BPanzlaff lud eine neue Version von „[[Datei:Datenaustausch 01.jpg]]“ hoch"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2016-04-25T09:41:37Z",
+  "lastrevid": 3852,
+  "length": 0
+}

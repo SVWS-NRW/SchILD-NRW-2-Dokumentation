@@ -1,0 +1,30 @@
+{
+  "pageid": 25,
+  "ns": 0,
+  "title": "FilterAdresse",
+  "revisions": [
+    {
+      "revid": 46,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T14:47:59Z",
+      "sha1": "9d11fce3ae846ca14a68e1f850a0a4716801d789",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    procedure FilterAdresse(aAdresse: String);\n|-\n|'''Parameter''' || \n    aAdresse           - Adresse, auf die gefiltert werden soll\n|-\n|'''Rückgabewert''' ||\n    ...\n|- \n|'''Beispiel''' || \n    Siehe „SelectAdressName“\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      procedure FilterAdresse(aAdresse: String); |- |'''Parameter''' ||      aA…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T14:47:59Z",
+  "lastrevid": 46,
+  "length": 350,
+  "new": ""
+}

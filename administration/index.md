@@ -9,7 +9,6 @@ SchILD-NRW 2 greift direkt auf die eingerichtete Datenbank zu. Ein SVWS-Server i
 - [Schild-NRW Installation](/administration/installation/schild-nrw-installation)
 - [Access-Datenbanken und Windows-Server 2012](/administration/installation/access-datenbanken-und-windows-server-2012)
 - [UDL-Dateien unter 64-BIT](/administration/installation/udl-dateien-unter-64-bit)
-- [Einrichtung des ENM-Moduls unter Ubuntu 18.04](/administration/installation/einrichtung-des-enm-moduls-unter-ubuntu-18-04)
 
 ## [Datenbanken und Sicherung](/administration/datenbanken)
 
@@ -17,7 +16,7 @@ SchILD-NRW 2 greift direkt auf die eingerichtete Datenbank zu. Ein SVWS-Server i
 - [Datensicherung](/administration/datenbanken/datensicherung)
 - [Datenbank kopieren](/administration/datenbanken/datenbank-kopieren)
 - [Datenbank reparieren und komprimieren](/administration/datenbanken/datenbank-reparieren-und-komprimieren)
-- [Schild-NRW-Daten in eine andere Datenbank übertragen (migrieren)](/administration/datenbanken/schild-nrw-daten-in-eine-andere-datenbank-uebertragen-migrieren)
+- [Transaktionsprotokoll verwenden](/administration/datenbanken/transaktionsprotokoll-verwenden)
 
 ## [Benutzer und Einstellungen](/administration/benutzer-einstellungen)
 

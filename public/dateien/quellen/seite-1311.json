@@ -1,0 +1,30 @@
+{
+  "pageid": 1311,
+  "ns": 6,
+  "title": "Datei:ASDPC ZuwGeschi.png",
+  "revisions": [
+    {
+      "revid": 5146,
+      "parentid": 0,
+      "user": "FFrodermann",
+      "timestamp": "2022-01-03T09:17:03Z",
+      "sha1": "6b634bdbb7fac40c2f526f7373c290f72b55440b",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "== Beschreibung ==\nASPDC Zuwanderungsgeschichte"
+        }
+      },
+      "comment": "ASPDC Zuwanderungsgeschichte"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-01-22T10:02:20Z",
+  "lastrevid": 5146,
+  "length": 47,
+  "new": ""
+}

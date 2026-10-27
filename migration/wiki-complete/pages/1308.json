@@ -1,0 +1,30 @@
+{
+  "pageid": 1308,
+  "ns": 6,
+  "title": "Datei:ASDPC SCD012.png",
+  "revisions": [
+    {
+      "revid": 5127,
+      "parentid": 0,
+      "user": "FFrodermann",
+      "timestamp": "2021-12-02T11:21:55Z",
+      "sha1": "2a6e039b8982c4bb8be1cec049da41862fd152ea",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "== Beschreibung ==\nASDPC SC012"
+        }
+      },
+      "comment": "ASDPC SC012"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-01-22T10:02:20Z",
+  "lastrevid": 5127,
+  "length": 30,
+  "new": ""
+}

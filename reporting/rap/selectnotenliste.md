@@ -32,4 +32,4 @@ wiki_revision: 102
 
 ---
 
-Quelle: [SelectNotenliste – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SelectNotenliste&oldid=102) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=SelectNotenliste&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-80) · [SelectNotenliste – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SelectNotenliste&oldid=102)

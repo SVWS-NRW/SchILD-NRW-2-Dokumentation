@@ -1,0 +1,29 @@
+{
+  "pageid": 442,
+  "ns": 0,
+  "title": "FHR",
+  "revisions": [
+    {
+      "revid": 1942,
+      "parentid": 1833,
+      "user": "BPanzlaff",
+      "timestamp": "2014-03-31T10:16:04Z",
+      "sha1": "328192897f4eaf87b510e36a5845af6ba706fc52",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Der Karteireiter '''FHR''' wird nur bei den Schülern angezeigt, die das Abitur anstreben, aber schon die Bedingungen für den Erwerb der Fachhochschulreife (FHR) erfüllen.\n\n\n\n\n\n\n[[Datei:FHR-Karteikarte.png]]\n\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Hauptfenster#Karteireiter|Zurück zu Karteireiter]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-03-31T10:16:04Z",
+  "lastrevid": 1942,
+  "length": 299
+}

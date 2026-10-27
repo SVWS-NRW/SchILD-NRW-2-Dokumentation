@@ -1,0 +1,30 @@
+{
+  "pageid": 654,
+  "ns": 6,
+  "title": "Datei:GruppenprozesseTut08.jpg",
+  "revisions": [
+    {
+      "revid": 2533,
+      "parentid": 0,
+      "user": "Mhoffmann",
+      "timestamp": "2014-09-08T09:31:59Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-09-08T09:31:59Z",
+  "lastrevid": 2533,
+  "length": 0,
+  "new": ""
+}

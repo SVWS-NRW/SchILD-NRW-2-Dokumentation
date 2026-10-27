@@ -19,4 +19,4 @@ Sollten nach Durchführung des Prozesses noch Änderungen der Daten bei einzelne
 
 ---
 
-Quelle: [Leistungsdaten holen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Leistungsdaten+holen&oldid=2027) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Leistungsdaten+holen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-488) · [Leistungsdaten holen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Leistungsdaten+holen&oldid=2027)

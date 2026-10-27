@@ -19,4 +19,4 @@ Sie können zu jeder Fachklasse die Lernfelder in einem Richtextfeld führen. Di
 
 ---
 
-Quelle: [Fachklassen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fachklassen&oldid=1407) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fachklassen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-326) · [Fachklassen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fachklassen&oldid=1407)

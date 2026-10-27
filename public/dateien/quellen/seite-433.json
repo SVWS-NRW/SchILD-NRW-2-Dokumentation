@@ -1,0 +1,30 @@
+{
+  "pageid": 433,
+  "ns": 6,
+  "title": "Datei:Akt.Halbjahr-Uebersicht.png",
+  "revisions": [
+    {
+      "revid": 1775,
+      "parentid": 0,
+      "user": "BPanzlaff",
+      "timestamp": "2014-03-12T11:48:45Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-03-12T11:49:59Z",
+  "lastrevid": 1775,
+  "length": 0,
+  "new": ""
+}

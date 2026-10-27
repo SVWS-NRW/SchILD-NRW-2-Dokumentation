@@ -82,4 +82,4 @@ Komponenten auswählen und starten
 
 ---
 
-Quelle: [KM2-Programmupdate – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=KM2-Programmupdate&oldid=2395) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=KM2-Programmupdate&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-576) · [KM2-Programmupdate – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=KM2-Programmupdate&oldid=2395)

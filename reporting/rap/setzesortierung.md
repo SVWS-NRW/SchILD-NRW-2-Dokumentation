@@ -48,4 +48,4 @@ Procedure ReportBeforePrint;
 
 ---
 
-Quelle: [SetzeSortierung – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetzeSortierung&oldid=121) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetzeSortierung&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-97) · [SetzeSortierung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetzeSortierung&oldid=121)

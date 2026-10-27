@@ -1,0 +1,29 @@
+{
+  "pageid": 353,
+  "ns": 0,
+  "title": "SQL-Befehle eingeben",
+  "revisions": [
+    {
+      "revid": 1544,
+      "parentid": 1536,
+      "user": "UMertsch",
+      "timestamp": "2014-03-04T22:22:36Z",
+      "sha1": "23b0c8beafac9cf68da33a38477438bf1186fdbc",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Für erfahrene User mit SQL-Kenntnissen steht dieser spezielle Menüpunkt zur Verfügung.\n\nIn diesem Dialog können SQL-Befehle direkt auf die Datenbank ausgeführt werden und das Abfrageergebnis u.U. in eine Exceltabelle exportiert werden.\n\nBitte beachten Sie, dass solche SQL-Befehle z.T. auch in die Datenbank schreiben können und dort erheblichen Schaden anrichten können.\n\n'''Machen Sie vor der Benutzung von SQl-Befehlen immer eine Datensicherung!'''\n\nBenutzen Sie diesen Menüpunkt nur, wenn Sie im Umgang mit SQL-Befehlen versiert sind.\n\nBitte haben Sie Verständnis, dass der Support keine Gewährleitsung auf Daten geben kann, die mit direkten Befehlen manipuliert worden sind.\n\n\n\n----\n\n\n\n[[Extras|Zurück zu Extras]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-03-04T22:22:36Z",
+  "lastrevid": 1544,
+  "length": 729
+}

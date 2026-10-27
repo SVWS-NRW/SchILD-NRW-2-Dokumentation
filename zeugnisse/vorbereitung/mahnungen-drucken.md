@@ -94,7 +94,7 @@ WHERE\
       AND SLD.Warnung = '+'\
       AND SLD.Warndatum IS NULL)\
 
-Alternativ zur Eingabe des Codes können Sie auch einen SQL-Filter "Aus Datei laden". [Die benötigte Datei können Sie hier als ZIP-Datei für SchILD-NRW herunterladen.](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Serienbrief_Mahnung_gef%C3%A4hrdete_Versetzung_Filter_II.zip) Diese Datei muss vor der Benutzung noch entpackt werden. [Die benötigte Datei können Sie hier als ZIP-Datei für SchILDzentral herunterladen.](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Serienbrief_Mahnung_gef%C3%A4hrdete_Versetzung_Filter_II_SchILDzentral.zip)
+Alternativ zur Eingabe des Codes können Sie auch einen SQL-Filter "Aus Datei laden". [Die benötigte Datei können Sie hier als ZIP-Datei für SchILD-NRW herunterladen.](/quellen/wiki/seite-1402) Diese Datei muss vor der Benutzung noch entpackt werden. [Die benötigte Datei können Sie hier als ZIP-Datei für SchILDzentral herunterladen.](/quellen/wiki/seite-1405)
 
 Passen Sie die Jahrgänge im Codeabschnitt `AND Schueler.ASDJahrgang IN ('06','07','08','09','10','EF')` entsprechend ihrer Schulform an.
 
@@ -232,4 +232,4 @@ Sie können ein Mahndatum entfernen/ändern, indem Sie mit der rechten Maustaste
 
 ---
 
-Quelle: [Mahnungen drucken – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Mahnungen+drucken&oldid=6067) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Mahnungen+drucken&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-486) · [Mahnungen drucken – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Mahnungen+drucken&oldid=6067)

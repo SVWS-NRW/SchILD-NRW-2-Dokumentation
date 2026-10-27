@@ -1,0 +1,30 @@
+{
+  "pageid": 40,
+  "ns": 0,
+  "title": "LehrerAuswaehlen",
+  "revisions": [
+    {
+      "revid": 61,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T15:42:39Z",
+      "sha1": "735bd2f59e61d168a2cf5fd7d3720988512f47c2",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    procedure LehrerAuswaehlen(const Auswahlzeigen: Boolean)\n    Bisher wurde vor dem Druck eines Berichtes mit der Datenquelle\n    'Lehrer' grundsätzlich der Lehrerauswahldialog auf gerufen.\n    Dieser Dialog wird jetzt nur noch aufgerufen, wenn in einem geeigneten\n    Ereignis (hier bietet sich BeforeOpenDataPipelines an) die Procedur\n      LehrerAuswaehlen(True)\n    aufgerufen wird. Sinnvollerweise sollte die Auswahl nach dem Druck\n    wieder zurückgesetzt werden.\n|-\n|'''Parameter''' || \n    Auswahlzeigen : Boolea\n|-\n|'''Rückgabewert''' ||\n    ...\n|- \n|'''Beispiel''' || \n     Procedure ReportBeforeOpenDataPipelines;\n     begin\n       LehrerAuswaehlen(True);\n     end;\n\n     Procedure ReportAfterPrint;\n     begin\n       LehrerAuswaehlen(false);\n     end;\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      procedure LehrerAuswaehlen(const Auswahlzeigen: Boolean)     Bisher wurde…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T15:42:39Z",
+  "lastrevid": 61,
+  "length": 892,
+  "new": ""
+}

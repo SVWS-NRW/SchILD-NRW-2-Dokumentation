@@ -25,4 +25,4 @@ Es empfiehlt sich, dieses Prüfverfahren nicht nur zur Haupterhebung zu starten,
 
 ---
 
-Quelle: [Schüler mit Statistik-Fehlern zeigen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sch%C3%BCler+mit+Statistik-Fehlern+zeigen&oldid=974) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sch%C3%BCler+mit+Statistik-Fehlern+zeigen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-152) · [Schüler mit Statistik-Fehlern zeigen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sch%C3%BCler+mit+Statistik-Fehlern+zeigen&oldid=974)

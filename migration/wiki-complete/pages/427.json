@@ -1,0 +1,29 @@
+{
+  "pageid": 427,
+  "ns": 6,
+  "title": "Datei:Teilleistungs-Arten.jpg",
+  "revisions": [
+    {
+      "revid": 4245,
+      "parentid": 4244,
+      "user": "MPlümper",
+      "timestamp": "2019-11-11T12:12:47Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": "MPlümper lud eine neue Version von [[Datei:Teilleistungs-Arten.jpg]] hoch"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2019-11-11T12:12:47Z",
+  "lastrevid": 4245,
+  "length": 0
+}

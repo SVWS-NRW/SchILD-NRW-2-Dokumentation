@@ -58,4 +58,4 @@ Alle anderen Karteikästen werden bei der Statistik nicht berücksichtigt!
 
 ---
 
-Quelle: [Karteikasten – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Karteikasten&oldid=400) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Karteikasten&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-138) · [Karteikasten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Karteikasten&oldid=400)

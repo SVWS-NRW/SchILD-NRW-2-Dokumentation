@@ -141,4 +141,4 @@ border=20
 
 ---
 
-Quelle: [Lernplattformen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lernplattformen&oldid=5384) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lernplattformen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1303) · [Lernplattformen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lernplattformen&oldid=5384)

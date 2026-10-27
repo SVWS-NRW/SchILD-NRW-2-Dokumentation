@@ -1,0 +1,29 @@
+{
+  "pageid": 150,
+  "ns": 6,
+  "title": "Datei:IndSchuelergruppe.jpg",
+  "revisions": [
+    {
+      "revid": 503,
+      "parentid": 502,
+      "user": "Mhoffmann",
+      "timestamp": "2013-12-08T09:57:38Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": "Mhoffmann lud eine neue Version von „[[Datei:IndSchuelergruppe.jpg]]“ hoch: Zurückgesetzt auf die Version vom 8. Dezember 2013, 09:55 Uhr"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-12-09T16:01:55Z",
+  "lastrevid": 503,
+  "length": 0
+}

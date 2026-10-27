@@ -42,4 +42,4 @@ aFilename - Dateiname (incl.Pfad) der Textdatei
 
 ---
 
-Quelle: [LoadNotenliste – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LoadNotenliste&oldid=66) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=LoadNotenliste&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-45) · [LoadNotenliste – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LoadNotenliste&oldid=66)

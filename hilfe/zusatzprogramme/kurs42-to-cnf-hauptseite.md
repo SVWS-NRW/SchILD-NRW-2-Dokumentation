@@ -21,7 +21,7 @@ Das Programm unterstützt eine Vielzahl von Nebenbedingungen (Regeln genannt). W
 
 ## Vorbereitungen
 
-- Laden Sie sich den folgenden SAT-Solver (<https://github.com/msoos/cryptominisat/releases>) herunter und speichern Sie die Datei (für Windows: cryptominisat5-win-amd64-nogauss.exe) auf Ihrem PC und merken Sie sich den Pfad. Für Windows ist die aktuellste Version 5.6.8 (Stand: Mai 2020), Sie müssen den Reiter "Assets" aufklappen, um die Datei zu sehen. Hier ist der Direkt-Link (<https://github.com/msoos/cryptominisat/releases/download/5.6.8/cryptominisat5-win-amd64-nogauss.exe>).
+- Laden Sie sich den folgenden SAT-Solver (<https://github.com/msoos/cryptominisat/releases>) herunter und speichern Sie die Datei (für Windows: cryptominisat5-win-amd64-nogauss.exe) auf Ihrem PC und merken Sie sich den Pfad. Für Windows ist die aktuellste Version 5.6.8 (Stand: Mai 2020), Sie müssen den Reiter "Assets" aufklappen, um die Datei zu sehen. Hier ist der Direkt-Link ([https://github.com/msoos/cryptominisat/releases/download/5.6.8/cryptominisat5-win-amd64-nogauss.exe](/dateien/handbuecher/cryptominisat5-win-amd64-nogauss-a549f8ab.exe)).
 - Installieren Sie ggf. JAVA und laden sich sich dann die aktuellste Version von Kurs42_To_CNF herunter (<https://schulverwaltungsinfos.nrw.de/svws/forum/viewtopic.php?f=71&t=20&start=2000>). Sie finden das Programm auch hier (<https://www.svws.nrw.de/download/tools>), diese Version ist aber nicht immer die aktuellste.
 - Sie haben nun das Programm in Form einer JAR-Datei, welche man mit einem Doppelklick starten kann. Dort müssen Sie dort zunächst den Pfad zur Datei cryptominisat...exe angeben und können dann arbeiten, aber zuvor müssen Sie jedoch noch aus Kurs42 Ihre Daten als Textdateien exportieren. **Bitte vergewissern Sie sich, dass in den Einstellung das Exportformat UTF8 eingestellt ist.**
 
@@ -395,4 +395,4 @@ oder besser die zwei ER-Zeilen ersetzen durch:
 
 ---
 
-Quelle: [Kurs42 To CNF:Hauptseite – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurs42+To+CNF%3AHauptseite&oldid=4591) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurs42+To+CNF%3AHauptseite&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1159) · [Kurs42 To CNF:Hauptseite – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurs42+To+CNF%3AHauptseite&oldid=4591)

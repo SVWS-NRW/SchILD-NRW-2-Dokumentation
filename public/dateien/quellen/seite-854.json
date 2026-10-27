@@ -1,0 +1,29 @@
+{
+  "pageid": 854,
+  "ns": 6,
+  "title": "Datei:Versetzung-GS-13.png",
+  "revisions": [
+    {
+      "revid": 3293,
+      "parentid": 3272,
+      "user": "BPanzlaff",
+      "timestamp": "2015-07-21T13:30:27Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": "BPanzlaff lud eine neue Version von „[[Datei:Versetzung-GS-13.png]]“ hoch"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-07-21T13:30:27Z",
+  "lastrevid": 3293,
+  "length": 0
+}

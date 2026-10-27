@@ -47,4 +47,4 @@ Die Daten sind in drei weiteren Reitern gesammelt:
 
 ---
 
-Quelle: [Leistungsdaten Kursunterricht – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Leistungsdaten+Kursunterricht&oldid=3146) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Leistungsdaten+Kursunterricht&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-664) · [Leistungsdaten Kursunterricht – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Leistungsdaten+Kursunterricht&oldid=3146)

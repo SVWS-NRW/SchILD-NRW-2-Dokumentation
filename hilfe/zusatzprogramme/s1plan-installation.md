@@ -35,4 +35,4 @@ Geben Sie nach Klick auf „Weiter“ ggf. Benutzerinformationen an und klicken 
 
 ---
 
-Quelle: [S1PLAN:Installation – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=S1PLAN%3AInstallation&oldid=4015) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=S1PLAN%3AInstallation&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1084) · [S1PLAN:Installation – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=S1PLAN%3AInstallation&oldid=4015)

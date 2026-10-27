@@ -265,4 +265,4 @@ wiki_revision: 5689
 
 ---
 
-Quelle: [RAP-Funktionen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=RAP-Funktionen&oldid=5689) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=RAP-Funktionen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-9) · [RAP-Funktionen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=RAP-Funktionen&oldid=5689)

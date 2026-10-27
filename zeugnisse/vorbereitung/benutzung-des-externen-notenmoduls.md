@@ -84,4 +84,4 @@ Für den Import nach SchILD-NRW wird lediglich die Notendatei benötigt. Senden 
 
 ---
 
-Quelle: [Benutzung des externen Notenmoduls – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Benutzung+des+externen+Notenmoduls&oldid=3456) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Benutzung+des+externen+Notenmoduls&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-907) · [Benutzung des externen Notenmoduls – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Benutzung+des+externen+Notenmoduls&oldid=3456)

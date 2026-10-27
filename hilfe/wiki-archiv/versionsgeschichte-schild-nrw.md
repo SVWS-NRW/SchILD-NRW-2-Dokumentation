@@ -446,7 +446,7 @@ MaxEmails=100
 
 <https://www.svws.nrw.de/uploads/media/schildinfo.inf>
 
-<https://www.svws.nrw.de/uploads/media/schildinfo.rtf>
+[https://www.svws.nrw.de/uploads/media/schildinfo.rtf](/dateien/handbuecher/schildinfo-c56f68dc.rtf)
 
 Hierdurch kommt es zu einem extrem verzögerten Start, der durch einen Timeout nach 30s gekennzeichnet ist. In der Beta-Version 2.0.29.5 wurde die Timeout-Zeit auf 2 Sekunden reduziert. Auf diese Weise sollte bei den betroffenen Schulen SchILD zumindest nur unmerklich langsamer starten. Im Hauptverzeichnis von SchILD kann eine Admin.ini angelegt werden, mit der die Timeout-Zeit vergrößert werden kann. Zudem kann über einen weiteren Schalter das Erzeugen einer Protokolldatei aktiviert werden, welche im Fehlerfall das Ereignis protokolliert. Diese Protokolldatei trägt den Namen "SchildDownloadErrors.log" und wird im Verzeichnis C:\Users\\\<Benutzername\>\Dokuments gespeichert. Unter diesem Pfad werden auch die schildinfo.inf und schildinfo.rtf abgelegt, wenn SchILD die Dateien erfolgreich abrufen konnte. Die Benutzer benötigen hierzu Zugriffsrechte auf dieses Verzeichnis. Von dem Phänomen betroffene Schulen können in der Regel ebenfalls den Programmpunkt "Hilfe ➜ Auf Update prüfen" nicht erfolgreich ausführen. Die Einträge in der Admin.ini müssen wie folgt aussehen:
 
@@ -522,7 +522,7 @@ Port=\<Port des Proxys\>\
 
 Beim Start überprüft Schild zunächst, ob neue Hinweise vorliegen. Hierzu lädt Schild eine kleine Informationsdatei herunter und wertet das enthaltene Datum aus. Diese Informationsdatei wird hier heruntergeladen: <https://www.svws.nrw.de/uploads/media/schildinfo.inf>
 
-Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in Schild angezeigt. Die rtf-Datei liegt hier: <https://www.svws.nrw.de/uploads/media/schildinfo.rtf>
+Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in Schild angezeigt. Die rtf-Datei liegt hier: [https://www.svws.nrw.de/uploads/media/schildinfo.rtf](/dateien/handbuecher/schildinfo-c56f68dc.rtf)
 
 - Das Auswahlfeld "Masernschutzimpfung" wurde aus Datenschutzgründen bei den Lehrkräften entfernt.
 
@@ -2277,4 +2277,4 @@ In der Datenquelle für die Schüler-Anrede wurde bei minderjährigen Schülern 
 
 ---
 
-Quelle: [Versionsgeschichte Schild-NRW – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Versionsgeschichte+Schild-NRW&oldid=6074) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Versionsgeschichte+Schild-NRW&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1352) · [Versionsgeschichte Schild-NRW – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Versionsgeschichte+Schild-NRW&oldid=6074)

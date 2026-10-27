@@ -34,4 +34,4 @@ B10 Berufsabschl./Hauptschulab.Kl. 10 oder mittl. Schulab. (BAB/HSA10-FOR, 4j. T
 
 ---
 
-Quelle: [BK-Abschluss:Anlage-B – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=BK-Abschluss%3AAnlage-B&oldid=4742) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=BK-Abschluss%3AAnlage-B&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1194) · [BK-Abschluss:Anlage-B – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=BK-Abschluss%3AAnlage-B&oldid=4742)

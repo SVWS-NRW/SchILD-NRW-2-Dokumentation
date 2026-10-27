@@ -40,4 +40,4 @@ siehe auch [Benutzerverwaltung](/administration/benutzer-einstellungen/benutzerv
 
 ---
 
-Quelle: [KM2 - Parameter - Administration – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=KM2+-+Parameter+-+Administration&oldid=2983) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=KM2+-+Parameter+-+Administration&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-572) · [KM2 - Parameter - Administration – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=KM2+-+Parameter+-+Administration&oldid=2983)

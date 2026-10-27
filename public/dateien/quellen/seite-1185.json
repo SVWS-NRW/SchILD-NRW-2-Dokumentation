@@ -1,0 +1,29 @@
+{
+  "pageid": 1185,
+  "ns": 0,
+  "title": "Mailversand aus der Reporting",
+  "revisions": [
+    {
+      "revid": 4731,
+      "parentid": 4727,
+      "user": "Pfotenhauer",
+      "timestamp": "2021-01-26T12:01:42Z",
+      "sha1": "3bc131987f3333271885506e5ff3c17e60563e7d",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "__TOC__\n\n= Versenden einer Reportvorlage =\n\nWenn Sie eine Reportvorlage (RTM-Datei) mit jemanden austauschen wollen, dann können Sie diese Vorlage direkt aus dem Reportexplorer versenden.\nVorraussetzung ist es, dass der Mailversand in den Programm-Einstellungen eingerichtet ist.\n\nKlicken Sie mit der rechten Maustaste auf den Report, den Sie versenden wollen und wählen Sie die unten abgebildete Option.\n\n\n\n[[Datei:RTM-Mailversand.png|500px]]\n\n\n\n\nJe nach Einstellung öffnet sich nun das Standard-Mailprogramm oder die Schild-NRW-interne Mailfunktion.\n\n\n\n\n= Versenden eines PDF an einen oder mehrere Empfänger =\n\n\nDiese Funktion dient dazu einen gedruckten PDF-Report in gleicher Form an einen oder mehrere Mailempfänger zu senden.\n\nDrucken Sie den Report mit einem Doppelklick und wählen Sie folgende Option.\n\n\n[[Datei:PDF-Mailversand01.png|500px]]\n\n\nEs erscheint nun die Schild-Mail-Funktion oder das Standard-E-Mail-Programm\nmit dem ein fester gedruckter Report an die Empfänger gesendet werden kann.\n\n\n[[Datei:PDF-Mailversand02.png|500px]]\n\n= Versand eines Serienbriefs als PDF-Anhang =\n\n\nDiese Funktion bietet die Möglichkeit Serienbriefe an verschiedene Empfänger zu senden.\nJe nach Datenquelle des Reports werden dann die E-Mail-Adresse verwendet.\n\nSo ist es z.B. möglich personalisierte Briefe an Erzieher zu senden.\nAuch kann man damit Klassenliste an die Klassenlehrer versenden.\n\n\n[[Datei:PDF-Mailversand03.png|500px]]\n\n\nFolgende Datenquellen werden unterstützt:\n* Schueler\n* Erzieher\n* Lehrer\n* Schueler mit Gruppierung auf Klassen (Mails gehen dann an den Klassenlehrer)\n* Schueler mit Gruppierung ZSSchulnrNRW oder LSSchulnr (Mails gehen dann an die aufnehmende oder abgebende Schule)\n\nGrundsätzlich gilt folgendes:\n\n* Der Report muss eine Gruppierung nach der ID einer dieser Datenquellen haben.\n* Im Report muss in den Email-Settings 'enabled' aktiviert sein.\n* In der Gruppierung muss 'neue Seite' und 'email new file' aktiviert sein.\n\n\n[[Datei:Emailnewfile.png|500]]\n\n\n[[Datei:Emailsettings.png|250px]]\n\n\n\n----\n\n[[Hauptseite|zurück zur Hauptseite]]"
+        }
+      },
+      "comment": "/* Versand eines Serienbriefs als PDF-Anhang */"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2021-01-26T12:01:42Z",
+  "lastrevid": 4731,
+  "length": 2079
+}

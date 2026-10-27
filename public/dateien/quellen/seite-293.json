@@ -1,0 +1,29 @@
+{
+  "pageid": 293,
+  "ns": 0,
+  "title": "Gruppenprozesse Abitur",
+  "revisions": [
+    {
+      "revid": 1291,
+      "parentid": 1290,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-02-11T21:09:36Z",
+      "sha1": "dabcdc154687f5d788704bde23774f05c82456b3",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "[[Image:GP-Abitur.jpg|Center]]\n\nZu den \"Gruppenaktionen für das Abitur\" gehören folgende Gruppenprozesse.\n\nBitte klicken Sie die Artikel an, um Informationen zu den dahinter liegenden Sammelaktionen zu bekommen.\n\n\n*[[Leistungsdaten holen]]\n*[[Kurse algorithmisch markieren]]\n*[[Abitur-Zulassung berechnen]]\n*[[Prüfungsergebnisse eingeben]]\n*[[Mdl. Prüfungen A1-A3 festlegen]]\n*[[Gesamtergebnis berechnen]]\n*[[Zusatzdaten (Latinum...) eingeben]]\n*[[Gesamt-Fehlstunden berechnen]]\n*[[Abitur-Jahr setzen (für Statistik)]]\n\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Gruppenprozesse|Zurück zu Gruppenprozesse]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-04-07T07:24:32Z",
+  "lastrevid": 1291,
+  "length": 606
+}

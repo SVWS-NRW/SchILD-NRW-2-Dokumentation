@@ -1,0 +1,29 @@
+{
+  "pageid": 512,
+  "ns": 0,
+  "title": "Noten von Epochal-Fächern ergänzen",
+  "revisions": [
+    {
+      "revid": 2110,
+      "parentid": 2093,
+      "user": "UMertsch",
+      "timestamp": "2014-04-14T12:24:20Z",
+      "sha1": "37561b677812d7665377cd96dcb08870ba577924",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Dieser Gruppenprozess ermöglicht das einfache Ergänzen von Epochal-Fächern im aktuellen Abschnitt. Unter Epochal-Fächern versteht man die Fächer, die nur in einem Halbjahr unterrichtet werden. Damit der Gruppenprozess richtig arbeitet, müssen diese Fächer im vorangehenden Abschnitt entsprechend gekennzeichnet sein (Häkchen in der Spalte \"Epochen-Unterricht\" muss gesetzt sein). Damit diese Häkchen gesetzt werden, markiert man das Fach schon in der [[Stundentafeln|Stundentafel]] als Epochenunterricht.\n\nWird z.B. Musik in der Jahrgangsstufe 7 nur im ersten Halbjahr unterrichtet und damit auch benotet, so soll diese Note natürlich auch auf dem Versetzungszeugnis erscheinen. Dieser Gruppenprozess ergänzt für die ausgewählte Schülermenge im aktuellen Abschnitt sowohl das Fach als auch die Note. \n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Fächer|Zurück zu Fächer]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-04-14T12:24:20Z",
+  "lastrevid": 2110,
+  "length": 880
+}

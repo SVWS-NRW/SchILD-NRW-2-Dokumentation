@@ -1,0 +1,29 @@
+{
+  "pageid": 54,
+  "ns": 0,
+  "title": "NotenDurchschnitt",
+  "revisions": [
+    {
+      "revid": 4087,
+      "parentid": 4086,
+      "user": "Pfotenhauer",
+      "timestamp": "2017-01-25T12:14:05Z",
+      "sha1": "6bcc257f2f3865091bb148add0f145b42bb69e4a",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    procedure NotenDurchschnitt(const aSchuelerId, aJahr, aAbschnitt: Integer;\n                         var Beste, Schlechteste: Integer; var Schnitt: String);\n|-\n|'''Parameter''' || \n    aSchuelerId        - Id-Nummer des Schülers\n    aJahr              - Schuljahr und\n    aAbschnitt         - Abschnitt des Schuljahres, für das der Schnitt berechnet wird.\n|-\n|'''Rückgabewert''' ||\n    Beste              - Beste Note des Abschnitte\n    Schlechteste       - Schlechteste Note des Abschnittes\n    Schnitt            - Formatierte Schnitt (zwei Nachkommastellen)\n|- \n|'''Beispiel''' || \n    procedure DetailBeforePrint;\n    var\n      lBeste, lSchlechteste : integer;\n      lSchnitt : String;\n    begin\n      NotenDurchschnitt(Schueler['ID'],Schueler['AktSchuljahr'],Schueler['AktAbschnitt'],\n      Label1.Caption:=IntToStr(lBeste);\n      Label2.Caption:=IntToStr(lSchlechteste);\n      Label3.Caption:=lSchnitt;\n    end;\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2017-01-25T12:14:05Z",
+  "lastrevid": 4087,
+  "length": 1047
+}

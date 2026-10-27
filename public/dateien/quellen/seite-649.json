@@ -1,0 +1,29 @@
+{
+  "pageid": 649,
+  "ns": 6,
+  "title": "Datei:GruppenprozesseTut03.jpg",
+  "revisions": [
+    {
+      "revid": 3597,
+      "parentid": 3596,
+      "user": "Mhoffmann",
+      "timestamp": "2015-09-20T08:11:15Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": "Mhoffmann lud eine neue Version von „[[Datei:GruppenprozesseTut03.jpg]]“ hoch: Zurückgesetzt auf die Version vom 20. September 2015, 08:07 Uhr"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-09-20T08:11:15Z",
+  "lastrevid": 3597,
+  "length": 0
+}

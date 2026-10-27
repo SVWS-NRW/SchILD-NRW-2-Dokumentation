@@ -1,0 +1,30 @@
+{
+  "pageid": 92,
+  "ns": 0,
+  "title": "SetUebersicht",
+  "revisions": [
+    {
+      "revid": 116,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T18:40:36Z",
+      "sha1": "17e5acf5dd848cd60e8b2105b320bf8029688006",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    procedure SetUebersicht(IsUebersicht: Boolean);\n|-\n|'''Parameter''' || \n    IsUebersicht       - Boolescher Wert, bei 'True' werden die Leistungsdaten eines\n                         Schülers im über SetJgIntervall definierten Zeitintervall in\n                         eine Tabellenstruktur eingefügt. Da dieser Vorgang recht\n                         zeitaufwendig ist, kann und sollte er durch diese Funktion nur\n                         bei Bedarf  zugeschaltet werden\n|-\n|'''Rückgabewert''' ||\n    ...\n|- \n|'''Beispiel''' || \n    Procedure ReportBeforePrint;\n     begin\n       SetJgIntervall(12,13);\n       SetUebersicht(True);\n     end;\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      procedure SetUebersicht(IsUebersicht: Boolean); |- |'''Parameter''' ||   …“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T18:40:36Z",
+  "lastrevid": 116,
+  "length": 771,
+  "new": ""
+}

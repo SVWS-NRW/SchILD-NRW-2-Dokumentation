@@ -1,0 +1,29 @@
+{
+  "pageid": 147,
+  "ns": 0,
+  "title": "Auswahl",
+  "revisions": [
+    {
+      "revid": 3707,
+      "parentid": 3706,
+      "user": "Pfotenhauer",
+      "timestamp": "2015-11-19T16:10:22Z",
+      "sha1": "edeacbf0e537bdf64b5da5e4b488e1d04355016e",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Der Menüpunkt \"Auswahl\" hat besondere Bedeutung, da es im Schulalltag häufig nötig ist, die Schülermenge einzugrenzen. Dies ist vor allem bei der Durchführung von  [[Gruppenprozesse|Gruppenprozessen]] nötig, oder um Listen zu erstellen, die z.B. nur die evangelischen Schüler eines Jahrgangs oder die Aussiedler an der Schule enthalten sollen. Schild-NRW bietet dazu verschiedene Möglichkeiten an, um diese Eingrenzungen vorzunehmen. \n\n[[File:Auswahl_01.jpg|rechts|250px]]\nDer Menüpunkt \"Auswahl\" bietet folgende Unterpunkte für die Filterung an: \n* [[Standard-Auswahl laden]]\n* [[Vorhandene Filterdefinition laden]]\n* [[Vorhandene Filterdefinition löschen]]\n* [[Attributsfilter|Attributsfilter erstellen]]\n* [[Filter I]]\n* [[Filter II]]\n* [[Filter auf fehlende Einträge]]\n* [[Schüler mit Statistik-Fehlern zeigen]]\n* [[Nur Schüler mit Geschwistern zeigen]]\n\n----\n\n* [[Schüler mit fehlendem Abschnitt (Status=Aktiv,..)]]\n* [[Schüler mit fehlendem Abschnitt (Status=Abgang,..)]]\n* [[Schüler ohne Fächer]]\n\n----\n\n* [[Individuelle Schülergruppe bearbeiten]]\n* [[Individuelle Schülergruppe auswählen]]\n\n----\n\n* [[Papierkorb zeigen]]\n\n----\n\n\n[[Schild-NRW-Index|Zurück zu Schild-NRW-Index]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-11-19T16:10:22Z",
+  "lastrevid": 3707,
+  "length": 1206
+}

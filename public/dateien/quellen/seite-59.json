@@ -1,0 +1,30 @@
+{
+  "pageid": 59,
+  "ns": 0,
+  "title": "QuotedStr",
+  "revisions": [
+    {
+      "revid": 80,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T16:25:39Z",
+      "sha1": "ba8a27aae64ed76f19f1f0fd1cdaebebad88252a",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    function QuotedStr(const Value: String): String;\n    schließt den String Value in Delphi-Hochkommata ein\n|-\n|'''Parameter''' || \n    Value   - String, der eingeschlossen werden soll\n|-\n|'''Rückgabewert''' ||\n    In Hochkommata eingeschlossener String\n|- \n|'''Beispiel''' || \n    Setzefilter(Klassenlehrer_mit_Noten,'Fachkrz=' + QuotedStr('M'));\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      function QuotedStr(const Value: String): String;     schließt den String…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T16:25:39Z",
+  "lastrevid": 80,
+  "length": 474,
+  "new": ""
+}

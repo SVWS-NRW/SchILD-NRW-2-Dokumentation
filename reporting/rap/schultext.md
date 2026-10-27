@@ -42,4 +42,4 @@ end;
 
 ---
 
-Quelle: [SchulText – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SchulText&oldid=94) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=SchulText&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-73) · [SchulText – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SchulText&oldid=94)

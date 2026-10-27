@@ -1,0 +1,30 @@
+{
+  "pageid": 1232,
+  "ns": 6,
+  "title": "Datei:ASDPCSchuldaten.jpg",
+  "revisions": [
+    {
+      "revid": 4855,
+      "parentid": 0,
+      "user": "FFrodermann",
+      "timestamp": "2021-09-09T09:42:22Z",
+      "sha1": "ad3f584c0f4e2b6939c9222c66ad2c49a6a4e549",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "== Beschreibung ==\nASDPC Schuldaten-Startbildschirm\n\n[Erstellt aus ASDPC]"
+        }
+      },
+      "comment": "ASDPC Schuldaten-Startbildschirm\n\n[Erstellt aus ASDPC]"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-01-04T09:17:10Z",
+  "lastrevid": 4855,
+  "length": 73,
+  "new": ""
+}

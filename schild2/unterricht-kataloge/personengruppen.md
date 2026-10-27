@@ -33,4 +33,4 @@ Es können Sammel-E-Mails an die Mitglieder solcher Personengruppen gesendet und
 
 ---
 
-Quelle: [Personengruppen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Personengruppen&oldid=1629) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Personengruppen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-377) · [Personengruppen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Personengruppen&oldid=1629)

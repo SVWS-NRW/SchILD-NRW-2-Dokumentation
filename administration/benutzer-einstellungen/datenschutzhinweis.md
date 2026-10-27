@@ -28,4 +28,4 @@ Ein Musterverfahrensverzeichnis für Schild-NRW stellen wir hier zur Verfügung:
 
 ---
 
-Quelle: [Datenschutzhinweis – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datenschutzhinweis&oldid=4136) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datenschutzhinweis&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-226) · [Datenschutzhinweis – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datenschutzhinweis&oldid=4136)

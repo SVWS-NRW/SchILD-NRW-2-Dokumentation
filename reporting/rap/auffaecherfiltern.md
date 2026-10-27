@@ -47,4 +47,4 @@ AufFaecherFiltern('D,E,M');
 
 ---
 
-Quelle: [AufFaecherFiltern – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=AufFaecherFiltern&oldid=4247) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=AufFaecherFiltern&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1144) · [AufFaecherFiltern – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=AufFaecherFiltern&oldid=4247)
