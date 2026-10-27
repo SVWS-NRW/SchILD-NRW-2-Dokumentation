@@ -40,4 +40,4 @@ Entfernt den über FilterErzieherfunktion gesetzten Filter
 
 ---
 
-Quelle: [ResetFilterErzieherfunktion – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ResetFilterErzieherfunktion&oldid=89) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=ResetFilterErzieherfunktion&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-68) · [ResetFilterErzieherfunktion – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ResetFilterErzieherfunktion&oldid=89)

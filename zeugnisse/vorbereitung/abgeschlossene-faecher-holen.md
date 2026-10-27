@@ -26,4 +26,4 @@ Die Noten aus vorherigen Jahren werden dann mit vor- und nachgestelltem \* marki
 
 ---
 
-Quelle: [Abgeschlossene Fächer holen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Abgeschlossene+F%C3%A4cher+holen&oldid=2106) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Abgeschlossene+F%C3%A4cher+holen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-508) · [Abgeschlossene Fächer holen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Abgeschlossene+F%C3%A4cher+holen&oldid=2106)

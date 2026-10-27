@@ -1,0 +1,30 @@
+{
+  "pageid": 1269,
+  "ns": 6,
+  "title": "Datei:ASDPC Belege.png",
+  "revisions": [
+    {
+      "revid": 5016,
+      "parentid": 0,
+      "user": "FFrodermann",
+      "timestamp": "2021-10-21T08:20:01Z",
+      "sha1": "f303239f3f4c682fbab29c714aac15416b368472",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "== Beschreibung ==\nASDPC Übersicht Belege - Screenshot"
+        }
+      },
+      "comment": "ASDPC Übersicht Belege - Screenshot"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-01-22T09:22:16Z",
+  "lastrevid": 5016,
+  "length": 55,
+  "new": ""
+}

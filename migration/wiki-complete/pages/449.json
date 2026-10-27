@@ -1,0 +1,29 @@
+{
+  "pageid": 449,
+  "ns": 0,
+  "title": "BK-Abschluss",
+  "revisions": [
+    {
+      "revid": 4186,
+      "parentid": 4185,
+      "user": "Pfotenhauer",
+      "timestamp": "2017-07-06T15:47:06Z",
+      "sha1": "8a1c57cd8e83cae321b87531cf34a5f2e391121f",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Für die Schüler eines Bildungsganges im Berufskolleg, die einen Berufsabschluss erwerben,  gibt es die Karteikarte '''BK-Abschluss'''. Abhängig vom Bildungsgang und der zugrunde liegenden Prüfungsordnung, werden die Felder und Schaltflächen auf dieser Karte eingeblendet.\n\nGrundsätzlich müssen zunächst die Leistungsdaten geholt werden. Dazu klicken Sie auf die Schaltfläche ''Leistungsdaten holen'' (wenn man mit dem Mauszeiger über die Schaltfläche fährt, wird die Schaltfläche als solches auch erkennbar!). Gegebenenfalls kann nun die Zulassung zur Prüfung kontrolliert werden (Schaltfläche: ''Zulassung prüfen''). Je nach Anlage kann man jetzt schriftliche Fächer festlegen (alternativ können die Fächer auch bei der Definition des Unterrichtsfaches als schriftliches Fach für einzelne Gliederungen bestimmt werden). Nach Eingabe der Vornoten und der Noten in den Prüfungsfächern lassen sich die vorläufigen Abschlussnoten berechnen (Schaltfläche: ''vorl. Abschlussnoten berechnen''). Nach möglichen mündlichen Prüfungen wird dann der Abschluss berechnet (Schaltfläche ''Abschluss berechnen''). \n\n\nDiese Schritte lassen sich für die ganze Gruppe über Gruppenprozesse ausführen.\nBeim Aufruf der Gruppenprozesse werden die Schalten am unteren Rand des Fensters eingeblendet.\nDabei wird anhand der gefilterten Gruppe entschieden, ob und welche Schalter zur Verfügung stehen.\nDabei wird auf Gliederung und Statistikjahrgang der Schüler geschaut.\nBei Mischklassen kann es also notwendig sein, Teilgruppen zu filtern.\n\n\n\n==Beispiele und Erläuterungen für die verschiedenen Anlagen==\n\n[[BK-Abschluss:Anlage-A|Bildungsgänge der Anlage A]]\n\n[[BK-Abschluss:Anlage-B|Bildungsgänge der Anlage B]]\n\n[[BK-Abschluss:Anlage-C|Bildungsgänge der Anlage C]] \n\n[[BK-Abschluss:Anlage-D|Bildungsgänge der Anlage D]]\n\n[[BK-Abschluss:Anlage-E|Bildungsgänge der Anlage E]]\n\n\n\nIm unteren Teil der Karteikarte können in einem Feld die Themen der Abschlussarbeiten eingegeben werden. Darunter befindet sich der Bereich ''Auswertung'', in dem die erreichten Abschlüsse und ggf. die Durchschnittsnoten zu finden sind. \n\n\n[[Image:BK-Abschluss-Reiter.jpg|Center]]\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Hauptfenster#Karteireiter|Zurück zu Karteireiter]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2021-04-22T10:43:18Z",
+  "lastrevid": 4186,
+  "length": 2266
+}

@@ -1,0 +1,29 @@
+{
+  "pageid": 202,
+  "ns": 6,
+  "title": "Datei:Download plugins.jpg",
+  "revisions": [
+    {
+      "revid": 560,
+      "parentid": 559,
+      "user": "FKrebbing",
+      "timestamp": "2013-12-11T00:37:17Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": "FKrebbing lud eine neue Version von „[[Datei:Download plugins.jpg]]“ hoch"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-01-28T09:31:45Z",
+  "lastrevid": 560,
+  "length": 0
+}

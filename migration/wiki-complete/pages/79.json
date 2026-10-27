@@ -1,0 +1,30 @@
+{
+  "pageid": 79,
+  "ns": 0,
+  "title": "SelectFromListEx",
+  "revisions": [
+    {
+      "revid": 100,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T16:59:13Z",
+      "sha1": "59c50004c67e004bf68bc94e9873b8b7a401cd3b",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    function SelectFromListEx(Caption, Optionlist, Default: String; Trennzeichen: Char): String;\n    ermöglicht die Auswahl eines Elemente aus einer Dropdown-Liste, deren\n    Elemente durch ein beliebiges Zeichen getrennt sind.\n|-\n|'''Parameter''' || \n    Caption      - Titel des Dialoges\n    Optionslist  - Liste der verfügbaren Optionen\n    Default      - voreingestellter Rückgabewert\n    Trennzeichen - Trennzeichen der Optionsliste\n|-\n|'''Rückgabewert''' ||\n    Die gewählte Option\n|- \n|'''Beispiel''' || \n    Procedure ReportBeforePrint;\n    var\n      lSchulform : String;\n    begin\n      lSchulform:=SelectFromlistEx('Bitte Schulform wählen',\n      'Gymnasium|Realschule|Hauptschule','Realschule,'|');\n      ...\n    end;\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      function SelectFromListEx(Caption, Optionlist, Default: String; Trennzeic…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T16:59:13Z",
+  "lastrevid": 100,
+  "length": 858,
+  "new": ""
+}

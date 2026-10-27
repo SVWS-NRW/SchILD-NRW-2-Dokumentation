@@ -1,0 +1,29 @@
+{
+  "pageid": 443,
+  "ns": 0,
+  "title": "BKAbschluss",
+  "revisions": [
+    {
+      "revid": 1845,
+      "parentid": 1843,
+      "user": "BPanzlaff",
+      "timestamp": "2014-03-24T15:28:33Z",
+      "sha1": "307c9c85ecba79c57f5104804534b4dde0c9b351",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Für die Schüler eines Bildungganges im Berufskolleg, die einen Berufsabschluss erwerden,  gibt es die Karteikarte '''BK-Abschluss'''. Abhängig vom Bildungsgang und der zugrundeliegenden Prüfungsordnung, werden die Felder und Schaltfächen auf dieser Karte eingeblendet.\n\nGrundsätzlich müssen zunächst die Leistungsdaten geholt werden. Dazu klicken Sie auf die Schaltfäche ''Leistungsdaten holen'' (wenn man mit dem Mauszeiger über die Schaltfläche fährt, wird die Schaltfäche als solches auch erkennbar!). Gegebenenfalls kann die nun die Zulassung zur Prüfung kontrolliert werden (Schaltfäche: ''Zulassung prüfen''). Je nach Anlage, kann man jetzt schriftliche Fächer festlegen (alternativ können die Fächer auch bei der Definition des Unterrichtsfaches als schriftliches Fach für einzelne Gliederungen bestimmt werden). Nach Eingabe der Vornoten und der Noten in den Prüfungsfächern, lässt sich die vorläufigen Abschlussnoten berechnen (Schaltfläche: ''vorl. Abschlussnoten berechnen''). Nach möglichen mündlichen Prüfungen wird dann der Abschluss berechnet (Schaltfläche ''Abschluss berechnen''). \n\n\nDiese Schritte lassen sich für die ganze Gruppe über Gruppenprozesse ([[Noten, Zeugnisvorbereitung]]) ausführen.\n\n\nBildungsgang der Anlage A - Beispiel:\n\n[[Datei:BK-Abschluss-AnlageA-Teil1.png]]\n\n\nBildungsgang der Anlage B - Beispiel:\n\n[[Datei:BK-Abschluss-AnlageB-Teil1.png]]\n\n\nBildungsgang der Anlage C - Beispiel:\n\n[[Datei:BK-Abschluss-AnlageC-Teil1.png]]\n\n\nBildungsgang der Anlage D - Beispiel:\n\n''noch kein Beispiel vorhanden''\n\n\nBildungsgang der Anlage E - Beispiel:\n\n''Die Karteikarte wird erst letzten Jahrgang eingeblendet. Hier besteht noch Änderungsbedarf, da das Fachschulexamen schon nach dem 2. Ausbildungsjahr abgelegt wird.''\n\n[[Datei:BK-Abschluss-AnlageE-Teil1.png]]\n\n\n\nIm unteren Teil der Karteikarte können in einem Feld die Themen der Abschlussarbeiten eingegeben werden. darunter befindet sich der Bereich ''Auswertung'', in dem die erreichten Abschlüsse ung ggf. die Durchschnittsnoten zu finden sind. So kann der Bereich für einen Schüler aussehen, der in einem Bildungsgang der Anlage C seinen Abschluss anstrebt:\n\n[[Datei:BK-Abschluss-AnlageC-Teil2.png]]\n\n\n\n\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Hauptfenster#Karteireiter|Zurück zu Karteireiter]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-03-24T15:28:33Z",
+  "lastrevid": 1845,
+  "length": 2310
+}

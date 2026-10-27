@@ -46,4 +46,4 @@ begin
 
 ---
 
-Quelle: [SelectString – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SelectString&oldid=104) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=SelectString&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-82) · [SelectString – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SelectString&oldid=104)

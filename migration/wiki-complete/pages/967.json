@@ -1,0 +1,29 @@
+{
+  "pageid": 967,
+  "ns": 0,
+  "title": "Papierkorb zeigen",
+  "revisions": [
+    {
+      "revid": 3715,
+      "parentid": 3711,
+      "user": "Pfotenhauer",
+      "timestamp": "2015-11-20T09:28:08Z",
+      "sha1": "88a9ee2e372c4e52c574d9907b21213bbc167a48",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Über dieses Menü können im [[Container]] schnell alle Schüler, die einmal gelöscht wurden, angezeigt werden.\n\nDiese Schüler liegen in einer Art \"Papierkorb\", damit sie bei versehentlicher Löschung wieder geholt werden können.\n\nHaben Sie die Anzeige des Papierkorbs gewählt, so können Sie über die rechte Maustaste auf den Schülernamen den Menüpunkt \"Löschmarkierung aufheben\" wählen und der Schülerdatensatz wird wieder hergestellt.\n\n[[Image:Löschung.jpg|Center]]\n\nEs bietet sich aber auch die Möglichkeit, diese Schüler über die [[Gruppenprozesse]] zu behandeln!\n\nDabei können Sie die Löschmarkierung einer ganzen Schülergruppe zurücknehmen. (Individualdaten ändern > Individual Daten I > Löschmarkierung > \"Nein\")\n\nOder Sie können über den Gruppenprozess [[Schüler-Datensätze löschen]] eine ganze Gruppe endgültig aus der Datenbank entfernen.\n\n\n----\n\n[[Auswahl|Zurück zu Auswahl]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-11-20T09:28:08Z",
+  "lastrevid": 3715,
+  "length": 915
+}

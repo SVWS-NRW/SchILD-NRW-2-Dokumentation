@@ -18,4 +18,4 @@ Sollen nur bei einem einzelnen Schüler die abgeschlossenen Fächer gelöscht we
 
 ---
 
-Quelle: [Abgeschlossene Fächer löschen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Abgeschlossene+F%C3%A4cher+l%C3%B6schen&oldid=2082) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Abgeschlossene+F%C3%A4cher+l%C3%B6schen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-509) · [Abgeschlossene Fächer löschen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Abgeschlossene+F%C3%A4cher+l%C3%B6schen&oldid=2082)

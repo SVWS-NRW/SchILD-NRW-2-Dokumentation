@@ -43,4 +43,4 @@ auch die nicht gewerteten Abschnitte sehen will.
 
 ---
 
-Quelle: [NurGewerteteAbschnitte – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=NurGewerteteAbschnitte&oldid=185) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=NurGewerteteAbschnitte&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-126) · [NurGewerteteAbschnitte – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=NurGewerteteAbschnitte&oldid=185)

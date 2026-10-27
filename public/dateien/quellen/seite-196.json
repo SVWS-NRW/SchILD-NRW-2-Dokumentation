@@ -1,0 +1,30 @@
+{
+  "pageid": 196,
+  "ns": 6,
+  "title": "Datei:Allgemeine Adressen bearbeiten.jpg",
+  "revisions": [
+    {
+      "revid": 532,
+      "parentid": 0,
+      "user": "FKrebbing",
+      "timestamp": "2013-12-10T23:19:47Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-12-10T23:37:25Z",
+  "lastrevid": 532,
+  "length": 0,
+  "new": ""
+}

@@ -1,0 +1,30 @@
+{
+  "pageid": 1332,
+  "ns": 6,
+  "title": "Datei:ASDPC Installation Admin.png",
+  "revisions": [
+    {
+      "revid": 5201,
+      "parentid": 0,
+      "user": "FFrodermann",
+      "timestamp": "2022-01-03T13:22:09Z",
+      "sha1": "bce1d33e83782e155f981e1d2403e1fd2ea7a81c",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "== Beschreibung ==\nASDPC Instllation als Admin"
+        }
+      },
+      "comment": "ASDPC Instllation als Admin"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-01-04T09:00:12Z",
+  "lastrevid": 5201,
+  "length": 46,
+  "new": ""
+}

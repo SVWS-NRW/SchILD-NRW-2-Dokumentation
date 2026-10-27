@@ -23,4 +23,4 @@ Weitere Informationen (Klassenlehrer, Konferenzdatum, Angaben zum Arbeits- und S
 
 ---
 
-Quelle: [Übersicht Primarstufe – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=%C3%9Cbersicht+Primarstufe&oldid=2284) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=%C3%9Cbersicht+Primarstufe&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-591) · [Übersicht Primarstufe – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=%C3%9Cbersicht+Primarstufe&oldid=2284)

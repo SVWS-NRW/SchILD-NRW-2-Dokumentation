@@ -1,0 +1,30 @@
+{
+  "pageid": 1353,
+  "ns": 6,
+  "title": "Datei:Datenbankdatei.jpg",
+  "revisions": [
+    {
+      "revid": 5402,
+      "parentid": 0,
+      "user": "JRaffenberg",
+      "timestamp": "2022-03-11T13:52:32Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-03-11T16:43:04Z",
+  "lastrevid": 5402,
+  "length": 0,
+  "new": ""
+}

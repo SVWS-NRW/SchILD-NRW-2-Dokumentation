@@ -44,4 +44,4 @@ End;
 
 ---
 
-Quelle: [PickDatum – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=PickDatum&oldid=79) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=PickDatum&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-58) · [PickDatum – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=PickDatum&oldid=79)

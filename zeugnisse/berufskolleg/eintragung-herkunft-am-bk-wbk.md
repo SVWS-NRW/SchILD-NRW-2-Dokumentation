@@ -39,4 +39,4 @@ Nach dieser Vorbereitung lassen sich die notwendigen Eintragungen beim Schüler 
 
 ---
 
-Quelle: [Eintragung Herkunft am BK/WBK – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Eintragung+Herkunft+am+BK%2FWBK&oldid=2329) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Eintragung+Herkunft+am+BK%2FWBK&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-606) · [Eintragung Herkunft am BK/WBK – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Eintragung+Herkunft+am+BK%2FWBK&oldid=2329)

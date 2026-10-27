@@ -13,4 +13,4 @@ Bei Auswahl dieses Gruppenprozesses wird der in der Klassentabelle für die Klas
 
 ---
 
-Quelle: [Klassenlehrer aktualisieren – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Klassenlehrer+aktualisieren&oldid=1586) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Klassenlehrer+aktualisieren&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-354) · [Klassenlehrer aktualisieren – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Klassenlehrer+aktualisieren&oldid=1586)

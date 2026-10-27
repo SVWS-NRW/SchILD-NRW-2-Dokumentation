@@ -48,4 +48,4 @@ end;
 
 ---
 
-Quelle: [NurErzieherMitAnschreiben – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=NurErzieherMitAnschreiben&oldid=76) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=NurErzieherMitAnschreiben&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-55) · [NurErzieherMitAnschreiben – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=NurErzieherMitAnschreiben&oldid=76)

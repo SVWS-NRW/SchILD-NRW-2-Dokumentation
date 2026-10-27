@@ -15,4 +15,4 @@ Nach der Auswahl einer Datei öffnet sich das Hauptfenster, wo die weitere Arbei
 
 ---
 
-Quelle: [Prognos:Analyseverfahren: Datei – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Prognos%3AAnalyseverfahren%3A+Datei&oldid=5081) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Prognos%3AAnalyseverfahren%3A+Datei&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1290) · [Prognos:Analyseverfahren: Datei – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Prognos%3AAnalyseverfahren%3A+Datei&oldid=5081)

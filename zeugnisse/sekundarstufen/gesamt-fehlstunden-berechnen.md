@@ -15,4 +15,4 @@ Wurden die Gesamtfehlstunden über den Gruppenprozess [Zusatzdaten (Latinum...) 
 
 ---
 
-Quelle: [Gesamt-Fehlstunden berechnen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Gesamt-Fehlstunden+berechnen&oldid=2054) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Gesamt-Fehlstunden+berechnen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-498) · [Gesamt-Fehlstunden berechnen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Gesamt-Fehlstunden+berechnen&oldid=2054)

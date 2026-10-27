@@ -44,4 +44,4 @@ end;
 
 ---
 
-Quelle: [IstInDerGruppe – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=IstInDerGruppe&oldid=57) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=IstInDerGruppe&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-36) · [IstInDerGruppe – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=IstInDerGruppe&oldid=57)

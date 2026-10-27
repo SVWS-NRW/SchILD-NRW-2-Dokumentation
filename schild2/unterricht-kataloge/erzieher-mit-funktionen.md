@@ -29,4 +29,4 @@ Wenn Sie *Neuer Eintrag* wählen, öffnet sich wieder der Katalog mit den Erzieh
 
 ---
 
-Quelle: [Erzieher mit Funktionen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Erzieher+mit+Funktionen&oldid=3592) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Erzieher+mit+Funktionen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-949) · [Erzieher mit Funktionen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Erzieher+mit+Funktionen&oldid=3592)

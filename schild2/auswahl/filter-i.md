@@ -41,4 +41,4 @@ Den neu zusammengestellten Filter kann man nun testen, übernehmen und gegebenen
 
 ---
 
-Quelle: [Filter I – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Filter+I&oldid=1265) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Filter+I&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-277) · [Filter I – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Filter+I&oldid=1265)

@@ -39,4 +39,4 @@ Abhängig von der Schulform werden weitere Abschnitte eingeblendet:
 
 ---
 
-Quelle: [Individual-Daten II – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Individual-Daten+II&oldid=3024) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Individual-Daten+II&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-328) · [Individual-Daten II – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Individual-Daten+II&oldid=3024)

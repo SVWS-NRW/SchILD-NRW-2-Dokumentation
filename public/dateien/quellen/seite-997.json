@@ -1,0 +1,29 @@
+{
+  "pageid": 997,
+  "ns": 6,
+  "title": "Datei:Lupo hauptseite.png",
+  "revisions": [
+    {
+      "revid": 3802,
+      "parentid": 3801,
+      "user": "JRaffenberg",
+      "timestamp": "2016-02-16T14:17:41Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": "JRaffenberg lud eine neue Version von „[[Datei:Lupo hauptseite.png]]“ hoch"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2016-02-16T14:17:41Z",
+  "lastrevid": 3802,
+  "length": 0
+}

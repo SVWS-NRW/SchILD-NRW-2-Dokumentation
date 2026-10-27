@@ -40,4 +40,4 @@ If FileExists('C:\Schild-NRW\Schild-Reports\Zeugnisse\Zeugnis_11.rtm') then...;
 
 ---
 
-Quelle: [FileExists – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FileExists&oldid=41) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=FileExists&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-21) · [FileExists – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FileExists&oldid=41)

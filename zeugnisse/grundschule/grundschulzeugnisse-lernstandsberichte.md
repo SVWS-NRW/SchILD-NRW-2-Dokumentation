@@ -11,4 +11,4 @@ Hier erscheinen in Kürze Hinweise.
 
 ---
 
-Quelle: [Grundschulzeugnisse Lernstandsberichte – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Grundschulzeugnisse+Lernstandsberichte&oldid=4619) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Grundschulzeugnisse+Lernstandsberichte&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1179) · [Grundschulzeugnisse Lernstandsberichte – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Grundschulzeugnisse+Lernstandsberichte&oldid=4619)

@@ -1,0 +1,30 @@
+{
+  "pageid": 777,
+  "ns": 6,
+  "title": "Datei:Migrationshintergrund01.jpg",
+  "revisions": [
+    {
+      "revid": 3007,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2015-04-27T14:32:11Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-04-27T14:40:57Z",
+  "lastrevid": 3007,
+  "length": 0,
+  "new": ""
+}

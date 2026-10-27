@@ -62,4 +62,4 @@ Das Ergebnis wird folgendermaßen aussehen und kann nun wie gewohnt weiterverarb
 
 ---
 
-Quelle: [Datenexport nach Excel oder OpenOffice-Calc – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datenexport+nach+Excel+oder+OpenOffice-Calc&oldid=3244) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datenexport+nach+Excel+oder+OpenOffice-Calc&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-829) · [Datenexport nach Excel oder OpenOffice-Calc – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datenexport+nach+Excel+oder+OpenOffice-Calc&oldid=3244)

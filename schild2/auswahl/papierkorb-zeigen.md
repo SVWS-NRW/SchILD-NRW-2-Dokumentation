@@ -25,4 +25,4 @@ Oder Sie können über den Gruppenprozess [Schüler-Datensätze löschen](/schil
 
 ---
 
-Quelle: [Papierkorb zeigen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Papierkorb+zeigen&oldid=3715) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Papierkorb+zeigen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-967) · [Papierkorb zeigen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Papierkorb+zeigen&oldid=3715)

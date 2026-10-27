@@ -1,0 +1,29 @@
+{
+  "pageid": 538,
+  "ns": 0,
+  "title": "Dokumentenverwaltung",
+  "revisions": [
+    {
+      "revid": 3436,
+      "parentid": 3435,
+      "user": "BPanzlaff",
+      "timestamp": "2015-08-17T07:12:59Z",
+      "sha1": "5981f7d51fb5f1455ffe769a79ebc1b445124bb9",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Die Dokumentenverwaltung in Schild-NRW unterstützt Sie bei der Archivierung von schülerbezogenen Briefen, Zeugnissen, E-Mails usw. Seit der Version 1.7.77.2 ist die Dokumentenverwaltung verfügbar. Es können PDFs und E-Mail-Texte direkt aus Schild-NRW beim Schüler in den eigenen Ordner gedruckt werden. Über das Windows-Dateisystem können aber auch beliebige Dateien dort gespeichert werden.\n\nIm Folgenden sollen die zur Verfügung stehenden Optionen und Einstellungsmöglichkeiten beschrieben werden.\n\nDie Dokumentenverwaltung steht nach der Installation nicht automatisch zur Verfügung. Wenn Sie diese Möglichkeit zur Archivierung nutzen möchten, dann müssen Sie sie über die Programmeinstellungen aktivieren. Dazu öffnen Sie das Menü Extras --> Programm-Einstellungen --> Globale Einstellungen --> Dokumentenverwaltung. (Die Aktivierung ist nur bei entsprechenden Rechten, z.B. als Admin, möglich!)\n\n\n[[Datei:Dokumentenverwaltung-01.png]]\n\n\nNachdem Sie das Häkchen bei '''Dokumentenverwaltung verwenden''' gesetzt haben, müssen Sie das Verzeichnis bestimmen, in dem die Dokumente abgelegt werden sollen. (Achtung! Es wird keine Fehlermeldung ausgegeben, falls der ausgesuchte Speicherort nicht existiert! Achten Sie auch auf ausreichende Schreibrechte, insbesondere wenn der Ordner außerhalb des Programmordners liegt.) Zusätzlich können Sie die Dateimaske anpassen. Damit ist die Regel gemeint, nach der der Dateibaum für die zu archivierenden Dokumente aufgebaut werden soll.\n\n\n[[Datei:Dokumentenverwaltung-02.png]]\n\n\nVorgeschlagen ist diese Reihenfolge: Für jeden Schüler wird ein Ordner erzeugt, dessen Bezeichnung sich aus dem ''Namen'', dem ''Vornamen'' und dem ''Geburtsdatum'' des Schülers zusammensetzt. In diesem Ordner gibt es dann für jede ''Klasse'', in der der Schüler ist, einen Unterordner. Das archivierte Dokument bekommt den Namen des ausgewählten Reports mit einem zusätzlichen Zeitstempel. Mit Hilfe dieser Struktur lässt sich nachvollziehen, in welcher Klasse der Schüler war, als das Dokument gedruckt wurde, und wann das Dokument gedruckt wurde.\n\nWenn Sie sich für eine Ordnerstruktur entschieden haben, besteht die Möglichkeit, die Ordner für alle aktiven Schüler und, wenn gewünscht, auch für Schüler mit einem anderen Status anzulegen. Wenn Sie die Ordner nicht anlegen, wird beim Druck eines Dokumentes der benötigte Ordner angelegt.  \n\nWenn Sie die Dokumentenverwaltung aktiviert haben, wird der zusätzliche Karteireiter '''Dokumentenverwaltung''' eingeblendet, auf dem die Ordnerstruktur des jeweiligen Schülers zu erkennen ist. Durch Doppelklick auf einen Ordner öffnet sich der Windows-Explorer und es werden die zugehörigen Dokumente angezeigt.\n\n\n[[Datei:Dokumentenverwaltung-03.png]]\n\n\n\n\n\n\nUm die Dokumente zu archivieren, müssen Sie einen der zusätzlich eingeblendeten Menüpunkte beim Druck eines Dokumentes auswählen. \n\n\n[[Datei:Dokumentenverwaltung-04.png]]\n\n\n\nVielleicht wundern Sie sich, dass bei Ihnen das Druckmenü noch genauso aussieht wie vor der Aktivierung der Dokumentenverwaltung. Für die Archivierung müssen '''drei Bedingungen''' erfüllt sein:\n<ul>\n<li>- die Datenquelle ''Schüler'' muss für den Report ausgewählt sein</li>\n<li>- es muss eine Gruppierung bezüglich eines Datenfeldes der Datenquelle im Report vorhanden sein, z.B. nach Schueler_Id</li>\n<li>- Auswahl ''Drucker mit Archivierung'' oder ''nur Archivierung (in Dokumentenverwaltung)'' im Druckmenü</li> \n</ul>\n\n\n\n'''Erstellen geeigneter Reports'''\n\nDamit ein Report mit der Dokumentenverwaltung zusammenarbeitet, muss er eine Gruppe haben. Diese Gruppen richtet man wie folgt ein:\n\nÖffnen Sie einen bestehenden Report zur Bearbeitung oder erstellen Sie einen neuen Report. Unter Bericht -> Gruppen öffnet sich das Fenster für die benötigten Einstellungen.\n\n\n[[Datei:Dokumentenverwaltung-05.png]]\n\n\nFügen Sie nun eine Gruppe ein, die mit den Schülerdatensätzen wechselt. Dies kann ein Label (hier NameVorname) sein.\n\n\n[[Datei:Dokumentenverwaltung-06.png]]\n\nDieses Feld kann auch ein (unsichtbares) Datenfeld mit der SchülerID sein, um sicherzustellen, dass ein Gruppenwechsel (in diesem Moment wird das Dokumentenverzeichnis gewechselt) auch bei jedem Schüler stattfindet.\n\n\n[[Datei:Dokumentenverwaltung-07.png]]\n\n\nJetzt kann der Report wie gewohnt mit Doppelklick gedruckt werden, es erscheint dann das Druckmenü mit den zusätzlichen Auswahlmöglichkeiten ''Drucker mit Archivierung'' oder ''nur Archivierung (in Dokumentenverwaltung)''.\n\n\n\n\n\n\n\n----\n\n[[#top|Zurück zum Seitenanfang]]\n\n[[Schild-NRW-Index|Zurück zu Schild-NRW-Index]]\n\n[[Schild-NRW-Tutorials|Zurück zu den Schild-NRW-Tutorials]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-08-17T07:12:59Z",
+  "lastrevid": 3436,
+  "length": 4676
+}

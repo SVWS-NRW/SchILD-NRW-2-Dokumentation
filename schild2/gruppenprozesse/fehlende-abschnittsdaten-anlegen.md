@@ -19,4 +19,4 @@ Diese Funktion ist z.B. nach der Aktivierung aller Neuaufnahmen sinnvoll.
 
 ---
 
-Quelle: [Fehlende Abschnittsdaten anlegen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fehlende+Abschnittsdaten+anlegen&oldid=1541) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fehlende+Abschnittsdaten+anlegen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-346) · [Fehlende Abschnittsdaten anlegen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fehlende+Abschnittsdaten+anlegen&oldid=1541)

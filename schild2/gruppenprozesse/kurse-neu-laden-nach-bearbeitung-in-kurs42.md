@@ -17,4 +17,4 @@ Dieser Menüpunkt aktualisiert die Anzeige. Ein Neustart von Schild-NRW sollte d
 
 ---
 
-Quelle: [Kurse neu laden (nach Bearbeitung in Kurs42) – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurse+neu+laden+%28nach+Bearbeitung+in+Kurs42%29&oldid=1527) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurse+neu+laden+%28nach+Bearbeitung+in+Kurs42%29&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-347) · [Kurse neu laden (nach Bearbeitung in Kurs42) – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurse+neu+laden+%28nach+Bearbeitung+in+Kurs42%29&oldid=1527)

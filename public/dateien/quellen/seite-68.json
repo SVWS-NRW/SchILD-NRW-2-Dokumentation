@@ -1,0 +1,30 @@
+{
+  "pageid": 68,
+  "ns": 0,
+  "title": "ResetFilterErzieherfunktion",
+  "revisions": [
+    {
+      "revid": 89,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T16:42:13Z",
+      "sha1": "4c7013d0e4c49a058523479237bacf15ff957f2f",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    procedure ResetFilterErzieherfunktion;\n    Entfernt den über FilterErzieherfunktion gesetzten Filter\n|-\n|'''Parameter''' || \n    ...\n|-\n|'''Rückgabewert''' ||\n    ...\n|- \n|'''Beispiel''' || \n    ...\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      procedure ResetFilterErzieherfunktion;     Entfernt den über FilterErzie…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T16:42:13Z",
+  "lastrevid": 89,
+  "length": 328,
+  "new": ""
+}

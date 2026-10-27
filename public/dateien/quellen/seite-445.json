@@ -1,0 +1,30 @@
+{
+  "pageid": 445,
+  "ns": 6,
+  "title": "Datei:BK-Abschluss-AnlageA-Teil1.png",
+  "revisions": [
+    {
+      "revid": 1836,
+      "parentid": 0,
+      "user": "BPanzlaff",
+      "timestamp": "2014-03-24T13:44:47Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2017-07-06T15:30:17Z",
+  "lastrevid": 1836,
+  "length": 0,
+  "new": ""
+}

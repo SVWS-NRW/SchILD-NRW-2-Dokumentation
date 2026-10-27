@@ -80,4 +80,4 @@ Falls übergeordnete Daten nicht vorhanden sind, wird der entsprechende Datensat
 
 ---
 
-Quelle: [Vorbemerkungen-Schnittstelle – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Vorbemerkungen-Schnittstelle&oldid=1817) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Vorbemerkungen-Schnittstelle&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-231) · [Vorbemerkungen-Schnittstelle – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Vorbemerkungen-Schnittstelle&oldid=1817)

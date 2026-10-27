@@ -1,0 +1,29 @@
+{
+  "pageid": 235,
+  "ns": 0,
+  "title": "JG-Tabelle-GY",
+  "revisions": [
+    {
+      "revid": 4703,
+      "parentid": 4702,
+      "user": "Pfotenhauer",
+      "timestamp": "2020-12-21T10:10:24Z",
+      "sha1": "dad2848e78e063e20082bb5716efa917261189ff",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "[[Image:JGTabelle GY.png|Center|800px]]\n\n\n\nTypische Jahrgangstabelle für ein Gymnasium mit Halbjahresbetrieb.\nDer Jahrgang 10 wurde noch erhalten, weil dieser ja mit G9 wieder benötigt wird.\n\nAn den Restabschnitten der Sekundarstufe I sieht man, dass der Jahrgang 10 momentan noch weggefallen ist.\n\n----\n\n[[Statistik-Jahrgänge|Zurück zu Statsitik-Jahrgänge]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2021-04-21T12:39:34Z",
+  "lastrevid": 4703,
+  "length": 363
+}

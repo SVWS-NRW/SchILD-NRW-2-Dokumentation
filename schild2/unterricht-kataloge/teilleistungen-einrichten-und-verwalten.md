@@ -59,4 +59,4 @@ Wenn man eine Übersicht sehen möchte, muss man einen passenden Report verwende
 
 ---
 
-Quelle: [Teilleistungen einrichten und verwalten – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Teilleistungen+einrichten+und+verwalten&oldid=5289) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Teilleistungen+einrichten+und+verwalten&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1146) · [Teilleistungen einrichten und verwalten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Teilleistungen+einrichten+und+verwalten&oldid=5289)

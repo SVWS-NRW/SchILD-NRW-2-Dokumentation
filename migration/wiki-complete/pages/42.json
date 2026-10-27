@@ -1,0 +1,30 @@
+{
+  "pageid": 42,
+  "ns": 0,
+  "title": "LehrerKursartStatistikLaden",
+  "revisions": [
+    {
+      "revid": 63,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T15:44:42Z",
+      "sha1": "2743f14deecd8a5b7e137f047edbd7e457dc506c",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    Procedure LehrerKursartStatistikLaden;\n    Durch den Aufruf dieser Prozedur wird die Datenquelle\n    'LehrerUnterrichtsStatistik' mit Daten gefüllt.\n    Diese Datenquelle sollte nur als Datenquelle für eine Kreuztabelle\n    eingesetzt werden, die dann statistische Aussagen über den Unterricht\n    des Lehrers (Anzahl der Schüler mit Kursart xyz...) liefert. Auch diese\n    Datenquelle ist Detaildatenquelle der Datenquelle 'Lehrer'.\n|-\n|'''Parameter''' || \n    ...\n|-\n|'''Rückgabewert''' ||\n    ...\n|- \n|'''Beispiel''' || \n    Procedure DetailBeforeGenerate;\n     begin\n       LehrerUnterrichtLaden;\n       LehrerKursartStatistikLaden;\n     end;\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      Procedure LehrerKursartStatistikLaden;     Durch den Aufruf dieser Prozed…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T15:44:42Z",
+  "lastrevid": 63,
+  "length": 779,
+  "new": ""
+}

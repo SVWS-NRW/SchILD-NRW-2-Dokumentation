@@ -1,0 +1,29 @@
+{
+  "pageid": 907,
+  "ns": 0,
+  "title": "Benutzung des externen Notenmoduls",
+  "revisions": [
+    {
+      "revid": 3456,
+      "parentid": 3455,
+      "user": "BPanzlaff",
+      "timestamp": "2015-08-17T08:45:53Z",
+      "sha1": "d92423e78a2d205e91d2ea989d5505cea6387c40",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Das externe Notenmodul ist ein kleines Programm, das es Lehrern ermöglichen soll, alle Noten und Bemerkungen auch auf dem heimischen Computer eingeben zu können und dann in der Schule einlesen zu lassen. Das externe Notenmodul ist auf allen Windows-Rechnern lauffähig, andere Betriebssysteme werden nicht unterstützt.\n\nFür die Bearbeitung im Notenmodul sind in der Regel drei Dateien notwendig:\n\n# das externe Notenmodul selbst\n# die Lehrerdatei (mit der Endung *.enz oder *.enm)\n# die Datei floskel.txt für vorgefertigte Bemerkungen\n\n\n[[Datei:ExtMod-01.png]]\n\n\nSpeichern Sie alle drei Dateien in einem Ordner, dies erleichtert Ihnen später das Auffinden der Notendatei und der Bemerkungen. Starten Sie das Notenmodul durch einen Doppelklick auf das Programm ExtNotMod.exe. [[Datei:ExtMod-05.png]]\n\nSie können nun über den Dialog ''Datei -> Öffnen'' die eigene Notendatei öffnen. Diese Notendatei wird in der Regel mit Ihrem Lehrerkürzel, dem Schuljahresbeginn und dem Halbjahr bezeichnet, für das die Noten erfasst werden sollen.\n\n\n[[Datei:ExtMod-02.png]]\n\n\nBei kennwortgeschützten Notendateien werden Sie nun aufgefordert, das vom Schild-Administrator vergebene Kennwort einzugeben.\n\n[[Datei:ExtMod-04.png]]\n\n\nHaben Sie einen eigenes Schild-Kennwort, so kann auch dieses abgefragt werden.\n\n[[Datei:ExtMod-03.png]]\n\n\nBitte beachten Sie, dass diese Funktionen optional ist und von der Einstellung des Exportes aus Schild-NRW heraus abhängt.\n \n\n\n\n----\n\n'''Der Hauptbildschirm'''\n\nHier sehen Sie nun eine Liste aller Noten, die zu vergeben sind. Dabei kann zwischen zwei verschiedenen Modellen gewählt werden:\n# Klassenlehrermodell\n# Fachlehrermodell\nDies wird vorher festgelegt, als Folge davon sehen Sie entweder nur die Noten Ihrer Klasse in allen Fächern oder aber ausschließlich die Noten, die Sie als Fachlehrer zu vergeben haben.\n\n\n[[Datei:ExtMod-06.png]]\n\n\n\n\n----\n\n'''Der Karteireiter für Bemerkungen und Fehlstunden'''\n\n\n[[Datei:ExtMod-07.png]]\n\n\nAuf dem zweiten Karteireiter können die Klassenlehrer die Zeugnisbemerkungen und die Bemerkungen zum Arbeits- und Sozialverhalten sowie die Eintragungen zum Außerunterrichtlichen Engagement eingeben.\n\nEin Doppelklick mit der Maus auf die graue Fläche öffnet ein Editorfenster und die Eintragungen können gemacht werden. Bitte übernehmen Sie alle Änderungen mit OK. Die Texte müssen danach in den grauen Flächen zu sehen sein!\n\nWenn die Datei floskeln.txt im gleichen Verzeichnis wie das Notenmodul liegt, dann können in der Schule bestimmte Bemerkungen vereinbart werden, die an dieser Stelle mit #+Nummer aufgerufen werden können.\n\nZ.B. kann die Eingabe #+1+ENTER dann den Satz: „$Vorname$ hat das Klassenbuch ordentlich geführt.“ aufrufen, wobei der Vorname später beim Zeugnisdruck von Schild-NRW eingesetzt wird.\n\n\n[[Datei:ExtMod-08.png]]\n\n\n\nHier hat der Lehrer auch die Möglichkeit, die Fehlstunden einzugeben, wenn diese nach dem Modell der gesamten Fehlstunden eingetragen werden. Bitte informieren Sie sich, welches Modell an Ihrer Schule gewählt wurde.\n\nDie Bereichsnoten können für den Fall eines Hauptschulabschlusses nach Klasse 10 eingetragen werden. Dies findet in aller Regel aber erst in der Konferenz statt.\n\nÜber das '''Druckersymbol''' haben Sie die Möglichkeit, sich Listen auszudrucken, mit deren Hilfe Sie die eingegebenen Noten kontrollieren können.\n\n[[Datei:ExtMod-10.png]]\n\n\n\nBitte beachten Sie, dass auch die Notendateien eine kleine Datenbank sind.\n\nAus diesem Grund brauchen Sie auch keine Eingaben explizit zu speichern. Sie können das Notenmodul durch ''Datei -> Beenden'' einfach schließen.\nBitte achten Sie jedoch darauf, dass die letzte Änderung auch in der Datenbank gespeichert ist. Dies kann man in der Regel durch Drücken der Enter-Taste erreichen.\n\n\n\n----\n\n'''Rücktransport'''\n\nFür den Import nach SchILD-NRW wird lediglich die Notendatei benötigt. Senden Sie also die Datei ''Kürzel_2014_1.enz'' oder ''Kürzel_2014_1.enm'' an Ihren SchILD-Administrator zurück.\nAchten Sie darauf, dass das Notenmodul vor dem Rücktransport geschlossen ist. Dies kann man daran erkennen, dass die *.ldb-Datei, die beim Öffnen entsteht, automatisch von Windows geschlossen und gelöscht wird. [[Datei:ExtMod-09.png]]\n\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Schild-NRW-Tutorials|Zurück zur Schild-NRW-Tutorials]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-08-17T08:55:52Z",
+  "lastrevid": 3456,
+  "length": 4340
+}

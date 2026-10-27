@@ -1,0 +1,30 @@
+{
+  "pageid": 28,
+  "ns": 0,
+  "title": "FilterLaufbahnJahrgangASD",
+  "revisions": [
+    {
+      "revid": 49,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T15:06:14Z",
+      "sha1": "ca668f6662c3322c5a2c27cfd4541bf590e38f33",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    procedure FilterLaufbahnJahrgandASD(const Jahrgangsliste: String);\n    filtert die Laufbahndaten der Schüler für die angegebenen Jahrgänge;\n    Jahrgangsliste = '' setzt die Abfrage zurück\n|-\n|'''Parameter''' || \n    Jahrgangsliste  - kommaseparierte Liste der Jahrgänge\n|-\n|'''Rückgabewert''' ||\n    ...\n|- \n|'''Beispiel''' || \n    procedure ReportBeforePrint;\n    begin\n      SetUebersicht(True);\n      FilterLaufbahnJahrgangASD('EF,Q1,Q2');\n    end;\n\n    procedure ReportAfterPrint;\n    begin\n      SetUebersicht(false);\n      FilterLaufbahnJahrgangASD('');\n    end;\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      procedure FilterLaufbahnJahrgandASD(const Jahrgangsliste: String);     fi…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T15:06:14Z",
+  "lastrevid": 49,
+  "length": 703,
+  "new": ""
+}

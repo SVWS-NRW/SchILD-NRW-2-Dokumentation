@@ -15,4 +15,4 @@ Dabei werden die unter dem Karteireiter [Schulbesuch](/schild2/schueler/schulbes
 
 ---
 
-Quelle: [Grundschuldaten löschen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Grundschuldaten+l%C3%B6schen&oldid=2250) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Grundschuldaten+l%C3%B6schen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-580) · [Grundschuldaten löschen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Grundschuldaten+l%C3%B6schen&oldid=2250)

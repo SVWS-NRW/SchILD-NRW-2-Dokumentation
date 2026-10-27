@@ -1,0 +1,29 @@
+{
+  "pageid": 16,
+  "ns": 0,
+  "title": "CreateNotenHeaderUS",
+  "revisions": [
+    {
+      "revid": 35,
+      "parentid": 34,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T14:30:27Z",
+      "sha1": "7b2b059f3b5b9071c31cea92b5c155dfb3e54748",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    '''procedure CreateNotenHeaderUS(aFaecherListe: String);'''\n    (*US steht für unsortiert, d.h. der erzeugte Header entspricht der im\n    Parameter übergebenen Fächerfolge*). Diese Prozedur ist nur nötig und sinnvoll,\n    wenn eine tabellarische Übersicht über alle gewählten Schüler \n    und deren Leistungsdaten gewünscht wird, da ein Aufruf dieser Prozedur dazu führt,\n    dass die Leistungsdaten aller in der Auswahl befindlichen Schüler gelesen werden,\n    damit eine interne Tabelle mit diesen Fächern angelegt werden kann.\n    In allen anderen Fällen ist dieser Aufruf unnötig! Nach der Darstellung der Tabelle muss\n    unbedingt die Prozedur 'ResetFaechervorbelegung' aufgerufen werden!\n|-\n|'''Parameter''' || \n    aFaecherListe      - Kommaseparierte Liste der Fachkürzel, für die\n                         eine Übersicht erzeugt werden soll.\n|-\n|'''Rückgabewert''' ||\n    ...\n|- \n|'''Beispiel''' || \n    CreateNotenHeaderUS('D,E,M,F,L');\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T14:30:27Z",
+  "lastrevid": 35,
+  "length": 1092
+}

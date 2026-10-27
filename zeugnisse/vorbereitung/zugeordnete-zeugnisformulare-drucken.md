@@ -17,4 +17,4 @@ Abfragen, die vom verwendeten Report gemacht werden, tauchen nun an dieser Stell
 
 ---
 
-Quelle: [Zugeordnete Zeugnisformulare drucken – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zugeordnete+Zeugnisformulare+drucken&oldid=2108) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zugeordnete+Zeugnisformulare+drucken&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-513) · [Zugeordnete Zeugnisformulare drucken – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zugeordnete+Zeugnisformulare+drucken&oldid=2108)

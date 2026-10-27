@@ -38,4 +38,4 @@ NACHNAME_VORNAME_KLASSE.jpg gespeichert.
 
 ---
 
-Quelle: [Fotos – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fotos&oldid=1171) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fotos&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-270) · [Fotos – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fotos&oldid=1171)

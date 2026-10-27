@@ -1,0 +1,29 @@
+{
+  "pageid": 195,
+  "ns": 0,
+  "title": "Allgemeine Adressen",
+  "revisions": [
+    {
+      "revid": 547,
+      "parentid": 546,
+      "user": "FKrebbing",
+      "timestamp": "2013-12-10T23:48:56Z",
+      "sha1": "e28b0c6b330d7830fc4317e40daa22b7b1a16682",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "In den Berufskollegs ist es erforderlich, Informationen zu den von den Schülern besuchten Betrieben zu erhalten. Auch der SI-Bereich kann diesen Katalog nutzen, um Praktikumsstellen sowie Ausbildungsbetriebe zu verwalten und den Schülern später zuzuordnen. Für die vollständigen Eintragungen in den einzelnen Feldern der Maske Allgemeine Adressen bearbeiten ist eine vorherige Erfassung der [[Adress-Arten]] in dem entsprechenden Katalog erforderlich.\n[[Datei:Allgemeine_Adressen_bearbeiten.jpg|rechts]]\n\n\nDie Registerkarte enthält die Karteireiter Übersicht und Details (siehe rechts). Letztere ermöglicht die Erfassung eines neuen Datensatzes während die Übersicht alle bisher eingegebenen Adressen der Betriebe etc. auflistet. Zu jeder Adresse können beliebig viele Ansprechpartner (mit Name, Abteilung, Telefon, E-Mail) hinzugefügt werden, diese können dann auch den Schülern als Betreuer zugewiesen werden.\n\n\n=== Hinweise: ===\n* Durch die Wahl einer entsprechenden Option im Sortierfeld und anschließender Bestätigung werden in der Übersicht die eingegebenen Adressen sortiert aufgelistet. \n* Werden im Bereich Filter  Eingaben vorgenommen oder Optionsfelder aktiviert (anschließend bestätigen), erfolgt in der Übersicht, je nach Filter, die entsprechendedie Auflistung der Adressen. \n* Es besteht die Möglichkeit, aus dem Katalog heraus eine E-Mail an alle gefilterten Adressen oder nur an die jeweils ausgewählte Adresse zu senden (in Abhängigkeit davon, ob der Karteireiter Übersicht oder Details ausgewählt ist). \n* Auf der Registerkarte Details werden über die Schaltfläche Schüler zeigen nur die entsprechenden Schüler mit dem Status Aktiv angezeigt. \n* Eintragungen im Feld Branche erlauben eine gezielte Filterung in umfangreichen Adresskatalogen. Bewährt hat sich hier eine kommaseparierte Liste der Klassenbezeichner. [[Datei:Branche.jpg]]\n\nZurück zur Übersicht der [[Kataloge]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-12-10T23:48:56Z",
+  "lastrevid": 547,
+  "length": 1925
+}

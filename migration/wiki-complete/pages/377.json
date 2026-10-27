@@ -1,0 +1,29 @@
+{
+  "pageid": 377,
+  "ns": 0,
+  "title": "Personengruppen",
+  "revisions": [
+    {
+      "revid": 1629,
+      "parentid": 1628,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-03-07T14:28:33Z",
+      "sha1": "9a47a733ebc301dfbf4800ad3e74d1283d6fec25",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "[[Image:Personengruppen.jpg|Center|700px]]\n\n\nPersonengruppen im Sinne von SchILD können aus Lehrern, Schülern, Erziehungsberechtigten oder außerschulischen Kontaktpersonen bestehen.\n \nBeispiele für Personengruppen sind Schulkonferenz oder Förderverein.\nIm Fenster „Personengruppen bearbeiten“ gibt es zwei Karteireiter: Übersicht und Personen.\nAuf der Karte Übersicht wird der „Name der Gruppe“ definiert und eingetragen (z.B. Schulkonferenz). Unter „Zusatzinfo“ kann eine kurze Beschreibung eingegeben werden. \n\nMitglieder können auf zwei verschiedene Vorgehensweisen erfasst werden: \nEntweder durch automatische Datenübernahme, wenn nach Rechtsklick auf den \n* Lehrernamen im Fenster „Lehrkräfte bearbeiten“ die Option „Zu allgemeiner Personengruppe hinzufügen“ gewählt wird, \n*Schülernamen im Namenskasten unter Aktuelle Schülerauswahl die Option „Zu allgemeiner Personengruppe hinzufügen“ aktiviert wird, \n*Elternnamen im Eingabebereich (nicht bei Funktion) auf der Karte Erz.-Berechtigte „Zu allgemeiner Personengruppe hinzufügen“ mit Linksklick bestätigt wird. \n\nJeweils ist im Fensterchen „Personengruppe auswählen“ eine schon zuvor definierte Personengruppe mit dem Listenknopf auszuwählen und mit OK zu bestätigen, wonach im Fenster „Personengruppen bearbeiten“ auf der Karte Personen die „Mitglieder der Gruppe …“ mit ihren Daten angezeigt werden, wenn zuvor auf der Karte Übersicht die gewünschte Gruppe angeklickt wurde. \n\nEs können auch mehrere Namen markiert werden (den ersten anklicken, dann bei gedrückt gehaltener STRG-Taste die weiteren).\nMit dem Schalter „Datenabgleich“ (im Fenster „Personengruppen bearbeiten“/ Übersicht) werden Kontaktdaten (Adresse, E-Mail) auf der Grundlage der Hauptfenster-Daten aktualisiert. Das ist nur bei der automatischen Datenübernahme möglich, nicht aber bei manueller Eingabe der Mitgliederdaten.\n \nOder durch manuelle Eingabe auf der Karte „Personen“ im Fenster „Personengruppen bearbeiten“ im rechten Eingabeteil „Details“. Mit + über dem Anzeigebereich werden weitere Mitglieder eingegeben. Auch die „Art“ ist mit dem Listenknopf zu wählen. Bei dieser Form ist aber kein Datenabgleich möglich. Nur manuell erfasst werden können Personen, die nicht zu Lehrkräften, Schülern oder Erziehungsberechtigten gehören, also von Personen, deren Daten in der Schild-Datenbank normalerweise nicht vorhanden sind (\"Sonstige\"). \n \nZum Datenexport werden nach Klick auf „Export“ im dann erscheinenden Fenster „Exportdatei auswählen“ Zielpfad und Dateiname der zu erzeugenden txt-Datei angegeben. Mit „Öffnen“ wird die Exportdatei erstellt. \nMit einem Häkchen kann man „Nach dem Export Word-Seriendruck starten“.\n \nEs können Sammel-E-Mails an die Mitglieder solcher Personengruppen gesendet und deren Daten exportiert werden (z.B. in Excel). \nZum Löschen von Mitgliedern wird im Fenster „Personengruppen bearbeiten“ zuerst auf der Karte Übersicht der „Name der Gruppe“ gewählt, auf der Karte Personen wird dann die markierte mit – („Datensatz löschen“) und nach Rückfrage-OK aus der Liste entfernt.\n\n\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Schulverwaltung|zurück zu Schulverwaltung]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-03-07T14:28:33Z",
+  "lastrevid": 1629,
+  "length": 3260
+}

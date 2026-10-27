@@ -40,4 +40,4 @@ GeRNiveauAusFachKrz('E5');
 
 ---
 
-Quelle: [GeRNiveauAusFachKrz – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=GeRNiveauAusFachKrz&oldid=2720) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=GeRNiveauAusFachKrz&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-709) · [GeRNiveauAusFachKrz – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=GeRNiveauAusFachKrz&oldid=2720)

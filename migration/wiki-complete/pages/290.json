@@ -1,0 +1,29 @@
+{
+  "pageid": 290,
+  "ns": 0,
+  "title": "Noten, Zeugnisvorbereitung",
+  "revisions": [
+    {
+      "revid": 1292,
+      "parentid": 1280,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-02-11T21:10:09Z",
+      "sha1": "d3070ae50c0b097d39a506339fa027879f7498ea",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "[[Image:GP-Noten.jpg|Center]]\n\nUnter dem Karteireiter \"Noten, Zeugnisvorbereitung\" verbergen sich folgende Gruppenprozesse.\n\nBitte klicken Sie die Artikel an, um Informationen zu den dahinter liegenden Sammelaktionen zu bekommen.\n\n\n*[[Noten, Mahnungen und Fehlstunden eingeben]]\n*[[Lernbereichsnoten eingeben]]\n*[[Fächer ohne Noten suchen]]\n*[[Fächer ohne Lehrkraft suchen]]\n*[[Mahnungen automatisch setzen]]\n*[[Mahnungen drucken]]\n*[[Fehlstunden-Summen manuell eingeben]]\n*[[Fehlstunden-Summen automatisch berechnen]]\n*[[Konferenz-/Zeugnis-Datum setzen]]\n*[[Zeugnisbemerkungen eintragen]]\n*[[Platzhalter in Memo-Feldern ersetzen]]\n*[[Zuweisungen durchführen]]\n*[[Abgeschlossene Fächer holen]]\n*[[Abgeschlossene Fächer löschen]]\n*[[Zugeordnete Zeugnisformulare drucken]]\n*[[Zeugnisse drucken und Schüler ausschulen]]\n*[[Noten des aktuellen Abschnittes löschen]]\n\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Gruppenprozesse|Zurück zu Gruppenprozesse]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-04-10T15:26:53Z",
+  "lastrevid": 1292,
+  "length": 952
+}

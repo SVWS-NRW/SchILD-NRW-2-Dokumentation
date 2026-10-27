@@ -25,4 +25,4 @@ Wählt man als Bearbeitungsmodus "Löschen", dann bewirkt das Anklicken der Spal
 
 ---
 
-Quelle: [Fächer zuweisen (tabellarisch) – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%A4cher+zuweisen+%28tabellarisch%29&oldid=3619) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%A4cher+zuweisen+%28tabellarisch%29&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-457) · [Fächer zuweisen (tabellarisch) – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%A4cher+zuweisen+%28tabellarisch%29&oldid=3619)

@@ -1,0 +1,30 @@
+{
+  "pageid": 24,
+  "ns": 0,
+  "title": "FilterAdressArt",
+  "revisions": [
+    {
+      "revid": 45,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T14:45:46Z",
+      "sha1": "fe90bda193c1c3e56622b9449699735c12c9dd8d",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    procedure FilterAdressArt(aAdressArt: String);\n|-\n|'''Parameter''' || \n    aAdressArt         - Adressart, auf die gefiltert werden soll\n|-\n|'''Rückgabewert''' ||\n    ...\n|- \n|'''Beispiel''' || \n    Siehe „SelectAdressArt“\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      procedure FilterAdressArt(aAdressArt: String); |- |'''Parameter''' ||    …“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T14:45:46Z",
+  "lastrevid": 45,
+  "length": 355,
+  "new": ""
+}

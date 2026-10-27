@@ -17,4 +17,4 @@ Wenn Sie den Klassen die Textzeugnisse zugeordnet haben, können Sie die Zeugnis
 
 ---
 
-Quelle: [Textzeugnisse drucken – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Textzeugnisse+drucken&oldid=2482) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Textzeugnisse+drucken&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-640) · [Textzeugnisse drucken – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Textzeugnisse+drucken&oldid=2482)

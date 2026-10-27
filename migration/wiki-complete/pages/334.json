@@ -1,0 +1,30 @@
+{
+  "pageid": 334,
+  "ns": 6,
+  "title": "Datei:Dateimaske.jpg",
+  "revisions": [
+    {
+      "revid": 1483,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-03-04T10:39:19Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-03-04T10:43:21Z",
+  "lastrevid": 1483,
+  "length": 0,
+  "new": ""
+}

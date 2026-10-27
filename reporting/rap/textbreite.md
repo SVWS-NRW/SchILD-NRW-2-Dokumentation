@@ -42,4 +42,4 @@ lblStern.Left := lblFach.Left + wt;
 
 ---
 
-Quelle: [Textbreite – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Textbreite&oldid=3668) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Textbreite&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-958) · [Textbreite – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Textbreite&oldid=3668)

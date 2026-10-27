@@ -1,0 +1,29 @@
+{
+  "pageid": 578,
+  "ns": 0,
+  "title": "Schüler-Datensätze löschen",
+  "revisions": [
+    {
+      "revid": 2247,
+      "parentid": 2246,
+      "user": "Mhoffmann",
+      "timestamp": "2014-05-24T07:58:19Z",
+      "sha1": "50836e3b34794e29dd936b75adaee0366bdaa759",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Dieser Gruppenprozess wird erst freigeschaltet, wenn Schüler mit Löschmarkierung über den Filter ausgewählt wurden und im Datencontainer aufgelistet werden.\n\nEs öffnet sich das Fenster \"Schüler-Datensätze löschen\":\n\n[[Datei:GP-SchuelerDatensaetzeloeschen.jpg|400px]]\n\nMan hat hier die Möglichkeit, das nach dem Löschen automatisch angelegte Löschprotokoll auszuschalten. Wird ein Protokoll mit den gelöschten Schülerdaten angelegt, können ggf. aus dieser Datei die Daten wieder eingelesen werden.\n\nKlickt man auf die Schaltfläche \"Löschaktion durchführen\", erfolgt eine erneute Sicherheitsabfrage. Erst wenn diese mit 'Ja' bestätigt wird, erfolgt die endgültige Löschung der ausgewählten Schülergruppe.\n\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Allgemeines|Zurück zu Allgemeines]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-05-24T07:58:47Z",
+  "lastrevid": 2247,
+  "length": 799
+}

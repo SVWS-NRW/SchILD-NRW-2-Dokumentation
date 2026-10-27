@@ -1,0 +1,29 @@
+{
+  "pageid": 889,
+  "ns": 10,
+  "title": "Vorlage:TippRechts",
+  "revisions": [
+    {
+      "revid": 5541,
+      "parentid": 5538,
+      "user": "JRaffenberg",
+      "timestamp": "2022-04-03T16:18:44Z",
+      "sha1": "9c32b103973d9cddde0c03cd1b30c541a8f93be6",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "<div style=\"margin:1em 0px 1em 10px; padding:10px; border:1px solid #c77d10; color:#c77d10; background-color:#f9d69e; -webkit-border-radius: 7px;-moz-border-radius: 7px;border-radius: 7px;-moz-box-shadow: 4px 4px 4px #dfe1d8;-webkit-box-shadow: 4px 4px 4px #dfe1d8;box-shadow: 4px 4px 4px #dfe1d8; float:right; width:200px;\">\n[[File:Tipp.png|links]]\n<div style=\"margin:5px 5px 5px 40px; padding:0; font-size:130%; font-weight:bold;\">Tipp</div>\n<div style=\"color:#000; margin:5px 5px 5px 40px; font-size:90%; overflow: auto;\">\n{{{1}}}\n</div>\n</div>\n<noinclude>\n\n;Syntax\n<pre>{{Tipp|<Text>}}</pre>\n[[Kategorie:Vorlage:Kastenbausteine]]\n</noinclude>"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-04-03T16:18:44Z",
+  "lastrevid": 5541,
+  "length": 646
+}

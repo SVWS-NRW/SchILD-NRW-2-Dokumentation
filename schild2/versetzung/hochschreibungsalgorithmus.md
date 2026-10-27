@@ -77,4 +77,4 @@ Im akt. Halbjahr ist als Folgeklasse eine andere Klasse als die aktuelle Klasse 
 
 ---
 
-Quelle: [Hochschreibungsalgorithmus – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Hochschreibungsalgorithmus&oldid=2414) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Hochschreibungsalgorithmus&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-622) · [Hochschreibungsalgorithmus – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Hochschreibungsalgorithmus&oldid=2414)

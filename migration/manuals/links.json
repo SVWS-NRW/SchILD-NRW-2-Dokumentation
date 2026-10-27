@@ -1,0 +1,278 @@
+{
+  "https://www.svws.nrw.de/system/files/media/document/file/handbuch-schild-lupo-kurs42-22.auflage.pdf": [
+    {
+      "source": "user",
+      "label": "Handbuch SchILD–LuPO–Kurs42, 22. Auflage"
+    },
+    {
+      "source": "https://www.svws.nrw.de/schild-nrw-2/kurs42",
+      "label": "Handbuch Kurs42-Schild-Lupo PDF"
+    }
+  ],
+  "https://www.svws.nrw.de/system/files/media/document/file/notenmodul_grundschule_portable_v3.0.2.2.zip": [
+    {
+      "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+      "label": "Notenmodul für Grundschulen ZIP v3.0.2.2"
+    }
+  ],
+  "https://www.svws.nrw.de/system/files/media/document/file/notenmodul_grundschule_anleitung.pdf": [
+    {
+      "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+      "label": "Anleitung Notenmodul für Grundschulen PDF"
+    }
+  ],
+  "https://www.svws.nrw.de/system/files/media/document/file/enm-notenmanager_setup_exe_v1.4.9.2.zip": [
+    {
+      "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+      "label": "ENM-Notenmanager Setup EXE v1.4.9.2 (gezippt)"
+    }
+  ],
+  "https://www.svws.nrw.de/system/files/media/document/file/enm-notenmanager_portable_v1.4.9.2.zip": [
+    {
+      "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+      "label": "ENM-Notenmanager Portable ZIP v1.9.4.2"
+    }
+  ],
+  "https://www.svws.nrw.de/system/files/media/document/file/enm_bedienungsanleitung_2.pdf": [
+    {
+      "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+      "label": "Anleitung ENM-Notenmanager PDF"
+    }
+  ],
+  "https://www.svws.nrw.de/system/files/media/document/file/externes_notenmodul_portable_v3.0.2.2_veraltet.zip": [
+    {
+      "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+      "label": "Externes Notenmodul Portable ZIP v3.0.2.2 (veraltet)"
+    }
+  ],
+  "https://www.svws.nrw.de/system/files/media/document/file/externes_notenmodul_repots_veraltet.zip": [
+    {
+      "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+      "label": "Externes Notenmodul Reports (veraltet)"
+    }
+  ],
+  "https://www.svws.nrw.de/system/files/media/document/file/km2-setup-exe_1_9_6_3_1.zip": [
+    {
+      "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+      "label": "KM2 Setup EXE v1.9.6.3 (gezippt)"
+    }
+  ],
+  "https://www.svws.nrw.de/system/files/media/document/file/km2-portable_1_9_6_3.zip": [
+    {
+      "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+      "label": "KM2 Portable v1.9.6.3 ZIP"
+    }
+  ],
+  "https://www.svws.nrw.de/system/files/media/document/file/km2_versionsgeschichte.pdf": [
+    {
+      "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+      "label": "Versionsgeschichte KM2 PDF"
+    }
+  ],
+  "https://wiki.svws.nrw.de/mediawiki/index.php?title=Konferenzmodul_KM2.exe": [
+    {
+      "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+      "label": "Anleitung KM2 im SchILD-NRW 2 - Wiki"
+    }
+  ],
+  "https://www.svws.nrw.de/system/files/media/document/file/km2-setup-exe_1_9_6_3_0.zip": [
+    {
+      "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+      "label": "PM2 Setup EXE v1.8.3 (gezippt)"
+    }
+  ],
+  "https://www.svws.nrw.de/system/files/media/document/file/pm2_portable_1_8_3.zip": [
+    {
+      "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+      "label": "PM2 Portable v1.8.3 ZIP"
+    }
+  ],
+  "https://www.svws.nrw.de/system/files/media/document/file/pm2_bedienungsanleitung_1.pdf": [
+    {
+      "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+      "label": "Anleitung PM2 PDF"
+    }
+  ],
+  "https://www.svws.nrw.de/system/files/media/document/file/pm2_versionsgeschichte.pdf": [
+    {
+      "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+      "label": "Versionsgeschichte PM2 PDF"
+    }
+  ],
+  "https://www.svws.nrw.de/system/files/media/document/file/s1plan_setup_exe.zip": [
+    {
+      "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+      "label": "S1Plan Setup EXE v1.4.4.1 (gezippt)"
+    }
+  ],
+  "https://www.svws.nrw.de/system/files/media/document/file/s1plan_portable.zip": [
+    {
+      "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+      "label": "S1Plan Portable ZIP v1.4.4.1"
+    }
+  ],
+  "https://www.svws.nrw.de/system/files/media/document/file/s1plan_anleitung.pdf": [
+    {
+      "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+      "label": "Anleitung S1Plan PDF"
+    }
+  ],
+  "https://www.svws.nrw.de/system/files/media/document/file/ma2lbv_setup_exe_v3.2.3.2.zip": [
+    {
+      "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+      "label": "MA2LBV Setup EXE v3.2.3.2 (gezippt)"
+    }
+  ],
+  "https://www.svws.nrw.de/system/files/media/document/file/ma2lbv_portable_v3.2.3.2.zip": [
+    {
+      "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+      "label": "MA2LBV Portable ZIP v3.2.3.2"
+    }
+  ],
+  "https://www.svws.nrw.de/system/files/media/document/file/ma2lbv_anleitung.pdf": [
+    {
+      "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+      "label": "Anleitung MA2LBV PDF"
+    }
+  ],
+  "https://www.svws.nrw.de/system/files/media/document/file/ma22lbv_verfahrensverzeichnis.doc": [
+    {
+      "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+      "label": "Verfahrensverzeichnis MA2LBV DOC"
+    }
+  ],
+  "https://www.svws.nrw.de/system/files/media/document/file/ma2pdf_versionsgeschichte.pdf": [
+    {
+      "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+      "label": "Versionsgeschichte MA2LBV PDF"
+    }
+  ],
+  "https://www.svws.nrw.de/system/files/media/document/file/migrationstool.zip": [
+    {
+      "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+      "label": "Migrationstool"
+    }
+  ],
+  "https://www.svws.nrw.de/system/files/media/document/file/anonymisierungstool.zip": [
+    {
+      "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+      "label": "Anonymisierungstool"
+    }
+  ],
+  "https://www.svws.nrw.de/system/files/media/document/file/schuljahr_erhoehen.zip": [
+    {
+      "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+      "label": "Schuljahr Erhöhen"
+    }
+  ],
+  "https://www.svws.nrw.de/system/files/media/document/file/import_aus_textdatei.zip": [
+    {
+      "source": "https://www.svws.nrw.de/schild-nrw-2/tools-module",
+      "label": "Import aus Textdatei"
+    }
+  ],
+  "https://www.svws.nrw.de/system/files/media/document/file/kurssetup_3_33_30_528.zip": [
+    {
+      "source": "https://www.svws.nrw.de/schild-nrw-2/kurs42",
+      "label": "Kurs42 Setup v3.33.30.528 EXE"
+    }
+  ],
+  "https://www.svws.nrw.de/system/files/media/document/file/kursupdate_3_33_30_528.zip": [
+    {
+      "source": "https://www.svws.nrw.de/schild-nrw-2/kurs42",
+      "label": "Kurs42 Portable v3.33.30.528 ZIP"
+    }
+  ],
+  "https://www.svws.nrw.de/system/files/media/document/file/kursplan_2024_03_08.zip": [
+    {
+      "source": "https://www.svws.nrw.de/schild-nrw-2/kurs42",
+      "label": "Kurs42 Stundenplan Plugin ZIP"
+    }
+  ],
+  "https://www.svws.nrw.de/system/files/media/document/file/setup_lupo_2_1_7_2_1.zip": [
+    {
+      "source": "https://www.svws.nrw.de/schild-nrw-2/lupo",
+      "label": "LuPO Setup EXE v2.1.7.2"
+    }
+  ],
+  "https://www.svws.nrw.de/system/files/media/document/file/lupo_nrw_2_1_8_1.zip": [
+    {
+      "source": "https://www.svws.nrw.de/schild-nrw-2/lupo",
+      "label": "LuPO Portable/Update ZIP v2.1.8.1"
+    }
+  ],
+  "https://www.svws.nrw.de/mediawiki/images/0/00/Udlfile_open32_reg.zip": [
+    {
+      "source": "UDL-Dateien unter 64-BIT",
+      "label": "Udlfile_open32_reg.zip"
+    }
+  ],
+  "https://github.com/msoos/cryptominisat/releases/download/5.6.8/cryptominisat5-win-amd64-nogauss.exe": [
+    {
+      "source": "Kurs42 To CNF:Hauptseite",
+      "label": "https://github.com/msoos/cryptominisat/releases/download/5.6.8/cryptominisat5-win-amd64-nogauss.exe"
+    }
+  ],
+  "https://schulverwaltungsprogramme.msb.nrw.de/download/asdupd.zip": [
+    {
+      "source": "Statistik mit ASDPC-Technik",
+      "label": "asdupd.zip"
+    }
+  ],
+  "https://schulverwaltungsprogramme.msb.nrw.de/download/ASDPC_Updatehinweis.pdf": [
+    {
+      "source": "Statistik mit ASDPC-Technik",
+      "label": "Anleitung"
+    }
+  ],
+  "https://schulverwaltungsprogramme.msb.nrw.de/download/Anleitung-ASDPC_in_einer_Netzwerkumgebung_nutzen.pdf": [
+    {
+      "source": "Statistik mit ASDPC-Technik",
+      "label": "ASDPC in einer Netzwerkumgebung nutzen"
+    },
+    {
+      "source": "Statistik mit ASDPC-Aufbau",
+      "label": "ASDPC in einer Netzwerkumgebung nutzen"
+    }
+  ],
+  "https://schulverwaltungsprogramme.msb.nrw.de/schulen/ASDPC32%20To%20Do-Liste.pdf": [
+    {
+      "source": "Statistik mit ASDPC Vorbereitung",
+      "label": "ToDo-Liste"
+    }
+  ],
+  "https://www.svws.nrw.de/uploads/media/schildinfo.rtf": [
+    {
+      "source": "Versionsgeschichte Schild-NRW",
+      "label": "https://www.svws.nrw.de/uploads/media/schildinfo.rtf"
+    },
+    {
+      "source": "Versionsgeschichte Schild-NRW",
+      "label": "https://www.svws.nrw.de/uploads/media/schildinfo.rtf"
+    }
+  ],
+  "http://www.svws.nrw.de/uploads/media/KA20_Katalog_der_Konfessionen.pdf": [
+    {
+      "source": "Konfessionen",
+      "label": "hier"
+    }
+  ],
+  "http://www.svws.nrw.de/fileadmin/user_upload/Kurzanleitungen/KA11_Installation_Schild-NRW.pdf": [
+    {
+      "source": "Statistik / amtliche Schuldaten",
+      "label": "http://www.svws.nrw.de/fileadmin/user_upload/Kurzanleitungen/KA11_Installation_Schild-NRW.pdf"
+    }
+  ],
+  "http://www.svws.nrw.de/uploads/media/Handbuch_Teil_1.pdf": [
+    {
+      "source": "Neuaufnahmen in Schild-NRW 001",
+      "label": "[1]"
+    }
+  ],
+  "http://www.svws.nrw.de/uploads/media/KA09_Eintragung_der_Sprachniveaus.pdf": [
+    {
+      "source": "Eingabe der GeR-Niveaus",
+      "label": "[1]"
+    }
+  ]
+}

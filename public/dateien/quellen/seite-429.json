@@ -1,0 +1,30 @@
+{
+  "pageid": 429,
+  "ns": 6,
+  "title": "Datei:Supportkonzept des MSW.pdf",
+  "revisions": [
+    {
+      "revid": 1764,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-03-12T08:48:35Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-03-12T08:50:02Z",
+  "lastrevid": 1764,
+  "length": 0,
+  "new": ""
+}

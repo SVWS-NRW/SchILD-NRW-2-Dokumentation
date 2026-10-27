@@ -1,0 +1,30 @@
+{
+  "pageid": 1074,
+  "ns": 6,
+  "title": "Datei:S1P-039-Optimierungsergebnis.JPG",
+  "revisions": [
+    {
+      "revid": 4003,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2016-11-25T11:04:11Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2016-12-01T15:04:25Z",
+  "lastrevid": 4003,
+  "length": 0,
+  "new": ""
+}

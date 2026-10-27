@@ -1,0 +1,29 @@
+{
+  "pageid": 269,
+  "ns": 0,
+  "title": "UVD-Datei importieren",
+  "revisions": [
+    {
+      "revid": 1151,
+      "parentid": 1150,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-01-29T14:25:16Z",
+      "sha1": "9276ae8f14e1bd250e8f5e7036eda5919d4a14b7",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Bei einem Einsatz eines Stundenplanprogramms (WinPlan, Untis...) können die klassenrelevanten Daten der Unterrichtsverteilung in eine Datei (UVD.TXT) exportiert werden.\n\nÜber diesen Menüpunkt werden diese Daten importiert, um bei den Schülern im akt. Halbjahr die \"Grund-UVD\" zu übernehmen. Individuelle Fach- und Kurszuweisungen müssen jedoch gesondert durchgeführt werden.\n\n\nEs erfolgt die Eingabe des Pfades für die UVD.TXT.\n\n[[Image:UVDtxtImport.jpg|Center|400px]]\n\n\nEine Aktivierung der Option In Sekundarstufe II Kurse anlegen ist nicht sinnvoll, da hier durch den Import aus den Programmen LuPO bzw. Kurs42 die Kurse übernommen werden. \n\n\n\n----\n\n\n[[#top|Zum Seitenanfang]]\n\n[[Datenaustausch|Zurück zum Datenaustausch]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-01-29T14:25:16Z",
+  "lastrevid": 1151,
+  "length": 735
+}

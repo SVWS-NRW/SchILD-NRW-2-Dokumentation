@@ -57,4 +57,4 @@ wiki_revision: 136
 
 ---
 
-Quelle: [ZeugnisParameter – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ZeugnisParameter&oldid=136) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=ZeugnisParameter&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-111) · [ZeugnisParameter – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ZeugnisParameter&oldid=136)

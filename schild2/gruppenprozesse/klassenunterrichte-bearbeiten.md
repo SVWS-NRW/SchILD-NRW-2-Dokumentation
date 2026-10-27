@@ -17,4 +17,4 @@ Dieser Gruppenprozess dient der Bearbeitung der nicht-kursgebundenen Fächer der
 
 ---
 
-Quelle: [Klassenunterrichte bearbeiten – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Klassenunterrichte+bearbeiten&oldid=3613) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Klassenunterrichte+bearbeiten&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-465) · [Klassenunterrichte bearbeiten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Klassenunterrichte+bearbeiten&oldid=3613)

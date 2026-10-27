@@ -1,0 +1,30 @@
+{
+  "pageid": 34,
+  "ns": 0,
+  "title": "GruppenDesBenutzers",
+  "revisions": [
+    {
+      "revid": 55,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T15:12:02Z",
+      "sha1": "1faf9bcd6abe47158b0a1509ed6ec3b978382e1e",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    function GruppenDesBenutzers(const aLoginName: String): String;\n    Ermittelt die Benutzergruppen, denen ein Benutzer angehört\n|-\n|'''Parameter''' || \n    aLoginName : Loginname des Benutzers\n|-\n|'''Rückgabewert''' ||\n    Gruppen, denen der Benutzer angehört\n|- \n|'''Beispiel''' || \n    procedure DetailBeforePrint;\n    var\n      lGruppen : String;\n    begin\n      lGruppen:=GruppenDesBenutzers(SchildUmgebung['Login_Name']);\n      Detail.Visible:=pos('LEHRER',lGruppen) > 0\n    end;\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      function GruppenDesBenutzers(const aLoginName: String): String;     Ermit…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T15:12:02Z",
+  "lastrevid": 55,
+  "length": 614,
+  "new": ""
+}

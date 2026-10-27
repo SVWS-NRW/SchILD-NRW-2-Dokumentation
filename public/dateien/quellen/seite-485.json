@@ -1,0 +1,29 @@
+{
+  "pageid": 485,
+  "ns": 0,
+  "title": "Mahnungen automatisch setzen",
+  "revisions": [
+    {
+      "revid": 2033,
+      "parentid": 1994,
+      "user": "UMertsch",
+      "timestamp": "2014-04-02T07:50:28Z",
+      "sha1": "f9115bd0c64713046ee0b070999fc2b6ca5e4b71",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Dieser Gruppenprozess ermöglicht das automatische Setzen der Mahnungen bei der ausgewählten Schülermenge. Er wird nur im zweiten Halbjahr angeboten, da er sich auf die Noten des Halbjahreszeugnisses bezieht.\n\nWird der Gruppenprozess angestoßen, kommt nur eine Abfrage, ob die Mahnungen automatisch aufgrund mangelhafter Noten im letzten Halbjahreszeugnis gesetzt werden sollen.\nNach der Bestätigung werden die Leistungsdaten durchsucht und beim betreffenden Schüler wird bei den Fächern mit mangelhaften (oder ungenügenden) Leistungen ein Häkchen in der Spalte \"M\" (für Mahnung) gesetzt. Das Häkchen wird grün unterlegt, da die Mahnung den Erziehungsberechtigten durch das Zeugnis bereits mitgeteilt wurde.\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Noten, Zeugnisvorbereitung|Zurück zu Noten, Zeugnisvorbereitung]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-04-02T07:50:28Z",
+  "lastrevid": 2033,
+  "length": 822
+}

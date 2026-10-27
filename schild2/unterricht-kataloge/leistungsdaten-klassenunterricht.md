@@ -49,4 +49,4 @@ Die Daten sind in drei weiteren Reitern gesammelt:
 
 ---
 
-Quelle: [Leistungsdaten Klassenunterricht – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Leistungsdaten+Klassenunterricht&oldid=3145) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Leistungsdaten+Klassenunterricht&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-749) · [Leistungsdaten Klassenunterricht – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Leistungsdaten+Klassenunterricht&oldid=3145)

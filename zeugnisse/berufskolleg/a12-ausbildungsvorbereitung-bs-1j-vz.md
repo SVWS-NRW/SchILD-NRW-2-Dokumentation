@@ -11,4 +11,4 @@ wiki_revision: 4756
 
 ---
 
-Quelle: [A12 Ausbildungsvorbereitung (BS 1j; VZ) – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=A12+Ausbildungsvorbereitung+%28BS+1j%3B+VZ%29&oldid=4756) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=A12+Ausbildungsvorbereitung+%28BS+1j%3B+VZ%29&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1205) · [A12 Ausbildungsvorbereitung (BS 1j; VZ) – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=A12+Ausbildungsvorbereitung+%28BS+1j%3B+VZ%29&oldid=4756)

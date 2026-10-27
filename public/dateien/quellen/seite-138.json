@@ -1,0 +1,29 @@
+{
+  "pageid": 138,
+  "ns": 0,
+  "title": "Karteikasten",
+  "revisions": [
+    {
+      "revid": 400,
+      "parentid": 285,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-20T08:23:30Z",
+      "sha1": "26a12fb8b0a660791437a20dcfd8818fdf1e64e9",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "[[Image:Karteikaesten_01.jpg|rechts]]Durch die Auswahl der Haken können Sie bestimmen, welche Statusarten Sie im [[Container]] sehen wollen.\n\n\nAchten Sie bitte darauf, dass die Schüler aller gewählten Karteikästen dann in der eingestellten Sortierung dargestellt werden!\n\n\nDabei werden die 7 verschiedenen Statusarten unterschieden:\n\n 1. Status '''Neuaufnahme'''\n Hier geben Sie die Schüler ein, die sich während des laufenden Schuljahres bei Ihnen anmelden.\n Neuaufnahmen haben noch keine Lernabschnitte und können so lange im Karteikasten \n Neuaufnahme verweilen, bis auf das folgende Schuljahr umgestellt wurde.\n Danach erhalten diese den Status \"Aktiv\".\nNeuzugänge für das laufende Schuljahr werden nach Aufnahme bei Eingabefeld \"Status\" auf \"Aktiv\" umgesetzt. \n\n 2. Status '''Warteliste'''\n Erfüllt den gleichen Zweck wie der Status Neuaufnahme. Hier können Sie Schüler einsortieren,\n die evtl. noch keine Aufnahme erhalten und später angeschrieben werden müssen.\n Manche Schulen nutzen diesen Kasten auch, um \"Nachrücker\" zu Beginn des Schuljahres zu verwalten.\n\n 3. Status '''Aktiv'''\n Hier sollten alle zur Zeit an der Schule unterrichteten Schüler beinhaltet sein.\n\n 4. Status '''Beurlaubt'''\n Sollten Sie Schüler haben, die nur für eine überschaubare Zeit die Schule nicht besuchen, \n und Sie möchten den Datensatz nicht löschen, so können Sie die Schüler in diesen Karteikasten\n einsortieren.\n\n 5. Status '''Abgänger'''\n An diesem Ort werden alle Schüler verwaltet, die während des Schuljahres,\n z.B. durch Umzug, die Schule verlassen.\n\n 6. Status '''Abschluss'''\n Alle Schüler, die in den Abschlussjahrgängen der jeweiligen Bildungsgänge die Schule verlassen,\n werden in diesem Karteikasten verwaltet. (z.B. auch in Grundschulen nach Klasse 4).\n\n 7. Status '''Extern'''\n In diesem Kasten verwalten Sie externe Schüler, die von anderen Schulen zu Ihnen kommen,\n weil die Schule beispielsweise eine Kooperation mit einer Nachbarschule hat.\n\n\nGenerell können Sie selbst bestimmen, wie Sie die Karteikästen in Schild-NRW verwenden.\nWichtig ist jedoch, dass die Bedeutung der Karteikästen für die Übermittlung der amtlichen Haupterhebung beachtet wird.\n\nAus dem Karteikasten \"Aktiv\" werden alle Schüler für das aktuelle Schuljahr in die Statistikschnittstelle geschrieben. Aus den Karteikästen \"Abgänger\" und \"Abschluss\" werden alle Schüler mit dem Schuljahr des vorherigen Jahres an die Statistikschnittstelle übergeben.\nDabei werden die Schüler aus diesen Kästen NICHT unterschieden.\n\nAus dem Status \"Extern\" werden die externen Schüler an die Statistik übergeben.\n\nAlle anderen Karteikästen werden bei der Statistik nicht berücksichtigt!\n\nZurück zum Artikel:[[Hauptfenster]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-12-05T14:11:51Z",
+  "lastrevid": 400,
+  "length": 2732
+}

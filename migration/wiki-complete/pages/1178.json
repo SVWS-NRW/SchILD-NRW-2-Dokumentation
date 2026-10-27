@@ -1,0 +1,30 @@
+{
+  "pageid": 1178,
+  "ns": 0,
+  "title": "Grundschulzeugnisse Ankreuzzeugnis",
+  "revisions": [
+    {
+      "revid": 4618,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2020-09-01T09:30:48Z",
+      "sha1": "e5b71ade291546d99a1db196fa8f8f78f95e520c",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Hier erscheinen in Kürze Hinweise."
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „Hier erscheinen in Kürze Hinweise.“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2020-09-01T09:30:48Z",
+  "lastrevid": 4618,
+  "length": 35,
+  "new": ""
+}

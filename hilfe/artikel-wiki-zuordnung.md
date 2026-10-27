@@ -1,462 +1,479 @@
 # Artikel und Wiki-Quellen
 
-Jede der 456 exportierten Seiten bleibt einer Markdown-Datei und einer Wiki-Version zugeordnet. Die ursprünglichen Wiki-Titel und Sprungmarken bleiben nachvollziehbar.
+Alle 473 Inhaltsseiten sind einer lokalen Markdown-Datei und einer gesicherten Wiki-Version zugeordnet.
 
-| Wiki-Artikel | Dokumentation | Wiki-Version |
+| Wiki-Artikel | Dokumentation | Quelltext |
 | --- | --- | --- |
-| Hauptseite | [Artikel](/hilfe/wiki-archiv/hauptseite) | [6060](https://wiki.svws.nrw.de/mediawiki/index.php?title=Hauptseite&oldid=6060) |
-| Schild-NRW-Index | [Artikel](/einstieg/grundlagen/schild-nrw-index) | [5935](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schild-NRW-Index&oldid=5935) |
-| Reporting | [Artikel](/reporting/erstellung/reporting) | [4707](https://wiki.svws.nrw.de/mediawiki/index.php?title=Reporting&oldid=4707) |
-| RAP-Funktionen | [Artikel](/reporting/rap/rap-funktionen) | [5689](https://wiki.svws.nrw.de/mediawiki/index.php?title=RAP-Funktionen&oldid=5689) |
-| Anrede | [Artikel](/reporting/rap/anrede) | [5722](https://wiki.svws.nrw.de/mediawiki/index.php?title=Anrede&oldid=5722) |
-| AssignFont | [Artikel](/reporting/rap/assignfont) | [23](https://wiki.svws.nrw.de/mediawiki/index.php?title=AssignFont&oldid=23) |
-| AufzaehlungRTF | [Artikel](/reporting/rap/aufzaehlungrtf) | [2077](https://wiki.svws.nrw.de/mediawiki/index.php?title=AufzaehlungRTF&oldid=2077) |
-| Bestaetigung | [Artikel](/reporting/rap/bestaetigung) | [28](https://wiki.svws.nrw.de/mediawiki/index.php?title=Bestaetigung&oldid=28) |
-| CreateNotenHeader | [Artikel](/reporting/rap/createnotenheader) | [183](https://wiki.svws.nrw.de/mediawiki/index.php?title=CreateNotenHeader&oldid=183) |
-| CreateNotenHeaderUS | [Artikel](/reporting/rap/createnotenheaderus) | [35](https://wiki.svws.nrw.de/mediawiki/index.php?title=CreateNotenHeaderUS&oldid=35) |
-| EditRichText | [Artikel](/reporting/rap/editrichtext) | [36](https://wiki.svws.nrw.de/mediawiki/index.php?title=EditRichText&oldid=36) |
-| EditRichTextEx | [Artikel](/reporting/rap/editrichtextex) | [37](https://wiki.svws.nrw.de/mediawiki/index.php?title=EditRichTextEx&oldid=37) |
-| Faechervorbelegen | [Artikel](/reporting/rap/faechervorbelegen) | [39](https://wiki.svws.nrw.de/mediawiki/index.php?title=Faechervorbelegen&oldid=39) |
-| FileAge | [Artikel](/reporting/rap/fileage) | [40](https://wiki.svws.nrw.de/mediawiki/index.php?title=FileAge&oldid=40) |
-| FileExists | [Artikel](/reporting/rap/fileexists) | [41](https://wiki.svws.nrw.de/mediawiki/index.php?title=FileExists&oldid=41) |
-| FileOpenDlg | [Artikel](/reporting/rap/fileopendlg) | [43](https://wiki.svws.nrw.de/mediawiki/index.php?title=FileOpenDlg&oldid=43) |
-| FileSaveDlg | [Artikel](/reporting/rap/filesavedlg) | [44](https://wiki.svws.nrw.de/mediawiki/index.php?title=FileSaveDlg&oldid=44) |
-| FilterAdressArt | [Artikel](/reporting/rap/filteradressart) | [45](https://wiki.svws.nrw.de/mediawiki/index.php?title=FilterAdressArt&oldid=45) |
-| FilterAdresse | [Artikel](/reporting/rap/filteradresse) | [46](https://wiki.svws.nrw.de/mediawiki/index.php?title=FilterAdresse&oldid=46) |
-| FilterErzieherfunktion | [Artikel](/reporting/rap/filtererzieherfunktion) | [47](https://wiki.svws.nrw.de/mediawiki/index.php?title=FilterErzieherfunktion&oldid=47) |
-| FilterLaufbahnJahr | [Artikel](/reporting/rap/filterlaufbahnjahr) | [48](https://wiki.svws.nrw.de/mediawiki/index.php?title=FilterLaufbahnJahr&oldid=48) |
-| FilterLaufbahnJahrgangASD | [Artikel](/reporting/rap/filterlaufbahnjahrgangasd) | [49](https://wiki.svws.nrw.de/mediawiki/index.php?title=FilterLaufbahnJahrgangASD&oldid=49) |
-| FilterSchuelerAdressArt | [Artikel](/reporting/rap/filterschueleradressart) | [50](https://wiki.svws.nrw.de/mediawiki/index.php?title=FilterSchuelerAdressArt&oldid=50) |
-| FormatRTF | [Artikel](/reporting/rap/formatrtf) | [51](https://wiki.svws.nrw.de/mediawiki/index.php?title=FormatRTF&oldid=51) |
-| GeschlechtToString | [Artikel](/reporting/rap/geschlechttostring) | [5650](https://wiki.svws.nrw.de/mediawiki/index.php?title=GeschlechtToString&oldid=5650) |
-| GetFachgruppe | [Artikel](/reporting/rap/getfachgruppe) | [53](https://wiki.svws.nrw.de/mediawiki/index.php?title=GetFachgruppe&oldid=53) |
-| GetSqlText | [Artikel](/reporting/rap/getsqltext) | [54](https://wiki.svws.nrw.de/mediawiki/index.php?title=GetSqlText&oldid=54) |
-| GruppenDesBenutzers | [Artikel](/reporting/rap/gruppendesbenutzers) | [55](https://wiki.svws.nrw.de/mediawiki/index.php?title=GruppenDesBenutzers&oldid=55) |
-| IncFontSize | [Artikel](/reporting/rap/incfontsize) | [56](https://wiki.svws.nrw.de/mediawiki/index.php?title=IncFontSize&oldid=56) |
-| IstInDerGruppe | [Artikel](/reporting/rap/istindergruppe) | [57](https://wiki.svws.nrw.de/mediawiki/index.php?title=IstInDerGruppe&oldid=57) |
-| IstLeer | [Artikel](/reporting/rap/istleer) | [58](https://wiki.svws.nrw.de/mediawiki/index.php?title=IstLeer&oldid=58) |
-| JahrgangsListe | [Artikel](/reporting/rap/jahrgangsliste) | [59](https://wiki.svws.nrw.de/mediawiki/index.php?title=JahrgangsListe&oldid=59) |
-| KursBezIgnorieren | [Artikel](/reporting/rap/kursbezignorieren) | [60](https://wiki.svws.nrw.de/mediawiki/index.php?title=KursBezIgnorieren&oldid=60) |
-| LehrerAuswaehlen | [Artikel](/reporting/rap/lehrerauswaehlen) | [61](https://wiki.svws.nrw.de/mediawiki/index.php?title=LehrerAuswaehlen&oldid=61) |
-| LehrerDatenLaden | [Artikel](/reporting/rap/lehrerdatenladen) | [4843](https://wiki.svws.nrw.de/mediawiki/index.php?title=LehrerDatenLaden&oldid=4843) |
-| LehrerKursartStatistikLaden | [Artikel](/reporting/rap/lehrerkursartstatistikladen) | [63](https://wiki.svws.nrw.de/mediawiki/index.php?title=LehrerKursartStatistikLaden&oldid=63) |
-| LehrerUnterrichtLaden | [Artikel](/reporting/rap/lehrerunterrichtladen) | [64](https://wiki.svws.nrw.de/mediawiki/index.php?title=LehrerUnterrichtLaden&oldid=64) |
-| LoadFromFile | [Artikel](/reporting/rap/loadfromfile) | [65](https://wiki.svws.nrw.de/mediawiki/index.php?title=LoadFromFile&oldid=65) |
-| LoadNotenliste | [Artikel](/reporting/rap/loadnotenliste) | [66](https://wiki.svws.nrw.de/mediawiki/index.php?title=LoadNotenliste&oldid=66) |
-| LoadVermerke | [Artikel](/reporting/rap/loadvermerke) | [67](https://wiki.svws.nrw.de/mediawiki/index.php?title=LoadVermerke&oldid=67) |
-| LoadVermerkeEx | [Artikel](/reporting/rap/loadvermerkeex) | [68](https://wiki.svws.nrw.de/mediawiki/index.php?title=LoadVermerkeEx&oldid=68) |
-| LoadVermerkeVonBis | [Artikel](/reporting/rap/loadvermerkevonbis) | [69](https://wiki.svws.nrw.de/mediawiki/index.php?title=LoadVermerkeVonBis&oldid=69) |
-| LongDayNames | [Artikel](/reporting/rap/longdaynames) | [70](https://wiki.svws.nrw.de/mediawiki/index.php?title=LongDayNames&oldid=70) |
-| LookupSprachenfolge | [Artikel](/reporting/rap/lookupsprachenfolge) | [71](https://wiki.svws.nrw.de/mediawiki/index.php?title=LookupSprachenfolge&oldid=71) |
-| Mehrfachauswahl | [Artikel](/reporting/rap/mehrfachauswahl) | [1842](https://wiki.svws.nrw.de/mediawiki/index.php?title=Mehrfachauswahl&oldid=1842) |
-| MehrfachauswahlEx | [Artikel](/reporting/rap/mehrfachauswahlex) | [5725](https://wiki.svws.nrw.de/mediawiki/index.php?title=MehrfachauswahlEx&oldid=5725) |
-| MitLernabschnitten | [Artikel](/reporting/rap/mitlernabschnitten) | [5723](https://wiki.svws.nrw.de/mediawiki/index.php?title=MitLernabschnitten&oldid=5723) |
-| NotenDurchschnitt | [Artikel](/reporting/rap/notendurchschnitt) | [4087](https://wiki.svws.nrw.de/mediawiki/index.php?title=NotenDurchschnitt&oldid=4087) |
-| NurErzieherMitAnschreiben | [Artikel](/reporting/rap/nurerziehermitanschreiben) | [76](https://wiki.svws.nrw.de/mediawiki/index.php?title=NurErzieherMitAnschreiben&oldid=76) |
-| NurFaecherMitAufsZeugnisFlag | [Artikel](/reporting/rap/nurfaechermitaufszeugnisflag) | [77](https://wiki.svws.nrw.de/mediawiki/index.php?title=NurFaecherMitAufsZeugnisFlag&oldid=77) |
-| NurFaecherMitNoten | [Artikel](/reporting/rap/nurfaechermitnoten) | [78](https://wiki.svws.nrw.de/mediawiki/index.php?title=NurFaecherMitNoten&oldid=78) |
-| PickDatum | [Artikel](/reporting/rap/pickdatum) | [79](https://wiki.svws.nrw.de/mediawiki/index.php?title=PickDatum&oldid=79) |
-| QuotedStr | [Artikel](/reporting/rap/quotedstr) | [80](https://wiki.svws.nrw.de/mediawiki/index.php?title=QuotedStr&oldid=80) |
-| ReadDateTime | [Artikel](/reporting/rap/readdatetime) | [81](https://wiki.svws.nrw.de/mediawiki/index.php?title=ReadDateTime&oldid=81) |
-| ReplaceDefault | [Artikel](/reporting/rap/replacedefault) | [82](https://wiki.svws.nrw.de/mediawiki/index.php?title=ReplaceDefault&oldid=82) |
-| ReplaceStandardVar | [Artikel](/reporting/rap/replacestandardvar) | [83](https://wiki.svws.nrw.de/mediawiki/index.php?title=ReplaceStandardVar&oldid=83) |
-| ReplaceText | [Artikel](/reporting/rap/replacetext) | [5651](https://wiki.svws.nrw.de/mediawiki/index.php?title=ReplaceText&oldid=5651) |
-| ReplaceTextEx | [Artikel](/reporting/rap/replacetextex) | [4732](https://wiki.svws.nrw.de/mediawiki/index.php?title=ReplaceTextEx&oldid=4732) |
-| ResetAdressArt | [Artikel](/reporting/rap/resetadressart) | [86](https://wiki.svws.nrw.de/mediawiki/index.php?title=ResetAdressArt&oldid=86) |
-| ResetAdressFilter | [Artikel](/reporting/rap/resetadressfilter) | [87](https://wiki.svws.nrw.de/mediawiki/index.php?title=ResetAdressFilter&oldid=87) |
-| ResetFaechervorbelegung | [Artikel](/reporting/rap/resetfaechervorbelegung) | [88](https://wiki.svws.nrw.de/mediawiki/index.php?title=ResetFaechervorbelegung&oldid=88) |
-| ResetFilterErzieherfunktion | [Artikel](/reporting/rap/resetfiltererzieherfunktion) | [89](https://wiki.svws.nrw.de/mediawiki/index.php?title=ResetFilterErzieherfunktion&oldid=89) |
-| ResetFilterLaufbahnJahr | [Artikel](/reporting/rap/resetfilterlaufbahnjahr) | [90](https://wiki.svws.nrw.de/mediawiki/index.php?title=ResetFilterLaufbahnJahr&oldid=90) |
-| RtfToPlaintext | [Artikel](/reporting/rap/rtftoplaintext) | [91](https://wiki.svws.nrw.de/mediawiki/index.php?title=RtfToPlaintext&oldid=91) |
-| SchuljahrToStr | [Artikel](/reporting/rap/schuljahrtostr) | [92](https://wiki.svws.nrw.de/mediawiki/index.php?title=SchuljahrToStr&oldid=92) |
-| SchuljahrToStrEx | [Artikel](/reporting/rap/schuljahrtostrex) | [93](https://wiki.svws.nrw.de/mediawiki/index.php?title=SchuljahrToStrEx&oldid=93) |
-| SchulText | [Artikel](/reporting/rap/schultext) | [94](https://wiki.svws.nrw.de/mediawiki/index.php?title=SchulText&oldid=94) |
-| SelectAdressArt | [Artikel](/reporting/rap/selectadressart) | [95](https://wiki.svws.nrw.de/mediawiki/index.php?title=SelectAdressArt&oldid=95) |
-| SelectAdressName | [Artikel](/reporting/rap/selectadressname) | [96](https://wiki.svws.nrw.de/mediawiki/index.php?title=SelectAdressName&oldid=96) |
-| SelectErzFunktion | [Artikel](/reporting/rap/selecterzfunktion) | [97](https://wiki.svws.nrw.de/mediawiki/index.php?title=SelectErzFunktion&oldid=97) |
-| Selectfont | [Artikel](/reporting/rap/selectfont) | [98](https://wiki.svws.nrw.de/mediawiki/index.php?title=Selectfont&oldid=98) |
-| SelectFromList | [Artikel](/reporting/rap/selectfromlist) | [6033](https://wiki.svws.nrw.de/mediawiki/index.php?title=SelectFromList&oldid=6033) |
-| SelectFromListEx | [Artikel](/reporting/rap/selectfromlistex) | [100](https://wiki.svws.nrw.de/mediawiki/index.php?title=SelectFromListEx&oldid=100) |
-| SelectNotenliste | [Artikel](/reporting/rap/selectnotenliste) | [102](https://wiki.svws.nrw.de/mediawiki/index.php?title=SelectNotenliste&oldid=102) |
-| SelectOption | [Artikel](/reporting/rap/selectoption) | [2151](https://wiki.svws.nrw.de/mediawiki/index.php?title=SelectOption&oldid=2151) |
-| SelectString | [Artikel](/reporting/rap/selectstring) | [104](https://wiki.svws.nrw.de/mediawiki/index.php?title=SelectString&oldid=104) |
-| SelectStringEx | [Artikel](/reporting/rap/selectstringex) | [5386](https://wiki.svws.nrw.de/mediawiki/index.php?title=SelectStringEx&oldid=5386) |
-| SetAbitur | [Artikel](/reporting/rap/setabitur) | [108](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetAbitur&oldid=108) |
-| SetAdressArt | [Artikel](/reporting/rap/setadressart) | [109](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetAdressArt&oldid=109) |
-| SetBKAbschluss | [Artikel](/reporting/rap/setbkabschluss) | [110](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetBKAbschluss&oldid=110) |
-| SetFont | [Artikel](/reporting/rap/setfont) | [111](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetFont&oldid=111) |
-| SetJgIntervall | [Artikel](/reporting/rap/setjgintervall) | [112](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetJgIntervall&oldid=112) |
-| SetJgIntervall ASD | [Artikel](/reporting/rap/setjgintervall-asd) | [113](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetJgIntervall+ASD&oldid=113) |
-| SetKursSchuelerFaecherListe | [Artikel](/reporting/rap/setkursschuelerfaecherliste) | [114](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetKursSchuelerFaecherListe&oldid=114) |
-| SetTextAttributes | [Artikel](/reporting/rap/settextattributes) | [115](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetTextAttributes&oldid=115) |
-| SetUebersicht | [Artikel](/reporting/rap/setuebersicht) | [116](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetUebersicht&oldid=116) |
-| SetUebersichtEx | [Artikel](/reporting/rap/setuebersichtex) | [117](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetUebersichtEx&oldid=117) |
-| SetUebersichtKursartFilter | [Artikel](/reporting/rap/setuebersichtkursartfilter) | [180](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetUebersichtKursartFilter&oldid=180) |
-| Setzefilter | [Artikel](/reporting/rap/setzefilter) | [2115](https://wiki.svws.nrw.de/mediawiki/index.php?title=Setzefilter&oldid=2115) |
-| SetzeKlassenAdressArt | [Artikel](/reporting/rap/setzeklassenadressart) | [120](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetzeKlassenAdressArt&oldid=120) |
-| SetzeSortierung | [Artikel](/reporting/rap/setzesortierung) | [121](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetzeSortierung&oldid=121) |
-| SetzeSortierungEx | [Artikel](/reporting/rap/setzesortierungex) | [122](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetzeSortierungEx&oldid=122) |
-| ShortDayNames | [Artikel](/reporting/rap/shortdaynames) | [123](https://wiki.svws.nrw.de/mediawiki/index.php?title=ShortDayNames&oldid=123) |
-| SortierungVon | [Artikel](/reporting/rap/sortierungvon) | [3507](https://wiki.svws.nrw.de/mediawiki/index.php?title=SortierungVon&oldid=3507) |
-| StringInput | [Artikel](/reporting/rap/stringinput) | [125](https://wiki.svws.nrw.de/mediawiki/index.php?title=StringInput&oldid=125) |
-| SummeFehlstunden | [Artikel](/reporting/rap/summefehlstunden) | [126](https://wiki.svws.nrw.de/mediawiki/index.php?title=SummeFehlstunden&oldid=126) |
-| UebersichtsfachModus | [Artikel](/reporting/rap/uebersichtsfachmodus) | [127](https://wiki.svws.nrw.de/mediawiki/index.php?title=UebersichtsfachModus&oldid=127) |
-| UeberspringeRecord | [Artikel](/reporting/rap/ueberspringerecord) | [2723](https://wiki.svws.nrw.de/mediawiki/index.php?title=UeberspringeRecord&oldid=2723) |
-| VerzeichnisseErzeugen | [Artikel](/reporting/rap/verzeichnisseerzeugen) | [129](https://wiki.svws.nrw.de/mediawiki/index.php?title=VerzeichnisseErzeugen&oldid=129) |
-| WaehleDatumStr | [Artikel](/reporting/rap/waehledatumstr) | [131](https://wiki.svws.nrw.de/mediawiki/index.php?title=WaehleDatumStr&oldid=131) |
-| WaehleDatumUndZeit | [Artikel](/reporting/rap/waehledatumundzeit) | [132](https://wiki.svws.nrw.de/mediawiki/index.php?title=WaehleDatumUndZeit&oldid=132) |
-| Wiederholungen | [Artikel](/reporting/rap/wiederholungen) | [5721](https://wiki.svws.nrw.de/mediawiki/index.php?title=Wiederholungen&oldid=5721) |
-| Zahlwort | [Artikel](/reporting/rap/zahlwort) | [134](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zahlwort&oldid=134) |
-| ZensurToStr | [Artikel](/reporting/rap/zensurtostr) | [135](https://wiki.svws.nrw.de/mediawiki/index.php?title=ZensurToStr&oldid=135) |
-| ZeugnisParameter | [Artikel](/reporting/rap/zeugnisparameter) | [136](https://wiki.svws.nrw.de/mediawiki/index.php?title=ZeugnisParameter&oldid=136) |
-| Iconleiste | [Artikel](/einstieg/grundlagen/iconleiste) | [1386](https://wiki.svws.nrw.de/mediawiki/index.php?title=Iconleiste&oldid=1386) |
-| PipelineOeffnen | [Artikel](/reporting/rap/pipelineoeffnen) | [155](https://wiki.svws.nrw.de/mediawiki/index.php?title=PipelineOeffnen&oldid=155) |
-| PluginVersion | [Artikel](/reporting/rap/pluginversion) | [160](https://wiki.svws.nrw.de/mediawiki/index.php?title=PluginVersion&oldid=160) |
-| AnzahlElemente | [Artikel](/reporting/rap/anzahlelemente) | [162](https://wiki.svws.nrw.de/mediawiki/index.php?title=AnzahlElemente&oldid=162) |
-| EinzelElement | [Artikel](/reporting/rap/einzelelement) | [164](https://wiki.svws.nrw.de/mediawiki/index.php?title=EinzelElement&oldid=164) |
-| SetQuartalsnotenInUebersicht | [Artikel](/reporting/rap/setquartalsnoteninuebersicht) | [166](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetQuartalsnotenInUebersicht&oldid=166) |
-| FilterLaufbahnStufen | [Artikel](/reporting/rap/filterlaufbahnstufen) | [168](https://wiki.svws.nrw.de/mediawiki/index.php?title=FilterLaufbahnStufen&oldid=168) |
-| Praktikumstage | [Artikel](/reporting/rap/praktikumstage) | [170](https://wiki.svws.nrw.de/mediawiki/index.php?title=Praktikumstage&oldid=170) |
-| LernfelderZuFachklasse | [Artikel](/reporting/rap/lernfelderzufachklasse) | [172](https://wiki.svws.nrw.de/mediawiki/index.php?title=LernfelderZuFachklasse&oldid=172) |
-| ZeugnisDatenquellenOeffnen | [Artikel](/reporting/rap/zeugnisdatenquellenoeffnen) | [175](https://wiki.svws.nrw.de/mediawiki/index.php?title=ZeugnisDatenquellenOeffnen&oldid=175) |
-| DateinameFuerDVAuswaehlen | [Artikel](/reporting/rap/dateinamefuerdvauswaehlen) | [6027](https://wiki.svws.nrw.de/mediawiki/index.php?title=DateinameFuerDVAuswaehlen&oldid=6027) |
-| NurGewerteteAbschnitte | [Artikel](/reporting/rap/nurgewerteteabschnitte) | [185](https://wiki.svws.nrw.de/mediawiki/index.php?title=NurGewerteteAbschnitte&oldid=185) |
-| Hauptfenster | [Artikel](/einstieg/grundlagen/hauptfenster) | [4287](https://wiki.svws.nrw.de/mediawiki/index.php?title=Hauptfenster&oldid=4287) |
-| StatistikKuerzelAusFachKuerzel | [Artikel](/reporting/rap/statistikkuerzelausfachkuerzel) | [265](https://wiki.svws.nrw.de/mediawiki/index.php?title=StatistikKuerzelAusFachKuerzel&oldid=265) |
-| Karteikasten | [Artikel](/einstieg/grundlagen/karteikasten) | [400](https://wiki.svws.nrw.de/mediawiki/index.php?title=Karteikasten&oldid=400) |
-| Kurs42:Inhaltsverzeichnis | [Artikel](/hilfe/zusatzprogramme/kurs42-inhaltsverzeichnis) | [4610](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurs42%3AInhaltsverzeichnis&oldid=4610) |
-| Kataloge | [Artikel](/schild2/unterricht-kataloge/kataloge) | [939](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kataloge&oldid=939) |
-| Konfessionen | [Artikel](/schild2/unterricht-kataloge/konfessionen) | [936](https://wiki.svws.nrw.de/mediawiki/index.php?title=Konfessionen&oldid=936) |
-| Staatsangehörigkeiten / Herkunftsländer | [Artikel](/schild2/unterricht-kataloge/staatsangehoerigkeiten-herkunftslaender) | [937](https://wiki.svws.nrw.de/mediawiki/index.php?title=Staatsangeh%C3%B6rigkeiten+%2F+Herkunftsl%C3%A4nder&oldid=937) |
-| Auswahl | [Artikel](/schild2/auswahl/auswahl) | [3707](https://wiki.svws.nrw.de/mediawiki/index.php?title=Auswahl&oldid=3707) |
-| Individuelle Schülergruppe auswählen | [Artikel](/schild2/auswahl/individuelle-schuelergruppe-auswaehlen) | [967](https://wiki.svws.nrw.de/mediawiki/index.php?title=Individuelle+Sch%C3%BClergruppe+ausw%C3%A4hlen&oldid=967) |
-| Individuelle Schülergruppe bearbeiten | [Artikel](/schild2/auswahl/individuelle-schuelergruppe-bearbeiten) | [966](https://wiki.svws.nrw.de/mediawiki/index.php?title=Individuelle+Sch%C3%BClergruppe+bearbeiten&oldid=966) |
-| Nur Schüler mit Geschwistern zeigen | [Artikel](/schild2/auswahl/nur-schueler-mit-geschwistern-zeigen) | [1033](https://wiki.svws.nrw.de/mediawiki/index.php?title=Nur+Sch%C3%BCler+mit+Geschwistern+zeigen&oldid=1033) |
-| Schüler mit Statistik-Fehlern zeigen | [Artikel](/schild2/auswahl/schueler-mit-statistik-fehlern-zeigen) | [974](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sch%C3%BCler+mit+Statistik-Fehlern+zeigen&oldid=974) |
-| Schüler mit fehlendem Abschnitt (Status=Aktiv,..) | [Artikel](/schild2/auswahl/schueler-mit-fehlendem-abschnitt-status-aktiv) | [975](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sch%C3%BCler+mit+fehlendem+Abschnitt+%28Status%3DAktiv%2C..%29&oldid=975) |
-| Schüler mit fehlendem Abschnitt (Status=Abgang,..) | [Artikel](/schild2/auswahl/schueler-mit-fehlendem-abschnitt-status-abgang) | [976](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sch%C3%BCler+mit+fehlendem+Abschnitt+%28Status%3DAbgang%2C..%29&oldid=976) |
-| Filter auf fehlende Einträge | [Artikel](/schild2/auswahl/filter-auf-fehlende-eintraege) | [973](https://wiki.svws.nrw.de/mediawiki/index.php?title=Filter+auf+fehlende+Eintr%C3%A4ge&oldid=973) |
-| Standard-Auswahl laden | [Artikel](/schild2/auswahl/standard-auswahl-laden) | [968](https://wiki.svws.nrw.de/mediawiki/index.php?title=Standard-Auswahl+laden&oldid=968) |
-| Vorhandene Filterdefinition laden | [Artikel](/schild2/auswahl/vorhandene-filterdefinition-laden) | [970](https://wiki.svws.nrw.de/mediawiki/index.php?title=Vorhandene+Filterdefinition+laden&oldid=970) |
-| Vorhandene Filterdefinition löschen | [Artikel](/schild2/auswahl/vorhandene-filterdefinition-loeschen) | [971](https://wiki.svws.nrw.de/mediawiki/index.php?title=Vorhandene+Filterdefinition+l%C3%B6schen&oldid=971) |
-| Attributsfilter | [Artikel](/schild2/auswahl/attributsfilter) | [1185](https://wiki.svws.nrw.de/mediawiki/index.php?title=Attributsfilter&oldid=1185) |
-| ThemaProjektKurs | [Artikel](/reporting/rap/themaprojektkurs) | [405](https://wiki.svws.nrw.de/mediawiki/index.php?title=ThemaProjektKurs&oldid=405) |
-| EditText | [Artikel](/reporting/rap/edittext) | [408](https://wiki.svws.nrw.de/mediawiki/index.php?title=EditText&oldid=408) |
-| Förderschwerpunkte | [Artikel](/schild2/unterricht-kataloge/foerderschwerpunkte) | [938](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%B6rderschwerpunkte&oldid=938) |
-| Verkehrssprachen | [Artikel](/schild2/unterricht-kataloge/verkehrssprachen) | [3777](https://wiki.svws.nrw.de/mediawiki/index.php?title=Verkehrssprachen&oldid=3777) |
-| Erzieher-Arten | [Artikel](/schild2/unterricht-kataloge/erzieher-arten) | [935](https://wiki.svws.nrw.de/mediawiki/index.php?title=Erzieher-Arten&oldid=935) |
-| Fahrschüler-Arten | [Artikel](/schild2/unterricht-kataloge/fahrschueler-arten) | [465](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fahrsch%C3%BCler-Arten&oldid=465) |
-| Haltestelle | [Artikel](/schild2/unterricht-kataloge/haltestelle) | [435](https://wiki.svws.nrw.de/mediawiki/index.php?title=Haltestelle&oldid=435) |
-| Haltestellen | [Artikel](/schild2/unterricht-kataloge/haltestellen) | [490](https://wiki.svws.nrw.de/mediawiki/index.php?title=Haltestellen&oldid=490) |
-| Andere Schulen und Schulnummern | [Artikel](/schild2/unterricht-kataloge/andere-schulen-und-schulnummern) | [933](https://wiki.svws.nrw.de/mediawiki/index.php?title=Andere+Schulen+und+Schulnummern&oldid=933) |
-| Schulen in NRW | [Artikel](/schild2/unterricht-kataloge/schulen-in-nrw) | [462](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schulen+in+NRW&oldid=462) |
-| Kindergärten | [Artikel](/schild2/unterricht-kataloge/kindergaerten) | [455](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kinderg%C3%A4rten&oldid=455) |
-| Orte | [Artikel](/schild2/unterricht-kataloge/orte) | [2820](https://wiki.svws.nrw.de/mediawiki/index.php?title=Orte&oldid=2820) |
-| Container | [Artikel](/einstieg/grundlagen/container) | [1108](https://wiki.svws.nrw.de/mediawiki/index.php?title=Container&oldid=1108) |
-| Telefonische Ansprechpartner | [Artikel](/schild2/unterricht-kataloge/telefonische-ansprechpartner) | [521](https://wiki.svws.nrw.de/mediawiki/index.php?title=Telefonische+Ansprechpartner&oldid=521) |
-| Sportbefreiungen | [Artikel](/schild2/unterricht-kataloge/sportbefreiungen) | [522](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sportbefreiungen&oldid=522) |
-| Entlassungs-Bemerkungen | [Artikel](/schild2/unterricht-kataloge/entlassungs-bemerkungen) | [527](https://wiki.svws.nrw.de/mediawiki/index.php?title=Entlassungs-Bemerkungen&oldid=527) |
-| Adress-Arten | [Artikel](/schild2/unterricht-kataloge/adress-arten) | [529](https://wiki.svws.nrw.de/mediawiki/index.php?title=Adress-Arten&oldid=529) |
-| Allgemeine Adressen | [Artikel](/schild2/unterricht-kataloge/allgemeine-adressen) | [547](https://wiki.svws.nrw.de/mediawiki/index.php?title=Allgemeine+Adressen&oldid=547) |
-| Ortsteile | [Artikel](/schild2/unterricht-kataloge/ortsteile) | [549](https://wiki.svws.nrw.de/mediawiki/index.php?title=Ortsteile&oldid=549) |
-| Schulverwaltung | [Artikel](/schild2/unterricht-kataloge/schulverwaltung) | [5138](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schulverwaltung&oldid=5138) |
-| Schule bearbeiten | [Artikel](/einstieg/erste-schritte/schule-bearbeiten) | [3867](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schule+bearbeiten&oldid=3867) |
-| Lehrkräfte | [Artikel](/schild2/lehrkraefte/lehrkraefte) | [1202](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lehrkr%C3%A4fte&oldid=1202) |
-| Datenaustausch | [Artikel](/schild2/import-export-statistik/datenaustausch) | [5750](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datenaustausch&oldid=5750) |
-| Schnittstelle Schild-NRW | [Artikel](/schild2/import-export-statistik/schnittstelle-schild-nrw) | [913](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schnittstelle+Schild-NRW&oldid=913) |
-| Schnittstellenbeschreibung | [Artikel](/schild2/import-export-statistik/schnittstellenbeschreibung) | [6062](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schnittstellenbeschreibung&oldid=6062) |
-| Datenschutzhinweis | [Artikel](/administration/benutzer-einstellungen/datenschutzhinweis) | [4136](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datenschutzhinweis&oldid=4136) |
-| Individual-Daten I | [Artikel](/schild2/schueler/individual-daten-i) | [3714](https://wiki.svws.nrw.de/mediawiki/index.php?title=Individual-Daten+I&oldid=3714) |
-| Extras | [Artikel](/administration/benutzer-einstellungen/extras) | [3736](https://wiki.svws.nrw.de/mediawiki/index.php?title=Extras&oldid=3736) |
-| Vorbemerkungen-Schnittstelle | [Artikel](/schild2/import-export-statistik/vorbemerkungen-schnittstelle) | [1817](https://wiki.svws.nrw.de/mediawiki/index.php?title=Vorbemerkungen-Schnittstelle&oldid=1817) |
-| Statistik-Jahrgänge | [Artikel](/schild2/unterricht-kataloge/statistik-jahrgaenge) | [3879](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik-Jahrg%C3%A4nge&oldid=3879) |
-| Gruppenprozesse | [Artikel](/schild2/gruppenprozesse/gruppenprozesse) | [3609](https://wiki.svws.nrw.de/mediawiki/index.php?title=Gruppenprozesse&oldid=3609) |
-| JG-Tabelle-GY | [Artikel](/schild2/unterricht-kataloge/jg-tabelle-gy) | [4703](https://wiki.svws.nrw.de/mediawiki/index.php?title=JG-Tabelle-GY&oldid=4703) |
-| JG-Tabelle-GE | [Artikel](/schild2/unterricht-kataloge/jg-tabelle-ge) | [1038](https://wiki.svws.nrw.de/mediawiki/index.php?title=JG-Tabelle-GE&oldid=1038) |
-| JG-Tabelle-GS | [Artikel](/schild2/unterricht-kataloge/jg-tabelle-gs) | [4170](https://wiki.svws.nrw.de/mediawiki/index.php?title=JG-Tabelle-GS&oldid=4170) |
-| Schüler ohne Fächer | [Artikel](/schild2/auswahl/schueler-ohne-faecher) | [1053](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sch%C3%BCler+ohne+F%C3%A4cher&oldid=1053) |
-| Programm-Einstellungen | [Artikel](/administration/benutzer-einstellungen/programm-einstellungen) | [4706](https://wiki.svws.nrw.de/mediawiki/index.php?title=Programm-Einstellungen&oldid=4706) |
-| Externes Notenmodul | [Artikel](/zeugnisse/vorbereitung/externes-notenmodul) | [4736](https://wiki.svws.nrw.de/mediawiki/index.php?title=Externes+Notenmodul&oldid=4736) |
-| Kataloge exportieren | [Artikel](/schild2/import-export-statistik/kataloge-exportieren) | [1070](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kataloge+exportieren&oldid=1070) |
-| Export in Text-/Excel-Dateien | [Artikel](/schild2/import-export-statistik/export-in-text-excel-dateien) | [1125](https://wiki.svws.nrw.de/mediawiki/index.php?title=Export+in+Text-%2FExcel-Dateien&oldid=1125) |
-| Hilfe | [Artikel](/hilfe/probleme/hilfe) | [1432](https://wiki.svws.nrw.de/mediawiki/index.php?title=Hilfe&oldid=1432) |
-| Import aus Textdateien | [Artikel](/schild2/import-export-statistik/import-aus-textdateien) | [1126](https://wiki.svws.nrw.de/mediawiki/index.php?title=Import+aus+Textdateien&oldid=1126) |
-| Export für Lupo | [Artikel](/schild2/import-export-statistik/export-fuer-lupo) | [1159](https://wiki.svws.nrw.de/mediawiki/index.php?title=Export+f%C3%BCr+Lupo&oldid=1159) |
-| Unterrichtsdaten (als Excel Dateien) importieren | [Artikel](/schild2/import-export-statistik/unterrichtsdaten-als-excel-dateien-importieren) | [1170](https://wiki.svws.nrw.de/mediawiki/index.php?title=Unterrichtsdaten+%28als+Excel+Dateien%29+importieren&oldid=1170) |
-| UVD-Datei importieren | [Artikel](/schild2/import-export-statistik/uvd-datei-importieren) | [1151](https://wiki.svws.nrw.de/mediawiki/index.php?title=UVD-Datei+importieren&oldid=1151) |
-| Fotos | [Artikel](/schild2/import-export-statistik/fotos) | [1171](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fotos&oldid=1171) |
-| Wohnortdaten exportieren | [Artikel](/schild2/import-export-statistik/wohnortdaten-exportieren) | [1161](https://wiki.svws.nrw.de/mediawiki/index.php?title=Wohnortdaten+exportieren&oldid=1161) |
-| Aufräumen | [Artikel](/administration/datenbanken/aufraeumen) | [1174](https://wiki.svws.nrw.de/mediawiki/index.php?title=Aufr%C3%A4umen&oldid=1174) |
-| Filter I | [Artikel](/schild2/auswahl/filter-i) | [1265](https://wiki.svws.nrw.de/mediawiki/index.php?title=Filter+I&oldid=1265) |
-| Filter II | [Artikel](/schild2/auswahl/filter-ii) | [1192](https://wiki.svws.nrw.de/mediawiki/index.php?title=Filter+II&oldid=1192) |
-| Allgemeines | [Artikel](/schild2/gruppenprozesse/allgemeines) | [3774](https://wiki.svws.nrw.de/mediawiki/index.php?title=Allgemeines&oldid=3774) |
-| Schild-NRW-Tutorials | [Artikel](/einstieg/erste-schritte/schild-nrw-tutorials) | [6040](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schild-NRW-Tutorials&oldid=6040) |
-| Fächer | [Artikel](/schild2/gruppenprozesse/faecher) | [1309](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%A4cher&oldid=1309) |
-| Noten, Zeugnisvorbereitung | [Artikel](/zeugnisse/vorbereitung/noten-zeugnisvorbereitung) | [1292](https://wiki.svws.nrw.de/mediawiki/index.php?title=Noten%2C+Zeugnisvorbereitung&oldid=1292) |
-| Lernabschnitte, Versetzung | [Artikel](/schild2/versetzung/lernabschnitte-versetzung) | [1278](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lernabschnitte%2C+Versetzung&oldid=1278) |
-| Gruppenprozesse Abitur | [Artikel](/zeugnisse/sekundarstufen/gruppenprozesse-abitur) | [1291](https://wiki.svws.nrw.de/mediawiki/index.php?title=Gruppenprozesse+Abitur&oldid=1291) |
-| Gruppenaktionen Abitur | [Artikel](/zeugnisse/sekundarstufen/gruppenaktionen-abitur) | [1286](https://wiki.svws.nrw.de/mediawiki/index.php?title=Gruppenaktionen+Abitur&oldid=1286) |
-| Klassen-/Versetzungstabelle | [Artikel](/schild2/unterricht-kataloge/klassen-versetzungstabelle) | [5741](https://wiki.svws.nrw.de/mediawiki/index.php?title=Klassen-%2FVersetzungstabelle&oldid=5741) |
-| Einrichtung des Report-Explorers | [Artikel](/reporting/erstellung/einrichtung-des-report-explorers) | [4135](https://wiki.svws.nrw.de/mediawiki/index.php?title=Einrichtung+des+Report-Explorers&oldid=4135) |
-| Klassengruppen/Abteilungen | [Artikel](/schild2/unterricht-kataloge/klassengruppen-abteilungen) | [1357](https://wiki.svws.nrw.de/mediawiki/index.php?title=Klassengruppen%2FAbteilungen&oldid=1357) |
-| Erz.-Berechtigte | [Artikel](/schild2/schueler/erz-berechtigte) | [1332](https://wiki.svws.nrw.de/mediawiki/index.php?title=Erz.-Berechtigte&oldid=1332) |
-| Unterrichtsfächer | [Artikel](/schild2/unterricht-kataloge/unterrichtsfaecher) | [4622](https://wiki.svws.nrw.de/mediawiki/index.php?title=Unterrichtsf%C3%A4cher&oldid=4622) |
-| Wiedervorlage | [Artikel](/schild2/schueler/wiedervorlage) | [1395](https://wiki.svws.nrw.de/mediawiki/index.php?title=Wiedervorlage&oldid=1395) |
-| Eintrag in Wiedervorlage machen | [Artikel](/schild2/schueler/eintrag-in-wiedervorlage-machen) | [2005](https://wiki.svws.nrw.de/mediawiki/index.php?title=Eintrag+in+Wiedervorlage+machen&oldid=2005) |
-| Individualdaten ändern | [Artikel](/schild2/gruppenprozesse/individualdaten-aendern) | [1618](https://wiki.svws.nrw.de/mediawiki/index.php?title=Individualdaten+%C3%A4ndern&oldid=1618) |
-| Fachklassen | [Artikel](/schild2/unterricht-kataloge/fachklassen) | [1407](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fachklassen&oldid=1407) |
-| Individual-Daten II | [Artikel](/schild2/schueler/individual-daten-ii) | [3024](https://wiki.svws.nrw.de/mediawiki/index.php?title=Individual-Daten+II&oldid=3024) |
-| Schulbesuch | [Artikel](/schild2/schueler/schulbesuch) | [3679](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schulbesuch&oldid=3679) |
-| Weitere Adressen | [Artikel](/schild2/schueler/weitere-adressen) | [1481](https://wiki.svws.nrw.de/mediawiki/index.php?title=Weitere+Adressen&oldid=1481) |
-| Dateimaske bearbeiten | [Artikel](/administration/benutzer-einstellungen/dateimaske-bearbeiten) | [1508](https://wiki.svws.nrw.de/mediawiki/index.php?title=Dateimaske+bearbeiten&oldid=1508) |
-| Laufbahninfo | [Artikel](/schild2/schueler/laufbahninfo) | [3581](https://wiki.svws.nrw.de/mediawiki/index.php?title=Laufbahninfo&oldid=3581) |
-| Datensicherung | [Artikel](/administration/datenbanken/datensicherung) | [1538](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datensicherung&oldid=1538) |
-| Datei | [Artikel](/administration/datenbanken/datei) | [1539](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datei&oldid=1539) |
-| Automatische Prozesse ausführen | [Artikel](/schild2/gruppenprozesse/automatische-prozesse-ausfuehren) | [1540](https://wiki.svws.nrw.de/mediawiki/index.php?title=Automatische+Prozesse+ausf%C3%BChren&oldid=1540) |
-| Gelöschte Daten zurückholen | [Artikel](/schild2/gruppenprozesse/geloeschte-daten-zurueckholen) | [3016](https://wiki.svws.nrw.de/mediawiki/index.php?title=Gel%C3%B6schte+Daten+zur%C3%BCckholen&oldid=3016) |
-| Schulpflicht autom. setzen zum SJ.-Ende | [Artikel](/schild2/gruppenprozesse/schulpflicht-autom-setzen-zum-sj-ende) | [1524](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schulpflicht+autom.+setzen+zum+SJ.-Ende&oldid=1524) |
-| Fehlende Abschnittsdaten anlegen | [Artikel](/schild2/gruppenprozesse/fehlende-abschnittsdaten-anlegen) | [1541](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fehlende+Abschnittsdaten+anlegen&oldid=1541) |
-| Kurse neu laden (nach Bearbeitung in Kurs42) | [Artikel](/schild2/gruppenprozesse/kurse-neu-laden-nach-bearbeitung-in-kurs42) | [1527](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurse+neu+laden+%28nach+Bearbeitung+in+Kurs42%29&oldid=1527) |
-| Fächer in Leistungsdaten neu sortieren | [Artikel](/schild2/gruppenprozesse/faecher-in-leistungsdaten-neu-sortieren) | [2050](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%A4cher+in+Leistungsdaten+neu+sortieren&oldid=2050) |
-| Fotos neu skalieren | [Artikel](/schild2/gruppenprozesse/fotos-neu-skalieren) | [1531](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fotos+neu+skalieren&oldid=1531) |
-| Kurse neu sortieren | [Artikel](/schild2/gruppenprozesse/kurse-neu-sortieren) | [1532](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurse+neu+sortieren&oldid=1532) |
-| Aufnahmejahr für Neuaufnahmen zurücksetzen | [Artikel](/schild2/gruppenprozesse/aufnahmejahr-fuer-neuaufnahmen-zuruecksetzen) | [1542](https://wiki.svws.nrw.de/mediawiki/index.php?title=Aufnahmejahr+f%C3%BCr+Neuaufnahmen+zur%C3%BCcksetzen&oldid=1542) |
-| Straße und Hausnummer bei Schülerdaten trennen | [Artikel](/schild2/gruppenprozesse/strasse-und-hausnummer-bei-schuelerdaten-trennen) | [1543](https://wiki.svws.nrw.de/mediawiki/index.php?title=Stra%C3%9Fe+und+Hausnummer+bei+Sch%C3%BClerdaten+trennen&oldid=1543) |
-| SQL-Befehle eingeben | [Artikel](/administration/datenbanken/sql-befehle-eingeben) | [1544](https://wiki.svws.nrw.de/mediawiki/index.php?title=SQL-Befehle+eingeben&oldid=1544) |
-| Klassenlehrer aktualisieren | [Artikel](/schild2/gruppenprozesse/klassenlehrer-aktualisieren) | [1586](https://wiki.svws.nrw.de/mediawiki/index.php?title=Klassenlehrer+aktualisieren&oldid=1586) |
-| Abschlussdatum neu berechnen | [Artikel](/schild2/gruppenprozesse/abschlussdatum-neu-berechnen) | [1587](https://wiki.svws.nrw.de/mediawiki/index.php?title=Abschlussdatum+neu+berechnen&oldid=1587) |
-| Schulbesuchsjahre neu berechnen | [Artikel](/schild2/gruppenprozesse/schulbesuchsjahre-neu-berechnen) | [1612](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schulbesuchsjahre+neu+berechnen&oldid=1612) |
-| Eigene Schule in Abgangsliste setzen | [Artikel](/schild2/gruppenprozesse/eigene-schule-in-abgangsliste-setzen) | [2043](https://wiki.svws.nrw.de/mediawiki/index.php?title=Eigene+Schule+in+Abgangsliste+setzen&oldid=2043) |
-| Fotos löschen | [Artikel](/schild2/gruppenprozesse/fotos-loeschen) | [1903](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fotos+l%C3%B6schen&oldid=1903) |
-| Vermerke/Merkmale löschen | [Artikel](/schild2/gruppenprozesse/vermerke-merkmale-loeschen) | [2042](https://wiki.svws.nrw.de/mediawiki/index.php?title=Vermerke%2FMerkmale+l%C3%B6schen&oldid=2042) |
-| Sprachenfolge aus Leistungsdaten ermitteln | [Artikel](/schild2/gruppenprozesse/sprachenfolge-aus-leistungsdaten-ermitteln) | [1901](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sprachenfolge+aus+Leistungsdaten+ermitteln&oldid=1901) |
-| Sprachenfolge zuweisen | [Artikel](/schild2/gruppenprozesse/sprachenfolge-zuweisen) | [1900](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sprachenfolge+zuweisen&oldid=1900) |
-| Fächer in Sprachenfolge ersetzen | [Artikel](/schild2/gruppenprozesse/faecher-in-sprachenfolge-ersetzen) | [1899](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%A4cher+in+Sprachenfolge+ersetzen&oldid=1899) |
-| Sprach-Referenzniveaus ermitteln | [Artikel](/schild2/gruppenprozesse/sprach-referenzniveaus-ermitteln) | [2792](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sprach-Referenzniveaus+ermitteln&oldid=2792) |
-| Fachhochschulreife prüfen | [Artikel](/schild2/gruppenprozesse/fachhochschulreife-pruefen) | [2045](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fachhochschulreife+pr%C3%BCfen&oldid=2045) |
-| Stundentafeln | [Artikel](/schild2/unterricht-kataloge/stundentafeln) | [3868](https://wiki.svws.nrw.de/mediawiki/index.php?title=Stundentafeln&oldid=3868) |
-| Schülerspezifische Kursarten | [Artikel](/schild2/unterricht-kataloge/schuelerspezifische-kursarten) | [1609](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sch%C3%BClerspezifische+Kursarten&oldid=1609) |
-| Kurse | [Artikel](/schild2/unterricht-kataloge/kurse) | [3757](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurse&oldid=3757) |
-| Zeugnisvorlagen zuordnen | [Artikel](/schild2/unterricht-kataloge/zeugnisvorlagen-zuordnen) | [1799](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zeugnisvorlagen+zuordnen&oldid=1799) |
-| Teilleistungs-Arten | [Artikel](/schild2/unterricht-kataloge/teilleistungs-arten) | [4243](https://wiki.svws.nrw.de/mediawiki/index.php?title=Teilleistungs-Arten&oldid=4243) |
-| Vermerk-Arten | [Artikel](/schild2/unterricht-kataloge/vermerk-arten) | [1622](https://wiki.svws.nrw.de/mediawiki/index.php?title=Vermerk-Arten&oldid=1622) |
-| "Floskeln" bearbeiten | [Artikel](/schild2/unterricht-kataloge/floskeln-bearbeiten) | [3914](https://wiki.svws.nrw.de/mediawiki/index.php?title=%22Floskeln%22+bearbeiten&oldid=3914) |
-| Erzieher-Funktionen | [Artikel](/schild2/unterricht-kataloge/erzieher-funktionen) | [1623](https://wiki.svws.nrw.de/mediawiki/index.php?title=Erzieher-Funktionen&oldid=1623) |
-| Erzieher mit schulinternen Funktionen | [Artikel](/schild2/unterricht-kataloge/erzieher-mit-schulinternen-funktionen) | [1626](https://wiki.svws.nrw.de/mediawiki/index.php?title=Erzieher+mit+schulinternen+Funktionen&oldid=1626) |
-| Personengruppen | [Artikel](/schild2/unterricht-kataloge/personengruppen) | [1629](https://wiki.svws.nrw.de/mediawiki/index.php?title=Personengruppen&oldid=1629) |
-| Statistik / amtliche Schuldaten | [Artikel](/schild2/import-export-statistik/statistik-amtliche-schuldaten) | [2543](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+%2F+amtliche+Schuldaten&oldid=2543) |
-| Reportbaukasten | [Artikel](/reporting/erstellung/reportbaukasten) | [4830](https://wiki.svws.nrw.de/mediawiki/index.php?title=Reportbaukasten&oldid=4830) |
-| Akt. Halbjahr | [Artikel](/zeugnisse/vorbereitung/akt-halbjahr) | [3549](https://wiki.svws.nrw.de/mediawiki/index.php?title=Akt.+Halbjahr&oldid=3549) |
-| Druckausgabe | [Artikel](/reporting/verwaltung/druckausgabe) | [2415](https://wiki.svws.nrw.de/mediawiki/index.php?title=Druckausgabe&oldid=2415) |
-| Übersicht S II | [Artikel](/zeugnisse/sekundarstufen/uebersicht-s-ii) | [1940](https://wiki.svws.nrw.de/mediawiki/index.php?title=%C3%9Cbersicht+S+II&oldid=1940) |
-| Gesamtübersicht | [Artikel](/zeugnisse/sekundarstufen/gesamtuebersicht) | [1941](https://wiki.svws.nrw.de/mediawiki/index.php?title=Gesamt%C3%BCbersicht&oldid=1941) |
-| FHR | [Artikel](/zeugnisse/sekundarstufen/fhr) | [1942](https://wiki.svws.nrw.de/mediawiki/index.php?title=FHR&oldid=1942) |
-| BKAbschluss | [Artikel](/zeugnisse/berufskolleg/bkabschluss) | [1845](https://wiki.svws.nrw.de/mediawiki/index.php?title=BKAbschluss&oldid=1845) |
-| BK-Abschluss | [Artikel](/zeugnisse/berufskolleg/bk-abschluss) | [4186](https://wiki.svws.nrw.de/mediawiki/index.php?title=BK-Abschluss&oldid=4186) |
-| Benutzer | [Artikel](/administration/benutzer-einstellungen/benutzer) | [1848](https://wiki.svws.nrw.de/mediawiki/index.php?title=Benutzer&oldid=1848) |
-| Stundentafeln zuweisen | [Artikel](/schild2/gruppenprozesse/stundentafeln-zuweisen) | [3612](https://wiki.svws.nrw.de/mediawiki/index.php?title=Stundentafeln+zuweisen&oldid=3612) |
-| Kurse zuweisen (Einzelkurs) | [Artikel](/schild2/gruppenprozesse/kurse-zuweisen-einzelkurs) | [3617](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurse+zuweisen+%28Einzelkurs%29&oldid=3617) |
-| Kurse zuweisen (mehrere Kurse) | [Artikel](/schild2/gruppenprozesse/kurse-zuweisen-mehrere-kurse) | [3618](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurse+zuweisen+%28mehrere+Kurse%29&oldid=3618) |
-| Fächer zuweisen (tabellarisch) | [Artikel](/schild2/gruppenprozesse/faecher-zuweisen-tabellarisch) | [3619](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%A4cher+zuweisen+%28tabellarisch%29&oldid=3619) |
-| Fächer aus vorherigem Abschnitt holen | [Artikel](/schild2/gruppenprozesse/faecher-aus-vorherigem-abschnitt-holen) | [3620](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%A4cher+aus+vorherigem+Abschnitt+holen&oldid=3620) |
-| Fächer ohne Noten suchen | [Artikel](/zeugnisse/vorbereitung/faecher-ohne-noten-suchen) | [3624](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%A4cher+ohne+Noten+suchen&oldid=3624) |
-| Fächer ohne Lehrkraft suchen | [Artikel](/zeugnisse/vorbereitung/faecher-ohne-lehrkraft-suchen) | [1897](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%A4cher+ohne+Lehrkraft+suchen&oldid=1897) |
-| Klassenunterrichte bearbeiten | [Artikel](/schild2/gruppenprozesse/klassenunterrichte-bearbeiten) | [3613](https://wiki.svws.nrw.de/mediawiki/index.php?title=Klassenunterrichte+bearbeiten&oldid=3613) |
-| Details zu Fächern bei Schülern ändern | [Artikel](/schild2/gruppenprozesse/details-zu-faechern-bei-schuelern-aendern) | [3614](https://wiki.svws.nrw.de/mediawiki/index.php?title=Details+zu+F%C3%A4chern+bei+Sch%C3%BClern+%C3%A4ndern&oldid=3614) |
-| Einzelne Fächer bei Schülern löschen | [Artikel](/schild2/gruppenprozesse/einzelne-faecher-bei-schuelern-loeschen) | [3611](https://wiki.svws.nrw.de/mediawiki/index.php?title=Einzelne+F%C3%A4cher+bei+Sch%C3%BClern+l%C3%B6schen&oldid=3611) |
-| Einzelne Fächer bei Schülern hinzufügen | [Artikel](/schild2/gruppenprozesse/einzelne-faecher-bei-schuelern-hinzufuegen) | [3615](https://wiki.svws.nrw.de/mediawiki/index.php?title=Einzelne+F%C3%A4cher+bei+Sch%C3%BClern+hinzuf%C3%BCgen&oldid=3615) |
-| Teilleistungen eingeben | [Artikel](/schild2/gruppenprozesse/teilleistungen-eingeben) | [3616](https://wiki.svws.nrw.de/mediawiki/index.php?title=Teilleistungen+eingeben&oldid=3616) |
-| Doppelte Fächer löschen | [Artikel](/schild2/gruppenprozesse/doppelte-faecher-loeschen) | [1934](https://wiki.svws.nrw.de/mediawiki/index.php?title=Doppelte+F%C3%A4cher+l%C3%B6schen&oldid=1934) |
-| Fehlstunden-Summen automatisch berechnen | [Artikel](/zeugnisse/vorbereitung/fehlstunden-summen-automatisch-berechnen) | [1987](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fehlstunden-Summen+automatisch+berechnen&oldid=1987) |
-| Noten, Mahnungen und Fehlstunden eingeben | [Artikel](/zeugnisse/vorbereitung/noten-mahnungen-und-fehlstunden-eingeben) | [3623](https://wiki.svws.nrw.de/mediawiki/index.php?title=Noten%2C+Mahnungen+und+Fehlstunden+eingeben&oldid=3623) |
-| Lernbereichsnoten eingeben | [Artikel](/zeugnisse/vorbereitung/lernbereichsnoten-eingeben) | [1988](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lernbereichsnoten+eingeben&oldid=1988) |
-| Konferenz-/Zeugnis-Datum setzen | [Artikel](/zeugnisse/vorbereitung/konferenz-zeugnis-datum-setzen) | [3626](https://wiki.svws.nrw.de/mediawiki/index.php?title=Konferenz-%2FZeugnis-Datum+setzen&oldid=3626) |
-| Fehlstunden-Summen manuell eingeben | [Artikel](/zeugnisse/vorbereitung/fehlstunden-summen-manuell-eingeben) | [2032](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fehlstunden-Summen+manuell+eingeben&oldid=2032) |
-| Mahnungen automatisch setzen | [Artikel](/zeugnisse/vorbereitung/mahnungen-automatisch-setzen) | [2033](https://wiki.svws.nrw.de/mediawiki/index.php?title=Mahnungen+automatisch+setzen&oldid=2033) |
-| Mahnungen drucken | [Artikel](/zeugnisse/vorbereitung/mahnungen-drucken) | [6067](https://wiki.svws.nrw.de/mediawiki/index.php?title=Mahnungen+drucken&oldid=6067) |
-| Leistungsdaten holen | [Artikel](/zeugnisse/sekundarstufen/leistungsdaten-holen) | [2027](https://wiki.svws.nrw.de/mediawiki/index.php?title=Leistungsdaten+holen&oldid=2027) |
-| Kurse algorithmisch markieren | [Artikel](/zeugnisse/sekundarstufen/kurse-algorithmisch-markieren) | [2028](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurse+algorithmisch+markieren&oldid=2028) |
-| Abitur-Zulassung berechnen | [Artikel](/zeugnisse/sekundarstufen/abitur-zulassung-berechnen) | [2029](https://wiki.svws.nrw.de/mediawiki/index.php?title=Abitur-Zulassung+berechnen&oldid=2029) |
-| Prüfungsergebnisse eingeben | [Artikel](/zeugnisse/sekundarstufen/pruefungsergebnisse-eingeben) | [3631](https://wiki.svws.nrw.de/mediawiki/index.php?title=Pr%C3%BCfungsergebnisse+eingeben&oldid=3631) |
-| Mdl. Prüfungen A1-A3 festlegen | [Artikel](/zeugnisse/sekundarstufen/mdl-pruefungen-a1-a3-festlegen) | [3632](https://wiki.svws.nrw.de/mediawiki/index.php?title=Mdl.+Pr%C3%BCfungen+A1-A3+festlegen&oldid=3632) |
-| Gesamtergebnis berechnen | [Artikel](/zeugnisse/sekundarstufen/gesamtergebnis-berechnen) | [3633](https://wiki.svws.nrw.de/mediawiki/index.php?title=Gesamtergebnis+berechnen&oldid=3633) |
-| Zusatzdaten (Latinum...) eingeben | [Artikel](/zeugnisse/sekundarstufen/zusatzdaten-latinum-eingeben) | [3634](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zusatzdaten+%28Latinum...%29+eingeben&oldid=3634) |
-| Gesamt-Fehlstunden berechnen | [Artikel](/zeugnisse/sekundarstufen/gesamt-fehlstunden-berechnen) | [2054](https://wiki.svws.nrw.de/mediawiki/index.php?title=Gesamt-Fehlstunden+berechnen&oldid=2054) |
-| Abitur-Jahr setzen (für Statistik) | [Artikel](/zeugnisse/sekundarstufen/abitur-jahr-setzen-fuer-statistik) | [2055](https://wiki.svws.nrw.de/mediawiki/index.php?title=Abitur-Jahr+setzen+%28f%C3%BCr+Statistik%29&oldid=2055) |
-| Versetzungs-/Abschluss-Berechnung | [Artikel](/schild2/versetzung/versetzungs-abschluss-berechnung) | [3593](https://wiki.svws.nrw.de/mediawiki/index.php?title=Versetzungs-%2FAbschluss-Berechnung&oldid=3593) |
-| Lernabschnitt individuell anlegen/bearbeiten | [Artikel](/schild2/versetzung/lernabschnitt-individuell-anlegen-bearbeiten) | [3630](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lernabschnitt+individuell+anlegen%2Fbearbeiten&oldid=3630) |
-| Zeugnisbemerkungen eintragen | [Artikel](/zeugnisse/vorbereitung/zeugnisbemerkungen-eintragen) | [2060](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zeugnisbemerkungen+eintragen&oldid=2060) |
-| Abschnittsdaten löschen | [Artikel](/schild2/versetzung/abschnittsdaten-loeschen) | [2063](https://wiki.svws.nrw.de/mediawiki/index.php?title=Abschnittsdaten+l%C3%B6schen&oldid=2063) |
-| Noten des aktuellen Abschnittes löschen | [Artikel](/zeugnisse/vorbereitung/noten-des-aktuellen-abschnittes-loeschen) | [2064](https://wiki.svws.nrw.de/mediawiki/index.php?title=Noten+des+aktuellen+Abschnittes+l%C3%B6schen&oldid=2064) |
-| Zuweisungen durchführen | [Artikel](/zeugnisse/vorbereitung/zuweisungen-durchfuehren) | [2078](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zuweisungen+durchf%C3%BChren&oldid=2078) |
-| Abgeschlossene Fächer holen | [Artikel](/zeugnisse/vorbereitung/abgeschlossene-faecher-holen) | [2106](https://wiki.svws.nrw.de/mediawiki/index.php?title=Abgeschlossene+F%C3%A4cher+holen&oldid=2106) |
-| Abgeschlossene Fächer löschen | [Artikel](/zeugnisse/vorbereitung/abgeschlossene-faecher-loeschen) | [2082](https://wiki.svws.nrw.de/mediawiki/index.php?title=Abgeschlossene+F%C3%A4cher+l%C3%B6schen&oldid=2082) |
-| Belegprüfung für Sek. II | [Artikel](/schild2/gruppenprozesse/belegpruefung-fuer-sek-ii) | [2107](https://wiki.svws.nrw.de/mediawiki/index.php?title=Belegpr%C3%BCfung+f%C3%BCr+Sek.+II&oldid=2107) |
-| Hochrechnung durchführen und speichern | [Artikel](/schild2/gruppenprozesse/hochrechnung-durchfuehren-und-speichern) | [2090](https://wiki.svws.nrw.de/mediawiki/index.php?title=Hochrechnung+durchf%C3%BChren+und+speichern&oldid=2090) |
-| Noten von Epochal-Fächern ergänzen | [Artikel](/schild2/gruppenprozesse/noten-von-epochal-faechern-ergaenzen) | [2110](https://wiki.svws.nrw.de/mediawiki/index.php?title=Noten+von+Epochal-F%C3%A4chern+erg%C3%A4nzen&oldid=2110) |
-| Zugeordnete Zeugnisformulare drucken | [Artikel](/zeugnisse/vorbereitung/zugeordnete-zeugnisformulare-drucken) | [2108](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zugeordnete+Zeugnisformulare+drucken&oldid=2108) |
-| Zeugnisse drucken und Schüler ausschulen | [Artikel](/zeugnisse/vorbereitung/zeugnisse-drucken-und-schueler-ausschulen) | [3627](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zeugnisse+drucken+und+Sch%C3%BCler+ausschulen&oldid=3627) |
-| JG-Tabelle-BK | [Artikel](/schild2/unterricht-kataloge/jg-tabelle-bk) | [2111](https://wiki.svws.nrw.de/mediawiki/index.php?title=JG-Tabelle-BK&oldid=2111) |
-| Versetzung/Übertragung ins neue Halbjahr oder in Abschluss | [Artikel](/schild2/versetzung/versetzung-uebertragung-ins-neue-halbjahr-oder-in-abschluss) | [4647](https://wiki.svws.nrw.de/mediawiki/index.php?title=Versetzung%2F%C3%9Cbertragung+ins+neue+Halbjahr+oder+in+Abschluss&oldid=4647) |
-| Zusatzprogramme / Tools | [Artikel](/hilfe/zusatzprogramme/zusatzprogramme-tools) | [3939](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zusatzprogramme+%2F+Tools&oldid=3939) |
-| Benutzerverwaltung Useradmn.exe | [Artikel](/administration/benutzer-einstellungen/benutzerverwaltung-useradmn-exe) | [5740](https://wiki.svws.nrw.de/mediawiki/index.php?title=Benutzerverwaltung+Useradmn.exe&oldid=5740) |
-| Benutzerverwaltung PlugIn-DLL | [Artikel](/administration/benutzer-einstellungen/benutzerverwaltung-plugin-dll) | [2158](https://wiki.svws.nrw.de/mediawiki/index.php?title=Benutzerverwaltung+PlugIn-DLL&oldid=2158) |
-| Shortcuts in Schild-NRW | [Artikel](/administration/benutzer-einstellungen/shortcuts-in-schild-nrw) | [2371](https://wiki.svws.nrw.de/mediawiki/index.php?title=Shortcuts+in+Schild-NRW&oldid=2371) |
-| Konferenzmodul KM2.exe | [Artikel](/hilfe/zusatzprogramme/konferenzmodul-km2-exe) | [5507](https://wiki.svws.nrw.de/mediawiki/index.php?title=Konferenzmodul+KM2.exe&oldid=5507) |
-| Abitur | [Artikel](/zeugnisse/sekundarstufen/abitur) | [4201](https://wiki.svws.nrw.de/mediawiki/index.php?title=Abitur&oldid=4201) |
-| Betrieb/Adresse zuweisen | [Artikel](/schild2/gruppenprozesse/betrieb-adresse-zuweisen) | [3610](https://wiki.svws.nrw.de/mediawiki/index.php?title=Betrieb%2FAdresse+zuweisen&oldid=3610) |
-| Reportexplorer aufrufen | [Artikel](/reporting/verwaltung/reportexplorer-aufrufen) | [2416](https://wiki.svws.nrw.de/mediawiki/index.php?title=Reportexplorer+aufrufen&oldid=2416) |
-| Dokumentenverwaltung | [Artikel](/administration/benutzer-einstellungen/dokumentenverwaltung) | [3436](https://wiki.svws.nrw.de/mediawiki/index.php?title=Dokumentenverwaltung&oldid=3436) |
-| KM2 001 | [Artikel](/hilfe/zusatzprogramme/km2-001) | [2185](https://wiki.svws.nrw.de/mediawiki/index.php?title=KM2+001&oldid=2185) |
-| KM2 002 | [Artikel](/hilfe/zusatzprogramme/km2-002) | [2187](https://wiki.svws.nrw.de/mediawiki/index.php?title=KM2+002&oldid=2187) |
-| KM2 003 | [Artikel](/hilfe/zusatzprogramme/km2-003) | [2189](https://wiki.svws.nrw.de/mediawiki/index.php?title=KM2+003&oldid=2189) |
-| KM2 - Parameter - Administration | [Artikel](/hilfe/zusatzprogramme/km2-parameter-administration) | [2983](https://wiki.svws.nrw.de/mediawiki/index.php?title=KM2+-+Parameter+-+Administration&oldid=2983) |
-| Benutzerverwaltung | [Artikel](/administration/benutzer-einstellungen/benutzerverwaltung) | [3047](https://wiki.svws.nrw.de/mediawiki/index.php?title=Benutzerverwaltung&oldid=3047) |
-| KM2 - Parameter - Allgemein | [Artikel](/hilfe/zusatzprogramme/km2-parameter-allgemein) | [2984](https://wiki.svws.nrw.de/mediawiki/index.php?title=KM2+-+Parameter+-+Allgemein&oldid=2984) |
-| Modulbenutzung | [Artikel](/hilfe/zusatzprogramme/modulbenutzung) | [2986](https://wiki.svws.nrw.de/mediawiki/index.php?title=Modulbenutzung&oldid=2986) |
-| KM2-Programmupdate | [Artikel](/hilfe/zusatzprogramme/km2-programmupdate) | [2395](https://wiki.svws.nrw.de/mediawiki/index.php?title=KM2-Programmupdate&oldid=2395) |
-| Schüler-Datensätze löschen | [Artikel](/schild2/gruppenprozesse/schueler-datensaetze-loeschen) | [2247](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sch%C3%BCler-Datens%C3%A4tze+l%C3%B6schen&oldid=2247) |
-| Grundschuldaten löschen | [Artikel](/schild2/gruppenprozesse/grundschuldaten-loeschen) | [2250](https://wiki.svws.nrw.de/mediawiki/index.php?title=Grundschuldaten+l%C3%B6schen&oldid=2250) |
-| Dokumentenverzeichnisse aktualisieren | [Artikel](/administration/benutzer-einstellungen/dokumentenverzeichnisse-aktualisieren) | [2253](https://wiki.svws.nrw.de/mediawiki/index.php?title=Dokumentenverzeichnisse+aktualisieren&oldid=2253) |
-| Dokumentenverwaltung aufräumen | [Artikel](/administration/benutzer-einstellungen/dokumentenverwaltung-aufraeumen) | [2257](https://wiki.svws.nrw.de/mediawiki/index.php?title=Dokumentenverwaltung+aufr%C3%A4umen&oldid=2257) |
-| Übersicht S I | [Artikel](/zeugnisse/sekundarstufen/uebersicht-s-i) | [2283](https://wiki.svws.nrw.de/mediawiki/index.php?title=%C3%9Cbersicht+S+I&oldid=2283) |
-| Übersicht Primarstufe | [Artikel](/zeugnisse/grundschule/uebersicht-primarstufe) | [2284](https://wiki.svws.nrw.de/mediawiki/index.php?title=%C3%9Cbersicht+Primarstufe&oldid=2284) |
-| ZP10/ZK10 | [Artikel](/zeugnisse/sekundarstufen/zp10-zk10) | [6071](https://wiki.svws.nrw.de/mediawiki/index.php?title=ZP10%2FZK10&oldid=6071) |
-| Eintragung Herkunft am BK/WBK | [Artikel](/zeugnisse/berufskolleg/eintragung-herkunft-am-bk-wbk) | [2329](https://wiki.svws.nrw.de/mediawiki/index.php?title=Eintragung+Herkunft+am+BK%2FWBK&oldid=2329) |
-| Grundschuldaten eingeben | [Artikel](/schild2/schueler/grundschuldaten-eingeben) | [2347](https://wiki.svws.nrw.de/mediawiki/index.php?title=Grundschuldaten+eingeben&oldid=2347) |
-| Standard-Formulare drucken | [Artikel](/reporting/verwaltung/standard-formulare-drucken) | [2370](https://wiki.svws.nrw.de/mediawiki/index.php?title=Standard-Formulare+drucken&oldid=2370) |
-| Hochschreibungsalgorithmus | [Artikel](/schild2/versetzung/hochschreibungsalgorithmus) | [2414](https://wiki.svws.nrw.de/mediawiki/index.php?title=Hochschreibungsalgorithmus&oldid=2414) |
-| Report aus Archiv drucken | [Artikel](/reporting/verwaltung/report-aus-archiv-drucken) | [2432](https://wiki.svws.nrw.de/mediawiki/index.php?title=Report+aus+Archiv+drucken&oldid=2432) |
-| Word-Seriendruck | [Artikel](/reporting/verwaltung/word-seriendruck) | [2436](https://wiki.svws.nrw.de/mediawiki/index.php?title=Word-Seriendruck&oldid=2436) |
-| Abiturdurchlauf | [Artikel](/zeugnisse/sekundarstufen/abiturdurchlauf) | [2576](https://wiki.svws.nrw.de/mediawiki/index.php?title=Abiturdurchlauf&oldid=2576) |
-| Textzeugnisse zuordnen | [Artikel](/zeugnisse/grundschule/textzeugnisse-zuordnen) | [2477](https://wiki.svws.nrw.de/mediawiki/index.php?title=Textzeugnisse+zuordnen&oldid=2477) |
-| Textzeugnisse erzeugen | [Artikel](/zeugnisse/grundschule/textzeugnisse-erzeugen) | [2476](https://wiki.svws.nrw.de/mediawiki/index.php?title=Textzeugnisse+erzeugen&oldid=2476) |
-| Textzeugnisse drucken | [Artikel](/zeugnisse/grundschule/textzeugnisse-drucken) | [2482](https://wiki.svws.nrw.de/mediawiki/index.php?title=Textzeugnisse+drucken&oldid=2482) |
-| Neuaufnahmen in Schild-NRW 001 | [Artikel](/einstieg/erste-schritte/neuaufnahmen-in-schild-nrw-001) | [2591](https://wiki.svws.nrw.de/mediawiki/index.php?title=Neuaufnahmen+in+Schild-NRW+001&oldid=2591) |
-| Einführung in die Gruppenprozesse 001 | [Artikel](/einstieg/erste-schritte/einfuehrung-in-die-gruppenprozesse-001) | [3598](https://wiki.svws.nrw.de/mediawiki/index.php?title=Einf%C3%BChrung+in+die+Gruppenprozesse+001&oldid=3598) |
-| Zeugnisvorbereitungen und Druck | [Artikel](/zeugnisse/vorbereitung/zeugnisvorbereitungen-und-druck) | [2981](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zeugnisvorbereitungen+und+Druck&oldid=2981) |
-| Leistungsdaten Kursunterricht | [Artikel](/schild2/unterricht-kataloge/leistungsdaten-kursunterricht) | [3146](https://wiki.svws.nrw.de/mediawiki/index.php?title=Leistungsdaten+Kursunterricht&oldid=3146) |
-| Erstellen einfacher Reports | [Artikel](/reporting/erstellung/erstellen-einfacher-reports) | [4143](https://wiki.svws.nrw.de/mediawiki/index.php?title=Erstellen+einfacher+Reports&oldid=4143) |
-| AlleFaecherLaden | [Artikel](/reporting/rap/allefaecherladen) | [2671](https://wiki.svws.nrw.de/mediawiki/index.php?title=AlleFaecherLaden&oldid=2671) |
-| GeRNiveauAusFachKrz | [Artikel](/reporting/rap/gerniveauausfachkrz) | [2720](https://wiki.svws.nrw.de/mediawiki/index.php?title=GeRNiveauAusFachKrz&oldid=2720) |
-| Fördermaßnahmen | [Artikel](/schild2/schueler/foerdermassnahmen) | [3726](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%B6rderma%C3%9Fnahmen&oldid=3726) |
-| Excel-Notendateien | [Artikel](/zeugnisse/vorbereitung/excel-notendateien) | [2774](https://wiki.svws.nrw.de/mediawiki/index.php?title=Excel-Notendateien&oldid=2774) |
-| Eingabe der GeR-Niveaus | [Artikel](/schild2/unterricht-kataloge/eingabe-der-ger-niveaus) | [3121](https://wiki.svws.nrw.de/mediawiki/index.php?title=Eingabe+der+GeR-Niveaus&oldid=3121) |
-| Nicht mögliche Fachkombinationen | [Artikel](/schild2/unterricht-kataloge/nicht-moegliche-fachkombinationen) | [2821](https://wiki.svws.nrw.de/mediawiki/index.php?title=Nicht+m%C3%B6gliche+Fachkombinationen&oldid=2821) |
-| Ausgewählte Beispiele aus der BASIC-Sammlung | [Artikel](/reporting/erstellung/ausgewaehlte-beispiele-aus-der-basic-sammlung) | [3811](https://wiki.svws.nrw.de/mediawiki/index.php?title=Ausgew%C3%A4hlte+Beispiele+aus+der+BASIC-Sammlung&oldid=3811) |
-| Leistungsdaten Klassenunterricht | [Artikel](/schild2/unterricht-kataloge/leistungsdaten-klassenunterricht) | [3145](https://wiki.svws.nrw.de/mediawiki/index.php?title=Leistungsdaten+Klassenunterricht&oldid=3145) |
-| Sprachenfolge bei Seiteneinsteigern des Gymnasiums in Zeugnis korrekt ausgeben | [Artikel](/zeugnisse/sekundarstufen/sprachenfolge-bei-seiteneinsteigern-des-gymnasiums-in-zeugnis-korrekt-ausgeben) | [2898](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sprachenfolge+bei+Seiteneinsteigern+des+Gymnasiums+in+Zeugnis+korrekt+ausgeben&oldid=2898) |
-| Mündliche Prüfungen A1-A3 festlegen | [Artikel](/zeugnisse/sekundarstufen/muendliche-pruefungen-a1-a3-festlegen) | [2899](https://wiki.svws.nrw.de/mediawiki/index.php?title=M%C3%BCndliche+Pr%C3%BCfungen+A1-A3+festlegen&oldid=2899) |
-| Zusatzdaten (Latimun...) eingeben | [Artikel](/zeugnisse/sekundarstufen/zusatzdaten-latimun-eingeben) | [2900](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zusatzdaten+%28Latimun...%29+eingeben&oldid=2900) |
-| Teilleistungen | [Artikel](/schild2/gruppenprozesse/teilleistungen) | [3622](https://wiki.svws.nrw.de/mediawiki/index.php?title=Teilleistungen&oldid=3622) |
-| Lupo:LuPO | [Artikel](/hilfe/zusatzprogramme/lupo-lupo) | [3042](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo%3ALuPO&oldid=3042) |
-| LuPO Einleitung | [Artikel](/hilfe/zusatzprogramme/lupo-einleitung) | [5491](https://wiki.svws.nrw.de/mediawiki/index.php?title=LuPO+Einleitung&oldid=5491) |
-| Benutzung von Filter I 001 | [Artikel](/schild2/auswahl/benutzung-von-filter-i-001) | [3255](https://wiki.svws.nrw.de/mediawiki/index.php?title=Benutzung+von+Filter+I+001&oldid=3255) |
-| Datenexport nach Excel oder OpenOffice-Calc | [Artikel](/schild2/import-export-statistik/datenexport-nach-excel-oder-openoffice-calc) | [3244](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datenexport+nach+Excel+oder+OpenOffice-Calc&oldid=3244) |
-| Sortierung ändern | [Artikel](/schild2/auswahl/sortierung-aendern) | [3214](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sortierung+%C3%A4ndern&oldid=3214) |
-| Import der Zeugnisformulare in Schild-NRW | [Artikel](/zeugnisse/vorbereitung/import-der-zeugnisformulare-in-schild-nrw) | [5874](https://wiki.svws.nrw.de/mediawiki/index.php?title=Import+der+Zeugnisformulare+in+Schild-NRW&oldid=5874) |
-| Fachbezogene Bemerkungen | [Artikel](/zeugnisse/vorbereitung/fachbezogene-bemerkungen) | [3238](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fachbezogene+Bemerkungen&oldid=3238) |
-| Datenbank kopieren | [Artikel](/administration/datenbanken/datenbank-kopieren) | [3635](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datenbank+kopieren&oldid=3635) |
-| Transaktionsprotokoll verwenden | [Artikel](/administration/datenbanken/transaktionsprotokoll-verwenden) | [3419](https://wiki.svws.nrw.de/mediawiki/index.php?title=Transaktionsprotokoll+verwenden&oldid=3419) |
-| Benutzung des externen Notenmoduls | [Artikel](/zeugnisse/vorbereitung/benutzung-des-externen-notenmoduls) | [3456](https://wiki.svws.nrw.de/mediawiki/index.php?title=Benutzung+des+externen+Notenmoduls&oldid=3456) |
-| Eintragung der Schüler im offenen Ganztag | [Artikel](/schild2/schueler/eintragung-der-schueler-im-offenen-ganztag) | [6036](https://wiki.svws.nrw.de/mediawiki/index.php?title=Eintragung+der+Sch%C3%BCler+im+offenen+Ganztag&oldid=6036) |
-| Eigene Datenquellen für Schild-Reports | [Artikel](/reporting/erstellung/eigene-datenquellen-fuer-schild-reports) | [3527](https://wiki.svws.nrw.de/mediawiki/index.php?title=Eigene+Datenquellen+f%C3%BCr+Schild-Reports&oldid=3527) |
-| DQ01-Demo.spd | [Artikel](/reporting/erstellung/dq01-demo-spd) | [3513](https://wiki.svws.nrw.de/mediawiki/index.php?title=DQ01-Demo.spd&oldid=3513) |
-| Eingabe von Flüchtlingskindern | [Artikel](/schild2/schueler/eingabe-von-fluechtlingskindern) | [5693](https://wiki.svws.nrw.de/mediawiki/index.php?title=Eingabe+von+Fl%C3%BCchtlingskindern&oldid=5693) |
-| Erzieher mit Funktionen | [Artikel](/schild2/unterricht-kataloge/erzieher-mit-funktionen) | [3592](https://wiki.svws.nrw.de/mediawiki/index.php?title=Erzieher+mit+Funktionen&oldid=3592) |
-| FilterFachUebersichtAufKlasse | [Artikel](/reporting/rap/filterfachuebersichtaufklasse) | [4282](https://wiki.svws.nrw.de/mediawiki/index.php?title=FilterFachUebersichtAufKlasse&oldid=4282) |
-| Textbreite | [Artikel](/reporting/rap/textbreite) | [3668](https://wiki.svws.nrw.de/mediawiki/index.php?title=Textbreite&oldid=3668) |
-| Papierkorb zeigen | [Artikel](/schild2/auswahl/papierkorb-zeigen) | [3715](https://wiki.svws.nrw.de/mediawiki/index.php?title=Papierkorb+zeigen&oldid=3715) |
-| SEM:Schnelleingabemodul | [Artikel](/hilfe/zusatzprogramme/sem-schnelleingabemodul) | [3751](https://wiki.svws.nrw.de/mediawiki/index.php?title=SEM%3ASchnelleingabemodul&oldid=3751) |
-| SchildChat.exe | [Artikel](/hilfe/zusatzprogramme/schildchat-exe) | [3752](https://wiki.svws.nrw.de/mediawiki/index.php?title=SchildChat.exe&oldid=3752) |
-| Migrationshintergrund automatisch setzen | [Artikel](/schild2/gruppenprozesse/migrationshintergrund-automatisch-setzen) | [3780](https://wiki.svws.nrw.de/mediawiki/index.php?title=Migrationshintergrund+automatisch+setzen&oldid=3780) |
-| JaNa-Export (Jahrgang und Nationalität) | [Artikel](/schild2/import-export-statistik/jana-export-jahrgang-und-nationalitaet) | [3861](https://wiki.svws.nrw.de/mediawiki/index.php?title=JaNa-Export+%28Jahrgang+und+Nationalit%C3%A4t%29&oldid=3861) |
-| SchILDweb | [Artikel](/hilfe/zusatzprogramme/schildweb) | [3865](https://wiki.svws.nrw.de/mediawiki/index.php?title=SchILDweb&oldid=3865) |
-| Individuelle Schülergruppen bearbeiten und nutzen | [Artikel](/schild2/auswahl/individuelle-schuelergruppen-bearbeiten-und-nutzen) | [3878](https://wiki.svws.nrw.de/mediawiki/index.php?title=Individuelle+Sch%C3%BClergruppen+bearbeiten+und+nutzen&oldid=3878) |
-| Kursverwaltung KPlan.exe | [Artikel](/hilfe/zusatzprogramme/kursverwaltung-kplan-exe) | [3906](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kursverwaltung+KPlan.exe&oldid=3906) |
-| Kursplanung KPlan.exe | [Artikel](/hilfe/zusatzprogramme/kursplanung-kplan-exe) | [3913](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kursplanung+KPlan.exe&oldid=3913) |
-| Access-Datenbanken und Windows-Server 2012 | [Artikel](/administration/installation/access-datenbanken-und-windows-server-2012) | [3931](https://wiki.svws.nrw.de/mediawiki/index.php?title=Access-Datenbanken+und+Windows-Server+2012&oldid=3931) |
-| UDL-Dateien unter 64-BIT | [Artikel](/administration/installation/udl-dateien-unter-64-bit) | [3933](https://wiki.svws.nrw.de/mediawiki/index.php?title=UDL-Dateien+unter+64-BIT&oldid=3933) |
-| S1PLAN:Übersicht | [Artikel](/hilfe/zusatzprogramme/s1plan-uebersicht) | [4044](https://wiki.svws.nrw.de/mediawiki/index.php?title=S1PLAN%3A%C3%9Cbersicht&oldid=4044) |
-| News:Kurs42 unter Schild-Zentral | [Artikel](/hilfe/zusatzprogramme/news-kurs42-unter-schild-zentral) | [6063](https://wiki.svws.nrw.de/mediawiki/index.php?title=News%3AKurs42+unter+Schild-Zentral&oldid=6063) |
-| S1PLAN:Installation | [Artikel](/hilfe/zusatzprogramme/s1plan-installation) | [4015](https://wiki.svws.nrw.de/mediawiki/index.php?title=S1PLAN%3AInstallation&oldid=4015) |
-| S1PLAN:Erster Programmstart | [Artikel](/hilfe/zusatzprogramme/s1plan-erster-programmstart) | [4028](https://wiki.svws.nrw.de/mediawiki/index.php?title=S1PLAN%3AErster+Programmstart&oldid=4028) |
-| S1PLAN:Einrichtung von Kursen | [Artikel](/hilfe/zusatzprogramme/s1plan-einrichtung-von-kursen) | [4078](https://wiki.svws.nrw.de/mediawiki/index.php?title=S1PLAN%3AEinrichtung+von+Kursen&oldid=4078) |
-| S1PLAN:Übernahme von Kursen aus Schild | [Artikel](/hilfe/zusatzprogramme/s1plan-uebernahme-von-kursen-aus-schild) | [4073](https://wiki.svws.nrw.de/mediawiki/index.php?title=S1PLAN%3A%C3%9Cbernahme+von+Kursen+aus+Schild&oldid=4073) |
-| Umgang mit Bildungsgangswechlsern am BK | [Artikel](/schild2/versetzung/umgang-mit-bildungsgangswechlsern-am-bk) | [4062](https://wiki.svws.nrw.de/mediawiki/index.php?title=Umgang+mit+Bildungsgangswechlsern+am+BK&oldid=4062) |
-| Datenbank reparieren und komprimieren | [Artikel](/administration/datenbanken/datenbank-reparieren-und-komprimieren) | [4064](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datenbank+reparieren+und+komprimieren&oldid=4064) |
-| S1PLAN:Anhang | [Artikel](/hilfe/zusatzprogramme/s1plan-anhang) | [4075](https://wiki.svws.nrw.de/mediawiki/index.php?title=S1PLAN%3AAnhang&oldid=4075) |
-| BK-Abschluss:Anlage-D | [Artikel](/zeugnisse/berufskolleg/bk-abschluss-anlage-d) | [4746](https://wiki.svws.nrw.de/mediawiki/index.php?title=BK-Abschluss%3AAnlage-D&oldid=4746) |
-| Anlage D01 | [Artikel](/zeugnisse/berufskolleg/anlage-d01) | [4196](https://wiki.svws.nrw.de/mediawiki/index.php?title=Anlage+D01&oldid=4196) |
-| Umstellung der Gymnasien von G8 auf G9 | [Artikel](/schild2/versetzung/umstellung-der-gymnasien-von-g8-auf-g9) | [5929](https://wiki.svws.nrw.de/mediawiki/index.php?title=Umstellung+der+Gymnasien+von+G8+auf+G9&oldid=5929) |
-| AufFaecherFiltern | [Artikel](/reporting/rap/auffaecherfiltern) | [4247](https://wiki.svws.nrw.de/mediawiki/index.php?title=AufFaecherFiltern&oldid=4247) |
-| Datenliste | [Artikel](/reporting/rap/datenliste) | [4250](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datenliste&oldid=4250) |
-| Teilleistungen einrichten und verwalten | [Artikel](/schild2/unterricht-kataloge/teilleistungen-einrichten-und-verwalten) | [5289](https://wiki.svws.nrw.de/mediawiki/index.php?title=Teilleistungen+einrichten+und+verwalten&oldid=5289) |
-| Teilleistungen Einrichten und Verwalten | [Artikel](/schild2/unterricht-kataloge/teilleistungen-einrichten-und-verwalten-1152) | [4270](https://wiki.svws.nrw.de/mediawiki/index.php?title=Teilleistungen+Einrichten+und+Verwalten&oldid=4270) |
-| Externe Blockungs-Tools | [Artikel](/hilfe/zusatzprogramme/externe-blockungs-tools) | [4572](https://wiki.svws.nrw.de/mediawiki/index.php?title=Externe+Blockungs-Tools&oldid=4572) |
-| K422CNF:Übersicht | [Artikel](/hilfe/zusatzprogramme/k422cnf-uebersicht) | [4323](https://wiki.svws.nrw.de/mediawiki/index.php?title=K422CNF%3A%C3%9Cbersicht&oldid=4323) |
-| Kurs42 To CNF:Hauptseite | [Artikel](/hilfe/zusatzprogramme/kurs42-to-cnf-hauptseite) | [4591](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurs42+To+CNF%3AHauptseite&oldid=4591) |
-| Klausurplanung CNF:Hauptseite | [Artikel](/hilfe/zusatzprogramme/klausurplanung-cnf-hauptseite) | [4499](https://wiki.svws.nrw.de/mediawiki/index.php?title=Klausurplanung+CNF%3AHauptseite&oldid=4499) |
-| Multi Klausurplanung CNF:Hauptseite | [Artikel](/hilfe/zusatzprogramme/multi-klausurplanung-cnf-hauptseite) | [4574](https://wiki.svws.nrw.de/mediawiki/index.php?title=Multi+Klausurplanung+CNF%3AHauptseite&oldid=4574) |
-| Inhaltsverzeichnis | [Artikel](/einstieg/grundlagen/inhaltsverzeichnis) | [5938](https://wiki.svws.nrw.de/mediawiki/index.php?title=Inhaltsverzeichnis&oldid=5938) |
-| Einrichtung des ENM-Moduls unter Ubuntu 18.04 | [Artikel](/administration/installation/einrichtung-des-enm-moduls-unter-ubuntu-18-04) | [4609](https://wiki.svws.nrw.de/mediawiki/index.php?title=Einrichtung+des+ENM-Moduls+unter+Ubuntu+18.04&oldid=4609) |
-| Grundschulzeugnisse Textzeugnis | [Artikel](/zeugnisse/grundschule/grundschulzeugnisse-textzeugnis) | [5515](https://wiki.svws.nrw.de/mediawiki/index.php?title=Grundschulzeugnisse+Textzeugnis&oldid=5515) |
-| Grundschulzeugnisse Ankreuzzeugnis | [Artikel](/zeugnisse/grundschule/grundschulzeugnisse-ankreuzzeugnis) | [4618](https://wiki.svws.nrw.de/mediawiki/index.php?title=Grundschulzeugnisse+Ankreuzzeugnis&oldid=4618) |
-| Grundschulzeugnisse Lernstandsberichte | [Artikel](/zeugnisse/grundschule/grundschulzeugnisse-lernstandsberichte) | [4619](https://wiki.svws.nrw.de/mediawiki/index.php?title=Grundschulzeugnisse+Lernstandsberichte&oldid=4619) |
-| Versetzung ins neue Schuljahr / Abschnittswechsel durchführen | [Artikel](/schild2/versetzung/versetzung-ins-neue-schuljahr-abschnittswechsel-durchfuehren) | [4653](https://wiki.svws.nrw.de/mediawiki/index.php?title=Versetzung+ins+neue+Schuljahr+%2F+Abschnittswechsel+durchf%C3%BChren&oldid=4653) |
-| Youtube | [Artikel](/hilfe/wiki-archiv/youtube) | [4699](https://wiki.svws.nrw.de/mediawiki/index.php?title=Youtube&oldid=4699) |
-| Mailversand aus der Reporting | [Artikel](/reporting/verwaltung/mailversand-aus-der-reporting) | [4731](https://wiki.svws.nrw.de/mediawiki/index.php?title=Mailversand+aus+der+Reporting&oldid=4731) |
-| BK-Abschluss:Anlage-A | [Artikel](/zeugnisse/berufskolleg/bk-abschluss-anlage-a) | [4741](https://wiki.svws.nrw.de/mediawiki/index.php?title=BK-Abschluss%3AAnlage-A&oldid=4741) |
-| BK-Abschluss:Anlage-B | [Artikel](/zeugnisse/berufskolleg/bk-abschluss-anlage-b) | [4742](https://wiki.svws.nrw.de/mediawiki/index.php?title=BK-Abschluss%3AAnlage-B&oldid=4742) |
-| BK-Abschluss:Anlage-C | [Artikel](/zeugnisse/berufskolleg/bk-abschluss-anlage-c) | [4743](https://wiki.svws.nrw.de/mediawiki/index.php?title=BK-Abschluss%3AAnlage-C&oldid=4743) |
-| D01 Berufsabschluss/Allg. Hochschulreife (mit Berufspraktikum) (BAB/AHR 4j; VZ) | [Artikel](/zeugnisse/berufskolleg/d01-berufsabschluss-allg-hochschulreife-mit-berufspraktikum-bab-ahr-4j-vz) | [4745](https://wiki.svws.nrw.de/mediawiki/index.php?title=D01+Berufsabschluss%2FAllg.+Hochschulreife+%28mit+Berufspraktikum%29+%28BAB%2FAHR+4j%3B+VZ%29&oldid=4745) |
-| BK-Abschluss:Anlage-E | [Artikel](/zeugnisse/berufskolleg/bk-abschluss-anlage-e) | [4747](https://wiki.svws.nrw.de/mediawiki/index.php?title=BK-Abschluss%3AAnlage-E&oldid=4747) |
-| A01 Fachklassen (BS; TZ) | [Artikel](/zeugnisse/berufskolleg/a01-fachklassen-bs-tz) | [4749](https://wiki.svws.nrw.de/mediawiki/index.php?title=A01+Fachklassen+%28BS%3B+TZ%29&oldid=4749) |
-| A03 Fachklassen/erweiterte Zusatzqualifikation (BS/ZQ; TZ) | [Artikel](/zeugnisse/berufskolleg/a03-fachklassen-erweiterte-zusatzqualifikation-bs-zq-tz) | [4751](https://wiki.svws.nrw.de/mediawiki/index.php?title=A03+Fachklassen%2Ferweiterte+Zusatzqualifikation+%28BS%2FZQ%3B+TZ%29&oldid=4751) |
-| A13 Ausbildungsvorbereitung (BS 1j; TZ) | [Artikel](/zeugnisse/berufskolleg/a13-ausbildungsvorbereitung-bs-1j-tz) | [4755](https://wiki.svws.nrw.de/mediawiki/index.php?title=A13+Ausbildungsvorbereitung+%28BS+1j%3B+TZ%29&oldid=4755) |
-| A12 Ausbildungsvorbereitung (BS 1j; VZ) | [Artikel](/zeugnisse/berufskolleg/a12-ausbildungsvorbereitung-bs-1j-vz) | [4756](https://wiki.svws.nrw.de/mediawiki/index.php?title=A12+Ausbildungsvorbereitung+%28BS+1j%3B+VZ%29&oldid=4756) |
-| B06 Berufliche Kenntnisse/Hauptschulabschluss Kl. 10 (BK/HSA10; 1j. VZ) | [Artikel](/zeugnisse/berufskolleg/b06-berufliche-kenntnisse-hauptschulabschluss-kl-10-bk-hsa10-1j-vz) | [4758](https://wiki.svws.nrw.de/mediawiki/index.php?title=B06+Berufliche+Kenntnisse%2FHauptschulabschluss+Kl.+10+%28BK%2FHSA10%3B+1j.+VZ%29&oldid=4758) |
-| B07 Berufliche Kenntnisse/mittlerer Schulabschluss (BK/FOR; 1j. VZ) | [Artikel](/zeugnisse/berufskolleg/b07-berufliche-kenntnisse-mittlerer-schulabschluss-bk-for-1j-vz) | [4760](https://wiki.svws.nrw.de/mediawiki/index.php?title=B07+Berufliche+Kenntnisse%2Fmittlerer+Schulabschluss+%28BK%2FFOR%3B+1j.+VZ%29&oldid=4760) |
-| C01 Berufsabschluss/Fachhochschulreife (ohne Berufspraktikum) BAB/FHR 3j; VZ | [Artikel](/zeugnisse/berufskolleg/c01-berufsabschluss-fachhochschulreife-ohne-berufspraktikum-bab-fhr-3j-vz) | [4762](https://wiki.svws.nrw.de/mediawiki/index.php?title=C01+Berufsabschluss%2FFachhochschulreife+%28ohne+Berufspraktikum%29+BAB%2FFHR+3j%3B+VZ&oldid=4762) |
-| C02 Berufsabschluss f. Hochschulzugangsberechtigte (BAB 2j; VZ) BFS | [Artikel](/zeugnisse/berufskolleg/c02-berufsabschluss-f-hochschulzugangsberechtigte-bab-2j-vz-bfs) | [4764](https://wiki.svws.nrw.de/mediawiki/index.php?title=C02+Berufsabschluss+f.+Hochschulzugangsberechtigte+%28BAB+2j%3B+VZ%29+BFS&oldid=4764) |
-| C05 Fachoberschule Kl. 11 (BK/FHR 1j; TZ) | [Artikel](/zeugnisse/berufskolleg/c05-fachoberschule-kl-11-bk-fhr-1j-tz) | [4766](https://wiki.svws.nrw.de/mediawiki/index.php?title=C05+Fachoberschule+Kl.+11+%28BK%2FFHR+1j%3B+TZ%29&oldid=4766) |
-| C06 Fachoberschule Kl. 12S (BK/FHR 1j; VZ) | [Artikel](/zeugnisse/berufskolleg/c06-fachoberschule-kl-12s-bk-fhr-1j-vz) | [4768](https://wiki.svws.nrw.de/mediawiki/index.php?title=C06+Fachoberschule+Kl.+12S+%28BK%2FFHR+1j%3B+VZ%29&oldid=4768) |
-| C08 Fachoberschule Kl. 12B (BK/FHR 1j; VZ) | [Artikel](/zeugnisse/berufskolleg/c08-fachoberschule-kl-12b-bk-fhr-1j-vz) | [4770](https://wiki.svws.nrw.de/mediawiki/index.php?title=C08+Fachoberschule+Kl.+12B+%28BK%2FFHR+1j%3B+VZ%29&oldid=4770) |
-| E02 Fachschule Teilzeit (BW 4j; TZ) | [Artikel](/zeugnisse/berufskolleg/e02-fachschule-teilzeit-bw-4j-tz) | [4772](https://wiki.svws.nrw.de/mediawiki/index.php?title=E02+Fachschule+Teilzeit+%28BW+4j%3B+TZ%29&oldid=4772) |
-| Prognos | [Artikel](/hilfe/zusatzprogramme/prognos) | [4949](https://wiki.svws.nrw.de/mediawiki/index.php?title=Prognos&oldid=4949) |
-| Prognos:Einleitung | [Artikel](/hilfe/zusatzprogramme/prognos-einleitung) | [4836](https://wiki.svws.nrw.de/mediawiki/index.php?title=Prognos%3AEinleitung&oldid=4836) |
-| Prognos:Installation | [Artikel](/hilfe/zusatzprogramme/prognos-installation) | [5511](https://wiki.svws.nrw.de/mediawiki/index.php?title=Prognos%3AInstallation&oldid=5511) |
-| Statistik mit ASDPC | [Artikel](/schild2/import-export-statistik/statistik-mit-asdpc) | [5337](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC&oldid=5337) |
-| Prognos:Programmstart | [Artikel](/hilfe/zusatzprogramme/prognos-programmstart) | [5339](https://wiki.svws.nrw.de/mediawiki/index.php?title=Prognos%3AProgrammstart&oldid=5339) |
-| Prognos:Hauptfenster | [Artikel](/hilfe/zusatzprogramme/prognos-hauptfenster) | [5111](https://wiki.svws.nrw.de/mediawiki/index.php?title=Prognos%3AHauptfenster&oldid=5111) |
-| Prognos:Analyseverfahren: Einzelfall | [Artikel](/hilfe/zusatzprogramme/prognos-analyseverfahren-einzelfall) | [5079](https://wiki.svws.nrw.de/mediawiki/index.php?title=Prognos%3AAnalyseverfahren%3A+Einzelfall&oldid=5079) |
-| Prognos:Analyseverfahren: Klasse | [Artikel](/hilfe/zusatzprogramme/prognos-analyseverfahren-klasse) | [5080](https://wiki.svws.nrw.de/mediawiki/index.php?title=Prognos%3AAnalyseverfahren%3A+Klasse&oldid=5080) |
-| Einwilligungen | [Artikel](/schild2/schueler/einwilligungen) | [5040](https://wiki.svws.nrw.de/mediawiki/index.php?title=Einwilligungen&oldid=5040) |
-| Prognos:Analyseverfahren: Datei | [Artikel](/hilfe/zusatzprogramme/prognos-analyseverfahren-datei) | [5081](https://wiki.svws.nrw.de/mediawiki/index.php?title=Prognos%3AAnalyseverfahren%3A+Datei&oldid=5081) |
-| Lernplattformen | [Artikel](/schild2/unterricht-kataloge/lernplattformen) | [5384](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lernplattformen&oldid=5384) |
-| Statistik mit ASDPC-Schluesselmanagement | [Artikel](/schild2/import-export-statistik/statistik-mit-asdpc-schluesselmanagement) | [5292](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC-Schluesselmanagement&oldid=5292) |
-| Statistik mit ASDPC-Technik | [Artikel](/schild2/import-export-statistik/statistik-mit-asdpc-technik) | [5307](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC-Technik&oldid=5307) |
-| Statistik mit ASDPC-Aufbau | [Artikel](/schild2/import-export-statistik/statistik-mit-asdpc-aufbau) | [5254](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC-Aufbau&oldid=5254) |
-| Statistik mit ASDPC Fehlersuche | [Artikel](/schild2/import-export-statistik/statistik-mit-asdpc-fehlersuche) | [5713](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC+Fehlersuche&oldid=5713) |
-| Statistik mit ASDPC Vorbereitung | [Artikel](/schild2/import-export-statistik/statistik-mit-asdpc-vorbereitung) | [5308](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC+Vorbereitung&oldid=5308) |
-| Statistik mit ASDPC Haupterhebung | [Artikel](/schild2/import-export-statistik/statistik-mit-asdpc-haupterhebung) | [5313](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC+Haupterhebung&oldid=5313) |
-| Statistik mit ASDPC Übersicht | [Artikel](/schild2/import-export-statistik/statistik-mit-asdpc-uebersicht) | [5350](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC+%C3%9Cbersicht&oldid=5350) |
-| Statistik mit ASDPC Uebersicht | [Artikel](/schild2/import-export-statistik/statistik-mit-asdpc-uebersicht-1346) | [5343](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC+Uebersicht&oldid=5343) |
-| Versionsgeschichte Schild-NRW | [Artikel](/hilfe/wiki-archiv/versionsgeschichte-schild-nrw) | [6074](https://wiki.svws.nrw.de/mediawiki/index.php?title=Versionsgeschichte+Schild-NRW&oldid=6074) |
-| Fehler beim Export der Statistikdateien - Klasse nicht registriert | [Artikel](/hilfe/probleme/fehler-beim-export-der-statistikdateien-klasse-nicht-registriert) | [5469](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fehler+beim+Export+der+Statistikdateien+-+Klasse+nicht+registriert&oldid=5469) |
-| Schild-NRW Installation | [Artikel](/administration/installation/schild-nrw-installation) | [6059](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schild-NRW+Installation&oldid=6059) |
-| Schild-NRW-Daten in eine andere Datenbank übertragen (migrieren) | [Artikel](/administration/datenbanken/schild-nrw-daten-in-eine-andere-datenbank-uebertragen-migrieren) | [5623](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schild-NRW-Daten+in+eine+andere+Datenbank+%C3%BCbertragen+%28migrieren%29&oldid=5623) |
-| Kurs42:Installationshinweise | [Artikel](/hilfe/zusatzprogramme/kurs42-installationshinweise) | [5508](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurs42%3AInstallationshinweise&oldid=5508) |
-| Kurs42:Versionsgeschichte | [Artikel](/hilfe/zusatzprogramme/kurs42-versionsgeschichte) | [6010](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurs42%3AVersionsgeschichte&oldid=6010) |
-| Testseite | [Artikel](/hilfe/wiki-archiv/testseite) | [5588](https://wiki.svws.nrw.de/mediawiki/index.php?title=Testseite&oldid=5588) |
-| DatensatzZeigerBewegen | [Artikel](/reporting/rap/datensatzzeigerbewegen) | [5690](https://wiki.svws.nrw.de/mediawiki/index.php?title=DatensatzZeigerBewegen&oldid=5690) |
-| Versetzungstabelle bei jahrgangsübergreifenden Klassen | [Artikel](/schild2/versetzung/versetzungstabelle-bei-jahrgangsuebergreifenden-klassen) | [5747](https://wiki.svws.nrw.de/mediawiki/index.php?title=Versetzungstabelle+bei+jahrgangs%C3%BCbergreifenden+Klassen&oldid=5747) |
-| Export für BAN-Portal | [Artikel](/schild2/import-export-statistik/export-fuer-ban-portal) | [6070](https://wiki.svws.nrw.de/mediawiki/index.php?title=Export+f%C3%BCr+BAN-Portal&oldid=6070) |
-| Angaben für Ankreuzzeugnisse/-kompetenzen | [Artikel](/zeugnisse/vorbereitung/angaben-fuer-ankreuzzeugnisse-kompetenzen) | [5811](https://wiki.svws.nrw.de/mediawiki/index.php?title=Angaben+f%C3%BCr+Ankreuzzeugnisse%2F-kompetenzen&oldid=5811) |
-| Serienbrief Nichtversetzte | [Artikel](/zeugnisse/sekundarstufen/serienbrief-nichtversetzte) | [5863](https://wiki.svws.nrw.de/mediawiki/index.php?title=Serienbrief+Nichtversetzte&oldid=5863) |
-| Bescheinigungen des Bilingualen Bildungsgangs | [Artikel](/zeugnisse/sekundarstufen/bescheinigungen-des-bilingualen-bildungsgangs) | [5881](https://wiki.svws.nrw.de/mediawiki/index.php?title=Bescheinigungen+des+Bilingualen+Bildungsgangs&oldid=5881) |
-| Sprachprüfung (Feststellungsprüfung) anstelle von Pflichtfremdsprachen oder Wahlpflichtfremdsprachen BASS 13-61 Nr. 1 | [Artikel](/schild2/schueler/sprachpruefung-feststellungspruefung-anstelle-von-pflichtfremdsprachen-oder-wahlpflichtfremdsprachen-bass-13-61-nr-1) | [5927](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sprachpr%C3%BCfung+%28Feststellungspr%C3%BCfung%29+anstelle+von+Pflichtfremdsprachen+oder+Wahlpflichtfremdsprachen+BASS+13-61+Nr.+1&oldid=5927) |
-| Herkunftssprachlicher Unterricht BASS 13-61 Nr. 2 | [Artikel](/schild2/schueler/herkunftssprachlicher-unterricht-bass-13-61-nr-2) | [6028](https://wiki.svws.nrw.de/mediawiki/index.php?title=Herkunftssprachlicher+Unterricht+BASS+13-61+Nr.+2&oldid=6028) |
-| Erklärung zur Barrierefreiheit | [Artikel](/hilfe/wiki-archiv/erklaerung-zur-barrierefreiheit) | [5930](https://wiki.svws.nrw.de/mediawiki/index.php?title=Erkl%C3%A4rung+zur+Barrierefreiheit&oldid=5930) |
-| Deutschförderung nach BASS 13-63 Nr. 3 (Stand 29.08.2024) | [Artikel](/schild2/schueler/deutschfoerderung-nach-bass-13-63-nr-3-stand-29-08-2024) | [5986](https://wiki.svws.nrw.de/mediawiki/index.php?title=Deutschf%C3%B6rderung+nach+BASS+13-63+Nr.+3+%28Stand+29.08.2024%29&oldid=5986) |
-| Schüler im offenen Ganztag und in der Übermittagsbetreuung | [Artikel](/schild2/schueler/schueler-im-offenen-ganztag-und-in-der-uebermittagsbetreuung) | [6054](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sch%C3%BCler+im+offenen+Ganztag+und+in+der+%C3%9Cbermittagsbetreuung&oldid=6054) |
+| Hauptseite | [Artikel](/hilfe/wiki-archiv/hauptseite) | [Version 6060](/quellen/wiki/seite-1) |
+| Schild-NRW-Index | [Artikel](/einstieg/grundlagen/schild-nrw-index) | [Version 5935](/quellen/wiki/seite-6) |
+| Reporting | [Artikel](/reporting/erstellung/reporting) | [Version 4707](/quellen/wiki/seite-8) |
+| RAP-Funktionen | [Artikel](/reporting/rap/rap-funktionen) | [Version 5689](/quellen/wiki/seite-9) |
+| Anrede | [Artikel](/reporting/rap/anrede) | [Version 5722](/quellen/wiki/seite-11) |
+| AssignFont | [Artikel](/reporting/rap/assignfont) | [Version 23](/quellen/wiki/seite-12) |
+| AufzaehlungRTF | [Artikel](/reporting/rap/aufzaehlungrtf) | [Version 2077](/quellen/wiki/seite-13) |
+| Bestaetigung | [Artikel](/reporting/rap/bestaetigung) | [Version 28](/quellen/wiki/seite-14) |
+| CreateNotenHeader | [Artikel](/reporting/rap/createnotenheader) | [Version 183](/quellen/wiki/seite-15) |
+| CreateNotenHeaderUS | [Artikel](/reporting/rap/createnotenheaderus) | [Version 35](/quellen/wiki/seite-16) |
+| EditRichText | [Artikel](/reporting/rap/editrichtext) | [Version 36](/quellen/wiki/seite-17) |
+| EditRichTextEx | [Artikel](/reporting/rap/editrichtextex) | [Version 37](/quellen/wiki/seite-18) |
+| Faechervorbelegen | [Artikel](/reporting/rap/faechervorbelegen) | [Version 39](/quellen/wiki/seite-19) |
+| FileAge | [Artikel](/reporting/rap/fileage) | [Version 40](/quellen/wiki/seite-20) |
+| FileExists | [Artikel](/reporting/rap/fileexists) | [Version 41](/quellen/wiki/seite-21) |
+| FileOpenDlg | [Artikel](/reporting/rap/fileopendlg) | [Version 43](/quellen/wiki/seite-22) |
+| FileSaveDlg | [Artikel](/reporting/rap/filesavedlg) | [Version 44](/quellen/wiki/seite-23) |
+| FilterAdressArt | [Artikel](/reporting/rap/filteradressart) | [Version 45](/quellen/wiki/seite-24) |
+| FilterAdresse | [Artikel](/reporting/rap/filteradresse) | [Version 46](/quellen/wiki/seite-25) |
+| FilterErzieherfunktion | [Artikel](/reporting/rap/filtererzieherfunktion) | [Version 47](/quellen/wiki/seite-26) |
+| FilterLaufbahnJahr | [Artikel](/reporting/rap/filterlaufbahnjahr) | [Version 48](/quellen/wiki/seite-27) |
+| FilterLaufbahnJahrgangASD | [Artikel](/reporting/rap/filterlaufbahnjahrgangasd) | [Version 49](/quellen/wiki/seite-28) |
+| FilterSchuelerAdressArt | [Artikel](/reporting/rap/filterschueleradressart) | [Version 50](/quellen/wiki/seite-29) |
+| FormatRTF | [Artikel](/reporting/rap/formatrtf) | [Version 51](/quellen/wiki/seite-30) |
+| GeschlechtToString | [Artikel](/reporting/rap/geschlechttostring) | [Version 5650](/quellen/wiki/seite-31) |
+| GetFachgruppe | [Artikel](/reporting/rap/getfachgruppe) | [Version 53](/quellen/wiki/seite-32) |
+| GetSqlText | [Artikel](/reporting/rap/getsqltext) | [Version 54](/quellen/wiki/seite-33) |
+| GruppenDesBenutzers | [Artikel](/reporting/rap/gruppendesbenutzers) | [Version 55](/quellen/wiki/seite-34) |
+| IncFontSize | [Artikel](/reporting/rap/incfontsize) | [Version 56](/quellen/wiki/seite-35) |
+| IstInDerGruppe | [Artikel](/reporting/rap/istindergruppe) | [Version 57](/quellen/wiki/seite-36) |
+| IstLeer | [Artikel](/reporting/rap/istleer) | [Version 58](/quellen/wiki/seite-37) |
+| JahrgangsListe | [Artikel](/reporting/rap/jahrgangsliste) | [Version 59](/quellen/wiki/seite-38) |
+| KursBezIgnorieren | [Artikel](/reporting/rap/kursbezignorieren) | [Version 60](/quellen/wiki/seite-39) |
+| LehrerAuswaehlen | [Artikel](/reporting/rap/lehrerauswaehlen) | [Version 61](/quellen/wiki/seite-40) |
+| LehrerDatenLaden | [Artikel](/reporting/rap/lehrerdatenladen) | [Version 4843](/quellen/wiki/seite-41) |
+| LehrerKursartStatistikLaden | [Artikel](/reporting/rap/lehrerkursartstatistikladen) | [Version 63](/quellen/wiki/seite-42) |
+| LehrerUnterrichtLaden | [Artikel](/reporting/rap/lehrerunterrichtladen) | [Version 64](/quellen/wiki/seite-43) |
+| LoadFromFile | [Artikel](/reporting/rap/loadfromfile) | [Version 65](/quellen/wiki/seite-44) |
+| LoadNotenliste | [Artikel](/reporting/rap/loadnotenliste) | [Version 66](/quellen/wiki/seite-45) |
+| LoadVermerke | [Artikel](/reporting/rap/loadvermerke) | [Version 67](/quellen/wiki/seite-46) |
+| LoadVermerkeEx | [Artikel](/reporting/rap/loadvermerkeex) | [Version 68](/quellen/wiki/seite-47) |
+| LoadVermerkeVonBis | [Artikel](/reporting/rap/loadvermerkevonbis) | [Version 69](/quellen/wiki/seite-48) |
+| LongDayNames | [Artikel](/reporting/rap/longdaynames) | [Version 70](/quellen/wiki/seite-49) |
+| LookupSprachenfolge | [Artikel](/reporting/rap/lookupsprachenfolge) | [Version 71](/quellen/wiki/seite-50) |
+| Mehrfachauswahl | [Artikel](/reporting/rap/mehrfachauswahl) | [Version 1842](/quellen/wiki/seite-51) |
+| MehrfachauswahlEx | [Artikel](/reporting/rap/mehrfachauswahlex) | [Version 5725](/quellen/wiki/seite-52) |
+| MitLernabschnitten | [Artikel](/reporting/rap/mitlernabschnitten) | [Version 5723](/quellen/wiki/seite-53) |
+| NotenDurchschnitt | [Artikel](/reporting/rap/notendurchschnitt) | [Version 4087](/quellen/wiki/seite-54) |
+| NurErzieherMitAnschreiben | [Artikel](/reporting/rap/nurerziehermitanschreiben) | [Version 76](/quellen/wiki/seite-55) |
+| NurFaecherMitAufsZeugnisFlag | [Artikel](/reporting/rap/nurfaechermitaufszeugnisflag) | [Version 77](/quellen/wiki/seite-56) |
+| NurFaecherMitNoten | [Artikel](/reporting/rap/nurfaechermitnoten) | [Version 78](/quellen/wiki/seite-57) |
+| PickDatum | [Artikel](/reporting/rap/pickdatum) | [Version 79](/quellen/wiki/seite-58) |
+| QuotedStr | [Artikel](/reporting/rap/quotedstr) | [Version 80](/quellen/wiki/seite-59) |
+| ReadDateTime | [Artikel](/reporting/rap/readdatetime) | [Version 81](/quellen/wiki/seite-60) |
+| ReplaceDefault | [Artikel](/reporting/rap/replacedefault) | [Version 82](/quellen/wiki/seite-61) |
+| ReplaceStandardVar | [Artikel](/reporting/rap/replacestandardvar) | [Version 83](/quellen/wiki/seite-62) |
+| ReplaceText | [Artikel](/reporting/rap/replacetext) | [Version 5651](/quellen/wiki/seite-63) |
+| ReplaceTextEx | [Artikel](/reporting/rap/replacetextex) | [Version 4732](/quellen/wiki/seite-64) |
+| ResetAdressArt | [Artikel](/reporting/rap/resetadressart) | [Version 86](/quellen/wiki/seite-65) |
+| ResetAdressFilter | [Artikel](/reporting/rap/resetadressfilter) | [Version 87](/quellen/wiki/seite-66) |
+| ResetFaechervorbelegung | [Artikel](/reporting/rap/resetfaechervorbelegung) | [Version 88](/quellen/wiki/seite-67) |
+| ResetFilterErzieherfunktion | [Artikel](/reporting/rap/resetfiltererzieherfunktion) | [Version 89](/quellen/wiki/seite-68) |
+| ResetFilterLaufbahnJahr | [Artikel](/reporting/rap/resetfilterlaufbahnjahr) | [Version 90](/quellen/wiki/seite-69) |
+| RtfToPlaintext | [Artikel](/reporting/rap/rtftoplaintext) | [Version 91](/quellen/wiki/seite-70) |
+| SchuljahrToStr | [Artikel](/reporting/rap/schuljahrtostr) | [Version 92](/quellen/wiki/seite-71) |
+| SchuljahrToStrEx | [Artikel](/reporting/rap/schuljahrtostrex) | [Version 93](/quellen/wiki/seite-72) |
+| SchulText | [Artikel](/reporting/rap/schultext) | [Version 94](/quellen/wiki/seite-73) |
+| SelectAdressArt | [Artikel](/reporting/rap/selectadressart) | [Version 95](/quellen/wiki/seite-74) |
+| SelectAdressName | [Artikel](/reporting/rap/selectadressname) | [Version 96](/quellen/wiki/seite-75) |
+| SelectErzFunktion | [Artikel](/reporting/rap/selecterzfunktion) | [Version 97](/quellen/wiki/seite-76) |
+| Selectfont | [Artikel](/reporting/rap/selectfont) | [Version 98](/quellen/wiki/seite-77) |
+| SelectFromList | [Artikel](/reporting/rap/selectfromlist) | [Version 6033](/quellen/wiki/seite-78) |
+| SelectFromListEx | [Artikel](/reporting/rap/selectfromlistex) | [Version 100](/quellen/wiki/seite-79) |
+| SelectNotenliste | [Artikel](/reporting/rap/selectnotenliste) | [Version 102](/quellen/wiki/seite-80) |
+| SelectOption | [Artikel](/reporting/rap/selectoption) | [Version 2151](/quellen/wiki/seite-81) |
+| SelectString | [Artikel](/reporting/rap/selectstring) | [Version 104](/quellen/wiki/seite-82) |
+| SelectStringEx | [Artikel](/reporting/rap/selectstringex) | [Version 5386](/quellen/wiki/seite-83) |
+| SetAbitur | [Artikel](/reporting/rap/setabitur) | [Version 108](/quellen/wiki/seite-84) |
+| SetAdressArt | [Artikel](/reporting/rap/setadressart) | [Version 109](/quellen/wiki/seite-85) |
+| SetBKAbschluss | [Artikel](/reporting/rap/setbkabschluss) | [Version 110](/quellen/wiki/seite-86) |
+| SetFont | [Artikel](/reporting/rap/setfont) | [Version 111](/quellen/wiki/seite-87) |
+| SetJgIntervall | [Artikel](/reporting/rap/setjgintervall) | [Version 112](/quellen/wiki/seite-88) |
+| SetJgIntervall ASD | [Artikel](/reporting/rap/setjgintervall-asd) | [Version 113](/quellen/wiki/seite-89) |
+| SetKursSchuelerFaecherListe | [Artikel](/reporting/rap/setkursschuelerfaecherliste) | [Version 114](/quellen/wiki/seite-90) |
+| SetTextAttributes | [Artikel](/reporting/rap/settextattributes) | [Version 115](/quellen/wiki/seite-91) |
+| SetUebersicht | [Artikel](/reporting/rap/setuebersicht) | [Version 116](/quellen/wiki/seite-92) |
+| SetUebersichtEx | [Artikel](/reporting/rap/setuebersichtex) | [Version 117](/quellen/wiki/seite-93) |
+| SetUebersichtKursartFilter | [Artikel](/reporting/rap/setuebersichtkursartfilter) | [Version 180](/quellen/wiki/seite-94) |
+| Setzefilter | [Artikel](/reporting/rap/setzefilter) | [Version 2115](/quellen/wiki/seite-95) |
+| SetzeKlassenAdressArt | [Artikel](/reporting/rap/setzeklassenadressart) | [Version 120](/quellen/wiki/seite-96) |
+| SetzeSortierung | [Artikel](/reporting/rap/setzesortierung) | [Version 121](/quellen/wiki/seite-97) |
+| SetzeSortierungEx | [Artikel](/reporting/rap/setzesortierungex) | [Version 122](/quellen/wiki/seite-98) |
+| ShortDayNames | [Artikel](/reporting/rap/shortdaynames) | [Version 123](/quellen/wiki/seite-99) |
+| SortierungVon | [Artikel](/reporting/rap/sortierungvon) | [Version 3507](/quellen/wiki/seite-100) |
+| StringInput | [Artikel](/reporting/rap/stringinput) | [Version 125](/quellen/wiki/seite-101) |
+| SummeFehlstunden | [Artikel](/reporting/rap/summefehlstunden) | [Version 126](/quellen/wiki/seite-102) |
+| UebersichtsfachModus | [Artikel](/reporting/rap/uebersichtsfachmodus) | [Version 127](/quellen/wiki/seite-103) |
+| UeberspringeRecord | [Artikel](/reporting/rap/ueberspringerecord) | [Version 2723](/quellen/wiki/seite-104) |
+| VerzeichnisseErzeugen | [Artikel](/reporting/rap/verzeichnisseerzeugen) | [Version 129](/quellen/wiki/seite-105) |
+| WaehleDatumStr | [Artikel](/reporting/rap/waehledatumstr) | [Version 131](/quellen/wiki/seite-106) |
+| WaehleDatumUndZeit | [Artikel](/reporting/rap/waehledatumundzeit) | [Version 132](/quellen/wiki/seite-107) |
+| Wiederholungen | [Artikel](/reporting/rap/wiederholungen) | [Version 5721](/quellen/wiki/seite-108) |
+| Zahlwort | [Artikel](/reporting/rap/zahlwort) | [Version 134](/quellen/wiki/seite-109) |
+| ZensurToStr | [Artikel](/reporting/rap/zensurtostr) | [Version 135](/quellen/wiki/seite-110) |
+| ZeugnisParameter | [Artikel](/reporting/rap/zeugnisparameter) | [Version 136](/quellen/wiki/seite-111) |
+| Iconleiste | [Artikel](/einstieg/grundlagen/iconleiste) | [Version 1386](/quellen/wiki/seite-112) |
+| PipelineOeffnen | [Artikel](/reporting/rap/pipelineoeffnen) | [Version 155](/quellen/wiki/seite-115) |
+| PluginVersion | [Artikel](/reporting/rap/pluginversion) | [Version 160](/quellen/wiki/seite-117) |
+| AnzahlElemente | [Artikel](/reporting/rap/anzahlelemente) | [Version 162](/quellen/wiki/seite-118) |
+| EinzelElement | [Artikel](/reporting/rap/einzelelement) | [Version 164](/quellen/wiki/seite-119) |
+| SetQuartalsnotenInUebersicht | [Artikel](/reporting/rap/setquartalsnoteninuebersicht) | [Version 166](/quellen/wiki/seite-120) |
+| FilterLaufbahnStufen | [Artikel](/reporting/rap/filterlaufbahnstufen) | [Version 168](/quellen/wiki/seite-121) |
+| Praktikumstage | [Artikel](/reporting/rap/praktikumstage) | [Version 170](/quellen/wiki/seite-122) |
+| LernfelderZuFachklasse | [Artikel](/reporting/rap/lernfelderzufachklasse) | [Version 172](/quellen/wiki/seite-123) |
+| ZeugnisDatenquellenOeffnen | [Artikel](/reporting/rap/zeugnisdatenquellenoeffnen) | [Version 175](/quellen/wiki/seite-124) |
+| DateinameFuerDVAuswaehlen | [Artikel](/reporting/rap/dateinamefuerdvauswaehlen) | [Version 6027](/quellen/wiki/seite-125) |
+| NurGewerteteAbschnitte | [Artikel](/reporting/rap/nurgewerteteabschnitte) | [Version 185](/quellen/wiki/seite-126) |
+| Hauptfenster | [Artikel](/einstieg/grundlagen/hauptfenster) | [Version 4287](/quellen/wiki/seite-134) |
+| StatistikKuerzelAusFachKuerzel | [Artikel](/reporting/rap/statistikkuerzelausfachkuerzel) | [Version 265](/quellen/wiki/seite-136) |
+| Karteikasten | [Artikel](/einstieg/grundlagen/karteikasten) | [Version 400](/quellen/wiki/seite-138) |
+| Kurs42:Inhaltsverzeichnis | [Artikel](/hilfe/zusatzprogramme/kurs42-inhaltsverzeichnis) | [Version 4610](/quellen/wiki/seite-139) |
+| Kataloge | [Artikel](/schild2/unterricht-kataloge/kataloge) | [Version 939](/quellen/wiki/seite-140) |
+| Konfessionen | [Artikel](/schild2/unterricht-kataloge/konfessionen) | [Version 936](/quellen/wiki/seite-145) |
+| Staatsangehörigkeiten / Herkunftsländer | [Artikel](/schild2/unterricht-kataloge/staatsangehoerigkeiten-herkunftslaender) | [Version 937](/quellen/wiki/seite-146) |
+| Auswahl | [Artikel](/schild2/auswahl/auswahl) | [Version 3707](/quellen/wiki/seite-147) |
+| Individuelle Schülergruppe auswählen | [Artikel](/schild2/auswahl/individuelle-schuelergruppe-auswaehlen) | [Version 967](/quellen/wiki/seite-148) |
+| Individuelle Schülergruppe bearbeiten | [Artikel](/schild2/auswahl/individuelle-schuelergruppe-bearbeiten) | [Version 966](/quellen/wiki/seite-149) |
+| Nur Schüler mit Geschwistern zeigen | [Artikel](/schild2/auswahl/nur-schueler-mit-geschwistern-zeigen) | [Version 1033](/quellen/wiki/seite-151) |
+| Schüler mit Statistik-Fehlern zeigen | [Artikel](/schild2/auswahl/schueler-mit-statistik-fehlern-zeigen) | [Version 974](/quellen/wiki/seite-152) |
+| Schüler mit fehlendem Abschnitt (Status=Aktiv,..) | [Artikel](/schild2/auswahl/schueler-mit-fehlendem-abschnitt-status-aktiv) | [Version 975](/quellen/wiki/seite-153) |
+| Schüler mit fehlendem Abschnitt (Status=Abgang,..) | [Artikel](/schild2/auswahl/schueler-mit-fehlendem-abschnitt-status-abgang) | [Version 976](/quellen/wiki/seite-154) |
+| Filter auf fehlende Einträge | [Artikel](/schild2/auswahl/filter-auf-fehlende-eintraege) | [Version 973](/quellen/wiki/seite-155) |
+| Standard-Auswahl laden | [Artikel](/schild2/auswahl/standard-auswahl-laden) | [Version 968](/quellen/wiki/seite-156) |
+| Vorhandene Filterdefinition laden | [Artikel](/schild2/auswahl/vorhandene-filterdefinition-laden) | [Version 970](/quellen/wiki/seite-157) |
+| Vorhandene Filterdefinition löschen | [Artikel](/schild2/auswahl/vorhandene-filterdefinition-loeschen) | [Version 971](/quellen/wiki/seite-158) |
+| Attributsfilter | [Artikel](/schild2/auswahl/attributsfilter) | [Version 1185](/quellen/wiki/seite-159) |
+| ThemaProjektKurs | [Artikel](/reporting/rap/themaprojektkurs) | [Version 405](/quellen/wiki/seite-161) |
+| EditText | [Artikel](/reporting/rap/edittext) | [Version 408](/quellen/wiki/seite-162) |
+| Förderschwerpunkte | [Artikel](/schild2/unterricht-kataloge/foerderschwerpunkte) | [Version 938](/quellen/wiki/seite-163) |
+| Verkehrssprachen | [Artikel](/schild2/unterricht-kataloge/verkehrssprachen) | [Version 3777](/quellen/wiki/seite-167) |
+| Erzieher-Arten | [Artikel](/schild2/unterricht-kataloge/erzieher-arten) | [Version 935](/quellen/wiki/seite-169) |
+| Fahrschüler-Arten | [Artikel](/schild2/unterricht-kataloge/fahrschueler-arten) | [Version 465](/quellen/wiki/seite-171) |
+| Haltestelle | [Artikel](/schild2/unterricht-kataloge/haltestelle) | [Version 435](/quellen/wiki/seite-173) |
+| Haltestellen | [Artikel](/schild2/unterricht-kataloge/haltestellen) | [Version 490](/quellen/wiki/seite-175) |
+| Andere Schulen und Schulnummern | [Artikel](/schild2/unterricht-kataloge/andere-schulen-und-schulnummern) | [Version 933](/quellen/wiki/seite-176) |
+| Schulen in NRW | [Artikel](/schild2/unterricht-kataloge/schulen-in-nrw) | [Version 462](/quellen/wiki/seite-178) |
+| Kindergärten | [Artikel](/schild2/unterricht-kataloge/kindergaerten) | [Version 455](/quellen/wiki/seite-179) |
+| Orte | [Artikel](/schild2/unterricht-kataloge/orte) | [Version 2820](/quellen/wiki/seite-180) |
+| Container | [Artikel](/einstieg/grundlagen/container) | [Version 1108](/quellen/wiki/seite-181) |
+| Telefonische Ansprechpartner | [Artikel](/schild2/unterricht-kataloge/telefonische-ansprechpartner) | [Version 521](/quellen/wiki/seite-188) |
+| Sportbefreiungen | [Artikel](/schild2/unterricht-kataloge/sportbefreiungen) | [Version 522](/quellen/wiki/seite-190) |
+| Entlassungs-Bemerkungen | [Artikel](/schild2/unterricht-kataloge/entlassungs-bemerkungen) | [Version 527](/quellen/wiki/seite-193) |
+| Adress-Arten | [Artikel](/schild2/unterricht-kataloge/adress-arten) | [Version 529](/quellen/wiki/seite-194) |
+| Allgemeine Adressen | [Artikel](/schild2/unterricht-kataloge/allgemeine-adressen) | [Version 547](/quellen/wiki/seite-195) |
+| Ortsteile | [Artikel](/schild2/unterricht-kataloge/ortsteile) | [Version 549](/quellen/wiki/seite-199) |
+| Schulverwaltung | [Artikel](/schild2/unterricht-kataloge/schulverwaltung) | [Version 5138](/quellen/wiki/seite-204) |
+| Schule bearbeiten | [Artikel](/einstieg/erste-schritte/schule-bearbeiten) | [Version 3867](/quellen/wiki/seite-206) |
+| Lehrkräfte | [Artikel](/schild2/lehrkraefte/lehrkraefte) | [Version 1202](/quellen/wiki/seite-210) |
+| Datenaustausch | [Artikel](/schild2/import-export-statistik/datenaustausch) | [Version 5750](/quellen/wiki/seite-211) |
+| Schnittstelle Schild-NRW | [Artikel](/schild2/import-export-statistik/schnittstelle-schild-nrw) | [Version 913](/quellen/wiki/seite-213) |
+| Schnittstellenbeschreibung | [Artikel](/schild2/import-export-statistik/schnittstellenbeschreibung) | [Version 6062](/quellen/wiki/seite-214) |
+| Datenschutzhinweis | [Artikel](/administration/benutzer-einstellungen/datenschutzhinweis) | [Version 4136](/quellen/wiki/seite-226) |
+| Individual-Daten I | [Artikel](/schild2/schueler/individual-daten-i) | [Version 3714](/quellen/wiki/seite-228) |
+| Extras | [Artikel](/administration/benutzer-einstellungen/extras) | [Version 3736](/quellen/wiki/seite-230) |
+| Vorbemerkungen-Schnittstelle | [Artikel](/schild2/import-export-statistik/vorbemerkungen-schnittstelle) | [Version 1817](/quellen/wiki/seite-231) |
+| Statistik-Jahrgänge | [Artikel](/schild2/unterricht-kataloge/statistik-jahrgaenge) | [Version 3879](/quellen/wiki/seite-232) |
+| Gruppenprozesse | [Artikel](/schild2/gruppenprozesse/gruppenprozesse) | [Version 3609](/quellen/wiki/seite-233) |
+| JG-Tabelle-GY | [Artikel](/schild2/unterricht-kataloge/jg-tabelle-gy) | [Version 4703](/quellen/wiki/seite-235) |
+| JG-Tabelle-GE | [Artikel](/schild2/unterricht-kataloge/jg-tabelle-ge) | [Version 1038](/quellen/wiki/seite-237) |
+| JG-Tabelle-GS | [Artikel](/schild2/unterricht-kataloge/jg-tabelle-gs) | [Version 4170](/quellen/wiki/seite-240) |
+| Schüler ohne Fächer | [Artikel](/schild2/auswahl/schueler-ohne-faecher) | [Version 1053](/quellen/wiki/seite-246) |
+| Programm-Einstellungen | [Artikel](/administration/benutzer-einstellungen/programm-einstellungen) | [Version 4706](/quellen/wiki/seite-247) |
+| Externes Notenmodul | [Artikel](/zeugnisse/vorbereitung/externes-notenmodul) | [Version 4736](/quellen/wiki/seite-250) |
+| Kataloge exportieren | [Artikel](/schild2/import-export-statistik/kataloge-exportieren) | [Version 1070](/quellen/wiki/seite-253) |
+| Export in Text-/Excel-Dateien | [Artikel](/schild2/import-export-statistik/export-in-text-excel-dateien) | [Version 1125](/quellen/wiki/seite-254) |
+| Hilfe | [Artikel](/hilfe/probleme/hilfe) | [Version 1432](/quellen/wiki/seite-257) |
+| Import aus Textdateien | [Artikel](/schild2/import-export-statistik/import-aus-textdateien) | [Version 1126](/quellen/wiki/seite-260) |
+| Export für Lupo | [Artikel](/schild2/import-export-statistik/export-fuer-lupo) | [Version 1159](/quellen/wiki/seite-263) |
+| Unterrichtsdaten (als Excel Dateien) importieren | [Artikel](/schild2/import-export-statistik/unterrichtsdaten-als-excel-dateien-importieren) | [Version 1170](/quellen/wiki/seite-267) |
+| UVD-Datei importieren | [Artikel](/schild2/import-export-statistik/uvd-datei-importieren) | [Version 1151](/quellen/wiki/seite-269) |
+| Fotos | [Artikel](/schild2/import-export-statistik/fotos) | [Version 1171](/quellen/wiki/seite-270) |
+| Wohnortdaten exportieren | [Artikel](/schild2/import-export-statistik/wohnortdaten-exportieren) | [Version 1161](/quellen/wiki/seite-272) |
+| Aufräumen | [Artikel](/administration/datenbanken/aufraeumen) | [Version 1174](/quellen/wiki/seite-274) |
+| Filter I | [Artikel](/schild2/auswahl/filter-i) | [Version 1265](/quellen/wiki/seite-277) |
+| Filter II | [Artikel](/schild2/auswahl/filter-ii) | [Version 1192](/quellen/wiki/seite-279) |
+| Allgemeines | [Artikel](/schild2/gruppenprozesse/allgemeines) | [Version 3774](/quellen/wiki/seite-282) |
+| Schild-NRW-Tutorials | [Artikel](/einstieg/erste-schritte/schild-nrw-tutorials) | [Version 6040](/quellen/wiki/seite-283) |
+| Fächer | [Artikel](/schild2/gruppenprozesse/faecher) | [Version 1309](/quellen/wiki/seite-288) |
+| Noten, Zeugnisvorbereitung | [Artikel](/zeugnisse/vorbereitung/noten-zeugnisvorbereitung) | [Version 1292](/quellen/wiki/seite-290) |
+| Lernabschnitte, Versetzung | [Artikel](/schild2/versetzung/lernabschnitte-versetzung) | [Version 1278](/quellen/wiki/seite-292) |
+| Gruppenprozesse Abitur | [Artikel](/zeugnisse/sekundarstufen/gruppenprozesse-abitur) | [Version 1291](/quellen/wiki/seite-293) |
+| Gruppenaktionen Abitur | [Artikel](/zeugnisse/sekundarstufen/gruppenaktionen-abitur) | [Version 1286](/quellen/wiki/seite-295) |
+| Klassen-/Versetzungstabelle | [Artikel](/schild2/unterricht-kataloge/klassen-versetzungstabelle) | [Version 5741](/quellen/wiki/seite-296) |
+| Einrichtung des Report-Explorers | [Artikel](/reporting/erstellung/einrichtung-des-report-explorers) | [Version 4135](/quellen/wiki/seite-298) |
+| Klassengruppen/Abteilungen | [Artikel](/schild2/unterricht-kataloge/klassengruppen-abteilungen) | [Version 1357](/quellen/wiki/seite-299) |
+| Erz.-Berechtigte | [Artikel](/schild2/schueler/erz-berechtigte) | [Version 1332](/quellen/wiki/seite-300) |
+| Unterrichtsfächer | [Artikel](/schild2/unterricht-kataloge/unterrichtsfaecher) | [Version 4622](/quellen/wiki/seite-308) |
+| Wiedervorlage | [Artikel](/schild2/schueler/wiedervorlage) | [Version 1395](/quellen/wiki/seite-316) |
+| Eintrag in Wiedervorlage machen | [Artikel](/schild2/schueler/eintrag-in-wiedervorlage-machen) | [Version 2005](/quellen/wiki/seite-317) |
+| Individualdaten ändern | [Artikel](/schild2/gruppenprozesse/individualdaten-aendern) | [Version 1618](/quellen/wiki/seite-321) |
+| Fachklassen | [Artikel](/schild2/unterricht-kataloge/fachklassen) | [Version 1407](/quellen/wiki/seite-326) |
+| Individual-Daten II | [Artikel](/schild2/schueler/individual-daten-ii) | [Version 3024](/quellen/wiki/seite-328) |
+| Schulbesuch | [Artikel](/schild2/schueler/schulbesuch) | [Version 3679](/quellen/wiki/seite-329) |
+| Weitere Adressen | [Artikel](/schild2/schueler/weitere-adressen) | [Version 1481](/quellen/wiki/seite-331) |
+| Dateimaske bearbeiten | [Artikel](/administration/benutzer-einstellungen/dateimaske-bearbeiten) | [Version 1508](/quellen/wiki/seite-335) |
+| Laufbahninfo | [Artikel](/schild2/schueler/laufbahninfo) | [Version 3581](/quellen/wiki/seite-336) |
+| Datensicherung | [Artikel](/administration/datenbanken/datensicherung) | [Version 1538](/quellen/wiki/seite-341) |
+| Datei | [Artikel](/administration/datenbanken/datei) | [Version 1539](/quellen/wiki/seite-342) |
+| Automatische Prozesse ausführen | [Artikel](/schild2/gruppenprozesse/automatische-prozesse-ausfuehren) | [Version 1540](/quellen/wiki/seite-343) |
+| Gelöschte Daten zurückholen | [Artikel](/schild2/gruppenprozesse/geloeschte-daten-zurueckholen) | [Version 3016](/quellen/wiki/seite-344) |
+| Schulpflicht autom. setzen zum SJ.-Ende | [Artikel](/schild2/gruppenprozesse/schulpflicht-autom-setzen-zum-sj-ende) | [Version 1524](/quellen/wiki/seite-345) |
+| Fehlende Abschnittsdaten anlegen | [Artikel](/schild2/gruppenprozesse/fehlende-abschnittsdaten-anlegen) | [Version 1541](/quellen/wiki/seite-346) |
+| Kurse neu laden (nach Bearbeitung in Kurs42) | [Artikel](/schild2/gruppenprozesse/kurse-neu-laden-nach-bearbeitung-in-kurs42) | [Version 1527](/quellen/wiki/seite-347) |
+| Fächer in Leistungsdaten neu sortieren | [Artikel](/schild2/gruppenprozesse/faecher-in-leistungsdaten-neu-sortieren) | [Version 2050](/quellen/wiki/seite-348) |
+| Fotos neu skalieren | [Artikel](/schild2/gruppenprozesse/fotos-neu-skalieren) | [Version 1531](/quellen/wiki/seite-349) |
+| Kurse neu sortieren | [Artikel](/schild2/gruppenprozesse/kurse-neu-sortieren) | [Version 1532](/quellen/wiki/seite-350) |
+| Aufnahmejahr für Neuaufnahmen zurücksetzen | [Artikel](/schild2/gruppenprozesse/aufnahmejahr-fuer-neuaufnahmen-zuruecksetzen) | [Version 1542](/quellen/wiki/seite-351) |
+| Straße und Hausnummer bei Schülerdaten trennen | [Artikel](/schild2/gruppenprozesse/strasse-und-hausnummer-bei-schuelerdaten-trennen) | [Version 1543](/quellen/wiki/seite-352) |
+| SQL-Befehle eingeben | [Artikel](/administration/datenbanken/sql-befehle-eingeben) | [Version 1544](/quellen/wiki/seite-353) |
+| Klassenlehrer aktualisieren | [Artikel](/schild2/gruppenprozesse/klassenlehrer-aktualisieren) | [Version 1586](/quellen/wiki/seite-354) |
+| Abschlussdatum neu berechnen | [Artikel](/schild2/gruppenprozesse/abschlussdatum-neu-berechnen) | [Version 1587](/quellen/wiki/seite-355) |
+| Schulbesuchsjahre neu berechnen | [Artikel](/schild2/gruppenprozesse/schulbesuchsjahre-neu-berechnen) | [Version 1612](/quellen/wiki/seite-356) |
+| Eigene Schule in Abgangsliste setzen | [Artikel](/schild2/gruppenprozesse/eigene-schule-in-abgangsliste-setzen) | [Version 2043](/quellen/wiki/seite-357) |
+| Fotos löschen | [Artikel](/schild2/gruppenprozesse/fotos-loeschen) | [Version 1903](/quellen/wiki/seite-358) |
+| Vermerke/Merkmale löschen | [Artikel](/schild2/gruppenprozesse/vermerke-merkmale-loeschen) | [Version 2042](/quellen/wiki/seite-359) |
+| Sprachenfolge aus Leistungsdaten ermitteln | [Artikel](/schild2/gruppenprozesse/sprachenfolge-aus-leistungsdaten-ermitteln) | [Version 1901](/quellen/wiki/seite-361) |
+| Sprachenfolge zuweisen | [Artikel](/schild2/gruppenprozesse/sprachenfolge-zuweisen) | [Version 1900](/quellen/wiki/seite-362) |
+| Fächer in Sprachenfolge ersetzen | [Artikel](/schild2/gruppenprozesse/faecher-in-sprachenfolge-ersetzen) | [Version 1899](/quellen/wiki/seite-364) |
+| Sprach-Referenzniveaus ermitteln | [Artikel](/schild2/gruppenprozesse/sprach-referenzniveaus-ermitteln) | [Version 2792](/quellen/wiki/seite-366) |
+| Fachhochschulreife prüfen | [Artikel](/schild2/gruppenprozesse/fachhochschulreife-pruefen) | [Version 2045](/quellen/wiki/seite-367) |
+| Stundentafeln | [Artikel](/schild2/unterricht-kataloge/stundentafeln) | [Version 3868](/quellen/wiki/seite-368) |
+| Schülerspezifische Kursarten | [Artikel](/schild2/unterricht-kataloge/schuelerspezifische-kursarten) | [Version 1609](/quellen/wiki/seite-369) |
+| Kurse | [Artikel](/schild2/unterricht-kataloge/kurse) | [Version 3757](/quellen/wiki/seite-370) |
+| Zeugnisvorlagen zuordnen | [Artikel](/schild2/unterricht-kataloge/zeugnisvorlagen-zuordnen) | [Version 1799](/quellen/wiki/seite-371) |
+| Teilleistungs-Arten | [Artikel](/schild2/unterricht-kataloge/teilleistungs-arten) | [Version 4243](/quellen/wiki/seite-372) |
+| Vermerk-Arten | [Artikel](/schild2/unterricht-kataloge/vermerk-arten) | [Version 1622](/quellen/wiki/seite-373) |
+| "Floskeln" bearbeiten | [Artikel](/schild2/unterricht-kataloge/floskeln-bearbeiten) | [Version 3914](/quellen/wiki/seite-374) |
+| Erzieher-Funktionen | [Artikel](/schild2/unterricht-kataloge/erzieher-funktionen) | [Version 1623](/quellen/wiki/seite-375) |
+| Erzieher mit schulinternen Funktionen | [Artikel](/schild2/unterricht-kataloge/erzieher-mit-schulinternen-funktionen) | [Version 1626](/quellen/wiki/seite-376) |
+| Personengruppen | [Artikel](/schild2/unterricht-kataloge/personengruppen) | [Version 1629](/quellen/wiki/seite-377) |
+| Statistik / amtliche Schuldaten | [Artikel](/schild2/import-export-statistik/statistik-amtliche-schuldaten) | [Version 2543](/quellen/wiki/seite-378) |
+| Reportbaukasten | [Artikel](/reporting/erstellung/reportbaukasten) | [Version 4830](/quellen/wiki/seite-385) |
+| Hilfe:Inhaltsverzeichnis | [Artikel](/hilfe/wiki-archiv/hilfe-inhaltsverzeichnis) | [Version 2044](/quellen/wiki/seite-430) |
+| Akt. Halbjahr | [Artikel](/zeugnisse/vorbereitung/akt-halbjahr) | [Version 3549](/quellen/wiki/seite-432) |
+| Druckausgabe | [Artikel](/reporting/verwaltung/druckausgabe) | [Version 2415](/quellen/wiki/seite-434) |
+| Übersicht S II | [Artikel](/zeugnisse/sekundarstufen/uebersicht-s-ii) | [Version 1940](/quellen/wiki/seite-436) |
+| Gesamtübersicht | [Artikel](/zeugnisse/sekundarstufen/gesamtuebersicht) | [Version 1941](/quellen/wiki/seite-438) |
+| FHR | [Artikel](/zeugnisse/sekundarstufen/fhr) | [Version 1942](/quellen/wiki/seite-442) |
+| BKAbschluss | [Artikel](/zeugnisse/berufskolleg/bkabschluss) | [Version 1845](/quellen/wiki/seite-443) |
+| BK-Abschluss | [Artikel](/zeugnisse/berufskolleg/bk-abschluss) | [Version 4186](/quellen/wiki/seite-449) |
+| Benutzer | [Artikel](/administration/benutzer-einstellungen/benutzer) | [Version 1848](/quellen/wiki/seite-450) |
+| Stundentafeln zuweisen | [Artikel](/schild2/gruppenprozesse/stundentafeln-zuweisen) | [Version 3612](/quellen/wiki/seite-452) |
+| Kurse zuweisen (Einzelkurs) | [Artikel](/schild2/gruppenprozesse/kurse-zuweisen-einzelkurs) | [Version 3617](/quellen/wiki/seite-454) |
+| Kurse zuweisen (mehrere Kurse) | [Artikel](/schild2/gruppenprozesse/kurse-zuweisen-mehrere-kurse) | [Version 3618](/quellen/wiki/seite-455) |
+| Fächer zuweisen (tabellarisch) | [Artikel](/schild2/gruppenprozesse/faecher-zuweisen-tabellarisch) | [Version 3619](/quellen/wiki/seite-457) |
+| Fächer aus vorherigem Abschnitt holen | [Artikel](/schild2/gruppenprozesse/faecher-aus-vorherigem-abschnitt-holen) | [Version 3620](/quellen/wiki/seite-460) |
+| Fächer ohne Noten suchen | [Artikel](/zeugnisse/vorbereitung/faecher-ohne-noten-suchen) | [Version 3624](/quellen/wiki/seite-463) |
+| Fächer ohne Lehrkraft suchen | [Artikel](/zeugnisse/vorbereitung/faecher-ohne-lehrkraft-suchen) | [Version 1897](/quellen/wiki/seite-464) |
+| Klassenunterrichte bearbeiten | [Artikel](/schild2/gruppenprozesse/klassenunterrichte-bearbeiten) | [Version 3613](/quellen/wiki/seite-465) |
+| Details zu Fächern bei Schülern ändern | [Artikel](/schild2/gruppenprozesse/details-zu-faechern-bei-schuelern-aendern) | [Version 3614](/quellen/wiki/seite-467) |
+| Einzelne Fächer bei Schülern löschen | [Artikel](/schild2/gruppenprozesse/einzelne-faecher-bei-schuelern-loeschen) | [Version 3611](/quellen/wiki/seite-470) |
+| Einzelne Fächer bei Schülern hinzufügen | [Artikel](/schild2/gruppenprozesse/einzelne-faecher-bei-schuelern-hinzufuegen) | [Version 3615](/quellen/wiki/seite-472) |
+| Teilleistungen eingeben | [Artikel](/schild2/gruppenprozesse/teilleistungen-eingeben) | [Version 3616](/quellen/wiki/seite-474) |
+| Doppelte Fächer löschen | [Artikel](/schild2/gruppenprozesse/doppelte-faecher-loeschen) | [Version 1934](/quellen/wiki/seite-477) |
+| Fehlstunden-Summen automatisch berechnen | [Artikel](/zeugnisse/vorbereitung/fehlstunden-summen-automatisch-berechnen) | [Version 1987](/quellen/wiki/seite-478) |
+| Noten, Mahnungen und Fehlstunden eingeben | [Artikel](/zeugnisse/vorbereitung/noten-mahnungen-und-fehlstunden-eingeben) | [Version 3623](/quellen/wiki/seite-479) |
+| Lernbereichsnoten eingeben | [Artikel](/zeugnisse/vorbereitung/lernbereichsnoten-eingeben) | [Version 1988](/quellen/wiki/seite-481) |
+| Konferenz-/Zeugnis-Datum setzen | [Artikel](/zeugnisse/vorbereitung/konferenz-zeugnis-datum-setzen) | [Version 3626](/quellen/wiki/seite-482) |
+| Fehlstunden-Summen manuell eingeben | [Artikel](/zeugnisse/vorbereitung/fehlstunden-summen-manuell-eingeben) | [Version 2032](/quellen/wiki/seite-484) |
+| Mahnungen automatisch setzen | [Artikel](/zeugnisse/vorbereitung/mahnungen-automatisch-setzen) | [Version 2033](/quellen/wiki/seite-485) |
+| Mahnungen drucken | [Artikel](/zeugnisse/vorbereitung/mahnungen-drucken) | [Version 6067](/quellen/wiki/seite-486) |
+| Leistungsdaten holen | [Artikel](/zeugnisse/sekundarstufen/leistungsdaten-holen) | [Version 2027](/quellen/wiki/seite-488) |
+| Kurse algorithmisch markieren | [Artikel](/zeugnisse/sekundarstufen/kurse-algorithmisch-markieren) | [Version 2028](/quellen/wiki/seite-489) |
+| Abitur-Zulassung berechnen | [Artikel](/zeugnisse/sekundarstufen/abitur-zulassung-berechnen) | [Version 2029](/quellen/wiki/seite-490) |
+| Prüfungsergebnisse eingeben | [Artikel](/zeugnisse/sekundarstufen/pruefungsergebnisse-eingeben) | [Version 3631](/quellen/wiki/seite-491) |
+| Mdl. Prüfungen A1-A3 festlegen | [Artikel](/zeugnisse/sekundarstufen/mdl-pruefungen-a1-a3-festlegen) | [Version 3632](/quellen/wiki/seite-493) |
+| Gesamtergebnis berechnen | [Artikel](/zeugnisse/sekundarstufen/gesamtergebnis-berechnen) | [Version 3633](/quellen/wiki/seite-496) |
+| Zusatzdaten (Latinum...) eingeben | [Artikel](/zeugnisse/sekundarstufen/zusatzdaten-latinum-eingeben) | [Version 3634](/quellen/wiki/seite-497) |
+| Gesamt-Fehlstunden berechnen | [Artikel](/zeugnisse/sekundarstufen/gesamt-fehlstunden-berechnen) | [Version 2054](/quellen/wiki/seite-498) |
+| Abitur-Jahr setzen (für Statistik) | [Artikel](/zeugnisse/sekundarstufen/abitur-jahr-setzen-fuer-statistik) | [Version 2055](/quellen/wiki/seite-499) |
+| Versetzungs-/Abschluss-Berechnung | [Artikel](/schild2/versetzung/versetzungs-abschluss-berechnung) | [Version 3593](/quellen/wiki/seite-500) |
+| Lernabschnitt individuell anlegen/bearbeiten | [Artikel](/schild2/versetzung/lernabschnitt-individuell-anlegen-bearbeiten) | [Version 3630](/quellen/wiki/seite-501) |
+| Zeugnisbemerkungen eintragen | [Artikel](/zeugnisse/vorbereitung/zeugnisbemerkungen-eintragen) | [Version 2060](/quellen/wiki/seite-502) |
+| Abschnittsdaten löschen | [Artikel](/schild2/versetzung/abschnittsdaten-loeschen) | [Version 2063](/quellen/wiki/seite-503) |
+| Noten des aktuellen Abschnittes löschen | [Artikel](/zeugnisse/vorbereitung/noten-des-aktuellen-abschnittes-loeschen) | [Version 2064](/quellen/wiki/seite-504) |
+| Zuweisungen durchführen | [Artikel](/zeugnisse/vorbereitung/zuweisungen-durchfuehren) | [Version 2078](/quellen/wiki/seite-507) |
+| Abgeschlossene Fächer holen | [Artikel](/zeugnisse/vorbereitung/abgeschlossene-faecher-holen) | [Version 2106](/quellen/wiki/seite-508) |
+| Abgeschlossene Fächer löschen | [Artikel](/zeugnisse/vorbereitung/abgeschlossene-faecher-loeschen) | [Version 2082](/quellen/wiki/seite-509) |
+| Belegprüfung für Sek. II | [Artikel](/schild2/gruppenprozesse/belegpruefung-fuer-sek-ii) | [Version 2107](/quellen/wiki/seite-510) |
+| Hochrechnung durchführen und speichern | [Artikel](/schild2/gruppenprozesse/hochrechnung-durchfuehren-und-speichern) | [Version 2090](/quellen/wiki/seite-511) |
+| Noten von Epochal-Fächern ergänzen | [Artikel](/schild2/gruppenprozesse/noten-von-epochal-faechern-ergaenzen) | [Version 2110](/quellen/wiki/seite-512) |
+| Zugeordnete Zeugnisformulare drucken | [Artikel](/zeugnisse/vorbereitung/zugeordnete-zeugnisformulare-drucken) | [Version 2108](/quellen/wiki/seite-513) |
+| Zeugnisse drucken und Schüler ausschulen | [Artikel](/zeugnisse/vorbereitung/zeugnisse-drucken-und-schueler-ausschulen) | [Version 3627](/quellen/wiki/seite-514) |
+| JG-Tabelle-BK | [Artikel](/schild2/unterricht-kataloge/jg-tabelle-bk) | [Version 2111](/quellen/wiki/seite-517) |
+| Versetzung/Übertragung ins neue Halbjahr oder in Abschluss | [Artikel](/schild2/versetzung/versetzung-uebertragung-ins-neue-halbjahr-oder-in-abschluss) | [Version 4647](/quellen/wiki/seite-518) |
+| Zusatzprogramme / Tools | [Artikel](/hilfe/zusatzprogramme/zusatzprogramme-tools) | [Version 3939](/quellen/wiki/seite-523) |
+| Benutzerverwaltung Useradmn.exe | [Artikel](/administration/benutzer-einstellungen/benutzerverwaltung-useradmn-exe) | [Version 5740](/quellen/wiki/seite-524) |
+| Benutzerverwaltung PlugIn-DLL | [Artikel](/administration/benutzer-einstellungen/benutzerverwaltung-plugin-dll) | [Version 2158](/quellen/wiki/seite-525) |
+| Shortcuts in Schild-NRW | [Artikel](/administration/benutzer-einstellungen/shortcuts-in-schild-nrw) | [Version 2371](/quellen/wiki/seite-527) |
+| Konferenzmodul KM2.exe | [Artikel](/hilfe/zusatzprogramme/konferenzmodul-km2-exe) | [Version 5507](/quellen/wiki/seite-529) |
+| Abitur | [Artikel](/zeugnisse/sekundarstufen/abitur) | [Version 4201](/quellen/wiki/seite-532) |
+| Betrieb/Adresse zuweisen | [Artikel](/schild2/gruppenprozesse/betrieb-adresse-zuweisen) | [Version 3610](/quellen/wiki/seite-534) |
+| Reportexplorer aufrufen | [Artikel](/reporting/verwaltung/reportexplorer-aufrufen) | [Version 2416](/quellen/wiki/seite-536) |
+| Dokumentenverwaltung | [Artikel](/administration/benutzer-einstellungen/dokumentenverwaltung) | [Version 3436](/quellen/wiki/seite-538) |
+| KM2 001 | [Artikel](/hilfe/zusatzprogramme/km2-001) | [Version 2185](/quellen/wiki/seite-539) |
+| KM2 002 | [Artikel](/hilfe/zusatzprogramme/km2-002) | [Version 2187](/quellen/wiki/seite-540) |
+| KM2 003 | [Artikel](/hilfe/zusatzprogramme/km2-003) | [Version 2189](/quellen/wiki/seite-541) |
+| KM2 - Parameter - Administration | [Artikel](/hilfe/zusatzprogramme/km2-parameter-administration) | [Version 2983](/quellen/wiki/seite-572) |
+| Benutzerverwaltung | [Artikel](/administration/benutzer-einstellungen/benutzerverwaltung) | [Version 3047](/quellen/wiki/seite-573) |
+| KM2 - Parameter - Allgemein | [Artikel](/hilfe/zusatzprogramme/km2-parameter-allgemein) | [Version 2984](/quellen/wiki/seite-574) |
+| Modulbenutzung | [Artikel](/hilfe/zusatzprogramme/modulbenutzung) | [Version 2986](/quellen/wiki/seite-575) |
+| KM2-Programmupdate | [Artikel](/hilfe/zusatzprogramme/km2-programmupdate) | [Version 2395](/quellen/wiki/seite-576) |
+| Kategorie:Konferenzmodul KM2 | [Artikel](/hilfe/wiki-archiv/kategorie-konferenzmodul-km2) | [Version 2241](/quellen/wiki/seite-577) |
+| Schüler-Datensätze löschen | [Artikel](/schild2/gruppenprozesse/schueler-datensaetze-loeschen) | [Version 2247](/quellen/wiki/seite-578) |
+| Grundschuldaten löschen | [Artikel](/schild2/gruppenprozesse/grundschuldaten-loeschen) | [Version 2250](/quellen/wiki/seite-580) |
+| Dokumentenverzeichnisse aktualisieren | [Artikel](/administration/benutzer-einstellungen/dokumentenverzeichnisse-aktualisieren) | [Version 2253](/quellen/wiki/seite-581) |
+| Dokumentenverwaltung aufräumen | [Artikel](/administration/benutzer-einstellungen/dokumentenverwaltung-aufraeumen) | [Version 2257](/quellen/wiki/seite-582) |
+| Übersicht S I | [Artikel](/zeugnisse/sekundarstufen/uebersicht-s-i) | [Version 2283](/quellen/wiki/seite-584) |
+| Übersicht Primarstufe | [Artikel](/zeugnisse/grundschule/uebersicht-primarstufe) | [Version 2284](/quellen/wiki/seite-591) |
+| ZP10/ZK10 | [Artikel](/zeugnisse/sekundarstufen/zp10-zk10) | [Version 6071](/quellen/wiki/seite-603) |
+| Eintragung Herkunft am BK/WBK | [Artikel](/zeugnisse/berufskolleg/eintragung-herkunft-am-bk-wbk) | [Version 2329](/quellen/wiki/seite-606) |
+| Grundschuldaten eingeben | [Artikel](/schild2/schueler/grundschuldaten-eingeben) | [Version 2347](/quellen/wiki/seite-609) |
+| Standard-Formulare drucken | [Artikel](/reporting/verwaltung/standard-formulare-drucken) | [Version 2370](/quellen/wiki/seite-613) |
+| Hochschreibungsalgorithmus | [Artikel](/schild2/versetzung/hochschreibungsalgorithmus) | [Version 2414](/quellen/wiki/seite-622) |
+| Report aus Archiv drucken | [Artikel](/reporting/verwaltung/report-aus-archiv-drucken) | [Version 2432](/quellen/wiki/seite-623) |
+| Word-Seriendruck | [Artikel](/reporting/verwaltung/word-seriendruck) | [Version 2436](/quellen/wiki/seite-625) |
+| Abiturdurchlauf | [Artikel](/zeugnisse/sekundarstufen/abiturdurchlauf) | [Version 2576](/quellen/wiki/seite-630) |
+| Textzeugnisse zuordnen | [Artikel](/zeugnisse/grundschule/textzeugnisse-zuordnen) | [Version 2477](/quellen/wiki/seite-637) |
+| Textzeugnisse erzeugen | [Artikel](/zeugnisse/grundschule/textzeugnisse-erzeugen) | [Version 2476](/quellen/wiki/seite-639) |
+| Textzeugnisse drucken | [Artikel](/zeugnisse/grundschule/textzeugnisse-drucken) | [Version 2482](/quellen/wiki/seite-640) |
+| Neuaufnahmen in Schild-NRW 001 | [Artikel](/einstieg/erste-schritte/neuaufnahmen-in-schild-nrw-001) | [Version 2591](/quellen/wiki/seite-641) |
+| Einführung in die Gruppenprozesse 001 | [Artikel](/einstieg/erste-schritte/einfuehrung-in-die-gruppenprozesse-001) | [Version 3598](/quellen/wiki/seite-646) |
+| Zeugnisvorbereitungen und Druck | [Artikel](/zeugnisse/vorbereitung/zeugnisvorbereitungen-und-druck) | [Version 2981](/quellen/wiki/seite-659) |
+| Leistungsdaten Kursunterricht | [Artikel](/schild2/unterricht-kataloge/leistungsdaten-kursunterricht) | [Version 3146](/quellen/wiki/seite-664) |
+| Erstellen einfacher Reports | [Artikel](/reporting/erstellung/erstellen-einfacher-reports) | [Version 4143](/quellen/wiki/seite-666) |
+| AlleFaecherLaden | [Artikel](/reporting/rap/allefaecherladen) | [Version 2671](/quellen/wiki/seite-694) |
+| GeRNiveauAusFachKrz | [Artikel](/reporting/rap/gerniveauausfachkrz) | [Version 2720](/quellen/wiki/seite-709) |
+| Fördermaßnahmen | [Artikel](/schild2/schueler/foerdermassnahmen) | [Version 3726](/quellen/wiki/seite-711) |
+| Excel-Notendateien | [Artikel](/zeugnisse/vorbereitung/excel-notendateien) | [Version 2774](/quellen/wiki/seite-719) |
+| Eingabe der GeR-Niveaus | [Artikel](/schild2/unterricht-kataloge/eingabe-der-ger-niveaus) | [Version 3121](/quellen/wiki/seite-721) |
+| Nicht mögliche Fachkombinationen | [Artikel](/schild2/unterricht-kataloge/nicht-moegliche-fachkombinationen) | [Version 2821](/quellen/wiki/seite-727) |
+| Ausgewählte Beispiele aus der BASIC-Sammlung | [Artikel](/reporting/erstellung/ausgewaehlte-beispiele-aus-der-basic-sammlung) | [Version 3811](/quellen/wiki/seite-728) |
+| Leistungsdaten Klassenunterricht | [Artikel](/schild2/unterricht-kataloge/leistungsdaten-klassenunterricht) | [Version 3145](/quellen/wiki/seite-749) |
+| Sprachenfolge bei Seiteneinsteigern des Gymnasiums in Zeugnis korrekt ausgeben | [Artikel](/zeugnisse/sekundarstufen/sprachenfolge-bei-seiteneinsteigern-des-gymnasiums-in-zeugnis-korrekt-ausgeben) | [Version 2898](/quellen/wiki/seite-753) |
+| Mündliche Prüfungen A1-A3 festlegen | [Artikel](/zeugnisse/sekundarstufen/muendliche-pruefungen-a1-a3-festlegen) | [Version 2899](/quellen/wiki/seite-754) |
+| Zusatzdaten (Latimun...) eingeben | [Artikel](/zeugnisse/sekundarstufen/zusatzdaten-latimun-eingeben) | [Version 2900](/quellen/wiki/seite-755) |
+| Teilleistungen | [Artikel](/schild2/gruppenprozesse/teilleistungen) | [Version 3622](/quellen/wiki/seite-758) |
+| Lupo:LuPO | [Artikel](/hilfe/zusatzprogramme/lupo-lupo) | [Version 3042](/quellen/wiki/seite-780) |
+| LuPO Einleitung | [Artikel](/hilfe/zusatzprogramme/lupo-einleitung) | [Version 5491](/quellen/wiki/seite-805) |
+| Benutzung von Filter I 001 | [Artikel](/schild2/auswahl/benutzung-von-filter-i-001) | [Version 3255](/quellen/wiki/seite-806) |
+| Datenexport nach Excel oder OpenOffice-Calc | [Artikel](/schild2/import-export-statistik/datenexport-nach-excel-oder-openoffice-calc) | [Version 3244](/quellen/wiki/seite-829) |
+| Sortierung ändern | [Artikel](/schild2/auswahl/sortierung-aendern) | [Version 3214](/quellen/wiki/seite-835) |
+| Import der Zeugnisformulare in Schild-NRW | [Artikel](/zeugnisse/vorbereitung/import-der-zeugnisformulare-in-schild-nrw) | [Version 5874](/quellen/wiki/seite-841) |
+| Fachbezogene Bemerkungen | [Artikel](/zeugnisse/vorbereitung/fachbezogene-bemerkungen) | [Version 3238](/quellen/wiki/seite-844) |
+| Datenbank kopieren | [Artikel](/administration/datenbanken/datenbank-kopieren) | [Version 3635](/quellen/wiki/seite-856) |
+| Lupo:Handbuch | [Artikel](/tools/lupo/lupo-handbuch) | [Version 5546](/quellen/wiki/seite-862) |
+| Lupo:Einleitung | [Artikel](/tools/lupo/lupo-einleitung) | [Version 5579](/quellen/wiki/seite-863) |
+| Lupo:Installation | [Artikel](/tools/lupo/lupo-installation) | [Version 5549](/quellen/wiki/seite-867) |
+| Lupo:Vorbereitungen in Schild-NRW | [Artikel](/tools/lupo/lupo-vorbereitungen-in-schild-nrw) | [Version 5584](/quellen/wiki/seite-869) |
+| Transaktionsprotokoll verwenden | [Artikel](/administration/datenbanken/transaktionsprotokoll-verwenden) | [Version 3419](/quellen/wiki/seite-900) |
+| Benutzung des externen Notenmoduls | [Artikel](/zeugnisse/vorbereitung/benutzung-des-externen-notenmoduls) | [Version 3456](/quellen/wiki/seite-907) |
+| Eintragung der Schüler im offenen Ganztag | [Artikel](/schild2/schueler/eintragung-der-schueler-im-offenen-ganztag) | [Version 6036](/quellen/wiki/seite-921) |
+| Eigene Datenquellen für Schild-Reports | [Artikel](/reporting/erstellung/eigene-datenquellen-fuer-schild-reports) | [Version 3527](/quellen/wiki/seite-929) |
+| DQ01-Demo.spd | [Artikel](/reporting/erstellung/dq01-demo-spd) | [Version 3513](/quellen/wiki/seite-932) |
+| Eingabe von Flüchtlingskindern | [Artikel](/schild2/schueler/eingabe-von-fluechtlingskindern) | [Version 5693](/quellen/wiki/seite-936) |
+| Erzieher mit Funktionen | [Artikel](/schild2/unterricht-kataloge/erzieher-mit-funktionen) | [Version 3592](/quellen/wiki/seite-949) |
+| FilterFachUebersichtAufKlasse | [Artikel](/reporting/rap/filterfachuebersichtaufklasse) | [Version 4282](/quellen/wiki/seite-957) |
+| Textbreite | [Artikel](/reporting/rap/textbreite) | [Version 3668](/quellen/wiki/seite-958) |
+| Papierkorb zeigen | [Artikel](/schild2/auswahl/papierkorb-zeigen) | [Version 3715](/quellen/wiki/seite-967) |
+| SEM:Schnelleingabemodul | [Artikel](/hilfe/zusatzprogramme/sem-schnelleingabemodul) | [Version 3751](/quellen/wiki/seite-973) |
+| SchildChat.exe | [Artikel](/hilfe/zusatzprogramme/schildchat-exe) | [Version 3752](/quellen/wiki/seite-974) |
+| Lupo:Erste Schritte in Lupo | [Artikel](/tools/lupo/lupo-erste-schritte-in-lupo) | [Version 5550](/quellen/wiki/seite-980) |
+| Lupo:Schülerdateien erzeugen | [Artikel](/tools/lupo/lupo-schuelerdateien-erzeugen) | [Version 5551](/quellen/wiki/seite-981) |
+| Lupo:Der Beratungsprozess | [Artikel](/tools/lupo/lupo-der-beratungsprozess) | [Version 5849](/quellen/wiki/seite-982) |
+| Lupo:Auswertung der Fachwahlen | [Artikel](/tools/lupo/lupo-auswertung-der-fachwahlen) | [Version 5553](/quellen/wiki/seite-983) |
+| Lupo:Übergabe der Fachwahlen an Kurs42 | [Artikel](/tools/lupo/lupo-uebergabe-der-fachwahlen-an-kurs42) | [Version 5554](/quellen/wiki/seite-985) |
+| Lupo:Weitere Laufbahnprüfungen | [Artikel](/tools/lupo/lupo-weitere-laufbahnpruefungen) | [Version 5555](/quellen/wiki/seite-986) |
+| Migrationshintergrund automatisch setzen | [Artikel](/schild2/gruppenprozesse/migrationshintergrund-automatisch-setzen) | [Version 3780](/quellen/wiki/seite-987) |
+| JaNa-Export (Jahrgang und Nationalität) | [Artikel](/schild2/import-export-statistik/jana-export-jahrgang-und-nationalitaet) | [Version 3861](/quellen/wiki/seite-1003) |
+| SchILDweb | [Artikel](/hilfe/zusatzprogramme/schildweb) | [Version 3865](/quellen/wiki/seite-1005) |
+| Individuelle Schülergruppen bearbeiten und nutzen | [Artikel](/schild2/auswahl/individuelle-schuelergruppen-bearbeiten-und-nutzen) | [Version 3878](/quellen/wiki/seite-1007) |
+| Kursverwaltung KPlan.exe | [Artikel](/hilfe/zusatzprogramme/kursverwaltung-kplan-exe) | [Version 3906](/quellen/wiki/seite-1015) |
+| Kursplanung KPlan.exe | [Artikel](/hilfe/zusatzprogramme/kursplanung-kplan-exe) | [Version 3913](/quellen/wiki/seite-1016) |
+| Schild-NRW Wiki:Aktuelle Ereignisse | [Artikel](/hilfe/wiki-archiv/schild-nrw-wiki-aktuelle-ereignisse) | [Version 3947](/quellen/wiki/seite-1017) |
+| Access-Datenbanken und Windows-Server 2012 | [Artikel](/administration/installation/access-datenbanken-und-windows-server-2012) | [Version 3931](/quellen/wiki/seite-1018) |
+| UDL-Dateien unter 64-BIT | [Artikel](/administration/installation/udl-dateien-unter-64-bit) | [Version 3933](/quellen/wiki/seite-1019) |
+| S1PLAN:Übersicht | [Artikel](/hilfe/zusatzprogramme/s1plan-uebersicht) | [Version 4044](/quellen/wiki/seite-1022) |
+| News:Kurs42 unter Schild-Zentral | [Artikel](/hilfe/zusatzprogramme/news-kurs42-unter-schild-zentral) | [Version 6063](/quellen/wiki/seite-1023) |
+| S1PLAN:Installation | [Artikel](/hilfe/zusatzprogramme/s1plan-installation) | [Version 4015](/quellen/wiki/seite-1084) |
+| S1PLAN:Erster Programmstart | [Artikel](/hilfe/zusatzprogramme/s1plan-erster-programmstart) | [Version 4028](/quellen/wiki/seite-1085) |
+| S1PLAN:Einrichtung von Kursen | [Artikel](/hilfe/zusatzprogramme/s1plan-einrichtung-von-kursen) | [Version 4078](/quellen/wiki/seite-1088) |
+| S1PLAN:Übernahme von Kursen aus Schild | [Artikel](/hilfe/zusatzprogramme/s1plan-uebernahme-von-kursen-aus-schild) | [Version 4073](/quellen/wiki/seite-1090) |
+| Umgang mit Bildungsgangswechlsern am BK | [Artikel](/schild2/versetzung/umgang-mit-bildungsgangswechlsern-am-bk) | [Version 4062](/quellen/wiki/seite-1091) |
+| Datenbank reparieren und komprimieren | [Artikel](/administration/datenbanken/datenbank-reparieren-und-komprimieren) | [Version 4064](/quellen/wiki/seite-1103) |
+| S1PLAN:Anhang | [Artikel](/hilfe/zusatzprogramme/s1plan-anhang) | [Version 4075](/quellen/wiki/seite-1104) |
+| BK-Abschluss:Anlage-D | [Artikel](/zeugnisse/berufskolleg/bk-abschluss-anlage-d) | [Version 4746](/quellen/wiki/seite-1134) |
+| Anlage D01 | [Artikel](/zeugnisse/berufskolleg/anlage-d01) | [Version 4196](/quellen/wiki/seite-1135) |
+| Umstellung der Gymnasien von G8 auf G9 | [Artikel](/schild2/versetzung/umstellung-der-gymnasien-von-g8-auf-g9) | [Version 5929](/quellen/wiki/seite-1136) |
+| AufFaecherFiltern | [Artikel](/reporting/rap/auffaecherfiltern) | [Version 4247](/quellen/wiki/seite-1144) |
+| Datenliste | [Artikel](/reporting/rap/datenliste) | [Version 4250](/quellen/wiki/seite-1145) |
+| Teilleistungen einrichten und verwalten | [Artikel](/schild2/unterricht-kataloge/teilleistungen-einrichten-und-verwalten) | [Version 5289](/quellen/wiki/seite-1146) |
+| Teilleistungen Einrichten und Verwalten | [Artikel](/schild2/unterricht-kataloge/teilleistungen-einrichten-und-verwalten-1152) | [Version 4270](/quellen/wiki/seite-1152) |
+| Schild-NRW Wiki:Impressum | [Artikel](/hilfe/wiki-archiv/schild-nrw-wiki-impressum) | [Version 4283](/quellen/wiki/seite-1153) |
+| Schild-NRW Wiki:Datenschutz | [Artikel](/hilfe/wiki-archiv/schild-nrw-wiki-datenschutz) | [Version 6069](/quellen/wiki/seite-1154) |
+| Externe Blockungs-Tools | [Artikel](/hilfe/zusatzprogramme/externe-blockungs-tools) | [Version 4572](/quellen/wiki/seite-1155) |
+| K422CNF:Übersicht | [Artikel](/hilfe/zusatzprogramme/k422cnf-uebersicht) | [Version 4323](/quellen/wiki/seite-1157) |
+| Kurs42 To CNF:Hauptseite | [Artikel](/hilfe/zusatzprogramme/kurs42-to-cnf-hauptseite) | [Version 4591](/quellen/wiki/seite-1159) |
+| Klausurplanung CNF:Hauptseite | [Artikel](/hilfe/zusatzprogramme/klausurplanung-cnf-hauptseite) | [Version 4499](/quellen/wiki/seite-1163) |
+| Multi Klausurplanung CNF:Hauptseite | [Artikel](/hilfe/zusatzprogramme/multi-klausurplanung-cnf-hauptseite) | [Version 4574](/quellen/wiki/seite-1164) |
+| Inhaltsverzeichnis | [Artikel](/einstieg/grundlagen/inhaltsverzeichnis) | [Version 5938](/quellen/wiki/seite-1169) |
+| Einrichtung des ENM-Moduls unter Ubuntu 18.04 | [Artikel](/administration/installation/einrichtung-des-enm-moduls-unter-ubuntu-18-04) | [Version 4609](/quellen/wiki/seite-1174) |
+| Grundschulzeugnisse Textzeugnis | [Artikel](/zeugnisse/grundschule/grundschulzeugnisse-textzeugnis) | [Version 5515](/quellen/wiki/seite-1177) |
+| Grundschulzeugnisse Ankreuzzeugnis | [Artikel](/zeugnisse/grundschule/grundschulzeugnisse-ankreuzzeugnis) | [Version 4618](/quellen/wiki/seite-1178) |
+| Grundschulzeugnisse Lernstandsberichte | [Artikel](/zeugnisse/grundschule/grundschulzeugnisse-lernstandsberichte) | [Version 4619](/quellen/wiki/seite-1179) |
+| Versetzung ins neue Schuljahr / Abschnittswechsel durchführen | [Artikel](/schild2/versetzung/versetzung-ins-neue-schuljahr-abschnittswechsel-durchfuehren) | [Version 4653](/quellen/wiki/seite-1182) |
+| Youtube | [Artikel](/hilfe/wiki-archiv/youtube) | [Version 4699](/quellen/wiki/seite-1183) |
+| Mailversand aus der Reporting | [Artikel](/reporting/verwaltung/mailversand-aus-der-reporting) | [Version 4731](/quellen/wiki/seite-1185) |
+| BK-Abschluss:Anlage-A | [Artikel](/zeugnisse/berufskolleg/bk-abschluss-anlage-a) | [Version 4741](/quellen/wiki/seite-1193) |
+| BK-Abschluss:Anlage-B | [Artikel](/zeugnisse/berufskolleg/bk-abschluss-anlage-b) | [Version 4742](/quellen/wiki/seite-1194) |
+| BK-Abschluss:Anlage-C | [Artikel](/zeugnisse/berufskolleg/bk-abschluss-anlage-c) | [Version 4743](/quellen/wiki/seite-1195) |
+| D01 Berufsabschluss/Allg. Hochschulreife (mit Berufspraktikum) (BAB/AHR 4j; VZ) | [Artikel](/zeugnisse/berufskolleg/d01-berufsabschluss-allg-hochschulreife-mit-berufspraktikum-bab-ahr-4j-vz) | [Version 4745](/quellen/wiki/seite-1196) |
+| BK-Abschluss:Anlage-E | [Artikel](/zeugnisse/berufskolleg/bk-abschluss-anlage-e) | [Version 4747](/quellen/wiki/seite-1197) |
+| A01 Fachklassen (BS; TZ) | [Artikel](/zeugnisse/berufskolleg/a01-fachklassen-bs-tz) | [Version 4749](/quellen/wiki/seite-1199) |
+| A03 Fachklassen/erweiterte Zusatzqualifikation (BS/ZQ; TZ) | [Artikel](/zeugnisse/berufskolleg/a03-fachklassen-erweiterte-zusatzqualifikation-bs-zq-tz) | [Version 4751](/quellen/wiki/seite-1201) |
+| A13 Ausbildungsvorbereitung (BS 1j; TZ) | [Artikel](/zeugnisse/berufskolleg/a13-ausbildungsvorbereitung-bs-1j-tz) | [Version 4755](/quellen/wiki/seite-1203) |
+| A12 Ausbildungsvorbereitung (BS 1j; VZ) | [Artikel](/zeugnisse/berufskolleg/a12-ausbildungsvorbereitung-bs-1j-vz) | [Version 4756](/quellen/wiki/seite-1205) |
+| B06 Berufliche Kenntnisse/Hauptschulabschluss Kl. 10 (BK/HSA10; 1j. VZ) | [Artikel](/zeugnisse/berufskolleg/b06-berufliche-kenntnisse-hauptschulabschluss-kl-10-bk-hsa10-1j-vz) | [Version 4758](/quellen/wiki/seite-1207) |
+| B07 Berufliche Kenntnisse/mittlerer Schulabschluss (BK/FOR; 1j. VZ) | [Artikel](/zeugnisse/berufskolleg/b07-berufliche-kenntnisse-mittlerer-schulabschluss-bk-for-1j-vz) | [Version 4760](/quellen/wiki/seite-1209) |
+| C01 Berufsabschluss/Fachhochschulreife (ohne Berufspraktikum) BAB/FHR 3j; VZ | [Artikel](/zeugnisse/berufskolleg/c01-berufsabschluss-fachhochschulreife-ohne-berufspraktikum-bab-fhr-3j-vz) | [Version 4762](/quellen/wiki/seite-1211) |
+| C02 Berufsabschluss f. Hochschulzugangsberechtigte (BAB 2j; VZ) BFS | [Artikel](/zeugnisse/berufskolleg/c02-berufsabschluss-f-hochschulzugangsberechtigte-bab-2j-vz-bfs) | [Version 4764](/quellen/wiki/seite-1213) |
+| C05 Fachoberschule Kl. 11 (BK/FHR 1j; TZ) | [Artikel](/zeugnisse/berufskolleg/c05-fachoberschule-kl-11-bk-fhr-1j-tz) | [Version 4766](/quellen/wiki/seite-1215) |
+| C06 Fachoberschule Kl. 12S (BK/FHR 1j; VZ) | [Artikel](/zeugnisse/berufskolleg/c06-fachoberschule-kl-12s-bk-fhr-1j-vz) | [Version 4768](/quellen/wiki/seite-1217) |
+| C08 Fachoberschule Kl. 12B (BK/FHR 1j; VZ) | [Artikel](/zeugnisse/berufskolleg/c08-fachoberschule-kl-12b-bk-fhr-1j-vz) | [Version 4770](/quellen/wiki/seite-1219) |
+| E02 Fachschule Teilzeit (BW 4j; TZ) | [Artikel](/zeugnisse/berufskolleg/e02-fachschule-teilzeit-bw-4j-tz) | [Version 4772](/quellen/wiki/seite-1221) |
+| Prognos | [Artikel](/hilfe/zusatzprogramme/prognos) | [Version 4949](/quellen/wiki/seite-1223) |
+| Prognos:Einleitung | [Artikel](/hilfe/zusatzprogramme/prognos-einleitung) | [Version 4836](/quellen/wiki/seite-1224) |
+| Prognos:Installation | [Artikel](/hilfe/zusatzprogramme/prognos-installation) | [Version 5511](/quellen/wiki/seite-1225) |
+| Statistik mit ASDPC | [Artikel](/schild2/import-export-statistik/statistik-mit-asdpc) | [Version 5337](/quellen/wiki/seite-1226) |
+| Prognos:Programmstart | [Artikel](/hilfe/zusatzprogramme/prognos-programmstart) | [Version 5339](/quellen/wiki/seite-1243) |
+| Prognos:Hauptfenster | [Artikel](/hilfe/zusatzprogramme/prognos-hauptfenster) | [Version 5111](/quellen/wiki/seite-1249) |
+| Prognos:Analyseverfahren: Einzelfall | [Artikel](/hilfe/zusatzprogramme/prognos-analyseverfahren-einzelfall) | [Version 5079](/quellen/wiki/seite-1250) |
+| Prognos:Analyseverfahren: Klasse | [Artikel](/hilfe/zusatzprogramme/prognos-analyseverfahren-klasse) | [Version 5080](/quellen/wiki/seite-1251) |
+| Einwilligungen | [Artikel](/schild2/schueler/einwilligungen) | [Version 5040](/quellen/wiki/seite-1272) |
+| Prognos:Analyseverfahren: Datei | [Artikel](/hilfe/zusatzprogramme/prognos-analyseverfahren-datei) | [Version 5081](/quellen/wiki/seite-1290) |
+| Lernplattformen | [Artikel](/schild2/unterricht-kataloge/lernplattformen) | [Version 5384](/quellen/wiki/seite-1303) |
+| Statistik mit ASDPC-Schluesselmanagement | [Artikel](/schild2/import-export-statistik/statistik-mit-asdpc-schluesselmanagement) | [Version 5292](/quellen/wiki/seite-1335) |
+| Statistik mit ASDPC-Technik | [Artikel](/schild2/import-export-statistik/statistik-mit-asdpc-technik) | [Version 5307](/quellen/wiki/seite-1336) |
+| Statistik mit ASDPC-Aufbau | [Artikel](/schild2/import-export-statistik/statistik-mit-asdpc-aufbau) | [Version 5254](/quellen/wiki/seite-1337) |
+| Statistik mit ASDPC Fehlersuche | [Artikel](/schild2/import-export-statistik/statistik-mit-asdpc-fehlersuche) | [Version 5713](/quellen/wiki/seite-1340) |
+| Statistik mit ASDPC Vorbereitung | [Artikel](/schild2/import-export-statistik/statistik-mit-asdpc-vorbereitung) | [Version 5308](/quellen/wiki/seite-1342) |
+| Statistik mit ASDPC Haupterhebung | [Artikel](/schild2/import-export-statistik/statistik-mit-asdpc-haupterhebung) | [Version 5313](/quellen/wiki/seite-1343) |
+| Statistik mit ASDPC Übersicht | [Artikel](/schild2/import-export-statistik/statistik-mit-asdpc-uebersicht) | [Version 5350](/quellen/wiki/seite-1345) |
+| Statistik mit ASDPC Uebersicht | [Artikel](/schild2/import-export-statistik/statistik-mit-asdpc-uebersicht-1346) | [Version 5343](/quellen/wiki/seite-1346) |
+| Versionsgeschichte Schild-NRW | [Artikel](/hilfe/wiki-archiv/versionsgeschichte-schild-nrw) | [Version 6074](/quellen/wiki/seite-1352) |
+| Fehler beim Export der Statistikdateien - Klasse nicht registriert | [Artikel](/hilfe/probleme/fehler-beim-export-der-statistikdateien-klasse-nicht-registriert) | [Version 5469](/quellen/wiki/seite-1361) |
+| Schild-NRW Installation | [Artikel](/administration/installation/schild-nrw-installation) | [Version 6059](/quellen/wiki/seite-1362) |
+| Schild-NRW-Daten in eine andere Datenbank übertragen (migrieren) | [Artikel](/administration/datenbanken/schild-nrw-daten-in-eine-andere-datenbank-uebertragen-migrieren) | [Version 5623](/quellen/wiki/seite-1370) |
+| Kurs42:Installationshinweise | [Artikel](/hilfe/zusatzprogramme/kurs42-installationshinweise) | [Version 5508](/quellen/wiki/seite-1371) |
+| Kurs42:Versionsgeschichte | [Artikel](/hilfe/zusatzprogramme/kurs42-versionsgeschichte) | [Version 6010](/quellen/wiki/seite-1372) |
+| Lupo:Versionsgeschichte | [Artikel](/tools/lupo/lupo-versionsgeschichte) | [Version 6009](/quellen/wiki/seite-1373) |
+| Kategorie:LuPO | [Artikel](/hilfe/wiki-archiv/kategorie-lupo) | [Version 5556](/quellen/wiki/seite-1374) |
+| Testseite | [Artikel](/hilfe/wiki-archiv/testseite) | [Version 5588](/quellen/wiki/seite-1376) |
+| DatensatzZeigerBewegen | [Artikel](/reporting/rap/datensatzzeigerbewegen) | [Version 5690](/quellen/wiki/seite-1381) |
+| Versetzungstabelle bei jahrgangsübergreifenden Klassen | [Artikel](/schild2/versetzung/versetzungstabelle-bei-jahrgangsuebergreifenden-klassen) | [Version 5747](/quellen/wiki/seite-1386) |
+| Export für BAN-Portal | [Artikel](/schild2/import-export-statistik/export-fuer-ban-portal) | [Version 6070](/quellen/wiki/seite-1391) |
+| Angaben für Ankreuzzeugnisse/-kompetenzen | [Artikel](/zeugnisse/vorbereitung/angaben-fuer-ankreuzzeugnisse-kompetenzen) | [Version 5811](/quellen/wiki/seite-1397) |
+| Serienbrief Nichtversetzte | [Artikel](/zeugnisse/sekundarstufen/serienbrief-nichtversetzte) | [Version 5863](/quellen/wiki/seite-1408) |
+| Bescheinigungen des Bilingualen Bildungsgangs | [Artikel](/zeugnisse/sekundarstufen/bescheinigungen-des-bilingualen-bildungsgangs) | [Version 5881](/quellen/wiki/seite-1416) |
+| Sprachprüfung (Feststellungsprüfung) anstelle von Pflichtfremdsprachen oder Wahlpflichtfremdsprachen BASS 13-61 Nr. 1 | [Artikel](/schild2/schueler/sprachpruefung-feststellungspruefung-anstelle-von-pflichtfremdsprachen-oder-wahlpflichtfremdsprachen-bass-13-61-nr-1) | [Version 5927](/quellen/wiki/seite-1417) |
+| Herkunftssprachlicher Unterricht BASS 13-61 Nr. 2 | [Artikel](/schild2/schueler/herkunftssprachlicher-unterricht-bass-13-61-nr-2) | [Version 6028](/quellen/wiki/seite-1423) |
+| Erklärung zur Barrierefreiheit | [Artikel](/hilfe/wiki-archiv/erklaerung-zur-barrierefreiheit) | [Version 5930](/quellen/wiki/seite-1425) |
+| Deutschförderung nach BASS 13-63 Nr. 3 (Stand 29.08.2024) | [Artikel](/schild2/schueler/deutschfoerderung-nach-bass-13-63-nr-3-stand-29-08-2024) | [Version 5986](/quellen/wiki/seite-1429) |
+| Schüler im offenen Ganztag und in der Übermittagsbetreuung | [Artikel](/schild2/schueler/schueler-im-offenen-ganztag-und-in-der-uebermittagsbetreuung) | [Version 6054](/quellen/wiki/seite-1440) |

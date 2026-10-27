@@ -1694,6 +1694,13 @@
     "missing": {}
   },
   {
+    "title": "Hilfe:Inhaltsverzeichnis",
+    "path": "hilfe/wiki-archiv/hilfe-inhaltsverzeichnis.md",
+    "source_words": 105,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
     "title": "Akt. Halbjahr",
     "path": "zeugnisse/vorbereitung/akt-halbjahr.md",
     "source_words": 618,
@@ -2177,6 +2184,13 @@
     "missing": {}
   },
   {
+    "title": "Kategorie:Konferenzmodul KM2",
+    "path": "hilfe/wiki-archiv/kategorie-konferenzmodul-km2.md",
+    "source_words": 5,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
     "title": "Schüler-Datensätze löschen",
     "path": "schild2/gruppenprozesse/schueler-datensaetze-loeschen.md",
     "source_words": 80,
@@ -2471,6 +2485,34 @@
     "missing": {}
   },
   {
+    "title": "Lupo:Handbuch",
+    "path": "tools/lupo/lupo-handbuch.md",
+    "source_words": 22,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Lupo:Einleitung",
+    "path": "tools/lupo/lupo-einleitung.md",
+    "source_words": 487,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Lupo:Installation",
+    "path": "tools/lupo/lupo-installation.md",
+    "source_words": 619,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Lupo:Vorbereitungen in Schild-NRW",
+    "path": "tools/lupo/lupo-vorbereitungen-in-schild-nrw.md",
+    "source_words": 2600,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
     "title": "Transaktionsprotokoll verwenden",
     "path": "administration/datenbanken/transaktionsprotokoll-verwenden.md",
     "source_words": 112,
@@ -2555,6 +2597,48 @@
     "missing": {}
   },
   {
+    "title": "Lupo:Erste Schritte in Lupo",
+    "path": "tools/lupo/lupo-erste-schritte-in-lupo.md",
+    "source_words": 1686,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Lupo:Schülerdateien erzeugen",
+    "path": "tools/lupo/lupo-schuelerdateien-erzeugen.md",
+    "source_words": 740,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Lupo:Der Beratungsprozess",
+    "path": "tools/lupo/lupo-der-beratungsprozess.md",
+    "source_words": 2359,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Lupo:Auswertung der Fachwahlen",
+    "path": "tools/lupo/lupo-auswertung-der-fachwahlen.md",
+    "source_words": 256,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Lupo:Übergabe der Fachwahlen an Kurs42",
+    "path": "tools/lupo/lupo-uebergabe-der-fachwahlen-an-kurs42.md",
+    "source_words": 665,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Lupo:Weitere Laufbahnprüfungen",
+    "path": "tools/lupo/lupo-weitere-laufbahnpruefungen.md",
+    "source_words": 177,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
     "title": "Migrationshintergrund automatisch setzen",
     "path": "schild2/gruppenprozesse/migrationshintergrund-automatisch-setzen.md",
     "source_words": 18,
@@ -2593,6 +2677,13 @@
     "title": "Kursplanung KPlan.exe",
     "path": "hilfe/zusatzprogramme/kursplanung-kplan-exe.md",
     "source_words": 168,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Schild-NRW Wiki:Aktuelle Ereignisse",
+    "path": "hilfe/wiki-archiv/schild-nrw-wiki-aktuelle-ereignisse.md",
+    "source_words": 20,
     "missing_words": 0,
     "missing": {}
   },
@@ -2719,6 +2810,20 @@
     "title": "Teilleistungen Einrichten und Verwalten",
     "path": "schild2/unterricht-kataloge/teilleistungen-einrichten-und-verwalten-1152.md",
     "source_words": 6,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Schild-NRW Wiki:Impressum",
+    "path": "hilfe/wiki-archiv/schild-nrw-wiki-impressum.md",
+    "source_words": 425,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Schild-NRW Wiki:Datenschutz",
+    "path": "hilfe/wiki-archiv/schild-nrw-wiki-datenschutz.md",
+    "source_words": 911,
     "missing_words": 0,
     "missing": {}
   },
@@ -3104,6 +3209,20 @@
     "title": "Kurs42:Versionsgeschichte",
     "path": "hilfe/zusatzprogramme/kurs42-versionsgeschichte.md",
     "source_words": 9594,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Lupo:Versionsgeschichte",
+    "path": "tools/lupo/lupo-versionsgeschichte.md",
+    "source_words": 1799,
+    "missing_words": 0,
+    "missing": {}
+  },
+  {
+    "title": "Kategorie:LuPO",
+    "path": "hilfe/wiki-archiv/kategorie-lupo.md",
+    "source_words": 13,
     "missing_words": 0,
     "missing": {}
   },

@@ -15,4 +15,4 @@ wiki_revision: 3042
 
 ---
 
-Quelle: [Lupo:LuPO – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo%3ALuPO&oldid=3042) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo%3ALuPO&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-780) · [Lupo:LuPO – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo%3ALuPO&oldid=3042)

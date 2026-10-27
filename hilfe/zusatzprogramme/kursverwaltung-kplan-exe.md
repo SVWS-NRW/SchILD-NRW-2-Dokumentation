@@ -11,4 +11,4 @@ wiki_revision: 3906
 
 ---
 
-Quelle: [Kursverwaltung KPlan.exe – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kursverwaltung+KPlan.exe&oldid=3906) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kursverwaltung+KPlan.exe&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1015) · [Kursverwaltung KPlan.exe – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kursverwaltung+KPlan.exe&oldid=3906)

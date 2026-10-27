@@ -1,0 +1,30 @@
+{
+  "pageid": 309,
+  "ns": 6,
+  "title": "Datei:Unterrichtsfaecher-01.jpg",
+  "revisions": [
+    {
+      "revid": 1348,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-02-13T15:11:34Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-02-13T15:12:10Z",
+  "lastrevid": 1348,
+  "length": 0,
+  "new": ""
+}

@@ -1,0 +1,30 @@
+{
+  "pageid": 1006,
+  "ns": 6,
+  "title": "Datei:Datenaustausch-Schildweb.png",
+  "revisions": [
+    {
+      "revid": 3863,
+      "parentid": 0,
+      "user": "BPanzlaff",
+      "timestamp": "2016-04-25T10:00:44Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2016-04-25T10:00:58Z",
+  "lastrevid": 3863,
+  "length": 0,
+  "new": ""
+}

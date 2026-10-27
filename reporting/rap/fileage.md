@@ -32,4 +32,4 @@ wiki_revision: 40
 
 ---
 
-Quelle: [FileAge – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FileAge&oldid=40) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=FileAge&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-20) · [FileAge – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FileAge&oldid=40)

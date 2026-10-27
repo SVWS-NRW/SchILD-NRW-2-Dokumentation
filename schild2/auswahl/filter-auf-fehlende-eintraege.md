@@ -17,4 +17,4 @@ Nach dem Aufruf erhält man ein kleines Fenster, in dem man das zu überprüfend
 
 ---
 
-Quelle: [Filter auf fehlende Einträge – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Filter+auf+fehlende+Eintr%C3%A4ge&oldid=973) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Filter+auf+fehlende+Eintr%C3%A4ge&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-155) · [Filter auf fehlende Einträge – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Filter+auf+fehlende+Eintr%C3%A4ge&oldid=973)

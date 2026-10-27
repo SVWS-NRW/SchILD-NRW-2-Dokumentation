@@ -1,0 +1,29 @@
+{
+  "pageid": 1325,
+  "ns": 6,
+  "title": "Datei:Plattformen anlegen.png",
+  "revisions": [
+    {
+      "revid": 5271,
+      "parentid": 5270,
+      "user": "SpehJ",
+      "timestamp": "2022-01-07T08:40:10Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": "SpehJ lud eine neue Version von [[Datei:Plattformen anlegen.png]] hoch"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-01-07T08:40:10Z",
+  "lastrevid": 5271,
+  "length": 0
+}

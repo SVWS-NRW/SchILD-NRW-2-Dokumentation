@@ -37,7 +37,7 @@ export function sectionArticleHtml(entry, entries, base = '/') {
     if (url.origin !== source.origin) return all
     const target = targets.get(canonicalArticle(url.pathname, base))
     if (target) {
-      const fragment = url.hash ? '-' + decodeURIComponent(url.hash.slice(1)) : ''
+      const fragment = url.hash && url.hash !== '#top' ? '-' + decodeURIComponent(url.hash.slice(1)) : ''
       return `href="#${target}${fragment}"`
     }
     return `href="${withBase(url.pathname)}${url.search}${url.hash}"`

@@ -46,4 +46,4 @@ end
 
 ---
 
-Quelle: [Mehrfachauswahl – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Mehrfachauswahl&oldid=1842) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Mehrfachauswahl&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-51) · [Mehrfachauswahl – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Mehrfachauswahl&oldid=1842)

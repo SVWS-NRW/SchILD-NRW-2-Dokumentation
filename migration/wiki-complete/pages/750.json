@@ -1,0 +1,30 @@
+{
+  "pageid": 750,
+  "ns": 6,
+  "title": "Datei:LeistungsdatenKursTut05.jpg",
+  "revisions": [
+    {
+      "revid": 2884,
+      "parentid": 0,
+      "user": "Mhoffmann",
+      "timestamp": "2015-02-23T11:20:24Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-02-23T11:20:24Z",
+  "lastrevid": 2884,
+  "length": 0,
+  "new": ""
+}

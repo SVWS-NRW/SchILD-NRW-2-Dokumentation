@@ -1,0 +1,29 @@
+{
+  "pageid": 299,
+  "ns": 0,
+  "title": "Klassengruppen/Abteilungen",
+  "revisions": [
+    {
+      "revid": 1357,
+      "parentid": 1328,
+      "user": "UMertsch",
+      "timestamp": "2014-02-14T04:49:01Z",
+      "sha1": "fc6e9f593af1fff25977d5fc5b9d833801e8fed4",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "===Klassengruppen/Abteilungen===\n\nIm nächsten Menüpunkt unter 'Schulverwaltung' können Sie verschiedene Klassengruppen oder Abteilungen Ihrer Schule abbilden und diesen einen Koordinator bzw. eine Koordinatorin zuweisen (z.B. Mittelstufenkoordinator/-in). Dies wird dann erforderlich sein, wenn Sie in der Benutzerverwaltung den jeweiligen Koordinatoren und Koordinatorinnen besondere Lese- und Schreibrechte in SchILD-NRW erteilen wollen.\nÜber die Plus- und Minussymbole der Steuerleiste, die Síe mittlerweile aus anderen Menüs kennen, sind Sie in der Lage, Gruppen hinzuzufügen bzw. zu entfernen. Durch Klick auf das Plussymbol in der Steuerleiste neben der Tabelle ''''Zugehörige Klassen'''' öffnet sich ein Auswahlfenster, in welchem Sie die entsprechenden Klassen markieren können. Auch hier bestätigen Sie wieder sämtliche Eintragungen durch das Hakensymbol. \n\n[[Image:Klassen-Abteilungen-01.jpg|Center|400px]]\n\n\n'''Hinweis:'''  Wollen Sie die Markierung bei einer Klasse entfernen, finden diese aber nicht im Auswahlfenster, so ist sie in der Klassen-/Versetzungstabelle bereits auf 'nicht sichtbar' gesetzt worden. Sie erscheint trotz dieser Einstellung aber noch in der Tabelle ''''Zugehörige Klassen''''. Dort kann sie, nachdem Sie sie markiert haben, durch das Minussymbol der Steuerleiste entfernt werden (s. Abbildung).\n\n\n\n\n[[Image:Klassen-Abteilungen-02.jpg|Center|400px]]\n\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Schild-NRW-Index|Zurück zu Schild-NRW-Index]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-02-14T04:49:01Z",
+  "lastrevid": 1357,
+  "length": 1484
+}

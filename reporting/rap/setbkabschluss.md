@@ -34,4 +34,4 @@ wiki_revision: 110
 
 ---
 
-Quelle: [SetBKAbschluss – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetBKAbschluss&oldid=110) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetBKAbschluss&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-86) · [SetBKAbschluss – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetBKAbschluss&oldid=110)

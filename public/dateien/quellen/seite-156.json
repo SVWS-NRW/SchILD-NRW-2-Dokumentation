@@ -1,0 +1,29 @@
+{
+  "pageid": 156,
+  "ns": 0,
+  "title": "Standard-Auswahl laden",
+  "revisions": [
+    {
+      "revid": 968,
+      "parentid": 374,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-01-27T11:47:47Z",
+      "sha1": "527053aa7c489ace310726159335856c1a537502",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Die Auswahl dieses Menüpunktes hebt alle zuvor eingestellten Filterbedingungen auf und es erscheinen alle aktiven Schüler im [[Container|Schüler-Container]]. \nZuvor markierte Schülerdatensätze bleiben allerdings markiert.\n\nDie gleiche Funktionalität wird mit einem Klick auf die runde Leuchtdiode ausgelöst. ([[Iconleiste]])\n\nStatus grün: kein Filter gesetzt (alle aktiven Schüler werden angezeigt)\n\n\n----\n\n[[Auswahl|Zurück zu Auswahl]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-01-27T11:47:47Z",
+  "lastrevid": 968,
+  "length": 446
+}

@@ -21,4 +21,4 @@ Weiterhin muss man einen Eintrag bei "Reihenfolge" und dem "Beginn-" bzw. "End"-
 
 ---
 
-Quelle: [Sprachenfolge zuweisen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sprachenfolge+zuweisen&oldid=1900) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sprachenfolge+zuweisen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-362) · [Sprachenfolge zuweisen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sprachenfolge+zuweisen&oldid=1900)

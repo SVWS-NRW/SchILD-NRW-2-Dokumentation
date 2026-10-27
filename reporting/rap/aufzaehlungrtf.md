@@ -62,4 +62,4 @@ für eine ungeordnete Liste bzw.
 
 ---
 
-Quelle: [AufzaehlungRTF – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=AufzaehlungRTF&oldid=2077) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=AufzaehlungRTF&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-13) · [AufzaehlungRTF – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=AufzaehlungRTF&oldid=2077)

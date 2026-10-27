@@ -1,0 +1,30 @@
+{
+  "pageid": 1222,
+  "ns": 6,
+  "title": "Datei:Prognos Logo.png",
+  "revisions": [
+    {
+      "revid": 4832,
+      "parentid": 0,
+      "user": "SpehJ",
+      "timestamp": "2021-08-30T16:42:14Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2021-08-30T16:46:53Z",
+  "lastrevid": 4832,
+  "length": 0,
+  "new": ""
+}

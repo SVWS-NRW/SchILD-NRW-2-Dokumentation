@@ -1,0 +1,30 @@
+{
+  "pageid": 1010,
+  "ns": 6,
+  "title": "Datei:ISG-003.jpg",
+  "revisions": [
+    {
+      "revid": 3875,
+      "parentid": 0,
+      "user": "JStaratschek",
+      "timestamp": "2016-05-14T12:12:27Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2016-05-14T12:14:02Z",
+  "lastrevid": 3875,
+  "length": 0,
+  "new": ""
+}

@@ -90,4 +90,4 @@ Hier im Beispiel geht hervor, dass diese Schlüssel am 09.09.2021 um 10:55:53 er
 
 ---
 
-Quelle: [Statistik mit ASDPC-Schluesselmanagement – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC-Schluesselmanagement&oldid=5292) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC-Schluesselmanagement&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1335) · [Statistik mit ASDPC-Schluesselmanagement – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC-Schluesselmanagement&oldid=5292)

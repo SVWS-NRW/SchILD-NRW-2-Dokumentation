@@ -1,0 +1,30 @@
+{
+  "pageid": 174,
+  "ns": 6,
+  "title": "Datei:Haltestelle.jpg",
+  "revisions": [
+    {
+      "revid": 430,
+      "parentid": 0,
+      "user": "FKrebbing",
+      "timestamp": "2013-12-02T00:42:07Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-12-02T00:59:33Z",
+  "lastrevid": 430,
+  "length": 0,
+  "new": ""
+}

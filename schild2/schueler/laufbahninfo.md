@@ -33,4 +33,4 @@ Hat ein Schüler in einem vorausgehenden Abschnitt einen Abschluss an der eigene
 
 ---
 
-Quelle: [Laufbahninfo – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Laufbahninfo&oldid=3581) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Laufbahninfo&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-336) · [Laufbahninfo – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Laufbahninfo&oldid=3581)

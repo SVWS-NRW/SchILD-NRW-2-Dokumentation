@@ -1,0 +1,30 @@
+{
+  "pageid": 1282,
+  "ns": 6,
+  "title": "Datei:ASDPC B Übersicht.png",
+  "revisions": [
+    {
+      "revid": 5054,
+      "parentid": 0,
+      "user": "FFrodermann",
+      "timestamp": "2021-11-04T09:34:04Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-01-22T10:02:20Z",
+  "lastrevid": 5054,
+  "length": 0,
+  "new": ""
+}

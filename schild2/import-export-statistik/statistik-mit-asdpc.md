@@ -327,4 +327,4 @@ Achten Sie bei diesen Daten auf den Datenschutz und nutzen Sie sichere Übertrag
 
 ---
 
-Quelle: [Statistik mit ASDPC – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC&oldid=5337) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1226) · [Statistik mit ASDPC – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC&oldid=5337)

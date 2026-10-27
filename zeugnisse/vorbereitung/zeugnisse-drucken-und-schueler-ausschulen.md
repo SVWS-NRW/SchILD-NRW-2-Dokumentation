@@ -35,4 +35,4 @@ Klickt man nun auf die Schaltfläche "Zeugnisse drucken", wird man aufgefordert,
 
 ---
 
-Quelle: [Zeugnisse drucken und Schüler ausschulen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zeugnisse+drucken+und+Sch%C3%BCler+ausschulen&oldid=3627) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zeugnisse+drucken+und+Sch%C3%BCler+ausschulen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-514) · [Zeugnisse drucken und Schüler ausschulen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zeugnisse+drucken+und+Sch%C3%BCler+ausschulen&oldid=3627)

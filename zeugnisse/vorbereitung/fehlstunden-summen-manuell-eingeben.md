@@ -17,4 +17,4 @@ Nach Abschluss der Eingabe werden die Daten durch Kick auf die Schaltfläche "In
 
 ---
 
-Quelle: [Fehlstunden-Summen manuell eingeben – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fehlstunden-Summen+manuell+eingeben&oldid=2032) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fehlstunden-Summen+manuell+eingeben&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-484) · [Fehlstunden-Summen manuell eingeben – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fehlstunden-Summen+manuell+eingeben&oldid=2032)

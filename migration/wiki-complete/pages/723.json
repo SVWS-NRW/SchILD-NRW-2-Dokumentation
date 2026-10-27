@@ -1,0 +1,30 @@
+{
+  "pageid": 723,
+  "ns": 6,
+  "title": "Datei:Details Unterrichtsfächer.JPG",
+  "revisions": [
+    {
+      "revid": 2795,
+      "parentid": 0,
+      "user": "Wolfgang Ley",
+      "timestamp": "2015-02-09T15:41:03Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-02-10T11:27:45Z",
+  "lastrevid": 2795,
+  "length": 0,
+  "new": ""
+}

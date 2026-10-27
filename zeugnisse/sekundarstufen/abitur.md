@@ -59,4 +59,4 @@ Hat ein Schüler das Abitur bestanden, ist es wichtig, dass bei ihm das Abitur-J
 
 ---
 
-Quelle: [Abitur – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Abitur&oldid=4201) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Abitur&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-532) · [Abitur – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Abitur&oldid=4201)

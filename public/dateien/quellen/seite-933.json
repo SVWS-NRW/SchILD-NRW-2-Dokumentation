@@ -1,0 +1,30 @@
+{
+  "pageid": 933,
+  "ns": 6,
+  "title": "Datei:SPD-03.png",
+  "revisions": [
+    {
+      "revid": 3516,
+      "parentid": 0,
+      "user": "BPanzlaff",
+      "timestamp": "2015-09-07T08:52:36Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-09-07T08:53:41Z",
+  "lastrevid": 3516,
+  "length": 0,
+  "new": ""
+}

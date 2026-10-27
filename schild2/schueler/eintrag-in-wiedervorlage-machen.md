@@ -15,4 +15,4 @@ Einträge zur Wiedervorlage können auch gruppenweise vorgenommen werden. Nach d
 
 ---
 
-Quelle: [Eintrag in Wiedervorlage machen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Eintrag+in+Wiedervorlage+machen&oldid=2005) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Eintrag+in+Wiedervorlage+machen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-317) · [Eintrag in Wiedervorlage machen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Eintrag+in+Wiedervorlage+machen&oldid=2005)

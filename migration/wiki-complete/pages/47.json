@@ -1,0 +1,30 @@
+{
+  "pageid": 47,
+  "ns": 0,
+  "title": "LoadVermerkeEx",
+  "revisions": [
+    {
+      "revid": 68,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T15:57:39Z",
+      "sha1": "b552a477521ddbb71e1ce774e11fa65c94ed0362",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    function LoadVermerkeEx(const aVermerkart, aDelimiter: String; const MitDatum: Boolean): String;\n|-\n|'''Parameter''' || \n    aVermerkart        - Gewünschte Vermerkart, wie im Katalog „Vermerkarten\n                         definiert.\n    aDelimiter         - Trenner für die Vermerke. Hier ist eine beliebige\n                         Zeichenkette zulässig. Besondere Bedeutung haben '\\t '\n                         bzw. '\\T' (fügt einen Tabulatorschritt ein) und '\\n'\n                         bzw. '\\N' (fügt einen Zeilenvorschub ein).\n    MitDatum           - Boolescher Wert. Falls TRUE, wird den Ergebiszeilen\n                         das Eintragsdatum vorangestellt\n|-\n|'''Rückgabewert''' ||\n    Alle Vermerke der gewählten Art, durch den Delimiter voneinander getrennt.\n|- \n|'''Beispiel''' || \n    Procedure DetailBeforePrint;\n    begin\n      Memo1.Text:=LoadVermerkeEx('Betreuung','\\n',True);\n    end;\n   (*Ergebnis: Die Zeilen haben die Form '31.02.2123: XYZ aufgenommen'*)\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      function LoadVermerkeEx(const aVermerkart, aDelimiter: String; const MitD…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T15:57:39Z",
+  "lastrevid": 68,
+  "length": 1116,
+  "new": ""
+}

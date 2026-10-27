@@ -21,4 +21,4 @@ Auch dieses Menü erscheint nur, wenn unter den "Extras -\> Programm-Einstellung
 
 ---
 
-Quelle: [Benutzer – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Benutzer&oldid=1848) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Benutzer&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-450) · [Benutzer – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Benutzer&oldid=1848)

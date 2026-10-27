@@ -44,4 +44,4 @@ wiki_revision: 2151
 
 ---
 
-Quelle: [SelectOption – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SelectOption&oldid=2151) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=SelectOption&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-81) · [SelectOption – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SelectOption&oldid=2151)

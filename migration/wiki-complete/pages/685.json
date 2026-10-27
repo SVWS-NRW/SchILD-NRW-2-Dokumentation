@@ -1,0 +1,30 @@
+{
+  "pageid": 685,
+  "ns": 6,
+  "title": "Datei:Report-Neu-Linie-Kontext.png",
+  "revisions": [
+    {
+      "revid": 2652,
+      "parentid": 0,
+      "user": "BPanzlaff",
+      "timestamp": "2014-11-23T08:27:59Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-11-23T08:31:10Z",
+  "lastrevid": 2652,
+  "length": 0,
+  "new": ""
+}

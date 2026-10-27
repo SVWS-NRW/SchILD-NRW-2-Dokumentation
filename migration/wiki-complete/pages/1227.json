@@ -1,0 +1,30 @@
+{
+  "pageid": 1227,
+  "ns": 6,
+  "title": "Datei:ASDPCAktuellWarnung.jpg",
+  "revisions": [
+    {
+      "revid": 4850,
+      "parentid": 0,
+      "user": "FFrodermann",
+      "timestamp": "2021-09-09T09:37:57Z",
+      "sha1": "8bbf7de53e4136143f311b48208a33ad63de1171",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "== Beschreibung ==\nStartwarnung zur Aktualität ASDPC\n\n[Erstellt aus ASDPC]"
+        }
+      },
+      "comment": "Startwarnung zur Aktualität ASDPC\n\n[Erstellt aus ASDPC]"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2021-09-09T09:37:57Z",
+  "lastrevid": 4850,
+  "length": 75,
+  "new": ""
+}

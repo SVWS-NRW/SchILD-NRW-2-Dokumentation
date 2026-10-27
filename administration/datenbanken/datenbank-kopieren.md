@@ -41,4 +41,4 @@ Fertig!
 
 ---
 
-Quelle: [Datenbank kopieren – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datenbank+kopieren&oldid=3635) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datenbank+kopieren&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-856) · [Datenbank kopieren – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datenbank+kopieren&oldid=3635)

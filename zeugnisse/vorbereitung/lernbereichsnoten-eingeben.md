@@ -19,4 +19,4 @@ Lassen Sie zunächst den Gruppenprozess [Versetzungs-/Abschluss-Berechnung](/sch
 
 ---
 
-Quelle: [Lernbereichsnoten eingeben – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lernbereichsnoten+eingeben&oldid=1988) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lernbereichsnoten+eingeben&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-481) · [Lernbereichsnoten eingeben – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lernbereichsnoten+eingeben&oldid=1988)

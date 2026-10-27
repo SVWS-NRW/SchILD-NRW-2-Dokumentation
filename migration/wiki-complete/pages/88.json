@@ -1,0 +1,30 @@
+{
+  "pageid": 88,
+  "ns": 0,
+  "title": "SetJgIntervall",
+  "revisions": [
+    {
+      "revid": 112,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T18:36:39Z",
+      "sha1": "1dd35cbba863b1bb88af1d87a6abd6d4a158d7ec",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    function SetJgIntervall(aStartJg, aEndJg: Integer): Boolean; Diese Funktion\n    ist veraltet. Statt dessen sollte SetJgIntervall_ASD benutzt werden.\n|-\n|'''Parameter''' || \n    aStartJg           - Beginn des Jahrgangsintervalles, für das Übersichten erzeugt\n                         werden solle\n    aEndJg             - Ende des Jahrgangsintervalles, für das Übersichten erzeugt\n                         werden sollen\n|-\n|'''Rückgabewert''' ||\n    ...\n|- \n|'''Beispiel''' || \n    Procedure ReportBeforePrint;\n     begin\n       If SetJgIntervall(12,13) then\n         ShowMessage('Dieser Report ist für den Quartalsbetrieb nicht geeignet');\n     end;\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      function SetJgIntervall(aStartJg, aEndJg: Integer): Boolean; Diese Funkti…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T18:36:39Z",
+  "lastrevid": 112,
+  "length": 784,
+  "new": ""
+}

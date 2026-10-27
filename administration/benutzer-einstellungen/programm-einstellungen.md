@@ -105,7 +105,7 @@ Hier kann gewählt werden, ob Straßen und Hausnummern in einem Datenfeld oder g
 
 Floskeln in Datenbank verwalten
 
-Mit dieser Option kann gewählt werden, ob die Floskeln in der Datenbank oder in einer separaten Textdatei gespeichert werden sollen. Die weiteren Bearbeitungsschritte können unter [Schulverwaltung](/schild2/unterricht-kataloge/schulverwaltung) \> [Floskeln bearbeiten](https://wiki.svws.nrw.de/mediawiki/index.php?title=Floskeln_bearbeiten&action=edit&redlink=1) nachgelesen werden.
+Mit dieser Option kann gewählt werden, ob die Floskeln in der Datenbank oder in einer separaten Textdatei gespeichert werden sollen. Die weiteren Bearbeitungsschritte können unter [Schulverwaltung](/schild2/unterricht-kataloge/schulverwaltung) \> [Floskeln bearbeiten](/schild2/unterricht-kataloge/floskeln-bearbeiten) nachgelesen werden.
 
 Externe Schüler im Standardfilter wie Aktive behandeln
 
@@ -413,4 +413,4 @@ Schild-NRW benötigt für die Übertragung zur Schildweb-Datenbank ein Passwort,
 
 ---
 
-Quelle: [Programm-Einstellungen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Programm-Einstellungen&oldid=4706) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Programm-Einstellungen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-247) · [Programm-Einstellungen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Programm-Einstellungen&oldid=4706)

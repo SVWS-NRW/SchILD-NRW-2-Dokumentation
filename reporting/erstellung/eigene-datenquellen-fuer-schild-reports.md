@@ -82,4 +82,4 @@ In der beiliegenden ZIP-Datei sind zwei Beispiele für solche dynamisch erstellt
 
 ---
 
-Quelle: [Eigene Datenquellen für Schild-Reports – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Eigene+Datenquellen+f%C3%BCr+Schild-Reports&oldid=3527) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Eigene+Datenquellen+f%C3%BCr+Schild-Reports&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-929) · [Eigene Datenquellen für Schild-Reports – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Eigene+Datenquellen+f%C3%BCr+Schild-Reports&oldid=3527)

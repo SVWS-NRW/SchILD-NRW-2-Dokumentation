@@ -1,0 +1,29 @@
+{
+  "pageid": 63,
+  "ns": 0,
+  "title": "ReplaceText",
+  "revisions": [
+    {
+      "revid": 5651,
+      "parentid": 84,
+      "user": "ASchueller",
+      "timestamp": "2023-01-18T13:37:38Z",
+      "sha1": "59d393d2c65789f70687c13f6b6936e5133da0b8",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    function ReplaceText(aSourceText, aSearchText,\n                         aReplaceText: String): String;\n|-\n|'''Parameter''' || \n    aSourceText        - Text, der den zu ersetzenden String (selbst\n                         definierter Platzhalter) enthält\n    aSearchText        - String, der ersetzt werden soll\n    aReplaceText       - String, der eingefügt werden soll\n|-\n|'''Rückgabewert''' ||\n    Veränderter Quelltext\n|- \n|'''Beispiel''' || \n    Memo1.Text:=ReplaceText(Memo1.Text,'$VORNAME$',Schueler['Vorname']);\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "/* RAP-Funktion \"{{SEITENNAME}}\" */"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2023-01-18T13:37:38Z",
+  "lastrevid": 5651,
+  "length": 650
+}

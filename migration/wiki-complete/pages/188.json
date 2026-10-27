@@ -1,0 +1,29 @@
+{
+  "pageid": 188,
+  "ns": 0,
+  "title": "Telefonische Ansprechpartner",
+  "revisions": [
+    {
+      "revid": 521,
+      "parentid": 517,
+      "user": "FKrebbing",
+      "timestamp": "2013-12-10T22:46:12Z",
+      "sha1": "cead5c095032fffd4ba53c5b9f2ddb65162cc029",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "[[Datei:TelefonAnsprechpartner.jpg|rechts]]\n\nDen Katalog der telefonischen Ansprechpartner füllen Sie mit den Kontakten, die Sie im Zusammenhang mit der Betreuung des Schülers benötigen. \n\nHier stellen sie alle weiteren Telefonkontakte bereit, die Sie bei irgendeinem Schüler verwenden bzw. eintragen wollen. \n\nIn der Regel finden sich hier Einträge wie Vater, Mutter, Notfallnummer, Großeltern, Pflegeheim etc. \n\nDiese Einträge tragen sie einmalig ein und solange es keine Veränderungen / Ergänzungen gibt, brauchen Sie diesen Katalog nicht weiter beachten.\n\n\nAuf dem Karteireiter \"Erzieher\" können nun weitere Telefonnummern eingetragen werden. \n\n[[Datei:Notfallnummern.jpg]]\n\n\n\nZurück zur Übersicht der [[Kataloge]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-12-10T22:46:12Z",
+  "lastrevid": 521,
+  "length": 730
+}

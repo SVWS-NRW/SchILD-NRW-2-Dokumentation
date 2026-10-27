@@ -190,4 +190,4 @@ Einzelheiten entnehmen Sie bitte den jeweiligen Artikeln:
 
 ---
 
-Quelle: [Schild-NRW-Index – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schild-NRW-Index&oldid=5935) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schild-NRW-Index&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-6) · [Schild-NRW-Index – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schild-NRW-Index&oldid=5935)

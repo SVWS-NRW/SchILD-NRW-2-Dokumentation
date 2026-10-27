@@ -1,0 +1,30 @@
+{
+  "pageid": 1195,
+  "ns": 0,
+  "title": "BK-Abschluss:Anlage-C",
+  "revisions": [
+    {
+      "revid": 4743,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2021-04-22T10:35:24Z",
+      "sha1": "619201cdcf1e00886bf4a11387efb0b7a0411fda",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "= Bildungsgänge, die zu einem Berufsabschluss nach Landesrecht und zur Fachhochschulreife oder zu beruflichen Kenntnissen und zur Fachhochschulreife führen =\n\n[[C01 Berufsabschluss/Fachhochschulreife (ohne Berufspraktikum) BAB/FHR 3j; VZ]]\n\n[[C02 Berufsabschluss f. Hochschulzugangsberechtigte (BAB 2j; VZ) BFS]]\n\n[[C03 Berufliche Kenntnisse/FHR (BK/FHR 2j; VZ) HBFS]]\n\n[[C04 Berufliche Kenntnisse/Sonderform für Abiturienten (BK 1j; VZ) HBFS]]\n\n[[C05 Fachoberschule Kl. 11 (BK/FHR 1j; TZ)]]\n\n[[C06 Fachoberschule Kl. 12S (BK/FHR 1j; VZ)]]\n\n[[C07 Fachoberschule Kl. 12B (BK/FHR 2j; TZ)]]\n\n[[C08 Fachoberschule Kl. 12B (BK/FHR 1j; VZ)]]\n\n[[C09 Berufspraktikum Erzieher/innen (Vollzeit) (BP/Erz 1j; VZ)]]\n\n[[C10 Berufspraktikum Erzieher/innen (Teilzeit) (BP/Erz 2j; TZ)]]\n\n[[C11 Fachoberschule Kl. 12B (BK/FHR 3j; TZ)]]\n\n[[C12 Berufsabschluss/Fachhochschulreife (mit  Berufspraktikum) BAB/FHR 3,5j; VZ]]\n\n[[C13 Berufsabschluss/Fachhochschulreife (gestuft) (BAB/FHR 3j; VZ)]]"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „= Bildungsgänge, die zu einem Berufsabschluss nach Landesrecht und zur Fachhochschulreife oder zu beruflichen Kenntnissen und zur Fachhochschulreife führen =…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2021-04-22T11:13:37Z",
+  "lastrevid": 4743,
+  "length": 975,
+  "new": ""
+}

@@ -23,4 +23,4 @@ Eine nachträgliche Änderung eines Filters ist nur eingeschränkt unter Filter 
 
 ---
 
-Quelle: [Vorhandene Filterdefinition laden – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Vorhandene+Filterdefinition+laden&oldid=970) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Vorhandene+Filterdefinition+laden&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-157) · [Vorhandene Filterdefinition laden – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Vorhandene+Filterdefinition+laden&oldid=970)

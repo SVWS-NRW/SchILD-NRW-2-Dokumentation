@@ -1,0 +1,29 @@
+{
+  "pageid": 151,
+  "ns": 0,
+  "title": "Nur Schüler mit Geschwistern zeigen",
+  "revisions": [
+    {
+      "revid": 1033,
+      "parentid": 1032,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-01-27T20:31:10Z",
+      "sha1": "642b537d7377b6051ab1a1cadd5bd876f82eb89a",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Die Filteroption \"Nur Schüler mit Geschwistern zeigen\" soll dazu dienen, Schüler herauszufiltern, die Geschwister an der gleichen Schule haben. Dabei wird die aktuell in SchILD-NRW eingestellte Sortierung verwendet. Außerdem sind mehrere Kombinationen für den Status möglich.\n\n'''''Beispiel:''''' \n\nEs sollen alle Neuaufnahmen gezeigt werden, die Geschwister mit Status 'Aktiv' an der Schule haben. Dazu zuerst wie üblich auf die Neuaufnahmen filtern, dann 'Auswahl' -> 'Nur Schüler mit Geschwistern zeigen' aktivieren. Es erscheint dann ein kleines Fenster, in dem man den gewünschten Status für die Geschwisterkinder der Neuaufnahmen einstellen kann. Hier 'Aktiv' anklicken und 'OK' aktivieren. Anschließend werden alle Neuaufnahmen mit aktiven Geschwistern angezeigt.\n\n'''''Wichtig:''''' \n\nDie Geschwister werden anhand der Kriterien Nachname, Straße und PLZ ermittelt (Voraussetzung: gleiche Schreibweise der Straßennamen), d.h. wenn diese bei zwei Schülerinnen und Schülern gleich sind, werden sie als Geschwister interpretiert. Das kann im Einzelfall natürlich zu Fehlinterpretationen führen, z.B. Tim Müller und Tania Müller, die nicht miteinander verwandt sind, aber beide in der Hauptstraße 123 in 54321 Musterhausen wohnen. \nEin ähnliches Feature ist “Geschwister suchen“ (unter \"Weitere Funktionen\" rechts vom Status-Eingabefeld) zu einem ausgewählten Schüler. \n\n\n\n\n----\n\n[[Auswahl|Zurück zu Auswahl]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-01-27T20:31:10Z",
+  "lastrevid": 1033,
+  "length": 1439
+}

@@ -1,0 +1,29 @@
+{
+  "pageid": 328,
+  "ns": 0,
+  "title": "Individual-Daten II",
+  "revisions": [
+    {
+      "revid": 3024,
+      "parentid": 3023,
+      "user": "Pfotenhauer",
+      "timestamp": "2015-05-01T12:06:29Z",
+      "sha1": "32485c98aee03c8cd584dcb50272e8d7b34eda9f",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Auf dem Karteireiter ''Individual-Daten II'' werden die Daten zum '''Migrationshintergrund''', zur '''sonderpädagogischen Förderung''' und zu den '''besonderen Merkmalen''' gespeichert.\n\nDie Verwaltung des Migrationshintergrundes für die Statistik kann auf zwei Arten geschehen.\nStellen Sie unter [[Programm-Einstellungen]] ein, welche Art Sie verwenden möchten.\n\n;Ausführliche Verwaltung:\n\n[[Image:Migrationshintergrund02.jpg|Center|500px]]\n\nHier gibt es fünf statistikrelevante Felder. Die Verkehrssprachen und Herkunftsländer müssen vor Eingabe im entsprechenden [[Kataloge|Katalog]] angelegt werden.\nDie Angaben werden für die Statistik in der SIM.txt umgeschlüsselt.\n\n\n;Einfache Verwaltung:\n\n[[Image:Migrationshintergrund01.jpg|Center|500px]]\n\nIn diesem Modell gibt es nur noch drei statistikrelevante Felder, die mit \"Ja/Nein\"-Angaben gefüllt werden.\n\nDas Datum \"Ende der Eingliederungsphase\" kann verwendet werden um, nach Schülern zu filtern, bei denen die Dauer einer bestimmten Maßnahme (z.B. Eingliederung) festgelegt wurde.\n\n'''Wichtig:''' Das Häkchen bei \"Migrationshintergrund vorhanden\" muss in beiden Fällen manuell gesetzt werden.\n\n\nAbhängig von der Schulform werden weitere Abschnitte eingeblendet:\n\n- '''Grundschulbesuch'''\n\n- '''Sekundarstufe I'''\n\n- '''Berufskolleg''': u.a. sollen hier die Anrechnungsmonate nach BKAZVO - statistikrelevant - eingetragen werden. \n\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Hauptfenster#Karteireiter|Zurück zu Karteireiter]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-05-01T12:06:29Z",
+  "lastrevid": 3024,
+  "length": 1490
+}

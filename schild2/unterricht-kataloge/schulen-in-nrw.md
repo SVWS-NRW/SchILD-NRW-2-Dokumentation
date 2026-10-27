@@ -15,4 +15,4 @@ Die angebotene Reihenfolge zur Auswahl richtet sich nach der letzten Sortier-Ein
 
 ---
 
-Quelle: [Schulen in NRW – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schulen+in+NRW&oldid=462) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schulen+in+NRW&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-178) · [Schulen in NRW – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schulen+in+NRW&oldid=462)

@@ -42,4 +42,4 @@ AssignFont(Richtext1,Label1.Font);
 
 ---
 
-Quelle: [AssignFont – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=AssignFont&oldid=23) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=AssignFont&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-12) · [AssignFont – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=AssignFont&oldid=23)

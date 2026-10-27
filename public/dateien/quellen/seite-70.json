@@ -1,0 +1,30 @@
+{
+  "pageid": 70,
+  "ns": 0,
+  "title": "RtfToPlaintext",
+  "revisions": [
+    {
+      "revid": 91,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T16:43:52Z",
+      "sha1": "bf935f4ac5ab80b070b021be36ac4b5c461f8980",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    function RtfToPlaintext(aRtfText: String): String;\n|-\n|'''Parameter''' || \n    aRtfText  - Richtext, aus dem alle Formatanweisungen entfernt werden\n                sollen\n|-\n|'''Rückgabewert''' ||\n    Reiner Text ohne Formatierung\n|- \n|'''Beispiel''' || \n    Memo1.Text:=RtfToPlaintext(SchuelerLernabschnitte['ZeugnisBem'])\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      function RtfToPlaintext(aRtfText: String): String; |- |'''Parameter''' ||…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T16:43:52Z",
+  "lastrevid": 91,
+  "length": 452,
+  "new": ""
+}

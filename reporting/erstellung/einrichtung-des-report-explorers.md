@@ -88,4 +88,4 @@ Folgende Aspekte können bei der Überarbeitung der Ordnerstruktur helfen:
 
 ---
 
-Quelle: [Einrichtung des Report-Explorers – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Einrichtung+des+Report-Explorers&oldid=4135) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Einrichtung+des+Report-Explorers&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-298) · [Einrichtung des Report-Explorers – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Einrichtung+des+Report-Explorers&oldid=4135)

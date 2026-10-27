@@ -441,4 +441,4 @@ Auf das Verzeichnis \\\Server\SchILD-Dateien wird für alle Nutzer ein Schreib- 
 
 ---
 
-Quelle: [Schild-NRW Installation – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schild-NRW+Installation&oldid=6059) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schild-NRW+Installation&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1362) · [Schild-NRW Installation – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schild-NRW+Installation&oldid=6059)

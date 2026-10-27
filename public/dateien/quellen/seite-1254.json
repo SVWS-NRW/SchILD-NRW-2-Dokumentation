@@ -1,0 +1,30 @@
+{
+  "pageid": 1254,
+  "ns": 6,
+  "title": "Datei:ASDPC Verzeichnisse.png",
+  "revisions": [
+    {
+      "revid": 4955,
+      "parentid": 0,
+      "user": "FFrodermann",
+      "timestamp": "2021-10-20T07:39:04Z",
+      "sha1": "246999ed564b9926647ef21ad93a5dbb31d51e3f",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "== Beschreibung ==\nASDPC Screenshot"
+        }
+      },
+      "comment": "ASDPC Screenshot"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-01-04T09:17:10Z",
+  "lastrevid": 4955,
+  "length": 35,
+  "new": ""
+}

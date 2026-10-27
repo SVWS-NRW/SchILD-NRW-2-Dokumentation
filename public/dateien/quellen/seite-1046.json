@@ -1,0 +1,30 @@
+{
+  "pageid": 1046,
+  "ns": 6,
+  "title": "Datei:S1P-011-Teile-überdeckt.jpg",
+  "revisions": [
+    {
+      "revid": 3975,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2016-11-25T10:24:37Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2016-11-25T10:24:37Z",
+  "lastrevid": 3975,
+  "length": 0,
+  "new": ""
+}

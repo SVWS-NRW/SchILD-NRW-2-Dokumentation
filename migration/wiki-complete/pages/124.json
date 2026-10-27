@@ -1,0 +1,29 @@
+{
+  "pageid": 124,
+  "ns": 0,
+  "title": "ZeugnisDatenquellenOeffnen",
+  "revisions": [
+    {
+      "revid": 175,
+      "parentid": 174,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-06T10:02:28Z",
+      "sha1": "53b084d70c2c6b26fe8c91f08dbee97631f65f2f",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n procedure ZeugnisDatenquellenOeffnen;\n Öffnet alle in Zeugnissen benötigten Datenquellen. In Zeugnissen, in denen die\n einzelnen Fächerbereiche (z.B. Deutsch, Mathematik, Fremdsprachen usw.) über\n dynamisch nachladbare Subreports realisiert sind, scheitert die automatische\n Erkennung, welche Datenquellen zu öffnen sind, da die betreffenden Subreports erst\n geladen werden, nachdem die Analyse erfolgt ist. Der einmalige Aufruf dieser\n Prozedur erspart dann den mehrfachen Aufruf von „PipelineOeffnen“ für jede\n einzelne Datenquelle.\n|-\n|'''Parameter''' || \n    ...\n|-\n|'''Rückgabewert''' ||\n    ...\n|- \n|'''Beispiel''' || \n procedure ReportBeforePrint;\n  begin\n   ZeugnisDatenquellenOeffnen;\n  end;\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "/* RAP-Funktion \"{{SEITENNAME}}\" */"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-06T10:02:28Z",
+  "lastrevid": 175,
+  "length": 836
+}

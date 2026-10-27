@@ -29,4 +29,4 @@ Bitte beachten Sie, dass alle eingetragenen Werte auch bei allen Schülern, die 
 
 ---
 
-Quelle: [Individualdaten ändern – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Individualdaten+%C3%A4ndern&oldid=1618) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Individualdaten+%C3%A4ndern&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-321) · [Individualdaten ändern – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Individualdaten+%C3%A4ndern&oldid=1618)

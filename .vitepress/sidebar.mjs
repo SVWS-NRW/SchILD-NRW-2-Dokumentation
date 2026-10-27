@@ -15,6 +15,7 @@ export function createSidebar(navigation, root = new URL('../', import.meta.url)
       const source = readFileSync(fileURLToPath(new URL(`.${item.link}.md`, root)), 'utf8')
       const items = [...source.matchAll(/^- \[([^\]]+)\]\((\/[^\s)]+)\)/gm)]
         .map(([, text, link]) => ({ text, link }))
+        .filter(item => !/^\/(?:dateien|bilder\/wiki)\//.test(item.link))
       if (!items.length) return item
       return { ...item, collapsed: true, items }
     })

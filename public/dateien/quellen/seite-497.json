@@ -1,0 +1,29 @@
+{
+  "pageid": 497,
+  "ns": 0,
+  "title": "Zusatzdaten (Latinum...) eingeben",
+  "revisions": [
+    {
+      "revid": 3634,
+      "parentid": 2072,
+      "user": "Mhoffmann",
+      "timestamp": "2015-09-20T09:38:54Z",
+      "sha1": "48e08c759d5279c5d0e4e2df79b2f752b7e53f79",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Dieser Gruppenprozess bietet die Möglichkeit, für das Abitur relevante Zusatzdaten wie Latinum, Graecum, Hebraicum und Fehlstunden für alle Abiturienten in einem Rutsch einzugeben.\n\nDie Häkchen setzt man durch einen Doppelklick in das entsprechende Feld, die Fehlstunden durch Zahleinträge in die Tabellenfelder.\nAm Ende bitte nicht vergessen, auf die Schaltfläche \"In Datenbank übernehmen\" zu klicken. \n\nDie eingegebenen Informationen zu den Sprachen kann man unter dem Karteireiter \"Laufbahninfo\" bei der Sprachenfolge einsehen. Sollten bei Aufruf des Gruppenprozesses dort schon Daten eingetragen gewesen sein, sind an den entsprechenden Stellen die Häkchen schon gesetzt bzw. die Fehlzeiten eingetragen.\n\n:[[Image:GP-Zusatzdaten.jpg|Left|400px]]\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Gruppenprozesse Abitur|Zurück zu Gruppenprozesse Abitur]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-09-20T09:38:54Z",
+  "lastrevid": 3634,
+  "length": 853
+}

@@ -1,0 +1,30 @@
+{
+  "pageid": 537,
+  "ns": 6,
+  "title": "Datei:Druckausgabe-Explorer2.png",
+  "revisions": [
+    {
+      "revid": 2177,
+      "parentid": 0,
+      "user": "BPanzlaff",
+      "timestamp": "2014-05-21T12:18:06Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-05-21T12:18:06Z",
+  "lastrevid": 2177,
+  "length": 0,
+  "new": ""
+}

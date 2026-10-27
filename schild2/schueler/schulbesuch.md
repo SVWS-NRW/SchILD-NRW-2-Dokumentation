@@ -117,4 +117,4 @@ Zusätzliche Eintragungen können über das "Plussymbol" ergänzt werden.
 
 ---
 
-Quelle: [Schulbesuch – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schulbesuch&oldid=3679) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schulbesuch&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-329) · [Schulbesuch – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schulbesuch&oldid=3679)

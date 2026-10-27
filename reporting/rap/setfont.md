@@ -44,4 +44,4 @@ end;
 
 ---
 
-Quelle: [SetFont – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetFont&oldid=111) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetFont&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-87) · [SetFont – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetFont&oldid=111)

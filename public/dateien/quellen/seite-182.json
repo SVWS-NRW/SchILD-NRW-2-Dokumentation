@@ -1,0 +1,30 @@
+{
+  "pageid": 182,
+  "ns": 6,
+  "title": "Datei:Filterladen.jpg",
+  "revisions": [
+    {
+      "revid": 491,
+      "parentid": 0,
+      "user": "Mhoffmann",
+      "timestamp": "2013-12-08T09:32:24Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-12-08T09:32:24Z",
+  "lastrevid": 491,
+  "length": 0,
+  "new": ""
+}

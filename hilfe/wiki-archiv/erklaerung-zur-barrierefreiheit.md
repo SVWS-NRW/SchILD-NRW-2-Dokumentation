@@ -85,4 +85,4 @@ Weitere Informationen zur Ombudsstelle für barrierefreie Informationstechnik NR
 
 ---
 
-Quelle: [Erklärung zur Barrierefreiheit – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Erkl%C3%A4rung+zur+Barrierefreiheit&oldid=5930) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Erkl%C3%A4rung+zur+Barrierefreiheit&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1425) · [Erklärung zur Barrierefreiheit – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Erkl%C3%A4rung+zur+Barrierefreiheit&oldid=5930)

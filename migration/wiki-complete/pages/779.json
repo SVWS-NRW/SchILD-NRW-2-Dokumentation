@@ -1,0 +1,30 @@
+{
+  "pageid": 779,
+  "ns": 6,
+  "title": "Datei:Schild-NRW-Icon.jpg",
+  "revisions": [
+    {
+      "revid": 3021,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2015-05-01T12:04:01Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-05-01T12:06:29Z",
+  "lastrevid": 3021,
+  "length": 0,
+  "new": ""
+}

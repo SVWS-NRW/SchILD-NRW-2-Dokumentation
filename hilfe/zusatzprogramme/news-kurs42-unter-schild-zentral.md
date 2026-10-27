@@ -127,4 +127,4 @@ Der Export der Blockungsdaten (Kurse, Belegungen bei den Schülern) erfolgt übe
 
 ---
 
-Quelle: [News:Kurs42 unter Schild-Zentral – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=News%3AKurs42+unter+Schild-Zentral&oldid=6063) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=News%3AKurs42+unter+Schild-Zentral&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1023) · [News:Kurs42 unter Schild-Zentral – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=News%3AKurs42+unter+Schild-Zentral&oldid=6063)

@@ -47,4 +47,4 @@ Filtern Sie anschließend die Schülerinnen und Schüler des Halbtagsunterrichts
 
 ---
 
-Quelle: [Schüler im offenen Ganztag und in der Übermittagsbetreuung – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sch%C3%BCler+im+offenen+Ganztag+und+in+der+%C3%9Cbermittagsbetreuung&oldid=6054) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sch%C3%BCler+im+offenen+Ganztag+und+in+der+%C3%9Cbermittagsbetreuung&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1440) · [Schüler im offenen Ganztag und in der Übermittagsbetreuung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sch%C3%BCler+im+offenen+Ganztag+und+in+der+%C3%9Cbermittagsbetreuung&oldid=6054)

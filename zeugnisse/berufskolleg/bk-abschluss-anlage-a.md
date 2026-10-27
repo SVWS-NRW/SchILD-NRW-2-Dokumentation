@@ -46,4 +46,4 @@ A16 Fachklassen (nach §2 BKAZVO) BAB; VZ
 
 ---
 
-Quelle: [BK-Abschluss:Anlage-A – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=BK-Abschluss%3AAnlage-A&oldid=4741) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=BK-Abschluss%3AAnlage-A&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1193) · [BK-Abschluss:Anlage-A – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=BK-Abschluss%3AAnlage-A&oldid=4741)

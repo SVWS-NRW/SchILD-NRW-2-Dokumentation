@@ -19,4 +19,4 @@ Mit “Fertig“ und OK wird die Aktion beendet.
 
 ---
 
-Quelle: [Aufräumen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Aufr%C3%A4umen&oldid=1174) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Aufr%C3%A4umen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-274) · [Aufräumen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Aufr%C3%A4umen&oldid=1174)

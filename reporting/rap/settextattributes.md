@@ -44,4 +44,4 @@ Formatiert den gesamten Text des Richtextelementes in dem gewünschten Zeichensa
 
 ---
 
-Quelle: [SetTextAttributes – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetTextAttributes&oldid=115) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetTextAttributes&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-91) · [SetTextAttributes – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetTextAttributes&oldid=115)

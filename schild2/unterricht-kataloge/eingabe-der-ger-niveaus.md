@@ -7,7 +7,7 @@ wiki_revision: 3121
 
 # Eingabe der GeR-Niveaus
 
-Sie finden hier eine "Eintragungshilfe zu den Bemerkungen der Sprachniveaus des gemeinsamen europäischen Referenzrahmens (GeR)" \[[\[1\]](http://www.svws.nrw.de/uploads/media/KA09_Eintragung_der_Sprachniveaus.pdf)\].
+Sie finden hier eine "Eintragungshilfe zu den Bemerkungen der Sprachniveaus des gemeinsamen europäischen Referenzrahmens (GeR)" \[[\[1\]](/quellen/fehlende-downloads#ka09-eintragung-der-sprachniveaus-pdf)\].
 
 Die Vergabe des GeR-Niveaus hängt unmittelbar mit dem korrekten Eintrag der Sprachenfolge auf der Karteikarte „Laufbahninfo“ zusammen. Neben der Sprachenfolge ist das GeR-Niveau auf jedem Abschlusszeugnis zu dokumentieren. Es wird nicht für die Sprachen Lateinisch, Hebräisch und Altgriechisch vergeben, sondern nur für die „modernen“ Fremdsprachen. Es gibt zwei Möglichkeiten der Erfassung des GeR:
 
@@ -35,4 +35,4 @@ Anschließend findet man bei allen ausgewählten Schülern das korrekte Referenz
 
 ---
 
-Quelle: [Eingabe der GeR-Niveaus – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Eingabe+der+GeR-Niveaus&oldid=3121) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Eingabe+der+GeR-Niveaus&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-721) · [Eingabe der GeR-Niveaus – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Eingabe+der+GeR-Niveaus&oldid=3121)

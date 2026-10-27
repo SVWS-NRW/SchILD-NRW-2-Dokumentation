@@ -24,4 +24,4 @@ Im nächsten Menüpunkt unter 'Schulverwaltung' können Sie verschiedene Klassen
 
 ---
 
-Quelle: [Klassengruppen/Abteilungen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Klassengruppen%2FAbteilungen&oldid=1357) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Klassengruppen%2FAbteilungen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-299) · [Klassengruppen/Abteilungen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Klassengruppen%2FAbteilungen&oldid=1357)

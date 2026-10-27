@@ -21,4 +21,4 @@ Die Geschwister werden anhand der Kriterien Nachname, Straße und PLZ ermittelt 
 
 ---
 
-Quelle: [Nur Schüler mit Geschwistern zeigen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Nur+Sch%C3%BCler+mit+Geschwistern+zeigen&oldid=1033) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Nur+Sch%C3%BCler+mit+Geschwistern+zeigen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-151) · [Nur Schüler mit Geschwistern zeigen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Nur+Sch%C3%BCler+mit+Geschwistern+zeigen&oldid=1033)

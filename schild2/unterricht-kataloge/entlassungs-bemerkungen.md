@@ -17,4 +17,4 @@ Die Anzeige-Reihenfolge im 'Drop-Down-Menü' können Sie hier ebenfalls einstell
 
 ---
 
-Quelle: [Entlassungs-Bemerkungen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Entlassungs-Bemerkungen&oldid=527) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Entlassungs-Bemerkungen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-193) · [Entlassungs-Bemerkungen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Entlassungs-Bemerkungen&oldid=527)

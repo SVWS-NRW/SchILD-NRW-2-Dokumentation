@@ -1,0 +1,30 @@
+{
+  "pageid": 93,
+  "ns": 0,
+  "title": "SetUebersichtEx",
+  "revisions": [
+    {
+      "revid": 117,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T18:41:30Z",
+      "sha1": "98bb18f618852ccfdffff2bf62cfc291999dd9b4",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    procedure SetUebersichtEx(IsUebersicht: Boolean;  const aJahrgangsliste: String);\n|-\n|'''Parameter''' || \n    IsUebersicht       - Boolescher Wert, bei 'True' werden die Leistungsdaten eines\n                         Schülers im über aJahrgangsliste definierten Zeitintervall in\n                         eine Tabellenstruktur eingefügt. Da dieser Vorgang recht\n                         zeitaufwendig ist, kann und sollte er durch diese Funktion nur\n                         bei Bedarf  zugeschaltet werden\n    aJahrgangsliste    - Kommaseparierte Liste der zu berücksichtigen (ASD-)Jahrgänge\n|-\n|'''Rückgabewert''' ||\n    ...\n|- \n|'''Beispiel''' || \n    Procedure ReportBeforePrint;\n     begin\n       SetUebersichtEx(True, 'Q1,Q2');\n     end;\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      procedure SetUebersichtEx(IsUebersicht: Boolean;  const aJahrgangsliste: …“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T18:41:30Z",
+  "lastrevid": 117,
+  "length": 875,
+  "new": ""
+}

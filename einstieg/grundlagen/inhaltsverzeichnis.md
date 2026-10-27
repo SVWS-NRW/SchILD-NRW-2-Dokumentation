@@ -80,7 +80,7 @@ wiki_revision: 5938
   - [Druckausgabe](/reporting/verwaltung/druckausgabe)
     - [Reportexplorer aufrufen](/reporting/verwaltung/reportexplorer-aufrufen)
     - [Standard-Formulare drucken](/reporting/verwaltung/standard-formulare-drucken)
-    - [Aus Archiv drucken](https://wiki.svws.nrw.de/mediawiki/index.php?title=Aus_Archiv_drucken&action=edit&redlink=1)
+    - [Aus Archiv drucken](/reporting/verwaltung/report-aus-archiv-drucken)
     - [Word-Seriendruck](/reporting/verwaltung/word-seriendruck)
     - [Textzeugnisse zuordnen](/zeugnisse/grundschule/textzeugnisse-zuordnen)
     - [Textzeugnisse erzeugen](/zeugnisse/grundschule/textzeugnisse-erzeugen)
@@ -93,7 +93,7 @@ wiki_revision: 5938
     - Weitere Exporte
       - XML-Export für Lupo
       - Daten für IServ exportieren
-      - [JaNa-Export](https://wiki.svws.nrw.de/mediawiki/index.php?title=JaNa-Export&action=edit&redlink=1)
+      - [JaNa-Export](/schild2/import-export-statistik/jana-export-jahrgang-und-nationalitaet)
       - Export für Startklar
       - Export für Komm mit
       - Abitur-Daten exportieren
@@ -132,4 +132,4 @@ wiki_revision: 5938
 
 ---
 
-Quelle: [Inhaltsverzeichnis – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Inhaltsverzeichnis&oldid=5938) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Inhaltsverzeichnis&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1169) · [Inhaltsverzeichnis – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Inhaltsverzeichnis&oldid=5938)

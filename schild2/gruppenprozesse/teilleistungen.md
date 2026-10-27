@@ -64,4 +64,4 @@ Bei diesem Prozess wählt der eingebende Kollege die Klasse oder den Kurs, die T
 
 ---
 
-Quelle: [Teilleistungen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Teilleistungen&oldid=3622) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Teilleistungen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-758) · [Teilleistungen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Teilleistungen&oldid=3622)

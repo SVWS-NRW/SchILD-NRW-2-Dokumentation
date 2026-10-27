@@ -33,4 +33,4 @@ Hinweis: Zur Zeit erwartet Schild-NRW bei der Verwendung der selbst erstellten S
 
 ---
 
-Quelle: [Word-Seriendruck – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Word-Seriendruck&oldid=2436) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Word-Seriendruck&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-625) · [Word-Seriendruck – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Word-Seriendruck&oldid=2436)

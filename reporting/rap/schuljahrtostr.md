@@ -42,4 +42,4 @@ Ergebnis (z.B.): lSchuljahrStr = '2005/06.2'
 
 ---
 
-Quelle: [SchuljahrToStr – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SchuljahrToStr&oldid=92) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=SchuljahrToStr&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-71) · [SchuljahrToStr – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SchuljahrToStr&oldid=92)

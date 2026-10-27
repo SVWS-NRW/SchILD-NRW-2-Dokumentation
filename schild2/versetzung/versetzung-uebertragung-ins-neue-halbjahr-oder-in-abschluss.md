@@ -46,4 +46,4 @@ Hier findet, wie im Fenster kurz beschrieben, nur eine Übertragung ins nächste
 
 ---
 
-Quelle: [Versetzung/Übertragung ins neue Halbjahr oder in Abschluss – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Versetzung%2F%C3%9Cbertragung+ins+neue+Halbjahr+oder+in+Abschluss&oldid=4647) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Versetzung%2F%C3%9Cbertragung+ins+neue+Halbjahr+oder+in+Abschluss&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-518) · [Versetzung/Übertragung ins neue Halbjahr oder in Abschluss – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Versetzung%2F%C3%9Cbertragung+ins+neue+Halbjahr+oder+in+Abschluss&oldid=4647)

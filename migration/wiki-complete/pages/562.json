@@ -1,0 +1,30 @@
+{
+  "pageid": 562,
+  "ns": 6,
+  "title": "Datei:KM2 Protokolldaten Klasse.png",
+  "revisions": [
+    {
+      "revid": 2218,
+      "parentid": 0,
+      "user": "UBlomeyer",
+      "timestamp": "2014-05-21T18:00:05Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-05-21T18:10:04Z",
+  "lastrevid": 2218,
+  "length": 0,
+  "new": ""
+}

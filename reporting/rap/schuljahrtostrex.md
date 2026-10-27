@@ -52,4 +52,4 @@ Ergebnis: lSchuljahrStr = 'Schuljahr 2005/06, 2. Halbjahr'
 
 ---
 
-Quelle: [SchuljahrToStrEx – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SchuljahrToStrEx&oldid=93) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=SchuljahrToStrEx&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-72) · [SchuljahrToStrEx – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SchuljahrToStrEx&oldid=93)

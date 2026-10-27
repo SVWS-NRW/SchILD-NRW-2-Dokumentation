@@ -1,0 +1,30 @@
+{
+  "pageid": 919,
+  "ns": 6,
+  "title": "Datei:Lupo faecherkombi zusatzkurs.png",
+  "revisions": [
+    {
+      "revid": 3462,
+      "parentid": 0,
+      "user": "JRaffenberg",
+      "timestamp": "2015-08-19T19:54:08Z",
+      "sha1": "d3c9eacd256f99ec74a56def4149675ff1cad15f",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Nicht mögliche Fächerkombinationen in Verbindung mit Zusatzkursen."
+        }
+      },
+      "comment": "Nicht mögliche Fächerkombinationen in Verbindung mit Zusatzkursen."
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-08-19T19:57:59Z",
+  "lastrevid": 3462,
+  "length": 68,
+  "new": ""
+}

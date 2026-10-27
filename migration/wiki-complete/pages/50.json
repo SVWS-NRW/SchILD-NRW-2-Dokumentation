@@ -1,0 +1,30 @@
+{
+  "pageid": 50,
+  "ns": 0,
+  "title": "LookupSprachenfolge",
+  "revisions": [
+    {
+      "revid": 71,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T16:02:13Z",
+      "sha1": "57584f55847d704d7f65c0a7ae4b79e064d9759c",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    Function LookupSprachenfolge(aStatistikKrz: String):Boolean;\n|-\n|'''Parameter''' || \n    aStatistikKrz - Statistikkürzel des gesuchten Faches\n|-\n|'''Rückgabewert''' ||\n    Wahr, wenn das Fach existiert, sonst Falsch\n|- \n|'''Beispiel''' || \n    Hinweis: Damit diese Funktion genutzt werden kann, muss vor dem Druck (sinnvollerweise\n    im Ereignis ReportBeforePrint) die Funktion SetAbitur mit dem Parameter „True“ und nach\n    dem Druck (in ReportAfterPrint) mit dem Parameter „False“ aufgerufen werden.\n    Procedure DetailBeforePrint;\n    begin\n      Checkbox1.Checked:=LookupSprachenfolge('L7')\n    end;\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      Function LookupSprachenfolge(aStatistikKrz: String):Boolean; |- |'''Param…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T16:02:13Z",
+  "lastrevid": 71,
+  "length": 744,
+  "new": ""
+}

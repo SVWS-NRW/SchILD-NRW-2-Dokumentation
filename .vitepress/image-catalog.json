@@ -873,6 +873,10 @@
         "link": "/zeugnisse/vorbereitung/import-der-zeugnisformulare-in-schild-nrw"
       },
       {
+        "title": "Lupo:Vorbereitungen in Schild-NRW",
+        "link": "/tools/lupo/lupo-vorbereitungen-in-schild-nrw"
+      },
+      {
         "title": "Eigene Datenquellen für Schild-Reports",
         "link": "/reporting/erstellung/eigene-datenquellen-fuer-schild-reports"
       }
@@ -969,6 +973,10 @@
       {
         "title": "Import der Zeugnisformulare in Schild-NRW",
         "link": "/zeugnisse/vorbereitung/import-der-zeugnisformulare-in-schild-nrw"
+      },
+      {
+        "title": "Lupo:Der Beratungsprozess",
+        "link": "/tools/lupo/lupo-der-beratungsprozess"
       },
       {
         "title": "S1PLAN:Erster Programmstart",
@@ -1121,6 +1129,14 @@
         "link": "/schild2/versetzung/versetzung-uebertragung-ins-neue-halbjahr-oder-in-abschluss"
       },
       {
+        "title": "Lupo:Installation",
+        "link": "/tools/lupo/lupo-installation"
+      },
+      {
+        "title": "Lupo:Vorbereitungen in Schild-NRW",
+        "link": "/tools/lupo/lupo-vorbereitungen-in-schild-nrw"
+      },
+      {
         "title": "Eigene Datenquellen für Schild-Reports",
         "link": "/reporting/erstellung/eigene-datenquellen-fuer-schild-reports"
       },
@@ -1131,6 +1147,10 @@
       {
         "title": "SchildChat.exe",
         "link": "/hilfe/zusatzprogramme/schildchat-exe"
+      },
+      {
+        "title": "Lupo:Der Beratungsprozess",
+        "link": "/tools/lupo/lupo-der-beratungsprozess"
       },
       {
         "title": "Statistik mit ASDPC",
@@ -3023,6 +3043,21 @@
     ]
   },
   {
+    "path": "/bilder/wiki/supportkonzept-des-msw-65ee2bfa.png",
+    "title": "supportkonzept-des-msw-65ee2bfa",
+    "original": "Supportkonzept_des_MSW.png",
+    "folder": "wiki",
+    "captions": [
+      "Supportkonzept des MSW"
+    ],
+    "articles": [
+      {
+        "title": "Hilfe:Inhaltsverzeichnis",
+        "link": "/hilfe/wiki-archiv/hilfe-inhaltsverzeichnis"
+      }
+    ]
+  },
+  {
     "path": "/bilder/wiki/akt-halbjahr-uebersicht-9b46b3d0.png",
     "title": "akt-halbjahr-uebersicht-9b46b3d0",
     "original": "Akt.Halbjahr-Uebersicht.png",
@@ -3852,6 +3887,10 @@
       {
         "title": "Konferenzmodul KM2.exe",
         "link": "/hilfe/zusatzprogramme/konferenzmodul-km2-exe"
+      },
+      {
+        "title": "Kategorie:Konferenzmodul KM2",
+        "link": "/hilfe/wiki-archiv/kategorie-konferenzmodul-km2"
       }
     ]
   },
@@ -7051,6 +7090,246 @@
     ]
   },
   {
+    "path": "/bilder/wiki/lupo-reiter-laufbahn-ee0b4926.png",
+    "title": "lupo-reiter-laufbahn-ee0b4926",
+    "original": "Lupo_reiter_laufbahn.png",
+    "folder": "wiki",
+    "captions": [
+      "Lupo_reiter_laufbahn"
+    ],
+    "articles": [
+      {
+        "title": "Lupo:Einleitung",
+        "link": "/tools/lupo/lupo-einleitung"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/wiki/lupo-reiter-abitur-a1527a81.png",
+    "title": "lupo-reiter-abitur-a1527a81",
+    "original": "Lupo_reiter_abitur.png",
+    "folder": "wiki",
+    "captions": [
+      "Lupo_reiter_abitur"
+    ],
+    "articles": [
+      {
+        "title": "Lupo:Einleitung",
+        "link": "/tools/lupo/lupo-einleitung"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/wiki/installation-c68b48ce.png",
+    "title": "installation-c68b48ce",
+    "original": "Installation.png",
+    "folder": "wiki",
+    "captions": [
+      "Installation"
+    ],
+    "articles": [
+      {
+        "title": "Lupo:Installation",
+        "link": "/tools/lupo/lupo-installation"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/wiki/lupo-schild-unterrichtsfaecher-1-3290c45d.png",
+    "title": "lupo-schild-unterrichtsfaecher-1-3290c45d",
+    "original": "Lupo_schild_unterrichtsfaecher_1.png",
+    "folder": "wiki",
+    "captions": [
+      "Lupo_schild_unterrichtsfaecher_1"
+    ],
+    "articles": [
+      {
+        "title": "Lupo:Vorbereitungen in Schild-NRW",
+        "link": "/tools/lupo/lupo-vorbereitungen-in-schild-nrw"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/wiki/lupo-schild-unterrichtsfaecher-2-b3fe28e3.png",
+    "title": "lupo-schild-unterrichtsfaecher-2-b3fe28e3",
+    "original": "Lupo_schild_unterrichtsfaecher_2.png",
+    "folder": "wiki",
+    "captions": [
+      "Lupo_schild_unterrichtsfaecher_2"
+    ],
+    "articles": [
+      {
+        "title": "Lupo:Vorbereitungen in Schild-NRW",
+        "link": "/tools/lupo/lupo-vorbereitungen-in-schild-nrw"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/wiki/lupo-biliwechsel-7d602e34.png",
+    "title": "lupo-biliwechsel-7d602e34",
+    "original": "Lupo_biliwechsel.png",
+    "folder": "wiki",
+    "captions": [
+      "Lupo_biliwechsel"
+    ],
+    "articles": [
+      {
+        "title": "Lupo:Vorbereitungen in Schild-NRW",
+        "link": "/tools/lupo/lupo-vorbereitungen-in-schild-nrw"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/wiki/lupo-faecherkombi-zusatzkurs-43d51692.png",
+    "title": "lupo-faecherkombi-zusatzkurs-43d51692",
+    "original": "Lupo_faecherkombi_zusatzkurs.png",
+    "folder": "wiki",
+    "captions": [
+      "Lupo_faecherkombi_zusatzkurs"
+    ],
+    "articles": [
+      {
+        "title": "Lupo:Vorbereitungen in Schild-NRW",
+        "link": "/tools/lupo/lupo-vorbereitungen-in-schild-nrw"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/wiki/lupo-schild-unterrichtsfaecher-3-b6cd9b2f.png",
+    "title": "lupo-schild-unterrichtsfaecher-3-b6cd9b2f",
+    "original": "Lupo_schild_unterrichtsfaecher_3.png",
+    "folder": "wiki",
+    "captions": [
+      "Lupo_schild_unterrichtsfaecher_3"
+    ],
+    "articles": [
+      {
+        "title": "Lupo:Vorbereitungen in Schild-NRW",
+        "link": "/tools/lupo/lupo-vorbereitungen-in-schild-nrw"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/wiki/lupo-schild-unterrichtsfaecher-4-cd2db176.png",
+    "title": "lupo-schild-unterrichtsfaecher-4-cd2db176",
+    "original": "Lupo_schild_unterrichtsfaecher_4.png",
+    "folder": "wiki",
+    "captions": [
+      "Lupo_schild_unterrichtsfaecher_4"
+    ],
+    "articles": [
+      {
+        "title": "Lupo:Vorbereitungen in Schild-NRW",
+        "link": "/tools/lupo/lupo-vorbereitungen-in-schild-nrw"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/wiki/lupo-schild-unterrichtsfaecher-5-00af9ea1.png",
+    "title": "lupo-schild-unterrichtsfaecher-5-00af9ea1",
+    "original": "Lupo_schild_unterrichtsfaecher_5.png",
+    "folder": "wiki",
+    "captions": [
+      "Lupo_schild_unterrichtsfaecher_5"
+    ],
+    "articles": [
+      {
+        "title": "Lupo:Vorbereitungen in Schild-NRW",
+        "link": "/tools/lupo/lupo-vorbereitungen-in-schild-nrw"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/wiki/lupo-schild-individualdaten-bili-ed7e9f93.png",
+    "title": "lupo-schild-individualdaten-bili-ed7e9f93",
+    "original": "Lupo_schild_individualdaten_bili.png",
+    "folder": "wiki",
+    "captions": [
+      "Lupo_schild_individualdaten_bili"
+    ],
+    "articles": [
+      {
+        "title": "Lupo:Vorbereitungen in Schild-NRW",
+        "link": "/tools/lupo/lupo-vorbereitungen-in-schild-nrw"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/wiki/lupo-schild-sprachenfolge-a940e041.png",
+    "title": "lupo-schild-sprachenfolge-a940e041",
+    "original": "Lupo_schild_sprachenfolge.png",
+    "folder": "wiki",
+    "captions": [
+      "Lupo_schild_sprachenfolge"
+    ],
+    "articles": [
+      {
+        "title": "Lupo:Vorbereitungen in Schild-NRW",
+        "link": "/tools/lupo/lupo-vorbereitungen-in-schild-nrw"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/wiki/lupo-schild-initial-export1-8f677a9c.png",
+    "title": "lupo-schild-initial-export1-8f677a9c",
+    "original": "Lupo_schild_initial_export1.png",
+    "folder": "wiki",
+    "captions": [
+      "Lupo_schild_initial_export1"
+    ],
+    "articles": [
+      {
+        "title": "Lupo:Vorbereitungen in Schild-NRW",
+        "link": "/tools/lupo/lupo-vorbereitungen-in-schild-nrw"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/wiki/lupo-schild-initial-export2-b7e09063.png",
+    "title": "lupo-schild-initial-export2-b7e09063",
+    "original": "Lupo_schild_initial_export2.png",
+    "folder": "wiki",
+    "captions": [
+      "Lupo_schild_initial_export2"
+    ],
+    "articles": [
+      {
+        "title": "Lupo:Vorbereitungen in Schild-NRW",
+        "link": "/tools/lupo/lupo-vorbereitungen-in-schild-nrw"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/wiki/lupo-schnittstellen-dateien1-6ce57c36.png",
+    "title": "lupo-schnittstellen-dateien1-6ce57c36",
+    "original": "Lupo_schnittstellen_dateien1.png",
+    "folder": "wiki",
+    "captions": [
+      "Lupo_schnittstellen_dateien1"
+    ],
+    "articles": [
+      {
+        "title": "Lupo:Vorbereitungen in Schild-NRW",
+        "link": "/tools/lupo/lupo-vorbereitungen-in-schild-nrw"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/wiki/lupo-schnittstellen-dateien2-c0cfa9fd.png",
+    "title": "lupo-schnittstellen-dateien2-c0cfa9fd",
+    "original": "Lupo_schnittstellen_dateien2.png",
+    "folder": "wiki",
+    "captions": [
+      "Lupo_schnittstellen_dateien2"
+    ],
+    "articles": [
+      {
+        "title": "Lupo:Vorbereitungen in Schild-NRW",
+        "link": "/tools/lupo/lupo-vorbereitungen-in-schild-nrw"
+      }
+    ]
+  },
+  {
     "path": "/bilder/wiki/extmod-01-e99f49ff.png",
     "title": "extmod-01-e99f49ff",
     "original": "ExtMod-01.png",
@@ -7482,6 +7761,231 @@
       {
         "title": "SchildChat.exe",
         "link": "/hilfe/zusatzprogramme/schildchat-exe"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/wiki/lupo-ersteinrichtung-55c3fd99.png",
+    "title": "lupo-ersteinrichtung-55c3fd99",
+    "original": "Lupo_ersteinrichtung.png",
+    "folder": "wiki",
+    "captions": [
+      "Lupo_ersteinrichtung"
+    ],
+    "articles": [
+      {
+        "title": "Lupo:Erste Schritte in Lupo",
+        "link": "/tools/lupo/lupo-erste-schritte-in-lupo"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/wiki/lupo-grundeinstellungen-88569eb4.png",
+    "title": "lupo-grundeinstellungen-88569eb4",
+    "original": "Lupo_grundeinstellungen.png",
+    "folder": "wiki",
+    "captions": [
+      "Lupo_grundeinstellungen"
+    ],
+    "articles": [
+      {
+        "title": "Lupo:Erste Schritte in Lupo",
+        "link": "/tools/lupo/lupo-erste-schritte-in-lupo"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/wiki/lupo-schueler-bearbeiten-1-e8d814bb.png",
+    "title": "lupo-schueler-bearbeiten-1-e8d814bb",
+    "original": "Lupo_schueler_bearbeiten_1.png",
+    "folder": "wiki",
+    "captions": [
+      "Lupo_schueler_bearbeiten_1"
+    ],
+    "articles": [
+      {
+        "title": "Lupo:Erste Schritte in Lupo",
+        "link": "/tools/lupo/lupo-erste-schritte-in-lupo"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/wiki/lupo-faecher-bearbeiten-0996c665.png",
+    "title": "lupo-faecher-bearbeiten-0996c665",
+    "original": "Lupo_faecher_bearbeiten.png",
+    "folder": "wiki",
+    "captions": [
+      "Lupo_faecher_bearbeiten"
+    ],
+    "articles": [
+      {
+        "title": "Lupo:Erste Schritte in Lupo",
+        "link": "/tools/lupo/lupo-erste-schritte-in-lupo"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/wiki/lupo-schuelerversion-7445f855.png",
+    "title": "lupo-schuelerversion-7445f855",
+    "original": "Lupo_schuelerversion.png",
+    "folder": "wiki",
+    "captions": [
+      "Lupo_schuelerversion"
+    ],
+    "articles": [
+      {
+        "title": "Lupo:Schülerdateien erzeugen",
+        "link": "/tools/lupo/lupo-schuelerdateien-erzeugen"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/wiki/lupo-datenaustausch-schueler-beratungsdateien-8513c9b8.png",
+    "title": "lupo-datenaustausch-schueler-beratungsdateien-8513c9b8",
+    "original": "Lupo_datenaustausch_schueler_beratungsdateien.png",
+    "folder": "wiki",
+    "captions": [
+      "Lupo_datenaustausch_schueler_beratungsdateien"
+    ],
+    "articles": [
+      {
+        "title": "Lupo:Schülerdateien erzeugen",
+        "link": "/tools/lupo/lupo-schuelerdateien-erzeugen"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/wiki/lupo-schuelerdateien-importieren-96ae539f.png",
+    "title": "lupo-schuelerdateien-importieren-96ae539f",
+    "original": "Lupo_schuelerdateien_importieren.png",
+    "folder": "wiki",
+    "captions": [
+      "Lupo_schuelerdateien_importieren"
+    ],
+    "articles": [
+      {
+        "title": "Lupo:Schülerdateien erzeugen",
+        "link": "/tools/lupo/lupo-schuelerdateien-erzeugen"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/wiki/lupo-lehrerdateien-import-28722a65.png",
+    "title": "lupo-lehrerdateien-import-28722a65",
+    "original": "Lupo_lehrerdateien_import.png",
+    "folder": "wiki",
+    "captions": [
+      "Lupo_lehrerdateien_import"
+    ],
+    "articles": [
+      {
+        "title": "Lupo:Der Beratungsprozess",
+        "link": "/tools/lupo/lupo-der-beratungsprozess"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/wiki/lupo-laufbahnplanung-1-b2eb3a65.png",
+    "title": "lupo-laufbahnplanung-1-b2eb3a65",
+    "original": "Lupo_laufbahnplanung_1.png",
+    "folder": "wiki",
+    "captions": [
+      "Lupo_laufbahnplanung_1"
+    ],
+    "articles": [
+      {
+        "title": "Lupo:Der Beratungsprozess",
+        "link": "/tools/lupo/lupo-der-beratungsprozess"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/wiki/lupo-ribbon-1-9ea28085.png",
+    "title": "lupo-ribbon-1-9ea28085",
+    "original": "Lupo_ribbon_1.png",
+    "folder": "wiki",
+    "captions": [
+      "Lupo_ribbon_1"
+    ],
+    "articles": [
+      {
+        "title": "Lupo:Der Beratungsprozess",
+        "link": "/tools/lupo/lupo-der-beratungsprozess"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/wiki/lupo-sprachenfolge-1-9a23c852.png",
+    "title": "lupo-sprachenfolge-1-9a23c852",
+    "original": "Lupo_sprachenfolge_1.png",
+    "folder": "wiki",
+    "captions": [
+      "Lupo_sprachenfolge_1"
+    ],
+    "articles": [
+      {
+        "title": "Lupo:Der Beratungsprozess",
+        "link": "/tools/lupo/lupo-der-beratungsprozess"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/wiki/lupo-unterrichtsfaecher-2-9848c5f0.png",
+    "title": "lupo-unterrichtsfaecher-2-9848c5f0",
+    "original": "Lupo_unterrichtsfaecher_2.png",
+    "folder": "wiki",
+    "captions": [
+      "Lupo_unterrichtsfaecher_2"
+    ],
+    "articles": [
+      {
+        "title": "Lupo:Der Beratungsprozess",
+        "link": "/tools/lupo/lupo-der-beratungsprozess"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/wiki/lupo-hochschreiben-20e7fc24.png",
+    "title": "lupo-hochschreiben-20e7fc24",
+    "original": "Lupo_hochschreiben.png",
+    "folder": "wiki",
+    "captions": [
+      "Lupo_hochschreiben"
+    ],
+    "articles": [
+      {
+        "title": "Lupo:Der Beratungsprozess",
+        "link": "/tools/lupo/lupo-der-beratungsprozess"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/wiki/lupo-druckvorschau-9e62d42a.png",
+    "title": "lupo-druckvorschau-9e62d42a",
+    "original": "Lupo_druckvorschau.png",
+    "folder": "wiki",
+    "captions": [
+      "Lupo_druckvorschau"
+    ],
+    "articles": [
+      {
+        "title": "Lupo:Der Beratungsprozess",
+        "link": "/tools/lupo/lupo-der-beratungsprozess"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/wiki/lupo-schuelerliste-drucken-01c817a9.png",
+    "title": "lupo-schuelerliste-drucken-01c817a9",
+    "original": "Lupo_schuelerliste_drucken.png",
+    "folder": "wiki",
+    "captions": [
+      "Lupo_schuelerliste_drucken"
+    ],
+    "articles": [
+      {
+        "title": "Lupo:Der Beratungsprozess",
+        "link": "/tools/lupo/lupo-der-beratungsprozess"
       }
     ]
   },
@@ -11403,5 +11907,877 @@
         "link": "/schild2/schueler/schueler-im-offenen-ganztag-und-in-der-uebermittagsbetreuung"
       }
     ]
+  },
+  {
+    "path": "/bilder/wiki/ag-benutzer-0b3229fc.jpg",
+    "title": "AG-Benutzer",
+    "original": "AG-Benutzer.jpg",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/ag-datei-schildzugriff-ccbe0c2d.jpg",
+    "title": "AG-Datei-Schildzugriff",
+    "original": "AG-Datei-Schildzugriff.jpg",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/ag-fenster-7ad7d6f7.jpg",
+    "title": "AG-Fenster",
+    "original": "AG-Fenster.jpg",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/ag-filter-loeschen-9a6d9ae4.jpg",
+    "title": "AG-Filter-löschen",
+    "original": "AG-Filter-löschen.jpg",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/angabenaufschuelernuebertrageng9-e09fd31a.png",
+    "title": "AngabenAufSchuelernUebertragenG9",
+    "original": "AngabenAufSchuelernUebertragenG9.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/asdpcaktuellwarnung-318bc746.jpg",
+    "title": "ASDPCAktuellWarnung",
+    "original": "ASDPCAktuellWarnung.jpg",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/asdpchaupterhebungstarten-d1a0613b.jpg",
+    "title": "ASDPCHaupterhebungStarten",
+    "original": "ASDPCHaupterhebungStarten.jpg",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/bilinguael-bescheinigungen-753ffb76.png",
+    "title": "Bilinguael_bescheinigungen",
+    "original": "Bilinguael_bescheinigungen.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/bilinguaele-bescheinigungen-42ba6e87.png",
+    "title": "Bilinguaele_bescheinigungen",
+    "original": "Bilinguaele_bescheinigungen.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/download-plugins-e2bbd767.jpg",
+    "title": "Download_plugins",
+    "original": "Download_plugins.jpg",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/einwilligungen-art-b99da44d.png",
+    "title": "Einwilligungen_Art",
+    "original": "Einwilligungen_Art.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/erzieherbrief-02a-36897bb6.png",
+    "title": "Erzieherbrief-02a",
+    "original": "Erzieherbrief-02a.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/erzieherbrief-03a-1fe981b0.png",
+    "title": "Erzieherbrief-03a",
+    "original": "Erzieherbrief-03a.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/erzieherbrief-05-9d31dfaf.png",
+    "title": "Erzieherbrief-05",
+    "original": "Erzieherbrief-05.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/erzieherbrief-06-f6f49856.png",
+    "title": "Erzieherbrief-06",
+    "original": "Erzieherbrief-06.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/fachberatersuche-6b3dd840.png",
+    "title": "Fachberatersuche",
+    "original": "Fachberatersuche.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/falsch-afc9282c.png",
+    "title": "Falsch",
+    "original": "Falsch.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/filterii03-018b1b95.jpg",
+    "title": "FilterII03",
+    "original": "FilterII03.jpg",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/gp-mahnungenausgeben-fbfd75b5.jpg",
+    "title": "GP-Mahnungenausgeben",
+    "original": "GP-Mahnungenausgeben.jpg",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/gruppen-002-34398887.png",
+    "title": "Gruppen_002",
+    "original": "Gruppen_002.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/gs-kld-jgue-42d6d77d.jpg",
+    "title": "GS_KLD_jgü",
+    "original": "GS_KLD_jgü.jpg",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/gs-vers-tabelle-jgue1-fa2bf2dd.jpg",
+    "title": "GS_Vers_Tabelle_jgü1",
+    "original": "GS_Vers_Tabelle_jgü1.jpg",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/gs-vers-tabelle-jgue2-48f246a3.jpg",
+    "title": "GS_Vers_Tabelle_jgü2",
+    "original": "GS_Vers_Tabelle_jgü2.jpg",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/gs-verstabelle-jgb-d3b95d10.jpg",
+    "title": "GS_VersTabelle_jgb",
+    "original": "GS_VersTabelle_jgb.jpg",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/hilfe-fenster-d1d2ff19.jpg",
+    "title": "Hilfe-Fenster",
+    "original": "Hilfe-Fenster.jpg",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/ik-akthalbjahr-29a5e280.png",
+    "title": "IK-AktHalbjahr",
+    "original": "IK-AktHalbjahr.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/import-zeugnisformulare-01-d8d8487f.png",
+    "title": "Import-Zeugnisformulare-01",
+    "original": "Import-Zeugnisformulare-01.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/import-zeugnisformulare-02-b8ff052d.png",
+    "title": "Import-Zeugnisformulare-02",
+    "original": "Import-Zeugnisformulare-02.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/inormationen-datenquellen-10a140e8.png",
+    "title": "Inormationen-Datenquellen",
+    "original": "Inormationen-Datenquellen.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/jg-tabell-gs-jgue1-ce4f8e8f.jpg",
+    "title": "JG_Tabell_GS_jgü1",
+    "original": "JG_Tabell_GS_jgü1.jpg",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/jg-tabell-gs-jgue2-97be0220.jpg",
+    "title": "JG_Tabell_GS_jgü2",
+    "original": "JG_Tabell_GS_jgü2.jpg",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/jg-tabelle-gs-jgb-a8523f23.jpg",
+    "title": "JG_Tabelle_GS_jgb",
+    "original": "JG_Tabelle_GS_jgb.jpg",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/jg-tabelle-gy-45b3e5d6.jpg",
+    "title": "JG_Tabelle_GY",
+    "original": "JG_Tabelle_GY.jpg",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/jg-tabelle-jguebergreifend-gesamt-8bd7678b.png",
+    "title": "Jg_tabelle_jguebergreifend_gesamt",
+    "original": "Jg_tabelle_jguebergreifend_gesamt.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/jg-tabelle-jguebergreifend-gesamt2-be683296.png",
+    "title": "Jg_tabelle_jguebergreifend_gesamt2",
+    "original": "Jg_tabelle_jguebergreifend_gesamt2.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/klasse-versetzungsdetails-jb-bdd5c888.png",
+    "title": "Klasse_versetzungsdetails_jb",
+    "original": "Klasse_versetzungsdetails_jb.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/klasse-versetzungsdetails-jb-cb900d34.jpg",
+    "title": "Klasse_versetzungsdetails_jb",
+    "original": "Klasse_versetzungsdetails_jb.jpg",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/klasse-versetzungsdetails-jg-0d3d9367.png",
+    "title": "Klasse_versetzungsdetails_jg",
+    "original": "Klasse_versetzungsdetails_jg.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/klasse-versetzungsdetails-jg-aadd9890.jpg",
+    "title": "Klasse_versetzungsdetails_jg",
+    "original": "Klasse_versetzungsdetails_jg.jpg",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/km2-30e2623c.jpg",
+    "title": "KM2",
+    "original": "KM2.jpg",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/km2-installation-01-3fd50a6b.png",
+    "title": "Km2_installation_01",
+    "original": "Km2_installation_01.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/km2-installation-02-6a80efec.png",
+    "title": "Km2_installation_02",
+    "original": "Km2_installation_02.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/km2-installation-03-468103da.png",
+    "title": "Km2_installation_03",
+    "original": "Km2_installation_03.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/km2-installation-04-c1e42a0e.png",
+    "title": "Km2_installation_04",
+    "original": "Km2_installation_04.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/km2-installation-06-7efd1c40.png",
+    "title": "Km2_installation_06",
+    "original": "Km2_installation_06.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/km2-installation-07-e0b2af56.png",
+    "title": "Km2_installation_07",
+    "original": "Km2_installation_07.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/km2-zugangskontrolle-ce386e6b.png",
+    "title": "Km2_zugangskontrolle",
+    "original": "Km2_zugangskontrolle.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/km2parameteradminal1-d528ea90.png",
+    "title": "KM2ParameterAdminAL1",
+    "original": "KM2ParameterAdminAL1.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/kurs42-to-cnf-bild-maximalwerte-a44a2630.png",
+    "title": "Kurs42_To_CNF_Bild_Maximalwerte",
+    "original": "Kurs42_To_CNF_Bild_Maximalwerte.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/lupo-datenaustausch-schueler-einzelauswahl-1-ee284799.png",
+    "title": "Lupo_datenaustausch_schueler_einzelauswahl_1",
+    "original": "Lupo_datenaustausch_schueler_einzelauswahl_1.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/lupo-schild-unterrichtsfaecher-2a335d78.png",
+    "title": "Lupo_schild_unterrichtsfaecher",
+    "original": "Lupo_schild_unterrichtsfaecher.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/mahnungdrucken2-93ac66c4.png",
+    "title": "MahnungDrucken2",
+    "original": "MahnungDrucken2.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/migration-4221e48d.jpg",
+    "title": "Migration",
+    "original": "Migration.jpg",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/ogs-01-2c8b3d01.png",
+    "title": "OGS-01",
+    "original": "OGS-01.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/ogs-02-9b594fec.png",
+    "title": "OGS-02",
+    "original": "OGS-02.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/ogs-03-60995d96.png",
+    "title": "OGS-03",
+    "original": "OGS-03.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/ogs-04-1a9fc86a.png",
+    "title": "OGS-04",
+    "original": "OGS-04.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/ogs-05-b5d37c79.png",
+    "title": "OGS-05",
+    "original": "OGS-05.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/ogs-06-67f6c498.png",
+    "title": "OGS-06",
+    "original": "OGS-06.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/ogs-07-0995ce87.png",
+    "title": "OGS-07",
+    "original": "OGS-07.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/repbau29-dfcd3705.jpg",
+    "title": "RepBau29",
+    "original": "RepBau29.jpg",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/report-neu-1-4de2f33f.png",
+    "title": "Report-Neu-1",
+    "original": "Report-Neu-1.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/repot-neu-label-symbol-583fdec8.png",
+    "title": "Repot-Neu-Label-Symbol",
+    "original": "Repot-Neu-Label-Symbol.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/richtig-4a78f82a.png",
+    "title": "Richtig",
+    "original": "Richtig.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/s1p-011-teile-ueberdeckt-b59522aa.jpg",
+    "title": "S1P-011-Teile-überdeckt",
+    "original": "S1P-011-Teile-überdeckt.jpg",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/s1p-012-alles-sichtbar-14e7c1cc.jpg",
+    "title": "S1P-012-alles-sichtbar",
+    "original": "S1P-012-alles-sichtbar.JPG",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/s1p-018-schild-abgleich-c3d2e7c5.jpg",
+    "title": "S1P-018-Schild-Abgleich",
+    "original": "S1P-018-Schild-Abgleich.JPG",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/s1p-041-ergebnis-nach-optimierung-51c2ca0b.jpg",
+    "title": "S1P-041-Ergebnis-nach-Optimierung",
+    "original": "S1P-041-Ergebnis-nach-Optimierung.JPG",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/schild-nrw-export-ban-portal-gp-aktuellenabschnittverwenden-978017f2.png",
+    "title": "SchILD-NRW_Export_BAN-Portal_GP_AktuellenAbschnittVerwenden",
+    "original": "SchILD-NRW_Export_BAN-Portal_GP_AktuellenAbschnittVerwenden.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/schild-nrw-export-ban-portal-gp-banaktivieren-1c8b65f2.png",
+    "title": "SchILD-NRW_Export_BAN-Portal_GP_BANaktivieren",
+    "original": "SchILD-NRW_Export_BAN-Portal_GP_BANaktivieren.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/schild-nrw-export-ban-portal-gp-jgwaehlen-f0c82a96.png",
+    "title": "SchILD-NRW_Export_BAN-Portal_GP_JGwählen",
+    "original": "SchILD-NRW_Export_BAN-Portal_GP_JGwählen.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/schild-nrw-export-ban-portal-gp-rueckfrage-dbebfb60.png",
+    "title": "SchILD-NRW_Export_BAN-Portal_GP_Rückfrage",
+    "original": "SchILD-NRW_Export_BAN-Portal_GP_Rückfrage.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/schild-nrw-export-ban-portal-gp-rueckfrage-viele-86dea9db.png",
+    "title": "SchILD-NRW_Export_BAN-Portal_GP_Rückfrage_Viele",
+    "original": "SchILD-NRW_Export_BAN-Portal_GP_Rückfrage_Viele.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/schild-nrw-icon-bb2685f9.jpg",
+    "title": "Schild-NRW-Icon",
+    "original": "Schild-NRW-Icon.jpg",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/schild-verwaltung-export-ban-gp-auswaehlen-fd171ebc.png",
+    "title": "SchILD_Verwaltung_Export_BAN_GP_Auswählen",
+    "original": "SchILD_Verwaltung_Export_BAN_GP_Auswählen.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/schulform999000-dbce50aa.jpg",
+    "title": "Schulform999000",
+    "original": "Schulform999000.jpg",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/serienbrief-01-b36fda10.png",
+    "title": "Serienbrief-01",
+    "original": "Serienbrief-01.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/serienbrief-02-efae88be.png",
+    "title": "Serienbrief-02",
+    "original": "Serienbrief-02.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/serienbrief-03-d49ff2a2.png",
+    "title": "Serienbrief-03",
+    "original": "Serienbrief-03.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/serienbrief-04-264c4646.png",
+    "title": "Serienbrief-04",
+    "original": "Serienbrief-04.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/staatsang-c8cb9cea.jpg",
+    "title": "Staatsang",
+    "original": "Staatsang.jpg",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/unicode-1b3d00f0.png",
+    "title": "Unicode",
+    "original": "Unicode.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/unterbericht-001-60a852e1.png",
+    "title": "Unterbericht_001",
+    "original": "Unterbericht_001.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/unterrichtsfaecher-02-b9a8b53a.jpg",
+    "title": "Unterrichtsfaecher-02",
+    "original": "Unterrichtsfaecher-02.jpg",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/useradmn-exe1-5b610000.jpg",
+    "title": "UserAdmn_exe1",
+    "original": "UserAdmn_exe1.jpg",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/versetzung-gs-01-ca4e7561.png",
+    "title": "Versetzung-GS-01",
+    "original": "Versetzung-GS-01.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/versetzung-gs-02-272a1bdb.png",
+    "title": "Versetzung-GS-02",
+    "original": "Versetzung-GS-02.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/versetzung-gs-03-553cdf01.png",
+    "title": "Versetzung-GS-03",
+    "original": "Versetzung-GS-03.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/versetzung-gs-04-71830cc3.png",
+    "title": "Versetzung-GS-04",
+    "original": "Versetzung-GS-04.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/versetzung-gs-05-319dcba3.png",
+    "title": "Versetzung-GS-05",
+    "original": "Versetzung-GS-05.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/versetzung-gs-06-f80a22d3.png",
+    "title": "Versetzung-GS-06",
+    "original": "Versetzung-GS-06.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/versetzung-gs-07-98457ff0.png",
+    "title": "Versetzung-GS-07",
+    "original": "Versetzung-GS-07.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/versetzung-gs-08-8e23aea1.png",
+    "title": "Versetzung-GS-08",
+    "original": "Versetzung-GS-08.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/versetzung-gs-09-018b08ee.png",
+    "title": "Versetzung-GS-09",
+    "original": "Versetzung-GS-09.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/versetzung-gs-10-b08c7d76.png",
+    "title": "Versetzung-GS-10",
+    "original": "Versetzung-GS-10.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/versetzung-gs-11-7cb34ebb.png",
+    "title": "Versetzung-GS-11",
+    "original": "Versetzung-GS-11.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/versetzung-gs-12-55cc7820.png",
+    "title": "Versetzung-GS-12",
+    "original": "Versetzung-GS-12.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/versetzung-gs-13-82edba5d.png",
+    "title": "Versetzung-GS-13",
+    "original": "Versetzung-GS-13.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/versetzung-gs-14-2ff98453.png",
+    "title": "Versetzung-GS-14",
+    "original": "Versetzung-GS-14.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/versetzung-si-01-7ae24fbc.png",
+    "title": "Versetzung-SI-01",
+    "original": "Versetzung-SI-01.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/versetzung-si-02-5be53336.png",
+    "title": "Versetzung-SI-02",
+    "original": "Versetzung-SI-02.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/versetzung-si-03-6db03d74.png",
+    "title": "Versetzung-SI-03",
+    "original": "Versetzung-SI-03.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/versetzung-si-04-8b59c22a.png",
+    "title": "Versetzung-SI-04",
+    "original": "Versetzung-SI-04.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/versetzung-si-05-584189d9.png",
+    "title": "Versetzung-SI-05",
+    "original": "Versetzung-SI-05.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/zeugnis-kopf-01-b49d4f5e.png",
+    "title": "Zeugnis-Kopf-01",
+    "original": "Zeugnis-Kopf-01.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/zeugnis-kopf-02-4786a022.png",
+    "title": "Zeugnis-Kopf-02",
+    "original": "Zeugnis-Kopf-02.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/zeugnis-kopf-03-ec4dd330.png",
+    "title": "Zeugnis-Kopf-03",
+    "original": "Zeugnis-Kopf-03.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/zeugnis-kopf-04-cc69f011.png",
+    "title": "Zeugnis-Kopf-04",
+    "original": "Zeugnis-Kopf-04.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
+  },
+  {
+    "path": "/bilder/wiki/zeunis-kopf-04-97d75982.png",
+    "title": "Zeunis-Kopf-04",
+    "original": "Zeunis-Kopf-04.png",
+    "folder": "wiki-archiv",
+    "captions": [],
+    "articles": []
   }
 ]

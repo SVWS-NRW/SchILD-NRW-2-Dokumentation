@@ -1,0 +1,29 @@
+{
+  "pageid": 162,
+  "ns": 0,
+  "title": "EditText",
+  "revisions": [
+    {
+      "revid": 408,
+      "parentid": 407,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-20T16:15:52Z",
+      "sha1": "caf98153aad3b4d3f09cad25e4959265e7f267ef",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    function EditPlainText\n    Ruft einen Texteditor für Text ohne Formatierung auf.\n|-\n|'''Parameter''' || \n    ...\n|-\n|'''Rückgabewert''' ||\n    Text ohne Formatierung.\n|- \n|'''Beispiel''' || \n    begin\n     Text:= EditPlainText;\n    end;\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-20T16:15:52Z",
+  "lastrevid": 408,
+  "length": 366
+}

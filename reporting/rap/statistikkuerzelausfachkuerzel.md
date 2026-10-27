@@ -44,4 +44,4 @@ then ShowMessage( ’Das Fach ist DEUTSCH’ );
 
 ---
 
-Quelle: [StatistikKuerzelAusFachKuerzel – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=StatistikKuerzelAusFachKuerzel&oldid=265) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=StatistikKuerzelAusFachKuerzel&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-136) · [StatistikKuerzelAusFachKuerzel – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=StatistikKuerzelAusFachKuerzel&oldid=265)

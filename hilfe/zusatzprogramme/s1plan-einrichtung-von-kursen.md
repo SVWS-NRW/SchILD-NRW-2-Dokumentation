@@ -205,4 +205,4 @@ Analog zu den AG-Wahlen können auch z.B. die Wahlen zu Projekten bei einer Proj
 
 ---
 
-Quelle: [S1PLAN:Einrichtung von Kursen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=S1PLAN%3AEinrichtung+von+Kursen&oldid=4078) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=S1PLAN%3AEinrichtung+von+Kursen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1088) · [S1PLAN:Einrichtung von Kursen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=S1PLAN%3AEinrichtung+von+Kursen&oldid=4078)

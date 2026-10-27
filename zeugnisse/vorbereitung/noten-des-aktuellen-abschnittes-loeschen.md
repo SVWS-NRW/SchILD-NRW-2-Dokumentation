@@ -17,4 +17,4 @@ Sollten Noten versehentlich eingetragen worden sein, oder hat eine Datenübertra
 
 ---
 
-Quelle: [Noten des aktuellen Abschnittes löschen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Noten+des+aktuellen+Abschnittes+l%C3%B6schen&oldid=2064) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Noten+des+aktuellen+Abschnittes+l%C3%B6schen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-504) · [Noten des aktuellen Abschnittes löschen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Noten+des+aktuellen+Abschnittes+l%C3%B6schen&oldid=2064)

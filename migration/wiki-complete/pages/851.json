@@ -1,0 +1,30 @@
+{
+  "pageid": 851,
+  "ns": 6,
+  "title": "Datei:FilterITut05.jpg",
+  "revisions": [
+    {
+      "revid": 3250,
+      "parentid": 0,
+      "user": "Mhoffmann",
+      "timestamp": "2015-06-15T09:23:44Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-06-15T09:23:44Z",
+  "lastrevid": 3250,
+  "length": 0,
+  "new": ""
+}

@@ -32,7 +32,7 @@ Wenn Sie den Export in Schnittstellendateien gewählt haben, erzeugt Schild-NRW 
 
 ## Nur Schülerdaten exportieren
 
-Hier können Sie einen Export-Ordner wählen und dann die Schülerdaten der gefilterten Schüler im [Schnittstellenformat](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schnittstelle-Schild-NRW&action=edit&redlink=1) exportieren.
+Hier können Sie einen Export-Ordner wählen und dann die Schülerdaten der gefilterten Schüler im [Schnittstellenformat](/schild2/import-export-statistik/schnittstelle-schild-nrw) exportieren.
 
 ![LupoExport2](/bilder/wiki/lupoexport2-a87aeed8.jpg)
 
@@ -51,4 +51,4 @@ Dies kann z.B. der Fall sein, wenn Sie die Schülerdaten aus einem anderen Progr
 
 ---
 
-Quelle: [Export für Lupo – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Export+f%C3%BCr+Lupo&oldid=1159) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Export+f%C3%BCr+Lupo&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-263) · [Export für Lupo – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Export+f%C3%BCr+Lupo&oldid=1159)

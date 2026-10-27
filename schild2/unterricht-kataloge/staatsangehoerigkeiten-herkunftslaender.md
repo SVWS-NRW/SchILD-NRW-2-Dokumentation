@@ -19,4 +19,4 @@ Wenn man bei "Staatsangehörigkeit" auf Individual-Daten I adjektivische Bezeich
 
 ---
 
-Quelle: [Staatsangehörigkeiten / Herkunftsländer – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Staatsangeh%C3%B6rigkeiten+%2F+Herkunftsl%C3%A4nder&oldid=937) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Staatsangeh%C3%B6rigkeiten+%2F+Herkunftsl%C3%A4nder&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-146) · [Staatsangehörigkeiten / Herkunftsländer – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Staatsangeh%C3%B6rigkeiten+%2F+Herkunftsl%C3%A4nder&oldid=937)

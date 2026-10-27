@@ -1,0 +1,29 @@
+{
+  "pageid": 53,
+  "ns": 0,
+  "title": "MitLernabschnitten",
+  "revisions": [
+    {
+      "revid": 5723,
+      "parentid": 74,
+      "user": "JRaffenberg",
+      "timestamp": "2024-02-20T10:42:23Z",
+      "sha1": "3a0a54ce7fe70374b21285bf20622744fc031251",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    procedure MitLernabschnitten(const Value: Boolean);\n    Erzwingt die Aktualisierung der Datenquelle Lernabschnitte beim Wechsel\n    eines Schülerdatensatzes.\n|-\n|'''Parameter''' || \n    Value - Boolescher Wert\n|-\n|'''Rückgabewert''' ||\n    ...\n|- \n|'''Beispiel''' || \n    procedure ReportBeforePrint;\n    begin\n      MitLernabschnitten(True);\n    end;\n\n    procedure ReportAfterPrint;\n    begin\n      MitLernabschnitten(false);\n    end\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "/* RAP-Funktion \"{{SEITENNAME}}\" */"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2024-02-20T10:42:23Z",
+  "lastrevid": 5723,
+  "length": 565
+}

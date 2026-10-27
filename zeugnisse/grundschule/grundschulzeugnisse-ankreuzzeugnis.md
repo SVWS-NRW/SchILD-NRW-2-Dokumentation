@@ -11,4 +11,4 @@ Hier erscheinen in Kürze Hinweise.
 
 ---
 
-Quelle: [Grundschulzeugnisse Ankreuzzeugnis – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Grundschulzeugnisse+Ankreuzzeugnis&oldid=4618) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Grundschulzeugnisse+Ankreuzzeugnis&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1178) · [Grundschulzeugnisse Ankreuzzeugnis – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Grundschulzeugnisse+Ankreuzzeugnis&oldid=4618)

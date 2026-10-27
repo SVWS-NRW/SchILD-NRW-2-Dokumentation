@@ -13,4 +13,4 @@ Diese Funktion sortiert die Kurse in der Tabelle [Schulverwaltung](/schild2/unte
 
 ---
 
-Quelle: [Kurse neu sortieren – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurse+neu+sortieren&oldid=1532) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurse+neu+sortieren&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-350) · [Kurse neu sortieren – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurse+neu+sortieren&oldid=1532)

@@ -91,4 +91,4 @@ Bitte entnehmen Sie hier die Vorgehensweise: [Textzeugnisse drucken](/zeugnisse/
 
 ---
 
-Quelle: [Druckausgabe – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Druckausgabe&oldid=2415) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Druckausgabe&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-434) · [Druckausgabe – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Druckausgabe&oldid=2415)

@@ -19,4 +19,4 @@ Eintragungen wie z.B. "E5" oder "E7" können über diesen Gruppenprozess durch "
 
 ---
 
-Quelle: [Fächer in Sprachenfolge ersetzen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%A4cher+in+Sprachenfolge+ersetzen&oldid=1899) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%A4cher+in+Sprachenfolge+ersetzen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-364) · [Fächer in Sprachenfolge ersetzen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%A4cher+in+Sprachenfolge+ersetzen&oldid=1899)

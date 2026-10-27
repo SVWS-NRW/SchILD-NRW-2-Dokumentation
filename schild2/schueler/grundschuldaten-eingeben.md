@@ -19,4 +19,4 @@ Bitte denken Sie daran, nicht mehr benötigte Daten zu löschen. Dazu steht Ihne
 
 ---
 
-Quelle: [Grundschuldaten eingeben – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Grundschuldaten+eingeben&oldid=2347) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Grundschuldaten+eingeben&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-609) · [Grundschuldaten eingeben – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Grundschuldaten+eingeben&oldid=2347)

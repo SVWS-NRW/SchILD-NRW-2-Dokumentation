@@ -40,4 +40,4 @@ Ergebnis: 'Drei-Komma-Fünf-Eins'
 
 ---
 
-Quelle: [Zahlwort – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zahlwort&oldid=134) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zahlwort&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-109) · [Zahlwort – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zahlwort&oldid=134)

@@ -45,4 +45,4 @@ end;
 
 ---
 
-Quelle: [LehrerUnterrichtLaden – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LehrerUnterrichtLaden&oldid=64) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=LehrerUnterrichtLaden&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-43) · [LehrerUnterrichtLaden – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LehrerUnterrichtLaden&oldid=64)

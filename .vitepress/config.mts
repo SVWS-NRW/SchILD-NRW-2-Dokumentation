@@ -5,7 +5,7 @@ import { configureMarkdown, containerLabels } from './markdown.mjs'
 import { compactSiteData, verifyBuiltHtml } from './site-data.mjs'
 
 // VitePress must recognize spreadsheet links as files on server and client.
-const extraExtensions = [process.env.VITE_EXTRA_EXTENSIONS, 'ods', 'xlsx', 'dat'].filter(Boolean).join(',')
+const extraExtensions = [process.env.VITE_EXTRA_EXTENSIONS, 'ods', 'xlsx', 'dat', 'chm', 'spd', 'exe', 'doc', 'txt', 'mdb', 'chm', 'spd', 'exe', 'doc', 'txt', 'mdb', 'chm', 'spd', 'exe', 'doc', 'txt', 'mdb', 'chm', 'spd', 'exe', 'doc', 'txt', 'mdb'].filter(Boolean).join(',')
 process.env.VITE_EXTRA_EXTENSIONS = extraExtensions
 
 export default defineConfig({

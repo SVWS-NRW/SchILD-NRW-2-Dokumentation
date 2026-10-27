@@ -13,10 +13,10 @@ Bei der Ergänzung der Einträge müssen Sie sich bei der Benennung der 'ASD-Bez
 
 Innerhalb Ihrer Schule sollten Sie sich einigen, welche Bezeichnungen Sie für die Konfessionen eintragen wollen. 'römisch-katholisch', 'röm-kath.' und 'r.k.' sind alles sinnvolle Bezeichnungen, dennoch sollten Sie sich der Übersichtlichkeit halber auf EINE Bezeichnung festlegen. Gerade in Schulen, in denen verschiedene Personen Daten im Sekretariat eingeben, sollte diese Einheitlichkeit hergestellt werden. Blenden Sie die nicht gewünschten Bezeichnungen aus oder schalten Sie sie zumindest auf 'nicht-sichtbar'. Die Verwendung von Suchfunktionen, wie zum Beispiel des [Filter I](/schild2/auswahl/filter-i), wird so deutlich effektiver.
 
-Eine Anleitung zur Änderung im Katalog der Konfessionen erhalten Sie [hier](http://www.svws.nrw.de/uploads/media/KA20_Katalog_der_Konfessionen.pdf).
+Eine Anleitung zur Änderung im Katalog der Konfessionen erhalten Sie [hier](/quellen/fehlende-downloads#ka20-katalog-der-konfessionen-pdf).
 
 ------------------------------------------------------------------------
 
 ---
 
-Quelle: [Konfessionen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Konfessionen&oldid=936) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Konfessionen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-145) · [Konfessionen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Konfessionen&oldid=936)

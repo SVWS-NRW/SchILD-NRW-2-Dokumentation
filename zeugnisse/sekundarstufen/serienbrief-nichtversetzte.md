@@ -65,4 +65,4 @@ An dieser Stelle kann zudem eine Excel-Übersicht und eine LibreCalc-Übersicht 
 
 ---
 
-Quelle: [Serienbrief Nichtversetzte – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Serienbrief+Nichtversetzte&oldid=5863) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Serienbrief+Nichtversetzte&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1408) · [Serienbrief Nichtversetzte – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Serienbrief+Nichtversetzte&oldid=5863)

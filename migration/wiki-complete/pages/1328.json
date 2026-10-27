@@ -1,0 +1,30 @@
+{
+  "pageid": 1328,
+  "ns": 6,
+  "title": "Datei:ASDPC ASD Signatur Export.png",
+  "revisions": [
+    {
+      "revid": 5182,
+      "parentid": 0,
+      "user": "FFrodermann",
+      "timestamp": "2022-01-03T11:17:07Z",
+      "sha1": "0925e45fb4112b808533af2e8cf9fef83a6865c1",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "== Beschreibung ==\nASDPC ASD Signatur Export"
+        }
+      },
+      "comment": "ASDPC ASD Signatur Export"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-01-03T11:20:17Z",
+  "lastrevid": 5182,
+  "length": 44,
+  "new": ""
+}

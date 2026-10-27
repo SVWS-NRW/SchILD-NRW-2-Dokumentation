@@ -21,4 +21,4 @@ Bei Grundschulen lautet dieser Menüpunkt **"Grundschulzeugnisse zuordnen"**.
 
 ---
 
-Quelle: [Textzeugnisse zuordnen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Textzeugnisse+zuordnen&oldid=2477) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Textzeugnisse+zuordnen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-637) · [Textzeugnisse zuordnen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Textzeugnisse+zuordnen&oldid=2477)

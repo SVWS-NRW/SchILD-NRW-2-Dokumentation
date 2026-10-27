@@ -44,4 +44,4 @@ end;
 
 ---
 
-Quelle: [AlleFaecherLaden – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=AlleFaecherLaden&oldid=2671) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=AlleFaecherLaden&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-694) · [AlleFaecherLaden – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=AlleFaecherLaden&oldid=2671)

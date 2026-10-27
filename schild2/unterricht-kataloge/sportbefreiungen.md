@@ -20,4 +20,4 @@ Spätestens durch einen Klick auf 'Reorganisieren' werden die Zahlen in der Spal
 
 ---
 
-Quelle: [Sportbefreiungen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sportbefreiungen&oldid=522) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sportbefreiungen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-190) · [Sportbefreiungen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sportbefreiungen&oldid=522)

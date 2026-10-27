@@ -1,0 +1,30 @@
+{
+  "pageid": 29,
+  "ns": 0,
+  "title": "FilterSchuelerAdressArt",
+  "revisions": [
+    {
+      "revid": 50,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T15:07:10Z",
+      "sha1": "d73072dafac95b94ffab0ea7cfc77c0af615e9f7",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    procedure FilterSchuelerAdressArt(aAdressArt: String);\n|-\n|'''Parameter''' || \n    aAdressArt - Adressart, auf die gefiltert werden soll\n|-\n|'''Rückgabewert''' ||\n    ...\n|- \n|'''Beispiel''' || \n    Procedure ReportBeforePrint;\n     var\n       lAdressArt : String;\n     begin\n       lAdressArt:=SelectAdressArt;\n       FilterSchuelerAdressArt(lAdressArt);\n     end;\n     (*Zu jedem Schüler werden die durch „lAdressArt“ gefilterten Einträge aus den „Allgemeinen\n      Adressen“ angezeigt. Auf das Ergebnis kann über die Datenquelle „SchuelerAdressen“\n      zugegriffen werden*)\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      procedure FilterSchuelerAdressArt(aAdressArt: String); |- |'''Parameter''…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T15:07:10Z",
+  "lastrevid": 50,
+  "length": 721,
+  "new": ""
+}

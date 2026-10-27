@@ -46,4 +46,4 @@ Procedure ReportBeforeOpenDatapipelines;
 
 ---
 
-Quelle: [SetzeKlassenAdressArt – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetzeKlassenAdressArt&oldid=120) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetzeKlassenAdressArt&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-96) · [SetzeKlassenAdressArt – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetzeKlassenAdressArt&oldid=120)

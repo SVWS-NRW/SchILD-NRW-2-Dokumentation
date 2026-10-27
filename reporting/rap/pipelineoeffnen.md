@@ -42,4 +42,4 @@ procedure ReportBeforePrint;
 
 ---
 
-Quelle: [PipelineOeffnen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=PipelineOeffnen&oldid=155) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=PipelineOeffnen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-115) · [PipelineOeffnen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=PipelineOeffnen&oldid=155)

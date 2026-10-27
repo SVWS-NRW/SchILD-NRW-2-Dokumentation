@@ -1,0 +1,29 @@
+{
+  "pageid": 331,
+  "ns": 0,
+  "title": "Weitere Adressen",
+  "revisions": [
+    {
+      "revid": 1481,
+      "parentid": 1480,
+      "user": "BPanzlaff",
+      "timestamp": "2014-03-04T10:24:58Z",
+      "sha1": "8a15021e6818465f4e062bc201e2e9c6c193748f",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Die Bezeichnung des Karteireiters ist abhängig von der Schulform; bei einem Berufskolleg lautet die Bezeichnung '''Adressen/Betriebe'''. \n\nAuf der Karteikarte können  Adressen wie z.B. die Adresse des Praktikumsplatzes oder des Ausbildungsbetriebs gespeichert werden. Dazu wird durch das '''+'''-Zeichen die Eingabe-Maske aufgerufen.\n\n[[Datei:AllgemeineAdressen.jpg]]\n\nAus der Liste der schon vorhandenen Adressen kann die passende Adresse mit Hilfe der Schaltfläche ''Übernehmen'' ausgewählt werden. Existiert die gesuchte Adresse nicht, drücken Sie auf die Schaltfläche ''Neueingabe'', um eine weitere Adresse hinzuzufügen. Die zur Verfügung stehenden Adress-Arten bestimmen Sie durch die Einträge im Katalog [[Adress-Arten]].\n\n[[Datei:AdresseNeueingabe.jpg]]\n\n\nIn dieser Maske gibt es einen weiteren Karteireiter ''Übersicht''. Man hat hier u. a. die Möglichkeit, die Liste aller Adressen als Excel-Liste zu exportieren.\n\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Hauptfenster#Karteireiter|Zurück zu Karteireiter]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-03-04T10:24:58Z",
+  "lastrevid": 1481,
+  "length": 1025
+}

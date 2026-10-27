@@ -60,4 +60,4 @@ würde nur die Fächer D,M und alle Englisch-Fächer berücksichtigen (aber nich
 
 ---
 
-Quelle: [CreateNotenHeader – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=CreateNotenHeader&oldid=183) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=CreateNotenHeader&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-15) · [CreateNotenHeader – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=CreateNotenHeader&oldid=183)

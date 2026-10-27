@@ -19,4 +19,4 @@ Das Häkchen, das ganz unten gesetzt werden kann, verhindert das versehentliche 
 
 ---
 
-Quelle: [Einzelne Fächer bei Schülern löschen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Einzelne+F%C3%A4cher+bei+Sch%C3%BClern+l%C3%B6schen&oldid=3611) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Einzelne+F%C3%A4cher+bei+Sch%C3%BClern+l%C3%B6schen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-470) · [Einzelne Fächer bei Schülern löschen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Einzelne+F%C3%A4cher+bei+Sch%C3%BClern+l%C3%B6schen&oldid=3611)

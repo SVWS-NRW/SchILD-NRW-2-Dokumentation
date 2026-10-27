@@ -58,4 +58,4 @@ Zum Abschluss meldet Prognos die erfolgreiche Installation und bietet gleichzeit
 
 ---
 
-Quelle: [Prognos:Installation – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Prognos%3AInstallation&oldid=5511) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Prognos%3AInstallation&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1225) · [Prognos:Installation – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Prognos%3AInstallation&oldid=5511)

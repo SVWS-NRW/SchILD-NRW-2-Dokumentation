@@ -39,4 +39,4 @@ Siehe „SelectAdressArt“
 
 ---
 
-Quelle: [FilterAdressArt – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FilterAdressArt&oldid=45) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=FilterAdressArt&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-24) · [FilterAdressArt – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FilterAdressArt&oldid=45)

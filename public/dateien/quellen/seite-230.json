@@ -1,0 +1,29 @@
+{
+  "pageid": 230,
+  "ns": 0,
+  "title": "Extras",
+  "revisions": [
+    {
+      "revid": 3736,
+      "parentid": 3418,
+      "user": "Pfotenhauer",
+      "timestamp": "2015-12-03T10:10:48Z",
+      "sha1": "24878f94b0a6180a99f778d61e2d7d09db097d6e",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "[[Image:Extras.jpg|200px|rechts]]\n\nUnter diesem Menüpunkt stehen Ihnen einige Prozesse zur Verfügung, die zur Einstellung und Wartung der Schild-NRW-Umgebung gedacht sind.\n\n*[[Programm-Einstellungen]]\n\nHier legen Sie einige Individuelle und Globale Einstellungen fest.\n\n*Kennwort ändern\n\nHier kann das Kennwort des angemeldeten Datenbank-Benutzers neu vergeben werden.\n(Wichtig, wenn Sie über die Benutzerverwaltung die Lehrer eingefügt haben, da diese dann zunächst alle ihr eigenes Kürzel als Passwort haben und dies zeitnah durch jeden Kollegen geändert werden sollte.)\n\n*Aktuelle Datenbanknutzer zeigen.\n\nEs werden die an der Datenbank angemeldeten Computer angezeigt. Da diese Daten direkt aus der von Access generierten ldb-Datei gelesen werden, wird hier immer der Nutzername \"Admin\" angezeigt. Dies kann ignoriert werden.\nBei anderen Datenbanksystemen wird der Benutzername des Schildzugangs und die LogIn-Zeit angezeigt.\n\n*[[Datensicherung]]\n\nFühren Sie mit diesem Menüpunkt eine schnelle Sicherung der Datenbank durch.\nNur für Access-Datenbanken verfügbar.\n\n*Notenliste anzeigen\n\nEs erscheint ein Fenster, das die verfügbaren Notenkürzel und den zugehörigen Notenklartext anzeigt.\n\n*[[Automatische Prozesse ausführen]]\n\n*[[Gelöschte Daten zurückholen]]\n\n*[[Schulpflicht autom. setzen zum SJ.-Ende]]\n\n*[[Fehlende Abschnittsdaten anlegen]]\n\n*[[Kurse neu laden (nach Bearbeitung in Kurs42)]]\n\n*[[Fächer in Leistungsdaten neu sortieren]]\n\nSteht nicht bei der Schulform BK zur Verfügung, weil diese Funktion dort als Gruppenprozess zur Verfügung steht.\n\n*[[Kurse neu sortieren]]\n\n*[[Fotos neu skalieren]]\n\n*[[Aufnahmejahr für Neuaufnahmen zurücksetzen]]\n\n*[[Straße und Hausnummer bei Schülerdaten trennen]]\n\n*[[Aufräumen]]\n\n*Alle Markierungen entfernen\n\nLöscht alle Markierungen im [[Container]]. Dieser Prozesss wird auch bei Programmende abgefragt, wenn noch Markierungen bei den Schülern vorhanden sind.\n\n*[[SQL-Befehle eingeben]]\n\n*[[Transaktionsprotokoll verwenden]]\n\n*Transaktionsprotokoll anzeigen\n\nZeigt das Protokoll, wenn die o.g. Funktion eingeschaltet wurde.\n\n*[[SchildChat.exe|Chat-Programm starten]]\n\n\n----\n\n\n[[#top|Zum Seitenanfang]]\n\n[[Schild-NRW-Index|Zurück zu Schild-NRW-Index]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-12-03T10:10:48Z",
+  "lastrevid": 3736,
+  "length": 2231
+}

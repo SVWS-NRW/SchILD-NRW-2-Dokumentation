@@ -1,0 +1,31 @@
+{
+  "pageid": 1152,
+  "ns": 0,
+  "title": "Teilleistungen Einrichten und Verwalten",
+  "revisions": [
+    {
+      "revid": 4270,
+      "parentid": 0,
+      "user": "FMüller",
+      "timestamp": "2019-12-08T10:54:51Z",
+      "sha1": "5f36fd65e74c2cb45b87a6d1164c05c1d7110976",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "#WEITERLEITUNG [[Teilleistungen einrichten und verwalten]]"
+        }
+      },
+      "comment": "FMüller verschob die Seite [[Teilleistungen Einrichten und Verwalten]] nach [[Teilleistungen einrichten und verwalten]]"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-01-16T08:15:56Z",
+  "lastrevid": 4270,
+  "length": 58,
+  "redirect": "",
+  "new": ""
+}

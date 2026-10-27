@@ -27,4 +27,4 @@ wiki_revision: 4949
 
 ---
 
-Quelle: [Prognos – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Prognos&oldid=4949) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Prognos&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1223) · [Prognos – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Prognos&oldid=4949)

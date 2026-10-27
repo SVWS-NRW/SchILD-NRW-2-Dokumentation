@@ -41,4 +41,4 @@ lAnrede:=GeschlechtToString(Schueler['Geschlecht'],'Schüler','Schülerin')
 
 ---
 
-Quelle: [GeschlechtToString – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=GeschlechtToString&oldid=5650) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=GeschlechtToString&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-31) · [GeschlechtToString – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=GeschlechtToString&oldid=5650)

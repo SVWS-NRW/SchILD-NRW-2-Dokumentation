@@ -1,0 +1,29 @@
+{
+  "pageid": 1120,
+  "ns": 6,
+  "title": "Datei:Reports alt.png",
+  "revisions": [
+    {
+      "revid": 4134,
+      "parentid": 4133,
+      "user": "JStaratschek",
+      "timestamp": "2017-05-11T16:14:32Z",
+      "sha1": "7e12688ee626b6951a0e69450e4b05747172dd3d",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Ansicht des Report-Ordners eines Gymnasiums ohne erkennbare Struktur. In 40 Ordnern sind über 2000 Report-Dateien u.a. versteckt. Der Ordner hat eine Dateigröße von 369MB."
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2017-05-11T16:34:19Z",
+  "lastrevid": 4134,
+  "length": 174
+}

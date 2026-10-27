@@ -23,4 +23,4 @@ In dieser Maske gibt es einen weiteren Karteireiter *Übersicht*. Man hat hier u
 
 ---
 
-Quelle: [Weitere Adressen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Weitere+Adressen&oldid=1481) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Weitere+Adressen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-331) · [Weitere Adressen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Weitere+Adressen&oldid=1481)

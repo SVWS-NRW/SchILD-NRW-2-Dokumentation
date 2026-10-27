@@ -1,0 +1,29 @@
+{
+  "pageid": 1145,
+  "ns": 0,
+  "title": "Datenliste",
+  "revisions": [
+    {
+      "revid": 4250,
+      "parentid": 4249,
+      "user": "Pfotenhauer",
+      "timestamp": "2019-11-13T13:02:07Z",
+      "sha1": "a8bf60f811dfe8bb978408dcb3740ef767ce625a",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    DatenListe(aDatapipeline: TppDBPipeline; aFeld, aSep: string; duplikate: boolean ): string;\nDiese liefert eine Liste (getrennt durch ein wählbares Trennzeichen ) für ein Feld in einer Datenquelle, mit der Option, ob doppelt auftretende Werte ausgegeben werden sollen oder nicht.\n|-\n|'''Parameter''' || \n    Datenquelle, Datenfeld,Trennzeichen,true/false\n|-\n|'''Rückgabewert''' ||\n    Datenliste z.B. 05a, 06a, 07a, 08a aus dem Beispiel\n|- \n|'''Beispiel''' || \n    lblBesuchteKlassen.Caption := DatenListe( SchuelerLaufbahn, 'Klasse', ', ', false );\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2019-11-13T13:02:07Z",
+  "lastrevid": 4250,
+  "length": 679
+}

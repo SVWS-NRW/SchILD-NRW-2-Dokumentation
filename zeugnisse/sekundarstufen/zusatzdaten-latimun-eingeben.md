@@ -19,4 +19,4 @@ Die eingegebenen Informationen zu den Sprachen kann man unter dem Karteireiter "
 
 ---
 
-Quelle: [Zusatzdaten (Latimun...) eingeben – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zusatzdaten+%28Latimun...%29+eingeben&oldid=2900) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zusatzdaten+%28Latimun...%29+eingeben&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-755) · [Zusatzdaten (Latimun...) eingeben – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zusatzdaten+%28Latimun...%29+eingeben&oldid=2900)

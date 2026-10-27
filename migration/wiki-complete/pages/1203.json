@@ -1,0 +1,29 @@
+{
+  "pageid": 1203,
+  "ns": 0,
+  "title": "A13 Ausbildungsvorbereitung (BS 1j; TZ)",
+  "revisions": [
+    {
+      "revid": 4755,
+      "parentid": 4753,
+      "user": "Pfotenhauer",
+      "timestamp": "2021-04-22T11:02:11Z",
+      "sha1": "4d00662aa86cad63b9082c0e27e09a1573875376",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "[[Datei:BK Abschluss A13.png]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2021-04-22T11:02:11Z",
+  "lastrevid": 4755,
+  "length": 30
+}

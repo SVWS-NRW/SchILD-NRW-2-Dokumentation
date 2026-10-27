@@ -17,4 +17,4 @@ An dieser Schulform werden hier für jeden Bildungsgang, je nach Dauer, eigene S
 
 ---
 
-Quelle: [JG-Tabelle-BK – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=JG-Tabelle-BK&oldid=2111) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=JG-Tabelle-BK&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-517) · [JG-Tabelle-BK – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=JG-Tabelle-BK&oldid=2111)

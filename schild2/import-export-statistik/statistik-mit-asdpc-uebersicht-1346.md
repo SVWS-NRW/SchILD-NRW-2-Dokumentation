@@ -13,4 +13,4 @@ Weiterleitung nach:
 
 ---
 
-Quelle: [Statistik mit ASDPC Uebersicht – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC+Uebersicht&oldid=5343) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC+Uebersicht&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1346) · [Statistik mit ASDPC Uebersicht – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC+Uebersicht&oldid=5343)

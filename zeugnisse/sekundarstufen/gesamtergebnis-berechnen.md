@@ -19,4 +19,4 @@ Die Ergebnisse der Berechnung können dann unter dem Karteireiter "Abitur" unten
 
 ---
 
-Quelle: [Gesamtergebnis berechnen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Gesamtergebnis+berechnen&oldid=3633) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Gesamtergebnis+berechnen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-496) · [Gesamtergebnis berechnen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Gesamtergebnis+berechnen&oldid=3633)

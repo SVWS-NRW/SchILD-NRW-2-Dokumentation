@@ -1,0 +1,29 @@
+{
+  "pageid": 51,
+  "ns": 0,
+  "title": "Mehrfachauswahl",
+  "revisions": [
+    {
+      "revid": 1842,
+      "parentid": 72,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-03-24T14:29:01Z",
+      "sha1": "9e336bbe021c486dca2bb39f9597f07a1a9b9ddf",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    function Mehrfachauswahl(Prompt, Optionsliste: String; Trennzeichen: Char): TStringList;\n    ermöglicht die Auswahl mehrerer Elemente einer Auswahlliste\n|-\n|'''Parameter''' || \n    Prompt       - Eingabeaufforderung\n    Optionsliste - Liste der verfügbaren Optionen\n    Trennzeichen - Trennt die Optionen in der Liste voneinander\n|-\n|'''Rückgabewert''' ||\n    Eine Stringliste mit den gewählten Optionen\n|- \n|'''Beispiel''' || \n    procedure DetailBeforePrint;\n    begin\n      Memo1.Lines:=MehrfachAuswahl('Bitte wählen Sie eine oder mehrere Optionen:',\n        'Option 1;Option 2;Option 3',';');\n    end\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-03-24T14:29:01Z",
+  "lastrevid": 1842,
+  "length": 737
+}

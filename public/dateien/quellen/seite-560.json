@@ -1,0 +1,30 @@
+{
+  "pageid": 560,
+  "ns": 6,
+  "title": "Datei:KM2 parameter allgemein sonst.png",
+  "revisions": [
+    {
+      "revid": 2216,
+      "parentid": 0,
+      "user": "UBlomeyer",
+      "timestamp": "2014-05-21T17:59:08Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-05-21T18:08:33Z",
+  "lastrevid": 2216,
+  "length": 0,
+  "new": ""
+}

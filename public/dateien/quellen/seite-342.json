@@ -1,0 +1,29 @@
+{
+  "pageid": 342,
+  "ns": 0,
+  "title": "Datei",
+  "revisions": [
+    {
+      "revid": 1539,
+      "parentid": 1517,
+      "user": "UMertsch",
+      "timestamp": "2014-03-04T21:06:55Z",
+      "sha1": "21a05ab21561a7f392253f66bd032b284d055d92",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Mit diesem Menü gelangen Sie an folgende Funktionen:\n\n;Drucker einrichten\n\nHier können Sie die Standardeinstellungen für den Drucker beeinflussen.\n\n;Datenbank reparieren und komprimieren\n\nDiese Funktion steht seit der Version 2.0.7.1 unter \"Datei\" zur Verfügung.\nDabei wird, wenn Sie der einzige angemeldete User an der Datenbank sind, das Komprimierungstool für Access-Datenbanken von Microsoft aufgerufen.\nEs hat sich in der Praxis gezeigt, dass Access-Datenbanken sich nach dieser Reparatur gerade in Netzwerkumgebungen deutlich beschleunigen lassen!\n\nFühren Sie diese Funktion regelmäßig vor größeren Datenbank-Arbeiten oder Druckaufträgen (im Netzwerk) durch.\n\nDiese Funktion steht nur bei Access zur Verfügung!\n\n;Benutzer wechseln\n\nMeldet den aktuellen User ab und einen neuen User (evtl. mit anderen Berechtigungen) an.\n\n;Schließen\n\nBeendet das Programm.\n\n\n\n----\n\n\n[[Schild-NRW-Index|Zurück zu Schild-NRW-Index]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-03-04T21:06:55Z",
+  "lastrevid": 1539,
+  "length": 933
+}

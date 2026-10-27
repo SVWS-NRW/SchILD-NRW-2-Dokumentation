@@ -1,0 +1,29 @@
+{
+  "pageid": 1333,
+  "ns": 6,
+  "title": "Datei:ASDPC Extract.png",
+  "revisions": [
+    {
+      "revid": 5205,
+      "parentid": 5204,
+      "user": "FFrodermann",
+      "timestamp": "2022-01-03T13:32:09Z",
+      "sha1": "e0bf852879ac497b7d4bf541e7176be20661615e",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "== Beschreibung ==\nASDPC Extract Installation Files"
+        }
+      },
+      "comment": "FFrodermann lud eine neue Version von [[Datei:ASDPC Extract.png]] hoch"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-01-04T09:00:12Z",
+  "lastrevid": 5205,
+  "length": 51
+}

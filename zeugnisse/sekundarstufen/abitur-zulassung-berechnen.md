@@ -19,4 +19,4 @@ Für einen einzelnen Schüler kann der Prozess auch unter dem Karteireiter "Abit
 
 ---
 
-Quelle: [Abitur-Zulassung berechnen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Abitur-Zulassung+berechnen&oldid=2029) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Abitur-Zulassung+berechnen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-490) · [Abitur-Zulassung berechnen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Abitur-Zulassung+berechnen&oldid=2029)

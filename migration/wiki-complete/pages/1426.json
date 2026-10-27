@@ -1,0 +1,30 @@
+{
+  "pageid": 1426,
+  "ns": 8,
+  "title": "MediaWiki:Barr-erkl-link",
+  "revisions": [
+    {
+      "revid": 5931,
+      "parentid": 0,
+      "user": "AStassek",
+      "timestamp": "2024-07-22T11:20:29Z",
+      "sha1": "1f75abbe5f6db6ab712964efa5139e023bea5894",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Erklärung zur Barrierefreiheit"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „Erklärung zur Barrierefreiheit“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2024-07-22T11:20:29Z",
+  "lastrevid": 5931,
+  "length": 31,
+  "new": ""
+}

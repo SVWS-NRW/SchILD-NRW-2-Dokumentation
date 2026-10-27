@@ -1,0 +1,29 @@
+{
+  "pageid": 158,
+  "ns": 0,
+  "title": "Vorhandene Filterdefinition löschen",
+  "revisions": [
+    {
+      "revid": 971,
+      "parentid": 890,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-01-27T11:48:55Z",
+      "sha1": "192e2c8e554f001fe8fb70fc18c5e0bc085ae7e9",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "\n\n[[File:Filterloeschen.jpg|rechts|400px]]\nWerden vorhandene gespeicherte Attributsfilter oder auch allgemeine Filter nicht mehr benötigt, kann man sie unter diesem Menüpunkt löschen.\n\n\nNach Auswahl des Menüpunktes erscheint die Maske \"Filterdefinition speichern\", aus der man den zu löschenden Filter auswählen kann. Nach Klicken auf den Button \"Löschen\" erfolgt eine Sicherheitsabfrage, die man zum endgültigen Löschen der Filterdefinition mit \"Ja\" bestätigen muss.\nDie gespeicherte Filterdefinition wird aus der Liste ausgetragen und das Fenster schließt sich automatisch.\n\nDurch Klicken auf \"Abbrechen\" kann die Maske auch ohne Veränderungen verlassen werden.\n\n\n----\n\n\n[[Auswahl|Zurück zu Auswahl]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-01-27T11:48:55Z",
+  "lastrevid": 971,
+  "length": 715
+}

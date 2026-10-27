@@ -39,4 +39,4 @@ RichText1.RichText:=EditRichText('Hier den Text eingeben!');
 
 ---
 
-Quelle: [EditRichText – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=EditRichText&oldid=36) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=EditRichText&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-17) · [EditRichText – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=EditRichText&oldid=36)

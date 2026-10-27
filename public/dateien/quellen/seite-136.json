@@ -1,0 +1,30 @@
+{
+  "pageid": 136,
+  "ns": 0,
+  "title": "StatistikKuerzelAusFachKuerzel",
+  "revisions": [
+    {
+      "revid": 265,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-12T15:03:54Z",
+      "sha1": "84b3bda4c983cfee247ead5a4899748190bfc1e2",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n Function StatistikKuerzelAusFachKuerzel ( const fach_krz: string): string;\n Ermittelt das Statistik-Kürzel eines Faches aus dem internen Fachkürzel. Damit kann\n z.B. ermittelt werden, um was für ein Fach es sich im Einzelfall handelt (unabhängig\n von der jeweils internen Bezeichnung). Dadurch können Reports, die bestimmte\n Fächer auswerten, unabhängig von der internen Bezeichnung gemacht werden.\n|-\n|'''Parameter''' || \n    fach_krz: Das interne Fachkürzel\n|-\n|'''Rückgabewert''' ||\n    Statistikkürzel als String\n|- \n|'''Beispiel''' || \n If StatistikKuerzelAusFachKuerzel(SchuelerLeistungen[’FachKrz’]) =’D’\n then ShowMessage( ’Das Fach ist DEUTSCH’ );\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||   Function StatistikKuerzelAusFachKuerzel ( const fach_krz: string): string;  …“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-12T15:03:54Z",
+  "lastrevid": 265,
+  "length": 803,
+  "new": ""
+}

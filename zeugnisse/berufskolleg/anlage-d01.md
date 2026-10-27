@@ -82,4 +82,4 @@ Zurück zu Anlage D
 
 ---
 
-Quelle: [Anlage D01 – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Anlage+D01&oldid=4196) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Anlage+D01&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1135) · [Anlage D01 – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Anlage+D01&oldid=4196)

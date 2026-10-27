@@ -1,0 +1,30 @@
+{
+  "pageid": 203,
+  "ns": 6,
+  "title": "Datei:Container re Maus.jpg",
+  "revisions": [
+    {
+      "revid": 564,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-12-11T15:35:03Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-12-11T15:41:59Z",
+  "lastrevid": 564,
+  "length": 0,
+  "new": ""
+}

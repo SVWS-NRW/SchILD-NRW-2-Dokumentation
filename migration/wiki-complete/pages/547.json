@@ -1,0 +1,30 @@
+{
+  "pageid": 547,
+  "ns": 6,
+  "title": "Datei:KM2 BemerkungsFelder.png",
+  "revisions": [
+    {
+      "revid": 2203,
+      "parentid": 0,
+      "user": "UBlomeyer",
+      "timestamp": "2014-05-21T17:53:57Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-05-21T18:10:04Z",
+  "lastrevid": 2203,
+  "length": 0,
+  "new": ""
+}

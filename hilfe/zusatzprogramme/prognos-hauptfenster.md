@@ -246,4 +246,4 @@ Als Standard ist die Reihenfolge HA bis MSAQ eingestellt, diese Reihenfolge kann
 
 ---
 
-Quelle: [Prognos:Hauptfenster – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Prognos%3AHauptfenster&oldid=5111) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Prognos%3AHauptfenster&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1249) · [Prognos:Hauptfenster – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Prognos%3AHauptfenster&oldid=5111)

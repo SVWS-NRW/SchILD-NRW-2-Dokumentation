@@ -44,4 +44,4 @@ End;
 
 ---
 
-Quelle: [LernfelderZuFachklasse – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LernfelderZuFachklasse&oldid=172) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=LernfelderZuFachklasse&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-123) · [LernfelderZuFachklasse – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LernfelderZuFachklasse&oldid=172)

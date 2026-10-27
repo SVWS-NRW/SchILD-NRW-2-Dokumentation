@@ -3,8 +3,6 @@
 - [Noten, Zeugnisvorbereitung](/zeugnisse/vorbereitung/noten-zeugnisvorbereitung)
 - [Zeugnisvorbereitungen und Druck](/zeugnisse/vorbereitung/zeugnisvorbereitungen-und-druck)
 - [Akt. Halbjahr](/zeugnisse/vorbereitung/akt-halbjahr)
-- [Benutzung des externen Notenmoduls](/zeugnisse/vorbereitung/benutzung-des-externen-notenmoduls)
-- [Externes Notenmodul](/zeugnisse/vorbereitung/externes-notenmodul)
 - [Excel-Notendateien](/zeugnisse/vorbereitung/excel-notendateien)
 - [Import der Zeugnisformulare in Schild-NRW](/zeugnisse/vorbereitung/import-der-zeugnisformulare-in-schild-nrw)
 - [Angaben für Ankreuzzeugnisse/-kompetenzen](/zeugnisse/vorbereitung/angaben-fuer-ankreuzzeugnisse-kompetenzen)

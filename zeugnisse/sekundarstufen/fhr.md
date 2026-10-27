@@ -15,4 +15,4 @@ Der Karteireiter **FHR** wird nur bei den Schülern angezeigt, die das Abitur an
 
 ---
 
-Quelle: [FHR – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FHR&oldid=1942) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=FHR&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-442) · [FHR – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FHR&oldid=1942)

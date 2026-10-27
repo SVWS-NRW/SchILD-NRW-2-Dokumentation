@@ -1,0 +1,30 @@
+{
+  "pageid": 363,
+  "ns": 6,
+  "title": "Datei:GP-Sprachenfolgezuweisen.jpg",
+  "revisions": [
+    {
+      "revid": 1573,
+      "parentid": 0,
+      "user": "Mhoffmann",
+      "timestamp": "2014-03-05T12:12:29Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-03-05T12:12:59Z",
+  "lastrevid": 1573,
+  "length": 0,
+  "new": ""
+}

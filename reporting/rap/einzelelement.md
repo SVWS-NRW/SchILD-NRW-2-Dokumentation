@@ -46,4 +46,4 @@ if einzelelement( txt, ',', 2 ) = '2' then
 
 ---
 
-Quelle: [EinzelElement – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=EinzelElement&oldid=164) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=EinzelElement&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-119) · [EinzelElement – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=EinzelElement&oldid=164)

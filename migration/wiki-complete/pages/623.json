@@ -1,0 +1,29 @@
+{
+  "pageid": 623,
+  "ns": 0,
+  "title": "Report aus Archiv drucken",
+  "revisions": [
+    {
+      "revid": 2432,
+      "parentid": 2421,
+      "user": "BPanzlaff",
+      "timestamp": "2014-08-11T13:22:20Z",
+      "sha1": "725d2802761b3d37b6a1c94e1b8f3ebc757cf953",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Wenn Sie den Menüpunkt '''Aus Archiv drucken''' ausgewählt haben, erwartet das Programm nach einer Schild-NRW-spezifischen Archivdatei mit der Endung *.raf. Sie wechseln jetzt in den Ordner, in dem Sie die Archivdatei abgespeichert haben, und wählen die gewünschte Datei aus.\n\n\n[[Datei:raf-Datei-Beispiel.png]]\n\n\nNach dem Öffnen erhalten Sie auf dem Bildschirm eine Vorschau des ausgewählten Dokumentes, das Sie in gewohnter Weise ausdrucken können.\n\n\nArchivdateien werden mit Hilfe der Druckausgabe erzeugt, indem man das Druckergebnis in eine Datei des Typs '''Archivdatei''' drucken lässt. Informationen finden Sie hier: [[Reportexplorer aufrufen]]\n\n\n\n\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Druckausgabe|Zurück zu Druckausgabe]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-08-11T13:22:20Z",
+  "lastrevid": 2432,
+  "length": 739
+}

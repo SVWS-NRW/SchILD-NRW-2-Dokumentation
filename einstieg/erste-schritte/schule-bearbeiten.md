@@ -117,4 +117,4 @@ Standardeinstellung ist 45 Minuten. Hier kann allerdings auf ein anderes Minuten
 
 ---
 
-Quelle: [Schule bearbeiten – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schule+bearbeiten&oldid=3867) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schule+bearbeiten&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-206) · [Schule bearbeiten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schule+bearbeiten&oldid=3867)

@@ -90,4 +90,4 @@ Im Fenster „Abgleich Kurse/SchILD-Kurse“ kann der Export auch für andere Zw
 
 ---
 
-Quelle: [S1PLAN:Übernahme von Kursen aus Schild – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=S1PLAN%3A%C3%9Cbernahme+von+Kursen+aus+Schild&oldid=4073) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=S1PLAN%3A%C3%9Cbernahme+von+Kursen+aus+Schild&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1090) · [S1PLAN:Übernahme von Kursen aus Schild – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=S1PLAN%3A%C3%9Cbernahme+von+Kursen+aus+Schild&oldid=4073)

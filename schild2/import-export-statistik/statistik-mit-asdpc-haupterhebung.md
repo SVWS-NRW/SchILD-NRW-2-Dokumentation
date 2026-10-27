@@ -605,4 +605,4 @@ Mitunter sind noch weitere "Weitere Belege" in Ihrer Statistik auszufüllen oder
 
 ---
 
-Quelle: [Statistik mit ASDPC Haupterhebung – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC+Haupterhebung&oldid=5313) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC+Haupterhebung&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1343) · [Statistik mit ASDPC Haupterhebung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC+Haupterhebung&oldid=5313)

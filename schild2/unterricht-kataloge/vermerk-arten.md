@@ -25,4 +25,4 @@ Die Merkmale bei "Schule bearbeiten" hingegen umfassen schulisch-organisatorisch
 
 ---
 
-Quelle: [Vermerk-Arten – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Vermerk-Arten&oldid=1622) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Vermerk-Arten&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-373) · [Vermerk-Arten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Vermerk-Arten&oldid=1622)

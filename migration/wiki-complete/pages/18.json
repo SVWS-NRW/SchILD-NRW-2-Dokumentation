@@ -1,0 +1,30 @@
+{
+  "pageid": 18,
+  "ns": 0,
+  "title": "EditRichTextEx",
+  "revisions": [
+    {
+      "revid": 37,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T14:32:27Z",
+      "sha1": "37373853af64b36ef756e1272623644b3d5a3a02",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    function EditRichTextEx(const Default: String; const aCaption: String): String;\n|-\n|'''Parameter''' || \n    Default            - Zu bearbeitender Richtext, kann auch leer sein\n    aCaption           - Überschrift, wird im Titelbalken des Editorfensters angezeigt\n|-\n|'''Rückgabewert''' ||\n    Veränderter Richtext\n|- \n|'''Beispiel''' || \n    RichText1.RichText:=EditRichTextEx('','Zeugnisbemerkung');\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      function EditRichTextEx(const Default: String; const aCaption: String): S…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T14:32:27Z",
+  "lastrevid": 37,
+  "length": 531,
+  "new": ""
+}

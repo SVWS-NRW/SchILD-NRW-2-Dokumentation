@@ -140,4 +140,4 @@ Angezeigtes Schuljahr 2013 / Angezeigte Klasse 10a. Laut Versetzungstabelle der 
 
 ---
 
-Quelle: [KM2 - Parameter - Allgemein – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=KM2+-+Parameter+-+Allgemein&oldid=2984) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=KM2+-+Parameter+-+Allgemein&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-574) · [KM2 - Parameter - Allgemein – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=KM2+-+Parameter+-+Allgemein&oldid=2984)

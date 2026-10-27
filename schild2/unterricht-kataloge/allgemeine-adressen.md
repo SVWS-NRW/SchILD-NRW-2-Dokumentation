@@ -25,4 +25,4 @@ Die Registerkarte enthält die Karteireiter Übersicht und Details (siehe rechts
 
 ---
 
-Quelle: [Allgemeine Adressen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Allgemeine+Adressen&oldid=547) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Allgemeine+Adressen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-195) · [Allgemeine Adressen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Allgemeine+Adressen&oldid=547)

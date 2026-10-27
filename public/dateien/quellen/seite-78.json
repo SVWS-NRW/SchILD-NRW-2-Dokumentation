@@ -1,0 +1,29 @@
+{
+  "pageid": 78,
+  "ns": 0,
+  "title": "SelectFromList",
+  "revisions": [
+    {
+      "revid": 6033,
+      "parentid": 99,
+      "user": "JRaffenberg",
+      "timestamp": "2025-07-14T09:59:47Z",
+      "sha1": "921aa1967bac6271d7698f530fb52e95f9054293",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    function SelectFromList(Caption, Optionlist, Default: String): String;\n    ermöglicht die Auswahl eines Elemente aus einer Dropdown-Liste\n|-\n|'''Parameter''' || \n    Caption      - Titel des Dialoges\n    Optionslist  - Liste der verfügbaren Optionen\n    Default      - voreingestellter Rückgabewert\n|-\n|'''Rückgabewert''' ||\n    Die gewählte Option\n|- \n|'''Beispiel''' || \n    Procedure ReportBeforePrint;\n    var\n      lSchulform : String;\n    begin\n      lSchulform:=SelectFromlist('Bitte Schulform wählen',\n      'Gymnasium,Realschule,Hauptschule','Realschule');\n      ...\n    end;\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2025-07-14T09:59:47Z",
+  "lastrevid": 6033,
+  "length": 718
+}

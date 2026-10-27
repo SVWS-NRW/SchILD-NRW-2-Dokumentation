@@ -39,4 +39,4 @@ Siehe „SelectAdressName“
 
 ---
 
-Quelle: [FilterAdresse – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FilterAdresse&oldid=46) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=FilterAdresse&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-25) · [FilterAdresse – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FilterAdresse&oldid=46)

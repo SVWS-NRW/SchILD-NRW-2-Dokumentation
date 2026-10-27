@@ -155,4 +155,4 @@ Die Änderungen an den Leistungsdaten - sowohl Noten als auch Bemerkungstexte we
 
 ---
 
-Quelle: [Modulbenutzung – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Modulbenutzung&oldid=2986) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Modulbenutzung&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-575) · [Modulbenutzung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Modulbenutzung&oldid=2986)

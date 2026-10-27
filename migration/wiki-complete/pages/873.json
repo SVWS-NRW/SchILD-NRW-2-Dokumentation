@@ -1,0 +1,29 @@
+{
+  "pageid": 873,
+  "ns": 6,
+  "title": "Datei:Lupo schild unterrichtsfaecher 2.png",
+  "revisions": [
+    {
+      "revid": 4095,
+      "parentid": 3319,
+      "user": "JRaffenberg",
+      "timestamp": "2017-03-10T11:15:00Z",
+      "sha1": "de481b2845f365ceb2c9ecb05123236f19943146",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Das Bild zeigt den Dialog \"Unterrichtsfächer bearbeiten\" in Schild-NRW. Der Reiter \"Details\" ist aktiv."
+        }
+      },
+      "comment": "JRaffenberg lud eine neue Version von „[[Datei:Lupo schild unterrichtsfaecher 2.png]]“ hoch: kleine Änderungen"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2017-03-10T11:15:00Z",
+  "lastrevid": 4095,
+  "length": 104
+}

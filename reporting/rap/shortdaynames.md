@@ -39,4 +39,4 @@ Label27.Caption:=ShortDayNames(1); (*Son*)
 
 ---
 
-Quelle: [ShortDayNames – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ShortDayNames&oldid=123) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=ShortDayNames&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-99) · [ShortDayNames – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ShortDayNames&oldid=123)

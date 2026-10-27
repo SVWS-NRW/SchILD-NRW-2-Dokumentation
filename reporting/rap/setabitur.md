@@ -49,4 +49,4 @@ end;
 
 ---
 
-Quelle: [SetAbitur – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetAbitur&oldid=108) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetAbitur&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-84) · [SetAbitur – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetAbitur&oldid=108)

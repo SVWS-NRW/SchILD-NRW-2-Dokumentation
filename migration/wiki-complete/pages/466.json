@@ -1,0 +1,30 @@
+{
+  "pageid": 466,
+  "ns": 6,
+  "title": "Datei:GP-Klassenunterrichtbearbeiten.jpg",
+  "revisions": [
+    {
+      "revid": 1906,
+      "parentid": 0,
+      "user": "Mhoffmann",
+      "timestamp": "2014-03-31T06:26:26Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-03-31T06:41:50Z",
+  "lastrevid": 1906,
+  "length": 0,
+  "new": ""
+}

@@ -65,4 +65,4 @@ Die einzelnen Menüpunkte werden im Folgenden beschrieben.
 
 ---
 
-Quelle: [Schulverwaltung – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schulverwaltung&oldid=5138) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schulverwaltung&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-204) · [Schulverwaltung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schulverwaltung&oldid=5138)

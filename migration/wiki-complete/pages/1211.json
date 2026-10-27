@@ -1,0 +1,30 @@
+{
+  "pageid": 1211,
+  "ns": 0,
+  "title": "C01 Berufsabschluss/Fachhochschulreife (ohne Berufspraktikum) BAB/FHR 3j; VZ",
+  "revisions": [
+    {
+      "revid": 4762,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2021-04-22T11:05:11Z",
+      "sha1": "18f1f107dee65bf84da1620033dd5043e083c535",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "[[Datei:BK Abschluss C01.png]]"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „[[Datei:BK Abschluss C01.png]]“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2021-04-22T11:05:11Z",
+  "lastrevid": 4762,
+  "length": 30,
+  "new": ""
+}

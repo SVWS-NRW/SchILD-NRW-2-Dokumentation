@@ -1,0 +1,29 @@
+{
+  "pageid": 359,
+  "ns": 0,
+  "title": "Vermerke/Merkmale löschen",
+  "revisions": [
+    {
+      "revid": 2042,
+      "parentid": 1902,
+      "user": "UMertsch",
+      "timestamp": "2014-04-02T08:24:51Z",
+      "sha1": "7ac4e41ecbf1d95e84cbdfb26fc646797080147d",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Dieser Gruppenprozess bietet Ihnen die Möglichkeit, bestimmte Vermerke oder Merkmale gleich bei einer größeren Menge (aktuelle Auswahl) von Schülern gleichzeitig zu löschen.\n\n[[Image:GP-Vermerkeloeschen.jpg|400px]] \n\n\nDazu auswählen, ob Vermerk oder Merkmal gelöscht werden soll, und dann den zu löschenden Vermerk bzw. das zu löschende Merkmal auswählen.\n\nEinzelne, sehr individuelle Eintragungen löschen Sie einfacher beim betreffenden Schüler selbst.\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Allgemeines|Zurück zu Allgemeines]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-04-02T08:24:51Z",
+  "lastrevid": 2042,
+  "length": 539
+}

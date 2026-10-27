@@ -66,4 +66,4 @@ Grundsätzlich gilt folgendes:
 
 ---
 
-Quelle: [Mailversand aus der Reporting – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Mailversand+aus+der+Reporting&oldid=4731) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Mailversand+aus+der+Reporting&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1185) · [Mailversand aus der Reporting – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Mailversand+aus+der+Reporting&oldid=4731)

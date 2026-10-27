@@ -21,4 +21,4 @@ Diese Vorgehensweise hat den Vorteil, dass Zuständigkeiten für einzelne Klasse
 
 ---
 
-Quelle: [Benutzerverwaltung – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Benutzerverwaltung&oldid=3047) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Benutzerverwaltung&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-573) · [Benutzerverwaltung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Benutzerverwaltung&oldid=3047)

@@ -46,4 +46,4 @@ Procedure DetailBeforePrint;
 
 ---
 
-Quelle: [ReplaceStandardVar – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ReplaceStandardVar&oldid=83) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=ReplaceStandardVar&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-62) · [ReplaceStandardVar – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ReplaceStandardVar&oldid=83)

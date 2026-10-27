@@ -1,0 +1,29 @@
+{
+  "pageid": 159,
+  "ns": 0,
+  "title": "Attributsfilter",
+  "revisions": [
+    {
+      "revid": 1185,
+      "parentid": 1176,
+      "user": "Mhoffmann",
+      "timestamp": "2014-02-03T09:43:04Z",
+      "sha1": "c73eba4cdc0751622cc5aa1b448ec693fc4606a8",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "[[File:Attributsfilter01.jpg|rechts|400px]]\n\nBei Verwendung des Attributsfilters sollte man sicherstellen, dass vorher alle aktiven Schüler der Schule im Zugriff sind. (Leuchtdiode ist grün).\n\nNach Auswahl dieses Menüpunktes erscheint die Maske \"Attributs-Filter definieren\", in der die Filterbedingungen über eine Optionsauswahl zusammengestellt werden können.\n\nFolgende Optionen stehen zur Verfügung:\n\n\n'''Status'''\n\nHier legt man durch die Aktivierung der entsprechenden Karteikästen fest, über welche Schülermenge ein Filter gelegt werden soll. \n\nAls Standardvorgabe ist \"Aktiv\" eingestellt.\n\n\n'''Klasse'''\n\nAus einer Liste der Klassenbezeichnungen kann ein Eintrag gewählt werden.\n\n\n'''Jahrgang'''\n\nAus einer Liste der Jahrgänge kann ein Eintrag gewählt werden.\n\n\n'''Kurs'''\nAus einer Liste der gebildeten Kurse kann ein Eintrag gewählt werden. \n\nEs werden jeweils in einer Zeile die Kursbezeichnung sowie der Jahrgang angezeigt.\n\n\n'''Optionsfelder mit den Optionen'''\n\nDas Optionsfeld \"Gelöscht\" hat die Standardoption nein, alle anderen Optionen in den Optionsfeldern sind auf \"ignorieren\" gesetzt. \n\nDurch die Aktivierung mit einem Klick auf entsprechende Optionen wird eine geänderte Filterbedingung für die Schülermenge eingestellt.\n\n\n'''Testen'''\n\nNach der Festlegung einer gewünschten Filterbedingung kann die gefilterte Schülermenge im [[Container|Schüler-Container]] kontrolliert werden.\n \nEin Informationshinweis gibt darüber Auskunft, wie viele Schüler die eingestellte Filterbedingung erfüllen.\n\nWerden keine Schüler für diese Filtereinstellung gefunden, so kann man wählen, ob man zur aktiven Schülermenge zurückkehren will oder ob man eine weitere Filterbedingung erstellen möchte.\n\n\n'''Übernehmen'''\n\nDie gefilterte Schülermenge steht im [[Container|Schüler-Container]] für eine weitere Bearbeitung zur Verfügung.\n\n\n'''Speichern'''\n\nEin Attributsfilter kann zur späteren Wiederanwendung gespeichert werden. Es erscheint die Maske \"Filterdefinition speichern\".\n\nIm Textfeld \"Name\" muss eine Kurzbezeichnung der erstellten Filterdefinition eingetragen werden. Im Textfeld \"Beschreibung\" kann optional eine kurze Beschreibung der Filterdefinition eingegeben werden.\n\nDurch Klicken auf \"Übernehmen\" wird die Filterdefinition gespeichert.\n\nEin weiteres Anwenden dieser Filterbedingung ist über [[Auswahl]] -> [[Vorhandene Filterdefinition laden]] möglich.\n\n\n'''Abbruch'''\n\nDer Filter kann verworfen werden. Das Fenster Attributs-Filter definieren schließt sich. Die aktive Schülermenge steht im [[Container|Schüler-Container]].\n\n[[File:Attributsfilter02.jpg|rechts|300px]]\n\n\nBesonderheit:\nWenn Schüler mit einer Löschmarkierung endgültig aus der Datenbank gelöscht werden sollen, so benötigt man diesen Filter, um diese zu löschenden Schüler sichtbar zu machen. Dazu setzt man nach Aufruf des Filters das Attribut 'gelöscht' auf 'Ja' und führt die Filterung durch. Anschließend ruft man in einem [[Gruppenprozesse|Gruppenprozess]] die Option 'Schülerdatensätze löschen' auf.\n\n\n\n\n\n\n----\n\n[[Auswahl|Zurück zu Auswahl]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-02-03T09:43:04Z",
+  "lastrevid": 1185,
+  "length": 3086
+}

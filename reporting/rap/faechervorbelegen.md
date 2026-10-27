@@ -47,4 +47,4 @@ unbedingt die Prozedur 'ResetFaechervorbelegung' aufgerufen werden!
 
 ---
 
-Quelle: [Faechervorbelegen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Faechervorbelegen&oldid=39) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Faechervorbelegen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-19) · [Faechervorbelegen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Faechervorbelegen&oldid=39)

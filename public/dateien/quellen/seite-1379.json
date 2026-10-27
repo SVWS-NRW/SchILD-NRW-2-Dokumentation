@@ -1,0 +1,30 @@
+{
+  "pageid": 1379,
+  "ns": 6,
+  "title": "Datei:MahnungDrucken2.png",
+  "revisions": [
+    {
+      "revid": 5666,
+      "parentid": 0,
+      "user": "JRaffenberg",
+      "timestamp": "2023-04-13T20:49:17Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2024-03-18T11:13:42Z",
+  "lastrevid": 5666,
+  "length": 0,
+  "new": ""
+}

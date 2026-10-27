@@ -80,4 +80,4 @@ Die Spalte "vorl. Abschlussnoten" wird auf max. ein Mangelhaft geprüft, außerd
 
 ---
 
-Quelle: [D01 Berufsabschluss/Allg. Hochschulreife (mit Berufspraktikum) (BAB/AHR 4j; VZ) – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=D01+Berufsabschluss%2FAllg.+Hochschulreife+%28mit+Berufspraktikum%29+%28BAB%2FAHR+4j%3B+VZ%29&oldid=4745) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=D01+Berufsabschluss%2FAllg.+Hochschulreife+%28mit+Berufspraktikum%29+%28BAB%2FAHR+4j%3B+VZ%29&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1196) · [D01 Berufsabschluss/Allg. Hochschulreife (mit Berufspraktikum) (BAB/AHR 4j; VZ) – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=D01+Berufsabschluss%2FAllg.+Hochschulreife+%28mit+Berufspraktikum%29+%28BAB%2FAHR+4j%3B+VZ%29&oldid=4745)

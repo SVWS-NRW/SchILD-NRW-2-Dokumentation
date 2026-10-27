@@ -1,0 +1,30 @@
+{
+  "pageid": 120,
+  "ns": 0,
+  "title": "SetQuartalsnotenInUebersicht",
+  "revisions": [
+    {
+      "revid": 166,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-06T09:39:52Z",
+      "sha1": "1e64d4699c6255ef24798a646c932fa5e05e8b8a",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    procedure SetQuartalsnotenInUebersicht( MitQuartalnoten: Boolean);\n    Steuert, ob in Leistungsübersichten auch Quartalsnoten erscheinen sollen\n|-\n|'''Parameter''' || \n    ...\n|-\n|'''Rückgabewert''' ||\n    ...\n|- \n|'''Beispiel''' || \n    procedure ReportBeforePrint;\n     begin\n      {Darstellung von Quartalsnoten einschalten}\n      SetQuartalsnotenInUebersicht( true );\n     End;\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      procedure SetQuartalsnotenInUebersicht( MitQuartalnoten: Boolean);     St…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-06T09:39:52Z",
+  "lastrevid": 166,
+  "length": 511,
+  "new": ""
+}

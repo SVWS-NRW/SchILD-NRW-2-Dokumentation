@@ -25,4 +25,4 @@ Mit Klicken auf "Änderung durchführen" werden die neuen Daten übernommen.
 
 ---
 
-Quelle: [Details zu Fächern bei Schülern ändern – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Details+zu+F%C3%A4chern+bei+Sch%C3%BClern+%C3%A4ndern&oldid=3614) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Details+zu+F%C3%A4chern+bei+Sch%C3%BClern+%C3%A4ndern&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-467) · [Details zu Fächern bei Schülern ändern – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Details+zu+F%C3%A4chern+bei+Sch%C3%BClern+%C3%A4ndern&oldid=3614)

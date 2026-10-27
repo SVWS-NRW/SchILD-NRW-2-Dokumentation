@@ -67,4 +67,4 @@ end;
 
 ---
 
-Quelle: [ReplaceDefault – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ReplaceDefault&oldid=82) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=ReplaceDefault&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-61) · [ReplaceDefault – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ReplaceDefault&oldid=82)

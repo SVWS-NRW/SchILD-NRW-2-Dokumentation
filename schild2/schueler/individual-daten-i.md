@@ -40,4 +40,4 @@ Hier können über ein Menü einige Funktionen erreicht werden:
 
 ---
 
-Quelle: [Individual-Daten I – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Individual-Daten+I&oldid=3714) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Individual-Daten+I&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-228) · [Individual-Daten I – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Individual-Daten+I&oldid=3714)

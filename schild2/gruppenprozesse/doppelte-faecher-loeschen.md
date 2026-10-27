@@ -19,4 +19,4 @@ Nach Durchlauf des Gruppenprozesses gibt SchILD eine Meldung, wie viele Fächere
 
 ---
 
-Quelle: [Doppelte Fächer löschen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Doppelte+F%C3%A4cher+l%C3%B6schen&oldid=1934) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Doppelte+F%C3%A4cher+l%C3%B6schen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-477) · [Doppelte Fächer löschen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Doppelte+F%C3%A4cher+l%C3%B6schen&oldid=1934)

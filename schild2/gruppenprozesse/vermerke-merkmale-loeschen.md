@@ -19,4 +19,4 @@ Einzelne, sehr individuelle Eintragungen löschen Sie einfacher beim betreffende
 
 ---
 
-Quelle: [Vermerke/Merkmale löschen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Vermerke%2FMerkmale+l%C3%B6schen&oldid=2042) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Vermerke%2FMerkmale+l%C3%B6schen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-359) · [Vermerke/Merkmale löschen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Vermerke%2FMerkmale+l%C3%B6schen&oldid=2042)

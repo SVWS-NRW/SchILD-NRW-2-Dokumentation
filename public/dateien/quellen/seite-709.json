@@ -1,0 +1,30 @@
+{
+  "pageid": 709,
+  "ns": 0,
+  "title": "GeRNiveauAusFachKrz",
+  "revisions": [
+    {
+      "revid": 2720,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2015-01-08T11:41:44Z",
+      "sha1": "0eae0b14954dee2b0a8921d14487e6ec80d0722a",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    function GeRNiveauAusFachKrz(FachKrz: String): String;\n    bestimmt das eingetragene Sprachniveau zum Fachkürzel aus der Sprachenfolge\n|-\n|'''Parameter''' || \n    FachKrz = Fachkürzel aus der Fächertabelle\n|-\n|'''Rückgabewert''' ||\n    Klartextname GeRNiveau\n|- \n|'''Beispiel''' || \n    GeRNiveauAusFachKrz('E5');\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      function GeRNiveauAusFachKrz(FachKrz: String): String;     bestimmt das e…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-01-08T11:41:44Z",
+  "lastrevid": 2720,
+  "length": 445,
+  "new": ""
+}

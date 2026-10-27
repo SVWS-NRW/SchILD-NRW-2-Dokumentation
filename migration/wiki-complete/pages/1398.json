@@ -1,0 +1,30 @@
+{
+  "pageid": 1398,
+  "ns": 6,
+  "title": "Datei:EintragKompetenzen.png",
+  "revisions": [
+    {
+      "revid": 5784,
+      "parentid": 0,
+      "user": "Joachim.Kleine",
+      "timestamp": "2024-03-17T12:48:27Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2024-03-17T13:10:52Z",
+  "lastrevid": 5784,
+  "length": 0,
+  "new": ""
+}

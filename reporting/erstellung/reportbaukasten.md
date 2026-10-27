@@ -12,7 +12,7 @@ wiki_revision: 4830
 
 Der Reportbaukasten soll Usern dabei behilflich sein, eigene Formulare nach einem Vorbild für bestimmte Zwecke erstellen zu können.
 
-Die Formulare können in einem ZIP-Archiv hier herunter geladen werden. **[Datei:Report-Baukasten.zip](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datei:Report-Baukasten.zip)**
+Die Formulare können in einem ZIP-Archiv hier herunter geladen werden. **[Datei:Report-Baukasten.zip](/quellen/wiki/seite-407)**
 
 Dabei werden Themengruppen herausgesucht und einige Beispielreports erstellt. Diese Reports sind möglichst einfach gehalten und enthalten auch sehr wenig Layout-Elemente. Sie sollen lediglich als Beispiele für die gewünschte Funktion dienen.
 
@@ -383,4 +383,4 @@ Im Ereignis *ReportBeforePrint* wird dafür *SetQuartalsnotenInUebersicht(true)*
 
 ---
 
-Quelle: [Reportbaukasten – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Reportbaukasten&oldid=4830) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Reportbaukasten&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-385) · [Reportbaukasten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Reportbaukasten&oldid=4830)

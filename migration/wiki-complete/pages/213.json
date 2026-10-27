@@ -1,0 +1,29 @@
+{
+  "pageid": 213,
+  "ns": 0,
+  "title": "Schnittstelle Schild-NRW",
+  "revisions": [
+    {
+      "revid": 913,
+      "parentid": 790,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-01-23T13:46:49Z",
+      "sha1": "8f9a3641f4b5cd91795836db701a4fa94a47ce36",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Die Schnittstelle Schild-NRW wurde ursprünglich zum Import bzw. Export der statistikrelevanten Daten eingeführt.\nMittlerweile lassen sich darüber aber die meisten (nicht alle!) Schüler- und Lehrerdaten importieren und exportieren. [[Image: Schnittstelle.jpg|rechts|300px]]\n\nDie Schnittstelle ist in Textdateien mit der Endung *.dat aufgebaut, die durch ein | (Pipe) als Trennzeichen gegliedert sind.\n\nDie Textdateien können im ANSI oder UTF-8 gespeichert werden, beide Formate werden eingelesen. Bitte achten Sie bei den UTF-8- (Unicode)- Dateien darauf, dass diese mit BOM (ByteOrderMark) gespeichert werden. \n(Dies ist bei einigen Tabellenprogrammen, z.B. LibreOffice, nicht immer der Fall.)\n\nDer Aufbau der Textdateien ist vorgegeben und kann in der '''[[Schnittstellenbeschreibung]]''' nachgeschlagen werden.\n\nIm Menü [[Schnittstelle Schild-NRW]] gibt es mehrere Unterpunkte.\n\n[[Export]]\n\n[[Import]]\n\n[[Export an Schulträger]]\n\n[[Aufnahmebestätigung importieren]]\n\nBitte lesen Sie die Beschreibungen in den jeweiligen Artikeln.\n\n\n----\n\n\n[[Datenaustausch|Zurück zu Datenaustausch]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-01-23T13:46:49Z",
+  "lastrevid": 913,
+  "length": 1093
+}

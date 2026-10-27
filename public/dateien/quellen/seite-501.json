@@ -1,0 +1,29 @@
+{
+  "pageid": 501,
+  "ns": 0,
+  "title": "Lernabschnitt individuell anlegen/bearbeiten",
+  "revisions": [
+    {
+      "revid": 3630,
+      "parentid": 2101,
+      "user": "Mhoffmann",
+      "timestamp": "2015-09-20T09:35:33Z",
+      "sha1": "27636c15e41174a7c784b9f83abe096bfe838254",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Mit diesem Gruppenprozess können Lernabschnitte neu angelegt oder bearbeitet werden. Dies kann nötig sein, wenn z.B. für einen neu aufgenommenen Schüler, der nicht in der Eingangsjahrgangsstufe an die Schule gekommen ist, vergangene Abschnitte angelegt werden müssen.\n\nEs öffnet sich das Fenster \"Halbjahr anlegen\". Dort sind alle nötigen Eintragungen vorzunehmen, die für einen Lernabschnitt nötig sind. Durch Klicken auf die Schaltfläche \"Übernehmen\" wird der Abschnitt neu angelegt bzw. geändert.\n\n:[[Image:GP-Lernabschnittindanlegen.jpg|Left|300px]]\n\n'''Hinweis:'''\nDas Häkchen bei \"In Schüler-Individualdaten übernehmen\" sollte nur dann gesetzt werden, wenn sich der Schüler danach in diesem Abschnitt befinden soll, d.h. durch Setzen dieses Häkchens wird der Schüler direkt in den gerade eingegebenen Abschnitt \"versetzt\".\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Lernabschnitte, Versetzung|Zurück zu Lernabschnitte, Versetzung]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-09-20T09:35:33Z",
+  "lastrevid": 3630,
+  "length": 950
+}

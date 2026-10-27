@@ -76,4 +76,4 @@ Bei den fachbezogenen Floskeln können ein Jahrgang und ein Niveau vergeben werd
 
 ---
 
-Quelle: [&quot;Floskeln&quot; bearbeiten – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=%22Floskeln%22+bearbeiten&oldid=3914) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=%22Floskeln%22+bearbeiten&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-374) · [&quot;Floskeln&quot; bearbeiten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=%22Floskeln%22+bearbeiten&oldid=3914)

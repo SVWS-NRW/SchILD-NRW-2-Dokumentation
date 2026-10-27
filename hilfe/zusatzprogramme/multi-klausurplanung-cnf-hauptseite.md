@@ -229,4 +229,4 @@ Rückimport der XML-Datei in Kurs42:
 
 ---
 
-Quelle: [Multi Klausurplanung CNF:Hauptseite – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Multi+Klausurplanung+CNF%3AHauptseite&oldid=4574) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Multi+Klausurplanung+CNF%3AHauptseite&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1164) · [Multi Klausurplanung CNF:Hauptseite – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Multi+Klausurplanung+CNF%3AHauptseite&oldid=4574)

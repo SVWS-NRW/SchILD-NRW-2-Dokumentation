@@ -44,4 +44,4 @@ Nach dem Setzen der Kreuze können die Zeugnisse mit den Reports der Reportsamml
 
 ---
 
-Quelle: [Angaben für Ankreuzzeugnisse/-kompetenzen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Angaben+f%C3%BCr+Ankreuzzeugnisse%2F-kompetenzen&oldid=5811) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Angaben+f%C3%BCr+Ankreuzzeugnisse%2F-kompetenzen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1397) · [Angaben für Ankreuzzeugnisse/-kompetenzen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Angaben+f%C3%BCr+Ankreuzzeugnisse%2F-kompetenzen&oldid=5811)

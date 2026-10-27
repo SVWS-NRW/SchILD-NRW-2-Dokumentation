@@ -44,4 +44,4 @@ wiki_revision: 4843
 
 ---
 
-Quelle: [LehrerDatenLaden – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LehrerDatenLaden&oldid=4843) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=LehrerDatenLaden&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-41) · [LehrerDatenLaden – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LehrerDatenLaden&oldid=4843)

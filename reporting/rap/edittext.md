@@ -42,4 +42,4 @@ end;
 
 ---
 
-Quelle: [EditText – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=EditText&oldid=408) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=EditText&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-162) · [EditText – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=EditText&oldid=408)

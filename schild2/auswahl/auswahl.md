@@ -42,4 +42,4 @@ Der Menüpunkt "Auswahl" bietet folgende Unterpunkte für die Filterung an:
 
 ---
 
-Quelle: [Auswahl – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Auswahl&oldid=3707) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Auswahl&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-147) · [Auswahl – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Auswahl&oldid=3707)

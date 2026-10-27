@@ -1,0 +1,29 @@
+{
+  "pageid": 148,
+  "ns": 0,
+  "title": "Individuelle Schülergruppe auswählen",
+  "revisions": [
+    {
+      "revid": 967,
+      "parentid": 489,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-01-27T11:47:04Z",
+      "sha1": "16391e674bc445952d874439eb93b172bc2969b7",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Nach dem Aufrufen dieses Menüpunkts wählt man die gewünschte Schülergruppe aus der Liste aus.\n\nNach dem Klick auf \"Übernehmen\" werden nur die Schüler dieser Gruppe im Schüler-Container angezeigt.\n\nAlle Operationen wie Listendruck, Anschreiben o. Ä. werden nun nur für diese Schülergruppe ausgeführt.\n\n\n----\n\n[[Auswahl|Zurück zu Auswahl]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-01-27T11:47:04Z",
+  "lastrevid": 967,
+  "length": 349
+}

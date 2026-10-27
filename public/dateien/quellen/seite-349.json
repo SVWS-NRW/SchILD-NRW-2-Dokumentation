@@ -1,0 +1,29 @@
+{
+  "pageid": 349,
+  "ns": 0,
+  "title": "Fotos neu skalieren",
+  "revisions": [
+    {
+      "revid": 1531,
+      "parentid": 1530,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-03-04T20:12:17Z",
+      "sha1": "254e0895c9fde8fb52304620600ba44a9fa37a12",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Schild-NRW verändert die Größe der Schüler und Lehrerfotos beim Einlesen in die Datenbank nach dem Wert, der unter [[Extras]] > [[Programm-Einstellungen]] > [[Programm-Einstellungen#Globale Einstellungen|Globale Einstellungen]] gesetzt worden ist.\n\nSollten Sie eine nachträgliche Skalierung der Fotos wünschen, so kann diese Funktion verwendet werden.\n\nBitte beachten Sie, dass eine \"Höherskalierung\" nicht möglich ist!\n\n\n----\n\n\n\n[[Extras|Zurück zu Extras]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-03-04T20:12:17Z",
+  "lastrevid": 1531,
+  "length": 466
+}

@@ -1,0 +1,29 @@
+{
+  "pageid": 875,
+  "ns": 6,
+  "title": "Datei:Lupo schild unterrichtsfaecher 4.png",
+  "revisions": [
+    {
+      "revid": 4097,
+      "parentid": 3323,
+      "user": "JRaffenberg",
+      "timestamp": "2017-03-10T11:19:53Z",
+      "sha1": "e42f76aa266f3e32a57f88f0a09acf2abcc1f8bc",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Das Bild zeigt den Dialog \"Einstellungen für Fächer der Oberstufe\" in Schild-NRW. Der Reiter \"Nicht mögliche Fächerkombinationen\" ist aktiv."
+        }
+      },
+      "comment": "JRaffenberg lud eine neue Version von „[[Datei:Lupo schild unterrichtsfaecher 4.png]]“ hoch: kleine Änderungen"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2017-03-10T11:19:53Z",
+  "lastrevid": 4097,
+  "length": 144
+}

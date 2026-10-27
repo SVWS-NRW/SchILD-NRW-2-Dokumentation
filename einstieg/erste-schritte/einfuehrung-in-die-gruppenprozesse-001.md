@@ -80,4 +80,4 @@ Problemstellung: Einer gesamten Klasse sollen die Klassenart, die Klassen-Organi
 
 ---
 
-Quelle: [Einführung in die Gruppenprozesse 001 – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Einf%C3%BChrung+in+die+Gruppenprozesse+001&oldid=3598) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Einf%C3%BChrung+in+die+Gruppenprozesse+001&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-646) · [Einführung in die Gruppenprozesse 001 – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Einf%C3%BChrung+in+die+Gruppenprozesse+001&oldid=3598)

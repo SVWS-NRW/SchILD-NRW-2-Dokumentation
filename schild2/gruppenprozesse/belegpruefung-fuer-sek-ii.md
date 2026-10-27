@@ -13,4 +13,4 @@ Dieser Gruppenprozess führt für die ausgewählte Schülermenge eine Belegprüf
 
 ---
 
-Quelle: [Belegprüfung für Sek. II – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Belegpr%C3%BCfung+f%C3%BCr+Sek.+II&oldid=2107) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Belegpr%C3%BCfung+f%C3%BCr+Sek.+II&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-510) · [Belegprüfung für Sek. II – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Belegpr%C3%BCfung+f%C3%BCr+Sek.+II&oldid=2107)

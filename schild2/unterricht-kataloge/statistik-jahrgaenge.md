@@ -89,4 +89,4 @@ Real-, Haupt-, Sekundarschulen
 
 ---
 
-Quelle: [Statistik-Jahrgänge – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik-Jahrg%C3%A4nge&oldid=3879) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik-Jahrg%C3%A4nge&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-232) · [Statistik-Jahrgänge – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik-Jahrg%C3%A4nge&oldid=3879)

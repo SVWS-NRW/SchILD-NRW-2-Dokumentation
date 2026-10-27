@@ -15,4 +15,4 @@ Die **Übersicht S II** ermöglicht den Überblick über alle dokumentierten Lei
 
 ---
 
-Quelle: [Übersicht S II – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=%C3%9Cbersicht+S+II&oldid=1940) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=%C3%9Cbersicht+S+II&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-436) · [Übersicht S II – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=%C3%9Cbersicht+S+II&oldid=1940)

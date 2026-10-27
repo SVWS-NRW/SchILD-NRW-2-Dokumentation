@@ -1,0 +1,29 @@
+{
+  "pageid": 83,
+  "ns": 0,
+  "title": "SelectStringEx",
+  "revisions": [
+    {
+      "revid": 5386,
+      "parentid": 5385,
+      "user": "JRaffenberg",
+      "timestamp": "2022-02-16T07:51:38Z",
+      "sha1": "ab477d84109a6e86e483d899c2da7830f098888c",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    function SelectStringEx(Prompt, Optionsliste: String; Trennzeichen: Char): String;\n|-\n|'''Parameter''' || \n    Prompt             - Hinweistext\n    Optionsliste       - Mit Trennzeichen separierte Liste von Daten, die in einem\n                         Auswahldialog angezeigt werden.\n    Trennzeichen       - Beliebig wählbar, darf nur nicht in den zu trennenden\n                         Datensätzen vorkommen\n|-\n|'''Rückgabewert''' ||\n    Gewählte Option.\n|- \n|'''Beispiel''' || \n    Procedure ReportBeforePrint;\n     var\n       lSchulform : String;\n     begin\n       lSchulform:=SelectStringEx('Bitte Schulform wählen',\n      'Gymnasium|Realschule|Hauptschule','|');\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "/* RAP-Funktion \"{{SEITENNAME}}\" */"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-02-16T07:51:38Z",
+  "lastrevid": 5386,
+  "length": 801
+}

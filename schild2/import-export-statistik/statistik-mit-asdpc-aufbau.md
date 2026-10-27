@@ -49,7 +49,7 @@ Haben Sie einmal den Modus "Erhebung Amtliche Schuldaten (ASDPC)" aufgerufen, bi
 ![ASDPC_Optionen](/bilder/wiki/asdpc-optionen-b494ae3a.png)
 
 - *Optionen*
-  - *Verzeichnisse* - Wählen Sie die Speicherorte für die Hauptdatenbank (ASDPC.mdb) sowie die benötigten weiteren Daten. Nutzen Sie ASDPC in einer Netzwerkumgebung ist es wichtig, diese Pfade korrekt zu nutzen. Lesen Sie hierzu die gesonderte Anleitung [ASDPC in einer Netzwerkumgebung nutzen](https://schulverwaltungsprogramme.msb.nrw.de/download/Anleitung-ASDPC_in_einer_Netzwerkumgebung_nutzen.pdf).
+  - *Verzeichnisse* - Wählen Sie die Speicherorte für die Hauptdatenbank (ASDPC.mdb) sowie die benötigten weiteren Daten. Nutzen Sie ASDPC in einer Netzwerkumgebung ist es wichtig, diese Pfade korrekt zu nutzen. Lesen Sie hierzu die gesonderte Anleitung [ASDPC in einer Netzwerkumgebung nutzen](/quellen/fehlende-downloads#anleitung-asdpc-in-einer-netzwerkumgebung-nutzen-pdf).
   - *Daten bei Programmstart sichern* - Bestätigen Sie mit einem Haken, wenn automatisch eine Sicherung beim Start von ASDPC angelegt werden soll. Sie finden die Sicherung im ASDPC-Installationsverzeichnis \ASD\sicherungen, also bei einer Installation auf Laufwerk C: z.B. bei C:\ASDPC32\ASD\Sicherungen.
   - *Unterrichtseinheiten in Minuten* - wird diese Option aktiviert, werden alle Angaben in der Unterrichtsverteilung (UVD) und den Lehrerdaten (LID) in Minuteneinheiten umgerechnet, d.h. sie werden mit 45 multipliziert, um der Standard-Einheitendauer zu entsprechend. **Vorsicht**: die Umrechnung gilt für *künftige* Importe der UVD.TXT, LEHRER.TXT und EXTERN.DAT. Das Einlesen von Abteilungsdaten oder Sicherungen kann zu Umrechnungsproblemen führen. Sollte weiterhin später wieder auf das Stundenmodell zurückgeschaltet werden, kann es zu Rundungsverlusten kommen.
   - *Farbeinstellung (Rotschwäche)* - ASDPC kann hier einen barrierefreien Modus für Rotschwäche geschaltet werden.
@@ -88,4 +88,4 @@ Zum Vergrößern klicken.
 
 ---
 
-Quelle: [Statistik mit ASDPC-Aufbau – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC-Aufbau&oldid=5254) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC-Aufbau&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1337) · [Statistik mit ASDPC-Aufbau – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC-Aufbau&oldid=5254)

@@ -1,0 +1,29 @@
+{
+  "pageid": 540,
+  "ns": 0,
+  "title": "KM2 002",
+  "revisions": [
+    {
+      "revid": 2187,
+      "parentid": 2186,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-05-21T16:19:42Z",
+      "sha1": "255940c169d4bf1170f446de536bbdbbbc1232bd",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "== Einrichtung des Programms ==\n\n\n\n\n\n----\n\n[[KM2_003|Weiter zu Bedienung vom KM2]]\n\n[[KM2_001|Zurück zum Installation]]\n\n[[Zusatzprogramme / Tools|Zurück zu Zusatzprogramme / Tools]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-05-21T16:21:23Z",
+  "lastrevid": 2187,
+  "length": 184
+}

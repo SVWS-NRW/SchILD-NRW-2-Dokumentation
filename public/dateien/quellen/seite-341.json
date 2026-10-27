@@ -1,0 +1,29 @@
+{
+  "pageid": 341,
+  "ns": 0,
+  "title": "Datensicherung",
+  "revisions": [
+    {
+      "revid": 1538,
+      "parentid": 1513,
+      "user": "UMertsch",
+      "timestamp": "2014-03-04T21:05:34Z",
+      "sha1": "9be3b3105a96f799a36e5257c36f957b704f8bf4",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Dieser Menüpunkt hilft Ihnen, in Schild-NRW eine einfache Sicherung der Datenbank durchzuführen. Damit besteht die Möglichkeit, vor oder nach größeren Arbeiten an der Datenbank eine schnelle Datensicherung durchzuführen.\n\nDie Datensicherung funktioniert nur, wenn Sie der einzige User (mit entsprechender Berechtigung) sind, der an der Datenbank angemeldet ist.\n\n[[Image: Datensicherung.jpg|Center|500px]]\n\nWählen Sie im linken Bereich des aufkommenden Fensters den Dateipfad, an dem die Sicherung abgelegt werden soll.\n\nRechts oben können Sie den Dateinamen bestimmen. Schild-NRW schlägt Ihnen eine Sicherung mit Tagesdatum vor.\n\nUm die Sicherung auszuführen, betätigen Sie bitte die entsprechende Schaltfläche.\n\nBitte beachten Sie, dass mit dieser Methode ausschließlich die Access-Datenbank gesichert werden kann.\n\nAlle anderen Dateien der Schild-NRW-Installation bleiben davon unberührt!\n\n'''Dateien, die bei dieser Methode verloren gehen können sind z.B.:'''\n\n* alle Reports (!)\n* Straßenkataloge, Haltestellenkataloge, die im Installationsverzeichnis liegen\n* E-Mail-Texte aus dem Schild-Verzeichnis\n* Admin-Einstellungen für Serverumgebungen\n* Word-Vorlagen oder Word-Zeugnisvorlagen aus dem Installationsverzeichnis\n\nBitte versichern Sie sich, dass diese Dateien zusätzlich in regelmäßigen Abständen auch gesichert werden.\n\nDie Sicherungsdatei ist eine gewöhnliche ZIP-Datei und kann mit allen gängigen Packprogrammen geöffnet werden!\n\nDa der Dateipfad in der ZIP-Datei mitgespeichert wird, kann das Schild-NRW-Tool [[Daten-Wiederherstellung]] die Datenbank auch wiederherstellen.\n\n\n----\n\n\n[[#top|Zum Seitenanfang]]\n\n[[Extras|Zurück zu Extras]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-03-04T21:05:34Z",
+  "lastrevid": 1538,
+  "length": 1677
+}

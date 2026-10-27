@@ -28,4 +28,4 @@ wiki_revision: 2371
 
 ---
 
-Quelle: [Shortcuts in Schild-NRW – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Shortcuts+in+Schild-NRW&oldid=2371) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Shortcuts+in+Schild-NRW&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-527) · [Shortcuts in Schild-NRW – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Shortcuts+in+Schild-NRW&oldid=2371)

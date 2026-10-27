@@ -1,0 +1,29 @@
+{
+  "pageid": 326,
+  "ns": 0,
+  "title": "Fachklassen",
+  "revisions": [
+    {
+      "revid": 1407,
+      "parentid": 1406,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-02-17T17:23:13Z",
+      "sha1": "9cd24f6e774413eee3e92ef128d50c9ee731eb0b",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Hier werden an den Berufskollegs die vorhandenen Fachklassen eingegeben.\n\nBitte beachten Sie, dass dieser Katalog aus der Statistik Datenbank (Statkue.mdb) gefüllt wird.\nIst die Fachklasse aber einmal übernommen, so wird in Schild-NRW eine eigene Tabelle geführt.\nSollte sich eine Bezeichnung also ändern, können Sie diese durchaus \"Per Hand\" ändern.\n\nSie können zu jeder Fachklasse die Lernfelder in einem Richtextfeld führen.\nDies ist eine Alternative zu der Eingabe bei den [[Unterrichtsfächer|Unterrichtsfächern]].\n\n[[Image:Fachklassen.jpg|center|700px]]\n\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Schulverwaltung|zurück zu Schulverwaltung]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-02-17T17:23:13Z",
+  "lastrevid": 1407,
+  "length": 651
+}

@@ -44,4 +44,4 @@ Procedure ReportBeforePrint;
 
 ---
 
-Quelle: [SetJgIntervall ASD – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetJgIntervall+ASD&oldid=113) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetJgIntervall+ASD&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-89) · [SetJgIntervall ASD – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetJgIntervall+ASD&oldid=113)

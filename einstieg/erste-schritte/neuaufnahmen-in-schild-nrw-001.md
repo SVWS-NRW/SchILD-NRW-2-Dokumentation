@@ -7,7 +7,7 @@ wiki_revision: 2591
 
 # Neuaufnahmen in Schild-NRW 001
 
-Die Beschreibung des Ablaufes "Neuaufnahmen in Schild-NRW" orientiert sich am Handbuch-Teil 1 aus dem Jahr 2003 ([\[1\]](http://www.svws.nrw.de/uploads/media/Handbuch_Teil_1.pdf)) und versucht die Neuerungen bis zur aktuellen Version aufzunehmen.\
+Die Beschreibung des Ablaufes "Neuaufnahmen in Schild-NRW" orientiert sich am Handbuch-Teil 1 aus dem Jahr 2003 ([\[1\]](/quellen/fehlende-downloads#handbuch-teil-1-pdf)) und versucht die Neuerungen bis zur aktuellen Version aufzunehmen.\
 
 Als Voraussetzung für die Neuaufnahme und damit für den Eintrag der Daten von Schülern müssen alle grundlegenden schulspezifischen Eintragungen in Schild-NRW erfolgt sein. Weitere Informationen hierzu finden Sie im Menü [Schulverwaltung](/schild2/unterricht-kataloge/schulverwaltung) und [Kataloge](/schild2/unterricht-kataloge/kataloge).\
 
@@ -33,4 +33,4 @@ Um den Statuswechsel durchzuführen, wählen Sie den Karteikasten Neuaufnahme au
 
 ---
 
-Quelle: [Neuaufnahmen in Schild-NRW 001 – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Neuaufnahmen+in+Schild-NRW+001&oldid=2591) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Neuaufnahmen+in+Schild-NRW+001&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-641) · [Neuaufnahmen in Schild-NRW 001 – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Neuaufnahmen+in+Schild-NRW+001&oldid=2591)

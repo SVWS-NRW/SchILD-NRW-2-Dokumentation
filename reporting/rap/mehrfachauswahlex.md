@@ -51,4 +51,4 @@ end
 
 ---
 
-Quelle: [MehrfachauswahlEx – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=MehrfachauswahlEx&oldid=5725) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=MehrfachauswahlEx&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-52) · [MehrfachauswahlEx – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=MehrfachauswahlEx&oldid=5725)

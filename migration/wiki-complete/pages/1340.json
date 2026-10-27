@@ -1,0 +1,29 @@
+{
+  "pageid": 1340,
+  "ns": 0,
+  "title": "Statistik mit ASDPC Fehlersuche",
+  "revisions": [
+    {
+      "revid": 5713,
+      "parentid": 5287,
+      "user": "FFrodermann",
+      "timestamp": "2023-11-16T11:04:11Z",
+      "sha1": "f1ac3bfc53fd08392b0aef2f5db419befbdcbfcf",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "==Fehlersuche - typische Fehler aus der Praxis==\n\nAuf der Folgenden Seite werden häufig auftretende Fehler beschrieben.\n\n__TOC__\n\n[[Statistik_mit_ASDPC|Zurück zur Hauptseite]]\n\n===Versand an eine inkorrekte Emailadresse===\n\nMöglicherweise wurde nicht an die korrekte Emailadresse versendet, diese entnehmen Sie bitten den von IT.NRW versendeten Unterlagen. Aus der Praxis sind aber folgende leicht zu passierende Fehler bekannt:\n\n* statistik.schule'''n'''@... ➥ hier ist das \"n\" zu viel.\n* statistik@.... ➥ hier fehlt \".schule\".\n* statisik@... ➥ diverse (!) mögliche Tippfehler des Wortes \"Statistik\".\n* schluessel.schule@... ➥ Möglicherweise vom Schlüsselaustausch im Mailprogramm gespeicherte Adresse.\n\nWeiterhin kommt es vor, dass Meldungen, die Mail habe nicht versandt werden können, übersehen.\n\n===Versand von inkorrekten Dateien===\n\nEs soll die Datei V4[SCHULNUMMER].[JAHR]X versendet werden. In der Praxis kann es vorkommen, dass stattdessen eine andere Datei verschickt wurde, z.B.\n\n* die Vorgabedaten\n* eine Statistikdatei aus einem vorherigen Schuljahr\n* eine Schlüsseldatei\n* eine Datenbank \"asdpc.mbd\", entweder als Original oder eine ihrer Sicherungsdateien\n* eine pdf-Datei, die für einen Papierausdruck erzeugt wurde\n* die Programmdatei ASDPC32.exe\n* es wurde vergessen, die Datei anzuhängen\n\n* die Statistik wurde mit einer Vorjahresversion von ASDPC erstellt\n\n===Keine Bestätigungsmail erhalten===\n\nHaben Sie die Statistik versandt, sollten Sie innerhalb der Arbeitszeiten von IT.NRW eine Bestätigungsmails des Eingangs erhalten. Falls Sie keine Bestätigung erhalten, kann dies u.A. diese Gründe haben:\n\n* der Maileingang bei IT.NRW wird erst am folgenden Werktag bearbeitet.\n* die Mail befindet sich noch im Postausgang der Mailsoftware.\n* die Statistik wurde an die falsche Emailadresse geschickt. Kontrollieren Sie bitte, ob Ihre Email korrekt verschickt wurde und ob Sie die korrekten Datei angehängt haben.\n\n===ASDPC auf einem Monitor mit hoher Auflösung===\n\nWird ASDPC auf einem Monitor mit hoher Auflösung ausgeführt, werden die Inhalte nicht korrekt dargestellt. In diesem Falle sind die Scrollbalken unten und rechts zu nutzen, um die Inhalte in den sichtbaren Bereich zu verschieben.\n\n[[File:ASDPC Fehler Monitor.png|300px]]\n\n===Fehler mit den Schlüsseln===\n\nSiehe hierzu die in der Praxis auftretenden Fehler im [[Statistik_mit_ASDPC-Schluesselmanagement#M.C3.B6gliche_Fehler_bei_Ver-_und_Entschl.C3.BCsselung|Schlüsselmanagenent]].\n\n----\n\n[[Statistik_mit_ASDPC|Zurück zur Hauptseite]]"
+        }
+      },
+      "comment": "/* Versand von inkorrekten Dateien */"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2023-11-16T11:04:11Z",
+  "lastrevid": 5713,
+  "length": 2544
+}

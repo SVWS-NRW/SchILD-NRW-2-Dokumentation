@@ -11,4 +11,4 @@ wiki_revision: 4768
 
 ---
 
-Quelle: [C06 Fachoberschule Kl. 12S (BK/FHR 1j; VZ) – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=C06+Fachoberschule+Kl.+12S+%28BK%2FFHR+1j%3B+VZ%29&oldid=4768) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=C06+Fachoberschule+Kl.+12S+%28BK%2FFHR+1j%3B+VZ%29&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1217) · [C06 Fachoberschule Kl. 12S (BK/FHR 1j; VZ) – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=C06+Fachoberschule+Kl.+12S+%28BK%2FFHR+1j%3B+VZ%29&oldid=4768)

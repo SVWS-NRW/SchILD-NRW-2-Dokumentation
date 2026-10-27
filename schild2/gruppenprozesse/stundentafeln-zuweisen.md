@@ -25,4 +25,4 @@ Die gewählten Fächer werden je nach Einstellung mit einem Mausklick auf "Über
 
 ---
 
-Quelle: [Stundentafeln zuweisen – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Stundentafeln+zuweisen&oldid=3612) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Stundentafeln+zuweisen&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-452) · [Stundentafeln zuweisen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Stundentafeln+zuweisen&oldid=3612)

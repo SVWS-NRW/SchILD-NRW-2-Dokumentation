@@ -1,0 +1,30 @@
+{
+  "pageid": 135,
+  "ns": 6,
+  "title": "Datei:Hauptfenster Schema.png",
+  "revisions": [
+    {
+      "revid": 255,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-08T15:19:28Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-08T15:20:59Z",
+  "lastrevid": 255,
+  "length": 0,
+  "new": ""
+}

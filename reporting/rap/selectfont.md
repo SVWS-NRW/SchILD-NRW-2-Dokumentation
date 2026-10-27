@@ -47,4 +47,4 @@ end;
 
 ---
 
-Quelle: [Selectfont – SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Selectfont&oldid=98) · [Bearbeitungsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Selectfont&action=history)
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-77) · [Selectfont – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Selectfont&oldid=98)
