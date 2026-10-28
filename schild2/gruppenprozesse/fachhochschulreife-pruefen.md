@@ -1,8 +1,10 @@
 ---
-title: "Fachhochschulreife prüfen"
+title: "Schulischen Teil der Fachhochschulreife prüfen"
 ---
 
-# Fachhochschulreife prüfen
+<a id="fachhochschulreife-prufen"></a>
+
+# Schulischen Teil der Fachhochschulreife prüfen
 
 Dieser Gruppenprozess steht nur für Schulen mit gymnasialer Oberstufe zur Verfügung.
 
@@ -10,7 +12,7 @@ Er überprüft unter Verwendung der eingetragenen Leistungsdaten das Erreichen d
 
 Die vollständige Fachhochschulreife setzt zusätzlich den berufspraktischen Teil voraus; siehe das [Merkblatt des Schulministeriums](https://www.schulministerium.nrw/sites/default/files/documents/Merkblatt-zum-Erwerb-der-Fachhochschulreife.pdf).
 
-Danach kann man die Ergebnisse unter dem Reiter [FHR](/zeugnisse/sekundarstufen/fhr) einsehen. Dort kann man den Prüfalgorithmus für den aktuellen Schüler erneut ausführen.
+Danach kann man die Ergebnisse unter dem Reiter [Schulischer Teil der Fachhochschulreife](/zeugnisse/sekundarstufen/fhr) einsehen. Dort kann man den Prüfalgorithmus für den aktuellen Schüler erneut ausführen.
 
 ------------------------------------------------------------------------
 

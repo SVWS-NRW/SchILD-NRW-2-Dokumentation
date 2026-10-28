@@ -1,8 +1,10 @@
 ---
-title: "Klassen-/Versetzungstabelle"
+title: "Klassen und Versetzungstabelle"
 ---
 
-# Klassen-/Versetzungstabelle
+<a id="klassen-versetzungstabelle"></a>
+
+# Klassen und Versetzungstabelle
 
 In der Klassen-/Versetzungstabelle werden alle Klassen, die in Schild-NRW Schülergruppen aufnehmen sollen, angelegt. Wie in allen Katalogen gibt es auch hier eine Benutzerdefinierte Sortierung und ein Merkmal für die Sichtbarkeit, damit Klassen, die zwar noch Schüler (Abgänger) enthalten, aber evtl. nicht mehr benötigt werden, ausgeblendet werden können.
 
@@ -32,7 +34,7 @@ Hier kann ein beliebiger Text eingetragen werden, der z.B. auf Reports genutzt w
 
 **Teilstandort**
 
-Besitzt die Schule mehrere Standorte, so werden diese unter [Schule bearbeiten](/einstieg/erste-schritte/schule-bearbeiten) mit aufsteigenden Buchstaben angelegt. Hier sollte der Teilstandort eingegeben werden, an dem die Klasse hauptsächlich unterrichtet wird. Der Teilstandort wird an die KLD mit der Sim.txt übermittelt.
+Besitzt die Schule mehrere Standorte, so werden diese unter [Schuldaten einrichten](/einstieg/erste-schritte/schule-bearbeiten) mit aufsteigenden Buchstaben angelegt. Hier sollte der Teilstandort eingegeben werden, an dem die Klasse hauptsächlich unterrichtet wird. Der Teilstandort wird an die KLD mit der Sim.txt übermittelt.
 
 **Sichtbar**
 
@@ -40,7 +42,7 @@ Regelt die Sichtbarkeit der Klasse bei der Arbeit mit Schild-NRW.
 
 **Noteneingabe gesperrt**
 
-Durch diesen Haken kann die Noteneingabe für eine Klasse komplett gesperrt werden. Ist der Haken gesetzt, kann kein Berechtigter Noten in den Leistungsdaten der Schüler in dieser Klasse verändern. Auch der Import der Noten aus dem Notenmodul wird dann nicht angenommen. (Der Haken "Noteneingabe gesperrt" unter [Schule bearbeiten](/einstieg/erste-schritte/schule-bearbeiten) bewirkt das Gleiche nur für alle Klassen auf einmal.)
+Durch diesen Haken kann die Noteneingabe für eine Klasse komplett gesperrt werden. Ist der Haken gesetzt, kann kein Berechtigter Noten in den Leistungsdaten der Schüler in dieser Klasse verändern. Auch der Import der Noten aus dem Notenmodul wird dann nicht angenommen. (Der Haken "Noteneingabe gesperrt" unter [Schuldaten einrichten](/einstieg/erste-schritte/schule-bearbeiten) bewirkt das Gleiche nur für alle Klassen auf einmal.)
 
 :::danger
 **Wichtig:**
@@ -50,7 +52,7 @@ Die folgenden Einträge werden von Schild-NRW genutzt, um bei der Versetzung die
 
 **Folge-Klasse**
 
-Tragen Sie hier eine Folgeklasse ein, wenn bei der Versetzung alle Schüler in diese versetzt werden sollen. Dabei wählt Schild-NRW dann auch den Jahrgang der Folgeklasse für die Versetzung aus. Ist keine Folgeklasse eingetragen, so verbleiben die Schüler in der Klasse bei der Versetzung. Schild-NRW versucht in diesem Fall den Folgejahrgang aus der Tabelle [Statistik-Jahrgänge](/schild2/unterricht-kataloge/statistik-jahrgaenge) zu bestimmen, wenn hier das "+"-Zeichen bei *Chronologisch* gesetzt ist. Im letzten Jahrgang der Schule bleiben die Folgeklassen-Einträge leer.
+Tragen Sie hier eine Folgeklasse ein, wenn bei der Versetzung alle Schüler in diese versetzt werden sollen. Dabei wählt Schild-NRW dann auch den Jahrgang der Folgeklasse für die Versetzung aus. Ist keine Folgeklasse eingetragen, so verbleiben die Schüler in der Klasse bei der Versetzung. Schild-NRW versucht in diesem Fall den Folgejahrgang aus der Tabelle [Statistikjahrgänge einrichten](/schild2/unterricht-kataloge/statistik-jahrgaenge) zu bestimmen, wenn hier das "+"-Zeichen bei *Chronologisch* gesetzt ist. Im letzten Jahrgang der Schule bleiben die Folgeklassen-Einträge leer.
 
 **Vorgänger-Klasse**
 
@@ -78,7 +80,7 @@ Hier wird der Bildungsgang eingetragen, in dem sich die Schüler der Klasse befi
 Diese Schaltfläche kann dazu genutzt werden, die Angaben der Klasse auf die zugehörigen Schüler zu übertragen. Dies kann auch für zurückliegende Abschnitte geschehen. Dieser Menüpunkt ist bei Datenimporten aus anderen Schulverwaltungsprogrammen sehr hilfreich!
 :::
 
-[Versetzungstabelle bei jahrgangsübergreifenden Klassen](/schild2/versetzung/versetzungstabelle-bei-jahrgangsuebergreifenden-klassen)
+[Versetzung jahrgangsübergreifender Klassen](/schild2/versetzung/versetzungstabelle-bei-jahrgangsuebergreifenden-klassen)
 
 ------------------------------------------------------------------------
 

@@ -1,8 +1,10 @@
 ---
-title: "Kurs42:Versionsgeschichte"
+title: "Änderungshistorie von Kurs42"
 ---
 
-# Kurs42:Versionsgeschichte
+<a id="kurs42-versionsgeschichte"></a>
+
+# Änderungshistorie von Kurs42
 
 <a id="09.04.2025_(Kursversion:_3.33.30.528,_Kurs-Notenprogramm:_2.11.12.99)"></a>
 <a id="09.04.2025_.28Kursversion:_3.33.30.528.2C_Kurs-Notenprogramm:_2.11.12.99.29"></a>

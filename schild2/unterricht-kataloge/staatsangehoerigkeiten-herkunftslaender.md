@@ -1,8 +1,10 @@
 ---
-title: "Staatsangehörigkeiten / Herkunftsländer"
+title: "Staatsangehörigkeiten und Herkunftsländer"
 ---
 
-# Staatsangehörigkeiten / Herkunftsländer
+<a id="staatsangehorigkeiten-herkunftslander"></a>
+
+# Staatsangehörigkeiten und Herkunftsländer
 
 Beim Katalog 'Staatsangehörigkeiten / Herkunftsländer' handelt es sich um einen Katalog, der nicht mit eigenen Einträgen veränderbar ist. [Sortierungen](/schild2/unterricht-kataloge/kataloge) können vorgenommen werden.
 

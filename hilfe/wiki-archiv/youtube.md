@@ -1,8 +1,10 @@
 ---
-title: "Youtube"
+title: "Video aus dem Wiki"
 ---
 
-# Youtube
+<a id="youtube"></a>
+
+# Video aus dem Wiki
 
 [Video ansehen](https://www.youtube-nocookie.com/embed/s4S2L0VCvHg)
 

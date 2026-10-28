@@ -1,8 +1,10 @@
 ---
-title: "Fahrschüler-Arten"
+title: "Fahrschülerarten"
 ---
 
-# Fahrschüler-Arten
+<a id="fahrschuler-arten"></a>
+
+# Fahrschülerarten
 
 Bei der Installation des Programmes sind die Einträge 'ja' und 'nein' vor eingestellt.
 

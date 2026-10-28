@@ -1,8 +1,10 @@
 ---
-title: "K422CNF:Übersicht"
+title: "Blockung mit K422CNF"
 ---
 
-# K422CNF:Übersicht
+<a id="k422cnf-ubersicht"></a>
+
+# Blockung mit K422CNF
 
 Übersicht\|Einführung Übersicht\|Export aus Kurs42 Übersicht\|Grundlegende Berechnungen in Ku42_To_CNF Übersicht\|Import in Kurs42
 

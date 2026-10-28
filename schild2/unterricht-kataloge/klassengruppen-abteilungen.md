@@ -1,11 +1,13 @@
 ---
-title: "Klassengruppen/Abteilungen"
+title: "Klassengruppen und Abteilungen"
 ---
 
-# Klassengruppen/Abteilungen
+# Klassengruppen und Abteilungen
 
 <a id="Klassengruppen/Abteilungen"></a>
 <a id="Klassengruppen.2FAbteilungen"></a>
+
+<a id="klassengruppen-abteilungen-1"></a>
 
 ## Klassengruppen/Abteilungen
 

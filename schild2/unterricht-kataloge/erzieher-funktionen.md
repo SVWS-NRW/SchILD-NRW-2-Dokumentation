@@ -1,8 +1,10 @@
 ---
-title: "Erzieher-Funktionen"
+title: "Funktionen von Erziehungsberechtigten"
 ---
 
-# Erzieher-Funktionen
+<a id="erzieher-funktionen"></a>
+
+# Funktionen von Erziehungsberechtigten
 
 Es ist zwischen Erzieherarten (unter Kataloge "Erzieher-Arten" wie z.B. Eltern, Mutter, usw.) und Erzieherfunktionen zu unterscheiden.
 

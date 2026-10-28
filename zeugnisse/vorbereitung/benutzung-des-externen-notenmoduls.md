@@ -1,8 +1,10 @@
 ---
-title: "Benutzung des externen Notenmoduls"
+title: "Noten im externen Notenmodul eingeben"
 ---
 
-# Benutzung des externen Notenmoduls
+<a id="benutzung-des-externen-notenmoduls"></a>
+
+# Noten im externen Notenmodul eingeben
 
 Das externe Notenmodul ist ein kleines Programm, das es Lehrern ermöglichen soll, alle Noten und Bemerkungen auch auf dem heimischen Computer eingeben zu können und dann in der Schule einlesen zu lassen. Das externe Notenmodul ist auf allen Windows-Rechnern lauffähig, andere Betriebssysteme werden nicht unterstützt.
 

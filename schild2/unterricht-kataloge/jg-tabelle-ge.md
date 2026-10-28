@@ -1,8 +1,10 @@
 ---
-title: "JG-Tabelle-GE"
+title: "Statistikjahrgänge an Gesamtschulen"
 ---
 
-# JG-Tabelle-GE
+<a id="jg-tabelle-ge"></a>
+
+# Statistikjahrgänge an Gesamtschulen
 
 ![JG Tabelle GE](/bilder/schild2/unterricht-kataloge/jg-tabelle-ge.jpg)
 

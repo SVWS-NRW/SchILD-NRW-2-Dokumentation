@@ -4,7 +4,7 @@ title: "Papierkorb zeigen"
 
 # Papierkorb zeigen
 
-Über dieses Menü können im [Container](/einstieg/grundlagen/container) schnell alle Schüler, die einmal gelöscht wurden, angezeigt werden.
+Über dieses Menü können im [Schülerliste und Auswahl](/einstieg/grundlagen/container) schnell alle Schüler, die einmal gelöscht wurden, angezeigt werden.
 
 Diese Schüler liegen in einer Art "Papierkorb", damit sie bei versehentlicher Löschung wieder geholt werden können.
 
@@ -16,7 +16,7 @@ Es bietet sich aber auch die Möglichkeit, diese Schüler über die [Gruppenproz
 
 Dabei können Sie die Löschmarkierung einer ganzen Schülergruppe zurücknehmen. (Individualdaten ändern \> Individual Daten I \> Löschmarkierung \> "Nein")
 
-Oder Sie können über den Gruppenprozess [Schüler-Datensätze löschen](/schild2/gruppenprozesse/schueler-datensaetze-loeschen) eine ganze Gruppe endgültig aus der Datenbank entfernen.
+Oder Sie können über den Gruppenprozess [Markierte Schülerdatensätze endgültig löschen](/schild2/gruppenprozesse/schueler-datensaetze-loeschen) eine ganze Gruppe endgültig aus der Datenbank entfernen.
 
 ------------------------------------------------------------------------
 

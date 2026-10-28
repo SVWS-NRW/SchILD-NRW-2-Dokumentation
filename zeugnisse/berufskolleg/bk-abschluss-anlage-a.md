@@ -1,19 +1,21 @@
 ---
-title: "BK-Abschluss:Anlage-A"
+title: "BK-Abschlüsse nach Anlage A"
 ---
 
-# BK-Abschluss:Anlage-A
+<a id="bk-abschluss-anlage-a"></a>
+
+# BK-Abschlüsse nach Anlage A
 
 <a id="Bildungsgänge_der_Berufsschule"></a>
 <a id="Bildungsg.C3.A4nge_der_Berufsschule"></a>
 
 ## Bildungsgänge der Berufsschule
 
-[A01 Fachklassen (BS; TZ)](/zeugnisse/berufskolleg/a01-fachklassen-bs-tz)
+[A01 Fachklassen der Berufsschule](/zeugnisse/berufskolleg/a01-fachklassen-bs-tz)
 
 A02 Fachklassen/Fachhochschulreife (BS/FHR; TZ)
 
-[A03 Fachklassen/erweiterte Zusatzqualifikation (BS/ZQ; TZ)](/zeugnisse/berufskolleg/a03-fachklassen-erweiterte-zusatzqualifikation-bs-zq-tz)
+[A03 Fachklassen mit Zusatzqualifikation](/zeugnisse/berufskolleg/a03-fachklassen-erweiterte-zusatzqualifikation-bs-zq-tz)
 
 A04 Fachklassen mit erweitertem Stützunterricht (BS/Stütz; TZ)
 
@@ -31,9 +33,9 @@ A10 Berufsabschluss/mittlerer Schulabschluss (BKAZVO) (BAB/FOR; VZ)
 
 A11 Berufsabschluss/Fachhochschulreife (BKAZVO) (BAB/FHR; VZ)
 
-[A12 Ausbildungsvorbereitung (BS 1j; VZ)](/zeugnisse/berufskolleg/a12-ausbildungsvorbereitung-bs-1j-vz)
+[A12 Ausbildungsvorbereitung in Vollzeit](/zeugnisse/berufskolleg/a12-ausbildungsvorbereitung-bs-1j-vz)
 
-[A13 Ausbildungsvorbereitung (BS 1j; TZ)](/zeugnisse/berufskolleg/a13-ausbildungsvorbereitung-bs-1j-tz)
+[A13 Ausbildungsvorbereitung in Teilzeit](/zeugnisse/berufskolleg/a13-ausbildungsvorbereitung-bs-1j-tz)
 
 A14 Berufsabschluss (nach §50 BBiG/§40 HwO)/mittlerer Schulabschluss BAB/FOR; VZ
 

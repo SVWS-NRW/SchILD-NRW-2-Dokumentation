@@ -8,6 +8,8 @@ Schreiben Sie so, dass auch Personen ohne Vorkenntnisse den beschriebenen Arbeit
 
 ## Eine klare Aufgabe beschreiben
 
+Titel benennen das Thema oder die Aufgabe. Menünamen bleiben kurz und sind auch ohne Kenntnis alter Wiki-Bezeichnungen verständlich. Verwenden Sie keine Klammerzusätze, Datumsstände, Tutorialnummern oder bloßen Dateinamen im Titel. Notwendige Rechtsgrundlagen, Bildungsgangdetails und technische Bezeichnungen gehören in den Artikeltext. Funktionsnamen der RAP-Referenz bleiben unverändert.
+
 Ein Artikel behandelt eine erkennbare Aufgabe oder einen klar abgegrenzten Gegenstand. Sagen Sie zu Beginn, wobei er hilft und welche Voraussetzungen tatsächlich nötig sind. Verwenden Sie genaue Begriffe und übernehmen Sie die sichtbaren Bezeichnungen aus SchILD-NRW 2.
 
 Erhalten Sie bei Überarbeitungen die fachlichen Einzelheiten, Einschränkungen, Beispiele, Tabellen, Bilder und Bildunterschriften. Sprachliche Vereinfachungen sind möglich; fachliche Änderungen müssen sich begründen lassen. Erfinden Sie keine Voraussetzungen, Programmfunktionen, Parameter oder Ergebnisse. Benennen Sie offene Fragen im Änderungsvorschlag.

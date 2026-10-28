@@ -1,8 +1,10 @@
 ---
-title: "Prognos:Programmstart"
+title: "PM2 erstmals starten"
 ---
 
-# Prognos:Programmstart
+<a id="prognos-programmstart"></a>
+
+# PM2 erstmals starten
 
 Beim ersten Programmstart erscheint folgendes Informationsfenster:
 

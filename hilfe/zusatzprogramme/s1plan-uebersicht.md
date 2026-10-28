@@ -1,8 +1,10 @@
 ---
-title: "S1PLAN:Übersicht"
+title: "S1Plan kennenlernen"
 ---
 
-# S1PLAN:Übersicht
+<a id="s1plan-ubersicht"></a>
+
+# S1Plan kennenlernen
 
 <a id="Kapitelübersicht"></a>
 <a id="Kapitel.C3.BCbersicht"></a>

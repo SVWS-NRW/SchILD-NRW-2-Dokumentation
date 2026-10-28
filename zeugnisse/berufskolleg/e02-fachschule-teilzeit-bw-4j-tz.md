@@ -1,8 +1,12 @@
 ---
-title: "E02 Fachschule Teilzeit (BW 4j; TZ)"
+title: "E02 Fachschule in Teilzeit"
 ---
 
-# E02 Fachschule Teilzeit (BW 4j; TZ)
+<a id="e02-fachschule-teilzeit-bw-4j-tz"></a>
+
+# E02 Fachschule in Teilzeit
+
+Vierjähriger Teilzeitbildungsgang der Fachschule.
 
 ![BK_Abschluss_E02](/bilder/zeugnisse/berufskolleg/bk-abschluss-e02.png)
 

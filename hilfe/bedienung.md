@@ -1,9 +1,11 @@
-# SchILD-NRW 2 im Alltag bedienen
+<a id="schild-nrw-2-im-alltag-bedienen"></a>
+
+# SchILD-NRW im Alltag bedienen
 
 ## Orientierung
 
 - [Hauptfenster](/einstieg/grundlagen/hauptfenster)
-- [Iconleiste](/einstieg/grundlagen/iconleiste)
+- [Symbolleiste](/einstieg/grundlagen/iconleiste)
 - [Tastenkürzel](/administration/benutzer-einstellungen/shortcuts-in-schild-nrw)
 
 ## Datensätze finden und bearbeiten

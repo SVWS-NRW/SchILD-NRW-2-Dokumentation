@@ -1,12 +1,14 @@
 ---
-title: "Erzieher mit schulinternen Funktionen"
+title: "Eltern mit Funktionen auflisten"
 ---
 
-# Erzieher mit schulinternen Funktionen
+<a id="erzieher-mit-schulinternen-funktionen"></a>
+
+# Eltern mit Funktionen auflisten
 
 ![Erzieher-mit-Funktionen](/bilder/schild2/unterricht-kataloge/erzieher-mit-funktionen.jpg)
 
-Im Fenster "Erzieher mit schulinternen Funktionen" werden alle Erzieher aufgelistet, die über die rechte Maustaste auf dem Karteireiter [Erz.-Berechtigte](/schild2/schueler/erz-berechtigte) eine schulinterne Funktion zugewiesen bekommen haben. In diesem Fenster können aber auch Funktionen zu Erziehern hinzugefügt werden.
+Im Fenster "Erzieher mit schulinternen Funktionen" werden alle Erzieher aufgelistet, die über die rechte Maustaste auf dem Karteireiter [Erziehungsberechtigte verwalten](/schild2/schueler/erz-berechtigte) eine schulinterne Funktion zugewiesen bekommen haben. In diesem Fenster können aber auch Funktionen zu Erziehern hinzugefügt werden.
 
 Mit Klick auf + wird ein neues Fenster („Erzieher mit Funktion hinzufügen“) geöffnet. Mit Hilfe der Alphabet-Knöpfe kann die Person gesucht werden. Bei „Funktion“ wird mit dem Listenknopf etwas für die angeklickte Person ausgewählt.
 

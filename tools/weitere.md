@@ -2,12 +2,12 @@
 
 ## Anleitungen und Wiki-Artikel
 
-- [Externe Blockungs-Tools](/hilfe/zusatzprogramme/externe-blockungs-tools)
-- [Kursplanung KPlan.exe](/hilfe/zusatzprogramme/kursplanung-kplan-exe)
-- [Kursverwaltung KPlan.exe](/hilfe/zusatzprogramme/kursplanung-kplan-exe)
-- [SchildChat.exe](/hilfe/zusatzprogramme/schildchat-exe)
+- [Externe Blockungsprogramme](/hilfe/zusatzprogramme/externe-blockungs-tools)
+- [Kursplanung mit KPlan](/hilfe/zusatzprogramme/kursplanung-kplan-exe)
+- [Kursplanung mit KPlan](/hilfe/zusatzprogramme/kursplanung-kplan-exe)
+- [SchILDChat](/hilfe/zusatzprogramme/schildchat-exe)
 - [SchILDweb](/hilfe/zusatzprogramme/schildweb)
-- [SEM:Schnelleingabemodul](/hilfe/zusatzprogramme/sem-schnelleingabemodul)
-- [Zusatzprogramme / Tools](/hilfe/zusatzprogramme/zusatzprogramme-tools)
+- [Schnelleingabemodul](/hilfe/zusatzprogramme/sem-schnelleingabemodul)
+- [Tool-Übersicht](/hilfe/zusatzprogramme/zusatzprogramme-tools)
 
 Weitere im ursprünglichen Wiki beschriebene Zusatzprogramme sind in den folgenden Artikeln erhalten.

@@ -1,8 +1,10 @@
 ---
-title: "Erz.-Berechtigte"
+title: "Erziehungsberechtigte verwalten"
 ---
 
-# Erz.-Berechtigte
+<a id="erz-berechtigte"></a>
+
+# Erziehungsberechtigte verwalten
 
 Auf dem Karteireiter *Erz.-Berechtigte* werden die Adressen und Telefonnummern der Erziehungsberechtigten verwaltet.
 

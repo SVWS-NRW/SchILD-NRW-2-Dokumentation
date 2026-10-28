@@ -21,7 +21,7 @@ Prinzipiell sind die Mahnbriefe Serienbriefe mit erweiterten Funktionen und Rüc
 
 ## Vorbereitungen
 
-Setzen Sie zunächst bei allen Schülerinnen und Schülern in den Leistungsdaten von defizitären Epochalfächern ein Mahnhäkchen. Dies kann z.B. auch mit Hilfe von Notendateien und dem ENM-Notenmodul oder über den Gruppenprozess [Noten, Mahnungen und Fehlstunden eingeben](/zeugnisse/vorbereitung/noten-mahnungen-und-fehlstunden-eingeben) geschehen.
+Setzen Sie zunächst bei allen Schülerinnen und Schülern in den Leistungsdaten von defizitären Epochalfächern ein Mahnhäkchen. Dies kann z.B. auch mit Hilfe von Notendateien und dem ENM-Notenmodul oder über den Gruppenprozess [Noten, Mahnungen und Fehlstunden bearbeiten](/zeugnisse/vorbereitung/noten-mahnungen-und-fehlstunden-eingeben) geschehen.
 
 Die Mahnhäkchen werden mit zwei Farben hinterlegt. Bei roten Mahnhäkchen wurde noch kein Mahndatum hinterlegt. Bei grünen Mahnhäkchen existiert bereits ein Mahndatum. Das Mahndatum hat informativen Charakter und wird vom Gruppenprozess für die Filterung ausgewertet.
 

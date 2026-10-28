@@ -1,8 +1,10 @@
 ---
-title: "Statistik mit ASDPC Haupterhebung"
+title: "Haupterhebung mit ASDPC bearbeiten"
 ---
 
-# Statistik mit ASDPC Haupterhebung
+<a id="statistik-mit-asdpc-haupterhebung"></a>
+
+# Haupterhebung mit ASDPC bearbeiten
 
 <a id="Die_Haupterhebung"></a>
 

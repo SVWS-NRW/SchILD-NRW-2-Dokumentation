@@ -1,8 +1,10 @@
 ---
-title: "Umgang mit Bildungsgangswechlsern am BK"
+title: "Bildungsgangwechsel am Berufskolleg"
 ---
 
-# Umgang mit Bildungsgangswechlsern am BK
+<a id="umgang-mit-bildungsgangswechlsern-am-bk"></a>
+
+# Bildungsgangwechsel am Berufskolleg
 
 <a id="Bildungsgangwechsler_ohne_Online-Verfahren_zur_Anmeldung"></a>
 

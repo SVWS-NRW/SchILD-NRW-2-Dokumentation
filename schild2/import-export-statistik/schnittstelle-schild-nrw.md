@@ -1,8 +1,10 @@
 ---
-title: "Schnittstelle Schild-NRW"
+title: "Datenaustausch über die SchILD-Schnittstelle"
 ---
 
-# Schnittstelle Schild-NRW
+<a id="schnittstelle-schild-nrw"></a>
+
+# Datenaustausch über die SchILD-Schnittstelle
 
 Die Schnittstelle Schild-NRW wurde ursprünglich zum Import bzw. Export der statistikrelevanten Daten eingeführt.
 
@@ -14,7 +16,7 @@ Die Schnittstelle ist in Textdateien mit der Endung \*.dat aufgebaut, die durch 
 
 Die Textdateien können im ANSI oder UTF-8 gespeichert werden, beide Formate werden eingelesen. Bitte achten Sie bei den UTF-8- (Unicode)- Dateien darauf, dass diese mit BOM (ByteOrderMark) gespeichert werden. (Dies ist bei einigen Tabellenprogrammen, z.B. LibreOffice, nicht immer der Fall.)
 
-Der Aufbau der Textdateien ist vorgegeben und kann in der **[Schnittstellenbeschreibung](/schild2/import-export-statistik/schnittstellenbeschreibung)** nachgeschlagen werden.
+Der Aufbau der Textdateien ist vorgegeben und kann in der **[Dateien und Felder der Textschnittstelle](/schild2/import-export-statistik/schnittstellenbeschreibung)** nachgeschlagen werden.
 
 Im Menü Schnittstelle Schild-NRW gibt es mehrere Unterpunkte.
 

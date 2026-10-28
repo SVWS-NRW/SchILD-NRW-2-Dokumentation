@@ -1,8 +1,10 @@
 ---
-title: "Vorhandene Filterdefinition laden"
+title: "Gespeicherte Filter laden"
 ---
 
-# Vorhandene Filterdefinition laden
+<a id="vorhandene-filterdefinition-laden"></a>
+
+# Gespeicherte Filter laden
 
 ![Filterladen](/bilder/schild2/auswahl/filterladen.jpg)
 

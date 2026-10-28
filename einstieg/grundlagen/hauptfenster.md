@@ -12,9 +12,9 @@ Nach dem Start von Schild-NRW sehen Sie den Hauptbildschirm mit einigen Elemente
 
 ![Hauptfenster Schema](/bilder/einstieg/grundlagen/hauptfenster-schema.png)
 
-Hier kann man die verschiedenen Bereiche des Hauptfensters erkennen. Hinter der Menüleiste verbergen sich sämtliche Funktionen von Schild-NRW. Diese Menüpunkte werden im [Schild-NRW-Index](/einstieg/grundlagen/schild-nrw-index) ausführlich beschrieben.
+Hier kann man die verschiedenen Bereiche des Hauptfensters erkennen. Hinter der Menüleiste verbergen sich sämtliche Funktionen von Schild-NRW. Diese Menüpunkte werden im [Das Programm im Überblick](/einstieg/grundlagen/schild-nrw-index) ausführlich beschrieben.
 
-Über die [Iconleiste](/einstieg/grundlagen/iconleiste) erreichen Sie einige, häufig gebrauchte Menüpunkte direkt. Wenn man mit der Maus über die Icons fährt, erscheint ein kleiner Hilfetext zum jeweiligen Icon. Am linken Rand befindet sich die "Leuchtdiode", die in Schild-NRW eine besondere Funktion übernimmt. Die Leuchtdiode ist nach dem Start von Schild-NRW grün. Dies zeigt an, dass alle aktiven Schüler im Zugriff ([Container](/einstieg/grundlagen/container)) sind. Wenn der User einen Filter auf eine Klasse, einen Jahrgang oder Ähnliches setzt, dann verändert sich die Leuchtdiode und wird gelb. Sollte der User einen weiteren Filter setzen, z.B über [Auswahl](/schild2/auswahl/auswahl) und [Filter I](/schild2/auswahl/filter-i), so wird die Diode rot. Sie zeigt also an, wenn nicht die aktive Schülermenge im Zugriff ist. Durch einen Mausklick auf die Leuchtdiode kann man immer zu "grün" zurückkehren. Dies ist somit ein schneller Weg, alle Filter zu lösen!
+Über die [Symbolleiste](/einstieg/grundlagen/iconleiste) erreichen Sie einige, häufig gebrauchte Menüpunkte direkt. Wenn man mit der Maus über die Icons fährt, erscheint ein kleiner Hilfetext zum jeweiligen Icon. Am linken Rand befindet sich die "Leuchtdiode", die in Schild-NRW eine besondere Funktion übernimmt. Die Leuchtdiode ist nach dem Start von Schild-NRW grün. Dies zeigt an, dass alle aktiven Schüler im Zugriff ([Schülerliste und Auswahl](/einstieg/grundlagen/container)) sind. Wenn der User einen Filter auf eine Klasse, einen Jahrgang oder Ähnliches setzt, dann verändert sich die Leuchtdiode und wird gelb. Sollte der User einen weiteren Filter setzen, z.B über [Menü Auswahl](/schild2/auswahl/auswahl) und [Filter I](/schild2/auswahl/filter-i), so wird die Diode rot. Sie zeigt also an, wenn nicht die aktive Schülermenge im Zugriff ist. Durch einen Mausklick auf die Leuchtdiode kann man immer zu "grün" zurückkehren. Dies ist somit ein schneller Weg, alle Filter zu lösen!
 
 <a id="Karteikasten"></a>
 
@@ -22,9 +22,9 @@ Hier kann man die verschiedenen Bereiche des Hauptfensters erkennen. Hinter der 
 
 ![Karteikaesten_01](/bilder/einstieg/grundlagen/karteikaesten-01.jpg)
 
-Darunter in der linken oberen Ecke befindet sich der [Karteikasten](/einstieg/grundlagen/karteikasten). Hier können Sie Schüler über den jeweiligen Status filtern. Durch das Setzen des Hakens kann der jeweilige Karteikasten angewählt werden. Da man auch mehrere Kästen gleichzeitig auswählen kann, muss nach der Wahl das rote Häkchen zur Bestätigung betätigt werden. Wenn Sie mehrere Haken gesetzt haben, werden die Schüler der verschiedenen Statusarten zusammen im [Container](/einstieg/grundlagen/container) dargestellt.
+Darunter in der linken oberen Ecke befindet sich der [Karteikästen und Schülerstatus](/einstieg/grundlagen/karteikasten). Hier können Sie Schüler über den jeweiligen Status filtern. Durch das Setzen des Hakens kann der jeweilige Karteikasten angewählt werden. Da man auch mehrere Kästen gleichzeitig auswählen kann, muss nach der Wahl das rote Häkchen zur Bestätigung betätigt werden. Wenn Sie mehrere Haken gesetzt haben, werden die Schüler der verschiedenen Statusarten zusammen im [Schülerliste und Auswahl](/einstieg/grundlagen/container) dargestellt.
 
-Eine genauere Beschreibung der Statusarten erhalten Sie im Artikel:[Karteikasten](/einstieg/grundlagen/karteikasten)
+Eine genauere Beschreibung der Statusarten erhalten Sie im Artikel:[Karteikästen und Schülerstatus](/einstieg/grundlagen/karteikasten)
 
 <a id="Schnellfilter"></a>
 
@@ -32,7 +32,7 @@ Eine genauere Beschreibung der Statusarten erhalten Sie im Artikel:[Karteikasten
 
 ![Schnellfilter_01](/bilder/einstieg/grundlagen/schnellfilter-01.jpg)
 
-Rechts neben dem [Karteikasten](/einstieg/grundlagen/karteikasten) befinden sich die **Schnellfilter**.
+Rechts neben dem [Karteikästen und Schülerstatus](/einstieg/grundlagen/karteikasten) befinden sich die **Schnellfilter**.
 
 Die Anzahl der Schnellfilter variiert je nach eingestellter Schulform. Ihre Aufgabe ist es, dem Benutzer bei der alltäglichen Arbeit mit Schild-NRW einen möglichst schnellen Zugriff auf einzelne Klassen, Jahrgänge oder Kurse zu verschaffen. Da die Schnellfilter auch kombiniert werden können, muss zur Bestätigung des Filters das rote Häkchen angeklickt werden. Beispiel: Wenn man einen Jahrgang ausgewählt hat, stehen im Filter Kurse auch nur die Kurse des Jahrgangs zur Verfügung. Wie an mehreren Stellen in Schild-NRW werden jahrgangsübergreifende Kurse gezeigt, wenn man bei der Auswahl die STRG-Taste gedrückt hält.
 
@@ -44,7 +44,7 @@ Die Anzahl der Schnellfilter variiert je nach eingestellter Schulform. Ihre Aufg
 
 ![Container_02](/bilder/einstieg/grundlagen/container-02.jpg)
 
-Ein wesentliches Bedienelement von Schild-NRW ist der [Container](/einstieg/grundlagen/container), der sich unter den o.g. Bereichen befindet. Hier wird die aktuell ausgewählte Schülergruppe gezeigt. Durch Anklicken eines einzelnen Datensatzes werden die zugehörigen Daten auf den Karteireitern gezeigt.
+Ein wesentliches Bedienelement von Schild-NRW ist der [Schülerliste und Auswahl](/einstieg/grundlagen/container), der sich unter den o.g. Bereichen befindet. Hier wird die aktuell ausgewählte Schülergruppe gezeigt. Durch Anklicken eines einzelnen Datensatzes werden die zugehörigen Daten auf den Karteireitern gezeigt.
 
 Die Anzahl der zur Zeit gefilterten Datensätze wird unten links in der Ecke angezeigt.
 
@@ -54,7 +54,7 @@ Ziel des Containers ist es nicht nur, schnellen Zugriff auf einzelne Schülerdat
 
 Oberhalb des Containers befindet sich ein Eingabefeld zur Suche von einzelnen Namen. Beim Klicken auf die Pfeilspitze nach oben oder unten, wird die Suche innerhalb des Containers ausgeführt.
 
-Welche Möglichkeiten der Bedienung sich in diesem Objekt ergeben, gibt es in einem eigenen Artikel:**[Container](/einstieg/grundlagen/container)**
+Welche Möglichkeiten der Bedienung sich in diesem Objekt ergeben, gibt es in einem eigenen Artikel:**[Schülerliste und Auswahl](/einstieg/grundlagen/container)**
 
 ------------------------------------------------------------------------
 
@@ -68,25 +68,25 @@ Im Folgenden werden die einzelnen Karteireiter aufgelistet und in ihren Artikeln
 
 ![Karteireiter_01](/bilder/einstieg/grundlagen/karteireiter-01.jpg)
 
-- [Individual-Daten I](/schild2/schueler/individual-daten-i)
-- [Individual-Daten II](/schild2/schueler/individual-daten-ii)
-- [Erz.-Berechtigte](/schild2/schueler/erz-berechtigte)
+- [Individualdaten I](/schild2/schueler/individual-daten-i)
+- [Individualdaten II](/schild2/schueler/individual-daten-ii)
+- [Erziehungsberechtigte](/schild2/schueler/erz-berechtigte)
 - [Schulbesuch](/schild2/schueler/schulbesuch)
 - [Weitere Adressen](/schild2/schueler/weitere-adressen)
-- [Akt. Halbjahr](/zeugnisse/vorbereitung/akt-halbjahr)
-- [Laufbahninfo](/schild2/schueler/laufbahninfo)
+- [Aktuelles Halbjahr](/zeugnisse/vorbereitung/akt-halbjahr)
+- [Laufbahninformationen](/schild2/schueler/laufbahninfo)
 - [Fördermaßnahmen](/schild2/schueler/foerdermassnahmen)
 - [DSGVO-Einwilligungen](/schild2/schueler/einwilligungen)
 - Übersicht
-- [FHR](/zeugnisse/sekundarstufen/fhr)
-- [BK-Abschluss](/zeugnisse/berufskolleg/bk-abschluss)
+- [Schulischer FHR-Teil](/zeugnisse/sekundarstufen/fhr)
+- [BK-Abschlussverfahren](/zeugnisse/berufskolleg/bk-abschluss)
 - [Abitur](/zeugnisse/sekundarstufen/abitur)
 - [Dokumentenverwaltung](/administration/benutzer-einstellungen/dokumentenverwaltung)
-- [ZP10/ZK10](/zeugnisse/sekundarstufen/zp10-zk10)
+- [ZP10 und ZK10](/zeugnisse/sekundarstufen/zp10-zk10)
 
 ------------------------------------------------------------------------
 
-Springe zu [Schild-NRW-Index](/einstieg/grundlagen/schild-nrw-index)
+Springe zu [Das Programm im Überblick](/einstieg/grundlagen/schild-nrw-index)
 
 ---
 

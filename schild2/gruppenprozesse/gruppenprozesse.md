@@ -8,13 +8,13 @@ Die sog. Gruppenprozesse sind Arbeitsprozesse, die für eine ausgewählte Gruppe
 
 Für die Auswahl von Schülermengen stehen mehrere Möglichkeiten zur Verfügung:
 
-- Man kann Schüler im [Container](/einstieg/grundlagen/container) mit Häkchen markieren (oder auch durch Doppelklick markieren), aber noch keine Filterung vornehmen. In diesem Fall muss bei Aufruf der Gruppenprozesse ausgewählt werden, ob man auf der Gesamtmenge der Schüler, oder den markierten Schülern arbeiten möchte.
+- Man kann Schüler im [Schülerliste](/einstieg/grundlagen/container) mit Häkchen markieren (oder auch durch Doppelklick markieren), aber noch keine Filterung vornehmen. In diesem Fall muss bei Aufruf der Gruppenprozesse ausgewählt werden, ob man auf der Gesamtmenge der Schüler, oder den markierten Schülern arbeiten möchte.
 
 ![Gruppenprozesse01](/bilder/schild2/gruppenprozesse/gruppenprozesse01.jpg)\
 
 Erst danach werden die Gruppenprozesse für die ausgewählte Schülermenge freigeschaltet.
 
-- Man kann Schüler im [Container](/einstieg/grundlagen/container) durch Doppelklick markieren und die Filterung vornehmen.
+- Man kann Schüler im [Schülerliste](/einstieg/grundlagen/container) durch Doppelklick markieren und die Filterung vornehmen.
 
 <!-- -->
 
@@ -30,11 +30,11 @@ Die vier bzw. fünf Registerkarten: *Allgemeines, Fächer, Noten, Zeugnisvorbere
 
 In den folgenden Artikeln werden die Gruppenaktionen genauer beschrieben:
 
-- [Allgemeines](/schild2/gruppenprozesse/allgemeines)
+- [Allgemeine Änderungen](/schild2/gruppenprozesse/allgemeines)
 
 <!-- -->
 
-- [Fächer](/schild2/gruppenprozesse/faecher)
+- [Fachzuweisungen](/schild2/gruppenprozesse/faecher)
 
 <!-- -->
 
@@ -42,15 +42,15 @@ In den folgenden Artikeln werden die Gruppenaktionen genauer beschrieben:
 
 <!-- -->
 
-- [Noten, Zeugnisvorbereitung](/zeugnisse/vorbereitung/noten-zeugnisvorbereitung)
+- [Noten- und Zeugnisprozesse](/zeugnisse/vorbereitung/noten-zeugnisvorbereitung)
 
 <!-- -->
 
-- [Lernabschnitte, Versetzung](/schild2/versetzung/lernabschnitte-versetzung)
+- [Lernabschnitte und Versetzung](/schild2/versetzung/lernabschnitte-versetzung)
 
 Nur in der SII-3:
 
-- [Gruppenprozesse Abitur](/zeugnisse/sekundarstufen/gruppenprozesse-abitur)
+- [Abitur-Gruppenprozesse](/zeugnisse/sekundarstufen/gruppenprozesse-abitur)
 
 Nur bei gefilterten ZP10/ZK Jahrgang
 

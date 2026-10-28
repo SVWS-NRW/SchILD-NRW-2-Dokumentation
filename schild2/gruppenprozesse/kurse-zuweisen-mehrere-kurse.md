@@ -1,8 +1,10 @@
 ---
-title: "Kurse zuweisen (mehrere Kurse)"
+title: "Mehrere Kurse zuweisen"
 ---
 
-# Kurse zuweisen (mehrere Kurse)
+<a id="kurse-zuweisen-mehrere-kurse"></a>
+
+# Mehrere Kurse zuweisen
 
 Startet man den Gruppenprozess "Kurse zuweisen (mehrere Kurse)", öffnet sich das Fenster "Kurse tabellarisch zuweisen". Nachdem man den angezeigten Jahrgang und den Abschnitt kontrolliert bzw. geändert hat, klickt man auf die Schaltfläche "Daten zeigen". Dadurch werden die vorher ausgewählten Schüler geladen und die von ihnen belegten Kurse in einer Tabelle angezeigt.
 

@@ -1,14 +1,16 @@
 ---
-title: "SchildChat.exe"
+title: "Nachrichten mit SchILDChat austauschen"
 ---
 
-# SchildChat.exe
+<a id="schildchat-exe"></a>
+
+# Nachrichten mit SchILDChat austauschen
 
 Das Chatmodul SchildChat.exe wird ab der Schild-NRW-Version 2.0.14.2 unterstützt. Das Programm wird in den kommenden Versionen mit dem Update-Setup ausgeliefert und liegt im Programmverzeichnis von Schild-NRW.
 
 Beim ersten Aufruf des Chatmoduls wird im Installationsverzeichnis von Schild-NRW der Ordner Chat angelegt. Bei fehlenden Schreibrechten in einer Netzwerkumgebung muss dieser Ordner dann händisch angelegt werden. Dieser Ordner benötigt aber dann Lese-/Schreibberechtigung für alle Schild-NRW-User auf Windows-Ebene, da dort eine Konfigurationsdatei für den Chat-Server gespeichert wird.
 
-Das Programm kann nur von Usern mit Administror-Rechten in Schild-NRW gestartet werden. Ist das Modul unter den **[Programm-Einstellungen](/administration/benutzer-einstellungen/programm-einstellungen)** aktiviert, so kann es unter **[Extras](/administration/benutzer-einstellungen/extras)** \> Chatprogramm starten aufgerufen werden.
+Das Programm kann nur von Usern mit Administror-Rechten in Schild-NRW gestartet werden. Ist das Modul unter den **[Programmeinstellungen](/administration/benutzer-einstellungen/programm-einstellungen)** aktiviert, so kann es unter **[Menü Extras](/administration/benutzer-einstellungen/extras)** \> Chatprogramm starten aufgerufen werden.
 
 ![Chat starten](/bilder/tools/weitere/chat-starten.jpg)
 

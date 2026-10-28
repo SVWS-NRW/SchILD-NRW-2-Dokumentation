@@ -3,7 +3,9 @@ import { computed, onMounted, provide, ref } from 'vue'
 import DefaultTheme from 'vitepress/theme'
 import { useData } from 'vitepress'
 import { dataSymbol } from 'vitepress/dist/client/app/data.js'
-import { referenceSelection, articleIndexSelection } from './reference-state'
+import { referenceSelection, articleIndexSelection, sectionSelection } from './reference-state'
+import { getSidebar } from 'vitepress/dist/client/theme-default/support/sidebar.js'
+import { articlePath, contextualSidebar, contextualNav, sectionEntries } from '../section-navigation.mjs'
 import { data as articles } from '../../hilfe/artikel.data.mjs'
 import { articleIndexLink } from '../article-index.mjs'
 import VPHome from 'vitepress/dist/client/theme-default/components/VPHome.vue'
@@ -23,6 +25,25 @@ const mounted = ref(false)
 onMounted(() => { mounted.value = true })
 const indexMode = computed(() => page.value.relativePath === 'hilfe/alle-artikel.md' || (mounted.value && articleIndexSelection.value))
 const referenceMode = computed(() => !indexMode.value && (page.value.relativePath.startsWith('programmreferenz/') || page.value.relativePath === 'druck/programmreferenz.md' || (mounted.value && !!referenceSelection.value)))
+const sections = Object.keys(navigation.sidebar)
+const selectedSection = computed(() => {
+  const section = '/' + sectionSelection.value + '/'
+  return mounted.value && sections.includes(section) ? section : ''
+})
+const currentPath = computed(() => '/' + page.value.relativePath)
+const defaultGroups = computed(() => getSidebar(theme.value.sidebar, page.value.relativePath))
+const activeSection = computed(() => indexMode.value ? '/hilfe/' : referenceMode.value ? '/programmreferenz/'
+  : selectedSection.value || defaultGroups.value[0]?.items?.[0]?.link || '')
+const readingGroups = computed(() => {
+  const groups = theme.value.sidebar[activeSection.value]
+  return groups ? contextualSidebar(groups, activeSection.value, currentPath.value) : defaultGroups.value
+})
+const readingEntries = computed(() => readingGroups.value.length ? sectionEntries(readingGroups.value, activeSection.value) : [])
+function adjacentInSection(offset: number) {
+  const position = readingEntries.value.findIndex(entry => entry.key === articlePath(currentPath.value))
+  const entry = position < 0 ? undefined : readingEntries.value[position + offset]
+  return entry ? { text: entry.text, link: entry.link } : false
+}
 const helpSidebar = computed(() => theme.value.sidebar['/hilfe/'].map(group => ({
   ...group,
   items: group.items.map(item => item.link === '/hilfe/alle-artikel'
@@ -49,13 +70,18 @@ function adjacentReference(offset: number) {
 }
 provide(dataSymbol, {
   ...data,
-  theme: computed(() => indexMode.value ? { ...theme.value, sidebar: helpSidebar.value } : theme.value),
+  theme: computed(() => ({ ...theme.value,
+    nav: contextualNav(navigation.nav, activeSection.value, sections),
+    sidebar: indexMode.value ? helpSidebar.value : selectedSection.value && !referenceMode.value ? readingGroups.value : theme.value.sidebar
+  })),
   frontmatter: computed(() => indexMode.value ? {
     ...frontmatter.value,
     ...(indexHome.value ? { layout: 'doc', aside: false } : {}),
     prev: adjacentArticle(-1), next: adjacentArticle(1)
   } : referenceMode.value ? {
     ...frontmatter.value, prev: adjacentReference(-1), next: adjacentReference(1)
+  } : selectedSection.value ? {
+    ...frontmatter.value, prev: adjacentInSection(-1), next: adjacentInSection(1)
   } : frontmatter.value)
 })
 </script>

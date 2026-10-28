@@ -61,13 +61,13 @@ Sollten Sie o.g. Modell bevorzugen, so möchten Sie vielleicht, dass die Fachleh
 
 *Kennwort der Benutzer in Export-Datei übernehmen:'*
 
-Mit dieser Option kann jede Notendatei mit dem Kennwort des Lehrers geschützt werden. Dazu müssen aber alle Lehrer mit ihrem Kürzel als User in der Datenbank angelegt sein! Dies können Sie in der [Benutzerverwaltung](/administration/benutzer-einstellungen/benutzerverwaltung) einstellen.
+Mit dieser Option kann jede Notendatei mit dem Kennwort des Lehrers geschützt werden. Dazu müssen aber alle Lehrer mit ihrem Kürzel als User in der Datenbank angelegt sein! Dies können Sie in der [Benutzerrechte in KM2](/administration/benutzer-einstellungen/benutzerverwaltung) einstellen.
 
 **Eingabe von Mahnungen sperren:** Evtl. vorhandene Haken bei den Mahnungen können dann von den Kollegen nicht verändert werden.
 
 **Verschlüsselung und Versand:** Wenn Sie eine kennwortgeschützte Zip-datei erzeugen, können alle Notendateien mit dem gleichen Kennwort verschlüsselt werden. Wenn diese Option gewählt ist, ändert sich die Datei-Endung der Notendateien von \*.enm in \*.enz. Das Externe Notenmodul kann diese enz-Dateien dann nach Eingabe des Kennwortes öffnen.
 
-Der E-Mail-Versand setzt voraus, dass die Mail-Einstellungen unter den [Programm-Einstellungen](/administration/benutzer-einstellungen/programm-einstellungen) gemacht wurden und getestet sind. Bitte beachten Sie, dass viele Mailprovider einen Massenversand von verschlüsselten ZIP-Dateien blockieren. Testen Sie daher vor dem Notenversand Ihre Einstellungen!
+Der E-Mail-Versand setzt voraus, dass die Mail-Einstellungen unter den [Programmeinstellungen](/administration/benutzer-einstellungen/programm-einstellungen) gemacht wurden und getestet sind. Bitte beachten Sie, dass viele Mailprovider einen Massenversand von verschlüsselten ZIP-Dateien blockieren. Testen Sie daher vor dem Notenversand Ihre Einstellungen!
 
 Wenn man den Text in der Mail verändern will, der mit dem Versand der Notendateien gesendet wird, dann muss man eine TXT-Datei mit dem Namen Notendateitext.txt im Installationsverzeichnis ablegen. Der darin enthaltene Text wird dann im Mailbody gesendet.
 

@@ -1,8 +1,10 @@
 ---
-title: "Reporting"
+title: "Reporting im Überblick"
 ---
 
-# Reporting
+<a id="reporting"></a>
+
+# Reporting im Überblick
 
 ![Drucken02](/bilder/reporting/erstellung/drucken02.png)
 
@@ -19,11 +21,11 @@ Wie diese Formulare erstellt werden, wo Sie gespeichert sein müssen und wie der
 
 ## Reporting-Tutorials
 
-[Einrichtung des Report-Explorers](/reporting/erstellung/einrichtung-des-report-explorers)
+[Report-Explorer einrichten](/reporting/erstellung/einrichtung-des-report-explorers)
 
-[Erstellen einfacher Reports](/reporting/erstellung/erstellen-einfacher-reports)
+[Einfache Reports erstellen und bearbeiten](/reporting/erstellung/erstellen-einfacher-reports)
 
-[Mailversand aus der Reporting](/reporting/verwaltung/mailversand-aus-der-reporting)
+[Reports per E-Mail versenden](/reporting/verwaltung/mailversand-aus-der-reporting)
 
 ------------------------------------------------------------------------
 
@@ -31,9 +33,9 @@ Wie diese Formulare erstellt werden, wo Sie gespeichert sein müssen und wie der
 
 ## Beispielreports
 
-[Reportbaukasten](/reporting/erstellung/reportbaukasten)
+[Reports mit dem Reportbaukasten erstellen](/reporting/erstellung/reportbaukasten)
 
-[Ausgewählte Beispiele aus der BASIC-Sammlung](/reporting/erstellung/ausgewaehlte-beispiele-aus-der-basic-sammlung)
+[Beispiele aus der BASIC-Reportsammlung](/reporting/erstellung/ausgewaehlte-beispiele-aus-der-basic-sammlung)
 
 ------------------------------------------------------------------------
 

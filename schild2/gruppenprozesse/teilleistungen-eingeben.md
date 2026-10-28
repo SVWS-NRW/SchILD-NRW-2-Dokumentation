@@ -14,7 +14,7 @@ Im zweiten Fenster können nun für jeden Schüler die Teilleistungen und ggf. B
 
 ![GP-Teilleistungen02](/bilder/schild2/gruppenprozesse/gp-teilleistungen02.jpg)
 
-**Hinweis**: Die Teilleistungs-Arten können unter [Schulverwaltung](/schild2/unterricht-kataloge/schulverwaltung) \> [Teilleistungs-Arten](/schild2/unterricht-kataloge/teilleistungs-arten) ergänzt werden.
+**Hinweis**: Die Teilleistungs-Arten können unter [Schulverwaltung](/schild2/unterricht-kataloge/schulverwaltung) \> [Teilleistungsarten](/schild2/unterricht-kataloge/teilleistungs-arten) ergänzt werden.
 
 ------------------------------------------------------------------------
 

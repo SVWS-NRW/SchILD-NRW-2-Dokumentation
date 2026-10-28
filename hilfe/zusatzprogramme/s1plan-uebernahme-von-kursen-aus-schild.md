@@ -1,8 +1,10 @@
 ---
-title: "S1PLAN:Übernahme von Kursen aus Schild"
+title: "SchILD-Kurse in S1Plan übernehmen"
 ---
 
-# S1PLAN:Übernahme von Kursen aus Schild
+<a id="s1plan-ubernahme-von-kursen-aus-schild"></a>
+
+# SchILD-Kurse in S1Plan übernehmen
 
 Im Folgenden wird davon ausgegangen, dass in SchILD-NRW Kurse vorhanden sind. Im neuen Schuljahr sollen diese Kurse aber neu zusammengesetzt werden. Dies wird am Beispiel von Religion und praktischer Philosophie in einem Jahrgang 08 erläutert.
 

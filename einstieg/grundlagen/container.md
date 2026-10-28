@@ -1,8 +1,10 @@
 ---
-title: "Container"
+title: "Schülerliste und Auswahl"
 ---
 
-# Container
+<a id="container"></a>
+
+# Schülerliste und Auswahl
 
 ![Container_re_Maus](/bilder/einstieg/grundlagen/container-re-maus.jpg)
 
@@ -14,7 +16,7 @@ So wirken sich alle angewählten Gruppenprozesse ausschließlich auf die im Cont
 
 In der Regel wird auch beim Druck von Reports genau diese Schülermenge berücksichtigt.
 
-Wie Sie die Menge der Schüler im Container beeinflussen können, wird in der Kategorie [Auswahl](/schild2/auswahl/auswahl) erklärt. Dort werden zahlreiche Möglichkeiten beschrieben, wie man nach bestimmten Kriterien die Schülerauswahl im Container einschränken kann.
+Wie Sie die Menge der Schüler im Container beeinflussen können, wird in der Kategorie [Menü Auswahl](/schild2/auswahl/auswahl) erklärt. Dort werden zahlreiche Möglichkeiten beschrieben, wie man nach bestimmten Kriterien die Schülerauswahl im Container einschränken kann.
 
 Neben der Funktion, die Menge der Schüler zur Weiterverarbeitung und zum Druck zu steuern, können im Container noch einige andere Funktionen ausgeführt werden. Diese zeigen sich bei einem Klick mit der rechten Maustaste in den Containerbereich. (siehe Bild)
 
@@ -54,7 +56,7 @@ Dahinter befindet sich ein Menü zur Anpassung der im Container befind
 In der Standardeinstellung sind die Spalten "Schülername, -vorname, Klasse" eingeblendet.\
 Bei Grundschuldatenbanken ist in der Regel der Jahrgang als dritte Spalte angewählt.\
 Bitte beachten Sie, dass diese Einstellungsmöglichkeit \
-unter [Extras](/administration/benutzer-einstellungen/extras) \> [Programm-Einstellungen](/administration/benutzer-einstellungen/programm-einstellungen) aktiviert sein muss!\
+unter [Menü Extras](/administration/benutzer-einstellungen/extras) \> [Programmeinstellungen](/administration/benutzer-einstellungen/programm-einstellungen) aktiviert sein muss!\
 
 **Alle auswählen** \
 Dieser Befehl führt dazu, dass alle Schüler im Container ausgewählt und "blau" unterlegt werden.\
@@ -86,10 +88,10 @@ Diese Tabelle kann als Excel-Datei (XLS) gespeichert werden.\
 Schild sendet an alle Mailadressen der ausgewählten Schüler eine E-Mail. \
 Hier wird die Adresse unter [Individual-Daten I](/schild2/schueler/individual-daten-i) genutzt.\
 Bitte beachten Sie, dass dazu die Maileinstellungen in Schild-NRW unter \
-[Extras](/administration/benutzer-einstellungen/extras) \> [Programm-Einstellungen](/administration/benutzer-einstellungen/programm-einstellungen) \> Globale Einstellungen vorgenommen werden müssen.\
+[Menü Extras](/administration/benutzer-einstellungen/extras) \> [Programmeinstellungen](/administration/benutzer-einstellungen/programm-einstellungen) \> Globale Einstellungen vorgenommen werden müssen.\
 
 **E-Mail an Erzieher der ausgewählten Schüler senden**\
-Verwendet beim Versand die E-Mail-Adressen, die unter [Erz.-Berechtigte](/schild2/schueler/erz-berechtigte) eingetragen sind.\
+Verwendet beim Versand die E-Mail-Adressen, die unter [Erziehungsberechtigte verwalten](/schild2/schueler/erz-berechtigte) eingetragen sind.\
 Schild berücksichtigt dabei auch den Haken bei "erhält Anschreiben".\
 
 **E-Mail an weitere Adresse der ausgewählten Schüler senden**\
@@ -112,7 +114,7 @@ Alle "blau" ausgewählten Schüler können in einem neuen Fenster zu d
 individuellen Schülergruppen hinzugefügt werden.\
 Diese Schülergruppen können frei definiert werden und bieten eine Möglichkeit,\
 Schülerdatensätze für spätere Arbeiten zu sammeln.\
-Wie Sie individuelle Schülergruppen definieren können, erfahren Sie unter [Auswahl](/schild2/auswahl/auswahl)\
+Wie Sie individuelle Schülergruppen definieren können, erfahren Sie unter [Menü Auswahl](/schild2/auswahl/auswahl)\
 
 **Zu allgemeiner Personengruppe hinzufügen**\
 Fügt die "blau" ausgewählten Schülerdatensätze zu einer allgemeinen Personengruppe hinzu.\

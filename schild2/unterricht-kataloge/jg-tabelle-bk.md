@@ -1,8 +1,10 @@
 ---
-title: "JG-Tabelle-BK"
+title: "Statistikjahrgänge am Berufskolleg"
 ---
 
-# JG-Tabelle-BK
+<a id="jg-tabelle-bk"></a>
+
+# Statistikjahrgänge am Berufskolleg
 
 ![JG Tabelle BK](/bilder/schild2/unterricht-kataloge/jg-tabelle-bk.jpg)
 

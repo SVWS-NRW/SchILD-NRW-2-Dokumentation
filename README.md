@@ -30,6 +30,7 @@ Das Kopfmenü hat sechs Zugänge: **Einstieg · SchILD2 · Zeugnisse · Reportin
 
 - Artikel direkt in ihren Markdown-Dateien bearbeiten. Sichtbare Quellenlinks, fachliche Einzelheiten, Beispiele und benötigte Sprungziele erhalten.
 - `.vitepress/navigation.json` enthält Themenmenüs und Hauptnavigation; `.vitepress/program-reference.json` die SchILD2-Programmreferenz.
+- Ein Artikel kann aus mehreren Rubriken erreichbar sein. Seitenmenüs erhalten den gewählten Lesekontext über `rubrik`; die Programmreferenz verwendet `referenz`, das A–Z-Verzeichnis `artikel=az`. Die Artikelpfade bleiben unverändert. `.vitepress/section-navigation.mjs` hält Rubrik, Themenzweig und Weiterblättern zusammen; die Referenz darf keine normalen Artikeladressen im Seitenmenü überschreiben.
 - Bilder liegen thematisch unter `public/bilder/`; der Katalog unter `/bilder/` erleichtert Wiederverwendung. Seine Daten stehen in `.vitepress/image-catalog.json`.
 - `.vitepress/redirects.json` enthält Ersatzadressen für entfernte Leerartikel.
 - `.vitepress/pdf-sources.json` ordnet ausgewertete PDF-Quellen ihren Artikeln zu. Zusätzliche Programmpakete oder Handbuchsammlungen werden nicht vorgehalten.

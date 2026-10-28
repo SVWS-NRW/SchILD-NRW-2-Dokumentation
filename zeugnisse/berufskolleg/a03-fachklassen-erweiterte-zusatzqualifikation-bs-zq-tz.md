@@ -1,8 +1,12 @@
 ---
-title: "A03 Fachklassen/erweiterte Zusatzqualifikation (BS/ZQ; TZ)"
+title: "A03 Fachklassen mit Zusatzqualifikation"
 ---
 
-# A03 Fachklassen/erweiterte Zusatzqualifikation (BS/ZQ; TZ)
+<a id="a03-fachklassen-erweiterte-zusatzqualifikation-bs-zq-tz"></a>
+
+# A03 Fachklassen mit Zusatzqualifikation
+
+Fachklassen der Berufsschule mit erweiterter Zusatzqualifikation in Teilzeit.
 
 ![BK_Abschluss_A03](/bilder/zeugnisse/berufskolleg/bk-abschluss-a03.png)
 

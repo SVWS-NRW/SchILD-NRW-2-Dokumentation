@@ -1,8 +1,10 @@
 ---
-title: "Gruppenprozesse Abitur"
+title: "Gruppenprozesse für das Abitur"
 ---
 
-# Gruppenprozesse Abitur
+<a id="gruppenprozesse-abitur"></a>
+
+# Gruppenprozesse für das Abitur
 
 ![GP-Abitur](/bilder/zeugnisse/sekundarstufen/gp-abitur.jpg)
 
@@ -10,15 +12,15 @@ Zu den "Gruppenaktionen für das Abitur" gehören folgende Gruppenprozesse.
 
 Bitte klicken Sie die Artikel an, um Informationen zu den dahinter liegenden Sammelaktionen zu bekommen.
 
-- [Leistungsdaten holen](/zeugnisse/sekundarstufen/leistungsdaten-holen)
-- [Kurse algorithmisch markieren](/zeugnisse/sekundarstufen/kurse-algorithmisch-markieren)
-- [Abitur-Zulassung berechnen](/zeugnisse/sekundarstufen/abitur-zulassung-berechnen)
-- [Prüfungsergebnisse eingeben](/zeugnisse/sekundarstufen/pruefungsergebnisse-eingeben)
-- [Mdl. Prüfungen A1-A3 festlegen](/zeugnisse/sekundarstufen/mdl-pruefungen-a1-a3-festlegen)
-- [Gesamtergebnis berechnen](/zeugnisse/sekundarstufen/gesamtergebnis-berechnen)
-- [Zusatzdaten (Latinum...) eingeben](/zeugnisse/sekundarstufen/zusatzdaten-latinum-eingeben)
-- [Gesamt-Fehlstunden berechnen](/zeugnisse/sekundarstufen/gesamt-fehlstunden-berechnen)
-- [Abitur-Jahr setzen (für Statistik)](/zeugnisse/sekundarstufen/abitur-jahr-setzen-fuer-statistik)
+- [Leistungsdaten übernehmen](/zeugnisse/sekundarstufen/leistungsdaten-holen)
+- [Kurse für die Zulassung markieren](/zeugnisse/sekundarstufen/kurse-algorithmisch-markieren)
+- [Abiturzulassung](/zeugnisse/sekundarstufen/abitur-zulassung-berechnen)
+- [Prüfungsergebnisse](/zeugnisse/sekundarstufen/pruefungsergebnisse-eingeben)
+- [Mündliche Prüfungen festlegen](/zeugnisse/sekundarstufen/mdl-pruefungen-a1-a3-festlegen)
+- [Abiturergebnis](/zeugnisse/sekundarstufen/gesamtergebnis-berechnen)
+- [Sprachnachweise und Zusatzdaten](/zeugnisse/sekundarstufen/zusatzdaten-latinum-eingeben)
+- [Gesamtfehlstunden berechnen](/zeugnisse/sekundarstufen/gesamt-fehlstunden-berechnen)
+- [Abiturjahr setzen](/zeugnisse/sekundarstufen/abitur-jahr-setzen-fuer-statistik)
 
 ------------------------------------------------------------------------
 

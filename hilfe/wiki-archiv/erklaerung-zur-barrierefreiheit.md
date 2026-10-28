@@ -1,9 +1,11 @@
 ---
-title: "Erklärung zur Barrierefreiheit"
+title: "Barrierefreiheitserklärung des Wikis"
 search: false
 ---
 
-# Erklärung zur Barrierefreiheit
+<a id="erklarung-zur-barrierefreiheit"></a>
+
+# Barrierefreiheitserklärung des Wikis
 
 <a id="Barrierefreiheit_dieser_Internetseite"></a>
 

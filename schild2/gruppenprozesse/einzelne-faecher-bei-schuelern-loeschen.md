@@ -1,8 +1,10 @@
 ---
-title: "Einzelne Fächer bei Schülern löschen"
+title: "Einzelne Fächer löschen"
 ---
 
-# Einzelne Fächer bei Schülern löschen
+<a id="einzelne-facher-bei-schulern-loschen"></a>
+
+# Einzelne Fächer löschen
 
 Mit dem Aufruf des Gruppenprozesses "Einzelne Fächer bei Schülern löschen" erscheint das Eingabefenster "Fächer bei Schülern löschen".
 

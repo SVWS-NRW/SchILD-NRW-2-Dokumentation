@@ -1,11 +1,13 @@
 ---
-title: "Schnittstellenbeschreibung"
+title: "Dateien und Felder der Textschnittstelle"
 pageClass: reference-tables
 ---
 
-# Schnittstellenbeschreibung
+<a id="schnittstellenbeschreibung"></a>
 
-Der folgende Artikel beschreibt die einzelnen Dateien der [Schnittstelle Schild-NRW](/schild2/import-export-statistik/schnittstelle-schild-nrw) und wie diese zum Import vorliegen müssen.
+# Dateien und Felder der Textschnittstelle
+
+Der folgende Artikel beschreibt die einzelnen Dateien der [Datenaustausch über die SchILD-Schnittstelle](/schild2/import-export-statistik/schnittstelle-schild-nrw) und wie diese zum Import vorliegen müssen.
 
 Lesen Sie hier einige **[Vorbemerkungen](/schild2/import-export-statistik/vorbemerkungen-schnittstelle)**.
 

@@ -1,8 +1,10 @@
 ---
-title: "JG-Tabelle-GY"
+title: "Statistikjahrgänge an Gymnasien"
 ---
 
-# JG-Tabelle-GY
+<a id="jg-tabelle-gy"></a>
+
+# Statistikjahrgänge an Gymnasien
 
 ![JGTabelle GY](/bilder/schild2/unterricht-kataloge/jgtabelle-gy.png)
 

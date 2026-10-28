@@ -1,8 +1,10 @@
 ---
-title: "Noten, Zeugnisvorbereitung"
+title: "Gruppenprozesse für Noten und Zeugnisse"
 ---
 
-# Noten, Zeugnisvorbereitung
+<a id="noten-zeugnisvorbereitung"></a>
+
+# Gruppenprozesse für Noten und Zeugnisse
 
 ![GP-Noten](/bilder/zeugnisse/vorbereitung/gp-noten.jpg)
 
@@ -10,23 +12,23 @@ Unter dem Karteireiter "Noten, Zeugnisvorbereitung" verbergen sich folgende Grup
 
 Bitte klicken Sie die Artikel an, um Informationen zu den dahinter liegenden Sammelaktionen zu bekommen.
 
-- [Noten, Mahnungen und Fehlstunden eingeben](/zeugnisse/vorbereitung/noten-mahnungen-und-fehlstunden-eingeben)
+- [Noten, Mahnungen und Fehlstunden](/zeugnisse/vorbereitung/noten-mahnungen-und-fehlstunden-eingeben)
 - [Lernbereichsnoten eingeben](/zeugnisse/vorbereitung/lernbereichsnoten-eingeben)
 - [Fächer ohne Noten suchen](/zeugnisse/vorbereitung/faecher-ohne-noten-suchen)
 - [Fächer ohne Lehrkraft suchen](/zeugnisse/vorbereitung/faecher-ohne-lehrkraft-suchen)
 - [Mahnungen automatisch setzen](/zeugnisse/vorbereitung/mahnungen-automatisch-setzen)
 - [Mahnungen drucken](/zeugnisse/vorbereitung/mahnungen-drucken)
-- [Fehlstunden-Summen manuell eingeben](/zeugnisse/vorbereitung/fehlstunden-summen-manuell-eingeben)
-- [Fehlstunden-Summen automatisch berechnen](/zeugnisse/vorbereitung/fehlstunden-summen-automatisch-berechnen)
-- [Konferenz-/Zeugnis-Datum setzen](/zeugnisse/vorbereitung/konferenz-zeugnis-datum-setzen)
+- [Fehlstunden eingeben](/zeugnisse/vorbereitung/fehlstunden-summen-manuell-eingeben)
+- [Fehlstunden berechnen](/zeugnisse/vorbereitung/fehlstunden-summen-automatisch-berechnen)
+- [Konferenz- und Zeugnisdatum](/zeugnisse/vorbereitung/konferenz-zeugnis-datum-setzen)
 - [Zeugnisbemerkungen eintragen](/zeugnisse/vorbereitung/zeugnisbemerkungen-eintragen)
 - Platzhalter in Memo-Feldern ersetzen
-- [Zuweisungen durchführen](/zeugnisse/vorbereitung/zuweisungen-durchfuehren)
+- [Fach- und Förderunterricht](/zeugnisse/vorbereitung/zuweisungen-durchfuehren)
 - [Abgeschlossene Fächer holen](/zeugnisse/vorbereitung/abgeschlossene-faecher-holen)
 - [Abgeschlossene Fächer löschen](/zeugnisse/vorbereitung/abgeschlossene-faecher-loeschen)
 - [Zugeordnete Zeugnisformulare drucken](/zeugnisse/vorbereitung/zugeordnete-zeugnisformulare-drucken)
-- [Zeugnisse drucken und Schüler ausschulen](/zeugnisse/vorbereitung/zeugnisse-drucken-und-schueler-ausschulen)
-- [Noten des aktuellen Abschnittes löschen](/zeugnisse/vorbereitung/noten-des-aktuellen-abschnittes-loeschen)
+- [Zeugnisdruck und Entlassung](/zeugnisse/vorbereitung/zeugnisse-drucken-und-schueler-ausschulen)
+- [Abschnittsnoten löschen](/zeugnisse/vorbereitung/noten-des-aktuellen-abschnittes-loeschen)
 
 ------------------------------------------------------------------------
 

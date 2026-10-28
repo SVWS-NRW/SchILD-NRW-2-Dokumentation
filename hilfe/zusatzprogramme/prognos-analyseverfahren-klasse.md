@@ -1,8 +1,10 @@
 ---
-title: "Prognos:Analyseverfahren: Klasse"
+title: "Klassen mit PM2 analysieren"
 ---
 
-# Prognos:Analyseverfahren: Klasse
+<a id="prognos-analyseverfahren-klasse"></a>
+
+# Klassen mit PM2 analysieren
 
 Nach der Auswahl des Analyseverfahrens für eine Klasse erscheint zuerst das Auswahlfenster Klasse:
 

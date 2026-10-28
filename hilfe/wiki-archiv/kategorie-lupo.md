@@ -1,8 +1,10 @@
 ---
-title: "Kategorie:LuPO"
+title: "Wiki-Kategorie LuPO"
 ---
 
-# Kategorie:LuPO
+<a id="kategorie-lupo"></a>
+
+# Wiki-Kategorie LuPO
 
 Der Kategorie LuPO gehören alle Texte an, welche mit dem Programm LuPO zu tun haben.
 

@@ -1,20 +1,22 @@
 ---
-title: "Prognos"
+title: "PM2-Handbuch"
 ---
 
-# Prognos
+<a id="prognos"></a>
+
+# PM2-Handbuch
 
 <a id="Inhaltsangabe"></a>
 
 ## Inhaltsangabe
 
-- [Einleitung](/hilfe/zusatzprogramme/prognos-einleitung)
+- [Einführung](/hilfe/zusatzprogramme/prognos-einleitung)
 - [Installation](/hilfe/zusatzprogramme/prognos-installation)
-- [Programmstart](/hilfe/zusatzprogramme/prognos-programmstart)
-- [Hauptfenster](/hilfe/zusatzprogramme/prognos-hauptfenster)
-  - [Einzelfall](/hilfe/zusatzprogramme/prognos-analyseverfahren-einzelfall)
-  - [Klasse](/hilfe/zusatzprogramme/prognos-analyseverfahren-klasse)
-  - [Datei](/hilfe/zusatzprogramme/prognos-analyseverfahren-datei)
+- [Erster Programmstart](/hilfe/zusatzprogramme/prognos-programmstart)
+- [Analyseverfahren](/hilfe/zusatzprogramme/prognos-hauptfenster)
+  - [Einzelfall analysieren](/hilfe/zusatzprogramme/prognos-analyseverfahren-einzelfall)
+  - [Klasse analysieren](/hilfe/zusatzprogramme/prognos-analyseverfahren-klasse)
+  - [Notendatei analysieren](/hilfe/zusatzprogramme/prognos-analyseverfahren-datei)
 - Tabelle
 - Kontextmenü
 - weitere Fenster

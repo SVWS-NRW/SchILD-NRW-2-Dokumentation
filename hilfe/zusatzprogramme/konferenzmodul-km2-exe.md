@@ -1,8 +1,10 @@
 ---
-title: "Konferenzmodul KM2.exe"
+title: "Das Konferenzmodul KM2 kennenlernen"
 ---
 
-# Konferenzmodul KM2.exe
+<a id="konferenzmodul-km2-exe"></a>
+
+# Das Konferenzmodul KM2 kennenlernen
 
 ![Km2-logo](/bilder/tools/km2/km2-logo.png)
 
@@ -73,31 +75,31 @@ Dieser Dialog besteht aus den beiden Registern „Allgemein" und „Administrati
 
 ### Administration
 
-- Siehe → **[**KM<sup>2</sup>** - Parameter - Administration](/hilfe/zusatzprogramme/km2-parameter-administration)**
+- Siehe → **[Datenbank und Administration](/hilfe/zusatzprogramme/km2-parameter-administration)**
 
 <a id="Allgemein"></a>
 
 ### Allgemein
 
-- Siehe → **[**KM<sup>2</sup>** - Parameter - Allgemein](/hilfe/zusatzprogramme/km2-parameter-allgemein)**
+- Siehe → **[Anzeige und Fächerauswahl](/hilfe/zusatzprogramme/km2-parameter-allgemein)**
 
 <a id="Benutzerverwaltung"></a>
 
 ## Benutzerverwaltung
 
-siehe [Benutzerverwaltung](/administration/benutzer-einstellungen/benutzerverwaltung)
+siehe [Benutzerrechte in KM2](/administration/benutzer-einstellungen/benutzerverwaltung)
 
 <a id="Modulbenutzung"></a>
 
 ## Modulbenutzung
 
-siehe [Modulbenutzung](/hilfe/zusatzprogramme/modulbenutzung)
+siehe [Mit KM2 in der Konferenz arbeiten](/hilfe/zusatzprogramme/modulbenutzung)
 
 <a id="Programm_-_Updates"></a>
 
 ## Programm - Updates
 
-siehe [KM2-Programmupdate](/hilfe/zusatzprogramme/km2-programmupdate)
+siehe [KM2 aktualisieren](/hilfe/zusatzprogramme/km2-programmupdate)
 
 <a id="Zusätzliche_Hinweise"></a>
 <a id="Zus.C3.A4tzliche_Hinweise"></a>

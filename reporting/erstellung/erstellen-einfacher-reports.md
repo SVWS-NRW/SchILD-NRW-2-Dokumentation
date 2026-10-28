@@ -1,8 +1,10 @@
 ---
-title: "Erstellen einfacher Reports"
+title: "Einfache Reports erstellen und bearbeiten"
 ---
 
-# Erstellen einfacher Reports
+<a id="erstellen-einfacher-reports"></a>
+
+# Einfache Reports erstellen und bearbeiten
 
 <a id="Einfache_Änderungen_an_bestehenden_Reports_vornehmen"></a>
 <a id="Einfache_.C3.84nderungen_an_bestehenden_Reports_vornehmen"></a>

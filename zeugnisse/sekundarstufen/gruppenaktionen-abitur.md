@@ -1,8 +1,10 @@
 ---
-title: "Gruppenaktionen Abitur"
+title: "Gruppenaktionen für das Abitur"
 ---
 
-# Gruppenaktionen Abitur
+<a id="gruppenaktionen-abitur"></a>
+
+# Gruppenaktionen für das Abitur
 
 ![GP-Abitur](/bilder/zeugnisse/sekundarstufen/gp-abitur.jpg)
 
@@ -10,15 +12,15 @@ Unter dem Karteireiter "Abitur" verbergen sich folgende Gruppenprozesse.
 
 Bitte klicken Sie die Artikel an, um Informationen zu den dahinter liegenden Sammelaktionen zu bekommen.
 
-- [Leistungsdaten holen](/zeugnisse/sekundarstufen/leistungsdaten-holen)
-- [Kurse algorithmisch markieren](/zeugnisse/sekundarstufen/kurse-algorithmisch-markieren)
-- [Abitur-Zulassung berechnen](/zeugnisse/sekundarstufen/abitur-zulassung-berechnen)
-- [Prüfungsergebnisse eingeben](/zeugnisse/sekundarstufen/pruefungsergebnisse-eingeben)
-- [Mündliche Prüfungen A1-A3 festlegen](/zeugnisse/sekundarstufen/muendliche-pruefungen-a1-a3-festlegen)
-- [Gesamtergebnis berechnen](/zeugnisse/sekundarstufen/gesamtergebnis-berechnen)
-- [Zusatzdaten (Latimun...) eingeben](/zeugnisse/sekundarstufen/zusatzdaten-latimun-eingeben)
-- [Gesamt-Fehlstunden berechnen](/zeugnisse/sekundarstufen/gesamt-fehlstunden-berechnen)
-- [Abitur-Jahr setzen (für Statistik)](/zeugnisse/sekundarstufen/abitur-jahr-setzen-fuer-statistik)
+- [Leistungsdaten übernehmen](/zeugnisse/sekundarstufen/leistungsdaten-holen)
+- [Kurse für die Zulassung markieren](/zeugnisse/sekundarstufen/kurse-algorithmisch-markieren)
+- [Abiturzulassung](/zeugnisse/sekundarstufen/abitur-zulassung-berechnen)
+- [Prüfungsergebnisse](/zeugnisse/sekundarstufen/pruefungsergebnisse-eingeben)
+- [Mündliche Prüfungen festlegen](/zeugnisse/sekundarstufen/muendliche-pruefungen-a1-a3-festlegen)
+- [Abiturergebnis](/zeugnisse/sekundarstufen/gesamtergebnis-berechnen)
+- [Sprachnachweise und Zusatzdaten](/zeugnisse/sekundarstufen/zusatzdaten-latimun-eingeben)
+- [Gesamtfehlstunden berechnen](/zeugnisse/sekundarstufen/gesamt-fehlstunden-berechnen)
+- [Abiturjahr setzen](/zeugnisse/sekundarstufen/abitur-jahr-setzen-fuer-statistik)
 
 ------------------------------------------------------------------------
 

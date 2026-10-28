@@ -1,8 +1,10 @@
 ---
-title: "Lernabschnitte, Versetzung"
+title: "Gruppenprozesse für Lernabschnitte und Versetzung"
 ---
 
-# Lernabschnitte, Versetzung
+<a id="lernabschnitte-versetzung"></a>
+
+# Gruppenprozesse für Lernabschnitte und Versetzung
 
 ![GP-Lernabschnitte](/bilder/schild2/versetzung/gp-lernabschnitte.jpg)
 
@@ -10,9 +12,9 @@ Unter dem Karteireiter "Lernabschnitte, Versetzung" verbergen sich folgende Grup
 
 Bitte klicken Sie die Artikel an, um Informationen zu den dahinter liegenden Sammelaktionen zu bekommen.
 
-- [Versetzungs-/Abschluss-Berechnung](/schild2/versetzung/versetzungs-abschluss-berechnung)
-- [Versetzung/Übertragung ins neue Halbjahr oder in Abschluss](/schild2/versetzung/versetzung-uebertragung-ins-neue-halbjahr-oder-in-abschluss)
-- [Lernabschnitt individuell anlegen/bearbeiten](/schild2/versetzung/lernabschnitt-individuell-anlegen-bearbeiten)
+- [Versetzung und Abschlüsse](/schild2/versetzung/versetzungs-abschluss-berechnung)
+- [Einzelne Gruppen fortschreiben](/schild2/versetzung/versetzung-uebertragung-ins-neue-halbjahr-oder-in-abschluss)
+- [Lernabschnitte bearbeiten](/schild2/versetzung/lernabschnitt-individuell-anlegen-bearbeiten)
 - Lernabschnitt mit Standardangaben anlegen
 - [Abschnittsdaten löschen](/schild2/versetzung/abschnittsdaten-loeschen)
 

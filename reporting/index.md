@@ -4,19 +4,19 @@ Reports verwalten, erstellen und mit RAP erweitern.
 
 ## [Reports verwalten und drucken](/reporting/verwaltung)
 
-- [Druckausgabe](/reporting/verwaltung/druckausgabe)
-- [Reportexplorer aufrufen](/reporting/verwaltung/reportexplorer-aufrufen)
-- [Standard-Formulare drucken](/reporting/verwaltung/standard-formulare-drucken)
+- [Druckfunktionen](/reporting/verwaltung/druckausgabe)
+- [Report-Explorer öffnen](/reporting/verwaltung/reportexplorer-aufrufen)
+- [Standardformulare](/reporting/verwaltung/standard-formulare-drucken)
 - [Report aus Archiv drucken](/reporting/verwaltung/report-aus-archiv-drucken)
 - [Word-Seriendruck](/reporting/verwaltung/word-seriendruck)
 
 ## [Reports erstellen](/reporting/erstellung)
 
-- [Reporting](/reporting/erstellung/reporting)
+- [Reporting-Grundlagen](/reporting/erstellung/reporting)
 - [Reportbaukasten](/reporting/erstellung/reportbaukasten)
-- [Erstellen einfacher Reports](/reporting/erstellung/erstellen-einfacher-reports)
-- [Einrichtung des Report-Explorers](/reporting/erstellung/einrichtung-des-report-explorers)
-- [Ausgewählte Beispiele aus der BASIC-Sammlung](/reporting/erstellung/ausgewaehlte-beispiele-aus-der-basic-sammlung)
+- [Einfache Reports erstellen](/reporting/erstellung/erstellen-einfacher-reports)
+- [Report-Explorer einrichten](/reporting/erstellung/einrichtung-des-report-explorers)
+- [BASIC-Reportbeispiele](/reporting/erstellung/ausgewaehlte-beispiele-aus-der-basic-sammlung)
 
 ## [RAP-Funktionen](/reporting/rap)
 

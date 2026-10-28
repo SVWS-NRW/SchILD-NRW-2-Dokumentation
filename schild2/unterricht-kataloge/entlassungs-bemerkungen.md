@@ -1,8 +1,10 @@
 ---
-title: "Entlassungs-Bemerkungen"
+title: "Entlassungsbemerkungen"
 ---
 
-# Entlassungs-Bemerkungen
+<a id="entlassungs-bemerkungen"></a>
+
+# Entlassungsbemerkungen
 
 Die, auf der Registerkarte "Schulbesuch" im Unterpunkt "Entlassung von eigener Schule" -\> "Bemerkung/Entlassgrund" zur VErfügung stehenden Einträge, müssen in diesem Katalog zuerst bereitgestellt werden.
 

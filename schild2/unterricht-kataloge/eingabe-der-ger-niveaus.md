@@ -1,8 +1,10 @@
 ---
-title: "Eingabe der GeR-Niveaus"
+title: "GeR-Niveaus erfassen"
 ---
 
-# Eingabe der GeR-Niveaus
+<a id="eingabe-der-ger-niveaus"></a>
+
+# GeR-Niveaus erfassen
 
 
 Die Vergabe des GeR-Niveaus hängt unmittelbar mit dem korrekten Eintrag der Sprachenfolge auf der Karteikarte „Laufbahninfo“ zusammen. Neben der Sprachenfolge ist das GeR-Niveau auf jedem Abschlusszeugnis zu dokumentieren. Es wird nicht für die Sprachen Lateinisch, Hebräisch und Altgriechisch vergeben, sondern nur für die „modernen“ Fremdsprachen. Es gibt zwei Möglichkeiten der Erfassung des GeR:

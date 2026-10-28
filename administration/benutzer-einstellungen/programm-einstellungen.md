@@ -1,8 +1,10 @@
 ---
-title: "Programm-Einstellungen"
+title: "Programmeinstellungen"
 ---
 
-# Programm-Einstellungen
+<a id="programm-einstellungen"></a>
+
+# Programmeinstellungen
 
 <a id="Individuelle_Einstellungen"></a>
 
@@ -24,7 +26,7 @@ Ortsteile nach PLZ filtern
 
 Autoedit-Funktion für Individualdaten deaktivieren
 
-In der Standardeinstellung kann in den Individualdaten jeder Eintrag durch Eintippen oder Auswahl verändert werden. Möchte man eine höhere Sicherheit vor ungewollten Änderungen erzielen, so kann man diese Option abwählen. Danach muss vor jeder Änderung das kleine Dreieckssymbol (▲ "Datensatz bearbeiten") in der [Iconleiste](/einstieg/grundlagen/iconleiste) betätigt werden, erst danach kann eine Änderung eingegeben werden.
+In der Standardeinstellung kann in den Individualdaten jeder Eintrag durch Eintippen oder Auswahl verändert werden. Möchte man eine höhere Sicherheit vor ungewollten Änderungen erzielen, so kann man diese Option abwählen. Danach muss vor jeder Änderung das kleine Dreieckssymbol (▲ "Datensatz bearbeiten") in der [Symbolleiste](/einstieg/grundlagen/iconleiste) betätigt werden, erst danach kann eine Änderung eingegeben werden.
 
 Zusätzliche Kurslehrer in Leistungsdaten zeigen
 
@@ -86,7 +88,7 @@ Schild-NRW prüft bei Aktivierung, ob Datumswerte nicht stimmig sind. (Z.B. Entl
 
 Telefonliste automatisch ergänzen
 
-Diese Option sorgt dafür, dass eingetragene Festnetz- oder Fax-/Mobilnummern automatisch auf dem Karteireiter [Erz.-Berechtigte](/schild2/schueler/erz-berechtigte) ergänzt bzw. aktualisiert werden.
+Diese Option sorgt dafür, dass eingetragene Festnetz- oder Fax-/Mobilnummern automatisch auf dem Karteireiter [Erziehungsberechtigte verwalten](/schild2/schueler/erz-berechtigte) ergänzt bzw. aktualisiert werden.
 
 Bei Neueingabe prüfen, ob Schülername schon vorhanden
 
@@ -98,7 +100,7 @@ Anstelle der Ländernamen (Gebietsschlüssel) werden 205 alphabetisch sortierte 
 
 Straße und Hausnummer bei Schülerdaten getrennt verwalten
 
-Hier kann gewählt werden, ob Straßen und Hausnummern in einem Datenfeld oder getrennten Datenfeldern verwaltet werden sollen. Wird diese Option umgestellt, so muss einmal unter [Extras](/administration/benutzer-einstellungen/extras) der Prozess [Straße und Hausnummer bei Schülerdaten trennen](/schild2/gruppenprozesse/strasse-und-hausnummer-bei-schuelerdaten-trennen) angestoßen werden.
+Hier kann gewählt werden, ob Straßen und Hausnummern in einem Datenfeld oder getrennten Datenfeldern verwaltet werden sollen. Wird diese Option umgestellt, so muss einmal unter [Menü Extras](/administration/benutzer-einstellungen/extras) der Prozess [Straße und Hausnummer trennen](/schild2/gruppenprozesse/strasse-und-hausnummer-bei-schuelerdaten-trennen) angestoßen werden.
 
 Floskeln in Datenbank verwalten
 
@@ -106,7 +108,7 @@ Mit dieser Option kann gewählt werden, ob die Floskeln in der Datenbank oder in
 
 Externe Schüler im Standardfilter wie Aktive behandeln
 
-Wenn externe Schüler wie aktive Schüler im [Container](/einstieg/grundlagen/container) dargestellt werden sollen.
+Wenn externe Schüler wie aktive Schüler im [Schülerliste und Auswahl](/einstieg/grundlagen/container) dargestellt werden sollen.
 
 Statistikdatenbank (StatistikDB.mdb) benutzerbezogen speichern
 
@@ -166,7 +168,7 @@ Blendet den genannten Karteireiter aus, falls er nicht verwendet werden soll.
 
 Fachbezogenes Bemerkungsfeld zeigen
 
-Blendet das Datenfeld unter [Akt. Halbjahr](/zeugnisse/vorbereitung/akt-halbjahr) in den Leistungsdaten der Fächer im Schülerdatensatz ein. Hier können Texte und Bemerkungen zu jedem einzelnen Fach in einem Memofeld verwaltet werden. Dieses Feld wird häufig für Textzeugnisse genutzt. In der gymnasialen Oberstufe sollte hier z.B. das Projektkursthema eingetragen werden.
+Blendet das Datenfeld unter [Daten im aktuellen Halbjahr bearbeiten](/zeugnisse/vorbereitung/akt-halbjahr) in den Leistungsdaten der Fächer im Schülerdatensatz ein. Hier können Texte und Bemerkungen zu jedem einzelnen Fach in einem Memofeld verwaltet werden. Dieses Feld wird häufig für Textzeugnisse genutzt. In der gymnasialen Oberstufe sollte hier z.B. das Projektkursthema eingetragen werden.
 
 ------------------------------------------------------------------------
 
@@ -240,7 +242,7 @@ Gibt den Pfad zum Verzeichnis an, in dem die Dokumente zu den Schülern in Unter
 
 Dateimaske (bearbeiten)
 
-Hier kann die Ordnerstruktur der Dokumentenverwaltung festgelegt werden. Im Artikel [Dateimaske bearbeiten](/administration/benutzer-einstellungen/dateimaske-bearbeiten) gibt es weitere Informationen zu den genauen Einstellungen.
+Hier kann die Ordnerstruktur der Dokumentenverwaltung festgelegt werden. Im Artikel [Dateinamen und Ablage festlegen](/administration/benutzer-einstellungen/dateimaske-bearbeiten) gibt es weitere Informationen zu den genauen Einstellungen.
 
 Dokumentenverzeichnis für alle aktiven Schüler anlegen
 
@@ -340,7 +342,7 @@ Das Schnellzugriff-Fenster erscheint immer beim Start von Schild-NRW, es kann ab
 
 ![Chatmodul04](/bilder/administration/benutzer-einstellungen/chatmodul04.jpg)
 
-Hier werden die Grundeinstellungen für das **[Chatmodul](/hilfe/zusatzprogramme/schildchat-exe)** gesetzt. Wird das Modul aktiviert, so steht es dem Admin unter **[Extras](/administration/benutzer-einstellungen/extras)** zur Verfügung und kann dort gestartet werden.
+Hier werden die Grundeinstellungen für das **[Chatmodul](/hilfe/zusatzprogramme/schildchat-exe)** gesetzt. Wird das Modul aktiviert, so steht es dem Admin unter **[Menü Extras](/administration/benutzer-einstellungen/extras)** zur Verfügung und kann dort gestartet werden.
 
 Legen Sie den Port fest, der für das Chatmodul verwendet werden soll. Bitte denken Sie daran in evtl. vorhandenen Firewalls diesen Port zur Kommunikation freizugeben.
 

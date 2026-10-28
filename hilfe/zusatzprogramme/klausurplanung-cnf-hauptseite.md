@@ -1,8 +1,10 @@
 ---
-title: "Klausurplanung CNF:Hauptseite"
+title: "Klausuren mit Klausurplanung CNF planen"
 ---
 
-# Klausurplanung CNF:Hauptseite
+<a id="klausurplanung-cnf-hauptseite"></a>
+
+# Klausuren mit Klausurplanung CNF planen
 
 <a id="Hinweise"></a>
 

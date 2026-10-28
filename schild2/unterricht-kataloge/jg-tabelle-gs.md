@@ -1,8 +1,10 @@
 ---
-title: "JG-Tabelle-GS"
+title: "Statistikjahrgänge an Grundschulen"
 ---
 
-# JG-Tabelle-GS
+<a id="jg-tabelle-gs"></a>
+
+# Statistikjahrgänge an Grundschulen
 
 <a id="Die_Jahrgangstabelle"></a>
 

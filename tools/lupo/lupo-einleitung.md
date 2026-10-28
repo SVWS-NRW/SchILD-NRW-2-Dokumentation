@@ -1,8 +1,10 @@
 ---
-title: "Lupo:Einleitung"
+title: "LuPO kennenlernen"
 ---
 
-# Lupo:Einleitung
+<a id="lupo-einleitung"></a>
+
+# LuPO kennenlernen
 
 ![Lupo_reiter_laufbahn](/bilder/tools/lupo/lupo-reiter-laufbahn.png)
 

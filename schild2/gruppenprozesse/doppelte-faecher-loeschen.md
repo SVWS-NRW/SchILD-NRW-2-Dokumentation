@@ -6,7 +6,7 @@ title: "Doppelte Fächer löschen"
 
 Mithilfe dieses Gruppenprozesses können doppelte Einträge bei Fächern im ausgewählten Schuljahr und Abschnitt gelöscht werden.
 
-Zum doppelten Auftreten kann es kommen, wenn SchILD über den Datenimport Leistungsdaten importiert. Damit dieser Gruppenprozess arbeiten kann, muss unter Extras \> [Programm-Einstellungen](/administration/benutzer-einstellungen/programm-einstellungen) \> Globale Einstellungen \> Fächer und Noten der Haken bei "Doppelte Fächer bei Leistungsdaten vermeiden" gesetzt sein.
+Zum doppelten Auftreten kann es kommen, wenn SchILD über den Datenimport Leistungsdaten importiert. Damit dieser Gruppenprozess arbeiten kann, muss unter Extras \> [Programmeinstellungen](/administration/benutzer-einstellungen/programm-einstellungen) \> Globale Einstellungen \> Fächer und Noten der Haken bei "Doppelte Fächer bei Leistungsdaten vermeiden" gesetzt sein.
 
 Nach Durchlauf des Gruppenprozesses gibt SchILD eine Meldung, wie viele Fächereinträge entfernt wurden.
 

@@ -1,8 +1,10 @@
 ---
-title: "Reportbaukasten"
+title: "Reports mit dem Reportbaukasten erstellen"
 ---
 
-# Reportbaukasten
+<a id="reportbaukasten"></a>
+
+# Reports mit dem Reportbaukasten erstellen
 
 
 ![RepBau01](/bilder/reporting/erstellung/repbau01.jpg)

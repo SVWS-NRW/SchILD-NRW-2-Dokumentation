@@ -1,8 +1,10 @@
 ---
-title: "Lupo:Erste Schritte in Lupo"
+title: "Erste Schritte mit LuPO"
 ---
 
-# Lupo:Erste Schritte in Lupo
+<a id="lupo-erste-schritte-in-lupo"></a>
+
+# Erste Schritte mit LuPO
 
 Die ersten Schritte in Lupo hängen davon ab, ob Sie mit Hilfe von Schild-NRW direkt eine Lupo-Datei erstellt haben, ob Sie Schnittstellen-Dateien für Lupo bereitgestellt haben oder ob Sie alle Eingaben in Lupo manuell durchführen wollen.
 
@@ -46,7 +48,7 @@ Nach dem Initial-Import fehlen an Weiterbildungskollegs die Schülerdaten. Diese
 
 Grundsätzlich ist es auch möglich, über das Import-Menü Initial-Dateien in mehreren Schritten einzulesen. So können Sie z.B. zuerst über das Menü „Import \> Einzeldateien importieren \> Fächer“ lediglich die Fächer einlesen.Ändert sich der Fächerkanon der Schule oder die Schülermenge, so können Sie über das Menü „Import“ gezielt einzelne DAT-Dateien einlesen. Beim Import werden die Daten mit den bestehenden Daten verglichen. Auf mögliche Änderungen werden Sie aufmerksam gemacht, so dass Sie jederzeit die Kontrolle über Ihre Daten behalten. Denken Sie jedoch daran, dass zu löschende Fächer zu Datenverlusten bei bereits beratenen SuS führen können. Es empfiehlt sich daher, Fächer in LuPO vorerst nicht zu löschen, sondern alle Kontrollkästchen der nicht mehr benötigten Fächer im Fächerdialog zu deaktivieren Auf diese Weise können Sie mögliche Konflikte bei bestehenden Wahlen abfangen.
 
-Es ist theoretisch auch möglich, alle benötigten Angaben ohne Initial-Import manuell einzugeben. Dies ist insbesondere für Schulen interessant, die keine Schulverwaltungssoftware besitzen. Es bietet sich dabei an, die benötigten Daten nicht einzeln einzutippen, sondern Listen eines Tabellenkalkulationsprogramms in das Importformat zu überführen. So können die Dateien „SchuelerBasisdaten.dat“, „SchuelerSprachenfolgen.dat“, „SchuelerZusatzdaten.dat“ und „Faecher.dat“ leicht erzeugt werden. Diese Dateien bilden die Grundlage für einen SchILD-NRW unabhängigen Initial-Import. Der Aufbau der DAT-Textdateien wird in der [Schnittstellenbeschreibung](/schild2/import-export-statistik/schnittstellenbeschreibung) erläutert.
+Es ist theoretisch auch möglich, alle benötigten Angaben ohne Initial-Import manuell einzugeben. Dies ist insbesondere für Schulen interessant, die keine Schulverwaltungssoftware besitzen. Es bietet sich dabei an, die benötigten Daten nicht einzeln einzutippen, sondern Listen eines Tabellenkalkulationsprogramms in das Importformat zu überführen. So können die Dateien „SchuelerBasisdaten.dat“, „SchuelerSprachenfolgen.dat“, „SchuelerZusatzdaten.dat“ und „Faecher.dat“ leicht erzeugt werden. Diese Dateien bilden die Grundlage für einen SchILD-NRW unabhängigen Initial-Import. Der Aufbau der DAT-Textdateien wird in der [Dateien und Felder der Textschnittstelle](/schild2/import-export-statistik/schnittstellenbeschreibung) erläutert.
 
 <a id="Datenbearbeitung"></a>
 

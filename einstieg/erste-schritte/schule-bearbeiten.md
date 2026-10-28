@@ -1,8 +1,10 @@
 ---
-title: "Schule bearbeiten"
+title: "Schuldaten einrichten"
 ---
 
-# Schule bearbeiten
+<a id="schule-bearbeiten"></a>
+
+# Schuldaten einrichten
 
 Unter diesem Programmpunkt werden die Grundeinstellungen zur Schule vorgenommen.
 
@@ -26,7 +28,7 @@ Durch Betätigung des "Auswahl"-Buttons kann nachträglich die Schule (Schulnumm
 
 *Weitere Schultexte...*
 
-Hier können Sie zusätzliche Informationen z.B. zu Schulleitung oder anderen Personen hinzufügen, die dann später in der Reporting zum Druck zur Verfügung stehen. Die weiteren Texte werden wie in allen Katalogen hinzugefügt. Auch weitere Bezeichnungen zur Schule, die dann in bestimmten Briefen verwendet werden können, sind hier möglich. Über die Einbindung dieser Texte in Formularen finden Sie Informationen im Bereich [Reporting](/reporting/erstellung/reporting).
+Hier können Sie zusätzliche Informationen z.B. zu Schulleitung oder anderen Personen hinzufügen, die dann später in der Reporting zum Druck zur Verfügung stehen. Die weiteren Texte werden wie in allen Katalogen hinzugefügt. Auch weitere Bezeichnungen zur Schule, die dann in bestimmten Briefen verwendet werden können, sind hier möglich. Über die Einbindung dieser Texte in Formularen finden Sie Informationen im Bereich [Reporting im Überblick](/reporting/erstellung/reporting).
 
 **Noteneingabe gesperrt**
 
@@ -34,7 +36,7 @@ Mit diesem Haken kann in der gesamten Datenbank die Noteneingabe gesperrt werden
 
 **Aktuelle Datenbank ist am Hauptsitz der Schule installiert**
 
-Sollte die Datenbank im Außenstellenbetrieb verwendet werden, so kann dieser Haken entfernt werden. Das führt dazu, dass von den Usern bestimmte Kataloge nicht mehr verändert werden können. Hier wird das "+"-Zeichen in der Katalogansicht dann ausgeblendet. Diese Funktion ist wichtig, damit in der Außenstelle nicht einfach Katalogeinträge gemacht werden können, die dann am Hauptsitz nicht existieren, wenn später Schülerdatensätze zurückgeführt werden müssen. Im Außenstellenbetrieb, der in Frage kommt, wenn keine Internetleitung zur Verfügung steht, sollten die Schülerdatensätze des jeweiligen anderen Standortes gesperrt werden. Informationen dazu finden Sie unter [Iconleiste](/einstieg/grundlagen/iconleiste).
+Sollte die Datenbank im Außenstellenbetrieb verwendet werden, so kann dieser Haken entfernt werden. Das führt dazu, dass von den Usern bestimmte Kataloge nicht mehr verändert werden können. Hier wird das "+"-Zeichen in der Katalogansicht dann ausgeblendet. Diese Funktion ist wichtig, damit in der Außenstelle nicht einfach Katalogeinträge gemacht werden können, die dann am Hauptsitz nicht existieren, wenn später Schülerdatensätze zurückgeführt werden müssen. Im Außenstellenbetrieb, der in Frage kommt, wenn keine Internetleitung zur Verfügung steht, sollten die Schülerdatensätze des jeweiligen anderen Standortes gesperrt werden. Informationen dazu finden Sie unter [Symbolleiste](/einstieg/grundlagen/iconleiste).
 
 **Teamteaching ermöglichen**
 
@@ -67,7 +69,7 @@ Bitte informieren Sie sich, welche Gliederungen an Ihrer Schule aufgeführt sein
 
 **Teilstandorte**
 
-In der amtlichen Hauptstatistik 2013 wurde erstmalig die Angabe zu Teilstandorten in der KLD eingeführt. Wenn die Schule Teilstandorte besitzt, können diese hier eingegeben werden. Die zugehörigen Standortmerkmale können dann in der [Klassen-/Versetzungstabelle](/schild2/unterricht-kataloge/klassen-versetzungstabelle) vergeben werden.
+In der amtlichen Hauptstatistik 2013 wurde erstmalig die Angabe zu Teilstandorten in der KLD eingeführt. Wenn die Schule Teilstandorte besitzt, können diese hier eingegeben werden. Die zugehörigen Standortmerkmale können dann in der [Klassen und Versetzungstabelle](/schild2/unterricht-kataloge/klassen-versetzungstabelle) vergeben werden.
 
 **Schulleitung**
 
@@ -75,7 +77,7 @@ Geben Sie hier die Informationen zur Schulleitung und zur stellvertretenden Schu
 
 **Merkmale**
 
-Hier können Sie von IT.NRW vorgegebene Merkmale einrichten. Da diese Merkmale statistischen Charakter haben, können diese nicht verändert werden. An dieser Stelle kann z.B der "offene Ganztag", "13+" usw. eingetragen werden. Merkmale, die zu den Schülern gehören, können diesen dann auf der Karteikarte [Individual-Daten II](/schild2/schueler/individual-daten-ii) zugewiesen werden.
+Hier können Sie von IT.NRW vorgegebene Merkmale einrichten. Da diese Merkmale statistischen Charakter haben, können diese nicht verändert werden. An dieser Stelle kann z.B der "offene Ganztag", "13+" usw. eingetragen werden. Merkmale, die zu den Schülern gehören, können diesen dann auf der Karteikarte [Individualdaten II](/schild2/schueler/individual-daten-ii) zugewiesen werden.
 
 **Kontrolle der Schuldaten**
 
@@ -97,7 +99,7 @@ Hier können Sie beeinflussen, in welchem Jahr und Abschnitt sich die Schild-Dat
 
 **Schuljahreswechsel / Halbjahreswechsel durchführen**
 
-Mit dieser Schaltfläche kann der Abschnittswechsel der Datenbank durchgeführt werden. Nähere Informationen dazu erhalten Sie in den [Schild-NRW-Tutorials](/einstieg/erste-schritte/schild-nrw-tutorials). Die Versetzung über diese Schaltfläche macht nur Sinn, wenn alle Schüler gleichzeitig in den neuen Abschnitt versetzt werden sollen. Ein Assistent leitet Sie durch diesen Vorgang.
+Mit dieser Schaltfläche kann der Abschnittswechsel der Datenbank durchgeführt werden. Nähere Informationen dazu erhalten Sie in den [Anleitungen für den Einstieg](/einstieg/erste-schritte/schild-nrw-tutorials). Die Versetzung über diese Schaltfläche macht nur Sinn, wenn alle Schüler gleichzeitig in den neuen Abschnitt versetzt werden sollen. Ein Assistent leitet Sie durch diesen Vorgang.
 
 **Anzahl der Abschnitte**
 

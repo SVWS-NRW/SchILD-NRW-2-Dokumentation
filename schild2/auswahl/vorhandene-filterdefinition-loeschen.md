@@ -1,8 +1,10 @@
 ---
-title: "Vorhandene Filterdefinition löschen"
+title: "Gespeicherte Filter löschen"
 ---
 
-# Vorhandene Filterdefinition löschen
+<a id="vorhandene-filterdefinition-loschen"></a>
+
+# Gespeicherte Filter löschen
 
 
 ![Filterloeschen](/bilder/schild2/auswahl/filterloeschen.jpg)

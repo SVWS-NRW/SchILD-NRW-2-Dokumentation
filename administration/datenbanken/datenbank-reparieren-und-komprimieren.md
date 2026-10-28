@@ -1,8 +1,10 @@
 ---
-title: "Datenbank reparieren und komprimieren"
+title: "Access-Datenbank reparieren und komprimieren"
 ---
 
-# Datenbank reparieren und komprimieren
+<a id="datenbank-reparieren-und-komprimieren"></a>
+
+# Access-Datenbank reparieren und komprimieren
 
 Der Menüpunkt "Datei \> Datenbank komprimieren und reparieren"
 

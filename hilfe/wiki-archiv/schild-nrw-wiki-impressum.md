@@ -1,8 +1,10 @@
 ---
-title: "Schild-NRW Wiki:Impressum"
+title: "Impressum des Wikis"
 ---
 
-# Schild-NRW Wiki:Impressum
+<a id="schild-nrw-wiki-impressum"></a>
+
+# Impressum des Wikis
 
 <a id="Kontakt"></a>
 

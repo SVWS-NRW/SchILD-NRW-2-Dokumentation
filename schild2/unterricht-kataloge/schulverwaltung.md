@@ -14,17 +14,17 @@ Das Menü kann ja nach Schulform und auch Berechtigungsstufe des Users anders au
 
 Die einzelnen Menüpunkte werden im Folgenden beschrieben.
 
-[Schule bearbeiten](/einstieg/erste-schritte/schule-bearbeiten)
+[Schuldaten einrichten](/einstieg/erste-schritte/schule-bearbeiten)
 
 [Lehrkräfte](/schild2/lehrkraefte/lehrkraefte)
 
-[Statistik-Jahrgänge](/schild2/unterricht-kataloge/statistik-jahrgaenge)
+[Statistikjahrgänge einrichten](/schild2/unterricht-kataloge/statistik-jahrgaenge)
 
 [Fachklassen](/schild2/unterricht-kataloge/fachklassen) (nur Berufskolleg)
 
-[Klassen-/Versetzungstabelle](/schild2/unterricht-kataloge/klassen-versetzungstabelle)
+[Klassen und Versetzungstabelle](/schild2/unterricht-kataloge/klassen-versetzungstabelle)
 
-[Klassengruppen/Abteilungen](/schild2/unterricht-kataloge/klassengruppen-abteilungen)
+[Klassengruppen und Abteilungen](/schild2/unterricht-kataloge/klassengruppen-abteilungen)
 
 ------------------------------------------------------------------------
 
@@ -40,15 +40,15 @@ Die einzelnen Menüpunkte werden im Folgenden beschrieben.
 
 ------------------------------------------------------------------------
 
-[Teilleistungs-Arten](/schild2/unterricht-kataloge/teilleistungs-arten)
+[Teilleistungsarten](/schild2/unterricht-kataloge/teilleistungs-arten)
 
-[Vermerk-Arten](/schild2/unterricht-kataloge/vermerk-arten)
+[Vermerkarten](/schild2/unterricht-kataloge/vermerk-arten)
 
-["Floskeln" bearbeiten](/schild2/unterricht-kataloge/floskeln-bearbeiten)
+[Floskeln bearbeiten](/schild2/unterricht-kataloge/floskeln-bearbeiten)
 
-[Erzieher-Funktionen](/schild2/unterricht-kataloge/erzieher-funktionen)
+[Funktionen von Erziehungsberechtigten](/schild2/unterricht-kataloge/erzieher-funktionen)
 
-[Erzieher mit schulinternen Funktionen](/schild2/unterricht-kataloge/erzieher-mit-schulinternen-funktionen)
+[Eltern mit Funktionen auflisten](/schild2/unterricht-kataloge/erzieher-mit-schulinternen-funktionen)
 
 [Personengruppen](/schild2/unterricht-kataloge/personengruppen)
 
@@ -56,7 +56,7 @@ Die einzelnen Menüpunkte werden im Folgenden beschrieben.
 
 ------------------------------------------------------------------------
 
-[Statistik / amtliche Schuldaten](/schild2/import-export-statistik/statistik-amtliche-schuldaten)
+[Amtliche Schulstatistik vorbereiten](/schild2/import-export-statistik/statistik-amtliche-schuldaten)
 
 ------------------------------------------------------------------------
 

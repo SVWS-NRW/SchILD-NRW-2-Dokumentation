@@ -1,8 +1,10 @@
 ---
-title: "Vermerke/Merkmale löschen"
+title: "Vermerke oder Merkmale löschen"
 ---
 
-# Vermerke/Merkmale löschen
+<a id="vermerke-merkmale-loschen"></a>
+
+# Vermerke oder Merkmale löschen
 
 Dieser Gruppenprozess bietet Ihnen die Möglichkeit, bestimmte Vermerke oder Merkmale gleich bei einer größeren Menge (aktuelle Auswahl) von Schülern gleichzeitig zu löschen.
 

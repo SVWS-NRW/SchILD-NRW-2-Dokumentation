@@ -1,8 +1,10 @@
 ---
-title: "Kurse neu laden (nach Bearbeitung in Kurs42)"
+title: "Kurse nach Änderungen in Kurs42 neu laden"
 ---
 
-# Kurse neu laden (nach Bearbeitung in Kurs42)
+<a id="kurse-neu-laden-nach-bearbeitung-in-kurs42"></a>
+
+# Kurse nach Änderungen in Kurs42 neu laden
 
 Bei der Arbeit mit der Kombination Schild-NRW und Kurs42 kann es vorkommen, dass ein Kurs42-Bearbeiter die Blockungsdaten eines Jahrgangs bei geöffneter Schild-Datenbank in diese exportiert.
 

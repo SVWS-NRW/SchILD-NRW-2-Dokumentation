@@ -1,8 +1,10 @@
 ---
-title: "Aufnahmejahr für Neuaufnahmen zurücksetzen"
+title: "Aufnahmejahr für neue Schüler zurücksetzen"
 ---
 
-# Aufnahmejahr für Neuaufnahmen zurücksetzen
+<a id="aufnahmejahr-fur-neuaufnahmen-zurucksetzen"></a>
+
+# Aufnahmejahr für neue Schüler zurücksetzen
 
 Wenn man in Schild-NRW über das "+"-Symbol neue Datensätze aufnehmen will, so erscheint ein Dialog, ob man die Schüler für das aktuelle oder das kommende Schuljahr aufnehmen will.
 

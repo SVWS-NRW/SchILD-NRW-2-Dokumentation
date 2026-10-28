@@ -1,8 +1,10 @@
 ---
-title: "Einrichtung des Report-Explorers"
+title: "Report-Explorer einrichten"
 ---
 
-# Einrichtung des Report-Explorers
+<a id="einrichtung-des-report-explorers"></a>
+
+# Report-Explorer einrichten
 
 Der Dateibasierende-Reportgenerator für Schild-NRW benötigt einige Einstellungen, die hier im Folgenden beschrieben werden.
 
@@ -12,7 +14,7 @@ Der Dateibasierende-Reportgenerator für Schild-NRW benötigt einige Einstellung
 
 ![Reportverzeichnisse](/bilder/administration/benutzer-einstellungen/reportverzeichnisse.jpg)
 
-Die Reports liegen nicht mehr in einer Report-Datenbank, sondern befinden sich nun als Einzeldateien in einem Ordner der Schild-Installation. Dieser Ordner hat den Namen Schild-Reports. Der genaue verwendete Speicherort kann unter [Extras](/administration/benutzer-einstellungen/extras) \> [Programm-Einstellungen](/administration/benutzer-einstellungen/programm-einstellungen) \> Report-Verzeichnisse festgelegt werden.
+Die Reports liegen nicht mehr in einer Report-Datenbank, sondern befinden sich nun als Einzeldateien in einem Ordner der Schild-Installation. Dieser Ordner hat den Namen Schild-Reports. Der genaue verwendete Speicherort kann unter [Menü Extras](/administration/benutzer-einstellungen/extras) \> [Programmeinstellungen](/administration/benutzer-einstellungen/programm-einstellungen) \> Report-Verzeichnisse festgelegt werden.
 
 Achten Sie darauf, dass diese Ordner auch in Ihrer Schildinstallation direkt im Ordner Schild-Reports angelegt sind, denn diese Ordner übernehmen spezielle Funktionen und müssen daher mit exakt diesem Namen existieren.
 

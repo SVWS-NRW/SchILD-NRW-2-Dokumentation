@@ -4,7 +4,7 @@ title: "Verkehrssprachen"
 
 # Verkehrssprachen
 
-Auf dem Karteireiter [Individual-Daten II](/schild2/schueler/individual-daten-ii) wird nach dem Migrationshintergrund des Schülers gefragt:
+Auf dem Karteireiter [Individualdaten II](/schild2/schueler/individual-daten-ii) wird nach dem Migrationshintergrund des Schülers gefragt:
 
 ![Verkehrssprachen2](/bilder/schild2/unterricht-kataloge/verkehrssprachen2.jpg)
 

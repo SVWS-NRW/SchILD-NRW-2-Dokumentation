@@ -1,8 +1,10 @@
 ---
-title: "Eintragung der Schüler im offenen Ganztag"
+title: "Offenen Ganztag statistisch erfassen"
 ---
 
-# Eintragung der Schüler im offenen Ganztag
+<a id="eintragung-der-schuler-im-offenen-ganztag"></a>
+
+# Offenen Ganztag statistisch erfassen
 
 Welche Eintragungen müssen gemacht werden, damit Schülerinnen und Schüler im offenen Ganztag und Schülerinnen und Schüler in der Übermittagsbetreuung für die Statistik korrekt übernommen werden?
 

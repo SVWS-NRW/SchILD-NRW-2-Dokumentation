@@ -1,8 +1,12 @@
 ---
-title: "C05 Fachoberschule Kl. 11 (BK/FHR 1j; TZ)"
+title: "C05 Fachoberschule Klasse 11"
 ---
 
-# C05 Fachoberschule Kl. 11 (BK/FHR 1j; TZ)
+<a id="c05-fachoberschule-kl-11-bk-fhr-1j-tz"></a>
+
+# C05 Fachoberschule Klasse 11
+
+Einjähriger Teilzeitbildungsgang der Fachoberschule, Klasse 11.
 
 ![BK_Abschluss_C05](/bilder/zeugnisse/berufskolleg/bk-abschluss-c05.png)
 

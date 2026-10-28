@@ -1,8 +1,8 @@
 ---
-title: "Serienbrief Nichtversetzte"
+title: "Serienbriefe zur Nichtversetzung erstellen"
 ---
 
-# Serienbrief Nichtversetzte
+# Serienbriefe zur Nichtversetzung erstellen
 
 Der *Serienbrief Nichtversetzte* ist dafür vorgesehen, dass Schülerinnen und Schüler vor den Sommerferien ein Anschreiben erhalten, welches über die Nichtversetzung und mögliche Nachprüfungsfächer informiert. Damit jede Schülerin und jeder Schüler das korrekte Anschreiben erhält, analysiert der Serienbrief die Schulform, die Gliederung, den Jahrgang, das Versetzungskürzel, die Wiederholung und die Verweildauer.
 
@@ -37,6 +37,8 @@ Im Ordner *Serienbriefe* finden sie den Unterordner *RTF-Serienbriefvorlagen ➜
 Jeder Brief kann inhaltlich in einem RTF-Editor (z.B. WordPad) an die eigenen Bedürfnisse angepasst werden. Die RTF-Editoren unterscheiden sich teils deutlich in der Menge des RTF-Codes, der erzeugt wird. Es ist zu empfehlen, hier auf einen sparsamen RTF-Editoren zurückzugreifen. Sie können RTF-Dokumente auch im Reportdesigner öffnen, bearbeiten und speichern.
 
 <a id="Serienbrief_Nichtversetzte"></a>
+
+<a id="serienbrief-nichtversetzte-1"></a>
 
 ## Serienbrief Nichtversetzte
 

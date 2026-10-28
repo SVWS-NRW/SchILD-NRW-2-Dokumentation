@@ -1,8 +1,10 @@
 ---
-title: "Lupo:Auswertung der Fachwahlen"
+title: "Fachwahlen in LuPO auswerten"
 ---
 
-# Lupo:Auswertung der Fachwahlen
+<a id="lupo-auswertung-der-fachwahlen"></a>
+
+# Fachwahlen in LuPO auswerten
 
 <a id="Übersicht_über_getätigte_Fachwahlen"></a>
 <a id=".C3.9Cbersicht_.C3.BCber_get.C3.A4tigte_Fachwahlen"></a>

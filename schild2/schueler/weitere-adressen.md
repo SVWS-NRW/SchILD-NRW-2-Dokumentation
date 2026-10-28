@@ -10,7 +10,7 @@ Auf der Karteikarte können Adressen wie z.B. die Adresse des Praktikumsplatzes 
 
 ![AllgemeineAdressen](/bilder/schild2/schueler/allgemeineadressen.jpg)
 
-Aus der Liste der schon vorhandenen Adressen kann die passende Adresse mit Hilfe der Schaltfläche *Übernehmen* ausgewählt werden. Existiert die gesuchte Adresse nicht, drücken Sie auf die Schaltfläche *Neueingabe*, um eine weitere Adresse hinzuzufügen. Die zur Verfügung stehenden Adress-Arten bestimmen Sie durch die Einträge im Katalog [Adress-Arten](/schild2/unterricht-kataloge/adress-arten).
+Aus der Liste der schon vorhandenen Adressen kann die passende Adresse mit Hilfe der Schaltfläche *Übernehmen* ausgewählt werden. Existiert die gesuchte Adresse nicht, drücken Sie auf die Schaltfläche *Neueingabe*, um eine weitere Adresse hinzuzufügen. Die zur Verfügung stehenden Adress-Arten bestimmen Sie durch die Einträge im Katalog [Adressarten](/schild2/unterricht-kataloge/adress-arten).
 
 ![AdresseNeueingabe](/bilder/schild2/schueler/adresseneueingabe.jpg)
 

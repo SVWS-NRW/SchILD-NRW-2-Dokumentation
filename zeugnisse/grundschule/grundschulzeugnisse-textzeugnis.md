@@ -1,8 +1,10 @@
 ---
-title: "Grundschulzeugnisse Textzeugnis"
+title: "Textzeugnisse mit dem Report-Explorer erstellen"
 ---
 
-# Grundschulzeugnisse Textzeugnis
+<a id="grundschulzeugnisse-textzeugnis"></a>
+
+# Textzeugnisse mit dem Report-Explorer erstellen
 
 Seit dem Schuljahr 2020/21 ist es möglich mit Schild-NRW an der Grundschule auch Textzeugnisse mit dem Reportexplorer zu erstellen. Dazu wurde ein RTM-Report für die Reportverwaltung in Schild-NRW entwickelt. Das Paket besteht aus einem Zeugnis-Kopf-RTM einem Hybridzeugnis-RTM und einer INI-Datei.
 

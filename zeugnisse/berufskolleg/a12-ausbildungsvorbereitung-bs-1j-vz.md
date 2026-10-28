@@ -1,8 +1,12 @@
 ---
-title: "A12 Ausbildungsvorbereitung (BS 1j; VZ)"
+title: "A12 Ausbildungsvorbereitung in Vollzeit"
 ---
 
-# A12 Ausbildungsvorbereitung (BS 1j; VZ)
+<a id="a12-ausbildungsvorbereitung-bs-1j-vz"></a>
+
+# A12 Ausbildungsvorbereitung in Vollzeit
+
+Einjähriger Bildungsgang der Berufsschule in Vollzeit.
 
 ![BK_Abschluss_A12](/bilder/zeugnisse/berufskolleg/bk-abschluss-a12.png)
 

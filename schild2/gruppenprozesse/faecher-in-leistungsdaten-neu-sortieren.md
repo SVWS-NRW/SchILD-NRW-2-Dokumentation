@@ -1,10 +1,12 @@
 ---
-title: "Fächer in Leistungsdaten neu sortieren"
+title: "Fächer in Leistungsdaten sortieren"
 ---
 
-# Fächer in Leistungsdaten neu sortieren
+<a id="facher-in-leistungsdaten-neu-sortieren"></a>
 
-Nach einem Import von Fächern über die [Schnittstelle Schild-NRW](/schild2/import-export-statistik/schnittstelle-schild-nrw) oder nach einer Neusortierung der Fächer unter [Schulverwaltung](/schild2/unterricht-kataloge/schulverwaltung) \> [Unterrichtsfächer](/schild2/unterricht-kataloge/unterrichtsfaecher) befinden sich die Fächer in den Leistungsdaten der Schüler i.d.R. noch in der falschen Sortierung.
+# Fächer in Leistungsdaten sortieren
+
+Nach einem Import von Fächern über die [Datenaustausch über die SchILD-Schnittstelle](/schild2/import-export-statistik/schnittstelle-schild-nrw) oder nach einer Neusortierung der Fächer unter [Schulverwaltung](/schild2/unterricht-kataloge/schulverwaltung) \> [Unterrichtsfächer](/schild2/unterricht-kataloge/unterrichtsfaecher) befinden sich die Fächer in den Leistungsdaten der Schüler i.d.R. noch in der falschen Sortierung.
 
 Diese Sortierung kann mit dem Menüpunkt für angegebene Schuljahre (Abschnitte) neu angestoßen werden.
 

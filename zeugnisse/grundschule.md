@@ -1,9 +1,8 @@
 # Grundschulzeugnisse
 
-- [Grundschulzeugnisse Textzeugnis](/zeugnisse/grundschule/grundschulzeugnisse-textzeugnis)
-- [Grundschulzeugnisse Ankreuzzeugnis](/tools/notenmodul-grundschule/leistungsdaten)
-- [Grundschulzeugnisse Lernstandsberichte](/zeugnisse/grundschule)
+- [Textzeugnisse im Report-Explorer](/zeugnisse/grundschule/grundschulzeugnisse-textzeugnis)
+- [Noten und Kompetenzen eingeben](/tools/notenmodul-grundschule/leistungsdaten)
 - [Textzeugnisse drucken](/zeugnisse/grundschule/textzeugnisse-drucken)
-- [Textzeugnisse erzeugen](/tools/notenmodul-grundschule/rueckgabe-und-druck)
+- [Rückgabe, Import und Druck](/tools/notenmodul-grundschule/rueckgabe-und-druck)
 - [Textzeugnisse zuordnen](/zeugnisse/grundschule/textzeugnisse-zuordnen)
-- [Übersicht Primarstufe](/zeugnisse/grundschule/uebersicht-primarstufe)
+- [Leistungsübersicht Primarstufe](/zeugnisse/grundschule/uebersicht-primarstufe)

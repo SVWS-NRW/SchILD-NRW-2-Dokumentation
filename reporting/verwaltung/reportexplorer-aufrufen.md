@@ -1,8 +1,10 @@
 ---
-title: "Reportexplorer aufrufen"
+title: "Reports im Report-Explorer auswählen"
 ---
 
-# Reportexplorer aufrufen
+<a id="reportexplorer-aufrufen"></a>
+
+# Reports im Report-Explorer auswählen
 
 Nach dem Aufruf des Report-Explorers öffnet sich ein neues Fenster mit der Ordnerstruktur, in der sich die verschiedenen Reports befinden. Diese Ordner entsprechen den Ordnern im Verzeichnis, in dem Sie Schild-NRW installiert haben.
 
@@ -32,7 +34,7 @@ Im Menü bzw. in der Symbolleiste des Reportexplorers finden Sie natürlich noch
 
 ![Explorer-Symbole](/bilder/reporting/verwaltung/explorer-symbole.png)
 
-Einen bestehenden Report können Sie bearbeiten, wenn Sie auf das Symbol ![Report-bearbeiten](/bilder/reporting/verwaltung/report-bearbeiten.png) klicken. Weitere Informationen zum Anpassen von Reports finden Sie unter: [Reporting](/reporting/erstellung/reporting)
+Einen bestehenden Report können Sie bearbeiten, wenn Sie auf das Symbol ![Report-bearbeiten](/bilder/reporting/verwaltung/report-bearbeiten.png) klicken. Weitere Informationen zum Anpassen von Reports finden Sie unter: [Reporting im Überblick](/reporting/erstellung/reporting)
 
 Mit Hilfe der Symbole ![Zeichensatz-anpassen](/bilder/reporting/verwaltung/zeichensatz-anpassen.png) kann einem ganzen Formular eine andere Schriftart bzw. eine andere Schriftgröße zugewiesen werden.
 

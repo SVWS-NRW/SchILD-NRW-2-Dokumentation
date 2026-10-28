@@ -1,8 +1,10 @@
 ---
-title: "Hauptseite"
+title: "Frühere Wiki-Startseite"
 ---
 
-# Hauptseite
+<a id="hauptseite"></a>
+
+# Frühere Wiki-Startseite
 
 **Sie befinden sich im Dokumentationsbereich von Schild-NRW 2**
 
@@ -21,7 +23,9 @@ Seit dem 31.10.25 steht der Nachfolger zur Verfügung:
 <a id="Schild-NRW-Übersicht"></a>
 <a id="Schild-NRW-.C3.9Cbersicht"></a>
 
-### [Schild-NRW-Übersicht](/einstieg/grundlagen/schild-nrw-index)
+<a id="schild-nrw-ubersicht"></a>
+
+### [Programmüberblick](/einstieg/grundlagen/schild-nrw-index)
 
 ![Inhalt](/bilder/hilfe/wiki-archiv/inhalt.png)
 
@@ -41,7 +45,9 @@ in den einzelnen Abteilungen.
 
 <a id="Schild-NRW-Tutorials"></a>
 
-### [Schild-NRW-Tutorials](/einstieg/erste-schritte/schild-nrw-tutorials)
+<a id="schild-nrw-tutorials"></a>
+
+### [Einstiegsanleitungen](/einstieg/erste-schritte/schild-nrw-tutorials)
 
 ![Inhalt](/bilder/hilfe/wiki-archiv/tutorial.png)
 
@@ -57,13 +63,15 @@ sich möglichst schnell zurechtzufinden.
 
 Arbeiten, wie die Versetzung, Kurszuweisungen u.v.m. werden hier beschrieben.
 
-                       **[Schild-NRW-Tutorials](/einstieg/erste-schritte/schild-nrw-tutorials)**\
+                       **[Anleitungen für den Einstieg](/einstieg/erste-schritte/schild-nrw-tutorials)**\
 
 ------------------------------------------------------------------------
 
 <a id="Reporting"></a>
 
-### [Reporting](/reporting/erstellung/reporting)
+<a id="reporting"></a>
+
+### [Reporting-Grundlagen](/reporting/erstellung/reporting)
 
 ![Inhalt](/bilder/hilfe/wiki-archiv/reporting.png)
 
@@ -79,13 +87,15 @@ Außerdem gibt es viele Beispiele und Anregungen für die Programmierung von For
 
 Nähere Informationen gibt es im folgenden Artikel:
 
-             **[Reporting](/reporting/erstellung/reporting)**\
+             **[Reporting im Überblick](/reporting/erstellung/reporting)**\
 
 ------------------------------------------------------------------------
 
 <a id="Lupo_Handbuch"></a>
 
-### [Lupo Handbuch](/tools/lupo/lupo-handbuch)
+<a id="lupo-handbuch"></a>
+
+### [Inhaltsverzeichnis](/tools/lupo/lupo-handbuch)
 
 ![Inhalt](/bilder/hilfe/wiki-archiv/lupo-hauptseite.png)
 
@@ -107,7 +117,9 @@ schnell die benötigte Informationen.
 
 <a id="Externe_Blockungs-Tools"></a>
 
-### [Externe Blockungs-Tools](/hilfe/zusatzprogramme/externe-blockungs-tools)
+<a id="externe-blockungs-tools"></a>
+
+### [Externe Blockungsprogramme](/hilfe/zusatzprogramme/externe-blockungs-tools)
 
 ![Inhalt](/bilder/hilfe/wiki-archiv/kurs42tocnf-logo.png)
 
@@ -129,7 +141,9 @@ Sitzplangenerator
 
 <a id="Prognos"></a>
 
-### [Prognos](/hilfe/zusatzprogramme/prognos)
+<a id="prognos"></a>
+
+### [Handbuch](/hilfe/zusatzprogramme/prognos)
 
 ![Inhalt](/bilder/hilfe/wiki-archiv/prognos-logo.png)
 
@@ -141,7 +155,7 @@ Prognos PM2
 
 (Die Seiten werden in den nächsten Wochen und Monaten aufgebaut, und werden daher ständig ergänzt und erweitert. Wenn die Erstellung abgeschlossen ist, wird dieser Hinweis entfernt.
 
-             **[Prognos](/hilfe/zusatzprogramme/prognos)**\
+             **[PM2-Handbuch](/hilfe/zusatzprogramme/prognos)**\
 
 ------------------------------------------------------------------------
 

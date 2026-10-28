@@ -1,8 +1,10 @@
 ---
-title: "Eintragung Herkunft am BK/WBK"
+title: "Herkunft am Berufskolleg und Weiterbildungskolleg erfassen"
 ---
 
-# Eintragung Herkunft am BK/WBK
+<a id="eintragung-herkunft-am-bk-wbk"></a>
+
+# Herkunft am Berufskolleg und Weiterbildungskolleg erfassen
 
 Eintragung der Herkunft aus dem letzten Schuljahr auf dem Karteireiter Schulbesuch
 

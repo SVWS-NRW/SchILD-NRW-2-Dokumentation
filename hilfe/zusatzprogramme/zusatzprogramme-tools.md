@@ -1,20 +1,22 @@
 ---
-title: "Zusatzprogramme / Tools"
+title: "Zusatzprogramme im Überblick"
 ---
 
-# Zusatzprogramme / Tools
+<a id="zusatzprogramme-tools"></a>
+
+# Zusatzprogramme im Überblick
 
 
 **Übersicht der Tools**
 
-- [Benutzerverwaltung Useradmn.exe](/administration/benutzer-einstellungen/benutzerverwaltung-useradmn-exe)
-- [Benutzerverwaltung PlugIn-DLL](/administration/benutzer-einstellungen/benutzerverwaltung-plugin-dll)
+- [Benutzerrechte verwalten](/administration/benutzer-einstellungen/benutzerverwaltung-useradmn-exe)
+- [Benutzerverwaltungs-Plugin](/administration/benutzer-einstellungen/benutzerverwaltung-plugin-dll)
 - Schild-Migrationstool
 - Externe Notenmodul ExtNotMod.exe
-- [Konferenzmodul KM2.exe](/hilfe/zusatzprogramme/konferenzmodul-km2-exe)
-- [S1PLAN Planungsmodul Sek1](/hilfe/zusatzprogramme/s1plan-uebersicht)
+- [Überblick](/hilfe/zusatzprogramme/konferenzmodul-km2-exe)
+- [Überblick](/hilfe/zusatzprogramme/s1plan-uebersicht)
 - [Schnelleingabemodul](/hilfe/zusatzprogramme/sem-schnelleingabemodul)
-- [Chatmodul SchildChat.exe](/hilfe/zusatzprogramme/schildchat-exe)
+- [SchILDChat](/hilfe/zusatzprogramme/schildchat-exe)
 
 ------------------------------------------------------------------------
 

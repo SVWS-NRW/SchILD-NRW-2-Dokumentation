@@ -1,8 +1,10 @@
 ---
-title: "Statistik mit ASDPC Fehlersuche"
+title: "Fehler in ASDPC finden und beheben"
 ---
 
-# Statistik mit ASDPC Fehlersuche
+<a id="statistik-mit-asdpc-fehlersuche"></a>
+
+# Fehler in ASDPC finden und beheben
 
 <a id="Fehlersuche_-_typische_Fehler_aus_der_Praxis"></a>
 

@@ -1,8 +1,12 @@
 ---
-title: "C06 Fachoberschule Kl. 12S (BK/FHR 1j; VZ)"
+title: "C06 Fachoberschule Klasse 12S"
 ---
 
-# C06 Fachoberschule Kl. 12S (BK/FHR 1j; VZ)
+<a id="c06-fachoberschule-kl-12s-bk-fhr-1j-vz"></a>
+
+# C06 Fachoberschule Klasse 12S
+
+Einjähriger Vollzeitbildungsgang der Fachoberschule, Klasse 12S.
 
 ![BK_Abschluss_C06](/bilder/zeugnisse/berufskolleg/bk-abschluss-c06.png)
 

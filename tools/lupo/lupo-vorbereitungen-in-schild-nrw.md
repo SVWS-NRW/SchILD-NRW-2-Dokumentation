@@ -1,8 +1,10 @@
 ---
-title: "Lupo:Vorbereitungen in Schild-NRW"
+title: "SchILD-Daten für LuPO vorbereiten"
 ---
 
-# Lupo:Vorbereitungen in Schild-NRW
+<a id="lupo-vorbereitungen-in-schild-nrw"></a>
+
+# SchILD-Daten für LuPO vorbereiten
 
 Sämtliche Daten, die für die Beratung in Lupo benötigt werden, können von Schild-NRW bereitgestellt werden. Hierzu zählen neben den Individualdaten der Schülerinnen und Schüler auch deren Sprachenfolgen sowie die Fächer der Oberstufe. Hat man die Fächer der Oberstufe einmal eingegeben, so stehen diese auch in den nächsten Jahren zur Verfügung. Es ist also von Vorteil, wesentliche Informationen in Schild-NRW vorzuhalten, damit diese nicht jedes Mal neu in Lupo eingegeben werden müssen. Über den Datenaustausch kann Schild sämtliche Informationen an die Lupo-Datenbank übergeben oder eine neue Lupo-Datenbank erstellen.
 

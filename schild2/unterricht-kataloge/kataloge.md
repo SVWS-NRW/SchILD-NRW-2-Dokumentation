@@ -38,24 +38,24 @@ Eine weitere Gemeinsamkeit: Jeder Katalog kann mit 'Excel-Export' gespeichert we
 Der Menüpunkt "Kataloge" lässt Einstellungen zu folgenden Unterpunkten zu:
 
 - [Konfessionen](/schild2/unterricht-kataloge/konfessionen)
-- [Staatsangehörigkeiten / Herkunftsländer](/schild2/unterricht-kataloge/staatsangehoerigkeiten-herkunftslaender)
+- [Staatsangehörigkeiten](/schild2/unterricht-kataloge/staatsangehoerigkeiten-herkunftslaender)
 - [Förderschwerpunkte](/schild2/unterricht-kataloge/foerderschwerpunkte)
 - [Verkehrssprachen](/schild2/unterricht-kataloge/verkehrssprachen)
 
 ------------------------------------------------------------------------
 
-- [Erzieher-Arten](/schild2/unterricht-kataloge/erzieher-arten)
-- [Fahrschüler-Arten](/schild2/unterricht-kataloge/fahrschueler-arten)
+- [Erzieherarten](/schild2/unterricht-kataloge/erzieher-arten)
+- [Fahrschülerarten](/schild2/unterricht-kataloge/fahrschueler-arten)
 - [Telefonische Ansprechpartner](/schild2/unterricht-kataloge/telefonische-ansprechpartner)
 
 ------------------------------------------------------------------------
 
 - [Sportbefreiungen](/schild2/unterricht-kataloge/sportbefreiungen)
-- [Entlassungs-Bemerkungen](/schild2/unterricht-kataloge/entlassungs-bemerkungen)
+- [Entlassungsbemerkungen](/schild2/unterricht-kataloge/entlassungs-bemerkungen)
 
 ------------------------------------------------------------------------
 
-- [Adress-Arten](/schild2/unterricht-kataloge/adress-arten)
+- [Adressarten](/schild2/unterricht-kataloge/adress-arten)
 - [Allgemeine Adressen](/schild2/unterricht-kataloge/allgemeine-adressen)
 
 ------------------------------------------------------------------------

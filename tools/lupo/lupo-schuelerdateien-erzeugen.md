@@ -1,8 +1,8 @@
 ---
-title: "Lupo:Schülerdateien erzeugen"
+title: "LuPO-Schülerdateien erzeugen"
 ---
 
-# Lupo:Schülerdateien erzeugen
+# LuPO-Schülerdateien erzeugen
 
 <a id="Das_Lupo-Schülerprogramm"></a>
 <a id="Das_Lupo-Sch.C3.BClerprogramm"></a>

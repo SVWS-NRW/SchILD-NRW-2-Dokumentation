@@ -1,8 +1,10 @@
 ---
-title: "Einzelne Fächer bei Schülern hinzufügen"
+title: "Einzelne Fächer hinzufügen"
 ---
 
-# Einzelne Fächer bei Schülern hinzufügen
+<a id="einzelne-facher-bei-schulern-hinzufugen"></a>
+
+# Einzelne Fächer hinzufügen
 
 Mit dem Aufruf des Gruppenprozesses "Einzelne Fächer bei Schülern hinzufügen" erscheint das Eingabefenster "Einzelfach nachtragen".
 

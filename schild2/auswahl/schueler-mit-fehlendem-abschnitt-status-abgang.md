@@ -1,8 +1,10 @@
 ---
-title: "Schüler mit fehlendem Abschnitt (Status=Abgang,..)"
+title: "Abgänger mit fehlendem Lernabschnitt"
 ---
 
-# Schüler mit fehlendem Abschnitt (Status=Abgang,..)
+<a id="schuler-mit-fehlendem-abschnitt-status-abgang"></a>
+
+# Abgänger mit fehlendem Lernabschnitt
 
 Bei Auswahl dieser Filtermöglichkeit werden Ihnen unter allen Abgängern bzw. Schülern mit Abschluss alle die mit fehlendem Abschnitt angezeigt.
 

@@ -1,8 +1,10 @@
 ---
-title: "JaNa-Export (Jahrgang und Nationalität)"
+title: "Jahrgänge und Nationalitäten exportieren"
 ---
 
-# JaNa-Export (Jahrgang und Nationalität)
+<a id="jana-export-jahrgang-und-nationalitat"></a>
+
+# Jahrgänge und Nationalitäten exportieren
 
 Der JaNa-Export ermöglicht die Meldung der Nationalitäten nach Jahrgängen.
 

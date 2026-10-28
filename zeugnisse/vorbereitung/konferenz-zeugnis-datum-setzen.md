@@ -1,8 +1,10 @@
 ---
-title: "Konferenz-/Zeugnis-Datum setzen"
+title: "Konferenz- und Zeugnisdatum setzen"
 ---
 
-# Konferenz-/Zeugnis-Datum setzen
+<a id="konferenz-zeugnis-datum-setzen"></a>
+
+# Konferenz- und Zeugnisdatum setzen
 
 Dieser Gruppenprozess ermöglich das automatische Setzen des Konferenz- und Zeugnisdatums im ausgewählten Schuljahr und Abschnitt bei der ausgewählten Schülermenge.
 

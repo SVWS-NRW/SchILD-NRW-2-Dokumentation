@@ -1,13 +1,15 @@
 ---
-title: "Leistungsdaten Kursunterricht"
+title: "Leistungsdaten im Kursunterricht bearbeiten"
 ---
 
-# Leistungsdaten Kursunterricht
+<a id="leistungsdaten-kursunterricht"></a>
+
+# Leistungsdaten im Kursunterricht bearbeiten
 
 Dieses Tutorial gibt eine Einführung in den Umgang mit den Leistungsdaten für Kursunterricht. Kursunterricht ist Unterricht, der nicht im normalen Klassenverband gegeben wird. Dies ist z.B. im Wahlpflichtbereich der Jahrgangsstufen 8 und 9 an Gymnasien der Fall. Auch der gesamte Oberstufenunterricht ist im Regelfall Kursunterricht. Daher wird in diesem Tutorial ebendies gesondert betrachtet, da sich hier verschiedene Vorgehensweisen anbieten. Es wird erklärt, wie man die Kurs- und Leistungsdaten der Schüler in Schild anlegt bzw. importiert, wo weitere Eintragungen, wie z.B. Arbeits- und Sozialverhalten, durchgeführt werden können und wie man Daten ändern und löschen kann.
 
 **Jahrgangsstufen mit vereinzeltem Kursunterricht:**\
-In Jahrgangsstufen, in denen meist im Klassenverband unterrichtet wird, muss ein Kurs erst einmal angelegt werden. Dies geschieht unter \>Schulverwaltung\>Kurse. Wie genau ein Kurs anzulegen ist, kann man unter [Kurse anlegen](/schild2/unterricht-kataloge/kurse) nachlesen. Hat man einen Kurs angelegt, kann man die Schüler mithilfe des Gruppenprozesses [Kurse zuweisen (Einzelkurs)](/schild2/gruppenprozesse/kurse-zuweisen-einzelkurs) oder durch Hinzufügen im aktuellen Abschnitt zu den Kursen zuweisen. Der Gruppenprozess bietet sich an, wenn man mehrere Schüler einem Kurs zuweisen möchte. Soll nur ein einzelner Schüler einem Kurs zugewiesen werden, kann man im 'aktuellen Halbjahr' unter 'Leistungsdaten' einen Kurs durch Klicken auf das Pluszeichen hinzufügen. Nach Auswahl des Faches über das Pull-Down-Menü stehen unter 'Kurs-Bezeichnung' alle angelegten Kurse zur Verfügung und man kann einen auswählen. Die anderen Tabellenfelder werden entsprechend automatisch ergänzt.
+In Jahrgangsstufen, in denen meist im Klassenverband unterrichtet wird, muss ein Kurs erst einmal angelegt werden. Dies geschieht unter \>Schulverwaltung\>Kurse. Wie genau ein Kurs anzulegen ist, kann man unter [Kurse anlegen](/schild2/unterricht-kataloge/kurse) nachlesen. Hat man einen Kurs angelegt, kann man die Schüler mithilfe des Gruppenprozesses [Einen Kurs zuweisen](/schild2/gruppenprozesse/kurse-zuweisen-einzelkurs) oder durch Hinzufügen im aktuellen Abschnitt zu den Kursen zuweisen. Der Gruppenprozess bietet sich an, wenn man mehrere Schüler einem Kurs zuweisen möchte. Soll nur ein einzelner Schüler einem Kurs zugewiesen werden, kann man im 'aktuellen Halbjahr' unter 'Leistungsdaten' einen Kurs durch Klicken auf das Pluszeichen hinzufügen. Nach Auswahl des Faches über das Pull-Down-Menü stehen unter 'Kurs-Bezeichnung' alle angelegten Kurse zur Verfügung und man kann einen auswählen. Die anderen Tabellenfelder werden entsprechend automatisch ergänzt.
 
 ![LeistungsdatenKursTut01](/bilder/schild2/unterricht-kataloge/leistungsdatenkurstut01.jpg)\
 
@@ -20,7 +22,7 @@ Auch für Jahrgangsstufen, in denen Kursunterricht der Regelfall ist, müssen di
 
     Alle Kurse werden dann automatisch angelegt und den Schülern, wie in der Blockung angegeben, zugewiesen.
 
-Damit stehen nun bei jedem Schüler seine Kurse / Fächer in der Datenbank (Reiter 'akt. Halbjahr' -\> 'Leistungsdaten') zur Verfügung. In einem nächsten Schritt müssten nun die Noten etc. in die Datenbank übertragen werden. Welche Vorbereitungen dafür zu treffen sind und wie man die Noten am besten in die Datenbank bekommt, kann man im Tutorial [Zeugnisvorbereitungen und Druck](/zeugnisse/vorbereitung/zeugnisvorbereitungen-und-druck) nachlesen.
+Damit stehen nun bei jedem Schüler seine Kurse / Fächer in der Datenbank (Reiter 'akt. Halbjahr' -\> 'Leistungsdaten') zur Verfügung. In einem nächsten Schritt müssten nun die Noten etc. in die Datenbank übertragen werden. Welche Vorbereitungen dafür zu treffen sind und wie man die Noten am besten in die Datenbank bekommt, kann man im Tutorial [Zeugnisdruck vorbereiten und durchführen](/zeugnisse/vorbereitung/zeugnisvorbereitungen-und-druck) nachlesen.
 
 Unter dem Reiter 'akt. Halbjahr' findet man alle leistungsbezogenen Angaben eines Schülers. Standardmäßig wird der Abschnitt angezeigt, in dem sich auch die gesamte Datenbank befindet. Über die Pfeiltasten oder das Pull-Down-Menü kann man sich aber auch ältere Abschnitte anzeigen lassen.
 

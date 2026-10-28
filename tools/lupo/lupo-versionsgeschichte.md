@@ -1,8 +1,10 @@
 ---
-title: "Lupo:Versionsgeschichte"
+title: "Änderungshistorie von LuPO"
 ---
 
-# Lupo:Versionsgeschichte
+<a id="lupo-versionsgeschichte"></a>
+
+# Änderungshistorie von LuPO
 
 <a id="Version_2.1.8.1"></a>
 

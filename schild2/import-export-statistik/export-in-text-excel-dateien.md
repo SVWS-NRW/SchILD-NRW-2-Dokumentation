@@ -1,8 +1,10 @@
 ---
-title: "Export in Text-/Excel-Dateien"
+title: "Daten als Text- oder Excel-Datei exportieren"
 ---
 
-# Export in Text-/Excel-Dateien
+<a id="export-in-text-excel-dateien"></a>
+
+# Daten als Text- oder Excel-Datei exportieren
 
 ![Datenexport_Excel](/bilder/schild2/import-export-statistik/datenexport-excel.jpg)
 

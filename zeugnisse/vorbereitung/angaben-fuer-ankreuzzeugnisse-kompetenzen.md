@@ -1,8 +1,10 @@
 ---
-title: "Angaben für Ankreuzzeugnisse/-kompetenzen"
+title: "Ankreuzkompetenzen einrichten"
 ---
 
-# Angaben für Ankreuzzeugnisse/-kompetenzen
+<a id="angaben-fur-ankreuzzeugnisse-kompetenzen"></a>
+
+# Ankreuzkompetenzen einrichten
 
 <a id="Einträge_in_der_Schulverwaltung"></a>
 <a id="Eintr.C3.A4ge_in_der_Schulverwaltung"></a>

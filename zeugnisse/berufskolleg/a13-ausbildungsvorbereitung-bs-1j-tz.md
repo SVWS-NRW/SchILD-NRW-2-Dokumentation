@@ -1,8 +1,12 @@
 ---
-title: "A13 Ausbildungsvorbereitung (BS 1j; TZ)"
+title: "A13 Ausbildungsvorbereitung in Teilzeit"
 ---
 
-# A13 Ausbildungsvorbereitung (BS 1j; TZ)
+<a id="a13-ausbildungsvorbereitung-bs-1j-tz"></a>
+
+# A13 Ausbildungsvorbereitung in Teilzeit
+
+Einjähriger Bildungsgang der Berufsschule in Teilzeit.
 
 ![BK_Abschluss_A13](/bilder/zeugnisse/berufskolleg/bk-abschluss-a13.png)
 
