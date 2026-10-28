@@ -1,13 +1,10 @@
 ---
 title: "Vorhandene Filterdefinition laden"
-wiki_title: "Vorhandene Filterdefinition laden"
-wiki_page_id: 157
-wiki_revision: 970
 ---
 
 # Vorhandene Filterdefinition laden
 
-![Filterladen](/bilder/wiki/filterladen-6439c59d.jpg)
+![Filterladen](/bilder/schild2/auswahl/filterladen.jpg)
 
 Dieser Menüpunkt kann erst genutzt werden, wenn vorher mit den Filterwerkzeugen [Attributsfilter](/schild2/auswahl/attributsfilter), [Filter I](/schild2/auswahl/filter-i) oder [Filter II](/schild2/auswahl/filter-ii) Filterdefinitionen erstellt und gespeichert wurden. Näheres dazu finden Sie bei den entsprechenden Einträgen zu den Filtermöglichkeiten.
 

@@ -1,8 +1,5 @@
 ---
 title: "Wiedervorlage"
-wiki_title: "Wiedervorlage"
-wiki_page_id: 316
-wiki_revision: 1395
 ---
 
 # Wiedervorlage
@@ -13,7 +10,7 @@ Das Einrichten der Funktion erfolgt über Menü "Extras / Programm-Einstellungen
 
 Eingabe einer Wiedervorlage-Bemerkung bei einem einzelnen Schüler machen über icon „Eintrag in Wiedervorlageliste hinzufügen“ (Wecker rechts neben Status-Feld auf Karte Individual-Daten I):
 
-![Wiedervorlage-01](/bilder/wiki/wiedervorlage-01-5729b3b0.jpg)
+![Wiedervorlage-01](/bilder/schild2/schueler/wiedervorlage-01.jpg)
 
 Im Fensterchen „Eintrag zur Wiedervorlage“ den Text ins Feld unter „Bemerkung“ eingeben und das Datum bei „Wiedervorlage am …“ wählen, wenn gewünscht, Häkchen vor „Eintrag für Sekretariat sichtbar“ (aus der Versions-geschichte zu 71.2: Bei einem neuen Eintrag in der Wiedervorlage kann jetzt ein Häkchen "Eintrag für Sekretariat sichtbar" gesetzt werden, dann ist dieser nicht nur für den Anwender sichtbar, der den Eintrag angelegt hat, sondern auch für das Sekretariat (genauer gesagt für andere Anwender, die das Recht haben, Individualdaten zu ändern. Wird das Häkchen nicht gesetzt, ist der Eintrag nur für den Anwender sichtbar, der den Eintrag angelegt hat.), dann OK.
 
@@ -23,7 +20,7 @@ Eintrag bezüglich Lehrer/-innen über Schulverwaltung/Lehrkräfte: Nach Rechtsk
 
 Wiedervorlage aufrufen, Einträge bearbeiten mit icon „Wiedervorlageliste zeigen“ (in der Symbolleiste Wecker-Symbol rechts vom „Suchen“-Fernglas):
 
-![Wiedervorlage-Iconleiste](/bilder/wiki/wiedervorlage-iconleiste-50ac476a.jpg)
+![Wiedervorlage-Iconleiste](/bilder/schild2/schueler/wiedervorlage-iconleiste.jpg)
 
 Es erscheint im Fenster „Wiedervorlage“ eine Übersicht (nach Eingabe des aktuellen oder eines anderen Datums bei „Wiedervorlage bis…“ Anzeige mit Schalter „Ansicht Aktualisieren“), unter „Art“ nach Schülern und Lehrern unterschieden (bei Eingabe eines zukünftigen Datums werden alle bis dahin anstehenden Termine gezeigt). Mit „Eintrag löschen“ können markierte Einträge auch manuell entfernt werden). Einen „Export nach Excel“ ermöglicht dieser Schalter. Das Häkchen vor „Nur unerledigte Einträge zeigen“ wegnehmen, wenn auch die schon bearbeiteten Einträge bis zum Löschdatum angezeigt werden sollen.
 

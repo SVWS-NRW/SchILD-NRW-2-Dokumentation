@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 1636 · Stand 2014-03-10.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-387.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/repbau02-45c47307.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/reporting/erstellung/repbau02.jpg)
 
-![RepBau02.jpg](/bilder/wiki/repbau02-45c47307.jpg)
+![RepBau02.jpg](/bilder/reporting/erstellung/repbau02.jpg)
 
 ## Originalquelltext
 

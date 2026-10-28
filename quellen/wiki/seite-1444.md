@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 6044 · Stand 2025-09-19.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1444.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/organisationsformoffenerganztag-70c50ef3.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/schueler/organisationsformoffenerganztag.png)
 
-![OrganisationsformOffenerGanztag.png](/bilder/wiki/organisationsformoffenerganztag-70c50ef3.png)
+![OrganisationsformOffenerGanztag.png](/bilder/schild2/schueler/organisationsformoffenerganztag.png)
 
 ## Originalquelltext
 

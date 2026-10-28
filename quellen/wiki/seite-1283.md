@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 5055 · Stand 2021-11-04.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1283.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/asdpc-b-kommentar-a0676513.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/import-export-statistik/asdpc-b-kommentar.png)
 
-![ASDPC_B_Kommentar.png](/bilder/wiki/asdpc-b-kommentar-a0676513.png)
+![ASDPC_B_Kommentar.png](/bilder/schild2/import-export-statistik/asdpc-b-kommentar.png)
 
 ## Originalquelltext
 

@@ -1,8 +1,5 @@
 ---
 title: "Versetzung/Übertragung ins neue Halbjahr oder in Abschluss"
-wiki_title: "Versetzung/Übertragung ins neue Halbjahr oder in Abschluss"
-wiki_page_id: 518
-wiki_revision: 4647
 ---
 
 # Versetzung/Übertragung ins neue Halbjahr oder in Abschluss
@@ -15,7 +12,7 @@ Dieser Gruppenprozess wird genutzt, um die ausgewählte Schülermenge zu versetz
 
 Es öffnet sich das Fenster "Versetzung/Übertragung ins neue Halbjahr", bei dem ausgewählt werden kann (durch Auswahl des entsprechenden Reiters), ob man die ausgewählte Schülermenge versetzen will oder ob nur eine "Übertragung ohne Versetzung" ins nächste Halbjahr vorgenommen werden soll.
 
-![GP-VersetzungUebertragung01](/bilder/wiki/gp-versetzunguebertragung01-26d6dac7.jpg)
+![GP-VersetzungUebertragung01](/bilder/schild2/versetzung/gp-versetzunguebertragung01.jpg)
 
 - Versetzung:
 
@@ -27,20 +24,20 @@ Die Versetzung ist in drei Schritte unterteilt:
     Die Eintragungen in der Tabelle können direkt in der Tabelle durch Klicken auf das entsprechende Tabellenfeld geändert werden.\
     Sind alle Eintragungen korrekt, muss die Schaltfläche "In Datenbank übernehmen" betätigt werden, um die Daten "abzuspeichern". Die Fenster des Gruppenprozesses werden alle geschlossen. Es ist noch keine Übertragung, die Schüler bekommen nur einen Vermerk, ob versetzt oder nicht, so dass Daten für Zeugnisse bereitstehen.
 
-![GP-VersetzungUebertragung02](/bilder/wiki/gp-versetzunguebertragung02-0f3b7657.jpg)
+![GP-VersetzungUebertragung02](/bilder/schild2/versetzung/gp-versetzunguebertragung02.jpg)
 
 2.  Drucken der Zeugnisse (weitere Hinweise zum Drucken unter [Druckausgabe](/reporting/verwaltung/druckausgabe) oder im Tutorial [Zeugnisvorbereitungen und Druck](/zeugnisse/vorbereitung/zeugnisvorbereitungen-und-druck))
 3.  Im letzten Schritt wird durch Klicken auf die entsprechende Schaltfläche die Versetzung gestartet.\
     Nach Bestätigung, dass der erste Schritt schon durchgeführt wurde, und der Frage nach einer Datensicherung öffnet sich das Fenster "In neuen Abschnitt übertragen bzw. Status anpassen" (s.u.).\
     Im oberen Teil des Fensters sind Eintragungen zum alten und neuen Halbjahr eingetragen. Durch Klicken auf die Schaltfläche "Schülerdaten holen" werden die Daten der ausgewählten Schülermenge angezeigt. Ggf. kann bei "Entlassdatum (bei Abschluss)" selbiges eingetragen werden. Sind alle Angaben korrekt (hier könnten nochmals Änderungen vorgenommen werden), kann durch Klicken auf die Schaltfläche "Wechsel durchführen" die Versetzung realisiert werden.
 
-![GP-VersetzungUebertragung03](/bilder/wiki/gp-versetzunguebertragung03-8fe43f4a.jpg)
+![GP-VersetzungUebertragung03](/bilder/schild2/versetzung/gp-versetzunguebertragung03.jpg)
 
 - Übertragung ins neue Halbjahr:
 
 Hier findet, wie im Fenster kurz beschrieben, nur eine Übertragung ins nächste Halbjahr (also ein Halbjahreswechsel) statt. Es werden neue Lernabschnittsdaten angelegt und alle Fächer werden übernommen.
 
-![GP-VersetzungUebertragung04](/bilder/wiki/gp-versetzunguebertragung04-9cf39fc9.jpg)
+![GP-VersetzungUebertragung04](/bilder/schild2/versetzung/gp-versetzunguebertragung04.jpg)
 
 ------------------------------------------------------------------------
 

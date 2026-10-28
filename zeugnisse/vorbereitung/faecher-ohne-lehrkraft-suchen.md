@@ -1,8 +1,5 @@
 ---
 title: "Fächer ohne Lehrkraft suchen"
-wiki_title: "Fächer ohne Lehrkraft suchen"
-wiki_page_id: 464
-wiki_revision: 1897
 ---
 
 # Fächer ohne Lehrkraft suchen

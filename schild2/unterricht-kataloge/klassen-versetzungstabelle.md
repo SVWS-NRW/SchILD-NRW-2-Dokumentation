@@ -1,8 +1,5 @@
 ---
 title: "Klassen-/Versetzungstabelle"
-wiki_title: "Klassen-/Versetzungstabelle"
-wiki_page_id: 296
-wiki_revision: 5741
 ---
 
 # Klassen-/Versetzungstabelle
@@ -15,7 +12,7 @@ Hinter dem Karteireiter **Details** verbergen sich dann alle Einstellungen, die 
 Bei Grundschulen wurde die Darstellung von Statistikjahrgang auf Jahrgang und Parallelität angepasst. Bitte entnehmen Sie weitere Beispiel diesem Artikel: **[Tabelle der Jahrgänge in Grundschulen](/schild2/unterricht-kataloge/jg-tabelle-gs "JG-Tabelle-GS")**.
 :::
 
-![Klassen-Versetzungstabelle](/bilder/wiki/klassen-versetzungstabelle-b7f69246.jpg)
+![Klassen-Versetzungstabelle](/bilder/schild2/unterricht-kataloge/klassen-versetzungstabelle.jpg)
 
 **Schul-Interne Bezeichnung**
 

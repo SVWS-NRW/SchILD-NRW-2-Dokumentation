@@ -1,8 +1,5 @@
 ---
 title: "SelectStringEx"
-wiki_title: "SelectStringEx"
-wiki_page_id: 83
-wiki_revision: 5386
 ---
 
 # SelectStringEx
@@ -10,9 +7,7 @@ wiki_revision: 5386
 <a id="RAP-Funktion_&quot;SelectStringEx&quot;"></a>
 <a id="RAP-Funktion_.22SelectStringEx.22"></a>
 
-## RAP-Funktion "SelectStringEx"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 function SelectStringEx(Prompt, Optionsliste: String; Trennzeichen: Char): String;
@@ -30,9 +25,7 @@ Trennzeichen       - Beliebig wählbar, darf nur nicht in den zu trennenden
 
 ## Rückgabewert
 
-```text
 Gewählte Option.
-```
 
 ## Beispiel
 
@@ -47,5 +40,7 @@ Procedure ReportBeforePrint;
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-83) · [SelectStringEx – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SelectStringEx&oldid=5386)

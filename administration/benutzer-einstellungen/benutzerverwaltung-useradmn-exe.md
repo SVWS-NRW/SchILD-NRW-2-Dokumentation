@@ -1,8 +1,5 @@
 ---
 title: "Benutzerverwaltung Useradmn.exe"
-wiki_title: "Benutzerverwaltung Useradmn.exe"
-wiki_page_id: 524
-wiki_revision: 5740
 ---
 
 # Benutzerverwaltung Useradmn.exe
@@ -13,7 +10,7 @@ Die Benutzerverwaltung ist ein Programm außerhalb von SchILD. MMit diesem Progr
 
 In Schild-NRW ruft man über das Menü **"Extras \>\> Benutzerverwaltung"** das Programm Benutzerverwaltung auf. Dies gelingt jedoch nur, wenn man die passenden Rechter zur Nutzung der Benutzerverwaltung hat (z.B. als Administrator). Das Programm kann auch gesondert gestartet werden, indem man im Hauptinstallationsverzeichnis von Schild-NRW die Datei "Useradm.exe" ausführt. In beiden Fällen muss man sich für den Zugriff nochmals als berechtigter Nutzer anmelden. Hierzu werden Benutzername und Passwort erfragt. Ein Aufruf ohne Kennwortschutz ist unzulässig.
 
-![UserAdmn](/bilder/wiki/useradmn-2a9b6bee.png)
+![UserAdmn](/bilder/administration/benutzer-einstellungen/useradmn.png)
 
 Die Benutzerverwaltung ist zu nutzen, um Benutzerberechtigungen und Benutzerkennwörter in die Datenbank zu übernehmen. Hier können auch neue Passwörter vergeben werden, wenn ein Nutzer seine Zugangsdaten vergessen hat.
 
@@ -25,7 +22,7 @@ Die Rechte (Kompetenzen) der Benutzergruppen werden über die **Schaltfläche �
 
 Datenschutz sollte ernstgenommen werden. Es wäre unverantwortlich und auch nicht zulässig, wenn Lehrer und Schulsekretärin nur mit einem ENTER-Klick (admin ohne Benutzer-Kennwort) SchILD aufrufen könnten. Also erst alle Berechtigungen in der Benutzerverwaltung regeln!
 
-![Benutzergruppen](/bilder/wiki/benutzergruppen-55ff3316.png)
+![Benutzergruppen](/bilder/administration/benutzer-einstellungen/benutzergruppen.png)
 
 Eine spezielle Funktion hat die **Schaltfläche "DB-Version zurücksetzen"**. Bei Updates werden in Schild-NRW oft neue Felder oder Tabellen angelegt. Kommt es nun genau zu diesem Zeitpunkt zu einen Stromausfall oder einem Netzwerkfehler, so kann es sein, dass die Schild-Datenbank beim nächsten Aufruf nicht startet, weil eines der neuen Felder nicht gefunden wird. Schild-NRW bricht dann den Startvorgang ab. Da man dann nicht mehr an der DB arbeiten kann, hat man auch keine Möglichkeit diese Felder von Schild-NRW anlegen zu lassen. Öffnen Sie in einem solchen Fall die externe Benutzerverwaltung und klicken Sie auf den Button "DB-Version zurücksetzen". Beim nächsten Start von Schild-NRW wird die Update-Routine dann erneut ausgeführt!
 

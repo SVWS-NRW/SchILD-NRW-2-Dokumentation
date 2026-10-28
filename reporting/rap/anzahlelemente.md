@@ -1,8 +1,5 @@
 ---
 title: "AnzahlElemente"
-wiki_title: "AnzahlElemente"
-wiki_page_id: 118
-wiki_revision: 162
 ---
 
 # AnzahlElemente
@@ -10,14 +7,15 @@ wiki_revision: 162
 <a id="RAP-Funktion_&quot;AnzahlElemente&quot;"></a>
 <a id="RAP-Funktion_.22AnzahlElemente.22"></a>
 
-## RAP-Funktion "AnzahlElemente"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 function AnzahlElemente( const text, trennzeichen: string ): integer;
-Liefert die Anzahl der durch das Trennzeichen getrennten Einzelelemente in "text"
 ```
+
+## Beschreibung
+
+Liefert die Anzahl der durch das Trennzeichen getrennten Einzelelemente in "text"
 
 ## Parameter
 
@@ -28,9 +26,7 @@ trennzeichen: Das Trennzeichen
 
 ## Rückgabewert
 
-```text
 Integerwert der Elementanzahl.
-```
 
 ## Beispiel
 
@@ -41,5 +37,7 @@ if AnzahlElemente( txt, ',' ) > 2 then
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-118) · [AnzahlElemente – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=AnzahlElemente&oldid=162)

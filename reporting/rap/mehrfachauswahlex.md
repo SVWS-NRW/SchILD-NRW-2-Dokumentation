@@ -1,8 +1,5 @@
 ---
 title: "MehrfachauswahlEx"
-wiki_title: "MehrfachauswahlEx"
-wiki_page_id: 52
-wiki_revision: 5725
 ---
 
 # MehrfachauswahlEx
@@ -10,14 +7,15 @@ wiki_revision: 5725
 <a id="RAP-Funktion_&quot;MehrfachauswahlEx&quot;"></a>
 <a id="RAP-Funktion_.22MehrfachauswahlEx.22"></a>
 
-## RAP-Funktion "MehrfachauswahlEx"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 function MehrfachauswahlEx(Prompt: String, Optionsliste: String; Trennzeichen: Char): String;
-ermöglicht die Auswahl mehrerer Elemente einer Auswahlliste
 ```
+
+## Beschreibung
+
+ermöglicht die Auswahl mehrerer Elemente einer Auswahlliste
 
 ## Parameter
 
@@ -29,10 +27,8 @@ Trennzeichen - Trennt die Optionen in der Liste voneinander
 
 ## Rückgabewert
 
-```text
 Ein String mit den durch Bindestriche begrenzeten Indizes der gewählten Optionen;
 Wenn keine Auswahl getroffen wurde, besteht der String nur aus einem Bindestrich.
-```
 
 ## Beispiel
 
@@ -50,5 +46,7 @@ end
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-52) · [MehrfachauswahlEx – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=MehrfachauswahlEx&oldid=5725)

@@ -1,8 +1,5 @@
 ---
 title: "Gelöschte Daten zurückholen"
-wiki_title: "Gelöschte Daten zurückholen"
-wiki_page_id: 344
-wiki_revision: 3016
 ---
 
 # Gelöschte Daten zurückholen

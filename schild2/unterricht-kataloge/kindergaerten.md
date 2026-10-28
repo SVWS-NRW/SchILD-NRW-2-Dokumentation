@@ -1,8 +1,5 @@
 ---
 title: "Kindergärten"
-wiki_title: "Kindergärten"
-wiki_page_id: 179
-wiki_revision: 455
 ---
 
 # Kindergärten

@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 1399 · Stand 2014-02-17.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-323.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/bkfaechereinstellungen-5725d663.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/unterricht-kataloge/bkfachereinstellungen.jpg)
 
-![BKFächereinstellungen.jpg](/bilder/wiki/bkfaechereinstellungen-5725d663.jpg)
+![BKFächereinstellungen.jpg](/bilder/schild2/unterricht-kataloge/bkfachereinstellungen.jpg)
 
 ## Originalquelltext
 

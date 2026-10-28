@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 5166 · Stand 2022-01-03.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1324.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/gruppenprozess-einwilligungen-49afc5ad.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/unterricht-kataloge/gruppenprozess-einwilligungen.png)
 
-![Gruppenprozess_Einwilligungen.png](/bilder/wiki/gruppenprozess-einwilligungen-49afc5ad.png)
+![Gruppenprozess_Einwilligungen.png](/bilder/schild2/unterricht-kataloge/gruppenprozess-einwilligungen.png)
 
 ## Originalquelltext
 

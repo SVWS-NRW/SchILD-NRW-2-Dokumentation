@@ -1,5 +1,7 @@
 # Berufskolleg
 
+Wählen Sie die zum Bildungsgang gehörende Anlage und Gliederung. Bezeichnungen, Abschlussregeln und Formulare können sich zwischen den Bildungsgängen unterscheiden. Die älteren dokumentierten Verfahren bleiben zugänglich; die Gliederungsbezeichnung allein bestätigt noch keine passende Prüfungsordnung.
+
 - [BKAbschluss](/zeugnisse/berufskolleg/bkabschluss)
 - [BK-Abschluss](/zeugnisse/berufskolleg/bk-abschluss)
 - [Anlage D01](/zeugnisse/berufskolleg/anlage-d01)

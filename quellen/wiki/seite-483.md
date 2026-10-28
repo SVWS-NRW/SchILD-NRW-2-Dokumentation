@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 1990 · Stand 2014-03-31.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-483.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/gp-konferenzdatumsetzen-3dc96adb.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/zeugnisse/vorbereitung/gp-konferenzdatumsetzen.jpg)
 
-![GP-Konferenzdatumsetzen.jpg](/bilder/wiki/gp-konferenzdatumsetzen-3dc96adb.jpg)
+![GP-Konferenzdatumsetzen.jpg](/bilder/zeugnisse/vorbereitung/gp-konferenzdatumsetzen.jpg)
 
 ## Originalquelltext
 

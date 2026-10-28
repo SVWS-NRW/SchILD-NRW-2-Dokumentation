@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2171 · Stand 2014-05-21.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-531.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/karteireiter-abitur2-d18ce3d1.png)
+[Gesicherte Originaldatei öffnen](/bilder/zeugnisse/sekundarstufen/karteireiter-abitur2.png)
 
-![Karteireiter-Abitur2.png](/bilder/wiki/karteireiter-abitur2-d18ce3d1.png)
+![Karteireiter-Abitur2.png](/bilder/zeugnisse/sekundarstufen/karteireiter-abitur2.png)
 
 ## Originalquelltext
 

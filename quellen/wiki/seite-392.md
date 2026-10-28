@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 1651 · Stand 2014-03-10.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-392.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/repbau07-89010027.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/reporting/erstellung/repbau07.jpg)
 
-![RepBau07.jpg](/bilder/wiki/repbau07-89010027.jpg)
+![RepBau07.jpg](/bilder/reporting/erstellung/repbau07.jpg)
 
 ## Originalquelltext
 

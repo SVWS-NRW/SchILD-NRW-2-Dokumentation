@@ -1,8 +1,5 @@
 ---
 title: "UeberspringeRecord"
-wiki_title: "UeberspringeRecord"
-wiki_page_id: 104
-wiki_revision: 2723
 ---
 
 # UeberspringeRecord
@@ -10,14 +7,15 @@ wiki_revision: 2723
 <a id="RAP-Funktion_&quot;UeberspringeRecord&quot;"></a>
 <a id="RAP-Funktion_.22UeberspringeRecord.22"></a>
 
-## RAP-Funktion "UeberspringeRecord"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 procedure UeberspringeRecord(aPipeline: TppDatapipeline);
-überspringt einen Datensatz der Datenquelle
 ```
+
+## Beschreibung
+
+überspringt einen Datensatz der Datenquelle
 
 ## Parameter
 
@@ -25,11 +23,6 @@ procedure UeberspringeRecord(aPipeline: TppDatapipeline);
 aPipeline  - Name der Datenpipeline
 ```
 
-## Rückgabewert
-
-```text
-...
-```
 
 ## Beispiel
 
@@ -47,5 +40,7 @@ dies muss u.U. berücksichtigt werden!
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-104) · [UeberspringeRecord – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=UeberspringeRecord&oldid=2723)

@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 3395 · Stand 2015-07-30.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-891.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/fehlzeiten001-adbf1c85.png)
+[Gesicherte Originaldatei öffnen](/bilder/zeugnisse/vorbereitung/fehlzeiten001.png)
 
-![Fehlzeiten001.png](/bilder/wiki/fehlzeiten001-adbf1c85.png)
+![Fehlzeiten001.png](/bilder/zeugnisse/vorbereitung/fehlzeiten001.png)
 
 ## Originalquelltext
 

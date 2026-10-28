@@ -1,8 +1,5 @@
 ---
 title: "Sprachenfolge aus Leistungsdaten ermitteln"
-wiki_title: "Sprachenfolge aus Leistungsdaten ermitteln"
-wiki_page_id: 361
-wiki_revision: 1901
 ---
 
 # Sprachenfolge aus Leistungsdaten ermitteln

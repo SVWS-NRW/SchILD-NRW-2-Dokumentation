@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 1275 · Stand 2014-02-10.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-289.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/gp-noten-0acd1dab.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/zeugnisse/vorbereitung/gp-noten.jpg)
 
-![GP-Noten.jpg](/bilder/wiki/gp-noten-0acd1dab.jpg)
+![GP-Noten.jpg](/bilder/zeugnisse/vorbereitung/gp-noten.jpg)
 
 ## Originalquelltext
 

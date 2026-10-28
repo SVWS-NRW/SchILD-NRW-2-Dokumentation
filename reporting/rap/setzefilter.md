@@ -1,8 +1,5 @@
 ---
 title: "Setzefilter"
-wiki_title: "Setzefilter"
-wiki_page_id: 95
-wiki_revision: 2115
 ---
 
 # Setzefilter
@@ -10,39 +7,45 @@ wiki_revision: 2115
 <a id="RAP-Funktion_&quot;Setzefilter&quot;"></a>
 <a id="RAP-Funktion_.22Setzefilter.22"></a>
 
-## RAP-Funktion "Setzefilter"
+## Signatur
+
+```pascal
+procedure SetzeFilter(Pipeline: TppDbPipeline; const Filter: String)
+```
 
 ## Beschreibung
 
-   procedure SetzeFilter(Pipeline: TppDbPipeline; const Filter: String)\
-   schränkt die Datensätze durch die übergebene Filterbedingung ein.\
+schränkt die Datensätze durch die übergebene Filterbedingung ein.
 
 ## Parameter
 
-   Pipeline       - Datenquelle, die gefiltert werden soll\
-   Filter         - der neue Filter. Ist der Filterstring leer, wird die Filterung entfernt.\
-
-## Rückgabewert
-
-   ...\
+```text
+Pipeline       - Datenquelle, die gefiltert werden soll
+Filter         - der neue Filter. Ist der Filterstring leer, wird die Filterung entfernt.
+```
 
 ## Beispiel
 
-Man kann die Filterbedingungen in den Reports wie folgt definieren:\
-**Setzefilter(Klassenlehrer_mit_Faechern,'Fachkrz=M;D' );**\
-d.h. wenn mehrere Optionen in Frage kommen (OR-Bedingung), brauchen die nur\
-durch Semikolon getrennt angegeben zu werden.\
-**SetzeFilter(Klassen, 'KlassenlehrerKrz \<\>""');**\
-d.h. bei Abfragen "ungleich Leerstring" können die "doppelten Hochkommas"\
-(über der 2 auf der Tastatur) verwendet werden.\
-Filterbedingungen der Art 'Klasse=05\*' oder 'Klasse=\*A' bewirken eine Filterung mit \
-allen für den \*  vorkommenden Zeichen. (Wildcard)\
-Im übrigen können auch mehrere Aufrufe von SetzeFilter (z.B. für\
-verschiedene Datenquellen) genutzt werden.\
-**Noch ein Hinweis**: Manchmal funktioniert die Filterung in der Vorschau des\
-Designers nicht, im "Druckbetrieb" wird dann aber korrekt gefiltert.\
+Mehrere zulässige Werte werden als OR-Bedingung durch Semikolon getrennt:
 
+```pascal
+Setzefilter(Klassenlehrer_mit_Faechern,'Fachkrz=M;D');
+```
+
+Für „ungleich Leerstring“ können im Filter die doppelten Anführungszeichen verwendet werden:
+
+```pascal
+SetzeFilter(Klassen, 'KlassenlehrerKrz <>""');
+```
+
+Filter wie `Klasse=05*` oder `Klasse=*A` verwenden `*` als Platzhalter. Mehrere Aufrufe können verschiedene Datenquellen filtern. Ein leerer Filterstring entfernt die Filterung.
+
+:::warning Vorschau und Druck
+Laut Wiki-Quelle wirkt die Filterung in manchen Fällen erst im Druckbetrieb und nicht in der Vorschau des Designers. Prüfen Sie deshalb auch die tatsächliche Druckausgabe.
+:::
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-95) · [Setzefilter – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Setzefilter&oldid=2115)

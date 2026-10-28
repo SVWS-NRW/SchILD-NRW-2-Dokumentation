@@ -1,8 +1,5 @@
 ---
 title: "Kurs42:Versionsgeschichte"
-wiki_title: "Kurs42:Versionsgeschichte"
-wiki_page_id: 1372
-wiki_revision: 6010
 ---
 
 # Kurs42:Versionsgeschichte

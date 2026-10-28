@@ -1,8 +1,5 @@
 ---
 title: "MitLernabschnitten"
-wiki_title: "MitLernabschnitten"
-wiki_page_id: 53
-wiki_revision: 5723
 ---
 
 # MitLernabschnitten
@@ -10,15 +7,16 @@ wiki_revision: 5723
 <a id="RAP-Funktion_&quot;MitLernabschnitten&quot;"></a>
 <a id="RAP-Funktion_.22MitLernabschnitten.22"></a>
 
-## RAP-Funktion "MitLernabschnitten"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 procedure MitLernabschnitten(const Value: Boolean);
+```
+
+## Beschreibung
+
 Erzwingt die Aktualisierung der Datenquelle Lernabschnitte beim Wechsel
 eines Schülerdatensatzes.
-```
 
 ## Parameter
 
@@ -26,11 +24,6 @@ eines Schülerdatensatzes.
 Value - Boolescher Wert
 ```
 
-## Rückgabewert
-
-```text
-...
-```
 
 ## Beispiel
 
@@ -48,5 +41,7 @@ end
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-53) · [MitLernabschnitten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=MitLernabschnitten&oldid=5723)

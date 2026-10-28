@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2299 · Stand 2014-05-26.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-601.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/symbol-einstellungen-ee623e9c.png)
+[Gesicherte Originaldatei öffnen](/bilder/reporting/verwaltung/symbol-einstellungen.png)
 
-![Symbol-Einstellungen.png](/bilder/wiki/symbol-einstellungen-ee623e9c.png)
+![Symbol-Einstellungen.png](/bilder/reporting/verwaltung/symbol-einstellungen.png)
 
 ## Originalquelltext
 

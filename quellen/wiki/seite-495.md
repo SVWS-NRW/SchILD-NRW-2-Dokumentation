@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2024 · Stand 2014-04-01.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-495.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/gp-abiturgesamtergebnis-4aacd888.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/zeugnisse/sekundarstufen/gp-abiturgesamtergebnis.jpg)
 
-![GP-AbiturGesamtergebnis.jpg](/bilder/wiki/gp-abiturgesamtergebnis-4aacd888.jpg)
+![GP-AbiturGesamtergebnis.jpg](/bilder/zeugnisse/sekundarstufen/gp-abiturgesamtergebnis.jpg)
 
 ## Originalquelltext
 

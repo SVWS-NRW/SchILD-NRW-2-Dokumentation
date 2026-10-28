@@ -1,8 +1,5 @@
 ---
 title: "Klausurplanung CNF:Hauptseite"
-wiki_title: "Klausurplanung CNF:Hauptseite"
-wiki_page_id: 1163
-wiki_revision: 4499
 ---
 
 # Klausurplanung CNF:Hauptseite

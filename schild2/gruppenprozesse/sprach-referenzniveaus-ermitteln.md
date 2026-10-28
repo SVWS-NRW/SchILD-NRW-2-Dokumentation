@@ -1,8 +1,5 @@
 ---
 title: "Sprach-Referenzniveaus ermitteln"
-wiki_title: "Sprach-Referenzniveaus ermitteln"
-wiki_page_id: 366
-wiki_revision: 2792
 ---
 
 # Sprach-Referenzniveaus ermitteln

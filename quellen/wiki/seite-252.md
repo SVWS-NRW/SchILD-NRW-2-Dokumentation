@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 1061 · Stand 2014-01-28.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-252.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/notenexport2-75c209aa.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/zeugnisse/vorbereitung/notenexport2.jpg)
 
-![Notenexport2.jpg](/bilder/wiki/notenexport2-75c209aa.jpg)
+![Notenexport2.jpg](/bilder/zeugnisse/vorbereitung/notenexport2.jpg)
 
 ## Originalquelltext
 

@@ -1,8 +1,5 @@
 ---
 title: "Dokumentenverzeichnisse aktualisieren"
-wiki_title: "Dokumentenverzeichnisse aktualisieren"
-wiki_page_id: 581
-wiki_revision: 2253
 ---
 
 # Dokumentenverzeichnisse aktualisieren

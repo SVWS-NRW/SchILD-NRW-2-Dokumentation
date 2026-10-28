@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2488 · Stand 2014-08-29.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-642.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/symbolleiste-plus-57efca91.png)
+[Gesicherte Originaldatei öffnen](/bilder/einstieg/erste-schritte/symbolleiste-plus.png)
 
-![Symbolleiste-Plus.png](/bilder/wiki/symbolleiste-plus-57efca91.png)
+![Symbolleiste-Plus.png](/bilder/einstieg/erste-schritte/symbolleiste-plus.png)
 
 ## Originalquelltext
 

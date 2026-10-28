@@ -1,8 +1,5 @@
 ---
 title: "Zeugnisse drucken und Schüler ausschulen"
-wiki_title: "Zeugnisse drucken und Schüler ausschulen"
-wiki_page_id: 514
-wiki_revision: 3627
 ---
 
 # Zeugnisse drucken und Schüler ausschulen
@@ -25,7 +22,7 @@ Als Art des Abschlusses stehen sämtliche denkbare Abschlüsse zur Verfügung.
 
 Des Weiteren muss das Entlassdatum angegeben werden. Dieses Datum wird dann, vor dem Druck, in die Individualdaten des Schülers eingetragen (vgl. [Schulbesuch](/schild2/schueler/schulbesuch) \> "Entlassung von eigener Schule").
 
-![GP-Zeugnisausschulen](/bilder/wiki/gp-zeugnisausschulen-d1fd7d72.jpg)
+![GP-Zeugnisausschulen](/bilder/zeugnisse/vorbereitung/gp-zeugnisausschulen.jpg)
 
 Klickt man nun auf die Schaltfläche "Zeugnisse drucken", wird man aufgefordert, den gewünschten Report auszuwählen, danach muss die Schaltfläche "Fertigstellen" betätigt werden, um den Druck zu starten.
 

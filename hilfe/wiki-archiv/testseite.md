@@ -1,8 +1,5 @@
 ---
 title: "Testseite"
-wiki_title: "Testseite"
-wiki_page_id: 1376
-wiki_revision: 5588
 search: false
 ---
 

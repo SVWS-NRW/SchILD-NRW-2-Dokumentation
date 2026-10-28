@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2652 · Stand 2014-11-23.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-685.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/report-neu-linie-kontext-ad1a1537.png)
+[Gesicherte Originaldatei öffnen](/bilder/reporting/erstellung/report-neu-linie-kontext.png)
 
-![Report-Neu-Linie-Kontext.png](/bilder/wiki/report-neu-linie-kontext-ad1a1537.png)
+![Report-Neu-Linie-Kontext.png](/bilder/reporting/erstellung/report-neu-linie-kontext.png)
 
 ## Originalquelltext
 

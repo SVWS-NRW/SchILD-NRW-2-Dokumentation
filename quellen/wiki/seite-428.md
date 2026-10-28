@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 3832 · Stand 2016-02-24.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-428.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/floskeln-a0eff808.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/unterricht-kataloge/floskeln.jpg)
 
-![Floskeln.jpg](/bilder/wiki/floskeln-a0eff808.jpg)
+![Floskeln.jpg](/bilder/schild2/unterricht-kataloge/floskeln.jpg)
 
 ## Originalquelltext
 

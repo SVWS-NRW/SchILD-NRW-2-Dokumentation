@@ -1,8 +1,5 @@
 ---
 title: "Standard-Formulare drucken"
-wiki_title: "Standard-Formulare drucken"
-wiki_page_id: 613
-wiki_revision: 2370
 ---
 
 # Standard-Formulare drucken
@@ -13,11 +10,11 @@ Es gibt (mindestens) zwei Wege, um die Standard-Formulare aufzurufen.
 
 Sie rufen das Menü *Druckausgabe* auf und wählen dann den Menüpunkt *Report aus Ordner "Standard" drucken* aus.
 
-![Drucken-Standard2](/bilder/wiki/drucken-standard2-91193704.png)
+![Drucken-Standard2](/bilder/reporting/verwaltung/drucken-standard2.png)
 
 Alternativ können Sie auch den Knopf *Drucken* betätigen und dort *Standard-Formulare drucken* auswählen.
 
-![Drucken-Standard1](/bilder/wiki/drucken-standard1-5854d7d0.png)
+![Drucken-Standard1](/bilder/reporting/verwaltung/drucken-standard1.png)
 
 Es öffnet sich der Ordner Standard des Report-Explorers und Sie können das gewünschte Formular auswählen. (vgl. auch [Reportexplorer aufrufen](/reporting/verwaltung/reportexplorer-aufrufen))
 

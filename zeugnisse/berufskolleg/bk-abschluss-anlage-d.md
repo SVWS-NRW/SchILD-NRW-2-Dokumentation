@@ -1,8 +1,5 @@
 ---
 title: "BK-Abschluss:Anlage-D"
-wiki_title: "BK-Abschluss:Anlage-D"
-wiki_page_id: 1134
-wiki_revision: 4746
 ---
 
 # BK-Abschluss:Anlage-D

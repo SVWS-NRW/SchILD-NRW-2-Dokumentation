@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 6045 · Stand 2025-09-19.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1445.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/organisationsformhalbtag-b468ea5c.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/schueler/organisationsformhalbtag.png)
 
-![OrganisationsformHalbtag.png](/bilder/wiki/organisationsformhalbtag-b468ea5c.png)
+![OrganisationsformHalbtag.png](/bilder/schild2/schueler/organisationsformhalbtag.png)
 
 ## Originalquelltext
 

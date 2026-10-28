@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2699 · Stand 2014-12-14.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-703.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/kreuztabelle-religion1-3165f7a3.png)
+[Gesicherte Originaldatei öffnen](/bilder/reporting/erstellung/kreuztabelle-religion1.png)
 
-![Kreuztabelle-Religion1.png](/bilder/wiki/kreuztabelle-religion1-3165f7a3.png)
+![Kreuztabelle-Religion1.png](/bilder/reporting/erstellung/kreuztabelle-religion1.png)
 
 ## Originalquelltext
 

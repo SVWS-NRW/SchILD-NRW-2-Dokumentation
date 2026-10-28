@@ -1,8 +1,5 @@
 ---
 title: "Hilfe:Inhaltsverzeichnis"
-wiki_title: "Hilfe:Inhaltsverzeichnis"
-wiki_page_id: 430
-wiki_revision: 2044
 ---
 
 # Hilfe:Inhaltsverzeichnis
@@ -12,7 +9,7 @@ wiki_revision: 2044
 
 ## Wo bekomme ich Hilfe zu Schild-NRW ?
 
-![Supportkonzept des MSW](/bilder/wiki/supportkonzept-des-msw-65ee2bfa.png)
+![Supportkonzept des MSW](/bilder/hilfe/wiki-archiv/supportkonzept-des-msw.png)
 
 ------------------------------------------------------------------------
 

@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 5834 · Stand 2024-03-22.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1407.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/ban-export-abschluss-1b15a7da.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/import-export-statistik/ban-export-abschluss.png)
 
-![BAN_Export_Abschluss.png](/bilder/wiki/ban-export-abschluss-1b15a7da.png)
+![BAN_Export_Abschluss.png](/bilder/schild2/import-export-statistik/ban-export-abschluss.png)
 
 ## Originalquelltext
 

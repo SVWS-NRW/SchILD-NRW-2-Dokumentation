@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 5146 · Stand 2022-01-03.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1311.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/asdpc-zuwgeschi-f210f6ed.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/import-export-statistik/asdpc-zuwgeschi.png)
 
-![ASDPC_ZuwGeschi.png](/bilder/wiki/asdpc-zuwgeschi-f210f6ed.png)
+![ASDPC_ZuwGeschi.png](/bilder/schild2/import-export-statistik/asdpc-zuwgeschi.png)
 
 ## Originalquelltext
 

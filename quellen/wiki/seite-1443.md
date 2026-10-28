@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 6043 · Stand 2025-09-19.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1443.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/merkmalleer-cc47c0f4.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/schueler/merkmalleer.png)
 
-![MerkmalLeer.png](/bilder/wiki/merkmalleer-cc47c0f4.png)
+![MerkmalLeer.png](/bilder/schild2/schueler/merkmalleer.png)
 
 ## Originalquelltext
 

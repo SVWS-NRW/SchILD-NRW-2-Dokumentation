@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 495 · Stand 2013-12-08.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-185.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/attributsfilter02-260da80a.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/auswahl/attributsfilter02.jpg)
 
-![Attributsfilter02.jpg](/bilder/wiki/attributsfilter02-260da80a.jpg)
+![Attributsfilter02.jpg](/bilder/schild2/auswahl/attributsfilter02.jpg)
 
 ## Originalquelltext
 

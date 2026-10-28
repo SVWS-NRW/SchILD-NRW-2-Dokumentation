@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 3089 · Stand 2015-05-07.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-795.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/zeunis-kopf-04-97d75982.png)
+[Gesicherte Originaldatei öffnen](/bilder/archiv/zeunis-kopf-04.png)
 
-![Zeunis-Kopf-04.png](/bilder/wiki/zeunis-kopf-04-97d75982.png)
+![Zeunis-Kopf-04.png](/bilder/archiv/zeunis-kopf-04.png)
 
 ## Originalquelltext
 

@@ -1,8 +1,5 @@
 ---
 title: "Lupo:Schülerdateien erzeugen"
-wiki_title: "Lupo:Schülerdateien erzeugen"
-wiki_page_id: 981
-wiki_revision: 5551
 ---
 
 # Lupo:Schülerdateien erzeugen
@@ -12,8 +9,9 @@ wiki_revision: 5551
 
 ## Das Lupo-Schülerprogramm
 
-![Lupo_schuelerversion](/bilder/wiki/lupo-schuelerversion-7445f855.png)
-Die Lupo-Schülerversion
+![Lupo_schuelerversion](/bilder/tools/lupo/lupo-schuelerversion.png)
+
+*Die Lupo-Schülerversion*
 
 Verwenden Sie die Schülerversion nach den individuellen Voraussetzungen an Ihrer Schule. Ein Einsatz ist nicht zwingend notwendig, manchmal sogar nachteilig. Sie haben optional die Möglichkeit, LuPO-Schülerdateien zu erzeugen und diese den SuS Ihrer Schule automatisch zukommen zu lassen. Die Dateien enthalten alle von Ihnen durchgeführten Voreinstellungen, so dass die SuS verschiedene Wahlen ausprobieren können. Die versendeten Dateien enthalten lediglich die Daten der jeweiligen Schülerin bzw. des jeweiligen Schülers und können nur mit Hilfe einer speziellen Schülerversion von LuPO (LuPO_NRW_SV.exe) geöffnet werden. Die Schülerversion ist eine Variante der Lehrerversion und lässt keine Änderungen des Fächerkanons und sonstiger administrativer Einstellungen zu.
 
@@ -26,8 +24,9 @@ Die Verwendung des Schülerprogrammes ist keineswegs zwingend erforderlich. Die 
 
 ## Erzeugen und Versenden der Schülerdateien
 
-![Lupo_datenaustausch_schueler_beratungsdateien](/bilder/wiki/lupo-datenaustausch-schueler-beratungsdateien-8513c9b8.png)
-Dialog zur Festlegung von Einschränkungen in den Schülerdateien
+![Lupo_datenaustausch_schueler_beratungsdateien](/bilder/tools/lupo/lupo-datenaustausch-schueler-beratungsdateien.png)
+
+*Dialog zur Festlegung von Einschränkungen in den Schülerdateien*
 
 LuPO erzeugt die Schüler-Einzeldateien vollautomatisch als Dateien mit der Endung ".lpo" in einem von Ihnen gewählten Ordner. Rufen Sie hierzu das Menü „Export \> LuPO-Schülerdateien erzeugen \> Einzeldateien erzeugen (alle Schüler)“ auf. Vor dem eigentlichen Export der Schülerdateien können Sie die Schüler in ihren Möglichkeiten einschränken. Hierzu dient ein Dialog, in welchem Sie bereits bestehende Sprachenfolgen und Fachwahlen vor Manipulationen schützen können.
 
@@ -42,8 +41,9 @@ Die Schülerversion des Beratungstools öffnet lediglich Beratungsdateien mit de
 
 ## Einsammeln der Schülerdateien
 
-![Lupo_schuelerdateien_importieren](/bilder/wiki/lupo-schuelerdateien-importieren-96ae539f.png)
-Lupo-Schülerdateien mit Einschränkungen importieren
+![Lupo_schuelerdateien_importieren](/bilder/tools/lupo/lupo-schuelerdateien-importieren.png)
+
+*Lupo-Schülerdateien mit Einschränkungen importieren*
 
 Über den Menüpunkt "Datenaustausch \> LuPO-Dateien \> Import \> Schülerdateien (\*.lpo)" können Sie Schülerdateien importieren. Sie können in einem Importprozess mehrere Dateien gleichzeitig importieren. Markieren Sie hierzu alle empfangenen Beratungsdateien der SuS, die Sie importieren wollen, und klicken Sie auf die Schaltfläche „Öffnen“. Im Folgedialog können Sie die Halbjahre auswählen, die importiert werden sollen. Sollten die Schülerinnen oder Schüler die Daten aus vorangegangenen Halbjahren verändert haben, so vermeiden Sie auf diese Weise den Import der so manipulierten Daten. In diesem Dialog können Sie ebenfalls bestehende Sprachenfolgen vor Manipulation schützen.
 

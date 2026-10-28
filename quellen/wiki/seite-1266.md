@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 5004 · Stand 2021-10-20.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1266.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/asdpc-daten-loeschen-7260ea80.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/import-export-statistik/asdpc-daten-loschen.png)
 
-![ASDPC_Daten_löschen.png](/bilder/wiki/asdpc-daten-loeschen-7260ea80.png)
+![ASDPC_Daten_löschen.png](/bilder/schild2/import-export-statistik/asdpc-daten-loschen.png)
 
 ## Originalquelltext
 

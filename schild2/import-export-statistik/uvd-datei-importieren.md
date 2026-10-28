@@ -1,8 +1,5 @@
 ---
 title: "UVD-Datei importieren"
-wiki_title: "UVD-Datei importieren"
-wiki_page_id: 269
-wiki_revision: 1151
 ---
 
 # UVD-Datei importieren
@@ -13,7 +10,7 @@ Bei einem Einsatz eines Stundenplanprogramms (WinPlan, Untis...) können die kla
 
 Es erfolgt die Eingabe des Pfades für die UVD.TXT.
 
-![UVDtxtImport](/bilder/wiki/uvdtxtimport-e2a2f800.jpg)
+![UVDtxtImport](/bilder/schild2/import-export-statistik/uvdtxtimport.jpg)
 
 Eine Aktivierung der Option In Sekundarstufe II Kurse anlegen ist nicht sinnvoll, da hier durch den Import aus den Programmen LuPO bzw. Kurs42 die Kurse übernommen werden.
 

@@ -1,15 +1,12 @@
 ---
 title: "Dateimaske bearbeiten"
-wiki_title: "Dateimaske bearbeiten"
-wiki_page_id: 335
-wiki_revision: 1508
 ---
 
 # Dateimaske bearbeiten
 
 Dieser Dialog bestimmt die Ordnerstruktur der Dokumentenverwaltung. Außerdem wird der Aufbau des Dateinamens festgelegt.
 
-![Dateimaske](/bilder/wiki/dateimaske-27d19d65.jpg)
+![Dateimaske](/bilder/administration/benutzer-einstellungen/dateimaske.jpg)
 
 Ziehen Sie durch "Drag'n Drop" die Parameter aus der Spalte Merkmale in die Rubrik "Verzeichnisse" oder "Dateiname". Beachten Sie bitte dabei, dass bestimmte Merkmale nur in einer Rubrik Sinn ergeben.
 

@@ -1,8 +1,5 @@
 ---
 title: "JaNa-Export (Jahrgang und Nationalität)"
-wiki_title: "JaNa-Export (Jahrgang und Nationalität)"
-wiki_page_id: 1003
-wiki_revision: 3861
 ---
 
 # JaNa-Export (Jahrgang und Nationalität)
@@ -11,7 +8,7 @@ Der JaNa-Export ermöglicht die Meldung der Nationalitäten nach Jahrgängen.
 
 Es wird eine Textdatei mit den Einträgen zu "AktJahrgang", "Gliederung", "Fachklasse" und "Staatsang" erzeugt. Beispiel:
 
-![JaNa-Textdatei](/bilder/wiki/jana-textdatei-ee35af0e.png)
+![JaNa-Textdatei](/bilder/schild2/import-export-statistik/jana-textdatei.png)
 
 ------------------------------------------------------------------------
 

@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 5445 · Stand 2022-03-12.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1368.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/mysqlconnector-9ff6960c.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/administration/installation/mysqlconnector.jpg)
 
-![MysqlConnector.jpg](/bilder/wiki/mysqlconnector-9ff6960c.jpg)
+![MysqlConnector.jpg](/bilder/administration/installation/mysqlconnector.jpg)
 
 ## Originalquelltext
 

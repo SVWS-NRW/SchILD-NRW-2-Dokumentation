@@ -1,8 +1,5 @@
 ---
 title: "Gruppenprozesse"
-wiki_title: "Gruppenprozesse"
-wiki_page_id: 233
-wiki_revision: 3609
 ---
 
 # Gruppenprozesse
@@ -13,7 +10,7 @@ Für die Auswahl von Schülermengen stehen mehrere Möglichkeiten zur Verfügung
 
 - Man kann Schüler im [Container](/einstieg/grundlagen/container) mit Häkchen markieren (oder auch durch Doppelklick markieren), aber noch keine Filterung vornehmen. In diesem Fall muss bei Aufruf der Gruppenprozesse ausgewählt werden, ob man auf der Gesamtmenge der Schüler, oder den markierten Schülern arbeiten möchte.
 
-![Gruppenprozesse01](/bilder/wiki/gruppenprozesse01-418d0da2.jpg)\
+![Gruppenprozesse01](/bilder/schild2/gruppenprozesse/gruppenprozesse01.jpg)\
 
 Erst danach werden die Gruppenprozesse für die ausgewählte Schülermenge freigeschaltet.
 
@@ -21,7 +18,7 @@ Erst danach werden die Gruppenprozesse für die ausgewählte Schülermenge freig
 
 <!-- -->
 
-- Schülermengen können über den [Schnellfilter](https://www.svws.nrw.de/mediawiki/index.php?title=Hauptfenster#Schnellfilter) ausgewählt werden.
+- Schülermengen können über den [Schnellfilter](/einstieg/grundlagen/hauptfenster#Schnellfilter) ausgewählt werden.
 
 <!-- -->
 

@@ -1,8 +1,5 @@
 ---
 title: "Datei"
-wiki_title: "Datei"
-wiki_page_id: 342
-wiki_revision: 1539
 ---
 
 # Datei

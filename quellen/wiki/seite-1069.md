@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 3998 · Stand 2016-11-25.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1069.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/s1p-034-erstwunsch-zuweisen-da4b37dc.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/tools/s1plan/s1p-034-erstwunsch-zuweisen.jpg)
 
-![S1P-034-Erstwunsch-zuweisen.JPG](/bilder/wiki/s1p-034-erstwunsch-zuweisen-da4b37dc.jpg)
+![S1P-034-Erstwunsch-zuweisen.JPG](/bilder/tools/s1plan/s1p-034-erstwunsch-zuweisen.jpg)
 
 ## Originalquelltext
 

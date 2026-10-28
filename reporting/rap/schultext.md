@@ -1,8 +1,5 @@
 ---
 title: "SchulText"
-wiki_title: "SchulText"
-wiki_page_id: 73
-wiki_revision: 94
 ---
 
 # SchulText
@@ -10,9 +7,7 @@ wiki_revision: 94
 <a id="RAP-Funktion_&quot;SchulText&quot;"></a>
 <a id="RAP-Funktion_.22SchulText.22"></a>
 
-## RAP-Funktion "SchulText"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 function SchulText(const Kuerzel: String): String;
@@ -26,9 +21,7 @@ Kuerzel - Kurzzeichen des Textes
 
 ## Rückgabewert
 
-```text
 der dem Kürzel zugeordnete Text
-```
 
 ## Beispiel
 
@@ -41,5 +34,7 @@ end;
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-73) · [SchulText – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SchulText&oldid=94)

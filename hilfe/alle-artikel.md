@@ -5,6 +5,7 @@ title: Alle Artikel A–Z
 <script setup>
 import { data as articles } from './artikel.data.mjs'
 import { articleIndexLink } from '../.vitepress/article-index.mjs'
+import { withBase } from 'vitepress'
 </script>
 
 # Alle Artikel A–Z
@@ -16,5 +17,5 @@ Dieses Verzeichnis enthält alle veröffentlichten Dokumentationsseiten in alpha
 <p>{{ articles.length }} Seiten · Mit der Browsersuche (Strg+F) finden Sie einen Titel.</p>
 
 <ol class="article-index">
-  <li v-for="article in articles" :key="article.url"><a :href="articleIndexLink(article.url)">{{ article.title }}</a></li>
+  <li v-for="article in articles" :key="article.url"><a :href="withBase(articleIndexLink(article.url))">{{ article.title }}</a></li>
 </ol>

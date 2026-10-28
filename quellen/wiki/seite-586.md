@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2276 · Stand 2014-05-26.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-586.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/uebersicht-sia-eca31377.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/zeugnisse/sekundarstufen/uebersicht-sia.jpg)
 
-![Uebersicht-SIa.jpg](/bilder/wiki/uebersicht-sia-eca31377.jpg)
+![Uebersicht-SIa.jpg](/bilder/zeugnisse/sekundarstufen/uebersicht-sia.jpg)
 
 ## Originalquelltext
 

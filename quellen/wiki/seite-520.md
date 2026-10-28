@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2138 · Stand 2014-05-05.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-520.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/gp-versetzunguebertragung02-0f3b7657.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/versetzung/gp-versetzunguebertragung02.jpg)
 
-![GP-VersetzungUebertragung02.jpg](/bilder/wiki/gp-versetzunguebertragung02-0f3b7657.jpg)
+![GP-VersetzungUebertragung02.jpg](/bilder/schild2/versetzung/gp-versetzunguebertragung02.jpg)
 
 ## Originalquelltext
 

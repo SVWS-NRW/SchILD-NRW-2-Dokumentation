@@ -1,8 +1,5 @@
 ---
 title: "Kurse neu sortieren"
-wiki_title: "Kurse neu sortieren"
-wiki_page_id: 350
-wiki_revision: 1532
 ---
 
 # Kurse neu sortieren

@@ -1,8 +1,5 @@
 ---
 title: "Schüler mit Statistik-Fehlern zeigen"
-wiki_title: "Schüler mit Statistik-Fehlern zeigen"
-wiki_page_id: 152
-wiki_revision: 974
 ---
 
 # Schüler mit Statistik-Fehlern zeigen

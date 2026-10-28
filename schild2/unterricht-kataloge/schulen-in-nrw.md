@@ -1,8 +1,5 @@
 ---
 title: "Schulen in NRW"
-wiki_title: "Schulen in NRW"
-wiki_page_id: 178
-wiki_revision: 462
 ---
 
 # Schulen in NRW

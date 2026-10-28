@@ -1,8 +1,5 @@
 ---
 title: "Hochrechnung durchführen und speichern"
-wiki_title: "Hochrechnung durchführen und speichern"
-wiki_page_id: 511
-wiki_revision: 2090
 ---
 
 # Hochrechnung durchführen und speichern

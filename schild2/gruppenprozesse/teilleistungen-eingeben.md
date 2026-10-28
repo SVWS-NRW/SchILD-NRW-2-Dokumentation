@@ -1,8 +1,5 @@
 ---
 title: "Teilleistungen eingeben"
-wiki_title: "Teilleistungen eingeben"
-wiki_page_id: 474
-wiki_revision: 3616
 ---
 
 # Teilleistungen eingeben
@@ -11,11 +8,11 @@ Mit dem Aufruf des Gruppenprozesses "Teilleistungen eingeben" öffnen sich direk
 
 Mit Klicken auf die Schaltfläche "OK" wird die Auswahl vorgenommen.
 
-![GP-Teilleistungen01](/bilder/wiki/gp-teilleistungen01-36823c45.jpg)
+![GP-Teilleistungen01](/bilder/schild2/gruppenprozesse/gp-teilleistungen01.jpg)
 
 Im zweiten Fenster können nun für jeden Schüler die Teilleistungen und ggf. Bemerkungen durch Anklicken des entsprechenden Tabellenfeldes eingetragen werden. Durch Klicken auf die Schaltfläche "In Datenbank übernehmen" werden die Eintragungen gespeichert.
 
-![GP-Teilleistungen02](/bilder/wiki/gp-teilleistungen02-8dc2e62d.jpg)
+![GP-Teilleistungen02](/bilder/schild2/gruppenprozesse/gp-teilleistungen02.jpg)
 
 **Hinweis**: Die Teilleistungs-Arten können unter [Schulverwaltung](/schild2/unterricht-kataloge/schulverwaltung) \> [Teilleistungs-Arten](/schild2/unterricht-kataloge/teilleistungs-arten) ergänzt werden.
 

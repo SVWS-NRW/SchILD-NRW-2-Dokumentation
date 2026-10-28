@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2423 · Stand 2014-08-09.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-626.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/textverarbeitungsprogramm-4ed106ef.png)
+[Gesicherte Originaldatei öffnen](/bilder/reporting/verwaltung/textverarbeitungsprogramm.png)
 
-![Textverarbeitungsprogramm.png](/bilder/wiki/textverarbeitungsprogramm-4ed106ef.png)
+![Textverarbeitungsprogramm.png](/bilder/reporting/verwaltung/textverarbeitungsprogramm.png)
 
 ## Originalquelltext
 

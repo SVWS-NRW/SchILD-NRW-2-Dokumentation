@@ -1,8 +1,5 @@
 ---
 title: "Erzieher-Funktionen"
-wiki_title: "Erzieher-Funktionen"
-wiki_page_id: 375
-wiki_revision: 1623
 ---
 
 # Erzieher-Funktionen

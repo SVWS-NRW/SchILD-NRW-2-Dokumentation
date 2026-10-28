@@ -1,8 +1,5 @@
 ---
 title: "Statistik / amtliche Schuldaten"
-wiki_title: "Statistik / amtliche Schuldaten"
-wiki_page_id: 378
-wiki_revision: 2543
 ---
 
 # Statistik / amtliche Schuldaten

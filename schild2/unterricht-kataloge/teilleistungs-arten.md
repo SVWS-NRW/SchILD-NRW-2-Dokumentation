@@ -1,15 +1,12 @@
 ---
 title: "Teilleistungs-Arten"
-wiki_title: "Teilleistungs-Arten"
-wiki_page_id: 372
-wiki_revision: 4243
 ---
 
 # Teilleistungs-Arten
 
 In diesem Menü werden die Einträge angelegt, die als Teilleistungen bei den Schülerleistungsdaten zur Verfügung stehen sollen.
 
-![Teilleistungs-Arten](/bilder/wiki/teilleistungs-arten-b38e9152.jpg)
+![Teilleistungs-Arten](/bilder/schild2/unterricht-kataloge/teilleistungs-arten.jpg)
 
 Legen Sie hier alle Arten an, zu denen die Lehrer oder Abteilungsleiter später Leistungen eingeben können sollen. Bitte beachten Sie dabei, dass die Teilleistungsarten so zu wählen sind, dass sie pro Abschnitt jedem Schüler nur einmal zugeordnet werden müssen. Beispiele dafür wären "Klassenarbeit 1", "Klassenarbeit 2", "Klassenarbeit 3" oder "SoMi 1", "SoMi 2", "SoMi Gesamt"
 

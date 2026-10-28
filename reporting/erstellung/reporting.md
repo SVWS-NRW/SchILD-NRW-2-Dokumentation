@@ -1,15 +1,12 @@
 ---
 title: "Reporting"
-wiki_title: "Reporting"
-wiki_page_id: 8
-wiki_revision: 4707
 ---
 
 # Reporting
 
-![Drucken02](/bilder/wiki/drucken02-38b61c77.png)
+![Drucken02](/bilder/reporting/erstellung/drucken02.png)
 
-![Drucken01](/bilder/wiki/drucken01-84563ab6.png)
+![Drucken01](/bilder/reporting/erstellung/drucken01.png)
 
 Der Reportgenerator bietet über sogenannte Datenbankreports die Schnittstelle zwischen Schild-NRW und dem Drucker. Dabei werden über festgelegte Formulare die Werte aus der Datenbank abgerufen und für den Druck zusammengestellt.
 

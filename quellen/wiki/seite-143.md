@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 309 · Stand 2013-11-16.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-143.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/container-02-f3bc06a7.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/einstieg/grundlagen/container-02.jpg)
 
-![Container_02.jpg](/bilder/wiki/container-02-f3bc06a7.jpg)
+![Container_02.jpg](/bilder/einstieg/grundlagen/container-02.jpg)
 
 ## Originalquelltext
 

@@ -1,8 +1,5 @@
 ---
 title: "Abgeschlossene Fächer holen"
-wiki_title: "Abgeschlossene Fächer holen"
-wiki_page_id: 508
-wiki_revision: 2106
 ---
 
 # Abgeschlossene Fächer holen

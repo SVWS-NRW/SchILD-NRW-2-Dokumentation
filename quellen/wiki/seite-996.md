@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 3789 · Stand 2016-02-16.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-996.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/lupo-schnittstellen-dateien1-6ce57c36.png)
+[Gesicherte Originaldatei öffnen](/bilder/tools/lupo/lupo-schnittstellen-dateien1.png)
 
-![Lupo_schnittstellen_dateien1.png](/bilder/wiki/lupo-schnittstellen-dateien1-6ce57c36.png)
+![Lupo_schnittstellen_dateien1.png](/bilder/tools/lupo/lupo-schnittstellen-dateien1.png)
 
 ## Originalquelltext
 

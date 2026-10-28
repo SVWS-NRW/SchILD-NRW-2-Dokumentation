@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 186 · Stand 2013-11-06.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-127.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/kataloge-01-c32eb1d4.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/einstieg/grundlagen/kataloge-01.jpg)
 
-![Kataloge_01.jpg](/bilder/wiki/kataloge-01-c32eb1d4.jpg)
+![Kataloge_01.jpg](/bilder/einstieg/grundlagen/kataloge-01.jpg)
 
 ## Originalquelltext
 

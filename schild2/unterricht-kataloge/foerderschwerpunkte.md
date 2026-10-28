@@ -1,8 +1,5 @@
 ---
 title: "Förderschwerpunkte"
-wiki_title: "Förderschwerpunkte"
-wiki_page_id: 163
-wiki_revision: 938
 ---
 
 # Förderschwerpunkte
@@ -11,7 +8,7 @@ Bei Erstinstallation ist dieser Katalog leer.
 
 Sollten Kinder mit Förderschwerpunkt an die Schule kommen, müssen deren Förderschwerpunkte hier im Katalog eingetragen werden, um im Bereich der Sonderpädagogischen Förderung (befindet sich auf dem Karteireiter "[Individualdaten II](/schild2/schueler/individual-daten-ii)") zur Verfügung zu stehen.
 
-![Förderschwerpunkt](/bilder/wiki/foerderschwerpunkt-002f6606.jpg)
+![Förderschwerpunkt](/bilder/schild2/unterricht-kataloge/forderschwerpunkt.jpg)
 
 Bei der Bereitstellung der Förderschwerpunkte im Katalog sind Sie bei der Wahl der 'internen Bezeichnung' frei (z.B. ES, GS, blind...), müssen bei der ASD-Bezeichnung unter den zur Verfügung stehenden Begriffe wählen.
 

@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2884 · Stand 2015-02-23.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-750.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/leistungsdatenkurstut05-c0aad5b0.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/unterricht-kataloge/leistungsdatenkurstut05.jpg)
 
-![LeistungsdatenKursTut05.jpg](/bilder/wiki/leistungsdatenkurstut05-c0aad5b0.jpg)
+![LeistungsdatenKursTut05.jpg](/bilder/schild2/unterricht-kataloge/leistungsdatenkurstut05.jpg)
 
 ## Originalquelltext
 

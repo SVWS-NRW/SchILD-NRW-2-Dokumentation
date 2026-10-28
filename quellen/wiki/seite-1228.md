@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 4851 · Stand 2021-09-09.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1228.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/asdpcerhebungstarten-c7312d17.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/import-export-statistik/asdpcerhebungstarten.jpg)
 
-![ASDPCErhebungStarten.jpg](/bilder/wiki/asdpcerhebungstarten-c7312d17.jpg)
+![ASDPCErhebungStarten.jpg](/bilder/schild2/import-export-statistik/asdpcerhebungstarten.jpg)
 
 ## Originalquelltext
 

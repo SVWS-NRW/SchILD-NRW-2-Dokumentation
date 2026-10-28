@@ -1,8 +1,5 @@
 ---
 title: "Multi Klausurplanung CNF:Hauptseite"
-wiki_title: "Multi Klausurplanung CNF:Hauptseite"
-wiki_page_id: 1164
-wiki_revision: 4574
 ---
 
 # Multi Klausurplanung CNF:Hauptseite
@@ -41,8 +38,9 @@ Das Programm Multi_Klausurplanung_CNF berechnet mehrere Klausurpläne parallel u
 
 ## Vorbereitungen und Rechnung
 
-![Multi_Klausurplaner_Main](/bilder/wiki/multi-klausurplaner-main-832fca8c.png)
-Hauptfenster mit Dateneingabe
+![Multi_Klausurplaner_Main](/bilder/tools/weitere/multi-klausurplaner-main.png)
+
+*Hauptfenster mit Dateneingabe*
 
 - Auf der Registerkarte "Eingabe" legen Sie den Beginn und das Ende des Klausurzeitraums an (frühester Termin der 1. Klausur und spätester Termin der letzten Klausur).
 - Die maximale Anzahl von Klausuren eines Schüler bzw. einer Schülerin ist standardmäßig auf drei pro Woche voreingestellt. Dies kann bei Bedarf geändert werden.
@@ -134,9 +132,8 @@ Ein alternatives Vorgehen wäre es, alle Prioritäten als Ganzes in den Blick zu
 
 Hinweis: In den Regeln können konkrete Werte festgelegt werden. Setzt man stattdessen ein Sternchen, so bedeutet dies "alle"!
 
-|  |  |
-|----|----|
 | **Regel** | **Hinweise** |
+|----|----|
 | 100#Klausurphasen: Stufe \<A\> und Kurs \<B\> schreibt \<C\> Klausuren. | Sie legen fest, welcher Kurs einer Stufe welche Anzahl von Klausuren schreibt. Wird die Regel mehrfach verwendet, gilt für einen Kurs die letzte Anweisung. |
 | 101#Klausurphasen: Stufe \<A\> und Fach/Kursart \<B\>/\<C\> schreibt \<D\> Klausuren. | Sie legen fest, welches Fach bzw. welche Kursart einer Stufe welche Anzahl von Klausuren schreibt. Wird die Regel mehrfach verwendet, gilt für einen Kurs die letzte Anweisung. |
 | 102#Klausurphasen: Stufe \<A\> und Kurs \<B\> mit Klausurnummer \<C\> entfällt. | Sie legen fest, dass eine bestimmte Klausur eines Kurses nicht stattfindet. Dies ist z.B. sinnvoll, wenn eine übergeordnete Regel wie \#100 in einem Spezialfall außer Kraft gesetzt werden soll. |
@@ -200,7 +197,7 @@ Hinweis: In den Regeln können konkrete Werte festgelegt werden. Setzt man statt
 
 Im Reiter "Ausgabe" können Sie die Ergebnisse der durchgeführten Rechnungen sehen. Neben einigen relevanten Statistiken sehen Sie hier auch den kompletten Klausurplan nach Jahrgangsstufen. Hier ein Eindruck:
 
-![Übersicht über die klausurschreibenden Klausuren pro Tag](/bilder/wiki/multi-klausurplaner-klausuren-pro-tag-588bd2a6.png) ![Belegung einzelner Stunden mit Klausuren (wochenübergreifend)](/bilder/wiki/multi-klausurplaner-zellenuebersicht-6c7c9796.png) ![Klausurplan Beispielwoche](/bilder/wiki/multi-klausurplaner-klausurplan-31cf5494.png)
+![Übersicht über die klausurschreibenden Klausuren pro Tag](/bilder/tools/weitere/multi-klausurplaner-klausuren-pro-tag.png) ![Belegung einzelner Stunden mit Klausuren (wochenübergreifend)](/bilder/tools/weitere/multi-klausurplaner-zellenubersicht.png) ![Klausurplan Beispielwoche](/bilder/tools/weitere/multi-klausurplaner-klausurplan.png)
 
 <a id="Speichern_und_Rückimport"></a>
 <a id="Speichern_und_R.C3.BCckimport"></a>

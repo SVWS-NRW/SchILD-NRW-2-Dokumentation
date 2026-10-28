@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 5145 · Stand 2022-01-03.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1310.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/asdpc-abitur-3f0237fc.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/import-export-statistik/asdpc-abitur.png)
 
-![ASDPC_Abitur.png](/bilder/wiki/asdpc-abitur-3f0237fc.png)
+![ASDPC_Abitur.png](/bilder/schild2/import-export-statistik/asdpc-abitur.png)
 
 ## Originalquelltext
 

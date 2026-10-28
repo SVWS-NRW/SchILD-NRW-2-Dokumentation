@@ -1,13 +1,10 @@
 ---
 title: "A13 Ausbildungsvorbereitung (BS 1j; TZ)"
-wiki_title: "A13 Ausbildungsvorbereitung (BS 1j; TZ)"
-wiki_page_id: 1203
-wiki_revision: 4755
 ---
 
 # A13 Ausbildungsvorbereitung (BS 1j; TZ)
 
-![BK_Abschluss_A13](/bilder/wiki/bk-abschluss-a13-43a443eb.png)
+![BK_Abschluss_A13](/bilder/zeugnisse/berufskolleg/bk-abschluss-a13.png)
 
 ---
 

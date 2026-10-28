@@ -5,7 +5,7 @@ import { configureMarkdown, containerLabels } from './markdown.mjs'
 import { compactSiteData, verifyBuiltHtml, writeArticleRedirects } from './site-data.mjs'
 
 // VitePress must recognize spreadsheet links as files on server and client.
-const extraExtensions = [process.env.VITE_EXTRA_EXTENSIONS, 'ods', 'xlsx', 'dat', 'chm', 'spd', 'exe', 'doc', 'txt', 'mdb', 'chm', 'spd', 'exe', 'doc', 'txt', 'mdb', 'chm', 'spd', 'exe', 'doc', 'txt', 'mdb', 'chm', 'spd', 'exe', 'doc', 'txt', 'mdb'].filter(Boolean).join(',')
+const extraExtensions = [...new Set([process.env.VITE_EXTRA_EXTENSIONS, 'ods', 'xlsx', 'dat', 'chm', 'spd', 'exe', 'doc', 'txt', 'mdb'].filter(Boolean))].join(',')
 process.env.VITE_EXTRA_EXTENSIONS = extraExtensions
 
 export default defineConfig({
@@ -14,7 +14,7 @@ export default defineConfig({
   vite: { define: { 'import.meta.env.VITE_EXTRA_EXTENSIONS': JSON.stringify(extraExtensions) } },
   title: 'SchILD-NRW 2',
   description: 'Dokumentation für SchILD-NRW 2: Praxisanleitungen, Reporting und Nachschlagewerk',
-  srcExclude: ['README.md', 'migration/**', 'CONTRIBUTING.md', 'tests/**', 'scripts/**', 'node_modules/**', 'tmp/**', 'test-results/**'],
+  srcExclude: ['README.md', 'UMSETZUNG.md', 'CONTRIBUTING.md', 'tests/**', 'scripts/**', 'node_modules/**', 'tmp/**', 'test-results/**'],
   transformHtml: compactSiteData,
   buildEnd(config) { verifyBuiltHtml(config); writeArticleRedirects(config) },
   markdown: {

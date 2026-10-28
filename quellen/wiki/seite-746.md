@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2869 · Stand 2015-02-20.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-746.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/unfallanzeige-06-b6872113.png)
+[Gesicherte Originaldatei öffnen](/bilder/reporting/erstellung/unfallanzeige-06.png)
 
-![Unfallanzeige-06.png](/bilder/wiki/unfallanzeige-06-b6872113.png)
+![Unfallanzeige-06.png](/bilder/reporting/erstellung/unfallanzeige-06.png)
 
 ## Originalquelltext
 

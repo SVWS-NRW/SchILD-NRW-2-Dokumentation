@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 1277 · Stand 2014-02-10.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-291.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/gp-lernabschnitte-40925f7f.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/versetzung/gp-lernabschnitte.jpg)
 
-![GP-Lernabschnitte.jpg](/bilder/wiki/gp-lernabschnitte-40925f7f.jpg)
+![GP-Lernabschnitte.jpg](/bilder/schild2/versetzung/gp-lernabschnitte.jpg)
 
 ## Originalquelltext
 

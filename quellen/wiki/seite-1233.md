@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 4856 · Stand 2021-09-09.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1233.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/asdpc-startinformationen-cc3f7a4b.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/import-export-statistik/asdpc-startinformationen.jpg)
 
-![ASDPC-Startinformationen.jpg](/bilder/wiki/asdpc-startinformationen-cc3f7a4b.jpg)
+![ASDPC-Startinformationen.jpg](/bilder/schild2/import-export-statistik/asdpc-startinformationen.jpg)
 
 ## Originalquelltext
 

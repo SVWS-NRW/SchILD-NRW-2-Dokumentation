@@ -1,8 +1,5 @@
 ---
 title: "Kurs42 To CNF:Hauptseite"
-wiki_title: "Kurs42 To CNF:Hauptseite"
-wiki_page_id: 1159
-wiki_revision: 4591
 ---
 
 # Kurs42 To CNF:Hauptseite

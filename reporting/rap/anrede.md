@@ -1,8 +1,5 @@
 ---
 title: "Anrede"
-wiki_title: "Anrede"
-wiki_page_id: 11
-wiki_revision: 5722
 ---
 
 # Anrede
@@ -10,14 +7,15 @@ wiki_revision: 5722
 <a id="RAP-Funktion_&quot;Anrede&quot;"></a>
 <a id="RAP-Funktion_.22Anrede.22"></a>
 
-## RAP-Funktion "Anrede"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 function Anrede(aAnrede1,aTitel1,aName1,aAnrede2,aTitel2,aName2: String): String;
-Berechnet aus den übergebenen Werten die korrekte (Erzieher-)Anrede
 ```
+
+## Beschreibung
+
+Berechnet aus den übergebenen Werten die korrekte (Erzieher-)Anrede
 
 ## Parameter
 
@@ -32,9 +30,7 @@ aName2             - Name der zweiten Person
 
 ## Rückgabewert
 
-```text
 Korrekte Anrede
-```
 
 ## Beispiel
 
@@ -44,5 +40,7 @@ Ergebnis: Sehr geehrter Herr Meier, sehr geehrte Frau Dr. Müller-Lüdenscheid
 ```
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-11) · [Anrede – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Anrede&oldid=5722)

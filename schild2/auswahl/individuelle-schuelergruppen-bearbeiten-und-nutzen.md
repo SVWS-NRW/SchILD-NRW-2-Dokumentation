@@ -1,8 +1,5 @@
 ---
 title: "Individuelle Schülergruppen bearbeiten und nutzen"
-wiki_title: "Individuelle Schülergruppen bearbeiten und nutzen"
-wiki_page_id: 1007
-wiki_revision: 3878
 ---
 
 # Individuelle Schülergruppen bearbeiten und nutzen
@@ -20,7 +17,7 @@ Mit einer individuellen Schülergruppe können Gruppen definiert werden und somi
 
 In SchILD: Auswahl / Individuelle Schülergruppe bearbeiten
 
-![ISG-001](/bilder/wiki/isg-001-09492543.jpg)
+![ISG-001](/bilder/schild2/auswahl/isg-001.jpg)
 
 **Wichtig!** Nur für den eigenen Gebrauch oder sollen andere Nutzer ebenfalls die Gruppe auswählen dürfen und bearbeiten können?
 
@@ -35,7 +32,7 @@ In SchILD: Auswahl / Individuelle Schülergruppe bearbeiten
 
 rMt im Container öffnet Auswahlmenü - Komplement zur Auswahl, nützlich z.B. bei Eingabe von Fachwahlen
 
-![ISG-003](/bilder/wiki/isg-003-29e607d2.jpg) ![ISG-002](/bilder/wiki/isg-002-57c35c09.jpg)
+![ISG-003](/bilder/schild2/auswahl/isg-003.jpg) ![ISG-002](/bilder/schild2/auswahl/isg-002.jpg)
 
 <a id="Schüler_entfernen"></a>
 <a id="Sch.C3.BCler_entfernen"></a>

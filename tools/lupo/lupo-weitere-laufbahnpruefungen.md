@@ -1,8 +1,5 @@
 ---
 title: "Lupo:Weitere Laufbahnprüfungen"
-wiki_title: "Lupo:Weitere Laufbahnprüfungen"
-wiki_page_id: 986
-wiki_revision: 5555
 ---
 
 # Lupo:Weitere Laufbahnprüfungen

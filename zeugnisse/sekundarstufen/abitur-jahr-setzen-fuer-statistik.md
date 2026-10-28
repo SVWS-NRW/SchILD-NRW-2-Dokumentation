@@ -1,8 +1,5 @@
 ---
 title: "Abitur-Jahr setzen (für Statistik)"
-wiki_title: "Abitur-Jahr setzen (für Statistik)"
-wiki_page_id: 499
-wiki_revision: 2055
 ---
 
 # Abitur-Jahr setzen (für Statistik)

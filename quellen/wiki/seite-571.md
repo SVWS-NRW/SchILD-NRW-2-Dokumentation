@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2227 · Stand 2014-05-21.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-571.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/km2parameteradminal1-d528ea90.png)
+[Gesicherte Originaldatei öffnen](/bilder/archiv/km2parameteradminal1.png)
 
-![KM2ParameterAdminAL1.png](/bilder/wiki/km2parameteradminal1-d528ea90.png)
+![KM2ParameterAdminAL1.png](/bilder/archiv/km2parameteradminal1.png)
 
 ## Originalquelltext
 

@@ -1,8 +1,5 @@
 ---
 title: "FilterErzieherfunktion"
-wiki_title: "FilterErzieherfunktion"
-wiki_page_id: 26
-wiki_revision: 47
 ---
 
 # FilterErzieherfunktion
@@ -10,9 +7,7 @@ wiki_revision: 47
 <a id="RAP-Funktion_&quot;FilterErzieherfunktion&quot;"></a>
 <a id="RAP-Funktion_.22FilterErzieherfunktion.22"></a>
 
-## RAP-Funktion "FilterErzieherfunktion"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 procedure FilterErzieherfunktion(const aFunktion: String);
@@ -26,11 +21,6 @@ aFunktion          - Schulinterne Funktion, auf die gefiltert werden soll. Aus
                      Funktion ausgewählt.
 ```
 
-## Rückgabewert
-
-```text
-...
-```
 
 ## Beispiel
 
@@ -46,5 +36,7 @@ end;
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-26) · [FilterErzieherfunktion – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FilterErzieherfunktion&oldid=47)

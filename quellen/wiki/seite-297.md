@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 1301 · Stand 2014-02-12.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-297.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/klassen-versetzungstabelle-b7f69246.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/unterricht-kataloge/klassen-versetzungstabelle.jpg)
 
-![Klassen-Versetzungstabelle.jpg](/bilder/wiki/klassen-versetzungstabelle-b7f69246.jpg)
+![Klassen-Versetzungstabelle.jpg](/bilder/schild2/unterricht-kataloge/klassen-versetzungstabelle.jpg)
 
 ## Originalquelltext
 

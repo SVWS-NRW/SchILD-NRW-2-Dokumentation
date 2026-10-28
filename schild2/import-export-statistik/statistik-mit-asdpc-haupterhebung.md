@@ -1,8 +1,5 @@
 ---
 title: "Statistik mit ASDPC Haupterhebung"
-wiki_title: "Statistik mit ASDPC Haupterhebung"
-wiki_page_id: 1343
-wiki_revision: 5313
 ---
 
 # Statistik mit ASDPC Haupterhebung
@@ -27,11 +24,11 @@ Starten Sie ASDPC. Starten Sie über "Anwendung starten" ➥ "Erhebung Amtliche 
 
 Im Übersichtsbildschirm mit den Schuldaten lässt sich nun über "Erhebung" ➥ "Haupterhebung JAHR" ebendiese Haupterhebung starten.
 
-![ASDPC_Haupterhebung_Starten](/bilder/wiki/asdpc-haupterhebung-starten-bc925a45.png)
+![ASDPC_Haupterhebung_Starten](/bilder/schild2/import-export-statistik/asdpc-haupterhebung-starten.png)
 
 Je nachdem, ob in Ihrer Schule schon Vorgabedaten vorhanden sind oder ob schon an der Statistik gearbeitet wurde, erscheinen andere statistische Zusammenfassungen. In der Statistik hier im Beispiel wurden noch keine Daten eingelesen.
 
-![ASDPC_HE_Hauptfenster](/bilder/wiki/asdpc-he-hauptfenster-4181ead7.png)
+![ASDPC_HE_Hauptfenster](/bilder/schild2/import-export-statistik/asdpc-he-hauptfenster.png)
 
 <a id="Die_Menüoptionen_in_der_Haupterhebung"></a>
 <a id="Die_Men.C3.BCoptionen_in_der_Haupterhebung"></a>
@@ -45,7 +42,7 @@ Es ist nun zu sehen, dass sich das Menü in der Kopfzeile verändert hat. Diese 
 
 #### Datei ➥ Import
 
-![ASDPC_Import](/bilder/wiki/asdpc-import-14aa6503.png)
+![ASDPC_Import](/bilder/schild2/import-export-statistik/asdpc-import.png)
 
 Hier können von anderen Programmen erstellte Daten eingelesen werden, z.B. von SchILD NRW. Je nach Schulform können eventuell auch weitere Dateien eingelesen werden.
 
@@ -73,7 +70,7 @@ Das Einlesen der Lehrerdaten ist optional. In ihnen finden sich auch eventuell n
 
 Zum Einlesen müssen die passenden Dateien gewählt werden. Vom Standard bietet ASDPC den Ordner "Eingang" im ASDPC-Installationsverzeichnis an. Hat man die von anderen Programmen exportierten Daten oder die Vorgabedaten in einem anderen Verzeichnis abgelegt, lassen sich die Dateien dort finden. Hier im Beispiel lassen sich noch verschlüsselte oder schon unverschlüsselte Vorgabedaten anwählen.
 
-![ASDPC_Import_Vorgabedaten](/bilder/wiki/asdpc-import-vorgabedaten-3c6da7e8.png)
+![ASDPC_Import_Vorgabedaten](/bilder/schild2/import-export-statistik/asdpc-import-vorgabedaten.png)
 
 Fragt ASDPC, ob vor dem Import eine Sicherung der Daten durchgeführt werden sollte, bietet es sich an, diesen Dialog mit "Ja" zu bestätigen. Bei Problemen mit der Entschlüsselung der Vorgabedaten prüfen Sie bitte zuerst, ob Sie die gleichen Schlüssel wie IT.NRW verwenden oder ob die Dateinamen 100% korrekt geschrieben sind. Mehr Thema Verschlüsselung finden Sie im Kapitel [Schlüsselmanagement](/schild2/import-export-statistik/statistik-mit-asdpc-schluesselmanagement).
 
@@ -90,7 +87,7 @@ Die *Abteilungsdaten* werden benötigt, wenn mehrere Personen - eventuell auch a
 
 #### Datei ➥ Export
 
-![ASDPC_Export](/bilder/wiki/asdpc-export-dc3fc469.png)
+![ASDPC_Export](/bilder/schild2/import-export-statistik/asdpc-export.png)
 
 **Abteilungsdaten**: Bei Anwahl dieser Option öffnet sich ein Hinweis darauf, dass Klassenbezeichnungen der Abteilungen eindeutig sein müssen und ein Dialogfeld, in dem ein Speicherort und der Name einer .txt-Datei gewählt werden können. Dieser Name ist frei zu vergeben und sollte die Abteilung sowie das Datum eindeutig angeben.
 
@@ -107,7 +104,7 @@ Das genaue Vorgehen wird im Kapitel [Bereitstellung der Daten](/schild2/import-e
 
 #### Datei ➥ Drucken
 
-![ASDPC_Drucken](/bilder/wiki/asdpc-drucken-1f19eacb.png)
+![ASDPC_Drucken](/bilder/schild2/import-export-statistik/asdpc-drucken.png)
 
 Über dieses Menü können alle *Belege* gesammelt oder einzeln ausgedruckt werden, diese können zur Weiterbearbeitung, der Archivierung oder der Weitergabe an den Schulträger dienen. Weiterhin sind die Belege als *Leerbelege* in ihrer unausgefüllten Form ausdruckbar.
 
@@ -120,7 +117,7 @@ Auch der Druck der *Schlüsseltabellen* und die Fehlerbeschreibung kann über di
 
 Sollte es aufgrund fehlerhafter Daten einfacher sein, eine große Menge Daten direkt zu löschen und neu zu importieren/einzugeben, ist das über das Menü "Datei" ➥ "Daten löschen" anwählbar.
 
-![ASDPC_Daten_löschen](/bilder/wiki/asdpc-daten-loeschen-7260ea80.png)
+![ASDPC_Daten_löschen](/bilder/schild2/import-export-statistik/asdpc-daten-loschen.png)
 
 Die zu löschenden Datensätze werden über die Checkboxen ausgewählt. Sollte es notwendig sein, können über die oberste Option alle Daten gelöscht werden.
 
@@ -133,7 +130,7 @@ Es empfiehlt sich, vor einem Löschvorgang eine Sicherung anzufertigen, da spät
 
 #### Datei ➥ Sicherung
 
-![ASDPC_Sicherung](/bilder/wiki/asdpc-sicherung-40c9b163.png)
+![ASDPC_Sicherung](/bilder/schild2/import-export-statistik/asdpc-sicherung.png)
 
 Hier kann eine Sicherung über "Datei" ➥ "Sicherung" ➥ "Datenbank sichern" angestoßen werden. Diese wird als MSACCESS Datenbank (.mdb) in den Ordner ASD\sicherungen gespeichert, jedoch kann auch ein beliebiger anderer Ordner angewählt werden. Das Dateinamenformat ist DATUM_ZÄHLER.MBD. So wäre der Vorschlag für die zweite Sicherung am 20.10.2021 der Name "20211020_2_SICHERUNG.MDB". Dieser kann davon abgesehen auch frei gewählt werden.
 
@@ -156,7 +153,7 @@ Das Einlesen von Datensätzen aus einer Sicherung überschreibt den aktuellen St
 
 Unter dieser Option verbergen sich die Belege von ASDPC, in dem die Daten der Statistik erfasst werden. Hinweise zur eigentlichen Erfassung der Daten erhalten Sie im folgenden Kapitel zur DURCHFÜRHUNG DER STATISIK. An dieser Stelle ist grundlegend zu vermerken, dass die Belege der Reihenfolge von oben nach unten abgearbeitet werden.
 
-![ASDPC_Belege](/bilder/wiki/asdpc-belege-ccb4c5a3.png)
+![ASDPC_Belege](/bilder/schild2/import-export-statistik/asdpc-belege.png)
 
 Die Belege "SCD011" und "Weitere Belege" können noch weitere Unterbelege beinhalten, die ebenfalls in ihrer Menüreihenfolge abgearbeitet werden.
 
@@ -166,14 +163,14 @@ Die Belege "SCD011" und "Weitere Belege" können noch weitere Unterbelege beinha
 
 Der Menüeintrag "Extras" ist wie im identisch zum übergeordneten Menü ["Extras"](/schild2/import-export-statistik/statistik-mit-asdpc-aufbau#Abschnitte_.22Extras.22) in ASDPC.
 
-![ASDPC_Extras](/bilder/wiki/asdpc-extras-bc4281c9.png)
+![ASDPC_Extras](/bilder/schild2/import-export-statistik/asdpc-extras.png)
 
 <a id="Prüfen"></a>
 <a id="Pr.C3.BCfen"></a>
 
 #### Prüfen
 
-![ASDPC_Prüfen](/bilder/wiki/asdpc-pruefen-dead5265.png)
+![ASDPC_Prüfen](/bilder/schild2/import-export-statistik/asdpc-prufen.png)
 
 Nach der Dateneingabe in den Belegen können die Daten innerhalb der Belege geprüft werden. Mit der Option "Prüfen" ➥ "Gesamtprüfung" werden alle Belege und vor allem die Daten untereinander über die Belege hinweg geprüft. Daher muss bei Änderungen immer eine Gesamtprüfung durchgeführt werden.
 
@@ -209,7 +206,7 @@ Die Hilfe ist identisch zum übergeordneten Menü ["Hilfe"](/schild2/import-expo
 
 ### Durchführung der Haupterhebung
 
-![Schaubild_ASDPC2](/bilder/wiki/schaubild-asdpc2-2bcea4ae.png)
+![Schaubild_ASDPC2](/bilder/schild2/import-export-statistik/schaubild-asdpc2.png)
 
 Nachdem Sie die [Statistik vorbereitet](/schild2/import-export-statistik/statistik-mit-asdpc#Vorbereitung_der_Statistik) haben, können Sie damit beginnen, Ihren Daten einzulesen. Beginnen Sie mit den Vorgabedaten. Die weiteren Daten, SIM.TXT, Lehrer.TXT etc. können eventuell aus Schulverwaltungsprogrammen wie SchILD NRW oder Untis usw. erstellt werden.
 
@@ -219,7 +216,7 @@ Nachdem Sie die [Statistik vorbereitet](/schild2/import-export-statistik/statist
 - UVD.txt - dies ist an kleinen Schulen eventuell nicht notwendig; liegt die UVD ohnehin digital vor, etwa weil ein online-Vertretungsplan genutzt wird oder weil zeitabhängige Lehrerdaten in SchILD erfasst werden, kann diese aber auch eingelesen werden.
 - ABI.txt - an Grundschulen usw. i.d.R. nicht notwendig. ;)
 
-![ASDPC_Belege_in_der_HE](/bilder/wiki/asdpc-belege-in-der-he-3b4c1541.png)
+![ASDPC_Belege_in_der_HE](/bilder/schild2/import-export-statistik/asdpc-belege-in-der-he.png)
 
 :::info
 Achten Sie darauf, schon beim Import auftretende Fehler in den Schulverwaltungsprogrammen zu bereinigen und dann erneut von dort einen Export für einen neuen Import in ASDPC zu starten, damit diese Fehler in Folgejahren nicht erneut auftreten und Ihre Daten konsistent sind.
@@ -237,11 +234,11 @@ Bei Belegen in ASDPC findet sich wieder eine Menüleiste, die Punkte entsprechen
 
 Unter **Bearbeiten** können alle Datensätze des Belegs auf einmal ausgewählt werden. Weiterhin kann hier ein *Kommentar* zum Beleg sowie Kontaktdaten für IT.NRW eingegeben werden, um eventuelle Rückfragen zu beschleunigen.
 
-![ASDPC_B_Kommentar](/bilder/wiki/asdpc-b-kommentar-a0676513.png)
+![ASDPC_B_Kommentar](/bilder/schild2/import-export-statistik/asdpc-b-kommentar.png)
 
 Unter **Prüfen** lässt sich einmal der aktuelle *Satz* und der komplette *Beleg* prüfen. Ebenso lässt sich hier der gesamte Prüfbericht aufrufen oder der Fehler des aktuellen Satzes anzeigen.
 
-![ASDPC_B_Prüfen](/bilder/wiki/asdpc-b-pruefen-a27ba9f5.png)
+![ASDPC_B_Prüfen](/bilder/schild2/import-export-statistik/asdpc-b-prufen.png)
 
 Schlussendlich lässt sich über "Bearbeiten" ➥ "Stichtag" der Stichtag für die Abgabe abrufen.
 
@@ -251,7 +248,7 @@ Der Stichtag ist einzuhalten. Bei absehbaren Verzögerungen kontaktieren Sie bit
 
 Über dem Beleg selbst finden Sie die Kopfzeile des Belegs mit seinen Steuerelementen.
 
-![ASDPC_B_Übersicht](/bilder/wiki/asdpc-b-uebersicht-d6f31add.png)
+![ASDPC_B_Übersicht](/bilder/schild2/import-export-statistik/asdpc-b-ubersicht.png)
 
 Wenn der Mauszeiger über einem Steuerelement gehalten wird, erscheint eine Popup-Information zur Funktion des Steuerelements. Hier im Beispiel sehen wir, dass die Tür oben links den Beleg "LID123 schließen" wird.
 
@@ -280,13 +277,13 @@ Der Reihenfolge nach, beginnend links, bedeuten die Schaltflächen:
 
 - Über "Identnummer aus Vorgabedaten anzeigen" kann nach Anwahl der Vorgabedatendatei die zu diesem Satz gehörende LID angezeigt werden.
 
-![ASDPC_B_Beispielfehler](/bilder/wiki/asdpc-b-beispielfehler-272e973b.png)
+![ASDPC_B_Beispielfehler](/bilder/schild2/import-export-statistik/asdpc-b-beispielfehler.png)
 
 Hier im Beispiel sehen wir, dass der Hinweis darauf aufmerksam macht, die Schule habe keine Lehramtsanwärter! Ist dies jedoch in der Tat so, kann dieser Umstand unkorrigiert bleiben, da er die aktuelle Realität an der Schule abbildet. Ansonsten wären die LAA nachzutragen. Harte Fehler sind immer zu beseitigen, Muss-Fehler sind zu beseitigen oder für jeden Einzelfall mit der Schulaufsicht abzuklären.
 
 Unterhalb der Steuerleiste befinden sich die Datensätze. Diese können mit einem Klick in den Datensatz bearbeitet werden.
 
-![ASDPC_B_Daten_zu_Satz](/bilder/wiki/asdpc-b-daten-zu-satz-c671b591.png)
+![ASDPC_B_Daten_zu_Satz](/bilder/schild2/import-export-statistik/asdpc-b-daten-zu-satz.png)
 
 Klickt man auf das jeweilige Kopffeld einer Spalte, wird nach dieser Spalte sortiert. Die Sortierung kann mit einem Klick auf *Standardsortierung* wieder aufgehoben werden.
 
@@ -294,7 +291,7 @@ Unter den Datensätzen - die lassen sich rechts mit einem Balken scrollen - befi
 
 Bei diesen Informationen können wieder neue Datensätze angelegt werden. Bei einem Klick auf das Symbol "Datensatz anlegen" erscheint unterhalb ein leerer Datensatz, in dem per Dropdown-Menü alle von der Statistik vorgesehenen Einträge ausgewählt werden können.
 
-![ASDPC_B_Satzdetails](/bilder/wiki/asdpc-b-satzdetails-ed2886d3.png)
+![ASDPC_B_Satzdetails](/bilder/schild2/import-export-statistik/asdpc-b-satzdetails.png)
 
 Fehlerhafte oder aus Versehen leer erzeugte unbenötigte Sätze lassen sich über das entsprechende Symbol wieder entfernen.
 
@@ -323,7 +320,7 @@ Wie im vorherigen Beleg findet sich die Kopfzeile mit den allgemeinen Steuerelem
 
 Beim Beleg KLD323 werden die Daten zu den Klassen erfasst.
 
-![ASDPC_KLD1](/bilder/wiki/asdpc-kld1-0d4a7ce2.png)
+![ASDPC_KLD1](/bilder/schild2/import-export-statistik/asdpc-kld1.png)
 
 Hierbei wird eine Klasse bei Bedarf über mehrere Zeilen abgebildet, welche die unterschiedlichen Möglichkeiten als \*\*Teilklassen\*\* erfasst. Die erste Spalte ordnet der jeweiligen Teilklasse einen Standort zu.
 
@@ -378,7 +375,7 @@ Bei der Unterrichtsverteilung wird pro Zeile ein Unterricht erfasst.
 In Optionen ➥ Unterrichtseinheiten in Minuten kann zwischen dem 45-Minuten-Modell und der Abrechnung in Minuteneinheiten für die UVD und die LID123 umgeschaltet werden. Hin- und Herschalten kann jedoch zu Rundungsfehlern führen, so dass ein Umschalten eine gründliche Überlegung erfordert.
 :::
 
-![ASDPC_UVD1](/bilder/wiki/asdpc-uvd1-594fdd88.png)
+![ASDPC_UVD1](/bilder/schild2/import-export-statistik/asdpc-uvd1.png)
 
 Für den einfachsten Fall, dass alle SuS einer Klasse an einer Unterrichtseinheit teilnehmen, sind in der Zeile ein Jahrgang (110) und eine Parallelität (111) zu wählen. Der Bildungsgang bleibt bei fast allen Schulformen als "Standard für diese Schulform" leer; bei Gymnasien ist er auszufüllen (G8, G9, Aufbaugymnasium). Die Art der Gruppe (112) bleibt ebenfalls leer.
 
@@ -392,7 +389,7 @@ Zusätzliche Teilnehmer (140 und 141) sind nicht einzutragen, da ASDPC davon aus
 
 Mit den Folgezeilen "Team-Teaching" und "Schüler-Folgezeile" lassen sich viele in der Realität vorhandenen Konstrukte abbilden.
 
-![UVD_3](/bilder/wiki/uvd-3-0dd2fbcc.png)
+![UVD_3](/bilder/schild2/import-export-statistik/uvd-3.png)
 
 Hat man eine leere UVD vor sich, kann mit dem Symbol "Satz einfügen" eine neue Zeile eingefügt werden, die dann über die erste Spalte "Zeilenart" auf "H - Hauptteile", "F- Schüler-Folgezeile" oder "T - Team-Teaching" gesetzt werden kann. Möchte man eine Zeile in einer existierenden UVD-Tabelle anlegen, so gelingt dies über das Menü "Folgezeilen".
 
@@ -400,7 +397,7 @@ In der Abbildung oben ist zu sehen, dass sich beim Team-Teachung lediglich eine 
 
 Bei der Schüler-Folgezeile lassen sich ein neuer Jahrgang, Bildungsgang, eine Art der Gruppe, ein Fach und weitere TeilnehmerInnen auswählen.
 
-![UVD_4](/bilder/wiki/uvd-4-6340e0e4.png)
+![UVD_4](/bilder/schild2/import-export-statistik/uvd-4.png)
 
 Die Abbildung oben zeigt zwei Beispiele:
 
@@ -431,7 +428,7 @@ Weitere angepasste Beispiele und Konventionen finden sich in den Eintragungshilf
 
 In diesem Beleg werden jahrgangsweise die Religionszugehörigkeiten und Abmeldungen vom Religionsunterricht erfasst.
 
-![ASDPC_SCD011](/bilder/wiki/asdpc-scd011-ae81964a.png)
+![ASDPC_SCD011](/bilder/schild2/import-export-statistik/asdpc-scd011.png)
 
 :::info
 Beachten Sie bitte hierzu die aktuellen Eintragungshilfen.\
@@ -461,7 +458,7 @@ Es ist zwingend erforderlich, dass die Vorgabedaten *vor* jeder Bearbeitung oder
 
 Aufgrund der Tatsache, dass Vorgabedaten nur die *abschlussrelevanten Jahrgänge* ab Jahrgang 09 enthalten, kann es passieren, dass ein Schüler oder eine Schülerin die Schule nach Erreichen der Vollschulzeitpflicht in einem niedrigeren, z.B. 08, Jahrgang verlässt. Dieser niedrigere Jahrgang wäre somit händisch nachzutragen.
 
-![ASDPC_SCD012](/bilder/wiki/asdpc-scd012-6f689f95.png)
+![ASDPC_SCD012](/bilder/schild2/import-export-statistik/asdpc-scd012.png)
 
 Die grünen Einträge sind vorgegeben und können nicht verändert werden.
 
@@ -483,14 +480,14 @@ Um Rückfragen zu vermeiden empfiehlt es sich, die Gesamtzahlen zu vergleichen u
 
 Hier finden sich diverse Belege für weitere Daten. Manche der Belege werden nur für passende Schulformen angezeigt.
 
-![ASDPC_Weitere_Belege](/bilder/wiki/asdpc-weitere-belege-8902bb0a.png)
+![ASDPC_Weitere_Belege](/bilder/schild2/import-export-statistik/asdpc-weitere-belege.png)
 
 <a id="Abiturprüfungsergebnisse"></a>
 <a id="Abiturpr.C3.BCfungsergebnisse"></a>
 
 ##### Abiturprüfungsergebnisse
 
-![ASDPC_Abitur](/bilder/wiki/asdpc-abitur-3f0237fc.png)
+![ASDPC_Abitur](/bilder/schild2/import-export-statistik/asdpc-abitur.png)
 
 In diesem Beleg sind die Abiturprüfungsergebnisse einzulesen. Diese Daten können über die von SchILD NRW erzeugte ABI.txt eingelesen werden. Es ist zu beachten, dass bei "Bild.-Gang" von Gymnasien bzw. von Gesamtschulen mit entsprechenden Bildungsgängen G8 bzw. G9 einzutragen ist. Eine Automatik ist bei einer passenden Schulform unter "Bearbeiten" anwählbar.
 
@@ -502,7 +499,7 @@ Zum Ende der Bearbeitung sind wie bei vorherigen Belegen über die gelben Schalt
 
 In diesem Beleg wird die Zuwanderungsgeschichte von SuS klassenweise erfasst. Hierbei ist zu beachten, dass im rechten Bereich zwei unterschiedliche Zählweisen verwendet werden:
 
-![ASDPC_ZuwGeschi](/bilder/wiki/asdpc-zuwgeschi-f210f6ed.png)
+![ASDPC_ZuwGeschi](/bilder/schild2/import-export-statistik/asdpc-zuwgeschi.png)
 
 - Personen 1): Hier wird jede Person nur einmal gezählt, d.h. es handelt sich um die Summe der SuS, die irgendeine Zuwanderungsgeschichte haben
 - Fallzählung 2): Hier werden drei unterschiedliche Fälle differenziert erfasst und somit kann es möglich sein, dass SoS in mehren der Spalten gezählt werden müssen. Z.B. würde ein Schüler, der "nicht in Deutschland geboren" ist und bei dem "mindstens ein Elternteil nicht in Deutschland geboren" ist, aber die Verkehrssprache "Deutsch" in der Familie hat, in den ersten beiden Spalten erfasst werden.
@@ -512,7 +509,7 @@ Eine zu erfassende "Personen 1)"-Zuwanderungsgeschichte liegt dann und nur dann 
 Somit kann es durchaus sein, dass SuS keine deutsche Staatsbürgerschaft besitzen, aber auch nicht in diesem Beleg erfasst werden.
 :::
 
-![ASDPC_ZuwGeschi_Kontrolle](/bilder/wiki/asdpc-zuwgeschi-kontrolle-0aaef788.png)
+![ASDPC_ZuwGeschi_Kontrolle](/bilder/schild2/import-export-statistik/asdpc-zuwgeschi-kontrolle.png)
 
 Nach getaner Arbeit sind die Kontrollzahlen manuell unter "Summe der Schüler mit Zuwanderungsgeschichte" zu bestätigen.
 
@@ -523,7 +520,7 @@ Nach getaner Arbeit sind die Kontrollzahlen manuell unter "Summe der Schüler mi
 
 Mögliche und tatsächlich belegte Internatsplätze Ihrer Schule sind über diesen Beleg zu erfassen.
 
-![ASDPC_Internat](/bilder/wiki/asdpc-internat-2e507d26.png)
+![ASDPC_Internat](/bilder/schild2/import-export-statistik/asdpc-internat.png)
 
 Im Dropdown-Menü kann angewählt werden, ob es "Keine Internatsplätze" gibt oder wie die Geschlechterausrichtung des Internats gestaltet ist.
 
@@ -533,7 +530,7 @@ Im Dropdown-Menü kann angewählt werden, ob es "Keine Internatsplätze" gibt od
 
 Hier werden die Wohnorte mit Postleitzahl und Wohnort nach Klassen und Teilklassen wie in der KLD323 gesetzt erfasst.
 
-![ASDPC_Wohnorte](/bilder/wiki/asdpc-wohnorte-9074506c.png)
+![ASDPC_Wohnorte](/bilder/schild2/import-export-statistik/asdpc-wohnorte.png)
 
 Wie schon bei anderen Belegen werden SuS mit allen übereinstimmenden Merkmalen zu einer Gruppe im Feld unterhalt der Auswahlliste zusammengefasst. Hier sind eine Postleitzahl aus NRW und dann ein dazugehörender Wohnort zu wählen.
 
@@ -543,7 +540,7 @@ Wird die Postleitzahl geändert bzw. gewählt wird der Wohnort nicht automatisch
 
 Ein Wohnort außerhalb von NRW - etwa in einem anderen Bundesland oder einem von ASDPC erfassten Nachbar-Ausland Deutschlands - wird über die entsprechenden Schlüssel am Ende der Postleitzahlenliste gewählt.
 
-![ASDPC_WohnorteAuswahl](/bilder/wiki/asdpc-wohnorteauswahl-63909cf7.png)
+![ASDPC_WohnorteAuswahl](/bilder/schild2/import-export-statistik/asdpc-wohnorteauswahl.png)
 
 Um die Auswahl der möglichen Wohnorte einzuschränken kann über "Wohnorte auswählen" eine Einschränkung auf einen Regierungsbezirk und dann auf einen Kreis durchgeführt werden.
 
@@ -555,13 +552,13 @@ Um diese Einschränkung rückgängig zu machen, steht das Feld "Auswahl zurücks
 
 Die SuS werden wieder nach Klassen und Teilklassen, wie in der KLD323 gesetzt, erfasst. Hierbei sind folgende SuS gemeinsam als Gruppe unterhalb der (Teil-)klassenauswahl zu erfassen:
 
-![Bild_2022-01-03_104947](/bilder/wiki/bild-2022-01-03-104947-1dd79bdf.png)
+![Bild_2022-01-03_104947](/bilder/schild2/import-export-statistik/bild-2022-01-03-104947.png)
 
 Jede Gruppe besteht aus SuS mit gleichem Geburtsjahr und gleicher Staatsangehörigkeit. Damit ergibt sich, dass ausländische SuS als eigene Gruppe mit der jeweiligen Staatsangehörigkeit gesondert zur Erfassung angelegt werden.
 
 In der Kopfzeile sind wieder die "Schülersummen" manuell einzutragen und zu bestätigen.
 
-![ASDPC_Schülersummen_Kontrolle](/bilder/wiki/asdpc-schuelersummen-kontrolle-52a19247.png)
+![ASDPC_Schülersummen_Kontrolle](/bilder/schild2/import-export-statistik/asdpc-schulersummen-kontrolle.png)
 
 <a id="Deutschfördergruppen"></a>
 <a id="Deutschf.C3.B6rdergruppen"></a>
@@ -588,7 +585,7 @@ Der Handreichung des Ministeriums ist zu entnehmen:
 
 • *die bei einem Wechsel der Schulstufe (von der Primarstufe zur Sekundarstufe I oder von der Sekundarstufe I zur Sekundarstufe II) oder der Schule aufgrund ihrer kurzen Verweildauer in der abgebenden Schule die notwendigen Deutschkenntnisse noch nicht ausreichend haben erwerben können.*
 
-![ASDPC_Deutschfördergruppen](/bilder/wiki/asdpc-deutschfoerdergruppen-1c12e146.png)
+![ASDPC_Deutschfördergruppen](/bilder/schild2/import-export-statistik/asdpc-deutschfordergruppen.png)
 
 Hier sind die eingerichteten Deutschfördergruppen nach Zahl der Gruppen und Zahl der Teilnehmer einzutragen, die Deutschförderklassen werden aus der KLD323 übernommen.
 

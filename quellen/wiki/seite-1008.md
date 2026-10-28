@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 3870 · Stand 2016-05-14.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1008.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/isg-001-09492543.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/auswahl/isg-001.jpg)
 
-![ISG-001.jpg](/bilder/wiki/isg-001-09492543.jpg)
+![ISG-001.jpg](/bilder/schild2/auswahl/isg-001.jpg)
 
 ## Originalquelltext
 

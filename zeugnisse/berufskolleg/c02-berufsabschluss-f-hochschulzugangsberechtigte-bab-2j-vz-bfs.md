@@ -1,13 +1,10 @@
 ---
 title: "C02 Berufsabschluss f. Hochschulzugangsberechtigte (BAB 2j; VZ) BFS"
-wiki_title: "C02 Berufsabschluss f. Hochschulzugangsberechtigte (BAB 2j; VZ) BFS"
-wiki_page_id: 1213
-wiki_revision: 4764
 ---
 
 # C02 Berufsabschluss f. Hochschulzugangsberechtigte (BAB 2j; VZ) BFS
 
-![BK_Abschluss_C02](/bilder/wiki/bk-abschluss-c02-d65fd7d7.png)
+![BK_Abschluss_C02](/bilder/zeugnisse/berufskolleg/bk-abschluss-c02.png)
 
 ---
 

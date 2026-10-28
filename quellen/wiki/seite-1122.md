@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 4138 · Stand 2017-05-21.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1122.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/gruppen-002-34398887.png)
+[Gesicherte Originaldatei öffnen](/bilder/archiv/gruppen-002.png)
 
-![Gruppen_002.png](/bilder/wiki/gruppen-002-34398887.png)
+![Gruppen_002.png](/bilder/archiv/gruppen-002.png)
 
 ## Originalquelltext
 

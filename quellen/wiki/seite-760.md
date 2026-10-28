@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2913 · Stand 2015-03-24.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-760.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/ne-teilleitsung-nv-923e35f8.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/gruppenprozesse/ne-teilleitsung-nv.jpg)
 
-![NE-Teilleitsung-nv.jpg](/bilder/wiki/ne-teilleitsung-nv-923e35f8.jpg)
+![NE-Teilleitsung-nv.jpg](/bilder/schild2/gruppenprozesse/ne-teilleitsung-nv.jpg)
 
 ## Originalquelltext
 

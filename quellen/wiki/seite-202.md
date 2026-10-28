@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 560 · Stand 2013-12-11.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-202.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/download-plugins-e2bbd767.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/archiv/download-plugins.jpg)
 
-![Download_plugins.jpg](/bilder/wiki/download-plugins-e2bbd767.jpg)
+![Download_plugins.jpg](/bilder/archiv/download-plugins.jpg)
 
 ## Originalquelltext
 

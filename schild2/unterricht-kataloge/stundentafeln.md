@@ -1,8 +1,5 @@
 ---
 title: "Stundentafeln"
-wiki_title: "Stundentafeln"
-wiki_page_id: 368
-wiki_revision: 3868
 ---
 
 # Stundentafeln
@@ -13,11 +10,11 @@ Typischerweise ist dies der Klassenunterricht. Diese Fächerzuordnung findet ohn
 
 Zunächst legt man im oberen Teil des Dialogfensters über das Plussymbol eine neue Stundentafel an. Geben Sie dieser einen Jahrgang, für den die Stundentafel gelten soll. Bleibt das Jahrgangsfeld leer, so ist die Stundentafel jahrgangsübergreifend. In der Schulform "Berufskolleg" kann für die Stundentafel noch die Fachklasse gewählt werden, für die die Stundentafel gelten soll.
 
-![Stundentafel 01](/bilder/wiki/stundentafel-01-372d7d5a.jpg)
+![Stundentafel 01](/bilder/schild2/unterricht-kataloge/stundentafel-01.jpg)
 
 Ist die Stundentafel angelegt, können im unteren Bereich des Fensters die einzelnen Fächer hinzugefügt werden. Die Fächer können mit Kursart und Wochenstundenzahl angelegt werden. Sollte die Anzahl der Wochenstunden z.B. in einem Jahrgang variieren, so kann man diese weglassen oder einen Standardwert nehmen, den man später noch ändern kann.
 
-![Stundentafel 02](/bilder/wiki/stundentafel-02-f32f5788.jpg)
+![Stundentafel 02](/bilder/schild2/unterricht-kataloge/stundentafel-02.jpg)
 
 Das Anlegen von Stundentafeln kann als Vorbereitung zur Zuweisung von Klassenunterricht gesehen werden. Die Einrichtung der Stundentafeln legt noch keine Datensätze bei den Leistungsdaten der Schüler an.
 

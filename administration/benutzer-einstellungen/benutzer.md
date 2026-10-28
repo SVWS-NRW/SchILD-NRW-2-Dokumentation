@@ -1,8 +1,5 @@
 ---
 title: "Benutzer"
-wiki_title: "Benutzer"
-wiki_page_id: 450
-wiki_revision: 1848
 ---
 
 # Benutzer

@@ -1,15 +1,14 @@
 ---
 title: "FHR"
-wiki_title: "FHR"
-wiki_page_id: 442
-wiki_revision: 1942
 ---
 
 # FHR
 
-Der Karteireiter **FHR** wird nur bei den Schülern angezeigt, die das Abitur anstreben, aber schon die Bedingungen für den Erwerb der Fachhochschulreife (FHR) erfüllen.
+Der Karteireiter **FHR** wird nur bei den Schülern angezeigt, die das Abitur anstreben, aber schon die Bedingungen für den Erwerb des **schulischen Teils der Fachhochschulreife** erfüllen.
 
-![FHR-Karteikarte](/bilder/wiki/fhr-karteikarte-58cc21ab.png)
+Der schulische Teil und der berufspraktische Teil sind zu unterscheiden. Eine erfolgreiche Berechnung der schulischen Voraussetzungen bescheinigt noch nicht die vollständige Fachhochschulreife. Einzelheiten erläutert das [Merkblatt des Schulministeriums](https://www.schulministerium.nrw/sites/default/files/documents/Merkblatt-zum-Erwerb-der-Fachhochschulreife.pdf).
+
+![FHR-Karteikarte](/bilder/zeugnisse/sekundarstufen/fhr-karteikarte.png)
 
 ------------------------------------------------------------------------
 

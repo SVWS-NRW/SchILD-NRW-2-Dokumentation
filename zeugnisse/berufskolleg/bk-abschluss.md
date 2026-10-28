@@ -1,15 +1,18 @@
 ---
 title: "BK-Abschluss"
-wiki_title: "BK-Abschluss"
-wiki_page_id: 449
-wiki_revision: 4186
 ---
 
 # BK-Abschluss
 
 Für die Schüler eines Bildungsganges im Berufskolleg, die einen Berufsabschluss erwerben, gibt es die Karteikarte **BK-Abschluss**. Abhängig vom Bildungsgang und der zugrunde liegenden Prüfungsordnung, werden die Felder und Schaltflächen auf dieser Karte eingeblendet.
 
-Grundsätzlich müssen zunächst die Leistungsdaten geholt werden. Dazu klicken Sie auf die Schaltfläche *Leistungsdaten holen* (wenn man mit dem Mauszeiger über die Schaltfläche fährt, wird die Schaltfläche als solches auch erkennbar!). Gegebenenfalls kann nun die Zulassung zur Prüfung kontrolliert werden (Schaltfläche: *Zulassung prüfen*). Je nach Anlage kann man jetzt schriftliche Fächer festlegen (alternativ können die Fächer auch bei der Definition des Unterrichtsfaches als schriftliches Fach für einzelne Gliederungen bestimmt werden). Nach Eingabe der Vornoten und der Noten in den Prüfungsfächern lassen sich die vorläufigen Abschlussnoten berechnen (Schaltfläche: *vorl. Abschlussnoten berechnen*). Nach möglichen mündlichen Prüfungen wird dann der Abschluss berechnet (Schaltfläche *Abschluss berechnen*).
+## Prüfung und Abschluss bearbeiten
+
+1. Wählen Sie **Leistungsdaten holen**. Die Schaltfläche wird beim Überfahren mit dem Mauszeiger erkennbar.
+2. Prüfen Sie gegebenenfalls über **Zulassung prüfen**, ob die Zulassungsvoraussetzungen vorliegen.
+3. Legen Sie abhängig von der Anlage die schriftlichen Prüfungsfächer fest. Alternativ können diese bereits bei der Definition des Unterrichtsfaches für die betreffende Gliederung hinterlegt sein.
+4. Geben Sie die Vornoten und Prüfungsnoten ein und wählen Sie **vorl. Abschlussnoten berechnen**.
+5. Ergänzen Sie gegebenenfalls die mündlichen Prüfungen und wählen Sie anschließend **Abschluss berechnen**.
 
 Diese Schritte lassen sich für die ganze Gruppe über Gruppenprozesse ausführen. Beim Aufruf der Gruppenprozesse werden die Schalten am unteren Rand des Fensters eingeblendet. Dabei wird anhand der gefilterten Gruppe entschieden, ob und welche Schalter zur Verfügung stehen. Dabei wird auf Gliederung und Statistikjahrgang der Schüler geschaut. Bei Mischklassen kann es also notwendig sein, Teilgruppen zu filtern.
 
@@ -30,7 +33,7 @@ Diese Schritte lassen sich für die ganze Gruppe über Gruppenprozesse ausführe
 
 Im unteren Teil der Karteikarte können in einem Feld die Themen der Abschlussarbeiten eingegeben werden. Darunter befindet sich der Bereich *Auswertung*, in dem die erreichten Abschlüsse und ggf. die Durchschnittsnoten zu finden sind.
 
-![BK-Abschluss-Reiter](/bilder/wiki/bk-abschluss-reiter-da72b48d.jpg)
+![BK-Abschluss-Reiter](/bilder/zeugnisse/berufskolleg/bk-abschluss-reiter.jpg)
 
 ------------------------------------------------------------------------
 

@@ -1,8 +1,5 @@
 ---
 title: "S1PLAN:Anhang"
-wiki_title: "S1PLAN:Anhang"
-wiki_page_id: 1104
-wiki_revision: 4075
 ---
 
 # S1PLAN:Anhang
@@ -12,7 +9,7 @@ wiki_revision: 4075
 
 ## MENÜPUNKT DATEI
 
-![S1P-Anhang-01-Menüpunkt-Datei](/bilder/wiki/s1p-anhang-01-menuepunkt-datei-678ce1b3.jpg)
+![S1P-Anhang-01-Menüpunkt-Datei](/bilder/tools/s1plan/s1p-anhang-01-menupunkt-datei.jpg)
 
 Führen Sie den Mauszeiger über die verschiedenen Symbole. Die Bedeutungen werden jeweils in kleinen Erläuterungsfenstern dargestellt.
 

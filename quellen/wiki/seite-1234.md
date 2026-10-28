@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 4857 · Stand 2021-09-09.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1234.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/asdupdate-cd5e457c.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/import-export-statistik/asdupdate.jpg)
 
-![ASDUpdate.jpg](/bilder/wiki/asdupdate-cd5e457c.jpg)
+![ASDUpdate.jpg](/bilder/schild2/import-export-statistik/asdupdate.jpg)
 
 ## Originalquelltext
 

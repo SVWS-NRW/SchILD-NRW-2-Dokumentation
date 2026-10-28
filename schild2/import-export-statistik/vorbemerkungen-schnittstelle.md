@@ -1,8 +1,5 @@
 ---
 title: "Vorbemerkungen-Schnittstelle"
-wiki_title: "Vorbemerkungen-Schnittstelle"
-wiki_page_id: 231
-wiki_revision: 1817
 ---
 
 # Vorbemerkungen-Schnittstelle

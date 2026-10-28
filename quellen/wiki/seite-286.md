@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 1261 · Stand 2014-02-10.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-286.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/filteri03-f80a7919.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/auswahl/filteri03.jpg)
 
-![FilterI03.jpg](/bilder/wiki/filteri03-f80a7919.jpg)
+![FilterI03.jpg](/bilder/schild2/auswahl/filteri03.jpg)
 
 ## Originalquelltext
 

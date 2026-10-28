@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 4953 · Stand 2021-10-20.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1252.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/asdpc-he-menu-dda6b55e.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/import-export-statistik/asdpc-he-menu.png)
 
-![ASDPC_HE_Menu.png](/bilder/wiki/asdpc-he-menu-dda6b55e.png)
+![ASDPC_HE_Menu.png](/bilder/schild2/import-export-statistik/asdpc-he-menu.png)
 
 ## Originalquelltext
 

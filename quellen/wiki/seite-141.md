@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 302 · Stand 2013-11-16.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-141.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/schnellfilter-01-503ec237.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/einstieg/grundlagen/schnellfilter-01.jpg)
 
-![Schnellfilter_01.jpg](/bilder/wiki/schnellfilter-01-503ec237.jpg)
+![Schnellfilter_01.jpg](/bilder/einstieg/grundlagen/schnellfilter-01.jpg)
 
 ## Originalquelltext
 

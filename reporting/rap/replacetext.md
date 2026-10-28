@@ -1,8 +1,5 @@
 ---
 title: "ReplaceText"
-wiki_title: "ReplaceText"
-wiki_page_id: 63
-wiki_revision: 5651
 ---
 
 # ReplaceText
@@ -10,9 +7,7 @@ wiki_revision: 5651
 <a id="RAP-Funktion_&quot;ReplaceText&quot;"></a>
 <a id="RAP-Funktion_.22ReplaceText.22"></a>
 
-## RAP-Funktion "ReplaceText"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 function ReplaceText(aSourceText, aSearchText,
@@ -30,9 +25,7 @@ aReplaceText       - String, der eingefügt werden soll
 
 ## Rückgabewert
 
-```text
 Veränderter Quelltext
-```
 
 ## Beispiel
 
@@ -42,5 +35,7 @@ Memo1.Text:=ReplaceText(Memo1.Text,'$VORNAME$',Schueler['Vorname']);
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-63) · [ReplaceText – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ReplaceText&oldid=5651)

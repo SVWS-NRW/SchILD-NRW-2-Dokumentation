@@ -1,8 +1,5 @@
 ---
 title: "Lupo:Der Beratungsprozess"
-wiki_title: "Lupo:Der Beratungsprozess"
-wiki_page_id: 982
-wiki_revision: 5849
 ---
 
 # Lupo:Der Beratungsprozess
@@ -14,8 +11,9 @@ Die korrekte Beratung und Prüfung der Schullaufbahn der SuS liegt in der Verant
 
 ## Beratungsdatei aufteilen und zusammenführen (optional)
 
-![Lupo_lehrerdateien_import](/bilder/wiki/lupo-lehrerdateien-import-28722a65.png)
-Mehrere Lehrerdateien zusammenführen
+![Lupo_lehrerdateien_import](/bilder/tools/lupo/lupo-lehrerdateien-import.png)
+
+*Mehrere Lehrerdateien zusammenführen*
 
 In der Regel wird die Erstberatung mit Hilfe von Lupo von mehreren Beratungslehrern an unterschiedlichen Computern durchgeführt. Hierzu stehen grundsätzlich zwei Wege offen. Sie können zum einen von verschiedenen Client-Rechnern über ein Netzwerk gleichzeitig auf die z.B. auf einem Server gespeicherte Beratungsdatei zugreifen und Fachwahlen vornehmen. Sie können aber alternativ beliebig viele Duplikate der vorbereiteten Beratungsdatei anfertigen und die Duplikate auf die einzelnen Rechner abspeichern. Bei dieser Variante arbeitet jeder Beratungslehrer mit seiner eigenen Kopie der Beratungsdatei. Bei dieser Variante ist zu empfehlen, die Beratungsdateien der unterschiedlichen Beratungslehrer zu nummerieren, so dass diese später nach der zentralen Beratung über den Dialog Datenaustausch \>LuPO-Dateien \> Aus Lehrerdateien \>Import \> Lehrerdateien (\*.lup)“ zu einer Zentralen Datei vereinigt werden können. Wichtig: Bei der zweiten Methode ist darauf zu achten, dass die Beratungsdatei noch keine Fachwahlen enthält und dass ein Schüler nicht von zwei Beratungslehrern beraten wird, da in diesem Fall eine Vereinigung der Daten problematisch ist. Wurde die dezentrale Erstberatung durchgeführt, so sollte zukünftig mit einer zusammengeführten Datei weitergearbeitet werden. Damit das Zusammenführen der Dateien zu keinen Konflikten führt, muss ein Beratungsdatum hinterlegt werden. Es ist zu empfehlen, dieses automatisch setzen zu lassen. Die Automatik aktualisiert das Beratungsdatum immer dann, wenn ein Änderungs-Klick in der Schülerlaufbahn vorgenommen wird.
 
@@ -28,8 +26,9 @@ In der Regel wird die Erstberatung mit Hilfe von Lupo von mehreren Beratungslehr
 
 ### Schülerindividuelle Einträge im Menüband vornehmen
 
-![Lupo_laufbahnplanung_1](/bilder/wiki/lupo-laufbahnplanung-1-b2eb3a65.png)
-Der Kern des Programms: Die Laufbahnplanung
+![Lupo_laufbahnplanung_1](/bilder/tools/lupo/lupo-laufbahnplanung-1.png)
+
+*Der Kern des Programms: Die Laufbahnplanung*
 
 Der Reiter "Laufbahnplanung" zeigt im Wesentlichen Informationen über einzelne SuS und wurde auf deren Beratung in der Beratungssituation optimiert. Somit haben alle Einstellungen und Schaltflächen immer nur Auswirkungen auf den ausgewählten Schüler.
 
@@ -41,8 +40,9 @@ Es empfiehlt sich, das Beratungsdatum im dafür vorgesehenen Feld festzuhalten. 
 
 Im Menüband finden Sie weiterhin sechs Schaltflächen für Schulen mit bilingualem Zweig. Den SuS kann hier eine bilinguale Sprache (**E**nglisch, **F**ranzösisch, **I**talienisch, **N**iederländisch, **R**ussisch, **S**panisch) zugeordnet werden, indem auf die entsprechende Schaltfläche geklickt wird. Die aktivierte Schaltfläche erscheint im Folgenden blau eingefärbt.
 
-![Lupo_ribbon_1](/bilder/wiki/lupo-ribbon-1-9ea28085.png)
-Schaltflächen für den bilingualen Zweig und weitere Auswahlfelder
+![Lupo_ribbon_1](/bilder/tools/lupo/lupo-ribbon-1.png)
+
+*Schaltflächen für den bilingualen Zweig und weitere Auswahlfelder*
 
 Diverse Auswahlfelder stehen zur Auswahl, um besondere Fälle zur erfassen. Das Kontrollkästchen "Muttersprachenprüfung Ende Sek. I" wird bei SuS aktiviert, welche am Ende der Sekundarstufe I eine Sprachprüfung erfolgreich absolviert haben und am Ende der Einführungsphase eine weitere Sprachprüfung absolvieren werden. Das Bestehen der sprachpraktischen Prüfungen in der Muttersprache ist Voraussetzung dafür, dass die Muttersprache als fortgeführte Fremdsprache in der Einführungsphase anerkannt wird. Das Aktivieren des Auswahlfeldes deaktiviert die zugehörigen Fehlermeldungen für fortgeführte Fremdsprachen in der Einführungsphase. Alternativ zu diesem Auswahlfeld gibt es die Möglichkeit, die Sprachprüfung über die Sprachenfolge kenntlich zu machen (s.u.)
 
@@ -53,8 +53,9 @@ Ist das Kontrollkästchen "2. Fremdsprache in Sek. I manuell geprüft" aktiv, so
 
 ### Die Sprachenfolge des Schülers
 
-![Lupo_sprachenfolge_1](/bilder/wiki/lupo-sprachenfolge-1-9a23c852.png)
-Sprachenfolge
+![Lupo_sprachenfolge_1](/bilder/tools/lupo/lupo-sprachenfolge-1.png)
+
+*Sprachenfolge*
 
 Die Sprachenfolgen der SuS werden im Wahldialog angezeigt. Sollten keine Sprachenfolgen aus Schild-NRW übermittelt worden sein, so können diese manuell eingetragen werden. Klicken Sie hierzu mit der Maustaste auf die Zelle „Spr. Folge“, um im Auswahlfeld auszuwählen, ob es sich um eine 1., 2., 3. oder 4. Fremdsprache handelt. Wählen Sie „P“, wenn die Schülerin bzw. der Schüler eine Sprachprüfung (SPP oder auch Muttersprachenprüfung) anstrebt und „N“, wenn die Sprachprüfung erfolgreich absolviert wurde. In der Nachbarzelle „ab Jg.“ können Sie angeben, seit wann die Schülerin oder der Schüler die Fremdsprache belegt hat. Dieses Auswahlfeld wird automatisch von LuPO gefüllt, sofern der Sprachenbeginn beim Initial-Import nicht übermittelt wurde und eine eindeutige Zuordnung des Sprachenbeginns über das ASD-Kürzel möglich ist. Ein Beispiel: Als Fremdsprache wurde Französisch mit ASD-Kürzel F6 eingestellt. Aufgrund der Definition des ASD-Kürzels wird als Sprachenbeginn der Jahrgang 6 eingetragen, sobald in der Spalte Sprachenfolge ein Eintrag vorgenommen wird. Sie können diesen automatischen Eintrag jederzeit abändern, so dass Sie für jeden Schüler den Sprachenbeginn individuell verstellen können. Existiert bei Ihnen z.B. das Fach Französisch mit ASD-Kürzel F6, so kann dieses von einer Schülerin oder einem Schüler mit zweiter fortgeführter Fremdsprache in Französisch ab Klasse 8 belegt werden. Für eine solche Schülerin oder einen solchen Schüler korrigieren Sie den Sprachenbeginn auf Jahrgangsstufe 8. LuPO kontrolliert in diesem Fall, ob Französisch die Mindestanforderung einer zweiten Fremdsprache erfüllt und bis Ende EF.2 belegt werden muss.
 
@@ -62,8 +63,9 @@ Die Sprachenfolgen der SuS werden im Wahldialog angezeigt. Sollten keine Sprache
 Der Katalog der ASD Kürzel wurde von IT-NRW im Jahr 2017 überarbeitet. Hierbei sind, bis auf Englisch, die Kürzel für Fremdsprachen ohne Jahrgangsbeginn gestrichen worden. Im Fach Englisch wiederum sind die Kürzel mit Jahrgangsbeginn gestrichen worden. Verwenden Sie aus diesem Grund bei allen Fremdsprachenfächern, bis auf Englisch, nur noch ASD-Kürzel mit Jahrgangsbeginn (z.B. E, L6, F8). Das schulinterne Kürzel darf natürlich nach wie vor ohne Jahrgangsbeginn definiert werden. Für Fremdsprachen, welche in der Einführungsphase neu einsetzen muss auch an Gesamtschulen ein ASD-Kürzel verwendet werden, welches den Jahrgangsbeginn 0 beinhaltet (z.B. F0, S0)
 :::
 
-![Lupo_unterrichtsfaecher_2](/bilder/wiki/lupo-unterrichtsfaecher-2-9848c5f0.png)
-Kontrollkästchen wirkt nur auf Fremdsprachen mit ASD-Kürzel ohne Jahrgangsbeginn
+![Lupo_unterrichtsfaecher_2](/bilder/tools/lupo/lupo-unterrichtsfaecher-2.png)
+
+*Kontrollkästchen wirkt nur auf Fremdsprachen mit ASD-Kürzel ohne Jahrgangsbeginn*
 
 :::info
 Durch die Änderung verliert auch eine weitere Funktion in Lupo an Bedeutung: Fremdsprachen ohne Sprachenbeginn werden grau unterlegt und sind nicht wählbar, sofern in den Fächereinstellungen das Kontrollfeld „Eingaben bei Fremdsprachen aus SI nur erlauben, wenn auch eine Sprachenfolge eingetragen ist“ markiert wurde. Dieses Kontrollfeld hat auf Fremdsprachenfächer mit Sprachenbeginn keine Auswirkungen.
@@ -112,8 +114,9 @@ Während der Fachwahl werden nicht mögliche Fächerkombinationen und Profilfäc
 
 ### Die Laufbahnplanung und -prognose
 
-![Lupo_hochschreiben](/bilder/wiki/lupo-hochschreiben-20e7fc24.png)
-Automatisches Hochschreiben einer Wahl aus der EF.1
+![Lupo_hochschreiben](/bilder/tools/lupo/lupo-hochschreiben.png)
+
+*Automatisches Hochschreiben einer Wahl aus der EF.1*
 
 Beginnen Sie zunächst mit der Laufbahnplanung für die EF.1. Auf diese Weise können Sie grundsätzliche Vorgaben zur Fachwahl in der EF.1 vermitteln und erste Fragen zur Wahl klären. Ist die Wahl in der EF.1 erfolgt, kann die Wahl für die folgenden Halbjahre fortgeführt werden. Durch einen Klick auf die Schaltfläche "Hochschreiben von EF.1 bis Q2.2“ wird die Fachwahl aus EF.1 für die Folgehalbjahre fortgeführt. Hierbei werden an Gymnasien bzw. Gesamtschulen bei Notwendigkeit Zusatzkurse automatisch gesetzt und mündlich gewählte Fächer Kunst, Musik und Religionslehre bis Q1.2 hochgeschrieben. Bis auf Vertiefungskurse werden alle anderen Fächer bis Q2.2 weitergeführt, sofern sie bis Q2.2 angeboten werden. Verwenden Sie an den Weiterbildungskollegs die Schaltfläche „von… bis…“, um von EF.1 nach EF.2 hochzuschreiben. Im nächsten Schritt können Sie dann die restliche Prognose mit der Schaltfläche „von EF.1 bis Q2.2“ durchführen.
 
@@ -127,8 +130,9 @@ Bei Fächern, welche die Bedingungen eines Abiturfaches erfüllen und als solche
 
 Sie haben am Ende der Beratung die Möglichkeit, die Laufbahn des Schülers auszudrucken. Fügen Sie hierzu zuerst ein Beratungsdatum durch Mausklick auf die entsprechende Schaltfläche ein. Dies können Sie auch automatisch setzen lassen, indem Sie das Kontrollkästchen „auto“ aktivieren. In diesem Fall wird automatisch ein Beratungsdatum gesetzt, sobald der Schüler eine Wahl durchführt bzw. eine bestehende Wahl ändert.
 
-![Lupo_druckvorschau](/bilder/wiki/lupo-druckvorschau-9e62d42a.png)
-Druckvorschau des Beratungsbogens
+![Lupo_druckvorschau](/bilder/tools/lupo/lupo-druckvorschau.png)
+
+*Druckvorschau des Beratungsbogens*
 
 Klicken Sie nun optional mit der linken Maustaste auf die Schaltfläche „Drucken“. Das Auswahlfeld „Nur belegte Fächer anzeigen“ wirkt sich ebenfalls auf den Ausdruck aus. In einer Vorschau können Sie sehen, wie der Wahlbogen nach dem Ausdruck aussehen wird. Sie können im Menü „Datenbearbeitung \> Grundeinstellungen“ das Halbjahr einstellen, für das der Wahlbogen ausgedruckt werden soll. Im gleichen Menü können Sie ebenfalls zentral vorgeben, ob auf dem ausgedruckten Wahlbogen lediglich gewählte Fächer oder alle Fächer aufgelistet werden sollen. Aktivieren oder deaktivieren Sie hierzu das Auswahlfeld „Im Beratungsbogen alle Fächer ausgeben“. Sie können im Menü "Grundeinstellungen" ebenfalls den Einleitungstext des Beratungsbogens ändern. Den Wahlbogen kann der Schüler mit nach Hause nehmen und unterschrieben wieder zurückgeben. Ein Ausdruck aller gesammelten Beratungsbögen ist zu einem späteren Zeitpunkt ebenfalls möglich (s. unten).
 
@@ -159,8 +163,9 @@ Sammeln Sie nach der Beratung die unterschriebenen Wahlbögen der SuS ein. LuPO 
 
 ## Fehlende SuS anschreiben
 
-![Lupo_schuelerliste_drucken](/bilder/wiki/lupo-schuelerliste-drucken-01c817a9.png)
-Schülerliste drucken
+![Lupo_schuelerliste_drucken](/bilder/tools/lupo/lupo-schuelerliste-drucken.png)
+
+*Schülerliste drucken*
 
 SuS, die nicht zum Beratungstermin erscheinen konnten, können Sie im Menü „Datenbearbeitung \> Schüler“ mit Hilfe des Filters „Schüler ohne Beratungsdatum“ herausfiltern. Die Schaltfläche „Optionen \> Liste drucken“ bietet nun die Möglichkeit, einen Aushang vorzubereiten, so dass die Schüler auf die Notwendigkeit eines Ersatztermins hingewiesen werden können.
 

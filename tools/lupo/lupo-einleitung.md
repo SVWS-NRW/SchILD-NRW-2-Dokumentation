@@ -1,17 +1,16 @@
 ---
 title: "Lupo:Einleitung"
-wiki_title: "Lupo:Einleitung"
-wiki_page_id: 863
-wiki_revision: 5579
 ---
 
 # Lupo:Einleitung
 
-![Lupo_reiter_laufbahn](/bilder/wiki/lupo-reiter-laufbahn-ee0b4926.png)
-Reiter "Laufbahnplanung"
+![Lupo_reiter_laufbahn](/bilder/tools/lupo/lupo-reiter-laufbahn.png)
 
-![Lupo_reiter_abitur](/bilder/wiki/lupo-reiter-abitur-a1527a81.png)
-Reiter "Abiturberechnung"
+*Reiter "Laufbahnplanung"*
+
+![Lupo_reiter_abitur](/bilder/tools/lupo/lupo-reiter-abitur.png)
+
+*Reiter "Abiturberechnung"*
 
 LuPO ist die Kurzform von **L**aufbahnberatungs- **u**nd **P**lanungstool **O**berstufe (im Folgenden immer als Lupo bezeichnet). Es ist ein eigenständiges Programm für Windows-PCs, das Oberstufenkoordinatoren und Beratungslehrer an Gymnasien, Gesamtschulen und Weiterbildungskollegs bei der Laufbahnberatung von Schülerinnen und Schülern der Sekundarstufe II unterstützen soll. In einer übersichtlichen Maske können diejenigen Fächer eingegeben werden, welche die Schülerin bzw. der Schüler belegen möchte. Auf der Grundlage der APO-GOSt prüft das Programm die Fachwahl und zeigt die Konsequenzen für die zukünftigen Halbjahre auf. In einer zweiten Maske können für jedes Fach Noten eingegeben und Abiturergebnisse durchgespielt werden. Lupo nimmt zudem statistische Auswertungen aller Wahlen vor und bietet eine offene Schnittstelle für den Import und Export benötigter Daten. Das Programm ist in Hinblick auf die Zusammenarbeit mit Schild-NRW und Kurs42 optimiert, unterstützt aber über die offene Schnittstelle auch andere Schulverwaltungsprogramme.
 

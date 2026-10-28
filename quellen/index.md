@@ -20,4 +20,4 @@ Hier bleiben sämtliche aktuellen Wiki-Seiten aller Namensräume und sämtliche 
 - [Kategorie: 2 Seiten](/quellen/namensraum-14)
 - [Lupo: 11 Seiten](/quellen/namensraum-200)
 
-Die Sicherung enthält den aktuellen Inhalt jeder vorhandenen Seite. Frühere Bearbeitungsstände und gelöschte Seiten sind davon zu unterscheiden. Herkunft, Originalversionen und Prüfsummen stehen im Migrationsnachweis.
+Die Sicherung enthält den aktuellen Inhalt jeder vorhandenen Seite. Frühere Bearbeitungsstände und gelöschte Seiten sind davon zu unterscheiden. Die jeweilige Quellenseite nennt Herkunft und Originalversion. Alle ursprünglichen Uploads bleiben auch ohne aktuelle Artikelverwendung zugänglich.

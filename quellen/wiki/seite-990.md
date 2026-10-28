@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 3783 · Stand 2016-02-16.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-990.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/lupo-schild-initial-export2-b7e09063.png)
+[Gesicherte Originaldatei öffnen](/bilder/tools/lupo/lupo-schild-initial-export2.png)
 
-![Lupo_schild_initial_export2.png](/bilder/wiki/lupo-schild-initial-export2-b7e09063.png)
+![Lupo_schild_initial_export2.png](/bilder/tools/lupo/lupo-schild-initial-export2.png)
 
 ## Originalquelltext
 

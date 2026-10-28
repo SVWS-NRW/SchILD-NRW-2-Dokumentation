@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2194 · Stand 2014-05-21.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-544.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/km2-logo-6df70bfe.png)
+[Gesicherte Originaldatei öffnen](/bilder/tools/km2/km2-logo.png)
 
-![Km2-logo.png](/bilder/wiki/km2-logo-6df70bfe.png)
+![Km2-logo.png](/bilder/tools/km2/km2-logo.png)
 
 ## Originalquelltext
 

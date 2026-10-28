@@ -1,8 +1,5 @@
 ---
 title: "Sortierung ändern"
-wiki_title: "Sortierung ändern"
-wiki_page_id: 835
-wiki_revision: 3214
 ---
 
 # Sortierung ändern
@@ -13,25 +10,25 @@ Möchte man nun eine andere Reihenfolge (z.B. rein alphabetisch oder nach der au
 
 Klicken Sie dazu auf die Hand mit den farbigen Punkten!
 
-![Sortierung-01](/bilder/wiki/sortierung-01-60a2dca6.png)
+![Sortierung-01](/bilder/schild2/auswahl/sortierung-01.png)
 
 Es öffnet sich nun ein Dialogfeld, in dem man die Sortierung bestimmen kann:
 
-![Sortierung-02](/bilder/wiki/sortierung-02-2e628b39.png)
+![Sortierung-02](/bilder/schild2/auswahl/sortierung-02.png)
 
 Durch Anklicken des gewünschten Datenfeldes kann man nun mit Hilfe der **\>** oder **\<** Tasten die Kriterien für die Sortierung neu einstellen.
 
-![Sortierung-03](/bilder/wiki/sortierung-03-877de671.png)
+![Sortierung-03](/bilder/schild2/auswahl/sortierung-03.png)
 
 Mit den roten Pfeiltasten kann man sogar die Reihenfolge der Sortierung festlegen.
 
-![Sortierung-04](/bilder/wiki/sortierung-04-91f7a2d9.png)
+![Sortierung-04](/bilder/schild2/auswahl/sortierung-04.png)
 
 Für die Liste der aufnehmenden Schulen muss die Sortierung wie im Fenster gezeigt eingestellt werden. (Vergessen Sie bitte nicht, nach dem Druck wieder die **Standardsortierung** einzustellen!)
 
 Für die Liste der aufnehmenden Schulen muss für alle Schüler unter *Schulbesuch* eine Schule eingetragen sein.
 
-![Sortierung-05](/bilder/wiki/sortierung-05-7325acf8.png)
+![Sortierung-05](/bilder/schild2/auswahl/sortierung-05.png)
 
 Sollten Schüler keine Schule eingetragen haben, so werden diese auf der ersten Seite des Reports gemeinsam ausgegeben.
 

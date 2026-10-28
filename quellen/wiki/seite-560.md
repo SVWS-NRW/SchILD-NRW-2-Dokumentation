@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2216 · Stand 2014-05-21.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-560.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/km2-parameter-allgemein-sonst-caa50a86.png)
+[Gesicherte Originaldatei öffnen](/bilder/tools/km2/km2-parameter-allgemein-sonst.png)
 
-![KM2_parameter_allgemein_sonst.png](/bilder/wiki/km2-parameter-allgemein-sonst-caa50a86.png)
+![KM2_parameter_allgemein_sonst.png](/bilder/tools/km2/km2-parameter-allgemein-sonst.png)
 
 ## Originalquelltext
 

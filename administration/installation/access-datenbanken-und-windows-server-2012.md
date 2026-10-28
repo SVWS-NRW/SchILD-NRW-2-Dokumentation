@@ -1,8 +1,5 @@
 ---
 title: "Access-Datenbanken und Windows-Server 2012"
-wiki_title: "Access-Datenbanken und Windows-Server 2012"
-wiki_page_id: 1018
-wiki_revision: 3931
 ---
 
 # Access-Datenbanken und Windows-Server 2012

@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 4548 · Stand 2020-05-05.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1165.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/multi-klausurplaner-main-832fca8c.png)
+[Gesicherte Originaldatei öffnen](/bilder/tools/weitere/multi-klausurplaner-main.png)
 
-![Multi_Klausurplaner_Main.png](/bilder/wiki/multi-klausurplaner-main-832fca8c.png)
+![Multi_Klausurplaner_Main.png](/bilder/tools/weitere/multi-klausurplaner-main.png)
 
 ## Originalquelltext
 

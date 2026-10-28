@@ -1,8 +1,5 @@
 ---
 title: "Schild-NRW Installation"
-wiki_title: "Schild-NRW Installation"
-wiki_page_id: 1362
-wiki_revision: 6059
 ---
 
 # Schild-NRW Installation
@@ -17,13 +14,13 @@ Seit dem 31.10.25 steht der Nachfolger zur Verfügung:
 
 Bitte wägen Sie ab, ob ein Umstieg auf Schild 2 oder ein Umstieg der Datenhaltung von Access auf MS-SQL oder MySQL innerhalb Ihrer Schild-NRW 2 Umgebung noch nötig ist.
 
-Ggf. ist der Aufbau einer neun Umgebung für SVWS-Server und Schild-NRW 3 hier ressourcenschonender.
+Ggf. ist der Aufbau einer neuen Umgebung für SVWS-Server und Schild-NRW 3 hier ressourcenschonender.
 
 <a id="Einzelplatzinstallation"></a>
 
 ## Einzelplatzinstallation
 
-In den Folgenden Artikeln erfahren Sie, wie Schild-NRW installiert werden kann. Vor der Installation sollten Sie die Systemvoraussetzungen prüfen. Als Betriebssysteme benötigen Sie Windows 10 oder höher. Die Bildschirmauflösung sollte mindestens 1024x768 betragen.
+In den folgenden Abschnitten erfahren Sie, wie Schild-NRW installiert werden kann. Vor der Installation sollten Sie die Systemvoraussetzungen prüfen. Als Betriebssysteme benötigen Sie Windows 10 oder höher. Die Bildschirmauflösung sollte mindestens 1024x768 betragen.
 
 <a id="Download_der_Installationsdateien"></a>
 
@@ -44,15 +41,17 @@ Durch die Besonderheiten, die durch den Schutz des „Programmverzeichnisses“ 
 
 ### Registrierung der ASDStatitsik.dll
 
-![Adminzugriff](/bilder/wiki/adminzugriff-bcfaa136.jpg)
-Schild-NRW als Administrator starten.
+![Adminzugriff](/bilder/hilfe/probleme/adminzugriff.jpg)
 
-Prüfen Sie nach der Installation in Schild-NRW, ob der Statistikexport funktioniert. Dazu rufen Sie in Schild-NRW das Menü Schulverwaltun \> Statistik / amtliche Schuldaten \> Export (mit Modulen von IT-NRW) auf und wählen einen der angebotenen Exporte.
+*Schild-NRW als Administrator starten.*
+
+Prüfen Sie nach der Installation in Schild-NRW, ob der Statistikexport funktioniert. Dazu rufen Sie in Schild-NRW das Menü Schulverwaltung \> Statistik / amtliche Schuldaten \> Export (mit Modulen von IT-NRW) auf und wählen einen der angebotenen Exporte.
 
 Sollten Sie eine Fehlermeldung [Fehler beim Aufruf der Statistik-DLL: Klasse nicht registriert](/hilfe/probleme/fehler-beim-export-der-statistikdateien-klasse-nicht-registriert) erhalten, so führen Sie das Programm Schild-NRW nochmals explizit mit der rechten Maustaste als Administrator aus.
 
-![HilfebeiProblemen](/bilder/wiki/hilfebeiproblemen-9fb4d013.jpg)
-Probleme beim Statistikexport beseitigen.
+![HilfebeiProblemen](/bilder/administration/installation/hilfebeiproblemen.jpg)
+
+*Probleme beim Statistikexport beseitigen.*
 
 Gehen Sie dann unter "Schulverwaltung \> Statistik / amtliche Schuldaten \> Hilfe bei Problemen". Klicken Sie dort die Schaltfläche "Dateien registrieren". Danach sollte die Fehlermeldung weg sein und der Export sollte möglich sein. Sollte der Button nicht anklickbar sein, so haben Sie keine Administratorenrechte auf dem PC!
 
@@ -64,8 +63,9 @@ Ein Video-Tutorial gibt es hier:
 
 ### Verbindung zur Datenbank
 
-![Datenbankdatei](/bilder/wiki/datenbankdatei-efc922f3.jpg)
-schild2000n.mdb als Datenbankdatei
+![Datenbankdatei](/bilder/administration/installation/datenbankdatei.jpg)
+
+*schild2000n.mdb als Datenbankdatei*
 
 Die Standarddatenbank liegt im Ordner DB der Schild-Installation und hat den Namen Schild2000n.mdb. Diese Datenbank wird unter Schild-NRW als Schild-Standarddatenbank angeboten.
 
@@ -75,8 +75,9 @@ Wenn Sie bereits eine bestehende Datenbank aus einer anderen Installation besitz
 
 ### Verbindung zu mehreren Datenbanken
 
-![UdlDateien](/bilder/wiki/udldateien-4c98e4fd.jpg)
-Mehrere Datenbanken
+![UdlDateien](/bilder/administration/installation/udldateien.jpg)
+
+*Mehrere Datenbanken*
 
 Im Ordner UDL der Schild-Installation befindet sich eine Datei Test-Hauptschule.udl. Sie können über diese UDL-Dateien beliebig viele Verbindungen zu weiteren Datenbanken aufbauen.
 
@@ -102,8 +103,9 @@ Diese Schritte sind nur notwendig, wenn Sie Zugriff auf mehrere Datenbanken habe
 
 ### Einrichten der Reportverwaltung
 
-![Reportexplorer](/bilder/wiki/reportexplorer-0f25c092.jpg)
-Reportexplorer
+![Reportexplorer](/bilder/administration/installation/reportexplorer.jpg)
+
+*Reportexplorer*
 
 Starten Sie einmal Schild-NRW und gehen Sie auf die Druckausgabe \> Reportverwaltung starten. Dort wurden mit der Basis-Installation einige Reports mitgeliefert. Ein sehr umfangreiches Reportpaket können Sie auch von der Schild-NRW-Homepage herunterladen:
 
@@ -232,8 +234,9 @@ Spielen Sie nun das Script zum Anlegen der Tabellen und Felder von Schild-NRW ei
 
 Öffnen Sie eine neue SQL-Abfrage. Stellen Sie sicher, dass das angelegte Schema verwendet wird (use 'schemaname'). Kopieren sie das Script in die Abfrage und führen Sie die Abfrage aus.
 
-![MysqlConnector](/bilder/wiki/mysqlconnector-9ff6960c.jpg)
-MySQL Connector
+![MysqlConnector](/bilder/administration/installation/mysqlconnector.jpg)
+
+*MySQL Connector*
 
 <a id="Herunterladen_und_Einrichten_des_Connectors/ODBC"></a>
 <a id="Herunterladen_und_Einrichten_des_Connectors.2FODBC"></a>

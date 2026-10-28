@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 3237 · Stand 2015-06-01.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-849.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/fachbezogenebem-04-53cb420f.png)
+[Gesicherte Originaldatei öffnen](/bilder/zeugnisse/vorbereitung/fachbezogenebem-04.png)
 
-![FachbezogeneBem-04.png](/bilder/wiki/fachbezogenebem-04-53cb420f.png)
+![FachbezogeneBem-04.png](/bilder/zeugnisse/vorbereitung/fachbezogenebem-04.png)
 
 ## Originalquelltext
 

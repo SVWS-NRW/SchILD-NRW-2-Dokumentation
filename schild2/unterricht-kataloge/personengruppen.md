@@ -1,13 +1,10 @@
 ---
 title: "Personengruppen"
-wiki_title: "Personengruppen"
-wiki_page_id: 377
-wiki_revision: 1629
 ---
 
 # Personengruppen
 
-![Personengruppen](/bilder/wiki/personengruppen-74be9140.jpg)
+![Personengruppen](/bilder/schild2/unterricht-kataloge/personengruppen.jpg)
 
 Personengruppen im Sinne von SchILD können aus Lehrern, Schülern, Erziehungsberechtigten oder außerschulischen Kontaktpersonen bestehen.
 

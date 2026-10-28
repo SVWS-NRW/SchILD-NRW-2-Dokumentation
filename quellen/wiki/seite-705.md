@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2708 · Stand 2014-12-14.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-705.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/kreuztabelle-uebersicht-83a2be0a.png)
+[Gesicherte Originaldatei öffnen](/bilder/reporting/erstellung/kreuztabelle-uebersicht.png)
 
-![Kreuztabelle-Uebersicht.png](/bilder/wiki/kreuztabelle-uebersicht-83a2be0a.png)
+![Kreuztabelle-Uebersicht.png](/bilder/reporting/erstellung/kreuztabelle-uebersicht.png)
 
 ## Originalquelltext
 

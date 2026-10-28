@@ -1,19 +1,19 @@
 ---
 title: "Noten des aktuellen Abschnittes löschen"
-wiki_title: "Noten des aktuellen Abschnittes löschen"
-wiki_page_id: 504
-wiki_revision: 2064
 ---
 
 # Noten des aktuellen Abschnittes löschen
 
-Mithilfe dieses Gruppenprozesses ist es möglich, Noten im aktuellen Abschnitt zu löschen.
+Mit diesem Gruppenprozess löschen Sie die eingetragenen Noten im aktuellen Abschnitt für die ausgewählte Schülergruppe, etwa nach einer fehlerhaften Datenübertragung.
 
-Sollten Noten versehentlich eingetragen worden sein, oder hat eine Datenübertragung nicht einwandfrei funktioniert, so löscht dieser Gruppenprozess, nach zwischengeschalteter Abfrage mit nochmaliger Bestätigungsaufforderung, bei allen ausgewählten Schülern alle eingetragenen Noten im aktuellen Abschnitt.
+:::danger Vor dem Löschen
+Erstellen Sie eine [Datensicherung](/administration/datenbanken/datensicherung). Der Prozess betrifft **alle eingetragenen Noten des aktuellen Abschnittes** der ausgewählten Schülerinnen und Schüler.
+:::
 
-**Hinweis:** Wie bei allen anderen Löschoperationen auch, sollte vorher eine Datensicherung durchgeführt werden.
-
-------------------------------------------------------------------------
+1. Wählen Sie die Schülergruppe aus und kontrollieren Sie den aktuellen Abschnitt.
+2. Rufen Sie den Gruppenprozess **Noten des aktuellen Abschnittes löschen** auf.
+3. Prüfen Sie die zusätzliche Rückfrage und bestätigen Sie das Löschen nur für die gewünschte Gruppe.
+4. Kontrollieren Sie anschließend die Leistungsdaten einzelner betroffener Schülerinnen und Schüler.
 
 ---
 

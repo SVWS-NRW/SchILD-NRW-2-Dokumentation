@@ -1,8 +1,5 @@
 ---
 title: "Zeugnisvorbereitungen und Druck"
-wiki_title: "Zeugnisvorbereitungen und Druck"
-wiki_page_id: 659
-wiki_revision: 2981
 ---
 
 # Zeugnisvorbereitungen und Druck
@@ -39,14 +36,14 @@ Sind die Zeugnisvorbereitungen abgeschlossen, kann der Druck der Zeugnisse durch
 1.  Druck über den entsprechenden Gruppenprozess:\
     Den zugehörigen Gruppenprozess findet man unter \> [Gruppenprozesse](/schild2/gruppenprozesse/gruppenprozesse) \> [Noten, Zeugnisvorbereitung](/zeugnisse/vorbereitung/noten-zeugnisvorbereitung) \> [Zugeordnete Zeugnisformulare drucken](/zeugnisse/vorbereitung/zugeordnete-zeugnisformulare-drucken). Damit dieser Gruppenprozess einwandfrei arbeiten kann, ist es nötig, dass man unter [Schulverwaltung](/schild2/unterricht-kataloge/schulverwaltung) \> [Zeugnisvorlagen zuordnen](/schild2/unterricht-kataloge/zeugnisvorlagen-zuordnen) die nötigen Regeln zur Verwendung der Zeugnisvorlagen definiert.\
     Startet man diesen Prozess, öffnet sich das Fenster "Gruppenweise Zeugnisausgabe".\
-    ![ZeugnisdruckTut01](/bilder/wiki/zeugnisdrucktut01-99edb1f6.jpg)\
+    ![ZeugnisdruckTut01](/bilder/zeugnisse/vorbereitung/zeugnisdrucktut01.jpg)\
 
     Nun kann man auf bestimmte Gruppen filtern und dann einzelne oder alle vordefinierten Druckvarianten zum Druck auswählen. Durch Klicken auf den Button "Ausgabe starten" wird der Druckprozess in Gang gesetzt. Es folgen weitere Auswahlmöglichkeiten und evtl. zeugnisspezifische Abfragen. Danach beginnt der Druck.
 2.  Druck über die [Druckausgabe](/reporting/verwaltung/druckausgabe):\
     Um über die Druckausgabe die Zeugnisse zu drucken, muss sich im [Container](/einstieg/grundlagen/container) die entsprechende Schülermenge befinden.\
     Unter "[Druckausgabe](/reporting/verwaltung/druckausgabe)" kann man nun den "[Report-Explorer aufrufen](/reporting/verwaltung/reportexplorer-aufrufen)".\
     In der angezeigten Ordnerstruktur wählt man den passenden Lernabschnitt und das passende Zeugnisformular durch Doppelklick aus.\
-    ![ZeugnisdruckTut02](/bilder/wiki/zeugnisdrucktut02-9907b7db.jpg)\
+    ![ZeugnisdruckTut02](/bilder/zeugnisse/vorbereitung/zeugnisdrucktut02.jpg)\
 
     Es folgen weitere Auswahlmöglichkeiten und evtl. zeugnisspezifische Abfragen. Danach beginnt der Druck.
 
@@ -55,14 +52,14 @@ Sind die Zeugnisvorbereitungen abgeschlossen, kann der Druck der Zeugnisse durch
 1.  Druck über den entsprechenden Gruppenprozess:\
     Wenn die Abgangs- und Abschlusszeugnisse über den Gruppenprozess gedruckt werden sollen, müssen sich im [Container](/einstieg/grundlagen/container) jeweils die Schüler befinden, die die gleiche Zeugnisart (das gleiche Zeugnisformular) bekommen sollen. Den Gruppenprozess findet man unter \> [Gruppenprozesse](/schild2/gruppenprozesse/gruppenprozesse) \> [Noten, Zeugnisvorbereitung](/zeugnisse/vorbereitung/noten-zeugnisvorbereitung) \> [Zeugnisse drucken und Schüler ausschulen](/zeugnisse/vorbereitung/zeugnisse-drucken-und-schueler-ausschulen).\
     Startet man den Prozess, öffnet sich das Fenster "Angaben zur Ausschulung festlegen und Zeugnisse drucken".\
-    ![ZeugnisdruckTut03](/bilder/wiki/zeugnisdrucktut03-04b60126.jpg)\
+    ![ZeugnisdruckTut03](/bilder/zeugnisse/vorbereitung/zeugnisdrucktut03.jpg)\
 
     Hier muss man Angaben zum Status der Schüler, zum Entlassdatum, zum Entlassgrund und der Art des Abschlusses vornehmen. Danach aktiviert man den Schalter "Zeugnisse drucken". Es öffnet sich der [Report-Explorer](/reporting/verwaltung/reportexplorer-aufrufen) und man kann das gewünschte Zeugnisformular auswählen. Es folgen weitere Auswahlmöglichkeiten und evtl. zeugnisspezifische Abfragen. Danach beginnt der Druck. Zum Abschluss muss im Fenster "Angaben zur Ausschulung festlegen und Zeugnisse drucken" noch die Schaltfläche "Fertigstellen" betätigt werden, um den Vorgang abzuschließen.
 2.  Druck über die [Druckausgabe](/reporting/verwaltung/druckausgabe):\
     Um über die Druckausgabe die Zeugnisse zu drucken, muss sich im [Container](/einstieg/grundlagen/container) die entsprechende Schülermenge befinden.\
     Unter "[Druckausgabe](/reporting/verwaltung/druckausgabe)" kann man nun den "[Report-Explorer aufrufen](/reporting/verwaltung/reportexplorer-aufrufen)".\
     In der angezeigten Ordnerstruktur wählt man den passenden Lernabschnitt und das passende Zeugnisformular durch Doppelklick aus.\
-    ![ZeugnisdruckTut04](/bilder/wiki/zeugnisdrucktut04-6bb53409.jpg)\
+    ![ZeugnisdruckTut04](/bilder/zeugnisse/vorbereitung/zeugnisdrucktut04.jpg)\
 
     Es folgen weitere Auswahlmöglichkeiten und evtl. zeugnisspezifische Abfragen. Danach beginnt der Druck.
 

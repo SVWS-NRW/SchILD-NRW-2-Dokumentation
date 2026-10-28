@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 3201 · Stand 2015-06-01.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-833.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/export-excel-04-1cdc4c12.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/import-export-statistik/export-excel-04.png)
 
-![Export-Excel-04.png](/bilder/wiki/export-excel-04-1cdc4c12.png)
+![Export-Excel-04.png](/bilder/schild2/import-export-statistik/export-excel-04.png)
 
 ## Originalquelltext
 

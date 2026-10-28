@@ -1,8 +1,5 @@
 ---
 title: "S1PLAN:Installation"
-wiki_title: "S1PLAN:Installation"
-wiki_page_id: 1084
-wiki_revision: 4015
 ---
 
 # S1PLAN:Installation

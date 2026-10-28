@@ -1,8 +1,5 @@
 ---
 title: "KursBezIgnorieren"
-wiki_title: "KursBezIgnorieren"
-wiki_page_id: 39
-wiki_revision: 60
 ---
 
 # KursBezIgnorieren
@@ -10,17 +7,18 @@ wiki_revision: 60
 <a id="RAP-Funktion_&quot;KursBezIgnorieren&quot;"></a>
 <a id="RAP-Funktion_.22KursBezIgnorieren.22"></a>
 
-## RAP-Funktion "KursBezIgnorieren"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 Procedure KursBezIgnorieren(Const Ignore : Boolean);
+```
+
+## Beschreibung
+
 Durch den Aufruf dieser Prozedur wird bei der Einsortierung
 der Leistungsdaten in die Leistungsübersichten die Kursbezeichnung
 ignoriert. Diese Prozedur ist nur im Zusammenhang mit SetUebersicht
 notwendig und sinnvoll. Standardmäßig wird die Kursbezeichnung berücksichtigt.
-```
 
 ## Parameter
 
@@ -28,11 +26,6 @@ notwendig und sinnvoll. Standardmäßig wird die Kursbezeichnung berücksichtigt
 ignore : wahr-> Kursarten ignorieren
 ```
 
-## Rückgabewert
-
-```text
-...
-```
 
 ## Beispiel
 
@@ -52,5 +45,7 @@ Procedure ReportBeforePrint;
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-39) · [KursBezIgnorieren – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=KursBezIgnorieren&oldid=60)

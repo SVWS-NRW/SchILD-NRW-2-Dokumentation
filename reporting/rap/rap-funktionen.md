@@ -1,8 +1,5 @@
 ---
 title: "RAP-Funktionen"
-wiki_title: "RAP-Funktionen"
-wiki_page_id: 9
-wiki_revision: 5689
 ---
 
 # RAP-Funktionen

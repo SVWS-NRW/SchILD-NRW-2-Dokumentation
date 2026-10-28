@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 5402 · Stand 2022-03-11.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1353.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/datenbankdatei-efc922f3.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/administration/installation/datenbankdatei.jpg)
 
-![Datenbankdatei.jpg](/bilder/wiki/datenbankdatei-efc922f3.jpg)
+![Datenbankdatei.jpg](/bilder/administration/installation/datenbankdatei.jpg)
 
 ## Originalquelltext
 

@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2535 · Stand 2014-09-08.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-656.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/gruppenprozessetut10-68fc95fb.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/einstieg/erste-schritte/gruppenprozessetut10.jpg)
 
-![GruppenprozesseTut10.jpg](/bilder/wiki/gruppenprozessetut10-68fc95fb.jpg)
+![GruppenprozesseTut10.jpg](/bilder/einstieg/erste-schritte/gruppenprozessetut10.jpg)
 
 ## Originalquelltext
 

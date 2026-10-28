@@ -1,8 +1,5 @@
 ---
 title: "IncFontSize"
-wiki_title: "IncFontSize"
-wiki_page_id: 35
-wiki_revision: 56
 ---
 
 # IncFontSize
@@ -10,14 +7,15 @@ wiki_revision: 56
 <a id="RAP-Funktion_&quot;IncFontSize&quot;"></a>
 <a id="RAP-Funktion_.22IncFontSize.22"></a>
 
-## RAP-Funktion "IncFontSize"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 procedure IncFontSize(aReport: TppReport; const aIncrement: Integer);
-Vergößert oder verkleinert die Zeichensatz größe
 ```
+
+## Beschreibung
+
+Vergößert oder verkleinert die Zeichensatz größe
 
 ## Parameter
 
@@ -27,11 +25,6 @@ aIncrement     - Wert, um den der Zeichensatz vergrößert (oder bei negativem
                  Increment) verkleinert werden soll
 ```
 
-## Rückgabewert
-
-```text
-...
-```
 
 ## Beispiel
 
@@ -44,5 +37,7 @@ end;
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-35) · [IncFontSize – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=IncFontSize&oldid=56)

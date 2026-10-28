@@ -1,8 +1,5 @@
 ---
 title: "Fotos neu skalieren"
-wiki_title: "Fotos neu skalieren"
-wiki_page_id: 349
-wiki_revision: 1531
 ---
 
 # Fotos neu skalieren

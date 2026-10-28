@@ -1,13 +1,10 @@
 ---
 title: "Export in Text-/Excel-Dateien"
-wiki_title: "Export in Text-/Excel-Dateien"
-wiki_page_id: 254
-wiki_revision: 1125
 ---
 
 # Export in Text-/Excel-Dateien
 
-![Datenexport_Excel](/bilder/wiki/datenexport-excel-025d4447.jpg)
+![Datenexport_Excel](/bilder/schild2/import-export-statistik/datenexport-excel.jpg)
 
 Um Schild-NRW-Daten in anderen Programmen weiter verwenden zu können (z.B. Export für die Bundesjugendspiele) oder um Lehrern die Daten für ihre Klassen „Excel-fähig“ zur Verfügung stellen zu können, bietet Schild-NRW eine einfache Möglichkeit, diese Daten auf der Festplatte zu speichern.
 

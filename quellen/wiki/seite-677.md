@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2628 · Stand 2014-11-21.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-677.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/assistent-auswahl-74bad494.png)
+[Gesicherte Originaldatei öffnen](/bilder/reporting/erstellung/assistent-auswahl.png)
 
-![Assistent-Auswahl.png](/bilder/wiki/assistent-auswahl-74bad494.png)
+![Assistent-Auswahl.png](/bilder/reporting/erstellung/assistent-auswahl.png)
 
 ## Originalquelltext
 

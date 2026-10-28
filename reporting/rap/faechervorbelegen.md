@@ -1,16 +1,11 @@
 ---
 title: "Faechervorbelegen"
-wiki_title: "Faechervorbelegen"
-wiki_page_id: 19
-wiki_revision: 39
 ---
 
 # Faechervorbelegen
 
 <a id="RAP-Funktion_&quot;Faechervorbelegen&quot;"></a>
 <a id="RAP-Funktion_.22Faechervorbelegen.22"></a>
-
-## RAP-Funktion "Faechervorbelegen"
 
 ## Beschreibung
 
@@ -26,18 +21,6 @@ In allen anderen Fällen ist dieser Aufruf unnötig! Nach der Darstellung der Ta
 unbedingt die Prozedur 'ResetFaechervorbelegung' aufgerufen werden!
 ```
 
-## Parameter
-
-```text
-...
-```
-
-## Rückgabewert
-
-```text
-...
-```
-
 ## Beispiel
 
 ```text
@@ -46,5 +29,7 @@ unbedingt die Prozedur 'ResetFaechervorbelegung' aufgerufen werden!
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-19) · [Faechervorbelegen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Faechervorbelegen&oldid=39)

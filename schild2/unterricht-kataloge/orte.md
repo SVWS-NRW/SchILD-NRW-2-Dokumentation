@@ -1,8 +1,5 @@
 ---
 title: "Orte"
-wiki_title: "Orte"
-wiki_page_id: 180
-wiki_revision: 2820
 ---
 
 # Orte

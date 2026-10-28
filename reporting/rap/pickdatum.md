@@ -1,8 +1,5 @@
 ---
 title: "PickDatum"
-wiki_title: "PickDatum"
-wiki_page_id: 58
-wiki_revision: 79
 ---
 
 # PickDatum
@@ -10,9 +7,7 @@ wiki_revision: 79
 <a id="RAP-Funktion_&quot;PickDatum&quot;"></a>
 <a id="RAP-Funktion_.22PickDatum.22"></a>
 
-## RAP-Funktion "PickDatum"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 function PickDatum(aCaption, aDate: String): String;
@@ -27,9 +22,7 @@ aDate              - Datumsvorgabe
 
 ## Rückgabewert
 
-```text
 Datum als Zeichenkette, z.B. '31.12.2010'
-```
 
 ## Beispiel
 
@@ -43,5 +36,7 @@ End;
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-58) · [PickDatum – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=PickDatum&oldid=79)

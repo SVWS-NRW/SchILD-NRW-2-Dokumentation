@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2259 · Stand 2014-05-24.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-585.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/uebersicht-si-dc66811c.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/zeugnisse/sekundarstufen/uebersicht-si.jpg)
 
-![Uebersicht-SI.jpg](/bilder/wiki/uebersicht-si-dc66811c.jpg)
+![Uebersicht-SI.jpg](/bilder/zeugnisse/sekundarstufen/uebersicht-si.jpg)
 
 ## Originalquelltext
 

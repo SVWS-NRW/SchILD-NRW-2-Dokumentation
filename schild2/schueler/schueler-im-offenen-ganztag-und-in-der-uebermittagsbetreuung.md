@@ -1,8 +1,5 @@
 ---
 title: "Schüler im offenen Ganztag und in der Übermittagsbetreuung"
-wiki_title: "Schüler im offenen Ganztag und in der Übermittagsbetreuung"
-wiki_page_id: 1440
-wiki_revision: 6054
 ---
 
 # Schüler im offenen Ganztag und in der Übermittagsbetreuung
@@ -16,7 +13,7 @@ Welche Eintragungen müssen in SchILD-NRW gemacht werden, damit Schülerinnen un
 
 Alle Schülerinnen und Schüler des offenen Ganztages benötigen einen entsprechenden Eintrag auf der Karteikarte *Individual-Daten I* unter der *Klassen-Organisationsform*. Tragen Sie hier "*Teilnahme am offenen Ganztag ...*" ein. Auf der Karteikarte *Individual-Daten II* darf in der Rubrik *Besondere Merkmale* kein Eintrag stehen.
 
-![OrganisationsformOffenerGanztag](/bilder/wiki/organisationsformoffenerganztag-70c50ef3.png)![MerkmalLeer](/bilder/wiki/merkmalleer-cc47c0f4.png)
+![OrganisationsformOffenerGanztag](/bilder/schild2/schueler/organisationsformoffenerganztag.png)![MerkmalLeer](/bilder/schild2/schueler/merkmalleer.png)
 
 <a id="Schülerinnen_und_Schüler_in_der_Übermittagsbetreuung"></a>
 <a id="Sch.C3.BClerinnen_und_Sch.C3.BCler_in_der_.C3.9Cbermittagsbetreuung"></a>
@@ -25,11 +22,11 @@ Alle Schülerinnen und Schüler des offenen Ganztages benötigen einen entsprech
 
 Alle Schülerinnen und Schüler in der Übermittagsbetreuung benötigen auf der Karteikarte *Individual-Daten I* im Datenfeld *Klassen-Organisationsform* den Eintrag "*Halbtagsunterricht*". Zusätzlich benötigen die Schülerinnen und Schüler auf der Karteikarte *Individual-Daten II' in der Rubrik* Besondere Merkmale *den Eintrag "*Übermittagsbetreuung*". Die Zeitangaben bleiben leer.*
 
-![OrganisationsformHalbtag](/bilder/wiki/organisationsformhalbtag-b468ea5c.png)![MerkmalUebermittag](/bilder/wiki/merkmaluebermittag-97332c7c.png)
+![OrganisationsformHalbtag](/bilder/schild2/schueler/organisationsformhalbtag.png)![MerkmalUebermittag](/bilder/schild2/schueler/merkmaluebermittag.png)
 
 Wenn kein entsprechendes Merkmal ausgewählt werden kann, so fehlt diese Definition in SchILD-NRW. Diese können Sie unter dem Menüpunkt *Schulverwaltung - Schule bearbeiten* auf dem Karteireiter *Merkmale* definieren.
 
-![MerkmaleDefinieren](/bilder/wiki/merkmaledefinieren-116904c3.png)
+![MerkmaleDefinieren](/bilder/schild2/schueler/merkmaledefinieren.png)
 
 <a id="Empfohlenes_Vorgehen"></a>
 
@@ -41,7 +38,7 @@ Filtern Sie anschließend die Schülerinnen und Schüler des offenen Ganztags mi
 
 Filtern Sie anschließend die Schülerinnen und Schüler des Halbtagsunterrichts. Markieren Sie die Schülerinnen und Schüler, die an der Übermittagsbetreuung teilnehmen. Wenden sie auf die explizit ausgewählten Schülerinnen und Schüler den *Gruppenprozess - Allgemeines* an und ändern die Individualdaten. Setzen Sie im Gruppenprozess auf dem Karteireiter *Individual-Daten II* in der Rubrik *Sonstiges* das Merkmal *Übermittagsbetreuung.*
 
-![Text](/bilder/wiki/gruppenprozessorganisationsform-1e16628b.png)![Text](/bilder/wiki/gruppenprozessmerkmal-66ae1a89.png)
+![Text](/bilder/schild2/schueler/gruppenprozessorganisationsform.png)![Text](/bilder/schild2/schueler/gruppenprozessmerkmal.png)
 
 ------------------------------------------------------------------------
 

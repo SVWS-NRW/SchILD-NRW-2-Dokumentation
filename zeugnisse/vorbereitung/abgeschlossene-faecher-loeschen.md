@@ -1,8 +1,5 @@
 ---
 title: "Abgeschlossene Fächer löschen"
-wiki_title: "Abgeschlossene Fächer löschen"
-wiki_page_id: 509
-wiki_revision: 2082
 ---
 
 # Abgeschlossene Fächer löschen

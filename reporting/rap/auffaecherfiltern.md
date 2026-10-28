@@ -1,16 +1,11 @@
 ---
 title: "AufFaecherFiltern"
-wiki_title: "AufFaecherFiltern"
-wiki_page_id: 1144
-wiki_revision: 4247
 ---
 
 # AufFaecherFiltern
 
 <a id="RAP-Funktion_&quot;AufFaecherFiltern&quot;"></a>
 <a id="RAP-Funktion_.22AufFaecherFiltern.22"></a>
-
-## RAP-Funktion "AufFaecherFiltern"
 
 ## Beschreibung
 
@@ -32,11 +27,6 @@ Es ist aber geplante, die Filterung auch auf andere Datenquellen zu erweitern
 Hinweis: Komma oder Semikolon dürfen nicht vermischt werden, d.h. es dürfen nur Kommas oder nur Semikolons verwendet werden.
 ```
 
-## Rückgabewert
-
-```text
-...
-```
 
 ## Beispiel
 
@@ -46,5 +36,7 @@ AufFaecherFiltern('D,E,M');
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1144) · [AufFaecherFiltern – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=AufFaecherFiltern&oldid=4247)

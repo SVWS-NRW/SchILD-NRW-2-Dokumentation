@@ -1,8 +1,5 @@
 ---
 title: "ResetFaechervorbelegung"
-wiki_title: "ResetFaechervorbelegung"
-wiki_page_id: 67
-wiki_revision: 88
 ---
 
 # ResetFaechervorbelegung
@@ -10,27 +7,16 @@ wiki_revision: 88
 <a id="RAP-Funktion_&quot;ResetFaechervorbelegung&quot;"></a>
 <a id="RAP-Funktion_.22ResetFaechervorbelegung.22"></a>
 
-## RAP-Funktion "ResetFaechervorbelegung"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 procedure ResetFaechervorbelegung;
+```
+
+## Beschreibung
+
 Setzt interne Abfragen zurück, muss immer nach Verwendung von Faechervorbelegen oder
 CreateNotenHeader aufgerufen werden.
-```
-
-## Parameter
-
-```text
-...
-```
-
-## Rückgabewert
-
-```text
-...
-```
 
 ## Beispiel
 
@@ -48,5 +34,7 @@ Procedure ReportBeforePrint;
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-67) · [ResetFaechervorbelegung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ResetFaechervorbelegung&oldid=88)

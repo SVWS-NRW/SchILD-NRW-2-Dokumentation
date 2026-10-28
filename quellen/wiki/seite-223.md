@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 810 · Stand 2014-01-22.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-223.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/zeitdatenlehrer-b9241577.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/lehrkraefte/zeitdatenlehrer.jpg)
 
-![ZeitdatenLehrer.jpg](/bilder/wiki/zeitdatenlehrer-b9241577.jpg)
+![ZeitdatenLehrer.jpg](/bilder/schild2/lehrkraefte/zeitdatenlehrer.jpg)
 
 ## Originalquelltext
 

@@ -1,16 +1,11 @@
 ---
 title: "CreateNotenHeader"
-wiki_title: "CreateNotenHeader"
-wiki_page_id: 15
-wiki_revision: 183
 ---
 
 # CreateNotenHeader
 
 <a id="RAP-Funktion_&quot;CreateNotenHeader&quot;"></a>
 <a id="RAP-Funktion_.22CreateNotenHeader.22"></a>
-
-## RAP-Funktion "CreateNotenHeader"
 
 ## Beschreibung
 
@@ -34,11 +29,6 @@ aFaecherListe      - Kommaseparierte Liste der Fachkürzel, für die
                      eine Übersicht erzeugt werden soll.
 ```
 
-## Rückgabewert
-
-```text
-...
-```
 
 ## Beispiel
 
@@ -59,5 +49,7 @@ würde nur die Fächer D,M und alle Englisch-Fächer berücksichtigen (aber nich
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-15) · [CreateNotenHeader – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=CreateNotenHeader&oldid=183)

@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2426 · Stand 2014-08-09.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-627.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/word-seriendruck01-5ec3d54b.png)
+[Gesicherte Originaldatei öffnen](/bilder/reporting/verwaltung/word-seriendruck01.png)
 
-![Word-Seriendruck01.png](/bilder/wiki/word-seriendruck01-5ec3d54b.png)
+![Word-Seriendruck01.png](/bilder/reporting/verwaltung/word-seriendruck01.png)
 
 ## Originalquelltext
 

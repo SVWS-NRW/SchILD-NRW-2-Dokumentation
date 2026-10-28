@@ -1,17 +1,17 @@
 # SchILD-NRW 2 – Dokumentation
 
-VitePress-Dokumentation und vollständige Sicherung des aktuellen SchILD2-Wikis für die Zeit nach seiner Abschaltung. Die Themenstruktur übernimmt bewährte SchILD3-Muster und erweitert sie um sämtliche Tools und Zusatzprogramme. SchILD2 arbeitet direkt mit seiner Datenbank; ein SVWS-Server ist dafür nicht erforderlich.
+VitePress-Dokumentation mit Arbeitsanleitungen, Programmreferenz, Reporting und Tools. SchILD2 greift direkt auf seine Datenbank zu und benötigt keinen SVWS-Server. Die Dokumentation ist nicht an eine bestimmte Programmversion gebunden.
 
-## Lokal verwenden
+## Lokal arbeiten
 
-Node.js 22 oder neuer installieren und im Repository ausführen:
+Node.js 22 oder neuer verwenden:
 
 ```sh
 npm ci
 npm run docs:dev
 ```
 
-Die angezeigte lokale Adresse öffnet die Vorschau. Unter Windows funktioniert auch `npm.cmd`.
+Die angezeigte Adresse öffnet die Vorschau. Unter Windows kann `npm.cmd` verwendet werden.
 
 ```sh
 npm test
@@ -20,39 +20,29 @@ npm run docs:check
 npm run docs:preview
 ```
 
-Der fertige statische Webauftritt liegt in `.vitepress/dist/`. `node_modules/` wird weder veröffentlicht noch eingecheckt. Eine Veröffentlichung wird durch diesen Erstimport nicht automatisch ausgelöst. Das Projekt ist zunächst für die Bereitstellung am Wurzelpfad einer Website konfiguriert; für andere Zielpfade ist `DOCS_BASE` einstellbar und die Navigation am konkreten Hosting zu prüfen.
+Der statische Webauftritt liegt in `.vitepress/dist/`. Für das vollständige Quellenarchiv kann beim Build mehr Node-Arbeitsspeicher nötig sein. Die GitHub-Prüfungen stellen 6 GiB bereit. Bei Bedarf lokal `NODE_OPTIONS=--max-old-space-size=6144` setzen (PowerShell: `$env:NODE_OPTIONS='--max-old-space-size=6144'`).
 
-## Inhalte und Bedienung
+Die begrenzte Browserprüfung läuft mit `npm run docs:check-browser`; dafür wird Playwright und ein Chromium-Browser benötigt. Sie prüft repräsentative Ansichten und Bedienwege. Normale Artikelpflege benötigt weder Python noch Pandoc.
 
-- Einstieg und erste Schritte
-- Arbeiten mit SchILD: Schülerdaten, Lehrkräfte, Kataloge, Gruppenprozesse und Abschnittswechsel
-- Zeugnisse und Abschlüsse
-- Reporting und RAP-Funktionen
-- Programmreferenz nach SchILD2-Menüs
-- Installation, Datenbanken, Sicherung und Benutzerrechte
-- Tools und Zusatzprogramme mit direkt lesbaren Einrichtungs- und Arbeitsanleitungen
-- Hilfe, Autorenhinweise und vollständiges Quellenarchiv
+## Aufbau und Pflege
 
-Das Kopfmenü bleibt mit sechs Zugängen übersichtlich: **Einstieg · SchILD2 · Zeugnisse · Reporting · Tools · Nachschlagen**. „SchILD2“ bündelt tägliche Arbeit und Administration; „Nachschlagen“ erschließt Programmreferenz, Artikelverzeichnis, Hilfe, Bilder und Quellenarchiv. Die bisherigen Artikeladressen bleiben erhalten.
+Das Kopfmenü hat sechs Zugänge: **Einstieg · SchILD2 · Zeugnisse · Reporting · Tools · Nachschlagen**. SchILD2 bündelt Arbeiten und Administration; Nachschlagen erschließt Programmreferenz, Hilfe, Artikelindex, Bilder und Quellenarchiv.
 
-Enthalten sind lokale Volltextsuche, helle und dunkle Darstellung, mobile Navigation, alphabetisches Artikelverzeichnis, Bilderkatalog, Artikel- und Rubrikdruck sowie die Wiki-Bezugstabelle. Die Tool-Untermenüs verwenden kurze Bezeichnungen und folgen dem jeweiligen Einrichtungs- und Arbeitsablauf. LuPO übernimmt die Reihenfolge und Verschachtelung seines ursprünglichen Handbuchs.
+- Artikel direkt in ihren Markdown-Dateien bearbeiten. Sichtbare Quellenlinks, fachliche Einzelheiten, Beispiele und benötigte Sprungziele erhalten.
+- `.vitepress/navigation.json` enthält Themenmenüs und Hauptnavigation; `.vitepress/program-reference.json` die SchILD2-Programmreferenz.
+- Bilder liegen thematisch unter `public/bilder/`; der Katalog unter `/bilder/` erleichtert Wiederverwendung. Seine Daten stehen in `.vitepress/image-catalog.json`.
+- `.vitepress/redirects.json` enthält Ersatzadressen für entfernte Leerartikel.
+- `.vitepress/pdf-sources.json` ordnet ausgewertete PDF-Quellen ihren Artikeln zu. Zusätzliche Programmpakete oder Handbuchsammlungen werden nicht vorgehalten.
+- Autorenregeln und kopierbare Beispiele stehen unter Hilfe. Technische Mitarbeit beschreibt [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## Herkunft und Umfang
+## Quellen und Inhaltserhalt
 
-Quelle ist das [SchILD2-Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Hauptseite), gesichert am 27. Oktober 2026. Erfasst sind **alle 1.405 aktuell vorhandenen Seiten aller Namensräume** und **alle 910 hochgeladenen Originaldateien**, einschließlich nicht verwendeter Dateien. Von den 473 gesicherten Inhaltsseiten bleiben nach der Bereinigung zwölf Leer- und Weiterleitungsseiten als Originalquellen im Archiv; die übrigen 461 Wiki-Artikel werden redaktionell gepflegt. Hinzu kommen 15 aus PDF-Anleitungen erarbeitete Artikel. Auch die elf LuPO-Seiten außerhalb des Hauptnamensraums wurden vollständig erschlossen.
+Das Quellenarchiv erhält alle **1.405 gesicherten Wiki-Seiten und 910 hochgeladenen Originaldateien**, einschließlich der nicht mehr in Fachartikeln verwendeten Dateien. Die Quelltexte stehen unter `/quellen/` und als ZIP unter `public/dateien/quellen/wiki-quelltexte.zip`; frühere Bearbeitungsstände und gelöschte Wiki-Seiten sind nicht Teil dieser Bestandssicherung.
 
-**Neun PDF-Anleitungen** wurden ausgewertet und für **15 neue Anleitungen sowie Ergänzungen an drei bestehenden Wiki-Artikeln** verwendet. Die zusätzlichen 34 Downloads, darunter die ausgewerteten PDF-Dateien und unnötig heruntergeladene Programmpakete, wurden aus dem aktuellen Git-Stand entfernt. Die Quellenbelege stehen direkt in den Artikeln und in `migration/manuals/evaluated-pdfs.json`.
+Die normale Dokumentation enthält 461 übernommene Wiki-Artikel sowie 15 ergänzende PDF-Anleitungen. Zwölf frühere Leer- oder Weiterleitungsartikel führen zu Ersatzinhalten. Neun PDF-Quellen sind in Artikeln ausgewertet. Alle Originalquellen bleiben unabhängig von der weiteren Redaktion erhalten.
 
-Zwölf leere Platzhalter beziehungsweise reine Weiterleitungsartikel sind aus der normalen Dokumentation entfernt. Ihre ursprünglichen Wiki-Quellen bleiben im Archiv erhalten; bestehende Lesezeichen führen unmittelbar zum passenden Ersatzinhalt. Die zu acht entfallenen Altdateien gehörenden Links, Downloadankündigungen und Hinweise sind aus den Fachartikeln entfernt.
+Historische Konverter und eingefrorene Artikelprüfungen wurden nach geprüfter lokaler Sicherung und ausdrücklicher Freigabe entfernt. Die Git-Historie bewahrt den bisherigen Importstand. Normale Pflege ist nicht an alte Textprüfsummen gebunden. Den Abgleich mit der SchILD3-Arbeitsliste dokumentiert [UMSETZUNG.md](UMSETZUNG.md).
 
-`migration/articles.json` ordnet Inhaltsseiten ihren Wiki-Versionen und Markdown-Dateien zu. `migration/wiki-complete/` sichert den Gesamtbestand aller Namensräume; `migration/retired-articles.json` dokumentiert entfernte Leerartikel mit Ersatzinhalt und Begründung. Prüfsummen belegen die Originaldateien; alle 910 Wiki-Dateien stimmen mit den vom Wiki gelieferten SHA-1-Werten überein. Übernommene Wiki-Artikel verlinken ihren lokal gesicherten Quelltext. Das Quellenarchiv bietet außerdem einen ZIP-Download aller aktuellen Wiki-Quelltexte.
+## Veröffentlichung
 
-Gesichert ist der aktuelle Inhalt jeder vorhandenen Seite, einschließlich der eigenständigen Versionsgeschichtsartikel. Frühere Bearbeitungsstände einzelner Seiten und bereits gelöschte Inhalte sind nicht Bestandteil dieser aktuellen Bestandsübernahme.
-
-Der Erstimport aktualisiert keine historischen Rechtsstände und behauptet keine erneute fachliche Prüfung sämtlicher Altverfahren. Im Wiki nicht angelegte Artikel werden nicht erfunden; ihre vorhandenen Linktexte bleiben lesbar. Einzelheiten und Prüfergebnisse stehen im [Migrationsbericht](migration/BERICHT.md).
-
-Die Wiki-Schnittstelle liefert keine allgemeine Inhaltslizenz (`migration/siteinfo.json`). Rechte an übernommenen Inhalten und Abbildungen verbleiben bei den jeweiligen Rechteinhabern. Eine öffentliche Bereitstellung erfordert die passenden Rechte- und Betreiberangaben.
-
-## Pflege
-
-Siehe [CONTRIBUTING.md](CONTRIBUTING.md) sowie die Autorenhilfe unter „Hilfe“. Änderungen erfolgen über einen eigenen Branch mit Pull Request gegen `dev`.
+Ein Build veröffentlicht nichts automatisch. Standardmäßig gilt `/`; für ein Unterverzeichnis ist `DOCS_BASE` vor Build und Vorschau zu setzen. Menü, Suche, Bilder und Druck am konkreten Hosting prüfen. Änderungen über einen eigenen Branch und einen PR gegen `dev` bereitstellen; der Merge erfolgt durch den Maintainer.

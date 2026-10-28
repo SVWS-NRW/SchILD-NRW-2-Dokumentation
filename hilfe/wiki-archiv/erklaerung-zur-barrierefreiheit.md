@@ -1,8 +1,5 @@
 ---
 title: "Erklärung zur Barrierefreiheit"
-wiki_title: "Erklärung zur Barrierefreiheit"
-wiki_page_id: 1425
-wiki_revision: 5930
 search: false
 ---
 

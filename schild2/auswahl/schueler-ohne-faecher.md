@@ -1,8 +1,5 @@
 ---
 title: "Schüler ohne Fächer"
-wiki_title: "Schüler ohne Fächer"
-wiki_page_id: 246
-wiki_revision: 1053
 ---
 
 # Schüler ohne Fächer

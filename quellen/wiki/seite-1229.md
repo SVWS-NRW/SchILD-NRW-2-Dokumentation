@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 4852 · Stand 2021-09-09.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1229.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/asdpcschluesseasdsig-4f9a7839.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/import-export-statistik/asdpcschluesseasdsig.jpg)
 
-![ASDPCSchluesseASDSIg.jpg](/bilder/wiki/asdpcschluesseasdsig-4f9a7839.jpg)
+![ASDPCSchluesseASDSIg.jpg](/bilder/schild2/import-export-statistik/asdpcschluesseasdsig.jpg)
 
 ## Originalquelltext
 

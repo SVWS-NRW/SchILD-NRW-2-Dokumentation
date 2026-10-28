@@ -1,13 +1,10 @@
 ---
 title: "Gruppenprozesse Abitur"
-wiki_title: "Gruppenprozesse Abitur"
-wiki_page_id: 293
-wiki_revision: 1291
 ---
 
 # Gruppenprozesse Abitur
 
-![GP-Abitur](/bilder/wiki/gp-abitur-6f9dae98.jpg)
+![GP-Abitur](/bilder/zeugnisse/sekundarstufen/gp-abitur.jpg)
 
 Zu den "Gruppenaktionen für das Abitur" gehören folgende Gruppenprozesse.
 

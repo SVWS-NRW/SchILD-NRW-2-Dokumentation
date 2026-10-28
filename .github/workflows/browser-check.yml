@@ -32,4 +32,4 @@ jobs:
           name: browser-pruefung
           path: |
             test-results
-            migration/browser-check.json
+            test-results/browser-check.json

@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 4006 · Stand 2016-11-25.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1077.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/s1p-042-kursprofil-ee8c9588.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/tools/s1plan/s1p-042-kursprofil.jpg)
 
-![S1P-042-Kursprofil.JPG](/bilder/wiki/s1p-042-kursprofil-ee8c9588.jpg)
+![S1P-042-Kursprofil.JPG](/bilder/tools/s1plan/s1p-042-kursprofil.jpg)
 
 ## Originalquelltext
 

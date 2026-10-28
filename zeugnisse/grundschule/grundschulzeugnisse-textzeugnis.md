@@ -1,8 +1,5 @@
 ---
 title: "Grundschulzeugnisse Textzeugnis"
-wiki_title: "Grundschulzeugnisse Textzeugnis"
-wiki_page_id: 1177
-wiki_revision: 5515
 ---
 
 # Grundschulzeugnisse Textzeugnis

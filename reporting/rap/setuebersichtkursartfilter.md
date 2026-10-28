@@ -1,16 +1,11 @@
 ---
 title: "SetUebersichtKursartFilter"
-wiki_title: "SetUebersichtKursartFilter"
-wiki_page_id: 94
-wiki_revision: 180
 ---
 
 # SetUebersichtKursartFilter
 
 <a id="RAP-Funktion_&quot;SetUebersichtKursartFilter&quot;"></a>
 <a id="RAP-Funktion_.22SetUebersichtKursartFilter.22"></a>
-
-## RAP-Funktion "SetUebersichtKursartFilter"
 
 ## Beschreibung
 
@@ -33,11 +28,6 @@ die nicht die Kursart WPII oder AGGT haben)
 aListe    - Kommaseparierte Liste der gewünschten Kursarten
 ```
 
-## Rückgabewert
-
-```text
-...
-```
 
 ## Beispiel
 
@@ -52,5 +42,7 @@ Procedure ReportBeforePrint;
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-94) · [SetUebersichtKursartFilter – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetUebersichtKursartFilter&oldid=180)

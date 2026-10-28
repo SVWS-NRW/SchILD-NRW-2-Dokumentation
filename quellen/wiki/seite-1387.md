@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 5748 · Stand 2024-03-05.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1387.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/versetzungstabelle-jahrgangsuebergreifend-f2ba03ba.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/versetzung/versetzungstabelle-jahrgangsuebergreifend.jpg)
 
-![Versetzungstabelle-Jahrgangsuebergreifend.jpg](/bilder/wiki/versetzungstabelle-jahrgangsuebergreifend-f2ba03ba.jpg)
+![Versetzungstabelle-Jahrgangsuebergreifend.jpg](/bilder/schild2/versetzung/versetzungstabelle-jahrgangsuebergreifend.jpg)
 
 ## Originalquelltext
 

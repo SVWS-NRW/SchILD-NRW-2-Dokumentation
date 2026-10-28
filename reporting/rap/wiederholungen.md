@@ -1,8 +1,5 @@
 ---
 title: "Wiederholungen"
-wiki_title: "Wiederholungen"
-wiki_page_id: 108
-wiki_revision: 5721
 ---
 
 # Wiederholungen
@@ -10,9 +7,7 @@ wiki_revision: 5721
 <a id="RAP-Funktion_&quot;Wiederholungen&quot;"></a>
 <a id="RAP-Funktion_.22Wiederholungen.22"></a>
 
-## RAP-Funktion "Wiederholungen"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 function Wiederholungen(const aSchuelerId: Integer): String;
@@ -26,11 +21,9 @@ aSchuelerId   - Id-Nummer des aktuellen Schuelers
 
 ## Rückgabewert
 
-```text
 String mit den wiederholten Schuljahren und Jahrgängen.
 Achtung: Diese Funktion ist überflüssig geworden und sollte nicht mehr
          verwendet werden
-```
 
 ## Beispiel
 
@@ -45,5 +38,7 @@ Procedure Label4711OnGetText(var Text: String);
 ```
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-108) · [Wiederholungen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Wiederholungen&oldid=5721)

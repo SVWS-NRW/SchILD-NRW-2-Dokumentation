@@ -1,8 +1,5 @@
 ---
 title: "LoadVermerke"
-wiki_title: "LoadVermerke"
-wiki_page_id: 46
-wiki_revision: 67
 ---
 
 # LoadVermerke
@@ -10,9 +7,7 @@ wiki_revision: 67
 <a id="RAP-Funktion_&quot;LoadVermerke&quot;"></a>
 <a id="RAP-Funktion_.22LoadVermerke.22"></a>
 
-## RAP-Funktion "LoadVermerke"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 function LoadVermerke(aVermerkart, aDelimiter: String): String
@@ -31,9 +26,7 @@ aDelimiter         - Trenner für die Vermerke. Hier ist eine beliebige
 
 ## Rückgabewert
 
-```text
 Alle Vermerke der gewählten Art, durch den Delimiter voneinander getrennt.
-```
 
 ## Beispiel
 
@@ -48,5 +41,7 @@ Alle Vermerke der gewählten Art, durch den Delimiter voneinander getrennt.
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-46) · [LoadVermerke – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LoadVermerke&oldid=67)

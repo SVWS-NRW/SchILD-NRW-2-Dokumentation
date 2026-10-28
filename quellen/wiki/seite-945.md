@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 3565 · Stand 2015-09-08.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-945.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/ik-staatsangehoerigkeit-bfd93781.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/schueler/ik-staatsangehoerigkeit.png)
 
-![IK-Staatsangehoerigkeit.png](/bilder/wiki/ik-staatsangehoerigkeit-bfd93781.png)
+![IK-Staatsangehoerigkeit.png](/bilder/schild2/schueler/ik-staatsangehoerigkeit.png)
 
 ## Originalquelltext
 

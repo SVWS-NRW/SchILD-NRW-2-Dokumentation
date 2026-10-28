@@ -1,8 +1,5 @@
 ---
 title: "EditText"
-wiki_title: "EditText"
-wiki_page_id: 162
-wiki_revision: 408
 ---
 
 # EditText
@@ -10,26 +7,19 @@ wiki_revision: 408
 <a id="RAP-Funktion_&quot;EditText&quot;"></a>
 <a id="RAP-Funktion_.22EditText.22"></a>
 
-## RAP-Funktion "EditText"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 function EditPlainText
+```
+
+## Beschreibung
+
 Ruft einen Texteditor für Text ohne Formatierung auf.
-```
-
-## Parameter
-
-```text
-...
-```
 
 ## Rückgabewert
 
-```text
 Text ohne Formatierung.
-```
 
 ## Beispiel
 
@@ -41,5 +31,7 @@ end;
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-162) · [EditText – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=EditText&oldid=408)

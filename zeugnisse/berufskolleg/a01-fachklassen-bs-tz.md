@@ -1,13 +1,10 @@
 ---
 title: "A01 Fachklassen (BS; TZ)"
-wiki_title: "A01 Fachklassen (BS; TZ)"
-wiki_page_id: 1199
-wiki_revision: 4749
 ---
 
 # A01 Fachklassen (BS; TZ)
 
-![BK_Abschluss_A01](/bilder/wiki/bk-abschluss-a01-9c93bccd.png)
+![BK_Abschluss_A01](/bilder/zeugnisse/berufskolleg/bk-abschluss-a01.png)
 
 ---
 

@@ -1,13 +1,10 @@
 ---
 title: "Erzieher mit schulinternen Funktionen"
-wiki_title: "Erzieher mit schulinternen Funktionen"
-wiki_page_id: 376
-wiki_revision: 1626
 ---
 
 # Erzieher mit schulinternen Funktionen
 
-![Erzieher-mit-Funktionen](/bilder/wiki/erzieher-mit-funktionen-f7024d6e.jpg)
+![Erzieher-mit-Funktionen](/bilder/schild2/unterricht-kataloge/erzieher-mit-funktionen.jpg)
 
 Im Fenster "Erzieher mit schulinternen Funktionen" werden alle Erzieher aufgelistet, die über die rechte Maustaste auf dem Karteireiter [Erz.-Berechtigte](/schild2/schueler/erz-berechtigte) eine schulinterne Funktion zugewiesen bekommen haben. In diesem Fenster können aber auch Funktionen zu Erziehern hinzugefügt werden.
 

@@ -1,8 +1,5 @@
 ---
 title: "Standard-Auswahl laden"
-wiki_title: "Standard-Auswahl laden"
-wiki_page_id: 156
-wiki_revision: 968
 ---
 
 # Standard-Auswahl laden

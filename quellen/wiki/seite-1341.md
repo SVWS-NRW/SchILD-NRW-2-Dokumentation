@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 5290 · Stand 2022-01-17.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1341.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/schaubild-schluessel-c2b30142.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/import-export-statistik/schaubild-schluessel.png)
 
-![Schaubild_Schluessel.png](/bilder/wiki/schaubild-schluessel-c2b30142.png)
+![Schaubild_Schluessel.png](/bilder/schild2/import-export-statistik/schaubild-schluessel.png)
 
 ## Originalquelltext
 

@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 1823 · Stand 2014-03-24.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-437.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/uebersicht-sii-c4815b7d.png)
+[Gesicherte Originaldatei öffnen](/bilder/zeugnisse/sekundarstufen/uebersicht-sii.png)
 
-![Uebersicht-SII.png](/bilder/wiki/uebersicht-sii-c4815b7d.png)
+![Uebersicht-SII.png](/bilder/zeugnisse/sekundarstufen/uebersicht-sii.png)
 
 ## Originalquelltext
 

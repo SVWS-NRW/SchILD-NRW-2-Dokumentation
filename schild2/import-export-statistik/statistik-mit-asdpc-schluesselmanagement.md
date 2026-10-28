@@ -1,8 +1,5 @@
 ---
 title: "Statistik mit ASDPC-Schluesselmanagement"
-wiki_title: "Statistik mit ASDPC-Schluesselmanagement"
-wiki_page_id: 1335
-wiki_revision: 5292
 ---
 
 # Statistik mit ASDPC-Schluesselmanagement
@@ -25,7 +22,7 @@ Wobei "SXXXXXX" Ihre Schulnummer ist, "JJJJMMTT_SSMMSS" ist das Datum mit Uhrzei
 - Senden Sie immer Ihren aktuellsten öffentlichen Schlüssel (.pub) als E-Mail-Anhang an schluessel\[PUNKT\]schule\[AT\]it.nrw.de.
 - Halten Sie Ihren privaten Schlüssel (.sec) geheim und geben Sie ihn nicht weiter! Schicken Sie ihn *nicht* an IT.NRW.
 
-![Schaubild_Schluessel](/bilder/wiki/schaubild-schluessel-c2b30142.png)
+![Schaubild_Schluessel](/bilder/schild2/import-export-statistik/schaubild-schluessel.png)
 
 Der öffentliche Schlüssel wird standardmäßig im Verzeichnis \ASDPC32\ASD\SCHLUESSEL gespeichert, haben Sie ASDPC in C:\Programme installiert, wären die Schlüssel somit bei C:\Programme\ASDPC32\ASD\SCHLUESSEL zu finden.
 
@@ -40,7 +37,7 @@ Es empfiehlt sich, das Schlüsselpaar separat z.B. auf einer externen Sicherungs
 
 Starten Sie ASDPC nach einer Erst- oder Neuinstallation, werden Sie auf das Fehlen von Schlüsseln hingewiesen:
 
-![ASDPCSchluesselerstellung](/bilder/wiki/asdpcschluesselerstellung-8d493d67.jpg)
+![ASDPCSchluesselerstellung](/bilder/schild2/import-export-statistik/asdpcschluesselerstellung.jpg)
 
 Es gibt hier zwei Möglichkeiten:
 
@@ -56,7 +53,7 @@ Um die Schlüsselverwaltung zu erreichen
 - starten Sie ASDPC
 - Dann starten Sie die Haupterhebung über das Menü "Anwendung starten" ➥ "Erhebung Amtliche Schuldaten (ASDPC)"
 
-![ASDPCErhebungStarten](/bilder/wiki/asdpcerhebungstarten-c7312d17.jpg)
+![ASDPCErhebungStarten](/bilder/schild2/import-export-statistik/asdpcerhebungstarten.jpg)
 
 - Wählen Sie nun den Menüpunkt "Extras" und dann "Schlüsselverwaltung" an
 - Hier haben Sie nun die Option, Schlüssel zu
@@ -66,11 +63,11 @@ Um die Schlüsselverwaltung zu erreichen
 
 Um einen Schlüssel zu erzeugen, benötigen Sie die ASD-Signatur Ihrer Schule. Diese ist im geschützten Bereich des [Bildungsportals](http://www.schulministerium.nrw.de/BiPo/SVW) abzurufen.
 
-![ASDPCSchluesseASDSIg](/bilder/wiki/asdpcschluesseasdsig-4f9a7839.jpg)
+![ASDPCSchluesseASDSIg](/bilder/schild2/import-export-statistik/asdpcschluesseasdsig.jpg)
 
 Haben Sie einen Schlüssel erzeugt, werden Sie aufgefordert, diesen über schluessel\[PUNKT\]schule\[AT\]it.nrw.de an IT.NRW zu senden. Bitte denken Sie daran, nur den öffentlichen (.pub) und niemals den privaten Schlüssel (.sec) zu versenden.
 
-![ASDPCSchluesselversendung](/bilder/wiki/asdpcschluesselversendung-3ca1abdf.jpg)
+![ASDPCSchluesselversendung](/bilder/schild2/import-export-statistik/asdpcschluesselversendung.jpg)
 
 Hier im Beispiel geht hervor, dass diese Schlüssel am 09.09.2021 um 10:55:53 erzeugt wurden.
 

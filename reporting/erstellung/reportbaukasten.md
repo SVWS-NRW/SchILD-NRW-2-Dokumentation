@@ -1,14 +1,11 @@
 ---
 title: "Reportbaukasten"
-wiki_title: "Reportbaukasten"
-wiki_page_id: 385
-wiki_revision: 4830
 ---
 
 # Reportbaukasten
 
 
-![RepBau01](/bilder/wiki/repbau01-ea9fbcaa.jpg)
+![RepBau01](/bilder/reporting/erstellung/repbau01.jpg)
 
 Der Reportbaukasten soll Usern dabei behilflich sein, eigene Formulare nach einem Vorbild für bestimmte Zwecke erstellen zu können.
 
@@ -20,7 +17,7 @@ Wenn Sie einen Report zur Bearbeitung geöffnet haben, dann öffnet sich die Ans
 
 Darüber befinden sich vier Karteireiter:
 
-![RepBau02](/bilder/wiki/repbau02-45c47307.jpg)
+![RepBau02](/bilder/reporting/erstellung/repbau02.jpg)
 
 1.  **Daten:** Hier können Sie eigene Datenquellen mit Hilfe eines Assistenten zusammenstellen. In der Regel sollten Sie hier einige SQL-Kenntnisse mitbringen.
 2.  **Berechnungen:** Unter diesem Karteireiter finden Sie alle Programmierungen, die sich im Report verbergen. Dies ist die Stelle, wo Sie mit einem Code zu bestimmten Zeitpunkten Berechnungen, Ersetzungen oder Ähnliches durchführen lassen können.
@@ -29,45 +26,45 @@ Darüber befinden sich vier Karteireiter:
 
 **Einige Begriffserklärungen vorab:**
 
-![RepBau03](/bilder/wiki/repbau03-a162297d.jpg)
+![RepBau03](/bilder/reporting/erstellung/repbau03.jpg)
 
 Text = freies Textfeld (Label) ohne Datenhintergrund
 
 Diese Labels können aber unter Berechnungen per Programm verändert werden.
 
-![RepBau04](/bilder/wiki/repbau04-4ddb49e0.jpg)
+![RepBau04](/bilder/reporting/erstellung/repbau04.jpg)
 
 DBText = Textfeld, das sich aus der Datenbank einen Wert holt
 
 Dieser Wert wird über Datenquelle und Datenfeld gesteuert
 
-![RepBau05](/bilder/wiki/repbau05-7b508a77.jpg)
+![RepBau05](/bilder/reporting/erstellung/repbau05.jpg)
 
 Subreport = Unterbericht, hier können Datenfelder aus Schild wiedergegeben werden, die u.U. mehrere Datensätze enthalten
 
-![RepBau06](/bilder/wiki/repbau06-6890f235.jpg)
+![RepBau06](/bilder/reporting/erstellung/repbau06.jpg)
 
 Richtext = hier können formatierte Texte eingebunden werden
 
 (existiert auch als DBRichtext)
 
-![RepBau07](/bilder/wiki/repbau07-89010027.jpg)
+![RepBau07](/bilder/reporting/erstellung/repbau07.jpg)
 
 Memo = unformatierter mehrzeiliger Text
 
 (existiert auch als DBMemo)
 
-![RepBau08](/bilder/wiki/repbau08-a748c762.jpg)
+![RepBau08](/bilder/reporting/erstellung/repbau08.jpg)
 
 DBImage = Bild aus der Datenbank, rechte Maustaste auf den Rahmen öffnet ein Kontextmenü (existiert auch ohne DB)
 
-![RepBau09](/bilder/wiki/repbau09-23a77213.jpg)
+![RepBau09](/bilder/reporting/erstellung/repbau09.jpg)
 
 Shapes = Formen die mit Linien und Farbe versehen werden können
 
 (gut geeignet für Gitterstrukturen im PDF-Druck)
 
-![RepBau10](/bilder/wiki/repbau10-6dc5fcf4.jpg)
+![RepBau10](/bilder/reporting/erstellung/repbau10.jpg)
 
 Systemvarialble = kann bestimmte Umgebungsvarialblen drucken
 
@@ -75,7 +72,7 @@ Systemvarialble = kann bestimmte Umgebungsvarialblen drucken
 
 ------------------------------------------------------------------------
 
-![RepBau11](/bilder/wiki/repbau11-c14e39da.jpg)
+![RepBau11](/bilder/reporting/erstellung/repbau11.jpg)
 
 Ereignisse = diese Ereignisse stehen im Reportdesigner unter Berechnungen
 
@@ -87,7 +84,7 @@ Beim Einfügen von Funktionen und Proceduren sollte man sich die vorhandenen Ere
 
 ------------------------------------------------------------------------
 
-![RepBau12](/bilder/wiki/repbau12-aef42fab.jpg)
+![RepBau12](/bilder/reporting/erstellung/repbau12.jpg)
 
 Funktionen = Programmteile, die ohne bestimmtes Ereignis jederzeit im Prozedurenteil des Programms aufgerufen werden können
 
@@ -101,7 +98,7 @@ Das Stammblatt dient als Beispiel für einige Elemente, die häufig im Zusammenh
 
 **Barcode:**
 
-![RepBau13](/bilder/wiki/repbau13-3641e3f3.jpg)
+![RepBau13](/bilder/reporting/erstellung/repbau13.jpg)
 
 So befindet sich im Kopf links oben das Element DBBarCode1, welchem das Datenfeld für den Schülernamen zugewiesen ist.
 
@@ -111,7 +108,7 @@ Dort stehen Ihnen dann auch die Auswahl des Barcode-Typs und einige andere Einst
 
 **Schülerfoto:**
 
-![RepBau14](/bilder/wiki/repbau14-efd8f96b.jpg)
+![RepBau14](/bilder/reporting/erstellung/repbau14.jpg)
 
 Das Element *DBImage1* bedient sich aus der Datenquelle *SchuelerFotos* und zeigt dort das Datenfeld Foto an. Wenn ein Bild beim Schüler in der Datenbank hinterlegt ist, dann wird dieses nun auf dem Stammblatt angezeigt. Auch hier stehen wieder einige Auswahlmöglichkeiten zur Verfügung, wenn man das Element mit der rechten Maustaste anklickt.
 
@@ -125,7 +122,7 @@ Die Angaben zu den Erziehungsberechtigten werden aus einem Subreport gedruckt, w
 
 Die Erziehernamen setzen sich oft aus Anrede, Titel, Vorname und Nachname zusammen, so dass das Zusammenrücken der Elemente notwendig ist, wenn man keine unnötigen Leerstellen haben möchte.
 
-![RepBau15](/bilder/wiki/repbau15-ef3ab2cc.jpg)
+![RepBau15](/bilder/reporting/erstellung/repbau15.jpg)
 
 Dies ist im *Label6* realisiert. Beim Ereignis *OnGetText* werden dem Text des Labels einfach die geforderten Datenelemente samt Leerzeichen zugewiesen.
 
@@ -133,17 +130,17 @@ Das Gleiche ist im Subreport Telefone hinterlegt, auch dort ist eine automatisch
 
 Hierbei ist noch zu berücksichtigen, dass der Subreport *SchuelerTelefone* eine besondere Seiteneinrichtung hat. Wenn Sie den Subreport im Berichtsbaum markieren und dann im Menü *Datei --\> Seite einrichten ...* auswählen, sehen Sie die zugrunde liegenden Seiteneinstellungen.
 
-![Reportbaukasten-02](/bilder/wiki/reportbaukasten-02-7569eb11.png)
+![Reportbaukasten-02](/bilder/reporting/erstellung/reportbaukasten-02.png)
 
 Die vier definierten Spalten werden von links nach rechts durchlaufen.
 
 **Schülerlaufbahn**
 
-![RepBau16](/bilder/wiki/repbau16-07188044.jpg)
+![RepBau16](/bilder/reporting/erstellung/repbau16.jpg)
 
 Auf diesem Stammblatt soll eine Übersicht aller Abschnitte gedruckt werden, die der Schüler an der Schule durchlaufen hat. Dazu reicht ein Subreport mit der Datenquelle *SchuelerLaufbahn*, der im *ReportBeforePrint* Ereignis mit dem Befehl *SetUebersicht(True);* initialisiert wird. Im Ereignis *ReportAfterPrint* wird diese Setzung dann mit *SetUebersicht(False);* wieder zurückgesetzt.
 
-![RepBau17](/bilder/wiki/repbau17-00d082c4.jpg)
+![RepBau17](/bilder/reporting/erstellung/repbau17.jpg)
 
 Die Berechnungen für das *DBText5*-Label sollen ein Beispiel geben, wie man in Abhängigkeit von den in der Datenbank hinterlegten Bezeichnungen auch eigene Texte generieren kann. So ist der Versetzungsvermerk hier nur als Kürzel hinterlegt, kann aber mit Hilfe einer kleinen Programmierung auch in Textform auf dem Report ausgegeben werden.
 
@@ -159,7 +156,7 @@ Dabei steht LS für *letzte Schule* und ZS für *zukünftige Schule*. Alle Daten
 
 ## Beispiel 2: 02_Input_Laufzeit.rtm
 
-![RepBau18](/bilder/wiki/repbau18-5a9d01bc.jpg)
+![RepBau18](/bilder/reporting/erstellung/repbau18.jpg)
 
 Dieses Formular soll eine kurze Einführung in die Möglichkeit der Dateneingabe zur Laufzeit des Reports bieten.
 
@@ -171,11 +168,11 @@ Die Funktionen sind alle auch im WIKI beschrieben.
 
 Dort gibt es zahlreiche Funktionen, die dem Ersteller von Reports helfen sollen, bestimmte Dinge in der Reporting umzusetzen, die von der Programmierung nicht unterstützt werden oder nur sehr schwer umzusetzen sind.
 
-![RepBau19](/bilder/wiki/repbau19-0876eed9.jpg)
+![RepBau19](/bilder/reporting/erstellung/repbau19.jpg)
 
 In diesem Formular werden erstmalig Variablen benötigt, in die die Inhalte aus den Abfragen eingelesen werden. Diese Variablen müssen vor der Nutzung global deklariert werden, wenn sie in allen Prozeduren und Ereignissen zur Verfügung stehen sollen. Sehen Sie sich dazu bitte den Bereich Deklarationen in „Global“ an. Dieses Menü erreichen Sie, wenn Sie mit der rechten Maustaste in den Bereich der linken oberen Ecke klicken.
 
-![RepBau20](/bilder/wiki/repbau20-ec6aee73.jpg)
+![RepBau20](/bilder/reporting/erstellung/repbau20.jpg)
 
 Die Inhalte der Variablen werden den Labels dann „einfach“ zugewiesen. Bitte sehen Sie dazu in die jeweiligen *OnGetText*-Ereignisse der jeweiligen Labels.
 
@@ -183,7 +180,7 @@ Im *RichtText1* finden Sie ein Beispiel, wie Ersetzungen in größeren Textfelde
 
 Bestimmte Ersetzungen sind damit aber nicht möglich, dazu können feste Platzhalter, wie hier im Beispiel \$Schuljahr\$, verwendet werden.
 
-![RepBau21](/bilder/wiki/repbau21-f59a0445.jpg)
+![RepBau21](/bilder/reporting/erstellung/repbau21.jpg)
 
 Dort wird der Platzhalter dann durch eine entsprechende Programmierung im *OnPrint*-Ereignis des *Richtext1* ersetzt.
 
@@ -193,7 +190,7 @@ Dort wird der Platzhalter dann durch eine entsprechende Programmierung im *OnPri
 
 ## Beispiel 3: 03_Lehrerdaten.rtm
 
-![RepBau22](/bilder/wiki/repbau22-79bd61c3.jpg)
+![RepBau22](/bilder/reporting/erstellung/repbau22.jpg)
 
 Prinzipiell bedient sich dieser Report aus der Datenquelle Lehrer. Alle Stamminformationen zu den Lehrkräften sind hier enthalten.
 
@@ -205,11 +202,11 @@ Die Lehrbefähigungen werden als Unterdatenquelle der Lehrämter gefüllt.
 
 Das ist der Grund dafür, dass im Report ein Unterbericht mit der Datenquelle *LehrerAktuellerAbschnitt* eingefügt ist, weil die *LehrerFunktionen* sonst u.U. nicht gefüllt werden.
 
-![RepBau23](/bilder/wiki/repbau23-b63f3104.jpg)
+![RepBau23](/bilder/reporting/erstellung/repbau23.jpg)
 
 Eine Übersicht über die Abhängigkeit der Datenquellen finden Sie in der Reportverwaltung, wenn Sie auf das rote Fragezeichensymbol klicken.
 
-![RepBau24](/bilder/wiki/repbau24-a75168c8.jpg)
+![RepBau24](/bilder/reporting/erstellung/repbau24.jpg)
 
 ------------------------------------------------------------------------
 
@@ -217,13 +214,13 @@ Eine Übersicht über die Abhängigkeit der Datenquellen finden Sie in der Repor
 
 ## Beispiel 4: 04_Konferenz.rtm
 
-![RepBau25](/bilder/wiki/repbau25-dbd5469b.jpg)
+![RepBau25](/bilder/reporting/erstellung/repbau25.jpg)
 
 Dieser Report soll eine Übersichtsliste z.B. für Konferenzen bieten, die alle Schüler einer Klasse / eines Jahrgangs mit ihren Fächern auflistet. Der Report druckt lediglich den aktuellen Abschnitt.
 
 Dazu werden die Datenquellen *FachUebersichtHeader* und *Fachuebersicht* verwendet.
 
-![RepBau26](/bilder/wiki/repbau26-d954c4ea.jpg)
+![RepBau26](/bilder/reporting/erstellung/repbau26.jpg)
 
 Der Subreport *FachUebersichtHeader* erzeugt eine Kopfzeile für die Übersichtsliste, die alle bei der ausgewählten Schülermenge enthaltenen Fächer in der Sortierungsreihenfolge auflistet. Aus diesem Grund ist es auch sinnvoll, vor dem Druck klassenweise oder jahrgangsweise zu filtern, da alle auftretenden Fächer sonst in den Header wandern.
 
@@ -239,13 +236,13 @@ Der Bericht enthält zwei Gruppierungen. Die Gruppe\[0\]:Klasse erzeugt eine neu
 
 ## Beispiel 5: 05_Konferenz.rtm
 
-![RepBau27](/bilder/wiki/repbau27-a6344f2a.jpg)
+![RepBau27](/bilder/reporting/erstellung/repbau27.jpg)
 
 Dieser Report druckt eine Leistungsübersicht der ausgewählten Schülermenge für den aktuellen Lernabschnitt. Dieses Mal wird aber in jeder Schülerzeile eine eigene Kopfzeile für die Fächer erzeugt, die dieser Schüler hat.
 
 Dazu wird die Datenquelle Lernabschnitte verwendet, die ohne weitere Programmierung den aktuellen Abschnitt des Schülers liefert.
 
-![RepBau28](/bilder/wiki/repbau28-cb4b7474.jpg)
+![RepBau28](/bilder/reporting/erstellung/repbau28.jpg)
 
 In diesem Subreport befindet sich dann ein Unterbericht mit der Datenquelle *SchuelerLeistungen*, der die Leistungsdaten liefert.
 
@@ -263,7 +260,7 @@ Die Gruppe\[0\]: ID sorgt im Bericht lediglich dafür, dass ein Schülerdatensat
 
 ## Beispiel 6: 06_Laufbahnuebersicht.rtm
 
-![RepBau30](/bilder/wiki/repbau30-a46b1d14.jpg)
+![RepBau30](/bilder/reporting/erstellung/repbau30.jpg)
 
 Dieser Report druckt zu jedem Schüler die gesamte in Schild-NRW hinterlegte Laufbahn mit allen Abschnitten.
 
@@ -271,7 +268,7 @@ Dazu werden die Datenquellen *Leistungsuebersicht* (zur Erzeugung des Headers) u
 
 Damit der Report die Kopfzeile für die Fächer und die Laufbahn über alle Abschnitte erzeugen kann, benötigt er im *BeforePrint*-Ereignis den Aufruf *SetUebersicht(True)*.
 
-![RepBau31](/bilder/wiki/repbau31-86eaf270.jpg)
+![RepBau31](/bilder/reporting/erstellung/repbau31.jpg)
 
 Dies wird dann im *AfterPrint*-Ereignis mit *SetUebersicht(False)* wieder aufgehoben.
 
@@ -283,7 +280,7 @@ Die Gruppe\[0\]: ID dient lediglich dazu, dass die Schüler auf einer Seite zusa
 
 ## Beispiel 7: 07_Laufbahnuebersicht.rtm
 
-![RepBau32](/bilder/wiki/repbau32-2c23b73f.jpg)
+![RepBau32](/bilder/reporting/erstellung/repbau32.jpg)
 
 Dieser Bericht ist lediglich eine Abwandlung von Beispiel 6, in dem einige Ergänzungen gemacht wurden.
 
@@ -295,7 +292,7 @@ Dass hier nicht *ReportBeforePrint* genommen wird, hat den Grund, dass u.U. dann
 
 Zusätzlich wird aber im *ReportBeforePrint* Ereignis der Übersichtsmodus geändert.
 
-![RepBau33](/bilder/wiki/repbau33-d171f2b2.jpg)
+![RepBau33](/bilder/reporting/erstellung/repbau33.jpg)
 
 Wie im Screenshot zu sehen, wird dort auf die Kursart umgestellt, da der Übersichtsmodus standardmäßig auf „NurFach“ steht und dann gleiche Fächer nicht nach Kursarten unterschieden werden und in die gleiche Spalte einsortiert werden.
 
@@ -311,7 +308,7 @@ Zusätzlich wurde in *OnGetText* des *DBText4*-Labels eine Abfrage eingebaut, di
 
 Die Felder für die Bemerkungen auf den Zeugnissen wurden vor einigen Versionen in der Datenbank in Memo-Felder umgewandelt. Das bedeutet, dass dort nun nur noch die eigentlichen Texte ohne jegliche Formatierung in der Datenbank liegen.
 
-![RepBau34](/bilder/wiki/repbau34-c7e48857.jpg)
+![RepBau34](/bilder/reporting/erstellung/repbau34.jpg)
 
 Früher waren dort Richttextinformationen mit Textformatierungen enthalten, weswegen u.U. manche Zeugnisbemerkungen in einer anderen Schrift erscheinen konnten.
 
@@ -341,19 +338,19 @@ Diese werden an Gesamtschulen auf Zeugnissen und Übersichten benötigt.
 
 Das Zeugnisformular soll alle Benutzer unterstützen, die eigene Zeugnisse für besonders spezielle Verhältnisse an ihren Schulen erzeugen wollen.
 
-![RepBau35](/bilder/wiki/repbau35-aa39f89f.jpg)
+![RepBau35](/bilder/reporting/erstellung/repbau35.jpg)
 
 Auch in diesem Formular wurden keine überflüssigen Programmierungen eingesetzt.
 
 Das Formular bedient sich aus den Datenquellen der Fächergruppen und der Lernabschnitte, damit das im Reportexplorer eingestellte Schuljahr gedruckt wird.
 
-![RepBau36](/bilder/wiki/repbau36-e40eedf7.jpg)
+![RepBau36](/bilder/reporting/erstellung/repbau36.jpg)
 
 Aus diesem Grund befindet sich im Ereignis *ReportBeforeOpenDataPipelines* auch der Befehl *MitLernabschnitten(True).* Dadurch wird das Befüllen der Fächergruppen-Quellen angestoßen.
 
 Das Schuljahr und die Klassenbezeichnung steuert die Datenquelle *Lernabschnitte*.
 
-![RepBau37](/bilder/wiki/repbau37-a01c779a.jpg)
+![RepBau37](/bilder/reporting/erstellung/repbau37.jpg)
 
 In den Unterberichten der Fächergruppen werden einige Programmierungen vorgenommen, die je nach Fach oder nach Kursart die Detailbereiche unsichtbar schalten. Dies ist notwendig, wenn entweder Fächer in der Datenquelle vorkommen, die nicht gedruckt werden sollen (hier am Beispiel der Fremdsprachen E und F, die getrennt ausgewiesen werden), oder aber auch im Beispiel der weiteren Unterrichte, wo die Kursarten ZUV und KMFÖ in einer Datenquelle ankommen.
 
@@ -373,7 +370,7 @@ Für Zeugnisse oder Übersichten, die auf Abiturdaten, Sprachenfolge oder die Da
 
 ## Beispiel 11: 11_Laufbahnuebersicht_mit_QT.rtm
 
-![Reportbaukasten-03](/bilder/wiki/reportbaukasten-03-7ea296f7.png)
+![Reportbaukasten-03](/bilder/reporting/erstellung/reportbaukasten-03.png)
 
 Diese Laufbahnübersicht zeigt die Noten eines jeden Quartales (QT) an. Sie entspricht ansonsten der Laufbahnübersicht in Beispiel 7.
 

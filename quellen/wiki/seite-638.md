@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2473 · Stand 2014-08-15.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-638.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/zeugniszuordnung-2b764b50.png)
+[Gesicherte Originaldatei öffnen](/bilder/zeugnisse/grundschule/zeugniszuordnung.png)
 
-![Zeugniszuordnung.png](/bilder/wiki/zeugniszuordnung-2b764b50.png)
+![Zeugniszuordnung.png](/bilder/zeugnisse/grundschule/zeugniszuordnung.png)
 
 ## Originalquelltext
 

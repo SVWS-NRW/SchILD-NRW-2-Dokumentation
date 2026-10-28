@@ -1,8 +1,5 @@
 ---
 title: "Konfessionen"
-wiki_title: "Konfessionen"
-wiki_page_id: 145
-wiki_revision: 936
 ---
 
 # Konfessionen

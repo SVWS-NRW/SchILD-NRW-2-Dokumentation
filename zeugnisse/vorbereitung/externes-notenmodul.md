@@ -1,13 +1,10 @@
 ---
 title: "Externes Notenmodul"
-wiki_title: "Externes Notenmodul"
-wiki_page_id: 250
-wiki_revision: 4736
 ---
 
 # Externes Notenmodul
 
-![Notenmodulexport](/bilder/wiki/notenmodulexport-baf0d84e.jpg)
+![Notenmodulexport](/bilder/zeugnisse/vorbereitung/notenmodulexport.jpg)
 
 Das Externe Notenmodul ist ein Zusatzprogramm zu Schild-NRW. Es ist in der Basisinstallation enthalten, kann aber auch über die Homepage (<http://www.svws.nrw.de/index.php?id=tools>) einzeln heruntergeladen werden.
 
@@ -23,7 +20,7 @@ Im Folgenden wird nun beschrieben, wie der Export/Import in Schild-NRW funktioni
 
 ## Noten Export
 
-![Notenexport1](/bilder/wiki/notenexport1-a494b829.jpg)
+![Notenexport1](/bilder/zeugnisse/vorbereitung/notenexport1.jpg)
 
 **Lehrkräfte:**
 
@@ -37,7 +34,7 @@ Hier kann gewählt werden, ob nur für bestimmte Jahrgänge exportiert werden so
 
 Hier kann gewählt werden, ob nur für bestimmte Klassen exportiert werden soll. Ist keine Klasse gewählt, so werden alle exportiert!
 
-![Notenexport2](/bilder/wiki/notenexport2-75c209aa.jpg)
+![Notenexport2](/bilder/zeugnisse/vorbereitung/notenexport2.jpg)
 
 **Datenexport nach:**
 

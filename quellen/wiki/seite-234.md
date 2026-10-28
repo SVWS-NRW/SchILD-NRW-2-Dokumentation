@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 987 · Stand 2014-01-27.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-234.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/jg-tabelle-gy-45b3e5d6.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/archiv/jg-tabelle-gy.jpg)
 
-![JG_Tabelle_GY.jpg](/bilder/wiki/jg-tabelle-gy-45b3e5d6.jpg)
+![JG_Tabelle_GY.jpg](/bilder/archiv/jg-tabelle-gy.jpg)
 
 ## Originalquelltext
 

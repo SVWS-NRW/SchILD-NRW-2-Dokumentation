@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2603 · Stand 2014-11-10.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-670.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/report-neu-ohne-wl-06cfc1cb.png)
+[Gesicherte Originaldatei öffnen](/bilder/reporting/erstellung/report-neu-ohne-wl.png)
 
-![Report-Neu-Ohne-WL.png](/bilder/wiki/report-neu-ohne-wl-06cfc1cb.png)
+![Report-Neu-Ohne-WL.png](/bilder/reporting/erstellung/report-neu-ohne-wl.png)
 
 ## Originalquelltext
 

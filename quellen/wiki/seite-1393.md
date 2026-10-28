@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 5756 · Stand 2024-03-14.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1393.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/schild-nrw-export-ban-portal-gp-rueckfrage-viele-86dea9db.png)
+[Gesicherte Originaldatei öffnen](/bilder/archiv/schild-nrw-export-ban-portal-gp-ruckfrage-viele.png)
 
-![SchILD-NRW_Export_BAN-Portal_GP_Rückfrage_Viele.png](/bilder/wiki/schild-nrw-export-ban-portal-gp-rueckfrage-viele-86dea9db.png)
+![SchILD-NRW_Export_BAN-Portal_GP_Rückfrage_Viele.png](/bilder/archiv/schild-nrw-export-ban-portal-gp-ruckfrage-viele.png)
 
 ## Originalquelltext
 

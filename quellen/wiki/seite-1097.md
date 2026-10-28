@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 4056 · Stand 2016-12-01.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1097.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/ka33-003-efd43389.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/versetzung/ka33-003.jpg)
 
-![KA33_003.jpg](/bilder/wiki/ka33-003-efd43389.jpg)
+![KA33_003.jpg](/bilder/schild2/versetzung/ka33-003.jpg)
 
 ## Originalquelltext
 

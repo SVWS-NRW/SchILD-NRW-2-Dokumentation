@@ -1,15 +1,12 @@
 ---
 title: "Individuelle Schülergruppe bearbeiten"
-wiki_title: "Individuelle Schülergruppe bearbeiten"
-wiki_page_id: 149
-wiki_revision: 966
 ---
 
 # Individuelle Schülergruppe bearbeiten
 
 Manchmal sucht man eine Filtermöglichkeit, die nicht den bekannten Kriterien wie Klasse, Jahrgang, Kurs, evangelisch, katholisch entspricht. Hier hat man die Möglichkeit, eine Schülergruppe einzurichten, der man Schülerinnen und Schüler aus unterschiedlichen Klassen zuweisen kann.
 
-![IndSchuelergruppe](/bilder/wiki/indschuelergruppe-91c3751e.jpg)
+![IndSchuelergruppe](/bilder/schild2/auswahl/indschuelergruppe.jpg)
 
 Dazu legt man mit dem '+'-Schalter eine neue Schülergruppe an, der man unter Bezeichnung einen eindeutigen aussagekräftigen Namen geben sollte.
 

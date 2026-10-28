@@ -1,8 +1,5 @@
 ---
 title: "Schulpflicht autom. setzen zum SJ.-Ende"
-wiki_title: "Schulpflicht autom. setzen zum SJ.-Ende"
-wiki_page_id: 345
-wiki_revision: 1524
 ---
 
 # Schulpflicht autom. setzen zum SJ.-Ende

@@ -1,8 +1,5 @@
 ---
 title: "DQ01-Demo.spd"
-wiki_title: "DQ01-Demo.spd"
-wiki_page_id: 932
-wiki_revision: 3513
 ---
 
 # DQ01-Demo.spd

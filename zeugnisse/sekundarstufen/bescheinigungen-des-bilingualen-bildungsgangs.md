@@ -1,14 +1,12 @@
 ---
 title: "Bescheinigungen des Bilingualen Bildungsgangs"
-wiki_title: "Bescheinigungen des Bilingualen Bildungsgangs"
-wiki_page_id: 1416
-wiki_revision: 5881
 ---
 
 # Bescheinigungen des Bilingualen Bildungsgangs
 
-![Bilinguale_bescheinigungen](/bilder/wiki/bilinguale-bescheinigungen-813a3527.png)
-Parameter
+![Bilinguale_bescheinigungen](/bilder/zeugnisse/sekundarstufen/bilinguale-bescheinigungen.png)
+
+*Parameter*
 
 In der Basisreportsammlung befinden sich Bescheinigungen des Bilingualen Bildungsgangs der Sekundarstufe I und II. Diese sind mit dem MSB abgestimmt worden und entsprechen den aktuellen Vorgaben. Es gibt jeweils eine Bescheinigung in englischer und französischer Sprache. In jeder Sprache gibt es eine Bescheinigung mit 3 oder 4 Sachfächern.
 

@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 5404 · Stand 2022-03-11.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1355.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/reportexplorer-0f25c092.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/administration/installation/reportexplorer.jpg)
 
-![Reportexplorer.jpg](/bilder/wiki/reportexplorer-0f25c092.jpg)
+![Reportexplorer.jpg](/bilder/administration/installation/reportexplorer.jpg)
 
 ## Originalquelltext
 

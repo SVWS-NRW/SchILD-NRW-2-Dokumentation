@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2564 · Stand 2014-09-22.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-661.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/zeugnisdrucktut02-9907b7db.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/zeugnisse/vorbereitung/zeugnisdrucktut02.jpg)
 
-![ZeugnisdruckTut02.jpg](/bilder/wiki/zeugnisdrucktut02-9907b7db.jpg)
+![ZeugnisdruckTut02.jpg](/bilder/zeugnisse/vorbereitung/zeugnisdrucktut02.jpg)
 
 ## Originalquelltext
 

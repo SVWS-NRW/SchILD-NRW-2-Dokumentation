@@ -1,16 +1,11 @@
 ---
 title: "NurGewerteteAbschnitte"
-wiki_title: "NurGewerteteAbschnitte"
-wiki_page_id: 126
-wiki_revision: 185
 ---
 
 # NurGewerteteAbschnitte
 
 <a id="RAP-Funktion_&quot;NurGewerteteAbschnitte&quot;"></a>
 <a id="RAP-Funktion_.22NurGewerteteAbschnitte.22"></a>
-
-## RAP-Funktion "NurGewerteteAbschnitte"
 
 ## Beschreibung
 
@@ -24,11 +19,6 @@ NurGewerteteAbschnitte( zeigen: boolen );
 Anzeigewerte : True, False
 ```
 
-## Rückgabewert
-
-```text
-...
-```
 
 ## Beispiel
 
@@ -42,5 +32,7 @@ auch die nicht gewerteten Abschnitte sehen will.
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-126) · [NurGewerteteAbschnitte – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=NurGewerteteAbschnitte&oldid=185)

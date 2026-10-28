@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 564 · Stand 2013-12-11.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-203.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/container-re-maus-321a85cc.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/einstieg/grundlagen/container-re-maus.jpg)
 
-![Container_re_Maus.jpg](/bilder/wiki/container-re-maus-321a85cc.jpg)
+![Container_re_Maus.jpg](/bilder/einstieg/grundlagen/container-re-maus.jpg)
 
 ## Originalquelltext
 

@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 4002 · Stand 2016-11-25.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1073.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/s1p-038-optimierungsfenster-2ca9010b.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/tools/s1plan/s1p-038-optimierungsfenster.jpg)
 
-![S1P-038-Optimierungsfenster.JPG](/bilder/wiki/s1p-038-optimierungsfenster-2ca9010b.jpg)
+![S1P-038-Optimierungsfenster.JPG](/bilder/tools/s1plan/s1p-038-optimierungsfenster.jpg)
 
 ## Originalquelltext
 

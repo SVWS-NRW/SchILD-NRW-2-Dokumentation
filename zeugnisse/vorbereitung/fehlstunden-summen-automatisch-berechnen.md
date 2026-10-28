@@ -1,8 +1,5 @@
 ---
 title: "Fehlstunden-Summen automatisch berechnen"
-wiki_title: "Fehlstunden-Summen automatisch berechnen"
-wiki_page_id: 478
-wiki_revision: 1987
 ---
 
 # Fehlstunden-Summen automatisch berechnen

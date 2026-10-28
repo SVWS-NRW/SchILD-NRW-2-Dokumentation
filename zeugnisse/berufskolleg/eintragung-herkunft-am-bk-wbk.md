@@ -1,8 +1,5 @@
 ---
 title: "Eintragung Herkunft am BK/WBK"
-wiki_title: "Eintragung Herkunft am BK/WBK"
-wiki_page_id: 606
-wiki_revision: 2329
 ---
 
 # Eintragung Herkunft am BK/WBK
@@ -13,7 +10,7 @@ An Berufskollegs und Weiterbildungskollegs gibt es seit einiger Zeit einige spez
 
 Diese werden wie im Bild eingetragen:
 
-![Herkunftbk1](/bilder/wiki/herkunftbk1-afbad8e7.jpg)
+![Herkunftbk1](/bilder/zeugnisse/berufskolleg/herkunftbk1.jpg)
 
 Diese Eintragungsmodalität gilt für folgende Herkunftsschlüssel:
 
@@ -27,11 +24,11 @@ XS  980500\
 SP  999000\
 AS  991000, 992000, 993000, 999000\
 
-Um die zugehörigen Schulnummern in Schild-NRW auswählen zu können, fügen Sie diese bitte über den Katalog “Schulen außerhalb NRW” hinzu. ![Herkunftbk2](/bilder/wiki/herkunftbk2-323f334e.jpg)
+Um die zugehörigen Schulnummern in Schild-NRW auswählen zu können, fügen Sie diese bitte über den Katalog “Schulen außerhalb NRW” hinzu. ![Herkunftbk2](/bilder/zeugnisse/berufskolleg/herkunftbk2.jpg)
 
 Hier können Sie über das „+“-Zeichen die benötigten Eintragungen ergänzen. Der Katalog sollte dann in etwa so aussehen:
 
-![Herkunftbk3](/bilder/wiki/herkunftbk3-229ec798.jpg)
+![Herkunftbk3](/bilder/zeugnisse/berufskolleg/herkunftbk3.jpg)
 
 Nach dieser Vorbereitung lassen sich die notwendigen Eintragungen beim Schüler durchführen.
 

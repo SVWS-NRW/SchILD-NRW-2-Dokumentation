@@ -1,8 +1,5 @@
 ---
 title: "Schild-NRW Wiki:Aktuelle Ereignisse"
-wiki_title: "Schild-NRW Wiki:Aktuelle Ereignisse"
-wiki_page_id: 1017
-wiki_revision: 3947
 ---
 
 # Schild-NRW Wiki:Aktuelle Ereignisse

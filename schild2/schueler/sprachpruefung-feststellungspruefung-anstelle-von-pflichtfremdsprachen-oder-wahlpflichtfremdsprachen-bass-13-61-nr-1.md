@@ -1,8 +1,5 @@
 ---
 title: "Sprachprüfung (Feststellungsprüfung) anstelle von Pflichtfremdsprachen oder Wahlpflichtfremdsprachen BASS 13-61 Nr. 1"
-wiki_title: "Sprachprüfung (Feststellungsprüfung) anstelle von Pflichtfremdsprachen oder Wahlpflichtfremdsprachen BASS 13-61 Nr. 1"
-wiki_page_id: 1417
-wiki_revision: 5927
 ---
 
 # Sprachprüfung (Feststellungsprüfung) anstelle von Pflichtfremdsprachen oder Wahlpflichtfremdsprachen BASS 13-61 Nr. 1
@@ -164,8 +161,9 @@ Die Noten werden in diesen entbehrlichen Fällen von der Schule anstelle von Eng
 
 ### Unterrichtsfächer
 
-![Fsp_faecher](/bilder/wiki/fsp-faecher-b2f627dc.png)
-Unterrichtsfach für FSP
+![Fsp_faecher](/bilder/schild2/schueler/fsp-faecher.png)
+
+*Unterrichtsfach für FSP*
 
 Legen Sie ein Fach für die Prüfungssprache an (Schulverwaltung - Unterrichtsfächer):
 
@@ -183,8 +181,9 @@ Hinweis: Nach Anlegen des Faches sollte Schild-NRW einmalig neu gestartet werden
 
 ### Sprachenfolge
 
-![Fsp_sprachenfolge](/bilder/wiki/fsp-sprachenfolge-1889587b.png)
-Sprachenfolge für FSP
+![Fsp_sprachenfolge](/bilder/schild2/schueler/fsp-sprachenfolge.png)
+
+*Sprachenfolge für FSP*
 
 Tragen Sie das Fach in die Sprachenfolge auf dem Reiter Laufbahninfo ein:
 
@@ -199,8 +198,9 @@ Tragen Sie das Fach in die Sprachenfolge auf dem Reiter Laufbahninfo ein:
 
 ### Leistungsdaten für Abschluss- und Versetzungszeugnis
 
-![Fsp_leistungsdaten](/bilder/wiki/fsp-leistungsdaten-988ef783.png)
-Leistungsdaten für FSP-Zeugnisdruck
+![Fsp_leistungsdaten](/bilder/schild2/schueler/fsp-leistungsdaten.png)
+
+*Leistungsdaten für FSP-Zeugnisdruck*
 
 Fügen Sie den Leistungsdaten ein Fach hinzu:
 

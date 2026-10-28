@@ -1,16 +1,11 @@
 ---
 title: "FilterFachUebersichtAufKlasse"
-wiki_title: "FilterFachUebersichtAufKlasse"
-wiki_page_id: 957
-wiki_revision: 4282
 ---
 
 # FilterFachUebersichtAufKlasse
 
 <a id="RAP-Funktion_&quot;FilterFachUebersichtAufKlasse&quot;"></a>
 <a id="RAP-Funktion_.22FilterFachUebersichtAufKlasse.22"></a>
-
-## RAP-Funktion "FilterFachUebersichtAufKlasse"
 
 ## Beschreibung
 
@@ -32,9 +27,7 @@ String - Klasse, für die die Übersicht erzeugt werden soll
 
 ## Rückgabewert
 
-```text
 Erzeugt einen neuen FachUebersichtsHeader, sobald die Gruppe wechselt.
-```
 
 ## Beispiel
 
@@ -48,5 +41,7 @@ Der Aufruf sollte nur in Verbindung mit der Datenquelle "Fachuebersicht" erfolge
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-957) · [FilterFachUebersichtAufKlasse – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FilterFachUebersichtAufKlasse&oldid=4282)

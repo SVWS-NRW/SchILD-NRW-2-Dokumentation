@@ -1,8 +1,5 @@
 ---
 title: "FormatRTF"
-wiki_title: "FormatRTF"
-wiki_page_id: 30
-wiki_revision: 51
 ---
 
 # FormatRTF
@@ -10,9 +7,7 @@ wiki_revision: 51
 <a id="RAP-Funktion_&quot;FormatRTF&quot;"></a>
 <a id="RAP-Funktion_.22FormatRTF.22"></a>
 
-## RAP-Funktion "FormatRTF"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 procedure FormatRTF(aRichtext: TppcustomRichtext; aFontname: String; Groesse: Integer;Fett: Boolean; Kursiv: Boolean; Unterstrichen: Boolean; Gestrichen: Boolean; Farbe: TColor);
@@ -31,11 +26,6 @@ Gestrichen         - Boolescher Wert, falls true, wird das Attribut gesetzt.
 Farbe              - Schriftfarbe (z.B. clRed, clBlue...)
 ```
 
-## Rückgabewert
-
-```text
-...
-```
 
 ## Beispiel
 
@@ -48,5 +38,7 @@ begin
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-30) · [FormatRTF – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FormatRTF&oldid=51)

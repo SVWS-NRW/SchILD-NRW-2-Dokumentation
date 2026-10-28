@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { computed } from 'vue'
+import { withBase } from 'vitepress'
 import { referenceLink } from '../reference-navigation.mjs'
 
 type Node = { id: string; text: string; link?: string; items?: Node[]; sections?: Node[] }
@@ -7,7 +8,7 @@ const props = defineProps<{ node: Node; activeId: string }>()
 const children = computed(() => (props.node.items || []).filter(child => !child.link?.includes('#')))
 const containsActive = (node: Node): boolean => node.id === props.activeId || (node.items || []).some(containsActive)
 const open = computed(() => containsActive(props.node))
-const href = computed(() => referenceLink(props.node))
+const href = computed(() => props.node.link ? withBase(referenceLink(props.node)) : undefined)
 function toggle(event: Event) {
   const current = event.target as HTMLDetailsElement
   if (!current.open) return

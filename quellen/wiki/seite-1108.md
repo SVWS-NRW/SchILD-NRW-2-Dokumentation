@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 4110 · Stand 2017-03-10.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1108.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/lupo-datenaustausch-schueler-beratungsdateien-8513c9b8.png)
+[Gesicherte Originaldatei öffnen](/bilder/tools/lupo/lupo-datenaustausch-schueler-beratungsdateien.png)
 
-![Lupo_datenaustausch_schueler_beratungsdateien.png](/bilder/wiki/lupo-datenaustausch-schueler-beratungsdateien-8513c9b8.png)
+![Lupo_datenaustausch_schueler_beratungsdateien.png](/bilder/tools/lupo/lupo-datenaustausch-schueler-beratungsdateien.png)
 
 ## Originalquelltext
 

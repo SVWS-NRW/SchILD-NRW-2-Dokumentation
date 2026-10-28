@@ -1,8 +1,5 @@
 ---
 title: "Abschnittsdaten löschen"
-wiki_title: "Abschnittsdaten löschen"
-wiki_page_id: 503
-wiki_revision: 2063
 ---
 
 # Abschnittsdaten löschen

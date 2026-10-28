@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 1095 · Stand 2014-01-28.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-256.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/hilfe-fenster-d1d2ff19.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/archiv/hilfe-fenster.jpg)
 
-![Hilfe-Fenster.jpg](/bilder/wiki/hilfe-fenster-d1d2ff19.jpg)
+![Hilfe-Fenster.jpg](/bilder/archiv/hilfe-fenster.jpg)
 
 ## Originalquelltext
 

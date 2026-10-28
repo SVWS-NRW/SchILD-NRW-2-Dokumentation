@@ -1,8 +1,5 @@
 ---
 title: "Gesamt-Fehlstunden berechnen"
-wiki_title: "Gesamt-Fehlstunden berechnen"
-wiki_page_id: 498
-wiki_revision: 2054
 ---
 
 # Gesamt-Fehlstunden berechnen

@@ -1,8 +1,5 @@
 ---
 title: "Versetzungs-/Abschluss-Berechnung"
-wiki_title: "Versetzungs-/Abschluss-Berechnung"
-wiki_page_id: 500
-wiki_revision: 3593
 ---
 
 # Versetzungs-/Abschluss-Berechnung

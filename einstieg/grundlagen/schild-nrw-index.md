@@ -1,8 +1,5 @@
 ---
 title: "Schild-NRW-Index"
-wiki_title: "Schild-NRW-Index"
-wiki_page_id: 6
-wiki_revision: 5935
 ---
 
 # Schild-NRW-Index
@@ -13,7 +10,7 @@ wiki_revision: 5935
 
 ------------------------------------------------------------------------
 
-![Schild-NRW-Hauptfenster](/bilder/wiki/schild-nrw-hauptfenster-e39ee227.jpg)
+![Schild-NRW-Hauptfenster](/bilder/einstieg/grundlagen/schild-nrw-hauptfenster.jpg)
 
 SchILD-NRW startet i.d.R. mit dem Hauptfenster. Dieses Fenster ist in mehrere Bereiche gegliedert. Am oberen Fensterrand sind der Name der aktuellen Datenbank, das aktuelle Schuljahr und der angemeldete Benutzer eingeblendet.
 
@@ -39,7 +36,7 @@ Eine ausführliche Beschreibung des Hauptfensters finden Sie im Artikel: **[Haup
 
 ------------------------------------------------------------------------
 
-![Schulverwaltung_01](/bilder/wiki/schulverwaltung-01-f6550f07.jpg)
+![Schulverwaltung_01](/bilder/einstieg/grundlagen/schulverwaltung-01.jpg)
 
 Unter dem Menü [Schulverwaltung](/schild2/unterricht-kataloge/schulverwaltung) befinden sich hauptsächlich Bereiche, in denen Grundeinstellungen der Datenbank hinterlegt werden.
 
@@ -53,7 +50,7 @@ Eine genaue Beschreibung finden Sie im Artikel: **[Schulverwaltung](/schild2/unt
 
 ------------------------------------------------------------------------
 
-![Kataloge_01](/bilder/wiki/kataloge-01-c32eb1d4.jpg)
+![Kataloge_01](/bilder/einstieg/grundlagen/kataloge-01.jpg)
 
 Das Programm Schild-NRW verwaltet die Schülerdaten in einer Datenbank mit festen Zuordnungen für die meisten Eintragungen. Aus diesem Grund können viele Werte nur aus Katalogen ausgewählt und nicht "eingetippt" werden.
 
@@ -65,7 +62,7 @@ Dies hat den Vorteil, dass Benutzer nicht willkürlich in den Katalogen die Beze
 
 ------------------------------------------------------------------------
 
-![Auswahl_01](/bilder/wiki/auswahl-01-60c1b1b0.jpg)
+![Auswahl_01](/bilder/einstieg/grundlagen/auswahl-01.jpg)
 
 Das Menü [Auswahl](/schild2/auswahl/auswahl) ist ein wesentlicher Bestandteil der Schild-NRW-Philosophie, da dort die zahlreichen Möglichkeiten zur Filterung der Schülermenge zu finden sind.
 
@@ -79,7 +76,7 @@ Die vielfältigen Möglichkeiten zur Filterung finden Sie im Artikel: **[Auswahl
 
 ------------------------------------------------------------------------
 
-![Gruppenprozesse_01](/bilder/wiki/gruppenprozesse-01-4673730d.jpg)
+![Gruppenprozesse_01](/bilder/einstieg/grundlagen/gruppenprozesse-01.jpg)
 
 Die [Gruppenprozesse](/schild2/gruppenprozesse/gruppenprozesse) stellen das wichtigste Werkzeugpaket innerhalb Schild-NRW dar, um Schülerdatensätze gemeinsam zu bearbeiten.
 
@@ -93,7 +90,7 @@ Weitere Informationen gibt es im Artikel: **[Gruppenprozesse](/schild2/gruppenpr
 
 ------------------------------------------------------------------------
 
-![Druckausgabe_01](/bilder/wiki/druckausgabe-01-0a82bab5.jpg)
+![Druckausgabe_01](/bilder/einstieg/grundlagen/druckausgabe-01.jpg)
 
 Schild-NRW arbeitet mit einer leistungsfähigen Report-Ausgabe, um Datensätze und Datenzusammenstellungen zu Papier (oder auch zu PDF) zu bringen.
 
@@ -111,7 +108,7 @@ Die Benutzung des Menüs **[Druckausgabe](/reporting/verwaltung/druckausgabe)** 
 
 ------------------------------------------------------------------------
 
-![Datenaustausch_01](/bilder/wiki/datenaustausch-01-ac25ce1a.jpg)
+![Datenaustausch_01](/bilder/einstieg/grundlagen/datenaustausch-01.jpg)
 
 Bei der Zusammenarbeit mit anderen Programmen, die in der Schulverwaltung eingesetzt werden oder auch zur Weitergabe bestimmter Daten an andere Stellen, bietet Schild-NRW eine große Anzahl an Möglichkeiten zum [Datenaustausch](/schild2/import-export-statistik/datenaustausch).
 
@@ -127,7 +124,7 @@ Nähere Informationen dazu im Artikel: **[Datenaustausch](/schild2/import-export
 
 ------------------------------------------------------------------------
 
-![Extras_01](/bilder/wiki/extras-01-e0028f19.jpg)
+![Extras_01](/bilder/einstieg/grundlagen/extras-01.jpg)
 
 Unter diesem Menüpunkt befinden sich einige Einstellungsmöglichkeiten sowie einige Prozesse, die zur Aktualisierung bzw. zur Reparatur herangezogen werden können.
 

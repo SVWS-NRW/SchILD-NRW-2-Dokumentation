@@ -1,13 +1,10 @@
 ---
 title: "Grundschuldaten eingeben"
-wiki_title: "Grundschuldaten eingeben"
-wiki_page_id: 609
-wiki_revision: 2347
 ---
 
 # Grundschuldaten eingeben
 
-![GSDaten](/bilder/wiki/gsdaten-82294b84.jpg)
+![GSDaten](/bilder/schild2/schueler/gsdaten.jpg)
 
 Geben Sie hier die Zeugnisdaten und Informationen aus der Grundschule ein, wenn Sie diese z.B. für ein Aufnahmeverfahren oder die Erprobungsstufenkonferenzen benötigen.
 

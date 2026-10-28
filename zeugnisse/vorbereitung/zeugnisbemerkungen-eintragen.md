@@ -1,8 +1,5 @@
 ---
 title: "Zeugnisbemerkungen eintragen"
-wiki_title: "Zeugnisbemerkungen eintragen"
-wiki_page_id: 502
-wiki_revision: 2060
 ---
 
 # Zeugnisbemerkungen eintragen

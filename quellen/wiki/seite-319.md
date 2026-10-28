@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 1392 · Stand 2014-02-17.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-319.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/wiedervorlage-01-5729b3b0.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/schueler/wiedervorlage-01.jpg)
 
-![Wiedervorlage-01.jpg](/bilder/wiki/wiedervorlage-01-5729b3b0.jpg)
+![Wiedervorlage-01.jpg](/bilder/schild2/schueler/wiedervorlage-01.jpg)
 
 ## Originalquelltext
 

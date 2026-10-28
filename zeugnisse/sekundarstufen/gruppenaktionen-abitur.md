@@ -1,13 +1,10 @@
 ---
 title: "Gruppenaktionen Abitur"
-wiki_title: "Gruppenaktionen Abitur"
-wiki_page_id: 295
-wiki_revision: 1286
 ---
 
 # Gruppenaktionen Abitur
 
-![GP-Abitur](/bilder/wiki/gp-abitur-6f9dae98.jpg)
+![GP-Abitur](/bilder/zeugnisse/sekundarstufen/gp-abitur.jpg)
 
 Unter dem Karteireiter "Abitur" verbergen sich folgende Gruppenprozesse.
 

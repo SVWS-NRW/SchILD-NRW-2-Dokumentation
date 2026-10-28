@@ -1,15 +1,12 @@
 ---
 title: "Individualdaten ändern"
-wiki_title: "Individualdaten ändern"
-wiki_page_id: 321
-wiki_revision: 1618
 ---
 
 # Individualdaten ändern
 
 Mit dem Aufruf des Gruppenprozesses "Individualdaten ändern" erscheinen weitere Registerkarten, die sich jeweils auf die entsprechenden Registerkarten eines einzelnen Schülers beziehen.
 
-![Individualdaten-Registerkarten](/bilder/wiki/individualdaten-registerkarten-09b1a92c.jpg)
+![Individualdaten-Registerkarten](/bilder/schild2/gruppenprozesse/individualdaten-registerkarten.jpg)
 
 Im Fenster des Gruppenprozesses sehen Sie nun die Felder, die sich auch auf den Karteireitern im Hauptbildschirm befinden.
 
@@ -19,7 +16,7 @@ Auf dem Karteireiter **Weitere Daten** finden Sie die *Vermerke*, die beim Schü
 
 Den Reiter **Berufskolleg** gibt es nur in dieser Schulform, da er nur schulspezifische Angaben enthält:
 
-![GP-BK-Reiter](/bilder/wiki/gp-bk-reiter-d9ea6946.jpg)
+![GP-BK-Reiter](/bilder/schild2/gruppenprozesse/gp-bk-reiter.jpg)
 
 Angaben und Daten zu den einzelnen Lernabschnitten lassen sich auf dem entsprechenden Reiter auch für zurückliegende Jahre eintragen.
 

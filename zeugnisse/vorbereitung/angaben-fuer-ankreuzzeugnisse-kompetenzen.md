@@ -1,8 +1,5 @@
 ---
 title: "Angaben für Ankreuzzeugnisse/-kompetenzen"
-wiki_title: "Angaben für Ankreuzzeugnisse/-kompetenzen"
-wiki_page_id: 1397
-wiki_revision: 5811
 ---
 
 # Angaben für Ankreuzzeugnisse/-kompetenzen
@@ -14,11 +11,11 @@ wiki_revision: 5811
 
 Um Ankreuzzeugnisse (z.B. für Inklusionsschülerinnen und -schüler) zu erstellen, müssen zunächst die Kompetenzen für jedes Fach und jede Jahrgangstufe im Programm hinterlegt werden. Dies geschieht in der **Schulverwaltung** unter **Ankreuzkompetenzen**.
 
-![Kompetenzen](/bilder/wiki/kompetenzen-3caed16b.png)
+![Kompetenzen](/bilder/zeugnisse/vorbereitung/kompetenzen.png)
 
 Die Abstufungen und deren Bezeichnungen werden ebenfalls dort durch Auswählen des Reiters **Weitere Angaben** festgelegt. Hier kann zwischen vier und fünf Ankreuzmöglichkeiten gewählt werden. Bei nur vier Abstufungen wird die fünfte freigelassen. Soll von vier auf fünf (oder zurück) gewechselt werden, ist ein Neustart erforderlich.
 
-![Stufen](/bilder/wiki/stufen-c2612103.png)
+![Stufen](/bilder/zeugnisse/vorbereitung/stufen.png)
 
 <a id="Einträge_in_der_Versetzungstabelle"></a>
 <a id="Eintr.C3.A4ge_in_der_Versetzungstabelle"></a>
@@ -27,7 +24,7 @@ Die Abstufungen und deren Bezeichnungen werden ebenfalls dort durch Auswählen d
 
 Damit einem Schüler / einer Schülerin aus einer bestimmten Klasse Ankreuzkompetenzen zugewiesen werden können, muss für die betreffende Klasse in der **Versetzungstabelle** das Kreuz bei "In dieser Klasse werden Ankreuzkompetenzen verwendet" gesetzt sein.
 
-![Versetzungstabelle](/bilder/wiki/versetzungstabelle-2c4f2d32.png)
+![Versetzungstabelle](/bilder/zeugnisse/vorbereitung/versetzungstabelle.png)
 
 <a id="Einträge_bei_den_Leistungsdaten"></a>
 <a id="Eintr.C3.A4ge_bei_den_Leistungsdaten"></a>
@@ -36,7 +33,7 @@ Damit einem Schüler / einer Schülerin aus einer bestimmten Klasse Ankreuzkompe
 
 Ist das Kreuz in der Versetzungstabelle gesetzt, erscheint im **Akt. Halbjahr** der Reiter **Ankreuzkompetenzen**. Dort können nach Auswahl der Fächer die Kreuze gesetzt werden.
 
-![EintragKompetenzen](/bilder/wiki/eintragkompetenzen-eff6b18f.png)
+![EintragKompetenzen](/bilder/zeugnisse/vorbereitung/eintragkompetenzen.png)
 
 Hinweis: Derzeit ist ein Export in die .enm-Dateien nicht möglich.
 

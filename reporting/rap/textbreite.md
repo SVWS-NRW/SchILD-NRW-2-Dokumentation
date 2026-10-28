@@ -1,16 +1,11 @@
 ---
 title: "Textbreite"
-wiki_title: "Textbreite"
-wiki_page_id: 958
-wiki_revision: 3668
 ---
 
 # Textbreite
 
 <a id="RAP-Funktion_&quot;Textbreite&quot;"></a>
 <a id="RAP-Funktion_.22Textbreite.22"></a>
-
-## RAP-Funktion "Textbreite"
 
 ## Beschreibung
 
@@ -28,9 +23,7 @@ Report, Label-Text, Label-Font
 
 ## Rückgabewert
 
-```text
 Breite des Elements in "Reporteinheiten".
-```
 
 ## Beispiel
 
@@ -41,5 +34,7 @@ lblStern.Left := lblFach.Left + wt;
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-958) · [Textbreite – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Textbreite&oldid=3668)

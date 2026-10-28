@@ -1,8 +1,5 @@
 ---
 title: "Selectfont"
-wiki_title: "Selectfont"
-wiki_page_id: 77
-wiki_revision: 98
 ---
 
 # Selectfont
@@ -10,15 +7,16 @@ wiki_revision: 98
 <a id="RAP-Funktion_&quot;Selectfont&quot;"></a>
 <a id="RAP-Funktion_.22Selectfont.22"></a>
 
-## RAP-Funktion "Selectfont"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 function Selectfont(const Default: String): String;
+```
+
+## Beschreibung
+
 Dialog, um aus der Liste der im System registrierten Zeichensätze einen
 bestimmten Zeichensatz auszuwählen
-```
 
 ## Parameter
 
@@ -28,9 +26,7 @@ Default    - Standardwert für den Zeichensatz
 
 ## Rückgabewert
 
-```text
 Gewählter Zeichensatz
-```
 
 ## Beispiel
 
@@ -46,5 +42,7 @@ end;
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-77) · [Selectfont – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Selectfont&oldid=98)

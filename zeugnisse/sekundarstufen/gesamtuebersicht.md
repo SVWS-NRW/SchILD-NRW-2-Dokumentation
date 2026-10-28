@@ -1,8 +1,5 @@
 ---
 title: "Gesamtübersicht"
-wiki_title: "Gesamtübersicht"
-wiki_page_id: 438
-wiki_revision: 1941
 ---
 
 # Gesamtübersicht
@@ -11,11 +8,11 @@ Die **Gesamtübersicht** wird in zwei Unter-Karteikarten aufgeteilt. Für die **
 
 Diese Übersicht lässt sich durch Klicken auf das Excel-Symbol als Tabelle exportieren.
 
-![Gesamtueb-Laufbahn](/bilder/wiki/gesamtueb-laufbahn-aa41fd3a.png)
+![Gesamtueb-Laufbahn](/bilder/zeugnisse/sekundarstufen/gesamtueb-laufbahn.png)
 
 Wenn Sie auf die Unter-Karteikarte **Leistungsübersicht** wechseln, bekommen Sie die Leistungsdaten aller angelegten Abschnitte angezeigt. Auch diese Übersicht lässt sich durch Klicken auf das Excel-Symbol als Tabelle exportieren.
 
-![Gesamtueb-Leistungsdaten](/bilder/wiki/gesamtueb-leistungsdaten-667b549d.png)
+![Gesamtueb-Leistungsdaten](/bilder/zeugnisse/sekundarstufen/gesamtueb-leistungsdaten.png)
 
 ------------------------------------------------------------------------
 

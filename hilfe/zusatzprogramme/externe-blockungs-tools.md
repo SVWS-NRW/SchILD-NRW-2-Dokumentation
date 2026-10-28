@@ -1,8 +1,5 @@
 ---
 title: "Externe Blockungs-Tools"
-wiki_title: "Externe Blockungs-Tools"
-wiki_page_id: 1155
-wiki_revision: 4572
 ---
 
 # Externe Blockungs-Tools

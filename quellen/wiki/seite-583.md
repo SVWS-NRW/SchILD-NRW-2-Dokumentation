@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2255 · Stand 2014-05-24.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-583.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/gp-dokuaufraeumen-31ae3f1f.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/administration/benutzer-einstellungen/gp-dokuaufraeumen.jpg)
 
-![GP-Dokuaufraeumen.jpg](/bilder/wiki/gp-dokuaufraeumen-31ae3f1f.jpg)
+![GP-Dokuaufraeumen.jpg](/bilder/administration/benutzer-einstellungen/gp-dokuaufraeumen.jpg)
 
 ## Originalquelltext
 

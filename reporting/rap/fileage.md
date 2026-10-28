@@ -1,8 +1,5 @@
 ---
 title: "FileAge"
-wiki_title: "FileAge"
-wiki_page_id: 20
-wiki_revision: 40
 ---
 
 # FileAge
@@ -10,26 +7,34 @@ wiki_revision: 40
 <a id="RAP-Funktion_&quot;FileAge&quot;"></a>
 <a id="RAP-Funktion_.22FileAge.22"></a>
 
-## RAP-Funktion "FileAge"
+## Signatur
+
+```pascal
+function FileAge(const aFilename: String): DateTime;
+```
 
 ## Beschreibung
 
-   function FileAge(const aFilename: String): DateTime;\
-   bestimmt das Dateidatum\
+bestimmt das Dateidatum
 
 ## Parameter
 
-   aFilename          - Dateiname incl. Pfad\
+```text
+aFilename          - Dateiname incl. Pfad
+```
 
 ## Rückgabewert
 
-   Dateidatum\
+Dateidatum
 
 ## Beispiel
 
-   If FileAge('C:\Schild-NRW\Schild-Reports\Zeugnisse\Zeugnis_11.rtm') \< StrToDate('01.01.2009') then...;\
-
+```pascal
+If FileAge('C:\Schild-NRW\Schild-Reports\Zeugnisse\Zeugnis_11.rtm') < StrToDate('01.01.2009') then...;
+```
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-20) · [FileAge – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FileAge&oldid=40)

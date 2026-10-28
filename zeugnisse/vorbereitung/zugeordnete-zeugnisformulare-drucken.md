@@ -1,8 +1,5 @@
 ---
 title: "Zugeordnete Zeugnisformulare drucken"
-wiki_title: "Zugeordnete Zeugnisformulare drucken"
-wiki_page_id: 513
-wiki_revision: 2108
 ---
 
 # Zugeordnete Zeugnisformulare drucken

@@ -1,8 +1,5 @@
 ---
 title: "S1PLAN:Übersicht"
-wiki_title: "S1PLAN:Übersicht"
-wiki_page_id: 1022
-wiki_revision: 4044
 ---
 
 # S1PLAN:Übersicht

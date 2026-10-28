@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2292 · Stand 2014-05-26.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-595.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/verzeichnisbaum-aktualisieren-4a57f54f.png)
+[Gesicherte Originaldatei öffnen](/bilder/reporting/verwaltung/verzeichnisbaum-aktualisieren.png)
 
-![Verzeichnisbaum-aktualisieren.png](/bilder/wiki/verzeichnisbaum-aktualisieren-4a57f54f.png)
+![Verzeichnisbaum-aktualisieren.png](/bilder/reporting/verwaltung/verzeichnisbaum-aktualisieren.png)
 
 ## Originalquelltext
 

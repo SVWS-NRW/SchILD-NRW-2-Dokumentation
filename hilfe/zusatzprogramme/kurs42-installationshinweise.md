@@ -1,8 +1,5 @@
 ---
 title: "Kurs42:Installationshinweise"
-wiki_title: "Kurs42:Installationshinweise"
-wiki_page_id: 1371
-wiki_revision: 5508
 ---
 
 # Kurs42:Installationshinweise

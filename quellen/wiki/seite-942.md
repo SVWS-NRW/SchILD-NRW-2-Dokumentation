@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 3562 · Stand 2015-09-08.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-942.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/ik-individualdaten-a7412420.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/schueler/ik-individualdaten.png)
 
-![IK-Individualdaten.png](/bilder/wiki/ik-individualdaten-a7412420.png)
+![IK-Individualdaten.png](/bilder/schild2/schueler/ik-individualdaten.png)
 
 ## Originalquelltext
 

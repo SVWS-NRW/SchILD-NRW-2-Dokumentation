@@ -1,8 +1,5 @@
 ---
 title: "SetAdressArt"
-wiki_title: "SetAdressArt"
-wiki_page_id: 85
-wiki_revision: 109
 ---
 
 # SetAdressArt
@@ -10,9 +7,7 @@ wiki_revision: 109
 <a id="RAP-Funktion_&quot;SetAdressArt&quot;"></a>
 <a id="RAP-Funktion_.22SetAdressArt.22"></a>
 
-## RAP-Funktion "SetAdressArt"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 procedure SetAdressArt(aZiel, aAdressArt: String);
@@ -28,11 +23,6 @@ aAdressArt         - Gewünschte Adressart, entweder über SelectAdressArt ausw�
                      oder als Stringliteral (z.B. „Betrieb“) eingeben
 ```
 
-## Rückgabewert
-
-```text
-...
-```
 
 ## Beispiel
 
@@ -45,5 +35,7 @@ Procedure ReportBeforePrint;
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-85) · [SetAdressArt – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetAdressArt&oldid=109)

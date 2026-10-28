@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 4134 · Stand 2017-05-11.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1120.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/reports-alt-0eb0b359.png)
+[Gesicherte Originaldatei öffnen](/bilder/reporting/erstellung/reports-alt.png)
 
-![Reports_alt.png](/bilder/wiki/reports-alt-0eb0b359.png)
+![Reports_alt.png](/bilder/reporting/erstellung/reports-alt.png)
 
 ## Originalquelltext
 

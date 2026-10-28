@@ -1,8 +1,5 @@
 ---
 title: "Fehlende Abschnittsdaten anlegen"
-wiki_title: "Fehlende Abschnittsdaten anlegen"
-wiki_page_id: 346
-wiki_revision: 1541
 ---
 
 # Fehlende Abschnittsdaten anlegen

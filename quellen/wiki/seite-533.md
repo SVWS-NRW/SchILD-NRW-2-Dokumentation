@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2173 · Stand 2014-05-21.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-533.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/gp-betriebe-adressen-5ed8a381.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/gruppenprozesse/gp-betriebe-adressen.png)
 
-![GP-Betriebe-Adressen.png](/bilder/wiki/gp-betriebe-adressen-5ed8a381.png)
+![GP-Betriebe-Adressen.png](/bilder/schild2/gruppenprozesse/gp-betriebe-adressen.png)
 
 ## Originalquelltext
 

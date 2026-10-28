@@ -1,8 +1,5 @@
 ---
 title: "LookupSprachenfolge"
-wiki_title: "LookupSprachenfolge"
-wiki_page_id: 50
-wiki_revision: 71
 ---
 
 # LookupSprachenfolge
@@ -10,9 +7,7 @@ wiki_revision: 71
 <a id="RAP-Funktion_&quot;LookupSprachenfolge&quot;"></a>
 <a id="RAP-Funktion_.22LookupSprachenfolge.22"></a>
 
-## RAP-Funktion "LookupSprachenfolge"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 Function LookupSprachenfolge(aStatistikKrz: String):Boolean;
@@ -26,9 +21,7 @@ aStatistikKrz - Statistikkürzel des gesuchten Faches
 
 ## Rückgabewert
 
-```text
 Wahr, wenn das Fach existiert, sonst Falsch
-```
 
 ## Beispiel
 
@@ -44,5 +37,7 @@ end;
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-50) · [LookupSprachenfolge – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LookupSprachenfolge&oldid=71)

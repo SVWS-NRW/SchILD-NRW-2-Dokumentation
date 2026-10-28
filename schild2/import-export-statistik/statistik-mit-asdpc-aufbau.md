@@ -1,8 +1,5 @@
 ---
 title: "Statistik mit ASDPC-Aufbau"
-wiki_title: "Statistik mit ASDPC-Aufbau"
-wiki_page_id: 1337
-wiki_revision: 5254
 ---
 
 # Statistik mit ASDPC-Aufbau
@@ -11,21 +8,21 @@ wiki_revision: 5254
 
 Startet man ASDPC, öffnet sich ein Fenster mit Informationen zum Stand von ASDPC, dem Stand der Schlüsseltabellen, Hinweisen zur Statistik des aktuellen Schuljahres und einem Link auf die ToDo-Liste zur Haupterhebung des aktuellen Jahres.
 
-![ASDPC-Startinformationen](/bilder/wiki/asdpc-startinformationen-cc3f7a4b.jpg)
+![ASDPC-Startinformationen](/bilder/schild2/import-export-statistik/asdpc-startinformationen.jpg)
 
 Zum Vergrößern klicken.
 
 Um die aktuelle Haupterhebung zu starten, wählen Sie "Anwendung starten" ➥ "Erhebung Amtliche Schuldaten (ASDPC)".
 
-![ASDPCErhebungStarten](/bilder/wiki/asdpcerhebungstarten-c7312d17.jpg)
+![ASDPCErhebungStarten](/bilder/schild2/import-export-statistik/asdpcerhebungstarten.jpg)
 
 Hier muss bei der Erstinstallation die Schule eingerichtet werden. Stellen Sie alle bearbeitbaren Felder korrekt ein, grundlegende Daten der Schule werden in einem der nächsten Schritte über die **Vorgabedaten** importiert werden.
 
-![ASDPCSchuldaten](/bilder/wiki/asdpcschuldaten-d92237d7.jpg)
+![ASDPCSchuldaten](/bilder/schild2/import-export-statistik/asdpcschuldaten.jpg)
 
 Haben Sie einmal den Modus "Erhebung Amtliche Schuldaten (ASDPC)" aufgerufen, bietet Ihnen ASDPC nun folgende Menüs an:
 
-![ASDPC_HE_Menu](/bilder/wiki/asdpc-he-menu-dda6b55e.png)
+![ASDPC_HE_Menu](/bilder/schild2/import-export-statistik/asdpc-he-menu.png)
 
 - *Datei* - Hier kann der Modus "Erhebung Amtliche Schuldaten (ASDPC)" über "Schließen" verlassen werden.
 - *Erhebung* - Hier kann die aktuelle [Haupterhebung](/schild2/import-export-statistik/statistik-mit-asdpc#Die_Haupterhebung) gestartet werden.
@@ -35,7 +32,7 @@ Haben Sie einmal den Modus "Erhebung Amtliche Schuldaten (ASDPC)" aufgerufen, bi
 
 ## Abschnitte "Extras"
 
-![ASDPC_Extras](/bilder/wiki/asdpc-extras-bc4281c9.png)
+![ASDPC_Extras](/bilder/schild2/import-export-statistik/asdpc-extras.png)
 
 - *ASDPC Datenbank reorganisieren*
 - *dienstliche Dokumente bzw. Dateien entschlüsseln* - wird Ihnen per Email mitgeteilt, dass entsprechende Dateien vorliegen, können diese nach dem Download hier entschlüsselt werden (z.B. für Mithilfe bei Fahndungen der Polizei).
@@ -46,7 +43,7 @@ Haben Sie einmal den Modus "Erhebung Amtliche Schuldaten (ASDPC)" aufgerufen, bi
 
 ## Abschnitt "Optionen"
 
-![ASDPC_Optionen](/bilder/wiki/asdpc-optionen-b494ae3a.png)
+![ASDPC_Optionen](/bilder/schild2/import-export-statistik/asdpc-optionen.png)
 
 - *Optionen*
   - *Verzeichnisse* - Wählen Sie die Speicherorte für die Hauptdatenbank (ASDPC.mdb) sowie die benötigten weiteren Daten. Nutzen Sie ASDPC in einer Netzwerkumgebung ist es wichtig, diese Pfade korrekt zu nutzen.
@@ -54,7 +51,7 @@ Haben Sie einmal den Modus "Erhebung Amtliche Schuldaten (ASDPC)" aufgerufen, bi
   - *Unterrichtseinheiten in Minuten* - wird diese Option aktiviert, werden alle Angaben in der Unterrichtsverteilung (UVD) und den Lehrerdaten (LID) in Minuteneinheiten umgerechnet, d.h. sie werden mit 45 multipliziert, um der Standard-Einheitendauer zu entsprechend. **Vorsicht**: die Umrechnung gilt für *künftige* Importe der UVD.TXT, LEHRER.TXT und EXTERN.DAT. Das Einlesen von Abteilungsdaten oder Sicherungen kann zu Umrechnungsproblemen führen. Sollte weiterhin später wieder auf das Stundenmodell zurückgeschaltet werden, kann es zu Rundungsverlusten kommen.
   - *Farbeinstellung (Rotschwäche)* - ASDPC kann hier einen barrierefreien Modus für Rotschwäche geschaltet werden.
 
-![ASDPC_Verzeichnisse](/bilder/wiki/asdpc-verzeichnisse-5321b389.png)
+![ASDPC_Verzeichnisse](/bilder/schild2/import-export-statistik/asdpc-verzeichnisse.png)
 
 :::info
 Sichern Sie die Ergebnisse Ihrer Arbeit. Eine Sicherung kann auch von der Haupterhebung aus manuell angestoßen werden. Im Fenster der *Haupterhebung* steht dies unter "Datei" ➥ "Sicherung" ➥ "Datenbank sichern" zur Verfügung. Über jenes Menü kann eine Sicherung auch wieder eingelesen werden.
@@ -69,7 +66,7 @@ Eine Sicherung einzuspielen überschreibt den aktuellen Arbeitsstand mit dem der
 
 ## Abschnitt "Hilfe"
 
-![ASDPC_Hilfe](/bilder/wiki/asdpc-hilfe-939f203f.png)
+![ASDPC_Hilfe](/bilder/schild2/import-export-statistik/asdpc-hilfe.png)
 
 - *Hilfe*
   - *Inhalt...* - Öffnet das ausführliche Hilfeverzeichnis von ASDPC, in dem Sie über einen Index Informationen zu nahezu allen Aspekten finden können (Belege, Hinweise, und vieles mehr).
@@ -80,7 +77,7 @@ Eine Sicherung einzuspielen überschreibt den aktuellen Arbeitsstand mit dem der
   - *Beratungspaket für IT.NRW* - sollte es technische Probleme geben, bei denen IT.NRW Sie um ihre aktuelle Umgebung bittet, werden automatisch Konfigurationsinformationen von ASDPC zusammengestellt, die IT.NRW bei einem Supportkontakt zur Verfügung gestellt werden.
   - *Info* - zeigt Daten zur Dateiversion von ASDPC und der verwendeten Daten. Diese sehen Sie auch direkt im Startbildschirm.
 
-![ASDPC_Inhaltsverzeichnis](/bilder/wiki/asdpc-inhaltsverzeichnis-7a33b862.png)
+![ASDPC_Inhaltsverzeichnis](/bilder/schild2/import-export-statistik/asdpc-inhaltsverzeichnis.png)
 
 Zum Vergrößern klicken.
 

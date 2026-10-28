@@ -1,8 +1,5 @@
 ---
 title: "Mailversand aus der Reporting"
-wiki_title: "Mailversand aus der Reporting"
-wiki_page_id: 1185
-wiki_revision: 4731
 ---
 
 # Mailversand aus der Reporting
@@ -15,7 +12,7 @@ Wenn Sie eine Reportvorlage (RTM-Datei) mit jemanden austauschen wollen, dann k�
 
 Klicken Sie mit der rechten Maustaste auf den Report, den Sie versenden wollen und wählen Sie die unten abgebildete Option.
 
-![RTM-Mailversand](/bilder/wiki/rtm-mailversand-ad3f1220.png)
+![RTM-Mailversand](/bilder/reporting/verwaltung/rtm-mailversand.png)
 
 Je nach Einstellung öffnet sich nun das Standard-Mailprogramm oder die Schild-NRW-interne Mailfunktion.
 
@@ -28,11 +25,11 @@ Diese Funktion dient dazu einen gedruckten PDF-Report in gleicher Form an einen 
 
 Drucken Sie den Report mit einem Doppelklick und wählen Sie folgende Option.
 
-![PDF-Mailversand01](/bilder/wiki/pdf-mailversand01-77407a28.png)
+![PDF-Mailversand01](/bilder/reporting/verwaltung/pdf-mailversand01.png)
 
 Es erscheint nun die Schild-Mail-Funktion oder das Standard-E-Mail-Programm mit dem ein fester gedruckter Report an die Empfänger gesendet werden kann.
 
-![PDF-Mailversand02](/bilder/wiki/pdf-mailversand02-08b6044a.png)
+![PDF-Mailversand02](/bilder/reporting/verwaltung/pdf-mailversand02.png)
 
 <a id="Versand_eines_Serienbriefs_als_PDF-Anhang"></a>
 
@@ -42,7 +39,7 @@ Diese Funktion bietet die Möglichkeit Serienbriefe an verschiedene Empfänger z
 
 So ist es z.B. möglich personalisierte Briefe an Erzieher zu senden. Auch kann man damit Klassenliste an die Klassenlehrer versenden.
 
-![PDF-Mailversand03](/bilder/wiki/pdf-mailversand03-42166a87.png)
+![PDF-Mailversand03](/bilder/reporting/verwaltung/pdf-mailversand03.png)
 
 Folgende Datenquellen werden unterstützt:
 
@@ -58,9 +55,9 @@ Grundsätzlich gilt folgendes:
 - Im Report muss in den Email-Settings 'enabled' aktiviert sein.
 - In der Gruppierung muss 'neue Seite' und 'email new file' aktiviert sein.
 
-![500](/bilder/wiki/emailnewfile-5575fb4a.png)
+![500](/bilder/reporting/verwaltung/emailnewfile.png)
 
-![Emailsettings](/bilder/wiki/emailsettings-820f18f6.png)
+![Emailsettings](/bilder/reporting/verwaltung/emailsettings.png)
 
 ------------------------------------------------------------------------
 

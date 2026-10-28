@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 4343 · Stand 2020-04-16.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1160.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/kurs42tocnf-logo-0eadca3b.png)
+[Gesicherte Originaldatei öffnen](/bilder/hilfe/wiki-archiv/kurs42tocnf-logo.png)
 
-![Kurs42ToCNF_Logo.png](/bilder/wiki/kurs42tocnf-logo-0eadca3b.png)
+![Kurs42ToCNF_Logo.png](/bilder/hilfe/wiki-archiv/kurs42tocnf-logo.png)
 
 ## Originalquelltext
 

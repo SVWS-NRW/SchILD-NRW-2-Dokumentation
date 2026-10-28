@@ -1,8 +1,5 @@
 ---
 title: "BK-Abschluss:Anlage-E"
-wiki_title: "BK-Abschluss:Anlage-E"
-wiki_page_id: 1197
-wiki_revision: 4747
 ---
 
 # BK-Abschluss:Anlage-E

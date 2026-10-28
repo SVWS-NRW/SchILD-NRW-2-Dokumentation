@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 1128 · Stand 2014-01-29.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-264.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/lupoexport1-21f9425c.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/import-export-statistik/lupoexport1.jpg)
 
-![LupoExport1.jpg](/bilder/wiki/lupoexport1-21f9425c.jpg)
+![LupoExport1.jpg](/bilder/schild2/import-export-statistik/lupoexport1.jpg)
 
 ## Originalquelltext
 

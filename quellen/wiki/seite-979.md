@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 3746 · Stand 2015-12-03.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-979.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/chatmodul04-54eeaa5b.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/administration/benutzer-einstellungen/chatmodul04.jpg)
 
-![Chatmodul04.jpg](/bilder/wiki/chatmodul04-54eeaa5b.jpg)
+![Chatmodul04.jpg](/bilder/administration/benutzer-einstellungen/chatmodul04.jpg)
 
 ## Originalquelltext
 

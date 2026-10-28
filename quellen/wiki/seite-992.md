@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 3785 · Stand 2016-02-16.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-992.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/lupo-schild-sprachenfolge-a940e041.png)
+[Gesicherte Originaldatei öffnen](/bilder/tools/lupo/lupo-schild-sprachenfolge.png)
 
-![Lupo_schild_sprachenfolge.png](/bilder/wiki/lupo-schild-sprachenfolge-a940e041.png)
+![Lupo_schild_sprachenfolge.png](/bilder/tools/lupo/lupo-schild-sprachenfolge.png)
 
 ## Originalquelltext
 

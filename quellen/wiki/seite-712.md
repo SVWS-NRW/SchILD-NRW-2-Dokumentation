@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2742 · Stand 2015-01-28.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-712.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/foerdermassnahmen01-16f1a2a7.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/schueler/foerdermassnahmen01.jpg)
 
-![Foerdermassnahmen01.jpg](/bilder/wiki/foerdermassnahmen01-16f1a2a7.jpg)
+![Foerdermassnahmen01.jpg](/bilder/schild2/schueler/foerdermassnahmen01.jpg)
 
 ## Originalquelltext
 

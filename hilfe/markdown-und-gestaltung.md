@@ -99,20 +99,20 @@ Das folgende Beispiel verwendet eine bereits vorhandene Abbildung. In der Artike
 **Markdown:**
 
 ```markdown
-![Hauptfenster von SchILD-NRW 2](/bilder/wiki/schild-nrw-hauptfenster-e39ee227.jpg)
+![Hauptfenster von SchILD-NRW 2](/bilder/einstieg/grundlagen/schild-nrw-hauptfenster.jpg)
 
 *Die Datei Zeugniseinstellungen.ini liegt im zugehörigen Zeugnisordner.*
 
-[Bild in Originalgröße öffnen](/bilder/wiki/schild-nrw-hauptfenster-e39ee227.jpg)
+[Bild in Originalgröße öffnen](/bilder/einstieg/grundlagen/schild-nrw-hauptfenster.jpg)
 ```
 
 **Darstellung:**
 
-![Hauptfenster von SchILD-NRW 2](/bilder/wiki/schild-nrw-hauptfenster-e39ee227.jpg)
+![Hauptfenster von SchILD-NRW 2](/bilder/einstieg/grundlagen/schild-nrw-hauptfenster.jpg)
 
 *Die Datei Zeugniseinstellungen.ini liegt im zugehörigen Zeugnisordner.*
 
-[Bild in Originalgröße öffnen](/bilder/wiki/schild-nrw-hauptfenster-e39ee227.jpg)
+[Bild in Originalgröße öffnen](/bilder/einstieg/grundlagen/schild-nrw-hauptfenster.jpg)
 
 Der Text in den eckigen Klammern ist der Alternativtext. Er beschreibt den Bildinhalt auch dann, wenn die Abbildung nicht angezeigt wird. Die Bildunterschrift darunter erklärt den Zusammenhang. Bilder werden an die verfügbare Breite angepasst; ein Textumfluss oder eine eigene Größenangabe ist normalerweise nicht nötig.
 

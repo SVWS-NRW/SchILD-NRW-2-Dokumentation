@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 1871 · Stand 2014-03-27.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-459.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/gp-faecherzuweisent2-ecb75357.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/gruppenprozesse/gp-faecherzuweisent2.jpg)
 
-![GP-FaecherzuweisenT2.jpg](/bilder/wiki/gp-faecherzuweisent2-ecb75357.jpg)
+![GP-FaecherzuweisenT2.jpg](/bilder/schild2/gruppenprozesse/gp-faecherzuweisent2.jpg)
 
 ## Originalquelltext
 

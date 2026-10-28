@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 1917 · Stand 2014-03-31.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-471.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/gp-faechersloeschen-3d086d8e.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/gruppenprozesse/gp-faechersloeschen.jpg)
 
-![GP-FaecherSloeschen.jpg](/bilder/wiki/gp-faechersloeschen-3d086d8e.jpg)
+![GP-FaecherSloeschen.jpg](/bilder/schild2/gruppenprozesse/gp-faechersloeschen.jpg)
 
 ## Originalquelltext
 

@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 1378 · Stand 2014-02-17.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-315.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/fachglobal-ddedc671.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/unterricht-kataloge/fachglobal.jpg)
 
-![Fachglobal.jpg](/bilder/wiki/fachglobal-ddedc671.jpg)
+![Fachglobal.jpg](/bilder/schild2/unterricht-kataloge/fachglobal.jpg)
 
 ## Originalquelltext
 

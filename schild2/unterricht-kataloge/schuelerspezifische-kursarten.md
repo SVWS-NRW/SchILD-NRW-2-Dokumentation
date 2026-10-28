@@ -1,13 +1,10 @@
 ---
 title: "Schülerspezifische Kursarten"
-wiki_title: "Schülerspezifische Kursarten"
-wiki_page_id: 369
-wiki_revision: 1609
 ---
 
 # Schülerspezifische Kursarten
 
-![Schülerkursarten](/bilder/wiki/schuelerkursarten-b3a5b280.jpg)
+![Schülerkursarten](/bilder/schild2/unterricht-kataloge/schulerkursarten.jpg)
 
 Die schülerspezifischen Kursarten sind die Eintragungen, die bei den Leistungsdaten zu den Fächern als Kursarten gewählt werden können.
 

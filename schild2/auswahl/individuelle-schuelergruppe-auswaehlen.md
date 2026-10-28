@@ -1,8 +1,5 @@
 ---
 title: "Individuelle Schülergruppe auswählen"
-wiki_title: "Individuelle Schülergruppe auswählen"
-wiki_page_id: 148
-wiki_revision: 967
 ---
 
 # Individuelle Schülergruppe auswählen

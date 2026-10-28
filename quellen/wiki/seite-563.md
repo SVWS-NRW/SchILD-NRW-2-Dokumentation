@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2219 · Stand 2014-05-21.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-563.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/km2-schild-klassengruppen-abteilungen-297a9b38.png)
+[Gesicherte Originaldatei öffnen](/bilder/administration/benutzer-einstellungen/km2-schild-klassengruppen-abteilungen.png)
 
-![Km2_schild_klassengruppen_abteilungen.png](/bilder/wiki/km2-schild-klassengruppen-abteilungen-297a9b38.png)
+![Km2_schild_klassengruppen_abteilungen.png](/bilder/administration/benutzer-einstellungen/km2-schild-klassengruppen-abteilungen.png)
 
 ## Originalquelltext
 

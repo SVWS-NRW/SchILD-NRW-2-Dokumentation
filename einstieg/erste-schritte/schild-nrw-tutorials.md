@@ -1,8 +1,5 @@
 ---
 title: "Schild-NRW-Tutorials"
-wiki_title: "Schild-NRW-Tutorials"
-wiki_page_id: 283
-wiki_revision: 6040
 ---
 
 # Schild-NRW-Tutorials

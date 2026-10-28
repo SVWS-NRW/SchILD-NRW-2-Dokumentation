@@ -1,8 +1,5 @@
 ---
 title: "Youtube"
-wiki_title: "Youtube"
-wiki_page_id: 1183
-wiki_revision: 4699
 ---
 
 # Youtube

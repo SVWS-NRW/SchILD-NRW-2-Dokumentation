@@ -1,8 +1,5 @@
 ---
 title: "NotenDurchschnitt"
-wiki_title: "NotenDurchschnitt"
-wiki_page_id: 54
-wiki_revision: 4087
 ---
 
 # NotenDurchschnitt
@@ -10,14 +7,15 @@ wiki_revision: 4087
 <a id="RAP-Funktion_&quot;NotenDurchschnitt&quot;"></a>
 <a id="RAP-Funktion_.22NotenDurchschnitt.22"></a>
 
-## RAP-Funktion "NotenDurchschnitt"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 procedure NotenDurchschnitt(const aSchuelerId, aJahr, aAbschnitt: Integer;
-                     var Beste, Schlechteste: Integer; var Schnitt: String);
 ```
+
+## Beschreibung
+
+var Beste, Schlechteste: Integer; var Schnitt: String);
 
 ## Parameter
 
@@ -29,11 +27,9 @@ aAbschnitt         - Abschnitt des Schuljahres, für das der Schnitt berechnet w
 
 ## Rückgabewert
 
-```text
 Beste              - Beste Note des Abschnitte
 Schlechteste       - Schlechteste Note des Abschnittes
 Schnitt            - Formatierte Schnitt (zwei Nachkommastellen)
-```
 
 ## Beispiel
 
@@ -52,5 +48,7 @@ end;
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-54) · [NotenDurchschnitt – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=NotenDurchschnitt&oldid=4087)

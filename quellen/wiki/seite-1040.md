@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 3969 · Stand 2016-11-25.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1040.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/s1p-005-verbindung-testen-95c68d69.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/tools/s1plan/s1p-005-verbindung-testen.jpg)
 
-![S1P-005-Verbindung_testen.jpg](/bilder/wiki/s1p-005-verbindung-testen-95c68d69.jpg)
+![S1P-005-Verbindung_testen.jpg](/bilder/tools/s1plan/s1p-005-verbindung-testen.jpg)
 
 ## Originalquelltext
 

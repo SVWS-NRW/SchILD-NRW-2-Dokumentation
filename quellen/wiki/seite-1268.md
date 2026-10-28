@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 5015 · Stand 2021-10-21.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1268.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/asdpc-sicherung-40c9b163.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/import-export-statistik/asdpc-sicherung.png)
 
-![ASDPC_Sicherung.png](/bilder/wiki/asdpc-sicherung-40c9b163.png)
+![ASDPC_Sicherung.png](/bilder/schild2/import-export-statistik/asdpc-sicherung.png)
 
 ## Originalquelltext
 

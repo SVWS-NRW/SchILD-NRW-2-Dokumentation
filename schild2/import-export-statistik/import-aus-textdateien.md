@@ -1,13 +1,10 @@
 ---
 title: "Import aus Textdateien"
-wiki_title: "Import aus Textdateien"
-wiki_page_id: 260
-wiki_revision: 1126
 ---
 
 # Import aus Textdateien
 
-![ExternImport1](/bilder/wiki/externimport1-cd80cdfd.jpg)
+![ExternImport1](/bilder/schild2/import-export-statistik/externimport1.jpg)
 
 Der Menüpunkt *Import aus Textdateien* steht Ihnen nur zur Verfügung, wenn das Programm ExternImport.exe aus der Tools-Sammlung installiert wurde. (Das Programm muss sich im Installationsverzeichnis von Schild-NRW befinden.)
 
@@ -19,7 +16,7 @@ Der Externe-Text-Import ermöglicht es Ihnen, einzelne Datenfelder zu importiere
 
 Nach dem Start des Programms steht Ihnen diese Oberfläche zur Verfügung:
 
-![ExternImport2](/bilder/wiki/externimport2-c36ca6d2.jpg)
+![ExternImport2](/bilder/schild2/import-export-statistik/externimport2.jpg)
 
 An dieser Stelle können Sie jederzeit den "Hilfe"-Button benutzen, hier erhalten Sie auch noch einmal Informationen zum Textimport.
 
@@ -31,7 +28,7 @@ Jede Import-Datei muss mit einem Import-Schema verknüpft werden. Ein Import-Sch
 
 Um ein Import-Schema anzulegen, benötigen Sie zuallererst eine Import-Datei.
 
-![ExternImport4](/bilder/wiki/externimport4-c425934a.jpg)
+![ExternImport4](/bilder/schild2/import-export-statistik/externimport4.jpg)
 
 Ordnen Sie hier die gewünschten Felder zu, indem Sie in die Spalte klicken und dann aus der Liste der "Felder zu aktueller Tabellenspalte" das Datenfeld in Schild-NRW wählen.
 

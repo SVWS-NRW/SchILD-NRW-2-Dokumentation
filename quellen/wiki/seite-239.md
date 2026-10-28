@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 998 · Stand 2014-01-27.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-239.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/gs-verstabelle-jgb-d3b95d10.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/archiv/gs-verstabelle-jgb.jpg)
 
-![GS_VersTabelle_jgb.jpg](/bilder/wiki/gs-verstabelle-jgb-d3b95d10.jpg)
+![GS_VersTabelle_jgb.jpg](/bilder/archiv/gs-verstabelle-jgb.jpg)
 
 ## Originalquelltext
 

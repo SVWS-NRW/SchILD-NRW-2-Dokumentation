@@ -1,8 +1,5 @@
 ---
 title: "Zuweisungen durchführen"
-wiki_title: "Zuweisungen durchführen"
-wiki_page_id: 507
-wiki_revision: 2078
 ---
 
 # Zuweisungen durchführen

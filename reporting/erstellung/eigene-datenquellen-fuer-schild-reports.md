@@ -1,8 +1,5 @@
 ---
 title: "Eigene Datenquellen für Schild-Reports"
-wiki_title: "Eigene Datenquellen für Schild-Reports"
-wiki_page_id: 929
-wiki_revision: 3527
 ---
 
 # Eigene Datenquellen für Schild-Reports
@@ -21,7 +18,7 @@ Außerdem besteht mit dieser Lösung eine Möglichkeit, auch für Schild-Zentral
 
 Erstellen Sie zunächst ein Verzeichnis **Schild-Pipelines** in Ihrem Schild-NRW-Installationsordner.
 
-![SPD-01](/bilder/wiki/spd-01-a6dc31f2.png)
+![SPD-01](/bilder/reporting/erstellung/spd-01.png)
 
 In diesen Ordner werden die Datenquellen-Dateien gespeichert.
 
@@ -32,7 +29,7 @@ Es handelt sich dabei um einfache Textdateien mit der Dateiendung **\*.SPD**.
 
 ## Aufbau der Datenquellen-Dateien (\*.SPD)
 
-![SPD-02](/bilder/wiki/spd-02-f562b9b8.png)
+![SPD-02](/bilder/reporting/erstellung/spd-02.png)
 
 **\[Queries\]**
 
@@ -50,7 +47,7 @@ Mit dem Platzhalter \$Schulnr\$ kann die Schulnummer der DB abgefragt werden. (W
 
 Mit dem Befehl *Mastersource=Schueler.Datasource* kann eine übergeordnete Datenquelle angegeben werden. Dies ist über den Abfrageassistenten im Report-Designer nicht so einfach möglich.Der Datenquellenname (hier Schueler) muss in der Reporting bereits existieren. Also entweder als feste Datenquelle oder in einer SPD-Datei, die vorher schon abgearbeitet wurde. Dies kann über die alphabetische Sortierung der SPD-Dateinamen geregelt werden.
 
-![SPD-03](/bilder/wiki/spd-03-ddeb2f3a.png)
+![SPD-03](/bilder/reporting/erstellung/spd-03.png)
 
 Die Übergabe des Mastersource-Parameters erfolgt über den Befehl A.Schueler_ID=:ID, wobei über den Doppelpunkt :NamedesFeldesinderMasterSource die Koppelung geregelt wird.
 
@@ -64,7 +61,7 @@ Hier wird die Datenquelle mit dem Befehl Name=\_\_dsNamederAbfrage erzeugt.
 
 *Username=xxNamederDatenQuelle* stellt den eigentlichen Namen bereit, den der User später im Reportdesigner zu sehen bekommt.
 
-![SPD-04](/bilder/wiki/spd-04-7b741041.png)
+![SPD-04](/bilder/reporting/erstellung/spd-04.png)
 
 Die Zeilen geführt von einem Semikolon werden als Kommentarzeilen interpretiert.
 

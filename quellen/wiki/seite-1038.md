@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 3967 · Stand 2016-11-25.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1038.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/s1p-003-schild-zugriff-ff80866e.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/tools/s1plan/s1p-003-schild-zugriff.jpg)
 
-![S1P-003-Schild-Zugriff.jpg](/bilder/wiki/s1p-003-schild-zugriff-ff80866e.jpg)
+![S1P-003-Schild-Zugriff.jpg](/bilder/tools/s1plan/s1p-003-schild-zugriff.jpg)
 
 ## Originalquelltext
 

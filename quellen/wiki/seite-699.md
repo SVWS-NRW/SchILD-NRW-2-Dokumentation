@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2683 · Stand 2014-12-01.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-699.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/report-header-dynsubreport-aab71a51.png)
+[Gesicherte Originaldatei öffnen](/bilder/reporting/erstellung/report-header-dynsubreport.png)
 
-![Report-Header-dynSubreport.png](/bilder/wiki/report-header-dynsubreport-aab71a51.png)
+![Report-Header-dynSubreport.png](/bilder/reporting/erstellung/report-header-dynsubreport.png)
 
 ## Originalquelltext
 

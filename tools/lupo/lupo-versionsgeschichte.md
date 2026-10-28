@@ -1,8 +1,5 @@
 ---
 title: "Lupo:Versionsgeschichte"
-wiki_title: "Lupo:Versionsgeschichte"
-wiki_page_id: 1373
-wiki_revision: 6009
 ---
 
 # Lupo:Versionsgeschichte

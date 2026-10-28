@@ -1,8 +1,5 @@
 ---
 title: "Statistik mit ASDPC Vorbereitung"
-wiki_title: "Statistik mit ASDPC Vorbereitung"
-wiki_page_id: 1342
-wiki_revision: 5308
 ---
 
 # Statistik mit ASDPC Vorbereitung
@@ -24,7 +21,7 @@ Schauen Sie hierzu bitte bei Bedarf in das Kapitel [Updaten von ASDPC](/schild2/
 
 Sofern Sie SchILD NRW nutzen, führen Sie auch hier bitte das Update aus, da beide Programme zusammen für die Statistik genutzt werden können. Eventuell kann es sinnvoll sein, auch andere Schulverwaltungsprogramme zu updaten.
 
-![SchILD_Update](/bilder/wiki/schild-update-ba525f0f.png)
+![SchILD_Update](/bilder/schild2/import-export-statistik/schild-update.png)
 
 Sofern es eine aktuellere Version von SchILD gibt, wird diese nun heruntergeladen und installiert.
 
@@ -36,13 +33,13 @@ Sofern es eine aktuellere Version von SchILD gibt, wird diese nun heruntergelade
 Bereinigen Sie so viele Fehler wie möglich in ihren Verwaltungsprogrammen *vor* dem Datenexport, damit diese Fehler in einem Arbeitsgang auch zukünftig bereinigt sind. Es empfiehlt sich, diese Bereinigung routinemäßig und vor der Statistik durchzuführen. Ein möglicher Zeitpunkt wäre, einige Wochen nach Schuljahresbeginn wenn Neuaufnahmen, Klassen- und Kurswechsel usw. abgeschlossen sind, auf Statistikfehler zu prüfen.
 :::
 
-![SchILD_Gesamtprüfung](/bilder/wiki/schild-gesamtpruefung-4c0cde75.png)
+![SchILD_Gesamtprüfung](/bilder/schild2/import-export-statistik/schild-gesamtprufung.png)
 
 SchILD findet nicht alle Fehler die ASDPC erzeugen könnte, jedoch lassen sich viele Fehleinträge in den Statisikfeldern - per Standard in SchILD sind diese grün eingefärbt - schon im Vorfeld finden. Wurde eine Gesamtprüfung durchgeführt, lassen sich die Fehler über "Schulverwaltung" ➥ "Statistik/amtliche Schuldaten" ➥ "Fehlerprotokol" anzeigen.
 
 Führen Sie nach Abschluss dieser Arbeiten den Export in die in ASDPC einzulesenden Dateien durch.
 
-![SchILD_Export](/bilder/wiki/schild-export-999a5812.png)
+![SchILD_Export](/bilder/schild2/import-export-statistik/schild-export.png)
 
 Je nach Schulform und wie Sie arbeiten, könnte es sinnvoll sein, unterschiedliche Dateien zu erzeugen:
 

@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 4224 · Stand 2019-08-22.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1139.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/gliederungg9-63a8dacc.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/versetzung/gliederungg9.png)
 
-![GliederungG9.png](/bilder/wiki/gliederungg9-63a8dacc.png)
+![GliederungG9.png](/bilder/schild2/versetzung/gliederungg9.png)
 
 ## Originalquelltext
 

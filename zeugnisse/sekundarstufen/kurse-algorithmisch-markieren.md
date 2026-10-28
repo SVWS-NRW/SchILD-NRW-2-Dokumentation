@@ -1,8 +1,5 @@
 ---
 title: "Kurse algorithmisch markieren"
-wiki_title: "Kurse algorithmisch markieren"
-wiki_page_id: 489
-wiki_revision: 2028
 ---
 
 # Kurse algorithmisch markieren

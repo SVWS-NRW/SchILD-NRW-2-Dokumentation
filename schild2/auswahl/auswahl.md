@@ -1,15 +1,12 @@
 ---
 title: "Auswahl"
-wiki_title: "Auswahl"
-wiki_page_id: 147
-wiki_revision: 3707
 ---
 
 # Auswahl
 
 Der Menüpunkt "Auswahl" hat besondere Bedeutung, da es im Schulalltag häufig nötig ist, die Schülermenge einzugrenzen. Dies ist vor allem bei der Durchführung von [Gruppenprozessen](/schild2/gruppenprozesse/gruppenprozesse) nötig, oder um Listen zu erstellen, die z.B. nur die evangelischen Schüler eines Jahrgangs oder die Aussiedler an der Schule enthalten sollen. Schild-NRW bietet dazu verschiedene Möglichkeiten an, um diese Eingrenzungen vorzunehmen.
 
-![Auswahl_01](/bilder/wiki/auswahl-01-60c1b1b0.jpg)
+![Auswahl_01](/bilder/einstieg/grundlagen/auswahl-01.jpg)
 
 Der Menüpunkt "Auswahl" bietet folgende Unterpunkte für die Filterung an:
 

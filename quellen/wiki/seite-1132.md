@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 4198 · Stand 2017-12-16.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1132.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/ik-akthalbjahr-bbadcc5c.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/schueler/ik-akthalbjahr.jpg)
 
-![IK-AktHalbjahr.jpg](/bilder/wiki/ik-akthalbjahr-bbadcc5c.jpg)
+![IK-AktHalbjahr.jpg](/bilder/schild2/schueler/ik-akthalbjahr.jpg)
 
 ## Originalquelltext
 

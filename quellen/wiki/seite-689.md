@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2657 · Stand 2014-11-23.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-689.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/report-neu-systemvariable-aa998c7d.png)
+[Gesicherte Originaldatei öffnen](/bilder/reporting/erstellung/report-neu-systemvariable.png)
 
-![Report-Neu-Systemvariable.png](/bilder/wiki/report-neu-systemvariable-aa998c7d.png)
+![Report-Neu-Systemvariable.png](/bilder/reporting/erstellung/report-neu-systemvariable.png)
 
 ## Originalquelltext
 

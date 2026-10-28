@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 1026 · Stand 2014-01-27.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-245.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/gs-kld-jgue-42d6d77d.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/archiv/gs-kld-jgu.jpg)
 
-![GS_KLD_jgü.jpg](/bilder/wiki/gs-kld-jgue-42d6d77d.jpg)
+![GS_KLD_jgü.jpg](/bilder/archiv/gs-kld-jgu.jpg)
 
 ## Originalquelltext
 

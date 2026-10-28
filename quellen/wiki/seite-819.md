@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 3168 · Stand 2015-05-30.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-819.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/versetzung-gs-09-018b08ee.png)
+[Gesicherte Originaldatei öffnen](/bilder/archiv/versetzung-gs-09.png)
 
-![Versetzung-GS-09.png](/bilder/wiki/versetzung-gs-09-018b08ee.png)
+![Versetzung-GS-09.png](/bilder/archiv/versetzung-gs-09.png)
 
 ## Originalquelltext
 

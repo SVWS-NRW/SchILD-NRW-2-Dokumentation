@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 1370 · Stand 2014-02-17.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-313.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/faecheroberstufe-9449004f.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/unterricht-kataloge/facheroberstufe.jpg)
 
-![FächerOberstufe.jpg](/bilder/wiki/faecheroberstufe-9449004f.jpg)
+![FächerOberstufe.jpg](/bilder/schild2/unterricht-kataloge/facheroberstufe.jpg)
 
 ## Originalquelltext
 

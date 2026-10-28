@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 4754 · Stand 2021-04-22.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1204.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/bk-abschluss-a13-43a443eb.png)
+[Gesicherte Originaldatei öffnen](/bilder/zeugnisse/berufskolleg/bk-abschluss-a13.png)
 
-![BK_Abschluss_A13.png](/bilder/wiki/bk-abschluss-a13-43a443eb.png)
+![BK_Abschluss_A13.png](/bilder/zeugnisse/berufskolleg/bk-abschluss-a13.png)
 
 ## Originalquelltext
 

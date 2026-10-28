@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 5199 · Stand 2022-01-03.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1331.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/asdpc-download-programm-5c64b043.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/import-export-statistik/asdpc-download-programm.png)
 
-![ASDPC_Download_Programm.png](/bilder/wiki/asdpc-download-programm-5c64b043.png)
+![ASDPC_Download_Programm.png](/bilder/schild2/import-export-statistik/asdpc-download-programm.png)
 
 ## Originalquelltext
 

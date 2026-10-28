@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 3760 · Stand 2016-02-12.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-244.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/jg-tabell-gs-jgue2-97be0220.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/archiv/jg-tabell-gs-jgu2.jpg)
 
-![JG_Tabell_GS_jgü2.jpg](/bilder/wiki/jg-tabell-gs-jgue2-97be0220.jpg)
+![JG_Tabell_GS_jgü2.jpg](/bilder/archiv/jg-tabell-gs-jgu2.jpg)
 
 ## Originalquelltext
 

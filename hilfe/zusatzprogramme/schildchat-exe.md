@@ -1,8 +1,5 @@
 ---
 title: "SchildChat.exe"
-wiki_title: "SchildChat.exe"
-wiki_page_id: 974
-wiki_revision: 3752
 ---
 
 # SchildChat.exe
@@ -13,11 +10,11 @@ Beim ersten Aufruf des Chatmoduls wird im Installationsverzeichnis von Schild-NR
 
 Das Programm kann nur von Usern mit Administror-Rechten in Schild-NRW gestartet werden. Ist das Modul unter den **[Programm-Einstellungen](/administration/benutzer-einstellungen/programm-einstellungen)** aktiviert, so kann es unter **[Extras](/administration/benutzer-einstellungen/extras)** \> Chatprogramm starten aufgerufen werden.
 
-![Chat starten](/bilder/wiki/chat-starten-f11f03c1.jpg)
+![Chat starten](/bilder/tools/weitere/chat-starten.jpg)
 
 Auf dem Schild-NRW-Admin-Rechner startet das Modul dann mit folgendem Fenster:
 
-![Chatmodul01](/bilder/wiki/chatmodul01-af8829b7.jpg)
+![Chatmodul01](/bilder/tools/weitere/chatmodul01.jpg)
 
 <a id="Reiter_Client"></a>
 
@@ -33,7 +30,7 @@ Dies ist das eigentliche Chatfenster, es können Nachrichten gesendet (auch vom 
 
 ------------------------------------------------------------------------
 
-![Chatmodul02](/bilder/wiki/chatmodul02-92bd3b9e.jpg)
+![Chatmodul02](/bilder/tools/weitere/chatmodul02.jpg)
 
 Auf dem Admin-Reiter kann der Chatserver gestartet werden! Bitte beachten Sie, dass alle Clients erst nach Ablauf des eingestellten Zeitintervalls zur Verfügung stehen.
 
@@ -49,7 +46,7 @@ Bei Betätigung des Buttons wird Schild-NRW am Client **sofort** und ohne weiter
 
 ------------------------------------------------------------------------
 
-![Chatmodul03](/bilder/wiki/chatmodul03-67e33229.jpg)
+![Chatmodul03](/bilder/tools/weitere/chatmodul03.jpg)
 
 Im Statusfenster können einige Meldungen gesehen werden, z.B. über das Starten und Beenden des Servers und welche Clients sich am System angemeldet haben.
 

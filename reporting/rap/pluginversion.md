@@ -1,8 +1,5 @@
 ---
 title: "PluginVersion"
-wiki_title: "PluginVersion"
-wiki_page_id: 117
-wiki_revision: 160
 ---
 
 # PluginVersion
@@ -10,26 +7,15 @@ wiki_revision: 160
 <a id="RAP-Funktion_&quot;PluginVersion&quot;"></a>
 <a id="RAP-Funktion_.22PluginVersion.22"></a>
 
-## RAP-Funktion "PluginVersion"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 function PluginVersion: string;
+```
+
+## Beschreibung
+
 Liefert die Version der Reporting.dll
-```
-
-## Parameter
-
-```text
-...
-```
-
-## Rückgabewert
-
-```text
-...
-```
 
 ## Beispiel
 
@@ -47,5 +33,7 @@ procedure ReportBeforePrint;
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-117) · [PluginVersion – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=PluginVersion&oldid=160)

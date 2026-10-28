@@ -1,8 +1,5 @@
 ---
 title: "RtfToPlaintext"
-wiki_title: "RtfToPlaintext"
-wiki_page_id: 70
-wiki_revision: 91
 ---
 
 # RtfToPlaintext
@@ -10,9 +7,7 @@ wiki_revision: 91
 <a id="RAP-Funktion_&quot;RtfToPlaintext&quot;"></a>
 <a id="RAP-Funktion_.22RtfToPlaintext.22"></a>
 
-## RAP-Funktion "RtfToPlaintext"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 function RtfToPlaintext(aRtfText: String): String;
@@ -27,9 +22,7 @@ aRtfText  - Richtext, aus dem alle Formatanweisungen entfernt werden
 
 ## Rückgabewert
 
-```text
 Reiner Text ohne Formatierung
-```
 
 ## Beispiel
 
@@ -39,5 +32,7 @@ Memo1.Text:=RtfToPlaintext(SchuelerLernabschnitte['ZeugnisBem'])
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-70) · [RtfToPlaintext – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=RtfToPlaintext&oldid=91)

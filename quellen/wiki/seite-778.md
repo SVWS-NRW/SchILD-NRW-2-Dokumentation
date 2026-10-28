@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 3008 · Stand 2015-04-27.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-778.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/migrationshintergrund02-47e221db.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/schueler/migrationshintergrund02.jpg)
 
-![Migrationshintergrund02.jpg](/bilder/wiki/migrationshintergrund02-47e221db.jpg)
+![Migrationshintergrund02.jpg](/bilder/schild2/schueler/migrationshintergrund02.jpg)
 
 ## Originalquelltext
 

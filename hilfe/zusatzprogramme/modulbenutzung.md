@@ -1,14 +1,12 @@
 ---
 title: "Modulbenutzung"
-wiki_title: "Modulbenutzung"
-wiki_page_id: 575
-wiki_revision: 2986
 ---
 
 # Modulbenutzung
 
-![KM2_Bildschirmaufbau_01](/bilder/wiki/km2-bildschirmaufbau-01-c97fa288.png)
-Bildschirmaufbau
+![KM2_Bildschirmaufbau_01](/bilder/tools/weitere/km2-bildschirmaufbau-01.png)
+
+*Bildschirmaufbau*
 
 <a id="Bildschirmdarstellung"></a>
 
@@ -85,8 +83,9 @@ Die Bearbeitungsmöglichkeiten beschränken sich auf Leistungsdaten (die *normal
 
 - Wenn Sie in einer Fachspalte die Taste \[Einfg\] drücken, erscheint eine Notenauswahlliste. KM2 berücksichtigt die globale SchILD-Einstellung "Erweiterte Noten in Sek. I zulassen".
 
-![KM2_NotenAuswahl](/bilder/wiki/km2-notenauswahl-dea22771.png)
-Notenauswahlliste
+![KM2_NotenAuswahl](/bilder/tools/weitere/km2-notenauswahl.png)
+
+*Notenauswahlliste*
 
 - Wenn Sie in einer Fachspalte die Taste \[Entf\] drücken, wird der Noteneintrag gelöscht.
 
@@ -94,8 +93,9 @@ Notenauswahlliste
 
 ### Bemerkungsdaten
 
-![KM2_BemerkungsFelder](/bilder/wiki/km2-bemerkungsfelder-e2150696.png)
-Bemerkungsarten
+![KM2_BemerkungsFelder](/bilder/tools/weitere/km2-bemerkungsfelder.png)
+
+*Bemerkungsarten*
 
 Es werden - wie auch in SchILD-NRW - vier verschiedene Bemerkungsarten unterschieden:
 
@@ -106,8 +106,9 @@ Es werden - wie auch in SchILD-NRW - vier verschiedene Bemerkungsarten unterschi
 
 Wenn Sie eine der Bemerkungen 2 - 4 bearbeiten wollen, so rufen Sie den entsprechenden Menüpunkt (oder die zugeordnete Tastenkombination) auf und editieren den Bemerkungstext im Textfenster.
 
-![KM2_ZeugnisBemerkungen](/bilder/wiki/km2-zeugnisbemerkungen-8ff8fb52.png)
-Texteditor für Zeugnisbemerkung
+![KM2_ZeugnisBemerkungen](/bilder/tools/weitere/km2-zeugnisbemerkungen.png)
+
+*Texteditor für Zeugnisbemerkung*
 
 Liegen Bemerkungen aus den Bereichen 2 - 4 vor, so wird das neben dem Schülernamen markiert, dass
 
@@ -117,8 +118,9 @@ Liegen Bemerkungen aus den Bereichen 2 - 4 vor, so wird das neben dem Schülerna
 
 eingegeben wurde.
 
-![KM2_BemerkungsMarkierung](/bilder/wiki/km2-bemerkungsmarkierung-7b661779.png)
-Schüler mit Bemerkung
+![KM2_BemerkungsMarkierung](/bilder/tools/weitere/km2-bemerkungsmarkierung.png)
+
+*Schüler mit Bemerkung*
 
 <a id="Protokolldaten"></a>
 
@@ -133,7 +135,7 @@ Die Änderungen an den Leistungsdaten - sowohl Noten als auch Bemerkungstexte we
 
 - 
 
-  ![allgemeine Protokolldatei](/bilder/wiki/km2-protokolldaten-allgemein-9a7991b7.png)
+  ![allgemeine Protokolldatei](/bilder/tools/weitere/km2-protokolldaten-allgemein.png)
 
   
 
@@ -145,7 +147,7 @@ Die Änderungen an den Leistungsdaten - sowohl Noten als auch Bemerkungstexte we
 
 - 
 
-  ![Klassenspezifische Protokolldatei](/bilder/wiki/km2-protokolldaten-klasse-19b36db4.png)
+  ![Klassenspezifische Protokolldatei](/bilder/tools/weitere/km2-protokolldaten-klasse.png)
 
   
 

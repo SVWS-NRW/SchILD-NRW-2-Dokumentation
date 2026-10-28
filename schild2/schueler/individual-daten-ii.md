@@ -1,8 +1,5 @@
 ---
 title: "Individual-Daten II"
-wiki_title: "Individual-Daten II"
-wiki_page_id: 328
-wiki_revision: 3024
 ---
 
 # Individual-Daten II
@@ -13,13 +10,13 @@ Die Verwaltung des Migrationshintergrundes für die Statistik kann auf zwei Arte
 
 Ausführliche Verwaltung  
 
-![Migrationshintergrund02](/bilder/wiki/migrationshintergrund02-47e221db.jpg)
+![Migrationshintergrund02](/bilder/schild2/schueler/migrationshintergrund02.jpg)
 
 Hier gibt es fünf statistikrelevante Felder. Die Verkehrssprachen und Herkunftsländer müssen vor Eingabe im entsprechenden [Katalog](/schild2/unterricht-kataloge/kataloge) angelegt werden. Die Angaben werden für die Statistik in der SIM.txt umgeschlüsselt.
 
 Einfache Verwaltung  
 
-![Migrationshintergrund01](/bilder/wiki/migrationshintergrund01-6fa0b3ad.jpg)
+![Migrationshintergrund01](/bilder/schild2/schueler/migrationshintergrund01.jpg)
 
 In diesem Modell gibt es nur noch drei statistikrelevante Felder, die mit "Ja/Nein"-Angaben gefüllt werden.
 

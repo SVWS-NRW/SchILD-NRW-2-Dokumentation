@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2252 · Stand 2014-05-24.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-330.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/schulbesuch-36e0636a.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/schueler/schulbesuch.jpg)
 
-![Schulbesuch.jpg](/bilder/wiki/schulbesuch-36e0636a.jpg)
+![Schulbesuch.jpg](/bilder/schild2/schueler/schulbesuch.jpg)
 
 ## Originalquelltext
 

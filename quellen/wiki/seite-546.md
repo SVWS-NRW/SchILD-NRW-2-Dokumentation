@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2196 · Stand 2014-05-21.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-546.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/km2parameterfestlegen-ffa92457.png)
+[Gesicherte Originaldatei öffnen](/bilder/tools/km2/km2parameterfestlegen.png)
 
-![KM2ParameterFestlegen.png](/bilder/wiki/km2parameterfestlegen-ffa92457.png)
+![KM2ParameterFestlegen.png](/bilder/tools/km2/km2parameterfestlegen.png)
 
 ## Originalquelltext
 

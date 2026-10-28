@@ -1,13 +1,10 @@
 ---
 title: "Karteikasten"
-wiki_title: "Karteikasten"
-wiki_page_id: 138
-wiki_revision: 400
 ---
 
 # Karteikasten
 
-![Karteikaesten_01](/bilder/wiki/karteikaesten-01-8eff683a.jpg)
+![Karteikaesten_01](/bilder/einstieg/grundlagen/karteikaesten-01.jpg)
 
 Durch die Auswahl der Haken können Sie bestimmen, welche Statusarten Sie im [Container](/einstieg/grundlagen/container) sehen wollen.
 
