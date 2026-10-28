@@ -1,19 +1,16 @@
 ---
 title: "Kataloge"
-wiki_title: "Kataloge"
-wiki_page_id: 140
-wiki_revision: 939
 ---
 
 # Kataloge
 
-![Kataloge_01](/bilder/wiki/kataloge-01-c32eb1d4.jpg)
+![Kataloge_01](/bilder/einstieg/grundlagen/kataloge-01.jpg)
 
 Schild-NRW ist ein Schulverwaltungsprogramm mit einem relationalen Datenbanksystem, das heißt, dass viele Einträge, die mehrere Schüler betreffen, aus sogenannten Katalogen entnommen werden müssen. Vorteil dieser Vorgehensweise ist, dass Einträge dann immer eindeutig vorgegeben sind und später auch durch eine Suche wiedergefunden werden können.
 
 Bei den Katalogen ist zu beachten, dass es frei definierbare Kataloge gibt und solche, die z.B. aufgrund von Statistikdaten feststehen, diese können dann nicht durch den Benutzer ergänzt oder verändert werden (sog. abgeschlossene Kataloge).
 
-![SortierungKatalog](/bilder/wiki/sortierungkatalog-422d12f3.jpg)
+![SortierungKatalog](/bilder/schild2/unterricht-kataloge/sortierungkatalog.jpg)
 
 **Gemeinsam haben alle Kataloge**, dass der Benutzer eine "Benutzerdefinierte Reihenfolge" der Katalogeinträge einstellen kann.
 

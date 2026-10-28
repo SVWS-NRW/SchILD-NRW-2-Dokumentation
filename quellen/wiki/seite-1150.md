@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 4263 · Stand 2019-12-07.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1150.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/tl4-5d57e42f.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/unterricht-kataloge/tl4.jpg)
 
-![Tl4.jpg](/bilder/wiki/tl4-5d57e42f.jpg)
+![Tl4.jpg](/bilder/schild2/unterricht-kataloge/tl4.jpg)
 
 ## Originalquelltext
 

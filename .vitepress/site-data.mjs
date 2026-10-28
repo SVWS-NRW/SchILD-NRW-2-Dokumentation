@@ -63,7 +63,7 @@ export function verifyBuiltHtml(config) {
 // Retired stubs do not appear in content, search or menus. Existing bookmarks
 // still lead directly to the useful replacement article on a static host.
 export function writeArticleRedirects(config) {
-  const manifest = new URL('../migration/retired-articles.json', import.meta.url)
+  const manifest = new URL('./redirects.json', import.meta.url)
   if (!existsSync(manifest)) return
   const retired = JSON.parse(readFileSync(manifest, 'utf8'))
   const entries = [...retired, {path:'tools/handbuecher.md',replacement:'/tools/anleitungen'}]

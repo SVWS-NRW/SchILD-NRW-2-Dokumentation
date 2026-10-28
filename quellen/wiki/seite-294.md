@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 1283 · Stand 2014-02-10.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-294.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/gp-abitur-6f9dae98.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/zeugnisse/sekundarstufen/gp-abitur.jpg)
 
-![GP-Abitur.jpg](/bilder/wiki/gp-abitur-6f9dae98.jpg)
+![GP-Abitur.jpg](/bilder/zeugnisse/sekundarstufen/gp-abitur.jpg)
 
 ## Originalquelltext
 

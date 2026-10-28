@@ -1,8 +1,5 @@
 ---
 title: "\"Floskeln\" bearbeiten"
-wiki_title: "\"Floskeln\" bearbeiten"
-wiki_page_id: 374
-wiki_revision: 3914
 ---
 
 # &quot;Floskeln&quot; bearbeiten
@@ -11,7 +8,7 @@ In Schild-NRW gibt es sogenannte "Floskeln". Dies sind wiederkehrende Bemerkunge
 
 Um diese Bemerkungen nicht immer eintippen zu müssen, können diese in Schild-NRW mit einem Kürzel hinterlegt werden.
 
-![Floskeln](/bilder/wiki/floskeln-a0eff808.jpg)
+![Floskeln](/bilder/schild2/unterricht-kataloge/floskeln.jpg)
 
 Seit einigen Versionen werden die Floskeln nicht mehr in einer Textdatei im Installationsverzeichnis von Schild-NRW gespeichert, sondern in der Datenbank. Dazu musste in den [Programm-Einstellungen](/administration/benutzer-einstellungen/programm-einstellungen) der Haken "Floskeln in Datenbank verwalten" gesetzt sein. Diese Einstellung ist nun immer eingestellt und nicht mehr wählbar. Über die Schaltflächen "Import" und "Export" kann das alte Floskelformat nachträglich noch immer eingelesen oder wieder erzeugt werden.
 
@@ -35,7 +32,7 @@ Beispiel:
 
 ## Floskelgruppen
 
-![Floskelgruppen](/bilder/wiki/floskelgruppen-69235357.jpg)
+![Floskelgruppen](/bilder/schild2/unterricht-kataloge/floskelgruppen.jpg)
 
 Drücken Sie den Button **Floskelgruppen**, um Ihre Floskeln zu organisieren. Dabei können folgende Gruppen vergeben werden:
 
@@ -55,7 +52,7 @@ Zu jeder Gruppe kann eine Farbe definiert werden.
 
 ## Editoren für Bemerkungen
 
-![Floskeleingabe](/bilder/wiki/floskeleingabe-4a97eef1.jpg)
+![Floskeleingabe](/bilder/schild2/unterricht-kataloge/floskeleingabe.jpg)
 
 An verschiedenen Stellen im Programm können die Floskeln dann im Editor genutzt werden. Der Editor für diese Bemerkungen filtert nun nach Floskelgruppe vor, je nachdem an welcher Stelle im Programm der Editor aufgerufen wird.
 

@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 636 · Stand 2013-12-18.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-209.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/lehrer-02-493d7b1c.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/lehrkraefte/lehrer-02.jpg)
 
-![Lehrer_02.jpg](/bilder/wiki/lehrer-02-493d7b1c.jpg)
+![Lehrer_02.jpg](/bilder/schild2/lehrkraefte/lehrer-02.jpg)
 
 ## Originalquelltext
 

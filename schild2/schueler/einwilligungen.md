@@ -1,8 +1,5 @@
 ---
 title: "Einwilligungen"
-wiki_title: "Einwilligungen"
-wiki_page_id: 1272
-wiki_revision: 5040
 ---
 
 # Einwilligungen
@@ -19,11 +16,11 @@ Für die Zustimmung zur Teilnahme an Lernplattformen mit Audio- und Videokonfere
 
 Zunächst muss eine Einwilligung angelegt werden. Öffnen Sie dazu das Menü unter Schulverwaltung:
 
-![Einwilligungen001](/bilder/wiki/einwilligungen001-5b57d477.png)
+![Einwilligungen001](/bilder/schild2/schueler/einwilligungen001.png)
 
 Legen Sie dann über das Pluszeichen eine gewünsche Einwilligung an:
 
-![Einwilligungen002](/bilder/wiki/einwilligungen002-51d6ace4.png)
+![Einwilligungen002](/bilder/schild2/schueler/einwilligungen002.png)
 
 Schließen Sie dann das Fenster. Bitte beachten Sie, dass es nun eine Weile dauern kann, da jetzt bei jedem Schülerdatensatz diese Einwilligung angelegt wird.
 
@@ -34,15 +31,15 @@ Schließen Sie dann das Fenster. Bitte beachten Sie, dass es nun eine Weile daue
 
 Filtern Sie nun auf die Schüler, bei denen Sie den Haken zur Einwilligung setzen wollen. Öffnen Sie über Gruppenprozesse \> Allgemein \> Individualdaten ändern den Gruppenprozess und gehen Sie zum Reiter Einwilligungen.
 
-![Einwilligungen003](/bilder/wiki/einwilligungen003-4d221ca3.png)
+![Einwilligungen003](/bilder/schild2/schueler/einwilligungen003.png)
 
 Setzen Sie die zu bearbeitende Einwilligung auf den gewünschten Wert. (Zustimmung = Haken gesetzt, keine Zustimmung = Haken nicht gesetzt, Ignorieren = Haken bleibt unverändert)
 
-![Einwilligungen004](/bilder/wiki/einwilligungen004-9f253edf.png)
+![Einwilligungen004](/bilder/schild2/schueler/einwilligungen004.png)
 
 Auf dem Karteireiter des Schülerdatensatzes sollte nun der gewünschte Haken gesetzt sein und kann bei Widerruf individuell entfernt werden. (Dies geht natürlich auch mit dem Gruppenprozess bei mehreren Schülerdatensätzen.
 
-![Einwilligungen005](/bilder/wiki/einwilligungen005-ce7a9f0a.png)
+![Einwilligungen005](/bilder/schild2/schueler/einwilligungen005.png)
 
 <a id="Filtern_auf_Schüler_mit_oder_ohne_Einwilligung"></a>
 <a id="Filtern_auf_Sch.C3.BCler_mit_oder_ohne_Einwilligung"></a>
@@ -51,13 +48,13 @@ Auf dem Karteireiter des Schülerdatensatzes sollte nun der gewünschte Haken ge
 
 Sie können nun über Auswahl \> Filter I die Schülerdatensätze suchen lassen, die bestimmte Einwilligungen gesetzt oder nicht gesetzt haben. Öffnen Sie dazu wie genannt den Filter I und gehen Sie auf den Reiter Einwilligungen.
 
-![Einwilligungen006](/bilder/wiki/einwilligungen006-ede3bc39.png)
+![Einwilligungen006](/bilder/schild2/schueler/einwilligungen006.png)
 
 Wählen Sie dort aus, welche Einwilligung mit welchem Zustand Sie benötigen.
 
 Gehen Sie nun auf **Testen**. Die Zahl der gefundenen Datensätze wird Ihnen angezeigt.
 
-![Einwilligungen007](/bilder/wiki/einwilligungen007-eebbf5f0.png)
+![Einwilligungen007](/bilder/schild2/schueler/einwilligungen007.png)
 
 Wenn dies Ihre Filterkriterien sind, gehen Sie auf **Übernehmen**.
 

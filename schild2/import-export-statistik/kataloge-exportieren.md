@@ -1,8 +1,5 @@
 ---
 title: "Kataloge exportieren"
-wiki_title: "Kataloge exportieren"
-wiki_page_id: 253
-wiki_revision: 1070
 ---
 
 # Kataloge exportieren

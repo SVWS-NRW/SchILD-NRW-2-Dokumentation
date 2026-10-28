@@ -1,8 +1,5 @@
 ---
 title: "Transaktionsprotokoll verwenden"
-wiki_title: "Transaktionsprotokoll verwenden"
-wiki_page_id: 900
-wiki_revision: 3419
 ---
 
 # Transaktionsprotokoll verwenden

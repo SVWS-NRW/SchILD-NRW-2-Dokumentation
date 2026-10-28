@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 4119 · Stand 2017-03-21.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1113.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/lupo-ribbon-1-9ea28085.png)
+[Gesicherte Originaldatei öffnen](/bilder/tools/lupo/lupo-ribbon-1.png)
 
-![Lupo_ribbon_1.png](/bilder/wiki/lupo-ribbon-1-9ea28085.png)
+![Lupo_ribbon_1.png](/bilder/tools/lupo/lupo-ribbon-1.png)
 
 ## Originalquelltext
 

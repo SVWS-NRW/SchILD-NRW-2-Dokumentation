@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2298 · Stand 2014-05-26.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-600.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/symbol-datenquellen-90e74b6b.png)
+[Gesicherte Originaldatei öffnen](/bilder/reporting/verwaltung/symbol-datenquellen.png)
 
-![Symbol-Datenquellen.png](/bilder/wiki/symbol-datenquellen-90e74b6b.png)
+![Symbol-Datenquellen.png](/bilder/reporting/verwaltung/symbol-datenquellen.png)
 
 ## Originalquelltext
 

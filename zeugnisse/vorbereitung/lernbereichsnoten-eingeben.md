@@ -1,8 +1,5 @@
 ---
 title: "Lernbereichsnoten eingeben"
-wiki_title: "Lernbereichsnoten eingeben"
-wiki_page_id: 481
-wiki_revision: 1988
 ---
 
 # Lernbereichsnoten eingeben

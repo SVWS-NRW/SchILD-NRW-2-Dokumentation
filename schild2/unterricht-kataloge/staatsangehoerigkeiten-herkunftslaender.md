@@ -1,8 +1,5 @@
 ---
 title: "Staatsangehörigkeiten / Herkunftsländer"
-wiki_title: "Staatsangehörigkeiten / Herkunftsländer"
-wiki_page_id: 146
-wiki_revision: 937
 ---
 
 # Staatsangehörigkeiten / Herkunftsländer

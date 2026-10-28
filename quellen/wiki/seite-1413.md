@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 5877 · Stand 2024-06-13.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1413.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/bilinguael-bescheinigungen-753ffb76.png)
+[Gesicherte Originaldatei öffnen](/bilder/archiv/bilinguael-bescheinigungen.png)
 
-![Bilinguael_bescheinigungen.png](/bilder/wiki/bilinguael-bescheinigungen-753ffb76.png)
+![Bilinguael_bescheinigungen.png](/bilder/archiv/bilinguael-bescheinigungen.png)
 
 ## Originalquelltext
 

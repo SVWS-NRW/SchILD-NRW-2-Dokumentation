@@ -1,15 +1,12 @@
 ---
 title: "Sportbefreiungen"
-wiki_title: "Sportbefreiungen"
-wiki_page_id: 190
-wiki_revision: 522
 ---
 
 # Sportbefreiungen
 
 Der Katalog der Sportbefreiungen ist bereits mit vielen Befreiungsgründen voreingestellt:
 
-![Sportbefreit](/bilder/wiki/sportbefreit-bd1fbca8.jpg)
+![Sportbefreit](/bilder/schild2/unterricht-kataloge/sportbefreit.jpg)
 
 Sollte dieser Katalog nicht alle Einträge beinhalten, die Sie für die Schüler an Ihrer Schule benötigen, so können Sie (wie in jedem anderen Katalog auch) durch Anklicken des '+' - Symbols weitere Einträge vornehmen. Denken Sie abschließend an den Klick auf das Häkchen.....
 

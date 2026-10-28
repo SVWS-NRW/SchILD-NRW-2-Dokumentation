@@ -1,8 +1,5 @@
 ---
 title: "EditRichTextEx"
-wiki_title: "EditRichTextEx"
-wiki_page_id: 18
-wiki_revision: 37
 ---
 
 # EditRichTextEx
@@ -10,9 +7,7 @@ wiki_revision: 37
 <a id="RAP-Funktion_&quot;EditRichTextEx&quot;"></a>
 <a id="RAP-Funktion_.22EditRichTextEx.22"></a>
 
-## RAP-Funktion "EditRichTextEx"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 function EditRichTextEx(const Default: String; const aCaption: String): String;
@@ -27,9 +22,7 @@ aCaption           - Überschrift, wird im Titelbalken des Editorfensters angeze
 
 ## Rückgabewert
 
-```text
 Veränderter Richtext
-```
 
 ## Beispiel
 
@@ -39,5 +32,7 @@ RichText1.RichText:=EditRichTextEx('','Zeugnisbemerkung');
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-18) · [EditRichTextEx – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=EditRichTextEx&oldid=37)

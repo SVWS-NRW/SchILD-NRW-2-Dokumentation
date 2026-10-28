@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 1624 · Stand 2014-03-07.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-383.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/erzieher-mit-funktionen-f7024d6e.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/unterricht-kataloge/erzieher-mit-funktionen.jpg)
 
-![Erzieher-mit-Funktionen.jpg](/bilder/wiki/erzieher-mit-funktionen-f7024d6e.jpg)
+![Erzieher-mit-Funktionen.jpg](/bilder/schild2/unterricht-kataloge/erzieher-mit-funktionen.jpg)
 
 ## Originalquelltext
 

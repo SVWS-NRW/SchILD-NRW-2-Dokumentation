@@ -1,13 +1,10 @@
 ---
 title: "Extras"
-wiki_title: "Extras"
-wiki_page_id: 230
-wiki_revision: 3736
 ---
 
 # Extras
 
-![Extras](/bilder/wiki/extras-5a623853.jpg)
+![Extras](/bilder/administration/benutzer-einstellungen/extras.jpg)
 
 Unter diesem Menüpunkt stehen Ihnen einige Prozesse zur Verfügung, die zur Einstellung und Wartung der Schild-NRW-Umgebung gedacht sind.
 

@@ -1,13 +1,10 @@
 ---
 title: "Lehrkräfte"
-wiki_title: "Lehrkräfte"
-wiki_page_id: 210
-wiki_revision: 1202
 ---
 
 # Lehrkräfte
 
-![Lehrer_01](/bilder/wiki/lehrer-01-1feb61f3.jpg)
+![Lehrer_01](/bilder/schild2/lehrkraefte/lehrer-01.jpg)
 
 Hinter diesem Programmpunkt werden die Lehrer der Schule verwaltet, dabei steht es jeder Schule frei, wie viele Daten der Lehrkräfte hier eingegeben werden. Zur Verwaltung der Stundentafeln und der Notenvergabe ist es lediglich notwendig, das "interne Kürzel" sowie "LID-Kürzel" und "Nachname" zu verwalten. Die Felder, die in der Datenbank verwaltet werden können, richten sich nach der VO-DV-II. Einige Informationen hierzu erhalten Sie unter Datenschutz.
 
@@ -27,7 +24,7 @@ Lehrer, die auf "unsichtbar" geschaltet sind, sind in der Übersichtstabelle gra
 
 ## Basisdaten der Lehrer
 
-![Lehrer_02](/bilder/wiki/lehrer-02-493d7b1c.jpg)
+![Lehrer_02](/bilder/schild2/lehrkraefte/lehrer-02.jpg)
 
 Auf diesem Karteireiter werden die Stammdaten der Lehrer verwaltet. Die Felder mit der farbigen Schrift werden dazu genutzt, die Statistik zu beliefern. Der Haken bei "relevant für Statistik" steuert dabei, ob der Lehrerdatensatz in die Statistik-Datei geschrieben wird. Sie könnten so auch andere Personen mit verwalten, die in der Hauptstatistik aber nicht gemeldet werden müssen, weil es sich z.B. um Zusatzkräfte handelt, die über andere Träger finanziert werden.
 
@@ -54,13 +51,13 @@ Die möglichen und nötigen Eintragungen in diesem Bereich können Sie aus den S
 
 ## Zeitabhängige Daten der Lehrer
 
-![ZeitdatenLehrer](/bilder/wiki/zeitdatenlehrer-b9241577.jpg)
+![ZeitdatenLehrer](/bilder/schild2/lehrkraefte/zeitdatenlehrer.jpg)
 
 Hier werden, wie bei den Schülern, die Daten gespeichert, die abschnittsweise gespeichert sind. Z.B. können sich das Pflichtstundensoll und der gegebene Unterricht hier von Schuljahr zu Schuljahr ändern. Tragen Sie im oberen Bereich die von der Statistik geforderten Werte ein. Der Eintrag der Stammschule ist in der Regel die "Eigene Schule". Es stehen hierzu alle Schulen zur Auswahl, die im Katalog "Schulen in NRW" ein Kürzel haben. Wenn nach dem Klick auf den Button "Eigene Schule" kein Eintrag erfolgt, so nehmen Sie bitte Ihre Schule in den Katalog "Schulen in NRW" auf und vergeben Sie dort in der Spalte "Kürzel" ein solches (mit bis zu 12 Zeichen) für Ihre Schule.
 
 Die Angaben für Mehrleistung, Minderleistung und Nichtunterrichtliche Tätigkeit werden so eingetragen, wie das auch für ASDPC32 in der Statistik gefordert ist. Entnehmen Sie bitte auch hier die Eintragungsmöglichkeiten den Schlüsselverzeichnissen von IT.NRW.
 
-![LehrerFunktionen](/bilder/wiki/lehrerfunktionen-53421d57.jpg)
+![LehrerFunktionen](/bilder/schild2/lehrkraefte/lehrerfunktionen.jpg)
 
 Der Reiter "Schulinterne Funktionen" bietet Ihnen zusätzlich bei den Lehrkräften eigene Funktionen oder Merkmale zu verwalten. Bevor Sie bei "Funktion" auswählen können, müssen Sie über den Schalter "Katalog der schulinternen Funktionen bearbeiten" zunächst die gewünschten Funktionen definieren, wobei Sie die gewünschten Bezeichnungen frei wählen können. Dieser Katalog ist nicht relevant für die Statistik.
 

@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 1854 · Stand 2014-03-27.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-453.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/gp-kursezuweisene-a1a89e7d.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/gruppenprozesse/gp-kursezuweisene.jpg)
 
-![GP-KursezuweisenE.jpg](/bilder/wiki/gp-kursezuweisene-a1a89e7d.jpg)
+![GP-KursezuweisenE.jpg](/bilder/schild2/gruppenprozesse/gp-kursezuweisene.jpg)
 
 ## Originalquelltext
 

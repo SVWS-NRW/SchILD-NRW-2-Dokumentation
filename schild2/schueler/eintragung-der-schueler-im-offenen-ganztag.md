@@ -1,8 +1,5 @@
 ---
 title: "Eintragung der Schüler im offenen Ganztag"
-wiki_title: "Eintragung der Schüler im offenen Ganztag"
-wiki_page_id: 921
-wiki_revision: 6036
 ---
 
 # Eintragung der Schüler im offenen Ganztag

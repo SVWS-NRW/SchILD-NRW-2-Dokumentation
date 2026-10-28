@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 5916 · Stand 2024-06-27.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1420.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/hsu-sprachenfolge-47772d7b.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/schueler/hsu-sprachenfolge.png)
 
-![Hsu_sprachenfolge.png](/bilder/wiki/hsu-sprachenfolge-47772d7b.png)
+![Hsu_sprachenfolge.png](/bilder/schild2/schueler/hsu-sprachenfolge.png)
 
 ## Originalquelltext
 

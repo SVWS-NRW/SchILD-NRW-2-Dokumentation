@@ -1,8 +1,5 @@
 ---
 title: "Hauptseite"
-wiki_title: "Hauptseite"
-wiki_page_id: 1
-wiki_revision: 6060
 ---
 
 # Hauptseite
@@ -26,8 +23,9 @@ Seit dem 31.10.25 steht der Nachfolger zur Verfügung:
 
 ### [Schild-NRW-Übersicht](/einstieg/grundlagen/schild-nrw-index)
 
-![Inhalt](/bilder/wiki/inhalt-9f456689.png)
-Inhalt
+![Inhalt](/bilder/hilfe/wiki-archiv/inhalt.png)
+
+*Inhalt*
 
 Dieser Teil des Schild-NRW-Wiki bietet Ihnen eine Auflistung
 
@@ -45,8 +43,9 @@ in den einzelnen Abteilungen.
 
 ### [Schild-NRW-Tutorials](/einstieg/erste-schritte/schild-nrw-tutorials)
 
-![Inhalt](/bilder/wiki/tutorial-42baaaf3.png)
-Inhalt
+![Inhalt](/bilder/hilfe/wiki-archiv/tutorial.png)
+
+*Inhalt*
 
 Hier finden Sie zu bestimmten Themen einige Anleitungen,
 
@@ -66,8 +65,9 @@ Arbeiten, wie die Versetzung, Kurszuweisungen u.v.m. werden hier beschrieben.
 
 ### [Reporting](/reporting/erstellung/reporting)
 
-![Inhalt](/bilder/wiki/reporting-198f76b1.png)
-Inhalt
+![Inhalt](/bilder/hilfe/wiki-archiv/reporting.png)
+
+*Inhalt*
 
 In diesem Bereich gibt es ein Einsteigerhandbuch zur Erstellung von Reports.
 
@@ -87,8 +87,9 @@ Nähere Informationen gibt es im folgenden Artikel:
 
 ### [Lupo Handbuch](/tools/lupo/lupo-handbuch)
 
-![Inhalt](/bilder/wiki/lupo-hauptseite-bf47bfe8.png)
-Inhalt
+![Inhalt](/bilder/hilfe/wiki-archiv/lupo-hauptseite.png)
+
+*Inhalt*
 
 Das Laufbahnberatungs- und Planungstool unterstützt Beratungslehrer der Oberstufe
 
@@ -108,8 +109,9 @@ schnell die benötigte Informationen.
 
 ### [Externe Blockungs-Tools](/hilfe/zusatzprogramme/externe-blockungs-tools)
 
-![Inhalt](/bilder/wiki/kurs42tocnf-logo-0eadca3b.png)
-Inhalt
+![Inhalt](/bilder/hilfe/wiki-archiv/kurs42tocnf-logo.png)
+
+*Inhalt*
 
 Hier finden Sie die Anleitungen zu folgenden externen Blockungstools:
 
@@ -129,8 +131,9 @@ Sitzplangenerator
 
 ### [Prognos](/hilfe/zusatzprogramme/prognos)
 
-![Inhalt](/bilder/wiki/prognos-logo-2111870e.png)
-Inhalt
+![Inhalt](/bilder/hilfe/wiki-archiv/prognos-logo.png)
+
+*Inhalt*
 
 Hier finden Sie (demnächst) die Anleitung zum Prognose-Tool Prognos:
 

@@ -1,8 +1,5 @@
 ---
 title: "Lupo:Handbuch"
-wiki_title: "Lupo:Handbuch"
-wiki_page_id: 862
-wiki_revision: 5546
 ---
 
 # Lupo:Handbuch

@@ -1,8 +1,5 @@
 ---
 title: "Statistik-Jahrgänge"
-wiki_title: "Statistik-Jahrgänge"
-wiki_page_id: 232
-wiki_revision: 3879
 ---
 
 # Statistik-Jahrgänge

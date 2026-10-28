@@ -1,8 +1,5 @@
 ---
 title: "Lupo:Installation"
-wiki_title: "Lupo:Installation"
-wiki_page_id: 867
-wiki_revision: 5549
 ---
 
 # Lupo:Installation
@@ -29,8 +26,9 @@ Die Programmdatei und die Datendatei werden auf einem USB-Stick gespeichert
 
 ***Nachteil:*** Verschiedene Beratungslehrer haben unterschiedliche Teilversionen der Datendatei. Diese müssen für eine Gesamtbetrachtung und die Statistik erst zusammengeführt werden, Update mehrerer USB-Sticks
 
-![Installation](/bilder/wiki/installation-c68b48ce.png)
-Flexibel auf einem Stick oder auf einem Server für den Mehrbenutzer-Einsatz
+![Installation](/bilder/tools/lupo/installation.png)
+
+*Flexibel auf einem Stick oder auf einem Server für den Mehrbenutzer-Einsatz*
 
 Wer eine Windows-typische Installation wünscht, der sollte sich von der SVWS-Internetseite die Setup-Datei herunterladen und ausführen. Der Setup-Assistent installiert die Lehrer- und Schülerversion von Lupo in einem Ordner freier Wahl (z.B. C:\Programme (x86)\Lupo), setzt einen Eintrag in das Startmenü, überprüft, ob die für den reibungslosen Betrieb notwendige Datei „Gdiplus.dll“ auf dem PC vorhanden ist, und installiert diese bei Bedarf. Zudem wird die Endung LPO registriert, so dass eine LPO-Datei durch Doppelklick geöffnet werden kann.
 

@@ -1,8 +1,5 @@
 ---
 title: "Prüfungsergebnisse eingeben"
-wiki_title: "Prüfungsergebnisse eingeben"
-wiki_page_id: 491
-wiki_revision: 3631
 ---
 
 # Prüfungsergebnisse eingeben
@@ -29,7 +26,7 @@ Filtern kann man auf:
 
 Die Eingabe der Ergebnisse erfolgt dann durch Eintragung der Note (bzw. der Punkte) in die Tabelle in die Spalte "Punkte im Abitur".
 
-![GP-Pruefungsergebnisse](/bilder/wiki/gp-pruefungsergebnisse-37c59cde.jpg)
+![GP-Pruefungsergebnisse](/bilder/zeugnisse/sekundarstufen/gp-pruefungsergebnisse.jpg)
 
 Ist die Eingabe beendet, bitte nicht vergessen, auf die Schaltfläche "In Datenbank übernehmen" zu klicken. Sollte man es doch vergessen, wird nochmals nachgefragt, ob die Daten übernommen werden sollen.
 

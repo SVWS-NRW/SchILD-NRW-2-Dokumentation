@@ -1,13 +1,10 @@
 ---
 title: "Schulverwaltung"
-wiki_title: "Schulverwaltung"
-wiki_page_id: 204
-wiki_revision: 5138
 ---
 
 # Schulverwaltung
 
-![Schulverwaltung_01](/bilder/wiki/schulverwaltung-01-f6550f07.jpg)
+![Schulverwaltung_01](/bilder/einstieg/grundlagen/schulverwaltung-01.jpg)
 
 Unter dem Menüpunkt Schulverwaltung sind die Programmpunkte zusammengefasst, die tendenziell eher dem Aufgabenbereich der erweiterten Schulleitung oder der Schild-NRW-Administration zugeschrieben werden können.
 

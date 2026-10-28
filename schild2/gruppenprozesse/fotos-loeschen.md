@@ -1,8 +1,5 @@
 ---
 title: "Fotos löschen"
-wiki_title: "Fotos löschen"
-wiki_page_id: 358
-wiki_revision: 1903
 ---
 
 # Fotos löschen

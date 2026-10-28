@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 5914 · Stand 2024-06-27.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1418.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/fsp-faecher-b2f627dc.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/schueler/fsp-faecher.png)
 
-![Fsp_faecher.png](/bilder/wiki/fsp-faecher-b2f627dc.png)
+![Fsp_faecher.png](/bilder/schild2/schueler/fsp-faecher.png)
 
 ## Originalquelltext
 

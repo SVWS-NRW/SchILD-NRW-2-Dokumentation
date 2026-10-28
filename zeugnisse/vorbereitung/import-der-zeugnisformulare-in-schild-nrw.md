@@ -1,8 +1,5 @@
 ---
 title: "Import der Zeugnisformulare in Schild-NRW"
-wiki_title: "Import der Zeugnisformulare in Schild-NRW"
-wiki_page_id: 841
-wiki_revision: 5874
 ---
 
 # Import der Zeugnisformulare in Schild-NRW

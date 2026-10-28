@@ -1,8 +1,5 @@
 ---
 title: "Schulbesuchsjahre neu berechnen"
-wiki_title: "Schulbesuchsjahre neu berechnen"
-wiki_page_id: 356
-wiki_revision: 1612
 ---
 
 # Schulbesuchsjahre neu berechnen

@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 3784 · Stand 2016-02-16.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-991.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/lupo-schild-individualdaten-bili-ed7e9f93.png)
+[Gesicherte Originaldatei öffnen](/bilder/tools/lupo/lupo-schild-individualdaten-bili.png)
 
-![Lupo_schild_individualdaten_bili.png](/bilder/wiki/lupo-schild-individualdaten-bili-ed7e9f93.png)
+![Lupo_schild_individualdaten_bili.png](/bilder/tools/lupo/lupo-schild-individualdaten-bili.png)
 
 ## Originalquelltext
 

@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 3133 · Stand 2015-05-19.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-807.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/filteritut01-f027677a.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/auswahl/filteritut01.jpg)
 
-![FilterITut01.jpg](/bilder/wiki/filteritut01-f027677a.jpg)
+![FilterITut01.jpg](/bilder/schild2/auswahl/filteritut01.jpg)
 
 ## Originalquelltext
 

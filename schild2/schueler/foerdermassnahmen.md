@@ -1,13 +1,10 @@
 ---
 title: "Fördermaßnahmen"
-wiki_title: "Fördermaßnahmen"
-wiki_page_id: 711
-wiki_revision: 3726
 ---
 
 # Fördermaßnahmen
 
-![Foerdermassnahmen01](/bilder/wiki/foerdermassnahmen01-16f1a2a7.jpg)
+![Foerdermassnahmen01](/bilder/schild2/schueler/foerdermassnahmen01.jpg)
 
 Auf dem Karteireiter **Fördermaßnahmen** kann bei nicht ausreichenden Leistungen in den Abschnitten eine Dokumentation über die zu erfolgende Förderung angelegt werden.
 
@@ -20,11 +17,11 @@ In beiden Fällen können bestimmte Angaben zu den Problemfeldern und Förderabs
 
 Eine allgemeine Fördermaßnahme wird über den Button **Allgemeine Fördermaßnahme anlegen** erzeugt!
 
-![tlinks](/bilder/wiki/foerdermassnahmen02-1a6a66f4.jpg)
+![tlinks](/bilder/schild2/schueler/foerdermassnahmen02.jpg)
 
 Fachspezifische Fördermaßnahmen werden auf dem Karteireiter [Akt. Halbjahr](/zeugnisse/vorbereitung/akt-halbjahr) angelegt.
 
-![Foerdermassnahmen03](/bilder/wiki/foerdermassnahmen03-02417f69.jpg)
+![Foerdermassnahmen03](/bilder/schild2/schueler/foerdermassnahmen03.jpg)
 
 Gehen Sie dort auf den Reiter Leistungsdaten. Mit einem Rechtsklick auf eine Fächerzeile bekommen Sie ein Kontextmenü angeboten. Wählen Sie dort den Eintrag **Fachbezogene Fördermaßnahme anlegen** aus. Bestätigen Sie die anschließende Frage mit "Ja".
 

@@ -2,7 +2,7 @@ import { createContentLoader } from 'vitepress'
 
 // The same published source directories as the site; migration evidence and
 // build output are deliberately excluded. ContentLoader watches new files.
-const patterns = ['index.md', 'tools/**/*.md', 'tools/**/*.md', 'tools/**/*.md', 'tools/**/*.md', 'einstieg/**/*.md', 'schild2/**/*.md',
+const patterns = ['index.md', 'tools/**/*.md', 'einstieg/**/*.md', 'schild2/**/*.md',
   'zeugnisse/**/*.md', 'reporting/**/*.md', 'administration/**/*.md',
   'hilfe/**/*.md', 'programmreferenz/**/*.md', 'bilder/**/*.md']
 const collator = new Intl.Collator('de', { sensitivity: 'base', numeric: true })

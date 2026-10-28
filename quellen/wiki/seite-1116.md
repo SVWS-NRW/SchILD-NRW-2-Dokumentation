@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 4125 · Stand 2017-03-21.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1116.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/lupo-schuelerliste-drucken-01c817a9.png)
+[Gesicherte Originaldatei öffnen](/bilder/tools/lupo/lupo-schuelerliste-drucken.png)
 
-![Lupo_schuelerliste_drucken.png](/bilder/wiki/lupo-schuelerliste-drucken-01c817a9.png)
+![Lupo_schuelerliste_drucken.png](/bilder/tools/lupo/lupo-schuelerliste-drucken.png)
 
 ## Originalquelltext
 

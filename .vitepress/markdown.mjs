@@ -40,8 +40,13 @@ export function configureMarkdown(md) {
   md.renderer.rules.table_open = (tokens, i, options, env, self) => {
     const opening = tableOpen(tokens, i, options, env, self)
     if (!tokens[i].meta?.fieldTable) return opening
+    // VitePress's table renderer emits its own opening tag and ignores token
+    // attributes. Apply the field-table class to the actual rendered tag.
+    const styledOpening = /\bclass="/.test(opening)
+      ? opening.replace(/class="([^"]*)"/, (_, names) => `class="${[...new Set([...names.split(/\s+/), 'interface-fields'])].join(' ')}"`)
+      : opening.replace('<table', '<table class="interface-fields"')
     const columns = ['number', 'description', 'header', 'type', 'nullable', 'remarks'].map(name => `<col class="field-${name}">`).join('')
-    return `<div class="interface-table-scroll" tabindex="0" role="region" aria-label="${md.utils.escapeHtml(tokens[i].meta.title)}">` + opening.replace('<table', '<table class="interface-fields"') + `<colgroup>${columns}</colgroup>`
+    return `<div class="interface-table-scroll" tabindex="0" role="region" aria-label="${md.utils.escapeHtml(tokens[i].meta.title)}">` + styledOpening + `<colgroup>${columns}</colgroup>`
   }
   md.renderer.rules.table_close = (tokens, i, options, env, self) => tableClose(tokens, i, options, env, self) + (tokens[i].meta?.fieldTable ? '</div>\n' : '')
 }

@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 5965 · Stand 2024-08-30.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1434.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/fehlere89-86147705.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/schueler/fehlere89.png)
 
-![FehlerE89.png](/bilder/wiki/fehlere89-86147705.png)
+![FehlerE89.png](/bilder/schild2/schueler/fehlere89.png)
 
 ## Originalquelltext
 

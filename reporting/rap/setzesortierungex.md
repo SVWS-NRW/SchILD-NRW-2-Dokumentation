@@ -1,8 +1,5 @@
 ---
 title: "SetzeSortierungEx"
-wiki_title: "SetzeSortierungEx"
-wiki_page_id: 98
-wiki_revision: 122
 ---
 
 # SetzeSortierungEx
@@ -10,9 +7,7 @@ wiki_revision: 122
 <a id="RAP-Funktion_&quot;SetzeSortierungEx&quot;"></a>
 <a id="RAP-Funktion_.22SetzeSortierungEx.22"></a>
 
-## RAP-Funktion "SetzeSortierungEx"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 procedure SetzeSortierungEx(Pipeline: TppDbPipeline; const Sortierfelder: String);
@@ -27,11 +22,6 @@ Sortierfelder      - Mit Komma separierte Liste Sortierfeldern. Im Unterschied z
                      MONTH(Geburtsatum) etc verwendet werden.
 ```
 
-## Rückgabewert
-
-```text
-...
-```
 
 ## Beispiel
 
@@ -46,5 +36,7 @@ Procedure ReportBeforePrint;
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-98) · [SetzeSortierungEx – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetzeSortierungEx&oldid=122)

@@ -1,8 +1,5 @@
 ---
 title: "Akt. Halbjahr"
-wiki_title: "Akt. Halbjahr"
-wiki_page_id: 432
-wiki_revision: 3549
 ---
 
 # Akt. Halbjahr
@@ -11,7 +8,7 @@ Auf der Karteikarte **Akt. Halbjahr** finden Sie alle Informationen zu einem Sch
 
 Sie können durch Klicken auf den Pfeil neben der Angabe "2013/14, 2. Hj, ..." sich die Liste aller bisherigen Abschnitte, die es zu dem ausgewählten Schüler gibt, anzeigen lassen und auswählen, welcher Abschnitt angezeigt werden soll.
 
-![Akt.Halbjahr-Uebersicht](/bilder/wiki/akt-halbjahr-uebersicht-9b46b3d0.png)
+![Akt.Halbjahr-Uebersicht](/bilder/zeugnisse/vorbereitung/akt-halbjahr-uebersicht.png)
 
 Unter der Abschnittsbezeichnung sieht man auch die sog. Wertungshaken ("gewerteter Abschnitt" und "2. Durchgang oder höher"), die besonders bei Wiederholungen richtig gesetzt sein müssen. Diese Wertungshaken sind auch in der [Gesamtübersicht](/zeugnisse/sekundarstufen/gesamtuebersicht) zu sehen, können dort aber nicht verändert werden.
 
@@ -45,7 +42,7 @@ Der dritte Karteireiter zeigt - nach erfolgter Berechnung - das Ergebnis der Ver
 
 Im unteren Bereich des Fensters sind die Angaben zum Zeugnis bzw. zur Versetzung zu finden.
 
-![Zeugnis-Abschluss](/bilder/wiki/zeugnis-abschluss-b2a0aab2.png)
+![Zeugnis-Abschluss](/bilder/zeugnisse/vorbereitung/zeugnis-abschluss.png)
 
 ------------------------------------------------------------------------
 
@@ -67,15 +64,15 @@ Im unteren Bereich des Fensters sind die Angaben zum Zeugnis bzw. zur Versetzung
 
 Die "tagesbezogenen" Fehlzeiten werden auf einem Karteireiter "Akt. Halbjahr" in einem eigenen Reiter verwaltet.
 
-![Fehlzeiten001](/bilder/wiki/fehlzeiten001-adbf1c85.png)
+![Fehlzeiten001](/bilder/zeugnisse/vorbereitung/fehlzeiten001.png)
 
 Über die [Programm-Einstellungen](/administration/benutzer-einstellungen/programm-einstellungen) kann das aber auch ausgeblendet werden!
 
-![Fehlzeiten002](/bilder/wiki/fehlzeiten002-dacad938.png)
+![Fehlzeiten002](/bilder/zeugnisse/vorbereitung/fehlzeiten002.png)
 
 Die Schule kann festlegen, woher sich das Programm bei dem Einzel- oder Gruppenprozess "Gesamt-Fehlstunden berechnen" die Daten holen soll.
 
-![Fehlzeiten003](/bilder/wiki/fehlzeiten003-4dc462ce.png)
+![Fehlzeiten003](/bilder/zeugnisse/vorbereitung/fehlzeiten003.png)
 
 Es gibt auch zwei neue Datenquellen für die Fehlzeiten.
 
@@ -83,27 +80,27 @@ SchuelerFehlzeiten: Die "schülerbezogene" Datenquelle, gibt für den Schüler d
 
 FehlzeitenUebersicht: Hiermit kann eine Übersicht für die Fehlzeiten (bezogen auf die ausgewählte Schülergruppe) ausgegeben werden. Es erscheint der folgende Dialog:
 
-![Fehlzeiten004](/bilder/wiki/fehlzeiten004-0cf265fc.png)
+![Fehlzeiten004](/bilder/zeugnisse/vorbereitung/fehlzeiten004.png)
 
 Man kann so z.B. eine "Tagesmeldung" oder alle Fehlzeiten des Schülers ab Monatsbeginn usw. ausgeben lassen.
 
 Man kann auch einen "Fehlstunden-Grenzwert" definieren (kann auch per Gruppenprozess gesetzt werden).
 
-![Fehlzeiten005](/bilder/wiki/fehlzeiten005-8a5b954a.png)
+![Fehlzeiten005](/bilder/zeugnisse/vorbereitung/fehlzeiten005.png)
 
 Es wird auch eine Warnmeldung ausgegeben bzw. die Summe rot markiert.
 
-![Fehlzeiten006](/bilder/wiki/fehlzeiten006-02599083.png) ![Fehlzeiten007](/bilder/wiki/fehlzeiten007-d940d1da.png)
+![Fehlzeiten006](/bilder/zeugnisse/vorbereitung/fehlzeiten006.png) ![Fehlzeiten007](/bilder/zeugnisse/vorbereitung/fehlzeiten007.png)
 
 Man kann auch auf die Abweichungen zum Fehlstundengrenzwert auch filtern:
 
-![Fehlzeiten008](/bilder/wiki/fehlzeiten008-92180ee5.png)
+![Fehlzeiten008](/bilder/zeugnisse/vorbereitung/fehlzeiten008.png)
 
 Dabei sind auch negative Zahlen möglich, wenn man z.B. die Schüler wissen will, bei denen der Grenzwert noch nicht erreicht ist, die aber "nahe dran" sind.
 
 In den Leistungsdaten können die zur Eingabe berechtigten Personen nun auch mit der rechten Maustaste direkt fachbezogene Fehlzeiten zu einem Fach eintragen.
 
-![Fehlzeiten009](/bilder/wiki/fehlzeiten009-39bd9efd.jpg)
+![Fehlzeiten009](/bilder/zeugnisse/vorbereitung/fehlzeiten009.jpg)
 
 ------------------------------------------------------------------------
 

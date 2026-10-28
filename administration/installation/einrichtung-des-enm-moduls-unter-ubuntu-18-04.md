@@ -1,8 +1,5 @@
 ---
 title: "Einrichtung des ENM-Moduls unter Ubuntu 18.04"
-wiki_title: "Einrichtung des ENM-Moduls unter Ubuntu 18.04"
-wiki_page_id: 1174
-wiki_revision: 4609
 ---
 
 # Einrichtung des ENM-Moduls unter Ubuntu 18.04
@@ -27,7 +24,7 @@ Starten Sie das Notenmodul mit dem Befehl:
 
 `wine $HOME/.wine/drive_c/SchILD-NRW/ENM/ENM.exe`
 
-![ENM_wine](/bilder/wiki/enm-wine-1758a378.jpg)
+![ENM_wine](/bilder/administration/installation/enm-wine.jpg)
 
 ---
 

@@ -1,8 +1,5 @@
 ---
 title: "Prognos"
-wiki_title: "Prognos"
-wiki_page_id: 1223
-wiki_revision: 4949
 ---
 
 # Prognos

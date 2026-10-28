@@ -1,8 +1,5 @@
 ---
 title: "Fehlstunden-Summen manuell eingeben"
-wiki_title: "Fehlstunden-Summen manuell eingeben"
-wiki_page_id: 484
-wiki_revision: 2032
 ---
 
 # Fehlstunden-Summen manuell eingeben

@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 4011 · Stand 2016-11-25.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1082.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/s1p-048-einzelexport-a419f313.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/tools/s1plan/s1p-048-einzelexport.jpg)
 
-![S1P-048-Einzelexport.JPG](/bilder/wiki/s1p-048-einzelexport-a419f313.jpg)
+![S1P-048-Einzelexport.JPG](/bilder/tools/s1plan/s1p-048-einzelexport.jpg)
 
 ## Originalquelltext
 

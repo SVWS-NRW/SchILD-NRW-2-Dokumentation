@@ -1,8 +1,5 @@
 ---
 title: "Belegprüfung für Sek. II"
-wiki_title: "Belegprüfung für Sek. II"
-wiki_page_id: 510
-wiki_revision: 2107
 ---
 
 # Belegprüfung für Sek. II

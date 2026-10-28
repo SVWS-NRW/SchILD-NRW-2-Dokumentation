@@ -1,8 +1,5 @@
 ---
 title: "Lupo:Auswertung der Fachwahlen"
-wiki_title: "Lupo:Auswertung der Fachwahlen"
-wiki_page_id: 983
-wiki_revision: 5553
 ---
 
 # Lupo:Auswertung der Fachwahlen

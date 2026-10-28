@@ -1,8 +1,5 @@
 ---
 title: "Prognos:Hauptfenster"
-wiki_title: "Prognos:Hauptfenster"
-wiki_page_id: 1249
-wiki_revision: 5111
 ---
 
 # Prognos:Hauptfenster
@@ -13,7 +10,7 @@ wiki_revision: 5111
 
 Nach dem Programmstart wird als erstes der Analysemodus ausgewählt. Dabei stehen folgende Modi zur Verfügung:
 
-![PM2_Auswahl_01](/bilder/wiki/pm2-auswahl-01-9cf9f0d4.png)
+![PM2_Auswahl_01](/bilder/tools/pm2/pm2-auswahl-01.png)
 
 1.  [Analyse eines einzelnen Notenbildes](/hilfe/zusatzprogramme/prognos-analyseverfahren-einzelfall)
 2.  [Leistungsdaten einer SCHILD-Klasse einlesen](/hilfe/zusatzprogramme/prognos-analyseverfahren-klasse)
@@ -42,15 +39,15 @@ Unter diesem Punkt finden sich zwei Symbole:
 
 Zu Beenden des Programms:
 
-![PM2_beenden](/bilder/wiki/pm2-beenden-639d5829.png)
+![PM2_beenden](/bilder/tools/pm2/pm2-beenden.png)
 
 Zum Speichern der aktuellen Daten:
 
-![PM2_Speichern_unter_01](/bilder/wiki/pm2-speichern-unter-01-04d02073.png)
+![PM2_Speichern_unter_01](/bilder/tools/pm2/pm2-speichern-unter-01.png)
 
 Ein Klick auf das Symbol öffnet ein Explorer-Fenster, hier kann dann die Datei gespeichert werden. Standardmäßig wird die Datei unverschlüsselt gespeichert. Der kleine Pfeil nach unten (im Bild rechts) ermöglicht eine weitere Auswahl:
 
-![PM_2_Speichern_verschlüsselt](/bilder/wiki/pm-2-speichern-verschluesselt-a2b87d35.png)
+![PM_2_Speichern_verschlüsselt](/bilder/tools/pm2/pm-2-speichern-verschlusselt.png)
 
 - unverschlüsselt speichern
 - verschlüsselt speichern
@@ -58,11 +55,11 @@ Ein Klick auf das Symbol öffnet ein Explorer-Fenster, hier kann dann die Datei 
 
 Wird die Verschlüsselung gewählt, so öffnet sich das Passwort-Fenster:
 
-![PM2_Speichern_unter_02](/bilder/wiki/pm2-speichern-unter-02-842f56c0.png)
+![PM2_Speichern_unter_02](/bilder/tools/pm2/pm2-speichern-unter-02.png)
 
 Beim JSON-Export wird die Datei unter dem Namen Test1.json in der Zwischenablage gespeichert:
 
-![PM2_Speichern_unter_03](/bilder/wiki/pm2-speichern-unter-03-23ba2794.png)
+![PM2_Speichern_unter_03](/bilder/tools/pm2/pm2-speichern-unter-03.png)
 
 <a id="Prognose"></a>
 
@@ -79,7 +76,7 @@ Im Bereich Prognose erscheinen im Symbolband drei bzw. vier Bereiche:
 
 #### Analyse
 
-![PM2_Analyse](/bilder/wiki/pm2-analyse-2120fc71.png)
+![PM2_Analyse](/bilder/tools/pm2/pm2-analyse.png)
 
 Hierüber können die schon beim Programmstart angezeigten Möglichkeiten der Analyse erneut ausgewählt bzw. geändert werden:
 
@@ -87,7 +84,7 @@ Hierüber können die schon beim Programmstart angezeigten Möglichkeiten der An
 
 #### Lernabschnitt
 
-![PM2_Lernabschnitt](/bilder/wiki/pm2-lernabschnitt-f0afdd7c.png)
+![PM2_Lernabschnitt](/bilder/tools/pm2/pm2-lernabschnitt.png)
 
 Dieser Bereich wird eingeblendet, wenn als Analyseverfahren "Klasse" ausgewählt worden ist. Es besteht die Möglichkeit, das Schuljahr und den Lernabschnitt zu ändern. Nach einer Änderung hier werden die Daten unmittelbar eingelesen. Mittels "Einlesen" können die selektierten Daten aus der verknüpften SchILD-Datenbank erneut eingelesen (ermöglicht paralleles Arbeiten zwischen SchILD und Prognos. Denkbar z.B. wenn LB-Noten für die HA10-Berechnung nachgetragen werden sollen, und Prognos diese direkt wieder einlesen kann für eine erneute Berechnung).
 
@@ -95,7 +92,7 @@ Dieser Bereich wird eingeblendet, wenn als Analyseverfahren "Klasse" ausgewählt
 
 #### Optionen
 
-![PM2_Optionen](/bilder/wiki/pm2-optionen-2b608c62.png)
+![PM2_Optionen](/bilder/tools/pm2/pm2-optionen.png)
 
 - Berechnen
 
@@ -129,7 +126,7 @@ Dieser Bereich wird eingeblendet, wenn als Analyseverfahren "Klasse" ausgewählt
 
 #### Anzeige
 
-![PM2_Anzeige](/bilder/wiki/pm2-anzeige-01df97fe.png)
+![PM2_Anzeige](/bilder/tools/pm2/pm2-anzeige.png)
 
 Diese Auswahlmöglichkeiten verändern das Fenster bzw. öffnen ein weiteres.
 

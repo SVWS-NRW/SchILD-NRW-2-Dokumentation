@@ -1,8 +1,5 @@
 ---
 title: "Abschlussdatum neu berechnen"
-wiki_title: "Abschlussdatum neu berechnen"
-wiki_page_id: 355
-wiki_revision: 1587
 ---
 
 # Abschlussdatum neu berechnen

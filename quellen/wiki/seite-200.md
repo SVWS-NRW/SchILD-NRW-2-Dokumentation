@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 550 · Stand 2013-12-11.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-200.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/benutzerverwaltung-plugin-027dbd7d.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/administration/benutzer-einstellungen/benutzerverwaltung-plugin.jpg)
 
-![Benutzerverwaltung_plugin.jpg](/bilder/wiki/benutzerverwaltung-plugin-027dbd7d.jpg)
+![Benutzerverwaltung_plugin.jpg](/bilder/administration/benutzer-einstellungen/benutzerverwaltung-plugin.jpg)
 
 ## Originalquelltext
 

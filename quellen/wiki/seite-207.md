@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 604 · Stand 2013-12-12.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-207.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/weitereschultexte-51764aa9.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/einstieg/erste-schritte/weitereschultexte.jpg)
 
-![WeitereSchultexte.jpg](/bilder/wiki/weitereschultexte-51764aa9.jpg)
+![WeitereSchultexte.jpg](/bilder/einstieg/erste-schritte/weitereschultexte.jpg)
 
 ## Originalquelltext
 

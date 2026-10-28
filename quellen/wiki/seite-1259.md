@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 4965 · Stand 2021-10-20.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1259.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/schild-export-999a5812.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/import-export-statistik/schild-export.png)
 
-![SchILD_Export.png](/bilder/wiki/schild-export-999a5812.png)
+![SchILD_Export.png](/bilder/schild2/import-export-statistik/schild-export.png)
 
 ## Originalquelltext
 

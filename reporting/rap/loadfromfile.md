@@ -1,8 +1,5 @@
 ---
 title: "LoadFromFile"
-wiki_title: "LoadFromFile"
-wiki_page_id: 44
-wiki_revision: 65
 ---
 
 # LoadFromFile
@@ -10,9 +7,7 @@ wiki_revision: 65
 <a id="RAP-Funktion_&quot;LoadFromFile&quot;"></a>
 <a id="RAP-Funktion_.22LoadFromFile.22"></a>
 
-## RAP-Funktion "LoadFromFile"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 function LoadFromFile(aFilename: String): String;
@@ -26,9 +21,7 @@ aFilename   Pfad + Dateiname der zu ladenden Textdatei
 
 ## Rückgabewert
 
-```text
 Inhalt der Textdatei
-```
 
 ## Beispiel
 
@@ -39,5 +32,7 @@ RichText1.RichText:=LoadFromFile(lFilename')
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-44) · [LoadFromFile – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LoadFromFile&oldid=65)

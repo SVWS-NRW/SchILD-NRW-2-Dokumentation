@@ -1,14 +1,11 @@
 ---
 title: "Vorhandene Filterdefinition löschen"
-wiki_title: "Vorhandene Filterdefinition löschen"
-wiki_page_id: 158
-wiki_revision: 971
 ---
 
 # Vorhandene Filterdefinition löschen
 
 
-![Filterloeschen](/bilder/wiki/filterloeschen-7b97744c.jpg)
+![Filterloeschen](/bilder/schild2/auswahl/filterloeschen.jpg)
 
 Werden vorhandene gespeicherte Attributsfilter oder auch allgemeine Filter nicht mehr benötigt, kann man sie unter diesem Menüpunkt löschen.
 

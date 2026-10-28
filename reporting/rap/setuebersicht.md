@@ -1,8 +1,5 @@
 ---
 title: "SetUebersicht"
-wiki_title: "SetUebersicht"
-wiki_page_id: 92
-wiki_revision: 116
 ---
 
 # SetUebersicht
@@ -10,9 +7,7 @@ wiki_revision: 116
 <a id="RAP-Funktion_&quot;SetUebersicht&quot;"></a>
 <a id="RAP-Funktion_.22SetUebersicht.22"></a>
 
-## RAP-Funktion "SetUebersicht"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 procedure SetUebersicht(IsUebersicht: Boolean);
@@ -28,11 +23,6 @@ IsUebersicht       - Boolescher Wert, bei 'True' werden die Leistungsdaten eines
                      bei Bedarf  zugeschaltet werden
 ```
 
-## Rückgabewert
-
-```text
-...
-```
 
 ## Beispiel
 
@@ -46,5 +36,7 @@ Procedure ReportBeforePrint;
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-92) · [SetUebersicht – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetUebersicht&oldid=116)

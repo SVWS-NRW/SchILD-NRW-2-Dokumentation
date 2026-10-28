@@ -1,8 +1,5 @@
 ---
 title: "Schüler mit fehlendem Abschnitt (Status=Aktiv,..)"
-wiki_title: "Schüler mit fehlendem Abschnitt (Status=Aktiv,..)"
-wiki_page_id: 153
-wiki_revision: 975
 ---
 
 # Schüler mit fehlendem Abschnitt (Status=Aktiv,..)

@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 1400 · Stand 2014-02-17.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-324.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/gliederungseinstellungen-b2238c83.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/unterricht-kataloge/gliederungseinstellungen.jpg)
 
-![Gliederungseinstellungen.jpg](/bilder/wiki/gliederungseinstellungen-b2238c83.jpg)
+![Gliederungseinstellungen.jpg](/bilder/schild2/unterricht-kataloge/gliederungseinstellungen.jpg)
 
 ## Originalquelltext
 

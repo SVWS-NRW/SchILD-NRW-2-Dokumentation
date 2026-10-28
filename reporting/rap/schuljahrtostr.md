@@ -1,8 +1,5 @@
 ---
 title: "SchuljahrToStr"
-wiki_title: "SchuljahrToStr"
-wiki_page_id: 71
-wiki_revision: 92
 ---
 
 # SchuljahrToStr
@@ -10,9 +7,7 @@ wiki_revision: 92
 <a id="RAP-Funktion_&quot;SchuljahrToStr&quot;"></a>
 <a id="RAP-Funktion_.22SchuljahrToStr.22"></a>
 
-## RAP-Funktion "SchuljahrToStr"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 function SchuljahrToStr(aJahr, aAbschnitt: integer): String;
@@ -28,9 +23,7 @@ aAbschnitt         - Schuljahresabschnitt. Falls aAbschnitt = 0 ist, wird der
 
 ## Rückgabewert
 
-```text
 Schuljahr in der Form 'JJJJ/JJ.A'
-```
 
 ## Beispiel
 
@@ -41,5 +34,7 @@ Ergebnis (z.B.): lSchuljahrStr = '2005/06.2'
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-71) · [SchuljahrToStr – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SchuljahrToStr&oldid=92)

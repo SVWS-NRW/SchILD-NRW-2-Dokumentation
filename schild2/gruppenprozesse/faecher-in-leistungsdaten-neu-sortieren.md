@@ -1,8 +1,5 @@
 ---
 title: "Fächer in Leistungsdaten neu sortieren"
-wiki_title: "Fächer in Leistungsdaten neu sortieren"
-wiki_page_id: 348
-wiki_revision: 2050
 ---
 
 # Fächer in Leistungsdaten neu sortieren

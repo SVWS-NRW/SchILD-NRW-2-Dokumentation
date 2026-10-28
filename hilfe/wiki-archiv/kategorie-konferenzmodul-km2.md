@@ -1,13 +1,10 @@
 ---
 title: "Kategorie:Konferenzmodul KM2"
-wiki_title: "Kategorie:Konferenzmodul KM2"
-wiki_page_id: 577
-wiki_revision: 2241
 ---
 
 # Kategorie:Konferenzmodul KM2
 
-![Km2-logo](/bilder/wiki/km2-logo-6df70bfe.png) Dokumente im Zusammenhang mit dem Konferenzmodul **KM<sup>2</sup>**.
+![Km2-logo](/bilder/tools/km2/km2-logo.png) Dokumente im Zusammenhang mit dem Konferenzmodul **KM<sup>2</sup>**.
 
 ---
 

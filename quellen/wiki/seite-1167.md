@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 4562 · Stand 2020-05-05.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1167.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/multi-klausurplaner-zellenuebersicht-6c7c9796.png)
+[Gesicherte Originaldatei öffnen](/bilder/tools/weitere/multi-klausurplaner-zellenubersicht.png)
 
-![Multi_Klausurplaner_Zellenübersicht.png](/bilder/wiki/multi-klausurplaner-zellenuebersicht-6c7c9796.png)
+![Multi_Klausurplaner_Zellenübersicht.png](/bilder/tools/weitere/multi-klausurplaner-zellenubersicht.png)
 
 ## Originalquelltext
 

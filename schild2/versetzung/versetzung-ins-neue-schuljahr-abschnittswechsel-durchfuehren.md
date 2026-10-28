@@ -1,8 +1,5 @@
 ---
 title: "Versetzung ins neue Schuljahr / Abschnittswechsel durchführen"
-wiki_title: "Versetzung ins neue Schuljahr / Abschnittswechsel durchführen"
-wiki_page_id: 1182
-wiki_revision: 4653
 ---
 
 # Versetzung ins neue Schuljahr / Abschnittswechsel durchführen
@@ -30,7 +27,7 @@ Gehen Sie einfach auf Schulverwaltung \> Schule bearbeiten und klicken Sie den B
 
 Die Angaben zu Beginn und Ende sind optional.
 
-![Halbjahreswechsel](/bilder/wiki/halbjahreswechsel-5d14e34e.jpg)
+![Halbjahreswechsel](/bilder/schild2/versetzung/halbjahreswechsel.jpg)
 
 <a id="Abschnittswechsel_mit_Versetzung_(Schuljahreswechsel)"></a>
 <a id="Abschnittswechsel_mit_Versetzung_.28Schuljahreswechsel.29"></a>
@@ -46,7 +43,7 @@ In beiden Fällen ist es ratsam den Abschnittswechsel über **Schulverwaltung \>
 
 Drücken Sie den Button **Schuljahreswechsel durchführen**. Achten Sie im folgenden Menü darauf, dass der Haken zu den Fächern wie gewünscht gesetzt ist und, dass der Haken **mit visueller Kontrolle** gesetzt ist!
 
-![Schuljahreswechsel](/bilder/wiki/schuljahreswechsel-4c32caa9.jpg)
+![Schuljahreswechsel](/bilder/schild2/versetzung/schuljahreswechsel.jpg)
 
 Kontrollieren Sie die Haken bei den Fächern. Fächer mit Kursangaben sollen in der Regel mitgenommen werden. Bei Fächern ohne Kurseintrag (Klassenunterricht) muss das individuell entschieden werden. An Grundschulen kann die gesamte UVD durch Setzen der Haken mitgenommen werden! Der Klassen- und Kursunterricht muss im neuen Schuljahr dann nur noch auf Änderungen bei den Lehrkräften kontrolliert werden. Die Stundentafeln der neuen Schüler (in Grundschulen die Erstklässler, in Sek1-Schulen die 5.Klässler) müssen natürlich neu angelegt werden.
 

@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2625 · Stand 2014-11-21.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-673.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/report-neu-dbtext-2-421ed3bc.png)
+[Gesicherte Originaldatei öffnen](/bilder/reporting/erstellung/report-neu-dbtext-2.png)
 
-![Report-Neu-DBText-2.png](/bilder/wiki/report-neu-dbtext-2-421ed3bc.png)
+![Report-Neu-DBText-2.png](/bilder/reporting/erstellung/report-neu-dbtext-2.png)
 
 ## Originalquelltext
 

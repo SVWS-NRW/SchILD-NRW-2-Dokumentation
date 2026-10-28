@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 6041 · Stand 2025-09-19.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1441.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/merkmaledefinieren-116904c3.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/schueler/merkmaledefinieren.png)
 
-![MerkmaleDefinieren.png](/bilder/wiki/merkmaledefinieren-116904c3.png)
+![MerkmaleDefinieren.png](/bilder/schild2/schueler/merkmaledefinieren.png)
 
 ## Originalquelltext
 

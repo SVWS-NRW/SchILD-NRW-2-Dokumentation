@@ -1,8 +1,5 @@
 ---
 title: "Noten, Mahnungen und Fehlstunden eingeben"
-wiki_title: "Noten, Mahnungen und Fehlstunden eingeben"
-wiki_page_id: 479
-wiki_revision: 3623
 ---
 
 # Noten, Mahnungen und Fehlstunden eingeben
@@ -17,7 +14,7 @@ Zusätzlich werden auch noch weitere Filtermöglichkeiten angeboten, um z.B. Ein
 
 Das Setzen der Häkchen bei den Mahnungen erfolgt durch einen Doppelklick, die Eintragungen bei den Fehlstunden (FSG=Fehlstunden gesamt, FSU=Fehlstunden unentschuldigt) und den Noten durch Klick auf das entsprechende Tabellenfeld. Die Noten können auch aus dem Pull-Down-Menü ausgewählt werden.
 
-![GP-NotenFehlstdeingeben](/bilder/wiki/gp-notenfehlstdeingeben-7b232b08.jpg)
+![GP-NotenFehlstdeingeben](/bilder/zeugnisse/vorbereitung/gp-notenfehlstdeingeben.jpg)
 
 Nach Abschluss der Eingabe werden die Daten durch Kick auf die Schaltfläche "In die Datenbank übernehmen" gespeichert.
 

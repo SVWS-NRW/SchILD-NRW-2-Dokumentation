@@ -1,8 +1,5 @@
 ---
 title: "Straße und Hausnummer bei Schülerdaten trennen"
-wiki_title: "Straße und Hausnummer bei Schülerdaten trennen"
-wiki_page_id: 352
-wiki_revision: 1543
 ---
 
 # Straße und Hausnummer bei Schülerdaten trennen

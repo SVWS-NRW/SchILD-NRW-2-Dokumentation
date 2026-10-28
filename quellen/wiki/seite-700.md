@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2685 · Stand 2014-12-01.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-700.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/report-header-mitsubreport-75f45455.png)
+[Gesicherte Originaldatei öffnen](/bilder/reporting/erstellung/report-header-mitsubreport.png)
 
-![Report-Header-mitSubreport.png](/bilder/wiki/report-header-mitsubreport-75f45455.png)
+![Report-Header-mitSubreport.png](/bilder/reporting/erstellung/report-header-mitsubreport.png)
 
 ## Originalquelltext
 

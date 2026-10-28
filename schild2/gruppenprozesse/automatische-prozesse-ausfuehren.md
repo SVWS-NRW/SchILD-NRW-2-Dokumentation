@@ -1,8 +1,5 @@
 ---
 title: "Automatische Prozesse ausführen"
-wiki_title: "Automatische Prozesse ausführen"
-wiki_page_id: 343
-wiki_revision: 1540
 ---
 
 # Automatische Prozesse ausführen

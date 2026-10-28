@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2326 · Stand 2014-05-28.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-607.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/herkunftbk2-323f334e.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/zeugnisse/berufskolleg/herkunftbk2.jpg)
 
-![Herkunftbk2.jpg](/bilder/wiki/herkunftbk2-323f334e.jpg)
+![Herkunftbk2.jpg](/bilder/zeugnisse/berufskolleg/herkunftbk2.jpg)
 
 ## Originalquelltext
 

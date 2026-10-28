@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 412 · Stand 2013-11-20.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-165.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/verkehrssprachen-4a728861.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/unterricht-kataloge/verkehrssprachen.jpg)
 
-![Verkehrssprachen.jpg](/bilder/wiki/verkehrssprachen-4a728861.jpg)
+![Verkehrssprachen.jpg](/bilder/schild2/unterricht-kataloge/verkehrssprachen.jpg)
 
 ## Originalquelltext
 

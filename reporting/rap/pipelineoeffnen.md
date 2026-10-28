@@ -1,8 +1,5 @@
 ---
 title: "PipelineOeffnen"
-wiki_title: "PipelineOeffnen"
-wiki_page_id: 115
-wiki_revision: 155
 ---
 
 # PipelineOeffnen
@@ -10,9 +7,7 @@ wiki_revision: 155
 <a id="RAP-Funktion_&quot;PipelineOeffnen&quot;"></a>
 <a id="RAP-Funktion_.22PipelineOeffnen.22"></a>
 
-## RAP-Funktion "PipelineOeffnen"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 procedure PipelineOeffnen(aPipeline: TppDBpipeline);
@@ -24,11 +19,6 @@ procedure PipelineOeffnen(aPipeline: TppDBpipeline);
 DBpipeline : Die zu öffnende Datenquelle als Zeichenkette.
 ```
 
-## Rückgabewert
-
-```text
-...
-```
 
 ## Beispiel
 
@@ -41,5 +31,7 @@ procedure ReportBeforePrint;
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-115) · [PipelineOeffnen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=PipelineOeffnen&oldid=155)

@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 3991 · Stand 2016-11-25.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1062.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/s1p-027-kurse-bei-schueler-in-schild-99f65aa8.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/tools/s1plan/s1p-027-kurse-bei-schuler-in-schild.jpg)
 
-![S1P-027-Kurse_bei_Schüler_in_Schild.JPG](/bilder/wiki/s1p-027-kurse-bei-schueler-in-schild-99f65aa8.jpg)
+![S1P-027-Kurse_bei_Schüler_in_Schild.JPG](/bilder/tools/s1plan/s1p-027-kurse-bei-schuler-in-schild.jpg)
 
 ## Originalquelltext
 

@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2294 · Stand 2014-05-26.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-597.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/inormationen-datenquellen-10a140e8.png)
+[Gesicherte Originaldatei öffnen](/bilder/archiv/inormationen-datenquellen.png)
 
-![Inormationen-Datenquellen.png](/bilder/wiki/inormationen-datenquellen-10a140e8.png)
+![Inormationen-Datenquellen.png](/bilder/archiv/inormationen-datenquellen.png)
 
 ## Originalquelltext
 

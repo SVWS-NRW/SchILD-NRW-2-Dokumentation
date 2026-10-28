@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { computed, ref, watch } from 'vue'
+import { withBase } from 'vitepress'
 import catalog from '../image-catalog.json'
 
 const search = ref('')
@@ -48,8 +49,8 @@ async function copy(image: typeof catalog[number]) {
     <p v-if="copyError" role="alert">{{ copyError }}</p>
     <div class="catalog-grid">
       <article v-for="image in visible" :key="image.path" class="catalog-card">
-        <a :href="image.path" target="_blank" rel="noopener" :aria-label="`Originalbild öffnen: ${image.original}`">
-          <img :src="image.path" :alt="image.captions[0] || image.original" loading="lazy" />
+        <a :href="withBase(image.path)" target="_blank" rel="noopener" :aria-label="`Originalbild öffnen: ${image.original}`">
+          <img :src="withBase(image.path)" :alt="image.captions[0] || image.original" loading="lazy" />
         </a>
         <h2>{{ image.title }}</h2>
         <code class="catalog-path">{{ image.path }}</code>
@@ -60,7 +61,7 @@ async function copy(image: typeof catalog[number]) {
         <button type="button" @click="copy(image)">{{ copied === image.path ? 'Kopiert' : 'Markdown kopieren' }}</button>
         <details>
           <summary>Verwendet in {{ image.articles.length }} Artikel{{ image.articles.length === 1 ? '' : 'n' }}</summary>
-          <ul><li v-for="article in image.articles" :key="article.link"><a :href="article.link">{{ article.title }}</a></li></ul>
+          <ul><li v-for="article in image.articles" :key="article.link"><a :href="withBase(article.link)">{{ article.title }}</a></li></ul>
           <p class="catalog-original">Originalname: {{ image.original }}</p>
         </details>
       </article>

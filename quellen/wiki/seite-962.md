@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 3688 · Stand 2015-11-16.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-962.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/serienbrief-03-d49ff2a2.png)
+[Gesicherte Originaldatei öffnen](/bilder/archiv/serienbrief-03.png)
 
-![Serienbrief-03.png](/bilder/wiki/serienbrief-03-d49ff2a2.png)
+![Serienbrief-03.png](/bilder/archiv/serienbrief-03.png)
 
 ## Originalquelltext
 

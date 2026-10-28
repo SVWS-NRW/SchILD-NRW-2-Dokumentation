@@ -1,8 +1,5 @@
 ---
 title: "SchuljahrToStrEx"
-wiki_title: "SchuljahrToStrEx"
-wiki_page_id: 72
-wiki_revision: 93
 ---
 
 # SchuljahrToStrEx
@@ -10,9 +7,7 @@ wiki_revision: 93
 <a id="RAP-Funktion_&quot;SchuljahrToStrEx&quot;"></a>
 <a id="RAP-Funktion_.22SchuljahrToStrEx.22"></a>
 
-## RAP-Funktion "SchuljahrToStrEx"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 function SchuljahrToStrEx(aJahr, aAbschnitt: integer; Format: String; AbschnittVorn: Boolean): String;
@@ -36,9 +31,7 @@ AbschnittVorn      - Wenn AbschnittVorn wahr ist, werden die Parameter in der
 
 ## Rückgabewert
 
-```text
 Schuljahr in der durch Format vorgegebenen Form
-```
 
 ## Beispiel
 
@@ -51,5 +44,7 @@ Ergebnis: lSchuljahrStr = 'Schuljahr 2005/06, 2. Halbjahr'
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-72) · [SchuljahrToStrEx – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SchuljahrToStrEx&oldid=93)

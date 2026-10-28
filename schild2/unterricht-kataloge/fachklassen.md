@@ -1,8 +1,5 @@
 ---
 title: "Fachklassen"
-wiki_title: "Fachklassen"
-wiki_page_id: 326
-wiki_revision: 1407
 ---
 
 # Fachklassen
@@ -13,7 +10,7 @@ Bitte beachten Sie, dass dieser Katalog aus der Statistik Datenbank (Statkue.mdb
 
 Sie können zu jeder Fachklasse die Lernfelder in einem Richtextfeld führen. Dies ist eine Alternative zu der Eingabe bei den [Unterrichtsfächern](/schild2/unterricht-kataloge/unterrichtsfaecher).
 
-![Fachklassen](/bilder/wiki/fachklassen-785c4fdc.jpg)
+![Fachklassen](/bilder/schild2/unterricht-kataloge/fachklassen.jpg)
 
 ------------------------------------------------------------------------
 

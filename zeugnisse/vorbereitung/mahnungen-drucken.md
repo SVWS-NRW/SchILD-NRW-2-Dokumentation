@@ -1,8 +1,5 @@
 ---
 title: "Mahnungen drucken"
-wiki_title: "Mahnungen drucken"
-wiki_page_id: 486
-wiki_revision: 6067
 ---
 
 # Mahnungen drucken
@@ -98,7 +95,7 @@ Alternativ zur Eingabe des Codes können Sie auch einen SQL-Filter "Aus Datei la
 
 Passen Sie die Jahrgänge im Codeabschnitt `AND Schueler.ASDJahrgang IN ('06','07','08','09','10','EF')` entsprechend ihrer Schulform an.
 
-![Filter II Mahnungen](/bilder/wiki/filter-ii-mahnungen-2c7a5921.png)
+![Filter II Mahnungen](/bilder/zeugnisse/vorbereitung/filter-ii-mahnungen.png)
 
 Klicken Sie auf die Schaltfläche "Testen" und dann auf "Übernehmen". Der Schülerkontainer enthält nun alle Schülerinnen und Schüler, welche ein Mahnschreiben erhalten müssen.
 
@@ -114,7 +111,7 @@ Klicken Sie auf die Schaltfläche "Testen" und dann auf "Übernehmen". Der Schü
 
 Nun muss bei den Schülerinnen und Schülern noch das Mahndatum hinterlegt werden. Starten Sie hierzu den Gruppenprozess ➜ Noten, Zeugnisvorbereitung ➜ Mahnungen drucken.
 
-![Mahndatum setzen](/bilder/wiki/mahndatum-setzen-ef23f47e.png)
+![Mahndatum setzen](/bilder/zeugnisse/vorbereitung/mahndatum-setzen.png)
 
 Lassen Sie die zwei Auswahlfelder aktiviert. Es ist nun notwendig, auf die Schaltfläche "Mahnungen drucken" zu klicken, auch wenn keine Mahnungen mehr gedruckt werden sollen. Es öffnet sich nun der Reportexplorer, der sofort wieder geschlossen werden darf. Klicken Sie nun auf die Schaltfläche "Fertigstellen". Es wird nun bei allen Schülerinnen und Schülern innerhalb des Schülerkontainers das Mahndatum gesetzt, wo es noch nicht vorhanden ist. Bestehende Angaben werden dabei nicht überschrieben.
 
@@ -191,7 +188,7 @@ Dieser Serienbrief muss über den Gruppenprozess ➜ Noten, Zeugnisvorbereitung 
 
 Starten Sie den Gruppenprozess ➜ Noten, Zeugnisvorbereitung ➜ Mahnungen drucken. Deaktivieren Sie das Auswahlfeld "Nur Mahnungen ausgeben, bei denen das Mahndatum noch nicht gesetzt wurde. Das Mahnschreiben ist so programmiert, dass immer alle Mahnungen mit oder ohne Mahndatum benötigt werden. Der Report hat einen internen Filter, so dass trotz Deaktivierung des Häkchens nur die zu Mahnenden Fächer des jeweiligen Halbjahres gedruckt werden.
 
-![MahnungDrucken](/bilder/wiki/mahnungdrucken-2f85d5be.png)
+![MahnungDrucken](/bilder/zeugnisse/vorbereitung/mahnungdrucken.png)
 
 <a id="Mahnungen_drucken_2"></a>
 
@@ -205,7 +202,7 @@ Klicken Sie auf die Schaltfläche "Mahnungen drucken". Es öffnet sich der Repor
 
 Nach dem Ausdruck muss noch das Mahndatum bei allen Mahnungen gesetzt werden, welche noch kein Mahndatum haben. Schließen Sie hierzu den Reportexplorer, wenn alle Mahnschreiben und Übersichtslisten gedruckt wurden. Sie gelangen auf diese Weise zum Gruppenprozess zurück. Klicken Sie nun auf die Schaltfläche "Abbrechen" und starten Sie den Gruppenprozess erneut. Aktivieren Sie nun beide Auswahlfelder. Es ist nun notwendig, auf die Schaltfläche "Mahnungen drucken" zu klicken, auch wenn keine Mahnungen mehr gedruckt werden sollen. Es öffnet sich nun der Reportexplorer, der sofort wieder geschlossen werden darf. Klicken Sie nun auf die Schaltfläche "Fertigstellen". Es wird nun bei allen Schülerinnen und Schülern innerhalb des Schülerkontainers das Mahndatum gesetzt, wo es noch nicht vorhanden ist. Bestehende Angaben werden dabei nicht überschrieben.
 
-![MahnungDrucken3](/bilder/wiki/mahnungdrucken3-df9eec46.png)
+![MahnungDrucken3](/bilder/zeugnisse/vorbereitung/mahnungdrucken3.png)
 
 Hinweis: Sie können zu jedem Zeitpunkt den Gruppenprozess abbrechen und zu einem späteren Zeitpunkt wieder aufnehmen. Auf diese Weise können Sie auch schrittweise Mahnschreiben drucken und das jeweilige Mahndatum setzen. Sie sollten jedoch vermeiden, dass bei einem Schüler Mahnhäkchen mit und ohne Mahndatum hinterlegt sind.
 

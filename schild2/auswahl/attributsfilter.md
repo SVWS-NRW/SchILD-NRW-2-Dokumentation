@@ -1,13 +1,10 @@
 ---
 title: "Attributsfilter"
-wiki_title: "Attributsfilter"
-wiki_page_id: 159
-wiki_revision: 1185
 ---
 
 # Attributsfilter
 
-![Attributsfilter01](/bilder/wiki/attributsfilter01-60067369.jpg)
+![Attributsfilter01](/bilder/schild2/auswahl/attributsfilter01.jpg)
 
 Bei Verwendung des Attributsfilters sollte man sicherstellen, dass vorher alle aktiven Schüler der Schule im Zugriff sind. (Leuchtdiode ist grün).
 
@@ -65,7 +62,7 @@ Ein weiteres Anwenden dieser Filterbedingung ist über [Auswahl](/schild2/auswah
 
 Der Filter kann verworfen werden. Das Fenster Attributs-Filter definieren schließt sich. Die aktive Schülermenge steht im [Schüler-Container](/einstieg/grundlagen/container).
 
-![Attributsfilter02](/bilder/wiki/attributsfilter02-260da80a.jpg)
+![Attributsfilter02](/bilder/schild2/auswahl/attributsfilter02.jpg)
 
 Besonderheit: Wenn Schüler mit einer Löschmarkierung endgültig aus der Datenbank gelöscht werden sollen, so benötigt man diesen Filter, um diese zu löschenden Schüler sichtbar zu machen. Dazu setzt man nach Aufruf des Filters das Attribut 'gelöscht' auf 'Ja' und führt die Filterung durch. Anschließend ruft man in einem [Gruppenprozess](/schild2/gruppenprozesse/gruppenprozesse) die Option 'Schülerdatensätze löschen' auf.
 

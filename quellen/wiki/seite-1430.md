@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 5954 · Stand 2024-08-30.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1430.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/dfklassenart1-961315cf.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/schueler/dfklassenart1.png)
 
-![DFKlassenart1.png](/bilder/wiki/dfklassenart1-961315cf.png)
+![DFKlassenart1.png](/bilder/schild2/schueler/dfklassenart1.png)
 
 ## Originalquelltext
 

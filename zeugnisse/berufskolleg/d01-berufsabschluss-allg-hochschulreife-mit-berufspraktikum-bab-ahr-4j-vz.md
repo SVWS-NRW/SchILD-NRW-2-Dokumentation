@@ -1,8 +1,5 @@
 ---
 title: "D01 Berufsabschluss/Allg. Hochschulreife (mit Berufspraktikum) (BAB/AHR 4j; VZ)"
-wiki_title: "D01 Berufsabschluss/Allg. Hochschulreife (mit Berufspraktikum) (BAB/AHR 4j; VZ)"
-wiki_page_id: 1196
-wiki_revision: 4745
 ---
 
 # D01 Berufsabschluss/Allg. Hochschulreife (mit Berufspraktikum) (BAB/AHR 4j; VZ)

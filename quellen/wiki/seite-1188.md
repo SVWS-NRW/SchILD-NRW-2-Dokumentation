@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 4715 · Stand 2021-01-25.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1188.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/pdf-mailversand02-08b6044a.png)
+[Gesicherte Originaldatei öffnen](/bilder/reporting/verwaltung/pdf-mailversand02.png)
 
-![PDF-Mailversand02.png](/bilder/wiki/pdf-mailversand02-08b6044a.png)
+![PDF-Mailversand02.png](/bilder/reporting/verwaltung/pdf-mailversand02.png)
 
 ## Originalquelltext
 

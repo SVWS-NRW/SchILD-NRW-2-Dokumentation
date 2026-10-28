@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 1113 · Stand 2014-01-29.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-261.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/externimport2-c36ca6d2.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/import-export-statistik/externimport2.jpg)
 
-![ExternImport2.jpg](/bilder/wiki/externimport2-c36ca6d2.jpg)
+![ExternImport2.jpg](/bilder/schild2/import-export-statistik/externimport2.jpg)
 
 ## Originalquelltext
 

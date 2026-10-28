@@ -1,8 +1,5 @@
 ---
 title: "K422CNF:Übersicht"
-wiki_title: "K422CNF:Übersicht"
-wiki_page_id: 1157
-wiki_revision: 4323
 ---
 
 # K422CNF:Übersicht

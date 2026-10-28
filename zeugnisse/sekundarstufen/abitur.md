@@ -1,19 +1,16 @@
 ---
 title: "Abitur"
-wiki_title: "Abitur"
-wiki_page_id: 532
-wiki_revision: 4201
 ---
 
 # Abitur
 
 Der Karteireiter **Abitur** wird bei allen Abiturientinnen und Abiturienten mit Beginn der Qualifikationsphase eingeblendet. Unter der Voraussetzung, dass alle relevanten Daten für die Schülerin / den Schüler eingegeben wurden, können auf dieser Karteikarte alle Schritte der Abiturprüfung datentechnisch abgebildet werden.
 
-![Karteireiter-Abitur1](/bilder/wiki/karteireiter-abitur1-6583997b.png)
+![Karteireiter-Abitur1](/bilder/zeugnisse/sekundarstufen/karteireiter-abitur1.png)
 
 Im unteren Teil des Fensters wird die Auswertung der gesamten Abiturprüfung angezeigt.
 
-![Karteireiter-Abitur2](/bilder/wiki/karteireiter-abitur2-d18ce3d1.png)
+![Karteireiter-Abitur2](/bilder/zeugnisse/sekundarstufen/karteireiter-abitur2.png)
 
 Die einzelnen Schritte werden in der Regel für die gesamte Gruppe als Gruppenprozess ([Gruppenprozesse Abitur](/zeugnisse/sekundarstufen/gruppenprozesse-abitur)) ausgeführt, können aber auch hier für den einzelnen Schüler ausgeführt werden.
 
@@ -31,11 +28,11 @@ Das Setzen des dritten Häkchens bewirkt, dass der Algorithmus eine fehlende zwe
 
 Hat ein Schüler einen Projektkurs belegt, so erscheint an dieser Stelle das Thema seines Projektkurses. Dazu muss es unter den fachbezogenen Bemerkungen in jedem Halbjahr beim Projektkurs eingetragen worden sein (Unter Extras \> Programm-Einstellungen \> Globate Einstellungen \> Fächer und Noten müssen die fachbezogenen Bemerkungen aktiviert sein).
 
-![Karteireiter-Abitur3](/bilder/wiki/karteireiter-abitur3-9e317350.jpg)
+![Karteireiter-Abitur3](/bilder/zeugnisse/sekundarstufen/karteireiter-abitur3.jpg)
 
 Will ein Schüler in seine Abiturleistungen eine besondere Lernleistung einbringen, so muss dies an dieser Stelle vermerkt werden.
 
-![Karteireiter-Abitur4](/bilder/wiki/karteireiter-abitur4-8764d30b.jpg)
+![Karteireiter-Abitur4](/bilder/zeugnisse/sekundarstufen/karteireiter-abitur4.jpg)
 
 Es kann gewählt werden zwischen
 
@@ -47,13 +44,13 @@ Wird eine bes. Lernleistung ausgewählt, so erscheinen zwei weitere Felder, in d
 
 In der Übersicht der Leistungen der Qualifikationsphase besteht nun noch die Möglichkeit, einzelne Kurse nicht auf dem Abiturzeugnis ausgeben zu lassen. Dazu macht man einen Rechtsklick auf den gewünschten Kurs und wählt "Nicht in Abiturzeugnis auswählen". Ein solcher Kurs wird nun in eckigen Klammern dargestellt. Möglich ist diese Option allerdings nur bei Kursen, die nicht zur Pflichtbelegung gehören bzw. nicht in die Abiturberechnung einbezogen wurden.
 
-![Karteireiter-Abitur5](/bilder/wiki/karteireiter-abitur5-8008912f.jpg)
+![Karteireiter-Abitur5](/bilder/zeugnisse/sekundarstufen/karteireiter-abitur5.jpg)
 
 Für die weiteren Eingabemöglichkeiten unter diesem Reiter findet man eine ausführliche Darlegung im aktuellen Handbuch_Teil_2_11.pdf vom 03.02.2014: <http://www.svws.nrw.de/index.php?id=dokumentationen>
 
 Hat ein Schüler das Abitur bestanden, ist es wichtig, dass bei ihm das Abitur-Jahr gesetzt wird (rechts unten im Fenster). Dies ist für die Statistik und evtl. weiteren Datenaustausch wichtig, damit z.B. die richtigen Ergebnisse für den Export der Abiturergebnisse zur Verfügung gestellt werden können.
 
-![Karteireiter-Abitur6](/bilder/wiki/karteireiter-abitur6-9470c18c.jpg)
+![Karteireiter-Abitur6](/bilder/zeugnisse/sekundarstufen/karteireiter-abitur6.jpg)
 
 ------------------------------------------------------------------------
 

@@ -1,8 +1,5 @@
 ---
 title: "Export für BAN-Portal"
-wiki_title: "Export für BAN-Portal"
-wiki_page_id: 1391
-wiki_revision: 6070
 ---
 
 # Export für BAN-Portal
@@ -16,8 +13,9 @@ Hierbei sollen die Schüler identifiziert werden, die über keine konkrete Ansch
 
 ## Schüler vorbereiten
 
-![SchILD-NRW_Export_BAN-Portal_Markieren](/bilder/wiki/schild-nrw-export-ban-portal-markieren-fc15379f.png)
-Markieren Sie Schüler als <em>für das BAN-Portal zu exportieren</em>.
+![SchILD-NRW_Export_BAN-Portal_Markieren](/bilder/schild2/import-export-statistik/schild-nrw-export-ban-portal-markieren.png)
+
+*Markieren Sie Schüler als *für das BAN-Portal zu exportieren*.*
 
 Damit Schülerdaten exportiert werden, müssen die Schüler als zu exportieren markiert werden.
 
@@ -27,8 +25,9 @@ Dies nehmen Sie für individuelle Schüler unter *Schüler ➜ Akt. Halbjahr ➜
 Beachten Sie hierbei, dass die Markierung für den jeweils gewählten **Lernabschnitt** gilt. Sollen weitere Lernabschnitte exportiert werden, sind diese anzuwählen und ebenfalls zu markieren.
 :::
 
-![BAN_Export_Abschluss](/bilder/wiki/ban-export-abschluss-1b15a7da.png)
-Abschlusseintrag.
+![BAN_Export_Abschluss](/bilder/schild2/import-export-statistik/ban-export-abschluss.png)
+
+*Abschlusseintrag.*
 
 **Neu ab 2025: Der voraussichtlichen Abschluss muss nicht eingetragen werden**
 
@@ -38,14 +37,15 @@ Der voraussichtlich erreichte Abschluss wird bei der Übermittlung der Daten an 
 
 Für größere Gruppen lassen sich die Markierungen bei Bedarf komfortabel über einen *Gruppenprozess* setzen.
 
-Wählen Sie zuerst die Schülergruppe aus, für welche die BAN-Markierungen gesetzt werden sollen und starten Sie den Gruppenprozess *Individualdaten ändern ➜ Lernabschitte*.\
+Wählen Sie zuerst die Schülergruppe aus, für welche die BAN-Markierungen gesetzt werden sollen und starten Sie den Gruppenprozess *Individualdaten ändern ➜ Lernabschnitte*.\
 
 <a id="BAN-Export"></a>
 
 ## BAN-Export
 
-![SchILD-NRW_Export_ExportBAN](/bilder/wiki/schild-nrw-export-exportban-c47a737c.png)
-Exportieren Sie die Datei für das BAN-Portal aus SchILD-NRW.
+![SchILD-NRW_Export_ExportBAN](/bilder/schild2/import-export-statistik/schild-nrw-export-exportban.png)
+
+*Exportieren Sie die Datei für das BAN-Portal aus SchILD-NRW.*
 
 In der Regel muss beim Export keine Schülergruppe ausgewählt werden, da die zu exportierenden Schüler schon im aktuellen Lernabschnitt markiert sind. Nicht-markierte Schüler werden daher beim Export ignoriert.
 
@@ -55,8 +55,9 @@ Sollten Sie nur ausgewählte Schülermengen exportieren wollen, filtern Sie dies
 
 Im Anschluss gehen Sie über *Datenaustausch ➜ Weitere Exporte* ➜ **Export für BAN-Portal**.\
 
-![SchILD-NRW_Export_ExportBAN_Datei](/bilder/wiki/schild-nrw-export-exportban-datei-9bfdfdb9.png)
-Wählen Sie den Speicherort der Exportdatei. Der Dateiname <em>BAN-Export.csv'</em> wird beibehalten.
+![SchILD-NRW_Export_ExportBAN_Datei](/bilder/schild2/import-export-statistik/schild-nrw-export-exportban-datei.png)
+
+*Wählen Sie den Speicherort der Exportdatei. Der Dateiname *BAN-Export.csv'* wird beibehalten.*
 
 Im folgenden Fenster ist der **Speicherort** für die Datei zu wählen.
 
@@ -92,51 +93,18 @@ Hierbei können im Feld **Geschlecht** diese Werte auftreten:
 
 Ausschließlich bei Berufskollegs wird im Feld **Gliederung** der ASD-Schlüssel für die Schulgliederung ausgewiesen, aus dem jeweils die Bezeichnung des Bildungsganges abgeleitet werden kann
 
-<table v-pre>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<th>Schulgliederung<br />
-(Schlüssel)</th>
-<th>Bezeichnung des Bildungsganges</th>
-</tr>
-&#10;<tr>
-<td>A12</td>
-<td>Ausbildungsvorbereitung in Vollzeitform gemäß §§ 18, 22 Absatz 3 APOBK Anlage A (Anlage A 2.2)</td>
-</tr>
-<tr>
-<td>A17</td>
-<td>Ausbildungsvorbereitung in Vollzeitform (Internationale Förderklasse) gemäß §§ 18, 22 Absatz 3 APOBK Anlage A (Anlage A 2.2)</td>
-</tr>
-<tr>
-<td>B06</td>
-<td>Berufsfachschule gemäß § 2 Nummer 1 APO-BK Anlage B (Anlage B 1)</td>
-</tr>
-<tr>
-<td>B07</td>
-<td>Berufsfachschule gemäß § 2 Nummer 2 APO-BK Anlage B (Anlage B 2)</td>
-</tr>
-<tr>
-<td>C03</td>
-<td>Berufsfachschule gemäß § 2 Nummer 3 Anlage C APO-BK (Anlage C 2)</td>
-</tr>
-<tr>
-<td>C05</td>
-<td>Fachoberschule gemäß § 8 Nummer 1 APO-BK Anlage C (Anlage C 3); Klasse 11</td>
-</tr>
-<tr>
-<td>C06</td>
-<td>Fachoberschule gemäß § 8 Nummer 1 APO-BK Anlage C (Anlage C 3); Klasse 12S</td>
-</tr>
-<tr>
-<td>D02</td>
-<td>Berufliches Gymnasium § 1a Absatz 1 Nummer 1 APO-BK Anlage D (Anlagen D 14-D 28)</td>
-</tr>
-</tbody>
-</table>
+
+| Schulgliederung<br>(Schlüssel) | Bezeichnung des Bildungsganges |
+| --- | --- |
+| A12 | Ausbildungsvorbereitung in Vollzeitform gemäß §§ 18, 22 Absatz 3 APOBK Anlage A (Anlage A 2.2) |
+| A17 | Ausbildungsvorbereitung in Vollzeitform (Internationale Förderklasse) gemäß §§ 18, 22 Absatz 3 APOBK Anlage A (Anlage A 2.2) |
+| B06 | Berufsfachschule gemäß § 2 Nummer 1 APO-BK Anlage B (Anlage B 1) |
+| B07 | Berufsfachschule gemäß § 2 Nummer 2 APO-BK Anlage B (Anlage B 2) |
+| C03 | Berufsfachschule gemäß § 2 Nummer 3 Anlage C APO-BK (Anlage C 2) |
+| C05 | Fachoberschule gemäß § 8 Nummer 1 APO-BK Anlage C (Anlage C 3); Klasse 11 |
+| C06 | Fachoberschule gemäß § 8 Nummer 1 APO-BK Anlage C (Anlage C 3); Klasse 12S |
+| D02 | Berufliches Gymnasium § 1a Absatz 1 Nummer 1 APO-BK Anlage D (Anlagen D 14-D 28) |
+
 
 Im Feld **voraussichtlich erreichter Abschluss** finden sich die Buchstabenkürzel, die nach der Statistik den Abschluss angeben. Diese Spalte dient nur zu Informationszwecken für die Schulen und kann in der Exportdatei auch leer bleiben, da der Eintrag zum voraussichtlichen Abschluss automatisiert beim Import auf dem BAN-Portal ergänzt wird.
 

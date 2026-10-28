@@ -1,8 +1,5 @@
 ---
 title: "Serienbrief Nichtversetzte"
-wiki_title: "Serienbrief Nichtversetzte"
-wiki_page_id: 1408
-wiki_revision: 5863
 ---
 
 # Serienbrief Nichtversetzte
@@ -22,8 +19,9 @@ Es werden daraufhin alle Schülerinnen und Schüler gefiltert, die ein Anschreib
 
 ## RTF-Anschreiben anpassen
 
-![Rtf-Dokumente](/bilder/wiki/rtf-dokumente-bcd3de75.png)
-RTF-Dokumente
+![Rtf-Dokumente](/bilder/zeugnisse/sekundarstufen/rtf-dokumente.png)
+
+*RTF-Dokumente*
 
 Im Ordner *Serienbriefe* finden sie den Unterordner *RTF-Serienbriefvorlagen ➜ Nichtversetzung*. Dieser enthält alle schulformspezifischen Anschreiben an nichtversetzte Schülerinnen und Schüler. Die Dateinamen enthalten verschiedene Informationen:
 
@@ -42,8 +40,9 @@ Jeder Brief kann inhaltlich in einem RTF-Editor (z.B. WordPad) an die eigenen Be
 
 ## Serienbrief Nichtversetzte
 
-![Nichtversetzung_Beispiel](/bilder/wiki/nichtversetzung-beispiel-1f09bad9.png)
-Beispiel-Brief
+![Nichtversetzung_Beispiel](/bilder/zeugnisse/sekundarstufen/nichtversetzung-beispiel.png)
+
+*Beispiel-Brief*
 
 Wenn der Serienbrief aufgerufen wird, analysiert dieser schülerspezifisch die Bedingungen der Nichtversetzung und die Folgen. Anhand des Analyseergebnisses wird das passende RTF-Dokument aufgerufen. Enthält das Dokument Abfragefelder zur Text- oder Datumseingabe, so werden diese einmalig abgefragt. In den RTF-Dokumenten sind hierzu entsprechende Platzhalter zu setzen. Solange identische Platzhalter verwendet werden, erfolgt die Abfrage auch in anderen RTF-Dokumenten nicht erneut. Möchte man in anderen RTF-Dokumenten andere Text- oder Datumseingaben vornehmen, so sind dort Platzhalter zu verwenden, die sich unterscheiden. Als Beispiel sei hier eine Schule genannt, welche die schriftlichen Nachprüfungen der SI und der SII an unterschiedlichen Tagen plant. Hier kann in den RTF-Dokumenten der SI der Platzhalter `$Eingabe|Datum|GY-07-10-NP: schriftliches Nachprüfungsdatum$` und in RTF-Dokumenten der SII der Platzhalter `$Eingabe|Datum|GY-EF-NP: schriftliches Nachprüfungsdatum$` hinterlegt werden. In diesem Fall erfolgen zwei gesonderte Abfragen des Datums für die RTF-Dokumente, da sich die Platzhalter unterscheiden.
 

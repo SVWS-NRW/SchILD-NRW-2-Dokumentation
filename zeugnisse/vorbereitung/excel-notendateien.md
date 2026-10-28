@@ -1,8 +1,5 @@
 ---
 title: "Excel-Notendateien"
-wiki_title: "Excel-Notendateien"
-wiki_page_id: 719
-wiki_revision: 2774
 ---
 
 # Excel-Notendateien

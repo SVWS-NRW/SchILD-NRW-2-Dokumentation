@@ -1,8 +1,5 @@
 ---
 title: "SetzeKlassenAdressArt"
-wiki_title: "SetzeKlassenAdressArt"
-wiki_page_id: 96
-wiki_revision: 120
 ---
 
 # SetzeKlassenAdressArt
@@ -10,17 +7,18 @@ wiki_revision: 120
 <a id="RAP-Funktion_&quot;SetzeKlassenAdressArt&quot;"></a>
 <a id="RAP-Funktion_.22SetzeKlassenAdressArt.22"></a>
 
-## RAP-Funktion "SetzeKlassenAdressArt"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 Procedure SetzeKlassenAdressArt(const AdressArt: String);
+```
+
+## Beschreibung
+
 Diese Prozedur kann benutzt werden, wenn die Datenquelle
 AllgAdresseZurKlasse verwendet werden soll. Voreingestellt
 ist die Adressart 'Betrieb'. Diese Datenquelle ist eine Detaildatenquelle
 zur Hauptdatenquelle 'Klassen'.
-```
 
 ## Parameter
 
@@ -28,11 +26,6 @@ zur Hauptdatenquelle 'Klassen'.
 AdressArt    - zu berücksichtigende Adressenkategorie
 ```
 
-## Rückgabewert
-
-```text
-...
-```
 
 ## Beispiel
 
@@ -45,5 +38,7 @@ Procedure ReportBeforeOpenDatapipelines;
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-96) · [SetzeKlassenAdressArt – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetzeKlassenAdressArt&oldid=120)

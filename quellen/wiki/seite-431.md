@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 1766 · Stand 2014-03-12.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-431.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/supportkonzept-des-msw-65ee2bfa.png)
+[Gesicherte Originaldatei öffnen](/bilder/hilfe/wiki-archiv/supportkonzept-des-msw.png)
 
-![Supportkonzept_des_MSW.png](/bilder/wiki/supportkonzept-des-msw-65ee2bfa.png)
+![Supportkonzept_des_MSW.png](/bilder/hilfe/wiki-archiv/supportkonzept-des-msw.png)
 
 ## Originalquelltext
 

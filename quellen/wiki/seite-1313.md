@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 5148 · Stand 2022-01-03.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1313.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/asdpc-internat-2e507d26.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/import-export-statistik/asdpc-internat.png)
 
-![ASDPC_Internat.png](/bilder/wiki/asdpc-internat-2e507d26.png)
+![ASDPC_Internat.png](/bilder/schild2/import-export-statistik/asdpc-internat.png)
 
 ## Originalquelltext
 

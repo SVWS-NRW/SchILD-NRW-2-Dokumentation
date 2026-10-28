@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 5050 · Stand 2021-11-04.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1280.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/asdpc-belege-in-der-he-3b4c1541.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/import-export-statistik/asdpc-belege-in-der-he.png)
 
-![ASDPC_Belege_in_der_HE.png](/bilder/wiki/asdpc-belege-in-der-he-3b4c1541.png)
+![ASDPC_Belege_in_der_HE.png](/bilder/schild2/import-export-statistik/asdpc-belege-in-der-he.png)
 
 ## Originalquelltext
 

@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 3462 · Stand 2015-08-19.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-919.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/lupo-faecherkombi-zusatzkurs-43d51692.png)
+[Gesicherte Originaldatei öffnen](/bilder/tools/lupo/lupo-faecherkombi-zusatzkurs.png)
 
-![Lupo_faecherkombi_zusatzkurs.png](/bilder/wiki/lupo-faecherkombi-zusatzkurs-43d51692.png)
+![Lupo_faecherkombi_zusatzkurs.png](/bilder/tools/lupo/lupo-faecherkombi-zusatzkurs.png)
 
 ## Originalquelltext
 

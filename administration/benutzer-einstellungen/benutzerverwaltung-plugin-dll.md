@@ -1,8 +1,5 @@
 ---
 title: "Benutzerverwaltung PlugIn-DLL"
-wiki_title: "Benutzerverwaltung PlugIn-DLL"
-wiki_page_id: 525
-wiki_revision: 2158
 ---
 
 # Benutzerverwaltung PlugIn-DLL

@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 3220 · Stand 2015-06-01.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-842.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/import-zeugnisformulare-01-d8d8487f.png)
+[Gesicherte Originaldatei öffnen](/bilder/archiv/import-zeugnisformulare-01.png)
 
-![Import-Zeugnisformulare-01.png](/bilder/wiki/import-zeugnisformulare-01-d8d8487f.png)
+![Import-Zeugnisformulare-01.png](/bilder/archiv/import-zeugnisformulare-01.png)
 
 ## Originalquelltext
 

@@ -1,8 +1,5 @@
 ---
 title: "ZensurToStr"
-wiki_title: "ZensurToStr"
-wiki_page_id: 110
-wiki_revision: 135
 ---
 
 # ZensurToStr
@@ -10,9 +7,7 @@ wiki_revision: 135
 <a id="RAP-Funktion_&quot;ZensurToStr&quot;"></a>
 <a id="RAP-Funktion_.22ZensurToStr.22"></a>
 
-## RAP-Funktion "ZensurToStr"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 function ZensurToStr(aZensur: String): String;
@@ -26,9 +21,7 @@ aZensur  - Numerische Zensur
 
 ## Rückgabewert
 
-```text
 Zensur im Klartext
-```
 
 ## Beispiel
 
@@ -39,5 +32,7 @@ Label1.Caption:=ZensurToStr('3');
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-110) · [ZensurToStr – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ZensurToStr&oldid=135)

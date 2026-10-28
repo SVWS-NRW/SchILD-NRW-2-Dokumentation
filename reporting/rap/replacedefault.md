@@ -1,8 +1,5 @@
 ---
 title: "ReplaceDefault"
-wiki_title: "ReplaceDefault"
-wiki_page_id: 61
-wiki_revision: 82
 ---
 
 # ReplaceDefault
@@ -10,14 +7,15 @@ wiki_revision: 82
 <a id="RAP-Funktion_&quot;ReplaceDefault&quot;"></a>
 <a id="RAP-Funktion_.22ReplaceDefault.22"></a>
 
-## RAP-Funktion "ReplaceDefault"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 function ReplaceDefault(aText: String): String;
+```
 
-   Platzhalter              | Wird ersetzt durch
+## Beschreibung
+
+Platzhalter              | Wird ersetzt durch
   --------------------------+----------------------------------
    $_NAME$                  | Schueler['Name']
    $_VORNAME$               | Schueler['Vorname']
@@ -38,7 +36,6 @@ function ReplaceDefault(aText: String): String;
 Zusätzlich werden im Text geschlechtsspezifische Umwandlungen nach dem Muster
 der Bemerkungsfelder vorgenommen, d.h. aus &Text_männlich%Text_weiblich& wird
 in Abhängigkeit vom Geschlecht des Schülerdatensatzes die korrekte Form gewählt.
-```
 
 ## Parameter
 
@@ -47,11 +44,6 @@ aText - Text, in dem die oder der Standard-Platzhalter ersetzt
         werden sollen.
 ```
 
-## Rückgabewert
-
-```text
-...
-```
 
 ## Beispiel
 
@@ -66,5 +58,7 @@ end;
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-61) · [ReplaceDefault – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ReplaceDefault&oldid=82)

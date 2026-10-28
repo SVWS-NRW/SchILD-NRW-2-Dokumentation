@@ -1,8 +1,5 @@
 ---
 title: "Prognos:Einleitung"
-wiki_title: "Prognos:Einleitung"
-wiki_page_id: 1224
-wiki_revision: 4836
 ---
 
 # Prognos:Einleitung

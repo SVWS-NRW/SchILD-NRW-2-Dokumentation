@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 1944 · Stand 2014-03-31.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-480.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/gp-notenfehlstdeingeben-7b232b08.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/zeugnisse/vorbereitung/gp-notenfehlstdeingeben.jpg)
 
-![GP-NotenFehlstdeingeben.jpg](/bilder/wiki/gp-notenfehlstdeingeben-7b232b08.jpg)
+![GP-NotenFehlstdeingeben.jpg](/bilder/zeugnisse/vorbereitung/gp-notenfehlstdeingeben.jpg)
 
 ## Originalquelltext
 

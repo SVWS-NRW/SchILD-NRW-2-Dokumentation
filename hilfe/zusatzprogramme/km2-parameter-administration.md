@@ -1,13 +1,10 @@
 ---
 title: "KM2 - Parameter - Administration"
-wiki_title: "KM2 - Parameter - Administration"
-wiki_page_id: 572
-wiki_revision: 2983
 ---
 
 # KM2 - Parameter - Administration
 
-![Km2_parameter_admin](/bilder/wiki/km2-parameter-admin-94dfe50a.png)
+![Km2_parameter_admin](/bilder/tools/km2/km2-parameter-admin.png)
 
 Die Einstellungen für den Administrator gliedern sich in zwei Bereiche:
 
@@ -26,7 +23,7 @@ Die Einstellungen für den Administrator gliedern sich in zwei Bereiche:
   **Hinweis**: Der von SchILD-NRW implementierte Mechanismus (Erzeugen einer zusätzlichen Datei, in der die Zugangsdaten verschlüsselt abgespeichert sind) wird von KM2 nicht unterstützt. Die Zugangsdaten werden in einer Konfigurationsdatei zusammen mit anderen sensiblen Daten gespeichert, die entsprechend verschlüsselt wird.
 - **(5)**: Mit der Schaltfläche "Verbindung testen" versucht das Programm auf der Basis der eingegebenen Parameter die SchILD-Datenbank zu öffnen. Ist dieser Vorgang erfolgreich, wird eine entsprechende Meldung angezeigt, und es werden zusätzlich einige Daten eingelesen, wie zum Beispiel die Liste der SchILD-Unterrichtsfächer.
 
-![Km2_verbindung_testen](/bilder/wiki/km2-verbindung-testen-e00595dc.png)
+![Km2_verbindung_testen](/bilder/tools/km2/km2-verbindung-testen.png)
 
 - **(6)**: KM2 verwaltet den Benutzer "Administrator":
 

@@ -1,8 +1,5 @@
 ---
 title: "Grundschuldaten löschen"
-wiki_title: "Grundschuldaten löschen"
-wiki_page_id: 580
-wiki_revision: 2250
 ---
 
 # Grundschuldaten löschen

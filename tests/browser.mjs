@@ -17,6 +17,8 @@ try {
   browser = await chromium.launch({headless:true,...(process.env.QA_BROWSER ? {executablePath:process.env.QA_BROWSER} : {})})
   const page = await browser.newPage()
   page.on('pageerror', e=>errors.push(e.message))
+  page.on('console', message=>{ if(message.type()==='error'||/hydration/i.test(message.text()))errors.push(message.text()) })
+  await page.route(/https?:\/\/(?:www\.)?(?:youtube(?:-nocookie)?\.com|player\.vimeo\.com)\//, route=>route.fulfill({contentType:'text/html',body:'<html lang="de"><body>Videovorschau für die Browserprüfung</body></html>'}))
   await fs.mkdir('test-results', {recursive:true})
   const paths = ['/', '/einstieg/', '/administration/installation/schild-nrw-installation.html', '/schild2/import-export-statistik/schnittstellenbeschreibung.html', '/reporting/rap/anrede.html', '/programmreferenz/', '/bilder/', '/hilfe/alle-artikel.html','/tools/','/tools/lupo.html','/tools/ma2lbv.html','/quellen/','/quellen/dateien.html','/tools/enm-notenmanager/leistungsdaten.html','/tools/notenmodul-grundschule/vorbereitung.html','/tools/ma2lbv/abrechnung.html']
   for (const width of [1440,390]) for (const dark of [false,true]) {
@@ -35,6 +37,10 @@ try {
     }
   }
   await page.setViewportSize({width:1440,height:900})
+  await page.goto(base+'/schild2/import-export-statistik/schnittstellenbeschreibung.html',{waitUntil:'networkidle'})
+  assert(await page.locator('.interface-fields').count()>20,'Feldtabellen müssen ihre tatsächliche Layoutklasse erhalten')
+  await page.locator('.interface-table-scroll').first().focus()
+  assert(await page.locator('.interface-table-scroll').first().evaluate(node=>node===document.activeElement),'Tabellenbereich muss mit Tastatur fokussierbar sein')
   await page.goto(base+'/programmreferenz/',{waitUntil:'networkidle'})
   await page.locator('.program-reference-menu').getByRole('link',{name:'Schulverwaltung',exact:true}).click()
   await page.waitForURL('**/*?referenz=*')
@@ -56,6 +62,16 @@ try {
   await page.goto(base+'/bilder/',{waitUntil:'networkidle'})
   await page.getByRole('searchbox').fill('hauptfenster')
   assert(await page.locator('.image-catalog img').count()>0,'Bilderkatalog findet kein Hauptfenster')
+  const download=await page.request.get(base+'/dateien/wiki/ka17-zeugnis-kopf-128afae2.pdf')
+  assert(download.ok(),'Original-PDF muss lokal abrufbar bleiben')
+  assert((await download.body()).subarray(0,5).toString()==='%PDF-','Dateiziel darf nicht versehentlich eine HTML-Seite liefern')
+  assert((await page.locator('#VPSidebarNav').innerText()).includes('Artikel schreiben'))
+  await page.goto(base+'/hilfe/alle-artikel.html',{waitUntil:'networkidle'})
+  await page.locator('.article-index a').filter({hasText:'Anrede'}).first().click()
+  await page.waitForURL('**/*?artikel=az')
+  await page.reload({waitUntil:'networkidle'})
+  assert((await page.locator('#VPSidebarNav').innerText()).includes('Alle Artikel A–Z'))
+  assert((await page.locator('.VPDocFooter a.next').getAttribute('href')).includes('artikel=az'))
   await page.goto(base+'/einstieg/',{waitUntil:'networkidle'})
   await page.locator('.DocSearch-Button').click()
   await page.locator('#localsearch-input').fill('Datensicherung')
@@ -71,10 +87,23 @@ try {
   await page.locator('.VPSidebar.open').waitFor({state:'detached'})
   await page.goto(base+'/druck/einstieg.html',{waitUntil:'networkidle'})
   assert(await page.locator('.book-article').count()>5,'Rubrikdruck enthält keine Artikel')
+  assert(await page.locator('.book-toolbar button').isVisible(),'Rubrikdruck braucht einen ausdrücklichen Druckstart')
   await page.emulateMedia({media:'print'})
   assert(await page.locator('.book-article').first().isVisible())
+  await page.emulateMedia({media:'screen'})
+  await page.goto(base+'/hilfe/markdown-und-gestaltung.html',{waitUntil:'networkidle'})
+  const lifecycle=await page.evaluate(()=>{
+    const details=[...document.querySelectorAll('.vp-doc details')]
+    const initial=details.map(node=>node.open)
+    window.dispatchEvent(new Event('beforeprint'))
+    const opened=details.every(node=>node.open)
+    const source=!!document.querySelector('.print-source')
+    window.dispatchEvent(new Event('afterprint'))
+    return {count:details.length,opened,source,restored:details.every((node,i)=>node.open===initial[i]),clean:!document.querySelector('.print-source')}
+  })
+  assert(lifecycle.count>0&&lifecycle.opened&&lifecycle.source&&lifecycle.restored&&lifecycle.clean,'Druck muss Details öffnen und anschließend den Lesezustand wiederherstellen')
   assert.deepEqual(errors,[])
-  await fs.writeFile('migration/browser-check.json',JSON.stringify({checks:results,reference:true,search:true,catalog:true,mobileMenu:true,pascalStrings:true,sectionPrint:true,errors},null,2)+'\n')
+  await fs.writeFile('test-results/browser-check.json',JSON.stringify({checks:results,reference:true,search:true,catalog:true,mobileMenu:true,pascalStrings:true,sectionPrint:true,errors},null,2)+'\n')
   console.log(`${results.length} Ansichten sowie Suche, Bilderkatalog, Referenzmenü, Mobilmenü, Pascal-Beispiele und Rubrikdruck geprüft.`)
 } finally {
   await browser?.close()

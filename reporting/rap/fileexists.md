@@ -1,8 +1,5 @@
 ---
 title: "FileExists"
-wiki_title: "FileExists"
-wiki_page_id: 21
-wiki_revision: 41
 ---
 
 # FileExists
@@ -10,14 +7,15 @@ wiki_revision: 41
 <a id="RAP-Funktion_&quot;FileExists&quot;"></a>
 <a id="RAP-Funktion_.22FileExists.22"></a>
 
-## RAP-Funktion "FileExists"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 function FileExists(const aFilename: String): Boolean;
-prüft, ob eine Datei existiert
 ```
+
+## Beschreibung
+
+prüft, ob eine Datei existiert
 
 ## Parameter
 
@@ -27,9 +25,7 @@ aFilename          - Dateiname incl. Pfad
 
 ## Rückgabewert
 
-```text
 True, falls die Datei existiert, sonst False
-```
 
 ## Beispiel
 
@@ -39,5 +35,7 @@ If FileExists('C:\Schild-NRW\Schild-Reports\Zeugnisse\Zeugnis_11.rtm') then...;
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-21) · [FileExists – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FileExists&oldid=41)

@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 4095 · Stand 2017-03-10.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-873.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/lupo-schild-unterrichtsfaecher-2-b3fe28e3.png)
+[Gesicherte Originaldatei öffnen](/bilder/tools/lupo/lupo-schild-unterrichtsfaecher-2.png)
 
-![Lupo_schild_unterrichtsfaecher_2.png](/bilder/wiki/lupo-schild-unterrichtsfaecher-2-b3fe28e3.png)
+![Lupo_schild_unterrichtsfaecher_2.png](/bilder/tools/lupo/lupo-schild-unterrichtsfaecher-2.png)
 
 ## Originalquelltext
 

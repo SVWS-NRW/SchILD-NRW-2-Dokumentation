@@ -1,8 +1,5 @@
 ---
 title: "Erz.-Berechtigte"
-wiki_title: "Erz.-Berechtigte"
-wiki_page_id: 300
-wiki_revision: 1332
 ---
 
 # Erz.-Berechtigte
@@ -23,7 +20,7 @@ Bei der Eingabe sollte zun채chst die Erzieherart gew채hlt werden. Hier einige M�
 
 wie bei 1. Nur Erzieherart w채hlen und Daten bei 1.Person eintragen.
 
-![Erzieher-01](/bilder/wiki/erzieher-01-77cb88cb.jpg)
+![Erzieher-01](/bilder/schild2/schueler/erzieher-01.jpg)
 
 Der untere Bereich der Registerkarte ist f체r Telefonnummern reserviert. Auf der Registerkarte Individualdaten I konnte nur eine Telefonnummer pro Sch체ler eingegeben werden.
 

@@ -1,8 +1,5 @@
 ---
 title: "Schnittstelle Schild-NRW"
-wiki_title: "Schnittstelle Schild-NRW"
-wiki_page_id: 213
-wiki_revision: 913
 ---
 
 # Schnittstelle Schild-NRW
@@ -11,7 +8,7 @@ Die Schnittstelle Schild-NRW wurde ursprünglich zum Import bzw. Export der stat
 
 Mittlerweile lassen sich darüber aber die meisten (nicht alle!) Schüler- und Lehrerdaten importieren und exportieren.
 
-![Schnittstelle](/bilder/wiki/schnittstelle-2a9d0cdb.jpg)
+![Schnittstelle](/bilder/schild2/import-export-statistik/schnittstelle.jpg)
 
 Die Schnittstelle ist in Textdateien mit der Endung \*.dat aufgebaut, die durch ein \| (Pipe) als Trennzeichen gegliedert sind.
 

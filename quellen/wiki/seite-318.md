@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 1390 · Stand 2014-02-17.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-318.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/wiegervorlage-gp-f18a49e9.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/schueler/wiegervorlage-gp.jpg)
 
-![Wiegervorlage-GP.jpg](/bilder/wiki/wiegervorlage-gp-f18a49e9.jpg)
+![Wiegervorlage-GP.jpg](/bilder/schild2/schueler/wiegervorlage-gp.jpg)
 
 ## Originalquelltext
 

@@ -1,8 +1,5 @@
 ---
 title: "Aufnahmejahr für Neuaufnahmen zurücksetzen"
-wiki_title: "Aufnahmejahr für Neuaufnahmen zurücksetzen"
-wiki_page_id: 351
-wiki_revision: 1542
 ---
 
 # Aufnahmejahr für Neuaufnahmen zurücksetzen

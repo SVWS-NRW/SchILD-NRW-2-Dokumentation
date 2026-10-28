@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 1627 · Stand 2014-03-07.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-384.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/personengruppen-74be9140.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/unterricht-kataloge/personengruppen.jpg)
 
-![Personengruppen.jpg](/bilder/wiki/personengruppen-74be9140.jpg)
+![Personengruppen.jpg](/bilder/schild2/unterricht-kataloge/personengruppen.jpg)
 
 ## Originalquelltext
 

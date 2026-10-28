@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2297 · Stand 2014-05-26.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-599.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/informationen-datenquellen-3d7473bc.png)
+[Gesicherte Originaldatei öffnen](/bilder/reporting/verwaltung/informationen-datenquellen.png)
 
-![Informationen-Datenquellen.png](/bilder/wiki/informationen-datenquellen-3d7473bc.png)
+![Informationen-Datenquellen.png](/bilder/reporting/verwaltung/informationen-datenquellen.png)
 
 ## Originalquelltext
 

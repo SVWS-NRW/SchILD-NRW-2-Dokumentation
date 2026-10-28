@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 1413 · Stand 2014-02-18.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-327.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/gp-bk-reiter-d9ea6946.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/gruppenprozesse/gp-bk-reiter.jpg)
 
-![GP-BK-Reiter.jpg](/bilder/wiki/gp-bk-reiter-d9ea6946.jpg)
+![GP-BK-Reiter.jpg](/bilder/schild2/gruppenprozesse/gp-bk-reiter.jpg)
 
 ## Originalquelltext
 

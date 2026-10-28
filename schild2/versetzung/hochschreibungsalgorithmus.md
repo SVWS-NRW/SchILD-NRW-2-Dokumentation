@@ -1,8 +1,5 @@
 ---
 title: "Hochschreibungsalgorithmus"
-wiki_title: "Hochschreibungsalgorithmus"
-wiki_page_id: 622
-wiki_revision: 2414
 ---
 
 # Hochschreibungsalgorithmus

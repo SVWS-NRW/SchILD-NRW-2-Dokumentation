@@ -1,13 +1,10 @@
 ---
 title: "Iconleiste"
-wiki_title: "Iconleiste"
-wiki_page_id: 112
-wiki_revision: 1386
 ---
 
 # Iconleiste
 
-![Iconleiste](/bilder/wiki/iconleiste-30c44934.jpg)
+![Iconleiste](/bilder/einstieg/grundlagen/iconleiste.jpg)
 
 Die Symbole bedeuten (von links nach rechts):
 
@@ -47,7 +44,7 @@ Die Symbole bedeuten (von links nach rechts):
   - Hilfe aufrufen
   - Fenster auf Standarddrucker ausgeben
 
-![Druckbutton](/bilder/wiki/druckbutton-0814191b.jpg)
+![Druckbutton](/bilder/einstieg/grundlagen/druckbutton.jpg)
 
 Ein Mausklick auf den Druckbutton öffnet bei entsprechender Berechtigung den Reportexplorer.
 

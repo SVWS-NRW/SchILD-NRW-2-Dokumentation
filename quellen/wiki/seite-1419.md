@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 5915 · Stand 2024-06-27.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1419.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/fsp-sprachenfolge-1889587b.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/schueler/fsp-sprachenfolge.png)
 
-![Fsp_sprachenfolge.png](/bilder/wiki/fsp-sprachenfolge-1889587b.png)
+![Fsp_sprachenfolge.png](/bilder/schild2/schueler/fsp-sprachenfolge.png)
 
 ## Originalquelltext
 

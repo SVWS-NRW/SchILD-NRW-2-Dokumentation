@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 814 · Stand 2014-01-22.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-224.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/lehrerfunktionen-53421d57.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/lehrkraefte/lehrerfunktionen.jpg)
 
-![LehrerFunktionen.jpg](/bilder/wiki/lehrerfunktionen-53421d57.jpg)
+![LehrerFunktionen.jpg](/bilder/schild2/lehrkraefte/lehrerfunktionen.jpg)
 
 ## Originalquelltext
 

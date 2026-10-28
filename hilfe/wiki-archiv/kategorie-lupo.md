@@ -1,8 +1,5 @@
 ---
 title: "Kategorie:LuPO"
-wiki_title: "Kategorie:LuPO"
-wiki_page_id: 1374
-wiki_revision: 5556
 ---
 
 # Kategorie:LuPO

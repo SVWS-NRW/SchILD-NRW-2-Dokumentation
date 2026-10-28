@@ -1,8 +1,5 @@
 ---
 title: "Vermerk-Arten"
-wiki_title: "Vermerk-Arten"
-wiki_page_id: 373
-wiki_revision: 1622
 ---
 
 # Vermerk-Arten
@@ -11,7 +8,7 @@ Vermerkarten bieten die Möglichkeit mehrere selbst definierte Merkmale bei den 
 
 Sind unter [Schulverwaltung](/schild2/unterricht-kataloge/schulverwaltung) die Vermerkarten angelegt, können diese einzeln unter [Laufbahninfo](/schild2/schueler/laufbahninfo) oder als Gruppenprozess [Individualdaten ändern](/schild2/gruppenprozesse/individualdaten-aendern) bei den Schülern vergeben werden.
 
-![Vermerkarten](/bilder/wiki/vermerkarten-a2ae13a0.jpg)
+![Vermerkarten](/bilder/schild2/unterricht-kataloge/vermerkarten.jpg)
 
 Die Eintragung einer frei definierbaren Vermerkart (mit + zum Eingabefeld, Datenschutz-Hinweis zu VO-DV I mit OK bestätigen, Eingabe mit Häkchen "Übernehmen", Fenster mit Schließen verlassen) an dieser Stelle ist Voraussetzung, um dann auf dem Karteireiter Laufbahninfo im Bereich Vermerke eine "Vermerkart" auswählen zu können. Einige Beispiele sind schon vorgegeben.
 

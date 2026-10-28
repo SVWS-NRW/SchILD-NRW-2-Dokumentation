@@ -1,8 +1,5 @@
 ---
 title: "Schüler mit fehlendem Abschnitt (Status=Abgang,..)"
-wiki_title: "Schüler mit fehlendem Abschnitt (Status=Abgang,..)"
-wiki_page_id: 154
-wiki_revision: 976
 ---
 
 # Schüler mit fehlendem Abschnitt (Status=Abgang,..)

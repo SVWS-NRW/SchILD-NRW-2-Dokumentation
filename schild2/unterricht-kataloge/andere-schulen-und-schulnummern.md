@@ -1,8 +1,5 @@
 ---
 title: "Andere Schulen und Schulnummern"
-wiki_title: "Andere Schulen und Schulnummern"
-wiki_page_id: 176
-wiki_revision: 933
 ---
 
 # Andere Schulen und Schulnummern
@@ -15,7 +12,7 @@ Für die Schulformen BK und WBK ist hier für die Statistik wichtig, dass die Ei
 
 Hierbei ist lediglich das Land, in dem die Herkunftsschule liegt, für die Statistik relevant. Hier können Sie als mögliche Herkunftsländer die Bundesländer, wegen der Nachbarschaft Belgien, Luxemburg und die Niederlande sowie das 'sonstige Ausland' eintragen. Nach Einstellung des Landes wird eine Schulnummer für diese Schule vom Programm erstellt. Sie müssen unbedingt selbst eine "Kurz-Bezeichnung" (mit bis zu 40 Zeichen) eintragen, sonst kann auf "Schulbesuch" unter "Name der Schule" nichts ausgewählt werden.
 
-![Schulen_Ausland](/bilder/wiki/schulen-ausland-cd97a251.jpg)
+![Schulen_Ausland](/bilder/schild2/unterricht-kataloge/schulen-ausland.jpg)
 
 Wie weit Sie die anderen Daten (offizielle Bezeichnung, Kürzel, Schulform sowie weitere Adressdaten) eingeben, mögen Sie selbst entscheiden.
 

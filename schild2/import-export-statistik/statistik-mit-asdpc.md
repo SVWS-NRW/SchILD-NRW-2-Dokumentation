@@ -1,8 +1,5 @@
 ---
 title: "Statistik mit ASDPC"
-wiki_title: "Statistik mit ASDPC"
-wiki_page_id: 1226
-wiki_revision: 5337
 ---
 
 # Statistik mit ASDPC
@@ -26,7 +23,7 @@ Diese Anleitung gibt einen Überblick über ASDPC und führt Schritt für Schrit
 Aspekte, die nicht direkt zur Statistik gehören - zum Beispiel die Ersteinrichtung von ASDPC oder Anmerkungen zum Verschlüsselungsverfahren - werden auf Unterseiten weiter ausgeführt und sind je nach Bedarf oder Interesse aufzurufen.
 :::
 
-![Schaubild](/bilder/wiki/schaubild-b331026f.png)
+![Schaubild](/bilder/schild2/import-export-statistik/schaubild.png)
 
 Die Statistik mit ASDPC wird grundlegend in folgenden Schritten durchgeführt:
 
@@ -35,7 +32,7 @@ Die Statistik mit ASDPC wird grundlegend in folgenden Schritten durchgeführt:
 3.  Prüfen und Korrekturen durchführen \[dieser Schritt wird so oft wie nötig wiederholt\]
 4.  Abschicken der Statistik an IT.NRW
 
-![Schaubild_ASDPC2](/bilder/wiki/schaubild-asdpc2-2bcea4ae.png)
+![Schaubild_ASDPC2](/bilder/schild2/import-export-statistik/schaubild-asdpc2.png)
 
 :::info
 Bei der Arbeit mit dieser umfangreichen Anleitung kann es hilfreich sein, Links im Browser in einem neuen Tab zu öffnen. Klicken Sie hierzu mit der rechten Maustaste auf einen Link und wählen Sie "In neuem Tab öffnen". Oft ist die Funktion auch durch einen Klick der mittleren Maustaste erreichbar.
@@ -47,7 +44,7 @@ Bei der Arbeit mit dieser umfangreichen Anleitung kann es hilfreich sein, Links 
 
 ### Supportangebote
 
-![WikiSupportangebote](/bilder/wiki/wikisupportangebote-65f9e32a.png)
+![WikiSupportangebote](/bilder/schild2/import-export-statistik/wikisupportangebote.png)
 
 Über diese Anleitung hinaus bestehen diverse weitere Supportangebote:
 
@@ -276,11 +273,11 @@ Zum Export der Daten kann nun über Datei ➥ Export ➥ Daten für IT.NRW die E
 
 Sofern noch Muss-Fehler in der Statistik enthalten sind oder keine Gesamtprüfung durchgeführt wurde, ist ein Bereitstellen der Daten nicht möglich.
 
-![ASDPC_Export_IT.NRW](/bilder/wiki/asdpc-export-it-nrw-cbe2367b.png)
+![ASDPC_Export_IT.NRW](/bilder/schild2/import-export-statistik/asdpc-export-it-nrw.png)
 
 Hier ist nun Ihre vierstellige ASD-Signatur einzugeben.
 
-![ASDPC_ASD_Signatur_Export](/bilder/wiki/asdpc-asd-signatur-export-3744c34d.png)
+![ASDPC_ASD_Signatur_Export](/bilder/schild2/import-export-statistik/asdpc-asd-signatur-export.png)
 
 Haben Sie die Anweisungen auf dem Bildschirm befolgt, finden Sie die Daten standardmäßig im Unterordner \Ausgang Ihrer ASDPC-Installation. Also zum Beispiel "C:\ASDPC\Ausgang", wenn ASDPC auf Laufwerk C: installiert wurde.
 

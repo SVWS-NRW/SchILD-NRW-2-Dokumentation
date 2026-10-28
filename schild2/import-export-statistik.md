@@ -1,5 +1,7 @@
 # Import, Export und Statistik
 
+Wählen Sie den Weg nach Ziel und Datenformat: Datenaustausch zwischen Programmen, Textschnittstelle oder amtliche Statistik. Die Schnittstellenbeschreibung legt die Dateifelder fest. Der Ablauf mit ASDPC steht zusammenhängend unter [Tools → ASDPC](/tools/asdpc).
+
 - [Datenaustausch](/schild2/import-export-statistik/datenaustausch)
 - [Statistik / amtliche Schuldaten](/schild2/import-export-statistik/statistik-amtliche-schuldaten)
 - [Schnittstelle Schild-NRW](/schild2/import-export-statistik/schnittstelle-schild-nrw)

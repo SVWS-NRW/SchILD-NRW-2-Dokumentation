@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2662 · Stand 2014-11-23.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-692.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/report-neu-seiteeinrichten-34dc338e.png)
+[Gesicherte Originaldatei öffnen](/bilder/reporting/erstellung/report-neu-seiteeinrichten.png)
 
-![Report-Neu-SeiteEinrichten.png](/bilder/wiki/report-neu-seiteeinrichten-34dc338e.png)
+![Report-Neu-SeiteEinrichten.png](/bilder/reporting/erstellung/report-neu-seiteeinrichten.png)
 
 ## Originalquelltext
 

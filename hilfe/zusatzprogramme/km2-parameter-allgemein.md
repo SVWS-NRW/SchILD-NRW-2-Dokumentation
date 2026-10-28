@@ -1,13 +1,10 @@
 ---
 title: "KM2 - Parameter - Allgemein"
-wiki_title: "KM2 - Parameter - Allgemein"
-wiki_page_id: 574
-wiki_revision: 2984
 ---
 
 # KM2 - Parameter - Allgemein
 
-![Km2_parameter_allgemein](/bilder/wiki/km2-parameter-allgemein-a0b8f42a.png)
+![Km2_parameter_allgemein](/bilder/tools/km2/km2-parameter-allgemein.png)
 
 <a id="Fächerliste_festlegen"></a>
 <a id="F.C3.A4cherliste_festlegen"></a>
@@ -23,7 +20,7 @@ Ein Beispiel aus einer Gesamtschule:\
 Der WP-Unterricht an einer Schule wird differenziert in den Fächern WP1-NW (Wahlpflichtfach-Naturwissenschaft), WP1-F6 (Wahlpflichtfach-Französisch), WP1-DG (Wahlpflichtfach-Darstellen&Gestalten), usw. unterrichtet.\
 Damit alle WP-Fächer in nur eine Spalte angezeigt werden, deklarieren Sie z.B. das Ersatzfach „**\#WP**" und tragen in der Spalte daneben alle zugehörigen Fächer ein.\
 
-![KM2_parameter_allgemein_ersatzfaecher](/bilder/wiki/km2-parameter-allgemein-ersatzfaecher-d746c905.png)
+![KM2_parameter_allgemein_ersatzfaecher](/bilder/tools/km2/km2-parameter-allgemein-ersatzfaecher.png)
 
 Zusätzlich werden im obigen Beispiel die Unterrichtsfächer KR, ER und PP in einer Spalte mit dem Ersatzfach **\#RE** zusammengefasst.
 
@@ -99,7 +96,7 @@ Hier bei der Wahl der Parameter können Sie festlegen, welche Lernabschnitte zur
 
 ## Sonstige Einstellungen
 
-![KM2_parameter_allgemein_sonst](/bilder/wiki/km2-parameter-allgemein-sonst-caa50a86.png)
+![KM2_parameter_allgemein_sonst](/bilder/tools/km2/km2-parameter-allgemein-sonst.png)
 
 **(6)**:
 

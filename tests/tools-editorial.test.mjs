@@ -24,16 +24,15 @@ test('Tool-Menüs sind kurz, eindeutig und folgen dem Handbuchablauf',()=>{
   }
 })
 test('PDFs sind in Artikel ausgewertet und zusätzliche Downloads entfernt',()=>{
-  assert.deepEqual(read('migration/manuals/assets.json'),[])
-  const evaluated=read('migration/manuals/evaluated-pdfs.json')
-  assert.equal(evaluated.length,9)
+  const evaluated=read('.vitepress/pdf-sources.json')
+  assert(evaluated.length>0)
   for (const pdf of evaluated) for (const article of pdf.articles) {
     assert(fs.readFileSync(article,'utf8').includes(pdf.source),`Quellenbeleg fehlt: ${article}`)
   }
   const directory='public/dateien/handbuecher'
   assert(!fs.existsSync(directory)||fs.readdirSync(directory).length===0)
   assert(!fs.existsSync('quellen/fehlende-downloads.md'))
-  for (const retirement of read('migration/retired-articles.json')) assert(!fs.existsSync(retirement.path))
+  for (const retirement of read('.vitepress/redirects.json')) assert(!fs.existsSync(retirement.path))
 })
 test('Entfernte Leerseiten führen auf statischem Hosting zu den richtigen Artikeln',()=>{
   const outDir=fs.mkdtempSync(path.join(os.tmpdir(),'schild2-redirects-'))

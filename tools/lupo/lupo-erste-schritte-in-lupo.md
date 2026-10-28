@@ -1,8 +1,5 @@
 ---
 title: "Lupo:Erste Schritte in Lupo"
-wiki_title: "Lupo:Erste Schritte in Lupo"
-wiki_page_id: 980
-wiki_revision: 5550
 ---
 
 # Lupo:Erste Schritte in Lupo
@@ -14,13 +11,15 @@ Die ersten Schritte in Lupo hängen davon ab, ob Sie mit Hilfe von Schild-NRW di
 
 ## Öffnen einer von Schild-NRW bereitgestellten Lupo-Datei
 
-![Lupo_ersteinrichtung](/bilder/wiki/lupo-ersteinrichtung-55c3fd99.png)
-Lupo-Dialog "Ersteinrichtung"
+![Lupo_ersteinrichtung](/bilder/tools/lupo/lupo-ersteinrichtung.png)
+
+*Lupo-Dialog "Ersteinrichtung"*
 
 Starten Sie Lupo und wählen Sie "Vorhandene Datei öffnen". Navigieren Sie zur gewünschten Lupo-Datei (Dateiendung "lup") und klicken Sie auf die Schaltfläche "Öffnen". Sie werden nun aufgefordet, einen Namen und ein Kennwort für den ersten Benutzer zu vergeben. Weitere Benutzer können Sie später über den Menüpunkt "Datenbearbeitung -\> Beratungslehrer" anlegen.
 
-![Lupo_grundeinstellungen](/bilder/wiki/lupo-grundeinstellungen-88569eb4.png)
-Lupo-Dialog "Grundeinstellungen"
+![Lupo_grundeinstellungen](/bilder/tools/lupo/lupo-grundeinstellungen.png)
+
+*Lupo-Dialog "Grundeinstellungen"*
 
 Sie haben die Möglichkeit, den Schülerinnen und Schülern Ihrer Schule individuelle Schüler-Beratungsdateien zur Verfügung zu stellen. Die Schüler können so auf ihren heimischen PCs Laufbahnen durchspielen und die Wunschlaufbahn dem Beratungslehrer zur Verfügung stellen. Wenn die Schülerinnen und Schüler die Möglichkeit erhalten sollen, diese Schüler-Beratungsdateien per E-Mail an den Beratungslehrer zurückzusenden, so können Sie im Feld "E-Mail-Adresse zur Rücksendung der Beratungsdateien" eine E-Mail-Adresse hinterlegen. Die Eingabe einer E-Mail-Adresse ist optional. Sie kann auch später in Lupo über den Menüpunkt "Datenbearbeitung -\> Grundeinstellungen" festgelegt werden.
 
@@ -75,8 +74,9 @@ Mit dem Auswahlfeld „Im Beratungsbogen alle Fächer ausgeben“ können Sie fe
 
 ### Schüler
 
-![Lupo_schueler_bearbeiten_1](/bilder/wiki/lupo-schueler-bearbeiten-1-e8d814bb.png)
-Lupo-Dialog "Datenbearbeitung &gt; Schüler"
+![Lupo_schueler_bearbeiten_1](/bilder/tools/lupo/lupo-schueler-bearbeiten-1.png)
+
+*Lupo-Dialog "Datenbearbeitung &gt; Schüler"*
 
 Unter dem Menüpunkt „Datenbearbeitung \> Schüler“ können Sie SuS hinzufügen oder entfernen und die Daten der SuS ändern.
 
@@ -93,8 +93,9 @@ In diesem Dialog können Sie ebenfalls Schülergruppen filtern und die gefiltert
 
 ### Fächerdialog für Gymnasien und Gesamtschulen
 
-![Lupo_faecher_bearbeiten](/bilder/wiki/lupo-faecher-bearbeiten-0996c665.png)
-Lupo-Dialog "Datenbearbeitung &gt; Fächer"
+![Lupo_faecher_bearbeiten](/bilder/tools/lupo/lupo-faecher-bearbeiten.png)
+
+*Lupo-Dialog "Datenbearbeitung &gt; Fächer"*
 
 Im Dialog „Datenbearbeitung \> Fächer“ können Sie Fächer hinzufügen, entfernen und deaktivieren, Abiturfächer festsetzen, Unterrichtssprachen, Leitfächer und Fremdsprachenfächer einrichten sowie nicht mögliche Fächerkombinationen und Fächerprofile anlegen (siehe auch: [Vorbereitungen in Schild-NRW \> Unterrichtsfächer der Oberstufe festlegen und bearbeiten](/tools/lupo/lupo-vorbereitungen-in-schild-nrw#Unterrichtsf%C3%A4cher_der_Oberstufe_festlegen_und_bearbeiten)).
 

@@ -1,8 +1,5 @@
 ---
 title: "Versionsgeschichte Schild-NRW"
-wiki_title: "Versionsgeschichte Schild-NRW"
-wiki_page_id: 1352
-wiki_revision: 6074
 ---
 
 # Versionsgeschichte Schild-NRW
@@ -1769,7 +1766,7 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in Schild an
 ### Schulform unabhängige Änderungen
 
 - Test der neuen ASDStatistik.dll: Die Prüfung der Daten im Hinblick auf die richtige Übertragung zu ASDPC32 mit der SIM.txt wird bis zur nächsten Erhebung weiter überarbeitet. Es wurde nun eine Überprüfung der Förderschwerpunkte und eine Überprüfung der Herkünfte wird nun weiter verbessert.
-- Neue kategorisierte Floskeln: Mit dieser TestVersion wurden die Möglichkeiten, die Floskeln zu verwalten erweitert. Es können nun Floskelkategorien angelegt werden und auch Fächerfloskeln mit Jahrgang und Niveau vergeben werden. Eine Anleitung dazu finden Sie im WIKI. <https://www.svws.nrw.de/mediawiki/index.php?title=%22Floskeln%22_bearbeiten>
+- Neue kategorisierte Floskeln: Mit dieser TestVersion wurden die Möglichkeiten, die Floskeln zu verwalten erweitert. Es können nun Floskelkategorien angelegt werden und auch Fächerfloskeln mit Jahrgang und Niveau vergeben werden. Eine Anleitung dazu finden Sie im WIKI. [Floskeln bearbeiten](/schild2/unterricht-kataloge/floskeln-bearbeiten)
 - Die Benutzerverwaltung wurde in Schild-NRW integriert und muss nun nicht mehr als PlugIn aktiviert werden. Diese steht unter „Extras“ zur Verfügung.
 - Es gibt nun eine Abfragemöglichkeit nach dem Straßennamen unter „Betriebe/weitere Adressen“
 - Beim Ändern des Lehrerkürzels konnte es passieren, dass der Unterricht des Lehrers falsch eingetragen wurde.
@@ -1940,7 +1937,7 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in Schild an
 ### Schulform unabhängige Änderungen
 
 - Neben den Leistungsdaten im akt. Abschnitt gibt es nun einen Karteireiter Fehlzeiten. Dort können Stundenbezogene Fehlzeiten mit Tagesdatum verwaltet werden.
-- Näheres dazu im WIKI: <http://www.svws.nrw.de/mediawiki/index.php?title=Akt._Halbjahr#Fehlzeiten>
+- Näheres dazu im WIKI: [Fehlzeiten](/zeugnisse/vorbereitung/akt-halbjahr#Fehlzeiten)
 - Über die globalen Programmeinstellungen (Karteireiter "Ansicht") kann jetzt eingestellt werden, ob der Reiter „Fehlzeiten“ im aktuellen Abschnitt gezeigt werden soll.
 - Die Statistik.dll wurde erneuert, damit wird nun eine SIN.txt erstellt, die auch die neue „kürzere“ Erfassung des Migrationshintergrundes exportiert.
 - Teilweise wurden Umlaute in von Schild-NRW versendeten Mails nicht korrekt dargestellt. Hier wurde eine Einstellung verändert.
@@ -2249,7 +2246,7 @@ In der Datenquelle für die Schüler-Anrede wurde bei minderjährigen Schülern 
 - Im Text-/Excelexport stehen nun auch AUE und ASV zur Verfügung.
 - Der Mehrzeilenmodus unter „akt. Halbjahr“ funktioniert wieder.
 - Der Gruppenprozess „Klassenunterrichte bearbeiten“ wurde beschleunigt.
-- Es wurden Folgejahrgänge in der Tabelle der Statistikjahrgänge eingeführt. Diese werden beim Hochschreibungssalgorithmus berücksichtigt. Eine genauere Beschreibung folgt im WIKI: <http://www.svws.nrw.de/mediawiki/index.php?title=Hochschreibungsalgorithmus>
+- Es wurden Folgejahrgänge in der Tabelle der Statistikjahrgänge eingeführt. Diese werden beim Hochschreibungssalgorithmus berücksichtigt. Eine genauere Beschreibung folgt im WIKI: [Hochschreibungsalgorithmus](/schild2/versetzung/hochschreibungsalgorithmus)
 - Es ist jetzt möglich, "Zusätze zum Nachnamen" bei den Schülern und Erziehern zu verwalten. Es gibt wohl Schulen, die solche Zusätze wie z.B. Markus "van den" Bruggen oder auch Alexander "Graf" Lambsdorf (die Zusätze sind in Hochkomma) in einem separaten Feld verwalten wollen. Es gab bisher schon ein Feld Zusatz, das aber eher für weitere Vornamen gedacht war, wobei das Feld aber auch oft für solche Zusätze zum Nachnamen benutzt wurde. Nun hat man eine eindeutige Zuordnung. Das Feld ist nicht direkt sichtbar (weil es vermutl. nicht so häufig benutzt wird), sondern ist über den Schalter links neben dem normalen Namensfeld verfügbar.
 - Es gibt zwei neue Datenquellen in der Reporting:
   - Betriebe_zur_Schuelerauswahl: Liefert die Betriebe (in alphabet. Reihenfolge), die bei den Schülern der aktuellen Auswahl jeweils an erster Stelle bei "Allg. Adressen" stehen (und damit im Verständnis von SchILD die Betriebe sind, an denen die Schüler derzeit ausgebildet werden). Diese Datenquelle muss in einer Serienbriefvorlage die Hauptdatenquelle sein.

@@ -1,8 +1,5 @@
 ---
 title: "Druckausgabe"
-wiki_title: "Druckausgabe"
-wiki_page_id: 434
-wiki_revision: 2415
 ---
 
 # Druckausgabe

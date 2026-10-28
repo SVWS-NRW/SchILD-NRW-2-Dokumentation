@@ -1,8 +1,5 @@
 ---
 title: "Datensicherung"
-wiki_title: "Datensicherung"
-wiki_page_id: 341
-wiki_revision: 1538
 ---
 
 # Datensicherung
@@ -11,7 +8,7 @@ Dieser Menüpunkt hilft Ihnen, in Schild-NRW eine einfache Sicherung der Datenba
 
 Die Datensicherung funktioniert nur, wenn Sie der einzige User (mit entsprechender Berechtigung) sind, der an der Datenbank angemeldet ist.
 
-![Datensicherung](/bilder/wiki/datensicherung-26f351c7.jpg)
+![Datensicherung](/bilder/administration/datenbanken/datensicherung.jpg)
 
 Wählen Sie im linken Bereich des aufkommenden Fensters den Dateipfad, an dem die Sicherung abgelegt werden soll.
 

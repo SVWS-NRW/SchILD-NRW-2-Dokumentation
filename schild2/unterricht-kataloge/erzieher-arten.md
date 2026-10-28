@@ -1,15 +1,12 @@
 ---
 title: "Erzieher-Arten"
-wiki_title: "Erzieher-Arten"
-wiki_page_id: 169
-wiki_revision: 935
 ---
 
 # Erzieher-Arten
 
 Der Katalog der Erzieher-Arten bietet die Möglichkeit, nahezu alle Verwandtschafts- oder Rechtsverhältnisse zwischen Kind und dem "Erzieher" einzutragen. Sie werden bei den Schülern auf der Karteikarte der Erziehungsberechtigten verwendet bzw. angezeigt.
 
-![Erzieher-Arten](/bilder/wiki/erzieher-arten-bb17d5e0.jpg)
+![Erzieher-Arten](/bilder/schild2/unterricht-kataloge/erzieher-arten.jpg)
 
 Die Sortierungen lassen sich, wie bei den anderen Katalogen auch, wie gewünscht sortieren.
 

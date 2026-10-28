@@ -1,8 +1,5 @@
 ---
 title: "BK-Abschluss:Anlage-A"
-wiki_title: "BK-Abschluss:Anlage-A"
-wiki_page_id: 1193
-wiki_revision: 4741
 ---
 
 # BK-Abschluss:Anlage-A

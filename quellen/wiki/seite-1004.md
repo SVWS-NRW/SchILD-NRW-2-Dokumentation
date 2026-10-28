@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 3859 · Stand 2016-04-25.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1004.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/jana-textdatei-ee35af0e.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/import-export-statistik/jana-textdatei.png)
 
-![JaNa-Textdatei.png](/bilder/wiki/jana-textdatei-ee35af0e.png)
+![JaNa-Textdatei.png](/bilder/schild2/import-export-statistik/jana-textdatei.png)
 
 ## Originalquelltext
 

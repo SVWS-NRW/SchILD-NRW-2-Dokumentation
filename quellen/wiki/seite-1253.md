@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 4954 · Stand 2021-10-20.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1253.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/asdpc-optionen-b494ae3a.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/import-export-statistik/asdpc-optionen.png)
 
-![ASDPC_Optionen.png](/bilder/wiki/asdpc-optionen-b494ae3a.png)
+![ASDPC_Optionen.png](/bilder/schild2/import-export-statistik/asdpc-optionen.png)
 
 ## Originalquelltext
 

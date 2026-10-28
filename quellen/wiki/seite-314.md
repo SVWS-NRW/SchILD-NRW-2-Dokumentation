@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 1372 · Stand 2014-02-17.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-314.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/excelexport-d2c5edb1.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/unterricht-kataloge/excelexport.jpg)
 
-![Excelexport.jpg](/bilder/wiki/excelexport-d2c5edb1.jpg)
+![Excelexport.jpg](/bilder/schild2/unterricht-kataloge/excelexport.jpg)
 
 ## Originalquelltext
 

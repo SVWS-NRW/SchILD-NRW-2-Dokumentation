@@ -1,15 +1,12 @@
 ---
 title: "Kurse zuweisen (Einzelkurs)"
-wiki_title: "Kurse zuweisen (Einzelkurs)"
-wiki_page_id: 454
-wiki_revision: 3617
 ---
 
 # Kurse zuweisen (Einzelkurs)
 
 Startet man den Gruppenprozess "Kurse zuweisen (Einzelkurs)", öffnet sich das Fenster "Gruppenweise Kurse zuweisen". Nachdem man den angezeigten Jahrgang und den Abschnitt kontrolliert bzw. geändert hat, klickt man auf die Schaltfläche "Schülerdaten holen". Dadurch werden die im Container ausgewählten Schüler geladen und die Schaltfläche "Kurs auswählen" wird angezeigt.
 
-![GP-KursezuweisenE](/bilder/wiki/gp-kursezuweisene-a1a89e7d.jpg)
+![GP-KursezuweisenE](/bilder/schild2/gruppenprozesse/gp-kursezuweisene.jpg)
 
 Im nächsten Schritt muss nun zuerst ein Kurs aus dem Pull-down-Menü ausgewählt werden. Danach wählt man die Schüler aus, denen man diesen Kurs zuweisen möchte. Sollen nur einzelne Schüler den Kurs erhalten, erfolgt die Zuordnung durch einen Doppelklick auf das Kästchen hinter dem Namen. Alternativ kann man bei gedrückter Shift- bzw. Steuerungstaste mehrere Schüler durch Anklicken auswählen und durch Drücken der Schaltfläche "Bei ausgewählten Schülern aktivieren" das Häkchen hinter dem Namen setzen. Soll bei allen Schülern der Kurs zugewiesen werden, erfolgt das Setzen des Häkchens über die Schaltfläche "Bei allen Schülern aktivieren". Abschließend muss man über die Schaltfläche "In Leistungsdaten übernehmen" die Zuweisung des Kurses an die Schüler komplettieren.
 

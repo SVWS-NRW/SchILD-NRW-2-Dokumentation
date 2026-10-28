@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 4109 · Stand 2017-03-10.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1107.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/lupo-schuelerversion-7445f855.png)
+[Gesicherte Originaldatei öffnen](/bilder/tools/lupo/lupo-schuelerversion.png)
 
-![Lupo_schuelerversion.png](/bilder/wiki/lupo-schuelerversion-7445f855.png)
+![Lupo_schuelerversion.png](/bilder/tools/lupo/lupo-schuelerversion.png)
 
 ## Originalquelltext
 

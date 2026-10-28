@@ -1,8 +1,5 @@
 ---
 title: "Gesamtergebnis berechnen"
-wiki_title: "Gesamtergebnis berechnen"
-wiki_page_id: 496
-wiki_revision: 3633
 ---
 
 # Gesamtergebnis berechnen
@@ -13,7 +10,7 @@ Sobald die Ergebnisse der zusätzlichen mündlichen Prüfungen feststehen und un
 
 Die Ergebnisse der Berechnung können dann unter dem Karteireiter "Abitur" unten links unter Abitur eingesehen werden.
 
-![GP-AbiturGesamtergebnis](/bilder/wiki/gp-abiturgesamtergebnis-4aacd888.jpg)
+![GP-AbiturGesamtergebnis](/bilder/zeugnisse/sekundarstufen/gp-abiturgesamtergebnis.jpg)
 
 ------------------------------------------------------------------------
 

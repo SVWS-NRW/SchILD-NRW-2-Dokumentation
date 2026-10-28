@@ -1,15 +1,12 @@
 ---
 title: "Versetzungstabelle bei jahrgangsübergreifenden Klassen"
-wiki_title: "Versetzungstabelle bei jahrgangsübergreifenden Klassen"
-wiki_page_id: 1386
-wiki_revision: 5747
 ---
 
 # Versetzungstabelle bei jahrgangsübergreifenden Klassen
 
 In Schulen, die teilweise oder durchgehend mit jahrgangsübergreifenden Klassen arbeiten (was häufig an Förderschulden der Fall ist), ist die Versetzungstabelle folgendermaßen anzulegen:
 
-![Versetzungstabelle-Jahrgangsuebergreifend](/bilder/wiki/versetzungstabelle-jahrgangsuebergreifend-f2ba03ba.jpg)
+![Versetzungstabelle-Jahrgangsuebergreifend](/bilder/schild2/versetzung/versetzungstabelle-jahrgangsuebergreifend.jpg)
 
 **Schul-interne Bezeichnung**
 

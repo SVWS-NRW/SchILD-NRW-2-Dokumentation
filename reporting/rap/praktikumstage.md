@@ -1,8 +1,5 @@
 ---
 title: "Praktikumstage"
-wiki_title: "Praktikumstage"
-wiki_page_id: 122
-wiki_revision: 170
 ---
 
 # Praktikumstage
@@ -10,28 +7,21 @@ wiki_revision: 170
 <a id="RAP-Funktion_&quot;Praktikumstage&quot;"></a>
 <a id="RAP-Funktion_.22Praktikumstage.22"></a>
 
-## RAP-Funktion "Praktikumstage"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 function PraktikumsTage( const nur_betriebspraktikum: boolean): integer;
+```
+
+## Beschreibung
+
 Liefert die Anzahl der Praktikumstage eines Schülers (optional nur solche mit
 Kennung „Betriebspraktikum“). Voraussetzung ist, dass das Praktikum bei dem
 jeweiligen Betrieb als solches gekennzeichnet ist (mit Anfangs- und Enddatum)
-```
-
-## Parameter
-
-```text
-...
-```
 
 ## Rückgabewert
 
-```text
 Anzahl der Tage.
-```
 
 ## Beispiel
 
@@ -45,5 +35,7 @@ End;
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-122) · [Praktikumstage – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Praktikumstage&oldid=170)

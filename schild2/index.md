@@ -1,5 +1,7 @@
 # Arbeiten mit SchILD
 
+Für [Installation, Datenbanken, Datensicherung und Benutzerrechte](/administration/) wechseln Sie zur Administration. Die folgenden Themen beschreiben die tägliche Arbeit mit Schülerdaten und Unterricht.
+
 Schülerdaten, Lehrkräfte, Unterricht, Gruppenprozesse und Schuljahreswechsel.
 
 ## [Schülerdaten und Laufbahn](/schild2/schueler)

@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 6042 · Stand 2025-09-19.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1442.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/merkmaluebermittag-97332c7c.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/schueler/merkmaluebermittag.png)
 
-![MerkmalUebermittag.png](/bilder/wiki/merkmaluebermittag-97332c7c.png)
+![MerkmalUebermittag.png](/bilder/schild2/schueler/merkmaluebermittag.png)
 
 ## Originalquelltext
 

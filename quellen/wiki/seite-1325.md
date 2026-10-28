@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 5271 · Stand 2022-01-07.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1325.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/plattformen-anlegen-30727c76.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/unterricht-kataloge/plattformen-anlegen.png)
 
-![Plattformen_anlegen.png](/bilder/wiki/plattformen-anlegen-30727c76.png)
+![Plattformen_anlegen.png](/bilder/schild2/unterricht-kataloge/plattformen-anlegen.png)
 
 ## Originalquelltext
 

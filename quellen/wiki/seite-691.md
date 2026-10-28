@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2661 · Stand 2014-11-23.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-691.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/report-neu-vorschau-3-ee56aedf.png)
+[Gesicherte Originaldatei öffnen](/bilder/reporting/erstellung/report-neu-vorschau-3.png)
 
-![Report-Neu-Vorschau-3.png](/bilder/wiki/report-neu-vorschau-3-ee56aedf.png)
+![Report-Neu-Vorschau-3.png](/bilder/reporting/erstellung/report-neu-vorschau-3.png)
 
 ## Originalquelltext
 

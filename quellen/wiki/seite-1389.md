@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 5752 · Stand 2024-03-14.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1389.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/schild-nrw-export-ban-portal-gp-jgwaehlen-f0c82a96.png)
+[Gesicherte Originaldatei öffnen](/bilder/archiv/schild-nrw-export-ban-portal-gp-jgwahlen.png)
 
-![SchILD-NRW_Export_BAN-Portal_GP_JGwählen.png](/bilder/wiki/schild-nrw-export-ban-portal-gp-jgwaehlen-f0c82a96.png)
+![SchILD-NRW_Export_BAN-Portal_GP_JGwählen.png](/bilder/archiv/schild-nrw-export-ban-portal-gp-jgwahlen.png)
 
 ## Originalquelltext
 

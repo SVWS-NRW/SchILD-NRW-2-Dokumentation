@@ -1,8 +1,5 @@
 ---
 title: "Mahnungen automatisch setzen"
-wiki_title: "Mahnungen automatisch setzen"
-wiki_page_id: 485
-wiki_revision: 2033
 ---
 
 # Mahnungen automatisch setzen

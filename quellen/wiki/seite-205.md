@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 596 · Stand 2013-12-12.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-205.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/schule-bearbeiten-2860c99a.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/einstieg/erste-schritte/schule-bearbeiten.jpg)
 
-![Schule_bearbeiten.jpg](/bilder/wiki/schule-bearbeiten-2860c99a.jpg)
+![Schule_bearbeiten.jpg](/bilder/einstieg/erste-schritte/schule-bearbeiten.jpg)
 
 ## Originalquelltext
 

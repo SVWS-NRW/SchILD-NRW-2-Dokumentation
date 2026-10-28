@@ -1,15 +1,11 @@
 ---
 title: "Shortcuts in Schild-NRW"
-wiki_title: "Shortcuts in Schild-NRW"
-wiki_page_id: 527
-wiki_revision: 2371
 ---
 
 # Shortcuts in Schild-NRW
 
-|                  |                                                     |
-|------------------|-----------------------------------------------------|
 | STRG + w         | Word Seriendruck starten                            |
+|------------------|-----------------------------------------------------|
 | STRG + r         | Alle Filter zurücksetzen                            |
 | STRG + i         | Notendateien (enm) importieren                      |
 | STRG + p         | Reportexplorer starten                              |

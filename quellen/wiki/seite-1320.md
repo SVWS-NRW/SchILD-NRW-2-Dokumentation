@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 5376 · Stand 2022-02-15.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1320.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/export-iserv-11d67fe0.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/unterricht-kataloge/export-iserv.png)
 
-![Export_Iserv.png](/bilder/wiki/export-iserv-11d67fe0.png)
+![Export_Iserv.png](/bilder/schild2/unterricht-kataloge/export-iserv.png)
 
 ## Originalquelltext
 

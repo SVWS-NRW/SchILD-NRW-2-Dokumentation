@@ -1,8 +1,5 @@
 ---
 title: "Laufbahninfo"
-wiki_title: "Laufbahninfo"
-wiki_page_id: 336
-wiki_revision: 3581
 ---
 
 # Laufbahninfo
@@ -15,11 +12,11 @@ Zu jedem **Vermerk**, den Sie zu einem Schüler anlegen, möglichst mit Datum, w
 
 Mit "Auswahl/Filter I" können auf der Karte Weitere Daten im Bereich Vermerke nach „Art“ und „Teil des Vermerk-Textes“ Eingaben gesucht werden, bei „Vermerkdatum von...bis“ kann ein Zeitbereich gewählt werden.
 
-![VermerkSetzen](/bilder/wiki/vermerksetzen-0ecaf89f.png)
+![VermerkSetzen](/bilder/schild2/schueler/vermerksetzen.png)
 
 Alle Fremdsprachen, die in den [Unterrichtsfächern](/schild2/unterricht-kataloge/unterrichtsfaecher) festgelegt werden, lassen sich im Bereich **Sprachenfolge** auswählen.
 
-![Sprachenfolge](/bilder/wiki/sprachenfolge-89da87e3.png)
+![Sprachenfolge](/bilder/schild2/schueler/sprachenfolge.png)
 
 :::warning
 Aufgrund interner Prozesse ist es in der Sprachenfolge nicht möglich in den Feldern Jahrgang

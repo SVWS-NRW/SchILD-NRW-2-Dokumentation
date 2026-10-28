@@ -1,8 +1,5 @@
 ---
 title: "SetJgIntervall"
-wiki_title: "SetJgIntervall"
-wiki_page_id: 88
-wiki_revision: 112
 ---
 
 # SetJgIntervall
@@ -10,14 +7,15 @@ wiki_revision: 112
 <a id="RAP-Funktion_&quot;SetJgIntervall&quot;"></a>
 <a id="RAP-Funktion_.22SetJgIntervall.22"></a>
 
-## RAP-Funktion "SetJgIntervall"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 function SetJgIntervall(aStartJg, aEndJg: Integer): Boolean; Diese Funktion
-ist veraltet. Statt dessen sollte SetJgIntervall_ASD benutzt werden.
 ```
+
+## Beschreibung
+
+ist veraltet. Statt dessen sollte SetJgIntervall_ASD benutzt werden.
 
 ## Parameter
 
@@ -28,11 +26,6 @@ aEndJg             - Ende des Jahrgangsintervalles, für das Übersichten erzeug
                      werden sollen
 ```
 
-## Rückgabewert
-
-```text
-...
-```
 
 ## Beispiel
 
@@ -46,5 +39,7 @@ Procedure ReportBeforePrint;
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-88) · [SetJgIntervall – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetJgIntervall&oldid=112)

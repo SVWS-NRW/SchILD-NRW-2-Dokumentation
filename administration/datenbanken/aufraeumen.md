@@ -1,8 +1,5 @@
 ---
 title: "Aufräumen"
-wiki_title: "Aufräumen"
-wiki_page_id: 274
-wiki_revision: 1174
 ---
 
 # Aufräumen

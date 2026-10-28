@@ -1,8 +1,5 @@
 ---
 title: "Schild-NRW Wiki:Impressum"
-wiki_title: "Schild-NRW Wiki:Impressum"
-wiki_page_id: 1153
-wiki_revision: 4283
 ---
 
 # Schild-NRW Wiki:Impressum

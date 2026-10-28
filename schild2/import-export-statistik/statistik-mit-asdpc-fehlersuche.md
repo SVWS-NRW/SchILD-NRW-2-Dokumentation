@@ -1,8 +1,5 @@
 ---
 title: "Statistik mit ASDPC Fehlersuche"
-wiki_title: "Statistik mit ASDPC Fehlersuche"
-wiki_page_id: 1340
-wiki_revision: 5713
 ---
 
 # Statistik mit ASDPC Fehlersuche
@@ -62,7 +59,7 @@ Haben Sie die Statistik versandt, sollten Sie innerhalb der Arbeitszeiten von IT
 
 Wird ASDPC auf einem Monitor mit hoher Auflösung ausgeführt, werden die Inhalte nicht korrekt dargestellt. In diesem Falle sind die Scrollbalken unten und rechts zu nutzen, um die Inhalte in den sichtbaren Bereich zu verschieben.
 
-![ASDPC_Fehler_Monitor](/bilder/wiki/asdpc-fehler-monitor-279515c2.png)
+![ASDPC_Fehler_Monitor](/bilder/schild2/import-export-statistik/asdpc-fehler-monitor.png)
 
 <a id="Fehler_mit_den_Schlüsseln"></a>
 <a id="Fehler_mit_den_Schl.C3.BCsseln"></a>

@@ -1,8 +1,5 @@
 ---
 title: "GeschlechtToString"
-wiki_title: "GeschlechtToString"
-wiki_page_id: 31
-wiki_revision: 5650
 ---
 
 # GeschlechtToString
@@ -10,9 +7,7 @@ wiki_revision: 5650
 <a id="RAP-Funktion_&quot;GeschlechtToString&quot;"></a>
 <a id="RAP-Funktion_.22GeschlechtToString.22"></a>
 
-## RAP-Funktion "GeschlechtToString"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 function GeschlechtToString(aGeschlecht: integer; aMaennl_Form, aWeibl_Form: String): String;
@@ -28,9 +23,7 @@ aWeibl_Form        - weibliche Form
 
 ## Rückgabewert
 
-```text
 Vorgabe, je nach Geschlecht
-```
 
 ## Beispiel
 
@@ -40,5 +33,7 @@ lAnrede:=GeschlechtToString(Schueler['Geschlecht'],'Schüler','Schülerin')
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-31) · [GeschlechtToString – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=GeschlechtToString&oldid=5650)

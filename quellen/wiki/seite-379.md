@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 1601 · Stand 2014-03-06.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-379.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/stundentafel-01-372d7d5a.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/unterricht-kataloge/stundentafel-01.jpg)
 
-![Stundentafel_01.jpg](/bilder/wiki/stundentafel-01-372d7d5a.jpg)
+![Stundentafel_01.jpg](/bilder/schild2/unterricht-kataloge/stundentafel-01.jpg)
 
 ## Originalquelltext
 

@@ -7,8 +7,8 @@ features:
   - title: Einstieg
     details: Grundlagen kennenlernen und die ersten Schritte mit SchILD-NRW 2 gehen.
     link: /einstieg/
-  - title: Arbeiten mit SchILD
-    details: Schülerdaten, Lehrkräfte, Unterricht, Gruppenprozesse und Schuljahreswechsel.
+  - title: SchILD2
+    details: Schülerdaten, Unterricht und Schuljahreswechsel sowie Installation, Datenbanken und Benutzerrechte.
     link: /schild2/
   - title: Zeugnisse
     details: Noten vorbereiten, Abschlüsse berechnen und Zeugnisse erstellen.
@@ -16,16 +16,10 @@ features:
   - title: Reporting
     details: Reports verwalten, erstellen und mit RAP erweitern.
     link: /reporting/
-  - title: Tools und Zusatzprogramme
+  - title: Tools
     details: Handbücher und Anleitungen zu Kurs42, LuPO, ASDPC, Notenmodulen und weiteren Werkzeugen.
     link: /tools/
-  - title: Programmreferenz
-    details: Funktionen anhand der tatsächlichen Menüs von SchILD2 nachschlagen.
-    link: /programmreferenz/
-  - title: Administration
-    details: Installation, direkter Datenbankzugriff, Sicherung und Benutzerrechte.
-    link: /administration/
-  - title: Hilfe
-    details: Problemlösungen, Quellenarchiv und Unterstützung für die Dokumentation.
+  - title: Nachschlagen
+    details: Programmreferenz, Artikel von A–Z, Hilfe, Bilder und das vollständige Quellenarchiv.
     link: /hilfe/
 ---

@@ -1,15 +1,12 @@
 ---
 title: "Entlassungs-Bemerkungen"
-wiki_title: "Entlassungs-Bemerkungen"
-wiki_page_id: 193
-wiki_revision: 527
 ---
 
 # Entlassungs-Bemerkungen
 
 Die, auf der Registerkarte "Schulbesuch" im Unterpunkt "Entlassung von eigener Schule" -\> "Bemerkung/Entlassgrund" zur VErfügung stehenden Einträge, müssen in diesem Katalog zuerst bereitgestellt werden.
 
-![Entlassgründe](/bilder/wiki/entlassgruende-23f143b4.jpg)
+![Entlassgründe](/bilder/schild2/unterricht-kataloge/entlassgrunde.jpg)
 
 Sollten sie weitere Einträge ergänzen wollen (wie z.B. "Bildungsabbruch" an den BKs), können Sie das hier durch Anklicken des "+"-Zeichens tun.
 

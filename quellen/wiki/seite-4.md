@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 6 · Stand 2013-09-25.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-4.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/reporting-198f76b1.png)
+[Gesicherte Originaldatei öffnen](/bilder/hilfe/wiki-archiv/reporting.png)
 
-![Reporting.png](/bilder/wiki/reporting-198f76b1.png)
+![Reporting.png](/bilder/hilfe/wiki-archiv/reporting.png)
 
 ## Originalquelltext
 

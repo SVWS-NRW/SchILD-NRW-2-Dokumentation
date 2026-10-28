@@ -1,8 +1,5 @@
 ---
 title: "Doppelte Fächer löschen"
-wiki_title: "Doppelte Fächer löschen"
-wiki_page_id: 477
-wiki_revision: 1934
 ---
 
 # Doppelte Fächer löschen

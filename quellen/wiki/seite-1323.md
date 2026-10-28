@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 5165 · Stand 2022-01-03.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1323.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/export-xlm-logineo-daede597.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/unterricht-kataloge/export-xlm-logineo.png)
 
-![Export_XLM_Logineo.png](/bilder/wiki/export-xlm-logineo-daede597.png)
+![Export_XLM_Logineo.png](/bilder/schild2/unterricht-kataloge/export-xlm-logineo.png)
 
 ## Originalquelltext
 

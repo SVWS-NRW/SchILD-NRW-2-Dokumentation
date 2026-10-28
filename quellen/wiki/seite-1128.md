@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 4151 · Stand 2017-05-23.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1128.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/klasse-versetzungsdetails-jg-aadd9890.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/archiv/klasse-versetzungsdetails-jg.jpg)
 
-![Klasse_versetzungsdetails_jg.jpg](/bilder/wiki/klasse-versetzungsdetails-jg-aadd9890.jpg)
+![Klasse_versetzungsdetails_jg.jpg](/bilder/archiv/klasse-versetzungsdetails-jg.jpg)
 
 ## Originalquelltext
 

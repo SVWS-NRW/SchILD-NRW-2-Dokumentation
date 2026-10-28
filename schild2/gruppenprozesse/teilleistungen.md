@@ -1,15 +1,12 @@
 ---
 title: "Teilleistungen"
-wiki_title: "Teilleistungen"
-wiki_page_id: 758
-wiki_revision: 3622
 ---
 
 # Teilleistungen
 
 Teilleistungen können immer dann sinnvoll sein, wenn zu einer Note noch Unterkategorien gehören, die in Schild-NRW mit archiviert werden sollen. (Z.B. Klassenarbeiten, Somitnoten oder Teilleistungen bei Bündelfächern). Unter dem Reiter Teilleistungen befinden sich die Prozesse zu deren Verarbeitung.
 
-![GP-Teilleistungen](/bilder/wiki/gp-teilleistungen-6aa38476.jpg)
+![GP-Teilleistungen](/bilder/schild2/gruppenprozesse/gp-teilleistungen.jpg)
 
 Diese Prozesse können wie folgt eingesetzt werden:
 
@@ -43,7 +40,7 @@ Sollten Teilleistungen nicht mehr benötigt werden oder deren Löschungsfrist ü
 
 Dieser Prozess steht allen Kollegen mit der Berechtigung Leistungsdaten (funktionsbezogen) zu ändern zur Verfügung und wird verwendet, wenn durch den Administrator Teilleistungen vorbereitet wurden.
 
-![NE-Teilleistung-vorbereitet](/bilder/wiki/ne-teilleistung-vorbereitet-aca64bdd.jpg)
+![NE-Teilleistung-vorbereitet](/bilder/schild2/gruppenprozesse/ne-teilleistung-vorbereitet.jpg)
 
 Nach Filterung des Jahrgangs und ggf. des Kurses kann der eingebende Lehrer diesen Gruppenprozess aufrufen. Fach und Teilleistungsart müssen über das "Dropdown-Menü" ausgewählt werden. Um eine Ansicht der Daten zu erhalten, muss der Button "Aktualisieren" gedrückt werden. Das Datum kann, wenn gewünscht, gesammelt übernommen werden.
 
@@ -56,7 +53,7 @@ Alle Teilleistungen dieser Schülergruppe können dann eingegeben werden.
 
 Dieser Prozess steht allen Kollegen mit der Berechtigung Leistungsdaten (funktionsbezogen) zu ändern zur Verfügung und wird verwendet, wenn jeder Kollege selbst die Teilleistungsart anlegen soll.
 
-![NE-Teilleitsung-nv](/bilder/wiki/ne-teilleitsung-nv-923e35f8.jpg)
+![NE-Teilleitsung-nv](/bilder/schild2/gruppenprozesse/ne-teilleitsung-nv.jpg)
 
 Bei diesem Prozess wählt der eingebende Kollege die Klasse oder den Kurs, die Teilleistungsart und die weiteren Angaben. Diese Teilleistungen werden dann bei den Schülern angelegt und die Note / Bemerkung kann eingegeben werden.
 

@@ -2,11 +2,16 @@
 
 Problemlösungen, Quellenarchiv und Unterstützung für die Dokumentation.
 
+- [Programmreferenz: Menüs und Karteireiter](/programmreferenz/)
+- [Alle Artikel A–Z](/hilfe/alle-artikel)
+- [Dokumentation und Wiki im Vergleich](/hilfe/artikel-wiki-zuordnung)
+- [Bilder suchen und wiederverwenden](/bilder/)
+
 Ältere Verfahren und Zusatzprogramme sind weiterhin enthalten. Hinweise auf frühere Windows-Versionen, Schuljahre oder Rechtsstände gehören zum jeweiligen Quellenstand und sind vor der Anwendung zu prüfen.
 
 ## [Zusatzprogramme und Handbücher](/hilfe/zusatzprogramme)
 
-
+Die [Tools-Rubrik](/tools/) bündelt Einrichtung und Arbeitsabläufe der Zusatzprogramme. Die [Anleitungsübersicht](/tools/anleitungen) erschließt auch die aus PDF-Quellen erarbeiteten Artikel.
 
 ## [Hilfe und Problemlösungen](/hilfe/probleme)
 
@@ -22,7 +27,7 @@ Problemlösungen, Quellenarchiv und Unterstützung für die Dokumentation.
 - [Hauptseite](/hilfe/wiki-archiv/hauptseite)
 
 - [Alle Artikel](/hilfe/alle-artikel)
-- [Wiki-Bezugstabelle](/hilfe/artikel-wiki-zuordnung)
+- [Dokumentation und Wiki im Vergleich](/hilfe/artikel-wiki-zuordnung)
 - [Bilderkatalog](/bilder/)
 - [Bedienung](/hilfe/bedienung)
 - [Artikel schreiben](/hilfe/artikel-schreiben)

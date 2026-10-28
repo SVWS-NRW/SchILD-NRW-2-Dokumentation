@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 4120 · Stand 2017-03-21.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1114.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/lupo-sprachenfolge-1-9a23c852.png)
+[Gesicherte Originaldatei öffnen](/bilder/tools/lupo/lupo-sprachenfolge-1.png)
 
-![Lupo_sprachenfolge_1.png](/bilder/wiki/lupo-sprachenfolge-1-9a23c852.png)
+![Lupo_sprachenfolge_1.png](/bilder/tools/lupo/lupo-sprachenfolge-1.png)
 
 ## Originalquelltext
 

@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 1502 · Stand 2014-03-04.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-338.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/vermerksetzen-0ecaf89f.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/schueler/vermerksetzen.png)
 
-![VermerkSetzen.png](/bilder/wiki/vermerksetzen-0ecaf89f.png)
+![VermerkSetzen.png](/bilder/schild2/schueler/vermerksetzen.png)
 
 ## Originalquelltext
 

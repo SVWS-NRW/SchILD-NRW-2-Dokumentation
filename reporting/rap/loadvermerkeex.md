@@ -1,8 +1,5 @@
 ---
 title: "LoadVermerkeEx"
-wiki_title: "LoadVermerkeEx"
-wiki_page_id: 47
-wiki_revision: 68
 ---
 
 # LoadVermerkeEx
@@ -10,9 +7,7 @@ wiki_revision: 68
 <a id="RAP-Funktion_&quot;LoadVermerkeEx&quot;"></a>
 <a id="RAP-Funktion_.22LoadVermerkeEx.22"></a>
 
-## RAP-Funktion "LoadVermerkeEx"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 function LoadVermerkeEx(const aVermerkart, aDelimiter: String; const MitDatum: Boolean): String;
@@ -33,9 +28,7 @@ MitDatum           - Boolescher Wert. Falls TRUE, wird den Ergebiszeilen
 
 ## Rückgabewert
 
-```text
 Alle Vermerke der gewählten Art, durch den Delimiter voneinander getrennt.
-```
 
 ## Beispiel
 
@@ -49,5 +42,7 @@ Alle Vermerke der gewählten Art, durch den Delimiter voneinander getrennt.
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-47) · [LoadVermerkeEx – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LoadVermerkeEx&oldid=68)

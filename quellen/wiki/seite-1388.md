@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 5751 · Stand 2024-03-14.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1388.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/schild-nrw-export-ban-portal-markieren-fc15379f.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/import-export-statistik/schild-nrw-export-ban-portal-markieren.png)
 
-![SchILD-NRW_Export_BAN-Portal_Markieren.png](/bilder/wiki/schild-nrw-export-ban-portal-markieren-fc15379f.png)
+![SchILD-NRW_Export_BAN-Portal_Markieren.png](/bilder/schild2/import-export-statistik/schild-nrw-export-ban-portal-markieren.png)
 
 ## Originalquelltext
 

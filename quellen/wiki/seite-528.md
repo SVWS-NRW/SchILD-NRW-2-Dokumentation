@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2166 · Stand 2014-05-19.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-528.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/km2-30e2623c.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/archiv/km2.jpg)
 
-![KM2.jpg](/bilder/wiki/km2-30e2623c.jpg)
+![KM2.jpg](/bilder/archiv/km2.jpg)
 
 ## Originalquelltext
 

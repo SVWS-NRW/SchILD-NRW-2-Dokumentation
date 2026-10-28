@@ -1,19 +1,16 @@
 ---
 title: "Konferenzmodul KM2.exe"
-wiki_title: "Konferenzmodul KM2.exe"
-wiki_page_id: 529
-wiki_revision: 5507
 ---
 
 # Konferenzmodul KM2.exe
 
-![Km2-logo](/bilder/wiki/km2-logo-6df70bfe.png)
+![Km2-logo](/bilder/tools/km2/km2-logo.png)
 
 <a id="Vorbemerkung"></a>
 
 ## Vorbemerkung
 
-![KM2_LeistungsUebersicht_Bsp_01](/bilder/wiki/km2-leistungsuebersicht-bsp-01-5a861b1a.png)
+![KM2_LeistungsUebersicht_Bsp_01](/bilder/tools/km2/km2-leistungsuebersicht-bsp-01.png)
 
 - **KM<sup>2</sup>** ist eine Erweiterung von SchILD-NRW und findet seinen Einsatz bei der Durchführung von Notenkonferenzen.
 - Das Konferenzmodul **KM<sup>2</sup>** ist ein eigenständiges Programm und kann getrennt von Schild-NRW gestartet werden, es wird keinerlei Installation benötigt, lediglich ein Zugriff auf die Datenbank muss existieren. Gleichwohl wird auch ein Grundinstallationspaket verfügbar sein.
@@ -21,7 +18,7 @@ wiki_revision: 5507
 - Die Anordnung der Leistungsdaten ist für den Benutzer frei wählbar.
 - Einzelne Schülerdaten können mit Hilfe einer **Lupenfunktion** besonders hervorgehoben werden.
 
-![KM2_SchuelerLupe_Bsp_01](/bilder/wiki/km2-schuelerlupe-bsp-01-37968a2c.png)
+![KM2_SchuelerLupe_Bsp_01](/bilder/tools/km2/km2-schuelerlupe-bsp-01.png)
 
 - Leistungsdatenänderungen können direkt in die SchILD-Datenbank zurückgeschrieben werden, wobei diese Änderungen gesondert protokolliert werden.
 - **KM<sup>2</sup>** implementiert ein zusätzliches Verfahren
@@ -61,13 +58,13 @@ Eine ausführliche Beschreibung des Installationsprozesses erhalten Sie → **hi
 
 ## Einstellungen
 
-![KM2ParameterFestlegen](/bilder/wiki/km2parameterfestlegen-ffa92457.png)
+![KM2ParameterFestlegen](/bilder/tools/km2/km2parameterfestlegen.png)
 
 Alle Einstellungen für **KM<sup>2</sup>** werden im Dialog „Parameter festlegen" vorgenommen.
 
 Dieser Dialog besteht aus den beiden Registern „Allgemein" und „Administration":
 
-![KM2ParameterRegister](/bilder/wiki/km2parameterregister-506996a2.png)
+![KM2ParameterRegister](/bilder/tools/km2/km2parameterregister.png)
 
 - Alle **sensiblen Einstellungen** (z.B. Passwort des Administrators, Datenbankverbindungsdaten, etc.) werden auf der Registerseite „**Administration**" vorgenommen und die vom Admin definierten SchILD-Verbindungsdaten für alle Benutzer, die das Programm **KM<sup>2</sup>** benutzen. Mit anderen Worten: Der *normale Benutzer* kann die SchILD-Verbindungsdaten nicht ändern.
 - Alle anderen Parameter werden auf der Seite „Allgemein" vorgenommen und sind benutzerspezifisch.

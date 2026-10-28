@@ -1,13 +1,10 @@
 ---
 title: "JG-Tabelle-BK"
-wiki_title: "JG-Tabelle-BK"
-wiki_page_id: 517
-wiki_revision: 2111
 ---
 
 # JG-Tabelle-BK
 
-![JG Tabelle BK](/bilder/wiki/jg-tabelle-bk-668c91e3.jpg)
+![JG Tabelle BK](/bilder/schild2/unterricht-kataloge/jg-tabelle-bk.jpg)
 
 Typische Jahrgangstabelle für ein Berufskolleg.
 

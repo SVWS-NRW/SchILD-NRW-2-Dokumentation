@@ -1,8 +1,5 @@
 ---
 title: "Kurse"
-wiki_title: "Kurse"
-wiki_page_id: 370
-wiki_revision: 3757
 ---
 
 # Kurse
@@ -15,7 +12,7 @@ Bitte beachten Sie, dass Kurse den Schülern unter "Akt. Halbjahr" nur zugewiese
 
 Die Schüler werden dann über die [Gruppenprozesse](/schild2/gruppenprozesse/gruppenprozesse) oder durch Hinzufügen im aktuellen Abschnitt zu den Kursen zugewiesen.
 
-![Kurse](/bilder/wiki/kurse-369021dd.jpg)
+![Kurse](/bilder/schild2/unterricht-kataloge/kurse.jpg)
 
 Um die Anzeige der Kurse einzuschränken oder Kurse aus anderen Halbjahren anzuzeigen, benutzen Sie bitte die Schnellfilter im oberen Bereich.
 

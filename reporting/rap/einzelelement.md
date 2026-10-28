@@ -1,16 +1,11 @@
 ---
 title: "EinzelElement"
-wiki_title: "EinzelElement"
-wiki_page_id: 119
-wiki_revision: 164
 ---
 
 # EinzelElement
 
 <a id="RAP-Funktion_&quot;EinzelElement&quot;"></a>
 <a id="RAP-Funktion_.22EinzelElement.22"></a>
-
-## RAP-Funktion "EinzelElement"
 
 ## Beschreibung
 
@@ -30,11 +25,6 @@ trennzeichen: Das Trennzeichen
 position: Die Position des Einzelelementes im Text (beginnend bei 1)
 ```
 
-## Rückgabewert
-
-```text
-...
-```
 
 ## Beispiel
 
@@ -45,5 +35,7 @@ if einzelelement( txt, ',', 2 ) = '2' then
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-119) · [EinzelElement – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=EinzelElement&oldid=164)

@@ -1,16 +1,11 @@
 ---
 title: "Datenliste"
-wiki_title: "Datenliste"
-wiki_page_id: 1145
-wiki_revision: 4250
 ---
 
 # Datenliste
 
 <a id="RAP-Funktion_&quot;Datenliste&quot;"></a>
 <a id="RAP-Funktion_.22Datenliste.22"></a>
-
-## RAP-Funktion "Datenliste"
 
 ## Beschreibung
 
@@ -28,9 +23,7 @@ Datenquelle, Datenfeld,Trennzeichen,true/false
 
 ## Rückgabewert
 
-```text
 Datenliste z.B. 05a, 06a, 07a, 08a aus dem Beispiel
-```
 
 ## Beispiel
 
@@ -40,5 +33,7 @@ lblBesuchteKlassen.Caption := DatenListe( SchuelerLaufbahn, 'Klasse', ', ', fals
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1145) · [Datenliste – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datenliste&oldid=4250)

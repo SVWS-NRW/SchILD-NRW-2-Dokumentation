@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 3083 · Stand 2015-05-07.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-793.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/zeugnis-kopf-02-4786a022.png)
+[Gesicherte Originaldatei öffnen](/bilder/archiv/zeugnis-kopf-02.png)
 
-![Zeugnis-Kopf-02.png](/bilder/wiki/zeugnis-kopf-02-4786a022.png)
+![Zeugnis-Kopf-02.png](/bilder/archiv/zeugnis-kopf-02.png)
 
 ## Originalquelltext
 

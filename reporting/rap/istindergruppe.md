@@ -1,8 +1,5 @@
 ---
 title: "IstInDerGruppe"
-wiki_title: "IstInDerGruppe"
-wiki_page_id: 36
-wiki_revision: 57
 ---
 
 # IstInDerGruppe
@@ -10,14 +7,15 @@ wiki_revision: 57
 <a id="RAP-Funktion_&quot;IstInDerGruppe&quot;"></a>
 <a id="RAP-Funktion_.22IstInDerGruppe.22"></a>
 
-## RAP-Funktion "IstInDerGruppe"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 function IstInDerGruppe(const aLoginName, aGruppenName: String): Boolean;
-Diese Funktion ermittelt, ob ein bestimmter Benutzer einer Gruppe angehört
 ```
+
+## Beschreibung
+
+Diese Funktion ermittelt, ob ein bestimmter Benutzer einer Gruppe angehört
 
 ## Parameter
 
@@ -28,9 +26,7 @@ aGruppenname  - die zu überprüfende Gruppe
 
 ## Rückgabewert
 
-```text
 TRUE, wenn der Benutzer der Gruppe angehört, FALSE sonst
-```
 
 ## Beispiel
 
@@ -43,5 +39,7 @@ end;
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-36) · [IstInDerGruppe – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=IstInDerGruppe&oldid=57)

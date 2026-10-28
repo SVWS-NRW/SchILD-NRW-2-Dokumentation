@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2159 · Stand 2014-05-14.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-526.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/useradmn-exe1-5b610000.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/archiv/useradmn-exe1.jpg)
 
-![UserAdmn_exe1.jpg](/bilder/wiki/useradmn-exe1-5b610000.jpg)
+![UserAdmn_exe1.jpg](/bilder/archiv/useradmn-exe1.jpg)
 
 ## Originalquelltext
 

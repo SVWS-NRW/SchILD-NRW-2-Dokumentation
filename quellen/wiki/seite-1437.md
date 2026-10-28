@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 5972 · Stand 2024-08-30.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1437.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/migrationshintergrund-066adf7e.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/schueler/migrationshintergrund.png)
 
-![Migrationshintergrund.png](/bilder/wiki/migrationshintergrund-066adf7e.png)
+![Migrationshintergrund.png](/bilder/schild2/schueler/migrationshintergrund.png)
 
 ## Originalquelltext
 

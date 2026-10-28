@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 4939 · Stand 2021-10-11.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1246.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/pm2-erststart-03-8dff6e1a.png)
+[Gesicherte Originaldatei öffnen](/bilder/tools/pm2/pm2-erststart-03.png)
 
-![PM2_Erststart_03.png](/bilder/wiki/pm2-erststart-03-8dff6e1a.png)
+![PM2_Erststart_03.png](/bilder/tools/pm2/pm2-erststart-03.png)
 
 ## Originalquelltext
 

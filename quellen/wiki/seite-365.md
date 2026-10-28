@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 1582 · Stand 2014-03-05.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-365.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/gp-sprachenersetzen-6ad392e6.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/gruppenprozesse/gp-sprachenersetzen.jpg)
 
-![GP-Sprachenersetzen.jpg](/bilder/wiki/gp-sprachenersetzen-6ad392e6.jpg)
+![GP-Sprachenersetzen.jpg](/bilder/schild2/gruppenprozesse/gp-sprachenersetzen.jpg)
 
 ## Originalquelltext
 

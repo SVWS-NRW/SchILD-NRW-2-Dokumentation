@@ -1,8 +1,5 @@
 ---
 title: "Leistungsdaten holen"
-wiki_title: "Leistungsdaten holen"
-wiki_page_id: 488
-wiki_revision: 2027
 ---
 
 # Leistungsdaten holen

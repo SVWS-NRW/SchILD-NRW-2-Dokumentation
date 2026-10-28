@@ -1,8 +1,5 @@
 ---
 title: "Schüler-Datensätze löschen"
-wiki_title: "Schüler-Datensätze löschen"
-wiki_page_id: 578
-wiki_revision: 2247
 ---
 
 # Schüler-Datensätze löschen
@@ -11,7 +8,7 @@ Dieser Gruppenprozess wird erst freigeschaltet, wenn Schüler mit Löschmarkieru
 
 Es öffnet sich das Fenster "Schüler-Datensätze löschen":
 
-![GP-SchuelerDatensaetzeloeschen](/bilder/wiki/gp-schuelerdatensaetzeloeschen-84831daf.jpg)
+![GP-SchuelerDatensaetzeloeschen](/bilder/schild2/gruppenprozesse/gp-schuelerdatensaetzeloeschen.jpg)
 
 Man hat hier die Möglichkeit, das nach dem Löschen automatisch angelegte Löschprotokoll auszuschalten. Wird ein Protokoll mit den gelöschten Schülerdaten angelegt, können ggf. aus dieser Datei die Daten wieder eingelesen werden.
 

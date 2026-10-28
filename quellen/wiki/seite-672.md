@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2650 · Stand 2014-11-23.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-672.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/report-neu-lineal-4f3e6ef0.png)
+[Gesicherte Originaldatei öffnen](/bilder/reporting/erstellung/report-neu-lineal.png)
 
-![Report-Neu-Lineal.png](/bilder/wiki/report-neu-lineal-4f3e6ef0.png)
+![Report-Neu-Lineal.png](/bilder/reporting/erstellung/report-neu-lineal.png)
 
 ## Originalquelltext
 

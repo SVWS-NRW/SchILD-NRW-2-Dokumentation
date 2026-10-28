@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 5757 · Stand 2024-03-14.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1394.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/schild-nrw-export-ban-portal-gp-aktuellenabschnittverwenden-978017f2.png)
+[Gesicherte Originaldatei öffnen](/bilder/archiv/schild-nrw-export-ban-portal-gp-aktuellenabschnittverwenden.png)
 
-![SchILD-NRW_Export_BAN-Portal_GP_AktuellenAbschnittVerwenden.png](/bilder/wiki/schild-nrw-export-ban-portal-gp-aktuellenabschnittverwenden-978017f2.png)
+![SchILD-NRW_Export_BAN-Portal_GP_AktuellenAbschnittVerwenden.png](/bilder/archiv/schild-nrw-export-ban-portal-gp-aktuellenabschnittverwenden.png)
 
 ## Originalquelltext
 

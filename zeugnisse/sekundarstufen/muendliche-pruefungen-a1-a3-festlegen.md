@@ -1,8 +1,5 @@
 ---
 title: "Mündliche Prüfungen A1-A3 festlegen"
-wiki_title: "Mündliche Prüfungen A1-A3 festlegen"
-wiki_page_id: 754
-wiki_revision: 2899
 ---
 
 # Mündliche Prüfungen A1-A3 festlegen
@@ -17,7 +14,7 @@ Die festgesetzten Prüfungen können dann unter dem Karteireiter "Abitur" einges
 - MBP steht für mündliche Bestehensprüfung
 - MFP steht für mündliche freiwillige Prüfung
 
-![GP-MdlPruefungen](/bilder/wiki/gp-mdlpruefungen-6e73c80c.jpg)
+![GP-MdlPruefungen](/bilder/zeugnisse/sekundarstufen/gp-mdlpruefungen.jpg)
 
 Für einen einzelnen Schüler kann der Prozess auch unter dem Karteireiter "Abitur" durch Klicken auf die Schaltfläche "Mdl. Prüfung festlegen" initialisiert werden.
 

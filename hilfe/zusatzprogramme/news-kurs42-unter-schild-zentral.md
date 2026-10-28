@@ -1,8 +1,5 @@
 ---
 title: "News:Kurs42 unter Schild-Zentral"
-wiki_title: "News:Kurs42 unter Schild-Zentral"
-wiki_page_id: 1023
-wiki_revision: 6063
 ---
 
 # News:Kurs42 unter Schild-Zentral
@@ -22,25 +19,25 @@ Damit Kurs42 in Verbindung mit SchILDzentral korrekt funktioniert, müssen einig
 
 **Karteireiter „Allgemein“**
 
-![News Kurs42 001](/bilder/wiki/news-kurs42-001-a7e6e7cb.jpg)
+![News Kurs42 001](/bilder/tools/kurs42/news-kurs42-001.jpg)
 
 Prüfen Sie hier, ob das Kontrollhäkchen „Beim Start prüfen, ob im Internet ein Update zur Verfügung steht“ deaktiviert ist. Falls das Häkchen aktiviert ist, versucht das Programm beim Start im Internet zu prüfen, ob ein Update verfügbar ist, was aber in einer Zentralumgebung in der Regel nicht möglich ist.
 
 **Karteireiter „Druck“**
 
-![News Kurs42 002](/bilder/wiki/news-kurs42-002-20938a73.jpg)
+![News Kurs42 002](/bilder/tools/kurs42/news-kurs42-002.jpg)
 
 Weisen Sie hier die zu verwendenden Standardformulare zu. Diese befinden sich i.d.R. im Verzeichnis \Kurs42\Reports unterhalb des „Schulverzeichnisses“.
 
 **Karteireiter Verzeichnisse**
 
-![News Kurs42 003](/bilder/wiki/news-kurs42-003-93daa022.jpg)
+![News Kurs42 003](/bilder/tools/kurs42/news-kurs42-003.jpg)
 
 Stellen Sie hier die Verzeichnisse für die Blockungsdateien, die Notendateien und Formulare ein. In der Regel liegen diese Verzeichnisse unterhalb Ihres „Schulverzeichnisses“. Das Programmverzeichnis und das Verwaltungsverzeichnis werden in einer Zentralumgebung intern verwaltet, hier sind keine Angaben notwendig.
 
 **Karteireiter „Im/Export“**
 
-![News Kurs42 004](/bilder/wiki/news-kurs42-004-75cdb3cf.jpg)
+![News Kurs42 004](/bilder/tools/kurs42/news-kurs42-004.jpg)
 
 Wählen Sie hier die Option für den Blockungsexport aus.
 
@@ -72,11 +69,11 @@ Abgleich der Grunddaten
 
 Nach der Anmeldung in Kurs42 und der Auswahl der Blockungsdatei aktivieren Sie den Menüpunkt „DB-Zugriff\>\>Blockungs-Grunddaten laden“.
 
-![News Kurs42 005](/bilder/wiki/news-kurs42-005-10af7fff.jpg)
+![News Kurs42 005](/bilder/tools/kurs42/news-kurs42-005.jpg)
 
 Dadurch werden die aktuellen Angaben zu Schuljahr, Abschnitt usw. aus der Datenbank geladen. Anschließend können Sie über „Blockung\>\>Blockung bearbeiten“ die Angaben der Blockung überprüfen.
 
-![News Kurs42 006](/bilder/wiki/news-kurs42-006-77ddd776.jpg)
+![News Kurs42 006](/bilder/tools/kurs42/news-kurs42-006.jpg)
 
 :::warning
 Die in der Blockungsdatei enthaltenen Schüler müssen in der Zentraldatenbank das gleiche Schuljahr und das gleiche Halbjahr (bzw. Quartal) eingetragen haben wie in der Blockungsdatei. Beim Abgleich wird nämlich nicht nur die Kombination „Name, Vorname, Geburtsdatum“ verwendet, sondern zusätzlich auch der Jahrgang und das Halbjahr/Quartal. Es muss daher gewährleistet sein, dass diese Angaben zueinander passen. Bei Abweichungen müssen entweder die Angaben bei der Blockung angepasst werden oder die Schüler in SchILDzentral in das jeweilige Halbjahr/Quartal übertragen werden.\
@@ -86,23 +83,23 @@ Die in der Blockungsdatei enthaltenen Schüler müssen in der Zentralda
 
 Um die Jahrgänge abzugleichen, aktivieren Sie den Menüpunkt „Bearbeiten\>\>Statistik-Jahrgänge anzeigen“, es erscheint dann das folgende Fenster:
 
-![News Kurs42 007](/bilder/wiki/news-kurs42-007-4063b151.jpg)
+![News Kurs42 007](/bilder/tools/kurs42/news-kurs42-007.jpg)
 
 Wenn man auf den Schalter „Laden“ klickt, werden die internen ID’s mit den Werten in der Zentraldatenbank abgeglichen:
 
-![News Kurs42 008](/bilder/wiki/news-kurs42-008-8f257c8f.jpg)
+![News Kurs42 008](/bilder/tools/kurs42/news-kurs42-008.jpg)
 
 **Abgleich der Fächer**
 
 Auch die IDs der Fächer müssen abgeglichen werden, hierzu reicht es, den Menüpunkt „DB-Zugriff\>\>Fächer mit DB abgleichen“ zu aktivieren.
 
-![News Kurs42 009](/bilder/wiki/news-kurs42-009-8feb7e3d.jpg)
+![News Kurs42 009](/bilder/tools/kurs42/news-kurs42-009.jpg)
 
 **Abgleich der Schüler**
 
 Der Abgleich der Schüler IDs erfolgt über den Menüpunkt „DB-Zugriff\>\>Schüler-Ids mit DB abgleichen“.
 
-![News Kurs42 010](/bilder/wiki/news-kurs42-010-93199e3a.jpg)
+![News Kurs42 010](/bilder/tools/kurs42/news-kurs42-010.jpg)
 
 Zum Abgleich werden nicht nur Name, Vorname und Geburtsdatum herangezogen, sondern auch das bei den Schülern eingetragene Halbjahr/Quartal und der Jahrgang. Wenn eine dieser Angaben von denen in SchILDzentral abweicht, kann der Schüler/die Schülerin nicht gefunden werden. Man erhält dann im Protokoll (im unteren Teil des Programmfensters) Meldungen der Art :
 
@@ -110,9 +107,9 @@ Zum Abgleich werden nicht nur Name, Vorname und Geburtsdatum herangezogen, sonde
 
 In einem solchen Fall ist zu prüfen, ob möglicherweise unterschiedliche Schreibweisen in Kurs42 und SchILDzentral die Ursache sind. Über den Menüpunkt „Bearbeiten\>\>Schüler intern bearbeiten...“ können bei diesen Schülern die Angaben korrigiert werden, danach sollten keine Fehlermeldungen mehr bei einem erneuten Abgleich auftreten. Um zu prüfen, ob der Abgleich erfolgreich durchgeführt werden konnte, aktivieren Sie den Menüpunkt „DB-Zugriff\>\>Schüler mit DB-Zugriff bearbeiten“.
 
-![News Kurs42 011](/bilder/wiki/news-kurs42-011-865542c2.jpg)
+![News Kurs42 011](/bilder/tools/kurs42/news-kurs42-011.jpg)
 
-![News Kurs42 012](/bilder/wiki/news-kurs42-012-38d31a43.jpg)
+![News Kurs42 012](/bilder/tools/kurs42/news-kurs42-012.jpg)
 
 Die ID-Nummern in der linken und rechten Liste sollten dann identisch sein. Speichern Sie anschließend die Blockungsdatei ab (evtl. unter neuem Namen).
 

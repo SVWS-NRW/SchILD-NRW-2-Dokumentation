@@ -1,8 +1,5 @@
 ---
 title: "Zusatzprogramme / Tools"
-wiki_title: "Zusatzprogramme / Tools"
-wiki_page_id: 523
-wiki_revision: 3939
 ---
 
 # Zusatzprogramme / Tools

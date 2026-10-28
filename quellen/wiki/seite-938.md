@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 3533 · Stand 2015-09-07.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-938.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/staatsang-c8cb9cea.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/archiv/staatsang.jpg)
 
-![Staatsang.jpg](/bilder/wiki/staatsang-c8cb9cea.jpg)
+![Staatsang.jpg](/bilder/archiv/staatsang.jpg)
 
 ## Originalquelltext
 

@@ -1,8 +1,5 @@
 ---
 title: "ResetAdressArt"
-wiki_title: "ResetAdressArt"
-wiki_page_id: 65
-wiki_revision: 86
 ---
 
 # ResetAdressArt
@@ -10,9 +7,7 @@ wiki_revision: 86
 <a id="RAP-Funktion_&quot;ResetAdressArt&quot;"></a>
 <a id="RAP-Funktion_.22ResetAdressArt.22"></a>
 
-## RAP-Funktion "ResetAdressArt"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 procedure ResetAdressArt(aZiel: String);
@@ -26,11 +21,6 @@ aZiel   - ALLEADRESSEN' setzt den Filter für die Datenquelle
           auf  die Datenquelle „AllgAdresseZurLKlasse“ zurück
 ```
 
-## Rückgabewert
-
-```text
-...
-```
 
 ## Beispiel
 
@@ -43,5 +33,7 @@ Procedure ReportAfterPrint;
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-65) · [ResetAdressArt – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ResetAdressArt&oldid=86)

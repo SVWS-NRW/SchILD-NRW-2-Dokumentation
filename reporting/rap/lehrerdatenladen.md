@@ -1,8 +1,5 @@
 ---
 title: "LehrerDatenLaden"
-wiki_title: "LehrerDatenLaden"
-wiki_page_id: 41
-wiki_revision: 4843
 ---
 
 # LehrerDatenLaden
@@ -10,38 +7,39 @@ wiki_revision: 4843
 <a id="RAP-Funktion_&quot;LehrerDatenLaden&quot;"></a>
 <a id="RAP-Funktion_.22LehrerDatenLaden.22"></a>
 
-## RAP-Funktion "LehrerDatenLaden"
+## Signatur
 
-## Beschreibung
-
-   procedure LehrerDatenLaden(const Kuerzel: String; var Name, Vorname, Anrede, Titel, Amtsbez: String);\
+```pascal
+procedure LehrerDatenLaden(const Kuerzel: String; var Name, Vorname, Anrede, Titel, Amtsbez: String);
+```
 
 ## Parameter
 
-   Name               - Nachname des Lehrers\
-   Vorname            - ..des Lehrers\
-   Anrede             - ..des Lehrers\
-   Titel              - ..des Lehrers\
-   Amtsbez            - ..des Lehrers\
-
-## Rückgabewert
-
-   ...\
+```text
+Name               - Nachname des Lehrers
+Vorname            - ..des Lehrers
+Anrede             - ..des Lehrers
+Titel              - ..des Lehrers
+Amtsbez            - ..des Lehrers
+```
 
 ## Beispiel
 
-   procedure Label4711OnGetText(var Text: String);\
-   var\
-     lName, lVorname, lAnrede, lTitel, lAmtsbez: String;\
-   begin\
-     LehrerdatenLaden(Schueler\['Lehrer'\],lName, lVorname, lAnrede, lTitel,lAmtsbez);\
-     Text:=lAnrede;\
-     if lAmtsBez \<\> '' then Text:=Text + lAmtsBez;\
-     if lTitel \<\> '' then Text:=Text +  lTitel;\
-     Text:=Text + lVorname +  lName;\
-   end;\
-
+```pascal
+procedure Label4711OnGetText(var Text: String);
+var
+  lName, lVorname, lAnrede, lTitel, lAmtsbez: String;
+begin
+  LehrerdatenLaden(Schueler['Lehrer'],lName, lVorname, lAnrede, lTitel,lAmtsbez);
+  Text:=lAnrede;
+  if lAmtsBez <> '' then Text:=Text + lAmtsBez;
+  if lTitel <> '' then Text:=Text +  lTitel;
+  Text:=Text + lVorname +  lName;
+end;
+```
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-41) · [LehrerDatenLaden – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LehrerDatenLaden&oldid=4843)

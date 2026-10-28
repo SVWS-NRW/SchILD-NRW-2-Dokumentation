@@ -1,8 +1,5 @@
 ---
 title: "LoadVermerkeVonBis"
-wiki_title: "LoadVermerkeVonBis"
-wiki_page_id: 48
-wiki_revision: 69
 ---
 
 # LoadVermerkeVonBis
@@ -10,9 +7,7 @@ wiki_revision: 69
 <a id="RAP-Funktion_&quot;LoadVermerkeVonBis&quot;"></a>
 <a id="RAP-Funktion_.22LoadVermerkeVonBis.22"></a>
 
-## RAP-Funktion "LoadVermerkeVonBis"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 function LoadVermerkeVonBis(Const aVermerkart, aDelimiter, aStart, aEnde: String; mitDatum: Boolean): String;
@@ -34,9 +29,7 @@ mitDatum             Falls true, wird jedem Vermerk das Vermerkdatum vorangestel
 
 ## Rückgabewert
 
-```text
 Alle Vermerke der gewählten Art, durch den Delimiter voneinander getrennt.
-```
 
 ## Beispiel
 
@@ -52,5 +45,7 @@ Alle Vermerke der gewählten Art, durch den Delimiter voneinander getrennt.
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-48) · [LoadVermerkeVonBis – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LoadVermerkeVonBis&oldid=69)

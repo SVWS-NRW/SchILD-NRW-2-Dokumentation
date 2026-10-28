@@ -1,8 +1,5 @@
 ---
 title: "Schild-NRW Wiki:Datenschutz"
-wiki_title: "Schild-NRW Wiki:Datenschutz"
-wiki_page_id: 1154
-wiki_revision: 6069
 ---
 
 # Schild-NRW Wiki:Datenschutz

@@ -1,8 +1,5 @@
 ---
 title: "Mehrfachauswahl"
-wiki_title: "Mehrfachauswahl"
-wiki_page_id: 51
-wiki_revision: 1842
 ---
 
 # Mehrfachauswahl
@@ -10,14 +7,15 @@ wiki_revision: 1842
 <a id="RAP-Funktion_&quot;Mehrfachauswahl&quot;"></a>
 <a id="RAP-Funktion_.22Mehrfachauswahl.22"></a>
 
-## RAP-Funktion "Mehrfachauswahl"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 function Mehrfachauswahl(Prompt, Optionsliste: String; Trennzeichen: Char): TStringList;
-ermöglicht die Auswahl mehrerer Elemente einer Auswahlliste
 ```
+
+## Beschreibung
+
+ermöglicht die Auswahl mehrerer Elemente einer Auswahlliste
 
 ## Parameter
 
@@ -29,9 +27,7 @@ Trennzeichen - Trennt die Optionen in der Liste voneinander
 
 ## Rückgabewert
 
-```text
 Eine Stringliste mit den gewählten Optionen
-```
 
 ## Beispiel
 
@@ -45,5 +41,7 @@ end
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-51) · [Mehrfachauswahl – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Mehrfachauswahl&oldid=1842)

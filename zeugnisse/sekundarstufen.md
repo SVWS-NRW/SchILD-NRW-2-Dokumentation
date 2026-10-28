@@ -1,5 +1,7 @@
 # Sekundarstufen und Abitur
 
+Die folgenden Artikel behandeln Prüfungsdaten, Abschlüsse und Zeugnisangaben der Sekundarstufen. Unterscheiden Sie die Berechnung in SchILD, die schulische Entscheidung und die Ausgabe im Zeugnisreport. Sprachliche Nachweise und der schulische Teil der Fachhochschulreife haben jeweils eigene Voraussetzungen.
+
 - [Abitur](/zeugnisse/sekundarstufen/abitur)
 - [Abiturdurchlauf](/zeugnisse/sekundarstufen/abiturdurchlauf)
 - [Gruppenprozesse Abitur](/zeugnisse/sekundarstufen/gruppenprozesse-abitur)

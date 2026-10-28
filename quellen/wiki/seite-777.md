@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 3007 · Stand 2015-04-27.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-777.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/migrationshintergrund01-6fa0b3ad.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/schueler/migrationshintergrund01.jpg)
 
-![Migrationshintergrund01.jpg](/bilder/wiki/migrationshintergrund01-6fa0b3ad.jpg)
+![Migrationshintergrund01.jpg](/bilder/schild2/schueler/migrationshintergrund01.jpg)
 
 ## Originalquelltext
 

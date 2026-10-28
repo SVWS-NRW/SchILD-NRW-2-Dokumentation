@@ -1,8 +1,5 @@
 ---
 title: "Einrichtung des Report-Explorers"
-wiki_title: "Einrichtung des Report-Explorers"
-wiki_page_id: 298
-wiki_revision: 4135
 ---
 
 # Einrichtung des Report-Explorers
@@ -13,7 +10,7 @@ Der Dateibasierende-Reportgenerator für Schild-NRW benötigt einige Einstellung
 
 ## Dateistruktur in der Installation
 
-![Reportverzeichnisse](/bilder/wiki/reportverzeichnisse-15553f8c.jpg)
+![Reportverzeichnisse](/bilder/administration/benutzer-einstellungen/reportverzeichnisse.jpg)
 
 Die Reports liegen nicht mehr in einer Report-Datenbank, sondern befinden sich nun als Einzeldateien in einem Ordner der Schild-Installation. Dieser Ordner hat den Namen Schild-Reports. Der genaue verwendete Speicherort kann unter [Extras](/administration/benutzer-einstellungen/extras) \> [Programm-Einstellungen](/administration/benutzer-einstellungen/programm-einstellungen) \> Report-Verzeichnisse festgelegt werden.
 
@@ -27,7 +24,7 @@ Mit dem Haken "Standard-Verzeichnisstruktur verwenden" können Sie die eingetrag
 
 ## Funktionen der Ordner
 
-![Reportordner](/bilder/wiki/reportordner-90c33894.jpg)
+![Reportordner](/bilder/reporting/erstellung/reportordner.jpg)
 
 1.  **Header_Footer**, dieser Ordner enthält alle Köpfe und Füße, die Sie in der neuen Reporting verwenden möchten. Auch diese liegen als Subreportdateien einzeln auf der Festplatte und können dort genauso wie „normale“ Reports bearbeitet werden. Viele Formulare durchsuchen genau diesen Ordner nach bestimmten Köpfen oder Füßen. Sie können sich eine Beispielsammlung von Köpfen und Füßen auf der Seite <http://www.svws.nrw.de> herunterladen.
 2.  **Standard**, dieser Ordner wird für den schnelleren Druckzugang verwendet. Der Zugriff kann über Schild-NRW neben dem Druckersymbol über "Standardformulare drucken" erreicht werden. Bei diesem Ordner hat man auch in der Benutzerverwaltung die Möglichkeit, einigen Usern nur den Zugriff auf den Ordner Standard zu gewähren. Alle Formulare außerhalb können dann von diesen Benutzern nicht erreicht werden.
@@ -40,9 +37,9 @@ Daneben können Sie noch so viele Ordner anlegen wie Sie möchten. Diese müssen
 
 ## Ablegen der Reportdateien
 
-![Reports](/bilder/wiki/reports-a0eebace.jpg)
+![Reports](/bilder/reporting/erstellung/reports.jpg)
 
-Innerhalb des Schild-Reports-Ordners werden die einzelnen Formulardateien mit der Endung \*.rtm abgelegt. Dateien mit dieser Endung werden automatisch von der Reportverwaltung als Formulare erkannt und stehen beim nächsten Neustart zur Verfügung. Wahlweise können Sie auch das Aktualisieren-Symbol ![Aktualisieren](/bilder/wiki/aktualisieren-b51e2d56.jpg) im Reportexplorer drücken.
+Innerhalb des Schild-Reports-Ordners werden die einzelnen Formulardateien mit der Endung \*.rtm abgelegt. Dateien mit dieser Endung werden automatisch von der Reportverwaltung als Formulare erkannt und stehen beim nächsten Neustart zur Verfügung. Wahlweise können Sie auch das Aktualisieren-Symbol ![Aktualisieren](/bilder/reporting/erstellung/aktualisieren.jpg) im Reportexplorer drücken.
 
 Im Dateifenster des Reportexplorers werden dann folgende Dateitypen angezeigt:
 
@@ -66,9 +63,9 @@ Achten Sie bitte darauf, dass die Reports-Ordnerstruktur mit den 4 festgelegten 
 
 ## Ordnerstruktur
 
-![Reports](/bilder/wiki/reports-c2b7a268.png)
+![Reports](/bilder/reporting/erstellung/reports.png)
 
-![Reports_alt](/bilder/wiki/reports-alt-0eb0b359.png)
+![Reports_alt](/bilder/reporting/erstellung/reports-alt.png)
 
 Eine sachgerechte Organisation der Ordnerstruktur, die sinnvolle Vergabe der Benutzerrechte und regelmäßiges Ausmisten kann die tägliche Arbeit enorm erleichtern. Eine solche Struktur ist z.B. in der Basis-Reportsammlung angelegt.
 

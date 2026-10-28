@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 5160 · Stand 2022-01-03.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1319.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/einwilligungen-art-b99da44d.png)
+[Gesicherte Originaldatei öffnen](/bilder/archiv/einwilligungen-art.png)
 
-![Einwilligungen_Art.png](/bilder/wiki/einwilligungen-art-b99da44d.png)
+![Einwilligungen_Art.png](/bilder/archiv/einwilligungen-art.png)
 
 ## Originalquelltext
 

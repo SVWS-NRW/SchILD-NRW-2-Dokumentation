@@ -1,8 +1,5 @@
 ---
 title: "Erstellen einfacher Reports"
-wiki_title: "Erstellen einfacher Reports"
-wiki_page_id: 666
-wiki_revision: 4143
 ---
 
 # Erstellen einfacher Reports
@@ -20,33 +17,33 @@ Beispiel aus der BASIC-Reportsammlung \[[\[1\]](http://www.svws.nrw.de/index.php
 
 Bevor Sie mit der Arbeit im Report-Explorer beginnen, wählen Sie zunächst die Schülermenge, z.B. eine Klasse aus, für die Sie den Report benutzen möchten. Vorteil dieser Vorgehensweise ist es, dass Sie bei den Versuchen nur eine kleine Schülermenge im Zugriff haben und damit schneller das Ergebnis in der Vorschau sehen können. Haben Sie alle Schülerdaten im Zugriff, kann die Vorschau abhängig von der Komplexität des gewählten Reports recht lange dauern.
 
-Sie haben den Report-Explorer aufgerufen. Im Menü **Datei** finden Sie den Menüpunkt **Neuen Report erzeugen** (Shortcut Strg + N), mit dem Sie eine leere Arbeitsfläche erzeugen können. Das Symbol ![Report-Neu-Symbol](/bilder/wiki/report-neu-symbol-9849e53f.png) hat denselben Effekt.
+Sie haben den Report-Explorer aufgerufen. Im Menü **Datei** finden Sie den Menüpunkt **Neuen Report erzeugen** (Shortcut Strg + N), mit dem Sie eine leere Arbeitsfläche erzeugen können. Das Symbol ![Report-Neu-Symbol](/bilder/reporting/erstellung/report-neu-symbol.png) hat denselben Effekt.
 
-![Report-Neu-2](/bilder/wiki/report-neu-2-350d7025.png)
+![Report-Neu-2](/bilder/reporting/erstellung/report-neu-2.png)
 
 Die leere Arbeitsfläche für den neuen Report öffnet sich in einem neuen Fenster. Je nach Einstellung kann dieses Fenster dreigeteilt sein. Das Menü **Ansicht** bietet Möglichkeiten, die Fensterstruktur den eigenen Arbeitsgewohnheiten anzupassen. Dazu wählt man die Werkzeugleisten aus, die man sehen möchte.
 
-![Report-Neu-Werkzeugleisten](/bilder/wiki/report-neu-werkzeugleisten-a6898be4.png)
+![Report-Neu-Werkzeugleisten](/bilder/reporting/erstellung/report-neu-werkzeugleisten.png)
 
 Über den *Berichtsbaum* kann man sich orientieren, wo man sich innerhalb der Struktur eines Berichtes befindet. Diese Anzeige ist besonders bei komplexeren Reports hilfreich. Der *Feldassistent* ermöglicht ein einfaches Zugreifen auf die zur Verfügung stehenden Felder, die man im Report verwenden kann.
 
 Ohne Auswahl einer Werkzeugleiste sieht das Fenster so aus:
 
-![Report-Neu-Ohne-WL](/bilder/wiki/report-neu-ohne-wl-06cfc1cb.png)
+![Report-Neu-Ohne-WL](/bilder/reporting/erstellung/report-neu-ohne-wl.png)
 
 Schalten Sie bitte die Lineale an. So erleichtern Sie sich die Positionierung der einzelnen Elemente des Berichtes.
 
-![Report-Neu-Lineal](/bilder/wiki/report-neu-lineal-4f3e6ef0.png)
+![Report-Neu-Lineal](/bilder/reporting/erstellung/report-neu-lineal.png)
 
-Als Maßeinheit wähle ich Millimeter. ![Report-Neu-mm](/bilder/wiki/report-neu-mm-9858a353.png)
+Als Maßeinheit wähle ich Millimeter. ![Report-Neu-mm](/bilder/reporting/erstellung/report-neu-mm.png)
 
 Für jeden Bericht lassen sich die Ränder einstellen. Der angezeigte Bereich ist dann der Bereich ohne die Ränder, d.h., man kann alle Felder ganz am Rand des sichtbaren Bereichs ausrichten. Wählen Sie **Datei - Seite einrichten**, um die Einstellungen vorzunehmen.
 
-![Report-Neu-SeiteEinrichten](/bilder/wiki/report-neu-seiteeinrichten-34dc338e.png)
+![Report-Neu-SeiteEinrichten](/bilder/reporting/erstellung/report-neu-seiteeinrichten.png)
 
 Beim Karteireiter **Ränder** können Sie die gewünschten Werte eingeben.
 
-![Report-Neu-Raender](/bilder/wiki/report-neu-raender-fcfdbd31.png)
+![Report-Neu-Raender](/bilder/reporting/erstellung/report-neu-raender.png)
 
 ------------------------------------------------------------------------
 
@@ -58,31 +55,31 @@ Wenn Sie ausgewählte Daten schnell und ohne weitere Wünsche an die Gestaltung 
 
 Sie haben, wie im Abschnitt "Einstellungen im Report-Explorer" beschrieben, einen neuen Report geöffnet. Wählen Sie nun unter **Datei** den Menüpunkt **Neu**. Sie bekommen eine Auswahl an Berichtsassistenten für verschiedene Zwecke.
 
-![Assistent-Auswahl](/bilder/wiki/assistent-auswahl-74bad494.png)
+![Assistent-Auswahl](/bilder/reporting/erstellung/assistent-auswahl.png)
 
 Durch einen Doppelklick auf **Berichtsassistent** wählen Sie diesen aus. Nun können Sie aus einer Datenquelle - voreingestellt *Schueler* - durch einen Doppelklick beliebig viele Datenfelder für Ihre Liste auswählen.
 
-![Assistent-Datenfelder](/bilder/wiki/assistent-datenfelder-f44a323e.png)
+![Assistent-Datenfelder](/bilder/reporting/erstellung/assistent-datenfelder.png)
 
 *Hinweis: Mit dem Berichtsassistenten kann man immer nur auf eine einzelne der zahlreichen SchILD-NRW-Datenquellen zugleich zugreifen. Für ganz einfache Listen und Formulare reicht das aber in der Regel aus.*
 
 Über die Pfeile/Doppelpfeile wählen Sie die Felder, die auf dem Formular ausgedruckt werden sollen. Felder, die Sie versehentlich ausgewählt haben, entfernen Sie mit Hilfe der Rückpfeile.
 
-![Assistent-Uebersicht](/bilder/wiki/assistent-uebersicht-eb4256f2.png)
+![Assistent-Uebersicht](/bilder/reporting/erstellung/assistent-uebersicht.png)
 
 Die Reihenfolge der Felder kann durch Klick auf die Pfeiltasten nach oben/unten auch nachträglich festgelegt werden. Mit **Weiter** erhalten Sie eine Übersicht über die von Ihnen gewählten Felder. Sie dient zu Ihrer Information. *Hinweis: Eine mögliche Gruppierung in der Ausgabe des Formulares macht an dieser Stelle wenig Sinn. Gezielter gruppieren kann man mit den Funktionen des Formulardesigners.*
 
-![Assistent-Layout](/bilder/wiki/assistent-layout-0b4f7c0b.png)
+![Assistent-Layout](/bilder/reporting/erstellung/assistent-layout.png)
 
 Klicken Sie auf **Weiter** und legen Sie nun das Layout Ihres Berichtes fest. Die Option *Feldbreiten anpassen, so dass ....* sollte in den meisten Fällen angeklickt bleiben. Ggf. wählen Sie hier die Option *Querformat*. Nach der Entscheidung für Tabelle und Hochformat klicken Sie bitte auf **Weiter**.
 
-![Assistent-Berichtsstil](/bilder/wiki/assistent-berichtsstil-3b54857b.png)
+![Assistent-Berichtsstil](/bilder/reporting/erstellung/assistent-berichtsstil.png)
 
 Nun kann noch ein Layoutstil ausgewählt werden und mit **Weiter** wird eine Druckvorschau angeboten. *Hinweis: Die angebotenen Layoutstile sind sicherlich für den Schulgebrauch nur bedingt brauchbar. Sie lassen sich allerdings im anschließenden Bearbeitungsmodus in jeder Form modifizieren. Hierzu wechseln Sie nach dem Fertigstellen des Berichtsassistenten zur Karteikarte Entwurf.*
 
 Mit **Fertigstellen** wird der Bericht mit der ausgewählten Schülermenge gefüllt und kann über das Druckersymbol oder - nach Wechsel auf den Karteireiter *Entwurf* - über das Menü **Datei** – **Drucken** ausgedruckt werden.
 
-![Assistent-Vorschau](/bilder/wiki/assistent-vorschau-5fa738fc.png)
+![Assistent-Vorschau](/bilder/reporting/erstellung/assistent-vorschau.png)
 
 Über **Datei** – **Speichern** unter kann das Formular unter einem von Ihnen gewählten Dateinamen in einem von Ihnen gewählten Verzeichnis abgespeichert werden.
 
@@ -99,14 +96,14 @@ Bevor Sie sich an die Erstellung der Liste machen, prüfen Sie, ob Sie die richt
 
 In der Liste sollen nun Name und Vorname der Schüler angezeigt werden.
 
-Klicken Sie dazu zunächst auf das Symbol für ein DBText-Feld ![Report-Neu-DBText-1](/bilder/wiki/report-neu-dbtext-1-4014efa3.png) und klicken Sie dann in den Detailbereich, es erscheint ein DBText-Feld. Dieses DBText-Feld können Sie nun an die gewünschte Position schieben.\
-![Report-Neu-DBText-2](/bilder/wiki/report-neu-dbtext-2-421ed3bc.png)
+Klicken Sie dazu zunächst auf das Symbol für ein DBText-Feld ![Report-Neu-DBText-1](/bilder/reporting/erstellung/report-neu-dbtext-1.png) und klicken Sie dann in den Detailbereich, es erscheint ein DBText-Feld. Dieses DBText-Feld können Sie nun an die gewünschte Position schieben.\
+![Report-Neu-DBText-2](/bilder/reporting/erstellung/report-neu-dbtext-2.png)
 
 Haben Sie die Werkzeugleiste *Bearbeiten* aktiv geschaltet?
 
 Wenn Sie nun auf das DBText-Feld klicken, wird in der Werkzeugleiste *Bearbeiten* die ausgewählte Datenquelle *Schueler* angezeigt. Das Feld daneben ist noch leer.
 
-![Report-Neu-DBText-3](/bilder/wiki/report-neu-dbtext-3-477f349a.png)
+![Report-Neu-DBText-3](/bilder/reporting/erstellung/report-neu-dbtext-3.png)
 
 Jetzt wählen Sie das passende Datenfeld aus, hier: **NameVorname**
 
@@ -116,29 +113,29 @@ Sehen Sie sich das Ergebnis in der Vorschau an. Dazu klicken Sie auf den Karteir
 
 Sie sollten eine Liste mit den Namen der Schüler erhalten, die Sie vorher ausgewählt hatten.
 
-![Report-Neu-Vorschau-1](/bilder/wiki/report-neu-vorschau-1-de02199d.png)
+![Report-Neu-Vorschau-1](/bilder/reporting/erstellung/report-neu-vorschau-1.png)
 
 In der Entwurfsansicht können Sie die Liste mit weiteren Datenbankfeldern ergänzen.
 
-Um der Liste eine Überschrift hinzuzufügen, setzen Sie in den Kopf-Bereich (das Kopfband) des Berichtes ein einfaches Label ![Report-Neu-Label-Symbol](/bilder/wiki/report-neu-label-symbol-814e4826.png), z.B. "Adressenliste der Schüler".
+Um der Liste eine Überschrift hinzuzufügen, setzen Sie in den Kopf-Bereich (das Kopfband) des Berichtes ein einfaches Label ![Report-Neu-Label-Symbol](/bilder/reporting/erstellung/report-neu-label-symbol.png), z.B. "Adressenliste der Schüler".
 
-![Report-Neu-Label](/bilder/wiki/report-neu-label-fd828752.png)
+![Report-Neu-Label](/bilder/reporting/erstellung/report-neu-label.png)
 
-Unter die Kopfzeile können Sie eine Linie ![Report-Neu-Linie](/bilder/wiki/report-neu-linie-aab8a899.png) einfügen, die die Überschrift optisch abtrennt. Natürlich können auch Linien im Detailbereich hinzugefügt werden, die die Liste gliedern. Wenn Sie eine Linie eingefügt haben, können Sie in der Symbolleiste einstellen, ob die Linie oben, unten, links oder rechts im aufgezogenen Feld sein soll. Diese Auswahlliste finden Sie neben der Auswahlliste für Schriftgröße und Schriftart. Zusätzlich können Sie im Kontextmenü der Linie (Klick auf die rechte Maustaste) auswählen, ob die Linie über die Breite der Stammkomponente (hier: Seitenbreite ohne Rand) gehen soll.
+Unter die Kopfzeile können Sie eine Linie ![Report-Neu-Linie](/bilder/reporting/erstellung/report-neu-linie.png) einfügen, die die Überschrift optisch abtrennt. Natürlich können auch Linien im Detailbereich hinzugefügt werden, die die Liste gliedern. Wenn Sie eine Linie eingefügt haben, können Sie in der Symbolleiste einstellen, ob die Linie oben, unten, links oder rechts im aufgezogenen Feld sein soll. Diese Auswahlliste finden Sie neben der Auswahlliste für Schriftgröße und Schriftart. Zusätzlich können Sie im Kontextmenü der Linie (Klick auf die rechte Maustaste) auswählen, ob die Linie über die Breite der Stammkomponente (hier: Seitenbreite ohne Rand) gehen soll.
 
-![Report-Neu-Linie-Kontext](/bilder/wiki/report-neu-linie-kontext-ad1a1537.png)
+![Report-Neu-Linie-Kontext](/bilder/reporting/erstellung/report-neu-linie-kontext.png)
 
 Die Liste sähe dann so aus:
 
-![Report-Neu-Vorschau-2](/bilder/wiki/report-neu-vorschau-2-095a294a.png)
+![Report-Neu-Vorschau-2](/bilder/reporting/erstellung/report-neu-vorschau-2.png)
 
-Im Fußbereich können Systemvariablen ![Report-Neu-Systemvariable](/bilder/wiki/report-neu-systemvariable-aa998c7d.png) ausgewertet werden, damit kann man beispielsweise den Dateinamen oder das Druckdatum einfügen.
+Im Fußbereich können Systemvariablen ![Report-Neu-Systemvariable](/bilder/reporting/erstellung/report-neu-systemvariable.png) ausgewertet werden, damit kann man beispielsweise den Dateinamen oder das Druckdatum einfügen.
 
-![Report-Neu-Systemvariable-Auswahl](/bilder/wiki/report-neu-systemvariable-auswahl-9cb97b47.png)
+![Report-Neu-Systemvariable-Auswahl](/bilder/reporting/erstellung/report-neu-systemvariable-auswahl.png)
 
 Vorschau der gesamten Liste:
 
-![Report-Neu-Vorschau-3](/bilder/wiki/report-neu-vorschau-3-ee56aedf.png)
+![Report-Neu-Vorschau-3](/bilder/reporting/erstellung/report-neu-vorschau-3.png)
 
 <a id="Schulkopf_in_ein_Formular_einbinden"></a>
 
@@ -148,31 +145,31 @@ Viele Listen und Briefe sollten denselben Schulkopf bekommen. Möglicherweise un
 
 Beispiel: Schulkopf-einfach.rtm
 
-![Report-Header-SchulkopfEinfach](/bilder/wiki/report-header-schulkopfeinfach-dd2638c7.png)
+![Report-Header-SchulkopfEinfach](/bilder/reporting/erstellung/report-header-schulkopfeinfach.png)
 
 Ein Kopf (oder auch ein Fuß) ist im Grunde ein normaler Report, der im Ordner Header_Footer gespeichert wird.
 
-![Report-Header-Struktur](/bilder/wiki/report-header-struktur-00556ef1.png)
+![Report-Header-Struktur](/bilder/reporting/erstellung/report-header-struktur.png)
 
 So ein Kopf-Report besteht dabei nur aus dem Detailbereich, Kopf und Fuß des Berichtes sind nicht aktiviert.
 
-![Report-Header-Einstellung](/bilder/wiki/report-header-einstellung-40c80fa0.png)
+![Report-Header-Einstellung](/bilder/reporting/erstellung/report-header-einstellung.png)
 
 Um den Schulkopf einzubinden, rufen Sie eine schon vorhandene Liste auf. Die im obigen Kapitel erstellte Geburtstagsliste enthält im Kopfbereich ein Label "Geburtstagsliste". Über diesem Namen der Liste soll nun noch der Schulkopf eingefügt werden.
 
-![Report-Header-ohneSubreport](/bilder/wiki/report-header-ohnesubreport-0518d8b3.png)
+![Report-Header-ohneSubreport](/bilder/reporting/erstellung/report-header-ohnesubreport.png)
 
 Dazu vergrößern Sie den Kopfbereich auf etwa das Maß, das Sie für den Kopf benötigen. Schieben Sie das Label und die Linie an den unteren Rand des Kopfbereiches. (Wenn Sie in den freien Bereich mit der linken Maustaste klicken und die Maustaste gedrückt halten, dann den Mauszeiger über beide Elemente bewegen, können Sie die Elemente gemeinsam markieren. Beim anschließenden Verschieben bleibt der Abstand zwischen den Elementen bestehen.)
 
 *Hinweis: Sie können die einzelnen Arbeitsbereiche des Formulars in der Größe beliebig anlegen. Fahren Sie dazu mit der Maus über das geöffnete Formular im Entwurfs-Modus. Sowie Sie die graue Trennungszeile zwischen den einzelnen Formularbereichen berühren, wandelt sich der Mauszeiger in einen oben/unten-Pfeil und Sie können mit gedrückter Maustaste den entsprechenden Bereich nach unten vergrößern bzw. nach oben verkleinern oder sogar unsichtbar machen.*
 
-Wählen Sie in der Symbolleiste das Symbol ![Report-Header-dynSubreport](/bilder/wiki/report-header-dynsubreport-aab71a51.png) für einen dynamisch ladbaren Subreport aus und klicken Sie dann in den freien Kopfbereich, um das Feld für den Subreport einzufügen. Öffnen Sie nun das Kontextmenü des Subreports (Rechte Maustaste) und wählen Sie den passenden Schulkopf aus: **Subreport-Datei wählen ...** Es öffnet sich das Report-Verzeichnis Header_Footer, aus dem Sie die gewünschte Datei auswählen können.
+Wählen Sie in der Symbolleiste das Symbol ![Report-Header-dynSubreport](/bilder/reporting/erstellung/report-header-dynsubreport.png) für einen dynamisch ladbaren Subreport aus und klicken Sie dann in den freien Kopfbereich, um das Feld für den Subreport einzufügen. Öffnen Sie nun das Kontextmenü des Subreports (Rechte Maustaste) und wählen Sie den passenden Schulkopf aus: **Subreport-Datei wählen ...** Es öffnet sich das Report-Verzeichnis Header_Footer, aus dem Sie die gewünschte Datei auswählen können.
 
-![Report-Header-mitSubreport](/bilder/wiki/report-header-mitsubreport-75f45455.png)
+![Report-Header-mitSubreport](/bilder/reporting/erstellung/report-header-mitsubreport.png)
 
 Wählen Sie die Vorschau und lassen Sie sich das Formular anzeigen.
 
-![Report-Header-Vorschau](/bilder/wiki/report-header-vorschau-8bbbec36.png)
+![Report-Header-Vorschau](/bilder/reporting/erstellung/report-header-vorschau.png)
 
 Speichern Sie im Entwurfsmodus das Formular in einem Verzeichnis Ihrer Wahl ab.
 
@@ -197,7 +194,7 @@ Um bestimmte Inhalte (z.B.: Klassen, Geburtsjahrgänge, m/w u.a.) zusammenzuhalt
 
 ### Dialog Gruppen
 
-![Gruppen_001](/bilder/wiki/gruppen-001-7fa402c2.jpg)
+![Gruppen_001](/bilder/reporting/erstellung/gruppen-001.jpg)
 
 1\. Gruppe hinzufügen / einfügen (das Ergebnis ist ähnlich)
 
@@ -229,14 +226,14 @@ Um bestimmte Inhalte (z.B.: Klassen, Geburtsjahrgänge, m/w u.a.) zusammenzuhalt
 
 z.B. zur Ausgabe aller Telefonnummern eines Schülersin
 
-*Unterbericht* einfügen über entsprechende Auswahl in der Symbolleiste (siehe unten) ![Unterbericht_002](/bilder/wiki/unterbericht-002-f4061e45.png)
+*Unterbericht* einfügen über entsprechende Auswahl in der Symbolleiste (siehe unten) ![Unterbericht_002](/bilder/reporting/erstellung/unterbericht-002.png)
 
 Nicht verwechseln mit *Dynamisch ladbarer SubReport*!
 
  Wichtig! Unterberichte funktionieren nur, wenn eine *abhängige Datenquelle* genutzt wird.\
  Informationen und Übersicht hierzu im ReportDesigner / Info zu Datenquellen\
 
-![Unterbericht_004](/bilder/wiki/unterbericht-004-ea6cbb04.png)
+![Unterbericht_004](/bilder/reporting/erstellung/unterbericht-004.png)
 
 <a id="Wichtige_Anpassungen_der_Standardeinstellungen"></a>
 
@@ -262,31 +259,31 @@ z.B. Einfügen der korrekten Anrede „Herr..“ oder „Frau..“ bzw. „Klass
 
 Für statistische Abfragen eignen sich Kreuztabellen, die auch im Reportgenerator zur Verfügung stehen. In der Basic-Sammlung \[[\[2\]](http://www.svws.nrw.de/index.php?id=schildformulare)\] gibt es im Ordner **A3_Statistik (Kreuztabellen) für die Schule** das Formular **Statistik_Religion mw.rtm**. Für jede Klasse werden die verschiedenen Religionszugehörigkeiten der Schüler summiert und aufgelistet.
 
-![Kreuztabelle-Religion1](/bilder/wiki/kreuztabelle-religion1-3165f7a3.png)
+![Kreuztabelle-Religion1](/bilder/reporting/erstellung/kreuztabelle-religion1.png)
 
 Voraussetzung für eine lesbare Liste ist, dass der Katalog der verschiedenen Religionen gepflegt ist. Unterscheidet man zwischen z.B. zwischen katholisch und römisch-katholisch, so wird jede Kategorie getrennt aufgeführt. Wie im obigen Beispiel zu sehen ist, passt dadurch die Liste nicht mehr auf eine DIN-A4-Seite im Hochformat.
 
 Wenn die Schüler mehr verschiedenen Religionen angehören, als auf die Seite passt, können Sie die Liste im Querformat erzeugen. Rufen Sie dazu das Formular **Statistik_Religion mw.rtm** zum Bearbeiten auf und wählen Sie den Menüpunkt *Datei --\> Seite einrichten*. Auf dem Karteireiter *Papiergröße* wählen Sie dann das Querformat aus.
 
-![Kreuztabelle-CrossTab2](/bilder/wiki/kreuztabelle-crosstab2-2e8be566.png)
+![Kreuztabelle-CrossTab2](/bilder/reporting/erstellung/kreuztabelle-crosstab2.png)
 
 Wechseln Sie nun in die Entwurfsansicht. Im Detailbereich des Reports finden Sie das Feld *CrossTab2:Schueler*, welches die eigentliche Kreuztabelle enthält. Vergrößern Sie dieses Feld bis zum rechten Seitenrand, indem Sie es an der rechten Seite mit der gedrückten linken Maustaste größer ziehen. Speichern Sie die Änderungen und rufen Sie das Formular nun erneut auf, um die Tabelle zu überprüfen. Befindet sich ganz rechts eine Spalte mit der Gesamtsumme? Wenn nicht, dann sind es zu viele Spalten oder zu breite Spalten für die Seitenbreite. Vergeben Sie ggf. sinnvolle Abkürzungen im Katalog der Religionszugehörigkeiten.
 
-![Kreuztabelle-Uebersicht](/bilder/wiki/kreuztabelle-uebersicht-83a2be0a.png)
+![Kreuztabelle-Uebersicht](/bilder/reporting/erstellung/kreuztabelle-uebersicht.png)
 
 Öffnen Sie das Formular in der Entwurfsansicht. Im Kontextmenü des Feldes *CrossTab2:Schueler* finden Sie den Menüpunkt *Konfigurieren...*.
 
-![Kreuztabelle-konfigurieren](/bilder/wiki/kreuztabelle-konfigurieren-ddcdf1d5.png)
+![Kreuztabelle-konfigurieren](/bilder/reporting/erstellung/kreuztabelle-konfigurieren.png)
 
 Es öffnet sich ein weiteres Fenster, in dem die Kreuztabelle eingerichtet werden kann. Einzelne Felder aus der Übersicht (links im Fenster) können den Zeilen und Spalten durch Ziehen mit der Maus an die gewünschte Stelle hinzugefügt werden. Benötigt man ein Feld nicht mehr, kann es aus der Kreuztabelle wieder zurück in die Übersicht geschoben werden.
 
-![Kreuztabelle-einrichten](/bilder/wiki/kreuztabelle-einrichten-5aa852b7.png)
+![Kreuztabelle-einrichten](/bilder/reporting/erstellung/kreuztabelle-einrichten.png)
 
 Für jedes Feld kann man im Kontextmenü u.a. bestimmen, ob das Feld sichtbar sein soll oder nicht. In der Symbolleiste kann man beispielsweise die Sortierung festlegen. Wenn man das Feld *ReligionAbk* anklickt, erkennt man, dass hier die alphabetische Reihenfolge vorgegeben ist. Entfernt man diese Sortierung, hängt die Reihenfolge der Religionszugehörigkeiten davon ab, wie sie in den Schülerdaten vorkommen.
 
 In der vorgegebenen Version der Kreuztabelle werden die Spaltenüberschriften nur auf der ersten Seite angedruckt. Die wiederholten Überschriften auf jeder neuen Seite erhält man, wenn man in der Entwurfsansicht mit der rechten Maustaste auf das Feld *CrossTab2:Schueler* klickt und dann den Menüpunkt *Layout* wählt. Hier kann man statt *Standard* die *Wiederholende Beschriftung* auswählen.
 
-![Kreuztabelle-Layout](/bilder/wiki/kreuztabelle-layout-5398a963.png)
+![Kreuztabelle-Layout](/bilder/reporting/erstellung/kreuztabelle-layout.png)
 
 ------------------------------------------------------------------------
 

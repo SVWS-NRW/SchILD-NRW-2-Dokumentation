@@ -1,15 +1,12 @@
 ---
 title: "Vermerke/Merkmale löschen"
-wiki_title: "Vermerke/Merkmale löschen"
-wiki_page_id: 359
-wiki_revision: 2042
 ---
 
 # Vermerke/Merkmale löschen
 
 Dieser Gruppenprozess bietet Ihnen die Möglichkeit, bestimmte Vermerke oder Merkmale gleich bei einer größeren Menge (aktuelle Auswahl) von Schülern gleichzeitig zu löschen.
 
-![GP-Vermerkeloeschen](/bilder/wiki/gp-vermerkeloeschen-16eec7d5.jpg)
+![GP-Vermerkeloeschen](/bilder/schild2/gruppenprozesse/gp-vermerkeloeschen.jpg)
 
 Dazu auswählen, ob Vermerk oder Merkmal gelöscht werden soll, und dann den zu löschenden Vermerk bzw. das zu löschende Merkmal auswählen.
 

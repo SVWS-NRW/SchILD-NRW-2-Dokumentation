@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 5090 · Stand 2021-11-20.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1297.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/pm-2-speichern-verschluesselt-a2b87d35.png)
+[Gesicherte Originaldatei öffnen](/bilder/tools/pm2/pm-2-speichern-verschlusselt.png)
 
-![PM_2_Speichern_verschlüsselt.png](/bilder/wiki/pm-2-speichern-verschluesselt-a2b87d35.png)
+![PM_2_Speichern_verschlüsselt.png](/bilder/tools/pm2/pm-2-speichern-verschlusselt.png)
 
 ## Originalquelltext
 

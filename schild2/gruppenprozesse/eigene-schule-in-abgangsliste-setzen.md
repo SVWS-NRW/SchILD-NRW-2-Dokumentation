@@ -1,8 +1,5 @@
 ---
 title: "Eigene Schule in Abgangsliste setzen"
-wiki_title: "Eigene Schule in Abgangsliste setzen"
-wiki_page_id: 357
-wiki_revision: 2043
 ---
 
 # Eigene Schule in Abgangsliste setzen

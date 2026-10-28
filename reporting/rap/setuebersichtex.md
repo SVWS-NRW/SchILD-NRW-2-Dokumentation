@@ -1,8 +1,5 @@
 ---
 title: "SetUebersichtEx"
-wiki_title: "SetUebersichtEx"
-wiki_page_id: 93
-wiki_revision: 117
 ---
 
 # SetUebersichtEx
@@ -10,9 +7,7 @@ wiki_revision: 117
 <a id="RAP-Funktion_&quot;SetUebersichtEx&quot;"></a>
 <a id="RAP-Funktion_.22SetUebersichtEx.22"></a>
 
-## RAP-Funktion "SetUebersichtEx"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 procedure SetUebersichtEx(IsUebersicht: Boolean;  const aJahrgangsliste: String);
@@ -29,11 +24,6 @@ IsUebersicht       - Boolescher Wert, bei 'True' werden die Leistungsdaten eines
 aJahrgangsliste    - Kommaseparierte Liste der zu berücksichtigen (ASD-)Jahrgänge
 ```
 
-## Rückgabewert
-
-```text
-...
-```
 
 ## Beispiel
 
@@ -46,5 +36,7 @@ Procedure ReportBeforePrint;
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-93) · [SetUebersichtEx – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetUebersichtEx&oldid=117)

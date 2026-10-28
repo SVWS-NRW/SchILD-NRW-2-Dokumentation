@@ -1,8 +1,5 @@
 ---
 title: "Herkunftssprachlicher Unterricht BASS 13-61 Nr. 2"
-wiki_title: "Herkunftssprachlicher Unterricht BASS 13-61 Nr. 2"
-wiki_page_id: 1423
-wiki_revision: 6028
 ---
 
 # Herkunftssprachlicher Unterricht BASS 13-61 Nr. 2
@@ -83,8 +80,9 @@ Die Teilnahme am Unterricht in der Herkunftsprache wird zusätzlich gemäß Anla
 
 ### Unterrichtsfächer
 
-![Hsu_faecher](/bilder/wiki/hsu-faecher-7a714cc6.png)
-Unterrichtsfach für HSU
+![Hsu_faecher](/bilder/schild2/schueler/hsu-faecher.png)
+
+*Unterrichtsfach für HSU*
 
 Legen Sie ein Fach für die Prüfungssprache an (Schulverwaltung - Unterrichtsfächer):
 
@@ -102,8 +100,9 @@ Hinweis: Nach Anlegen des Faches sollte Schild-NRW einmalig neu gestartet werden
 
 ### Sprachenfolge
 
-![Hsu_sprachenfolge](/bilder/wiki/hsu-sprachenfolge-47772d7b.png)
-Sprachenfolge für HSU
+![Hsu_sprachenfolge](/bilder/schild2/schueler/hsu-sprachenfolge.png)
+
+*Sprachenfolge für HSU*
 
 Tragen Sie das Fach in die Sprachenfolge auf dem Reiter Laufbahninfo ein:
 
@@ -118,8 +117,9 @@ Tragen Sie das Fach in die Sprachenfolge auf dem Reiter Laufbahninfo ein:
 
 ### Leistungsdaten für das Abschlusszeugnis der Sekundarstufe I
 
-![Hsu_leistungsdaten](/bilder/wiki/hsu-leistungsdaten-785f890d.png)
-Leistungsdaten für HSU-Zeugnisdruck
+![Hsu_leistungsdaten](/bilder/schild2/schueler/hsu-leistungsdaten.png)
+
+*Leistungsdaten für HSU-Zeugnisdruck*
 
 Fügen Sie den Leistungsdaten ein Fach hinzu:
 

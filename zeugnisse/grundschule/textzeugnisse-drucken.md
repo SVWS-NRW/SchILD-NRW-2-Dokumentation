@@ -1,8 +1,5 @@
 ---
 title: "Textzeugnisse drucken"
-wiki_title: "Textzeugnisse drucken"
-wiki_page_id: 640
-wiki_revision: 2482
 ---
 
 # Textzeugnisse drucken

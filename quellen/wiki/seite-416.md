@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 1716 · Stand 2014-03-10.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-416.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/repbau30-a46b1d14.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/reporting/erstellung/repbau30.jpg)
 
-![RepBau30.jpg](/bilder/wiki/repbau30-a46b1d14.jpg)
+![RepBau30.jpg](/bilder/reporting/erstellung/repbau30.jpg)
 
 ## Originalquelltext
 

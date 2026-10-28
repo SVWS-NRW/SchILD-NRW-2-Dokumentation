@@ -1,8 +1,5 @@
 ---
 title: "Stundentafeln zuweisen"
-wiki_title: "Stundentafeln zuweisen"
-wiki_page_id: 452
-wiki_revision: 3612
 ---
 
 # Stundentafeln zuweisen
@@ -13,7 +10,7 @@ Unter Bezeichnung sind die verfügbaren (d. h. die bereits eingerichteten) [Stun
 
 In dem darunterliegenden Fensterbereich werden die Fächer, die der aktuell ausgewählten Stundentafel zugeordnet wurden, angezeigt.
 
-![GP-Stundentafelzuweisen](/bilder/wiki/gp-stundentafelzuweisen-62832825.jpg)
+![GP-Stundentafelzuweisen](/bilder/schild2/gruppenprozesse/gp-stundentafelzuweisen.jpg)
 
 Wählt man die Option "vorhandene Einträge beim Schüler aktualisieren", werden die mit einem Häkchen versehenen Fächer bei den ausgewählten Schülern/Schülerinnen im aktuellen Halbjahr ergänzt, wenn sie noch nicht vorhanden sind. Nicht mit einem Häkchen versehene Fächer werden nicht gelöscht.
 

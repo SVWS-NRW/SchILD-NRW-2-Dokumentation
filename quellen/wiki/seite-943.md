@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 5622 · Stand 2022-09-11.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-943.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/ik-migrationshintergrund-e6efe7b9.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/schueler/ik-migrationshintergrund.png)
 
-![IK-Migrationshintergrund.png](/bilder/wiki/ik-migrationshintergrund-e6efe7b9.png)
+![IK-Migrationshintergrund.png](/bilder/schild2/schueler/ik-migrationshintergrund.png)
 
 ## Originalquelltext
 

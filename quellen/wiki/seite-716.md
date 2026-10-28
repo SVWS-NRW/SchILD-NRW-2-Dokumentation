@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2757 · Stand 2015-02-01.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-716.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/dokumentenverwaltung-02-cab4dc55.png)
+[Gesicherte Originaldatei öffnen](/bilder/administration/benutzer-einstellungen/dokumentenverwaltung-02.png)
 
-![Dokumentenverwaltung-02.png](/bilder/wiki/dokumentenverwaltung-02-cab4dc55.png)
+![Dokumentenverwaltung-02.png](/bilder/administration/benutzer-einstellungen/dokumentenverwaltung-02.png)
 
 ## Originalquelltext
 

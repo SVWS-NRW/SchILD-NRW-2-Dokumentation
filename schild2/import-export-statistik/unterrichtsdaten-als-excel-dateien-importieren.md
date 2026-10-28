@@ -1,13 +1,10 @@
 ---
 title: "Unterrichtsdaten (als Excel Dateien) importieren"
-wiki_title: "Unterrichtsdaten (als Excel Dateien) importieren"
-wiki_page_id: 267
-wiki_revision: 1170
 ---
 
 # Unterrichtsdaten (als Excel Dateien) importieren
 
-![UVDExelImport](/bilder/wiki/uvdexelimport-270d7bef.jpg)
+![UVDExelImport](/bilder/schild2/import-export-statistik/uvdexelimport.jpg)
 
 Hier können Sie Unterrichts- bzw. Leistungsdaten über eine Excelliste importieren.
 

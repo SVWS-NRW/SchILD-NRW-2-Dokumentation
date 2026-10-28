@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2208 · Stand 2014-05-21.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-552.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/km2-installation-03-468103da.png)
+[Gesicherte Originaldatei öffnen](/bilder/archiv/km2-installation-03.png)
 
-![Km2_installation_03.png](/bilder/wiki/km2-installation-03-468103da.png)
+![Km2_installation_03.png](/bilder/archiv/km2-installation-03.png)
 
 ## Originalquelltext
 

@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 5115 · Stand 2021-11-29.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1304.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/asdpc-uvd1-594fdd88.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/import-export-statistik/asdpc-uvd1.png)
 
-![ASDPC_UVD1.png](/bilder/wiki/asdpc-uvd1-594fdd88.png)
+![ASDPC_UVD1.png](/bilder/schild2/import-export-statistik/asdpc-uvd1.png)
 
 ## Originalquelltext
 

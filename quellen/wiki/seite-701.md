@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2686 · Stand 2014-12-01.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-701.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/report-header-vorschau-8bbbec36.png)
+[Gesicherte Originaldatei öffnen](/bilder/reporting/erstellung/report-header-vorschau.png)
 
-![Report-Header-Vorschau.png](/bilder/wiki/report-header-vorschau-8bbbec36.png)
+![Report-Header-Vorschau.png](/bilder/reporting/erstellung/report-header-vorschau.png)
 
 ## Originalquelltext
 

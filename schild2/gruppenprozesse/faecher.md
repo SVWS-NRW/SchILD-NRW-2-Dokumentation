@@ -1,13 +1,10 @@
 ---
 title: "Fächer"
-wiki_title: "Fächer"
-wiki_page_id: 288
-wiki_revision: 1309
 ---
 
 # Fächer
 
-![GP-Fächer](/bilder/wiki/gp-faecher-7e1efe3f.jpg)
+![GP-Fächer](/bilder/schild2/gruppenprozesse/gp-facher.jpg)
 
 Unter dem Karteireiter "Fächer" verbergen sich folgende Gruppenprozesse.
 

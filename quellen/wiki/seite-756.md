@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2901 · Stand 2015-03-24.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-756.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/teilleistungsarten-faecher-1e0f31fb.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/unterricht-kataloge/teilleistungsarten-faecher.jpg)
 
-![Teilleistungsarten-Faecher.jpg](/bilder/wiki/teilleistungsarten-faecher-1e0f31fb.jpg)
+![Teilleistungsarten-Faecher.jpg](/bilder/schild2/unterricht-kataloge/teilleistungsarten-faecher.jpg)
 
 ## Originalquelltext
 

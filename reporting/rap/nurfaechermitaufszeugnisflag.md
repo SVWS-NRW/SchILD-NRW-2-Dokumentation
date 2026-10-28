@@ -1,8 +1,5 @@
 ---
 title: "NurFaecherMitAufsZeugnisFlag"
-wiki_title: "NurFaecherMitAufsZeugnisFlag"
-wiki_page_id: 56
-wiki_revision: 77
 ---
 
 # NurFaecherMitAufsZeugnisFlag
@@ -10,18 +7,19 @@ wiki_revision: 77
 <a id="RAP-Funktion_&quot;NurFaecherMitAufsZeugnisFlag&quot;"></a>
 <a id="RAP-Funktion_.22NurFaecherMitAufsZeugnisFlag.22"></a>
 
-## RAP-Funktion "NurFaecherMitAufsZeugnisFlag"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 Procedure NurFaecherMitAufsZeugnisFlag(aValue : Boolean);
+```
+
+## Beschreibung
+
 Durch die Verwendung dieser Prozedur kann erreicht werden, dass
 bei den Schülerleistungsdaten auch Fächer mit ausgegeben werden,
 bei denen das Flag "Auf Zeugnis" nicht gesetzt ist. Voreinstellung
 für diesen Wert ist TRUE, d.h. es werden nur Fächer ausgegeben, bei
 denen dieses Flag gesetzt ist.
-```
 
 ## Parameter
 
@@ -30,11 +28,6 @@ aValue             - Boolscher Wert: FALSE schaltet die Überprüfung ab,
                      TRUE schaltet sie wieder ein.
 ```
 
-## Rückgabewert
-
-```text
-...
-```
 
 ## Beispiel
 
@@ -52,5 +45,7 @@ end;
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-56) · [NurFaecherMitAufsZeugnisFlag – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=NurFaecherMitAufsZeugnisFlag&oldid=77)

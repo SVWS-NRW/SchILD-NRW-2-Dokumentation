@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 1892 · Stand 2014-03-27.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-462.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/gp-faecherohnenoten-cb6cf925.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/zeugnisse/vorbereitung/gp-faecherohnenoten.jpg)
 
-![GP-FaecherohneNoten.jpg](/bilder/wiki/gp-faecherohnenoten-cb6cf925.jpg)
+![GP-FaecherohneNoten.jpg](/bilder/zeugnisse/vorbereitung/gp-faecherohnenoten.jpg)
 
 ## Originalquelltext
 

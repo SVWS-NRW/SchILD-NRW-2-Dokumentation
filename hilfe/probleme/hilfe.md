@@ -1,8 +1,5 @@
 ---
 title: "Hilfe"
-wiki_title: "Hilfe"
-wiki_page_id: 257
-wiki_revision: 1432
 ---
 
 # Hilfe
@@ -19,7 +16,7 @@ Probieren Sie es einfach einmal aus. Da die Dateien im Programmverzeichnis \SchI
 
 ## Info
 
-![Info](/bilder/wiki/info-e45bfb82.jpg)
+![Info](/bilder/hilfe/probleme/info.jpg)
 
 Hinter diesem Menüpunkt verbergen sich die Übersicht über die aktuellen Programmversionen und der Copyright-Hinweis. Ebenso finden Sie den Eintrag der Software-Entwickler-Firma "ribeka".
 
@@ -63,7 +60,7 @@ Sie finden dort eine Unterteilung in folgende Rubriken:
 
 In allen Bereichen können Sie ohne Registrierung o.ä. lesen oder nach bestimmten Themen suchen.
 
-![ForumReg](/bilder/wiki/forumreg-a12bd662.jpg)
+![ForumReg](/bilder/hilfe/probleme/forumreg.jpg)
 
 Wenn Sie relativ schnell Antworten bekommen wollen, ohne alles lesen zu müssen, sollten Sie die [Suchfunktion](http://www.svws.nrw.de/cgi-bin/yabb2/YaBB.pl?action=search) verwenden.
 

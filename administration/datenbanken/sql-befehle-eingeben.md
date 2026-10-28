@@ -1,8 +1,5 @@
 ---
 title: "SQL-Befehle eingeben"
-wiki_title: "SQL-Befehle eingeben"
-wiki_page_id: 353
-wiki_revision: 1544
 ---
 
 # SQL-Befehle eingeben

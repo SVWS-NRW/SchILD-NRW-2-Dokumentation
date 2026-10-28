@@ -1,8 +1,5 @@
 ---
 title: "Erzieher mit Funktionen"
-wiki_title: "Erzieher mit Funktionen"
-wiki_page_id: 949
-wiki_revision: 3592
 ---
 
 # Erzieher mit Funktionen
@@ -11,15 +8,14 @@ Zur einfacheren Verwaltung von Eltern, die eine Funktion übernommen haben, lass
 
 Rufen Sie zuerst den **Katalog Erzieher-Funktionen** über das Menü *Schulverwaltung* auf.
 
-|  |  |  |
+| ![Erzieherfunktion-01](/bilder/schild2/unterricht-kataloge/erzieherfunktion-01.png) |                     | ![Erzieherfunktion-02](/bilder/schild2/unterricht-kataloge/erzieherfunktion-02.png) |
 |----|----|----|
-| ![Erzieherfunktion-01](/bilder/wiki/erzieherfunktion-01-ba32f427.png) |                     | ![Erzieherfunktion-02](/bilder/wiki/erzieherfunktion-02-e7cc3847.png) |
 
 Über **+** und **–** können Sie nun die Liste aller Erzieherfunktionen, die an Ihrer Schule gewünscht sind, ergänzen / bearbeiten.
 
 Schließen Sie den Katalog und wechseln Sie bei dem jeweiligen Schüler zur **Karteikarte Erz.-Berechtigte**.
 
-![Erzieherfunktion-03](/bilder/wiki/erzieherfunktion-03-83307b8e.png)
+![Erzieherfunktion-03](/bilder/schild2/unterricht-kataloge/erzieherfunktion-03.png)
 
 Unter den Personen des Erzieherdatensatzes sehen Sie nun einen grauen Bereich Feld, in den Sie einmal hineinklicken. Jetzt ist dort ein grau-blaues Feld markiert.
 

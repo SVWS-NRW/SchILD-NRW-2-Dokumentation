@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 4853 · Stand 2021-09-09.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1230.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/asdpcschluesselerstellung-8d493d67.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/import-export-statistik/asdpcschluesselerstellung.jpg)
 
-![ASDPCSchluesselerstellung.jpg](/bilder/wiki/asdpcschluesselerstellung-8d493d67.jpg)
+![ASDPCSchluesselerstellung.jpg](/bilder/schild2/import-export-statistik/asdpcschluesselerstellung.jpg)
 
 ## Originalquelltext
 

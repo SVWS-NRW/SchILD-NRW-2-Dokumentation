@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2222 · Stand 2014-05-21.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-566.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/km2-update-03-6ca5a222.png)
+[Gesicherte Originaldatei öffnen](/bilder/tools/km2/km2-update-03.png)
 
-![KM2_Update_03.png](/bilder/wiki/km2-update-03-6ca5a222.png)
+![KM2_Update_03.png](/bilder/tools/km2/km2-update-03.png)
 
 ## Originalquelltext
 

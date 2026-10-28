@@ -1,15 +1,12 @@
 ---
 title: "Fächer in Sprachenfolge ersetzen"
-wiki_title: "Fächer in Sprachenfolge ersetzen"
-wiki_page_id: 364
-wiki_revision: 1899
 ---
 
 # Fächer in Sprachenfolge ersetzen
 
 Dieser Gruppenprozess ermöglicht es, für die aktuell ausgewählte Schülermenge Eintragungen der Fächer in der Sprachenfolge auszutauschen.
 
-![GP-Sprachenersetzen](/bilder/wiki/gp-sprachenersetzen-6ad392e6.jpg)
+![GP-Sprachenersetzen](/bilder/schild2/gruppenprozesse/gp-sprachenersetzen.jpg)
 
 Eintragungen wie z.B. "E5" oder "E7" können über diesen Gruppenprozess durch "E" ersetzt werden. Dies ist vor allem für das Oberstufenprogramm LuPO sinnvoll.
 

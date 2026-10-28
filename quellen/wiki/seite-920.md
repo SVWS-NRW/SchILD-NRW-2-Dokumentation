@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 3463 · Stand 2015-08-19.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-920.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/lupo-biliwechsel-7d602e34.png)
+[Gesicherte Originaldatei öffnen](/bilder/tools/lupo/lupo-biliwechsel.png)
 
-![Lupo_biliwechsel.png](/bilder/wiki/lupo-biliwechsel-7d602e34.png)
+![Lupo_biliwechsel.png](/bilder/tools/lupo/lupo-biliwechsel.png)
 
 ## Originalquelltext
 

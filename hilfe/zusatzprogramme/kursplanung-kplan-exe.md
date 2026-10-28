@@ -1,8 +1,5 @@
 ---
 title: "Kursplanung KPlan.exe"
-wiki_title: "Kursplanung KPlan.exe"
-wiki_page_id: 1016
-wiki_revision: 3913
 ---
 
 # Kursplanung KPlan.exe

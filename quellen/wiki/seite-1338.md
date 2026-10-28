@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 5282 · Stand 2022-01-11.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1338.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/schaubild-b331026f.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/import-export-statistik/schaubild.png)
 
-![Schaubild.png](/bilder/wiki/schaubild-b331026f.png)
+![Schaubild.png](/bilder/schild2/import-export-statistik/schaubild.png)
 
 ## Originalquelltext
 

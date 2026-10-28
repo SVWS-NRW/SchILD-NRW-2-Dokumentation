@@ -1,8 +1,5 @@
 ---
 title: "JG-Tabelle-GS"
-wiki_title: "JG-Tabelle-GS"
-wiki_page_id: 240
-wiki_revision: 4170
 ---
 
 # JG-Tabelle-GS
@@ -13,7 +10,7 @@ wiki_revision: 4170
 
 In allen Grundschulen muss die Tabelle "Statistik-Jahrgänge" unabhängig von der Unterrichtsorganisation wie folgt ausgefüllt werden:
 
-![JG Tabelle GS neu](/bilder/wiki/jg-tabelle-gs-neu-5badc641.jpg)
+![JG Tabelle GS neu](/bilder/schild2/unterricht-kataloge/jg-tabelle-gs-neu.jpg)
 
 Die Tabelle enthält die Schülerjahrgänge E1, E2,E3, 03 und 04 mit den zugehörigen Restabschnitten. Die Bezeichnungen für die Schuleingangsphase E1 und E2 ersetzen die früheren Jahrgangsbezeichnungen 01 und 02. Die Jahrgangsbezeichnung E3 ist Schülern vorbehalten, welche die zweite Klasse wiederholen und somit ein drittes Jahr in der Schuleingangsphase bleiben. Die oben abgebildete Tabelle zeigt eine sinnvolle Sortierung der Jahrgänge.
 
@@ -31,13 +28,12 @@ Ab der Version 2.0.16.9 wird für die kommenden Statistiken die Darstellung der 
 
 Die Klassen-Versetzungstabelle wird bei jahrgangsbezogenem Unterricht wie folgt ausgefüllt:
 
-![VersetzungstabelleGsJg](/bilder/wiki/versetzungstabellegsjg-5b5b5f81.png)
+![VersetzungstabelleGsJg](/bilder/schild2/unterricht-kataloge/versetzungstabellegsjg.png)
 
 Die unten abgebildete Tabelle gibt einen exemplarischen Überblick über die vorzunehmenden Einträge einer zweizügigen Grundschule mit jahrgangsbezogenem Halbtagsunterricht. In der Tabelle erkennt man, dass lediglich die Klassen-Jahrgänge 1E, 2E, 03 und 04 verwendet werden. Als Klassenart wird immer "Regelklasse" eingetragen. Die Klassenart **"Schuleingangsphase, Jahrgangsbezogene Unterrichtsorganisation" findet ab 2016 keine Verwendung mehr**, da die Klassenjahrgänge 1E und 2E diese Information bereits enthalten. Ist die Folgeklasse leer, so versetzt Schild diese Schüler in den Abschlusskasten, wenn kein anderer Versetzungsvermerk gesetzt ist.
 
-|  |  |  |  |  |  |
-|----|----|----|----|----|----|
 | Schulinterne Bez. | Jahrgang | Parallelität | Folge-Klasse | Vorgänger-Klasse | Klassenart |
+|----|----|----|----|----|----|
 | 01A | 1E | A | 02A |  | Regelklasse |
 | 01B | 1E | B | 02B |  | Regelklasse |
 | 02A | 2E | A | 03A | 01A | Regelklasse |
@@ -56,13 +52,12 @@ Die unten abgebildete Tabelle gibt einen exemplarischen Überblick über die vor
 
 Die Klassen-Versetzungstabelle wird bei jahrgangsübergreifendem Unterricht wie folgt ausgefüllt:
 
-![VersetzungstabelleGsJu](/bilder/wiki/versetzungstabellegsju-8f33b0fd.png)
+![VersetzungstabelleGsJu](/bilder/schild2/unterricht-kataloge/versetzungstabellegsju.png)
 
 Die unten abgebildete Tabelle gibt einen exemplarischen Überblick über die vorzunehmenden Einträge einer zweizügigen Grundschule mit jahrgangsübergreifendem Halbtagsunterricht in der Schuleingangsphase. In der Tabelle erkennt man, dass lediglich die Klassen-Jahrgänge JU, 03 und 04 verwendet werden. Als Klassenart wird immer "Regelklasse" eingetragen. Die Klassenart **"Schuleingangsphase, Jahrgangsübergreifende Unterrichtsorganisation" findet ab 2016 keine Verwendung mehr**, da der Klassenjahrgang JU diese Information bereits enthält. In der Schuleingangsphase wird als Folge- und Vorgängerklasse die eigene Klasse eingetragen, da die Schüler in der Regel in den Klassen verbleiben. Eine Änderung der Klasse muss bei den Schülern manuell oder per Gruppenprozess eingetragen werden.
 
-|  |  |  |  |  |  |
-|----|----|----|----|----|----|
 | Schulinterne Bez. | Jahrgang | Parallelität | Folge-Klasse | Vorgänger-Klasse | Klassenart |
+|----|----|----|----|----|----|
 | Hasen | JU | A | Hasen | Hasen | Regelklasse |
 | Mäuse | JU | B | Mäuse | Mäuse | Regelklasse |
 | Affen | JU | C | Affen | Affen | Regelklasse |
@@ -81,13 +76,12 @@ Die unten abgebildete Tabelle gibt einen exemplarischen Überblick über die vor
 
 Die Klassen-Versetzungstabelle wird bei jahrgangsübergreifendem Unterricht wie folgt ausgefüllt:
 
-![VersetzungstabelleGsJu](/bilder/wiki/versetzungstabellegsju-8f33b0fd.png)
+![VersetzungstabelleGsJu](/bilder/schild2/unterricht-kataloge/versetzungstabellegsju.png)
 
 Die unten abgebildete Tabelle gibt einen exemplarischen Überblick über die vorzunehmenden Einträge einer zweizügigen Grundschule mit jahrgangsübergreifendem Halbtagsunterricht. In der Tabelle erkennt man, dass lediglich der Klassenjahrgänge JU verwendet wird. Als Klassenart wird immer "Regelklasse" eingetragen. Die Klassenart **"Schuleingangsphase, Jahrgangsübergreifende Unterrichtsorganisation" findet ab 2016 keine Verwendung mehr**, da der Klassenjahrgang JU diese Information bereits enthält. In allen Klassen wird als Folge- und Vorgängerklasse die eigene Klasse eingetragen, da die Schüler in der Regel in den Klassen verbleiben. Eine Änderung der Klasse muss bei den Schülern manuell oder per Gruppenprozess eingetragen werden.
 
-|  |  |  |  |  |  |
-|----|----|----|----|----|----|
 | Schulinterne Bez. | Jahrgang | Parallelität | Folge-Klasse | Vorgänger-Klasse | Klassenart |
+|----|----|----|----|----|----|
 | Hasen | JU | A | Hasen | Hasen | Regelklasse |
 | Mäuse | JU | B | Mäuse | Mäuse | Regelklasse |
 | Affen | JU | C | Affen | Affen | Regelklasse |

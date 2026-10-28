@@ -1,8 +1,5 @@
 ---
 title: "SetzeSortierung"
-wiki_title: "SetzeSortierung"
-wiki_page_id: 97
-wiki_revision: 121
 ---
 
 # SetzeSortierung
@@ -10,9 +7,7 @@ wiki_revision: 121
 <a id="RAP-Funktion_&quot;SetzeSortierung&quot;"></a>
 <a id="RAP-Funktion_.22SetzeSortierung.22"></a>
 
-## RAP-Funktion "SetzeSortierung"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 procedure SetzeSortierung(Pipeline: TppDbPipeline; const Sortierfelder: String);
@@ -28,11 +23,6 @@ Sortierfelder      - Mit Komma separierte Liste Sortierfeldern. Es können  kein
                      im Reportdesigner.
 ```
 
-## Rückgabewert
-
-```text
-...
-```
 
 ## Beispiel
 
@@ -47,5 +37,7 @@ Procedure ReportBeforePrint;
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-97) · [SetzeSortierung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetzeSortierung&oldid=121)

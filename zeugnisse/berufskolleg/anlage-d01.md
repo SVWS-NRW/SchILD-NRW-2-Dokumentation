@@ -1,8 +1,5 @@
 ---
 title: "Anlage D01"
-wiki_title: "Anlage D01"
-wiki_page_id: 1135
-wiki_revision: 4196
 ---
 
 # Anlage D01

@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2290 · Stand 2014-05-26.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-593.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/abfrage-aktualisieren-c0f770fa.png)
+[Gesicherte Originaldatei öffnen](/bilder/reporting/verwaltung/abfrage-aktualisieren.png)
 
-![Abfrage-aktualisieren.png](/bilder/wiki/abfrage-aktualisieren-c0f770fa.png)
+![Abfrage-aktualisieren.png](/bilder/reporting/verwaltung/abfrage-aktualisieren.png)
 
 ## Originalquelltext
 

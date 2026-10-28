@@ -1,13 +1,10 @@
 ---
 title: "Noten, Zeugnisvorbereitung"
-wiki_title: "Noten, Zeugnisvorbereitung"
-wiki_page_id: 290
-wiki_revision: 1292
 ---
 
 # Noten, Zeugnisvorbereitung
 
-![GP-Noten](/bilder/wiki/gp-noten-0acd1dab.jpg)
+![GP-Noten](/bilder/zeugnisse/vorbereitung/gp-noten.jpg)
 
 Unter dem Karteireiter "Noten, Zeugnisvorbereitung" verbergen sich folgende Gruppenprozesse.
 

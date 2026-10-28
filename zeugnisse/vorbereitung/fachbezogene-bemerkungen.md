@@ -1,8 +1,5 @@
 ---
 title: "Fachbezogene Bemerkungen"
-wiki_title: "Fachbezogene Bemerkungen"
-wiki_page_id: 844
-wiki_revision: 3238
 ---
 
 # Fachbezogene Bemerkungen
@@ -13,15 +10,15 @@ Fachbezogene Bemerkungen können freie Texteinträge zu beliebigen Unterrichtsf�
 
 **Fachbezogene Bemerkungen in SchILD-NRW aktivieren:**
 
-![FachbezogeneBem-00](/bilder/wiki/fachbezogenebem-00-a536a663.png)
+![FachbezogeneBem-00](/bilder/zeugnisse/vorbereitung/fachbezogenebem-00.png)
 
 Gehen Sie dazu in das Menü *Extras -\> Programmeinstellungen* und aktivieren Sie bei den *globalen Einstellungen* auf dem Karteireiter *Fächer, Noten* den Haken bei *Fachbezogenes Bemerkungsfeld zeigen*.
 
-![FachbezogeneBem-01](/bilder/wiki/fachbezogenebem-01-6072c571.png)
+![FachbezogeneBem-01](/bilder/zeugnisse/vorbereitung/fachbezogenebem-01.png)
 
 Danach steht Ihnen unter dem Karteireiter Akt. Halbjahr (bzw. Akt. Quartal) in den Leistungsdaten der Schüler ein Memofeld am Ende der Fächerliste zur Verfügung.
 
-![FachbezogeneBem-02](/bilder/wiki/fachbezogenebem-02-3d06190c.png)
+![FachbezogeneBem-02](/bilder/zeugnisse/vorbereitung/fachbezogenebem-02.png)
 
 Ein Doppelklick auf das Memofeld öffnet den aus Schild-NRW bekannten Texteditor und lässt nun eine freie Texteingabe zu. Es können zu allen Fächern Bemerkungen gemacht werden. Diese können auch von den Kollegen im Externen Notenmodul gemacht werden!
 
@@ -29,9 +26,9 @@ Ein Doppelklick auf das Memofeld öffnet den aus Schild-NRW bekannten Texteditor
 
 Über den Gruppenprozess Details zu Fächern bei Schülern ändern können seit der Version 1.7.79.5 (Januar 2012) diese Fachbemerkungen nun gruppenweise gesetzt werden:
 
-![FachbezogeneBem-03](/bilder/wiki/fachbezogenebem-03-49ed934e.png)
+![FachbezogeneBem-03](/bilder/zeugnisse/vorbereitung/fachbezogenebem-03.png)
 
-![FachbezogeneBem-04](/bilder/wiki/fachbezogenebem-04-53cb420f.png)
+![FachbezogeneBem-04](/bilder/zeugnisse/vorbereitung/fachbezogenebem-04.png)
 
 ------------------------------------------------------------------------
 

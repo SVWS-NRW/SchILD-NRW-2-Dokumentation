@@ -1,8 +1,5 @@
 ---
 title: "Lupo:Übergabe der Fachwahlen an Kurs42"
-wiki_title: "Lupo:Übergabe der Fachwahlen an Kurs42"
-wiki_page_id: 985
-wiki_revision: 5554
 ---
 
 # Lupo:Übergabe der Fachwahlen an Kurs42

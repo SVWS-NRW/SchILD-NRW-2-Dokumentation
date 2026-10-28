@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 3970 · Stand 2016-11-25.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1041.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/s1p-006-zugriffsinfo-b89c1209.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/tools/s1plan/s1p-006-zugriffsinfo.jpg)
 
-![S1P-006-Zugriffsinfo.jpg](/bilder/wiki/s1p-006-zugriffsinfo-b89c1209.jpg)
+![S1P-006-Zugriffsinfo.jpg](/bilder/tools/s1plan/s1p-006-zugriffsinfo.jpg)
 
 ## Originalquelltext
 

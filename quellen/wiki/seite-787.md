@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 3059 · Stand 2015-05-03.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-787.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/leistungsdatenklassetut04-d5cb245e.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/unterricht-kataloge/leistungsdatenklassetut04.jpg)
 
-![LeistungsdatenKlasseTut04.jpg](/bilder/wiki/leistungsdatenklassetut04-d5cb245e.jpg)
+![LeistungsdatenKlasseTut04.jpg](/bilder/schild2/unterricht-kataloge/leistungsdatenklassetut04.jpg)
 
 ## Originalquelltext
 

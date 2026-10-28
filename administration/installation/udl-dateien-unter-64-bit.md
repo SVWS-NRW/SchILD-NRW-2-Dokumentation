@@ -1,8 +1,5 @@
 ---
 title: "UDL-Dateien unter 64-BIT"
-wiki_title: "UDL-Dateien unter 64-BIT"
-wiki_page_id: 1019
-wiki_revision: 3933
 ---
 
 # UDL-Dateien unter 64-BIT

@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2619 · Stand 2014-11-21.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-676.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/report-neu-2-350d7025.png)
+[Gesicherte Originaldatei öffnen](/bilder/reporting/erstellung/report-neu-2.png)
 
-![Report-Neu-2.png](/bilder/wiki/report-neu-2-350d7025.png)
+![Report-Neu-2.png](/bilder/reporting/erstellung/report-neu-2.png)
 
 ## Originalquelltext
 

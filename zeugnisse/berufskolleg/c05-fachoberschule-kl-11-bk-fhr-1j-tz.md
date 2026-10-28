@@ -1,13 +1,10 @@
 ---
 title: "C05 Fachoberschule Kl. 11 (BK/FHR 1j; TZ)"
-wiki_title: "C05 Fachoberschule Kl. 11 (BK/FHR 1j; TZ)"
-wiki_page_id: 1215
-wiki_revision: 4766
 ---
 
 # C05 Fachoberschule Kl. 11 (BK/FHR 1j; TZ)
 
-![BK_Abschluss_C05](/bilder/wiki/bk-abschluss-c05-50a35778.png)
+![BK_Abschluss_C05](/bilder/zeugnisse/berufskolleg/bk-abschluss-c05.png)
 
 ---
 

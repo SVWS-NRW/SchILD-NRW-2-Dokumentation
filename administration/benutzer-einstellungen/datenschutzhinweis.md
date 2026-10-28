@@ -1,8 +1,5 @@
 ---
 title: "Datenschutzhinweis"
-wiki_title: "Datenschutzhinweis"
-wiki_page_id: 226
-wiki_revision: 4136
 ---
 
 # Datenschutzhinweis

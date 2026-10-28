@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 3516 · Stand 2015-09-07.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-933.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/spd-03-ddeb2f3a.png)
+[Gesicherte Originaldatei öffnen](/bilder/reporting/erstellung/spd-03.png)
 
-![SPD-03.png](/bilder/wiki/spd-03-ddeb2f3a.png)
+![SPD-03.png](/bilder/reporting/erstellung/spd-03.png)
 
 ## Originalquelltext
 

@@ -1,13 +1,10 @@
 ---
 title: "E02 Fachschule Teilzeit (BW 4j; TZ)"
-wiki_title: "E02 Fachschule Teilzeit (BW 4j; TZ)"
-wiki_page_id: 1221
-wiki_revision: 4772
 ---
 
 # E02 Fachschule Teilzeit (BW 4j; TZ)
 
-![BK_Abschluss_E02](/bilder/wiki/bk-abschluss-e02-cdcc7f76.png)
+![BK_Abschluss_E02](/bilder/zeugnisse/berufskolleg/bk-abschluss-e02.png)
 
 ---
 

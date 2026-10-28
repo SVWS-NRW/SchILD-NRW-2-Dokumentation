@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 1749 · Stand 2014-03-11.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-425.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/zuegniszu01-8382e1fe.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/unterricht-kataloge/zuegniszu01.jpg)
 
-![ZuegnisZU01.jpg](/bilder/wiki/zuegniszu01-8382e1fe.jpg)
+![ZuegnisZU01.jpg](/bilder/schild2/unterricht-kataloge/zuegniszu01.jpg)
 
 ## Originalquelltext
 

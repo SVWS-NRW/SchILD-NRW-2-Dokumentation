@@ -1,8 +1,5 @@
 ---
 title: "FilterSchuelerAdressArt"
-wiki_title: "FilterSchuelerAdressArt"
-wiki_page_id: 29
-wiki_revision: 50
 ---
 
 # FilterSchuelerAdressArt
@@ -10,9 +7,7 @@ wiki_revision: 50
 <a id="RAP-Funktion_&quot;FilterSchuelerAdressArt&quot;"></a>
 <a id="RAP-Funktion_.22FilterSchuelerAdressArt.22"></a>
 
-## RAP-Funktion "FilterSchuelerAdressArt"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 procedure FilterSchuelerAdressArt(aAdressArt: String);
@@ -24,11 +19,6 @@ procedure FilterSchuelerAdressArt(aAdressArt: String);
 aAdressArt - Adressart, auf die gefiltert werden soll
 ```
 
-## Rückgabewert
-
-```text
-...
-```
 
 ## Beispiel
 
@@ -47,5 +37,7 @@ Procedure ReportBeforePrint;
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-29) · [FilterSchuelerAdressArt – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FilterSchuelerAdressArt&oldid=50)

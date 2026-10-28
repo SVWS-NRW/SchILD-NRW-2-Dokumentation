@@ -1,8 +1,5 @@
 ---
 title: "Klassenlehrer aktualisieren"
-wiki_title: "Klassenlehrer aktualisieren"
-wiki_page_id: 354
-wiki_revision: 1586
 ---
 
 # Klassenlehrer aktualisieren

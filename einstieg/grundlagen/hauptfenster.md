@@ -1,8 +1,5 @@
 ---
 title: "Hauptfenster"
-wiki_title: "Hauptfenster"
-wiki_page_id: 134
-wiki_revision: 4287
 ---
 
 # Hauptfenster
@@ -13,7 +10,7 @@ wiki_revision: 4287
 
 Nach dem Start von Schild-NRW sehen Sie den Hauptbildschirm mit einigen Elementen, die die Daten hinter den Schülern zeigen. Dieser Artikel soll Ihnen eine Übersicht über die wesentlichen Elemente des Hauptfensters und deren Funktion geben.
 
-![Hauptfenster Schema](/bilder/wiki/hauptfenster-schema-d2f9c5c6.png)
+![Hauptfenster Schema](/bilder/einstieg/grundlagen/hauptfenster-schema.png)
 
 Hier kann man die verschiedenen Bereiche des Hauptfensters erkennen. Hinter der Menüleiste verbergen sich sämtliche Funktionen von Schild-NRW. Diese Menüpunkte werden im [Schild-NRW-Index](/einstieg/grundlagen/schild-nrw-index) ausführlich beschrieben.
 
@@ -23,7 +20,7 @@ Hier kann man die verschiedenen Bereiche des Hauptfensters erkennen. Hinter der 
 
 ## Karteikasten
 
-![Karteikaesten_01](/bilder/wiki/karteikaesten-01-8eff683a.jpg)
+![Karteikaesten_01](/bilder/einstieg/grundlagen/karteikaesten-01.jpg)
 
 Darunter in der linken oberen Ecke befindet sich der [Karteikasten](/einstieg/grundlagen/karteikasten). Hier können Sie Schüler über den jeweiligen Status filtern. Durch das Setzen des Hakens kann der jeweilige Karteikasten angewählt werden. Da man auch mehrere Kästen gleichzeitig auswählen kann, muss nach der Wahl das rote Häkchen zur Bestätigung betätigt werden. Wenn Sie mehrere Haken gesetzt haben, werden die Schüler der verschiedenen Statusarten zusammen im [Container](/einstieg/grundlagen/container) dargestellt.
 
@@ -33,7 +30,7 @@ Eine genauere Beschreibung der Statusarten erhalten Sie im Artikel:[Karteikasten
 
 ## Schnellfilter
 
-![Schnellfilter_01](/bilder/wiki/schnellfilter-01-503ec237.jpg)
+![Schnellfilter_01](/bilder/einstieg/grundlagen/schnellfilter-01.jpg)
 
 Rechts neben dem [Karteikasten](/einstieg/grundlagen/karteikasten) befinden sich die **Schnellfilter**.
 
@@ -43,9 +40,9 @@ Die Anzahl der Schnellfilter variiert je nach eingestellter Schulform. Ihre Aufg
 
 ## Container
 
-![Container_01](/bilder/wiki/container-01-113c694e.jpg)
+![Container_01](/bilder/einstieg/grundlagen/container-01.jpg)
 
-![Container_02](/bilder/wiki/container-02-f3bc06a7.jpg)
+![Container_02](/bilder/einstieg/grundlagen/container-02.jpg)
 
 Ein wesentliches Bedienelement von Schild-NRW ist der [Container](/einstieg/grundlagen/container), der sich unter den o.g. Bereichen befindet. Hier wird die aktuell ausgewählte Schülergruppe gezeigt. Durch Anklicken eines einzelnen Datensatzes werden die zugehörigen Daten auf den Karteireitern gezeigt.
 
@@ -53,7 +50,7 @@ Die Anzahl der zur Zeit gefilterten Datensätze wird unten links in der Ecke ang
 
 Ziel des Containers ist es nicht nur, schnellen Zugriff auf einzelne Schülerdatensätze zu gewährleisten, sondern auch einen gemeinsamen Zugriff auf alle im Container befindlichen Datensätze zu ermöglichen. Dabei ist es die Philosophie von Schild-NRW, dass man alle Gruppenprozesse oder Druckaufträge auf die im Container gefilterten Daten ablaufen lassen kann. (Bestimmte Formulare sind so programmiert, dass sie die Filterung im Container umgehen, dies ist jedoch die Ausnahme.)
 
-![Container_02a](/bilder/wiki/container-02a-a97da895.jpg)
+![Container_02a](/bilder/einstieg/grundlagen/container-02a.jpg)
 
 Oberhalb des Containers befindet sich ein Eingabefeld zur Suche von einzelnen Namen. Beim Klicken auf die Pfeilspitze nach oben oder unten, wird die Suche innerhalb des Containers ausgeführt.
 
@@ -69,7 +66,7 @@ Hinter den Karteireitern befinden sich die eigentlichen Daten zum einzelnen Sch�
 
 Im Folgenden werden die einzelnen Karteireiter aufgelistet und in ihren Artikeln beschrieben:
 
-![Karteireiter_01](/bilder/wiki/karteireiter-01-92390e75.jpg)
+![Karteireiter_01](/bilder/einstieg/grundlagen/karteireiter-01.jpg)
 
 - [Individual-Daten I](/schild2/schueler/individual-daten-i)
 - [Individual-Daten II](/schild2/schueler/individual-daten-ii)

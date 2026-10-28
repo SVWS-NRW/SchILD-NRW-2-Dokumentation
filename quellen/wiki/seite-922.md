@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 3480 · Stand 2015-08-24.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-922.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/ogs-01-2c8b3d01.png)
+[Gesicherte Originaldatei öffnen](/bilder/archiv/ogs-01.png)
 
-![OGS-01.png](/bilder/wiki/ogs-01-2c8b3d01.png)
+![OGS-01.png](/bilder/archiv/ogs-01.png)
 
 ## Originalquelltext
 

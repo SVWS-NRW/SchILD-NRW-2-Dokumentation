@@ -1,8 +1,5 @@
 ---
 title: "Noten von Epochal-Fächern ergänzen"
-wiki_title: "Noten von Epochal-Fächern ergänzen"
-wiki_page_id: 512
-wiki_revision: 2110
 ---
 
 # Noten von Epochal-Fächern ergänzen

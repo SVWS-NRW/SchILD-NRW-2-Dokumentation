@@ -1,5 +1,7 @@
 # Gruppenprozesse
 
+Gruppenprozesse bearbeiten mehrere Schülerdatensätze in einem Arbeitsgang. Lesen Sie zuerst die allgemeine Anleitung: Schülerauswahl, gegebenenfalls Markierungen, Zielabschnitt und gewählte Änderung müssen zur Aufgabe passen. Prüfen Sie das Ergebnis anschließend an einzelnen Datensätzen.
+
 - [Gruppenprozesse](/schild2/gruppenprozesse/gruppenprozesse)
 - [Allgemeines](/schild2/gruppenprozesse/allgemeines)
 - [Fächer](/schild2/gruppenprozesse/faecher)

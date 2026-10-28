@@ -1,8 +1,5 @@
 ---
 title: "SEM:Schnelleingabemodul"
-wiki_title: "SEM:Schnelleingabemodul"
-wiki_page_id: 973
-wiki_revision: 3751
 ---
 
 # SEM:Schnelleingabemodul

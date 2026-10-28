@@ -1,13 +1,10 @@
 ---
 title: "Individual-Daten I"
-wiki_title: "Individual-Daten I"
-wiki_page_id: 228
-wiki_revision: 3714
 ---
 
 # Individual-Daten I
 
-Auf diesem Karteireiter wird der erste Teil der sog. Individualdaten gespeichert. Die statistisch relevanten Daten werden mit grüner Farbe gekennzeichnet. (Diese Färbung lässt sich unter den Programmeinstellungen verändern.)
+Auf diesem Karteireiter wird der erste Teil der Individualdaten gespeichert. Die statistisch relevanten Daten werden mit grüner Farbe gekennzeichnet. (Diese Färbung lässt sich unter den Programmeinstellungen verändern.)
 
 In der Regel werden die Daten zum Schüler einfach eingetragen. Im Folgenden werden wir daher nur auf Besonderheiten oder Wissenswertes zu den einzelnen Feldern eingehen.
 

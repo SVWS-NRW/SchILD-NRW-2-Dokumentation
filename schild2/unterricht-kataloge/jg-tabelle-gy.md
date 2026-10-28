@@ -1,13 +1,10 @@
 ---
 title: "JG-Tabelle-GY"
-wiki_title: "JG-Tabelle-GY"
-wiki_page_id: 235
-wiki_revision: 4703
 ---
 
 # JG-Tabelle-GY
 
-![JGTabelle GY](/bilder/wiki/jgtabelle-gy-cb2746c3.png)
+![JGTabelle GY](/bilder/schild2/unterricht-kataloge/jgtabelle-gy.png)
 
 Typische Jahrgangstabelle für ein Gymnasium mit Halbjahresbetrieb. Der Jahrgang 10 wurde noch erhalten, weil dieser ja mit G9 wieder benötigt wird.
 

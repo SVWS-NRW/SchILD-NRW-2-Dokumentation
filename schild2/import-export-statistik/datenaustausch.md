@@ -1,15 +1,12 @@
 ---
 title: "Datenaustausch"
-wiki_title: "Datenaustausch"
-wiki_page_id: 211
-wiki_revision: 5750
 ---
 
 # Datenaustausch
 
 Der Menüpunkt Datenaustausch beinhaltet alle Optionen für den Import und Export von Daten. Dabei gibt es in Schild-NRW die verschiedensten Möglichkeiten. Bitte beachten Sie, dass dieser Menüpunkt je nach den Benutzerrechten mehr oder weniger Optionen enthalten kann.
 
-![Exchange](/bilder/wiki/exchange-ee265ce4.png)
+![Exchange](/bilder/schild2/import-export-statistik/exchange.png)
 
 [Externes Notenmodul](/zeugnisse/vorbereitung/externes-notenmodul)
 

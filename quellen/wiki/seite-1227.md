@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 4850 · Stand 2021-09-09.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1227.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/asdpcaktuellwarnung-318bc746.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/archiv/asdpcaktuellwarnung.jpg)
 
-![ASDPCAktuellWarnung.jpg](/bilder/wiki/asdpcaktuellwarnung-318bc746.jpg)
+![ASDPCAktuellWarnung.jpg](/bilder/archiv/asdpcaktuellwarnung.jpg)
 
 ## Originalquelltext
 

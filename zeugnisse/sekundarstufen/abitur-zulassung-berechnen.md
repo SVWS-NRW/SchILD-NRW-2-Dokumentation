@@ -1,8 +1,5 @@
 ---
 title: "Abitur-Zulassung berechnen"
-wiki_title: "Abitur-Zulassung berechnen"
-wiki_page_id: 490
-wiki_revision: 2029
 ---
 
 # Abitur-Zulassung berechnen

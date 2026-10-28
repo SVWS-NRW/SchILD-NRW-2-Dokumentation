@@ -1,8 +1,5 @@
 ---
 title: "Unterrichtsfächer"
-wiki_title: "Unterrichtsfächer"
-wiki_page_id: 308
-wiki_revision: 4622
 ---
 
 # Unterrichtsfächer
@@ -15,11 +12,11 @@ wiki_revision: 4622
 
 Unter dem Menüpunkt 'Schulverwaltung' - 'Unterrichtsfächer' haben Sie die Möglichkeit, die an Ihrer Schule angebotenen Unterrichtsfächer und Arbeitsgemeinschaften zu bearbeiten.
 
-![Unterrichtsfaecher-01](/bilder/wiki/unterrichtsfaecher-01-eb69854a.jpg)
+![Unterrichtsfaecher-01](/bilder/schild2/unterricht-kataloge/unterrichtsfaecher-01.jpg)
 
 Es öffnet sich unter diesem Menüpunkt das Fenster 'Unterrichtsfächer bearbeiten', das in zwei Bereiche aufgeteilt ist: 'Übersicht' und 'Details'. Während der Bereich 'Übersicht' eine Tabelle mit den einzelnen Fächern und Arbeitsgemeinschaften enthält, können unter 'Details' konkrete Angaben zum gerade ausgewählten Fach getätigt werden und verschiedene Einstellungen ausgewählt werden. Die Darstellung und angebotenen Funktionen variieren je nach Schulform.
 
-![Details_Unterrichtsfächer](/bilder/wiki/details-unterrichtsfaecher-6b38169a.jpg)
+![Details_Unterrichtsfächer](/bilder/schild2/unterricht-kataloge/details-unterrichtsfacher.jpg)
 
 *(Den Screenshots hier liegt eine anonymisierte Gymnasialdatenbank zugrunde.)*
 
@@ -40,7 +37,7 @@ Um die Teilleistungsarten vorzubereiten befindet sich unter den **Details** bei 
 
 Wenn Sie auf den Schalter **Teilleistungsarten** klicken, gelangen Sie in den Bereich, in dem Sie für alle Fächer untergliedert in Kursart die gewünschten Teilleistungsarten vergeben können.
 
-![Teilleistungsarten-Faecher](/bilder/wiki/teilleistungsarten-faecher-1e0f31fb.jpg)
+![Teilleistungsarten-Faecher](/bilder/schild2/unterricht-kataloge/teilleistungsarten-faecher.jpg)
 
 Wählen Sie hier mit dem "Plussymbol" die benötigten Teilleistungsarten zu jeder Kursart aus. Durch die Benutzung des Schalters "In Kopiervorlage übernehmen" können alle ausgewählten Einträge übernommen und bei einem anderen Fach eingefügt werden. ("Aus Kopiervorlage einfügen")
 
@@ -94,7 +91,7 @@ Für Vertiefungskurse steht ein Fachunabhängiges Statistikkürzel "VX - Vertief
 
 Des Weiteren bietet Ihnen der Bereich **Übersicht** noch weitere Optionen an, mit Hilfe derer Sie gerade größere Mengen an Fächern und Arbeitsgemeinschaften leichter verwalten können. Zum einen ist da die Möglichkeit zu nennen, nur die auf 'sichtbar' gestellten Fächer anzuzeigen (s. Abbildung).
 
-![NursichtbareFaecher](/bilder/wiki/nursichtbarefaecher-8e889aff.jpg)
+![NursichtbareFaecher](/bilder/schild2/unterricht-kataloge/nursichtbarefaecher.jpg)
 
 Sie können allerdings auch von den vielfältigen Filter- und Sortierfunktionen Gebrauch machen, um die Anzeige nach Ihren Wünschen und dem jeweiligen Bedarf übersichtlicher zu gestalten.
 
@@ -102,13 +99,13 @@ Wenn Sie in dem Feld **Sortierung** die benutzerdefinierte Reihenfolge auswähle
 
 **Hinweis:** Die Schulen mit gymnasialer Oberstufe haben hier eine zusätzliche Spalte für die benutzerdefinierte Sortierung der Fächer der Oberstufe (s. Abbildung).
 
-![Sortierung-SII](/bilder/wiki/sortierung-sii-caec6f9e.jpg)
+![Sortierung-SII](/bilder/schild2/unterricht-kataloge/sortierung-sii.jpg)
 
 **Rechte Maustaste:**
 
 Mit der rechten Maustaste stehen Ihnen noch einige Befehle zum Verschieben der Fäche in der Sortierung zur Verfügung. Außerdem finden Sie dort die Funktion **Fach global ändern**.
 
-![Fachglobal](/bilder/wiki/fachglobal-ddedc671.jpg)
+![Fachglobal](/bilder/schild2/unterricht-kataloge/fachglobal.jpg)
 
 Mit dieser Funktion können Sie ein bestimmtes Fach in allen (!) Leistungsdatensätzen der Schüler in ein anderes Fach ersetzen lassen. (Inclusive der Tabellen "Abitur", "Sprachenfolgen", "FHR" usw.) Wenn Sie diese Funktion ausgeführt haben, sollte sich das geänderte Fach danach löschen lassen, weil es bei den Schülern nicht mehr vorkommt.
 
@@ -123,7 +120,7 @@ Diese Funktion ist zur Bereinigung der Datenbank z.B. nach einem Import aus Frem
 
 Wenn es sich bei Ihrer Schule um eine weiterführende Schule mit einer gymnasialen Oberstufe handelt, dann finden Sie oberhalb der Filter noch die Funktion **Fächer der Oberstufe bearbeiten**. Haben Sie bei einem Fach im Detailbereich unter 'Sonstige Einstellungen' das Kästchen **Fach der Oberstufe** markiert, so färbt sich in der Übersichtstabelle das ausgewählte Fach grün. Wenn Sie nun die Option **Fächer der Oberstufe bearbeiten** anwählen, so taucht dieses Fach in der Übersicht der Oberstufenfächer auf und kann weiter bearbeitet werden. Sie können nun über Markierungen festlegen, in welchen Abschnitten der gymnasialen Oberstufe eine Anwahl des Faches möglich sein soll und ob das Fach als Abiturfach bestimmt werden kann oder nicht (AF 3-4 bzw. AF 1-2). Prüfen Sie, ob bei den Fremdsprachen, die in der Oberstufe neu einsetzen, auch die entsprechende Markierung in der Spalte **als neue FS in SII** gesetzt ist.
 
-![FächerOberstufe](/bilder/wiki/faecheroberstufe-9449004f.jpg)
+![FächerOberstufe](/bilder/schild2/unterricht-kataloge/facheroberstufe.jpg)
 
 Die Wahlmöglichkeiten an Ihrer Schule können Sie unter den Karteireitern **[Nicht mögliche Fachkombinationen](/schild2/unterricht-kataloge/nicht-moegliche-fachkombinationen)** und **Fächerprofile** noch detaillierter abbilden. Dort bestimmen Sie die Fächer, die für einen bestimmten Zeitraum nicht gleichzeitig angewählt werden können (evt. Religionslehre und Philosophie) bzw. die zwingend zusammen angewählt werden müssen. Wählen Sie dazu einfach über die Dropdown-Menüs in den Tabellen die entsprechenden Fächer, Kursarten und Zeiträume aus. Über die Ihnen bekannten Symbole in der Steuerleiste können Sie Zeilen hinzufügen, entfernen und Ihre Eintragungen bestätigen oder annulieren.
 
@@ -135,7 +132,7 @@ Die Wahlmöglichkeiten an Ihrer Schule können Sie unter den Karteireitern **[Ni
 
 Schließlich haben Sie noch die Möglichkeit, die Angaben zu den Unterrichtsfächern in eine Exceltabelle zu exportieren. Markieren Sie hierzu ein Fach und fahren Sie mit der Maus bei gedrückter Shift-Taste zur letzten Zeile des Bereiches, den Sie exportieren wollen. Diese Zeilen sind nun ausgewählt und blau eingefärbt. Wenn Sie nun die Funktion '**Excel-Export'** anwählen, sehen Sie zunächst eine Vorschau der zukünftigen Exceltabelle. Durch Mausklick auf '**Speichern'** wird die Exceltabelle erzeugt.
 
-![Excelexport](/bilder/wiki/excelexport-d2c5edb1.jpg)
+![Excelexport](/bilder/schild2/unterricht-kataloge/excelexport.jpg)
 
 ------------------------------------------------------------------------
 
@@ -146,13 +143,13 @@ Schließlich haben Sie noch die Möglichkeit, die Angaben zu den Unterrichtsfäc
 
 An den Berufskollegs, stehen unter **Details** noch einige Angaben zur Verfügung, die an anderen Schulformen ausgeblendet werden.
 
-![BKFächereinstellungen](/bilder/wiki/bkfaechereinstellungen-5725d663.jpg)
+![BKFächereinstellungen](/bilder/schild2/unterricht-kataloge/bkfachereinstellungen.jpg)
 
 Legen Sie fest, ob das Fach ein Prüfungsfach für den allgemein- oder berufsbildenden Bereich ist. Außerdem können Sie die Gewichtungsfaktoren für die Bereiche festlegen. Diese Einstellungen sind die Grundeinstellungen und werden immer dann genutzt, wenn es **keine** gliederungsbezogenen Einstellungen gibt.
 
 Unter dem Button "Gliederung-bezogene Einstellungen" können Sie dann diese Einstellungen dann für verschiedene Fachklassen auch unterschiedlich eingeben. Wenn es solche gliederungsbezogenen Einstellungen gibt, werden immer für diese Fachklassen auch diese Einstellungen geladen! Achten Sie hier auch auf die Spalte "Sortierung für Zeugnis".
 
-![Gliederungseinstellungen](/bilder/wiki/gliederungseinstellungen-b2238c83.jpg)
+![Gliederungseinstellungen](/bilder/schild2/unterricht-kataloge/gliederungseinstellungen.jpg)
 
 Bitte beachten Sie, dass Sie die Lernfelder auch unter der Tabelle [Fachklassen](/schild2/unterricht-kataloge/fachklassen) verwalten können. Dies steht Ihnen als Alternative zur Verfügung!
 

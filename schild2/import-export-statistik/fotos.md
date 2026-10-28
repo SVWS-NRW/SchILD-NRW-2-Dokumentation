@@ -1,8 +1,5 @@
 ---
 title: "Fotos"
-wiki_title: "Fotos"
-wiki_page_id: 270
-wiki_revision: 1171
 ---
 
 # Fotos
@@ -18,7 +15,7 @@ Dort wird eine Datei mit dem Namen **Fotoliste.txt** gespeichert.
 
 Die Datei ist wie folgt aufgebaut:
 
-![Fotolistetxt](/bilder/wiki/fotolistetxt-5133aeb2.jpg)
+![Fotolistetxt](/bilder/schild2/import-export-statistik/fotolistetxt.jpg)
 
 Die Schüler bekommen dabei ihre interne Datenbank-ID und können daran identifiziert werden. Diese Liste wurde häufig bei Schulfotografen genutzt, damit die Fotos später wieder zum Schüler zugeordnet werden konnten.
 

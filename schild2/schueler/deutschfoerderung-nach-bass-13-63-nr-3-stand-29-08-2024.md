@@ -1,8 +1,5 @@
 ---
 title: "Deutschförderung nach BASS 13-63 Nr. 3 (Stand 29.08.2024)"
-wiki_title: "Deutschförderung nach BASS 13-63 Nr. 3 (Stand 29.08.2024)"
-wiki_page_id: 1429
-wiki_revision: 5986
 ---
 
 # Deutschförderung nach BASS 13-63 Nr. 3 (Stand 29.08.2024)
@@ -25,8 +22,9 @@ Tragen Sie für alle Deutschförderschüler ( nach BASS 13-63 Nr. 3 ) die Klasse
 
 #### Möglichkeit 1: Für jeden Schüler separat unter Individualdaten I
 
-![DFKlassenart1](/bilder/wiki/dfklassenart1-961315cf.png)
-Hinweis: Im Screenshot sieht man, dass die Schülerin Birgit trotz Deutschförderung in eine Regelklasse geht. Dies ist zulässig.
+![DFKlassenart1](/bilder/schild2/schueler/dfklassenart1.png)
+
+*Hinweis: Im Screenshot sieht man, dass die Schülerin Birgit trotz Deutschförderung in eine Regelklasse geht. Dies ist zulässig.*
 
 Alternativ kann der Eintrag auch im aktuellen Halbjahr/ Allgemeine Angaben angepasst werden.
 
@@ -37,8 +35,9 @@ Alternativ kann der Eintrag auch im aktuellen Halbjahr/ Allgemeine Angaben angep
 
 Sind viele Schülerinnen und Schüler von der Änderung betroffen, kann man dies auch mit einem Gruppenprozesse realisieren. Unter Gruppenprozess/Individualdaten ändern/Individualdaten I kann die Klassenart für eine Gruppe von Schülerinnen und Schülern angepasst werden. Diese Änderung wird nur für den aktuellen Abschnitt durchgeführt, sofern keine weiteren Angaben erfolgen.
 
-![DFKlassenartGP](/bilder/wiki/dfklassenartgp-ec71e692.png)
-Klassenart mit Hilfe eines Gruppenprozesses anpassen.
+![DFKlassenartGP](/bilder/schild2/schueler/dfklassenartgp.png)
+
+*Klassenart mit Hilfe eines Gruppenprozesses anpassen.*
 
 <a id="Schritt_2:_Was_war_mit_dem_Deutschförder-Schüler_im_letzten_Schuljahr?"></a>
 <a id="Schritt_2:_Was_war_mit_dem_Deutschf.C3.B6rder-Sch.C3.BCler_im_letzten_Schuljahr.3F"></a>
@@ -56,8 +55,9 @@ Für diesen Fall muss auch für den vorangegangenen Abschnitt die Klassenart auf
 
 Unter aktuelles Halbjahr/Allgemeine Angaben kann man für vorherige Abschnitte die Klassenart ändern:
 
-![DFVorherigerAbschnitt](/bilder/wiki/dfvorherigerabschnitt-8118f06c.png)
-Klassenart im vorangegangenem Abschnitt anpassen.
+![DFVorherigerAbschnitt](/bilder/schild2/schueler/dfvorherigerabschnitt.png)
+
+*Klassenart im vorangegangenem Abschnitt anpassen.*
 
 Hinweis: Sollte diese Anpassung nicht erfolgt sein und die Schülerdaten wurden bereits in ASDPC importiert und bearbeitet, kann dies auch unmittelbar in ASDPC korrigiert werden (siehe [hier](#Daten_in_ASDPC_nachpflegen)).
 
@@ -65,8 +65,9 @@ Hinweis: Sollte diese Anpassung nicht erfolgt sein und die Schülerdaten wurden 
 
 Unter Gruppenprozesse/Allgemeines/Individualdaten ändern/Lernabschnitte kann der vorherige Lernabschnitt ausgewählt werden für den die Klassenart geändert werden soll:
 
-![DFVorherigerAbschnittGP](/bilder/wiki/dfvorherigerabschnittgp-a0816a53.png)
-Klassenart im vorangegangenem Abschnitt für mehrere Schüler anpassen.
+![DFVorherigerAbschnittGP](/bilder/schild2/schueler/dfvorherigerabschnittgp.png)
+
+*Klassenart im vorangegangenem Abschnitt für mehrere Schüler anpassen.*
 
 <a id="Fall_2:_Der_Schüler_kam_von_einer_anderen_deutschen_Schule"></a>
 <a id="Fall_2:_Der_Sch.C3.BCler_kam_von_einer_anderen_deutschen_Schule"></a>
@@ -75,13 +76,15 @@ Klassenart im vorangegangenem Abschnitt für mehrere Schüler anpassen.
 
 In diesem Fall gibt es für den Schüler keinen vorherigen Abschnitt in SchILD. Informationen zur Herkunft des Schülers müssen unter Schulbesuch korrekt eingetragen werden:
 
-![DFSchulbesuchG](/bilder/wiki/dfschulbesuchg-6339a72f.png)
-Eintrag für den Schulbesuch.
+![DFSchulbesuchG](/bilder/schild2/schueler/dfschulbesuchg.png)
+
+*Eintrag für den Schulbesuch.*
 
 Hinweis: Prüfen Sie ggf., ob der Migrationshintergrund korrekt eingetragen wurde. Insbesondere darf das Zuzugsjahr nicht fehlen.
 
-![Migrationshintergrund](/bilder/wiki/migrationshintergrund-066adf7e.png)
-Eintrag für den Migrationshintergrund.
+![Migrationshintergrund](/bilder/schild2/schueler/migrationshintergrund.png)
+
+*Eintrag für den Migrationshintergrund.*
 
 <a id="Fall_3:_Der_Schüler_ist_aus_dem_Ausland_in_diesem_Schuljahr_zugezogen"></a>
 <a id="Fall_3:_Der_Sch.C3.BCler_ist_aus_dem_Ausland_in_diesem_Schuljahr_zugezogen"></a>
@@ -90,8 +93,9 @@ Eintrag für den Migrationshintergrund.
 
 Analog zum zweiten Fall muss auch hier der Reiter Schulbesuch korrekt gepflegt werden:
 
-![DFSchulbesuch](/bilder/wiki/dfschulbesuch-d466b645.png)
-Eintrag für den Schulbesuch.
+![DFSchulbesuch](/bilder/schild2/schueler/dfschulbesuch.png)
+
+*Eintrag für den Schulbesuch.*
 
 Hinweis: Hat der aus dem Ausland zugezogene Schüler die deutsche Staatsangehörigkeit (Eintrag der Staatsangehörigkeit unter Individualdaten I), muss für die allgemeine Herkunft des Schülers der Schlüssel "XS" verwendet werden.
 
@@ -106,14 +110,16 @@ Hinweis: Hat der aus dem Ausland zugezogene Schüler die deutsche Staatsangehör
 **Problem**\
 Nach der Plausibilitätsprüfung in SchILD erhalten ich den Fehler E89.
 
-![FehlerE89](/bilder/wiki/fehlere89-86147705.png)
-Fehler E89.
+![FehlerE89](/bilder/schild2/schueler/fehlere89.png)
+
+*Fehler E89.*
 
 **Lösung**\
 Vermutlich fehlt unter Individualdaten II das Zuzugsjahr.
 
-![FehlerE89Lsg](/bilder/wiki/fehlere89lsg-bf26bfe7.png)
-Korrektur des Fehlers E89.
+![FehlerE89Lsg](/bilder/schild2/schueler/fehlere89lsg.png)
+
+*Korrektur des Fehlers E89.*
 
 <a id="Daten_in_ASDPC_nachpflegen"></a>
 
@@ -125,8 +131,9 @@ Ich habe die sim.txt bereits in ASDPC importiert und viele Datensätze dort korr
 **Lösung**\
 Da SchILD bei der Plausibilitätsprüfung für diesen Fall keine Fehlermeldung ausgibt, kommt das Problem sicherlich häufiger vor. Wenn die Klassenart DF nicht für vorangegangene Abschnitte bei den Schülern mit Deutschförderung in SchILD eingetragen wurde, erscheint die unten stehende Fehlermeldung. Dies kann man in ASDPC korrigieren, indem der Schlüssel 91 (Verbleib in Deutschförderung) für Spalte Art 611 ausgewählt wird:
 
-![ASDPCKorrektur91](/bilder/wiki/asdpckorrektur91-57217344.png)
-Korrektur "Verbleib in Deutschförderung".
+![ASDPCKorrektur91](/bilder/schild2/schueler/asdpckorrektur91.png)
+
+*Korrektur "Verbleib in Deutschförderung".*
 
 
 ---

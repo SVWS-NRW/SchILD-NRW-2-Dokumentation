@@ -1,8 +1,5 @@
 ---
 title: "Umgang mit Bildungsgangswechlsern am BK"
-wiki_title: "Umgang mit Bildungsgangswechlsern am BK"
-wiki_page_id: 1091
-wiki_revision: 4062
 ---
 
 # Umgang mit Bildungsgangswechlsern am BK
@@ -11,7 +8,7 @@ wiki_revision: 4062
 
 ## Bildungsgangwechsler ohne Online-Verfahren zur Anmeldung
 
-![KA33_001](/bilder/wiki/ka33-001-0a09b70a.jpg)
+![KA33_001](/bilder/schild2/versetzung/ka33-001.jpg)
 
 Verwendet die Schule kein Online-Anmeldeverfahren, so müssen Datensätze neu-er Schüler manuell eingetragen werden. Handelt es sich um Schüler der eigenen Schule, die einen weiteren Bildungsgang besuchen möchten, so kann man sich die Eingabe der Daten ersparen, indem man ein Duplikat anlegt: Zunächst aktiviert man zusätzlich den Haken bei „Neuaufnahme“, wählt den Da-tensatz des Schülers aus und drückt anschließend auf „Schüler duplizieren“. Hierdurch wird ein neuer Datensatz mit den Daten des Schülers angelegt, der dann in die zukünftige Klasse und in das entsprechende (kommende) Halbjahr einsortiert wird.
 
@@ -27,7 +24,7 @@ Exportiert man Schülerdaten aus Schüler-Online, wird der Name des Schülers in
 
 ## Verschmelzen von Duplikat und ursprünglichem Datensatz
 
-![KA33_002](/bilder/wiki/ka33-002-6f8d2279.jpg)
+![KA33_002](/bilder/schild2/versetzung/ka33-002.jpg)
 
 Egal, auf welchem Weg die Schülerdatensätze ins Programm gekommen sind, das weitere Verfahren ist völlig identisch: Der Name des Schülers ist in der Namensliste gelb hinterlegt und der Haken bei „Ist Duplikat“ ist gesetzt worden.
 
@@ -35,11 +32,11 @@ Die weiteren Arbeiten erfolgen nach dem Schuljahrewechsel. Beim Schuljahreswechs
 
 Um dies zu erreichen geht man wie folgt vor:
 
-1.) Änderung der Sortierreihenfolge auf Name, Vorname, Klasse. ![KA33 003](/bilder/wiki/ka33-003-efd43389.jpg)
+1.) Änderung der Sortierreihenfolge auf Name, Vorname, Klasse. ![KA33 003](/bilder/schild2/versetzung/ka33-003.jpg)
 
-2.) Aktivierung der „Kästen“ Neuaufnahme, Aktiv, Abgang und Abschluss. ![KA33 004](/bilder/wiki/ka33-004-a52e870a.jpg)
+2.) Aktivierung der „Kästen“ Neuaufnahme, Aktiv, Abgang und Abschluss. ![KA33 004](/bilder/schild2/versetzung/ka33-004.jpg)
 
-3.) Alle Duplikate sind an der gelben Farbe gut zu erkennen. Der entsprechende Originaldatensatz steht nun direkt über oder unter dem Duplikat. ![KA33 005](/bilder/wiki/ka33-005-3f81fe81.jpg)
+3.) Alle Duplikate sind an der gelben Farbe gut zu erkennen. Der entsprechende Originaldatensatz steht nun direkt über oder unter dem Duplikat. ![KA33 005](/bilder/schild2/versetzung/ka33-005.jpg)
 
 4.) Beim Originaldatensatz werden nun folgende Daten des Duplikats eingetra-gen:
 
@@ -48,7 +45,7 @@ Um dies zu erreichen geht man wie folgt vor:
 - Bildungsgangbeginn
 - Bei Berufsschülern: Betrieb, Vertragsbeginn und -ende
 
-![KA33 006](/bilder/wiki/ka33-006-a9053f82.jpg)
+![KA33 006](/bilder/schild2/versetzung/ka33-006.jpg)
 
 5.) Der Status des Originaldatensatzes wird von „Abschluss“ auf „Aktiv“ geän-dert.
 

@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 1153 · Stand 2014-01-29.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-271.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/fotolistetxt-5133aeb2.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/import-export-statistik/fotolistetxt.jpg)
 
-![Fotolistetxt.jpg](/bilder/wiki/fotolistetxt-5133aeb2.jpg)
+![Fotolistetxt.jpg](/bilder/schild2/import-export-statistik/fotolistetxt.jpg)
 
 ## Originalquelltext
 

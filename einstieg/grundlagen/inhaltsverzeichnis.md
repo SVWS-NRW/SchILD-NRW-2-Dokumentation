@@ -1,8 +1,5 @@
 ---
 title: "Inhaltsverzeichnis"
-wiki_title: "Inhaltsverzeichnis"
-wiki_page_id: 1169
-wiki_revision: 5938
 ---
 
 # Inhaltsverzeichnis

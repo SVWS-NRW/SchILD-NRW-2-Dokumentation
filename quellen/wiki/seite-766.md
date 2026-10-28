@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2957 · Stand 2015-04-09.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-766.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/leistungsuebersicht-01-3a12792b.png)
+[Gesicherte Originaldatei öffnen](/bilder/reporting/erstellung/leistungsuebersicht-01.png)
 
-![Leistungsuebersicht-01.png](/bilder/wiki/leistungsuebersicht-01-3a12792b.png)
+![Leistungsuebersicht-01.png](/bilder/reporting/erstellung/leistungsuebersicht-01.png)
 
 ## Originalquelltext
 

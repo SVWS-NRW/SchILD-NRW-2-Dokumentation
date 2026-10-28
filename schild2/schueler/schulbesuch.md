@@ -1,8 +1,5 @@
 ---
 title: "Schulbesuch"
-wiki_title: "Schulbesuch"
-wiki_page_id: 329
-wiki_revision: 3679
 ---
 
 # Schulbesuch
@@ -14,7 +11,7 @@ Bei Berufskollegs wird auf diesem Reiter nach dem **höchsten allgemeinbildenden
 
 Mit dem roten Pfeil werden die Daten der Schule in die Liste aller bisher besuchten Schulen übernommen.
 
-![Schulbesuch](/bilder/wiki/schulbesuch-36e0636a.jpg)
+![Schulbesuch](/bilder/schild2/schueler/schulbesuch.jpg)
 
 <a id="Herkunft_des_Schülers"></a>
 <a id="Herkunft_des_Sch.C3.BClers"></a>
@@ -29,43 +26,14 @@ Bitte beachten Sie, dass die Eintragungen an dieser Stelle nur im ersten Jahr de
 
 Um die Eintragungen für die Statistik näher zu erklären, dient die folgende Tabelle. Hier werden die Felder in Schild-NRW und die Bezeichnungen von IT.NRW gegenübergestellt.
 
-<table v-pre>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr>
-<td>Schild-NRW Name des Feldes</td>
-<td>IT.NRW-Statistik (Statkue.mdb)</td>
-<td>Anzeigefilter in Schild-NRW</td>
-</tr>
-<tr>
-<td>Allg. Herkunft des Schülers</td>
-<td>Herkunftsschulform</td>
-<td>Es wird auf die Schulform der Herkunftsschule gefiltert.</td>
-</tr>
-<tr>
-<td>Versetzung</td>
-<td>Herkunftsart</td>
-<td>Filter auf zulässige Einträge der eigenen Schulform</td>
-</tr>
-<tr>
-<td>Höchster allgem.bildender Abschluss (BK,WBK) Art des Abschlusses (andere Schulen)
-<p>von abgebender Schule</p></td>
-<td>Abgangsart</td>
-<td>Filter auf Schulform und Jahrgang der abgebenden Schule.
-<p>(Hier haben die Bks und WBKs eine feste programminterne Tabelle in Schild-NRW wegen der Dopplungen in der Statkue.mdb)</p></td>
-</tr>
-<tr>
-<td>Art des Abschlusses
-<p>von eigener Schule</p></td>
-<td>Abgangsart</td>
-<td>Filter auf eigene Schulform und Jahrgang</td>
-</tr>
-</tbody>
-</table>
+
+| Schild-NRW Name des Feldes | IT.NRW-Statistik (Statkue.mdb) | Anzeigefilter in Schild-NRW |
+| --- | --- | --- |
+| Allg. Herkunft des Schülers | Herkunftsschulform | Es wird auf die Schulform der Herkunftsschule gefiltert. |
+| Versetzung | Herkunftsart | Filter auf zulässige Einträge der eigenen Schulform |
+| Höchster allgem.bildender Abschluss (BK,WBK) Art des Abschlusses (andere Schulen) <br>von abgebender Schule | Abgangsart | Filter auf Schulform und Jahrgang der abgebenden Schule. <br>(Hier haben die Bks und WBKs eine feste programminterne Tabelle in Schild-NRW wegen der Dopplungen in der Statkue.mdb) |
+| Art des Abschlusses <br>von eigener Schule | Abgangsart | Filter auf eigene Schulform und Jahrgang |
+
 
 ------------------------------------------------------------------------
 
@@ -95,11 +63,11 @@ Die Angaben können Sie nutzen, um einen besseren Überblick zur Schulpflichtüb
 
 An Grundschulen hat diese Eintragung noch einen weiteren Effekt. Alle Schüler, bei denen eine aufnehmende Schule eingetragen ist, werden im [Container](/einstieg/grundlagen/container) mit einer türkisen Hintergrundfarbe dargestellt.
 
-![WechselSchule2](/bilder/wiki/wechselschule2-d86b5481.jpg)
+![WechselSchule2](/bilder/schild2/schueler/wechselschule2.jpg)
 
 Diese Hintergrundfarbe ändert sich dann nochmals auf **grün**, wenn der Haken bei "Aufnahme bestätigt" gesetzt wurde.
 
-![WechselSchule1](/bilder/wiki/wechselschule1-b364d9b3.jpg)
+![WechselSchule1](/bilder/schild2/schueler/wechselschule1.jpg)
 
 Dies soll eine optische Hilfe zur Kontrolle aller Schulanmeldungen sein.
 

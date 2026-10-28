@@ -1,8 +1,5 @@
 ---
 title: "Kurse neu laden (nach Bearbeitung in Kurs42)"
-wiki_title: "Kurse neu laden (nach Bearbeitung in Kurs42)"
-wiki_page_id: 347
-wiki_revision: 1527
 ---
 
 # Kurse neu laden (nach Bearbeitung in Kurs42)

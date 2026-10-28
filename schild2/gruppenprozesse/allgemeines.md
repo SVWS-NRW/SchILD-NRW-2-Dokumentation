@@ -1,13 +1,10 @@
 ---
 title: "Allgemeines"
-wiki_title: "Allgemeines"
-wiki_page_id: 282
-wiki_revision: 3774
 ---
 
 # Allgemeines
 
-![GP-Allgemeines](/bilder/wiki/gp-allgemeines-2a54ac87.jpg)
+![GP-Allgemeines](/bilder/schild2/gruppenprozesse/gp-allgemeines.jpg)
 
 Unter dem Karteireiter "Allgemeines" verbergen sich folgende Gruppenprozesse.
 

@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 1269 · Stand 2014-02-10.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-287.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/gp-faecher-7e1efe3f.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/gruppenprozesse/gp-facher.jpg)
 
-![GP-Fächer.jpg](/bilder/wiki/gp-faecher-7e1efe3f.jpg)
+![GP-Fächer.jpg](/bilder/schild2/gruppenprozesse/gp-facher.jpg)
 
 ## Originalquelltext
 

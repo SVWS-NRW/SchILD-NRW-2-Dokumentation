@@ -1,8 +1,5 @@
 ---
 title: "Schule bearbeiten"
-wiki_title: "Schule bearbeiten"
-wiki_page_id: 206
-wiki_revision: 3867
 ---
 
 # Schule bearbeiten
@@ -11,7 +8,7 @@ Unter diesem Programmpunkt werden die Grundeinstellungen zur Schule vorgenommen.
 
 ------------------------------------------------------------------------
 
-![Schule_bearbeiten](/bilder/wiki/schule-bearbeiten-2860c99a.jpg)
+![Schule_bearbeiten](/bilder/einstieg/erste-schritte/schule-bearbeiten.jpg)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +22,9 @@ Durch Betätigung des "Auswahl"-Buttons kann nachträglich die Schule (Schulnumm
 
 **Weitere Schultexte bearbeiten**
 
-![WeitereSchultexte](/bilder/wiki/weitereschultexte-51764aa9.jpg)
-Weitere Schultexte...
+![WeitereSchultexte](/bilder/einstieg/erste-schritte/weitereschultexte.jpg)
+
+*Weitere Schultexte...*
 
 Hier können Sie zusätzliche Informationen z.B. zu Schulleitung oder anderen Personen hinzufügen, die dann später in der Reporting zum Druck zur Verfügung stehen. Die weiteren Texte werden wie in allen Katalogen hinzugefügt. Auch weitere Bezeichnungen zur Schule, die dann in bestimmten Briefen verwendet werden können, sind hier möglich. Über die Einbindung dieser Texte in Formularen finden Sie Informationen im Bereich [Reporting](/reporting/erstellung/reporting).
 

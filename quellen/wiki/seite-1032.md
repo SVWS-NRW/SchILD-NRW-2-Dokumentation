@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 3958 · Stand 2016-11-25.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1032.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/news-kurs42-009-8feb7e3d.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/tools/kurs42/news-kurs42-009.jpg)
 
-![News_Kurs42_009.jpg](/bilder/wiki/news-kurs42-009-8feb7e3d.jpg)
+![News_Kurs42_009.jpg](/bilder/tools/kurs42/news-kurs42-009.jpg)
 
 ## Originalquelltext
 

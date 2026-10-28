@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 4142 · Stand 2017-05-21.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1125.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/unterbericht-004-ea6cbb04.png)
+[Gesicherte Originaldatei öffnen](/bilder/reporting/erstellung/unterbericht-004.png)
 
-![Unterbericht_004.png](/bilder/wiki/unterbericht-004-ea6cbb04.png)
+![Unterbericht_004.png](/bilder/reporting/erstellung/unterbericht-004.png)
 
 ## Originalquelltext
 

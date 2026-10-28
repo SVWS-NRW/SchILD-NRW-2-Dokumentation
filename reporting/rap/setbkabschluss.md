@@ -1,8 +1,5 @@
 ---
 title: "SetBKAbschluss"
-wiki_title: "SetBKAbschluss"
-wiki_page_id: 86
-wiki_revision: 110
 ---
 
 # SetBKAbschluss
@@ -10,28 +7,27 @@ wiki_revision: 110
 <a id="RAP-Funktion_&quot;SetBKAbschluss&quot;"></a>
 <a id="RAP-Funktion_.22SetBKAbschluss.22"></a>
 
-## RAP-Funktion "SetBKAbschluss"
+## Signatur
 
-## Beschreibung
-
-   procedure SetBKAbschluss(IsAbschluss: Boolean);\
+```pascal
+procedure SetBKAbschluss(IsAbschluss: Boolean);
+```
 
 ## Parameter
 
-   IsAbschluss        - Boolescher Wert, bei 'True' werden die für den Abschluss von\
-                        Berufskolleg-Bildungsgängen relevanten Datenquellen\
-                        (BKfaecher, BKAbschluss. aktiviert und beim Schülerwechsel\
-                        aktualisiert\
-
-## Rückgabewert
-
-   ...\
+```text
+IsAbschluss        - Boolescher Wert, bei 'True' werden die für den Abschluss von
+                     Berufskolleg-Bildungsgängen relevanten Datenquellen
+                     (BKfaecher, BKAbschluss. aktiviert und beim Schülerwechsel
+                     aktualisiert
+```
 
 ## Beispiel
 
-   Analog zu [SetAbitur](/reporting/rap/setabitur)\
-
+Analog zu [SetAbitur](/reporting/rap/setabitur)
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-86) · [SetBKAbschluss – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetBKAbschluss&oldid=110)

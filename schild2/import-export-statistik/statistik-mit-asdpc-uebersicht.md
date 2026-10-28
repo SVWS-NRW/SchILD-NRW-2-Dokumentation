@@ -1,8 +1,5 @@
 ---
 title: "Statistik mit ASDPC Übersicht"
-wiki_title: "Statistik mit ASDPC Übersicht"
-wiki_page_id: 1345
-wiki_revision: 5350
 ---
 
 # Statistik mit ASDPC Übersicht
@@ -31,11 +28,11 @@ Hier finden Sie die sehr [ausführliche Anleitung](/schild2/import-export-statis
 
 Es ist zu beachten, dass ASDPC eingerichtet werden muss. Lesen Sie hier, [wie ASDPC installiert wird](/schild2/import-export-statistik/statistik-mit-asdpc-technik) und wie die [Verschlüsselung](/schild2/import-export-statistik/statistik-mit-asdpc-schluesselmanagement) korrekt eingestellt werden kann.
 
-![Schaubild](/bilder/wiki/schaubild-b331026f.png)
+![Schaubild](/bilder/schild2/import-export-statistik/schaubild.png)
 
 Diesen Schaubild ist der grundlegende Ablauf der Vorbereitung zu entnehmen.
 
-![Schaubild_ASDPC2](/bilder/wiki/schaubild-asdpc2-2bcea4ae.png)
+![Schaubild_ASDPC2](/bilder/schild2/import-export-statistik/schaubild-asdpc2.png)
 
 Dieses Schaubild zeigt schematisch den Ablauf der Statistik.
 

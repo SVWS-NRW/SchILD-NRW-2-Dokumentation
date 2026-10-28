@@ -1,13 +1,10 @@
 ---
 title: "C01 Berufsabschluss/Fachhochschulreife (ohne Berufspraktikum) BAB/FHR 3j; VZ"
-wiki_title: "C01 Berufsabschluss/Fachhochschulreife (ohne Berufspraktikum) BAB/FHR 3j; VZ"
-wiki_page_id: 1211
-wiki_revision: 4762
 ---
 
 # C01 Berufsabschluss/Fachhochschulreife (ohne Berufspraktikum) BAB/FHR 3j; VZ
 
-![BK_Abschluss_C01](/bilder/wiki/bk-abschluss-c01-a42a328f.png)
+![BK_Abschluss_C01](/bilder/zeugnisse/berufskolleg/bk-abschluss-c01.png)
 
 ---
 

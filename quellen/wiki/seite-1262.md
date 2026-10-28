@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 4982 · Stand 2021-10-20.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1262.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/asdpc-he-hauptfenster-4181ead7.png)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/import-export-statistik/asdpc-he-hauptfenster.png)
 
-![ASDPC_HE_Hauptfenster.png](/bilder/wiki/asdpc-he-hauptfenster-4181ead7.png)
+![ASDPC_HE_Hauptfenster.png](/bilder/schild2/import-export-statistik/asdpc-he-hauptfenster.png)
 
 ## Originalquelltext
 

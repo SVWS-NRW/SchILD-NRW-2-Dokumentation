@@ -1,8 +1,5 @@
 ---
 title: "Adress-Arten"
-wiki_title: "Adress-Arten"
-wiki_page_id: 194
-wiki_revision: 529
 ---
 
 # Adress-Arten

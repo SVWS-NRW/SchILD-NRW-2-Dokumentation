@@ -1,8 +1,5 @@
 ---
 title: "ReplaceTextEx"
-wiki_title: "ReplaceTextEx"
-wiki_page_id: 64
-wiki_revision: 4732
 ---
 
 # ReplaceTextEx
@@ -10,15 +7,16 @@ wiki_revision: 4732
 <a id="RAP-Funktion_&quot;ReplaceTextEx&quot;"></a>
 <a id="RAP-Funktion_.22ReplaceTextEx.22"></a>
 
-## RAP-Funktion "ReplaceTextEx"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 function ReplaceTextEx(aSourceText, aSearchText,
                        aReplaceText: String): *   String;
-Im Unterschied zu ReplaceText berücksichtigt ReplaceTextEx Groß- und Kleinschreibung.
 ```
+
+## Beschreibung
+
+Im Unterschied zu ReplaceText berücksichtigt ReplaceTextEx Groß- und Kleinschreibung.
 
 ## Parameter
 
@@ -31,9 +29,7 @@ aReplaceText       -
 
 ## Rückgabewert
 
-```text
 Veränderter Quelltext
-```
 
 ## Beispiel
 
@@ -43,5 +39,7 @@ Memo1.Text:=ReplaceTextEx(Memo1.Text,'$VORNAME$',Schueler['Vorname']);
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-64) · [ReplaceTextEx – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ReplaceTextEx&oldid=4732)

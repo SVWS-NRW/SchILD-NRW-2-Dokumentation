@@ -1,8 +1,5 @@
 ---
 title: "ReadDateTime"
-wiki_title: "ReadDateTime"
-wiki_page_id: 60
-wiki_revision: 81
 ---
 
 # ReadDateTime
@@ -10,9 +7,7 @@ wiki_revision: 81
 <a id="RAP-Funktion_&quot;ReadDateTime&quot;"></a>
 <a id="RAP-Funktion_.22ReadDateTime.22"></a>
 
-## RAP-Funktion "ReadDateTime"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 function ReadDateTime(aPrompt: String; var D,T1,T2: TDateTime; IsIntervall: Boolean): Boolean;
@@ -31,9 +26,7 @@ IsIntervall        - Falls True, wird die Uhrzeit (Ende) eingeblendet
 
 ## Rückgabewert
 
-```text
 True: Dialog durch „Ok“ beendet, False sonst
-```
 
 ## Beispiel
 
@@ -53,5 +46,7 @@ Procedure Label1OnGetText(var Text: String);
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-60) · [ReadDateTime – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ReadDateTime&oldid=81)

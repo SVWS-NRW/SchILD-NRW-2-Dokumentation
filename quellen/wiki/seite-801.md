@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 3105 · Stand 2015-05-13.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-801.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/ger-2-349be235.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/unterricht-kataloge/ger-2.jpg)
 
-![GER-2.JPG](/bilder/wiki/ger-2-349be235.jpg)
+![GER-2.JPG](/bilder/schild2/unterricht-kataloge/ger-2.jpg)
 
 ## Originalquelltext
 

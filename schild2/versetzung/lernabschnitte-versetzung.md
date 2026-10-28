@@ -1,13 +1,10 @@
 ---
 title: "Lernabschnitte, Versetzung"
-wiki_title: "Lernabschnitte, Versetzung"
-wiki_page_id: 292
-wiki_revision: 1278
 ---
 
 # Lernabschnitte, Versetzung
 
-![GP-Lernabschnitte](/bilder/wiki/gp-lernabschnitte-40925f7f.jpg)
+![GP-Lernabschnitte](/bilder/schild2/versetzung/gp-lernabschnitte.jpg)
 
 Unter dem Karteireiter "Lernabschnitte, Versetzung" verbergen sich folgende Gruppenprozesse.
 

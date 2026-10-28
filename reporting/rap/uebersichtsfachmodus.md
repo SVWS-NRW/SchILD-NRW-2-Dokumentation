@@ -1,8 +1,5 @@
 ---
 title: "UebersichtsfachModus"
-wiki_title: "UebersichtsfachModus"
-wiki_page_id: 103
-wiki_revision: 127
 ---
 
 # UebersichtsfachModus
@@ -10,12 +7,14 @@ wiki_revision: 127
 <a id="RAP-Funktion_&quot;UebersichtsfachModus&quot;"></a>
 <a id="RAP-Funktion_.22UebersichtsfachModus.22"></a>
 
-## RAP-Funktion "UebersichtsfachModus"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 Procedure UebersichtsfachModus(Const Modus : String);
+```
+
+## Beschreibung
+
 Durch den Parameter dieser Prozedur wird die Einsortierung
 der Leistungsdaten in die Leistungsübersichten gesteuert.
 Möglich sind die drei Modi
@@ -26,7 +25,6 @@ Möglich sind die drei Modi
               Kursbezeichnungen werden in verschiedene Spalten einsortiert
  Der Aufruf von 'UebersichtsfachModus('NurFach')' entspricht dem
  Aufruf der Funktion 'KursbezIgnorieren(True)'.
-```
 
 ## Parameter
 
@@ -34,11 +32,6 @@ Möglich sind die drei Modi
 Modus : String, zulässig sind 'NurFach', 'KursArt' oder 'KursBezeichnung'
 ```
 
-## Rückgabewert
-
-```text
-...
-```
 
 ## Beispiel
 
@@ -58,5 +51,7 @@ Procedure ReportBeforePrint;
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-103) · [UebersichtsfachModus – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=UebersichtsfachModus&oldid=127)

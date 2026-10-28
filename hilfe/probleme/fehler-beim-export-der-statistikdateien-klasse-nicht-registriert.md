@@ -1,8 +1,5 @@
 ---
 title: "Fehler beim Export der Statistikdateien - Klasse nicht registriert"
-wiki_title: "Fehler beim Export der Statistikdateien - Klasse nicht registriert"
-wiki_page_id: 1361
-wiki_revision: 5469
 ---
 
 # Fehler beim Export der Statistikdateien - Klasse nicht registriert
@@ -17,8 +14,9 @@ Sie haben eine Serverinstallation und beim Aufruf des Menüpunkts Schulverwaltun
 
 In diesem Fall wurde bei der Installation vergessen, die Statistikkomponenten am Client zu registrieren. Rufen Sie Schild-NRW zunächst mit der rechten Maustaste als Administrator auf!
 
-![Adminzugriff](/bilder/wiki/adminzugriff-bcfaa136.jpg)
-Schild-NRW als Administrator starten.
+![Adminzugriff](/bilder/hilfe/probleme/adminzugriff.jpg)
+
+*Schild-NRW als Administrator starten.*
 
 Gehen Sie dann unter "Schulverwaltung \> Statistik / amtliche Schuldaten \> Hilfe bei Problemen". Klicken Sie dort die Schaltfläche "Dateien registrieren".Danach sollte die Fehlermeldung weg sein und der Export sollte möglich sein. Sollte der Button nicht anklickbar sein, so haben Sie keine Administratorenrechte auf dem PC!
 

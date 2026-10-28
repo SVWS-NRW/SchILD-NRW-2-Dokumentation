@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2806 · Stand 2015-02-10.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-724.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/nmfk-1-ea885f7a.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/unterricht-kataloge/nmfk-1.jpg)
 
-![NMFK-1.JPG](/bilder/wiki/nmfk-1-ea885f7a.jpg)
+![NMFK-1.JPG](/bilder/schild2/unterricht-kataloge/nmfk-1.jpg)
 
 ## Originalquelltext
 

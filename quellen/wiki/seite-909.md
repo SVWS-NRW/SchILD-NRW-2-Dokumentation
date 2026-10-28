@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 3442 · Stand 2015-08-17.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-909.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/extmod-02-028ecfc5.png)
+[Gesicherte Originaldatei öffnen](/bilder/zeugnisse/vorbereitung/extmod-02.png)
 
-![ExtMod-02.png](/bilder/wiki/extmod-02-028ecfc5.png)
+![ExtMod-02.png](/bilder/zeugnisse/vorbereitung/extmod-02.png)
 
 ## Originalquelltext
 

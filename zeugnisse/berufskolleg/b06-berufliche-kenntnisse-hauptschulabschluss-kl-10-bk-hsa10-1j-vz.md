@@ -1,13 +1,10 @@
 ---
 title: "B06 Berufliche Kenntnisse/Hauptschulabschluss Kl. 10 (BK/HSA10; 1j. VZ)"
-wiki_title: "B06 Berufliche Kenntnisse/Hauptschulabschluss Kl. 10 (BK/HSA10; 1j. VZ)"
-wiki_page_id: 1207
-wiki_revision: 4758
 ---
 
 # B06 Berufliche Kenntnisse/Hauptschulabschluss Kl. 10 (BK/HSA10; 1j. VZ)
 
-![BK_Abschluss_B06](/bilder/wiki/bk-abschluss-b06-60c3c218.png)
+![BK_Abschluss_B06](/bilder/zeugnisse/berufskolleg/bk-abschluss-b06.png)
 
 ---
 

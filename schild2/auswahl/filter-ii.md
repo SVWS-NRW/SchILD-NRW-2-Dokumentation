@@ -1,13 +1,10 @@
 ---
 title: "Filter II"
-wiki_title: "Filter II"
-wiki_page_id: 279
-wiki_revision: 1192
 ---
 
 # Filter II
 
-![FilterII01](/bilder/wiki/filterii01-8abb4560.jpg)
+![FilterII01](/bilder/schild2/auswahl/filterii01.jpg)
 
 Um Schülermengen zu erhalten, die sich nicht über die Auswahlmöglichkeiten des Attribut-Filters und des Filters I selektieren lassen, benötigt man den Filter II.
 
@@ -49,7 +46,7 @@ Je nach vorheriger Auswahl wird hier ein Feld für eine Textangabe oder eine vor
 
 **In Filterbedingungen übernehmen**
 
-![FilterII02](/bilder/wiki/filterii02-3ab603e9.jpg)
+![FilterII02](/bilder/schild2/auswahl/filterii02.jpg)
 
 Die in der oberen Zeile erstellte Filterbedingung wird als Klartext-Befehl und auch als SQL-Befehl in die entsprechenden Fenster übertragen.
 

@@ -1,13 +1,10 @@
 ---
 title: "Container"
-wiki_title: "Container"
-wiki_page_id: 181
-wiki_revision: 1108
 ---
 
 # Container
 
-![Container_re_Maus](/bilder/wiki/container-re-maus-321a85cc.jpg)
+![Container_re_Maus](/bilder/einstieg/grundlagen/container-re-maus.jpg)
 
 Der Container zeigt die aktuelle Schülerauswahl. In der linken unteren Ecke wird angezeigt, wie viele Schüler in der Auswahl sind.
 

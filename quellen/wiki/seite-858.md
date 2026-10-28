@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 3280 · Stand 2015-07-21.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-858.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/db-kopieren-02-163262af.png)
+[Gesicherte Originaldatei öffnen](/bilder/administration/datenbanken/db-kopieren-02.png)
 
-![DB-kopieren-02.png](/bilder/wiki/db-kopieren-02-163262af.png)
+![DB-kopieren-02.png](/bilder/administration/datenbanken/db-kopieren-02.png)
 
 ## Originalquelltext
 

@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 4127 · Stand 2017-03-21.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-1118.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/lupo-hochschreiben-20e7fc24.png)
+[Gesicherte Originaldatei öffnen](/bilder/tools/lupo/lupo-hochschreiben.png)
 
-![Lupo_hochschreiben.png](/bilder/wiki/lupo-hochschreiben-20e7fc24.png)
+![Lupo_hochschreiben.png](/bilder/tools/lupo/lupo-hochschreiben.png)
 
 ## Originalquelltext
 

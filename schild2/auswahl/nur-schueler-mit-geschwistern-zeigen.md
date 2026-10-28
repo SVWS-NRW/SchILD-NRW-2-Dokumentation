@@ -1,8 +1,5 @@
 ---
 title: "Nur Schüler mit Geschwistern zeigen"
-wiki_title: "Nur Schüler mit Geschwistern zeigen"
-wiki_page_id: 151
-wiki_revision: 1033
 ---
 
 # Nur Schüler mit Geschwistern zeigen

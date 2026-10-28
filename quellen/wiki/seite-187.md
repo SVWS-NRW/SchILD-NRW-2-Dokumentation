@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 510 · Stand 2013-12-09.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-187.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/telefonansprechpartner-7b2d7846.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/unterricht-kataloge/telefonansprechpartner.jpg)
 
-![TelefonAnsprechpartner.jpg](/bilder/wiki/telefonansprechpartner-7b2d7846.jpg)
+![TelefonAnsprechpartner.jpg](/bilder/schild2/unterricht-kataloge/telefonansprechpartner.jpg)
 
 ## Originalquelltext
 

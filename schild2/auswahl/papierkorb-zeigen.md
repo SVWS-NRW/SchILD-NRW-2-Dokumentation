@@ -1,8 +1,5 @@
 ---
 title: "Papierkorb zeigen"
-wiki_title: "Papierkorb zeigen"
-wiki_page_id: 967
-wiki_revision: 3715
 ---
 
 # Papierkorb zeigen
@@ -13,7 +10,7 @@ Diese Schüler liegen in einer Art "Papierkorb", damit sie bei versehentlicher L
 
 Haben Sie die Anzeige des Papierkorbs gewählt, so können Sie über die rechte Maustaste auf den Schülernamen den Menüpunkt "Löschmarkierung aufheben" wählen und der Schülerdatensatz wird wieder hergestellt.
 
-![Löschung](/bilder/wiki/loeschung-8b55bd8a.jpg)
+![Löschung](/bilder/schild2/auswahl/loschung.jpg)
 
 Es bietet sich aber auch die Möglichkeit, diese Schüler über die [Gruppenprozesse](/schild2/gruppenprozesse/gruppenprozesse) zu behandeln!
 

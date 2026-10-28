@@ -1,8 +1,5 @@
 ---
 title: "Export für Lupo"
-wiki_title: "Export für Lupo"
-wiki_page_id: 263
-wiki_revision: 1159
 ---
 
 # Export für Lupo
@@ -17,7 +14,7 @@ Filtern Sie bitte vor dem Export die Schülergruppe, für die Sie eine Lupo-Date
 
 Dieser Export ermöglich Ihnen die Erstellung einer neuen Lupo-Datei. Wählen Sie dort im Export-Fenster "Direkt in Lupo-Datei" und wählen Sie einen Pfad aus. Diese Export-Methode erstellt für Sie eine fertige Lupo-Datei mit allen Angaben zu Schule und Fächern und Ihren Schülern. Ein Umweg über die Schnittstellendateien ist dann nicht mehr nötig.
 
-![LupoExport1](/bilder/wiki/lupoexport1-21f9425c.jpg)
+![LupoExport1](/bilder/schild2/import-export-statistik/lupoexport1.jpg)
 
 Wählen Sie die Prüfungsordnung, die für die Schüler geprüft werden soll. Die Angabe einer E-Mail-Adresse ist optional und kann auch später noch in Lupo nachgetragen werden.
 
@@ -34,7 +31,7 @@ Wenn Sie den Export in Schnittstellendateien gewählt haben, erzeugt Schild-NRW 
 
 Hier können Sie einen Export-Ordner wählen und dann die Schülerdaten der gefilterten Schüler im [Schnittstellenformat](/schild2/import-export-statistik/schnittstelle-schild-nrw) exportieren.
 
-![LupoExport2](/bilder/wiki/lupoexport2-a87aeed8.jpg)
+![LupoExport2](/bilder/schild2/import-export-statistik/lupoexport2.jpg)
 
 Diese Exportmöglichkeit ist geschaffen worden, um z.B. Schüler, die später aufgenommen wurden, noch nachträglich in eine bestehende Lupo-Datei einfügen zu können.
 

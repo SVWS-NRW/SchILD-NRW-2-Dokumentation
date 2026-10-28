@@ -1,13 +1,10 @@
 ---
 title: "Filter I"
-wiki_title: "Filter I"
-wiki_page_id: 277
-wiki_revision: 1265
 ---
 
 # Filter I
 
-![FilterI01](/bilder/wiki/filteri01-b7f7d381.jpg)
+![FilterI01](/bilder/schild2/auswahl/filteri01.jpg)
 
 Eine erweiterte Selektionsmöglichkeit für Schülermengen bietet der Filter I.
 
@@ -23,7 +20,7 @@ Die 'weiteren Daten' stellen Auswahlfilter zu den Erziehungsberechtigten und zu 
 
 Im Bereich der 'Leistungsdaten' kann man neben anderen z. B. über das Schuljahr, den Jahrgang oder die Klasse, den Klassenlehrer, die Abschlussart und Versetzungsvermerke filtern.
 
-![FilterI02](/bilder/wiki/filteri02-60bbd537.jpg)
+![FilterI02](/bilder/schild2/auswahl/filteri02.jpg)
 
 *Hinweise:*
 
@@ -31,7 +28,7 @@ Wenn ein roter Pfeil wie in der Abbildung links zu sehen ist, kann man eine Mehr
 
 Um eine einzelne Bedingung zu negieren, führt man einen Doppelclick auf die entsprechende Bedingung aus. Diese wird dann **fett** und *kursiv* dargestellt.
 
-![FilterI03](/bilder/wiki/filteri03-f80a7919.jpg)
+![FilterI03](/bilder/schild2/auswahl/filteri03.jpg)
 
 Die Abbildung rechts zeigt zum Beispiel die Filterung nach Jahrgang 8, ohne die Klasse 8b.
 

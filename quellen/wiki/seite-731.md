@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 2830 · Stand 2015-02-16.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-731.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/erzieherbrief-02-be5f8363.png)
+[Gesicherte Originaldatei öffnen](/bilder/reporting/erstellung/erzieherbrief-02.png)
 
-![Erzieherbrief-02.png](/bilder/wiki/erzieherbrief-02-be5f8363.png)
+![Erzieherbrief-02.png](/bilder/reporting/erstellung/erzieherbrief-02.png)
 
 ## Originalquelltext
 

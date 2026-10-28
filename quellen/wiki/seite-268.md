@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 1149 · Stand 2014-01-29.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-268.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/uvdtxtimport-e2a2f800.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/import-export-statistik/uvdtxtimport.jpg)
 
-![UVDtxtImport.jpg](/bilder/wiki/uvdtxtimport-e2a2f800.jpg)
+![UVDtxtImport.jpg](/bilder/schild2/import-export-statistik/uvdtxtimport.jpg)
 
 ## Originalquelltext
 

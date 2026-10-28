@@ -1,8 +1,5 @@
 ---
 title: "Zeugnisvorlagen zuordnen"
-wiki_title: "Zeugnisvorlagen zuordnen"
-wiki_page_id: 371
-wiki_revision: 1799
 ---
 
 # Zeugnisvorlagen zuordnen
@@ -11,9 +8,9 @@ In diesem Dialog können Sie bestimmte Reports zu Schülergruppen mit ausgewähl
 
 Unter [Gruppenprozesse](/schild2/gruppenprozesse/gruppenprozesse) \> [Noten, Zeugnisvorbereitung](/zeugnisse/vorbereitung/noten-zeugnisvorbereitung) steht Ihnen dann die Mögllichkeit zur Verfügung, diese zugeordneten Zeugnisformulare auf einmal zu drucken.
 
-![ZuegnisZU01](/bilder/wiki/zuegniszu01-8382e1fe.jpg)
+![ZuegnisZU01](/bilder/schild2/unterricht-kataloge/zuegniszu01.jpg)
 
-![ZeugnisZU02](/bilder/wiki/zeugniszu02-d59a5c82.jpg)
+![ZeugnisZU02](/bilder/schild2/unterricht-kataloge/zeugniszu02.jpg)
 
 Wählen Sie unten im Menü-Dialog aus, welche Kriterien für den Druck des Formulares gelten sollen. Merkmale, die leer sind, werden bei der Zuordnung nicht berücksichtigt!
 

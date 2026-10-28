@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 1573 · Stand 2014-03-05.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-363.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/gp-sprachenfolgezuweisen-0e3f70dc.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/gruppenprozesse/gp-sprachenfolgezuweisen.jpg)
 
-![GP-Sprachenfolgezuweisen.jpg](/bilder/wiki/gp-sprachenfolgezuweisen-0e3f70dc.jpg)
+![GP-Sprachenfolgezuweisen.jpg](/bilder/schild2/gruppenprozesse/gp-sprachenfolgezuweisen.jpg)
 
 ## Originalquelltext
 

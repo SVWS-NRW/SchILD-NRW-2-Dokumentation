@@ -1,8 +1,5 @@
 ---
 title: "Programm-Einstellungen"
-wiki_title: "Programm-Einstellungen"
-wiki_page_id: 247
-wiki_revision: 4706
 ---
 
 # Programm-Einstellungen
@@ -317,7 +314,7 @@ Alter, ab dem "Sie" in Briefanreden verwendet werden soll.
 
 Mit dieser Einstellung können Sie Einfluss auf die im Report-Generator verwendetete Briefanrede nehmen. Wenn Sie alle Schüler mit "Sie" anreden wollen, setzen Sie das Alter entsprechend herab.
 
-![Reportverzeichnisse](/bilder/wiki/reportverzeichnisse-15553f8c.jpg)
+![Reportverzeichnisse](/bilder/administration/benutzer-einstellungen/reportverzeichnisse.jpg)
 
 An dieser Stelle können Sie festlegen, an welcher Stelle Schild-NRW nach Ihren Report-Dateien sucht. In einer Serverinstallation sind hier üblicherweise Netzwerkpfade oder Netzwerklaufwerke angelegt.
 
@@ -329,11 +326,11 @@ Diese Option bewirkt, dass Schild-NRW automatisch im eigenen Installationsverzei
 
 #### Schnellzugriff
 
-![Schnellzugriff](/bilder/wiki/schnellzugriff-88636147.jpg)
+![Schnellzugriff](/bilder/administration/benutzer-einstellungen/schnellzugriff.jpg)
 
 Auf diesem Reiter können Sie den Schnellzugriff für Repoortvorlagen aktivieren. Ist der Haken gesetzt, erscheint beim Start von Schild-NRW ein schwebendes Fenster, in dem man auf vordefinierte Reports mit einem Klick zugreifen kann. Diese Reports müssen im Ordner "Schnellzugriff" liegen, welcher wiederum im Ordner Standard angelegt sein muss. Ist dieser Ordner vorhanden und sind dort Reports hinterlegt, so können diese mit einer Beschreibung vordefiniert werden.
 
-![Schnellzugriff-Fenster](/bilder/wiki/schnellzugriff-fenster-8a4ea0aa.jpg)
+![Schnellzugriff-Fenster](/bilder/administration/benutzer-einstellungen/schnellzugriff-fenster.jpg)
 
 Das Schnellzugriff-Fenster erscheint immer beim Start von Schild-NRW, es kann aber über das "Schließen"-Symbol geschlossen werden. Ein Klick auf das "Drucken"-Symbol im Hauptfenster öffnet den Schnellzugriff dann wieder!
 
@@ -341,7 +338,7 @@ Das Schnellzugriff-Fenster erscheint immer beim Start von Schild-NRW, es kann ab
 
 #### SchildChat
 
-![Chatmodul04](/bilder/wiki/chatmodul04-54eeaa5b.jpg)
+![Chatmodul04](/bilder/administration/benutzer-einstellungen/chatmodul04.jpg)
 
 Hier werden die Grundeinstellungen für das **[Chatmodul](/hilfe/zusatzprogramme/schildchat-exe)** gesetzt. Wird das Modul aktiviert, so steht es dem Admin unter **[Extras](/administration/benutzer-einstellungen/extras)** zur Verfügung und kann dort gestartet werden.
 
@@ -357,7 +354,7 @@ Das Zeitintervall legt fest, in welchen Abständen die Client nach dem Chatserve
 
 In diesem Menü können Sie durch Doppelklick auf die Spalte "Farbe" eine individuelle Gestaltung für die vorhandenen Fächergruppen vornehmen. Viele Schulen nutzen diese Einstellungen zur besseren Übersichtlichkeit der Fächerliste in den Leistungsdaten-Tabellen.
 
-![Fächerfarben](/bilder/wiki/faecherfarben-694ff39b.jpg)
+![Fächerfarben](/bilder/administration/benutzer-einstellungen/facherfarben.jpg)
 
 ------------------------------------------------------------------------
 
@@ -365,7 +362,7 @@ In diesem Menü können Sie durch Doppelklick auf die Spalte "Farbe" eine indivi
 
 ## Plugins
 
-![Benutzerverwaltung_plugin](/bilder/wiki/benutzerverwaltung-plugin-027dbd7d.jpg)
+![Benutzerverwaltung_plugin](/bilder/administration/benutzer-einstellungen/benutzerverwaltung-plugin.jpg)
 
 Unter dem Menüeintrag "Extras" -\> "Programm-Einstellungen" findet sich auf dem Karteireiter "Plugins" eine Liste von Plugins, die Sie durch Setzen eines entsprechenden Häkchens aktivieren können.
 

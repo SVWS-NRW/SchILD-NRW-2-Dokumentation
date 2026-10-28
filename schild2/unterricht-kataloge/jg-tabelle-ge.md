@@ -1,13 +1,10 @@
 ---
 title: "JG-Tabelle-GE"
-wiki_title: "JG-Tabelle-GE"
-wiki_page_id: 237
-wiki_revision: 1038
 ---
 
 # JG-Tabelle-GE
 
-![JG Tabelle GE](/bilder/wiki/jg-tabelle-ge-f1bda336.jpg)
+![JG Tabelle GE](/bilder/schild2/unterricht-kataloge/jg-tabelle-ge.jpg)
 
 Typische Jahrgangstabelle für eine Gesamtschule mit Quartalsbetrieb.
 

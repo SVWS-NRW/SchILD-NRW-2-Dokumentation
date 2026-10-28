@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 4245 · Stand 2019-11-11.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-427.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/teilleistungs-arten-b38e9152.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/unterricht-kataloge/teilleistungs-arten.jpg)
 
-![Teilleistungs-Arten.jpg](/bilder/wiki/teilleistungs-arten-b38e9152.jpg)
+![Teilleistungs-Arten.jpg](/bilder/schild2/unterricht-kataloge/teilleistungs-arten.jpg)
 
 ## Originalquelltext
 

@@ -1,13 +1,10 @@
 ---
 title: "A03 Fachklassen/erweiterte Zusatzqualifikation (BS/ZQ; TZ)"
-wiki_title: "A03 Fachklassen/erweiterte Zusatzqualifikation (BS/ZQ; TZ)"
-wiki_page_id: 1201
-wiki_revision: 4751
 ---
 
 # A03 Fachklassen/erweiterte Zusatzqualifikation (BS/ZQ; TZ)
 
-![BK_Abschluss_A03](/bilder/wiki/bk-abschluss-a03-17746248.png)
+![BK_Abschluss_A03](/bilder/zeugnisse/berufskolleg/bk-abschluss-a03.png)
 
 ---
 

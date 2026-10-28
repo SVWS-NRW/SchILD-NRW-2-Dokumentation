@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 3733 · Stand 2015-12-03.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-975.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/chat-starten-f11f03c1.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/tools/weitere/chat-starten.jpg)
 
-![Chat_starten.jpg](/bilder/wiki/chat-starten-f11f03c1.jpg)
+![Chat_starten.jpg](/bilder/tools/weitere/chat-starten.jpg)
 
 ## Originalquelltext
 

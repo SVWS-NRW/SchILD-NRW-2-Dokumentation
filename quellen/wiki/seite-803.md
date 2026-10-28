@@ -11,9 +11,9 @@ Gesicherte Wiki-Seite · Namensraum 6 · Version 3107 · Stand 2015-05-13.
 
 [Originaldaten herunterladen](/dateien/quellen/seite-803.json) · [Zum Quellenarchiv](/quellen/)
 
-[Gesicherte Originaldatei öffnen](/bilder/wiki/ger-4-40635bed.jpg)
+[Gesicherte Originaldatei öffnen](/bilder/schild2/unterricht-kataloge/ger-4.jpg)
 
-![GER-4.JPG](/bilder/wiki/ger-4-40635bed.jpg)
+![GER-4.JPG](/bilder/schild2/unterricht-kataloge/ger-4.jpg)
 
 ## Originalquelltext
 

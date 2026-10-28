@@ -1,8 +1,5 @@
 ---
 title: "NurErzieherMitAnschreiben"
-wiki_title: "NurErzieherMitAnschreiben"
-wiki_page_id: 55
-wiki_revision: 76
 ---
 
 # NurErzieherMitAnschreiben
@@ -10,9 +7,7 @@ wiki_revision: 76
 <a id="RAP-Funktion_&quot;NurErzieherMitAnschreiben&quot;"></a>
 <a id="RAP-Funktion_.22NurErzieherMitAnschreiben.22"></a>
 
-## RAP-Funktion "NurErzieherMitAnschreiben"
-
-## Beschreibung
+## Signatur
 
 ```pascal
 procedure NurErzieherMitAnschreiben(Filtern: Boolean);
@@ -25,11 +20,6 @@ Filtern  - TRUE, falls nur Erzieher berücksichtigt werden sollen, bei
            denen das Flag „Erhält Anschreiben“ gesetzt ist.
 ```
 
-## Rückgabewert
-
-```text
-...
-```
 
 ## Beispiel
 
@@ -47,5 +37,7 @@ end;
 
 
 ---
+
+[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-55) · [NurErzieherMitAnschreiben – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=NurErzieherMitAnschreiben&oldid=76)

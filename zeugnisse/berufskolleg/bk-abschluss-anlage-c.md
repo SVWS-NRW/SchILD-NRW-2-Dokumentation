@@ -1,8 +1,5 @@
 ---
 title: "BK-Abschluss:Anlage-C"
-wiki_title: "BK-Abschluss:Anlage-C"
-wiki_page_id: 1195
-wiki_revision: 4743
 ---
 
 # BK-Abschluss:Anlage-C
