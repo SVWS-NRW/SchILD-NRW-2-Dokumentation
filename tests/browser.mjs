@@ -60,7 +60,7 @@ try {
   assert.equal(await page.locator('a[href^="/dateien/handbuecher/"]').count(),0,'Zusätzliche Downloads sind noch verlinkt')
   await page.goto(base+'/hilfe/zusatzprogramme/lupo-lupo.html',{waitUntil:'networkidle'})
   await page.waitForURL('**/tools/lupo.html')
-  assert(await page.locator('.VPNavBarMenu a[href="/tools/"]').evaluate(e=>e.classList.contains('active')),'Alte LuPO-Adresse muss Tools im Kopfmenü aktivieren')
+  assert(await page.locator('.VPNavBarMenu').getByRole('link',{name:'Tools',exact:true}).evaluate(e=>e.classList.contains('active')),'Alte LuPO-Adresse muss Tools im Kopfmenü aktivieren')
   await page.goto(base+'/schild2/import-export-statistik/statistik-mit-asdpc-uebersicht-1346.html',{waitUntil:'networkidle'})
   await page.waitForURL('**/statistik-mit-asdpc-uebersicht.html')
   await page.goto(base+'/hilfe/zusatzprogramme/prognos-analyseverfahren-klasse.html',{waitUntil:'networkidle'})
