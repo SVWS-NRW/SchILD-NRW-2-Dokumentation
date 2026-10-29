@@ -5,358 +5,30 @@
       "text": "Datei",
       "link": "/administration/datenbanken/datei",
       "source_title": "Datei",
-      "items": []
-    },
-    {
-      "id": "menue-2",
-      "text": "Hauptfenster",
-      "link": "/einstieg/grundlagen/hauptfenster",
-      "source_title": "Hauptfenster",
       "items": [
         {
-          "id": "menue-3",
-          "text": "Karteikästen",
-          "link": "/einstieg/grundlagen/karteikasten",
-          "source_title": "Karteikasten",
-          "items": []
+          "id": "datei-drucker",
+          "text": "Drucker einrichten",
+          "items": [],
+          "link": "/administration/datenbanken/datei#drucker-einrichten"
         },
         {
-          "id": "menue-4",
-          "text": "Schnellfilter",
-          "link": "/einstieg/grundlagen/hauptfenster#Schnellfilter",
-          "source_title": "Hauptfenster",
-          "items": [
-            {
-              "id": "menue-menue-4-1",
-              "text": "Auswahlmenü",
-              "link": "/schild2/auswahl/auswahl",
-              "source_title": "Auswahl",
-              "items": []
-            },
-            {
-              "id": "menue-menue-4-2",
-              "text": "Filter I",
-              "link": "/schild2/auswahl/filter-i",
-              "source_title": "Filter I",
-              "items": []
-            },
-            {
-              "id": "menue-menue-4-3",
-              "text": "Individualdaten I",
-              "link": "/schild2/schueler/individual-daten-i",
-              "source_title": "Individual-Daten I",
-              "items": []
-            },
-            {
-              "id": "menue-menue-4-4",
-              "text": "Individualdaten II",
-              "link": "/schild2/schueler/individual-daten-ii",
-              "source_title": "Individual-Daten II",
-              "items": []
-            },
-            {
-              "id": "menue-menue-4-5",
-              "text": "Erziehungsberechtigte",
-              "link": "/schild2/schueler/erz-berechtigte",
-              "source_title": "Erz.-Berechtigte",
-              "items": []
-            },
-            {
-              "id": "menue-menue-4-6",
-              "text": "Schulbesuch",
-              "link": "/schild2/schueler/schulbesuch",
-              "source_title": "Schulbesuch",
-              "items": []
-            },
-            {
-              "id": "menue-menue-4-7",
-              "text": "Weitere Adressen",
-              "link": "/schild2/schueler/weitere-adressen",
-              "source_title": "Weitere Adressen",
-              "items": []
-            },
-            {
-              "id": "menue-menue-4-8",
-              "text": "Aktuelles Halbjahr",
-              "link": "/zeugnisse/vorbereitung/akt-halbjahr",
-              "source_title": "Akt. Halbjahr",
-              "items": []
-            },
-            {
-              "id": "menue-menue-4-9",
-              "text": "Laufbahninformationen",
-              "link": "/schild2/schueler/laufbahninfo",
-              "source_title": "Laufbahninfo",
-              "items": []
-            },
-            {
-              "id": "menue-menue-4-10",
-              "text": "Fördermaßnahmen",
-              "link": "/schild2/schueler/foerdermassnahmen",
-              "source_title": "Fördermaßnahmen",
-              "items": []
-            },
-            {
-              "id": "menue-menue-4-11",
-              "text": "Schulischer FHR-Teil",
-              "link": "/zeugnisse/sekundarstufen/fhr",
-              "source_title": "FHR",
-              "items": []
-            },
-            {
-              "id": "menue-menue-4-12",
-              "text": "BK-Abschlussverfahren",
-              "link": "/zeugnisse/berufskolleg/bk-abschluss",
-              "source_title": "BK-Abschluss",
-              "items": []
-            },
-            {
-              "id": "menue-menue-4-13",
-              "text": "Abitur",
-              "link": "/zeugnisse/sekundarstufen/abitur",
-              "source_title": "Abitur",
-              "items": []
-            },
-            {
-              "id": "menue-menue-4-14",
-              "text": "Dokumentenverwaltung",
-              "link": "/administration/benutzer-einstellungen/dokumentenverwaltung",
-              "source_title": "Dokumentenverwaltung",
-              "items": []
-            },
-            {
-              "id": "menue-menue-4-15",
-              "text": "ZP10 und ZK10",
-              "link": "/zeugnisse/sekundarstufen/zp10-zk10",
-              "source_title": "ZP10/ZK10",
-              "items": []
-            }
-          ]
+          "id": "datei-reparieren",
+          "text": "Datenbank komprimieren und reparieren",
+          "items": [],
+          "link": "/administration/datenbanken/datenbank-reparieren-und-komprimieren"
         },
         {
-          "id": "menue-5",
-          "text": "Schülerliste",
-          "link": "/einstieg/grundlagen/container",
-          "source_title": "Container",
-          "items": []
+          "id": "datei-benutzer",
+          "text": "Benutzer wechseln",
+          "items": [],
+          "link": "/administration/datenbanken/datei#benutzer-wechseln"
         },
         {
-          "id": "menue-6",
-          "text": "Karteireiter",
-          "link": "/einstieg/grundlagen/hauptfenster#Karteireiter",
-          "source_title": "Hauptfenster",
-          "items": [
-            {
-              "id": "menue-menue-6-1",
-              "text": "Auswahlmenü",
-              "link": "/schild2/auswahl/auswahl",
-              "source_title": "Auswahl",
-              "items": []
-            },
-            {
-              "id": "menue-menue-6-2",
-              "text": "Filter I",
-              "link": "/schild2/auswahl/filter-i",
-              "source_title": "Filter I",
-              "items": []
-            },
-            {
-              "id": "menue-menue-6-3",
-              "text": "Individualdaten I",
-              "link": "/schild2/schueler/individual-daten-i",
-              "source_title": "Individual-Daten I",
-              "items": []
-            },
-            {
-              "id": "menue-menue-6-4",
-              "text": "Individualdaten II",
-              "link": "/schild2/schueler/individual-daten-ii",
-              "source_title": "Individual-Daten II",
-              "items": []
-            },
-            {
-              "id": "menue-menue-6-5",
-              "text": "Erziehungsberechtigte",
-              "link": "/schild2/schueler/erz-berechtigte",
-              "source_title": "Erz.-Berechtigte",
-              "items": []
-            },
-            {
-              "id": "menue-menue-6-6",
-              "text": "Schulbesuch",
-              "link": "/schild2/schueler/schulbesuch",
-              "source_title": "Schulbesuch",
-              "items": []
-            },
-            {
-              "id": "menue-menue-6-7",
-              "text": "Weitere Adressen",
-              "link": "/schild2/schueler/weitere-adressen",
-              "source_title": "Weitere Adressen",
-              "items": []
-            },
-            {
-              "id": "menue-menue-6-8",
-              "text": "Aktuelles Halbjahr",
-              "link": "/zeugnisse/vorbereitung/akt-halbjahr",
-              "source_title": "Akt. Halbjahr",
-              "items": []
-            },
-            {
-              "id": "menue-menue-6-9",
-              "text": "Laufbahninformationen",
-              "link": "/schild2/schueler/laufbahninfo",
-              "source_title": "Laufbahninfo",
-              "items": []
-            },
-            {
-              "id": "menue-menue-6-10",
-              "text": "Fördermaßnahmen",
-              "link": "/schild2/schueler/foerdermassnahmen",
-              "source_title": "Fördermaßnahmen",
-              "items": []
-            },
-            {
-              "id": "menue-menue-6-11",
-              "text": "Schulischer FHR-Teil",
-              "link": "/zeugnisse/sekundarstufen/fhr",
-              "source_title": "FHR",
-              "items": []
-            },
-            {
-              "id": "menue-menue-6-12",
-              "text": "BK-Abschlussverfahren",
-              "link": "/zeugnisse/berufskolleg/bk-abschluss",
-              "source_title": "BK-Abschluss",
-              "items": []
-            },
-            {
-              "id": "menue-menue-6-13",
-              "text": "Abitur",
-              "link": "/zeugnisse/sekundarstufen/abitur",
-              "source_title": "Abitur",
-              "items": []
-            },
-            {
-              "id": "menue-menue-6-14",
-              "text": "Dokumentenverwaltung",
-              "link": "/administration/benutzer-einstellungen/dokumentenverwaltung",
-              "source_title": "Dokumentenverwaltung",
-              "items": []
-            },
-            {
-              "id": "menue-menue-6-15",
-              "text": "ZP10 und ZK10",
-              "link": "/zeugnisse/sekundarstufen/zp10-zk10",
-              "source_title": "ZP10/ZK10",
-              "items": []
-            }
-          ]
-        },
-        {
-          "id": "menue-menue-2-4",
-          "text": "Auswahlmenü",
-          "link": "/schild2/auswahl/auswahl",
-          "source_title": "Auswahl",
-          "items": []
-        },
-        {
-          "id": "menue-menue-2-5",
-          "text": "Filter I",
-          "link": "/schild2/auswahl/filter-i",
-          "source_title": "Filter I",
-          "items": []
-        },
-        {
-          "id": "menue-menue-2-6",
-          "text": "Individualdaten I",
-          "link": "/schild2/schueler/individual-daten-i",
-          "source_title": "Individual-Daten I",
-          "items": []
-        },
-        {
-          "id": "menue-menue-2-7",
-          "text": "Individualdaten II",
-          "link": "/schild2/schueler/individual-daten-ii",
-          "source_title": "Individual-Daten II",
-          "items": []
-        },
-        {
-          "id": "menue-menue-2-8",
-          "text": "Erziehungsberechtigte",
-          "link": "/schild2/schueler/erz-berechtigte",
-          "source_title": "Erz.-Berechtigte",
-          "items": []
-        },
-        {
-          "id": "menue-menue-2-9",
-          "text": "Schulbesuch",
-          "link": "/schild2/schueler/schulbesuch",
-          "source_title": "Schulbesuch",
-          "items": []
-        },
-        {
-          "id": "menue-menue-2-10",
-          "text": "Weitere Adressen",
-          "link": "/schild2/schueler/weitere-adressen",
-          "source_title": "Weitere Adressen",
-          "items": []
-        },
-        {
-          "id": "menue-menue-2-11",
-          "text": "Aktuelles Halbjahr",
-          "link": "/zeugnisse/vorbereitung/akt-halbjahr",
-          "source_title": "Akt. Halbjahr",
-          "items": []
-        },
-        {
-          "id": "menue-menue-2-12",
-          "text": "Laufbahninformationen",
-          "link": "/schild2/schueler/laufbahninfo",
-          "source_title": "Laufbahninfo",
-          "items": []
-        },
-        {
-          "id": "menue-menue-2-13",
-          "text": "Fördermaßnahmen",
-          "link": "/schild2/schueler/foerdermassnahmen",
-          "source_title": "Fördermaßnahmen",
-          "items": []
-        },
-        {
-          "id": "menue-menue-2-14",
-          "text": "Schulischer FHR-Teil",
-          "link": "/zeugnisse/sekundarstufen/fhr",
-          "source_title": "FHR",
-          "items": []
-        },
-        {
-          "id": "menue-menue-2-15",
-          "text": "BK-Abschlussverfahren",
-          "link": "/zeugnisse/berufskolleg/bk-abschluss",
-          "source_title": "BK-Abschluss",
-          "items": []
-        },
-        {
-          "id": "menue-menue-2-16",
-          "text": "Abitur",
-          "link": "/zeugnisse/sekundarstufen/abitur",
-          "source_title": "Abitur",
-          "items": []
-        },
-        {
-          "id": "menue-menue-2-17",
-          "text": "Dokumentenverwaltung",
-          "link": "/administration/benutzer-einstellungen/dokumentenverwaltung",
-          "source_title": "Dokumentenverwaltung",
-          "items": []
-        },
-        {
-          "id": "menue-menue-2-18",
-          "text": "ZP10 und ZK10",
-          "link": "/zeugnisse/sekundarstufen/zp10-zk10",
-          "source_title": "ZP10/ZK10",
-          "items": []
+          "id": "datei-beenden",
+          "text": "Beenden",
+          "items": [],
+          "link": "/administration/datenbanken/datei#beenden"
         }
       ]
     },
@@ -368,7 +40,7 @@
       "items": [
         {
           "id": "menue-8",
-          "text": "Schuldaten",
+          "text": "Schule bearbeiten",
           "link": "/einstieg/erste-schritte/schule-bearbeiten",
           "source_title": "Schule bearbeiten",
           "items": []
@@ -430,6 +102,13 @@
           "items": []
         },
         {
+          "id": "menue-19",
+          "text": "Vermerkarten",
+          "link": "/schild2/unterricht-kataloge/vermerk-arten",
+          "source_title": "Vermerk-Arten",
+          "items": []
+        },
+        {
           "id": "menue-17",
           "text": "Zeugnisvorlagen zuordnen",
           "link": "/schild2/unterricht-kataloge/zeugnisvorlagen-zuordnen",
@@ -444,13 +123,6 @@
           "items": []
         },
         {
-          "id": "menue-19",
-          "text": "Vermerkarten",
-          "link": "/schild2/unterricht-kataloge/vermerk-arten",
-          "source_title": "Vermerk-Arten",
-          "items": []
-        },
-        {
           "id": "menue-20",
           "text": "Floskeln",
           "link": "/schild2/unterricht-kataloge/floskeln-bearbeiten",
@@ -459,7 +131,7 @@
         },
         {
           "id": "menue-21",
-          "text": "Einwilligungen",
+          "text": "DSGVO-Einwilligungen",
           "link": "/schild2/schueler/einwilligungen",
           "source_title": "Einwilligungen",
           "items": []
@@ -480,7 +152,7 @@
         },
         {
           "id": "menue-24",
-          "text": "Elternfunktionen anzeigen",
+          "text": "Erzieher mit schulinternen Funktionen",
           "link": "/schild2/unterricht-kataloge/erzieher-mit-schulinternen-funktionen",
           "source_title": "Erzieher mit schulinternen Funktionen",
           "items": []
@@ -501,10 +173,67 @@
         },
         {
           "id": "menue-27",
-          "text": "Amtliche Schulstatistik",
+          "text": "Statistik und amtliche Schuldaten",
           "link": "/schild2/import-export-statistik/statistik-amtliche-schuldaten",
           "source_title": "Statistik / amtliche Schuldaten",
-          "items": []
+          "items": [
+            {
+              "id": "statistik-pruefen",
+              "text": "Daten prüfen",
+              "items": [
+                {
+                  "id": "statistik-gesamt",
+                  "text": "Gesamtprüfung der Daten",
+                  "items": [],
+                  "link": "/schild2/import-export-statistik/statistik-amtliche-schuldaten#Gesamtprüfung_der_Daten"
+                },
+                {
+                  "id": "statistik-protokoll",
+                  "text": "Fehlerprotokoll anzeigen",
+                  "items": [],
+                  "link": "/schild2/import-export-statistik/statistik-amtliche-schuldaten#Fehlerprotokoll_anzeigen"
+                }
+              ],
+              "link": "/schild2/import-export-statistik/statistik-amtliche-schuldaten#Daten_prüfen"
+            },
+            {
+              "id": "statistik-export",
+              "text": "Export mit IT.NRW-Modulen",
+              "items": [
+                {
+                  "id": "statistik-sim",
+                  "text": "Schülerdaten SIM",
+                  "items": [],
+                  "link": "/schild2/import-export-statistik/statistik-amtliche-schuldaten#Schülerdaten_(SIM)"
+                },
+                {
+                  "id": "statistik-lid",
+                  "text": "Lehrerdaten LID",
+                  "items": [],
+                  "link": "/schild2/import-export-statistik/statistik-amtliche-schuldaten#Lehrerdaten_(LID)"
+                },
+                {
+                  "id": "statistik-uvd",
+                  "text": "Unterrichtsverteilung UVD",
+                  "items": [],
+                  "link": "/schild2/import-export-statistik/statistik-amtliche-schuldaten#Unterrichtsverteilung_(UVD)"
+                },
+                {
+                  "id": "statistik-abi",
+                  "text": "Abiturdaten ABI",
+                  "items": [],
+                  "link": "/schild2/import-export-statistik/statistik-amtliche-schuldaten#Abiturdaten_(ABI)"
+                }
+              ],
+              "link": "/schild2/import-export-statistik/statistik-amtliche-schuldaten#Export_(mit_Modulen_von_IT.NRW)"
+            },
+            {
+              "id": "statistik-hilfe",
+              "text": "Hilfe bei Problemen",
+              "items": [],
+              "link": "/schild2/import-export-statistik/statistik-mit-asdpc-fehlersuche"
+            }
+          ]
         }
       ]
     },
@@ -564,6 +293,11 @@
           "items": []
         },
         {
+          "id": "katalog-beschaeftigung",
+          "text": "Beschäftigungsarten",
+          "items": []
+        },
+        {
           "id": "menue-36",
           "text": "Sportbefreiungen",
           "link": "/schild2/unterricht-kataloge/sportbefreiungen",
@@ -613,13 +347,6 @@
           "items": []
         },
         {
-          "id": "menue-43",
-          "text": "Kindergärten",
-          "link": "/schild2/unterricht-kataloge/kindergaerten",
-          "source_title": "Kindergärten",
-          "items": []
-        },
-        {
           "id": "menue-44",
           "text": "Schulen in NRW",
           "link": "/schild2/unterricht-kataloge/schulen-in-nrw",
@@ -636,119 +363,6 @@
       ]
     },
     {
-      "id": "menue-46",
-      "text": "Auswahl",
-      "link": "/schild2/auswahl/auswahl",
-      "source_title": "Auswahl",
-      "items": [
-        {
-          "id": "menue-47",
-          "text": "Standard-Auswahl laden",
-          "link": "/schild2/auswahl/standard-auswahl-laden",
-          "source_title": "Standard-Auswahl laden",
-          "items": []
-        },
-        {
-          "id": "menue-48",
-          "text": "Filter laden",
-          "link": "/schild2/auswahl/vorhandene-filterdefinition-laden",
-          "source_title": "Vorhandene Filterdefinition laden",
-          "items": []
-        },
-        {
-          "id": "menue-49",
-          "text": "Filter löschen",
-          "link": "/schild2/auswahl/vorhandene-filterdefinition-loeschen",
-          "source_title": "Vorhandene Filterdefinition löschen",
-          "items": []
-        },
-        {
-          "id": "menue-50",
-          "text": "Attributsfilter erstellen",
-          "link": "/schild2/auswahl/attributsfilter",
-          "source_title": "Attributsfilter",
-          "items": []
-        },
-        {
-          "id": "menue-51",
-          "text": "Filter I",
-          "link": "/schild2/auswahl/filter-i",
-          "source_title": "Filter I",
-          "items": []
-        },
-        {
-          "id": "menue-52",
-          "text": "Filter II",
-          "link": "/schild2/auswahl/filter-ii",
-          "source_title": "Filter II",
-          "items": []
-        },
-        {
-          "id": "menue-53",
-          "text": "Fehlende Einträge",
-          "link": "/schild2/auswahl/filter-auf-fehlende-eintraege",
-          "source_title": "Filter auf fehlende Einträge",
-          "items": []
-        },
-        {
-          "id": "menue-54",
-          "text": "Statistikfehler",
-          "link": "/schild2/auswahl/schueler-mit-statistik-fehlern-zeigen",
-          "source_title": "Schüler mit Statistik-Fehlern zeigen",
-          "items": []
-        },
-        {
-          "id": "menue-55",
-          "text": "Geschwister",
-          "link": "/schild2/auswahl/nur-schueler-mit-geschwistern-zeigen",
-          "source_title": "Nur Schüler mit Geschwistern zeigen",
-          "items": []
-        },
-        {
-          "id": "menue-56",
-          "text": "Aktive ohne Abschnitt",
-          "link": "/schild2/auswahl/schueler-mit-fehlendem-abschnitt-status-aktiv",
-          "source_title": "Schüler mit fehlendem Abschnitt (Status=Aktiv,..)",
-          "items": []
-        },
-        {
-          "id": "menue-57",
-          "text": "Abgänger ohne Abschnitt",
-          "link": "/schild2/auswahl/schueler-mit-fehlendem-abschnitt-status-abgang",
-          "source_title": "Schüler mit fehlendem Abschnitt (Status=Abgang,..)",
-          "items": []
-        },
-        {
-          "id": "menue-58",
-          "text": "Schüler ohne Fächer",
-          "link": "/schild2/auswahl/schueler-ohne-faecher",
-          "source_title": "Schüler ohne Fächer",
-          "items": []
-        },
-        {
-          "id": "menue-59",
-          "text": "Schülergruppe anlegen",
-          "link": "/schild2/auswahl/individuelle-schuelergruppe-bearbeiten",
-          "source_title": "Individuelle Schülergruppe bearbeiten",
-          "items": []
-        },
-        {
-          "id": "menue-60",
-          "text": "Schülergruppe auswählen",
-          "link": "/schild2/auswahl/individuelle-schuelergruppe-auswaehlen",
-          "source_title": "Individuelle Schülergruppe auswählen",
-          "items": []
-        },
-        {
-          "id": "menue-61",
-          "text": "Papierkorb zeigen",
-          "link": "/schild2/auswahl/papierkorb-zeigen",
-          "source_title": "Papierkorb zeigen",
-          "items": []
-        }
-      ]
-    },
-    {
       "id": "menue-62",
       "text": "Gruppenprozesse",
       "link": "/schild2/gruppenprozesse/gruppenprozesse",
@@ -756,7 +370,7 @@
       "items": [
         {
           "id": "menue-63",
-          "text": "Allgemeine Änderungen",
+          "text": "Allgemeines",
           "link": "/schild2/gruppenprozesse/allgemeines",
           "source_title": "Allgemeines",
           "items": [
@@ -911,7 +525,7 @@
         },
         {
           "id": "menue-64",
-          "text": "Fachzuweisungen",
+          "text": "Fächer",
           "link": "/schild2/gruppenprozesse/faecher",
           "source_title": "Fächer",
           "items": [
@@ -1015,17 +629,40 @@
           "source_title": "Teilleistungen",
           "items": [
             {
-              "id": "menue-menue-65-1",
-              "text": "Unterrichtsfächer",
-              "link": "/schild2/unterricht-kataloge/unterrichtsfaecher",
-              "source_title": "Unterrichtsfächer",
+              "id": "teilleistung-1",
+              "text": "Aus Vorlage zuweisen",
+              "items": [],
+              "link": "/schild2/gruppenprozesse/teilleistungen#Teilleistungen_aus_Vorlage_zuweisen"
+            },
+            {
+              "id": "teilleistung-2",
+              "text": "Arten individuell zuweisen",
+              "items": [],
+              "link": "/schild2/gruppenprozesse/teilleistungen#Teilleistungsarten_individuell_zuweisen"
+            },
+            {
+              "id": "teilleistung-3",
+              "text": "Arten für Abschnitt löschen",
+              "items": [],
+              "link": "/schild2/gruppenprozesse/teilleistungen#Teilleistungsarten_für_einen_Abschnitt_löschen"
+            },
+            {
+              "id": "teilleistung-4",
+              "text": "Noten vorbereiteter Teilleistungen eingeben",
+              "items": [],
+              "link": "/schild2/gruppenprozesse/teilleistungen#Noteneingabe_(nur_vorbereitete_TL)"
+            },
+            {
+              "id": "teilleistung-neu",
+              "text": "Noten neuer Teilleistungen eingeben",
+              "link": "/schild2/gruppenprozesse/teilleistungen#Noteneingabe_(neue_TL_anlegen)",
               "items": []
             }
           ]
         },
         {
           "id": "menue-66",
-          "text": "Noten- und Zeugnisprozesse",
+          "text": "Noten und Zeugnisvorbereitung",
           "link": "/zeugnisse/vorbereitung/noten-zeugnisvorbereitung",
           "source_title": "Noten, Zeugnisvorbereitung",
           "items": [
@@ -1178,6 +815,1040 @@
               "items": []
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "menue-46",
+      "text": "Auswahl",
+      "link": "/schild2/auswahl/auswahl",
+      "source_title": "Auswahl",
+      "items": [
+        {
+          "id": "menue-47",
+          "text": "Standard-Auswahl laden",
+          "link": "/schild2/auswahl/standard-auswahl-laden",
+          "source_title": "Standard-Auswahl laden",
+          "items": []
+        },
+        {
+          "id": "menue-48",
+          "text": "Filter laden",
+          "link": "/schild2/auswahl/vorhandene-filterdefinition-laden",
+          "source_title": "Vorhandene Filterdefinition laden",
+          "items": []
+        },
+        {
+          "id": "auswahl-filter-bearbeiten",
+          "text": "Filterdefinition bearbeiten",
+          "items": []
+        },
+        {
+          "id": "menue-50",
+          "text": "Attributsfilter erstellen",
+          "link": "/schild2/auswahl/attributsfilter",
+          "source_title": "Attributsfilter",
+          "items": []
+        },
+        {
+          "id": "menue-51",
+          "text": "Filter I",
+          "link": "/schild2/auswahl/filter-i",
+          "source_title": "Filter I",
+          "items": []
+        },
+        {
+          "id": "menue-52",
+          "text": "Filter II",
+          "link": "/schild2/auswahl/filter-ii",
+          "source_title": "Filter II",
+          "items": []
+        },
+        {
+          "id": "auswahl-markiert",
+          "text": "Filter auf markierte Schüler",
+          "items": [],
+          "link": "/einstieg/grundlagen/iconleiste#filter-markierte-schueler"
+        },
+        {
+          "id": "menue-53",
+          "text": "Fehlende Einträge",
+          "link": "/schild2/auswahl/filter-auf-fehlende-eintraege",
+          "source_title": "Filter auf fehlende Einträge",
+          "items": []
+        },
+        {
+          "id": "menue-54",
+          "text": "Statistikfehler",
+          "link": "/schild2/auswahl/schueler-mit-statistik-fehlern-zeigen",
+          "source_title": "Schüler mit Statistik-Fehlern zeigen",
+          "items": []
+        },
+        {
+          "id": "menue-55",
+          "text": "Geschwister",
+          "link": "/schild2/auswahl/nur-schueler-mit-geschwistern-zeigen",
+          "source_title": "Nur Schüler mit Geschwistern zeigen",
+          "items": []
+        },
+        {
+          "id": "menue-56",
+          "text": "Aktive und Externe ohne Abschnitt",
+          "link": "/schild2/auswahl/schueler-mit-fehlendem-abschnitt-status-aktiv",
+          "source_title": "Schüler mit fehlendem Abschnitt (Status=Aktiv,..)",
+          "items": []
+        },
+        {
+          "id": "menue-57",
+          "text": "Abgang und Abschluss ohne Abschnitt",
+          "link": "/schild2/auswahl/schueler-mit-fehlendem-abschnitt-status-abgang",
+          "source_title": "Schüler mit fehlendem Abschnitt (Status=Abgang,..)",
+          "items": []
+        },
+        {
+          "id": "menue-58",
+          "text": "Schüler ohne Fächer",
+          "link": "/schild2/auswahl/schueler-ohne-faecher",
+          "source_title": "Schüler ohne Fächer",
+          "items": []
+        },
+        {
+          "id": "menue-59",
+          "text": "Schülergruppe anlegen",
+          "link": "/schild2/auswahl/individuelle-schuelergruppe-bearbeiten",
+          "source_title": "Individuelle Schülergruppe bearbeiten",
+          "items": []
+        },
+        {
+          "id": "menue-60",
+          "text": "Schülergruppe auswählen",
+          "link": "/schild2/auswahl/individuelle-schuelergruppe-auswaehlen",
+          "source_title": "Individuelle Schülergruppe auswählen",
+          "items": []
+        },
+        {
+          "id": "menue-61",
+          "text": "Papierkorb zeigen",
+          "link": "/schild2/auswahl/papierkorb-zeigen",
+          "source_title": "Papierkorb zeigen",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "menue-69",
+      "text": "Druckausgabe",
+      "link": "/reporting/verwaltung/druckausgabe",
+      "source_title": "Druckausgabe",
+      "items": [
+        {
+          "id": "menue-70",
+          "text": "Report-Explorer aufrufen",
+          "link": "/reporting/verwaltung/reportexplorer-aufrufen",
+          "source_title": "Reportexplorer aufrufen",
+          "items": []
+        },
+        {
+          "id": "menue-71",
+          "text": "Standardformulare drucken",
+          "link": "/reporting/verwaltung/standard-formulare-drucken",
+          "source_title": "Standard-Formulare drucken",
+          "items": []
+        },
+        {
+          "id": "druck-archiv",
+          "text": "Aus Archiv drucken",
+          "items": [],
+          "link": "/reporting/verwaltung/report-aus-archiv-drucken"
+        },
+        {
+          "id": "menue-72",
+          "text": "Word-Seriendruck",
+          "link": "/reporting/verwaltung/word-seriendruck",
+          "source_title": "Word-Seriendruck",
+          "items": [
+            {
+              "id": "word-standard",
+              "text": "Mit Standard-Steuerdatei",
+              "items": [],
+              "link": "/reporting/verwaltung/word-seriendruck#standard-steuerdatei"
+            },
+            {
+              "id": "word-eigene",
+              "text": "Mit eigener Steuerdatei",
+              "items": [],
+              "link": "/reporting/verwaltung/word-seriendruck#eigene-steuerdatei"
+            }
+          ]
+        },
+        {
+          "id": "menue-73",
+          "text": "Textzeugnisse zuordnen",
+          "link": "/zeugnisse/grundschule/textzeugnisse-zuordnen",
+          "source_title": "Textzeugnisse zuordnen",
+          "items": []
+        },
+        {
+          "id": "menue-74",
+          "text": "Textzeugnisse erzeugen",
+          "link": "/zeugnisse/grundschule/textzeugnisse-drucken",
+          "source_title": "Textzeugnisse erzeugen",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "menue-75",
+      "text": "Datenaustausch",
+      "link": "/schild2/import-export-statistik/datenaustausch",
+      "source_title": "Datenaustausch",
+      "items": [
+        {
+          "id": "menue-76",
+          "text": "Externes Notenmodul",
+          "link": "/zeugnisse/vorbereitung/externes-notenmodul",
+          "source_title": "Externes Notenmodul",
+          "items": [
+            {
+              "id": "enm-export",
+              "text": "Noten-Export",
+              "items": [],
+              "link": "/zeugnisse/vorbereitung/externes-notenmodul#Noten_Export"
+            },
+            {
+              "id": "enm-import",
+              "text": "Noten-Import",
+              "items": [],
+              "link": "/zeugnisse/vorbereitung/externes-notenmodul#Noten_Import"
+            }
+          ]
+        },
+        {
+          "id": "menue-77",
+          "text": "Export in Text- und Excel-Dateien",
+          "link": "/schild2/import-export-statistik/export-in-text-excel-dateien",
+          "source_title": "Export in Text-/Excel-Dateien",
+          "items": [
+            {
+              "id": "textexport-export",
+              "text": "Exportieren",
+              "items": [],
+              "link": "/schild2/import-export-statistik/export-in-text-excel-dateien#exportieren"
+            },
+            {
+              "id": "textexport-vorlage",
+              "text": "Vorlage im- und exportieren",
+              "items": []
+            }
+          ]
+        },
+        {
+          "id": "menue-78",
+          "text": "Import aus Textdateien",
+          "link": "/schild2/import-export-statistik/import-aus-textdateien",
+          "source_title": "Import aus Textdateien",
+          "items": [
+            {
+              "id": "import-text-start",
+              "text": "Externes Importprogramm starten",
+              "items": [],
+              "link": "/schild2/import-export-statistik/import-aus-textdateien#importprogramm"
+            }
+          ]
+        },
+        {
+          "id": "menue-79",
+          "text": "SchILD-Schnittstelle",
+          "link": "/schild2/import-export-statistik/schnittstelle-schild-nrw",
+          "source_title": "Schnittstelle Schild-NRW",
+          "items": []
+        },
+        {
+          "id": "menue-80",
+          "text": "Export für LuPO",
+          "link": "/schild2/import-export-statistik/export-fuer-lupo",
+          "source_title": "Export für Lupo",
+          "items": [
+            {
+              "id": "lupo-initial",
+              "text": "Initial-Export",
+              "items": [],
+              "link": "/schild2/import-export-statistik/export-fuer-lupo#Initial-Export"
+            },
+            {
+              "id": "lupo-schueler",
+              "text": "Nur Schülerdaten exportieren",
+              "items": [],
+              "link": "/schild2/import-export-statistik/export-fuer-lupo#Nur_Schülerdaten_exportieren"
+            },
+            {
+              "id": "lupo-faecher",
+              "text": "Nur Fächerdaten exportieren",
+              "items": [],
+              "link": "/schild2/import-export-statistik/export-fuer-lupo#Nur_Fächerdaten_exportieren"
+            }
+          ]
+        },
+        {
+          "id": "austausch-lernplattformen",
+          "text": "Lernplattformen",
+          "items": [
+            {
+              "id": "plattform-logineo",
+              "text": "Logineo NRW XML",
+              "items": [],
+              "link": "/schild2/unterricht-kataloge/lernplattformen#XML-Export_für_Logineo_NRW"
+            },
+            {
+              "id": "plattform-lms",
+              "text": "Logineo LMS CSV",
+              "items": [],
+              "link": "/schild2/unterricht-kataloge/lernplattformen#CSV-Export_für_Logineo_LMS"
+            },
+            {
+              "id": "plattform-iserv",
+              "text": "IServ",
+              "items": [],
+              "link": "/schild2/unterricht-kataloge/lernplattformen#Export_für_Iserv"
+            },
+            {
+              "id": "plattform-sds",
+              "text": "SDS MNS-Pro",
+              "items": [],
+              "link": "/schild2/unterricht-kataloge/lernplattformen#Export_für_SDS"
+            }
+          ],
+          "link": "/schild2/unterricht-kataloge/lernplattformen"
+        },
+        {
+          "id": "austausch-weitere",
+          "text": "Weitere Exporte",
+          "items": [
+            {
+              "id": "export-jana",
+              "text": "JaNa-Export",
+              "items": [],
+              "link": "/schild2/import-export-statistik/jana-export-jahrgang-und-nationalitaet"
+            },
+            {
+              "id": "export-startklar",
+              "text": "Export für Startklar",
+              "items": []
+            },
+            {
+              "id": "export-kommmit",
+              "text": "Export für Komm mit",
+              "items": []
+            },
+            {
+              "id": "export-abitur",
+              "text": "Abitur-Daten exportieren",
+              "items": []
+            },
+            {
+              "id": "export-zp10",
+              "text": "ZP10- und ZK-Daten exportieren",
+              "items": []
+            },
+            {
+              "id": "menue-81",
+              "text": "Wohnortdaten exportieren",
+              "link": "/schild2/import-export-statistik/wohnortdaten-exportieren",
+              "source_title": "Wohnortdaten exportieren",
+              "items": []
+            },
+            {
+              "id": "export-ban",
+              "text": "Export für BAN-Portal",
+              "items": [],
+              "link": "/schild2/import-export-statistik/export-fuer-ban-portal"
+            }
+          ]
+        },
+        {
+          "id": "import-zp10",
+          "text": "Import ZP 10",
+          "items": []
+        },
+        {
+          "id": "menue-82",
+          "text": "Unterrichtsdaten aus Excel",
+          "link": "/schild2/import-export-statistik/unterrichtsdaten-als-excel-dateien-importieren",
+          "source_title": "Unterrichtsdaten (als Excel Dateien) importieren",
+          "items": []
+        },
+        {
+          "id": "menue-83",
+          "text": "Excel-Notendateien",
+          "link": "/zeugnisse/vorbereitung/excel-notendateien",
+          "source_title": "Excel-Notendateien",
+          "items": [
+            {
+              "id": "excel-export",
+              "text": "Export",
+              "items": [],
+              "link": "/zeugnisse/vorbereitung/excel-notendateien#excel-export"
+            },
+            {
+              "id": "excel-import",
+              "text": "Import",
+              "items": [],
+              "link": "/zeugnisse/vorbereitung/excel-notendateien#excel-import"
+            }
+          ]
+        },
+        {
+          "id": "menue-84",
+          "text": "Fotos",
+          "link": "/schild2/import-export-statistik/fotos",
+          "source_title": "Fotos",
+          "items": [
+            {
+              "id": "foto-liste",
+              "text": "Export für Fotoliste",
+              "items": [],
+              "link": "/schild2/import-export-statistik/fotos#Export_für_Fotoliste"
+            },
+            {
+              "id": "foto-export",
+              "text": "Fotos exportieren",
+              "items": [],
+              "link": "/schild2/import-export-statistik/fotos#Fotos_exportieren"
+            }
+          ]
+        },
+        {
+          "id": "menue-85",
+          "text": "Kataloge exportieren",
+          "link": "/schild2/import-export-statistik/kataloge-exportieren",
+          "source_title": "Kataloge exportieren",
+          "items": []
+        },
+        {
+          "id": "menue-86",
+          "text": "UVD-Datei importieren",
+          "link": "/schild2/import-export-statistik/uvd-datei-importieren",
+          "source_title": "UVD-Datei importieren",
+          "items": []
+        },
+        {
+          "id": "einstellungen-export",
+          "text": "Einstellungen exportieren",
+          "items": []
+        },
+        {
+          "id": "einstellungen-import",
+          "text": "Einstellungen importieren",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "menue-87",
+      "text": "Extras",
+      "link": "/administration/benutzer-einstellungen/extras",
+      "source_title": "Extras",
+      "items": [
+        {
+          "id": "menue-menue-87-1",
+          "text": "Programmeinstellungen",
+          "link": "/administration/benutzer-einstellungen/programm-einstellungen",
+          "source_title": "Programm-Einstellungen",
+          "items": []
+        },
+        {
+          "id": "extras-kennwort",
+          "text": "Kennwort ändern",
+          "items": [],
+          "link": "/administration/benutzer-einstellungen/extras#kennwort-aendern"
+        },
+        {
+          "id": "extras-nutzer",
+          "text": "Aktuelle Datenbanknutzer zeigen",
+          "items": [],
+          "link": "/administration/benutzer-einstellungen/extras#datenbanknutzer"
+        },
+        {
+          "id": "extras-benutzerverwaltung",
+          "text": "Benutzerverwaltung",
+          "items": [],
+          "link": "/administration/benutzer-einstellungen/benutzerverwaltung-useradmn-exe"
+        },
+        {
+          "id": "menue-menue-87-2",
+          "text": "Datensicherung",
+          "link": "/administration/datenbanken/datensicherung",
+          "source_title": "Datensicherung",
+          "items": []
+        },
+        {
+          "id": "extras-notenliste",
+          "text": "Notenliste zeigen",
+          "items": [],
+          "link": "/administration/benutzer-einstellungen/extras#notenliste"
+        },
+        {
+          "id": "menue-menue-87-3",
+          "text": "Automatische Prozesse ausführen",
+          "link": "/schild2/gruppenprozesse/automatische-prozesse-ausfuehren",
+          "source_title": "Automatische Prozesse ausführen",
+          "items": []
+        },
+        {
+          "id": "extras-zurueckholen",
+          "text": "Gelöschte Daten zurückholen",
+          "items": [],
+          "link": "/schild2/gruppenprozesse/geloeschte-daten-zurueckholen"
+        },
+        {
+          "id": "menue-menue-87-4",
+          "text": "Schulpflicht zum Schuljahresende",
+          "link": "/schild2/gruppenprozesse/schulpflicht-autom-setzen-zum-sj-ende",
+          "source_title": "Schulpflicht autom. setzen zum SJ.-Ende",
+          "items": []
+        },
+        {
+          "id": "menue-menue-87-5",
+          "text": "Fehlende Lernabschnitte",
+          "link": "/schild2/gruppenprozesse/fehlende-abschnittsdaten-anlegen",
+          "source_title": "Fehlende Abschnittsdaten anlegen",
+          "items": []
+        },
+        {
+          "id": "menue-menue-87-6",
+          "text": "Kurse aus Kurs42 neu laden",
+          "link": "/schild2/gruppenprozesse/kurse-neu-laden-nach-bearbeitung-in-kurs42",
+          "source_title": "Kurse neu laden (nach Bearbeitung in Kurs42)",
+          "items": []
+        },
+        {
+          "id": "menue-menue-87-7",
+          "text": "Fächer sortieren",
+          "link": "/schild2/gruppenprozesse/faecher-in-leistungsdaten-neu-sortieren",
+          "source_title": "Fächer in Leistungsdaten neu sortieren",
+          "items": []
+        },
+        {
+          "id": "menue-menue-87-8",
+          "text": "Kurse sortieren",
+          "link": "/schild2/gruppenprozesse/kurse-neu-sortieren",
+          "source_title": "Kurse neu sortieren",
+          "items": []
+        },
+        {
+          "id": "menue-menue-87-9",
+          "text": "Fotos verkleinern",
+          "link": "/schild2/gruppenprozesse/fotos-neu-skalieren",
+          "source_title": "Fotos neu skalieren",
+          "items": []
+        },
+        {
+          "id": "extras-ausweis",
+          "text": "Ausweisnummern löschen",
+          "items": []
+        },
+        {
+          "id": "extras-aufnahmejahr",
+          "text": "Aufnahmejahr für Neueingaben zurücksetzen",
+          "items": [],
+          "link": "/schild2/gruppenprozesse/aufnahmejahr-fuer-neuaufnahmen-zuruecksetzen"
+        },
+        {
+          "id": "extras-indizes",
+          "text": "Indizes wiederherstellen",
+          "items": []
+        },
+        {
+          "id": "extras-loeschfristen",
+          "text": "Löschfristen prüfen",
+          "items": []
+        },
+        {
+          "id": "menue-menue-87-11",
+          "text": "Datenbank aufräumen",
+          "link": "/administration/datenbanken/aufraeumen",
+          "source_title": "Aufräumen",
+          "items": []
+        },
+        {
+          "id": "extras-markierungen",
+          "text": "Alle Markierungen entfernen",
+          "items": [],
+          "link": "/administration/benutzer-einstellungen/extras#markierungen-entfernen"
+        },
+        {
+          "id": "menue-menue-87-12",
+          "text": "SQL-Befehle eingeben",
+          "link": "/administration/datenbanken/sql-befehle-eingeben",
+          "source_title": "SQL-Befehle eingeben",
+          "items": []
+        },
+        {
+          "id": "menue-menue-87-13",
+          "text": "Transaktionsprotokoll verwenden",
+          "link": "/administration/datenbanken/transaktionsprotokoll-verwenden",
+          "source_title": "Transaktionsprotokoll verwenden",
+          "items": []
+        },
+        {
+          "id": "extras-protokoll",
+          "text": "Transaktionsprotokoll zeigen",
+          "items": [],
+          "link": "/administration/benutzer-einstellungen/extras#transaktionsprotokoll-zeigen"
+        },
+        {
+          "id": "extras-zeichentabelle",
+          "text": "Zeichentabelle von Windows aufrufen",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "menue-88",
+      "text": "Datenschutzhinweis",
+      "link": "/administration/benutzer-einstellungen/datenschutzhinweis",
+      "source_title": "Datenschutzhinweis",
+      "items": []
+    },
+    {
+      "id": "menue-89",
+      "text": "Hilfe",
+      "link": "/hilfe/probleme/hilfe",
+      "source_title": "Hilfe",
+      "items": [
+        {
+          "id": "hilfe-info",
+          "text": "Info",
+          "items": [],
+          "link": "/hilfe/probleme/hilfe#Info"
+        },
+        {
+          "id": "hilfe-versionen",
+          "text": "Versionsgeschichte zeigen",
+          "items": [],
+          "link": "/hilfe/probleme/hilfe#Versionsgeschichte_zeigen"
+        },
+        {
+          "id": "hilfe-update",
+          "text": "Auf Update prüfen",
+          "items": [],
+          "link": "/hilfe/probleme/hilfe#Auf_Update_prüfen"
+        },
+        {
+          "id": "hilfe-online",
+          "text": "Online-Dokumentation aufrufen",
+          "items": [],
+          "link": "/hilfe/probleme/hilfe#Online_-_Dokumentation_aufrufen"
+        },
+        {
+          "id": "hilfe-forum",
+          "text": "Forum SchILD-NRW besuchen",
+          "items": [],
+          "link": "/hilfe/probleme/hilfe#Forum_SchILD-NRW_besuchen"
+        },
+        {
+          "id": "hilfe-support",
+          "text": "Online-Supportprogramm starten",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "menue-2",
+      "text": "Hauptfenster",
+      "link": "/einstieg/grundlagen/hauptfenster",
+      "source_title": "Hauptfenster",
+      "items": [
+        {
+          "id": "hauptfenster-symbolleiste",
+          "text": "Symbolleiste",
+          "items": [],
+          "link": "/einstieg/grundlagen/iconleiste"
+        },
+        {
+          "id": "menue-3",
+          "text": "Karteikästen",
+          "link": "/einstieg/grundlagen/karteikasten",
+          "source_title": "Karteikasten",
+          "items": []
+        },
+        {
+          "id": "menue-4",
+          "text": "Schnellfilter",
+          "link": "/einstieg/grundlagen/hauptfenster#Schnellfilter",
+          "source_title": "Hauptfenster",
+          "items": [
+            {
+              "id": "schnellfilter-klasse",
+              "text": "Klasse",
+              "items": [],
+              "link": "/einstieg/grundlagen/hauptfenster#Schnellfilter"
+            },
+            {
+              "id": "schnellfilter-jahrgang",
+              "text": "Jahrgang",
+              "items": [],
+              "link": "/einstieg/grundlagen/hauptfenster#Schnellfilter"
+            },
+            {
+              "id": "schnellfilter-kurs",
+              "text": "Kurs",
+              "items": [],
+              "link": "/einstieg/grundlagen/hauptfenster#Schnellfilter"
+            },
+            {
+              "id": "schnellfilter-gliederung",
+              "text": "Schulgliederung",
+              "items": [],
+              "link": "/einstieg/grundlagen/hauptfenster#Schnellfilter"
+            }
+          ]
+        },
+        {
+          "id": "menue-5",
+          "text": "Schülerliste",
+          "link": "/einstieg/grundlagen/container",
+          "source_title": "Container",
+          "items": []
+        },
+        {
+          "id": "hauptfenster-status",
+          "text": "Statuszeile",
+          "items": [],
+          "link": "/einstieg/grundlagen/hauptfenster#statuszeile"
+        },
+        {
+          "id": "menue-6",
+          "text": "Karteireiter",
+          "link": "/einstieg/grundlagen/hauptfenster#Karteireiter",
+          "source_title": "Hauptfenster",
+          "items": [
+            {
+              "id": "menue-menue-6-3",
+              "text": "Individualdaten I",
+              "link": "/schild2/schueler/individual-daten-i",
+              "source_title": "Individual-Daten I",
+              "items": [
+                {
+                  "id": "individual-laufbahn",
+                  "text": "Aktuelle Laufbahndaten",
+                  "items": [],
+                  "link": "/schild2/schueler/individual-daten-i#aktuelle-laufbahndaten"
+                }
+              ]
+            },
+            {
+              "id": "menue-menue-6-4",
+              "text": "Individualdaten II",
+              "link": "/schild2/schueler/individual-daten-ii",
+              "source_title": "Individual-Daten II",
+              "items": [
+                {
+                  "id": "individual-migration",
+                  "text": "Migrationshintergrund",
+                  "link": "/schild2/schueler/individual-daten-ii#migrationshintergrund",
+                  "items": []
+                },
+                {
+                  "id": "individual-grundschule",
+                  "text": "Grundschulbesuch",
+                  "link": "/schild2/schueler/individual-daten-ii#individual-daten-ii",
+                  "items": []
+                },
+                {
+                  "id": "individual-sek1",
+                  "text": "Sekundarstufe I",
+                  "link": "/schild2/schueler/individual-daten-ii#individual-daten-ii",
+                  "items": []
+                },
+                {
+                  "id": "individual-foerderung",
+                  "text": "Sonderpädagogische Förderung",
+                  "link": "/schild2/schueler/individual-daten-ii#individual-daten-ii",
+                  "items": []
+                },
+                {
+                  "id": "reiter-deutschfoerderung",
+                  "text": "Deutschförderung",
+                  "items": [],
+                  "link": "/schild2/schueler/deutschfoerderung-nach-bass-13-63-nr-3-stand-29-08-2024"
+                },
+                {
+                  "id": "individual-merkmale",
+                  "text": "Besondere Merkmale",
+                  "link": "/schild2/schueler/individual-daten-ii#individual-daten-ii",
+                  "items": []
+                }
+              ]
+            },
+            {
+              "id": "menue-menue-6-5",
+              "text": "Erziehungsberechtigte",
+              "link": "/schild2/schueler/erz-berechtigte",
+              "source_title": "Erz.-Berechtigte",
+              "items": []
+            },
+            {
+              "id": "menue-menue-6-6",
+              "text": "Schulbesuch",
+              "link": "/schild2/schueler/schulbesuch",
+              "source_title": "Schulbesuch",
+              "items": [
+                {
+                  "id": "schulbesuch-0",
+                  "text": "Herkunft",
+                  "link": "/schild2/schueler/schulbesuch#Herkunft_des_Schülers",
+                  "items": []
+                },
+                {
+                  "id": "schulbesuch-1",
+                  "text": "Entlassung von eigener Schule",
+                  "link": "/schild2/schueler/schulbesuch#Entlassung_von_eigener_Schule",
+                  "items": []
+                },
+                {
+                  "id": "schulbesuch-2",
+                  "text": "Wechsel zu aufnehmender Schule",
+                  "link": "/schild2/schueler/schulbesuch#Wechsel_zu_aufnehmender_Schule",
+                  "items": []
+                },
+                {
+                  "id": "schulbesuch-3",
+                  "text": "Alle bisher besuchten Schulen",
+                  "link": "/schild2/schueler/schulbesuch#Alle_bisher_besuchten_Schulen",
+                  "items": []
+                }
+              ]
+            },
+            {
+              "id": "menue-menue-6-7",
+              "text": "Weitere Adressen",
+              "link": "/schild2/schueler/weitere-adressen",
+              "source_title": "Weitere Adressen",
+              "items": []
+            },
+            {
+              "id": "menue-menue-6-8",
+              "text": "Aktuelles Halbjahr",
+              "link": "/zeugnisse/vorbereitung/akt-halbjahr",
+              "source_title": "Akt. Halbjahr",
+              "items": [
+                {
+                  "id": "halbjahr-allgemein",
+                  "text": "Allgemeine Angaben",
+                  "items": [],
+                  "link": "/zeugnisse/vorbereitung/akt-halbjahr#Allgemeine_Angaben"
+                },
+                {
+                  "id": "halbjahr-leistung",
+                  "text": "Leistungsdaten",
+                  "items": [],
+                  "link": "/zeugnisse/vorbereitung/akt-halbjahr#Leistungsdaten"
+                },
+                {
+                  "id": "halbjahr-fehlzeiten",
+                  "text": "Fehlzeiten",
+                  "items": [],
+                  "link": "/zeugnisse/vorbereitung/akt-halbjahr#Fehlzeiten"
+                },
+                {
+                  "id": "halbjahr-ergebnis",
+                  "text": "Ergebnis Versetzung und Abschluss",
+                  "items": [],
+                  "link": "/zeugnisse/vorbereitung/akt-halbjahr#Ergebnis_der_Versetzungs-/Abschluss-Berechnung"
+                },
+                {
+                  "id": "halbjahr-zeugnis",
+                  "text": "Zeugnis und Abschluss",
+                  "items": [
+                    {
+                      "id": "zeugnis-allgemein",
+                      "text": "Allgemeine Angaben",
+                      "items": [],
+                      "link": "/zeugnisse/vorbereitung/akt-halbjahr#zeugnis-abschluss"
+                    },
+                    {
+                      "id": "zeugnis-bemerkungen",
+                      "text": "Zeugnisbemerkungen",
+                      "items": [],
+                      "link": "/zeugnisse/vorbereitung/zeugnisbemerkungen-eintragen"
+                    },
+                    {
+                      "id": "zeugnis-verhalten",
+                      "text": "Arbeits- und Sozialverhalten",
+                      "items": []
+                    },
+                    {
+                      "id": "zeugnis-engagement",
+                      "text": "Außerunterrichtliches Engagement",
+                      "items": []
+                    },
+                    {
+                      "id": "zeugnis-versetzung",
+                      "text": "Bemerkung zur Versetzung",
+                      "items": []
+                    }
+                  ],
+                  "link": "/zeugnisse/vorbereitung/akt-halbjahr#zeugnis-abschluss"
+                }
+              ]
+            },
+            {
+              "id": "menue-menue-6-9",
+              "text": "Laufbahninformationen",
+              "link": "/schild2/schueler/laufbahninfo",
+              "source_title": "Laufbahninfo",
+              "items": [
+                {
+                  "id": "laufbahn-vermerke",
+                  "text": "Vermerke",
+                  "link": "/schild2/schueler/laufbahninfo#vermerke",
+                  "items": []
+                },
+                {
+                  "id": "laufbahn-sprachenfolge",
+                  "text": "Sprachenfolge",
+                  "link": "/schild2/schueler/laufbahninfo#sprachenfolge",
+                  "items": []
+                },
+                {
+                  "id": "laufbahn-erreichte-abschluesse",
+                  "text": "Erreichte Abschlüsse und Berechtigungen",
+                  "link": "/schild2/schueler/laufbahninfo#erreichte-abschluesse",
+                  "items": []
+                }
+              ]
+            },
+            {
+              "id": "menue-menue-6-10",
+              "text": "Fördermaßnahmen",
+              "link": "/schild2/schueler/foerdermassnahmen",
+              "source_title": "Fördermaßnahmen",
+              "items": []
+            },
+            {
+              "id": "reiter-einwilligungen",
+              "text": "Einwilligungen",
+              "items": [],
+              "link": "/schild2/schueler/einwilligungen"
+            },
+            {
+              "id": "reiter-kaoa",
+              "text": "KAoA",
+              "items": []
+            },
+            {
+              "id": "reiter-uebersicht",
+              "text": "Übersicht",
+              "items": [
+                {
+                  "id": "uebersicht-laufbahn",
+                  "text": "Laufbahnübersicht",
+                  "items": [],
+                  "link": "/zeugnisse/sekundarstufen/gesamtuebersicht#laufbahnuebersicht"
+                },
+                {
+                  "id": "uebersicht-leistung",
+                  "text": "Leistungsübersicht",
+                  "items": [],
+                  "link": "/zeugnisse/sekundarstufen/gesamtuebersicht#leistungsuebersicht"
+                }
+              ],
+              "link": "/zeugnisse/sekundarstufen/gesamtuebersicht"
+            },
+            {
+              "id": "menue-menue-6-11",
+              "text": "FHR",
+              "link": "/zeugnisse/sekundarstufen/fhr",
+              "source_title": "FHR",
+              "items": []
+            },
+            {
+              "id": "menue-menue-6-13",
+              "text": "Abitur",
+              "link": "/zeugnisse/sekundarstufen/abitur",
+              "source_title": "Abitur",
+              "items": [
+                {
+                  "id": "abitur-1",
+                  "text": "Leistungsdaten übernehmen",
+                  "items": [],
+                  "link": "/zeugnisse/sekundarstufen/leistungsdaten-holen"
+                },
+                {
+                  "id": "abitur-2",
+                  "text": "Kurse für die Zulassung markieren",
+                  "items": [],
+                  "link": "/zeugnisse/sekundarstufen/kurse-algorithmisch-markieren"
+                },
+                {
+                  "id": "abitur-3",
+                  "text": "Abiturzulassung",
+                  "items": [],
+                  "link": "/zeugnisse/sekundarstufen/abitur-zulassung-berechnen"
+                },
+                {
+                  "id": "abitur-5",
+                  "text": "Mündliche Prüfungen festlegen",
+                  "items": [],
+                  "link": "/zeugnisse/sekundarstufen/muendliche-pruefungen-a1-a3-festlegen"
+                },
+                {
+                  "id": "abitur-6",
+                  "text": "Abiturergebnis",
+                  "items": [],
+                  "link": "/zeugnisse/sekundarstufen/gesamtergebnis-berechnen"
+                }
+              ]
+            },
+            {
+              "id": "menue-menue-6-15",
+              "text": "ZP 10",
+              "link": "/zeugnisse/sekundarstufen/zp10-zk10",
+              "source_title": "ZP10/ZK10",
+              "items": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ergaenzende-funktionen",
+      "text": "Weitere Funktionen",
+      "items": [
+        {
+          "id": "schulverwaltung-fachklassen",
+          "text": "Fachklassen",
+          "items": [],
+          "link": "/schild2/unterricht-kataloge/fachklassen"
+        },
+        {
+          "id": "menue-menue-6-12",
+          "text": "BK-Abschluss",
+          "link": "/zeugnisse/berufskolleg/bk-abschluss",
+          "source_title": "BK-Abschluss",
+          "items": []
+        },
+        {
+          "id": "menue-menue-6-14",
+          "text": "Dokumentenverwaltung",
+          "link": "/administration/benutzer-einstellungen/dokumentenverwaltung",
+          "source_title": "Dokumentenverwaltung",
+          "items": []
+        },
+        {
+          "id": "menue-43",
+          "text": "Kindergärten",
+          "link": "/schild2/unterricht-kataloge/kindergaerten",
+          "source_title": "Kindergärten",
+          "items": []
+        },
+        {
+          "id": "menue-49",
+          "text": "Filter löschen",
+          "link": "/schild2/auswahl/vorhandene-filterdefinition-loeschen",
+          "source_title": "Vorhandene Filterdefinition löschen",
+          "items": []
         },
         {
           "id": "menue-68",
@@ -1249,206 +1920,6 @@
               "items": []
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "menue-69",
-      "text": "Druckausgabe",
-      "link": "/reporting/verwaltung/druckausgabe",
-      "source_title": "Druckausgabe",
-      "items": [
-        {
-          "id": "menue-70",
-          "text": "Report-Explorer öffnen",
-          "link": "/reporting/verwaltung/reportexplorer-aufrufen",
-          "source_title": "Reportexplorer aufrufen",
-          "items": []
-        },
-        {
-          "id": "menue-71",
-          "text": "Standardformulare",
-          "link": "/reporting/verwaltung/standard-formulare-drucken",
-          "source_title": "Standard-Formulare drucken",
-          "items": []
-        },
-        {
-          "id": "menue-72",
-          "text": "Word-Seriendruck",
-          "link": "/reporting/verwaltung/word-seriendruck",
-          "source_title": "Word-Seriendruck",
-          "items": []
-        },
-        {
-          "id": "menue-73",
-          "text": "Textzeugnisse zuordnen",
-          "link": "/zeugnisse/grundschule/textzeugnisse-zuordnen",
-          "source_title": "Textzeugnisse zuordnen",
-          "items": []
-        },
-        {
-          "id": "menue-74",
-          "text": "Textzeugnisse erzeugen",
-          "link": "/tools/notenmodul-grundschule/rueckgabe-und-druck",
-          "source_title": "Textzeugnisse erzeugen",
-          "items": []
-        }
-      ]
-    },
-    {
-      "id": "menue-75",
-      "text": "Datenaustausch",
-      "link": "/schild2/import-export-statistik/datenaustausch",
-      "source_title": "Datenaustausch",
-      "items": [
-        {
-          "id": "menue-76",
-          "text": "Externes Notenmodul",
-          "link": "/zeugnisse/vorbereitung/externes-notenmodul",
-          "source_title": "Externes Notenmodul",
-          "items": []
-        },
-        {
-          "id": "menue-77",
-          "text": "Text- und Excel-Export",
-          "link": "/schild2/import-export-statistik/export-in-text-excel-dateien",
-          "source_title": "Export in Text-/Excel-Dateien",
-          "items": []
-        },
-        {
-          "id": "menue-78",
-          "text": "Import aus Textdateien",
-          "link": "/schild2/import-export-statistik/import-aus-textdateien",
-          "source_title": "Import aus Textdateien",
-          "items": []
-        },
-        {
-          "id": "menue-79",
-          "text": "SchILD-Schnittstelle",
-          "link": "/schild2/import-export-statistik/schnittstelle-schild-nrw",
-          "source_title": "Schnittstelle Schild-NRW",
-          "items": []
-        },
-        {
-          "id": "menue-80",
-          "text": "LuPO-Export",
-          "link": "/schild2/import-export-statistik/export-fuer-lupo",
-          "source_title": "Export für Lupo",
-          "items": [
-            {
-              "id": "menue-81",
-              "text": "Wohnortdaten exportieren",
-              "link": "/schild2/import-export-statistik/wohnortdaten-exportieren",
-              "source_title": "Wohnortdaten exportieren",
-              "items": []
-            }
-          ]
-        },
-        {
-          "id": "menue-82",
-          "text": "Unterrichtsdaten aus Excel",
-          "link": "/schild2/import-export-statistik/unterrichtsdaten-als-excel-dateien-importieren",
-          "source_title": "Unterrichtsdaten (als Excel Dateien) importieren",
-          "items": []
-        },
-        {
-          "id": "menue-83",
-          "text": "Excel-Notendateien",
-          "link": "/zeugnisse/vorbereitung/excel-notendateien",
-          "source_title": "Excel-Notendateien",
-          "items": []
-        },
-        {
-          "id": "menue-84",
-          "text": "Fotos und Fotolisten exportieren",
-          "link": "/schild2/import-export-statistik/fotos",
-          "source_title": "Fotos",
-          "items": []
-        },
-        {
-          "id": "menue-85",
-          "text": "Kataloge exportieren",
-          "link": "/schild2/import-export-statistik/kataloge-exportieren",
-          "source_title": "Kataloge exportieren",
-          "items": []
-        },
-        {
-          "id": "menue-86",
-          "text": "UVD-Datei importieren",
-          "link": "/schild2/import-export-statistik/uvd-datei-importieren",
-          "source_title": "UVD-Datei importieren",
-          "items": []
-        }
-      ]
-    },
-    {
-      "id": "menue-87",
-      "text": "Extras",
-      "link": "/administration/benutzer-einstellungen/extras",
-      "source_title": "Extras",
-      "items": [
-        {
-          "id": "menue-menue-87-1",
-          "text": "Programmeinstellungen",
-          "link": "/administration/benutzer-einstellungen/programm-einstellungen",
-          "source_title": "Programm-Einstellungen",
-          "items": []
-        },
-        {
-          "id": "menue-menue-87-2",
-          "text": "Datensicherung",
-          "link": "/administration/datenbanken/datensicherung",
-          "source_title": "Datensicherung",
-          "items": []
-        },
-        {
-          "id": "menue-menue-87-3",
-          "text": "Automatische Prozesse ausführen",
-          "link": "/schild2/gruppenprozesse/automatische-prozesse-ausfuehren",
-          "source_title": "Automatische Prozesse ausführen",
-          "items": []
-        },
-        {
-          "id": "menue-menue-87-4",
-          "text": "Schulpflicht zum Schuljahresende",
-          "link": "/schild2/gruppenprozesse/schulpflicht-autom-setzen-zum-sj-ende",
-          "source_title": "Schulpflicht autom. setzen zum SJ.-Ende",
-          "items": []
-        },
-        {
-          "id": "menue-menue-87-5",
-          "text": "Fehlende Lernabschnitte",
-          "link": "/schild2/gruppenprozesse/fehlende-abschnittsdaten-anlegen",
-          "source_title": "Fehlende Abschnittsdaten anlegen",
-          "items": []
-        },
-        {
-          "id": "menue-menue-87-6",
-          "text": "Kurse aus Kurs42 neu laden",
-          "link": "/schild2/gruppenprozesse/kurse-neu-laden-nach-bearbeitung-in-kurs42",
-          "source_title": "Kurse neu laden (nach Bearbeitung in Kurs42)",
-          "items": []
-        },
-        {
-          "id": "menue-menue-87-7",
-          "text": "Fächer sortieren",
-          "link": "/schild2/gruppenprozesse/faecher-in-leistungsdaten-neu-sortieren",
-          "source_title": "Fächer in Leistungsdaten neu sortieren",
-          "items": []
-        },
-        {
-          "id": "menue-menue-87-8",
-          "text": "Kurse sortieren",
-          "link": "/schild2/gruppenprozesse/kurse-neu-sortieren",
-          "source_title": "Kurse neu sortieren",
-          "items": []
-        },
-        {
-          "id": "menue-menue-87-9",
-          "text": "Fotos verkleinern",
-          "link": "/schild2/gruppenprozesse/fotos-neu-skalieren",
-          "source_title": "Fotos neu skalieren",
-          "items": []
         },
         {
           "id": "menue-menue-87-10",
@@ -1458,55 +1929,33 @@
           "items": []
         },
         {
-          "id": "menue-menue-87-11",
-          "text": "Datenbank aufräumen",
-          "link": "/administration/datenbanken/aufraeumen",
-          "source_title": "Aufräumen",
+          "id": "menue-90",
+          "text": "Benutzer",
+          "link": "/administration/benutzer-einstellungen/benutzer",
+          "source_title": "Benutzer",
+          "items": [
+            {
+              "id": "benutzer-plugin",
+              "text": "Benutzerverwaltung als Plugin",
+              "items": [],
+              "link": "/administration/benutzer-einstellungen/benutzerverwaltung-plugin-dll"
+            }
+          ]
+        },
+        {
+          "id": "menue-91",
+          "text": "Zusatzprogramme / Tools",
+          "link": "/hilfe/zusatzprogramme/zusatzprogramme-tools",
+          "source_title": "Zusatzprogramme / Tools",
           "items": []
         },
         {
-          "id": "menue-menue-87-12",
-          "text": "SQL-Befehle eingeben",
-          "link": "/administration/datenbanken/sql-befehle-eingeben",
-          "source_title": "SQL-Befehle eingeben",
-          "items": []
-        },
-        {
-          "id": "menue-menue-87-13",
-          "text": "Transaktionsprotokoll verwenden",
-          "link": "/administration/datenbanken/transaktionsprotokoll-verwenden",
-          "source_title": "Transaktionsprotokoll verwenden",
+          "id": "notenmodul-rueckgabe",
+          "text": "Grundschulnotenmodul: Rückgabe und Druck",
+          "link": "/tools/notenmodul-grundschule/rueckgabe-und-druck",
           "items": []
         }
       ]
-    },
-    {
-      "id": "menue-88",
-      "text": "Datenschutzhinweis",
-      "link": "/administration/benutzer-einstellungen/datenschutzhinweis",
-      "source_title": "Datenschutzhinweis",
-      "items": []
-    },
-    {
-      "id": "menue-89",
-      "text": "Hilfe",
-      "link": "/hilfe/probleme/hilfe",
-      "source_title": "Hilfe",
-      "items": []
-    },
-    {
-      "id": "menue-90",
-      "text": "Benutzer",
-      "link": "/administration/benutzer-einstellungen/benutzer",
-      "source_title": "Benutzer",
-      "items": []
-    },
-    {
-      "id": "menue-91",
-      "text": "Zusatzprogramme / Tools",
-      "link": "/hilfe/zusatzprogramme/zusatzprogramme-tools",
-      "source_title": "Zusatzprogramme / Tools",
-      "items": []
     }
   ]
 }

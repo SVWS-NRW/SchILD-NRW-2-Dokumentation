@@ -7,7 +7,7 @@ import { sectionPrintEntries, canonicalArticle } from './section-print.mjs'
 export function printNavigation() {
   const sidebar = createSidebar(navigation)
   const groups = sidebar['/programmreferenz/']
-  const referenceNode = node => ({ ...node, items: (node.items || []).filter(child => !child.link?.includes('#')).map(referenceNode) })
+  const referenceNode = node => ({ ...node, items: (node.items || []).map(referenceNode) })
   sidebar['/programmreferenz/'] = [{ ...groups[0], items: [...groups[0].items, ...reference.tabs.map(referenceNode)] }, ...groups.slice(1)]
   return { sidebar }
 }

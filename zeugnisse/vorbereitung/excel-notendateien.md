@@ -8,11 +8,15 @@ title: "Excel-Notendateien"
 
 Zur Noteneingabe können jetzt auch Excel-Dateien verwendet werden. Hierzu steht ein neuer Menüpunkt "Datenaustausch\>\>Excel-Notendateien" mit den Untereinträgen "Export" und "Import" zur Verfügung. Folgende Punkte sind zu beachten:
 
+<a id="excel-export"></a>
+
 - Der Export bezieht sich immer auf die aktuell ausgewählte Schülermenge.
 - Es werden (anders als beim Export für das ext. Notenmodul) keine "lehrerbezogenen" Dateien erzeugt.
 - Die Dateien haben folgenden Spalten-Aufbau:
 
 \| Name \| Vorname \| Geburtsdatum \| Klasse \| Fach-Kürzel \| Kursart \| Note \| Punkte \| Zeugnisbemerkung
+
+<a id="excel-import"></a>
 
 - Wichtig: Die ersten sechs Spalten (Name bis Kursart) werden vom Export gefüllt und dürfen bei der Bearbeitung der Datei (Noteneingabe) nicht verändert werden, da ansonsten keine Zuordnung beim Import möglich ist!
 - Nachträgliche Änderungen in SchILD (Fach, Kursart) können dazu führen, dass der betreffende Datensatz beim Import nicht gefunden oder falsch zugeordnet wird!

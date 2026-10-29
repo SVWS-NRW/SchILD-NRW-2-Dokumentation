@@ -8,6 +8,8 @@ title: "Daten als Text- oder Excel-Datei exportieren"
 
 ![Datenexport_Excel](/bilder/schild2/import-export-statistik/datenexport-excel.jpg)
 
+<a id="exportieren"></a>
+
 Um Schild-NRW-Daten in anderen Programmen weiter verwenden zu können (z.B. Export für die Bundesjugendspiele) oder um Lehrern die Daten für ihre Klassen „Excel-fähig“ zur Verfügung stellen zu können, bietet Schild-NRW eine einfache Möglichkeit, diese Daten auf der Festplatte zu speichern.
 
 1.  Filtern Sie bitte zuerst die gewünschte Schülergruppe (z.B. eine Klasse über den Schnellfilter). Ansonsten wird der Export für alle aktiven Schüler ausgeführt.

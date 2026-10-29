@@ -5,7 +5,7 @@ import { referenceLink } from '../reference-navigation.mjs'
 
 type Node = { id: string; text: string; link?: string; items?: Node[]; sections?: Node[] }
 const props = defineProps<{ node: Node; activeId: string }>()
-const children = computed(() => (props.node.items || []).filter(child => !child.link?.includes('#')))
+const children = computed(() => props.node.items || [])
 const containsActive = (node: Node): boolean => node.id === props.activeId || (node.items || []).some(containsActive)
 const open = computed(() => containsActive(props.node))
 const href = computed(() => props.node.link ? withBase(referenceLink(props.node)) : undefined)
@@ -33,6 +33,7 @@ function toggle(event: Event) {
         <ReferenceItem v-for="child in children" :key="child.id" :node="child" :active-id="activeId" />
       </ul>
     </details>
-    <a v-else :href="href" :class="{ 'reference-active': activeId === node.id }" :aria-current="activeId === node.id ? 'page' : undefined">{{ node.text }}</a>
+    <a v-else-if="href" :href="href" :class="{ 'reference-active': activeId === node.id }" :aria-current="activeId === node.id ? 'page' : undefined">{{ node.text }}</a>
+    <span v-else class="reference-undocumented" title="Hierzu liegt keine passende Anleitung vor">{{ node.text }}</span>
   </li>
 </template>

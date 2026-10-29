@@ -14,7 +14,7 @@ import ArticlePrintIcon from './ArticlePrintIcon.vue'
 import VPSidebarGroup from 'vitepress/dist/client/theme-default/components/VPSidebarGroup.vue'
 import navigation from '../navigation.json'
 import reference from '../program-reference.json'
-import { referenceActiveId, referenceEntries } from '../reference-navigation.mjs'
+import { referencePageId, referenceEntries } from '../reference-navigation.mjs'
 const referenceAreas = navigation.sidebar['/programmreferenz/'].slice(1)
 const referenceArticles = referenceEntries(reference)
 const data = useData()
@@ -61,7 +61,7 @@ function adjacentArticle(offset: number) {
 const referencePosition = computed(() => {
   const route = '/' + page.value.relativePath.replace(/\.md$/, '')
   if (route === '/programmreferenz/index') return 0
-  const id = referenceActiveId(reference, referenceSelection.value, route)
+  const id = referencePageId(reference, referenceSelection.value, route)
   return id ? referenceArticles.findIndex(article => article.id === id) : -1
 })
 function adjacentReference(offset: number) {

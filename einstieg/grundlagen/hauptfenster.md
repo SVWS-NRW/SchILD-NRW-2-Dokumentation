@@ -77,12 +77,19 @@ Im Folgenden werden die einzelnen Karteireiter aufgelistet und in ihren Artikeln
 - [Laufbahninformationen](/schild2/schueler/laufbahninfo)
 - [Fördermaßnahmen](/schild2/schueler/foerdermassnahmen)
 - [DSGVO-Einwilligungen](/schild2/schueler/einwilligungen)
-- Übersicht
+- KAoA
+- [Übersicht](/zeugnisse/sekundarstufen/gesamtuebersicht)
 - [Schulischer FHR-Teil](/zeugnisse/sekundarstufen/fhr)
 - [BK-Abschlussverfahren](/zeugnisse/berufskolleg/bk-abschluss)
 - [Abitur](/zeugnisse/sekundarstufen/abitur)
 - [Dokumentenverwaltung](/administration/benutzer-einstellungen/dokumentenverwaltung)
 - [ZP10 und ZK10](/zeugnisse/sekundarstufen/zp10-zk10)
+
+<a id="statuszeile"></a>
+
+## Statuszeile
+
+Am unteren Fensterrand zeigt die Statuszeile die Position des ausgewählten Datensatzes, die Sortierung der Schülerliste und die aktive Filterbedingung.
 
 ------------------------------------------------------------------------
 

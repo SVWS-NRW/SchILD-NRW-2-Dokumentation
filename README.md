@@ -47,3 +47,53 @@ Historische Konverter und eingefrorene Artikelprüfungen wurden nach geprüfter 
 ## Veröffentlichung
 
 Ein Build veröffentlicht nichts automatisch. Standardmäßig gilt `/`; für ein Unterverzeichnis ist `DOCS_BASE` vor Build und Vorschau zu setzen. Menü, Suche, Bilder und Druck am konkreten Hosting prüfen. Änderungen über einen eigenen Branch und einen PR gegen `dev` bereitstellen; der Merge erfolgt durch den Maintainer.
+
+## Abgleich der Programmreferenz mit der Oberfläche
+
+Grundlage sind die 41 Screenshots aus den beiden Pushes `49e6670` und `39c02f2`. Die ersten zehn Referenzbereiche entsprechen der Menüleiste in Screenshot 0002. Danach folgen das Hauptfenster und die dokumentierten Ergänzungen.
+
+| Screenshots | Geprüfter Bereich | Korrektur |
+| --- | --- | --- |
+| 0001–0003 | Menüleiste und Datei | Gruppenprozesse vor Auswahl; Datei-Befehle ergänzt. |
+| 0004–0005 | Schulverwaltung und Statistik | Vermerkarten vor Zeugnisvorlagen; Prüfung und Statistikexporte ergänzt. |
+| 0006 | Kataloge | Beschäftigungsarten als nicht dokumentierten Eintrag ergänzt; Kindergärten als schulformabhängige Ergänzung erhalten. |
+| 0007 | Gruppenprozesse | Fünf sichtbare Kategorien; Abituraktionen separat erhalten. Teilleistungsbefehle aus dem Artikel ergänzt. |
+| 0008 | Auswahl | Filter bearbeiten und Filter auf markierte Schüler ergänzt; Filter löschen als Ergänzung erhalten. |
+| 0009 | Druckausgabe | Archivdruck und beide Word-Seriendruckwege ergänzt; Textzeugnisse erzeugen auf die native Word-Zeugniserzeugung korrigiert. |
+| 0010–0017 | Datenaustausch | Exporte und Untermenüs entsprechend den Screenshots; Wohnortexport unter Weitere Exporte statt LuPO. |
+| 0018–0019 | Extras und Hilfe | Benutzerverwaltung, Rückholen gelöschter Daten, Aufnahmejahr und beschriebene Abschnittsbefehle ergänzt. |
+| 0021–0025 | Hauptfenster | Symbolleiste, Schülerauswahl, Schnellfilter, Schülerliste und Statuszeile getrennt. |
+| 0026–0030 | Schülerkarteireiter | Reihenfolge korrigiert; Deutschförderung bei Individualdaten II. |
+| 0031–0034 | Aktuelles Halbjahr | Unterreiter und Zeugnisbereich hierarchisch ergänzt. |
+| 0035–0038 | Laufbahninfo, Förderung, Einwilligungen, KAoA | Einwilligungen und KAoA an richtiger Position. KAoA ohne Anleitung belassen. |
+| 0039–0043 | Übersicht, FHR, Abitur, ZP 10 | Übersichtsartikel und beide Unterreiter verknüpft; Abituraktionen zugeordnet. |
+
+### Sichtbare Funktionen ohne passende Anleitung
+
+Diese Einträge werden bewusst ohne Link dargestellt. Gesucht wurde in den vorhandenen redaktionellen Artikeln; bloße Erwähnungen in Versionslisten oder im alten Inhaltsverzeichnis gelten nicht als Anleitung.
+
+- Beschäftigungsarten
+- Filterdefinition bearbeiten
+- Vorlage im- und exportieren
+- Export für Startklar
+- Export für Komm mit
+- Abitur-Daten exportieren
+- ZP10- und ZK-Daten exportieren
+- Import ZP 10
+- Einstellungen exportieren
+- Einstellungen importieren
+- Ausweisnummern löschen
+- Indizes wiederherstellen
+- Löschfristen prüfen
+- Zeichentabelle von Windows aufrufen
+- Online-Supportprogramm starten
+- Arbeits- und Sozialverhalten
+- Außerunterrichtliches Engagement
+- Bemerkung zur Versetzung
+- KAoA
+
+### Erhaltene Ergänzungen
+
+Fachklassen, BK-Abschluss, Dokumentenverwaltung, Kindergärten, Filter löschen, Abituraktionen, Straße und Hausnummer trennen, Benutzer-Plugin und Zusatzprogramme bleiben unter „Weitere Funktionen“ zugänglich. Ihre Existenz ist in den jeweiligen Artikeln belegt; sie werden nicht als Teil der fotografierten Menüleiste ausgegeben.
+
+Alte Artikeladressen und bestehende Überschriftenanker bleiben erhalten. Neue Abschnittsanker erschließen bestehende Erläuterungen. Die gesicherten Wiki-Quelltexte und Originaldateien wurden nicht verändert.
