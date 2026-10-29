@@ -10,8 +10,7 @@ export function referenceLink(node) {
 export function referenceEntries(reference) {
   const entries = [{ id: '', text: 'Programmreferenz', link: '/programmreferenz/' }]
   function visit(node) {
-    if (node.link?.includes('#')) return
-    if (node.link) entries.push({ id: node.id, text: node.text, link: referenceLink(node) })
+    if (node.link && !node.link.includes('#')) entries.push({ id: node.id, text: node.text, link: referenceLink(node) })
     for (const child of node.items || []) visit(child)
   }
   for (const tab of reference.tabs) visit(tab)
@@ -21,10 +20,9 @@ export function referenceEntries(reference) {
 export function referenceActiveId(reference, selection, route) {
   function find(node) {
     if (selection
-      ? node.id === selection || node.sections?.some(section => section.id === selection) || node.items?.some(child => child.id === selection && child.link?.includes('#'))
+      ? node.id === selection || node.sections?.some(section => section.id === selection)
       : node.link === route) return node.id
     for (const child of node.items || []) {
-      if (child.link?.includes('#')) continue
       const found = find(child)
       if (found) return found
     }
@@ -35,4 +33,28 @@ export function referenceActiveId(reference, selection, route) {
     if (found) return found
   }
   return ''
+}
+
+// An in-article menu command still uses its enclosing article's pager position.
+export function referencePageId(reference, selection, route) {
+  const entries = referenceEntries(reference)
+  if (entries.some(entry => entry.id === selection)) return selection
+  function find(node, parents = []) {
+    const chain = [...parents, node]
+    if (node.id === selection) {
+      const path = node.link?.split('#')[0]
+      return [...chain].reverse().find(parent => parent.link === path && !parent.link.includes('#'))?.id
+        || entries.find(entry => entry.link.split('?')[0] === path)?.id || ''
+    }
+    for (const child of node.items || []) {
+      const found = find(child, chain)
+      if (found) return found
+    }
+    return ''
+  }
+  for (const tab of reference.tabs) {
+    const found = find(tab)
+    if (found) return found
+  }
+  return referenceActiveId(reference, '', route)
 }

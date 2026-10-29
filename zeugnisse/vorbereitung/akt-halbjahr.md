@@ -42,6 +42,8 @@ Auf der Karteikarte Leistungsdaten sieht man die Fächer, die dem Schüler zugeo
 
 Der dritte Karteireiter zeigt - nach erfolgter Berechnung - das Ergebnis der Versetzungs- bzw. Abschlussberechnung an.
 
+<a id="zeugnis-abschluss"></a>
+
 Im unteren Bereich des Fensters sind die Angaben zum Zeugnis bzw. zur Versetzung zu finden.
 
 ![Zeugnis-Abschluss](/bilder/zeugnisse/vorbereitung/zeugnis-abschluss.png)

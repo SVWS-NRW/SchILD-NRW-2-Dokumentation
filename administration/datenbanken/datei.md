@@ -8,6 +8,8 @@ title: "Menü Datei"
 
 Mit diesem Menü gelangen Sie an folgende Funktionen:
 
+<a id="drucker-einrichten"></a>
+
 Drucker einrichten
 
 Hier können Sie die Standardeinstellungen für den Drucker beeinflussen.
@@ -20,9 +22,13 @@ Führen Sie diese Funktion regelmäßig vor größeren Datenbank-Arbeiten oder D
 
 Diese Funktion steht nur bei Access zur Verfügung!
 
+<a id="benutzer-wechseln"></a>
+
 Benutzer wechseln
 
 Meldet den aktuellen User ab und einen neuen User (evtl. mit anderen Berechtigungen) an.
+
+<a id="beenden"></a>
 
 Schließen
 

@@ -35,6 +35,12 @@ Hier können über ein Menü einige Funktionen erreicht werden:
 - Vermerke zeigen (Schwebefenster mit Vermerken zum Schüler wird gezeigt)
 - Telefonnummern zeigen (Schwebefenster mit Telefonnummern von [Erziehungsberechtigte](/schild2/schueler/erz-berechtigte) wird gezeigt
 
+<a id="aktuelle-laufbahndaten"></a>
+
+## Aktuelle Laufbahndaten
+
+Der untere Bereich zeigt Klasse, Schuljahr und Halbjahr, Statistikjahrgang, Klassenart und Schulbesuchsjahre. Daneben stehen Schulgliederung, Organisationsform, Prüfungsordnung und das voraussichtliche Abschlussdatum.
+
 ------------------------------------------------------------------------
 
 ---

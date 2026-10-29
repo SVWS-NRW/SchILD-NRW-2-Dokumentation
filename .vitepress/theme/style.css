@@ -67,6 +67,7 @@
 .program-reference-menu summary:hover > .reference-caret { color: var(--vp-c-text-2); }
 .program-reference-menu summary > .reference-caret:hover { color: var(--vp-c-text-1); }
 .program-reference-menu a:hover { color: var(--vp-c-brand-1); }
+.program-reference-menu .reference-undocumented { display: block; padding: 4px 0; color: var(--vp-c-text-3); font-weight: 400; }
 .program-reference-menu .reference-title { font-size: 14px; font-weight: 700; color: var(--vp-c-text-1); margin: 0; }
 .program-reference-menu .reference-ancestor { color: var(--vp-c-text-1); }
 .program-reference-menu .reference-active { color: var(--vp-c-brand-1); }

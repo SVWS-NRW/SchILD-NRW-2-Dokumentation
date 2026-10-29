@@ -41,7 +41,7 @@ Die Symbole bedeuten (von links nach rechts):
   - Filter I aufrufen
   - Schüler suchen
   - [Wiedervorlage](/schild2/schueler/wiedervorlage)
-  - Filter auf markierte Schüler
+  - <a id="filter-markierte-schueler"></a>Filter auf markierte Schüler
   - Gruppenprozesse aufrufen
   - Hilfe aufrufen
   - Fenster auf Standarddrucker ausgeben

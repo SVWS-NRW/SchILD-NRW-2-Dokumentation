@@ -12,11 +12,15 @@ Um den Word-Seriendruck zu starten, wählen Sie im Menü **Druckausgabe** den Me
 
 ![Word-Seriendruck01](/bilder/reporting/verwaltung/word-seriendruck01.png)
 
+<a id="standard-steuerdatei"></a>
+
 Die Standard-Steuerdatei heißt *Datentra.txt* und wird unter Windows im Ordner *Eigene Dateien* oder *Eigene Dokumente* abgelegt. Die Datei enthält folgende Daten zu einem Schüler: "InterneID"; „Name"; „Vorname"; „Namenszusatz"; „ExterneID"; „Geburtsname"; „Strasse"; „Postleitzahl"; „Ort"; „Telefon"; „EMail"; „Fax"; „AktuellesHalbjahr"; „AktAbschnitt"; „Klasse"; „Jahrgang"; „Schulbesuchsjahre"; „Geburtsdatum"; „Geburtsort"; „Volljaehrig"; „Geschlecht"; „Staatsangehörigkeit"; „Aussiedler"; „Religion"; „Religionsabmeldung"; „Religionsanmeldung"; „Bafoeg"; „Schwerbehinderung"; „Haltestelle"; „ASDSchulform"; „ASDJahrgang"; „SchulpflichtErf"; „Anschreibdatum"; „Aufnahmedatum"; „EinschulungGrundschule"; „VonSchule"; „AusSchulform"; „EntlassJahrgang"; „EntlassenAm"; „AbschlussDatum"; „ErzieherAnrede"; „ErzieherTitel"; „ErzieherVorname"; „ErzieherName"; „ErzAdrAnrede2"; „ErzAdrTitel2"; „Vorname2"; „ErzAdrName2"; „ErzieherArt"; „ErzieherPLZ"; „ErzieherOrt"; „ErzieherStrasse"; „ErzieherAnschreiben"; „Schulnr"
 
 Die folgende Abbildung zeigt die Ausgabeoptionen, die für die Standard-Steuerdatei zur Verfügung gestellt werden:
 
 ![Option-Standardsteuerdatei](/bilder/reporting/verwaltung/option-standardsteuerdatei.png)
+
+<a id="eigene-steuerdatei"></a>
 
 Wenn Sie ihre selbst erstellte Steuerdatei verwenden wollen, öffnet sich ein Fenster mit dem Hinweis, wie Sie eine Steuerdatei erstellen können. Bitte beachten Sie, dass Sie die Steuerdatei vor dem Druck mit den jeweils aktuellen Daten füllen!
 
