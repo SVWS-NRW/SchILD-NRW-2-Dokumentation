@@ -7,21 +7,23 @@ title: "GruppenDesBenutzers"
 <a id="RAP-Funktion_&quot;GruppenDesBenutzers&quot;"></a>
 <a id="RAP-Funktion_.22GruppenDesBenutzers.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 function GruppenDesBenutzers(const aLoginName: String): String;
 ```
 
-## Beschreibung
 
 Ermittelt die Benutzergruppen, denen ein Benutzer angehört
 
 ## Parameter
 
-```text
-aLoginName : Loginname des Benutzers
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `aLoginName` | Loginname des Benutzers |
+
 
 ## Rückgabewert
 
@@ -40,8 +42,8 @@ end;
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-34) · [GruppenDesBenutzers – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=GruppenDesBenutzers&oldid=55)

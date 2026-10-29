@@ -7,25 +7,27 @@ title: "SelectFromListEx"
 <a id="RAP-Funktion_&quot;SelectFromListEx&quot;"></a>
 <a id="RAP-Funktion_.22SelectFromListEx.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 function SelectFromListEx(Caption, Optionlist, Default: String; Trennzeichen: Char): String;
 ```
 
-## Beschreibung
 
 ermöglicht die Auswahl eines Elemente aus einer Dropdown-Liste, deren
 Elemente durch ein beliebiges Zeichen getrennt sind.
 
 ## Parameter
 
-```text
-Caption      - Titel des Dialoges
-Optionslist  - Liste der verfügbaren Optionen
-Default      - voreingestellter Rückgabewert
-Trennzeichen - Trennzeichen der Optionsliste
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `Caption` | Titel des Dialoges |
+| `Optionslist` | Liste der verfügbaren Optionen |
+| `Default` | voreingestellter Rückgabewert |
+| `Trennzeichen` | Trennzeichen der Optionsliste |
+
 
 ## Rückgabewert
 
@@ -45,8 +47,8 @@ end;
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-79) · [SelectFromListEx – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SelectFromListEx&oldid=100)

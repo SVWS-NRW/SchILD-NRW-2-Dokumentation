@@ -7,7 +7,9 @@ title: "EditRichText"
 <a id="RAP-Funktion_&quot;EditRichText&quot;"></a>
 <a id="RAP-Funktion_.22EditRichText.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 function EditRichText(Const Default: String): String;
@@ -15,9 +17,10 @@ function EditRichText(Const Default: String): String;
 
 ## Parameter
 
-```text
-Default    -  Zu bearbeitender Richtext, kann auch leer sein
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `Default` | Zu bearbeitender Richtext, kann auch leer sein |
+
 
 ## Rückgabewert
 
@@ -30,8 +33,8 @@ RichText1.RichText:=EditRichText('Hier den Text eingeben!');
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-17) · [EditRichText – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=EditRichText&oldid=36)

@@ -7,7 +7,9 @@ title: "SetKursSchuelerFaecherListe"
 <a id="RAP-Funktion_&quot;SetKursSchuelerFaecherListe&quot;"></a>
 <a id="RAP-Funktion_.22SetKursSchuelerFaecherListe.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 procedure SetKursSchuelerFaecherListe(Const aListe: String);
@@ -15,9 +17,9 @@ procedure SetKursSchuelerFaecherListe(Const aListe: String);
 
 ## Parameter
 
-```text
-Liste    - Kommaseparierte Liste der gewünschten Fächer
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `Liste` | Kommaseparierte Liste der gewünschten Fächer |
 
 
 ## Beispiel
@@ -32,8 +34,8 @@ Procedure ReportBeforePrint;
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-90) · [SetKursSchuelerFaecherListe – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetKursSchuelerFaecherListe&oldid=114)

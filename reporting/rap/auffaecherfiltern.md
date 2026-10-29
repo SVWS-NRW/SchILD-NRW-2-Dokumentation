@@ -10,33 +10,32 @@ title: "AufFaecherFiltern"
 ## Beschreibung
 
 ```pascal
- 
-    procedure AufFaecherFiltern( const fachliste: string);
+procedure AufFaecherFiltern( const fachliste: string);
+```
 
 Ermöglicht eine Filterung in der Datenquelle „SchuelerJahresuebersicht“ auf bestimmte Fächer. Der Aufruf erfolgt typischerweise im Ereignis „ReportBeforPrint“
 
 Es ist aber geplante, die Filterung auch auf andere Datenquellen zu erweitern
-```
+
 
 ## Parameter
 
-```text
- 
-    Fachliste: Durch Komma oder Semikolon getrennte Liste der schulinternen Fachkürzel
+| Parameter | Bedeutung |
+| --- | --- |
+| `Fachliste` | Durch Komma oder Semikolon getrennte Liste der schulinternen Fachkürzel |
 
 Hinweis: Komma oder Semikolon dürfen nicht vermischt werden, d.h. es dürfen nur Kommas oder nur Semikolons verwendet werden.
-```
 
 
 ## Beispiel
 
-```text
+```pascal
 AufFaecherFiltern('D,E,M');
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1144) · [AufFaecherFiltern – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=AufFaecherFiltern&oldid=4247)

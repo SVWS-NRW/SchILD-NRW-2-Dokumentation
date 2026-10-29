@@ -7,13 +7,14 @@ title: "ResetFilterLaufbahnJahr"
 <a id="RAP-Funktion_&quot;ResetFilterLaufbahnJahr&quot;"></a>
 <a id="RAP-Funktion_.22ResetFilterLaufbahnJahr.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 procedure ResetFilterLaufbahnJahr;
 ```
 
-## Beschreibung
 
 Setzt den über FilterLaufbahnJahr gesetzten Filter zurück
 
@@ -24,8 +25,8 @@ Setzt den über FilterLaufbahnJahr gesetzten Filter zurück
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-69) · [ResetFilterLaufbahnJahr – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ResetFilterLaufbahnJahr&oldid=90)

@@ -7,7 +7,9 @@ title: "SummeFehlstunden"
 <a id="RAP-Funktion_&quot;SummeFehlstunden&quot;"></a>
 <a id="RAP-Funktion_.22SummeFehlstunden.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 procedure SummeFehlstunden(aSchuelerId: integer; var FehlStd, uFehlStd: Integer);
@@ -15,9 +17,10 @@ procedure SummeFehlstunden(aSchuelerId: integer; var FehlStd, uFehlStd: Integer)
 
 ## Parameter
 
-```text
-aSchuelerId  - Id des gewünschten Schülers
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `aSchuelerId` | Id des gewünschten Schülers |
+
 
 ## Rückgabewert
 
@@ -38,8 +41,8 @@ Var
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-102) · [SummeFehlstunden – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SummeFehlstunden&oldid=126)

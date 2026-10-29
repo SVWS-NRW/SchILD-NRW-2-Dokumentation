@@ -7,22 +7,23 @@ title: "MitLernabschnitten"
 <a id="RAP-Funktion_&quot;MitLernabschnitten&quot;"></a>
 <a id="RAP-Funktion_.22MitLernabschnitten.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 procedure MitLernabschnitten(const Value: Boolean);
 ```
 
-## Beschreibung
 
 Erzwingt die Aktualisierung der Datenquelle Lernabschnitte beim Wechsel
 eines Schülerdatensatzes.
 
 ## Parameter
 
-```text
-Value - Boolescher Wert
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `Value` | Boolescher Wert |
 
 
 ## Beispiel
@@ -40,8 +41,8 @@ end
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-53) · [MitLernabschnitten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=MitLernabschnitten&oldid=5723)

@@ -7,7 +7,9 @@ title: "SortierungVon"
 <a id="RAP-Funktion_&quot;SortierungVon&quot;"></a>
 <a id="RAP-Funktion_.22SortierungVon.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 function SortierungVon(Pipeline: TppDbPipeline): String;
@@ -15,9 +17,10 @@ function SortierungVon(Pipeline: TppDbPipeline): String;
 
 ## Parameter
 
-```text
-Pipeline - Datenquelle; Sortierung, die angewendet werden soll
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `Pipeline` | Datenquelle; Sortierung, die angewendet werden soll |
+
 
 ## Rückgabewert
 
@@ -40,8 +43,8 @@ Procedure ReportBeforePrint;
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-100) · [SortierungVon – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SortierungVon&oldid=3507)

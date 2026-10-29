@@ -7,7 +7,9 @@ title: "JahrgangsListe"
 <a id="RAP-Funktion_&quot;JahrgangsListe&quot;"></a>
 <a id="RAP-Funktion_.22JahrgangsListe.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 function JahrgangsListe(Const aEndJg: String; const aDiff: Integer): String;
@@ -15,10 +17,11 @@ function JahrgangsListe(Const aEndJg: String; const aDiff: Integer): String;
 
 ## Parameter
 
-```text
-aEndJg  - Letzter Jahrgang des Intervalls
-aDiff   - Abstand zum Startjahrgang
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `aEndJg` | Letzter Jahrgang des Intervalls |
+| `aDiff` | Abstand zum Startjahrgang |
+
 
 ## Rückgabewert
 
@@ -37,8 +40,8 @@ Procedure ReportBeforePrint;
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-38) · [JahrgangsListe – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=JahrgangsListe&oldid=59)

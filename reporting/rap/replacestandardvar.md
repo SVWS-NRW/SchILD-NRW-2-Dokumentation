@@ -7,7 +7,9 @@ title: "ReplaceStandardVar"
 <a id="RAP-Funktion_&quot;ReplaceStandardVar&quot;"></a>
 <a id="RAP-Funktion_.22ReplaceStandardVar.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 function ReplaceStandardVar(aText, aStandardVar: String): String;
@@ -15,11 +17,10 @@ function ReplaceStandardVar(aText, aStandardVar: String): String;
 
 ## Parameter
 
-```text
-aText              - Text, in dem die oder der Standard-Platzhalter ersetzt
-                     werden sollen.
-aStandardVar       - Standardvariable, die ersetzt werden soll
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `aText` | Text, in dem die oder der Standard-Platzhalter ersetzt werden sollen. |
+| `aStandardVar` | Standardvariable, die ersetzt werden soll |
 
 
 ## Beispiel
@@ -34,8 +35,8 @@ Procedure DetailBeforePrint;
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-62) · [ReplaceStandardVar – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ReplaceStandardVar&oldid=83)

@@ -10,18 +10,19 @@ title: "FileOpenDlg"
 ## Beschreibung
 
 ```pascal
-XXXfunction FileOpenDlg(const aFilename, aInitialDir,
+function FileOpenDlg(const aFilename, aInitialDir,
                            aFilter: String): String;
 ```
 
+
 ## Parameter
 
-```text
-aFilename          - Name der zu öffnenden Datei, evtl. mit Platzhaltern
-aInitialDir        - Startverzeichnis, Leerer String öffnet im aktuellen
-                     Verzeichnis
-aFilter            - Dateinamenfilter
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `aFilename` | Name der zu öffnenden Datei, evtl. mit Platzhaltern |
+| `aInitialDir` | Startverzeichnis, Leerer String öffnet im aktuellen Verzeichnis |
+| `aFilter` | Dateinamenfilter |
+
 
 ## Rückgabewert
 
@@ -34,8 +35,8 @@ Fn:=FileOpenDlg('*.txt','c:\Text','Textdateien|*.txt|Alle Dateien|*.*');
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-22) · [FileOpenDlg – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FileOpenDlg&oldid=43)

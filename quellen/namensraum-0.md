@@ -299,7 +299,7 @@ search: false
 - [Programm-Einstellungen](/quellen/wiki/seite-247) · [Artikel](/administration/benutzer-einstellungen/programm-einstellungen)
 - [Prüfungsergebnisse eingeben](/quellen/wiki/seite-491) · [Artikel](/zeugnisse/sekundarstufen/pruefungsergebnisse-eingeben)
 - [QuotedStr](/quellen/wiki/seite-59) · [Artikel](/reporting/rap/quotedstr)
-- [RAP-Funktionen](/quellen/wiki/seite-9) · [Artikel](/reporting/rap/rap-funktionen)
+- [RAP-Funktionen](/quellen/wiki/seite-9) · [Artikel](/reporting/rap)
 - [ReadDateTime](/quellen/wiki/seite-60) · [Artikel](/reporting/rap/readdatetime)
 - [ReplaceDefault](/quellen/wiki/seite-61) · [Artikel](/reporting/rap/replacedefault)
 - [ReplaceStandardVar](/quellen/wiki/seite-62) · [Artikel](/reporting/rap/replacestandardvar)

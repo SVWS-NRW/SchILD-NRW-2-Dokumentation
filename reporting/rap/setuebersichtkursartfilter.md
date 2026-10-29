@@ -10,7 +10,9 @@ title: "SetUebersichtKursartFilter"
 ## Beschreibung
 
 ```pascal
-'''procedure SetUebersichtKursartFilter(Const aKursartListe: String);'''
+procedure SetUebersichtKursartFilter(Const aKursartListe: String);
+```
+
 Mit dieser Funktion können jetzt alle "Leistungsdatenquellen" 
 (nicht nur in den Übersichten) auf Kursarten gefiltert werden.
 Dabei ist folgendes zu beachten:
@@ -20,13 +22,13 @@ Dabei ist folgendes zu beachten:
 -Wenn ein "-" der Liste vorangestellt wird, funktioniert der Filter ausschließend 
 (d.h. SetUebersichtKursartFilter( '-WPII,AGGT') berücksichtigt nur Leistungsdaten, 
 die nicht die Kursart WPII oder AGGT haben)
-```
+
 
 ## Parameter
 
-```text
-aListe    - Kommaseparierte Liste der gewünschten Kursarten
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `aListe` | Kommaseparierte Liste der gewünschten Kursarten |
 
 
 ## Beispiel
@@ -41,8 +43,8 @@ Procedure ReportBeforePrint;
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-94) · [SetUebersichtKursartFilter – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetUebersichtKursartFilter&oldid=180)

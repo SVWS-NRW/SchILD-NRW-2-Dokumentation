@@ -9,7 +9,7 @@ title: "Wiki-Quelle: RAP-Funktionen"
 
 Gesicherte Wiki-Seite · Namensraum 0 · Version 5689 · Stand 2023-05-30.
 
-[Lesbaren Artikel öffnen](/reporting/rap/rap-funktionen) · [Originaldaten herunterladen](/dateien/quellen/seite-9.json) · [Zum Quellenarchiv](/quellen/)
+[Lesbaren Artikel öffnen](/reporting/rap) · [Originaldaten herunterladen](/dateien/quellen/seite-9.json) · [Zum Quellenarchiv](/quellen/)
 
 ## Originalquelltext
 

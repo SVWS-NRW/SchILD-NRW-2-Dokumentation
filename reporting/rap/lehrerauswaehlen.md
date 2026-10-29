@@ -7,13 +7,14 @@ title: "LehrerAuswaehlen"
 <a id="RAP-Funktion_&quot;LehrerAuswaehlen&quot;"></a>
 <a id="RAP-Funktion_.22LehrerAuswaehlen.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 procedure LehrerAuswaehlen(const Auswahlzeigen: Boolean)
 ```
 
-## Beschreibung
 
 Bisher wurde vor dem Druck eines Berichtes mit der Datenquelle
 'Lehrer' grundsätzlich der Lehrerauswahldialog auf gerufen.
@@ -25,9 +26,9 @@ wieder zurückgesetzt werden.
 
 ## Parameter
 
-```text
-Auswahlzeigen : Boolea
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `Auswahlzeigen` | Boolea |
 
 
 ## Beispiel
@@ -45,8 +46,8 @@ end;
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-40) · [LehrerAuswaehlen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LehrerAuswaehlen&oldid=61)

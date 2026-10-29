@@ -7,7 +7,9 @@ title: "PickDatum"
 <a id="RAP-Funktion_&quot;PickDatum&quot;"></a>
 <a id="RAP-Funktion_.22PickDatum.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 function PickDatum(aCaption, aDate: String): String;
@@ -15,10 +17,11 @@ function PickDatum(aCaption, aDate: String): String;
 
 ## Parameter
 
-```text
-aCaption           - Überschrift des Dialoges
-aDate              - Datumsvorgabe
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `aCaption` | Überschrift des Dialoges |
+| `aDate` | Datumsvorgabe |
+
 
 ## Rückgabewert
 
@@ -26,7 +29,7 @@ Datum als Zeichenkette, z.B. '31.12.2010'
 
 ## Beispiel
 
-```text
+```pascal
 Var
 KDate : String;
 Begin
@@ -35,8 +38,8 @@ End;
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-58) · [PickDatum – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=PickDatum&oldid=79)

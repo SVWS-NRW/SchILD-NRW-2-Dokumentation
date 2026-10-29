@@ -7,13 +7,14 @@ title: "PluginVersion"
 <a id="RAP-Funktion_&quot;PluginVersion&quot;"></a>
 <a id="RAP-Funktion_.22PluginVersion.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 function PluginVersion: string;
 ```
 
-## Beschreibung
 
 Liefert die Version der Reporting.dll
 
@@ -32,8 +33,8 @@ procedure ReportBeforePrint;
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-117) · [PluginVersion – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=PluginVersion&oldid=160)

@@ -7,7 +7,9 @@ title: "Bestaetigung"
 <a id="RAP-Funktion_&quot;Bestaetigung&quot;"></a>
 <a id="RAP-Funktion_.22Bestaetigung.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 function Bestaetigung(const aFrage: String): Boolean;
@@ -15,10 +17,10 @@ function Bestaetigung(const aFrage: String): Boolean;
 
 ## Parameter
 
-```text
-aFrage             - String mir einer Frage, die sich durch Ja oder nein
-                     beantworten lässt
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `aFrage` | String mir einer Frage, die sich durch Ja oder nein beantworten lässt |
+
 
 ## Rückgabewert
 
@@ -38,8 +40,8 @@ begin
 end;
 ```
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-14) · [Bestaetigung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Bestaetigung&oldid=28)

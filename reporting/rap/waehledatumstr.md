@@ -7,7 +7,9 @@ title: "WaehleDatumStr"
 <a id="RAP-Funktion_&quot;WaehleDatumStr&quot;"></a>
 <a id="RAP-Funktion_.22WaehleDatumStr.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 function WaehleDatumStr(const Hinweis: String; const LangFormat: Boolean): String;
@@ -15,12 +17,11 @@ function WaehleDatumStr(const Hinweis: String; const LangFormat: Boolean): Strin
 
 ## Parameter
 
-```text
-Hinweis            - Hinweistext
-LangFormat         - True: Formatierung des Ergebnisses wie
-                    „Langes Datumsformat“ in den Ländereinstellungen von
-                     Windows, sonst Kurzformat
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `Hinweis` | Hinweistext |
+| `LangFormat` | True: Formatierung des Ergebnisses wie „Langes Datumsformat“ in den Ländereinstellungen von Windows, sonst Kurzformat |
+
 
 ## Rückgabewert
 
@@ -34,8 +35,8 @@ liefert (z.B.) 'Sonntag, 26. Mai 1996'
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-106) · [WaehleDatumStr – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=WaehleDatumStr&oldid=131)

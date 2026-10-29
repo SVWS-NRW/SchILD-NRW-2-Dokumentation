@@ -7,23 +7,25 @@ title: "SelectFromList"
 <a id="RAP-Funktion_&quot;SelectFromList&quot;"></a>
 <a id="RAP-Funktion_.22SelectFromList.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 function SelectFromList(Caption, Optionlist, Default: String): String;
 ```
 
-## Beschreibung
 
 ermöglicht die Auswahl eines Elemente aus einer Dropdown-Liste
 
 ## Parameter
 
-```text
-Caption      - Titel des Dialoges
-Optionslist  - Liste der verfügbaren Optionen
-Default      - voreingestellter Rückgabewert
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `Caption` | Titel des Dialoges |
+| `Optionslist` | Liste der verfügbaren Optionen |
+| `Default` | voreingestellter Rückgabewert |
+
 
 ## Rückgabewert
 
@@ -43,8 +45,8 @@ end;
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-78) · [SelectFromList – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SelectFromList&oldid=6033)

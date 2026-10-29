@@ -7,7 +7,9 @@ title: "SelectString"
 <a id="RAP-Funktion_&quot;SelectString&quot;"></a>
 <a id="RAP-Funktion_.22SelectString.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 function SelectString(Prompt, Optionsliste: String): String;
@@ -15,11 +17,11 @@ function SelectString(Prompt, Optionsliste: String): String;
 
 ## Parameter
 
-```text
-Prompt             - Hinweistext
-Optionsliste       - Mit Komma separierte Liste von Zeichenketten, die in einem
-                     Auswahldialog angezeigt werden.
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `Prompt` | Hinweistext |
+| `Optionsliste` | Mit Komma separierte Liste von Zeichenketten, die in einem Auswahldialog angezeigt werden. |
+
 
 ## Rückgabewert
 
@@ -37,8 +39,8 @@ begin
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-82) · [SelectString – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SelectString&oldid=104)

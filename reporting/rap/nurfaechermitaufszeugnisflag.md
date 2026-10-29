@@ -7,13 +7,14 @@ title: "NurFaecherMitAufsZeugnisFlag"
 <a id="RAP-Funktion_&quot;NurFaecherMitAufsZeugnisFlag&quot;"></a>
 <a id="RAP-Funktion_.22NurFaecherMitAufsZeugnisFlag.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 Procedure NurFaecherMitAufsZeugnisFlag(aValue : Boolean);
 ```
 
-## Beschreibung
 
 Durch die Verwendung dieser Prozedur kann erreicht werden, dass
 bei den Schülerleistungsdaten auch Fächer mit ausgegeben werden,
@@ -23,10 +24,9 @@ denen dieses Flag gesetzt ist.
 
 ## Parameter
 
-```text
-aValue             - Boolscher Wert: FALSE schaltet die Überprüfung ab,
-                     TRUE schaltet sie wieder ein.
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `aValue` | Boolscher Wert: FALSE schaltet die Überprüfung ab, TRUE schaltet sie wieder ein. |
 
 
 ## Beispiel
@@ -44,8 +44,8 @@ end;
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-56) · [NurFaecherMitAufsZeugnisFlag – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=NurFaecherMitAufsZeugnisFlag&oldid=77)

@@ -7,7 +7,9 @@ title: "SetTextAttributes"
 <a id="RAP-Funktion_&quot;SetTextAttributes&quot;"></a>
 <a id="RAP-Funktion_.22SetTextAttributes.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 procedure SetTextAttributes(aText: TppCustomRichText);
@@ -15,9 +17,9 @@ procedure SetTextAttributes(aText: TppCustomRichText);
 
 ## Parameter
 
-```text
-aText  - Richtextelement
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `aText` | Richtextelement |
 
 
 ## Beispiel
@@ -32,8 +34,8 @@ Formatiert den gesamten Text des Richtextelementes in dem gewünschten Zeichensa
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-91) · [SetTextAttributes – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetTextAttributes&oldid=115)

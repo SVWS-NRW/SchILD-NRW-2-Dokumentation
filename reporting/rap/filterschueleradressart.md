@@ -7,7 +7,9 @@ title: "FilterSchuelerAdressArt"
 <a id="RAP-Funktion_&quot;FilterSchuelerAdressArt&quot;"></a>
 <a id="RAP-Funktion_.22FilterSchuelerAdressArt.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 procedure FilterSchuelerAdressArt(aAdressArt: String);
@@ -15,9 +17,9 @@ procedure FilterSchuelerAdressArt(aAdressArt: String);
 
 ## Parameter
 
-```text
-aAdressArt - Adressart, auf die gefiltert werden soll
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `aAdressArt` | Adressart, auf die gefiltert werden soll |
 
 
 ## Beispiel
@@ -36,8 +38,8 @@ Procedure ReportBeforePrint;
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-29) · [FilterSchuelerAdressArt – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FilterSchuelerAdressArt&oldid=50)

@@ -7,7 +7,9 @@ title: "Zahlwort"
 <a id="RAP-Funktion_&quot;Zahlwort&quot;"></a>
 <a id="RAP-Funktion_.22Zahlwort.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 function Zahlwort(aZahl: String): String;
@@ -15,9 +17,10 @@ function Zahlwort(aZahl: String): String;
 
 ## Parameter
 
-```text
-aZahl  - Zahl in numerischer Darstellung
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `aZahl` | Zahl in numerischer Darstellung |
+
 
 ## Rückgabewert
 
@@ -31,8 +34,8 @@ Ergebnis: 'Drei-Komma-Fünf-Eins'
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-109) · [Zahlwort – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zahlwort&oldid=134)

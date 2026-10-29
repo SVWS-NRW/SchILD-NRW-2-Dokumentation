@@ -7,13 +7,14 @@ title: "KursBezIgnorieren"
 <a id="RAP-Funktion_&quot;KursBezIgnorieren&quot;"></a>
 <a id="RAP-Funktion_.22KursBezIgnorieren.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 Procedure KursBezIgnorieren(Const Ignore : Boolean);
 ```
 
-## Beschreibung
 
 Durch den Aufruf dieser Prozedur wird bei der Einsortierung
 der Leistungsdaten in die Leistungsübersichten die Kursbezeichnung
@@ -22,9 +23,9 @@ notwendig und sinnvoll. Standardmäßig wird die Kursbezeichnung berücksichtigt
 
 ## Parameter
 
-```text
-ignore : wahr-> Kursarten ignorieren
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `ignore` | wahr-&gt; Kursarten ignorieren |
 
 
 ## Beispiel
@@ -44,8 +45,8 @@ Procedure ReportBeforePrint;
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-39) · [KursBezIgnorieren – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=KursBezIgnorieren&oldid=60)

@@ -7,7 +7,9 @@ title: "ZeugnisParameter"
 <a id="RAP-Funktion_&quot;ZeugnisParameter&quot;"></a>
 <a id="RAP-Funktion_.22ZeugnisParameter.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 procedure ZeugnisParameter(var aBeginn, aSprechtag1, aSprechtag2: String);
@@ -15,11 +17,12 @@ procedure ZeugnisParameter(var aBeginn, aSprechtag1, aSprechtag2: String);
 
 ## Parameter
 
-```text
-aBeginn            - Wiederbeginn des Unterrichts
-aSprechtag1        - Erster Sprechtag (mit Anfangs – und Endzeiten)
-aSprechtag2        - Zweiter Sprechtag (mit Anfangs – und Endzeiten)
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `aBeginn` | Wiederbeginn des Unterrichts |
+| `aSprechtag1` | Erster Sprechtag (mit Anfangs – und Endzeiten) |
+| `aSprechtag2` | Zweiter Sprechtag (mit Anfangs – und Endzeiten) |
+
 
 ## Beispiel
 
@@ -47,15 +50,15 @@ end;
 
 Gedruckt wird (Beispieldaten aus der Quelle):
 
-```text
+```pascal
 Elternsprechtag: am 10. Februar 2006 von 8:00 bis 12:00 und von 14:00Uhr
 bis 18:00 Uhr und am 17. Februar 2006 von 8:00 bis 12:00 und von 14:00Uhr
 bis 18:00 Uhr
 Wiederbeginn des Unterrichts am 10. Februar 2006 um 8:00 Uhr.
 ```
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-111) · [ZeugnisParameter – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ZeugnisParameter&oldid=136)

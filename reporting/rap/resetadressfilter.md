@@ -7,13 +7,14 @@ title: "ResetAdressFilter"
 <a id="RAP-Funktion_&quot;ResetAdressFilter&quot;"></a>
 <a id="RAP-Funktion_.22ResetAdressFilter.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 procedure ResetAdressFilter;
 ```
 
-## Beschreibung
 
 Entfernt den über FilterAdresse gesetzten Filter
 
@@ -24,8 +25,8 @@ Entfernt den über FilterAdresse gesetzten Filter
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-66) · [ResetAdressFilter – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ResetAdressFilter&oldid=87)
