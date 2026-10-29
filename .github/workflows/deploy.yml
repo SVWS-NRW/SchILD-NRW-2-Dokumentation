@@ -1,0 +1,86 @@
+name: Dokumentation auf GitHub Pages veröffentlichen
+
+on:
+  # Nach einem Merge nach master automatisch veröffentlichen.
+  push:
+    branches: [master]
+  # Andere Branches können manuell gebaut werden, ohne sie zu veröffentlichen.
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    # Build und Linkprüfung verwenden dieselbe Domainwurzel.
+    env:
+      DOCS_BASE: /
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v7
+
+      - name: Node.js einrichten
+        uses: actions/setup-node@v7
+        with:
+          node-version: '22'
+          cache: npm
+
+      - name: GitHub Pages konfigurieren
+        id: pages
+        uses: actions/configure-pages@v6
+
+      - name: Abhängigkeiten installieren
+        run: npm ci
+
+      - name: Website erstellen
+        run: npm run docs:build
+
+      - name: Interne Links und Bilder prüfen
+        run: npm run docs:check
+
+      # Diesen Build kann der bestehende Nginx-Server unverändert ausliefern.
+      - name: Build für die eigene Domain bereitstellen
+        uses: actions/upload-pages-artifact@v5
+        with:
+          name: schild3-domain
+          path: .vitepress/dist
+
+      # Solange GitHub Pages keine eigene Domain verwendet, ist die Vorschau
+      # unter dem Repository-Unterpfad erreichbar. Diesen getrennt bauen.
+      - name: GitHub-Pages-Pfad berücksichtigen
+        if: steps.pages.outputs.base_path != ''
+        env:
+          DOCS_BASE: ${{ steps.pages.outputs.base_path }}/
+        run: npm run docs:build
+
+      - name: GitHub-Pages-Links und Bilder prüfen
+        if: steps.pages.outputs.base_path != ''
+        env:
+          DOCS_BASE: ${{ steps.pages.outputs.base_path }}/
+        run: npm run docs:check
+
+      - name: Website für die Veröffentlichung hochladen
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: .vitepress/dist
+
+  deploy:
+    # Testläufe auf dev oder Arbeitsbranches veröffentlichen nichts.
+    if: github.ref == 'refs/heads/master'
+    needs: build
+    runs-on: ubuntu-24.04
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Auf GitHub Pages veröffentlichen
+        id: deployment
+        uses: actions/deploy-pages@v5
