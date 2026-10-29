@@ -13,7 +13,7 @@ test('Programmreferenz folgt Menüleiste, Filterbereichen und Schülerkarteireit
  assert.deepEqual(reference.tabs.slice(0,10).map(n=>n.text),['Datei','Schulverwaltung','Kataloge','Gruppenprozesse','Auswahl','Druckausgabe','Datenaustausch','Extras','Datenschutzhinweis','Hilfe'])
  assert.deepEqual(get('menue-62').items.map(n=>n.text),['Allgemeines','Fächer','Teilleistungen','Noten und Zeugnisvorbereitung','Lernabschnitte und Versetzung'])
  assert.deepEqual(get('menue-4').items.map(n=>n.text),['Klasse','Jahrgang','Kurs','Schulgliederung'])
- assert.deepEqual(get('menue-6').items.map(n=>n.text),['Individualdaten I','Individualdaten II','Erziehungsberechtigte','Schulbesuch','Weitere Adressen','Aktuelles Halbjahr','Laufbahninformationen','Fördermaßnahmen','Einwilligungen','KAoA','Übersicht','FHR','Abitur','ZP 10'])
+ assert.deepEqual(get('menue-6').items.map(n=>n.text),['Individualdaten I','Individualdaten II','Erziehungsberechtigte','Schulbesuch','Weitere Adressen','Aktuelles Halbjahr','Laufbahninfo','Fördermaßnahmen','Einwilligungen','KAoA','Übersicht','FHR','Abitur','ZP 10'])
  assert.deepEqual(get('menue-80').items.map(n=>n.text),['Initial-Export','Nur Schülerdaten exportieren','Nur Fächerdaten exportieren'])
  assert(get('austausch-weitere').items.some(n=>n.id==='menue-81'))
  assert(get('menue-69').items.some(n=>n.id==='druck-archiv'))
