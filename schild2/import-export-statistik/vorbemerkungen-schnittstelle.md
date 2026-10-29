@@ -1,8 +1,10 @@
 ---
-title: "Vorbemerkungen-Schnittstelle"
+title: "Textschnittstelle vorbereiten"
 ---
 
-# Vorbemerkungen-Schnittstelle
+<a id="vorbemerkungen-schnittstelle"></a>
+
+# Textschnittstelle vorbereiten
 
 
 Dieses Dokument beschreibt die Text-Importschnittstelle für SchILD-NRW.

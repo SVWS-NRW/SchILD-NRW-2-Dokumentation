@@ -1,8 +1,10 @@
 ---
-title: "Mailversand aus der Reporting"
+title: "Reports per E-Mail versenden"
 ---
 
-# Mailversand aus der Reporting
+<a id="mailversand-aus-der-reporting"></a>
+
+# Reports per E-Mail versenden
 
 <a id="Versenden_einer_Reportvorlage"></a>
 

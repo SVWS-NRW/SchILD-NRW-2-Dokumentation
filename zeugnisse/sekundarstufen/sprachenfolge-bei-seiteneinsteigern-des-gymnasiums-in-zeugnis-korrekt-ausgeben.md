@@ -1,8 +1,10 @@
 ---
-title: "Sprachenfolge bei Seiteneinsteigern des Gymnasiums in Zeugnis korrekt ausgeben"
+title: "Sprachenfolge von Seiteneinsteigern im Zeugnis ausgeben"
 ---
 
-# Sprachenfolge bei Seiteneinsteigern des Gymnasiums in Zeugnis korrekt ausgeben
+<a id="sprachenfolge-bei-seiteneinsteigern-des-gymnasiums-in-zeugnis-korrekt-ausgeben"></a>
+
+# Sprachenfolge von Seiteneinsteigern im Zeugnis ausgeben
 
 Diese Anleitung beschreibt die **korrekte Druckausgabe der Sprachenfolge bei Seiteneinsteigern** aus Haupt- und Realschule, die nach der Klasse 10 zum Gymnasium wechseln und die in der Sekundarstufe I eine zweite Fremdsprache z.B. von Klasse 8 bis 10 belegt und abgeschlossen haben.
 

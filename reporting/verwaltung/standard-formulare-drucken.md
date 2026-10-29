@@ -1,8 +1,10 @@
 ---
-title: "Standard-Formulare drucken"
+title: "Standardformulare drucken"
 ---
 
-# Standard-Formulare drucken
+<a id="standard-formulare-drucken"></a>
+
+# Standardformulare drucken
 
 In Schild-NRW ist es möglich, ausgewählte Formulare in dem Ordner "Standard" innerhalb des Report-Explorers abzulegen. Sie können einem Benutzer das Recht geben, nur Formulare aus diesem Ordner drucken zu können.
 
@@ -16,7 +18,7 @@ Alternativ können Sie auch den Knopf *Drucken* betätigen und dort *Standard-Fo
 
 ![Drucken-Standard1](/bilder/reporting/verwaltung/drucken-standard1.png)
 
-Es öffnet sich der Ordner Standard des Report-Explorers und Sie können das gewünschte Formular auswählen. (vgl. auch [Reportexplorer aufrufen](/reporting/verwaltung/reportexplorer-aufrufen))
+Es öffnet sich der Ordner Standard des Report-Explorers und Sie können das gewünschte Formular auswählen. (vgl. auch [Reports im Report-Explorer auswählen](/reporting/verwaltung/reportexplorer-aufrufen))
 
 ------------------------------------------------------------------------
 

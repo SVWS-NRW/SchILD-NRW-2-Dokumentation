@@ -1,10 +1,12 @@
 ---
-title: "Deutschförderung nach BASS 13-63 Nr. 3 (Stand 29.08.2024)"
+title: "Deutschförderung"
 ---
 
-# Deutschförderung nach BASS 13-63 Nr. 3 (Stand 29.08.2024)
+<a id="deutschforderung-nach-bass-13-63-nr-3-stand-29-08-2024"></a>
 
-Eintragungen für Schülerinnen und Schüler mit Deutschförderung nach BASS 13-63 Nr. 3
+# Deutschförderung
+
+Die ursprüngliche Anleitung beschreibt die Erfassung nach BASS 13-63 Nr. 3 mit Stand vom 29.08.2024.
 
 Für die Erhebung der amtlichen Schuldaten wurde zur Kennung von Schülerinnen und Schülern mit Deutschförderung ein neuer Schlüssel DF für die Klassenart definiert. Die Eintragungen in SchILD-NRW müssen entsprechend angepasst werden, um die Daten fehlerfrei nach ASDPC zu importieren:
 

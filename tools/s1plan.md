@@ -7,8 +7,8 @@ S1Plan organisiert Kurse der Sekundarstufe I. Es kann neue Kurszuordnungen vorbe
 - [Überblick](/hilfe/zusatzprogramme/s1plan-uebersicht)
 - [Installation](/hilfe/zusatzprogramme/s1plan-installation)
 - [Erster Programmstart](/hilfe/zusatzprogramme/s1plan-erster-programmstart)
-- [Kurse einrichten und zuweisen](/hilfe/zusatzprogramme/s1plan-einrichtung-von-kursen)
+- [Kurse einrichten](/hilfe/zusatzprogramme/s1plan-einrichtung-von-kursen)
 - [Kurse aus SchILD übernehmen](/hilfe/zusatzprogramme/s1plan-uebernahme-von-kursen-aus-schild)
-- [Anhang](/hilfe/zusatzprogramme/s1plan-anhang)
+- [Menüs und Zusatzfunktionen](/hilfe/zusatzprogramme/s1plan-anhang)
 
 Programmbezug und verfügbare Ausgaben: [offizielle Programmseite](https://www.svws.nrw.de/schild-nrw-2/tools-module).

@@ -1,14 +1,16 @@
 ---
-title: "Extras"
+title: "Menü Extras"
 ---
 
-# Extras
+<a id="extras"></a>
+
+# Menü Extras
 
 ![Extras](/bilder/administration/benutzer-einstellungen/extras.jpg)
 
 Unter diesem Menüpunkt stehen Ihnen einige Prozesse zur Verfügung, die zur Einstellung und Wartung der Schild-NRW-Umgebung gedacht sind.
 
-- [Programm-Einstellungen](/administration/benutzer-einstellungen/programm-einstellungen)
+- [Programmeinstellungen](/administration/benutzer-einstellungen/programm-einstellungen)
 
 Hier legen Sie einige Individuelle und Globale Einstellungen fest.
 
@@ -36,45 +38,45 @@ Es erscheint ein Fenster, das die verfügbaren Notenkürzel und den zugehörigen
 
 <!-- -->
 
-- [Schulpflicht autom. setzen zum SJ.-Ende](/schild2/gruppenprozesse/schulpflicht-autom-setzen-zum-sj-ende)
+- [Schulpflicht zum Schuljahresende](/schild2/gruppenprozesse/schulpflicht-autom-setzen-zum-sj-ende)
 
 <!-- -->
 
-- [Fehlende Abschnittsdaten anlegen](/schild2/gruppenprozesse/fehlende-abschnittsdaten-anlegen)
+- [Fehlende Lernabschnitte](/schild2/gruppenprozesse/fehlende-abschnittsdaten-anlegen)
 
 <!-- -->
 
-- [Kurse neu laden (nach Bearbeitung in Kurs42)](/schild2/gruppenprozesse/kurse-neu-laden-nach-bearbeitung-in-kurs42)
+- [Kurse aus Kurs42 neu laden](/schild2/gruppenprozesse/kurse-neu-laden-nach-bearbeitung-in-kurs42)
 
 <!-- -->
 
-- [Fächer in Leistungsdaten neu sortieren](/schild2/gruppenprozesse/faecher-in-leistungsdaten-neu-sortieren)
+- [Fächer sortieren](/schild2/gruppenprozesse/faecher-in-leistungsdaten-neu-sortieren)
 
 Steht nicht bei der Schulform BK zur Verfügung, weil diese Funktion dort als Gruppenprozess zur Verfügung steht.
 
-- [Kurse neu sortieren](/schild2/gruppenprozesse/kurse-neu-sortieren)
+- [Kurse sortieren](/schild2/gruppenprozesse/kurse-neu-sortieren)
 
 <!-- -->
 
-- [Fotos neu skalieren](/schild2/gruppenprozesse/fotos-neu-skalieren)
+- [Fotos verkleinern](/schild2/gruppenprozesse/fotos-neu-skalieren)
 
 <!-- -->
 
-- [Aufnahmejahr für Neuaufnahmen zurücksetzen](/schild2/gruppenprozesse/aufnahmejahr-fuer-neuaufnahmen-zuruecksetzen)
+- [Aufnahmejahr zurücksetzen](/schild2/gruppenprozesse/aufnahmejahr-fuer-neuaufnahmen-zuruecksetzen)
 
 <!-- -->
 
-- [Straße und Hausnummer bei Schülerdaten trennen](/schild2/gruppenprozesse/strasse-und-hausnummer-bei-schuelerdaten-trennen)
+- [Straße und Hausnummer trennen](/schild2/gruppenprozesse/strasse-und-hausnummer-bei-schuelerdaten-trennen)
 
 <!-- -->
 
-- [Aufräumen](/administration/datenbanken/aufraeumen)
+- [Datenbank aufräumen](/administration/datenbanken/aufraeumen)
 
 <!-- -->
 
 - Alle Markierungen entfernen
 
-Löscht alle Markierungen im [Container](/einstieg/grundlagen/container). Dieser Prozesss wird auch bei Programmende abgefragt, wenn noch Markierungen bei den Schülern vorhanden sind.
+Löscht alle Markierungen im [Schülerliste und Auswahl](/einstieg/grundlagen/container). Dieser Prozesss wird auch bei Programmende abgefragt, wenn noch Markierungen bei den Schülern vorhanden sind.
 
 - [SQL-Befehle eingeben](/administration/datenbanken/sql-befehle-eingeben)
 
@@ -88,7 +90,7 @@ Löscht alle Markierungen im [Container](/einstieg/grundlagen/container). Dieser
 
 Zeigt das Protokoll, wenn die o.g. Funktion eingeschaltet wurde.
 
-- [Chat-Programm starten](/hilfe/zusatzprogramme/schildchat-exe)
+- [SchILDChat](/hilfe/zusatzprogramme/schildchat-exe)
 
 ------------------------------------------------------------------------
 

@@ -1,8 +1,10 @@
 ---
-title: "Statistik / amtliche Schuldaten"
+title: "Amtliche Schulstatistik vorbereiten"
 ---
 
-# Statistik / amtliche Schuldaten
+<a id="statistik-amtliche-schuldaten"></a>
+
+# Amtliche Schulstatistik vorbereiten
 
 Dieser Menüpunkt beinhaltet alle Vorgänge, die zur Bereitstellung der statistischen Daten für ASDPC32 notwendig sind.
 
@@ -33,7 +35,7 @@ Wenn das Fehlerprotokoll in Form einer PDF-Datei erfolgreich im Ordner "Statisti
 
 Bitte beachten Sie, dass dafür ein PDF-Programm installiert sein muss!
 
-In diesem Protokoll werden die Schüler mit Fehlernummern aufgelistet. Diese Schüler kann man nun über das Fernglas durch Eingabe der Statistik_ID aufrufen. Oder man kann über [Auswahl](/schild2/auswahl/auswahl) \> [Filter I](/schild2/auswahl/filter-i) \> [Schüler mit Statistik-Fehlern zeigen](/schild2/auswahl/schueler-mit-statistik-fehlern-zeigen) gehen.
+In diesem Protokoll werden die Schüler mit Fehlernummern aufgelistet. Diese Schüler kann man nun über das Fernglas durch Eingabe der Statistik_ID aufrufen. Oder man kann über [Menü Auswahl](/schild2/auswahl/auswahl) \> [Filter I](/schild2/auswahl/filter-i) \> [Statistikfehler finden](/schild2/auswahl/schueler-mit-statistik-fehlern-zeigen) gehen.
 
 Bitte beachten Sie, dass diese Fehlerprüfung nur ein erster Versuch sein kann, grobe Fehler zu finden! Eine komplette Plausibilitätsprüfung, wie in ASDPC32, ist hier nicht möglich! Es lohnt sich deshalb manchmal auch, die Exportdateien trotz einiger Fehler zu erstellen!
 

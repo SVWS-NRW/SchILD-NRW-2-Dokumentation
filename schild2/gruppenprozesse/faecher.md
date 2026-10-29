@@ -1,8 +1,10 @@
 ---
-title: "Fächer"
+title: "Gruppenprozesse für Fächer"
 ---
 
-# Fächer
+<a id="facher"></a>
+
+# Gruppenprozesse für Fächer
 
 ![GP-Fächer](/bilder/schild2/gruppenprozesse/gp-facher.jpg)
 
@@ -11,21 +13,21 @@ Unter dem Karteireiter "Fächer" verbergen sich folgende Gruppenprozesse.
 Bitte klicken Sie die Artikel an, um Informationen zu den dahinter liegenden Sammelaktionen zu bekommen.
 
 - [Stundentafeln zuweisen](/schild2/gruppenprozesse/stundentafeln-zuweisen)
-- [Klassenunterrichte bearbeiten](/schild2/gruppenprozesse/klassenunterrichte-bearbeiten)
-- [Details zu Fächern bei Schülern ändern](/schild2/gruppenprozesse/details-zu-faechern-bei-schuelern-aendern)
-- [Einzelne Fächer bei Schülern löschen](/schild2/gruppenprozesse/einzelne-faecher-bei-schuelern-loeschen)
-- [Einzelne Fächer bei Schülern hinzufügen](/schild2/gruppenprozesse/einzelne-faecher-bei-schuelern-hinzufuegen)
-- [Noten von Epochal-Fächern ergänzen](/schild2/gruppenprozesse/noten-von-epochal-faechern-ergaenzen)
+- [Klassenunterricht bearbeiten](/schild2/gruppenprozesse/klassenunterrichte-bearbeiten)
+- [Fachangaben ändern](/schild2/gruppenprozesse/details-zu-faechern-bei-schuelern-aendern)
+- [Einzelne Fächer löschen](/schild2/gruppenprozesse/einzelne-faecher-bei-schuelern-loeschen)
+- [Einzelne Fächer hinzufügen](/schild2/gruppenprozesse/einzelne-faecher-bei-schuelern-hinzufuegen)
+- [Epochalnoten ergänzen](/schild2/gruppenprozesse/noten-von-epochal-faechern-ergaenzen)
 - [Teilleistungen eingeben](/schild2/gruppenprozesse/teilleistungen-eingeben)
-- [Kurse zuweisen (Einzelkurs)](/schild2/gruppenprozesse/kurse-zuweisen-einzelkurs)
-- [Kurse zuweisen (mehrere Kurse)](/schild2/gruppenprozesse/kurse-zuweisen-mehrere-kurse)
-- [Fächer zuweisen (tabellarisch)](/schild2/gruppenprozesse/faecher-zuweisen-tabellarisch)
-- [Fächer aus vorherigem Abschnitt holen](/schild2/gruppenprozesse/faecher-aus-vorherigem-abschnitt-holen)
+- [Einzelnen Kurs zuweisen](/schild2/gruppenprozesse/kurse-zuweisen-einzelkurs)
+- [Mehrere Kurse zuweisen](/schild2/gruppenprozesse/kurse-zuweisen-mehrere-kurse)
+- [Fächer tabellarisch zuweisen](/schild2/gruppenprozesse/faecher-zuweisen-tabellarisch)
+- [Fächer aus Vorabschnitt](/schild2/gruppenprozesse/faecher-aus-vorherigem-abschnitt-holen)
 - [Doppelte Fächer löschen](/schild2/gruppenprozesse/doppelte-faecher-loeschen)
 
 ------------------------------------------------------------------------
 
-- [Fächer in Leistungsdaten neu sortieren](/schild2/gruppenprozesse/faecher-in-leistungsdaten-neu-sortieren) (nur BK-Datenbanken)
+- [Fächer sortieren](/schild2/gruppenprozesse/faecher-in-leistungsdaten-neu-sortieren) (nur BK-Datenbanken)
 
 ------------------------------------------------------------------------
 

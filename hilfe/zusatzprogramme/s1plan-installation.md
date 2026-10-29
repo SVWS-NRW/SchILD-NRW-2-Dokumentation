@@ -1,8 +1,10 @@
 ---
-title: "S1PLAN:Installation"
+title: "S1Plan installieren"
 ---
 
-# S1PLAN:Installation
+<a id="s1plan-installation"></a>
+
+# S1Plan installieren
 
 Starten Sie das Programm S1Plan-Setup.exe. Bei der Installation erhalten Sie zu Anfang ein Fenster mit wichtigen Informationen für das weitere Vorgehen: S1 - Planungsmodul für SchILD
 

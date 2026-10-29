@@ -10,7 +10,7 @@ Alternativ können Lernbereichsnoten für jeden Schüler einzeln auf der Karteik
 
 **Hinweis:** Diese Noten müssen für den Bereich "Gesellschaftswissenschaften" und "Naturwissenschaften" eingetragen sein, damit Abschlussberechnungen bei Schülern mit Hauptschulabschluss möglich sind.
 
-Lassen Sie zunächst den Gruppenprozess [Versetzungs-/Abschluss-Berechnung](/schild2/versetzung/versetzungs-abschluss-berechnung) durchlaufen und merken Sie sich die Schüler, bei denen angegeben wird, dass eine Berechnung wegen fehlender Lernbereichsnoten nicht möglich ist. So minimieren Sie die Anzahl der einzutragenden Lernbereichsnoten.
+Lassen Sie zunächst den Gruppenprozess [Versetzung und Abschlüsse berechnen](/schild2/versetzung/versetzungs-abschluss-berechnung) durchlaufen und merken Sie sich die Schüler, bei denen angegeben wird, dass eine Berechnung wegen fehlender Lernbereichsnoten nicht möglich ist. So minimieren Sie die Anzahl der einzutragenden Lernbereichsnoten.
 
 ------------------------------------------------------------------------
 

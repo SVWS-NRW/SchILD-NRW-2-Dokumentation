@@ -1,8 +1,10 @@
 ---
-title: "Nicht mögliche Fachkombinationen"
+title: "Unzulässige Fachkombinationen festlegen"
 ---
 
-# Nicht mögliche Fachkombinationen
+<a id="nicht-mogliche-fachkombinationen"></a>
+
+# Unzulässige Fachkombinationen festlegen
 
 Unter dem Knopf "Nicht mögliche Fächerkombinationen"
 

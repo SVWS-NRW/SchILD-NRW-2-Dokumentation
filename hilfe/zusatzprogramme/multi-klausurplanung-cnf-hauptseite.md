@@ -1,8 +1,10 @@
 ---
-title: "Multi Klausurplanung CNF:Hauptseite"
+title: "Mehrere Klausurpläne mit Multi Klausurplanung CNF erstellen"
 ---
 
-# Multi Klausurplanung CNF:Hauptseite
+<a id="multi-klausurplanung-cnf-hauptseite"></a>
+
+# Mehrere Klausurpläne mit Multi Klausurplanung CNF erstellen
 
 <a id="Hinweise"></a>
 

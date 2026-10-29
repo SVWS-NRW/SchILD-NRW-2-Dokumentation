@@ -1,8 +1,12 @@
 ---
-title: "C08 Fachoberschule Kl. 12B (BK/FHR 1j; VZ)"
+title: "C08 Fachoberschule Klasse 12B"
 ---
 
-# C08 Fachoberschule Kl. 12B (BK/FHR 1j; VZ)
+<a id="c08-fachoberschule-kl-12b-bk-fhr-1j-vz"></a>
+
+# C08 Fachoberschule Klasse 12B
+
+Einjähriger Vollzeitbildungsgang der Fachoberschule, Klasse 12B.
 
 ![BK_Abschluss_C08](/bilder/zeugnisse/berufskolleg/bk-abschluss-c08.png)
 

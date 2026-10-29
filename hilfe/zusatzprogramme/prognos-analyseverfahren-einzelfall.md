@@ -1,8 +1,10 @@
 ---
-title: "Prognos:Analyseverfahren: Einzelfall"
+title: "Einzelne Notenbilder mit PM2 analysieren"
 ---
 
-# Prognos:Analyseverfahren: Einzelfall
+<a id="prognos-analyseverfahren-einzelfall"></a>
+
+# Einzelne Notenbilder mit PM2 analysieren
 
 Nach der Auswahl des Einzelfalls erscheint das Prognosefenster:
 

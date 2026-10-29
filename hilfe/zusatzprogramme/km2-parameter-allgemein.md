@@ -1,8 +1,10 @@
 ---
-title: "KM2 - Parameter - Allgemein"
+title: "Anzeige und Fächerauswahl in KM2 anpassen"
 ---
 
-# KM2 - Parameter - Allgemein
+<a id="km2-parameter-allgemein"></a>
+
+# Anzeige und Fächerauswahl in KM2 anpassen
 
 ![Km2_parameter_allgemein](/bilder/tools/km2/km2-parameter-allgemein.png)
 

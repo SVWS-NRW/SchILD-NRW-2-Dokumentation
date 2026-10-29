@@ -1,8 +1,10 @@
 ---
-title: "Notenmodul für Grundschulen: Leistungsdaten eingeben"
+title: "Notenmodul für Grundschulen: Noten und Kompetenzen eingeben"
 ---
 
-# Leistungsdaten eingeben
+<a id="leistungsdaten-eingeben"></a>
+
+# Noten und Kompetenzen eingeben
 
 Das Grundschul-Notenmodul arbeitet mit der von der Schule ausgegebenen Notendatei. Ein direkter Zugriff auf SchILD ist für die Eingabe zu Hause nicht erforderlich.
 

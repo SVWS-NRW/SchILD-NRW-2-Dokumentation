@@ -1,8 +1,10 @@
 ---
-title: "Details zu Fächern bei Schülern ändern"
+title: "Fachangaben gruppenweise ändern"
 ---
 
-# Details zu Fächern bei Schülern ändern
+<a id="details-zu-fachern-bei-schulern-andern"></a>
+
+# Fachangaben gruppenweise ändern
 
 Mit dem Aufruf des Gruppenprozesses "Details zu Fächern bei Schülern ändern" erscheint das Eingabefenster "Angaben zu Fächern ändern".
 

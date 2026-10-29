@@ -1,8 +1,10 @@
 ---
-title: "Schüler-Datensätze löschen"
+title: "Markierte Schülerdatensätze endgültig löschen"
 ---
 
-# Schüler-Datensätze löschen
+<a id="schuler-datensatze-loschen"></a>
+
+# Markierte Schülerdatensätze endgültig löschen
 
 Dieser Gruppenprozess wird erst freigeschaltet, wenn Schüler mit Löschmarkierung über den Filter ausgewählt wurden und im Datencontainer aufgelistet werden.
 

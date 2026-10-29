@@ -1,8 +1,12 @@
 ---
-title: "D01 Berufsabschluss/Allg. Hochschulreife (mit Berufspraktikum) (BAB/AHR 4j; VZ)"
+title: "D01 Berufsabschluss und Abitur"
 ---
 
-# D01 Berufsabschluss/Allg. Hochschulreife (mit Berufspraktikum) (BAB/AHR 4j; VZ)
+<a id="d01-berufsabschluss-allg-hochschulreife-mit-berufspraktikum-bab-ahr-4j-vz"></a>
+
+# D01 Berufsabschluss und Abitur
+
+Vierjähriger Vollzeitbildungsgang zum Berufsabschluss und zur allgemeinen Hochschulreife mit Berufspraktikum.
 
 Die Berechnungen finden im 4. Jahrgang des Bildungsgangs nach dem Abitur statt. Es wird vorrausgesetzt, dass die Berechnungen auf dem Reiter Abitur gemacht wurden.
 

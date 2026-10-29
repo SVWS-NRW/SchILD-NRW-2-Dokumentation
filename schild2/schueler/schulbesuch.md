@@ -61,7 +61,7 @@ Bitte beachten Sie, dass an dieser Stelle nur Abschlüsse ausgewiesen werden, di
 
 Die Angaben können Sie nutzen, um einen besseren Überblick zur Schulpflichtüberwachung zu haben.
 
-An Grundschulen hat diese Eintragung noch einen weiteren Effekt. Alle Schüler, bei denen eine aufnehmende Schule eingetragen ist, werden im [Container](/einstieg/grundlagen/container) mit einer türkisen Hintergrundfarbe dargestellt.
+An Grundschulen hat diese Eintragung noch einen weiteren Effekt. Alle Schüler, bei denen eine aufnehmende Schule eingetragen ist, werden im [Schülerliste und Auswahl](/einstieg/grundlagen/container) mit einer türkisen Hintergrundfarbe dargestellt.
 
 ![WechselSchule2](/bilder/schild2/schueler/wechselschule2.jpg)
 

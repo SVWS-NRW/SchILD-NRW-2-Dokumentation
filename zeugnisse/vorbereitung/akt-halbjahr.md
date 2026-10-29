@@ -1,8 +1,10 @@
 ---
-title: "Akt. Halbjahr"
+title: "Daten im aktuellen Halbjahr bearbeiten"
 ---
 
-# Akt. Halbjahr
+<a id="akt-halbjahr"></a>
+
+# Daten im aktuellen Halbjahr bearbeiten
 
 Auf der Karteikarte **Akt. Halbjahr** finden Sie alle Informationen zu einem Schüler, die die besuchten Lernabschnitte betreffen. Das sind, bezogen auf den ausgewählten Abschnitt, die Leistungsdaten (mit der Stundentafel), Allgemeine Angaben (Klassenlehrer, Jahrgang, Prüfungsordung usw.), Fehlzeiten (falls eingeschaltet) und den letzten Text des Ergebnisses der Versetzungs-/Abschlussberechnung.
 
@@ -10,7 +12,7 @@ Sie können durch Klicken auf den Pfeil neben der Angabe "2013/14, 2. Hj, ..." s
 
 ![Akt.Halbjahr-Uebersicht](/bilder/zeugnisse/vorbereitung/akt-halbjahr-uebersicht.png)
 
-Unter der Abschnittsbezeichnung sieht man auch die sog. Wertungshaken ("gewerteter Abschnitt" und "2. Durchgang oder höher"), die besonders bei Wiederholungen richtig gesetzt sein müssen. Diese Wertungshaken sind auch in der [Gesamtübersicht](/zeugnisse/sekundarstufen/gesamtuebersicht) zu sehen, können dort aber nicht verändert werden.
+Unter der Abschnittsbezeichnung sieht man auch die sog. Wertungshaken ("gewerteter Abschnitt" und "2. Durchgang oder höher"), die besonders bei Wiederholungen richtig gesetzt sein müssen. Diese Wertungshaken sind auch in der [Laufbahn- und Leistungsübersicht](/zeugnisse/sekundarstufen/gesamtuebersicht) zu sehen, können dort aber nicht verändert werden.
 
 Dabei gilt folgende Faustregel:
 
@@ -30,7 +32,7 @@ Bei Wechsel (Rücktritt u. Sprung nach oben) im laufenden Schuljahr (nicht Verse
 
 Analog wird bei "Sprung nach oben im laufenden Schuljahr" (Hand rechtsweisend) vorgegangen (Rückfrage "Sprung nach oben ausführen?").
 
-Nach dem Neustart von SchILD sollte die "neue" Klasse beim Schüler unter "Laufbahn" (auf der Karte [Individual-Daten I](/schild2/schueler/individual-daten-i)) geprüft werden (auch der "Statistik-Jahrgang", ggf. diesen anpassen). In der Folge wären Klassenlisten zu ändern, auch das Stammblatt.
+Nach dem Neustart von SchILD sollte die "neue" Klasse beim Schüler unter "Laufbahn" (auf der Karte [Individualdaten I](/schild2/schueler/individual-daten-i)) geprüft werden (auch der "Statistik-Jahrgang", ggf. diesen anpassen). In der Folge wären Klassenlisten zu ändern, auch das Stammblatt.
 
 Eine Abfrage ist möglich mit [Filter I](/schild2/auswahl/filter-i) (auf Karte *Lernabschnitt/Leistungsdaten* Häkchen vor "Rücktritt im laufenden Schuljahr"? / Testen / usw.).
 
@@ -66,7 +68,7 @@ Die "tagesbezogenen" Fehlzeiten werden auf einem Karteireiter "Akt. Halbjahr" in
 
 ![Fehlzeiten001](/bilder/zeugnisse/vorbereitung/fehlzeiten001.png)
 
-Über die [Programm-Einstellungen](/administration/benutzer-einstellungen/programm-einstellungen) kann das aber auch ausgeblendet werden!
+Über die [Programmeinstellungen](/administration/benutzer-einstellungen/programm-einstellungen) kann das aber auch ausgeblendet werden!
 
 ![Fehlzeiten002](/bilder/zeugnisse/vorbereitung/fehlzeiten002.png)
 

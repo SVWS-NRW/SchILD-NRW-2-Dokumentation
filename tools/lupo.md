@@ -13,7 +13,7 @@ LuPO begleitet die Laufbahnberatung und die Prüfung der Fachwahlen in der Obers
 - [Fachwahlen auswerten](/tools/lupo/lupo-auswertung-der-fachwahlen)
 - [Fachwahlen an Kurs42 übergeben](/tools/lupo/lupo-uebergabe-der-fachwahlen-an-kurs42)
 - [Weitere Laufbahnprüfungen](/tools/lupo/lupo-weitere-laufbahnpruefungen)
-- [Versionsgeschichte](/tools/lupo/lupo-versionsgeschichte)
+- [Änderungshistorie](/tools/lupo/lupo-versionsgeschichte)
 - [Inhaltsverzeichnis](/tools/lupo/lupo-handbuch)
 
 Programmbezug und verfügbare Ausgaben: [offizielle Programmseite](https://www.svws.nrw.de/schild-nrw-2/lupo).

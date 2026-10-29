@@ -6,7 +6,7 @@ title: "Zeugnisvorlagen zuordnen"
 
 In diesem Dialog können Sie bestimmte Reports zu Schülergruppen mit ausgewählten Merkmalen zuordnen.
 
-Unter [Gruppenprozesse](/schild2/gruppenprozesse/gruppenprozesse) \> [Noten, Zeugnisvorbereitung](/zeugnisse/vorbereitung/noten-zeugnisvorbereitung) steht Ihnen dann die Mögllichkeit zur Verfügung, diese zugeordneten Zeugnisformulare auf einmal zu drucken.
+Unter [Gruppenprozesse](/schild2/gruppenprozesse/gruppenprozesse) \> [Gruppenprozesse für Noten und Zeugnisse](/zeugnisse/vorbereitung/noten-zeugnisvorbereitung) steht Ihnen dann die Mögllichkeit zur Verfügung, diese zugeordneten Zeugnisformulare auf einmal zu drucken.
 
 ![ZuegnisZU01](/bilder/schild2/unterricht-kataloge/zuegniszu01.jpg)
 

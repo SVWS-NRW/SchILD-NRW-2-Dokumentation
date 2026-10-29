@@ -1,8 +1,10 @@
 ---
-title: "FHR"
+title: "Schulischer Teil der Fachhochschulreife"
 ---
 
-# FHR
+<a id="fhr"></a>
+
+# Schulischer Teil der Fachhochschulreife
 
 Der Karteireiter **FHR** wird nur bei den Schülern angezeigt, die das Abitur anstreben, aber schon die Bedingungen für den Erwerb des **schulischen Teils der Fachhochschulreife** erfüllen.
 

@@ -8,7 +8,7 @@ title: "Gelöschte Daten zurückholen"
 
 Diese Schülerdaten befinden sich dann trotzdem noch in der Datenbank. Dies kann man sich wie den Papierkorb in Windows vorstellen.
 
-Sind (durch Filtern über "Filter I" oder "Attributs-Filter erstellen") nur gelöschte Datensätze im [Container](/einstieg/grundlagen/container), so kann der Gruppenprozess Schülerdatensätze löschen angestoßen werden.
+Sind (durch Filtern über "Filter I" oder "Attributs-Filter erstellen") nur gelöschte Datensätze im [Schülerliste und Auswahl](/einstieg/grundlagen/container), so kann der Gruppenprozess Schülerdatensätze löschen angestoßen werden.
 
 Dieser Prozess dient dazu, die Sätze endgültig aus der Datenbank zu entfernen! Dabei kann jedoch eine Protokolldatei erstellt werden. Für den Fall, dass Sie diese Daten aus der Protokolldatei doch noch wiederherstellen wollen, benutzen Sie bitte diesen Menüpunkt.
 

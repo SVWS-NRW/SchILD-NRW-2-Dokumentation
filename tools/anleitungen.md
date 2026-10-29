@@ -9,9 +9,9 @@ Hier finden Sie die Anleitungen zur Einrichtung und Bedienung der Zusatzprogramm
 - [Neue Blockung erstellen](/tools/kurs42/neue-blockung)
 - [Klausuren planen](/tools/kurs42/klausurplanung)
 - [Halbjahreswechsel und Fachwahlabgleich](/tools/kurs42/halbjahreswechsel)
-- [Externe Blockungsverfahren](/hilfe/zusatzprogramme/k422cnf-uebersicht)
-- [Einsatz unter SchILDzentral](/hilfe/zusatzprogramme/news-kurs42-unter-schild-zentral)
-- [Versionsgeschichte](/hilfe/zusatzprogramme/kurs42-versionsgeschichte)
+- [K422CNF-Anleitung](/hilfe/zusatzprogramme/k422cnf-uebersicht)
+- [Kurs42 mit SchILDzentral](/hilfe/zusatzprogramme/news-kurs42-unter-schild-zentral)
+- [Änderungshistorie](/hilfe/zusatzprogramme/kurs42-versionsgeschichte)
 
 ## [LuPO](/tools/lupo)
 
@@ -23,17 +23,17 @@ Hier finden Sie die Anleitungen zur Einrichtung und Bedienung der Zusatzprogramm
 - [Fachwahlen auswerten](/tools/lupo/lupo-auswertung-der-fachwahlen)
 - [Fachwahlen an Kurs42 übergeben](/tools/lupo/lupo-uebergabe-der-fachwahlen-an-kurs42)
 - [Weitere Laufbahnprüfungen](/tools/lupo/lupo-weitere-laufbahnpruefungen)
-- [Versionsgeschichte](/tools/lupo/lupo-versionsgeschichte)
+- [Änderungshistorie](/tools/lupo/lupo-versionsgeschichte)
 - [Inhaltsverzeichnis](/tools/lupo/lupo-handbuch)
 
 ## [ASDPC](/tools/asdpc)
 
-- [Überblick](/schild2/import-export-statistik/statistik-mit-asdpc-uebersicht)
+- [Ablauf im Überblick](/schild2/import-export-statistik/statistik-mit-asdpc-uebersicht)
 - [Gesamtablauf](/schild2/import-export-statistik/statistik-mit-asdpc)
 - [Installation und Technik](/schild2/import-export-statistik/statistik-mit-asdpc-technik)
 - [Programmaufbau](/schild2/import-export-statistik/statistik-mit-asdpc-aufbau)
 - [Vorbereitung](/schild2/import-export-statistik/statistik-mit-asdpc-vorbereitung)
-- [Schlüsselmanagement](/schild2/import-export-statistik/statistik-mit-asdpc-schluesselmanagement)
+- [Schlüsselverwaltung](/schild2/import-export-statistik/statistik-mit-asdpc-schluesselmanagement)
 - [Haupterhebung](/schild2/import-export-statistik/statistik-mit-asdpc-haupterhebung)
 - [Fehlersuche](/schild2/import-export-statistik/statistik-mit-asdpc-fehlersuche)
 
@@ -53,25 +53,25 @@ Hier finden Sie die Anleitungen zur Einrichtung und Bedienung der Zusatzprogramm
 ## [Externes Notenmodul für weiterführende Schulen](/tools/externes-notenmodul)
 
 - [Vorbereitung und Datenaustausch](/zeugnisse/vorbereitung/externes-notenmodul)
-- [Noten eingeben und zurückgeben](/zeugnisse/vorbereitung/benutzung-des-externen-notenmoduls)
-- [Einrichtung unter Ubuntu 18.04](/administration/installation/einrichtung-des-enm-moduls-unter-ubuntu-18-04)
+- [Noten eingeben](/zeugnisse/vorbereitung/benutzung-des-externen-notenmoduls)
+- [Notenmodul unter Ubuntu](/administration/installation/einrichtung-des-enm-moduls-unter-ubuntu-18-04)
 
 ## [KM2 – Konferenzmodul](/tools/km2)
 
 - [Überblick](/hilfe/zusatzprogramme/konferenzmodul-km2-exe)
-- [Installation und Ersteinrichtung](/hilfe/zusatzprogramme/km2-001)
+- [Installation und Einrichtung](/hilfe/zusatzprogramme/km2-001)
 - [Datenbank und Administration](/hilfe/zusatzprogramme/km2-parameter-administration)
-- [Allgemeine Einstellungen](/hilfe/zusatzprogramme/km2-parameter-allgemein)
-- [Konferenz und Dateneingabe](/hilfe/zusatzprogramme/modulbenutzung)
-- [Programmupdate](/hilfe/zusatzprogramme/km2-programmupdate)
+- [Anzeige und Fächerauswahl](/hilfe/zusatzprogramme/km2-parameter-allgemein)
+- [Konferenzarbeit](/hilfe/zusatzprogramme/modulbenutzung)
+- [Aktualisieren](/hilfe/zusatzprogramme/km2-programmupdate)
 
 ## [PM2 – Prognosemodul](/tools/pm2)
 
-- [Überblick](/hilfe/zusatzprogramme/prognos)
-- [Einleitung](/hilfe/zusatzprogramme/prognos-einleitung)
+- [Handbuch](/hilfe/zusatzprogramme/prognos)
+- [Einführung](/hilfe/zusatzprogramme/prognos-einleitung)
 - [Installation](/hilfe/zusatzprogramme/prognos-installation)
-- [Programmstart](/hilfe/zusatzprogramme/prognos-programmstart)
-- [Hauptfenster](/hilfe/zusatzprogramme/prognos-hauptfenster)
+- [Erster Programmstart](/hilfe/zusatzprogramme/prognos-programmstart)
+- [Analyseverfahren](/hilfe/zusatzprogramme/prognos-hauptfenster)
 - [Analysen und Ergebnisse](/tools/pm2/analysen-und-ergebnisse)
 
 ## [S1Plan](/tools/s1plan)
@@ -79,9 +79,9 @@ Hier finden Sie die Anleitungen zur Einrichtung und Bedienung der Zusatzprogramm
 - [Überblick](/hilfe/zusatzprogramme/s1plan-uebersicht)
 - [Installation](/hilfe/zusatzprogramme/s1plan-installation)
 - [Erster Programmstart](/hilfe/zusatzprogramme/s1plan-erster-programmstart)
-- [Kurse einrichten und zuweisen](/hilfe/zusatzprogramme/s1plan-einrichtung-von-kursen)
+- [Kurse einrichten](/hilfe/zusatzprogramme/s1plan-einrichtung-von-kursen)
 - [Kurse aus SchILD übernehmen](/hilfe/zusatzprogramme/s1plan-uebernahme-von-kursen-aus-schild)
-- [Anhang](/hilfe/zusatzprogramme/s1plan-anhang)
+- [Menüs und Zusatzfunktionen](/hilfe/zusatzprogramme/s1plan-anhang)
 
 ## [MA2LBV](/tools/ma2lbv)
 
@@ -99,9 +99,9 @@ Hier finden Sie die Anleitungen zur Einrichtung und Bedienung der Zusatzprogramm
 
 ## [Weitere Zusatzprogramme](/tools/weitere)
 
-- [Externe Blockungs-Tools](/hilfe/zusatzprogramme/externe-blockungs-tools)
-- [Kursplanung KPlan.exe](/hilfe/zusatzprogramme/kursplanung-kplan-exe)
-- [SchildChat.exe](/hilfe/zusatzprogramme/schildchat-exe)
+- [Externe Blockungsprogramme](/hilfe/zusatzprogramme/externe-blockungs-tools)
+- [Kursplanung mit KPlan](/hilfe/zusatzprogramme/kursplanung-kplan-exe)
+- [SchILDChat](/hilfe/zusatzprogramme/schildchat-exe)
 - [SchILDweb](/hilfe/zusatzprogramme/schildweb)
-- [SEM:Schnelleingabemodul](/hilfe/zusatzprogramme/sem-schnelleingabemodul)
-- [Zusatzprogramme / Tools](/hilfe/zusatzprogramme/zusatzprogramme-tools)
+- [Schnelleingabemodul](/hilfe/zusatzprogramme/sem-schnelleingabemodul)
+- [Tool-Übersicht](/hilfe/zusatzprogramme/zusatzprogramme-tools)

@@ -12,7 +12,7 @@ Im unteren Teil des Fensters wird die Auswertung der gesamten Abiturprüfung ang
 
 ![Karteireiter-Abitur2](/bilder/zeugnisse/sekundarstufen/karteireiter-abitur2.png)
 
-Die einzelnen Schritte werden in der Regel für die gesamte Gruppe als Gruppenprozess ([Gruppenprozesse Abitur](/zeugnisse/sekundarstufen/gruppenprozesse-abitur)) ausgeführt, können aber auch hier für den einzelnen Schüler ausgeführt werden.
+Die einzelnen Schritte werden in der Regel für die gesamte Gruppe als Gruppenprozess ([Gruppenprozesse für das Abitur](/zeugnisse/sekundarstufen/gruppenprozesse-abitur)) ausgeführt, können aber auch hier für den einzelnen Schüler ausgeführt werden.
 
 Des Weiteren kann man hier drei Häkchen setzen:
 
@@ -24,7 +24,7 @@ Den ersten Haken sollte man setzen, wenn man trotz Fehlern in der Belegung oder 
 
 Setzt man den zweiten Haken, so löst jede manuelle Änderung direkt die erneute Zulassungsberechnung aus und man erhält das entsprechende Ergebnis dieser Berechnung im unteren Teil des Fensters angezeigt.
 
-Das Setzen des dritten Häkchens bewirkt, dass der Algorithmus eine fehlende zweite Fremdsprache (aus der Sek. I) ignoriert und als vorhanden annimmt. Dies kann sinnvoll sein bei Schülern, die für die Sek. II neu auf die Schule gekommen sind und bei denen keine zweite Fremdsprache unter dem Reiter [Laufbahninfo](/schild2/schueler/laufbahninfo) eingetragen worden ist. Dies muss allerdings nachgeholt werden, da die zweite Fremdsprache auf dem Abiturzeugnis erscheinen muss.
+Das Setzen des dritten Häkchens bewirkt, dass der Algorithmus eine fehlende zweite Fremdsprache (aus der Sek. I) ignoriert und als vorhanden annimmt. Dies kann sinnvoll sein bei Schülern, die für die Sek. II neu auf die Schule gekommen sind und bei denen keine zweite Fremdsprache unter dem Reiter [Laufbahninformationen](/schild2/schueler/laufbahninfo) eingetragen worden ist. Dies muss allerdings nachgeholt werden, da die zweite Fremdsprache auf dem Abiturzeugnis erscheinen muss.
 
 Hat ein Schüler einen Projektkurs belegt, so erscheint an dieser Stelle das Thema seines Projektkurses. Dazu muss es unter den fachbezogenen Bemerkungen in jedem Halbjahr beim Projektkurs eingetragen worden sein (Unter Extras \> Programm-Einstellungen \> Globate Einstellungen \> Fächer und Noten müssen die fachbezogenen Bemerkungen aktiviert sein).
 

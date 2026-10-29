@@ -1,8 +1,10 @@
 ---
-title: "KM2 - Parameter - Administration"
+title: "Datenbank und Administratorzugang in KM2 einrichten"
 ---
 
-# KM2 - Parameter - Administration
+<a id="km2-parameter-administration"></a>
+
+# Datenbank und Administratorzugang in KM2 einrichten
 
 ![Km2_parameter_admin](/bilder/tools/km2/km2-parameter-admin.png)
 
@@ -33,7 +35,7 @@ Die Einstellungen für den Administrator gliedern sich in zwei Bereiche:
 - Login-Name: "Admin"
 - Startpasswort "schild"
 
-siehe auch [Benutzerverwaltung](/administration/benutzer-einstellungen/benutzerverwaltung)
+siehe auch [Benutzerrechte in KM2](/administration/benutzer-einstellungen/benutzerverwaltung)
 
 ---
 

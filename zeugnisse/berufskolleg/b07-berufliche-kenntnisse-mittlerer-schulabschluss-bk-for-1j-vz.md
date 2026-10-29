@@ -1,8 +1,12 @@
 ---
-title: "B07 Berufliche Kenntnisse/mittlerer Schulabschluss (BK/FOR; 1j. VZ)"
+title: "B07 Berufliche Kenntnisse und mittlerer Schulabschluss"
 ---
 
-# B07 Berufliche Kenntnisse/mittlerer Schulabschluss (BK/FOR; 1j. VZ)
+<a id="b07-berufliche-kenntnisse-mittlerer-schulabschluss-bk-for-1j-vz"></a>
+
+# B07 Berufliche Kenntnisse und mittlerer Schulabschluss
+
+Einjähriger Vollzeitbildungsgang mit beruflichen Kenntnissen und mittlerem Schulabschluss.
 
 ![BK_Abschluss_B07](/bilder/zeugnisse/berufskolleg/bk-abschluss-b07.png)
 

@@ -1,8 +1,10 @@
 ---
-title: "Benutzung von Filter I 001"
+title: "Schüler mit Filter I auswählen"
 ---
 
-# Benutzung von Filter I 001
+<a id="benutzung-von-filter-i-001"></a>
+
+# Schüler mit Filter I auswählen
 
 Dieses Tutorial gibt eine Einführung in die Benutzung des [Filters I](/schild2/auswahl/filter-i). Zuerst werden einige grundlegende Informationen gegeben, dann wird die Benutzung anhand von Beispielen erläutert.
 
@@ -29,7 +31,7 @@ Dafür muss man unter Individual-Daten I die beiden Orte auswählen und bei der 
 ![FilterITut03](/bilder/schild2/auswahl/filteritut03.jpg)\
 
 Für die Orte gilt durch die Mehrfachauswahl eine ODER-Verknüpfung, da natürlich niemand aus zwei Orten gleichzeitig stammen kann.\
-Testet man nun die vorgenommenen Filtereinstellungen, wird in einem separaten Fenster angezeigt, wie viele Schüler mit diesen Eigenschaften gefunden wurden. Um die gefundenen Schüler nun für die weitere Bearbeitung im [Container](/einstieg/grundlagen/container) vorliegen zu haben, bestätigt man mit 'OK' und wählt anschließend die Schaltfläche 'Übernehmen'. Damit stehen die gefilterten Schüler für die weitere Nutzung zur Verfügung.
+Testet man nun die vorgenommenen Filtereinstellungen, wird in einem separaten Fenster angezeigt, wie viele Schüler mit diesen Eigenschaften gefunden wurden. Um die gefundenen Schüler nun für die weitere Bearbeitung im [Schülerliste und Auswahl](/einstieg/grundlagen/container) vorliegen zu haben, bestätigt man mit 'OK' und wählt anschließend die Schaltfläche 'Übernehmen'. Damit stehen die gefilterten Schüler für die weitere Nutzung zur Verfügung.
 
 **Beispiel 2:**\
 Gefiltert werden soll nach allen Schülern, die im aktuellen Schuljahr in der Einführungsphase evangelische Religion als mündlichen Grundkurs belegt haben.\
@@ -37,7 +39,7 @@ Die dafür nötigen Einstellungen müssen unter dem Reiter Lernabschnitt/Leistun
 
 ![FilterITut04](/bilder/schild2/auswahl/filteritut04.jpg)\
 
-Die so eingestellten Bedingungen liefern dann die gewünschte Schülermenge, die für die weitere Nutzung in den [Container](/einstieg/grundlagen/container) übernommen werden kann.\
+Die so eingestellten Bedingungen liefern dann die gewünschte Schülermenge, die für die weitere Nutzung in den [Schülerliste und Auswahl](/einstieg/grundlagen/container) übernommen werden kann.\
 
 **Beispiel 3:**\
 Gefiltert werden soll nach allen Schülern, die im Schuljahr 2008/09 die Abiturzulassung erhalten, das Abitur dann aber nicht bestanden haben (und abgegangen sind) und Englisch als erste Fremdsprache hatten.\
@@ -49,7 +51,7 @@ Dafür müssen Einstellungen unter mehreren Reitern getätigt werden. Zuert muss
 
 ![FilterITut07](/bilder/schild2/auswahl/filteritut07.jpg)\
 
-Die so eingestellten Bedingungen liefern dann die gewünschte Schülermenge, die für die weitere Nutzung in den [Container](/einstieg/grundlagen/container) übernommen werden kann.\
+Die so eingestellten Bedingungen liefern dann die gewünschte Schülermenge, die für die weitere Nutzung in den [Schülerliste und Auswahl](/einstieg/grundlagen/container) übernommen werden kann.\
 
 ------------------------------------------------------------------------
 

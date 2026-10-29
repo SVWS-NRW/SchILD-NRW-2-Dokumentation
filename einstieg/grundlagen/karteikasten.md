@@ -1,12 +1,14 @@
 ---
-title: "Karteikasten"
+title: "Karteikästen und Schülerstatus"
 ---
 
-# Karteikasten
+<a id="karteikasten"></a>
+
+# Karteikästen und Schülerstatus
 
 ![Karteikaesten_01](/bilder/einstieg/grundlagen/karteikaesten-01.jpg)
 
-Durch die Auswahl der Haken können Sie bestimmen, welche Statusarten Sie im [Container](/einstieg/grundlagen/container) sehen wollen.
+Durch die Auswahl der Haken können Sie bestimmen, welche Statusarten Sie im [Schülerliste und Auswahl](/einstieg/grundlagen/container) sehen wollen.
 
 Achten Sie bitte darauf, dass die Schüler aller gewählten Karteikästen dann in der eingestellten Sortierung dargestellt werden!
 

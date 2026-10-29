@@ -1,8 +1,10 @@
 ---
-title: "Lernabschnitt individuell anlegen/bearbeiten"
+title: "Lernabschnitte anlegen und bearbeiten"
 ---
 
-# Lernabschnitt individuell anlegen/bearbeiten
+<a id="lernabschnitt-individuell-anlegen-bearbeiten"></a>
+
+# Lernabschnitte anlegen und bearbeiten
 
 Mit diesem Gruppenprozess können Lernabschnitte neu angelegt oder bearbeitet werden. Dies kann nötig sein, wenn z.B. für einen neu aufgenommenen Schüler, der nicht in der Eingangsjahrgangsstufe an die Schule gekommen ist, vergangene Abschnitte angelegt werden müssen.
 

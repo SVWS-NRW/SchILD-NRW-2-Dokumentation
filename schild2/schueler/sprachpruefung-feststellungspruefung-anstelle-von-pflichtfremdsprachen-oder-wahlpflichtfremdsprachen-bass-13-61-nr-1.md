@@ -1,8 +1,10 @@
 ---
-title: "Sprachprüfung (Feststellungsprüfung) anstelle von Pflichtfremdsprachen oder Wahlpflichtfremdsprachen BASS 13-61 Nr. 1"
+title: "Sprachfeststellungsprüfung"
 ---
 
-# Sprachprüfung (Feststellungsprüfung) anstelle von Pflichtfremdsprachen oder Wahlpflichtfremdsprachen BASS 13-61 Nr. 1
+<a id="sprachprufung-feststellungsprufung-anstelle-von-pflichtfremdsprachen-oder-wahlpflichtfremdsprachen-bass-13-61-nr-1"></a>
+
+# Sprachfeststellungsprüfung
 
 <a id="Sprachprüfung_(Feststellungsprüfung)_anstelle_von_Pflichtfremdsprachen_oder_Wahlpflichtfremdsprachen"></a>
 <a id="Sprachpr.C3.BCfung_.28Feststellungspr.C3.BCfung.29_anstelle_von_Pflichtfremdsprachen_oder_Wahlpflichtfremdsprachen"></a>

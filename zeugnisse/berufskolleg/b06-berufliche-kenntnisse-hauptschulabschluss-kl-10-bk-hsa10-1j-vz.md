@@ -1,8 +1,12 @@
 ---
-title: "B06 Berufliche Kenntnisse/Hauptschulabschluss Kl. 10 (BK/HSA10; 1j. VZ)"
+title: "B06 Berufliche Kenntnisse und Hauptschulabschluss"
 ---
 
-# B06 Berufliche Kenntnisse/Hauptschulabschluss Kl. 10 (BK/HSA10; 1j. VZ)
+<a id="b06-berufliche-kenntnisse-hauptschulabschluss-kl-10-bk-hsa10-1j-vz"></a>
+
+# B06 Berufliche Kenntnisse und Hauptschulabschluss
+
+Einjähriger Vollzeitbildungsgang mit beruflichen Kenntnissen und Hauptschulabschluss nach Klasse 10.
 
 ![BK_Abschluss_B06](/bilder/zeugnisse/berufskolleg/bk-abschluss-b06.png)
 

@@ -1,8 +1,10 @@
 ---
-title: "Zusatzdaten (Latinum...) eingeben"
+title: "Sprachnachweise und Zusatzdaten fürs Abitur erfassen"
 ---
 
-# Zusatzdaten (Latinum...) eingeben
+<a id="zusatzdaten-latinum-eingeben"></a>
+
+# Sprachnachweise und Zusatzdaten fürs Abitur erfassen
 
 Dieser Gruppenprozess bietet die Möglichkeit, für das Abitur relevante Zusatzdaten wie Latinum, Graecum, Hebraicum und Fehlstunden für alle Abiturienten in einem Rutsch einzugeben.
 

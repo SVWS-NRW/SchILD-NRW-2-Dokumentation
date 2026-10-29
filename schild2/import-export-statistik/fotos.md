@@ -1,8 +1,10 @@
 ---
-title: "Fotos"
+title: "Schülerfotos und Fotolisten exportieren"
 ---
 
-# Fotos
+<a id="fotos"></a>
+
+# Schülerfotos und Fotolisten exportieren
 
 <a id="Export_für_Fotoliste"></a>
 <a id="Export_f.C3.BCr_Fotoliste"></a>

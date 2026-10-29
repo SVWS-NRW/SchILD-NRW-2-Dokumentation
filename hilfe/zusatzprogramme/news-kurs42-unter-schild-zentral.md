@@ -1,8 +1,10 @@
 ---
-title: "News:Kurs42 unter Schild-Zentral"
+title: "Kurs42 mit SchILDzentral verwenden"
 ---
 
-# News:Kurs42 unter Schild-Zentral
+<a id="news-kurs42-unter-schild-zentral"></a>
+
+# Kurs42 mit SchILDzentral verwenden
 
 <a id="Programmstart_von_Kurs42_in_einer_SchILDzentral-Umgebung"></a>
 

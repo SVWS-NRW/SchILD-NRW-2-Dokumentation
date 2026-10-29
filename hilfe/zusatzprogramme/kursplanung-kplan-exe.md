@@ -1,8 +1,10 @@
 ---
-title: "Kursplanung KPlan.exe"
+title: "Kurse mit KPlan verwalten"
 ---
 
-# Kursplanung KPlan.exe
+<a id="kursplanung-kplan-exe"></a>
+
+# Kurse mit KPlan verwalten
 
 <a id="Beschreibung"></a>
 

@@ -1,8 +1,10 @@
 ---
-title: "S1PLAN:Anhang"
+title: "Menüs und Zusatzfunktionen in S1Plan"
 ---
 
-# S1PLAN:Anhang
+<a id="s1plan-anhang"></a>
+
+# Menüs und Zusatzfunktionen in S1Plan
 
 <a id="MENÜPUNKT_DATEI"></a>
 <a id="MEN.C3.9CPUNKT_DATEI"></a>

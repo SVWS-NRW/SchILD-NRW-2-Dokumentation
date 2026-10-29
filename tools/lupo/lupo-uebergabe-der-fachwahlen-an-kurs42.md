@@ -1,8 +1,10 @@
 ---
-title: "Lupo:Übergabe der Fachwahlen an Kurs42"
+title: "Fachwahlen an Kurs42 übergeben"
 ---
 
-# Lupo:Übergabe der Fachwahlen an Kurs42
+<a id="lupo-ubergabe-der-fachwahlen-an-kurs42"></a>
+
+# Fachwahlen an Kurs42 übergeben
 
 Die getätigten Fachwahlen können über zwei Wege von LuPO nach Kurs42 übergeben werden. 1. Über das Schnittstellenformat: In LuPO „*Export \> Export der Fachwahlen im Schnittstellenformat SchILD-NRW \>* “ in eine Dat-Datei schreiben, welche von Kurs42 eingelesen werden kann. 2. Über den Direkt-Import: In Kurs42 "*Im/Export \> LuPO-Direkt-Im/Export \> Fachwahlen aus LuPO importieren \> LuPO-Datei auswählen*".
 

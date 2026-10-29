@@ -1,8 +1,10 @@
 ---
-title: "Individuelle Schülergruppen bearbeiten und nutzen"
+title: "Mit eigenen Schülergruppen arbeiten"
 ---
 
-# Individuelle Schülergruppen bearbeiten und nutzen
+<a id="individuelle-schulergruppen-bearbeiten-und-nutzen"></a>
+
+# Mit eigenen Schülergruppen arbeiten
 
 Mit einer individuellen Schülergruppe können Gruppen definiert werden und somit unabhängig von den Zuordnungen in den Leistungsdaten (Klassen, Kurse, AGs, ZUV etc.) als Auswahl zur Verfügung stehen. Nützlich ist dies bei der Verwaltung von Gruppen für
 

@@ -1,8 +1,10 @@
 ---
-title: "Ausgewählte Beispiele aus der BASIC-Sammlung"
+title: "Beispiele aus der BASIC-Reportsammlung"
 ---
 
-# Ausgewählte Beispiele aus der BASIC-Sammlung
+<a id="ausgewahlte-beispiele-aus-der-basic-sammlung"></a>
+
+# Beispiele aus der BASIC-Reportsammlung
 
 Wenn Sie anfangen, mit dem Reportexplorer zu arbeiten, bietet es sich an, die BASIC-Reportsammlung \[[\[1\]](http://www.svws.nrw.de/index.php?id=schildformulare)\] herunterzuladen. Sie haben damit Beispiele aus den verschiedenen Anwendungsbereichen zur Verfügung, die Sie als Grundlage verwenden können.
 

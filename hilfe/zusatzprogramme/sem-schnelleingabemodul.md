@@ -1,8 +1,10 @@
 ---
-title: "SEM:Schnelleingabemodul"
+title: "Schülerdaten im Schnelleingabemodul erfassen"
 ---
 
-# SEM:Schnelleingabemodul
+<a id="sem-schnelleingabemodul"></a>
+
+# Schülerdaten im Schnelleingabemodul erfassen
 
 Das Programm dient zur schnellen Eingabe von Schülerdaten (Personen-, Erzieher-, Vorbildungs- und Adressdaten). Das Programm kann ohne Mauseinsatz über die Tastatur bedient werden. Eine Übersicht über die Tastaturbelegung finden Sie am Ende des Artikels.
 

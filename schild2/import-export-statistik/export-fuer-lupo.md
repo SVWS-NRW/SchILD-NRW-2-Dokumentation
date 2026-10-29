@@ -1,8 +1,10 @@
 ---
-title: "Export für Lupo"
+title: "Schülerdaten für LuPO exportieren"
 ---
 
-# Export für Lupo
+<a id="export-fur-lupo"></a>
+
+# Schülerdaten für LuPO exportieren
 
 Um eine Lupo-Datei für die Beratung der Oberstufenschüler zu erstellen, beachten Sie bitte folgende Hinweise:
 

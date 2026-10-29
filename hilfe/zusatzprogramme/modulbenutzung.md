@@ -1,8 +1,10 @@
 ---
-title: "Modulbenutzung"
+title: "Mit KM2 in der Konferenz arbeiten"
 ---
 
-# Modulbenutzung
+<a id="modulbenutzung"></a>
+
+# Mit KM2 in der Konferenz arbeiten
 
 ![KM2_Bildschirmaufbau_01](/bilder/tools/weitere/km2-bildschirmaufbau-01.png)
 
@@ -41,7 +43,7 @@ Hinweis: Kursbezeichnungen werden gekürzt, wenn die Kursbezeichnung die Bezeich
 
 <!-- -->
 
-- siehe [KM2 - Parameter - Allgemein](/hilfe/zusatzprogramme/km2-parameter-allgemein)
+- siehe [Anzeige und Fächerauswahl](/hilfe/zusatzprogramme/km2-parameter-allgemein)
 
 <!-- -->
 
@@ -63,7 +65,7 @@ Hinweis: Das aktuelle SchILD-NRW Schuljahr und der aktuelle Lernabschnitt sind g
 - Status der Datenbank: geöffnet / geschlossen
 - gewähltes Schuljahr / Lernabschnitt
 - Name der automatischen geladenen Profildatei (bzw. "Profildatei: Nicht gefunden", wenn die entsprechende Profildatei vom Programm nicht gefunden wurde)
-- Dateiname der SchILD-Datenbank (bzw. der entsprechenden UDL-Datei) - siehe [KM2 - Parameter - Administration](/hilfe/zusatzprogramme/km2-parameter-administration).
+- Dateiname der SchILD-Datenbank (bzw. der entsprechenden UDL-Datei) - siehe [Datenbank und Administration](/hilfe/zusatzprogramme/km2-parameter-administration).
 
 <a id="Datenbearbeitung"></a>
 
@@ -77,7 +79,7 @@ Die Bearbeitungsmöglichkeiten beschränken sich auf Leistungsdaten (die *normal
 
 - Leistungsdaten tippen Sie einfach in der jeweiligen Fachspalte ein.
 - Wenn Sie als Admin angemeldet sind, so können Sie alle Leistungsdaten verändern, nicht nur die des aktuellen Abschnitts.
-- Alle normalen Benutzer (das sind Koordinatoren der SchILD-Klassengruppen) können die Noten des aktuellen SchILD-Abschnitts ihrer Klassen editieren und alle anderen Leistungsdaten einsehen. Diese Einsichtmöglichkeit beschränkt sich auf die Klassen, die ihnen als Koordinator in SchILD zugeordnet worden sind (siehe [Benutzerverwaltung](/administration/benutzer-einstellungen/benutzerverwaltung)).
+- Alle normalen Benutzer (das sind Koordinatoren der SchILD-Klassengruppen) können die Noten des aktuellen SchILD-Abschnitts ihrer Klassen editieren und alle anderen Leistungsdaten einsehen. Diese Einsichtmöglichkeit beschränkt sich auf die Klassen, die ihnen als Koordinator in SchILD zugeordnet worden sind (siehe [KM2-Benutzerrechte](/administration/benutzer-einstellungen/benutzerverwaltung)).
 
 **Hinweise:**:
 

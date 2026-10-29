@@ -1,8 +1,10 @@
 ---
-title: "Hilfe:Inhaltsverzeichnis"
+title: "Hilfe und Support finden"
 ---
 
-# Hilfe:Inhaltsverzeichnis
+<a id="hilfe-inhaltsverzeichnis"></a>
+
+# Hilfe und Support finden
 
 <a id="Wo_bekomme_ich_Hilfe_zu_Schild-NRW_?"></a>
 <a id="Wo_bekomme_ich_Hilfe_zu_Schild-NRW_.3F"></a>

@@ -1,14 +1,16 @@
 ---
-title: "Laufbahninfo"
+title: "Laufbahninformationen"
 ---
 
-# Laufbahninfo
+<a id="laufbahninfo"></a>
+
+# Laufbahninformationen
 
 Die Karteikarte Laufbahninfo ist in die drei Unterbereiche **Vermerke**, **Sprachenfolge** und **Erreichte Abschlüsse und Berechtigungen an aktueller Schule** aufgeteilt.
 
 Bei Grundschulen wird nur der Bereich Vermerke eingeblendet.
 
-Zu jedem **Vermerk**, den Sie zu einem Schüler anlegen, möglichst mit Datum, wählen Sie die passende Vermerkart aus. Die [Vermerk-Arten](/schild2/unterricht-kataloge/vermerk-arten) können Sie vorher unter [Schulverwaltung](/schild2/unterricht-kataloge/schulverwaltung) --\> [Vermerk-Arten](/schild2/unterricht-kataloge/vermerk-arten) frei definiert festlegen. Bei der Eingabe eines frei formulierten Textes in das Schreibfeld unterhalb der ausgewählten Vermerkart ist der Datenschutz zu beachten!
+Zu jedem **Vermerk**, den Sie zu einem Schüler anlegen, möglichst mit Datum, wählen Sie die passende Vermerkart aus. Die [Vermerkarten](/schild2/unterricht-kataloge/vermerk-arten) können Sie vorher unter [Schulverwaltung](/schild2/unterricht-kataloge/schulverwaltung) --\> [Vermerkarten](/schild2/unterricht-kataloge/vermerk-arten) frei definiert festlegen. Bei der Eingabe eines frei formulierten Textes in das Schreibfeld unterhalb der ausgewählten Vermerkart ist der Datenschutz zu beachten!
 
 Mit "Auswahl/Filter I" können auf der Karte Weitere Daten im Bereich Vermerke nach „Art“ und „Teil des Vermerk-Textes“ Eingaben gesucht werden, bei „Vermerkdatum von...bis“ kann ein Zeitbereich gewählt werden.
 

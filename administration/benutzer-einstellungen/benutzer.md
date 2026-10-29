@@ -1,8 +1,10 @@
 ---
-title: "Benutzer"
+title: "Angemeldete Benutzer anzeigen"
 ---
 
-# Benutzer
+<a id="benutzer"></a>
+
+# Angemeldete Benutzer anzeigen
 
 Dieser Punkt wird nur angezeigt, wenn unter "Extras -\> Programm-Einstellungen -\> Plugins" vor "Benutzerliste" ein Häkchen gesetzt wurde.
 
@@ -10,9 +12,9 @@ Unter Benutzer findet sich "Angemeldete Benutzer". Im gleichnamigen Fenster sehe
 
 Nach Klick auf das Fragezeichen rechts oben werden Version und Autor angezeigt.
 
-Ein weiterer Menüpunkt, der hier erscheinen kann, ist die [Benutzerverwaltung](/administration/benutzer-einstellungen/benutzerverwaltung).
+Ein weiterer Menüpunkt, der hier erscheinen kann, ist die [Benutzerrechte in KM2](/administration/benutzer-einstellungen/benutzerverwaltung).
 
-Auch dieses Menü erscheint nur, wenn unter den "Extras -\> Programm-Einstellungen -\> Plugins" die [Benutzerverwaltung](/administration/benutzer-einstellungen/benutzerverwaltung) aktiviert wurde.
+Auch dieses Menü erscheint nur, wenn unter den "Extras -\> Programm-Einstellungen -\> Plugins" die [Benutzerrechte in KM2](/administration/benutzer-einstellungen/benutzerverwaltung) aktiviert wurde.
 
 ------------------------------------------------------------------------
 

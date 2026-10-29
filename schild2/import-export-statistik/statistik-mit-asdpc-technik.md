@@ -1,8 +1,10 @@
 ---
-title: "Statistik mit ASDPC-Technik"
+title: "ASDPC installieren und einrichten"
 ---
 
-# Statistik mit ASDPC-Technik
+<a id="statistik-mit-asdpc-technik"></a>
+
+# ASDPC installieren und einrichten
 
 \_
 
@@ -144,7 +146,7 @@ Haben Sie einmal den Modus "Erhebung Amtliche Schuldaten (ASDPC)" aufgerufen, bi
 
 - *ASDPC Datenbank reorganisieren*
 - *dienstliche Dokumente bzw. Dateien entschlüsseln* - wird Ihnen per Email mitgeteilt, dass entsprechende Dateien vorliegen, können diese nach dem Download hier entschlüsselt werden (z.B. für Mithilfe bei Fahndungen der Polizei).
-- *Schlüsselverwaltung* - verwalten Sie die Schlüssel von ASDPC: [Schlüsselmanagement](/schild2/import-export-statistik/statistik-mit-asdpc-schluesselmanagement)
+- *Schlüsselverwaltung* - verwalten Sie die Schlüssel von ASDPC: [Schlüsselverwaltung](/schild2/import-export-statistik/statistik-mit-asdpc-schluesselmanagement)
 
 <a id="Abschnitt_&quot;Optionen&quot;"></a>
 <a id="Abschnitt_.22Optionen.22"></a>

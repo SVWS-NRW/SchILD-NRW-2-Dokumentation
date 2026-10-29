@@ -1,8 +1,10 @@
 ---
-title: "Kurse neu sortieren"
+title: "Kurse sortieren"
 ---
 
-# Kurse neu sortieren
+<a id="kurse-neu-sortieren"></a>
+
+# Kurse sortieren
 
 Diese Funktion sortiert die Kurse in der Tabelle [Schulverwaltung](/schild2/unterricht-kataloge/schulverwaltung) \> [Kurse](/schild2/unterricht-kataloge/kurse) neu.
 

@@ -1,8 +1,10 @@
 ---
-title: "Fehler beim Export der Statistikdateien - Klasse nicht registriert"
+title: "Statistik-DLL registrieren"
 ---
 
-# Fehler beim Export der Statistikdateien - Klasse nicht registriert
+<a id="fehler-beim-export-der-statistikdateien-klasse-nicht-registriert"></a>
+
+# Statistik-DLL registrieren
 
 <a id="Registrierung_per_Klick"></a>
 

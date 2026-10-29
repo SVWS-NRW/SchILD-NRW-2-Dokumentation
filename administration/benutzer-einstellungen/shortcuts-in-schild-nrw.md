@@ -1,8 +1,10 @@
 ---
-title: "Shortcuts in Schild-NRW"
+title: "Tastenkürzel"
 ---
 
-# Shortcuts in Schild-NRW
+<a id="shortcuts-in-schild-nrw"></a>
+
+# Tastenkürzel
 
 | STRG + w         | Word Seriendruck starten                            |
 |------------------|-----------------------------------------------------|

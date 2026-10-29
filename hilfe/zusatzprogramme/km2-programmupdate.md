@@ -1,8 +1,10 @@
 ---
-title: "KM2-Programmupdate"
+title: "KM2 aktualisieren"
 ---
 
-# KM2-Programmupdate
+<a id="km2-programmupdate"></a>
+
+# KM2 aktualisieren
 
 <a id="Grundinstallation"></a>
 

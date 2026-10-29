@@ -1,8 +1,10 @@
 ---
-title: "Schild-NRW-Daten in eine andere Datenbank übertragen (migrieren)"
+title: "Daten in eine andere Datenbank übertragen"
 ---
 
-# Schild-NRW-Daten in eine andere Datenbank übertragen (migrieren)
+<a id="schild-nrw-daten-in-eine-andere-datenbank-ubertragen-migrieren"></a>
+
+# Daten in eine andere Datenbank übertragen
 
 Mit dem Migrationstool können Sie die Daten einer bestehenden Datenbank in eine andere Datenbank übertragen. So können Sie z.B. die Daten aus einer Access-Datenbank in eine neue Access-Datenbank oder eine SQL-Server-Datenbank übertragen. Mit dem Migrationstool erhalten Sie zudem ein Programm, welches Ihnen beim Erzeugen einer SDBCFG-Datei hilft. Diese Dateien sind für den Migrationsprozess notwendig.
 

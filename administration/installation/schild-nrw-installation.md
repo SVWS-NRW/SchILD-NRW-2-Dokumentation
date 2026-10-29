@@ -1,8 +1,10 @@
 ---
-title: "Schild-NRW Installation"
+title: "SchILD-NRW installieren"
 ---
 
-# Schild-NRW Installation
+<a id="schild-nrw-installation"></a>
+
+# SchILD-NRW installieren
 
 Seit dem 31.10.25 steht der Nachfolger zur Verfügung: 
 
@@ -129,7 +131,7 @@ Sie können von der Schild-NRW-Homepage auch noch zusätzliche Module für besti
 
 ### Programm-Einstellungen
 
-Die Benutzer von Schild-NRW können das Programm in den Einstellungen an ihre Bedürfnisse anpassen. Hierzu finden Sie weitere Informationen im Artikel zu den [Programm-Einstellungen](/administration/benutzer-einstellungen/programm-einstellungen).
+Die Benutzer von Schild-NRW können das Programm in den Einstellungen an ihre Bedürfnisse anpassen. Hierzu finden Sie weitere Informationen im Artikel zu den [Programmeinstellungen](/administration/benutzer-einstellungen/programm-einstellungen).
 
 <a id="Einzelplatzinstallation_mit_Zugriff_von_einem_anderen_Rechner"></a>
 
@@ -157,7 +159,7 @@ Empfohlen wird, auf den Verwaltungs-Clients ein Netzlaufwerk fest zu verbinden, 
 
 Starten Sie die Anwendung Schild-NRW einmal auf jedem Client explizit mit der rechten Maustaste als Administrator und führen Sie die Schritte zur [Registrierung der Statitsik.dlls](#Registrierung_der_Statitsik.dlls) einmal durch. Danach kann die Anwendung mit normalen Benutzerrechten gestartet werden.
 
-Die Benutzer von Schild-NRW können das Programm in den Einstellungen an ihre Bedürfnisse anpassen. Hierzu finden Sie weitere Informationen im Artikel zu den [Programm-Einstellungen](/administration/benutzer-einstellungen/programm-einstellungen).
+Die Benutzer von Schild-NRW können das Programm in den Einstellungen an ihre Bedürfnisse anpassen. Hierzu finden Sie weitere Informationen im Artikel zu den [Programmeinstellungen](/administration/benutzer-einstellungen/programm-einstellungen).
 
 <a id="Server-Installation_mit_Microsoft_SQL_Server-Datenbank"></a>
 

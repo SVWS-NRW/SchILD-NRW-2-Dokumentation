@@ -1,8 +1,10 @@
 ---
-title: "Prognos:Hauptfenster"
+title: "Analyseverfahren in PM2 auswählen"
 ---
 
-# Prognos:Hauptfenster
+<a id="prognos-hauptfenster"></a>
+
+# Analyseverfahren in PM2 auswählen
 
 <a id="Programmstart"></a>
 

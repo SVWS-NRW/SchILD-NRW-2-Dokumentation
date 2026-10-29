@@ -1,8 +1,10 @@
 ---
-title: "Aufräumen"
+title: "Datenbank aufräumen"
 ---
 
-# Aufräumen
+<a id="aufraumen"></a>
+
+# Datenbank aufräumen
 
 Vor dieser Aktion sollte unbedingt eine „Datensicherung“ über Extras erfolgen, ggf. zusätzlich ein Kopieren der Datenbank-Datei (schild2000n.mdb im SchILD-NRW-Unterordner DB) auf ein Speichermedium (wie USB-Stick).
 

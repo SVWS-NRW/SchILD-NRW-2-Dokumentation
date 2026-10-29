@@ -1,8 +1,10 @@
 ---
-title: "Unterrichtsdaten (als Excel Dateien) importieren"
+title: "Unterrichtsdaten aus Excel importieren"
 ---
 
-# Unterrichtsdaten (als Excel Dateien) importieren
+<a id="unterrichtsdaten-als-excel-dateien-importieren"></a>
+
+# Unterrichtsdaten aus Excel importieren
 
 ![UVDExelImport](/bilder/schild2/import-export-statistik/uvdexelimport.jpg)
 

@@ -1,8 +1,10 @@
 ---
-title: "Hilfe"
+title: "Hilfefunktionen im Programm"
 ---
 
-# Hilfe
+<a id="hilfe"></a>
+
+# Hilfefunktionen im Programm
 
 <a id="Hilfe_zu_SchILD-NRW"></a>
 

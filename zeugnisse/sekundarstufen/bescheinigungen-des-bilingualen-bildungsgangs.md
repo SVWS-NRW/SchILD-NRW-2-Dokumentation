@@ -1,8 +1,10 @@
 ---
-title: "Bescheinigungen des Bilingualen Bildungsgangs"
+title: "Bescheinigungen für bilinguale Bildungsgänge"
 ---
 
-# Bescheinigungen des Bilingualen Bildungsgangs
+<a id="bescheinigungen-des-bilingualen-bildungsgangs"></a>
+
+# Bescheinigungen für bilinguale Bildungsgänge
 
 ![Bilinguale_bescheinigungen](/bilder/zeugnisse/sekundarstufen/bilinguale-bescheinigungen.png)
 

@@ -1,8 +1,10 @@
 ---
-title: "Prognos:Analyseverfahren: Datei"
+title: "Notendateien mit PM2 analysieren"
 ---
 
-# Prognos:Analyseverfahren: Datei
+<a id="prognos-analyseverfahren-datei"></a>
+
+# Notendateien mit PM2 analysieren
 
 Nach der Auswahl des Analyseverfahrens für eine Datei erscheint ein Explorer-Fenster. Hier kann dann die gewünschte Datei ausgewählt und geöffnet werden. Zu beachten ist, dass die Auswahl des Dateityps je nach Auswahl sich auf unverschlüsselt oder verschlüsselte Leistungsdaten beziehen kann.
 

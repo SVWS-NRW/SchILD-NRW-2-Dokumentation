@@ -1,8 +1,10 @@
 ---
-title: "Fächer zuweisen (tabellarisch)"
+title: "Fächer tabellarisch zuweisen"
 ---
 
-# Fächer zuweisen (tabellarisch)
+<a id="facher-zuweisen-tabellarisch"></a>
+
+# Fächer tabellarisch zuweisen
 
 Der Gruppenprozess "Fächer zuweisen (tabellarisch)" soll die Unterrichtszuweisung bei Klassenunterricht erleichtern.
 

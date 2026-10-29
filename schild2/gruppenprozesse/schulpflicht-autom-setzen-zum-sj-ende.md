@@ -1,12 +1,14 @@
 ---
-title: "Schulpflicht autom. setzen zum SJ.-Ende"
+title: "Schulpflicht zum Schuljahresende setzen"
 ---
 
-# Schulpflicht autom. setzen zum SJ.-Ende
+<a id="schulpflicht-autom-setzen-zum-sj-ende"></a>
+
+# Schulpflicht zum Schuljahresende setzen
 
 Dieser Menüpunkt ist hauptsächlich für den Sek1-Bereich interessant.
 
-Da die Vollzeitschulpflicht in NRW nach 10 Schulbesuchsjahren (am G8-Gymnasium nach 9 Jahren) endet, muss für die Statistik der Haken "Schulpflicht erfüllt" auf dem Karteireiter [Individual-Daten I](/schild2/schueler/individual-daten-i) gesetzt werden.
+Da die Vollzeitschulpflicht in NRW nach 10 Schulbesuchsjahren (am G8-Gymnasium nach 9 Jahren) endet, muss für die Statistik der Haken "Schulpflicht erfüllt" auf dem Karteireiter [Individualdaten I](/schild2/schueler/individual-daten-i) gesetzt werden.
 
 Da die Schüler zu diesem Zeitpunkt vor den Sommerferien die Schulpflicht eigentlich noch nicht erfüllt haben, wird dieser Haken von den "Automatischen Prozessen" nicht gesetzt.
 

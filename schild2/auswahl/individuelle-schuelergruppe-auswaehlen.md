@@ -1,8 +1,10 @@
 ---
-title: "Individuelle Schülergruppe auswählen"
+title: "Gespeicherte Schülergruppe auswählen"
 ---
 
-# Individuelle Schülergruppe auswählen
+<a id="individuelle-schulergruppe-auswahlen"></a>
+
+# Gespeicherte Schülergruppe auswählen
 
 Nach dem Aufrufen dieses Menüpunkts wählt man die gewünschte Schülergruppe aus der Liste aus.
 

@@ -1,8 +1,10 @@
 ---
-title: "Schüler mit fehlendem Abschnitt (Status=Aktiv,..)"
+title: "Aktive Schüler mit fehlendem Lernabschnitt"
 ---
 
-# Schüler mit fehlendem Abschnitt (Status=Aktiv,..)
+<a id="schuler-mit-fehlendem-abschnitt-status-aktiv"></a>
+
+# Aktive Schüler mit fehlendem Lernabschnitt
 
 Bei Auswahl dieser Filtermöglichkeit werden Ihnen unter allen aktiven bzw. externen Schülern alle die mit fehlendem Abschnitt angezeigt.
 

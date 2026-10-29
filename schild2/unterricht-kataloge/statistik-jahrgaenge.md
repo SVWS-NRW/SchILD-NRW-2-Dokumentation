@@ -1,8 +1,10 @@
 ---
-title: "Statistik-Jahrgänge"
+title: "Statistikjahrgänge einrichten"
 ---
 
-# Statistik-Jahrgänge
+<a id="statistik-jahrgange"></a>
+
+# Statistikjahrgänge einrichten
 
 Bei den Statistik-Jahrgängen handelt es sich um eine entscheidende Tabelle in Schild-NRW. Hier wird festgelegt, welche Jahrgänge in den Bildungsgängen zur Verfügung stehen und wie diese an die Statistik übermittelt werden.
 
@@ -18,7 +20,7 @@ An dieser Stelle können Sie dem Jahrgang eine eigene individuelle Bezeichnung g
 
 **Gliederung (Klartext):**
 
-Hier tragen Sie die Gliederung für den Bildungsgang ein. An den meisten Schulen steht hier nur "Standard für diese Schulform" zur Verfügung. Es werden alle Gliederungen angezeigt, die unter [Schulverwaltung](/schild2/unterricht-kataloge/schulverwaltung) \> [Schule bearbeiten](/einstieg/erste-schritte/schule-bearbeiten) eingetragen sind.
+Hier tragen Sie die Gliederung für den Bildungsgang ein. An den meisten Schulen steht hier nur "Standard für diese Schulform" zur Verfügung. Es werden alle Gliederungen angezeigt, die unter [Schulverwaltung](/schild2/unterricht-kataloge/schulverwaltung) \> [Schuldaten einrichten](/einstieg/erste-schritte/schule-bearbeiten) eingetragen sind.
 
 An Grundschulen kann es z.B. die Gliederung für kath. oder ev. Bekenntnisschulen oder die Gemeinschaftsschule geben.
 
@@ -48,7 +50,7 @@ Das sind i.d.R. Halbjahre oder Quartale bis zum Abschluss der Schulform (Beispie
 
 Diese Spalte sollte ausgefüllt werden, denn mit diesen Angaben wird das Datum bei "voraus. Abschl." unter "Aktuelle Laufbahndaten" auf der Karte Individual-Daten I berechnet (nachträglich auch mit Gruppenprozess "Abschlussdatum neu berechnen").
 
-Bitte bedenken Sie dass bei der Einstellung im Quartalsbetrieb die Restabschnitte pro Schuljahr immer 4 Abschnitte betragen (wie bei [Schule bearbeiten](/einstieg/erste-schritte/schule-bearbeiten) unter "Organisatorische Angaben" ausgewählt).
+Bitte bedenken Sie dass bei der Einstellung im Quartalsbetrieb die Restabschnitte pro Schuljahr immer 4 Abschnitte betragen (wie bei [Schuldaten einrichten](/einstieg/erste-schritte/schule-bearbeiten) unter "Organisatorische Angaben" ausgewählt).
 
 **Folgejahrgang:**
 

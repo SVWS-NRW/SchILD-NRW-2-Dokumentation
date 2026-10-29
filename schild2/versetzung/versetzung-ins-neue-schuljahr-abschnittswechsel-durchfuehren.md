@@ -1,8 +1,10 @@
 ---
-title: "Versetzung ins neue Schuljahr / Abschnittswechsel durchführen"
+title: "Schuljahr und Lernabschnitt wechseln"
 ---
 
-# Versetzung ins neue Schuljahr / Abschnittswechsel durchführen
+<a id="versetzung-ins-neue-schuljahr-abschnittswechsel-durchfuhren"></a>
+
+# Schuljahr und Lernabschnitt wechseln
 
 
 <a id="Einleitung"></a>
@@ -58,7 +60,7 @@ Im Anschluss können die Schüler im Kasten **Neuaufnahme** aktiviert werden.
 
 ## Erklärung des Versetzungsalgorithmus
 
-Im Artikel **[Hochschreibungsalgorithmus](/schild2/versetzung/hochschreibungsalgorithmus)** wird beschrieben, nach welchen Kriterien Schild-NRW die Hochstufung des Jahrgangs, die Versetzung in die Folgeklasse und die Einteilung in den Status "Abschluss" vornimmt. Dies ist eine sehr technische Erklärung und dient nur als Zusatz für interessierte Nutzer.
+Im Artikel **[Versetzungsmodelle und Fortschreibung](/schild2/versetzung/hochschreibungsalgorithmus)** wird beschrieben, nach welchen Kriterien Schild-NRW die Hochstufung des Jahrgangs, die Versetzung in die Folgeklasse und die Einteilung in den Status "Abschluss" vornimmt. Dies ist eine sehr technische Erklärung und dient nur als Zusatz für interessierte Nutzer.
 
 ------------------------------------------------------------------------
 

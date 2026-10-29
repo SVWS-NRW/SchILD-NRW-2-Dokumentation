@@ -1,8 +1,10 @@
 ---
-title: "BKAbschluss"
+title: "BK-Abschluss im Überblick"
 ---
 
-# BKAbschluss
+<a id="bkabschluss"></a>
+
+# BK-Abschluss im Überblick
 
 Für die Schüler eines Bildungsganges im Berufskolleg, die einen Berufsabschluss erwerben, gibt es die Karteikarte **BK-Abschluss**. Abhängig vom Bildungsgang und der zugrundeliegenden Prüfungsordnung, werden die Felder und Schaltflächen auf dieser Karte eingeblendet.
 
@@ -14,7 +16,7 @@ Für die Schüler eines Bildungsganges im Berufskolleg, die einen Berufsabschlus
 4. Geben Sie die Vornoten und Prüfungsnoten ein und wählen Sie **vorl. Abschlussnoten berechnen**.
 5. Ergänzen Sie gegebenenfalls die mündlichen Prüfungen und wählen Sie anschließend **Abschluss berechnen**.
 
-Diese Schritte lassen sich für die ganze Gruppe über Gruppenprozesse ([Noten, Zeugnisvorbereitung](/zeugnisse/vorbereitung/noten-zeugnisvorbereitung)) ausführen.
+Diese Schritte lassen sich für die ganze Gruppe über Gruppenprozesse ([Gruppenprozesse für Noten und Zeugnisse](/zeugnisse/vorbereitung/noten-zeugnisvorbereitung)) ausführen.
 
 Bildungsgang der Anlage A - Beispiel:
 

@@ -1,8 +1,10 @@
 ---
-title: "Teilleistungs-Arten"
+title: "Teilleistungsarten"
 ---
 
-# Teilleistungs-Arten
+<a id="teilleistungs-arten"></a>
+
+# Teilleistungsarten
 
 In diesem Menü werden die Einträge angelegt, die als Teilleistungen bei den Schülerleistungsdaten zur Verfügung stehen sollen.
 
@@ -12,7 +14,7 @@ Legen Sie hier alle Arten an, zu denen die Lehrer oder Abteilungsleiter später 
 
 Die Teilleistungen können dann beim Schüler im aktuellen Abschnitt in der Spalte "Teilleistungen" durch Betätigung des Buttons "Bearbeiten" eingegeben werden.
 
-Außerdem steht für die Teilleistungen noch ein Gruppenprozess unter der Rubrik [Fächer](/schild2/gruppenprozesse/faecher) zur Verfügung.
+Außerdem steht für die Teilleistungen noch ein Gruppenprozess unter der Rubrik [Gruppenprozesse für Fächer](/schild2/gruppenprozesse/faecher) zur Verfügung.
 
 ------------------------------------------------------------------------
 

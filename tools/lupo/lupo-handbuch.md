@@ -1,8 +1,8 @@
 ---
-title: "Lupo:Handbuch"
+title: "LuPO-Handbuch"
 ---
 
-# Lupo:Handbuch
+# LuPO-Handbuch
 
 <a id="Inhaltsangabe"></a>
 
@@ -10,12 +10,12 @@ title: "Lupo:Handbuch"
 
 - [Einleitung](/tools/lupo/lupo-einleitung)
 - [Installation](/tools/lupo/lupo-installation)
-- [Vorbereitungen in Schild-NRW](/tools/lupo/lupo-vorbereitungen-in-schild-nrw)
-- [Erste Schritte in Lupo](/tools/lupo/lupo-erste-schritte-in-lupo)
+- [Vorbereitungen in SchILD](/tools/lupo/lupo-vorbereitungen-in-schild-nrw)
+- [Erste Schritte](/tools/lupo/lupo-erste-schritte-in-lupo)
   - [Schülerdateien erzeugen](/tools/lupo/lupo-schuelerdateien-erzeugen)
-- [Der Beratungsprozess](/tools/lupo/lupo-der-beratungsprozess)
-- [Auswertung der Fachwahlen](/tools/lupo/lupo-auswertung-der-fachwahlen)
-- [Übergabe der Fachwahlen an Kurs42](/tools/lupo/lupo-uebergabe-der-fachwahlen-an-kurs42)
+- [Beratungsprozess](/tools/lupo/lupo-der-beratungsprozess)
+- [Fachwahlen auswerten](/tools/lupo/lupo-auswertung-der-fachwahlen)
+- [Fachwahlen an Kurs42 übergeben](/tools/lupo/lupo-uebergabe-der-fachwahlen-an-kurs42)
 - [Weitere Laufbahnprüfungen](/tools/lupo/lupo-weitere-laufbahnpruefungen)
 
 ---

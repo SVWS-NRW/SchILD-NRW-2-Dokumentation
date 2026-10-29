@@ -1,8 +1,10 @@
 ---
-title: "Noten des aktuellen Abschnittes löschen"
+title: "Noten im aktuellen Abschnitt löschen"
 ---
 
-# Noten des aktuellen Abschnittes löschen
+<a id="noten-des-aktuellen-abschnittes-loschen"></a>
+
+# Noten im aktuellen Abschnitt löschen
 
 Mit diesem Gruppenprozess löschen Sie die eingetragenen Noten im aktuellen Abschnitt für die ausgewählte Schülergruppe, etwa nach einer fehlerhaften Datenübertragung.
 

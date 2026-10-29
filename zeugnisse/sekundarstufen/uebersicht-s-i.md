@@ -1,8 +1,10 @@
 ---
-title: "Übersicht S I"
+title: "Leistungsübersicht der Sekundarstufe I"
 ---
 
-# Übersicht S I
+<a id="ubersicht-s-i"></a>
+
+# Leistungsübersicht der Sekundarstufe I
 
 Die **Übersicht S I** ermöglicht den Überblick über alle dokumentierten Leistungsdaten in der S I. Je nach Bedarf kann die Anzeige für die Kursarten oder die Lehrkräfte erfolgen. Wenn Sie auf das Excel-Symbol klicken, wird die Übersicht in eine Excel-Tabelle exportiert.
 

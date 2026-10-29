@@ -1,8 +1,10 @@
 ---
-title: "BK-Abschluss:Anlage-D"
+title: "BK-Abschlüsse nach Anlage D"
 ---
 
-# BK-Abschluss:Anlage-D
+<a id="bk-abschluss-anlage-d"></a>
+
+# BK-Abschlüsse nach Anlage D
 
 In diesem Bereich sollen die Berechnungen der Anlage D, soweit diese in Schild-NRW hinterlegt sind, beschrieben werden.
 
@@ -10,7 +12,7 @@ Dazu werden die einzelnen Gliederungen (hier immer mit Statistikkennung genannt,
 
 Abitur wird auf dem Abiturreiter berechnet!
 
-[D01 Berufsabschluss/Allg. Hochschulreife (mit Berufspraktikum) (BAB/AHR 4j; VZ)](/zeugnisse/berufskolleg/d01-berufsabschluss-allg-hochschulreife-mit-berufspraktikum-bab-ahr-4j-vz)
+[D01 Berufsabschluss und Abitur](/zeugnisse/berufskolleg/d01-berufsabschluss-allg-hochschulreife-mit-berufspraktikum-bab-ahr-4j-vz)
 
 D02 Berufl. Kenntnisse/Allg. Hochschulreife (BK/AHR 3j; VZ)
 

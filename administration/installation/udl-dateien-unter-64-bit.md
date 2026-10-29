@@ -1,8 +1,10 @@
 ---
-title: "UDL-Dateien unter 64-BIT"
+title: "UDL-Dateien auf 64-Bit-Systemen öffnen"
 ---
 
-# UDL-Dateien unter 64-BIT
+<a id="udl-dateien-unter-64-bit"></a>
+
+# UDL-Dateien auf 64-Bit-Systemen öffnen
 
 :::warning
 Das Hinzufügen von Registryeinträgen geschieht auf eigene Gefahr!\

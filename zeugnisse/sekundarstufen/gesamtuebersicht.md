@@ -1,8 +1,10 @@
 ---
-title: "Gesamtübersicht"
+title: "Laufbahn- und Leistungsübersicht"
 ---
 
-# Gesamtübersicht
+<a id="gesamtubersicht"></a>
+
+# Laufbahn- und Leistungsübersicht
 
 Die **Gesamtübersicht** wird in zwei Unter-Karteikarten aufgeteilt. Für die **Laufbahnübersicht** werden alle angelegten Abschnitte mit den Informationen zu Wertung, Wiederholung und Jahrgang aufgelistet. Auf einen Blick ist so auch erkennbar, zu welcher Klasse, mit welcher Klassenleitung, der Schüler wann gehörte.
 

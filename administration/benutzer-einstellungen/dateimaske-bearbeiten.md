@@ -1,8 +1,10 @@
 ---
-title: "Dateimaske bearbeiten"
+title: "Dateinamen und Ablage festlegen"
 ---
 
-# Dateimaske bearbeiten
+<a id="dateimaske-bearbeiten"></a>
+
+# Dateinamen und Ablage festlegen
 
 Dieser Dialog bestimmt die Ordnerstruktur der Dokumentenverwaltung. Außerdem wird der Aufbau des Dateinamens festgelegt.
 

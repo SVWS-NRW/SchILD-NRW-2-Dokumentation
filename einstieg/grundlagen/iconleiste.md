@@ -1,8 +1,10 @@
 ---
-title: "Iconleiste"
+title: "Symbolleiste"
 ---
 
-# Iconleiste
+<a id="iconleiste"></a>
+
+# Symbolleiste
 
 ![Iconleiste](/bilder/einstieg/grundlagen/iconleiste.jpg)
 

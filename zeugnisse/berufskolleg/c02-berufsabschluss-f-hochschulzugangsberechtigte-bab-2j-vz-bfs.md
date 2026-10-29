@@ -1,8 +1,12 @@
 ---
-title: "C02 Berufsabschluss f. Hochschulzugangsberechtigte (BAB 2j; VZ) BFS"
+title: "C02 Berufsabschluss für Studienberechtigte"
 ---
 
-# C02 Berufsabschluss f. Hochschulzugangsberechtigte (BAB 2j; VZ) BFS
+<a id="c02-berufsabschluss-f-hochschulzugangsberechtigte-bab-2j-vz-bfs"></a>
+
+# C02 Berufsabschluss für Studienberechtigte
+
+Zweijähriger Vollzeitbildungsgang der Berufsfachschule für Hochschulzugangsberechtigte.
 
 ![BK_Abschluss_C02](/bilder/zeugnisse/berufskolleg/bk-abschluss-c02.png)
 

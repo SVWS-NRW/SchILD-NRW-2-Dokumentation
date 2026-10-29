@@ -56,7 +56,7 @@ Im Textfeld "Name" muss eine Kurzbezeichnung der erstellten Filterdefinition ein
 
 Durch Klicken auf "Übernehmen" wird die Filterdefinition gespeichert.
 
-Ein weiteres Anwenden dieser Filterbedingung ist über [Auswahl](/schild2/auswahl/auswahl) -\> [Vorhandene Filterdefinition laden](/schild2/auswahl/vorhandene-filterdefinition-laden) möglich.
+Ein weiteres Anwenden dieser Filterbedingung ist über [Menü Auswahl](/schild2/auswahl/auswahl) -\> [Gespeicherte Filter laden](/schild2/auswahl/vorhandene-filterdefinition-laden) möglich.
 
 **Abbruch**
 

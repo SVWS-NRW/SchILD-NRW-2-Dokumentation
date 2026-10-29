@@ -1,6 +1,7 @@
 import { spawn } from 'node:child_process'
 import fs from 'node:fs/promises'
 import assert from 'node:assert/strict'
+import { checkSectionMenus } from './section-browser.mjs'
 const { chromium } = await import(process.env.PLAYWRIGHT_MODULE || 'playwright')
 const base = 'http://127.0.0.1:4192'
 const server = spawn(process.execPath, ['node_modules/vitepress/bin/vitepress.js', 'preview', '--host', '127.0.0.1', '--port', '4192'], {stdio:'ignore'})
@@ -17,7 +18,11 @@ try {
   browser = await chromium.launch({headless:true,...(process.env.QA_BROWSER ? {executablePath:process.env.QA_BROWSER} : {})})
   const page = await browser.newPage()
   page.on('pageerror', e=>errors.push(e.message))
-  page.on('console', message=>{ if(message.type()==='error'||/hydration/i.test(message.text()))errors.push(message.text()) })
+  page.on('console', message=>{
+    // Chromium may probe favicon.ico although the site does not declare one.
+    if(new URL(message.location().url || base,base).pathname==='/favicon.ico')return
+    if(message.type()==='error'||/hydration/i.test(message.text()))errors.push(message.text())
+  })
   await page.route(/https?:\/\/(?:www\.)?(?:youtube(?:-nocookie)?\.com|player\.vimeo\.com)\//, route=>route.fulfill({contentType:'text/html',body:'<html lang="de"><body>Videovorschau für die Browserprüfung</body></html>'}))
   await fs.mkdir('test-results', {recursive:true})
   const paths = ['/', '/einstieg/', '/administration/installation/schild-nrw-installation.html', '/schild2/import-export-statistik/schnittstellenbeschreibung.html', '/reporting/rap/anrede.html', '/programmreferenz/', '/bilder/', '/hilfe/alle-artikel.html','/tools/','/tools/lupo.html','/tools/ma2lbv.html','/quellen/','/quellen/dateien.html','/tools/enm-notenmanager/leistungsdaten.html','/tools/notenmodul-grundschule/vorbereitung.html','/tools/ma2lbv/abrechnung.html']
@@ -37,6 +42,7 @@ try {
     }
   }
   await page.setViewportSize({width:1440,height:900})
+  await checkSectionMenus(page,base)
   await page.goto(base+'/schild2/import-export-statistik/schnittstellenbeschreibung.html',{waitUntil:'networkidle'})
   assert(await page.locator('.interface-fields').count()>20,'Feldtabellen müssen ihre tatsächliche Layoutklasse erhalten')
   await page.locator('.interface-table-scroll').first().focus()
@@ -54,7 +60,7 @@ try {
   assert.equal(await page.locator('a[href^="/dateien/handbuecher/"]').count(),0,'Zusätzliche Downloads sind noch verlinkt')
   await page.goto(base+'/hilfe/zusatzprogramme/lupo-lupo.html',{waitUntil:'networkidle'})
   await page.waitForURL('**/tools/lupo.html')
-  assert(await page.locator('.VPNavBarMenu a[href="/tools/"]').evaluate(e=>e.classList.contains('active')),'Alte LuPO-Adresse muss Tools im Kopfmenü aktivieren')
+  assert(await page.locator('.VPNavBarMenu').getByRole('link',{name:'Tools',exact:true}).evaluate(e=>e.classList.contains('active')),'Alte LuPO-Adresse muss Tools im Kopfmenü aktivieren')
   await page.goto(base+'/schild2/import-export-statistik/statistik-mit-asdpc-uebersicht-1346.html',{waitUntil:'networkidle'})
   await page.waitForURL('**/statistik-mit-asdpc-uebersicht.html')
   await page.goto(base+'/hilfe/zusatzprogramme/prognos-analyseverfahren-klasse.html',{waitUntil:'networkidle'})
@@ -83,7 +89,7 @@ try {
   await page.locator('.VPLocalNav .menu').click()
   await page.locator('.VPSidebar.open').waitFor()
   await page.locator('#VPSidebarNav').getByRole('link',{name:'Grundlagen und Orientierung',exact:true}).click()
-  await page.waitForURL('**/einstieg/grundlagen.html')
+  await page.waitForURL(url=>url.pathname==='/einstieg/grundlagen.html'&&url.searchParams.get('rubrik')==='einstieg')
   await page.locator('.VPSidebar.open').waitFor({state:'detached'})
   await page.goto(base+'/druck/einstieg.html',{waitUntil:'networkidle'})
   assert(await page.locator('.book-article').count()>5,'Rubrikdruck enthält keine Artikel')

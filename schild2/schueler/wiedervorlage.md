@@ -32,7 +32,7 @@ Beim Erst-Start von SchILD an einem nächstfolgenden Tag werden die Wiedervorlag
 
 14 Tage nach dem eingestellten Wdvl-Datum (ggf. Termin weiter voraus ansetzen) und 7 Tage nach dem Erledigungsdatum werden Einträge automatisch gelöscht. (Aus Gründen des Datenschutzes werden Einträge in der Wiedervorlageliste automatisch gelöscht, die ein Erledigungsdatum haben, das älter als eine Woche ist.).
 
-Einträge in die Wiedervorlage können auch als Gruppenprozess gemacht werden: [Gruppenprozesse](/schild2/gruppenprozesse/gruppenprozesse) \>\> [Eintrag in Wiedervorlage machen](/schild2/schueler/eintrag-in-wiedervorlage-machen)
+Einträge in die Wiedervorlage können auch als Gruppenprozess gemacht werden: [Gruppenprozesse](/schild2/gruppenprozesse/gruppenprozesse) \>\> [Wiedervorlage für Schülergruppen anlegen](/schild2/schueler/eintrag-in-wiedervorlage-machen)
 
 ------------------------------------------------------------------------
 

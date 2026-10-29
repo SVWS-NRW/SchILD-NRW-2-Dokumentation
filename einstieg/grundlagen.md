@@ -10,9 +10,9 @@ SchILD-NRW 2 verbindet sich direkt mit der eingerichteten Datenbank. Lernen Sie 
 
 ## Im Programm orientieren
 
-- [Schild-NRW-Index](/einstieg/grundlagen/schild-nrw-index)
+- [Programmüberblick](/einstieg/grundlagen/schild-nrw-index)
 - [Hauptfenster](/einstieg/grundlagen/hauptfenster)
-- [Iconleiste](/einstieg/grundlagen/iconleiste)
-- [Karteikasten](/einstieg/grundlagen/karteikasten)
-- [Container](/einstieg/grundlagen/container)
-- [Inhaltsverzeichnis](/einstieg/grundlagen/inhaltsverzeichnis)
+- [Symbolleiste](/einstieg/grundlagen/iconleiste)
+- [Karteikästen](/einstieg/grundlagen/karteikasten)
+- [Schülerliste](/einstieg/grundlagen/container)
+- [Funktionsübersicht](/einstieg/grundlagen/inhaltsverzeichnis)

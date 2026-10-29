@@ -1,8 +1,10 @@
 ---
-title: "Schild-NRW-Index"
+title: "Das Programm im Überblick"
 ---
 
-# Schild-NRW-Index
+<a id="schild-nrw-index"></a>
+
+# Das Programm im Überblick
 
 <a id="Hauptfenster"></a>
 
@@ -16,9 +18,9 @@ SchILD-NRW startet i.d.R. mit dem Hauptfenster. Dieses Fenster ist in mehrere Be
 
 Die Dropdown-Menüs befinden sich darunter; über diese können alle Funktionen von Schild-NRW erreicht werden. Alle Menüpunkte dieser Dropdowns werden in den kommenden Abschnitten ausführlich erklärt.
 
-Über die Iconleiste können bestimmte Funktionen von Schild-NRW direkt erreicht werden. Eine kurze Beschreibung aller Icons erreichen Sie unter dem Artikel: [Iconleiste](/einstieg/grundlagen/iconleiste).
+Über die Iconleiste können bestimmte Funktionen von Schild-NRW direkt erreicht werden. Eine kurze Beschreibung aller Icons erreichen Sie unter dem Artikel: [Symbolleiste](/einstieg/grundlagen/iconleiste).
 
-In der linken oberen Ecke befindet sich die Auswahlbox für die [Karteikästen](/einstieg/grundlagen/karteikasten). Im [Container](/einstieg/grundlagen/container) darunter befindet sich eine Auswahl von Schülern aus der Datenbank. Ist ein Schüler angeklickt, zeigen sich die zugehörigen Daten auf den Karteireitern, die den Hauptteil des Bildschirms einnehmen.
+In der linken oberen Ecke befindet sich die Auswahlbox für die [Karteikästen](/einstieg/grundlagen/karteikasten). Im [Schülerliste und Auswahl](/einstieg/grundlagen/container) darunter befindet sich eine Auswahl von Schülern aus der Datenbank. Ist ein Schüler angeklickt, zeigen sich die zugehörigen Daten auf den Karteireitern, die den Hauptteil des Bildschirms einnehmen.
 
 Eine ausführliche Beschreibung des Hauptfensters finden Sie im Artikel: **[Hauptfenster](/einstieg/grundlagen/hauptfenster)**
 
@@ -26,7 +28,9 @@ Eine ausführliche Beschreibung des Hauptfensters finden Sie im Artikel: **[Haup
 
 <a id="Datei"></a>
 
-## [Datei](/administration/datenbanken/datei)
+<a id="datei"></a>
+
+## [Datei-Menü](/administration/datenbanken/datei)
 
 ------------------------------------------------------------------------
 
@@ -58,17 +62,19 @@ Dies hat den Vorteil, dass Benutzer nicht willkürlich in den Katalogen die Beze
 
 <a id="Auswahl"></a>
 
-## [Auswahl](/schild2/auswahl/auswahl)
+<a id="auswahl"></a>
+
+## [Auswahlmenü](/schild2/auswahl/auswahl)
 
 ------------------------------------------------------------------------
 
 ![Auswahl_01](/bilder/einstieg/grundlagen/auswahl-01.jpg)
 
-Das Menü [Auswahl](/schild2/auswahl/auswahl) ist ein wesentlicher Bestandteil der Schild-NRW-Philosophie, da dort die zahlreichen Möglichkeiten zur Filterung der Schülermenge zu finden sind.
+Das Menü [Menü Auswahl](/schild2/auswahl/auswahl) ist ein wesentlicher Bestandteil der Schild-NRW-Philosophie, da dort die zahlreichen Möglichkeiten zur Filterung der Schülermenge zu finden sind.
 
-Dieses Menü beinhaltet die Programmpunkte, die es erlauben, die Menge der Schüler im [Container](/einstieg/grundlagen/container) nach vielen Kriterien einzugrenzen um mit ausgewählten Gruppen gemeinsame Arbeitsschritte (sog. [Gruppenprozesse](/schild2/gruppenprozesse/gruppenprozesse)) zu erledigen. Der Umgang mit diesen Filtern zur Gruppenweise-Bearbeitung oder zum Drucken von Gruppen-Reports ist ein grundlegender Aspekt zur effizienten Bearbeitung der Daten in Schild-NRW.
+Dieses Menü beinhaltet die Programmpunkte, die es erlauben, die Menge der Schüler im [Schülerliste und Auswahl](/einstieg/grundlagen/container) nach vielen Kriterien einzugrenzen um mit ausgewählten Gruppen gemeinsame Arbeitsschritte (sog. [Gruppenprozesse](/schild2/gruppenprozesse/gruppenprozesse)) zu erledigen. Der Umgang mit diesen Filtern zur Gruppenweise-Bearbeitung oder zum Drucken von Gruppen-Reports ist ein grundlegender Aspekt zur effizienten Bearbeitung der Daten in Schild-NRW.
 
-Die vielfältigen Möglichkeiten zur Filterung finden Sie im Artikel: **[Auswahl](/schild2/auswahl/auswahl)**
+Die vielfältigen Möglichkeiten zur Filterung finden Sie im Artikel: **[Menü Auswahl](/schild2/auswahl/auswahl)**
 
 <a id="Gruppenprozesse"></a>
 
@@ -86,7 +92,9 @@ Weitere Informationen gibt es im Artikel: **[Gruppenprozesse](/schild2/gruppenpr
 
 <a id="Druckausgabe"></a>
 
-## [Druckausgabe](/reporting/verwaltung/druckausgabe)
+<a id="druckausgabe"></a>
+
+## [Druckfunktionen](/reporting/verwaltung/druckausgabe)
 
 ------------------------------------------------------------------------
 
@@ -98,9 +106,9 @@ Auf der **[Schild-NRW-Homepage](http://www.svws.nrw.de/)** stehen Ihnen viele Fo
 
 Das Erstellen von Reports bietet allen Usern die Möglichkeit zum Drucken von einfachen Listen, bis hin zu komplizierten Reports, die sogar eigene Auswertungen machen können.
 
-Viele Informationen zum Thema **[Reporting](/reporting/erstellung/reporting)** finden Sie in einer eigenen Unterabteilung dieses WIKIS.
+Viele Informationen zum Thema **[Reporting im Überblick](/reporting/erstellung/reporting)** finden Sie in einer eigenen Unterabteilung dieses WIKIS.
 
-Die Benutzung des Menüs **[Druckausgabe](/reporting/verwaltung/druckausgabe)** wird in diesem Artikel erklärt.
+Die Benutzung des Menüs **[Druckfunktionen und Reportausgabe](/reporting/verwaltung/druckausgabe)** wird in diesem Artikel erklärt.
 
 <a id="Datenaustausch"></a>
 
@@ -120,7 +128,9 @@ Nähere Informationen dazu im Artikel: **[Datenaustausch](/schild2/import-export
 
 <a id="Extras"></a>
 
-## [Extras](/administration/benutzer-einstellungen/extras)
+<a id="extras"></a>
+
+## [Extras-Menü](/administration/benutzer-einstellungen/extras)
 
 ------------------------------------------------------------------------
 
@@ -128,9 +138,9 @@ Nähere Informationen dazu im Artikel: **[Datenaustausch](/schild2/import-export
 
 Unter diesem Menüpunkt befinden sich einige Einstellungsmöglichkeiten sowie einige Prozesse, die zur Aktualisierung bzw. zur Reparatur herangezogen werden können.
 
-Eine genaue Beschreibung, welche Prozesse zur Verfügung stehen und welche Arbeiten damit durchgeführt werden können, finden Sie in dem Artikel: **[Extras](/administration/benutzer-einstellungen/extras)**.
+Eine genaue Beschreibung, welche Prozesse zur Verfügung stehen und welche Arbeiten damit durchgeführt werden können, finden Sie in dem Artikel: **[Menü Extras](/administration/benutzer-einstellungen/extras)**.
 
-Dabei ist sicherlich der Menü-Punkt [Programm-Einstellungen](/administration/benutzer-einstellungen/programm-einstellungen) für alle Administratoren und User besonders interessant, da dort grundlegende Einstellungen für das Programm festgelegt werden können.
+Dabei ist sicherlich der Menü-Punkt [Programmeinstellungen](/administration/benutzer-einstellungen/programm-einstellungen) für alle Administratoren und User besonders interessant, da dort grundlegende Einstellungen für das Programm festgelegt werden können.
 
 Bitte beachten Sie, dass dieses Menü je nach Schulform und Einstellung anders aussehen kann.
 
@@ -146,7 +156,9 @@ Hier finden Sie einen Verweis auf die VO-DVI und die VO-DVII, die die Richtlinie
 
 <a id="Hilfe"></a>
 
-## [Hilfe](/hilfe/probleme/hilfe)
+<a id="hilfe"></a>
+
+## [Programmhilfe](/hilfe/probleme/hilfe)
 
 ------------------------------------------------------------------------
 
@@ -154,24 +166,28 @@ Hier befinden sich die Hilfefunktionen von Schild-NRW. Sie werden dort unter and
 
 Zusätzlich finden Sie hier auch die automatische Updatefunktion.
 
-Alle Informationen befinden sich im Artikel: **[Hilfe](/hilfe/probleme/hilfe)**.
+Alle Informationen befinden sich im Artikel: **[Hilfefunktionen im Programm](/hilfe/probleme/hilfe)**.
 
 <a id="Benutzer"></a>
 
-## [Benutzer](/administration/benutzer-einstellungen/benutzer)
+<a id="benutzer"></a>
+
+## [Angemeldete Benutzer](/administration/benutzer-einstellungen/benutzer)
 
 ------------------------------------------------------------------------
 
-Dieser Menü-Punkt steht Ihnen zur Verfügung, wenn die PlugIns zur Benutzerverwaltung oder Benutzeranzeige aktiviert sind. Wie diese Aktivierung funktioniert, finden Sie unter [Programm-Einstellungen](/administration/benutzer-einstellungen/programm-einstellungen).
+Dieser Menü-Punkt steht Ihnen zur Verfügung, wenn die PlugIns zur Benutzerverwaltung oder Benutzeranzeige aktiviert sind. Wie diese Aktivierung funktioniert, finden Sie unter [Programmeinstellungen](/administration/benutzer-einstellungen/programm-einstellungen).
 
 In der Benutzerverwaltung stehen Ihnen viele Optionen zur Verfügung, wie Sie die angelegten Benutzer in Schild-NRW verwalten wollen.
 
-Eine genaue Beschreibung aller Optionen finden Sie im Artikel: **[Benutzer](/administration/benutzer-einstellungen/benutzer)**.
+Eine genaue Beschreibung aller Optionen finden Sie im Artikel: **[Angemeldete Benutzer anzeigen](/administration/benutzer-einstellungen/benutzer)**.
 
 <a id="Zusatzprogramme_/_Tools"></a>
 <a id="Zusatzprogramme_.2F_Tools"></a>
 
-## [Zusatzprogramme / Tools](/hilfe/zusatzprogramme/zusatzprogramme-tools)
+<a id="zusatzprogramme-tools"></a>
+
+## [Tool-Übersicht](/hilfe/zusatzprogramme/zusatzprogramme-tools)
 
 ------------------------------------------------------------------------
 
@@ -181,7 +197,7 @@ Diese Programme werden teilweise mit der Schild-Installation ausgeliefert oder m
 
 Einzelheiten entnehmen Sie bitte den jeweiligen Artikeln:
 
-[Zusatzprogramme / Tools](/hilfe/zusatzprogramme/zusatzprogramme-tools)
+[Zusatzprogramme im Überblick](/hilfe/zusatzprogramme/zusatzprogramme-tools)
 
 ------------------------------------------------------------------------
 

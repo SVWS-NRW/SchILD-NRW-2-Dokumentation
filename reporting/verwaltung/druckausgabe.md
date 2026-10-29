@@ -1,18 +1,22 @@
 ---
-title: "Druckausgabe"
+title: "Druckfunktionen und Reportausgabe"
 ---
 
-# Druckausgabe
+<a id="druckausgabe"></a>
+
+# Druckfunktionen und Reportausgabe
 
 <a id="Reportexplorer_aufrufen"></a>
 
-## [Reportexplorer aufrufen](/reporting/verwaltung/reportexplorer-aufrufen)
+<a id="reportexplorer-aufrufen"></a>
+
+## [Report-Explorer öffnen](/reporting/verwaltung/reportexplorer-aufrufen)
 
 Der Aufruf dieses Menüpunktes "Report-Explorer aufrufen" kann in den Benutzereinstellungen gesteuert werden. Liegen die entsprechenden Berechtigungen vor, so kann damit der Reportexplorer aufgerufen werden.
 
 Hier haben Sie Zugriff auf alle Reports, die im Report-Verzeichnis von Schild-NRW gespeichert sind.
 
-Weitere Informationen: [Reportexplorer aufrufen](/reporting/verwaltung/reportexplorer-aufrufen)
+Weitere Informationen: [Reports im Report-Explorer auswählen](/reporting/verwaltung/reportexplorer-aufrufen)
 
 ------------------------------------------------------------------------
 
@@ -26,7 +30,7 @@ Alle anderen Reports, die außerhalb der Ordners "Standard" liegen, werden dann 
 
 Ansonsten sind die Funktionen je nach Benutzereinstellungen wie im Menüpunkt
 
-[Reportexplorer aufrufen](/reporting/verwaltung/reportexplorer-aufrufen).
+[Reports im Report-Explorer auswählen](/reporting/verwaltung/reportexplorer-aufrufen).
 
 ------------------------------------------------------------------------
 

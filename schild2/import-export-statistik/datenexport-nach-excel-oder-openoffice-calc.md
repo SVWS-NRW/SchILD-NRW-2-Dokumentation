@@ -1,8 +1,10 @@
 ---
-title: "Datenexport nach Excel oder OpenOffice-Calc"
+title: "Daten nach Excel oder Calc exportieren"
 ---
 
-# Datenexport nach Excel oder OpenOffice-Calc
+<a id="datenexport-nach-excel-oder-openoffice-calc"></a>
+
+# Daten nach Excel oder Calc exportieren
 
 Um Schild-NRW-Daten in anderen Programmen weiter verwenden zu können (z.B. Export für die Bundesjugendspiele) oder um Lehrern die Daten für ihre Klassen „Excel-fähig“ zur Verfügung stellen zu können, bietet Schild-NRW eine einfache Möglichkeit, diese Daten auf der Festplatte zu speichern.
 

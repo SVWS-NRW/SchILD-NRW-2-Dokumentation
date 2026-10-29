@@ -1,8 +1,10 @@
 ---
-title: "Prognos:Installation"
+title: "PM2 installieren"
 ---
 
-# Prognos:Installation
+<a id="prognos-installation"></a>
+
+# PM2 installieren
 
 **Installation**\
 Die erforderlichen Dateien finden sich auf der Seite "Schulverwaltung NRW": <https://www.svws.nrw.de/download/schild-tools>. Dabei gibt es die Möglichkeiten ein ausführbares Setup-Programm auszuwählen, oder aber ein ZIP-Archiv mit allen aktuellen Programmdateien. Weiterhin können Sie zwei pdf-Dokumente einsehen:

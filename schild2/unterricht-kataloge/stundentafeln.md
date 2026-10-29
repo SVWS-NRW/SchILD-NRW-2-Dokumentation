@@ -18,7 +18,7 @@ Ist die Stundentafel angelegt, können im unteren Bereich des Fensters die einze
 
 Das Anlegen von Stundentafeln kann als Vorbereitung zur Zuweisung von Klassenunterricht gesehen werden. Die Einrichtung der Stundentafeln legt noch keine Datensätze bei den Leistungsdaten der Schüler an.
 
-Erst mit dem Gruppenprozess [Stundentafeln zuweisen](/schild2/gruppenprozesse/stundentafeln-zuweisen) werden diese bei den Schülern aktiviert. In aller Regel werden dann die fehlenden Angaben zum unterrichtenden Lehrer über den Gruppenprozess [Klassenunterrichte bearbeiten](/schild2/gruppenprozesse/klassenunterrichte-bearbeiten) vervollständigt.
+Erst mit dem Gruppenprozess [Stundentafeln zuweisen](/schild2/gruppenprozesse/stundentafeln-zuweisen) werden diese bei den Schülern aktiviert. In aller Regel werden dann die fehlenden Angaben zum unterrichtenden Lehrer über den Gruppenprozess [Klassenunterricht gruppenweise bearbeiten](/schild2/gruppenprozesse/klassenunterrichte-bearbeiten) vervollständigt.
 
 ------------------------------------------------------------------------
 

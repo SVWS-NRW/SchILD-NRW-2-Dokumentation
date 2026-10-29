@@ -1,8 +1,10 @@
 ---
-title: "Schild-NRW Wiki:Datenschutz"
+title: "Datenschutzerklärung des Wikis"
 ---
 
-# Schild-NRW Wiki:Datenschutz
+<a id="schild-nrw-wiki-datenschutz"></a>
+
+# Datenschutzerklärung des Wikis
 
 <a id="Datenschutzerklärung"></a>
 <a id="Datenschutzerkl.C3.A4rung"></a>

@@ -1,8 +1,10 @@
 ---
-title: "Lupo:Installation"
+title: "LuPO bereitstellen und starten"
 ---
 
-# Lupo:Installation
+<a id="lupo-installation"></a>
+
+# LuPO bereitstellen und starten
 
 Bei Lupo handelt es sich um ein Programm, welches auf einem Windows-Betriebssystem ausgeführt werden muss. Lupo benötigt keine Installation im eigentlichen Sinne. Sie können die Programmdatei in jedem beliebigen Ordner ausführen, solange sich der Unterordner „Vorlagen“ mit der Datendatei „vorlage.lpo“ im gleichen Verzeichnis befindet. Lupo kann gleichwohl auf einem USB-Stick gespeichert und auf jedem Windows-PC ausgeführt werden, auf einem PC installiert oder auf einem Server gespeichert und ausgeführt werden. Da es sich bei der LPO-Datei um eine Datenbank handelt, ist es zudem möglich, mit mehreren Beratungslehrerinnen und -lehrern gleichzeitig auf die Datei zuzugreifen. In der Praxis haben sich zwei typische Szenarien etabliert:
 

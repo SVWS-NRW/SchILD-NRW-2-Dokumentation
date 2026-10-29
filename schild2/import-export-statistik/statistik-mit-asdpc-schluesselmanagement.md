@@ -1,8 +1,10 @@
 ---
-title: "Statistik mit ASDPC-Schluesselmanagement"
+title: "Schlüsselverwaltung in ASDPC"
 ---
 
-# Statistik mit ASDPC-Schluesselmanagement
+<a id="statistik-mit-asdpc-schluesselmanagement"></a>
+
+# Schlüsselverwaltung in ASDPC
 
 <a id="Allgemeine_Informationen"></a>
 

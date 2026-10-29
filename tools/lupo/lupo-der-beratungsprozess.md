@@ -1,8 +1,10 @@
 ---
-title: "Lupo:Der Beratungsprozess"
+title: "Laufbahnberatung mit LuPO durchführen"
 ---
 
-# Lupo:Der Beratungsprozess
+<a id="lupo-der-beratungsprozess"></a>
+
+# Laufbahnberatung mit LuPO durchführen
 
 Die korrekte Beratung und Prüfung der Schullaufbahn der SuS liegt in der Verantwortung der Schulen (Schulleitung, Oberstufenkoordinatoren und Beratungslehrer, siehe APO-GOSt §5). Auch wenn LuPO ausgiebig getestet wurde und ständig verbessert wird, so kann nicht ausgeschlossen werden, dass im Einzelfall fehlerhafte Wahlen ohne Fehlermeldung eingegeben werden können. Das Programm entbindet insofern die Schulen nicht von ihrer Verantwortung, alle Schullaufbahnen auf Fehler zu überprüfen.
 

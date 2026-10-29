@@ -1,8 +1,10 @@
 ---
-title: "Umstellung der Gymnasien von G8 auf G9"
+title: "Gymnasien von G8 auf G9 umstellen"
 ---
 
-# Umstellung der Gymnasien von G8 auf G9
+<a id="umstellung-der-gymnasien-von-g8-auf-g9"></a>
+
+# Gymnasien von G8 auf G9 umstellen
 
 1\. Führen Sie ein Update auf die neuste Version von Schild-NRW durch.
 

@@ -1,8 +1,10 @@
 ---
-title: "BK-Abschluss"
+title: "Abschlussverfahren am Berufskolleg"
 ---
 
-# BK-Abschluss
+<a id="bk-abschluss"></a>
+
+# Abschlussverfahren am Berufskolleg
 
 Für die Schüler eines Bildungsganges im Berufskolleg, die einen Berufsabschluss erwerben, gibt es die Karteikarte **BK-Abschluss**. Abhängig vom Bildungsgang und der zugrunde liegenden Prüfungsordnung, werden die Felder und Schaltflächen auf dieser Karte eingeblendet.
 

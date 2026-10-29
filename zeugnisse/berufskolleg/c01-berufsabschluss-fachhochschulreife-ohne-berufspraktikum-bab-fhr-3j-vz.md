@@ -1,8 +1,12 @@
 ---
-title: "C01 Berufsabschluss/Fachhochschulreife (ohne Berufspraktikum) BAB/FHR 3j; VZ"
+title: "C01 Berufsabschluss und Fachhochschulreife"
 ---
 
-# C01 Berufsabschluss/Fachhochschulreife (ohne Berufspraktikum) BAB/FHR 3j; VZ
+<a id="c01-berufsabschluss-fachhochschulreife-ohne-berufspraktikum-bab-fhr-3j-vz"></a>
+
+# C01 Berufsabschluss und Fachhochschulreife
+
+Dreijähriger Vollzeitbildungsgang zum Berufsabschluss und zur Fachhochschulreife ohne Berufspraktikum.
 
 ![BK_Abschluss_C01](/bilder/zeugnisse/berufskolleg/bk-abschluss-c01.png)
 

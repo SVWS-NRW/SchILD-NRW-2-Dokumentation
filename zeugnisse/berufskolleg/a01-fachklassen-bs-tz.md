@@ -1,8 +1,12 @@
 ---
-title: "A01 Fachklassen (BS; TZ)"
+title: "A01 Fachklassen der Berufsschule"
 ---
 
-# A01 Fachklassen (BS; TZ)
+<a id="a01-fachklassen-bs-tz"></a>
+
+# A01 Fachklassen der Berufsschule
+
+Fachklassen der Berufsschule in Teilzeit.
 
 ![BK_Abschluss_A01](/bilder/zeugnisse/berufskolleg/bk-abschluss-a01.png)
 

@@ -19,7 +19,7 @@ Eine allgemeine Fördermaßnahme wird über den Button **Allgemeine Fördermaßn
 
 ![tlinks](/bilder/schild2/schueler/foerdermassnahmen02.jpg)
 
-Fachspezifische Fördermaßnahmen werden auf dem Karteireiter [Akt. Halbjahr](/zeugnisse/vorbereitung/akt-halbjahr) angelegt.
+Fachspezifische Fördermaßnahmen werden auf dem Karteireiter [Daten im aktuellen Halbjahr bearbeiten](/zeugnisse/vorbereitung/akt-halbjahr) angelegt.
 
 ![Foerdermassnahmen03](/bilder/schild2/schueler/foerdermassnahmen03.jpg)
 

@@ -1,8 +1,10 @@
 ---
-title: "Lupo:Weitere Laufbahnprüfungen"
+title: "Weitere Laufbahnprüfungen in LuPO"
 ---
 
-# Lupo:Weitere Laufbahnprüfungen
+<a id="lupo-weitere-laufbahnprufungen"></a>
+
+# Weitere Laufbahnprüfungen in LuPO
 
 <a id="Laufbahnprüfungen_Ende_der_Einführungsphase"></a>
 <a id="Laufbahnpr.C3.BCfungen_Ende_der_Einf.C3.BChrungsphase"></a>

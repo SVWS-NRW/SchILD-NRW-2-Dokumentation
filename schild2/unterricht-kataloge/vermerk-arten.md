@@ -1,12 +1,14 @@
 ---
-title: "Vermerk-Arten"
+title: "Vermerkarten"
 ---
 
-# Vermerk-Arten
+<a id="vermerk-arten"></a>
+
+# Vermerkarten
 
 Vermerkarten bieten die Möglichkeit mehrere selbst definierte Merkmale bei den Schülern mit einem Datum und einem speziellen Text zu vergeben. Da hier der User sehr frei in der Definition ist, wird auch bei jeder Anlage einer neuen Vermerkart der Datenschutzhinweis gezeigt! Bitte informieren Sie sich, ob Sie das Merkmal, welches Sie dort anlegen möchten auch wirklich verwalten dürfen!
 
-Sind unter [Schulverwaltung](/schild2/unterricht-kataloge/schulverwaltung) die Vermerkarten angelegt, können diese einzeln unter [Laufbahninfo](/schild2/schueler/laufbahninfo) oder als Gruppenprozess [Individualdaten ändern](/schild2/gruppenprozesse/individualdaten-aendern) bei den Schülern vergeben werden.
+Sind unter [Schulverwaltung](/schild2/unterricht-kataloge/schulverwaltung) die Vermerkarten angelegt, können diese einzeln unter [Laufbahninformationen](/schild2/schueler/laufbahninfo) oder als Gruppenprozess [Individualdaten ändern](/schild2/gruppenprozesse/individualdaten-aendern) bei den Schülern vergeben werden.
 
 ![Vermerkarten](/bilder/schild2/unterricht-kataloge/vermerkarten.jpg)
 

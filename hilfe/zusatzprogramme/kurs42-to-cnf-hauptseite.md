@@ -1,8 +1,10 @@
 ---
-title: "Kurs42 To CNF:Hauptseite"
+title: "Blockung mit Kurs42 To CNF"
 ---
 
-# Kurs42 To CNF:Hauptseite
+<a id="kurs42-to-cnf-hauptseite"></a>
+
+# Blockung mit Kurs42 To CNF
 
 <a id="Hinweise"></a>
 

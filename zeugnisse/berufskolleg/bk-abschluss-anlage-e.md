@@ -1,8 +1,10 @@
 ---
-title: "BK-Abschluss:Anlage-E"
+title: "BK-Abschlüsse nach Anlage E"
 ---
 
-# BK-Abschluss:Anlage-E
+<a id="bk-abschluss-anlage-e"></a>
+
+# BK-Abschlüsse nach Anlage E
 
 <a id="Bildungsgänge_der_Fachschule"></a>
 <a id="Bildungsg.C3.A4nge_der_Fachschule"></a>
@@ -11,7 +13,7 @@ title: "BK-Abschluss:Anlage-E"
 
 E01 Fachschule Vollzeit (BW 2j; VZ)
 
-[E02 Fachschule Teilzeit (BW 4j; TZ)](/zeugnisse/berufskolleg/e02-fachschule-teilzeit-bw-4j-tz)
+[E02 Fachschule in Teilzeit](/zeugnisse/berufskolleg/e02-fachschule-teilzeit-bw-4j-tz)
 
 E03 Fachschule (verkürzt) Vollzeit/Teilzeit (BW 1j; VZ/TZ)
 

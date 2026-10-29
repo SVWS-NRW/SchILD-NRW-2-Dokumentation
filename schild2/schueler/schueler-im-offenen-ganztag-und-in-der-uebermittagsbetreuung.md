@@ -1,8 +1,10 @@
 ---
-title: "Schüler im offenen Ganztag und in der Übermittagsbetreuung"
+title: "Ganztag und Übermittagsbetreuung erfassen"
 ---
 
-# Schüler im offenen Ganztag und in der Übermittagsbetreuung
+<a id="schuler-im-offenen-ganztag-und-in-der-ubermittagsbetreuung"></a>
+
+# Ganztag und Übermittagsbetreuung erfassen
 
 Welche Eintragungen müssen in SchILD-NRW gemacht werden, damit Schülerinnen und Schüler im offenen Ganztag und Schülerinnen und Schüler in der Übermittagsbetreuung für die Statistik korrekt übernommen werden?
 

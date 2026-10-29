@@ -65,11 +65,11 @@ Selbstverständlich können Sie auch Unterrichtsfächer nach Bedarf ergänzen. N
 
 Achten Sie insbesondere auf die Einteilung in die richtige **Fächergruppe**, dieses Merkmal steuert die zugehörige Position auf den allermeisten Zeugnisformularen! Gerade für Projekt- und Vertiefungskurse ist das entscheidend. AGs und zusätzliche Unterrichtsveranstaltungen sollten hier auch korrekt angelegt werden, damit das Fach unter "weiterer Unterricht" erscheint.
 
-Der Haken **Fremdsprache** markiert für Schild-NRW alle Fächer, die als verwertbar für die Sprachenfolge gelten. Die Fächer mit diesem Haken stehen Ihnen unter [Laufbahninfo](/schild2/schueler/laufbahninfo) in der Sprachenfolge zur Verfügung. Außerdem kann Schild-NRW für die Abiturzulassung die Sprachenverpflichtung nur prüfen, wenn die Haken hier korrekt gesetzt sind.
+Der Haken **Fremdsprache** markiert für Schild-NRW alle Fächer, die als verwertbar für die Sprachenfolge gelten. Die Fächer mit diesem Haken stehen Ihnen unter [Laufbahninformationen](/schild2/schueler/laufbahninfo) in der Sprachenfolge zur Verfügung. Außerdem kann Schild-NRW für die Abiturzulassung die Sprachenverpflichtung nur prüfen, wenn die Haken hier korrekt gesetzt sind.
 
 **Aufs Zeugnis** bewirkt, dass das Fach beim Füllen der Datenquellen für den Zeugnisdruck berücksichtigt wird.
 
-**Schriftl Fach ZK/ZP10** die so markierten Fächer können später auf dem Karteireiter [ZP10/ZK10](/zeugnisse/sekundarstufen/zp10-zk10) weiterverarbeitet werden.
+**Schriftl Fach ZK/ZP10** die so markierten Fächer können später auf dem Karteireiter [Zentrale Prüfungen und Klausuren verwalten](/zeugnisse/sekundarstufen/zp10-zk10) weiterverarbeitet werden.
 
 **Bei abgeschlossene Fächer holen" berücksichtigen"** muss angeklickt sein, wenn das Fach später auf Abschlusszeugnissen geholt werden soll.
 
@@ -122,7 +122,7 @@ Wenn es sich bei Ihrer Schule um eine weiterführende Schule mit einer gymnasial
 
 ![FächerOberstufe](/bilder/schild2/unterricht-kataloge/facheroberstufe.jpg)
 
-Die Wahlmöglichkeiten an Ihrer Schule können Sie unter den Karteireitern **[Nicht mögliche Fachkombinationen](/schild2/unterricht-kataloge/nicht-moegliche-fachkombinationen)** und **Fächerprofile** noch detaillierter abbilden. Dort bestimmen Sie die Fächer, die für einen bestimmten Zeitraum nicht gleichzeitig angewählt werden können (evt. Religionslehre und Philosophie) bzw. die zwingend zusammen angewählt werden müssen. Wählen Sie dazu einfach über die Dropdown-Menüs in den Tabellen die entsprechenden Fächer, Kursarten und Zeiträume aus. Über die Ihnen bekannten Symbole in der Steuerleiste können Sie Zeilen hinzufügen, entfernen und Ihre Eintragungen bestätigen oder annulieren.
+Die Wahlmöglichkeiten an Ihrer Schule können Sie unter den Karteireitern **[Unzulässige Fachkombinationen festlegen](/schild2/unterricht-kataloge/nicht-moegliche-fachkombinationen)** und **Fächerprofile** noch detaillierter abbilden. Dort bestimmen Sie die Fächer, die für einen bestimmten Zeitraum nicht gleichzeitig angewählt werden können (evt. Religionslehre und Philosophie) bzw. die zwingend zusammen angewählt werden müssen. Wählen Sie dazu einfach über die Dropdown-Menüs in den Tabellen die entsprechenden Fächer, Kursarten und Zeiträume aus. Über die Ihnen bekannten Symbole in der Steuerleiste können Sie Zeilen hinzufügen, entfernen und Ihre Eintragungen bestätigen oder annulieren.
 
 ------------------------------------------------------------------------
 

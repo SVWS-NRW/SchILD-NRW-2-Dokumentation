@@ -1,8 +1,10 @@
 ---
-title: "S1PLAN:Einrichtung von Kursen"
+title: "Kurse in S1Plan einrichten und zuweisen"
 ---
 
-# S1PLAN:Einrichtung von Kursen
+<a id="s1plan-einrichtung-von-kursen"></a>
+
+# Kurse in S1Plan einrichten und zuweisen
 
 
 Das Einrichten von Kursen kann auf zwei Wegen erfolgen. Falls in der angebundenen SchILD-Datenbank schon Kurse (mit oder ohne Schülerverteilung) vorhanden sind, können diese in S1Plan eingelesen werden. Falls noch keine Kurse in der SchILD-Datenbank vorliegen, können in S1Plan alle Kurse eingerichtet und hier auch eine Schülerverteilung vorgenommen werden. Im Folgenden wird davon ausgegangen, dass in der SchILD-Datenbank noch keine Kurse eingerichtet wurden (Fall A, siehe oben Seite 3).

@@ -1,8 +1,10 @@
 ---
-title: "Zeugnisse drucken und Schüler ausschulen"
+title: "Zeugnisse drucken und Schüler entlassen"
 ---
 
-# Zeugnisse drucken und Schüler ausschulen
+<a id="zeugnisse-drucken-und-schuler-ausschulen"></a>
+
+# Zeugnisse drucken und Schüler entlassen
 
 Dieser Gruppenprozess ist dann geeignet, wenn die Schüler mit Ausstellung des Zeugnisses die Schule verlassen.
 

@@ -10,19 +10,19 @@ Der Menüpunkt Datenaustausch beinhaltet alle Optionen für den Import und Expor
 
 [Externes Notenmodul](/zeugnisse/vorbereitung/externes-notenmodul)
 
-[Export in Text-/Excel-Dateien](/schild2/import-export-statistik/export-in-text-excel-dateien)
+[Daten als Text- oder Excel-Datei exportieren](/schild2/import-export-statistik/export-in-text-excel-dateien)
 
 [Import aus Textdateien](/schild2/import-export-statistik/import-aus-textdateien)
 
-[Schnittstelle Schild-NRW](/schild2/import-export-statistik/schnittstelle-schild-nrw)
+[Datenaustausch über die SchILD-Schnittstelle](/schild2/import-export-statistik/schnittstelle-schild-nrw)
 
-[Export für Lupo](/schild2/import-export-statistik/export-fuer-lupo)
+[Schülerdaten für LuPO exportieren](/schild2/import-export-statistik/export-fuer-lupo)
 
-[Unterrichtsdaten (als Excel Dateien) importieren](/schild2/import-export-statistik/unterrichtsdaten-als-excel-dateien-importieren)
+[Unterrichtsdaten aus Excel importieren](/schild2/import-export-statistik/unterrichtsdaten-als-excel-dateien-importieren)
 
 [Excel-Notendateien](/zeugnisse/vorbereitung/excel-notendateien)
 
-[Fotos](/schild2/import-export-statistik/fotos)
+[Schülerfotos und Fotolisten exportieren](/schild2/import-export-statistik/fotos)
 
 [Wohnortdaten exportieren](/schild2/import-export-statistik/wohnortdaten-exportieren)
 
@@ -32,7 +32,7 @@ Der Menüpunkt Datenaustausch beinhaltet alle Optionen für den Import und Expor
 
 [SchILDweb](/hilfe/zusatzprogramme/schildweb)
 
-[JaNa-Export (Jahrgang und Nationalität)](/schild2/import-export-statistik/jana-export-jahrgang-und-nationalitaet)
+[Jahrgänge und Nationalitäten exportieren](/schild2/import-export-statistik/jana-export-jahrgang-und-nationalitaet)
 
 [Export für BAN-Portal](/schild2/import-export-statistik/export-fuer-ban-portal)
 

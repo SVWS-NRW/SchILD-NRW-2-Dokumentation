@@ -1,8 +1,10 @@
 ---
-title: "Individual-Daten I"
+title: "Individualdaten I"
 ---
 
-# Individual-Daten I
+<a id="individual-daten-i"></a>
+
+# Individualdaten I
 
 Auf diesem Karteireiter wird der erste Teil der Individualdaten gespeichert. Die statistisch relevanten Daten werden mit grüner Farbe gekennzeichnet. (Diese Färbung lässt sich unter den Programmeinstellungen verändern.)
 
@@ -16,11 +18,11 @@ Wenn Sie einen Schüler im Status verändern wollen, so muss der Zielstatus vorh
 
 **Telefonnummer und Fax- / Mobilnummer**
 
-Tragen Sie hier die Haupt-Telefonnummern des Schülers ein. Sie können dann auf dem Karteireiter [Erz.-Berechtigte](/schild2/schueler/erz-berechtigte) unter "Telefon-Nummern" noch beliebig viele weitere Nummern eintragen.
+Tragen Sie hier die Haupt-Telefonnummern des Schülers ein. Sie können dann auf dem Karteireiter [Erziehungsberechtigte verwalten](/schild2/schueler/erz-berechtigte) unter "Telefon-Nummern" noch beliebig viele weitere Nummern eintragen.
 
 Wenn Sie eine Telefonanlage haben, die die automatische Telefonwahl aus Windows heraus unterstützt, dann können Sie diese Nummern mit der rechten Maustaste anklicken und die Nummer direkt an Ihre Telefonanlage leiten lassen.
 
-Wenn in den [Programm-Einstellungen](/administration/benutzer-einstellungen/programm-einstellungen) die automatische Übernahme der Telefonnummern zu [Erz.-Berechtigte](/schild2/schueler/erz-berechtigte) aktiviert ist, fragt das Programm nach, ob bei Änderungen auch die dortigen Nummern angepasst werden sollen. Bei einer Neueingabe der Telefonnummer legt Schild-NRW bei aktivierter Option die Nummern "Festnetz", "Faxnummer" oder "Mobilnummer" bei [Erz.-Berechtigte](/schild2/schueler/erz-berechtigte) an. Im Feld "Fax- / Mobilnummer" werden dann die ersten beiden Zeichen ausgewertet. Sollte es sich um "01" handeln, so wird die Nummernart "Mobilnummer" angelegt. (Dies kann aber später geändert werden.)
+Wenn in den [Programmeinstellungen](/administration/benutzer-einstellungen/programm-einstellungen) die automatische Übernahme der Telefonnummern zu [Erziehungsberechtigte verwalten](/schild2/schueler/erz-berechtigte) aktiviert ist, fragt das Programm nach, ob bei Änderungen auch die dortigen Nummern angepasst werden sollen. Bei einer Neueingabe der Telefonnummer legt Schild-NRW bei aktivierter Option die Nummern "Festnetz", "Faxnummer" oder "Mobilnummer" bei [Erziehungsberechtigte verwalten](/schild2/schueler/erz-berechtigte) an. Im Feld "Fax- / Mobilnummer" werden dann die ersten beiden Zeichen ausgewertet. Sollte es sich um "01" handeln, so wird die Nummernart "Mobilnummer" angelegt. (Dies kann aber später geändert werden.)
 
 **Weitere Funktionen**
 
@@ -31,7 +33,7 @@ Hier können über ein Menü einige Funktionen erreicht werden:
 - Geschwister suchen (Dabei wird anhand des Nachnamens und der Adresse gesucht!)
 - Zugehörigkeit zu Gruppen zeigen (Schwebefenster mit Gruppen wird gezeigt)
 - Vermerke zeigen (Schwebefenster mit Vermerken zum Schüler wird gezeigt)
-- Telefonnummern zeigen (Schwebefenster mit Telefonnummern von [Erz.-Berechtigte](/schild2/schueler/erz-berechtigte) wird gezeigt
+- Telefonnummern zeigen (Schwebefenster mit Telefonnummern von [Erziehungsberechtigte](/schild2/schueler/erz-berechtigte) wird gezeigt
 
 ------------------------------------------------------------------------
 

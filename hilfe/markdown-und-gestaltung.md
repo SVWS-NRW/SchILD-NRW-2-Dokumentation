@@ -190,7 +190,7 @@ Ein senkrechter Strich innerhalb einer Tabellenzelle benötigt einen einzelnen B
 
 ### Breite Feldtabellen
 
-Die [Schnittstellenbeschreibung](/schild2/import-export-statistik/schnittstellenbeschreibung) zeigt ein vorhandenes Tabellenformat für Feldbeschreibungen. Es verwendet genau die sechs Überschriften „Spalte“, „Beschreibung“, „Header-Text“, „Datentyp“, „Darf leer sein?“ und „Bemerkung“. Daraus entstehen zentral einheitliche Spalten und ein per Tastatur bedienbarer Scrollbereich.
+Die [Dateien und Felder der Textschnittstelle](/schild2/import-export-statistik/schnittstellenbeschreibung) zeigt ein vorhandenes Tabellenformat für Feldbeschreibungen. Es verwendet genau die sechs Überschriften „Spalte“, „Beschreibung“, „Header-Text“, „Datentyp“, „Darf leer sein?“ und „Bemerkung“. Daraus entstehen zentral einheitliche Spalten und ein per Tastatur bedienbarer Scrollbereich.
 
 Für die zugehörige breitere Seitendarstellung wird im vorhandenen Seitenkopf die Angabe `pageClass: reference-tables` ergänzt. Verwenden Sie für solche Nachschlageartikel die vorhandene Schnittstellenbeschreibung als Vorlage, statt eigene Breiten oder Inline-Stile in den Artikel zu schreiben.
 

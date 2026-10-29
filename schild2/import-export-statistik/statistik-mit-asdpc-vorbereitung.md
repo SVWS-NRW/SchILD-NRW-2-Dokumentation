@@ -1,8 +1,10 @@
 ---
-title: "Statistik mit ASDPC Vorbereitung"
+title: "Haupterhebung vorbereiten"
 ---
 
-# Statistik mit ASDPC Vorbereitung
+<a id="statistik-mit-asdpc-vorbereitung"></a>
+
+# Haupterhebung vorbereiten
 
 <a id="Vorbereitung_der_Statistik"></a>
 

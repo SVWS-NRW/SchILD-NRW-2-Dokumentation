@@ -15,21 +15,21 @@ Die [Tools-Rubrik](/tools/) bündelt Einrichtung und Arbeitsabläufe der Zusatzp
 
 ## [Hilfe und Problemlösungen](/hilfe/probleme)
 
-- [Hilfe](/hilfe/probleme/hilfe)
-- [Fehler beim Export der Statistikdateien - Klasse nicht registriert](/hilfe/probleme/fehler-beim-export-der-statistikdateien-klasse-nicht-registriert)
+- [Programmhilfe](/hilfe/probleme/hilfe)
+- [Statistik-DLL registrieren](/hilfe/probleme/fehler-beim-export-der-statistikdateien-klasse-nicht-registriert)
 
 ## [Wiki und Versionsgeschichte](/hilfe/wiki-archiv)
 
-- [Versionsgeschichte Schild-NRW](/hilfe/wiki-archiv/versionsgeschichte-schild-nrw)
-- [Youtube](/hilfe/wiki-archiv/youtube)
-- [Testseite](/hilfe/wiki-archiv/testseite)
-- [Erklärung zur Barrierefreiheit](/hilfe/wiki-archiv/erklaerung-zur-barrierefreiheit)
-- [Hauptseite](/hilfe/wiki-archiv/hauptseite)
+- [Änderungshistorie](/hilfe/wiki-archiv/versionsgeschichte-schild-nrw)
+- [Wiki-Video](/hilfe/wiki-archiv/youtube)
+- [Frühere Menüübersicht](/hilfe/wiki-archiv/testseite)
+- [Barrierefreiheit im Wiki](/hilfe/wiki-archiv/erklaerung-zur-barrierefreiheit)
+- [Wiki-Startseite](/hilfe/wiki-archiv/hauptseite)
 
 - [Alle Artikel](/hilfe/alle-artikel)
 - [Dokumentation und Wiki im Vergleich](/hilfe/artikel-wiki-zuordnung)
 - [Bilderkatalog](/bilder/)
-- [Bedienung](/hilfe/bedienung)
+- [Bedienung im Alltag](/hilfe/bedienung)
 - [Artikel schreiben](/hilfe/artikel-schreiben)
 - [Markdown und Gestaltung](/hilfe/markdown-und-gestaltung)
 - [Über diese Dokumentation](/hilfe/ueber-diese-dokumentation)

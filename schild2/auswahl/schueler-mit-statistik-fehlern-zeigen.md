@@ -1,8 +1,10 @@
 ---
-title: "Schüler mit Statistik-Fehlern zeigen"
+title: "Statistikfehler finden"
 ---
 
-# Schüler mit Statistik-Fehlern zeigen
+<a id="schuler-mit-statistik-fehlern-zeigen"></a>
+
+# Statistikfehler finden
 
 Wenn Sie diesen Menüpunkt anwählen, werden Ihnen Statistik-Fehler angezeigt.
 

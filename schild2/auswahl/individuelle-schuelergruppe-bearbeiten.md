@@ -1,8 +1,10 @@
 ---
-title: "Individuelle Schülergruppe bearbeiten"
+title: "Eigene Schülergruppen anlegen"
 ---
 
-# Individuelle Schülergruppe bearbeiten
+<a id="individuelle-schulergruppe-bearbeiten"></a>
+
+# Eigene Schülergruppen anlegen
 
 Manchmal sucht man eine Filtermöglichkeit, die nicht den bekannten Kriterien wie Klasse, Jahrgang, Kurs, evangelisch, katholisch entspricht. Hier hat man die Möglichkeit, eine Schülergruppe einzurichten, der man Schülerinnen und Schüler aus unterschiedlichen Klassen zuweisen kann.
 
