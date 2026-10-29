@@ -1,0 +1,29 @@
+{
+  "pageid": 215,
+  "ns": 10,
+  "title": "Vorlage:Kasten gelb",
+  "revisions": [
+    {
+      "revid": 5534,
+      "parentid": 681,
+      "user": "JRaffenberg",
+      "timestamp": "2022-04-03T16:11:53Z",
+      "sha1": "a3db8b9dce0109b9044c4b4504b49c9693952cf2",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "<div style=\"border: 1px solid #EEEE7C; background-color:#F9FAD1; font-size:1px; height:8px; border-bottom:1px solid #EEEE7C\">\n</div>\n<div style=\"border: 1px solid #EEEE7C; background-color:#FCFCE8; padding:7px;\">\n{{{1}}}\n</div>\n<noinclude>\n;Das schreibt man: <pre>{{Kasten gelb|<Text>}}</pre>\n[[Kategorie:Vorlage:Kastenbausteine]]</noinclude>"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-04-03T16:11:53Z",
+  "lastrevid": 5534,
+  "length": 342
+}

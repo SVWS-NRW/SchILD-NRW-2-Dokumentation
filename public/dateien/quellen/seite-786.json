@@ -1,0 +1,30 @@
+{
+  "pageid": 786,
+  "ns": 6,
+  "title": "Datei:LeistungsdatenKlasseTut03.jpg",
+  "revisions": [
+    {
+      "revid": 3058,
+      "parentid": 0,
+      "user": "Mhoffmann",
+      "timestamp": "2015-05-03T17:07:09Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-05-03T17:07:10Z",
+  "lastrevid": 3058,
+  "length": 0,
+  "new": ""
+}

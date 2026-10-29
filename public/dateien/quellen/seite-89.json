@@ -1,0 +1,30 @@
+{
+  "pageid": 89,
+  "ns": 0,
+  "title": "SetJgIntervall ASD",
+  "revisions": [
+    {
+      "revid": 113,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T18:37:37Z",
+      "sha1": "9bd06884538a9914c3890c7b2df9c960918cdb4c",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    function SetJgIntervall_ASD(Const aJahrgangsliste: String): Boolean;\n|-\n|'''Parameter''' || \n    aJahrgangsliste    - Liste der Jahrgänge, für die eine Übersicht erzeugt\n                         werden soll\n|-\n|'''Rückgabewert''' ||\n    ...\n|- \n|'''Beispiel''' || \n    Procedure ReportBeforePrint;\n     begin\n       If SetJgIntervall_ASD('EF,Q1,Q2') then\n         ShowMessage('Dieser Report ist für den Quartalsbetrieb nicht geeignet');\n     end;\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      function SetJgIntervall_ASD(Const aJahrgangsliste: String): Boolean; |- |…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T18:37:37Z",
+  "lastrevid": 113,
+  "length": 579,
+  "new": ""
+}

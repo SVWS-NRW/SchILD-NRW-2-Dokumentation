@@ -1,0 +1,27 @@
+# Sekundarstufen und Abitur
+
+Die folgenden Artikel behandeln Prüfungsdaten, Abschlüsse und Zeugnisangaben der Sekundarstufen. Unterscheiden Sie die Berechnung in SchILD, die schulische Entscheidung und die Ausgabe im Zeugnisreport. Sprachliche Nachweise und der schulische Teil der Fachhochschulreife haben jeweils eigene Voraussetzungen.
+
+- [Abitur](/zeugnisse/sekundarstufen/abitur)
+- [Abiturberechnungen](/zeugnisse/sekundarstufen/abiturdurchlauf)
+- [Abitur-Gruppenprozesse](/zeugnisse/sekundarstufen/gruppenprozesse-abitur)
+- [Abituraktionen](/zeugnisse/sekundarstufen/gruppenaktionen-abitur)
+- [Leistungsübersicht Sekundarstufe I](/zeugnisse/sekundarstufen/uebersicht-s-i)
+- [Leistungsübersicht Sekundarstufe II](/zeugnisse/sekundarstufen/uebersicht-s-ii)
+- [Laufbahnübersicht](/zeugnisse/sekundarstufen/gesamtuebersicht)
+- [Schulischer FHR-Teil](/zeugnisse/sekundarstufen/fhr)
+- [ZP10 und ZK10](/zeugnisse/sekundarstufen/zp10-zk10)
+- [Sprachenfolge im Zeugnis](/zeugnisse/sekundarstufen/sprachenfolge-bei-seiteneinsteigern-des-gymnasiums-in-zeugnis-korrekt-ausgeben)
+- [Bilinguale Bescheinigungen](/zeugnisse/sekundarstufen/bescheinigungen-des-bilingualen-bildungsgangs)
+- [Serienbriefe zur Nichtversetzung](/zeugnisse/sekundarstufen/serienbrief-nichtversetzte)
+- [Abiturjahr setzen](/zeugnisse/sekundarstufen/abitur-jahr-setzen-fuer-statistik)
+- [Abiturzulassung](/zeugnisse/sekundarstufen/abitur-zulassung-berechnen)
+- [Gesamtfehlstunden berechnen](/zeugnisse/sekundarstufen/gesamt-fehlstunden-berechnen)
+- [Abiturergebnis](/zeugnisse/sekundarstufen/gesamtergebnis-berechnen)
+- [Kurse für die Zulassung markieren](/zeugnisse/sekundarstufen/kurse-algorithmisch-markieren)
+- [Leistungsdaten übernehmen](/zeugnisse/sekundarstufen/leistungsdaten-holen)
+- [Mündliche Prüfungen festlegen](/zeugnisse/sekundarstufen/mdl-pruefungen-a1-a3-festlegen)
+- [Mündliche Prüfungen festlegen](/zeugnisse/sekundarstufen/muendliche-pruefungen-a1-a3-festlegen)
+- [Prüfungsergebnisse](/zeugnisse/sekundarstufen/pruefungsergebnisse-eingeben)
+- [Sprachnachweise und Zusatzdaten](/zeugnisse/sekundarstufen/zusatzdaten-latimun-eingeben)
+- [Sprachnachweise und Zusatzdaten](/zeugnisse/sekundarstufen/zusatzdaten-latinum-eingeben)

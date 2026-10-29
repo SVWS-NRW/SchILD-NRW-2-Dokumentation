@@ -1,0 +1,29 @@
+{
+  "pageid": 474,
+  "ns": 0,
+  "title": "Teilleistungen eingeben",
+  "revisions": [
+    {
+      "revid": 3616,
+      "parentid": 2049,
+      "user": "Mhoffmann",
+      "timestamp": "2015-09-20T09:29:55Z",
+      "sha1": "169a25ce9e5582223868ba2c40a6f7d95aa28b05",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Mit dem Aufruf des Gruppenprozesses \"Teilleistungen eingeben\" öffnen sich direkt zwei Fenster. Das erste Fenster ist ein Auswahldialog, mit dessen Hilfe man die Schülermenge auswählen muss, für die man Teilleistungen eingeben möchte. Es ist hier also nicht nötig, vorher eine Auswahl im Container vorzunehmen.\nFür die Auswahl muss angegeben werden, ob man Eingaben für eine Klasse oder einen Kurs vornehmen möchte und für welches Fach bzw. welchen Kurs. Des Weiteren sind die Art der Teilleistung und die Lehrkraft, durch die die Vergabe der Teilleistung erfolgt (hier stehen i.d.R. nur die Lehrkräfte zur Verfügung, die auch am jeweiligen Unterricht beteiligt sind, d.h. Fachlehrer, Zusatzkraft oder \"weitere Kurslehrer\"), anzugeben.\n\nMit Klicken auf die Schaltfläche \"OK\" wird die Auswahl vorgenommen.\n\n:[[Image:GP-Teilleistungen01.jpg|Center|300px]]\n\nIm zweiten Fenster können nun für jeden Schüler die Teilleistungen und ggf. Bemerkungen durch Anklicken des entsprechenden Tabellenfeldes eingetragen werden.\nDurch Klicken auf die Schaltfläche \"In Datenbank übernehmen\" werden die Eintragungen gespeichert.\n\n:[[Image:GP-Teilleistungen02.jpg|Center|400px]]\n\n'''Hinweis''': Die Teilleistungs-Arten können unter [[Schulverwaltung]] > [[Teilleistungs-Arten]] ergänzt werden.\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Fächer|Zurück zu Fächer]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-09-20T09:29:55Z",
+  "lastrevid": 3616,
+  "length": 1359
+}

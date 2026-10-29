@@ -1,0 +1,29 @@
+{
+  "pageid": 500,
+  "ns": 0,
+  "title": "Versetzungs-/Abschluss-Berechnung",
+  "revisions": [
+    {
+      "revid": 3593,
+      "parentid": 2100,
+      "user": "Mhoffmann",
+      "timestamp": "2015-09-20T07:52:15Z",
+      "sha1": "134626a7acb05337a2823c177c38ca56dfca1bee",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Dieser Gruppenprozess wird nach der Noteneingabe benötigt, um für die aktuell ausgewählte Schülermenge die entsprechenden Versetzungsberechnungen durchzuführen. Man sollte vorher unter \"Noten, Zeugnisvorbereitung\" den Gruppenprozess [[Fächer ohne Noten suchen]] durchführen, um Fehlermeldungen aufgrund fehlender Noteneinträge zu vermeiden.\n\nGrundlage für die Berechnungen ist die in der Klassen- und Versetzungstabelle für die betreffende Klasse eingestellte Prüfungsordnung.\n(zu finden unter > [[Schulverwaltung]] >  [[Klassen-/Versetzungstabelle]] > Details)\n\nNach Aufruf des Prozesses werden die Berechnungen automatisch durchgeführt und die Ergebnisse werden in einem Mitteilungsfenster angezeigt. Es gibt Informationen zu der Versetzung wie auch zu möglichen Abschlüssen oder Nachprüfungsmöglichkeiten. Der Inhalt des Fensters kann als Textdatei gespeichert oder ausgedruckt werden. \n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Lernabschnitte, Versetzung|Zurück zu Lernabschnitte, Versetzung]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-09-20T07:52:15Z",
+  "lastrevid": 3593,
+  "length": 1009
+}

@@ -1,0 +1,29 @@
+{
+  "pageid": 288,
+  "ns": 0,
+  "title": "Fächer",
+  "revisions": [
+    {
+      "revid": 1309,
+      "parentid": 1293,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-02-12T16:06:40Z",
+      "sha1": "4b7593b5a2fe71326c3bf5230444d1c037dd0b25",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "[[Image:GP-Fächer.jpg|Center]]\n\nUnter dem Karteireiter \"Fächer\" verbergen sich folgende Gruppenprozesse.\n\nBitte klicken Sie die Artikel an, um Informationen zu den dahinter liegenden Sammelaktionen zu bekommen.\n\n\n*[[Stundentafeln zuweisen]]\n*[[Klassenunterrichte bearbeiten]]\n*[[Details zu Fächern bei Schülern ändern]]\n*[[Einzelne Fächer bei Schülern löschen]]\n*[[Einzelne Fächer bei Schülern hinzufügen]]\n*[[Noten von Epochal-Fächern ergänzen]]\n*[[Teilleistungen eingeben]]\n*[[Kurse zuweisen (Einzelkurs)]]\n*[[Kurse zuweisen (mehrere Kurse)]]\n*[[Fächer zuweisen (tabellarisch)]]\n*[[Fächer aus vorherigem Abschnitt holen]]\n*[[Doppelte Fächer löschen]]\n----\n*[[Fächer in Leistungsdaten neu sortieren]] (nur BK-Datenbanken)\n\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Gruppenprozesse|Zurück zu Gruppenprozesse]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-04-10T14:53:04Z",
+  "lastrevid": 1309,
+  "length": 823
+}

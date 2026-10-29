@@ -1,0 +1,30 @@
+{
+  "pageid": 302,
+  "ns": 6,
+  "title": "Datei:Klassen-Abteilungen-02.jpg",
+  "revisions": [
+    {
+      "revid": 1326,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-02-13T10:22:49Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-02-13T10:23:02Z",
+  "lastrevid": 1326,
+  "length": 0,
+  "new": ""
+}

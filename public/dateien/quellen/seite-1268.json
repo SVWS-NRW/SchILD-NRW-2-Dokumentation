@@ -1,0 +1,30 @@
+{
+  "pageid": 1268,
+  "ns": 6,
+  "title": "Datei:ASDPC Sicherung.png",
+  "revisions": [
+    {
+      "revid": 5015,
+      "parentid": 0,
+      "user": "FFrodermann",
+      "timestamp": "2021-10-21T08:14:17Z",
+      "sha1": "2d5f92b03915ec1b1be2d7add0622dde67b604f9",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "== Beschreibung ==\nDatei Sichern ASDPC Screenshot"
+        }
+      },
+      "comment": "Datei Sichern ASDPC Screenshot"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-01-22T09:22:16Z",
+  "lastrevid": 5015,
+  "length": 49,
+  "new": ""
+}

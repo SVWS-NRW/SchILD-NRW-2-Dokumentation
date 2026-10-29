@@ -1,0 +1,29 @@
+{
+  "pageid": 609,
+  "ns": 0,
+  "title": "Grundschuldaten eingeben",
+  "revisions": [
+    {
+      "revid": 2347,
+      "parentid": 2333,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-05-28T13:59:44Z",
+      "sha1": "8a513d23ab36f6943d56e6668752e21b797258b5",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "\n[[Image:GSDaten.jpg|Center|600px]]\n\nGeben Sie hier die Zeugnisdaten und Informationen aus der Grundschule ein,\nwenn Sie diese z.B. für ein Aufnahmeverfahren oder die Erprobungsstufenkonferenzen benötigen.\n\nDie Berechnung der Durchschnittsnoten kann im Listendruck mit dem Reportgenerator genutzt werden.\n\nBitte denken Sie daran, nicht mehr benötigte Daten zu löschen.\nDazu steht Ihnen der Gruppenprozess [[Grundschuldaten löschen]] zur Verfügung.\n\n\n\n----\n\n[[Schulbesuch|Zurück zu Schulbesuch]]\n\n[[Schild-NRW-Index|Zurück zu Schild-NRW-Index]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-05-28T13:59:44Z",
+  "lastrevid": 2347,
+  "length": 551
+}

@@ -1,0 +1,29 @@
+{
+  "pageid": 1240,
+  "ns": 6,
+  "title": "Datei:PM2 Setup 05.png",
+  "revisions": [
+    {
+      "revid": 4930,
+      "parentid": 4911,
+      "user": "SpehJ",
+      "timestamp": "2021-10-11T06:33:12Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": "SpehJ lud eine neue Version von [[Datei:PM2 Setup 05.png]] hoch"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2021-10-11T06:33:12Z",
+  "lastrevid": 4930,
+  "length": 0
+}

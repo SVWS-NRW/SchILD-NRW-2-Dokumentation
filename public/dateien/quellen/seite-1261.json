@@ -1,0 +1,30 @@
+{
+  "pageid": 1261,
+  "ns": 6,
+  "title": "Datei:ASDPC Haupterhebung Starten.png",
+  "revisions": [
+    {
+      "revid": 4981,
+      "parentid": 0,
+      "user": "FFrodermann",
+      "timestamp": "2021-10-20T10:48:01Z",
+      "sha1": "c08d4ceb943d86763f2a964db625c7305f68bacc",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "== Beschreibung ==\nHaupterhebung starten aus ASDPC"
+        }
+      },
+      "comment": "Haupterhebung starten aus ASDPC"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-01-22T09:22:16Z",
+  "lastrevid": 4981,
+  "length": 50,
+  "new": ""
+}

@@ -1,0 +1,29 @@
+{
+  "pageid": 1005,
+  "ns": 0,
+  "title": "SchILDweb",
+  "revisions": [
+    {
+      "revid": 3865,
+      "parentid": 3864,
+      "user": "BPanzlaff",
+      "timestamp": "2016-04-25T10:04:31Z",
+      "sha1": "b337532d4871877882e8864ac8bc06684a8e91fc",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Bei der Verwendung von SchILDweb kann hierüber der Export und der Import der Daten erfolgen.\n\n[[Datei:Datenaustausch-Schildweb.png]]\n\n\nBitte beachten Sie, dass es sich bei SchILDweb um ein kostenpflichtiges Modul der Firma Ribeka handelt. Nähere Informationen dazu entnehmen Sie bitte der Anleitung von SchILDweb. \n----\n\n\n[[#top|Zum Seitenanfang]]\n\n[[Datenaustausch|Zurück zum Datenaustausch]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2016-04-25T10:04:31Z",
+  "lastrevid": 3865,
+  "length": 396
+}

@@ -1,0 +1,30 @@
+{
+  "pageid": 713,
+  "ns": 6,
+  "title": "Datei:Foerdermassnahmen02.jpg",
+  "revisions": [
+    {
+      "revid": 2745,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2015-01-28T16:44:03Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-01-28T16:45:57Z",
+  "lastrevid": 2745,
+  "length": 0,
+  "new": ""
+}

@@ -1,0 +1,30 @@
+{
+  "pageid": 1235,
+  "ns": 6,
+  "title": "Datei:Fachberatersuche.png",
+  "revisions": [
+    {
+      "revid": 4899,
+      "parentid": 0,
+      "user": "FFrodermann",
+      "timestamp": "2021-09-16T14:20:09Z",
+      "sha1": "39cdd99c210e5a58f7032c9b711980e55f798881",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "== Beschreibung ==\nFachberatersuche, Screenshot der SVWS-Seite."
+        }
+      },
+      "comment": "Fachberatersuche, Screenshot der SVWS-Seite."
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-01-04T10:40:38Z",
+  "lastrevid": 4899,
+  "length": 63,
+  "new": ""
+}

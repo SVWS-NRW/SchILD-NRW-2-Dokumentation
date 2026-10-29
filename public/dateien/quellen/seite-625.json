@@ -1,0 +1,29 @@
+{
+  "pageid": 625,
+  "ns": 0,
+  "title": "Word-Seriendruck",
+  "revisions": [
+    {
+      "revid": 2436,
+      "parentid": 2435,
+      "user": "BPanzlaff",
+      "timestamp": "2014-08-11T13:41:45Z",
+      "sha1": "3e5fdd1222264214e1346c68636fcf5585e75dbf",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Mit Schild-NRW können Steuerdateien für den Word-Seriendruck erstellt werden (s. auch [[Export in Text-/Excel-Dateien]]). Das Textverarbeitungsprogramm, das für den Seriendruck verwendet wird, kann in Schild-NRW eingestellt werden. Sie wechseln dazu in das Menü '''Extras''' und wählen den Menüpunkt '''Programm-Einstellungen''' aus. Auf dem Karteireiter '''Individuelle Einstellungen''' lässt sich das Textverarbeitungsprogramm auswählen. Standardmäßig ist ''Microsoft Word'' ausgewählt.\n\n\n[[Datei:Textverarbeitungsprogramm.png]]\n\n\n\n\nUm den Word-Seriendruck zu starten, wählen Sie im Menü '''Druckausgabe''' den Menüpunkt '''Word-Seriendruck''' aus und müssen anschließend entscheiden, ob Sie mit der '''Standard-Steuerdatei''' oder mit einer '''selbsterstellten Steuerdatei''' arbeiten möchten.\n\n\n[[Datei:Word-Seriendruck01.png]]\n\n\nDie Standard-Steuerdatei heißt ''Datentra.txt'' und wird unter Windows im Ordner ''Eigene Dateien'' oder ''Eigene Dokumente'' abgelegt. Die Datei enthält folgende Daten zu einem Schüler:\n\"InterneID\"; „Name\"; „Vorname\"; „Namenszusatz\"; „ExterneID\"; „Geburtsname\"; „Strasse\"; „Postleitzahl\"; „Ort\"; „Telefon\"; „EMail\"; „Fax\"; „AktuellesHalbjahr\"; „AktAbschnitt\"; „Klasse\"; „Jahrgang\"; „Schulbesuchsjahre\"; „Geburtsdatum\"; „Geburtsort\"; „Volljaehrig\"; „Geschlecht\"; „Staatsangehörigkeit\"; „Aussiedler\"; „Religion\"; „Religionsabmeldung\"; „Religionsanmeldung\"; „Bafoeg\"; „Schwerbehinderung\"; „Haltestelle\"; „ASDSchulform\"; „ASDJahrgang\"; „SchulpflichtErf\"; „Anschreibdatum\"; „Aufnahmedatum\"; „EinschulungGrundschule\"; „VonSchule\"; „AusSchulform\"; „EntlassJahrgang\"; „EntlassenAm\"; „AbschlussDatum\"; „ErzieherAnrede\"; „ErzieherTitel\"; „ErzieherVorname\"; „ErzieherName\"; „ErzAdrAnrede2\"; „ErzAdrTitel2\"; „Vorname2\"; „ErzAdrName2\"; „ErzieherArt\"; „ErzieherPLZ\"; „ErzieherOrt\"; „ErzieherStrasse\"; „ErzieherAnschreiben\"; „Schulnr\"\n\n\nDie folgende Abbildung zeigt die Ausgabeoptionen, die für die Standard-Steuerdatei zur Verfügung gestellt werden:\n\n[[Datei:Option-Standardsteuerdatei.png]]\n\n\n\nWenn Sie ihre selbst erstellte Steuerdatei verwenden wollen, öffnet sich ein Fenster mit dem Hinweis, wie Sie eine Steuerdatei erstellen können. Bitte beachten Sie, dass Sie die Steuerdatei vor dem Druck mit den jeweils aktuellen Daten füllen!\n\n\n[[Datei:eigeneSteuerdatei.png]]\n\n\n\n\nNach Auswahl der Dokument-Vorlage in Word öffnet sich der erstellte Serienbrief im Textverarbeitungsprogramm, den Sie dann speichern und ausdrucken können.\n \nHinweis: Zur Zeit erwartet Schild-NRW bei der Verwendung der selbst erstellten Steuerdatei als Serienbrief-Vorlage noch eine '''.doc'''-Datei.\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Druckausgabe|Zurück zu Druckausgabe]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-08-11T13:41:46Z",
+  "lastrevid": 2436,
+  "length": 2808
+}

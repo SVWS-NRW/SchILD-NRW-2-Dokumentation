@@ -1,0 +1,30 @@
+{
+  "pageid": 1292,
+  "ns": 6,
+  "title": "Datei:PM2 beenden.png",
+  "revisions": [
+    {
+      "revid": 5082,
+      "parentid": 0,
+      "user": "SpehJ",
+      "timestamp": "2021-11-20T12:46:50Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2021-11-20T12:49:14Z",
+  "lastrevid": 5082,
+  "length": 0,
+  "new": ""
+}

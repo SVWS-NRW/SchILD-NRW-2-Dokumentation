@@ -1,0 +1,29 @@
+{
+  "pageid": 374,
+  "ns": 0,
+  "title": "\"Floskeln\" bearbeiten",
+  "revisions": [
+    {
+      "revid": 3914,
+      "parentid": 3842,
+      "user": "JStaratschek",
+      "timestamp": "2016-09-04T15:36:53Z",
+      "sha1": "340398772bf2ebf757836596b537d32ab597c39b",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "\nIn Schild-NRW gibt es sogenannte \"Floskeln\".\nDies sind wiederkehrende Bemerkungen, die in Zeugnisbemerkungen, Bemerkungen zum Arbeits- und Sozialverhalten, Angaben zum außerunterrichtlichen Engagement oder den fachbezogenen Bemerkungen vorkommen können.\n\nUm diese Bemerkungen nicht immer eintippen zu müssen, können diese in Schild-NRW mit einem Kürzel hinterlegt werden.\n\n[[Image:Floskeln.jpg|Center|500px]]\n\nSeit einigen Versionen werden die Floskeln nicht mehr in einer Textdatei im Installationsverzeichnis von Schild-NRW gespeichert, sondern in der Datenbank. Dazu musste in den [[Programm-Einstellungen]] der Haken \"Floskeln in Datenbank verwalten\" gesetzt sein. Diese Einstellung ist nun immer eingestellt und nicht mehr wählbar. Über die Schaltflächen \"Import\" und \"Export\" kann das alte Floskelformat nachträglich noch immer eingelesen oder wieder erzeugt werden.\n\nWeil die Floskeln nun in der Datenbank verwaltet werden, werden diese auch automatisch mit der Notendatei der Lehrer an das Externe-Notenmodul übergeben.\n\nIn den Floskeln können drei Platzhalter verwendet werden, die dann vom Programm automatisch ersetzt werden:\n\n;$Vorname$\n;$Name$\n;$Nachname$ (wird auch zum Nachnamen)\n\nDaneben können noch geschlechtsspezifische Platzhalter verwendet werden,die dann je nach Geschlecht des Schülers oder der Schülerin eingesetzt werden:\n\nBeispiel:\n\n'''&Klassenbuchführer%Klassenbuchführerin&'''  (&männl. Bezeichnung%weibl. Bezeichnung&)\n\n\n== Floskelgruppen ==\n\n[[Image:Floskelgruppen.jpg|Center|400px]]\n\nDrücken Sie den Button '''Floskelgruppen''', um Ihre Floskeln zu organisieren.\nDabei können folgende Gruppen vergeben werden:\n\n* Allgemeine Floskeln\n* Fachbezogene Floskeln\n* Floskeln zu Zeugnisbemerkungen\n* Floskeln zu außerunterrichtlichem Engagement\n* Floskeln zu Arbeits- und Sozialverhalten\n* Floskeln zu Vermerken\n\nÜber die Floskelbezeichnung können Sie diese Kategorien noch weiter untergliedern.\n\nZu jeder Gruppe kann eine Farbe definiert werden.\n\n== Editoren für Bemerkungen ==\n\n[[Image:Floskeleingabe.jpg|Center|400px]]\n\nAn verschiedenen Stellen im Programm können die Floskeln dann im Editor genutzt werden.\nDer Editor für diese Bemerkungen filtert nun nach Floskelgruppe vor, je nachdem an welcher Stelle im Programm der Editor aufgerufen wird.\n\nDer Editor steht an folgenden Stellen zur Verfügung:\n* Zeugnisbemerkungen\n* Bemerkungen zum Arbeits- und Sozialverhalten\n* Bemerkungen zum außerunterrichtlichen Engagement (GS: Lernfortschritt)\n* Fachbezogene Bemerkungen (Memo bei den Fächern)\n* Vermerke (Doppelklick)\n* Fördermaßnahmen (Doppelklick)\n\nDie Filterung kann dann aber manuell aufgehoben oder geändert werden.\n\nBei den fachbezogenen Floskeln können ein Jahrgang und ein Niveau vergeben werden, so können Sie die Kategorien für den Zeugnisdruck aufbauen.\n\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Schulverwaltung|zurück zu Schulverwaltung]]"
+        }
+      },
+      "comment": "/* Floskelgruppen */"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2016-09-04T15:36:53Z",
+  "lastrevid": 3914,
+  "length": 2906
+}

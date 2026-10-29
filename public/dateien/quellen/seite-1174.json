@@ -1,0 +1,29 @@
+{
+  "pageid": 1174,
+  "ns": 0,
+  "title": "Einrichtung des ENM-Moduls unter Ubuntu 18.04",
+  "revisions": [
+    {
+      "revid": 4609,
+      "parentid": 4608,
+      "user": "Pfotenhauer",
+      "timestamp": "2020-06-08T16:32:04Z",
+      "sha1": "b102a441e8e8ea1d73c9579a1fe2007249aff85a",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Das Externe Notenmodul kann auch unter Ubuntu ausgeführt werden.\n\nStarten Sie zur Einrichtung ein Terminal.\n\nGeben Sie dort folgende Befehle ein.\n\n<Code> Sudo apt get update\n\nSudo apt get install wine\n\nSudo apt get install winwtricks</Code>\n\nLaden Sie sich das ZIP-Paket von der Homepage herunter:\nhttps://www.svws.nrw.de/download/schild-module\n\nEntpacken Sie das Paket in den wine-Ordner:\nHier im Beispiel $HOME/.wine/drive_c/Schild-NRW/ENM/\n\nStarten Sie das Notenmodul mit dem Befehl:\n\n<Code>wine $HOME/.wine/drive_c/SchILD-NRW/ENM/ENM.exe</Code>\n\n\n[[Image:ENM wine.jpg|700px]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2020-06-08T16:32:04Z",
+  "lastrevid": 4609,
+  "length": 580
+}

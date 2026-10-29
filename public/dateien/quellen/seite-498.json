@@ -1,0 +1,30 @@
+{
+  "pageid": 498,
+  "ns": 0,
+  "title": "Gesamt-Fehlstunden berechnen",
+  "revisions": [
+    {
+      "revid": 2054,
+      "parentid": 0,
+      "user": "Mhoffmann",
+      "timestamp": "2014-04-07T07:16:22Z",
+      "sha1": "f9d849e2aa5bdff71ff868d7cd6e276c8c64bf78",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Dieser Gruppenprozess berechnet bei Aktivierung automatisch die Gesamtfehlstunden bei der ausgewählten Schülermenge aus den Einträgen  der Leistungsdaten für die Qualifikationsphase 2. Dabei werden vorhandene Einträge überschrieben.\nDie berechneten Werte kann man unter dem Karteireiter \"Abitur\" unten rechts einsehen und gegebenenfalls für einen einzelnen Schüler durch Klicken auf die Schaltfläche \"aktualisieren\" erneut berechnen lassen.\n\nWurden die Gesamtfehlstunden über den Gruppenprozess [[Zusatzdaten (Latinum...) eingeben]] eingegeben, sollte man diesen Prozess nicht mehr ausführen.\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Gruppenprozesse Abitur|Zurück zu Gruppenprozesse Abitur]]"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „Dieser Gruppenprozess berechnet bei Aktivierung automatisch die Gesamtfehlstunden bei der ausgewählten Schülermenge aus den Einträgen  der Leistungsdaten f…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-04-07T07:16:22Z",
+  "lastrevid": 2054,
+  "length": 699,
+  "new": ""
+}

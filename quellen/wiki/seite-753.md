@@ -1,0 +1,44 @@
+---
+search: false
+sidebar: false
+outline: false
+title: "Wiki-Quelle: Sprachenfolge bei Seiteneinsteigern des Gymnasiums in Zeugnis korrekt ausgeben"
+---
+
+# Sprachenfolge bei Seiteneinsteigern des Gymnasiums in Zeugnis korrekt ausgeben
+
+Gesicherte Wiki-Seite · Namensraum 0 · Version 2898 · Stand 2015-02-27.
+
+[Lesbaren Artikel öffnen](/zeugnisse/sekundarstufen/sprachenfolge-bei-seiteneinsteigern-des-gymnasiums-in-zeugnis-korrekt-ausgeben) · [Originaldaten herunterladen](/dateien/quellen/seite-753.json) · [Zum Quellenarchiv](/quellen/)
+
+## Originalquelltext
+
+```text
+Diese Anleitung beschreibt die '''korrekte Druckausgabe der Sprachenfolge bei Seiteneinsteigern''' aus Haupt- und Realschule, die nach der Klasse 10 zum Gymnasium wechseln und die in der Sekundarstufe I eine zweite Fremdsprache z.B. von Klasse 8 bis 10 belegt und abgeschlossen haben.
+
+Diese Möglichkeit gibt es in den im Download zu findenden Zeugnissen seit der Version V07_04.
+
+Folgendermaßen muss vorgegangen werden:
+
+'''1. Karteikarte Schulbesuch kontrollieren:'''
+
+[[image:Karteikarte_Schulbesuch.png]]
+
+
+Mit dem roten Pfeil '''muss''' die bisher besuchte Schule nach unten übertragen werden.
+
+
+'''2. Sprachenfolge eintragen:'''
+
+[[image:Sprachenfolge.png]]
+
+
+'''3. Zeugnisaufruf''' (z.B. GymOb_Anl6a_JgQ1_Q2_B_Abg_Zeugnis_ohne_FHR_A3_V07_05.rtm):
+
+Dort erscheint das Fenster
+
+[[image:Zeugnisabfrage.png]]
+
+
+Hier muss man dann die erste Option wählen.
+```

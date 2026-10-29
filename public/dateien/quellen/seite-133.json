@@ -1,0 +1,30 @@
+{
+  "pageid": 133,
+  "ns": 6,
+  "title": "Datei:Extras 01.jpg",
+  "revisions": [
+    {
+      "revid": 219,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-06T15:57:54Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-06T15:58:09Z",
+  "lastrevid": 219,
+  "length": 0,
+  "new": ""
+}

@@ -1,0 +1,29 @@
+{
+  "pageid": 460,
+  "ns": 0,
+  "title": "Fächer aus vorherigem Abschnitt holen",
+  "revisions": [
+    {
+      "revid": 3620,
+      "parentid": 2051,
+      "user": "Mhoffmann",
+      "timestamp": "2015-09-20T09:30:52Z",
+      "sha1": "32e5de1de9517c8db101089dcf80ed4c32258969",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Mit dem Gruppenprozess \"Fächer aus vorherigem Abschnitt holen\" ist es möglich, Fächer nachträglich in den aktuellen Abschnitt zu übernehmen. Normalerweise sollten die Fächer bei Durchführung der Versetzung / Übertragung in einen neuen Abschnitt ins nächste Halbjahr übertragen werden. \nSollte dies nicht gelungen sein (z. B. wegen einem fehlerhaften Eintrag bei der Fortschreibungsart), kann dies mit diesem Gruppenprozess nachgeholt werden.\n\n:[[Image:GP-FaechervorherigemAbschnitt.jpg|Left|500px]]\n\nDazu stellt man im oberen Bereich des sich öffnenden Fensters ein, aus welchem Jahr und welchem Abschnitt die Fächer übernommen werden sollen. Durch weitere Häkchen kann man entscheiden, welche Fächer und Mahnungen übernommen werden sollen.\n\nIm Falle einer Kontrolle, ob ggf. schon Einträge im neuen (aktiven) Abschnitt vorhanden sind, müssen Sie das letzte Häkchen setzen. Der Zeitaufwand ist hierbei natürlich erhöht. \n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Fächer|Zurück zu Fächer]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-09-20T09:30:52Z",
+  "lastrevid": 3620,
+  "length": 1007
+}

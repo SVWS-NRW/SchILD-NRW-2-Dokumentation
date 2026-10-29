@@ -1,0 +1,29 @@
+{
+  "pageid": 357,
+  "ns": 0,
+  "title": "Eigene Schule in Abgangsliste setzen",
+  "revisions": [
+    {
+      "revid": 2043,
+      "parentid": 1904,
+      "user": "UMertsch",
+      "timestamp": "2014-04-02T08:26:16Z",
+      "sha1": "94165385dd71bcdd0d29d62cb49ba45f62ff9ad9",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Dieser Gruppenprozess setzt bei allen zu entlassenden Schülerinnen und Schülern der aktuellen Auswahl die eigene Schule in die Liste \"Alle bisher besuchten Schulen\"  (unter dem Karteireiter [[Schulbesuch]]). Voraussetzung ist, dass ein Entlassdatum eingetragen ist.\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Allgemeines|Zurück zu Allgemeines]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-04-02T08:26:16Z",
+  "lastrevid": 2043,
+  "length": 341
+}

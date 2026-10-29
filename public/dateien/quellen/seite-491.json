@@ -1,0 +1,29 @@
+{
+  "pageid": 491,
+  "ns": 0,
+  "title": "Prüfungsergebnisse eingeben",
+  "revisions": [
+    {
+      "revid": 3631,
+      "parentid": 2030,
+      "user": "Mhoffmann",
+      "timestamp": "2015-09-20T09:38:11Z",
+      "sha1": "2958074004df4124700a5a99f1ccea527f0c4cb2",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Dieser Gruppenprozess ermöglicht eine komfortable Eingabe der Prüfungsergebnisse.\n\nSobald Prüfungsergebnisse aus den Abiturprüfungen vorliegen, sollte man diesen Gruppenprozess nutzen, um sie in die Datenbank einzutragen. Startet man den Gruppenprozess (in der Auswahl die aktuellen Abiturienten), so öffnet sich das Fenster \"Ergebnisse der Abiturprüfungen gruppenweise eingeben\". \n\nDort sollte man zuerst die Schaltfläche \"Daten holen\" anklicken, um die Schülerdaten zu laden. Dann kann man sich entscheiden, ob man Noten oder Punkte eintragen möchte. \n\nEs stehen mehrere Sortierungs- und Filtermöglichkeiten zur Verfügung, die einem die Eingabe erleichtern sollen.\n\nSortieren kann man nach:\n* Fach, Kursart, Name (zu einem Fach werden alle Schüler aufgelistet)\n* Name, Kursart, Fach (zu einem Schüler werden alle seine Fächer aufgelistet)\n\nFiltern kann man auf:\n* das 1. und 2. Abiturfach\n* das 3. Abiturfach\n* das 4. Abiturfach\n* auf einen speziellen Kurs\n\nDie Eingabe der Ergebnisse erfolgt dann durch Eintragung der Note (bzw. der Punkte) in die Tabelle in die Spalte \"Punkte im Abitur\".\n\n:[[Image:GP-Pruefungsergebnisse.jpg|Left|500px]]\n\nIst die Eingabe beendet, bitte nicht vergessen, auf die Schaltfläche \"In Datenbank übernehmen\" zu klicken. Sollte man es doch vergessen, wird nochmals nachgefragt, ob die Daten übernommen werden sollen.\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Gruppenprozesse Abitur|Zurück zu Gruppenprozesse Abitur]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-09-20T09:38:11Z",
+  "lastrevid": 3631,
+  "length": 1459
+}

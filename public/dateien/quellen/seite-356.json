@@ -1,0 +1,29 @@
+{
+  "pageid": 356,
+  "ns": 0,
+  "title": "Schulbesuchsjahre neu berechnen",
+  "revisions": [
+    {
+      "revid": 1612,
+      "parentid": 1611,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-03-07T09:15:23Z",
+      "sha1": "e92d5f7967fa91b7b28d14096c760c1622a6cfec",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Dieser Gruppenprozess berechnet mithilfe des eingetragenen Einschulungsjahres die Anzahl der Schulbesuchsjahre. Die neu berechneten Schulbesuchsjahre werden auf der Registerkarte [[Individual-Daten I]] eingetragen (dieses gilt nur für den Status \"Aktiv\" und \"Extern\").\n\nDas Einschulungsjahr befindet sich auf der Karteikarte [[Individual-Daten II]].\n\nObwohl das Datenfeld für die Schulbesuchsjahre ausgegraut ist, weil hier ein berechneter Wert steht, kann man dort manuell die Schulbesuchsjahre verändern. Sollte dort also aus irgendeinem Grund ein anderer Wert stehen, als z.B. in der Schulbescheinigung gewünscht, so kann dies einfach \"übertippt\" werden.\n\nBitte bedenken Sie aber, dass der Gruppenprozess [[Schulbesuchsjahre neu berechnen]] dann wieder den alten Wert einträgt!\n\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Allgemeines|Zurück zu Allgemeines]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-03-07T09:16:04Z",
+  "lastrevid": 1612,
+  "length": 861
+}

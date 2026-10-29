@@ -1,0 +1,30 @@
+{
+  "pageid": 22,
+  "ns": 0,
+  "title": "FileOpenDlg",
+  "revisions": [
+    {
+      "revid": 43,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T14:43:58Z",
+      "sha1": "8e9b7bbcf372a728fdae03dcabebcc000774f62f",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    XXXfunction FileOpenDlg(const aFilename, aInitialDir,\n                               aFilter: String): String;\n|-\n|'''Parameter''' || \n    aFilename          - Name der zu öffnenden Datei, evtl. mit Platzhaltern\n    aInitialDir        - Startverzeichnis, Leerer String öffnet im aktuellen\n                         Verzeichnis\n    aFilter            - Dateinamenfilter\n|-\n|'''Rückgabewert''' ||\n    Pfad plus Name der zu öffnenden Datei, leerer String, wenn der Dialog ab\n|- \n|'''Beispiel''' || \n    Fn:=FileOpenDlg('*.txt','c:\\Text','Textdateien|*.txt|Alle Dateien|*.*');\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      XXXfunction FileOpenDlg(const aFilename, aInitialDir,                    …“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T14:43:58Z",
+  "lastrevid": 43,
+  "length": 703,
+  "new": ""
+}

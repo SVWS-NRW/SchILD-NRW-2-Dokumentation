@@ -1,0 +1,182 @@
+---
+title: "Laufbahnberatung mit LuPO durchführen"
+---
+
+<a id="lupo-der-beratungsprozess"></a>
+
+# Laufbahnberatung mit LuPO durchführen
+
+Die korrekte Beratung und Prüfung der Schullaufbahn der SuS liegt in der Verantwortung der Schulen (Schulleitung, Oberstufenkoordinatoren und Beratungslehrer, siehe APO-GOSt §5). Auch wenn LuPO ausgiebig getestet wurde und ständig verbessert wird, so kann nicht ausgeschlossen werden, dass im Einzelfall fehlerhafte Wahlen ohne Fehlermeldung eingegeben werden können. Das Programm entbindet insofern die Schulen nicht von ihrer Verantwortung, alle Schullaufbahnen auf Fehler zu überprüfen.
+
+<a id="Beratungsdatei_aufteilen_und_zusammenführen_(optional)"></a>
+<a id="Beratungsdatei_aufteilen_und_zusammenf.C3.BChren_.28optional.29"></a>
+
+## Beratungsdatei aufteilen und zusammenführen (optional)
+
+![Lupo_lehrerdateien_import](/bilder/tools/lupo/lupo-lehrerdateien-import.png)
+
+*Mehrere Lehrerdateien zusammenführen*
+
+In der Regel wird die Erstberatung mit Hilfe von Lupo von mehreren Beratungslehrern an unterschiedlichen Computern durchgeführt. Hierzu stehen grundsätzlich zwei Wege offen. Sie können zum einen von verschiedenen Client-Rechnern über ein Netzwerk gleichzeitig auf die z.B. auf einem Server gespeicherte Beratungsdatei zugreifen und Fachwahlen vornehmen. Sie können aber alternativ beliebig viele Duplikate der vorbereiteten Beratungsdatei anfertigen und die Duplikate auf die einzelnen Rechner abspeichern. Bei dieser Variante arbeitet jeder Beratungslehrer mit seiner eigenen Kopie der Beratungsdatei. Bei dieser Variante ist zu empfehlen, die Beratungsdateien der unterschiedlichen Beratungslehrer zu nummerieren, so dass diese später nach der zentralen Beratung über den Dialog Datenaustausch \>LuPO-Dateien \> Aus Lehrerdateien \>Import \> Lehrerdateien (\*.lup)“ zu einer Zentralen Datei vereinigt werden können. Wichtig: Bei der zweiten Methode ist darauf zu achten, dass die Beratungsdatei noch keine Fachwahlen enthält und dass ein Schüler nicht von zwei Beratungslehrern beraten wird, da in diesem Fall eine Vereinigung der Daten problematisch ist. Wurde die dezentrale Erstberatung durchgeführt, so sollte zukünftig mit einer zusammengeführten Datei weitergearbeitet werden. Damit das Zusammenführen der Dateien zu keinen Konflikten führt, muss ein Beratungsdatum hinterlegt werden. Es ist zu empfehlen, dieses automatisch setzen zu lassen. Die Automatik aktualisiert das Beratungsdatum immer dann, wenn ein Änderungs-Klick in der Schülerlaufbahn vorgenommen wird.
+
+<a id="Die_Laufbahnplanung"></a>
+
+## Die Laufbahnplanung
+
+<a id="Schülerindividuelle_Einträge_im_Menüband_vornehmen"></a>
+<a id="Sch.C3.BClerindividuelle_Eintr.C3.A4ge_im_Men.C3.BCband_vornehmen"></a>
+
+### Schülerindividuelle Einträge im Menüband vornehmen
+
+![Lupo_laufbahnplanung_1](/bilder/tools/lupo/lupo-laufbahnplanung-1.png)
+
+*Der Kern des Programms: Die Laufbahnplanung*
+
+Der Reiter "Laufbahnplanung" zeigt im Wesentlichen Informationen über einzelne SuS und wurde auf deren Beratung in der Beratungssituation optimiert. Somit haben alle Einstellungen und Schaltflächen immer nur Auswirkungen auf den ausgewählten Schüler.
+
+Wählen Sie im Listenfeld "Schüler auswählen" die zu beratende Schülerin bzw. den zu beratenden Schüler, indem Sie auf die Schaltfläche mit den drei Punkten klicken. Alternativ können Sie mit Hilfe der Pfeile neben dem Listenfeld zum nächsten bzw. vorhergehenden Listeneintrag navigieren.
+
+Einen schülerindividuellen Freitext-Kommentar können Sie im Kommentar-Textfeld eintragen. Klicken Sie hierzu auf die Schaltfläche mit den drei Punkten. Hier können Sie z.B. besondere Hinweise zur Beratung oder zur Laufbahn hinterlegen.
+
+Es empfiehlt sich, das Beratungsdatum im dafür vorgesehenen Feld festzuhalten. Für den Eintrag des tagesaktuellen Datums klicken Sie auf die Schaltfläche mit dem grünen Häkchen. Eine manuelle Eintragung ist an dieser Stelle nicht möglich. Es ist sehr zu empfehlen, das Beratungsdatum automatisch setzen zu lassen, indem Sie das "auto"-Auswahlfeld aktivieren. Ist das Feld aktiviert, wird das tagesaktuelle Datum eingetragen, sobald eine Fachwahl getätigt oder geändert wird. Wenn Sie das Beratungsdatum manuell eingeben oder ändern wollen, so können Sie dies über den Menüpunkt ["Datenbearbeitung \> Schüler"](/tools/lupo/lupo-erste-schritte-in-lupo#Sch%C3%BCler) vornehmen.
+
+Im Menüband finden Sie weiterhin sechs Schaltflächen für Schulen mit bilingualem Zweig. Den SuS kann hier eine bilinguale Sprache (**E**nglisch, **F**ranzösisch, **I**talienisch, **N**iederländisch, **R**ussisch, **S**panisch) zugeordnet werden, indem auf die entsprechende Schaltfläche geklickt wird. Die aktivierte Schaltfläche erscheint im Folgenden blau eingefärbt.
+
+![Lupo_ribbon_1](/bilder/tools/lupo/lupo-ribbon-1.png)
+
+*Schaltflächen für den bilingualen Zweig und weitere Auswahlfelder*
+
+Diverse Auswahlfelder stehen zur Auswahl, um besondere Fälle zur erfassen. Das Kontrollkästchen "Muttersprachenprüfung Ende Sek. I" wird bei SuS aktiviert, welche am Ende der Sekundarstufe I eine Sprachprüfung erfolgreich absolviert haben und am Ende der Einführungsphase eine weitere Sprachprüfung absolvieren werden. Das Bestehen der sprachpraktischen Prüfungen in der Muttersprache ist Voraussetzung dafür, dass die Muttersprache als fortgeführte Fremdsprache in der Einführungsphase anerkannt wird. Das Aktivieren des Auswahlfeldes deaktiviert die zugehörigen Fehlermeldungen für fortgeführte Fremdsprachen in der Einführungsphase. Alternativ zu diesem Auswahlfeld gibt es die Möglichkeit, die Sprachprüfung über die Sprachenfolge kenntlich zu machen (s.u.)
+
+Ist das Kontrollkästchen "2. Fremdsprache in Sek. I manuell geprüft" aktiv, so prüft Lupo nicht, ob eine zweite Fremdsprache in der Sekundarstufe I erlernt wurde. Entsprechende Fehlermeldungen bei Lücken in der Sprachenfolge bleiben somit aus. Durch das Aktivieren des Kontrollkästchens "Projektkurs ist besondere Lernleistung" kann der Projektkurs als besondere Lernleistung definiert werden. Das Kontrollkästchen hat Auswirkungen auf die Summe der Kurse und die Berechnung der Abiturnoten auf dem Abiturreiter. Das Aktivieren des Kontrollkästchens "Sportbefreit" führt dazu, dass im Fach Sport eine zusätzliche Kursart "AT" (für Attest) gewählt werden kann. Somit können SuS, welche ein Langzeitattest für den Sportunterricht vorweisen, die Belegungsverpflichtung in Sport nachweisen. Ein Kurs mit Belegung "AT" wird bei den Kurssummen und Wochenstundensummen nicht berücksichtigt.
+
+<a id="Die_Sprachenfolge_des_Schülers"></a>
+<a id="Die_Sprachenfolge_des_Sch.C3.BClers"></a>
+
+### Die Sprachenfolge des Schülers
+
+![Lupo_sprachenfolge_1](/bilder/tools/lupo/lupo-sprachenfolge-1.png)
+
+*Sprachenfolge*
+
+Die Sprachenfolgen der SuS werden im Wahldialog angezeigt. Sollten keine Sprachenfolgen aus Schild-NRW übermittelt worden sein, so können diese manuell eingetragen werden. Klicken Sie hierzu mit der Maustaste auf die Zelle „Spr. Folge“, um im Auswahlfeld auszuwählen, ob es sich um eine 1., 2., 3. oder 4. Fremdsprache handelt. Wählen Sie „P“, wenn die Schülerin bzw. der Schüler eine Sprachprüfung (SPP oder auch Muttersprachenprüfung) anstrebt und „N“, wenn die Sprachprüfung erfolgreich absolviert wurde. In der Nachbarzelle „ab Jg.“ können Sie angeben, seit wann die Schülerin oder der Schüler die Fremdsprache belegt hat. Dieses Auswahlfeld wird automatisch von LuPO gefüllt, sofern der Sprachenbeginn beim Initial-Import nicht übermittelt wurde und eine eindeutige Zuordnung des Sprachenbeginns über das ASD-Kürzel möglich ist. Ein Beispiel: Als Fremdsprache wurde Französisch mit ASD-Kürzel F6 eingestellt. Aufgrund der Definition des ASD-Kürzels wird als Sprachenbeginn der Jahrgang 6 eingetragen, sobald in der Spalte Sprachenfolge ein Eintrag vorgenommen wird. Sie können diesen automatischen Eintrag jederzeit abändern, so dass Sie für jeden Schüler den Sprachenbeginn individuell verstellen können. Existiert bei Ihnen z.B. das Fach Französisch mit ASD-Kürzel F6, so kann dieses von einer Schülerin oder einem Schüler mit zweiter fortgeführter Fremdsprache in Französisch ab Klasse 8 belegt werden. Für eine solche Schülerin oder einen solchen Schüler korrigieren Sie den Sprachenbeginn auf Jahrgangsstufe 8. LuPO kontrolliert in diesem Fall, ob Französisch die Mindestanforderung einer zweiten Fremdsprache erfüllt und bis Ende EF.2 belegt werden muss.
+
+:::danger
+Der Katalog der ASD Kürzel wurde von IT-NRW im Jahr 2017 überarbeitet. Hierbei sind, bis auf Englisch, die Kürzel für Fremdsprachen ohne Jahrgangsbeginn gestrichen worden. Im Fach Englisch wiederum sind die Kürzel mit Jahrgangsbeginn gestrichen worden. Verwenden Sie aus diesem Grund bei allen Fremdsprachenfächern, bis auf Englisch, nur noch ASD-Kürzel mit Jahrgangsbeginn (z.B. E, L6, F8). Das schulinterne Kürzel darf natürlich nach wie vor ohne Jahrgangsbeginn definiert werden. Für Fremdsprachen, welche in der Einführungsphase neu einsetzen muss auch an Gesamtschulen ein ASD-Kürzel verwendet werden, welches den Jahrgangsbeginn 0 beinhaltet (z.B. F0, S0)
+:::
+
+![Lupo_unterrichtsfaecher_2](/bilder/tools/lupo/lupo-unterrichtsfaecher-2.png)
+
+*Kontrollkästchen wirkt nur auf Fremdsprachen mit ASD-Kürzel ohne Jahrgangsbeginn*
+
+:::info
+Durch die Änderung verliert auch eine weitere Funktion in Lupo an Bedeutung: Fremdsprachen ohne Sprachenbeginn werden grau unterlegt und sind nicht wählbar, sofern in den Fächereinstellungen das Kontrollfeld „Eingaben bei Fremdsprachen aus SI nur erlauben, wenn auch eine Sprachenfolge eingetragen ist“ markiert wurde. Dieses Kontrollfeld hat auf Fremdsprachenfächer mit Sprachenbeginn keine Auswirkungen.
+:::
+
+<a id="Der_Fachwahldialog"></a>
+
+### Der Fachwahldialog
+
+Der Fachwahldialog ist vollkommen auf die Bedienung mit der Maus ausgelegt, so dass keine Einträge über die Tastatur vorgenommen werden können. Mit Hilfe der ***rechten*** Maustaste können Sie Wahlen im Wahldialog durchführen und Abiturfächer festlegen. Dies ist ebenfalls mit einem Doppelklick der linken Maustaste möglich, jedoch nicht zu empfehlen. Mit Hilfe der blauen Schaltflächen am rechten Rand des Fachwahldialogs können Sie alle Wahlen eines Faches löschen. Mit Hilfe der Schaltflächen unten links können Sie die Schriftgröße im Wahldialog verkleinern und erhalten somit einen besseren Überblick über die Gesamtwahl.
+
+Sie haben zudem die Möglichkeit, nicht gewählte Fächer auszublenden, so dass lediglich gewählte Fächer sichtbar sind. Aktivieren Sie hierzu das Kontrollkästchen „Nur belegte Fächer zeigen“.
+
+Mit Hilfe von Prüfroutinen wird die Fachwahl der Schüler nach den Vorgaben der Ausbildungs- und Prüfungsordnung überprüft. An der rechten Seite sehen Sie die Belegungsverpflichtungen, die Klausurverpflichtungen und Informationen zur Wahl. Die Texte sind umgangssprachlich formuliert, damit die SuS die Hinweise verstehen können. Wird die angezeigte Verpflichtung durch die Wahl erfüllt, so verschwindet der entsprechende Hinweistext. Führen Sie die Fachwahl eines Schülers vollständig und korrekt durch, so werden keine Belegungsverpflichtungen mehr angezeigt.
+
+Da die Texte in der Regel für eine vollständige Ansicht zu lang sind, finden Sie am unteren Rand in der Statusleiste des Bildschirms einen ausführlicheren Text der zuoberst angezeigten Belegungsverpflichtung. Führen Sie einen Mausklick auf die anderen Hinweistexte durch, um deren Text in der unteren Statuszeile angezeigt zu bekommen. Alternativ können Sie einen Doppelklick mit der linken Maustaste auf die Hinweistexte vornehmen, um ein separates Hinweisfenster zu öffnen, in welchem der angeklickte Hinweistext vollständig erscheint.
+
+<a id="Fachwahlprüfungen_Gymnasium_&amp;_Gesamtschule"></a>
+<a id="Fachwahlpr.C3.BCfungen_Gymnasium_.26_Gesamtschule"></a>
+
+### Fachwahlprüfungen Gymnasium & Gesamtschule
+
+LuPO besitzt zwei Prüfroutinen für das Gymnasium / die Gesamtschule. Welche der beiden Routinen aktiv ist, erkennen Sie im Menüband oben rechts. Dort gibt es die Schaltflächen "EF.1" und "EF.1 bis Q2.2", von denen eine blau markiert ist. Die dauerhaft ausgegraute Schaltfläche "EF.2" ist den Weiterbildungskollegs vorbehalten. In der Standardeinstellung sollte das Kontrollkästchen "automatisch setzen" aktiviert sein. In dieser Einstellung schaltet Lupo automatisch zwischen den Prüfroutinen um: Liegen ausschließlich Wahlen im Halbjahr EF.1 vor, so verwendet Lupo die Prüfroutine "EF.1". Sobald eine Fachwahl in einem der späteren Halbjahre eingetragen wird, wechselt Lupo automatisch zur Prüfroutine "EF.1 bis Q2.2".
+
+Wenn das Kontrollkästchen "automatisch setzen" deaktiviert wird, findet eine automatische Umschaltung der Prüfroutinen nicht statt. Wenn Sie in diesem Fall z.B. die Prüfung „EF.1“ wählen, wird unabhängig von vorhandenen Wahlen in EF.2 bis Q2.2 ausschließlich die Belegung in EF.1 geprüft. Diese Einstellung ist jedoch lediglich in Ausnahmefällen notwendig.
+
+<a id="Fachwahlprüfungen_Weiterbildungskollegs"></a>
+<a id="Fachwahlpr.C3.BCfungen_Weiterbildungskollegs"></a>
+
+### Fachwahlprüfungen Weiterbildungskollegs
+
+LuPO besitzt drei Prüfroutinen für die Weiterbildungskollegs. Welche der Routinen aktiv ist, erkennen Sie ebenfalls im Menüband oben rechts. Dort gibt es die Schaltflächen "EF.1", "EF.2" und "EF.1 bis Q2.2", von denen eine blau markiert ist. Die Routine „EF.1“ prüft unabhängig von allen sonstigen Fachwahlen ausschließlich die Belegung in EF.1. Die Routine „EF.2“ prüft ausschließlich die Belegung in EF.2. Die Prüfroutine „EF.1 bis Q2.2“ wiederum überprüft die Korrektheit der Wahlen der gesamten Laufbahn.
+
+In der Standardeinstellung sollte das Kontrollkästchen "automatisch setzen" aktiviert sein. In dieser Einstellung schaltet Lupo automatisch zwischen den Prüfroutinen um: Liegen ausschließlich Wahlen im Halbjahr EF.1 vor, so verwendet Lupo die Prüfroutine "EF.1". Sobald eine Fachwahl in EF.2 vorhanden ist, schaltet Lupo auf die Prüfroutine "EF.2" um. Sobald eine Fachwahl in einem der späteren Halbjahre eingetragen wird, wechselt Lupo automatisch zur Prüfroutine "EF.1 bis Q2.2".
+
+<a id="Wochenstundensummen_und_Fächerkombinationen"></a>
+<a id="Wochenstundensummen_und_F.C3.A4cherkombinationen"></a>
+
+### Wochenstundensummen und Fächerkombinationen
+
+Unterhalb des Dialogfeldes können Sie die Anzahl der gewählten Kurse und die Anzahl der Unterrichtsstunden (Vorgaben aus der APO-GOSt bzw. APO-WBK) überwachen. Die rote Hintergrundfarbe ändert sich während der Eingabe von Rot (die Vorgaben werden nicht erfüllt) zu Gelb (erfüllt die Vorgaben knapp, Folgeprobleme sind zu erwarten), Hellgrün (die Zahlen entsprechen den Vorgaben in vollem Maße) bis hin zu Dunkelgrün (die Zahlen übersteigen die Vorgaben, der Schüler wird stark belastet).
+
+Während der Fachwahl werden nicht mögliche Fächerkombinationen und Profilfächer berücksichtigt. Wird ein Profilfach gewählt, so wird das Partnerfach gelb unterlegt, so dass eine Zugehörigkeit schnell erkannt werden kann. Die gelbe Farbe verschwindet dann, wenn alle zu einem Profil gehörenden Fächer ordnungsgemäß gewählt wurden. Wird eines der Fächer einer nicht möglichen Fächerkombination gewählt, so werden die Zellen der nicht mehr wählbaren Fächer grau unterlegt. Eine Wahl der nicht mehr wählbaren Fächer wird zudem unterbunden.
+
+<a id="Die_Laufbahnplanung_und_-prognose"></a>
+
+### Die Laufbahnplanung und -prognose
+
+![Lupo_hochschreiben](/bilder/tools/lupo/lupo-hochschreiben.png)
+
+*Automatisches Hochschreiben einer Wahl aus der EF.1*
+
+Beginnen Sie zunächst mit der Laufbahnplanung für die EF.1. Auf diese Weise können Sie grundsätzliche Vorgaben zur Fachwahl in der EF.1 vermitteln und erste Fragen zur Wahl klären. Ist die Wahl in der EF.1 erfolgt, kann die Wahl für die folgenden Halbjahre fortgeführt werden. Durch einen Klick auf die Schaltfläche "Hochschreiben von EF.1 bis Q2.2“ wird die Fachwahl aus EF.1 für die Folgehalbjahre fortgeführt. Hierbei werden an Gymnasien bzw. Gesamtschulen bei Notwendigkeit Zusatzkurse automatisch gesetzt und mündlich gewählte Fächer Kunst, Musik und Religionslehre bis Q1.2 hochgeschrieben. Bis auf Vertiefungskurse werden alle anderen Fächer bis Q2.2 weitergeführt, sofern sie bis Q2.2 angeboten werden. Verwenden Sie an den Weiterbildungskollegs die Schaltfläche „von… bis…“, um von EF.1 nach EF.2 hochzuschreiben. Im nächsten Schritt können Sie dann die restliche Prognose mit der Schaltfläche „von EF.1 bis Q2.2“ durchführen.
+
+Arbeiten Sie im Folgenden weitere Hinweise zur Belegungsverpflichtung ab. Wählen Sie darüber hinaus prognostische Leistungskurse. Beobachten Sie bei der Laufbahnprognose auch die Kurs- und Stundenzahlen. Wählen Sie bei Bedarf einen Projektkurs an und führen Sie Umwahlen durch.
+
+Bei Fächern, welche die Bedingungen eines Abiturfaches erfüllen und als solches freigegeben wurden, wird das ursprünglich graue Abiturfeld freigegeben. In diesen freien Feldern können Sie nun das erste bis vierte Abiturfach durch Klick mit der linken Maustaste festlegen. Hierbei unterscheidet LuPO zwischen den unterschiedlichen Kursarten. So können nur Fächer, die als Leistungskurs belegt wurden, als erstes und zweites Fach gewählt werden.
+
+<a id="Ausdruck_der_geplanten_Laufbahn"></a>
+
+### Ausdruck der geplanten Laufbahn
+
+Sie haben am Ende der Beratung die Möglichkeit, die Laufbahn des Schülers auszudrucken. Fügen Sie hierzu zuerst ein Beratungsdatum durch Mausklick auf die entsprechende Schaltfläche ein. Dies können Sie auch automatisch setzen lassen, indem Sie das Kontrollkästchen „auto“ aktivieren. In diesem Fall wird automatisch ein Beratungsdatum gesetzt, sobald der Schüler eine Wahl durchführt bzw. eine bestehende Wahl ändert.
+
+![Lupo_druckvorschau](/bilder/tools/lupo/lupo-druckvorschau.png)
+
+*Druckvorschau des Beratungsbogens*
+
+Klicken Sie nun optional mit der linken Maustaste auf die Schaltfläche „Drucken“. Das Auswahlfeld „Nur belegte Fächer anzeigen“ wirkt sich ebenfalls auf den Ausdruck aus. In einer Vorschau können Sie sehen, wie der Wahlbogen nach dem Ausdruck aussehen wird. Sie können im Menü „Datenbearbeitung \> Grundeinstellungen“ das Halbjahr einstellen, für das der Wahlbogen ausgedruckt werden soll. Im gleichen Menü können Sie ebenfalls zentral vorgeben, ob auf dem ausgedruckten Wahlbogen lediglich gewählte Fächer oder alle Fächer aufgelistet werden sollen. Aktivieren oder deaktivieren Sie hierzu das Auswahlfeld „Im Beratungsbogen alle Fächer ausgeben“. Sie können im Menü "Grundeinstellungen" ebenfalls den Einleitungstext des Beratungsbogens ändern. Den Wahlbogen kann der Schüler mit nach Hause nehmen und unterschrieben wieder zurückgeben. Ein Ausdruck aller gesammelten Beratungsbögen ist zu einem späteren Zeitpunkt ebenfalls möglich (s. unten).
+
+<a id="Beratungsdateien_zusammenführen"></a>
+<a id="Beratungsdateien_zusammenf.C3.BChren"></a>
+
+## Beratungsdateien zusammenführen
+
+Sofern Sie die Beratung mit mehreren Beratungslehrern durchführen, die alle über ein eigenes Duplikat der Beratungsdatei verfügen, können Sie die Dateien am Ende eines Beratungstages zusammenführen. Öffnen Sie hierzu eine der vorhandenen Beratungsdateien und wählen Sie den Menüpunkt „Import \> Aus anderen Beratungsdateien“. Im folgenden Dialog können Sie die restlichen Beratungsdateien markieren und öffnen. Halten Sie die Strg-Taste gedrückt, um mehrere Dateien mit der Maus zu markieren. Sie sollten jedoch während des Beratungsprozesses darauf achten, dass keine Schüler doppelt beraten werden. In diesem Fall kommt es zu einem Konflikt beim Datenimport. In einem solchen Fall macht Sie das Programm auf das Problem aufmerksam und erfragt eine Lösung.
+
+<a id="Alle_Fachwahlbögen_ausdrucken"></a>
+<a id="Alle_Fachwahlb.C3.B6gen_ausdrucken"></a>
+
+## Alle Fachwahlbögen ausdrucken
+
+Es ist möglich, alle Fachwahlen am Ende des Beratungstages auszudrucken. Hierzu stehen im Menü "Druckausgabe \> Beratungsbögen“ die Menüpunkte „Mit erneuter Prüfung“ und "Ohne erneute Prüfung" zur Verfügung. Vor dem Ausdruck haben Sie die Möglichkeit, über den Filter die gewünschte Klasse herauszufiltern. Sofern Sie einen Ausdruck ohne Filter vornehmen, werden die Wahlbögen klassenweise in alphabetischer Reihenfolge ausgedruckt.
+
+Im Menü „Datenbearbeitung \> Grundeinstellungen“ können Sie einstellen, welches Beratungshalbjahr auf den Beratungsbögen genannt werden soll und ob der gesamte Fächerkanon oder nur die gewählten Fächer aufgelistet werden sollen.
+
+<a id="Rücklauf_der_Beratungsbögen_dokumentieren"></a>
+<a id="R.C3.BCcklauf_der_Beratungsb.C3.B6gen_dokumentieren"></a>
+
+## Rücklauf der Beratungsbögen dokumentieren
+
+Sammeln Sie nach der Beratung die unterschriebenen Wahlbögen der SuS ein. LuPO bietet ein Rücklaufdatum, mit welchem der Erhalt des Wahlbogens dokumentiert werden kann. Dieses Rücklaufdatum können Sie ebenso wie das Beratungsdatum automatisch oder manuell setzen. Eine Schnelleingabe im Menü „Datenbearbeitung \> Schüler“ ist ebenfalls möglich. Führen Sie hierzu einen Doppelklick mit der rechten Maustaste in der gewünschten Zelle aus.
+
+<a id="Fehlende_SuS_anschreiben"></a>
+
+## Fehlende SuS anschreiben
+
+![Lupo_schuelerliste_drucken](/bilder/tools/lupo/lupo-schuelerliste-drucken.png)
+
+*Schülerliste drucken*
+
+SuS, die nicht zum Beratungstermin erscheinen konnten, können Sie im Menü „Datenbearbeitung \> Schüler“ mit Hilfe des Filters „Schüler ohne Beratungsdatum“ herausfiltern. Die Schaltfläche „Optionen \> Liste drucken“ bietet nun die Möglichkeit, einen Aushang vorzubereiten, so dass die Schüler auf die Notwendigkeit eines Ersatztermins hingewiesen werden können.
+
+[zurück zum Seitenanfang](#top)
+
+[zurück zum Artikel Lupo:Schülerdateien erzeugen](/tools/lupo/lupo-schuelerdateien-erzeugen)
+
+[weiter zum Artikel Lupo:Auswertung der Fachwahlen](/tools/lupo/lupo-auswertung-der-fachwahlen)
+
+---
+
+Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-982) · [Lupo:Der Beratungsprozess – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo%3ADer+Beratungsprozess&oldid=5849)

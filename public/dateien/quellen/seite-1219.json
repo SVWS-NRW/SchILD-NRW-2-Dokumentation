@@ -1,0 +1,30 @@
+{
+  "pageid": 1219,
+  "ns": 0,
+  "title": "C08 Fachoberschule Kl. 12B (BK/FHR 1j; VZ)",
+  "revisions": [
+    {
+      "revid": 4770,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2021-04-22T11:13:29Z",
+      "sha1": "004a0f1286bad435a7d411d2e54693f3712c7cb3",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "[[Datei:BK Abschluss C08.png]]"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „[[Datei:BK Abschluss C08.png]]“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2021-04-22T11:13:29Z",
+  "lastrevid": 4770,
+  "length": 30,
+  "new": ""
+}

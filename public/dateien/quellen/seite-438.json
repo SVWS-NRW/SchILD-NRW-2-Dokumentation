@@ -1,0 +1,29 @@
+{
+  "pageid": 438,
+  "ns": 0,
+  "title": "Gesamtübersicht",
+  "revisions": [
+    {
+      "revid": 1941,
+      "parentid": 1831,
+      "user": "BPanzlaff",
+      "timestamp": "2014-03-31T10:13:09Z",
+      "sha1": "b10331c525c163cbfc5c936107d68501d2b70178",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Die '''Gesamtübersicht''' wird in zwei Unter-Karteikarten aufgeteilt. Für die '''Laufbahnübersicht''' werden alle angelegten Abschnitte mit den Informationen zu Wertung, Wiederholung und Jahrgang aufgelistet. Auf einen Blick ist so auch erkennbar, zu welcher Klasse, mit welcher Klassenleitung, der Schüler wann gehörte.\n\nDiese Übersicht lässt sich durch Klicken auf das Excel-Symbol als Tabelle exportieren.\n\n\n[[Datei:Gesamtueb-Laufbahn.png]]\n\n\n\nWenn Sie auf die Unter-Karteikarte '''Leistungsübersicht''' wechseln, bekommen Sie die Leistungsdaten aller angelegten Abschnitte angezeigt. Auch diese Übersicht lässt sich durch Klicken auf das Excel-Symbol als Tabelle exportieren.\n\n\n[[Datei:Gesamtueb-Leistungsdaten.png]]\n\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Hauptfenster#Karteireiter|Zurück zu Karteireiter]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-03-31T10:13:09Z",
+  "lastrevid": 1941,
+  "length": 820
+}

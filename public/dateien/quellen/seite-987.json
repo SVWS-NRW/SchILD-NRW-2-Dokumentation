@@ -1,0 +1,29 @@
+{
+  "pageid": 987,
+  "ns": 0,
+  "title": "Migrationshintergrund automatisch setzen",
+  "revisions": [
+    {
+      "revid": 3780,
+      "parentid": 3779,
+      "user": "BPanzlaff",
+      "timestamp": "2016-02-15T11:54:00Z",
+      "sha1": "4f07ea166551c13af605cc0e11b0a096e22d5e03",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "[[Datei:GP-Migrationshintergrund-01.png]]\n<br/ >\n<br/ >\n<br/ >\nIn Abhängigkeit von den Angaben auf dem Karteireiter '''[[Individual-Daten II]]''' im Bereich '''Migrationshintergrund''' wird das Häkchen bei ''Migrationshintergrund vorhanden'' gesetzt.\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Allgemeines|Zurück zu Allgemeines]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2016-02-15T11:54:00Z",
+  "lastrevid": 3780,
+  "length": 326
+}

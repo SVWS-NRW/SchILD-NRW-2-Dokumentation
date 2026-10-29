@@ -1,0 +1,30 @@
+{
+  "pageid": 1264,
+  "ns": 6,
+  "title": "Datei:ASDPC Export.png",
+  "revisions": [
+    {
+      "revid": 4988,
+      "parentid": 0,
+      "user": "FFrodermann",
+      "timestamp": "2021-10-20T11:12:19Z",
+      "sha1": "acb6f24a12ad9374e5e7ecea1bff8489e83e4b0f",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "== Beschreibung ==\nExport Screenshot"
+        }
+      },
+      "comment": "Export Screenshot"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-01-22T09:22:16Z",
+  "lastrevid": 4988,
+  "length": 36,
+  "new": ""
+}

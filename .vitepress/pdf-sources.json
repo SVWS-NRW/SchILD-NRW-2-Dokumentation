@@ -1,0 +1,96 @@
+[
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/enm_bedienungsanleitung_2.pdf",
+    "sha256": "e23026f3ee98499996cb4e0b7eb551e457f32e581ed72906bc48b14f8085f68f",
+    "articles": [
+      "tools/enm-notenmanager/ersteinrichtung.md",
+      "tools/enm-notenmanager/leistungsdaten.md",
+      "tools/enm-notenmanager/pruefungen-und-rueckgabe.md",
+      "tools/enm-notenmanager/import-und-druck.md"
+    ],
+    "disposition": "PDF ausgewertet; Binärdatei aus dem aktuellen Git-Stand entfernt",
+    "pages": 48
+  },
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/handbuch-schild-lupo-kurs42-22.auflage.pdf",
+    "sha256": "65177f6b62bba55f4d6d162f5b0fed9a820e82e19aa4af5884a4783fd3b91c5b",
+    "articles": [
+      "tools/kurs42/datenfluss.md",
+      "tools/kurs42/neue-blockung.md",
+      "tools/kurs42/klausurplanung.md",
+      "tools/kurs42/halbjahreswechsel.md"
+    ],
+    "disposition": "PDF ausgewertet; Binärdatei aus dem aktuellen Git-Stand entfernt",
+    "pages": 184
+  },
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/km2_versionsgeschichte.pdf",
+    "sha256": "a2ab3b40f5266e93f1c59de8ef75cb9be7ebc16303af87747021cc4484b7b302",
+    "articles": [
+      "tools/km2.md",
+      "hilfe/zusatzprogramme/km2-001.md"
+    ],
+    "disposition": "PDF ausgewertet; Binärdatei aus dem aktuellen Git-Stand entfernt",
+    "pages": 7
+  },
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/ma2lbv_anleitung.pdf",
+    "sha256": "49e8ac036bb9cb26c721f47b0f6847f288e4bf4588ee0837870aa5a6ef76a165",
+    "articles": [
+      "tools/ma2lbv/einrichtung.md",
+      "tools/ma2lbv/abrechnung.md",
+      "tools/ma2lbv/datenimport.md"
+    ],
+    "disposition": "PDF ausgewertet; Binärdatei aus dem aktuellen Git-Stand entfernt",
+    "pages": 32
+  },
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/ma2pdf_versionsgeschichte.pdf",
+    "sha256": "c8b1036b2713d5714a04340610e3254e0e7a2e939ee6cfb3d178e750ca0bb91d",
+    "articles": [
+      "tools/ma2lbv/einrichtung.md",
+      "tools/ma2lbv/abrechnung.md"
+    ],
+    "disposition": "PDF ausgewertet; Binärdatei aus dem aktuellen Git-Stand entfernt",
+    "pages": 4
+  },
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/notenmodul_grundschule_anleitung.pdf",
+    "sha256": "7a29026505696ed08799ec45ff39d44cef822180f87ac693dac66a10520bed27",
+    "articles": [
+      "tools/notenmodul-grundschule/vorbereitung.md",
+      "tools/notenmodul-grundschule/leistungsdaten.md",
+      "tools/notenmodul-grundschule/rueckgabe-und-druck.md"
+    ],
+    "disposition": "PDF ausgewertet; Binärdatei aus dem aktuellen Git-Stand entfernt",
+    "pages": 16
+  },
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/pm2_bedienungsanleitung_1.pdf",
+    "sha256": "51c972f639f085186f8d6dd0210ae6c36a1555edbec4271188a3aa623f16afcf",
+    "articles": [
+      "tools/pm2/analysen-und-ergebnisse.md"
+    ],
+    "disposition": "PDF ausgewertet; Binärdatei aus dem aktuellen Git-Stand entfernt",
+    "pages": 72
+  },
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/pm2_versionsgeschichte.pdf",
+    "sha256": "c293512a3012ade3d1893a04bcd03ab400bf022db30814a3f4c0922ce93f1e6e",
+    "articles": [
+      "tools/pm2/analysen-und-ergebnisse.md"
+    ],
+    "disposition": "PDF ausgewertet; Binärdatei aus dem aktuellen Git-Stand entfernt",
+    "pages": 6
+  },
+  {
+    "source": "https://www.svws.nrw.de/system/files/media/document/file/s1plan_anleitung.pdf",
+    "sha256": "07b87f2ec936fcc6258fb358b414b6b28a9d1f29fe064d85ac3db76b35725f64",
+    "articles": [
+      "hilfe/zusatzprogramme/s1plan-einrichtung-von-kursen.md",
+      "hilfe/zusatzprogramme/s1plan-uebernahme-von-kursen-aus-schild.md"
+    ],
+    "disposition": "PDF ausgewertet; Binärdatei aus dem aktuellen Git-Stand entfernt",
+    "pages": 33
+  }
+]

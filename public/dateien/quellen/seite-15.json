@@ -1,0 +1,29 @@
+{
+  "pageid": 15,
+  "ns": 0,
+  "title": "CreateNotenHeader",
+  "revisions": [
+    {
+      "revid": 183,
+      "parentid": 182,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-06T10:20:12Z",
+      "sha1": "a87dde6d994e0e6684543f197e0484537be01ee5",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    '''procedure CreateNotenHeader(aFaecherListe: String);'''\n    (*Im tatsächlich erzeugten Header stehen die Fächer\n    in der unter „Unterrichtsfächer“ festgelegten Sortierreihenfolge*). \n    Diese Prozedur ist nur nötig und sinnvoll, wenn eine tabellarische\n    Übersicht über alle gewählten Schüler und deren Leistungsdaten gewünscht wird,\n    da ein Aufruf dieser Prozedur dazu führt, dass die Leistungsdaten \n    aller in der Auswahl befindlichen Schüler gelesen werden, \n    damit eine interne Tabelle mit diesen Fächern angelegt werden kann.\n    In allen anderen Fällen ist dieser Aufruf unnötig! Nach der Darstellung der Tabelle muss\n    unbedingt die Prozedur 'ResetFaechervorbelegung' aufgerufen werden!\n|-\n|'''Parameter''' || \n    aFaecherListe      - Kommaseparierte Liste der Fachkürzel, für die\n                         eine Übersicht erzeugt werden soll.\n|-\n|'''Rückgabewert''' ||\n    ...\n|- \n|'''Beispiel''' || \n  '''CreateNotenHeader('D,E,M,F,L');'''\n  Bei den \"Konferen-Übersichten (d.h. Vorlagen, die die Datenquellen FachUebersichtHeader \n  und FachUebersicht verwenden) stehen im Befehl \"CreateNotenHeader\" weitere Optionen zum \n  Filtern auf Fächer zur Verfügung:\n  -Es können \"Platzhalter * oder % (gleichbedeutend) verwendet werden\n  Beispiel:\n  '''CreateNotenHeader( 'D,M,E*' );'''\n  würde nur die Fächer D,M und solche, die mit E anfangen, berücksichtigen (also z.B. E5, EK)\n  -Der Platzhalter # kann speziell für Fremdsprachen mit Jahrgangsangabe verwendet werden\n  Beispiel\n  '''CreateNotenHeader( 'D,M,E#' );'''\n  würde nur die Fächer D,M und alle Englisch-Fächer berücksichtigen (aber nicht EK)\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "/* RAP-Funktion \"{{SEITENNAME}}\" */"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-06T10:20:12Z",
+  "lastrevid": 183,
+  "length": 1784
+}

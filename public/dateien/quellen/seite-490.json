@@ -1,0 +1,29 @@
+{
+  "pageid": 490,
+  "ns": 0,
+  "title": "Abitur-Zulassung berechnen",
+  "revisions": [
+    {
+      "revid": 2029,
+      "parentid": 2014,
+      "user": "UMertsch",
+      "timestamp": "2014-04-02T07:42:16Z",
+      "sha1": "28e80c75663ccbe7b3a631dd1accac5b9c846e72",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Dieser Gruppenprozess realisiert die dritte Stufe der Zulassungsberechnungen.\n\nWurde der Gruppenprozess [[Kurse algorithmisch markieren]] durchgeführt und sind damit die für die Zulassung relevanten Kurse markiert, so realisiert dieser Gruppenprozess die Berechnung der Abiturzulassung. Schon vorhandene Daten werden überschrieben. Anschließend wird auch hier wieder in einer Textdatei angegeben, welche Schüler für die Abiturprüfung zugelassen werden und welche nicht. Diese Datei kann ausgedruckt oder abgespeichert werden.\n\nDie genauen Ergebnisse der Berechnung können dann unter dem Karteireiter \"Abitur\" unten links unter Block I eingesehen werden.\n\nFür einen einzelnen Schüler kann der Prozess auch unter dem Karteireiter \"Abitur\" durch Klicken auf die Schaltfläche \"Abitur-Zulassung berechnen\" initialisiert werden.\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Gruppenprozesse Abitur|Zurück zu Gruppenprozesse Abitur]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-04-02T07:42:16Z",
+  "lastrevid": 2029,
+  "length": 929
+}

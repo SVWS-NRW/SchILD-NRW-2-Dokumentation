@@ -1,0 +1,29 @@
+{
+  "pageid": 452,
+  "ns": 0,
+  "title": "Stundentafeln zuweisen",
+  "revisions": [
+    {
+      "revid": 3612,
+      "parentid": 2037,
+      "user": "Mhoffmann",
+      "timestamp": "2015-09-20T09:28:40Z",
+      "sha1": "1fb392efb171849111a5f7a147a7c237e9aeb85e",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Mit dem Aufruf des Gruppenprozesses \"Stundentafeln zuweisen\" erscheint das Eingabefenster \"Stundentafel auswählen\". \n\nUnter Bezeichnung sind die verfügbaren (d. h. die bereits eingerichteten) [[Stundentafeln]] aufgelistet. \n\nIn dem darunterliegenden Fensterbereich werden die Fächer, die der aktuell ausgewählten Stundentafel zugeordnet wurden, angezeigt.\n\n:[[Image:GP-Stundentafelzuweisen.jpg|Center]]\n\n\nWählt man die Option \"vorhandene Einträge beim Schüler aktualisieren\", werden die mit einem Häkchen versehenen Fächer bei den ausgewählten Schülern/Schülerinnen im aktuellen Halbjahr ergänzt, wenn sie noch nicht vorhanden sind. Nicht mit einem Häkchen versehene Fächer werden nicht gelöscht.\n\nMit der Option \"ausgewählte Fächer beim Schüler löschen\" kann man mehrere Fächer auf einmal (Häkchen setzen bzw. entfernen!) bei den ausgewählten Schülern löschen.\n\nDie gewählten Fächer werden je nach Einstellung mit einem Mausklick auf \"Übernehmen\" bei den Schülern im aktuellen Halbjahr eingetragen oder entfernt.\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Fächer|Zurück zu Fächer]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-09-20T09:28:40Z",
+  "lastrevid": 3612,
+  "length": 1108
+}

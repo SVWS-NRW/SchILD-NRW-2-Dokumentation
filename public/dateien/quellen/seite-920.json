@@ -1,0 +1,30 @@
+{
+  "pageid": 920,
+  "ns": 6,
+  "title": "Datei:Lupo biliwechsel.png",
+  "revisions": [
+    {
+      "revid": 3463,
+      "parentid": 0,
+      "user": "JRaffenberg",
+      "timestamp": "2015-08-19T19:56:37Z",
+      "sha1": "b0556df179094ca15e1c540a0a2476df6c3d979e",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Lupo Laufbahnwechsel im bilingualen Sachfach Geschichte"
+        }
+      },
+      "comment": "Lupo Laufbahnwechsel im bilingualen Sachfach Geschichte"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-08-19T19:57:59Z",
+  "lastrevid": 3463,
+  "length": 55,
+  "new": ""
+}

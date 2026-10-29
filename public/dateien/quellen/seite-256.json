@@ -1,0 +1,30 @@
+{
+  "pageid": 256,
+  "ns": 6,
+  "title": "Datei:Hilfe-Fenster.jpg",
+  "revisions": [
+    {
+      "revid": 1095,
+      "parentid": 0,
+      "user": "FKrebbing",
+      "timestamp": "2014-01-28T22:46:33Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-01-29T11:28:38Z",
+  "lastrevid": 1095,
+  "length": 0,
+  "new": ""
+}

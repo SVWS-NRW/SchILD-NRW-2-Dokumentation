@@ -1,0 +1,30 @@
+{
+  "pageid": 1263,
+  "ns": 6,
+  "title": "Datei:ASDPC Import.png",
+  "revisions": [
+    {
+      "revid": 4987,
+      "parentid": 0,
+      "user": "FFrodermann",
+      "timestamp": "2021-10-20T11:05:18Z",
+      "sha1": "b7a21d1905753bf37bef74125b7fa36d698d7ef8",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "== Beschreibung ==\nASDPC Importoptionen"
+        }
+      },
+      "comment": "ASDPC Importoptionen"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-01-22T09:22:16Z",
+  "lastrevid": 4987,
+  "length": 39,
+  "new": ""
+}

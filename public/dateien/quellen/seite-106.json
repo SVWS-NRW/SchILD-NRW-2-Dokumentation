@@ -1,0 +1,30 @@
+{
+  "pageid": 106,
+  "ns": 0,
+  "title": "WaehleDatumStr",
+  "revisions": [
+    {
+      "revid": 131,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T18:57:49Z",
+      "sha1": "f320ad767d137f4bfa5bdcd0c7d14478c81979a9",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    function WaehleDatumStr(const Hinweis: String; const LangFormat: Boolean): String;\n|-\n|'''Parameter''' || \n    Hinweis            - Hinweistext\n    LangFormat         - True: Formatierung des Ergebnisses wie\n                        „Langes Datumsformat“ in den Ländereinstellungen von\n                         Windows, sonst Kurzformat\n|-\n|'''Rückgabewert''' ||\n    Zeichenkette mit formatiertem Datum\n|- \n|'''Beispiel''' || \n    lDatum:=WaehleDatumStr('Geburtsdatum:',True);\n    liefert (z.B.) 'Sonntag, 26. Mai 1996'\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      function WaehleDatumStr(const Hinweis: String; const LangFormat: Boolean)…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T18:57:49Z",
+  "lastrevid": 131,
+  "length": 652,
+  "new": ""
+}

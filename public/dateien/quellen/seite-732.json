@@ -1,0 +1,30 @@
+{
+  "pageid": 732,
+  "ns": 6,
+  "title": "Datei:Erzieherbrief-02a.png",
+  "revisions": [
+    {
+      "revid": 2836,
+      "parentid": 0,
+      "user": "BPanzlaff",
+      "timestamp": "2015-02-16T18:10:36Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-02-16T18:10:36Z",
+  "lastrevid": 2836,
+  "length": 0,
+  "new": ""
+}

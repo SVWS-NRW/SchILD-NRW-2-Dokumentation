@@ -1,0 +1,29 @@
+{
+  "pageid": 217,
+  "ns": 10,
+  "title": "Vorlage:Rahmen rot",
+  "revisions": [
+    {
+      "revid": 5536,
+      "parentid": 715,
+      "user": "JRaffenberg",
+      "timestamp": "2022-04-03T16:13:24Z",
+      "sha1": "6b7a7c360839273385b6ddaaf2f672cbf4a98352",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "<div style=\"border: 2px solid #cc0000; align:center; padding:4px;\">\n{{{1}}}\n</div>\n\n<noinclude>\n;Syntax: <pre>{{rot|<Text>}}</pre>\n[[Kategorie:Vorlage:Kastenbausteine|Rot]]\n</noinclude>"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-04-03T16:13:24Z",
+  "lastrevid": 5536,
+  "length": 185
+}

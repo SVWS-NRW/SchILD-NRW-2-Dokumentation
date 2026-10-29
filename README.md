@@ -1,74 +1,119 @@
 # SchILD-NRW 2 – Dokumentation
 
-Praxisanleitungen und Nachschlagewerk für die tägliche Arbeit mit SchILD-NRW 3: Schülerdaten, Unterricht, Zeugnisse, Abschlüsse, Reporting und Administration.
+VitePress-Dokumentation mit Arbeitsanleitungen, Programmreferenz, Reporting und Tools. SchILD2 greift direkt auf seine Datenbank zu und benötigt keinen SVWS-Server. Die Dokumentation ist nicht an eine bestimmte Programmversion gebunden.
 
-- Offizielles Repository: https://github.com/SVWS-NRW/SchILD-NRW-2-Dokumentation
+Offizielles Repository: [SVWS-NRW/SchILD-NRW-2-Dokumentation](https://github.com/SVWS-NRW/SchILD-NRW-2-Dokumentation). Zieladresse: [schild2.svws-nrw.de](https://schild2.svws-nrw.de/). Die Veröffentlichung steht noch aus.
 
-- Veröffentlichte SchILD-NRW 2 Dokumentation: https://schild2.svws-nrw.de
+## Lokal arbeiten
 
-- Veröffentlichte SchILD-NRW 2 Dokumentation auf GitHub Pages: https://svws-nrw.github.io/SchILD-NRW-2-Dokumentation
-
-Die Dokumentation beschreibt den Zielstand **SchILD-NRW 2.0.36**. Die jeweils verfügbaren Installationspakete und passenden Serverversionen stehen in den offiziellen Releasehinweisen.
-
-## Lokal ansehen
-
-Benötigt wird Node.js 22. Im Repository:
+Node.js 22 entsprechend `.nvmrc` verwenden:
 
 ```sh
 npm ci
 npm run docs:dev
 ```
 
-Die im Terminal angezeigte lokale Adresse im Browser öffnen. Bilder und Downloads sind im Repository enthalten; sie werden nicht beim Start nachgeladen.
-
-## Artikel bearbeiten
-
-Die Artikel direkt in den Markdown-Dateien bearbeiten. Änderungen erfolgen auf einem eigenen Branch mit Pull Request gegen `dev`. Den Merge übernimmt der Verantwortliche.
-
-Unter **Hilfe** stehen [Artikel schreiben und bearbeiten](hilfe/artikel-schreiben.md) mit den gemeinsamen Schreibregeln und [Markdown und Gestaltung](hilfe/markdown-und-gestaltung.md) mit kopierbaren Beispielen. Die [Anleitung zur technischen Mitarbeit](CONTRIBUTING.md) erklärt Branches, lokale Vorschau, Menüzuordnung und Einreichen einer Änderung.
-
-## Prüfen
-
-Vor einem Pull Request:
+Die angezeigte Adresse öffnet die Vorschau. Unter Windows kann `npm.cmd` verwendet werden.
 
 ```sh
 npm test
 npm run docs:build
 npm run docs:check
-```
-
-Der Build erstellt die Website und prüft Seitenverweise. `docs:check` kontrolliert anschließend interne Links einschließlich Sprungmarken sowie die referenzierten Bilder im fertigen Ergebnis. Externe Websites werden dabei nicht abgefragt. Die kleinen Tests prüfen zentrale Darstellungsfunktionen und die Linkprüfung.
-
-Bei Änderungen an Menü, Suche oder Darstellung zusätzlich die gezielte Browserprüfung ausführen:
-
-```sh
-npm install --no-save --package-lock=false playwright@1.56.1
-npx playwright install chromium
-npm run docs:check-browser
-```
-
-Sie prüft Themenmenü, Programmreferenz, Weiterblättern und breite Tabellen auf Desktop und Smartphone sowie Suche und Artikelindex. Es gibt keinen vollständigen Artikelscan und keinen dauernden Vergleich mit alten Wiki-Fassungen.
-
-Auf GitHub läuft **Dokumentation prüfen** bei jedem Pull Request nach `dev`. **Bedienung prüfen** läuft bei Änderungen an Theme, Werkzeugen, Tests, Abhängigkeiten und den ausgewählten Darstellungsseiten. Bei Bedarf kann der Browserlauf auch manuell gestartet werden. Fehleraufnahmen liegen als GitHub-Artefakt vor; lokale Ausgaben unter `test-results/` gehören nicht in Git.
-
-## Technischer Paketstand
-
-VitePress 1.6.4 und `markdown-it-container` 4.0.0 bleiben die stabilen Grundlagen. Die Vite-Abhängigkeit von VitePress ist über `overrides` in `package.json` auf **Vite 6.4.5** festgelegt. Diese gezielte Abweichung von der VitePress-Standardabhängigkeit behebt die gemeldeten Vite-/esbuild-Lücken und verwendet den vom vorhandenen Vue-Plugin unterstützten Vite-6-Zweig. Die mitgelieferten Build- und Browserprüfungen decken die verwendeten Funktionen ab.
-
-Bei einem späteren stabilen VitePress-Update prüfen, ob die Festlegung entfallen kann. Nach Paketänderungen `npm ci` ausführen. Entwicklungs- und Vorschau-Server bleiben lokal.
-
-## Veröffentlichen
-
-```sh
-npm run docs:build
 npm run docs:preview
 ```
 
-Veröffentlicht wird ausschließlich der Inhalt von `.vitepress/dist` über statisches HTTPS-Hosting. Entwicklungs- und Vorschau-Server werden nicht öffentlich betrieben. Die Zieladresse ist `https://schild3.svws-nrw.de/`. Standardbuild und lokale Vorschau verwenden die Domainwurzel `/`; dies ist in `.vitepress/site-base.mjs` festgelegt. Ein anderer Unterpfad kann über `DOCS_BASE` angegeben werden.
+Der statische Webauftritt liegt in `.vitepress/dist/`. Für das vollständige Quellenarchiv kann beim Build mehr Node-Arbeitsspeicher nötig sein. Die GitHub-Prüfungen stellen 6 GiB bereit. Bei Bedarf lokal `NODE_OPTIONS=--max-old-space-size=6144` setzen (PowerShell: `$env:NODE_OPTIONS='--max-old-space-size=6144'`).
 
-Ein Merge nach `master` startet `.github/workflows/deploy.yml`: Build, Link- und Bildprüfung sowie Veröffentlichung auf GitHub Pages. Manuelle Läufe auf anderen Branches prüfen nur den Build. Das Workflow-Artefakt `schild3-domain` enthält die fertige Website für die Domainwurzel des Nginx-Servers. Für die GitHub-Pages-Vorschau wird bei Bedarf zusätzlich mit dem von GitHub vorgegebenen Unterpfad gebaut. Die Anbindung der Zieladresse auf dem bestehenden Nginx-Server erfolgt getrennt; der Workflow ändert weder DNS noch diesen Server.
+Die begrenzte Browserprüfung läuft mit `npm run docs:check-browser`; Playwright wird durch `npm ci` in der festgelegten Version installiert. Einmalig `npx playwright install chromium` ausführen. Sie prüft repräsentative Ansichten und Bedienwege. Normale Artikelpflege benötigt weder Python noch Pandoc.
 
-Die veröffentlichende Stelle legt Hosting und Zieladresse fest und ergänzt die benötigten Anbieter-/Datenschutzangaben und Nutzungsrechte. Externe Videoeinbettungen berücksichtigen. Die im Repository hinterlegte Lizenz steht in [LICENSE](LICENSE). Vorhandene Quellenverweise bleiben erhalten.
+## Aufbau und Pflege
 
-Nach dem Upload Startseite, tiefe Artikellinks, Suche, Bilder und Mobilmenü auf der tatsächlichen Zieladresse prüfen.
+Das Kopfmenü hat sechs Zugänge: **Einstieg · SchILD2 · Zeugnisse · Reporting · Tools · Nachschlagen**. SchILD2 bündelt Arbeiten und Administration; Nachschlagen erschließt Programmreferenz, Hilfe, Artikelindex, Bilder und Quellenarchiv.
 
+- Artikel direkt in ihren Markdown-Dateien bearbeiten. Sichtbare Quellenlinks, fachliche Einzelheiten, Beispiele und benötigte Sprungziele erhalten.
+- `.vitepress/navigation.json` enthält Themenmenüs und Hauptnavigation; `.vitepress/program-reference.json` die SchILD2-Programmreferenz.
+- Ein Artikel kann aus mehreren Rubriken erreichbar sein. Seitenmenüs erhalten den gewählten Lesekontext über `rubrik`; die Programmreferenz verwendet `referenz`, das A–Z-Verzeichnis `artikel=az`. Die Artikelpfade bleiben unverändert. `.vitepress/section-navigation.mjs` hält Rubrik, Themenzweig und Weiterblättern zusammen; die Referenz darf keine normalen Artikeladressen im Seitenmenü überschreiben.
+- Bilder liegen thematisch unter `public/bilder/`; der Katalog unter `/bilder/` erleichtert Wiederverwendung. Seine Daten stehen in `.vitepress/image-catalog.json`.
+- `.vitepress/redirects.json` enthält Ersatzadressen für entfernte Leerartikel.
+- `.vitepress/pdf-sources.json` ordnet ausgewertete PDF-Quellen ihren Artikeln zu. Zusätzliche Programmpakete oder Handbuchsammlungen werden nicht vorgehalten.
+- Autorenregeln und kopierbare Beispiele stehen unter Hilfe. Technische Mitarbeit beschreibt [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Quellen und Inhaltserhalt
+
+Das Quellenarchiv erhält alle **1.405 gesicherten Wiki-Seiten und 910 hochgeladenen Originaldateien**, einschließlich der nicht mehr in Fachartikeln verwendeten Dateien. Die Quelltexte stehen unter `/quellen/` und als ZIP unter `public/dateien/quellen/wiki-quelltexte.zip`; frühere Bearbeitungsstände und gelöschte Wiki-Seiten sind nicht Teil dieser Bestandssicherung.
+
+Die normale Dokumentation enthält 461 übernommene Wiki-Artikel sowie 15 ergänzende PDF-Anleitungen. Zwölf frühere Leer- oder Weiterleitungsartikel führen zu Ersatzinhalten. Neun PDF-Quellen sind in Artikeln ausgewertet. Alle Originalquellen bleiben unabhängig von der weiteren Redaktion erhalten.
+
+Historische Konverter und eingefrorene Artikelprüfungen wurden nach geprüfter lokaler Sicherung und ausdrücklicher Freigabe entfernt. Die Git-Historie bewahrt den bisherigen Importstand. Normale Pflege ist nicht an alte Textprüfsummen gebunden. Den Abgleich mit der SchILD3-Arbeitsliste dokumentiert [UMSETZUNG.md](UMSETZUNG.md).
+
+## Veröffentlichung
+
+Ein Build veröffentlicht nichts automatisch. Standardmäßig gilt `/`; für ein Unterverzeichnis ist `DOCS_BASE` vor Build und Vorschau zu setzen. Menü, Suche, Bilder und Druck am konkreten Hosting prüfen. Änderungen über einen eigenen Branch und einen PR gegen `dev` bereitstellen; der Merge erfolgt durch den Maintainer.
+
+## Abgleich der Programmreferenz mit der Oberfläche
+
+Grundlage sind die 41 Screenshots aus den beiden Pushes `49e6670` und `39c02f2`. Die ersten zehn Referenzbereiche entsprechen der Menüleiste in Screenshot 0002. Danach folgen das Hauptfenster und die dokumentierten Ergänzungen.
+
+| Screenshots | Geprüfter Bereich | Korrektur |
+| --- | --- | --- |
+| 0001–0003 | Menüleiste und Datei | Gruppenprozesse vor Auswahl; Datei-Befehle ergänzt. |
+| 0004–0005 | Schulverwaltung und Statistik | Vermerkarten vor Zeugnisvorlagen; Prüfung und Statistikexporte ergänzt. |
+| 0006 | Kataloge | Beschäftigungsarten als nicht dokumentierten Eintrag ergänzt; Kindergärten als schulformabhängige Ergänzung erhalten. |
+| 0007 | Gruppenprozesse | Fünf sichtbare Kategorien; Abituraktionen separat erhalten. Teilleistungsbefehle aus dem Artikel ergänzt. |
+| 0008 | Auswahl | Filter bearbeiten und Filter auf markierte Schüler ergänzt; Filter löschen als Ergänzung erhalten. |
+| 0009 | Druckausgabe | Archivdruck und beide Word-Seriendruckwege ergänzt; Textzeugnisse erzeugen auf die native Word-Zeugniserzeugung korrigiert. |
+| 0010–0017 | Datenaustausch | Exporte und Untermenüs entsprechend den Screenshots; Wohnortexport unter Weitere Exporte statt LuPO. |
+| 0018–0019 | Extras und Hilfe | Benutzerverwaltung, Rückholen gelöschter Daten, Aufnahmejahr und beschriebene Abschnittsbefehle ergänzt. |
+| 0021–0025 | Hauptfenster | Symbolleiste, Schülerauswahl, Schnellfilter, Schülerliste und Statuszeile getrennt. |
+| 0026–0030 | Schülerkarteireiter | Reihenfolge korrigiert; Deutschförderung bei Individualdaten II. |
+| 0031–0034 | Aktuelles Halbjahr | Unterreiter und Zeugnisbereich hierarchisch ergänzt. |
+| 0035–0038 | Laufbahninfo, Förderung, Einwilligungen, KAoA | Einwilligungen und KAoA an richtiger Position. KAoA ohne Anleitung belassen. |
+| 0039–0043 | Übersicht, FHR, Abitur, ZP 10 | Übersichtsartikel und beide Unterreiter verknüpft; Abituraktionen zugeordnet. |
+
+### Sichtbare Funktionen ohne passende Anleitung
+
+Diese Einträge werden bewusst ohne Link dargestellt. Gesucht wurde in den vorhandenen redaktionellen Artikeln; bloße Erwähnungen in Versionslisten oder im alten Inhaltsverzeichnis gelten nicht als Anleitung.
+
+- Beschäftigungsarten
+- Filterdefinition bearbeiten
+- Vorlage im- und exportieren
+- Export für Startklar
+- Export für Komm mit
+- Abitur-Daten exportieren
+- ZP10- und ZK-Daten exportieren
+- Import ZP 10
+- Einstellungen exportieren
+- Einstellungen importieren
+- Ausweisnummern löschen
+- Indizes wiederherstellen
+- Löschfristen prüfen
+- Zeichentabelle von Windows aufrufen
+- Online-Supportprogramm starten
+- Arbeits- und Sozialverhalten
+- Außerunterrichtliches Engagement
+- Bemerkung zur Versetzung
+- KAoA
+
+### Erhaltene Ergänzungen
+
+Fachklassen, BK-Abschluss, Dokumentenverwaltung, Kindergärten, Filter löschen, Abituraktionen, Straße und Hausnummer trennen, Benutzer-Plugin und Zusatzprogramme bleiben unter „Weitere Funktionen“ zugänglich. Ihre Existenz ist in den jeweiligen Artikeln belegt; sie werden nicht als Teil der fotografierten Menüleiste ausgegeben.
+
+Alte Artikeladressen und bestehende Überschriftenanker bleiben erhalten. Neue Abschnittsanker erschließen bestehende Erläuterungen. Die gesicherten Wiki-Quelltexte und Originaldateien wurden nicht verändert.
+
+## Redaktion und Veröffentlichung
+
+Der verbindliche Ablauf steht in [WORKFLOW.md](WORKFLOW.md). Neue Arbeitsbranches entstehen vom offiziellen `dev`; geprüfte Änderungen gelangen per PR nach `dev`. Nach der fachlichen Finalisierung führt ein geprüfter PR von `dev` nach `master` zur Veröffentlichung. Für beide PR-Ziele laufen die Pflichtprüfungen `docs-check` und `browser-check`.
+
+`.github/workflows/deploy.yml` baut nach einem Push auf `master` zuerst für die Domainwurzel `/`. Das Artefakt **schild2-domain** enthält diesen fertigen statischen Auftritt für denselben Nginx-Veröffentlichungsweg wie bei SchILD3. Danach wird bei Bedarf ein zweiter Build unter dem GitHub-Pages-Unterpfad erstellt und mit GitHub Pages veröffentlicht. Manuelle Läufe auf Arbeitsbranches prüfen und liefern Artefakte; sie veröffentlichen nichts.
+
+Die Anbindung des eigenen Servers ist laut Betreiber bereits eingerichtet. Der vorhandene Übernahmeweg muss das SchILD2-Artefakt `schild2-domain` verwenden. Zusätzlich durch die Administration zu prüfen: Unter **Settings → Pages → Build and deployment** ist **GitHub Actions** auszuwählen; das Environment `github-pages` muss Veröffentlichungen aus `master` zulassen. DNS, TLS und die Übernahme auf den bestehenden Webserver bleiben beim vorhandenen SchILD3-Verfahren. Der Workflow kann ohne Zugangsdaten weder DNS noch den Nginx-Server ändern. Eine GitHub-Pages-eigene Domain ist nur dann einzutragen, wenn diese Adresse tatsächlich auf GitHub Pages zeigen soll. Das Repository legt deshalb keine abweichende `CNAME`-Datei fest.
+
+Lokal kann der zweite Veröffentlichungspfad mit `DOCS_BASE=/SchILD-NRW-2-Dokumentation/` gebaut und mit `npm run docs:check` geprüft werden. Für die Domainwurzel bleibt `DOCS_BASE` ungesetzt. Beide Varianten liefern dieselben Artikel und Originaldateien; Artikeladressen im Quelltext bleiben unverändert.
+
+## Paketstand und Übernahme
+
+Die bewährte technische Grundlage entspricht SchILD3: Node.js 22, VitePress **1.6.4**, `markdown-it-container` **4.0.0** und der gezielte Vite-Override **6.4.5**. Der Testbrowser ist mit Playwright **1.64.1** festgelegt. `package-lock.json` hält den vollständigen installierten Paketstand fest; `npm ci` reproduziert ihn. Die vorhandene offizielle Lizenz [LICENSE](LICENSE) bleibt erhalten und ist als `CC0-1.0` in den Paketmetadaten angegeben.
+
+Übernommen wurde der GitHub-Stand `Raffenberg/SchILD2_Doku:dev` vom Commit `5c501dd1fbadef6c2a8fb3bdf7ce953b4c3c27b7`, einschließlich der vollständigen bisherigen Git-Historie. Die ursprüngliche offizielle Historie bleibt ebenfalls erhalten. Entfernt wurden die Testdatei `index.html` und die doppelten Prüfworkflows `browser-check.yml` und `docs-check.yml`; die offiziellen Dateien `browser.yml` und `dokumentation.yml` ersetzen sie. Alle Artikel und Originaldateien werden vollständig übernommen. Ein geerbter HTML-Downloadlink wurde in einen normalen Markdown-Link umgewandelt, damit er auch unter dem GitHub-Pages-Unterpfad funktioniert; Beschriftung und Dateiziel bleiben gleich.
+
+Beim Einrichten wurde für `dev` noch kein aktiver Branchschutz gemeldet; ein Repository-Ruleset war ebenfalls nicht vorhanden. Die genauen Vorgaben für `dev` und `master`, einschließlich der beiden erforderlichen Checks, stehen in [WORKFLOW.md](WORKFLOW.md). Diese Administrationseinstellungen müssen mit den entsprechenden Rechten im Repository aktiviert werden.

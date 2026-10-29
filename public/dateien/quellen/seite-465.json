@@ -1,0 +1,29 @@
+{
+  "pageid": 465,
+  "ns": 0,
+  "title": "Klassenunterrichte bearbeiten",
+  "revisions": [
+    {
+      "revid": 3613,
+      "parentid": 1915,
+      "user": "Mhoffmann",
+      "timestamp": "2015-09-20T09:28:54Z",
+      "sha1": "ad60e178d94100b812a691e97207723dd41f09dd",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Mit dem Aufruf des Gruppenprozesses \"Klassenunterrichte bearbeiten\" erscheint das Fenster \"Nicht-kursgebundene Fächer bearbeiten\". \n\nDieser Gruppenprozess dient der Bearbeitung der nicht-kursgebundenen Fächer der ausgewählten Schüler. Eine genauere Erläuterung ist direkt in dem Fenster nachzulesen.\n\n:[[Image:GP-Klassenunterrichtbearbeiten.jpg|Center|600px]]\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Fächer|Zurück zu Fächer]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-09-20T09:28:54Z",
+  "lastrevid": 3613,
+  "length": 430
+}

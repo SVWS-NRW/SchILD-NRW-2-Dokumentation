@@ -1,0 +1,30 @@
+{
+  "pageid": 123,
+  "ns": 0,
+  "title": "LernfelderZuFachklasse",
+  "revisions": [
+    {
+      "revid": 172,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-06T10:00:15Z",
+      "sha1": "89b7632128e743d44f200bf14a41d5449218fd78",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    function LernfelderZuFachklasse( fachklasse_id: integer): string;\n    Gibt die Lernfelder einer Fachklasse aus\n|-\n|'''Parameter''' || \n    fachklasse_id: Die Fachklasse_ID des Schülers (aus Stammdaten oder\n                   Lernabschnittsdaten)\n|-\n|'''Rückgabewert''' ||\n    Lernfelder im Richtext.\n|- \n|'''Beispiel''' || \n    procedure DetailBeforePrint;\n     begin\n      RichText_LF.RichText := LernfelderZuFachklasse( Schueler[ 'Fachklasse_ID'] );\n    End;\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      function LernfelderZuFachklasse( fachklasse_id: integer): string;     Gib…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-06T10:00:15Z",
+  "lastrevid": 172,
+  "length": 590,
+  "new": ""
+}

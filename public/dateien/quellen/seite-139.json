@@ -1,0 +1,29 @@
+{
+  "pageid": 139,
+  "ns": 0,
+  "title": "Kurs42:Inhaltsverzeichnis",
+  "revisions": [
+    {
+      "revid": 4610,
+      "parentid": 4487,
+      "user": "Pfotenhauer",
+      "timestamp": "2020-06-12T07:37:54Z",
+      "sha1": "2c1f6c490b1ed98ceb40dfa44dcaa77d9d672a04",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "__NOTOC__\n\n*[[Kurs42:Einführung]]\n**[[Kurs42:Datei]]\n\n\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Hauptseite|Zurück zur Hauptseite]]"
+        }
+      },
+      "comment": "Der Seiteninhalt wurde durch einen anderen Text ersetzt: „__NOTOC__  *[[Kurs42:Einführung]] **[[Kurs42:Datei]]     ----  [[#top|Zum Seitenanfang]]  [[Hauptseite|Zurück zur Hauptseite]]“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2020-06-12T07:37:54Z",
+  "lastrevid": 4610,
+  "length": 128
+}

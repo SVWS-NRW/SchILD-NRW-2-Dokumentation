@@ -1,0 +1,30 @@
+{
+  "pageid": 1327,
+  "ns": 6,
+  "title": "Datei:ASDPC Export IT.NRW.png",
+  "revisions": [
+    {
+      "revid": 5181,
+      "parentid": 0,
+      "user": "FFrodermann",
+      "timestamp": "2022-01-03T11:11:22Z",
+      "sha1": "1e628b7642b352e65960a7242ffafef3c41567ee",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "== Beschreibung ==\nASDPC IT.NRW export Screenshot"
+        }
+      },
+      "comment": "ASDPC IT.NRW export Screenshot"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-01-03T11:20:17Z",
+  "lastrevid": 5181,
+  "length": 49,
+  "new": ""
+}

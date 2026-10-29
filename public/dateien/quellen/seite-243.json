@@ -1,0 +1,30 @@
+{
+  "pageid": 243,
+  "ns": 6,
+  "title": "Datei:GS Vers Tabelle jgü2.jpg",
+  "revisions": [
+    {
+      "revid": 1017,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-01-27T17:34:50Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2016-08-25T20:31:05Z",
+  "lastrevid": 1017,
+  "length": 0,
+  "new": ""
+}

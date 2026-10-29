@@ -1,0 +1,30 @@
+{
+  "pageid": 27,
+  "ns": 0,
+  "title": "FilterLaufbahnJahr",
+  "revisions": [
+    {
+      "revid": 48,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T15:05:12Z",
+      "sha1": "34b449bdad998d91ea273633c1bce20a7887b298",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    procedure FilterLaufbahnJahr(const VonJahr, BisJahr: Integer);\n    filtert die Laufbahndaten der Schüler für das angegebene Intervall;\n    vonJahr = 0 filtert vom Anfing bis BisJahr\n    bisJahr = 0 filtert von vonJahr bis zum Ende\n    VonJahr = 0 und BisJahr = 0 setzt die Abfrage zurück\n|-\n|'''Parameter''' || \n    VonJahr            - Beginn des Zeitraumes\n    BisJahr            - Ende des Zeitraumes\n|-\n|'''Rückgabewert''' ||\n    ...\n|- \n|'''Beispiel''' || \n    procedure ReportBeforePrint;\n    begin\n      SetUebersicht(True);\n      FilterLaufbahnJahr(2000,2009);\n    end;\n\n    procedure ReportAfterPrint;\n    begin\n      SetUebersicht(false);\n      FilterLaufbahnJahr(0,0);\n    end;\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      procedure FilterLaufbahnJahr(const VonJahr, BisJahr: Integer);     filter…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T15:05:12Z",
+  "lastrevid": 48,
+  "length": 820,
+  "new": ""
+}

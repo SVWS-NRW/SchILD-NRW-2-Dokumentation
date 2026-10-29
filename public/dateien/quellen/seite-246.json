@@ -1,0 +1,29 @@
+{
+  "pageid": 246,
+  "ns": 0,
+  "title": "Schüler ohne Fächer",
+  "revisions": [
+    {
+      "revid": 1053,
+      "parentid": 1042,
+      "user": "UMertsch",
+      "timestamp": "2014-01-28T09:59:01Z",
+      "sha1": "2684690c9f9cedd35a868dbe8ff9af1b24ebe7f4",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Dieser Filter sucht für Sie nach Schülern, die in einem bestimmten Abschnitt noch keine Fächer eingetragen haben.\n\nDabei werden nach der Ausführung und Angabe des Abschnittes, in dem gesucht werden soll, die Schüler angezeigt, die unter dem Karteireiter [[akt. Halbjahr]] (akt. Abschnitt) noch gar keine Fächer eingetragen haben.\n\nDiese Funktion kann nicht dazu verwendet werden, Schüler zu finden, die eine unvollständige Unterrichtsverteilung in ihren Leistungsdaten haben.\n\nHier werden lediglich Schüler gefunden, die z.B. mitten im Schuljahr hinzugezogen sind und bei denen noch keine Fächer für den Zeugnisdruck zugewiesen wurden.\n\n\n----\n\n[[Auswahl|Zurück zu Auswahl]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-03-12T11:39:28Z",
+  "lastrevid": 1053,
+  "length": 685
+}

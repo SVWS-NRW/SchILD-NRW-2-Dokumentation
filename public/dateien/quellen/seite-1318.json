@@ -1,0 +1,30 @@
+{
+  "pageid": 1318,
+  "ns": 6,
+  "title": "Datei:ASDPC Deutschfördergruppen.png",
+  "revisions": [
+    {
+      "revid": 5158,
+      "parentid": 0,
+      "user": "FFrodermann",
+      "timestamp": "2022-01-03T10:05:02Z",
+      "sha1": "4878069de5d75345187df16c8c2054e0ece2bf06",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "== Beschreibung ==\nASDPC Deutschfördergruppen Screenshot"
+        }
+      },
+      "comment": "ASDPC Deutschfördergruppen Screenshot"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-01-22T10:02:20Z",
+  "lastrevid": 5158,
+  "length": 57,
+  "new": ""
+}

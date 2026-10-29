@@ -1,0 +1,30 @@
+{
+  "pageid": 85,
+  "ns": 0,
+  "title": "SetAdressArt",
+  "revisions": [
+    {
+      "revid": 109,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T18:31:39Z",
+      "sha1": "5ca4b30f68ea2184ab674835b60536e07addbc18",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    procedure SetAdressArt(aZiel, aAdressArt: String);\n|-\n|'''Parameter''' || \n    aZiel              - ALLEADRESSEN' setzt den Filter für die Datenquelle\n                        „AllgAdresseUndSchueler“, 'KLASSENADRESSEN' auf die Datenquelle\n                        „AllgAdresseZurLKlasse“\n    aAdressArt         - Gewünschte Adressart, entweder über SelectAdressArt auswählen\n                         oder als Stringliteral (z.B. „Betrieb“) eingeben\n|-\n|'''Rückgabewert''' ||\n    ...\n|- \n|'''Beispiel''' || \n    Procedure ReportBeforePrint;\n     begin\n       SetAdressArt('ALLEADRESSEN','Betrieb');\n     end\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      procedure SetAdressArt(aZiel, aAdressArt: String); |- |'''Parameter''' ||…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T18:31:39Z",
+  "lastrevid": 109,
+  "length": 750,
+  "new": ""
+}

@@ -1,0 +1,30 @@
+{
+  "pageid": 1199,
+  "ns": 0,
+  "title": "A01 Fachklassen (BS; TZ)",
+  "revisions": [
+    {
+      "revid": 4749,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2021-04-22T10:59:58Z",
+      "sha1": "f47be1beeafe5fe1e497dcc5a8fc3dd4a5c08b6f",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "[[Datei:BK Abschluss A01.png]]"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „[[Datei:BK Abschluss A01.png]]“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2021-04-22T10:59:58Z",
+  "lastrevid": 4749,
+  "length": 30,
+  "new": ""
+}
