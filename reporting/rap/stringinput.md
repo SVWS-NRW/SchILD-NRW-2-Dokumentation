@@ -7,7 +7,9 @@ title: "StringInput"
 <a id="RAP-Funktion_&quot;StringInput&quot;"></a>
 <a id="RAP-Funktion_.22StringInput.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 function StringInput(aPrompt, Default: String): string;
@@ -15,10 +17,11 @@ function StringInput(aPrompt, Default: String): string;
 
 ## Parameter
 
-```text
-aPrompt  - Hinweistext
-Default  - Textvorgabe, kann leer sein
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `aPrompt` | Hinweistext |
+| `Default` | Textvorgabe, kann leer sein |
+
 
 ## Rückgabewert
 
@@ -31,8 +34,8 @@ Label1.Caption:=StringInput('Bitte geben Sie das KFZ-Kennzeichen ein','NRW-4711'
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-101) · [StringInput – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=StringInput&oldid=125)

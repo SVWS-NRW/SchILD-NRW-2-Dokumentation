@@ -7,7 +7,9 @@ title: "NurFaecherMitNoten"
 <a id="RAP-Funktion_&quot;NurFaecherMitNoten&quot;"></a>
 <a id="RAP-Funktion_.22NurFaecherMitNoten.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 procedure NurFaecherMitNoten(const Value: Boolean);
@@ -15,9 +17,9 @@ procedure NurFaecherMitNoten(const Value: Boolean);
 
 ## Parameter
 
-```text
-Value    - True, wenn nur Leistungsdaten mit eingetragenen Noten geholt werden sollen
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `Value` | True, wenn nur Leistungsdaten mit eingetragenen Noten geholt werden sollen |
 
 
 ## Beispiel
@@ -33,8 +35,8 @@ Procedure ReportBeforePrint;
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-57) · [NurFaecherMitNoten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=NurFaecherMitNoten&oldid=78)

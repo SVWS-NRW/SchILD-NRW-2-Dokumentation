@@ -7,21 +7,23 @@ title: "QuotedStr"
 <a id="RAP-Funktion_&quot;QuotedStr&quot;"></a>
 <a id="RAP-Funktion_.22QuotedStr.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 function QuotedStr(const Value: String): String;
 ```
 
-## Beschreibung
 
 schließt den String Value in Delphi-Hochkommata ein
 
 ## Parameter
 
-```text
-Value   - String, der eingeschlossen werden soll
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `Value` | String, der eingeschlossen werden soll |
+
 
 ## Rückgabewert
 
@@ -29,13 +31,13 @@ In Hochkommata eingeschlossener String
 
 ## Beispiel
 
-```text
+```pascal
 Setzefilter(Klassenlehrer_mit_Noten,'Fachkrz=' + QuotedStr('M'));
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-59) · [QuotedStr – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=QuotedStr&oldid=80)

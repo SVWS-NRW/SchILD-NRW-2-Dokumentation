@@ -7,7 +7,9 @@ title: "SelectStringEx"
 <a id="RAP-Funktion_&quot;SelectStringEx&quot;"></a>
 <a id="RAP-Funktion_.22SelectStringEx.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 function SelectStringEx(Prompt, Optionsliste: String; Trennzeichen: Char): String;
@@ -15,13 +17,12 @@ function SelectStringEx(Prompt, Optionsliste: String; Trennzeichen: Char): Strin
 
 ## Parameter
 
-```text
-Prompt             - Hinweistext
-Optionsliste       - Mit Trennzeichen separierte Liste von Daten, die in einem
-                     Auswahldialog angezeigt werden.
-Trennzeichen       - Beliebig wählbar, darf nur nicht in den zu trennenden
-                     Datensätzen vorkommen
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `Prompt` | Hinweistext |
+| `Optionsliste` | Mit Trennzeichen separierte Liste von Daten, die in einem Auswahldialog angezeigt werden. |
+| `Trennzeichen` | Beliebig wählbar, darf nur nicht in den zu trennenden Datensätzen vorkommen |
+
 
 ## Rückgabewert
 
@@ -39,8 +40,8 @@ Procedure ReportBeforePrint;
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-83) · [SelectStringEx – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SelectStringEx&oldid=5386)

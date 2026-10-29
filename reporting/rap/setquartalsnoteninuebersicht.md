@@ -7,13 +7,14 @@ title: "SetQuartalsnotenInUebersicht"
 <a id="RAP-Funktion_&quot;SetQuartalsnotenInUebersicht&quot;"></a>
 <a id="RAP-Funktion_.22SetQuartalsnotenInUebersicht.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 procedure SetQuartalsnotenInUebersicht( MitQuartalnoten: Boolean);
 ```
 
-## Beschreibung
 
 Steuert, ob in Leistungsübersichten auch Quartalsnoten erscheinen sollen
 
@@ -28,8 +29,8 @@ procedure ReportBeforePrint;
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-120) · [SetQuartalsnotenInUebersicht – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetQuartalsnotenInUebersicht&oldid=166)

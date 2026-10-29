@@ -18,9 +18,8 @@ Reports verwalten, erstellen und mit RAP erweitern.
 - [Report-Explorer einrichten](/reporting/erstellung/einrichtung-des-report-explorers)
 - [BASIC-Reportbeispiele](/reporting/erstellung/ausgewaehlte-beispiele-aus-der-basic-sammlung)
 
-## [RAP-Funktionen](/reporting/rap)
+## [RAP-Funktionsreferenz](/reporting/rap)
 
-- [RAP-Funktionen](/reporting/rap/rap-funktionen)
 - [AlleFaecherLaden](/reporting/rap/allefaecherladen)
 - [Anrede](/reporting/rap/anrede)
 - [AnzahlElemente](/reporting/rap/anzahlelemente)

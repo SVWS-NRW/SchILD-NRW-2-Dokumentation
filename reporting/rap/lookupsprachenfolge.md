@@ -7,7 +7,9 @@ title: "LookupSprachenfolge"
 <a id="RAP-Funktion_&quot;LookupSprachenfolge&quot;"></a>
 <a id="RAP-Funktion_.22LookupSprachenfolge.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 Function LookupSprachenfolge(aStatistikKrz: String):Boolean;
@@ -15,9 +17,10 @@ Function LookupSprachenfolge(aStatistikKrz: String):Boolean;
 
 ## Parameter
 
-```text
-aStatistikKrz - Statistikkürzel des gesuchten Faches
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `aStatistikKrz` | Statistikkürzel des gesuchten Faches |
+
 
 ## Rückgabewert
 
@@ -36,8 +39,8 @@ end;
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-50) · [LookupSprachenfolge – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LookupSprachenfolge&oldid=71)

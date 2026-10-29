@@ -7,25 +7,25 @@ title: "AufzaehlungRTF"
 <a id="RAP-Funktion_&quot;AufzaehlungRTF&quot;"></a>
 <a id="RAP-Funktion_.22AufzaehlungRTF.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 function AufzaehlungRTF(aRichtext: String; const Label: String;aListe: TStrings): String;
 ```
 
-## Beschreibung
 
 fügt eine Aufzählung (ungeordnete Liste) in einen RTF-Text ein.
 
 ## Parameter
 
-```text
-aRichtext   - Der Richtext, in den die Aufzählung eingefügt werden soll
-aLabel      - Positionsmarke, an der die Aufzählung eingefügt werden soll, eingeschlossen
-              von <ul>..</ul> für eine ungeordnete Liste bzw. <ol>..</ol>
-              für eine geordnete (nummerierte) Liste.
-aListe      - Stringliste, die die einzufügenden Zeilen enthält
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `aRichtext` | Der Richtext, in den die Aufzählung eingefügt werden soll |
+| `aLabel` | Positionsmarke, an der die Aufzählung eingefügt werden soll, eingeschlossen von &lt;ul&gt;..&lt;/ul&gt; für eine ungeordnete Liste bzw. &lt;ol&gt;..&lt;/ol&gt; für eine geordnete (nummerierte) Liste. |
+| `aListe` | Stringliste, die die einzufügenden Zeilen enthält |
+
 
 ## Rückgabewert
 
@@ -67,8 +67,8 @@ Im Richtext muss `<ul>$LISTE$</ul>` oder `<ol>$LISTE$</ol>` eingefügt werden.
 
 Die Quelle enthält einen unvollständigen Ereignisblock und die auffällige Zeile `lListe:=TStringList.Free;`. Das Beispiel ist als historischer Quelltext erhalten und nicht als lauffähiges vollständiges Reportprogramm bestätigt.
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-13) · [AufzaehlungRTF – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=AufzaehlungRTF&oldid=2077)

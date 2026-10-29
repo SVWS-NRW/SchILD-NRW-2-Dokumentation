@@ -7,13 +7,14 @@ title: "ReplaceDefault"
 <a id="RAP-Funktion_&quot;ReplaceDefault&quot;"></a>
 <a id="RAP-Funktion_.22ReplaceDefault.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 function ReplaceDefault(aText: String): String;
 ```
 
-## Beschreibung
 
 Platzhalter              | Wird ersetzt durch
   --------------------------+----------------------------------
@@ -39,10 +40,9 @@ in Abhängigkeit vom Geschlecht des Schülerdatensatzes die korrekte Form gewäh
 
 ## Parameter
 
-```text
-aText - Text, in dem die oder der Standard-Platzhalter ersetzt
-        werden sollen.
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `aText` | Text, in dem die oder der Standard-Platzhalter ersetzt werden sollen. |
 
 
 ## Beispiel
@@ -57,8 +57,8 @@ end;
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-61) · [ReplaceDefault – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ReplaceDefault&oldid=82)

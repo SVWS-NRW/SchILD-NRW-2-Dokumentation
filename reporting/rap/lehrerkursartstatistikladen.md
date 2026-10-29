@@ -7,13 +7,14 @@ title: "LehrerKursartStatistikLaden"
 <a id="RAP-Funktion_&quot;LehrerKursartStatistikLaden&quot;"></a>
 <a id="RAP-Funktion_.22LehrerKursartStatistikLaden.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 Procedure LehrerKursartStatistikLaden;
 ```
 
-## Beschreibung
 
 Durch den Aufruf dieser Prozedur wird die Datenquelle
 'LehrerUnterrichtsStatistik' mit Daten gefüllt.
@@ -33,8 +34,8 @@ Procedure DetailBeforeGenerate;
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-42) · [LehrerKursartStatistikLaden – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LehrerKursartStatistikLaden&oldid=63)

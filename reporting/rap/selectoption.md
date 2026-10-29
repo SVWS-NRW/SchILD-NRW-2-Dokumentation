@@ -7,23 +7,25 @@ title: "SelectOption"
 <a id="RAP-Funktion_&quot;SelectOption&quot;"></a>
 <a id="RAP-Funktion_.22SelectOption.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 function SelectOption(Prompt, Optionsliste: String; Trennzeichen: Char): Integer;
 ```
 
-## Beschreibung
 
 ermöglicht die Auswahl eines Elements aus einer Auswahlliste
 
 ## Parameter
 
-```text
-Prompt       - Eingabeaufforderung
-Optionsliste - Liste der verfügbaren Optionen
-Trennzeichen - Trennt die Optionen in der Liste voneinander
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `Prompt` | Eingabeaufforderung |
+| `Optionsliste` | Liste der verfügbaren Optionen |
+| `Trennzeichen` | Trennt die Optionen in der Liste voneinander |
+
 
 ## Rückgabewert
 
@@ -45,8 +47,8 @@ begin
 end;
 ```
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-81) · [SelectOption – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SelectOption&oldid=2151)

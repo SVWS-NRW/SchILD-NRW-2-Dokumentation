@@ -46,5 +46,9 @@
   {
     "path": "schild2/import-export-statistik/statistik-mit-asdpc-uebersicht-1346.md",
     "replacement": "/schild2/import-export-statistik/statistik-mit-asdpc-uebersicht"
+  },
+  {
+    "path": "reporting/rap/rap-funktionen.md",
+    "replacement": "/reporting/rap"
   }
 ]

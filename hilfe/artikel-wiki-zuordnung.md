@@ -7,7 +7,7 @@ Die Tabelle führt die ursprünglichen Wiki-Inhaltsseiten zu den passenden Dokum
 | Hauptseite | [Frühere Wiki-Startseite](/hilfe/wiki-archiv/hauptseite) | [Version 6060](/quellen/wiki/seite-1) |
 | Schild-NRW-Index | [Das Programm im Überblick](/einstieg/grundlagen/schild-nrw-index) | [Version 5935](/quellen/wiki/seite-6) |
 | Reporting | [Reporting im Überblick](/reporting/erstellung/reporting) | [Version 4707](/quellen/wiki/seite-8) |
-| RAP-Funktionen | [RAP-Funktionen](/reporting/rap/rap-funktionen "/reporting/rap/rap-funktionen") | [Version 5689](/quellen/wiki/seite-9) |
+| RAP-Funktionen | [RAP-Funktionen](/reporting/rap "/reporting/rap") | [Version 5689](/quellen/wiki/seite-9) |
 | Anrede | [Anrede](/reporting/rap/anrede "/reporting/rap/anrede") | [Version 5722](/quellen/wiki/seite-11) |
 | AssignFont | [AssignFont](/reporting/rap/assignfont "/reporting/rap/assignfont") | [Version 23](/quellen/wiki/seite-12) |
 | AufzaehlungRTF | [AufzaehlungRTF](/reporting/rap/aufzaehlungrtf "/reporting/rap/aufzaehlungrtf") | [Version 2077](/quellen/wiki/seite-13) |

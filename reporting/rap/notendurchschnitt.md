@@ -7,23 +7,25 @@ title: "NotenDurchschnitt"
 <a id="RAP-Funktion_&quot;NotenDurchschnitt&quot;"></a>
 <a id="RAP-Funktion_.22NotenDurchschnitt.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 procedure NotenDurchschnitt(const aSchuelerId, aJahr, aAbschnitt: Integer;
 ```
 
-## Beschreibung
 
 var Beste, Schlechteste: Integer; var Schnitt: String);
 
 ## Parameter
 
-```text
-aSchuelerId        - Id-Nummer des Schülers
-aJahr              - Schuljahr und
-aAbschnitt         - Abschnitt des Schuljahres, für das der Schnitt berechnet wird.
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `aSchuelerId` | Id-Nummer des Schülers |
+| `aJahr` | Schuljahr und |
+| `aAbschnitt` | Abschnitt des Schuljahres, für das der Schnitt berechnet wird. |
+
 
 ## Rückgabewert
 
@@ -47,8 +49,8 @@ end;
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-54) · [NotenDurchschnitt – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=NotenDurchschnitt&oldid=4087)

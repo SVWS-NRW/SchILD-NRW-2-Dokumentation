@@ -166,7 +166,7 @@ Dies findet im Ereignis *ReportBeforePrint* statt.
 
 Die Funktionen sind alle auch im WIKI beschrieben.
 
-**[RAP-Funktionen](/reporting/rap/rap-funktionen)**
+**[RAP-Funktionen](/reporting/rap)**
 
 Dort gibt es zahlreiche Funktionen, die dem Ersteller von Reports helfen sollen, bestimmte Dinge in der Reporting umzusetzen, die von der Programmierung nicht unterstützt werden oder nur sehr schwer umzusetzen sind.
 

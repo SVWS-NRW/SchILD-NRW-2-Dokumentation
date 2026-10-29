@@ -7,7 +7,9 @@ title: "LehrerDatenLaden"
 <a id="RAP-Funktion_&quot;LehrerDatenLaden&quot;"></a>
 <a id="RAP-Funktion_.22LehrerDatenLaden.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 procedure LehrerDatenLaden(const Kuerzel: String; var Name, Vorname, Anrede, Titel, Amtsbez: String);
@@ -15,13 +17,14 @@ procedure LehrerDatenLaden(const Kuerzel: String; var Name, Vorname, Anrede, Tit
 
 ## Parameter
 
-```text
-Name               - Nachname des Lehrers
-Vorname            - ..des Lehrers
-Anrede             - ..des Lehrers
-Titel              - ..des Lehrers
-Amtsbez            - ..des Lehrers
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `Name` | Nachname des Lehrers |
+| `Vorname` | ..des Lehrers |
+| `Anrede` | ..des Lehrers |
+| `Titel` | ..des Lehrers |
+| `Amtsbez` | ..des Lehrers |
+
 
 ## Beispiel
 
@@ -38,8 +41,8 @@ begin
 end;
 ```
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-41) · [LehrerDatenLaden – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LehrerDatenLaden&oldid=4843)

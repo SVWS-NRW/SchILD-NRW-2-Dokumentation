@@ -10,20 +10,21 @@ title: "EinzelElement"
 ## Beschreibung
 
 ```pascal
- 
-    function EinzelElement( const text, trennzeichen: string; const position: integer ):
+function EinzelElement( const text, trennzeichen: string; const position: integer ):
 string
-   Liefert das Einzelelement an Position "position" aus dem durch das Trennzeichen
-   getrennten Text "text"
 ```
+
+Liefert das Einzelelement an Position "position" aus dem durch das Trennzeichen
+   getrennten Text "text"
+
 
 ## Parameter
 
-```text
-text: der zu analysierende Text
-trennzeichen: Das Trennzeichen
-position: Die Position des Einzelelementes im Text (beginnend bei 1)
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `text` | der zu analysierende Text |
+| `trennzeichen` | Das Trennzeichen |
+| `position` | Die Position des Einzelelementes im Text (beginnend bei 1) |
 
 
 ## Beispiel
@@ -34,8 +35,8 @@ if einzelelement( txt, ',', 2 ) = '2' then
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-119) · [EinzelElement – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=EinzelElement&oldid=164)

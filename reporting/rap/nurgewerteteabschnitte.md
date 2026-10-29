@@ -9,30 +9,32 @@ title: "NurGewerteteAbschnitte"
 
 ## Beschreibung
 
-```text
+```pascal
 NurGewerteteAbschnitte( zeigen: boolen );
 ```
 
+
 ## Parameter
 
-```text
-Anzeigewerte : True, False
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `Anzeigewerte` | True, False |
 
 
 ## Beispiel
 
-```text
+```pascal
 NurGewerteteAbschnitte( false );
+```
+
 Wichtig: Der "Default" steht" auf "true" (d.h. nur gewertete Abschnitte
 zeigen). Andernfalls könnte es Probleme bei Reports geben, die nur gewertete
 Abschnitte zeigen dürfen (z.B. Abi-Übersichten). Wenn man für ein Stammblatt
 auch die nicht gewerteten Abschnitte sehen will.
-```
 
+
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
 ---
-
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-126) · [NurGewerteteAbschnitte – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=NurGewerteteAbschnitte&oldid=185)

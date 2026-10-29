@@ -7,7 +7,9 @@ title: "IstLeer"
 <a id="RAP-Funktion_&quot;IstLeer&quot;"></a>
 <a id="RAP-Funktion_.22IstLeer.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 function IstLeer(aDataPipeline: TppDataPipeline; const aFieldname: String): Boolean;
@@ -15,10 +17,11 @@ function IstLeer(aDataPipeline: TppDataPipeline; const aFieldname: String): Bool
 
 ## Parameter
 
-```text
-aDataPipeline      - Zu prüfende Datenquelle
-aFieldname         - Name des zu überprüfenden Felde
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `aDataPipeline` | Zu prüfende Datenquelle |
+| `aFieldname` | Name des zu überprüfenden Felde |
+
 
 ## Rückgabewert
 
@@ -35,8 +38,8 @@ end;
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-37) · [IstLeer – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=IstLeer&oldid=58)

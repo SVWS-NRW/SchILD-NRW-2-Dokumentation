@@ -7,7 +7,9 @@ title: "FileSaveDlg"
 <a id="RAP-Funktion_&quot;FileSaveDlg&quot;"></a>
 <a id="RAP-Funktion_.22FileSaveDlg.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 function FileSaveDlg(const aFilename, aInitialDir,
@@ -16,12 +18,12 @@ function FileSaveDlg(const aFilename, aInitialDir,
 
 ## Parameter
 
-```text
-aFilename          - Name der zu speichernden Datei, evtl. mit Platzhaltern
-aInitialDir        - Startverzeichnis, Leerer String öffnet im aktuellen
-                     Verzeichnis
-aFilter            - Dateinamenfilter
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `aFilename` | Name der zu speichernden Datei, evtl. mit Platzhaltern |
+| `aInitialDir` | Startverzeichnis, Leerer String öffnet im aktuellen Verzeichnis |
+| `aFilter` | Dateinamenfilter |
+
 
 ## Rückgabewert
 
@@ -35,8 +37,8 @@ Fn:=FileSaveDlg('*.txt','c:\Text','Textdateien|*.txt|Alle Dateien|*.*');
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-23) · [FileSaveDlg – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FileSaveDlg&oldid=44)

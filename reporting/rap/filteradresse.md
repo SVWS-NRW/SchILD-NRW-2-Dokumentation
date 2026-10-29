@@ -7,7 +7,9 @@ title: "FilterAdresse"
 <a id="RAP-Funktion_&quot;FilterAdresse&quot;"></a>
 <a id="RAP-Funktion_.22FilterAdresse.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 procedure FilterAdresse(aAdresse: String);
@@ -15,20 +17,18 @@ procedure FilterAdresse(aAdresse: String);
 
 ## Parameter
 
-```text
-aAdresse           - Adresse, auf die gefiltert werden soll
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `aAdresse` | Adresse, auf die gefiltert werden soll |
 
 
 ## Beispiel
 
-```text
-Siehe „SelectAdressName“
-```
+Siehe [SelectAdressName](/reporting/rap/selectadressname).
 
+
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
 ---
-
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-25) · [FilterAdresse – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FilterAdresse&oldid=46)

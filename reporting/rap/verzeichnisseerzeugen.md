@@ -7,13 +7,14 @@ title: "VerzeichnisseErzeugen"
 <a id="RAP-Funktion_&quot;VerzeichnisseErzeugen&quot;"></a>
 <a id="RAP-Funktion_.22VerzeichnisseErzeugen.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 function VerzeichnisseErzeugen(const aVerzeichnis : String): Boolean;
 ```
 
-## Beschreibung
 
 VerzeichnisseErzeugen erstellt das in 'aVerzeichnis' vollständig angegebene Verzeichnis.
 Sind die übergeordneten Verzeichnisse nicht vorhanden, werden diese automatisch angelegt.
@@ -25,9 +26,10 @@ Dies kann dazu führen, dass VerzeichnisseErzeugen eine Ausnahme auslöst.
 
 ## Parameter
 
-```text
-aVerzeichnis   - Verzeichnis, das erzeugt werden soll
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `aVerzeichnis` | Verzeichnis, das erzeugt werden soll |
+
 
 ## Rückgabewert
 
@@ -43,8 +45,8 @@ end;
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-105) · [VerzeichnisseErzeugen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=VerzeichnisseErzeugen&oldid=129)

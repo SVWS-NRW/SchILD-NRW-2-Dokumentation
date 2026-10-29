@@ -7,7 +7,9 @@ title: "ReadDateTime"
 <a id="RAP-Funktion_&quot;ReadDateTime&quot;"></a>
 <a id="RAP-Funktion_.22ReadDateTime.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 function ReadDateTime(aPrompt: String; var D,T1,T2: TDateTime; IsIntervall: Boolean): Boolean;
@@ -15,14 +17,14 @@ function ReadDateTime(aPrompt: String; var D,T1,T2: TDateTime; IsIntervall: Bool
 
 ## Parameter
 
-```text
-aPrompt            - Hinweistext im Dialogtitel
-D                  - Datum)
-T1                 - Uhrzeit (Beginn)
-T2                 - Uhrzeit(Ende
-IsIntervall        - Falls True, wird die Uhrzeit (Ende) eingeblendet
-                     und kann verändert werden
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `aPrompt` | Hinweistext im Dialogtitel |
+| `D` | Datum) |
+| `T1` | Uhrzeit (Beginn) |
+| `T2` | Uhrzeit(Ende |
+| `IsIntervall` | Falls True, wird die Uhrzeit (Ende) eingeblendet und kann verändert werden |
+
 
 ## Rückgabewert
 
@@ -45,8 +47,8 @@ Procedure Label1OnGetText(var Text: String);
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-60) · [ReadDateTime – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ReadDateTime&oldid=81)

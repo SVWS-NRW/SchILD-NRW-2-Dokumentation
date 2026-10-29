@@ -7,22 +7,24 @@ title: "Setzefilter"
 <a id="RAP-Funktion_&quot;Setzefilter&quot;"></a>
 <a id="RAP-Funktion_.22Setzefilter.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 procedure SetzeFilter(Pipeline: TppDbPipeline; const Filter: String)
 ```
 
-## Beschreibung
 
 schränkt die Datensätze durch die übergebene Filterbedingung ein.
 
 ## Parameter
 
-```text
-Pipeline       - Datenquelle, die gefiltert werden soll
-Filter         - der neue Filter. Ist der Filterstring leer, wird die Filterung entfernt.
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `Pipeline` | Datenquelle, die gefiltert werden soll |
+| `Filter` | der neue Filter. Ist der Filterstring leer, wird die Filterung entfernt. |
+
 
 ## Beispiel
 
@@ -44,8 +46,8 @@ Filter wie `Klasse=05*` oder `Klasse=*A` verwenden `*` als Platzhalter. Mehrere 
 Laut Wiki-Quelle wirkt die Filterung in manchen Fällen erst im Druckbetrieb und nicht in der Vorschau des Designers. Prüfen Sie deshalb auch die tatsächliche Druckausgabe.
 :::
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-95) · [Setzefilter – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Setzefilter&oldid=2115)

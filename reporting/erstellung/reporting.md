@@ -41,13 +41,13 @@ Wie diese Formulare erstellt werden, wo Sie gespeichert sein müssen und wie der
 
 <a id="RAP-Funktionen"></a>
 
-## [RAP-Funktionen](/reporting/rap/rap-funktionen)
+## [RAP-Funktionen](/reporting/rap)
 
 Eine alphabetische Auflistung aller Funktionen, die im RAP-Code der Reports benutzt werden können. Zur Erstellung von aufwändigen Reports ist eine Programmierung unerlässlich. Der RBuilder der Firma Digital-Metaphors, den wir in Schild-NRW, Kurs42 und den anderen Programmen einsetzen, bietet hier eine Reihe von Möglichkeiten, wie man Berechnungen in den Formularen durchführen lassen kann. Dazu steht eine Auswahl an einfachen Delphi-Befehlen zur Verfügung. Um diese Möglichkeiten zu erweitern und den Usern Programmarbeiten, die immer wiederkehren, abzunehmen, wurden die Befehle um diese RAP-Funktionen ergänzt.
 
 Im Artikel:
 
-**[RAP-Funktionen](/reporting/rap/rap-funktionen)**
+**[RAP-Funktionen](/reporting/rap)**
 
 werden diese in ihrer Syntax dargestellt und (wo nötig) mit einem Beispiel erklärt.
 

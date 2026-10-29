@@ -7,7 +7,9 @@ title: "SetJgIntervall ASD"
 <a id="RAP-Funktion_&quot;SetJgIntervall_ASD&quot;"></a>
 <a id="RAP-Funktion_.22SetJgIntervall_ASD.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 function SetJgIntervall_ASD(Const aJahrgangsliste: String): Boolean;
@@ -15,10 +17,9 @@ function SetJgIntervall_ASD(Const aJahrgangsliste: String): Boolean;
 
 ## Parameter
 
-```text
-aJahrgangsliste    - Liste der Jahrgänge, für die eine Übersicht erzeugt
-                     werden soll
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `aJahrgangsliste` | Liste der Jahrgänge, für die eine Übersicht erzeugt werden soll |
 
 
 ## Beispiel
@@ -32,8 +33,8 @@ Procedure ReportBeforePrint;
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-89) · [SetJgIntervall ASD – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetJgIntervall+ASD&oldid=113)

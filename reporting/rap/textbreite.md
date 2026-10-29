@@ -9,17 +9,17 @@ title: "Textbreite"
 
 ## Beschreibung
 
-```text
- 
-  Textbreite( Report, Label1.Text, Label1.Font );  
-Diese Funktion kann die Breite (in "Reporteinheiten") z.B. eines Labels zur Laufzeit berechnen. Die Funktion kann z.B. benutzt werden, um in Zeugnissen bei den Fächern die Position von "Hochzahlen"  (für Fußnoten) zu ermittlen, damit diese bündig an die Fachbezeichnung anschließen.
+```pascal
+Textbreite( Report, Label1.Text, Label1.Font );
 ```
+
+Diese Funktion kann die Breite (in "Reporteinheiten") z.B. eines Labels zur Laufzeit berechnen. Die Funktion kann z.B. benutzt werden, um in Zeugnissen bei den Fächern die Position von "Hochzahlen"  (für Fußnoten) zu ermittlen, damit diese bündig an die Fachbezeichnung anschließen.
+
 
 ## Parameter
 
-```text
 Report, Label-Text, Label-Font
-```
+
 
 ## Rückgabewert
 
@@ -33,8 +33,8 @@ lblStern.Left := lblFach.Left + wt;
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-958) · [Textbreite – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Textbreite&oldid=3668)

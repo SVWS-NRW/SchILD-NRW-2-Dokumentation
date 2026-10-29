@@ -7,7 +7,9 @@ title: "SchuljahrToStrEx"
 <a id="RAP-Funktion_&quot;SchuljahrToStrEx&quot;"></a>
 <a id="RAP-Funktion_.22SchuljahrToStrEx.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 function SchuljahrToStrEx(aJahr, aAbschnitt: integer; Format: String; AbschnittVorn: Boolean): String;
@@ -15,19 +17,13 @@ function SchuljahrToStrEx(aJahr, aAbschnitt: integer; Format: String; AbschnittV
 
 ## Parameter
 
-```text
-aJahr              - Jahr, in dem das Schuljahr anfing
-aAbschnitt         - Schuljahresabschnitt. Falls aAbschnitt = 0 ist, wird der
-                     String ohne Abschnitt erzeugt
-Format             - Formatanweisung. Text mit Platzhaltern für numerische
-                     Variablen. An der gewünschten Position ist ein %[w]d
-                     einzufügen. Der optionale Parameter w enthält die
-                     gewünschte Breite, falls notwendig, wird linksbündig mit
-                     Nullen aufgefüllt.
-AbschnittVorn      - Wenn AbschnittVorn wahr ist, werden die Parameter in der
-                     Reihenfolge Abschnitt, Jahr, Jahr + 1 aufgefüllt, sonst in
-                     der Reihenfolge Jahr, Jahr + 1, Abschnitt
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `aJahr` | Jahr, in dem das Schuljahr anfing |
+| `aAbschnitt` | Schuljahresabschnitt. Falls aAbschnitt = 0 ist, wird der String ohne Abschnitt erzeugt |
+| `Format` | Formatanweisung. Text mit Platzhaltern für numerische Variablen. An der gewünschten Position ist ein %[w]d einzufügen. Der optionale Parameter w enthält die gewünschte Breite, falls notwendig, wird linksbündig mit Nullen aufgefüllt. |
+| `AbschnittVorn` | Wenn AbschnittVorn wahr ist, werden die Parameter in der Reihenfolge Abschnitt, Jahr, Jahr + 1 aufgefüllt, sonst in der Reihenfolge Jahr, Jahr + 1, Abschnitt |
+
 
 ## Rückgabewert
 
@@ -43,8 +39,8 @@ Ergebnis: lSchuljahrStr = 'Schuljahr 2005/06, 2. Halbjahr'
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-72) · [SchuljahrToStrEx – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SchuljahrToStrEx&oldid=93)

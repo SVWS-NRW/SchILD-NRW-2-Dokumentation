@@ -7,7 +7,9 @@ title: "ReplaceText"
 <a id="RAP-Funktion_&quot;ReplaceText&quot;"></a>
 <a id="RAP-Funktion_.22ReplaceText.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 function ReplaceText(aSourceText, aSearchText,
@@ -16,12 +18,12 @@ function ReplaceText(aSourceText, aSearchText,
 
 ## Parameter
 
-```text
-aSourceText        - Text, der den zu ersetzenden String (selbst
-                     definierter Platzhalter) enthält
-aSearchText        - String, der ersetzt werden soll
-aReplaceText       - String, der eingefügt werden soll
-```
+| Parameter | Bedeutung |
+| --- | --- |
+| `aSourceText` | Text, der den zu ersetzenden String (selbst definierter Platzhalter) enthält |
+| `aSearchText` | String, der ersetzt werden soll |
+| `aReplaceText` | String, der eingefügt werden soll |
+
 
 ## Rückgabewert
 
@@ -34,8 +36,8 @@ Memo1.Text:=ReplaceText(Memo1.Text,'$VORNAME$',Schueler['Vorname']);
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-63) · [ReplaceText – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ReplaceText&oldid=5651)

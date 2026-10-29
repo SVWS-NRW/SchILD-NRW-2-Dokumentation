@@ -7,13 +7,14 @@ title: "LehrerUnterrichtLaden"
 <a id="RAP-Funktion_&quot;LehrerUnterrichtLaden&quot;"></a>
 <a id="RAP-Funktion_.22LehrerUnterrichtLaden.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 Procedure LehrerUnterrichtLaden;
 ```
 
-## Beschreibung
 
 Durch den Aufruf dieser Prozedur werden die Datenquellen
 'KursUnterricht' und 'Klassenunterricht', die beide Detaildatenquellen
@@ -29,8 +30,8 @@ end;
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-43) · [LehrerUnterrichtLaden – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LehrerUnterrichtLaden&oldid=64)

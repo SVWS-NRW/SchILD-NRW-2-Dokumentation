@@ -7,13 +7,14 @@ title: "DateinameFuerDVAuswaehlen"
 <a id="RAP-Funktion_&quot;DateinameFuerDVAuswaehlen&quot;"></a>
 <a id="RAP-Funktion_.22DateinameFuerDVAuswaehlen.22"></a>
 
-## Signatur
+<a id="signatur"></a>
+
+## Beschreibung
 
 ```pascal
 procedure DateinameFuerDVAuswaehlen;
 ```
 
-## Beschreibung
 
 Der Aufruf dieser Prozedur (typischerweise im Ereignis ReportBeforePrint) bewirkt,
 dass vor der Ausgabe eines Reportes als PDF-Datei in der Dokumentenverwaltung
@@ -42,8 +43,8 @@ procedure GlobalOnCreate;
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-125) · [DateinameFuerDVAuswaehlen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=DateinameFuerDVAuswaehlen&oldid=6027)

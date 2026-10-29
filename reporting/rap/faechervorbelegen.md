@@ -10,7 +10,8 @@ title: "Faechervorbelegen"
 ## Beschreibung
 
 ```pascal
-'''procedure Faechervorbelegen;'''
+procedure Faechervorbelegen;
+```
 
 Erzeugt einen Header, der alle bei den gewählten Schülern im gewählten Lernabschnitt
 gefundenen Fächer enthält. Diese Prozedur ist nur nötig und sinnvoll, wenn eine tabellarische
@@ -19,7 +20,7 @@ dieser Prozedur dazu führt, dass die Leistungsdaten aller in der Auswahl befind
 Schüler gelesen werden, damit eine interne Tabelle mit diesen Fächern angelegt werden kann.
 In allen anderen Fällen ist dieser Aufruf unnötig! Nach der Darstellung der Tabelle muss
 unbedingt die Prozedur 'ResetFaechervorbelegung' aufgerufen werden!
-```
+
 
 ## Beispiel
 
@@ -28,8 +29,8 @@ unbedingt die Prozedur 'ResetFaechervorbelegung' aufgerufen werden!
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-19) · [Faechervorbelegen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Faechervorbelegen&oldid=39)

@@ -9,17 +9,17 @@ title: "Datenliste"
 
 ## Beschreibung
 
-```text
- 
-    DatenListe(aDatapipeline: TppDBPipeline; aFeld, aSep: string; duplikate: boolean ): string;
-Diese liefert eine Liste (getrennt durch ein wählbares Trennzeichen ) für ein Feld in einer Datenquelle, mit der Option, ob doppelt auftretende Werte ausgegeben werden sollen oder nicht.
+```pascal
+DatenListe(aDatapipeline: TppDBPipeline; aFeld, aSep: string; duplikate: boolean ): string;
 ```
+
+Diese liefert eine Liste (getrennt durch ein wählbares Trennzeichen ) für ein Feld in einer Datenquelle, mit der Option, ob doppelt auftretende Werte ausgegeben werden sollen oder nicht.
+
 
 ## Parameter
 
-```text
 Datenquelle, Datenfeld,Trennzeichen,true/false
-```
+
 
 ## Rückgabewert
 
@@ -32,8 +32,8 @@ lblBesuchteKlassen.Caption := DatenListe( SchuelerLaufbahn, 'Klasse', ', ', fals
 ```
 
 
----
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
 
-[Alle RAP-Funktionen](/reporting/rap/rap-funktionen)
+---
 
 Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1145) · [Datenliste – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datenliste&oldid=4250)

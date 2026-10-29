@@ -123,7 +123,7 @@ title: "Funktionen im Überblick"
 <!-- -->
 
 - [Reporting-Grundlagen](/reporting/erstellung/reporting)
-  - [RAP-Funktionen](/reporting/rap/rap-funktionen)
+  - [RAP-Funktionen](/reporting/rap)
   - [Reporting Tutorials](/reporting/erstellung/reporting#Reporting_Tutorials)
   - [Beispielreports](/reporting/erstellung/reporting#Beispielreports)
 

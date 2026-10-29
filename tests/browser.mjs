@@ -25,7 +25,7 @@ try {
   })
   await page.route(/https?:\/\/(?:www\.)?(?:youtube(?:-nocookie)?\.com|player\.vimeo\.com)\//, route=>route.fulfill({contentType:'text/html',body:'<html lang="de"><body>Videovorschau für die Browserprüfung</body></html>'}))
   await fs.mkdir('test-results', {recursive:true})
-  const paths = ['/', '/einstieg/', '/administration/installation/schild-nrw-installation.html', '/schild2/import-export-statistik/schnittstellenbeschreibung.html', '/reporting/rap/anrede.html', '/programmreferenz/', '/bilder/', '/hilfe/alle-artikel.html','/tools/','/tools/lupo.html','/tools/ma2lbv.html','/quellen/','/quellen/dateien.html','/tools/enm-notenmanager/leistungsdaten.html','/tools/notenmodul-grundschule/vorbereitung.html','/tools/ma2lbv/abrechnung.html']
+  const paths = ['/', '/einstieg/', '/administration/installation/schild-nrw-installation.html', '/schild2/import-export-statistik/schnittstellenbeschreibung.html', '/reporting/rap.html', '/reporting/rap/anrede.html', '/reporting/rap/aufzaehlungrtf.html', '/reporting/rap/createnotenheader.html', '/programmreferenz/', '/bilder/', '/hilfe/alle-artikel.html','/tools/','/tools/lupo.html','/tools/ma2lbv.html','/quellen/','/quellen/dateien.html','/tools/enm-notenmanager/leistungsdaten.html','/tools/notenmodul-grundschule/vorbereitung.html','/tools/ma2lbv/abrechnung.html']
   for (const width of [1440,390]) for (const dark of [false,true]) {
     await page.setViewportSize({width,height:900})
     for (const route of paths) {
@@ -37,11 +37,27 @@ try {
       const broken=await page.locator('.vp-doc img').evaluateAll(imgs=>imgs.filter(img=>img.loading!=='lazy'&&(!img.complete||!img.naturalWidth)).map(img=>img.src))
       assert.deepEqual(broken,[],route)
       results.push({route,width,dark,overflow:false})
+      if (route==='/reporting/rap.html' || route==='/reporting/rap/anrede.html' || route==='/reporting/rap/aufzaehlungrtf.html') await page.screenshot({path:`test-results/${route==='/reporting/rap.html'?'rap-einstieg':route.includes('anrede')?'rap-anrede':'rap-rtf'}-${width}-${dark?'dark':'light'}.png`})
       if (route==='/' || route==='/programmreferenz/' || route.includes('schild-nrw-installation')) await page.screenshot({path:`test-results/${route==='/'?'start':route.includes('installation')?'installation':'referenz'}-${width}-${dark?'dark':'light'}.png`})
       if (route==='/tools/' || route==='/tools/lupo.html') await page.screenshot({path:`test-results/${route==='/tools/'?'tools':'lupo'}-${width}-${dark?'dark':'light'}.png`})
     }
   }
   await page.setViewportSize({width:1440,height:900})
+  await page.goto(base+'/reporting/rap.html',{waitUntil:'networkidle'})
+  assert.equal(await page.locator('.vp-doc li > a[href^="/reporting/rap/"]').count(),122,'RAP-Einstieg muss alle Funktionen verknüpfen')
+  await page.locator('.vp-doc').getByRole('link',{name:'Anrede',exact:true}).click()
+  await page.waitForURL('**/reporting/rap/anrede.html')
+  await page.waitForFunction(()=>document.querySelector('.vp-doc h1')?.textContent.includes('Anrede'))
+  assert.equal(await page.locator('.vp-doc table tbody tr').count(),6,'Anrede benötigt sechs lesbare Parameterzeilen')
+  assert.equal(await page.locator('.vp-doc h2').allTextContents().then(xs=>xs.map(x=>x.replace(/[\u200b#]/g,'').trim())).then(xs=>xs.join('|')),'Beschreibung|Parameter|Rückgabewert|Beispiel')
+  await page.locator('.vp-doc').getByRole('link',{name:'RAP-Funktionen',exact:true}).click()
+  await page.waitForURL('**/reporting/rap.html')
+  await page.goto(base+'/reporting/rap/rap-funktionen.html#A',{waitUntil:'networkidle'})
+  await page.waitForURL('**/reporting/rap.html#A')
+  assert(await page.locator('.vp-doc #A').count(),'Alte RAP-Buchstabenlinks bleiben erhalten')
+  await page.goto(base+'/reporting/rap/aufzaehlungrtf.html#signatur',{waitUntil:'networkidle'})
+  assert((await page.locator('.vp-doc table').innerText()).includes('<ul>..</ul>'),'RTF-Marken dürfen keine HTML-Listen erzeugen')
+  assert(await page.locator('.vp-doc #signatur').count(),'Alte Signatur-Sprungmarke fehlt')
   await checkSectionMenus(page,base)
   await page.goto(base+'/schild2/import-export-statistik/schnittstellenbeschreibung.html',{waitUntil:'networkidle'})
   assert(await page.locator('.interface-fields').count()>20,'Feldtabellen müssen ihre tatsächliche Layoutklasse erhalten')
