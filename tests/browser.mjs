@@ -2,6 +2,7 @@ import { spawn } from 'node:child_process'
 import fs from 'node:fs/promises'
 import assert from 'node:assert/strict'
 import { checkSectionMenus } from './section-browser.mjs'
+import { checkPetrolTheme } from './petrol-browser.mjs'
 const { chromium } = await import(process.env.PLAYWRIGHT_MODULE || 'playwright')
 const base = 'http://127.0.0.1:4192'
 const server = spawn(process.execPath, ['node_modules/vitepress/bin/vitepress.js', 'preview', '--host', '127.0.0.1', '--port', '4192'], {stdio:'ignore'})
@@ -58,6 +59,7 @@ try {
   await page.goto(base+'/reporting/rap/aufzaehlungrtf.html#signatur',{waitUntil:'networkidle'})
   assert((await page.locator('.vp-doc table').innerText()).includes('<ul>..</ul>'),'RTF-Marken dürfen keine HTML-Listen erzeugen')
   assert(await page.locator('.vp-doc #signatur').count(),'Alte Signatur-Sprungmarke fehlt')
+  await checkPetrolTheme(page,base)
   await checkSectionMenus(page,base)
   await page.goto(base+'/schild2/import-export-statistik/schnittstellenbeschreibung.html',{waitUntil:'networkidle'})
   assert(await page.locator('.interface-fields').count()>20,'Feldtabellen müssen ihre tatsächliche Layoutklasse erhalten')
