@@ -1,0 +1,54 @@
+[
+  {
+    "path": "schild2/unterricht-kataloge/haltestelle.md",
+    "replacement": "/schild2/unterricht-kataloge/haltestellen"
+  },
+  {
+    "path": "hilfe/zusatzprogramme/kurs42-inhaltsverzeichnis.md",
+    "replacement": "/tools/kurs42"
+  },
+  {
+    "path": "hilfe/zusatzprogramme/km2-002.md",
+    "replacement": "/hilfe/zusatzprogramme/km2-001#ersteinrichtung"
+  },
+  {
+    "path": "hilfe/zusatzprogramme/km2-003.md",
+    "replacement": "/hilfe/zusatzprogramme/modulbenutzung"
+  },
+  {
+    "path": "zeugnisse/grundschule/textzeugnisse-erzeugen.md",
+    "replacement": "/tools/notenmodul-grundschule/rueckgabe-und-druck"
+  },
+  {
+    "path": "hilfe/zusatzprogramme/lupo-lupo.md",
+    "replacement": "/tools/lupo"
+  },
+  {
+    "path": "hilfe/zusatzprogramme/lupo-einleitung.md",
+    "replacement": "/tools/lupo/lupo-einleitung"
+  },
+  {
+    "path": "hilfe/zusatzprogramme/kursverwaltung-kplan-exe.md",
+    "replacement": "/hilfe/zusatzprogramme/kursplanung-kplan-exe"
+  },
+  {
+    "path": "schild2/unterricht-kataloge/teilleistungen-einrichten-und-verwalten-1152.md",
+    "replacement": "/schild2/unterricht-kataloge/teilleistungen-einrichten-und-verwalten"
+  },
+  {
+    "path": "zeugnisse/grundschule/grundschulzeugnisse-ankreuzzeugnis.md",
+    "replacement": "/tools/notenmodul-grundschule/leistungsdaten"
+  },
+  {
+    "path": "zeugnisse/grundschule/grundschulzeugnisse-lernstandsberichte.md",
+    "replacement": "/zeugnisse/grundschule"
+  },
+  {
+    "path": "schild2/import-export-statistik/statistik-mit-asdpc-uebersicht-1346.md",
+    "replacement": "/schild2/import-export-statistik/statistik-mit-asdpc-uebersicht"
+  },
+  {
+    "path": "reporting/rap/rap-funktionen.md",
+    "replacement": "/reporting/rap"
+  }
+]

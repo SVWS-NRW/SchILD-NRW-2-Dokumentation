@@ -1,0 +1,29 @@
+{
+  "pageid": 1251,
+  "ns": 0,
+  "title": "Prognos:Analyseverfahren: Klasse",
+  "revisions": [
+    {
+      "revid": 5080,
+      "parentid": 5074,
+      "user": "SpehJ",
+      "timestamp": "2021-11-20T12:30:11Z",
+      "sha1": "31eb6d37e52b01591c59e2c6acf43d4ffaaf7c78",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Nach der Auswahl des Analyseverfahrens für eine Klasse erscheint zuerst das Auswahlfenster Klasse:\n\n[[File:PM2 Auswahl K01.png|border=20|links|]]\n<br clear=all>\n\n\nNach der Auswahl einer Klasse öffnet sich das Hauptfenster, wo die weitere Arbeit mit dem Programm erfolgt."
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2021-11-20T12:30:11Z",
+  "lastrevid": 5080,
+  "length": 272
+}

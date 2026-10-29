@@ -1,0 +1,29 @@
+{
+  "pageid": 347,
+  "ns": 0,
+  "title": "Kurse neu laden (nach Bearbeitung in Kurs42)",
+  "revisions": [
+    {
+      "revid": 1527,
+      "parentid": 1526,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-03-04T20:02:09Z",
+      "sha1": "7dffc659359a605d76b0df2e4737811daad2bf12",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Bei der Arbeit mit der Kombination Schild-NRW und Kurs42 kann es vorkommen, dass ein Kurs42-Bearbeiter die Blockungsdaten eines Jahrgangs bei geöffneter Schild-Datenbank in diese exportiert.\n\nDa Schild-NRW nicht automatisch in regelmäßigen Abständen die Tabelle der vorhandenen Kurse aktualisiert, kann es vorkommen, dass die neuen Kurse und Kurswahlen nicht angezeigt werden.\n\nDieser Menüpunkt aktualisiert die Anzeige.\nEin Neustart von Schild-NRW sollte das Gleiche bewirken.\n\n\n----\n\n\n[[Extras|Zurück zu Extras]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-03-04T20:02:09Z",
+  "lastrevid": 1527,
+  "length": 520
+}

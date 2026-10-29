@@ -1,0 +1,29 @@
+{
+  "pageid": 1428,
+  "ns": 8,
+  "title": "MediaWiki:Sitenotice",
+  "revisions": [
+    {
+      "revid": 5934,
+      "parentid": 5933,
+      "user": "AStassek",
+      "timestamp": "2024-07-25T12:17:15Z",
+      "sha1": "3bc15c8aae3e4124dd409035f32ea2fd6835efc9",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "-"
+        }
+      },
+      "comment": "Der Seiteninhalt wurde durch einen anderen Text ersetzt: „-“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2024-07-25T12:17:15Z",
+  "lastrevid": 5934,
+  "length": 1
+}

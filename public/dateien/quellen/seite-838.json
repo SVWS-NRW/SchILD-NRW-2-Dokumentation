@@ -1,0 +1,30 @@
+{
+  "pageid": 838,
+  "ns": 6,
+  "title": "Datei:Sortierung-04.png",
+  "revisions": [
+    {
+      "revid": 3211,
+      "parentid": 0,
+      "user": "BPanzlaff",
+      "timestamp": "2015-06-01T11:10:39Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-06-01T11:10:39Z",
+  "lastrevid": 3211,
+  "length": 0,
+  "new": ""
+}

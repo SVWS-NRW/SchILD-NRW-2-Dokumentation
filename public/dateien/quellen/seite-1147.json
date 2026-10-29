@@ -1,0 +1,29 @@
+{
+  "pageid": 1147,
+  "ns": 6,
+  "title": "Datei:Tl1.jpg",
+  "revisions": [
+    {
+      "revid": 4258,
+      "parentid": 4257,
+      "user": "FMüller",
+      "timestamp": "2019-12-07T18:46:24Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": "FMüller lud eine neue Version von [[Datei:Tl1.jpg]] hoch"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2019-12-07T18:46:24Z",
+  "lastrevid": 4258,
+  "length": 0
+}

@@ -1,0 +1,30 @@
+{
+  "pageid": 76,
+  "ns": 0,
+  "title": "SelectErzFunktion",
+  "revisions": [
+    {
+      "revid": 97,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T16:56:00Z",
+      "sha1": "11bf02131ee302f0a8bf2a64ab3a676783bdf538",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    function SelectErzFunktion: String;\n    Diese Funktion bietet alle im Feld „Funktion“ im Katalog „Erzieher-Funktionen“\n    gefundenen Einträge zur Auswahl an.\n|-\n|'''Parameter''' || \n    ...\n|-\n|'''Rückgabewert''' ||\n    Erzieherfunktion\n\n|- \n|'''Beispiel''' || \n    Siehe „Filtererzieherfunktion“\n\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      function SelectErzFunktion: String;     Diese Funktion bietet alle im Fel…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T16:56:00Z",
+  "lastrevid": 97,
+  "length": 440,
+  "new": ""
+}

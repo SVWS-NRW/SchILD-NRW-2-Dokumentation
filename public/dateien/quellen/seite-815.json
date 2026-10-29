@@ -1,0 +1,30 @@
+{
+  "pageid": 815,
+  "ns": 6,
+  "title": "Datei:Versetzung-GS-05.png",
+  "revisions": [
+    {
+      "revid": 3160,
+      "parentid": 0,
+      "user": "BPanzlaff",
+      "timestamp": "2015-05-30T11:09:35Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-06-01T08:35:59Z",
+  "lastrevid": 3160,
+  "length": 0,
+  "new": ""
+}

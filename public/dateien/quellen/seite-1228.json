@@ -1,0 +1,30 @@
+{
+  "pageid": 1228,
+  "ns": 6,
+  "title": "Datei:ASDPCErhebungStarten.jpg",
+  "revisions": [
+    {
+      "revid": 4851,
+      "parentid": 0,
+      "user": "FFrodermann",
+      "timestamp": "2021-09-09T09:38:26Z",
+      "sha1": "b478e1999367ccdb0501c25f1fae3007941f7f02",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "== Beschreibung ==\nASPDC Erhebung starten\n\n[Erstellt aus ASDPC]"
+        }
+      },
+      "comment": "ASPDC Erhebung starten\n\n[Erstellt aus ASDPC]"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-01-04T09:17:10Z",
+  "lastrevid": 4851,
+  "length": 63,
+  "new": ""
+}

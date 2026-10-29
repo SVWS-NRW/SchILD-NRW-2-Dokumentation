@@ -1,0 +1,29 @@
+{
+  "pageid": 1169,
+  "ns": 0,
+  "title": "Inhaltsverzeichnis",
+  "revisions": [
+    {
+      "revid": 5938,
+      "parentid": 5937,
+      "user": "ASchueller",
+      "timestamp": "2024-07-26T07:18:39Z",
+      "sha1": "07ee6ceda4c231c5b104940746db26a404d807f3",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "__NOTOC__\n\n{{Spalten|4|200px|3=\n*[[Schild-NRW-Index]]\n**[[Datei]]\n**[[Hauptfenster]]\n***[[Karteikasten]]\n***[[Hauptfenster#Schnellfilter|Schnellfilter]]\n***[[Container]]\n***[[Hauptfenster#Karteireiter|Karteireiter]]\n**[[Schulverwaltung]]\n***[[Schule bearbeiten]]\n***[[Lehrkräfte]]\n***[[Statistik-Jahrgänge]]\n***[[Klassen-/Versetzungstabelle]]\n***[[Klassengruppen/Abteilungen]]\n***[[Unterrichtsfächer]]\n***[[Stundentafeln]]\n***[[Schülerspezifische Kursarten]] \n***[[Kurse]]\n***[[Zeugnisvorlagen zuordnen]]\n***[[Teilleistungs-Arten]]\n***[[Vermerk-Arten]]\n***[[\"Floskeln\" bearbeiten]]\n***[[Einwilligungen]]\n***[[Angaben für Ankreuzzeugnisse/-kompetenzen]]\n***[[Erzieher-Funktionen]]\n***[[Erzieher mit schulinternen Funktionen]]\n***[[Personengruppen]]\n***[[Lernplattformen]]\n***[[Statistik / amtliche Schuldaten]]\n**[[Kataloge]]\n***[[Konfessionen]]\n***[[Staatsangehörigkeiten / Herkunftsländer]]\n***[[Förderschwerpunkte]]\n***[[Verkehrssprachen]]\n***[[Erzieher-Arten]]\n***[[Fahrschüler-Arten]]\n***[[Telefonische Ansprechpartner]]\n***[[Sportbefreiungen]]\n***[[Entlassungs-Bemerkungen]]\n***[[Adress-Arten]]\n***[[Allgemeine Adressen]]\n***[[Orte]]\n***[[Ortsteile]]\n***[[Haltestellen]]\n***[[Kindergärten]]\n***[[Schulen in NRW]]\n***[[Andere Schulen und Schulnummern]]\n**[[Auswahl]]\n***[[Standard-Auswahl laden]]\n***[[Vorhandene Filterdefinition laden]]\n***[[Vorhandene Filterdefinition löschen]]\n***[[Attributsfilter|Attributsfilter erstellen]]\n***[[Filter I]]\n***[[Filter II]]\n***[[Filter auf fehlende Einträge]]\n***[[Schüler mit Statistik-Fehlern zeigen]]\n***[[Nur Schüler mit Geschwistern zeigen]]\n***[[Schüler mit fehlendem Abschnitt (Status=Aktiv,..)]]\n***[[Schüler mit fehlendem Abschnitt (Status=Abgang,..)]]\n***[[Schüler ohne Fächer]]\n***[[Individuelle Schülergruppe bearbeiten]]\n***[[Individuelle Schülergruppe auswählen]]\n***[[Papierkorb zeigen]]\n**[[Gruppenprozesse]]\n***[[Allgemeines]]\n***[[Fächer]]\n***[[Teilleistungen]]\n***[[Noten, Zeugnisvorbereitung]]\n***[[Lernabschnitte, Versetzung]]\n***[[Gruppenaktionen Abitur]]\n**[[Druckausgabe]]\n***[[Reportexplorer aufrufen]]\n***[[Standard-Formulare drucken]]\n***[[Aus Archiv drucken]]\n***[[Word-Seriendruck]]\n***[[Textzeugnisse zuordnen]]\n***[[Textzeugnisse erzeugen]]\n**[[Datenaustausch]]\n***[[Externes Notenmodul]]\n***[[Export in Text-/Excel-Dateien]]\n***[[Import aus Textdateien]]\n***[[Schnittstelle Schild-NRW]]\n***[[Export für Lupo]]\n***[[Weitere Exporte]]\n****[[XML-Export für Lupo]]\n****[[Daten für IServ exportieren]]\n****[[JaNa-Export]]\n****[[Export für Startklar]]\n****[[Export für Komm mit]]\n****[[Abitur-Daten exportieren]]\n****[[ZP10-Daten exportieren]]\n****[[Wohnortdaten exportieren]]\n***[[Unterrichtsdaten (als Excel Dateien) importieren]]\n***[[Excel-Notendateien]]\n***[[Fotos]]\n***[[Kataloge exportieren]]\n***[[UVD-Datei importieren]]\n***[[Einstellungen exportieren]]\n***[[Einstellungen importieren]]\n**[[Extras]]\n**[[Datenschutzhinweis]]\n**[[Hilfe]]\n**[[Benutzer]]\n**[[Zusatzprogramme / Tools]]\n\n\n*Schild-NRW Anleitungen und Hilfen\n**[[Schild-NRW-Tutorials]]\n**[https://schulverwaltungsinfos.nrw.de/svws/forum/viewforum.php?f=26 FAQ - häufig gestellte Fragen]\n**[[Schild-NRW Installation|Installationsanleitung]]\n\n*[[Versionsgeschichte Schild-NRW]]\n\n*[[Reporting]]\n**[[RAP-Funktionen]]\n**[[Reporting#Reporting Tutorials|Reporting Tutorials]]\n**[[Reporting#Beispielreports|Beispielreports]]\n}}\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Hauptseite|Zurück zur Hauptseite]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2024-07-26T07:18:39Z",
+  "lastrevid": 5938,
+  "length": 3456
+}

@@ -1,0 +1,30 @@
+{
+  "pageid": 360,
+  "ns": 6,
+  "title": "Datei:GP-Vermerkeloeschen.jpg",
+  "revisions": [
+    {
+      "revid": 1562,
+      "parentid": 0,
+      "user": "Mhoffmann",
+      "timestamp": "2014-03-05T11:29:05Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-03-05T11:29:28Z",
+  "lastrevid": 1562,
+  "length": 0,
+  "new": ""
+}

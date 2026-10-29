@@ -1,0 +1,30 @@
+{
+  "pageid": 1314,
+  "ns": 6,
+  "title": "Datei:ASDPC Wohnorte.png",
+  "revisions": [
+    {
+      "revid": 5149,
+      "parentid": 0,
+      "user": "FFrodermann",
+      "timestamp": "2022-01-03T09:37:24Z",
+      "sha1": "cf27da09bc52a3d1219889cfff38007ac5e21963",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "== Beschreibung ==\nASDPC Wohnorte"
+        }
+      },
+      "comment": "ASDPC Wohnorte"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-01-22T10:02:20Z",
+  "lastrevid": 5149,
+  "length": 33,
+  "new": ""
+}

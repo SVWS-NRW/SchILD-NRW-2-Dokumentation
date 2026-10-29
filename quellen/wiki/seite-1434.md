@@ -1,0 +1,22 @@
+---
+search: false
+sidebar: false
+outline: false
+title: "Wiki-Quelle: Datei:FehlerE89.png"
+---
+
+# Datei:FehlerE89.png
+
+Gesicherte Wiki-Seite · Namensraum 6 · Version 5965 · Stand 2024-08-30.
+
+[Originaldaten herunterladen](/dateien/quellen/seite-1434.json) · [Zum Quellenarchiv](/quellen/)
+
+[Gesicherte Originaldatei öffnen](/bilder/schild2/schueler/fehlere89.png)
+
+![FehlerE89.png](/bilder/schild2/schueler/fehlere89.png)
+
+## Originalquelltext
+
+```text
+
+```

@@ -1,0 +1,30 @@
+{
+  "pageid": 425,
+  "ns": 6,
+  "title": "Datei:ZuegnisZU01.jpg",
+  "revisions": [
+    {
+      "revid": 1749,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-03-11T12:14:35Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-03-11T12:16:48Z",
+  "lastrevid": 1749,
+  "length": 0,
+  "new": ""
+}

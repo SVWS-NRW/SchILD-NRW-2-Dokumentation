@@ -1,0 +1,29 @@
+{
+  "pageid": 237,
+  "ns": 0,
+  "title": "JG-Tabelle-GE",
+  "revisions": [
+    {
+      "revid": 1038,
+      "parentid": 995,
+      "user": "UMertsch",
+      "timestamp": "2014-01-28T04:48:08Z",
+      "sha1": "8c9b833085b8a95306345f72f20b646e7eeba75a",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "[[Image:JG Tabelle GE.jpg|Center|700px]]\n\n\n\nTypische Jahrgangstabelle für eine Gesamtschule mit Quartalsbetrieb.\n\nAn den Restabschnitten sieht man, dass jedes Schuljahr vier Abschnitte hat.\nAußerdem endet die Sekundarstufe I zunächst im Jahrgang 10.\n\n----\n\n[[Statistik-Jahrgänge|Zurück zu Statistik-Jahrgänge]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-01-28T04:48:08Z",
+  "lastrevid": 1038,
+  "length": 316
+}

@@ -1,0 +1,30 @@
+{
+  "pageid": 1124,
+  "ns": 6,
+  "title": "Datei:Unterbericht 002.png",
+  "revisions": [
+    {
+      "revid": 4141,
+      "parentid": 0,
+      "user": "JStaratschek",
+      "timestamp": "2017-05-21T18:52:54Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2017-05-21T19:21:26Z",
+  "lastrevid": 4141,
+  "length": 0,
+  "new": ""
+}

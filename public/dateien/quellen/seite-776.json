@@ -1,0 +1,29 @@
+{
+  "pageid": 776,
+  "ns": 6,
+  "title": "Datei:Reportverzeichnisse.jpg",
+  "revisions": [
+    {
+      "revid": 3697,
+      "parentid": 3002,
+      "user": "Pfotenhauer",
+      "timestamp": "2015-11-19T15:49:04Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": "Pfotenhauer lud eine neue Version von „[[Datei:Reportverzeichnisse.jpg]]“ hoch"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-11-19T15:49:04Z",
+  "lastrevid": 3697,
+  "length": 0
+}

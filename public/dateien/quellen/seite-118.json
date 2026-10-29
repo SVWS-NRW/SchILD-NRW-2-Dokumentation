@@ -1,0 +1,30 @@
+{
+  "pageid": 118,
+  "ns": 0,
+  "title": "AnzahlElemente",
+  "revisions": [
+    {
+      "revid": 162,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-06T09:34:42Z",
+      "sha1": "1734a0eac5731915074bcd3d19b94d3e3afc53e8",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    function AnzahlElemente( const text, trennzeichen: string ): integer;\n    Liefert die Anzahl der durch das Trennzeichen getrennten Einzelelemente in \"text\"\n|-\n|'''Parameter''' || \n    text: der zu analysierende Text\n    trennzeichen: Das Trennzeichen\n|-\n|'''Rückgabewert''' ||\n    Integerwert der Elementanzahl.\n|- \n|'''Beispiel''' || \n    txt := '1,2,3,4':\n    if AnzahlElemente( txt, ',' ) > 2 then\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      function AnzahlElemente( const text, trennzeichen: string ): integer;    …“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-06T09:34:42Z",
+  "lastrevid": 162,
+  "length": 529,
+  "new": ""
+}

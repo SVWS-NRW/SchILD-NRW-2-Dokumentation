@@ -1,0 +1,30 @@
+{
+  "pageid": 1230,
+  "ns": 6,
+  "title": "Datei:ASDPCSchluesselerstellung.jpg",
+  "revisions": [
+    {
+      "revid": 4853,
+      "parentid": 0,
+      "user": "FFrodermann",
+      "timestamp": "2021-09-09T09:39:18Z",
+      "sha1": "7554484a3fe945d54e29a18d83fb1a95cacf5868",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "== Beschreibung ==\nASDPC Schlüsselerstellung\n\n[Erstellt aus ASDPC]"
+        }
+      },
+      "comment": "ASDPC Schlüsselerstellung\n\n[Erstellt aus ASDPC]"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-01-04T08:55:11Z",
+  "lastrevid": 4853,
+  "length": 67,
+  "new": ""
+}

@@ -1,0 +1,30 @@
+{
+  "pageid": 895,
+  "ns": 6,
+  "title": "Datei:Fehlzeiten005.png",
+  "revisions": [
+    {
+      "revid": 3399,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2015-07-30T14:11:14Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-07-30T14:16:23Z",
+  "lastrevid": 3399,
+  "length": 0,
+  "new": ""
+}

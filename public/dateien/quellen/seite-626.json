@@ -1,0 +1,30 @@
+{
+  "pageid": 626,
+  "ns": 6,
+  "title": "Datei:Textverarbeitungsprogramm.png",
+  "revisions": [
+    {
+      "revid": 2423,
+      "parentid": 0,
+      "user": "BPanzlaff",
+      "timestamp": "2014-08-09T09:39:40Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-08-09T09:39:40Z",
+  "lastrevid": 2423,
+  "length": 0,
+  "new": ""
+}

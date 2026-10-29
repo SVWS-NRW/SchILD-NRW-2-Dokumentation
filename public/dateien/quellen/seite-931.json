@@ -1,0 +1,29 @@
+{
+  "pageid": 931,
+  "ns": 6,
+  "title": "Datei:SPD-02.png",
+  "revisions": [
+    {
+      "revid": 3511,
+      "parentid": 3510,
+      "user": "BPanzlaff",
+      "timestamp": "2015-09-07T08:44:28Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": "BPanzlaff lud eine neue Version von „[[Datei:SPD-02.png]]“ hoch"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-09-07T08:44:28Z",
+  "lastrevid": 3511,
+  "length": 0
+}

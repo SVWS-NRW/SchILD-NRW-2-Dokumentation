@@ -1,0 +1,30 @@
+{
+  "pageid": 109,
+  "ns": 0,
+  "title": "Zahlwort",
+  "revisions": [
+    {
+      "revid": 134,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T19:01:11Z",
+      "sha1": "9bc0d6aaf098639275bfcee38ff6fbc46a1f206c",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    function Zahlwort(aZahl: String): String;\n|-\n|'''Parameter''' || \n    aZahl  - Zahl in numerischer Darstellung\n|-\n|'''Rückgabewert''' ||\n    Zahl in Textform\n|- \n|'''Beispiel''' || \n    Label1.Caption:=Zahlwort('3,51');\n    Ergebnis: 'Drei-Komma-Fünf-Eins'\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      function Zahlwort(aZahl: String): String; |- |'''Parameter''' ||      aZa…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T19:01:11Z",
+  "lastrevid": 134,
+  "length": 386,
+  "new": ""
+}

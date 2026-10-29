@@ -1,0 +1,30 @@
+{
+  "pageid": 499,
+  "ns": 0,
+  "title": "Abitur-Jahr setzen (für Statistik)",
+  "revisions": [
+    {
+      "revid": 2055,
+      "parentid": 0,
+      "user": "Mhoffmann",
+      "timestamp": "2014-04-07T07:24:31Z",
+      "sha1": "84f03b246186acb5c89bdfe8f1e13a126df3eaa2",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Dieser Gruppenprozess bildet den Abschluss für die Berechnungen in SchILD und setzt bei allen ausgewählten Schülern das Abitur-Jahr. Dies ist besonders für die Statistik und evtl. weiteren Datenaustausch wichtig, damit z.B. die richtigen Ergebnisse für den Export der Abiturergebnisse zur Verfügung gestellt werden können.\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Gruppenprozesse Abitur|Zurück zu Gruppenprozesse Abitur]]"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „Dieser Gruppenprozess bildet den Abschluss für die Berechnungen in SchILD und setzt bei allen ausgewählten Schülern das Abitur-Jahr. Dies ist besonders für…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-04-07T07:24:31Z",
+  "lastrevid": 2055,
+  "length": 425,
+  "new": ""
+}

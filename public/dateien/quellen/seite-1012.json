@@ -1,0 +1,29 @@
+{
+  "pageid": 1012,
+  "ns": 6,
+  "title": "Datei:Klasse versetzungsdetails jg.png",
+  "revisions": [
+    {
+      "revid": 3884,
+      "parentid": 3881,
+      "user": "JRaffenberg",
+      "timestamp": "2016-08-25T06:05:20Z",
+      "sha1": "304d8788fc1f7710b257e317f61fa472e891b798",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Einstellungen für die Grundschule in der Klassen-Versetzungstabelle -> Details bei jahrgangsgleichen Unterricht."
+        }
+      },
+      "comment": "JRaffenberg lud eine neue Version von „[[Datei:Klasse versetzungsdetails jg.png]]“ hoch: Grundschule Klassen-Versetzungstabelle: EInstellungen bei jahrgangsgemischtem Unterricht"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2017-05-23T11:27:53Z",
+  "lastrevid": 3884,
+  "length": 113
+}

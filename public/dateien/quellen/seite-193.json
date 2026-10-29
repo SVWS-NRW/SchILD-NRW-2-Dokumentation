@@ -1,0 +1,29 @@
+{
+  "pageid": 193,
+  "ns": 0,
+  "title": "Entlassungs-Bemerkungen",
+  "revisions": [
+    {
+      "revid": 527,
+      "parentid": 526,
+      "user": "FKrebbing",
+      "timestamp": "2013-12-10T22:54:10Z",
+      "sha1": "a202811b615f58301feb74369a34a764387b4aa1",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Die, auf der Registerkarte \"Schulbesuch\" im Unterpunkt \"Entlassung von eigener Schule\" -> \"Bemerkung/Entlassgrund\" zur VErfügung stehenden Einträge, müssen in diesem Katalog zuerst bereitgestellt werden. \n[[Datei:Entlassgründe.jpg|rechts]]\n\n\nSollten sie weitere Einträge ergänzen wollen (wie z.B. \"Bildungsabbruch\" an den BKs), können Sie das hier durch Anklicken des \"+\"-Zeichens tun. \n\nDie Anzeige-Reihenfolge im 'Drop-Down-Menü' können Sie hier ebenfalls einstellen. \n\n\nZurück zur Übersicht der [[Kataloge]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-12-10T22:54:10Z",
+  "lastrevid": 527,
+  "length": 521
+}

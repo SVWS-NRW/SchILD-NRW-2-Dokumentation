@@ -1,0 +1,30 @@
+{
+  "pageid": 528,
+  "ns": 6,
+  "title": "Datei:KM2.jpg",
+  "revisions": [
+    {
+      "revid": 2166,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-05-19T15:09:43Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-05-21T16:55:03Z",
+  "lastrevid": 2166,
+  "length": 0,
+  "new": ""
+}

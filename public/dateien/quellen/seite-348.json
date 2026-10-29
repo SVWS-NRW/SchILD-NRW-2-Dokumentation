@@ -1,0 +1,29 @@
+{
+  "pageid": 348,
+  "ns": 0,
+  "title": "Fächer in Leistungsdaten neu sortieren",
+  "revisions": [
+    {
+      "revid": 2050,
+      "parentid": 1935,
+      "user": "UMertsch",
+      "timestamp": "2014-04-02T08:48:37Z",
+      "sha1": "7fb0b0458530866b81d8b914dcbb926be0d759f2",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Nach einem Import von Fächern über die [[Schnittstelle Schild-NRW]] oder nach einer Neusortierung der Fächer unter [[Schulverwaltung]] > [[Unterrichtsfächer]] befinden sich die Fächer in den Leistungsdaten der Schüler i.d.R. noch in der falschen Sortierung.\n\nDiese Sortierung kann mit dem Menüpunkt für angegebene Schuljahre (Abschnitte) neu angestoßen werden.\n\nSchild-NRW sortiert die Fächer dabei nach der Einstellung des Statistik-Jahrgangs (SI oder SII).\n\nDa dies bei Berufskollegs sehr zeitaufwändig sein kann, steht diese Funktion bei der Schulform BK als Gruppenprozess zur Verfügung und kann z.B. klassenweise angestoßen werden.\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Fächer|Zurück zu Fächer]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-04-02T08:48:37Z",
+  "lastrevid": 2050,
+  "length": 715
+}

@@ -1,0 +1,29 @@
+{
+  "pageid": 125,
+  "ns": 0,
+  "title": "DateinameFuerDVAuswaehlen",
+  "revisions": [
+    {
+      "revid": 6027,
+      "parentid": 177,
+      "user": "JRaffenberg",
+      "timestamp": "2025-06-09T10:00:51Z",
+      "sha1": "5080780baff949f149345a1cf5e56bd8fea24bdf",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n procedure DateinameFuerDVAuswaehlen;\n Der Aufruf dieser Prozedur (typischerweise im Ereignis ReportBeforePrint) bewirkt,\n dass vor der Ausgabe eines Reportes als PDF-Datei in der Dokumentenverwaltung\n ein individueller Dateiname eingegeben werden kann. Dieser Name wird dann bei\n der Ermittlung des „schülerspezifischen“ Dateinamens anstelle des Namens der\n Reportvorlage verwendet. Dies ist besonders bei Serienbriefvorlagen hilfreich, bei\n denen der Briefinhalt zur Laufzeit aus einer RTF-Datei geladen wird.\n|-\n|'''Parameter''' || \n    ...\n|-\n|'''Rückgabewert''' ||\n Die Reportvorlage heißt „RTFBrief.rtm“, der nachgeladene RTF-Brieftext heißt \"Hausaufgaben.rtf\". Normalerweise würde dann die in der\n Dokumentenverwaltung des Schülers abgelegte Datei z.B. den Namen\n „Hausaufgaben_2013_05_24.pdf“ erhalten, d.h. aus dem Dateinamen geht die Bedeutung\n des Schreibens bereits hervor. Durch Aufruf von „DateinameFuerDVAuswaehlen“ kann\n aber ein Dialog aufgerufen werden, in dem ein individueller Name definiert werden\n kann (z.B. „Hausaufgaben - Zweite Information“), woraus sich dann der Dateinamen\n „Hausaufgaben - Zweite Information_2013_05_24.pdf“ ergibt.\n|- \n|'''Beispiel''' || \n procedure GlobalOnCreate;\n  begin\n   DateinameFuerDVAuswaehlen;\n  end;\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2025-06-09T10:00:51Z",
+  "lastrevid": 6027,
+  "length": 1410
+}

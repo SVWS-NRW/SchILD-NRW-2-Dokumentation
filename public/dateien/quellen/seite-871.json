@@ -1,0 +1,30 @@
+{
+  "pageid": 871,
+  "ns": 6,
+  "title": "Datei:Lupo schild unterrichtsfaecher.png",
+  "revisions": [
+    {
+      "revid": 3317,
+      "parentid": 0,
+      "user": "JRaffenberg",
+      "timestamp": "2015-07-21T20:55:06Z",
+      "sha1": "30d6a3c72ecceec7d5ebc6b471bfdfa4dd9e9a96",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Das Bild zeigt den Dialog \"Unterrichtsfächer bearbeiten\" in Schild-NRW. Dort werden die Fächer der Oberstufe für Lupo definiert."
+        }
+      },
+      "comment": "Das Bild zeigt den Dialog \"Unterrichtsfächer bearbeiten\" in Schild-NRW. Dort werden die Fächer der Oberstufe für Lupo definiert."
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-07-21T20:55:06Z",
+  "lastrevid": 3317,
+  "length": 131,
+  "new": ""
+}

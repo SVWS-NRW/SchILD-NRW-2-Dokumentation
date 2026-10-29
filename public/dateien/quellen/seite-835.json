@@ -1,0 +1,29 @@
+{
+  "pageid": 835,
+  "ns": 0,
+  "title": "Sortierung ändern",
+  "revisions": [
+    {
+      "revid": 3214,
+      "parentid": 3213,
+      "user": "BPanzlaff",
+      "timestamp": "2015-06-01T11:14:05Z",
+      "sha1": "eb7a13387c93b6776299c2d382252bf14f2c776f",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Schild-NRW hat standardmäßig eine Sortierung von Klasse, Name, Vorname eingestellt, welche auch durch die meisten Reports übernommen wird.\n\nMöchte man nun eine andere Reihenfolge (z.B. rein alphabetisch oder nach der aufnehmenden Schule) einstellen, so muss man in Schild-NRW zuerst die Sortierung verändern.\n\nKlicken Sie dazu auf die Hand mit den farbigen Punkten!\n\n\n[[Datei:Sortierung-01.png]]\n\n\nEs öffnet sich nun ein Dialogfeld, in dem man die Sortierung bestimmen kann:\n\n\n[[Datei:Sortierung-02.png|200px]]\n\n\nDurch Anklicken des gewünschten Datenfeldes kann man nun mit Hilfe der '''>''' oder '''<''' Tasten die Kriterien für die Sortierung neu einstellen.\n\n[[Datei:Sortierung-03.png|200px]]\n\nMit den roten Pfeiltasten kann man sogar die Reihenfolge der Sortierung festlegen.\n\n[[Datei:Sortierung-04.png|200px]]\n\nFür die Liste der aufnehmenden Schulen muss die Sortierung wie im Fenster gezeigt eingestellt werden. (Vergessen Sie bitte nicht, nach dem Druck wieder die '''Standardsortierung''' einzustellen!)\n\nFür die Liste der aufnehmenden Schulen muss für alle Schüler unter ''Schulbesuch'' eine Schule eingetragen sein.\n\n[[Datei:Sortierung-05.png|200px]]\n\nSollten Schüler keine Schule eingetragen haben, so werden diese auf der ersten Seite des Reports gemeinsam ausgegeben.\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Schild-NRW-Tutorials|Zurück zur Schild-NRW-Tutorials]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-06-01T11:14:16Z",
+  "lastrevid": 3214,
+  "length": 1386
+}

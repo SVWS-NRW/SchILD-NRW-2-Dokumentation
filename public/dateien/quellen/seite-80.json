@@ -1,0 +1,29 @@
+{
+  "pageid": 80,
+  "ns": 0,
+  "title": "SelectNotenliste",
+  "revisions": [
+    {
+      "revid": 102,
+      "parentid": 101,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T17:00:56Z",
+      "sha1": "20e129b982f38a3766f7c53446b55ca4be173e10",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    procedure SelectNotenliste;\n    Bietet die Möglichkeit zur Auswahl einer Notendefinitionsdatei, lädt diese und\n|-\n|'''Parameter''' || \n    ...\n|-\n|'''Rückgabewert''' ||\n    ...\n|- \n|'''Beispiel''' || \n    Siehe auch : [[LoadNotenliste]]\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T17:01:15Z",
+  "lastrevid": 102,
+  "length": 367
+}

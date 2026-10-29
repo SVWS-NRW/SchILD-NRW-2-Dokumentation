@@ -1,0 +1,30 @@
+{
+  "pageid": 55,
+  "ns": 0,
+  "title": "NurErzieherMitAnschreiben",
+  "revisions": [
+    {
+      "revid": 76,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T16:20:08Z",
+      "sha1": "ebb70e580d2607cad7dea6175cae2d0c317118a8",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    procedure NurErzieherMitAnschreiben(Filtern: Boolean);\n|-\n|'''Parameter''' || \n    Filtern  - TRUE, falls nur Erzieher berücksichtigt werden sollen, bei\n               denen das Flag „Erhält Anschreiben“ gesetzt ist.\n|-\n|'''Rückgabewert''' ||\n    ...\n|- \n|'''Beispiel''' || \n    Procedure ReportBeforePrint;\n     begin\n       NurErzieherMitAnschreiben(True);\n     end;\n\n    Procedure ReportAfterPrint;\n    begin\n      NurErzieherMitAnschreiben(False);\n    end;\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      procedure NurErzieherMitAnschreiben(Filtern: Boolean); |- |'''Parameter''…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T16:20:08Z",
+  "lastrevid": 76,
+  "length": 595,
+  "new": ""
+}

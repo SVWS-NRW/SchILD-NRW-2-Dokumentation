@@ -1,0 +1,29 @@
+{
+  "pageid": 1105,
+  "ns": 6,
+  "title": "Datei:Lupo schueler bearbeiten 1.png",
+  "revisions": [
+    {
+      "revid": 4102,
+      "parentid": 4101,
+      "user": "JRaffenberg",
+      "timestamp": "2017-03-10T11:50:25Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": "JRaffenberg lud eine neue Version von „[[Datei:Lupo schueler bearbeiten 1.png]]“ hoch"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2017-03-10T11:52:09Z",
+  "lastrevid": 4102,
+  "length": 0
+}

@@ -1,0 +1,30 @@
+{
+  "pageid": 33,
+  "ns": 0,
+  "title": "GetSqlText",
+  "revisions": [
+    {
+      "revid": 54,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T15:11:18Z",
+      "sha1": "5de73587835dc584768ae0acd2c7572e882b3540",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    function GetSqlText(aPipeline: TppDatapipeline): String;\n    liefert den Text der SQL-Abfrage, die der als Parameter übergebenen\n    Datenquelle zugrunde liegt.\n|-\n|'''Parameter''' || \n    aPipeline  - Name der Datenpipeline\n|-\n|'''Rückgabewert''' ||\n    SqlText, falls die Pipeline eine DB-Pipeline ist, sonst ein leerer String\n|- \n|'''Beispiel''' || \n    ShowMessage('Abfragetext: ' + GetSqlText(Schueler))\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      function GetSqlText(aPipeline: TppDatapipeline): String;     liefert den …“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T15:11:18Z",
+  "lastrevid": 54,
+  "length": 538,
+  "new": ""
+}

@@ -1,0 +1,30 @@
+{
+  "pageid": 1234,
+  "ns": 6,
+  "title": "Datei:ASDUpdate.jpg",
+  "revisions": [
+    {
+      "revid": 4857,
+      "parentid": 0,
+      "user": "FFrodermann",
+      "timestamp": "2021-09-09T09:43:19Z",
+      "sha1": "9e8f687ae3690b62b22c6901732cf296aa0e4d3b",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "== Beschreibung ==\nUpdateschaltfläche\n\n[Erstellt aus ASDPC]"
+        }
+      },
+      "comment": "Updateschaltfläche\n\n[Erstellt aus ASDPC]"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-01-04T09:00:12Z",
+  "lastrevid": 4857,
+  "length": 60,
+  "new": ""
+}

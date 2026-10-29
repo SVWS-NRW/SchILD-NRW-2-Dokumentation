@@ -1,0 +1,29 @@
+{
+  "pageid": 1435,
+  "ns": 6,
+  "title": "Datei:FehlerE89Lsg.png",
+  "revisions": [
+    {
+      "revid": 5968,
+      "parentid": 5966,
+      "user": "ASchueller",
+      "timestamp": "2024-08-30T08:06:16Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": "ASchueller lud eine neue Version von [[Datei:FehlerE89Lsg.png]] hoch"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2024-08-30T08:06:16Z",
+  "lastrevid": 5968,
+  "length": 0
+}

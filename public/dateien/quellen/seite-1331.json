@@ -1,0 +1,30 @@
+{
+  "pageid": 1331,
+  "ns": 6,
+  "title": "Datei:ASDPC Download Programm.png",
+  "revisions": [
+    {
+      "revid": 5199,
+      "parentid": 0,
+      "user": "FFrodermann",
+      "timestamp": "2022-01-03T13:18:31Z",
+      "sha1": "d7920f9a52b15b949bd0d2990ab27cc5fa12f2aa",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "== Beschreibung ==\nASDPC Windows Download"
+        }
+      },
+      "comment": "ASDPC Windows Download"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-01-04T09:00:12Z",
+  "lastrevid": 5199,
+  "length": 41,
+  "new": ""
+}

@@ -1,0 +1,29 @@
+{
+  "pageid": 1016,
+  "ns": 0,
+  "title": "Kursplanung KPlan.exe",
+  "revisions": [
+    {
+      "revid": 3913,
+      "parentid": 3912,
+      "user": "UBlomeyer",
+      "timestamp": "2016-09-01T09:19:12Z",
+      "sha1": "ac2e786e8e4ec9749c20cc8b14a1c270cb5f1c7c",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "====Beschreibung====\n\n\nKPlan ist ein Zusatzprogramm, welches im Downloadbereich zusätzlich zu Schild-NRW heruntergeladen werden kann.\nDas Programm benötigt einen Datenbankzugriff auf die Schild-NRW-Datenbank oder auf eine Kopie der Datenbank.\nEs ermöglicht den Benutzern eine Verwaltung aller Kurse in der Sekundarstufe I.\n\n\n\n[[#top|zurück zum Seitenanfang]]\n\n----\n\n====Installation====\n\n'''Installation über die Setup-Datei'''\n\nLaden Sie die Setup.exe über den Downloadbereich herunter. Führen Sie diese Datei durch einen Doppelklick aus. Eine Installationsroutine leitet Sie durch den Installationsvorgang. Bitte wählen Sie einen Datei-Ort, an dem Sie volle Schreib-/Leserechte besitzen!\nEs werden alle benötigten Dateien vom Setup entpackt.\n\n\n[[#top|zurück zum Seitenanfang]]\n\n\n\n----\n\n====KPlan - Erste Schritte ====\n\n\n#Nach der Installation und dem ersten Programmstart werden Sie nach Benutzerdaten gefragt. Diese sind: \n#:*Benutzername: '''KPAdmin'''\n#:*Passwort: '''Schild''' \n#Legen Sie das Schuljahr und den Lernbschnitt fest.\n#Konfigurieren Sie die Verbindung zur SchILD-Datenbank.\n#Führen Sie einen Abgleich der Stammdaten mit SchILD-NRW aus.\n#Legen Sie ein Kursprofil\n#:z.B. \"'''AGGT / alle'''\" : Verwaltung der Arbeitsgemeinschaften für alle Jahrgänge  \n#Wenn in SchILD-NRW bereits Kursdaten eingegeben sein sollten, so rufen Sie den Menüpunkt: \n#:Abgleich: Kurse / SchILD-Kurse (Alt+A) \n#:auf und klicken auf \"SchILD-Import\"\n\n\n[[#top|zurück zum Seitenanfang]]\n\n\n\n----"
+        }
+      },
+      "comment": "/* KPlan - Erste Schritte */"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2016-09-01T09:19:12Z",
+  "lastrevid": 3913,
+  "length": 1496
+}

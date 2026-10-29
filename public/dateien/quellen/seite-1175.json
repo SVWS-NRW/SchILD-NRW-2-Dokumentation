@@ -1,0 +1,30 @@
+{
+  "pageid": 1175,
+  "ns": 6,
+  "title": "Datei:ENM wine.jpg",
+  "revisions": [
+    {
+      "revid": 4604,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2020-06-08T16:30:13Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2020-06-08T16:30:27Z",
+  "lastrevid": 4604,
+  "length": 0,
+  "new": ""
+}

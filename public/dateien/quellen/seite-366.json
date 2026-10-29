@@ -1,0 +1,29 @@
+{
+  "pageid": 366,
+  "ns": 0,
+  "title": "Sprach-Referenzniveaus ermitteln",
+  "revisions": [
+    {
+      "revid": 2792,
+      "parentid": 2791,
+      "user": "Pfotenhauer",
+      "timestamp": "2015-02-09T11:03:38Z",
+      "sha1": "ae1a179fa8c9b8a38ddd3c9be16c365cc1606ff3",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Dieser Gruppenprozess ermittelt aus den vorhandenen Einträgen bei der Sprachenfolge und den Leistungsdaten die Sprachreferenzniveaus der ausgewählten Schüler und trägt sie unter [[Laufbahninfo]] bei der entsprechenden Sprache ein. Einzelne Einträge oder Änderungen sollte man direkt bei dem betroffenen Schüler durchführen.\n\nDamit die Einträge zum Gemeinsamen europäischen Referenzrahmen für Sprachen (GeR) auf Abschluss- und Abgangszeugnissen eingetragen werden können, muss dieser Prozess vor der Erstellung der entsprechenden Zeugnisse angestoßen werden.\n\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Allgemeines|Zurück zu Allgemeines]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-02-09T11:03:38Z",
+  "lastrevid": 2792,
+  "length": 645
+}

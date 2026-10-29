@@ -1,0 +1,30 @@
+{
+  "pageid": 1062,
+  "ns": 6,
+  "title": "Datei:S1P-027-Kurse bei Schüler in Schild.JPG",
+  "revisions": [
+    {
+      "revid": 3991,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2016-11-25T11:01:22Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2016-12-01T14:52:18Z",
+  "lastrevid": 3991,
+  "length": 0,
+  "new": ""
+}

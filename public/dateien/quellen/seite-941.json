@@ -1,0 +1,29 @@
+{
+  "pageid": 941,
+  "ns": 10,
+  "title": "Vorlage:Wichtig",
+  "revisions": [
+    {
+      "revid": 5540,
+      "parentid": 3553,
+      "user": "JRaffenberg",
+      "timestamp": "2022-04-03T16:17:23Z",
+      "sha1": "7431eb323a0fb08ce0db4c481c2fc2b73492319d",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "<div style=\"margin:1em 0px; padding:10px; border:1px solid #641f1a; color:#641f1a; background-color:#ffd2d4; -webkit-border-radius: 7px;-moz-border-radius: 7px;border-radius: 7px;-moz-box-shadow: 4px 4px 4px #dfe1d8;-webkit-box-shadow: 4px 4px 4px #dfe1d8;box-shadow: 4px 4px 4px #dfe1d8; overflow: auto;\">\n[[File:Wichtig.png|links]]\n<div style=\"margin:5px 5px 5px 50px; padding:0; font-size:130%; font-weight:bold;\">Wichtig!</div>\n<div style=\"color:#000; margin:5px 5px 5px 50px;\">\n{{{1}}}\n</div>\n</div>\n\n<noinclude>\n;Syntax\n<pre>{{Wichtig|<Text>}}</pre>\n[[Kategorie:Vorlage:Kastenbausteine]]\n</noinclude>"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-04-03T16:17:23Z",
+  "lastrevid": 5540,
+  "length": 606
+}

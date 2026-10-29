@@ -1,0 +1,29 @@
+{
+  "pageid": 479,
+  "ns": 0,
+  "title": "Noten, Mahnungen und Fehlstunden eingeben",
+  "revisions": [
+    {
+      "revid": 3623,
+      "parentid": 2036,
+      "user": "Mhoffmann",
+      "timestamp": "2015-09-20T09:32:17Z",
+      "sha1": "33579b15762d41094ab2f297103a25def8af134b",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Dieser Gruppenprozess ermöglicht es, für eine größere Schülermenge Noten, Mahnungen oder Fehlstunden einzugeben. \nZuerst werden in einem kleinen Fenster das Schuljahr und der Abschnitt abgefragt, für den die Eingaben vorgenommen werden sollen. Danach öffnet sich für die ausgewählte Schülermenge die Eingabemaske.\nMan kann dort aus drei Sortierreihenfolgen auswählen:\n\n# zuerst nach dem Fach, dann dem Schüler (geeignet für die Eingabe der fehlenden Noten in einem Fach, von dem man die Noten auf einer Liste vorliegen hat.)\n# zuerst nach dem Schüler, dann dem Fach (hier erhält man auf einen Blick Informationen zu den Schülern in allen Fächern)\n# zuerst nach einem Kurs, dann nach den Schülern (entspricht im Prinzip der Sortierung Fach, Schüler) \n\nZusätzlich werden auch noch weitere Filtermöglichkeiten angeboten, um z.B. Eintragungen für einen Kurs vorzunehmen.\n\nDas Setzen der Häkchen bei den Mahnungen erfolgt durch einen Doppelklick, die Eintragungen bei den Fehlstunden (FSG=Fehlstunden gesamt, FSU=Fehlstunden unentschuldigt) und den Noten durch Klick auf das entsprechende Tabellenfeld. Die Noten können auch aus dem Pull-Down-Menü ausgewählt werden.\n\n:[[Image:GP-NotenFehlstdeingeben.jpg|Left|500px]]\n\nNach Abschluss der Eingabe werden die Daten durch Kick auf die Schaltfläche \"In die Datenbank übernehmen\" gespeichert.\n\n\n'''Besonderheiten:'''\nIn der Sek.II kann durch einen Klick auf den Spaltentitel Noten auf eine Eingabe und Anzeige von Punkten umgeschaltet werden.\nIn Jahrgängen, in denen keine Mahnungen vorgesehen sind (z.B. in der Qualifikationsphase), wird die Spalte Mahnen nicht angezeigt. \n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Noten, Zeugnisvorbereitung|Zurück zu Noten, Zeugnisvorbereitung]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-09-20T09:32:17Z",
+  "lastrevid": 3623,
+  "length": 1747
+}

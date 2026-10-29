@@ -1,0 +1,29 @@
+{
+  "pageid": 586,
+  "ns": 6,
+  "title": "Datei:Uebersicht-SIa.jpg",
+  "revisions": [
+    {
+      "revid": 2276,
+      "parentid": 2260,
+      "user": "Mhoffmann",
+      "timestamp": "2014-05-26T10:53:51Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": "Mhoffmann lud eine neue Version von „[[Datei:Uebersicht-SIa.jpg]]“ hoch"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-05-26T10:53:51Z",
+  "lastrevid": 2276,
+  "length": 0
+}

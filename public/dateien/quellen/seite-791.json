@@ -1,0 +1,29 @@
+{
+  "pageid": 791,
+  "ns": 6,
+  "title": "Datei:Zeugnis-Kopf-01.png",
+  "revisions": [
+    {
+      "revid": 4080,
+      "parentid": 3081,
+      "user": "Pfotenhauer",
+      "timestamp": "2016-12-14T12:32:10Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": "Pfotenhauer lud eine neue Version von „[[Datei:Zeugnis-Kopf-01.png]]“ hoch"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-03-16T09:39:59Z",
+  "lastrevid": 4080,
+  "length": 0
+}

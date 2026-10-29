@@ -1,0 +1,29 @@
+{
+  "pageid": 806,
+  "ns": 0,
+  "title": "Benutzung von Filter I 001",
+  "revisions": [
+    {
+      "revid": 3255,
+      "parentid": 3254,
+      "user": "Mhoffmann",
+      "timestamp": "2015-06-15T09:29:12Z",
+      "sha1": "50f7309feb3154b81bd6c13aeab37dc39209ec9b",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Dieses Tutorial gibt eine Einführung in die Benutzung des [[Filter I|Filters I]]. Zuerst werden einige grundlegende Informationen gegeben, dann wird die Benutzung anhand von Beispielen erläutert.\n\nDer Filter I bietet diverse Selektionsmöglichkeiten, um die gewünschte Schülermenge zu filtern. Die Filterbedingungen lassen sich durch manuelle Eingaben sowie durch die Auswahl von vorgegebenen Listenfeldern schnell zusammenstellen.\n\nGefiltert werden kann über die Listenfelder der Individual-Daten I und II, den Bereich der besonderen Merkmale, einige weitere Daten sowie über den Bereich der Leistungsdaten. Standardmäßig nutzt der Filter UND-Verknüpfungen, bei einigen Feldern werden aber auch ODER-Verknüpfungen genutzt. \n\nFür Listenfelder, bei denen ein roter Pfeil, wie in der Abbildung unten, zu sehen ist, kann man eine Mehrfachauswahl treffen. Nach jedem Auswählen eines Eintrags klickt man auf den roten Pfeil und die Auswahl wird übernommen. Eine Mehrfachauswahl wird stets als ODER-Verknüpfung interpretiert (siehe Beispiele).<br />\nHier für das Beispiel des 'Ortes' in den Individual-Daten I.<br />\n\n:[[File:FilterITut01.jpg|200px]]<br /><br />\n\nUm eine Bedingung zu negieren, muss man einen Doppelklick auf die entsprechende Bedingung ausführen. Diese wird dann '''fett''' und ''kursiv'' dargestellt. <br />\nHier für das Beispiel der 'Konfession' in den Individual-Daten I. Es würde somit nach allen nicht katholischen Schülern gefiltert.<br />\n:[[File:FilterITut02.jpg|150px]]<br /><br />\n\nEinen selbst zusammengestellten Filter kann man mithilfe der rechts platzierten Schaltflächen zurücksetzen, testen, übernehmen und gegebenenfalls zur späteren Wiederanwendung speichern.\n\n'''Beispiel 1:'''<br />\nGefiltert werden soll nach allen Schülern, die aus Wuppertal oder Aldenhoven stammen und nicht katholisch sind.<br />\nDafür muss man unter Individual-Daten I die beiden Orte auswählen und bei der Konfession den Eintrag katholisch (diesen natürlich negiert).<br />\n:[[File:FilterITut03.jpg|400px]]<br /><br /> \n\nFür die Orte gilt durch die Mehrfachauswahl eine ODER-Verknüpfung, da natürlich niemand aus zwei Orten gleichzeitig stammen kann.<br />\nTestet man nun die vorgenommenen Filtereinstellungen, wird in einem separaten Fenster angezeigt, wie viele Schüler mit diesen Eigenschaften gefunden wurden. Um die gefundenen Schüler nun für die weitere Bearbeitung im [[Container]] vorliegen zu haben, bestätigt man mit 'OK' und wählt anschließend die Schaltfläche 'Übernehmen'. Damit stehen die gefilterten Schüler für die weitere Nutzung zur Verfügung.\n\n'''Beispiel 2:'''<br />\nGefiltert werden soll nach allen Schülern, die im aktuellen Schuljahr in der Einführungsphase evangelische Religion als mündlichen Grundkurs belegt haben.<br />\nDie dafür nötigen Einstellungen müssen unter dem Reiter Lernabschnitt/Leistungsdaten getätigt werden. Dort stellt man das entsprechende Schuljahr ein, wählt unter Jahrgang die Einführungsphase aus und übernimmt sie durch den roten Pfeil. Unter 'Fächer und Noten' stellt man das gesuchte Fach und die Kursart ein. Als verwendete Beziehung muss in diesem Fall UND ausgewählt werden. Auch hier werden die Einstellungen durch einen Klick auf den roten Pfeil übernommen.<br />\n:[[File:FilterITut04.jpg|600px]]<br /><br /> \n\nDie so eingestellten Bedingungen liefern dann die gewünschte Schülermenge, die für die weitere Nutzung in den [[Container]] übernommen werden kann.<br />\n\n'''Beispiel 3:'''<br />\nGefiltert werden soll nach allen Schülern, die im Schuljahr 2008/09 die Abiturzulassung erhalten, das Abitur dann aber nicht bestanden haben (und abgegangen sind) und Englisch als erste Fremdsprache hatten.<br />\nDafür müssen Einstellungen unter mehreren Reitern getätigt werden. Zuert muss man unter den Individual-Daten I unter 'Status' nur den Haken bei den Abgängern setzen. Dann wechselt man zum Reiter Weitere Daten und stellt dort unter 'Sprachenfolge' Englisch als erste Sprache ein. Unter dem Reiter Lernabschnitt/Leistungsdaten stellt man nun noch das gewünschte Schuljahr ein (das Halbjahr ist in diesem Fall egal) und ganz unten die Angaben für die Abiturzulassung und das Bestehen des Abiturs. <br />\n:[[File:FilterITut05.jpg|600px]]<br />\n:[[File:FilterITut06.jpg|600px]]<br />\n:[[File:FilterITut07.jpg|600px]]<br /><br /> \n\nDie so eingestellten Bedingungen liefern dann die gewünschte Schülermenge, die für die weitere Nutzung in den [[Container]] übernommen werden kann.<br />\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Schild-NRW-Tutorials|Zurück zu den Tutorials]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-06-15T09:29:12Z",
+  "lastrevid": 3255,
+  "length": 4597
+}

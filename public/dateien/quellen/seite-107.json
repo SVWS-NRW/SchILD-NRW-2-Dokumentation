@@ -1,0 +1,30 @@
+{
+  "pageid": 107,
+  "ns": 0,
+  "title": "WaehleDatumUndZeit",
+  "revisions": [
+    {
+      "revid": 132,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T18:59:13Z",
+      "sha1": "a3977375e1712a51a03863f0fc4a16e79f3b12a0",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    function WaehleDatumUndZeit(Hinweis: String; Var Datum, Uhrzeit: Datetime): Boolean;\n|-\n|'''Parameter''' || \n    Hinweis            - Hinweistext\n    Datum              - Platzhalter für die zu wählenden Daten\n    Uhrzeit            - Platzhalter für die zu wählenden Daten\n|-\n|'''Rückgabewert''' ||\n    TRUE, falls der Dialog mit Ok beendet wurde, sonst FALSE\n|- \n|'''Beispiel''' || \n    If WaehleDatum('Bitte Beginn der Veranstaltung\n                    eingeben',lDatum,lUhrzeit) then...\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      function WaehleDatumUndZeit(Hinweis: String; Var Datum, Uhrzeit: Datetime…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T18:59:13Z",
+  "lastrevid": 132,
+  "length": 623,
+  "new": ""
+}

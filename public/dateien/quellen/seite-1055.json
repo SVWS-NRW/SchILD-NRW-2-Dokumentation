@@ -1,0 +1,30 @@
+{
+  "pageid": 1055,
+  "ns": 6,
+  "title": "Datei:S1P-020-Kurszuweisung-alle.JPG",
+  "revisions": [
+    {
+      "revid": 3984,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2016-11-25T10:59:31Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2016-11-30T12:25:59Z",
+  "lastrevid": 3984,
+  "length": 0,
+  "new": ""
+}

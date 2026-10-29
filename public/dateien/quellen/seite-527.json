@@ -1,0 +1,29 @@
+{
+  "pageid": 527,
+  "ns": 0,
+  "title": "Shortcuts in Schild-NRW",
+  "revisions": [
+    {
+      "revid": 2371,
+      "parentid": 2360,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-06-04T15:01:01Z",
+      "sha1": "3aaacb8f5e618496eb63bdc04cb36d424072e477",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "\n{| style=\"border-spacing:0;\"\n| style=\"border:0.5pt solid #00000a;padding-top:0cm;padding-bottom:0cm;padding-left:0.199cm;padding-right:0.191cm;\"| <center>STRG + w</center>\n| style=\"border:0.5pt solid #00000a;padding-top:0cm;padding-bottom:0cm;padding-left:0.199cm;padding-right:0.191cm;\"| Word Seriendruck starten\n\n|-\n| style=\"border:0.5pt solid #00000a;padding-top:0cm;padding-bottom:0cm;padding-left:0.199cm;padding-right:0.191cm;\"| <center>STRG + r</center>\n| style=\"border:0.5pt solid #00000a;padding-top:0cm;padding-bottom:0cm;padding-left:0.199cm;padding-right:0.191cm;\"| Alle Filter zurücksetzen\n\n|-\n| style=\"border:0.5pt solid #00000a;padding-top:0cm;padding-bottom:0cm;padding-left:0.199cm;padding-right:0.191cm;\"| <center>STRG + i</center>\n| style=\"border:0.5pt solid #00000a;padding-top:0cm;padding-bottom:0cm;padding-left:0.199cm;padding-right:0.191cm;\"| Notendateien (enm) importieren\n\n|-\n| style=\"border:0.5pt solid #00000a;padding-top:0cm;padding-bottom:0cm;padding-left:0.199cm;padding-right:0.191cm;\"| <center>STRG + p</center>\n| style=\"border:0.5pt solid #00000a;padding-top:0cm;padding-bottom:0cm;padding-left:0.199cm;padding-right:0.191cm;\"| Reportexplorer starten\n\n|-\n| style=\"border:0.5pt solid #00000a;padding-top:0cm;padding-bottom:0cm;padding-left:0.199cm;padding-right:0.191cm;\"| <center>STRG + a</center>\n| style=\"border:0.5pt solid #00000a;padding-top:0cm;padding-bottom:0cm;padding-left:0.199cm;padding-right:0.191cm;\"| Filter I aufrufen\n\n|-\n| style=\"border:0.5pt solid #00000a;padding-top:0cm;padding-bottom:0cm;padding-left:0.199cm;padding-right:0.191cm;\"| <center>STRG + s</center>\n| style=\"border:0.5pt solid #00000a;padding-top:0cm;padding-bottom:0cm;padding-left:0.199cm;padding-right:0.191cm;\"| Standard Schulbescheinigung drucken\n\n|-\n| style=\"border:0.5pt solid #00000a;padding-top:0cm;padding-bottom:0cm;padding-left:0.199cm;padding-right:0.191cm;\"| <center>STRG + d</center>\n| style=\"border:0.5pt solid #00000a;padding-top:0cm;padding-bottom:0cm;padding-left:0.199cm;padding-right:0.191cm;\"| Reportexplorer Standardordner starten\n\n|-\n| style=\"border:0.5pt solid #00000a;padding-top:0cm;padding-bottom:0cm;padding-left:0.199cm;padding-right:0.191cm;\"| <center>STRG + f</center>\n| style=\"border:0.5pt solid #00000a;padding-top:0cm;padding-bottom:0cm;padding-left:0.199cm;padding-right:0.191cm;\"| Schüler suchen\n\n|-\n| style=\"border:0.5pt solid #00000a;padding-top:0cm;padding-bottom:0cm;padding-left:0.199cm;padding-right:0.191cm;\"| <center>STRG + g</center>\n| style=\"border:0.5pt solid #00000a;padding-top:0cm;padding-bottom:0cm;padding-left:0.199cm;padding-right:0.191cm;\"| Gruppenprozess auswählen\n\n|-\n| style=\"border:0.5pt solid #00000a;padding-top:0cm;padding-bottom:0cm;padding-left:0.199cm;padding-right:0.191cm;\"| <center>STRG + k</center>\n| style=\"border:0.5pt solid #00000a;padding-top:0cm;padding-bottom:0cm;padding-left:0.199cm;padding-right:0.191cm;\"| Kurse bearbeiten\n\n|-\n| style=\"border:0.5pt solid #00000a;padding-top:0cm;padding-bottom:0cm;padding-left:0.199cm;padding-right:0.191cm;\"| <center>STRG + n</center>\n| style=\"border:0.5pt solid #00000a;padding-top:0cm;padding-bottom:0cm;padding-left:0.199cm;padding-right:0.191cm;\"| Notenmodulexport (enm)\n\n|-\n| style=\"border:0.5pt solid #00000a;padding-top:0cm;padding-bottom:0cm;padding-left:0.199cm;padding-right:0.191cm;\"| <center>STRG + m</center>\n| style=\"border:0.5pt solid #00000a;padding-top:0cm;padding-bottom:0cm;padding-left:0.199cm;padding-right:0.191cm;\"| Filter auf markierte Schüler einschalten\n\n|-\n| style=\"border:0.5pt solid #00000a;padding-top:0cm;padding-bottom:0cm;padding-left:0.199cm;padding-right:0.191cm;\"| <center>STRG + b</center>\n| style=\"border:0.5pt solid #00000a;padding-top:0cm;padding-bottom:0cm;padding-left:0.199cm;padding-right:0.191cm;\"| Freigabe zur Bearbeitung (bei abgeschalt. Autoedit)\n\n|-\n| style=\"border:0.5pt solid #00000a;padding-top:0cm;padding-bottom:0cm;padding-left:0.199cm;padding-right:0.191cm;\"| <center>STRG + Umsch + k</center>\n| style=\"border:0.5pt solid #00000a;padding-top:0cm;padding-bottom:0cm;padding-left:0.199cm;padding-right:0.191cm;\"| Direkteingabe im Klassenfilter\n\n|}\n\n\n----\n\n[[Schild-NRW-Tutorials|Zurück zur Schild-NRW-Tutorials]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-06-04T15:01:01Z",
+  "lastrevid": 2371,
+  "length": 4203
+}

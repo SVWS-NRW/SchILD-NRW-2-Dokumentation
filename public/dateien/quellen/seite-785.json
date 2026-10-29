@@ -1,0 +1,29 @@
+{
+  "pageid": 785,
+  "ns": 6,
+  "title": "Datei:LeistungsdatenKlasseTut02.jpg",
+  "revisions": [
+    {
+      "revid": 3063,
+      "parentid": 3062,
+      "user": "Mhoffmann",
+      "timestamp": "2015-05-03T17:17:19Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": "Mhoffmann lud eine neue Version von „[[Datei:LeistungsdatenKlasseTut02.jpg]]“ hoch"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-05-03T17:17:19Z",
+  "lastrevid": 3063,
+  "length": 0
+}

@@ -1,0 +1,30 @@
+{
+  "pageid": 98,
+  "ns": 0,
+  "title": "SetzeSortierungEx",
+  "revisions": [
+    {
+      "revid": 122,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T18:46:31Z",
+      "sha1": "42eeb21de56ac184ba2bd3606ba328d356e3a2e1",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    procedure SetzeSortierungEx(Pipeline: TppDbPipeline; const Sortierfelder: String);\n|-\n|'''Parameter''' || \n    Pipeline           - Datenquelle, deren Abfrage neu sortiert werden soll\n    Sortierfelder      - Mit Komma separierte Liste Sortierfeldern. Im Unterschied zu\n                        „SetzeSortierung“ können hier auch spezielle Felder, wie z.B.\n                         MONTH(Geburtsatum) etc verwendet werden.\n|-\n|'''Rückgabewert''' ||\n    ...\n|- \n|'''Beispiel''' || \n    Procedure ReportBeforePrint;\n     begin\n      (*Originalsortierung ist eine String-Variable, die global vereinbart werden muss*)\n      OriginalSortierung:=SortierungVon(Report.Datapipeline);\n      SetzeSortierungEx(Report.Datapipeline,'Klasse,MONTH(Geburtsdatum)');\n     end;\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      procedure SetzeSortierungEx(Pipeline: TppDbPipeline; const Sortierfelder:…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T18:46:32Z",
+  "lastrevid": 122,
+  "length": 893,
+  "new": ""
+}

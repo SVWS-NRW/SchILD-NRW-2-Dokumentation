@@ -1,0 +1,30 @@
+{
+  "pageid": 639,
+  "ns": 0,
+  "title": "Textzeugnisse erzeugen",
+  "revisions": [
+    {
+      "revid": 2476,
+      "parentid": 0,
+      "user": "BPanzlaff",
+      "timestamp": "2014-08-15T10:09:11Z",
+      "sha1": "ee1582bf7a0d990e5f6ade1339e93c39d80ed2e8",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "\n\n\n\n\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Druckausgabe|Zurück zu Druckausgabe]]"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „       ----  [[#top|Zum Seitenanfang]]  [[Druckausgabe|Zurück zu Druckausgabe]]“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-08-15T10:09:11Z",
+  "lastrevid": 2476,
+  "length": 80,
+  "new": ""
+}

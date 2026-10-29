@@ -1,0 +1,29 @@
+{
+  "pageid": 100,
+  "ns": 0,
+  "title": "SortierungVon",
+  "revisions": [
+    {
+      "revid": 3507,
+      "parentid": 3506,
+      "user": "JRaffenberg",
+      "timestamp": "2015-09-04T10:04:35Z",
+      "sha1": "fe4a1bfd4bd5602f9c7dd9ac3b64609c430198f6",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    function SortierungVon(Pipeline: TppDbPipeline): String;\n|-\n|'''Parameter''' || \n    Pipeline - Datenquelle; Sortierung, die angewendet werden soll\n|-\n|'''Rückgabewert''' ||\n    Liste der Sortierfelder\n|- \n|'''Beispiel''' || \n    Procedure ReportBeforePrint;\n     begin\n       //Originalsortierung ist eine String-Variable, die global vereinbart werden muss\n       OriginalSortierung:=SortierungVon(Report.Datapipeline);\n       SetzeSortierung(Report.Datapipeline,'Klasse,Geburtsdatum');\n     end;\n\n     Procedure ReportAfterPrint;\n     begin\n       SetzeSortierung(Report.Datapipeline,OriginalSortierung);\n     end;\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "/* RAP-Funktion \"{{SEITENNAME}}\" */"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-09-04T10:04:35Z",
+  "lastrevid": 3507,
+  "length": 745
+}

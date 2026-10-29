@@ -1,0 +1,30 @@
+{
+  "pageid": 579,
+  "ns": 6,
+  "title": "Datei:GP-SchuelerDatensaetzeloeschen.jpg",
+  "revisions": [
+    {
+      "revid": 2248,
+      "parentid": 0,
+      "user": "Mhoffmann",
+      "timestamp": "2014-05-24T07:58:47Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-05-24T07:58:47Z",
+  "lastrevid": 2248,
+  "length": 0,
+  "new": ""
+}

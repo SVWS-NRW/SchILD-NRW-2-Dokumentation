@@ -1,0 +1,30 @@
+{
+  "pageid": 594,
+  "ns": 6,
+  "title": "Datei:Report-bearbeiten.png",
+  "revisions": [
+    {
+      "revid": 2291,
+      "parentid": 0,
+      "user": "BPanzlaff",
+      "timestamp": "2014-05-26T12:06:11Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-05-26T12:06:11Z",
+  "lastrevid": 2291,
+  "length": 0,
+  "new": ""
+}

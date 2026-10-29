@@ -1,0 +1,29 @@
+{
+  "pageid": 573,
+  "ns": 0,
+  "title": "Benutzerverwaltung",
+  "revisions": [
+    {
+      "revid": 3047,
+      "parentid": 2985,
+      "user": "Pfotenhauer",
+      "timestamp": "2015-05-01T13:20:23Z",
+      "sha1": "99f93efdd9535c1a3f015627771043ba5280f07c",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Der von KM2 selbst verwaltete Benutzer \"Administrator\" mit dem Loginnamen \"'''Admin'''\" hat '''Vollzugriff''' auf alle Leistungsdaten der Schüler. Nicht nur auf den aktuellen SchILD-Abschnitt, sondern auch '''auf alle vergangenen Lernabschnitte'''. Insofern sollte der Benutzer \"Admin\" nicht zur Programmbenutzung benutzt werden, sondern nur zur Konfiguration des Zugrifs auf die SchILD-Datenbank.\nAlle anderen zulässigen KM2-Programmbenutzer sind jene SchILD-Benutzer, sofern diese in SchILD als Koordinatoren im Bereich '''Klassengruppen/Abteilungen''' verwaltet werden (siehe SchILD → Schulverwaltung → Klassengruppen/Abteilungen).\n[[Bild:Km2_schild_klassengruppen_abteilungen.png|thumb|right|300px]]\nWie die Abbildung zeigt, hat der Benutzer '''L31''' als Koordinator der Abteilung '''Abt 1''' in KM2 Vollzugriff auf die Leistungsdaten der Schüler der Klassen '''05a ... 06d'''.\nAlle Benutzer, die hier als Koordinator eingetragen worden sind '''und''' denen Klassen zugeordnet worden sind, können sich in KM2 als Benutzer mit ihrem SchILD-Login-Namen und ihrem SchILD-Passwort anmelden und diese Klassen in KM2 bearbeiten.\nDieses Bearbeitungsrecht bezieht sich jedoch nur auf den aktuellen Abschnitt. Andere Lernabschnitte können nur eingesehen werden.\n\nsiehe auch: [[Klassengruppen/Abteilungen]]\n\nDiese Vorgehensweise hat den Vorteil, dass Zuständigkeiten für einzelne Klassen (Abteilungsleitung / Koordination) nur noch an einer Stelle zentral gepflegt werden müssen.\n\n[[Kategorie:Konferenzmodul KM2]]\n\n----"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-05-01T13:20:23Z",
+  "lastrevid": 3047,
+  "length": 1526
+}

@@ -1,0 +1,29 @@
+{
+  "pageid": 874,
+  "ns": 6,
+  "title": "Datei:Lupo schild unterrichtsfaecher 3.png",
+  "revisions": [
+    {
+      "revid": 4096,
+      "parentid": 3322,
+      "user": "JRaffenberg",
+      "timestamp": "2017-03-10T11:18:15Z",
+      "sha1": "fc66408806ca2610e0975b09030e2f39b1484ca3",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Das Bild zeigt den Dialog \"Einstellungen für Fächer der Oberstufe\" in Schild-NRW. Der Reiter \"Fächer\" ist aktiv."
+        }
+      },
+      "comment": "JRaffenberg lud eine neue Version von „[[Datei:Lupo schild unterrichtsfaecher 3.png]]“ hoch: kleine Änderungen"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2017-03-10T11:18:15Z",
+  "lastrevid": 4096,
+  "length": 115
+}

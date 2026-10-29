@@ -1,0 +1,29 @@
+{
+  "pageid": 146,
+  "ns": 0,
+  "title": "Staatsangehörigkeiten / Herkunftsländer",
+  "revisions": [
+    {
+      "revid": 937,
+      "parentid": 487,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-01-23T14:58:08Z",
+      "sha1": "c51d8198f768f2a20d4c9d5f0fc10764abdb09a2",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Beim Katalog 'Staatsangehörigkeiten / Herkunftsländer' handelt es sich um einen Katalog, der nicht mit eigenen Einträgen veränderbar ist. [[Kataloge|Sortierungen]] können vorgenommen werden. \n\nHier macht die benutzerdefinierte Sortierung Sinn, da in der Regel eine überschaubare Anzahl verschiedener Nationalitäten an Ihrer Schule vorkommt. Diese sollten Sie in der Sortierung nach oben bringen. \n\nWird die Nationalität bei der Dateneingabe nicht aus dem Scroll-Down-Menü gewählt, sondern eingetippt, liefert ein getipptes 'D' zunächst den Eintrag 'Dänemark', da in der alphabetischen Sortierung vor 'Deutschland'. Dies lässt sich durch Verwendung der 'Benutzerdefinierten Sortierreihenfolge' leicht ändern.\n\nWenn man bei \"Staatsangehörigkeit\" auf Individual-Daten I adjektivische Bezeichnungen besser findet (deutsch statt Deutschland, kosovarisch statt Kosovo), so kann man dies ändern über Extras / Programm-Einstellungen / Globale Einstellungen -> Häkchen vor \"Für Nationalitäten Adjektive verwenden\". Für die Eintragung bei \"Geburtsland\" auf Individual-Daten II bleiben aber die Ländernamen zur Auswahl erhalten.  \n\n\n----\n\n\nZurück zur Übersicht der [[Kataloge]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-01-23T14:58:08Z",
+  "lastrevid": 937,
+  "length": 1190
+}

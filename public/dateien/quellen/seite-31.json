@@ -1,0 +1,29 @@
+{
+  "pageid": 31,
+  "ns": 0,
+  "title": "GeschlechtToString",
+  "revisions": [
+    {
+      "revid": 5650,
+      "parentid": 52,
+      "user": "ASchueller",
+      "timestamp": "2023-01-18T13:36:45Z",
+      "sha1": "9bf6b2344ac1f1ef78c4f49e125498226fc579e1",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    function GeschlechtToString(aGeschlecht: integer; aMaennl_Form, aWeibl_Form: String): String;\n|-\n|'''Parameter''' || \n    aGeschlecht        - Geschlecht, m=3, w=4\n    aMaennl_Form       - männliche Form\n    aWeibl_Form        - weibliche Form\n|-\n|'''Rückgabewert''' ||\n    Vorgabe, je nach Geschlecht\n|- \n|'''Beispiel''' || \n    lAnrede:=GeschlechtToString(Schueler['Geschlecht'],'Schüler','Schülerin')\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "/* RAP-Funktion \"{{SEITENNAME}}\" */"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2023-01-18T13:36:45Z",
+  "lastrevid": 5650,
+  "length": 535
+}

@@ -1,0 +1,29 @@
+{
+  "pageid": 361,
+  "ns": 0,
+  "title": "Sprachenfolge aus Leistungsdaten ermitteln",
+  "revisions": [
+    {
+      "revid": 1901,
+      "parentid": 1617,
+      "user": "Mhoffmann",
+      "timestamp": "2014-03-27T20:14:25Z",
+      "sha1": "8ab711ab8dd10ed2fe0131aa83e18b422069956b",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Dieser Gruppenprozess bestimmt aus den Eintragungen der Leistungsdaten in den jeweiligen Lernabschnitten (Registerkarte [[Akt. Halbjahr]]) für die aktuell ausgewählte Schülermenge die \"Beginn-\" und \"End\"-Abschnitte für die Sprachenfolgen. \n\nDie Ergebnisse werden unter [[Laufbahninfo]] bei der Sprachenfolge eingetragen. Dabei kann man noch auswählen, ob bestehende Einträge überschrieben werden sollen oder nicht. \n\nHandelt es sich um einen Jahrgang, der nicht \"Abgangsjahrgang\" ist, werden die Einträge mit offenem Ende erzeugt.\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Allgemeines|Zurück zu Allgemeines]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-03-27T20:14:25Z",
+  "lastrevid": 1901,
+  "length": 612
+}

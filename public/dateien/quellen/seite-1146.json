@@ -1,0 +1,29 @@
+{
+  "pageid": 1146,
+  "ns": 0,
+  "title": "Teilleistungen einrichten und verwalten",
+  "revisions": [
+    {
+      "revid": 5289,
+      "parentid": 4689,
+      "user": "FMüller",
+      "timestamp": "2022-01-16T08:15:46Z",
+      "sha1": "aab5e4cb65eb503218750f15ec307c6be03fbd6b",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Über die Teilleistungen kann man z.B. Klassenarbeits- oder Mitarbeitsnoten in Schild erfassen.\n\n==Teilleistungsarten einrichten und den Kursarten der Fächer zuweisen==\n\nDie in diesem Abschnitt beschriebenen Vorbereitungsarbeiten müssen nur einmal in SchILD durchgeführt werden.\n\nUnter ''Schulverwaltung->Teilleistungs-Arten'' müssen alle Teilleistungsarten, die in der Schule benutzt werden sollen, eingetragen werden. Im Beispiel unten sind das die drei Klassenarbeiten für die SekI und die Klausur- und SoMi-Noten der SekII.\n\n[[Image:Tl1.jpg]]\n\nAnschließend muss man unter ''Schulverwaltung->Unterrichtsfächer'' für jedes Fach festlegen, welche Teilleistungen bei welcher Kursart erfasst werden sollen. Dazu klickt man bei den Details auf ''Teilleistungsarten'' und trägt in der Liste für jede Kursart alle zugehörigen Teilleistungsarten ein. Wenn man einmal für ein Fach die Liste erstellt hat, kann man die Einträge markieren und über die Kopiervorlage zu den anderen Fächern übertragen.\n\n[[Datei:tl3.jpg]]\n\n[[Datei:tl2.jpg]]\n\n==Teilleistungsarten den Schülern zuweisen==\n\nSobald zu Beginn eines Halbjahres allen Schülern ihr Unterricht zugewiesen wurde, kann man allen Schülern über ''Gruppenprozesse->Teilleistungen: Teilleistungsarten aus Vorlage zuweisen'' die Teilleistungsarten zuweisen, die bei den Fächerdetails eingetragen wurden (siehe oben).\n\n==Teilleistungsnoten eingeben==\n'''Einzelne Teilleisungen''' können in SchILD direkt beim Schüler im Reiter ''Akt. Halbjahr->Leistungsdaten'' eingegeben werden. Dazu klickt man in der Zeile des jeweiligen Fachs in der Spalte ''Teilleistung'' auf ''Bearbeiten'' und gibt die Noten ein.\n\n[[Datei:tl4.jpg]]\n\nWenn man in Schild '''Teilleistungen für eine Gruppe''' eingeben möchte, filtert man zunächst auf die Schüler und wählt dann ''Gruppenprozesse->Teilleistungen: Noteneingabe (nur vorbereitete TL).\n\nHier gibt man bei den ''Auswahlkriterien'' zunächst das Fach und die Teilleistungsart an und klickt dann auf ''Aktualisieren''. Es erscheinen nun alle Schüler, bei denen man die Teilleistung eintragen kann. Bei Bedarf kann man mit der Schaltfläche ''Datum übernehmen'' ein Datum setzen. Mit ''In Datenbank übernehmen'' werden die Teilleistungen gespeichert.\n\n[[Datei:tl5.jpg]]\n\n'''Alternativ''' kann man die Teilleistungen auch über das '''Externe Notenmodul''' oder '''SchildWeb''' erfassen.\n\n==Teilleistungen ansehen und drucken==\nIn SchILD gibt es bisher keine Möglichkeit, die Teilleistungen der Schüler in einer Übersicht direkt zu sehen. Einzelne Teilleistungen kann man sich direkt beim Schüler für jedes Fach einzeln aufrufen, indem man in der Spalte ''Teilleistung'' auf ''Bearbeiten'' klickt.\n\nWenn man eine Übersicht sehen möchte, muss man einen passenden Report verwenden."
+        }
+      },
+      "comment": "/* Teilleistungen ansehen und drucken */"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2022-01-16T08:15:46Z",
+  "lastrevid": 5289,
+  "length": 2786
+}

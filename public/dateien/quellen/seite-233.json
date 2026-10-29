@@ -1,0 +1,29 @@
+{
+  "pageid": 233,
+  "ns": 0,
+  "title": "Gruppenprozesse",
+  "revisions": [
+    {
+      "revid": 3609,
+      "parentid": 3608,
+      "user": "Mhoffmann",
+      "timestamp": "2015-09-20T09:15:38Z",
+      "sha1": "0670256ac64f84c1aa89e2eec7608c663514be17",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Die sog. Gruppenprozesse sind Arbeitsprozesse, die für eine ausgewählte Gruppe von Schüler/-innen gleichzeitig durchgeführt werden können und über bestimmte Gruppenaktionen ausgelöst werden. Diese Gruppe kann dabei aus allen aktuellen Schüler/-innen der Schule, einer Jahrgangsstufe oder einer Klasse bestehen. Auch für nach bestimmten Kriterien oder beliebig zusammengestellten Schülergruppen können gemeinsam Daten verändert, ergänzt oder gelöscht werden.\n\nFür die Auswahl von Schülermengen stehen mehrere Möglichkeiten zur Verfügung:\n\n* Man kann Schüler im [[Container]] mit Häkchen markieren (oder auch durch Doppelklick markieren), aber noch keine Filterung vornehmen. In diesem Fall muss bei Aufruf der Gruppenprozesse ausgewählt werden, ob man auf der Gesamtmenge der Schüler, oder den markierten Schülern arbeiten möchte.\n\n:[[Datei:Gruppenprozesse01.jpg|400px]]<br /><br />\n\n:Erst danach werden die Gruppenprozesse für die ausgewählte Schülermenge freigeschaltet.\n\n* Man kann Schüler im [[Container]] durch Doppelklick markieren und die Filterung vornehmen.\n\n* Schülermengen können über den [https://www.svws.nrw.de/mediawiki/index.php?title=Hauptfenster#Schnellfilter Schnellfilter] ausgewählt werden.\n\n* Schülermengen können über die Anwendung von [[Filter I]] und [[Filter II]] ausgewählt werden.\n\nDie Aktivierung der Schaltknöpfe innerhalb der Gruppenbearbeitung ist schulform- und schulstufenabhängig. \n\nDie vier bzw. fünf Registerkarten: ''Allgemeines, Fächer, Noten, Zeugnisvorbereitung und Lernabschnitte, Versetzung'' enthalten jeweils entsprechende Schaltflächen, denen weitere Gruppenaktionen zugeordnet sind. \nFür den dritten Jahrgang der SekII (SII-3) an Schulformen mit gymnasialer Oberstufe stehen bei gefilterten Schülern zusätzlich noch die Gruppenprozesse für das Abitur zur Verfügung.\n\nIn den folgenden Artikeln werden die Gruppenaktionen genauer beschrieben:\n\n*[[Allgemeines]]\n\n*[[Fächer]]\n\n*[[Teilleistungen]]\n\n*[[Noten, Zeugnisvorbereitung]]\n\n*[[Lernabschnitte, Versetzung]]\n\nNur in der SII-3:\n\n*[[Gruppenprozesse Abitur]]\n\nNur bei gefilterten ZP10/ZK Jahrgang\n\n*[[Gruppenprozesse ZP10/ZK]]\n\n\n----\n\n[[Schild-NRW-Index|Zurück zu Schild-NRW-Index]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-09-20T09:15:38Z",
+  "lastrevid": 3609,
+  "length": 2224
+}

@@ -1,0 +1,29 @@
+{
+  "pageid": 484,
+  "ns": 0,
+  "title": "Fehlstunden-Summen manuell eingeben",
+  "revisions": [
+    {
+      "revid": 2032,
+      "parentid": 1997,
+      "user": "UMertsch",
+      "timestamp": "2014-04-02T07:48:51Z",
+      "sha1": "cedc7d72299620c2e4845e8528a5e55ab2e39f6e",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Dieser Gruppenprozess ermöglicht es, für die gefilterte Schülermenge Gesamtfehlstunden einzugeben. \nEs öffnet sich ein Fenster, bei dem man in die Tabellenfelder die Fehlzeiten (gesamte und unentschuldigte Fehlstunden) eintragen kann.\n\nNach Abschluss der Eingabe werden die Daten durch Kick auf die Schaltfläche \"In die Datenbank übernehmen\" gespeichert. Man findet die eingegebenen Daten anschließend unter Akt. Halbjahr > Allgemeine Angaben.\n\n\n'''Hinweis:'''\nDamit man diesen Gruppenprozess nutzen kann, darf unter Extras > Programm-Einstellungen > Globale Einstellungen > Fächer und Noten kein Häkchen bei \"Fehlstunden fächerbezogen verwalten\" gesetzt sein.\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Noten, Zeugnisvorbereitung|Zurück zu Noten, Zeugnisvorbereitung]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-04-02T07:48:51Z",
+  "lastrevid": 2032,
+  "length": 774
+}

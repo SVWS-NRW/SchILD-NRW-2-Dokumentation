@@ -1,0 +1,29 @@
+{
+  "pageid": 470,
+  "ns": 0,
+  "title": "Einzelne Fächer bei Schülern löschen",
+  "revisions": [
+    {
+      "revid": 3611,
+      "parentid": 2047,
+      "user": "Mhoffmann",
+      "timestamp": "2015-09-20T09:28:04Z",
+      "sha1": "f3f95859ce9b0bc48d92373ae1a35d25edb152e6",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Mit dem Aufruf des Gruppenprozesses \"Einzelne Fächer bei Schülern löschen\" erscheint das Eingabefenster \"Fächer bei Schülern löschen\". \n\nDieser Gruppenprozess ermöglicht das Löschen ganzer Unterrichtsfächer im jeweils ausgewählten Schuljahr und Abschnitt bei der selektierten Schülergruppe. Dies kann zum Beispiel notwendig sein, wenn wegen Veränderungen in der Unterrichtsverteilung Unterricht komplett entfällt.\n\n:[[Image:GP-FaecherSloeschen.jpg|Center|300px]]\n\nDas Häkchen, das ganz unten gesetzt werden kann, verhindert das versehentliche Löschen von Fächern, in denen Kurse zugewiesen sind. Ist das Häkchen gesetzt, werden nur Fächer ohne Kurseintrag gelöscht.\n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Fächer|Zurück zu Fächer]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-09-20T09:28:04Z",
+  "lastrevid": 3611,
+  "length": 750
+}

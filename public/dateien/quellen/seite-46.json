@@ -1,0 +1,30 @@
+{
+  "pageid": 46,
+  "ns": 0,
+  "title": "LoadVermerke",
+  "revisions": [
+    {
+      "revid": 67,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2013-11-05T15:50:12Z",
+      "sha1": "3b2c64b651a63ec3f8fc4bbe3a408760f92988ce",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    function LoadVermerke(aVermerkart, aDelimiter: String): String\n|-\n|'''Parameter''' || \n    aVermerkart        - Gewünschte Vermerkart, wie im Katalog „Vermerkarten\n                         definiert.\n    aDelimiter         - Trenner für die Vermerke. Hier ist eine beliebige\n                         Zeichenkette zulässig. Besondere Bedeutung haben '\\t '\n                         bzw. '\\T' (fügt einen Tabulatorschritt ein) und '\\n'\n                         bzw. '\\N' (fügt einen Zeilenvorschub ein).\n|-\n|'''Rückgabewert''' ||\n    Alle Vermerke der gewählten Art, durch den Delimiter voneinander getrennt.\n|- \n|'''Beispiel''' || \n    Procedure DetailBeforePrint;\n    begin\n      Memo1.Text:=LoadVermerke('Betreuung','\\n');\n    end;\n   (*Ergebnis: Alle Betreuungs-Vermerke werden untereinander in einem Memofeld\n    dargestellt.*)\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": "Die Seite wurde neu angelegt: „{|class=\"wikitable\" === RAP-Funktion \"{{SEITENNAME}}\" === |'''Beschreibung''' ||      function LoadVermerke(aVermerkart, aDelimiter: String): String |- |'''Par…“"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-05T15:50:12Z",
+  "lastrevid": 67,
+  "length": 966,
+  "new": ""
+}

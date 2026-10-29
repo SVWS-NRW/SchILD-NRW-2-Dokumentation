@@ -1,0 +1,29 @@
+{
+  "pageid": 364,
+  "ns": 0,
+  "title": "Fächer in Sprachenfolge ersetzen",
+  "revisions": [
+    {
+      "revid": 1899,
+      "parentid": 1613,
+      "user": "Mhoffmann",
+      "timestamp": "2014-03-27T20:14:04Z",
+      "sha1": "2e642f3e2ede38f0a601c3395b557d7e7159bf06",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Dieser Gruppenprozess ermöglicht es, für die aktuell ausgewählte Schülermenge Eintragungen der Fächer in der Sprachenfolge auszutauschen.\n\n[[Datei:GP-Sprachenersetzen.jpg|400px]]\n\nEintragungen wie z.B. \"E5\" oder \"E7\" können über diesen Gruppenprozess durch \"E\" ersetzt werden. Dies ist vor allem für das Oberstufenprogramm LuPO sinnvoll. \n\nÜber die beiden Listenknöpfe werden die internen Kürzel aller Fremdsprachen, die man unter [[Schulverwaltung]] als [[Unterrichtsfächer|Unterrichtsfach]] deklariert hat, zur Auswahl angeboten. \n\n\n----\n\n[[#top|Zum Seitenanfang]]\n\n[[Allgemeines|Zurück zu Allgemeines]]"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-03-27T20:14:04Z",
+  "lastrevid": 1899,
+  "length": 618
+}

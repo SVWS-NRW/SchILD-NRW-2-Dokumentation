@@ -1,0 +1,30 @@
+{
+  "pageid": 979,
+  "ns": 6,
+  "title": "Datei:Chatmodul04.jpg",
+  "revisions": [
+    {
+      "revid": 3746,
+      "parentid": 0,
+      "user": "Pfotenhauer",
+      "timestamp": "2015-12-03T11:52:14Z",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": ""
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-12-03T11:55:14Z",
+  "lastrevid": 3746,
+  "length": 0,
+  "new": ""
+}

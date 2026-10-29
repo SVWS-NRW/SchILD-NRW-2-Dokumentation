@@ -1,0 +1,29 @@
+{
+  "pageid": 81,
+  "ns": 0,
+  "title": "SelectOption",
+  "revisions": [
+    {
+      "revid": 2151,
+      "parentid": 2150,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-05-13T07:57:19Z",
+      "sha1": "5799038ba4f16f45227c5498cfb44588f68d5da5",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    function SelectOption(Prompt, Optionsliste: String; Trennzeichen: Char): Integer;\n    ermöglicht die Auswahl eines Elements aus einer Auswahlliste\n|-\n|'''Parameter''' || \n    Prompt       - Eingabeaufforderung\n    Optionsliste - Liste der verfügbaren Optionen\n    Trennzeichen - Trennt die Optionen in der Liste voneinander\n|-\n|'''Rückgabewert''' ||\n    Nullbasierter Index der gewählten Option oder -1, falls der Dialog\n    nicht über 'Ok' beendet wurde\n|- \n|'''Beispiel''' || \n     var\n      lOption : Integer;\n    begin\n      lOption:=SelectOption('Bitte wählen Sie eine Option:',\n        'Option 1;Option 2;Option 3',';');\n      if lOption <> -1 then\n        Label1.Caption:='Gewählt: Option Nr. ' + IntToStr(lOption)\n      else\n        Label1.Caption:='---';\n    end;\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-05-13T07:57:19Z",
+  "lastrevid": 2151,
+  "length": 907
+}

@@ -1,0 +1,30 @@
+{
+  "pageid": 1011,
+  "ns": 6,
+  "title": "Datei:Klasse versetzungsdetails jb.png",
+  "revisions": [
+    {
+      "revid": 3880,
+      "parentid": 0,
+      "user": "JRaffenberg",
+      "timestamp": "2016-08-25T05:59:56Z",
+      "sha1": "c8d206318afa8bfdef5bfe219aebc3ffb02079e2",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "Einstellungen für die Grundschule in der Klassen-Versetzungstabelle -> Details bei Jahrgangsbezogenem Unterricht."
+        }
+      },
+      "comment": "Einstellungen für die Grundschule in der Klassen-Versetzungstabelle -> Details bei Jahrgangsbezogenem Unterricht."
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2017-05-23T11:17:21Z",
+  "lastrevid": 3880,
+  "length": 114,
+  "new": ""
+}

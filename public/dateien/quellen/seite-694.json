@@ -1,0 +1,29 @@
+{
+  "pageid": 694,
+  "ns": 0,
+  "title": "AlleFaecherLaden",
+  "revisions": [
+    {
+      "revid": 2671,
+      "parentid": 2670,
+      "user": "Pfotenhauer",
+      "timestamp": "2014-11-24T12:34:54Z",
+      "sha1": "c3b398ef9058ef34bce39b3df5b5a0d46112265b",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "{|class=\"wikitable\"\n=== RAP-Funktion \"{{SEITENNAME}}\" ===\n|'''Beschreibung''' || \n    procedure AlleFaecherLaden(const Value: Boolean);\n    Stellt die Grundeinstellung \"Auch Leistungsdaten ohne Noten laden\"\n    für einen Report um.\n|-\n|'''Parameter''' || \n    Value - Boolescher Wert\n|-\n|'''Rückgabewert''' ||\n    ...\n|- \n|'''Beispiel''' || \n    procedure ReportBeforePrint;\n    begin\n      AlleFaecherLaden(True);\n    end;\n|}\n\n\n\n'''Zurück zu [[RAP-Funktionen]]'''"
+        }
+      },
+      "comment": ""
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "de",
+  "pagelanguagehtmlcode": "de",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-11-24T12:34:54Z",
+  "lastrevid": 2671,
+  "length": 467
+}
