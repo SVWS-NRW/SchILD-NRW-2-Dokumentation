@@ -1,7 +1,7 @@
 import test from 'node:test'
 import assert from 'node:assert/strict'
 import fs from 'node:fs'
-import { articlePath, contextualSidebar, sectionForLink } from '../.vitepress/section-navigation.mjs'
+import { articlePath, contextualSidebar } from '../.vitepress/section-navigation.mjs'
 import { createMarkdownRenderer } from 'vitepress'
 import { createSidebar } from '../.vitepress/sidebar.mjs'
 import { printNavigation } from '../.vitepress/section-print-loader.mjs'
@@ -27,13 +27,10 @@ test('Alle Rubriken und Toolmenüs behalten jeden Seitenmenülink im eigenen Kon
    const menu=contextualSidebar(sidebar[section],section,target.link)
    for(const entry of walk(menu[0].items).filter(n=>n.link)) {
     const url=new URL(entry.link,'https://docs.invalid')
-    const expected=section==='/tools/' && sections.includes(articlePath(url.pathname)+'/') ? articlePath(url.pathname)+'/' : section
+    const expected=section
     assert.equal(url.searchParams.get('rubrik'),expected.slice(1,-1),`${section}: ${entry.link}`)
    }
   }
- }
- for(const section of sections.filter(s=>s.startsWith('/tools/')&&s!=='/tools/')) {
-  assert.equal(sectionForLink(section,sections),section,'Toolrubrik muss vor allgemeinem Tools-Menü erkannt werden')
  }
 })
 
@@ -52,7 +49,7 @@ test('Die Tooltabelle enthält alle Programme in einer zusammenhängenden Tabell
  const md=await createMarkdownRenderer(process.cwd())
  const html=md.render(fs.readFileSync('tools/index.md','utf8'))
  assert.equal((html.match(/<table\b/g)||[]).length,1)
- const programs=navigation.nav.find(n=>n.text==='Tools').items.filter(n=>n.text!=='Übersicht')
+ const programs=navigation.sidebar['/tools/'][0].items.filter(n=>n.items)
  assert.equal((html.match(/<tbody>[\s\S]*?<\/tbody>/)?.[0].match(/<tr>/g)||[]).length,programs.length)
 })
 
@@ -61,10 +58,22 @@ test('Der gemeinsame Toolsdruck enthält die vollständigen Einzelanleitungen ge
  const combined=sectionPrintEntries(print,'/tools/')
  const keys=new Set(combined.map(entry=>entry.key))
  assert.equal(keys.size,combined.length)
- for(const section of Object.keys(navigation.sidebar).filter(s=>s.startsWith('/tools/')&&s!=='/tools/')) {
+ for(const section of Object.keys(print.sidebar).filter(s=>s.startsWith('/tools/')&&s!=='/tools/')) {
   for(const entry of sectionPrintEntries(print,section)) {
    assert(keys.has(entry.key),`Im Toolsbuch fehlt ${entry.key}`)
    assert(fs.existsSync(entry.path),`Druckquelle fehlt: ${entry.path}`)
   }
  }
+})
+
+
+test('Tools ist ein normaler Hauptlink mit alphabetischen Themenzweigen ohne doppelte Übersicht',()=>{
+ assert.deepEqual(navigation.nav.find(n=>n.text==='Tools'),{text:'Tools',link:'/tools/'})
+ assert.equal(navigation.sidebar['/reporting/'][0].text,'Reporting')
+ const tools=navigation.sidebar['/tools/'][0].items.filter(n=>n.items)
+ const labels=tools.map(n=>n.text),collator=new Intl.Collator('de',{sensitivity:'base'})
+ assert.deepEqual(labels,[...labels].sort(collator.compare))
+ assert.equal(tools.length,20)
+ for(const tool of tools)assert(!walk(tool.items).some(n=>n.text==='Übersicht'),tool.text)
+ assert.deepEqual(Object.keys(navigation.sidebar),['/schild2/','/programmreferenz/','/reporting/','/tools/','/hilfe/'])
 })

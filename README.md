@@ -28,7 +28,7 @@ Die begrenzte Browserprüfung läuft mit `npm run docs:check-browser`; Playwrigh
 
 ## Aufbau und Pflege
 
-Das Kopfmenü hat fünf Zugänge: **Arbeiten mit SchILD2 · Programmreferenz · Reporting · Tools · Hilfe**. Jedes Tool hat ein eigenes Themenmenü mit Übersicht und Druckvorschau.
+Das Kopfmenü hat fünf Zugänge: **Arbeiten mit SchILD2 · Programmreferenz · Reporting · Tools · Hilfe**. Tools verwendet ein gemeinsames, alphabetisch geordnetes Themenmenü. Der Toolname öffnet seinen Übersichtsartikel und klappt seine Unterartikel auf.
 
 - Artikel direkt in ihren Markdown-Dateien bearbeiten. Sichtbare Quellenlinks, fachliche Einzelheiten, Beispiele und benötigte Sprungziele erhalten.
 - `.vitepress/navigation.json` enthält Themenmenüs und Hauptnavigation; `.vitepress/program-reference.json` die SchILD2-Programmreferenz.

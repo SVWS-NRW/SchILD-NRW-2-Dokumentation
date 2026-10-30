@@ -22,6 +22,11 @@ export function createSidebar(navigation) {
   const print='/druck/'+section.slice(1,-1)+'.md'
   result[print]=contextualSidebar(navigation.sidebar[section],section,print)
  }
+ for(const tool of navigation.sidebar['/tools/'][0].items.filter(item=>item.items)) {
+  for(const item of tool.items.filter(item=>item.link?.startsWith('/druck/'))) {
+   result[item.link.replace(/\.html$/,'.md')]=contextualSidebar(navigation.sidebar['/tools/'],'/tools/',tool.link)
+  }
+ }
  result['/bilder/']=result['/hilfe/']
  return result
 }

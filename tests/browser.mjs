@@ -1,7 +1,7 @@
 import { spawn } from 'node:child_process'
 import fs from 'node:fs/promises'
 import assert from 'node:assert/strict'
-import { checkSectionMenus } from './section-browser.mjs'
+import { checkSectionMenus, checkToolsTree } from './section-browser.mjs'
 import { checkPetrolTheme } from './petrol-browser.mjs'
 const { chromium } = await import(process.env.PLAYWRIGHT_MODULE || 'playwright')
 const base = 'http://127.0.0.1:4192'
@@ -61,6 +61,7 @@ try {
   assert(await page.locator('.vp-doc #signatur').count(),'Alte Signatur-Sprungmarke fehlt')
   await checkPetrolTheme(page,base)
   await checkSectionMenus(page,base)
+  await checkToolsTree(page,base)
   await page.goto(base+'/schild2/import-export-statistik/schnittstellenbeschreibung.html',{waitUntil:'networkidle'})
   assert(await page.locator('.interface-fields').count()>20,'Feldtabellen müssen ihre tatsächliche Layoutklasse erhalten')
   await page.locator('.interface-table-scroll').first().focus()
@@ -100,7 +101,7 @@ try {
   assert.equal(await page.locator('a[href^="/dateien/handbuecher/"]').count(),0,'Zusätzliche Downloads sind noch verlinkt')
   await page.goto(base+'/hilfe/zusatzprogramme/lupo-lupo.html',{waitUntil:'networkidle'})
   await page.waitForURL('**/tools/lupo.html')
-  assert(await page.locator('.VPNavBarMenu').getByRole('button',{name:'Tools',exact:true}).evaluate(e=>e.closest('.VPNavBarMenuGroup').classList.contains('active')),'Alte LuPO-Adresse muss Tools im Kopfmenü aktivieren')
+  assert(await page.locator('.VPNavBarMenu').getByRole('link',{name:'Tools',exact:true}).evaluate(e=>e.classList.contains('active')),'Alte LuPO-Adresse muss Tools im Kopfmenü aktivieren')
   await page.goto(base+'/schild2/import-export-statistik/statistik-mit-asdpc-uebersicht-1346.html',{waitUntil:'networkidle'})
   await page.waitForURL('**/statistik-mit-asdpc-uebersicht.html')
   await page.goto(base+'/hilfe/zusatzprogramme/prognos-analyseverfahren-klasse.html',{waitUntil:'networkidle'})

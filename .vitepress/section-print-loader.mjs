@@ -3,21 +3,18 @@ import navigation from './navigation.json' with { type: 'json' }
 import reference from './program-reference.json' with { type: 'json' }
 import { createSidebar } from './sidebar.mjs'
 import { sectionPrintEntries, canonicalArticle } from './section-print.mjs'
-import { articlePath } from './section-navigation.mjs'
 
 export function printNavigation() {
   const sidebar = createSidebar(navigation)
   const groups = sidebar['/programmreferenz/']
   const referenceNode = node => ({ ...node, items: (node.items || []).map(referenceNode) })
   sidebar['/programmreferenz/'] = [{ ...groups[0], items: [...groups[0].items, ...reference.tabs.map(referenceNode)] }, ...groups.slice(1)]
-  // The general Tools book still includes all instructions. Individual tool
-  // books use their independent menus and contain only that tool's chapters.
-  const tools = sidebar['/tools/'][0]
-  sidebar['/tools/'] = [{ ...tools, items: tools.items.map(item => {
-    const section = item.link && sidebar[articlePath(item.link) + '/']
-    return section && articlePath(item.link) !== '/tools'
-      ? { ...item, items: section[0].items.slice(2) } : item
-  }) }]
+  // Keep existing individual print addresses while the screen uses one menu.
+  for (const tool of navigation.sidebar['/tools/'][0].items.filter(item => item.items)) {
+    sidebar[tool.link + '/'] = [{ text: tool.text, items: [
+      { text: 'Übersicht', link: tool.link }, ...tool.items
+    ] }]
+  }
   return { sidebar }
 }
 

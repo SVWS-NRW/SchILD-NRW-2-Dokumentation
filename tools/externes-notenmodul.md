@@ -4,8 +4,8 @@ Das ältere externe Notenmodul verarbeitet die von SchILD ausgegebenen Notendate
 
 ## Themen
 
-- [Vorbereitung und Datenaustausch](/zeugnisse/vorbereitung/externes-notenmodul?rubrik=tools%2Fexternes-notenmodul)
-- [Noten eingeben](/zeugnisse/vorbereitung/benutzung-des-externen-notenmoduls?rubrik=tools%2Fexternes-notenmodul)
-- [Notenmodul unter Ubuntu](/administration/installation/einrichtung-des-enm-moduls-unter-ubuntu-18-04?rubrik=tools%2Fexternes-notenmodul)
+- [Vorbereitung und Datenaustausch](/zeugnisse/vorbereitung/externes-notenmodul?rubrik=tools)
+- [Noten eingeben](/zeugnisse/vorbereitung/benutzung-des-externen-notenmoduls?rubrik=tools)
+- [Notenmodul unter Ubuntu](/administration/installation/einrichtung-des-enm-moduls-unter-ubuntu-18-04?rubrik=tools)
 
 Programmbezug und verfügbare Ausgaben: [offizielle Programmseite](https://www.svws.nrw.de/schild-nrw-2/tools-module).

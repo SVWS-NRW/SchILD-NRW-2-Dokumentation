@@ -15,16 +15,11 @@ export function sectionLink(link, section) {
   return url.pathname + url.search + url.hash
 }
 
-function destinationSection(link, section) {
-  const path = articlePath(link)
-  return section === '/tools/' && path !== '/tools/anleitungen' && /^\/tools\/[^/]+$/.test(path) ? path + '/' : section
-}
-
 export function contextualSidebar(groups, section, route) {
   const current = articlePath(route)
   const contains = node => articlePath(node.link || '/') === current || (node.items || []).some(contains)
   const decorate = node => ({ ...node,
-    ...(node.link ? { link: sectionLink(node.link, destinationSection(node.link, section)) } : {}),
+    ...(node.link ? { link: sectionLink(node.link, section) } : {}),
     ...(node.items?.length ? { collapsed: !contains(node), items: node.items.map(decorate) } : {})
   })
   // 'Weitere Bereiche' deliberately changes sections; only the reading menu
@@ -39,7 +34,7 @@ export function sectionEntries(groups, section) {
       const key = articlePath(node.link)
       if (!seen.has(key)) {
         seen.add(key)
-        entries.push({ key, text: node.text, link: sectionLink(node.link, destinationSection(node.link, section)) })
+        entries.push({ key, text: node.text, link: sectionLink(node.link, section) })
       }
     }
     for (const child of node.items || []) visit(child)
