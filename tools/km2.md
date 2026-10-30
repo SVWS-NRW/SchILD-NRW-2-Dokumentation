@@ -4,12 +4,12 @@ Das Konferenzmodul zeigt Leistungsdaten und unterstützt die Bearbeitung währen
 
 ## Themen
 
-- [Überblick](/hilfe/zusatzprogramme/konferenzmodul-km2-exe?rubrik=tools%2Fkm2)
-- [Installation und Einrichtung](/hilfe/zusatzprogramme/km2-001?rubrik=tools%2Fkm2)
-- [Datenbank und Administration](/hilfe/zusatzprogramme/km2-parameter-administration?rubrik=tools%2Fkm2)
-- [Anzeige und Fächerauswahl](/hilfe/zusatzprogramme/km2-parameter-allgemein?rubrik=tools%2Fkm2)
-- [Konferenzarbeit](/hilfe/zusatzprogramme/modulbenutzung?rubrik=tools%2Fkm2)
-- [Aktualisieren](/hilfe/zusatzprogramme/km2-programmupdate?rubrik=tools%2Fkm2)
+- [Überblick](/hilfe/zusatzprogramme/konferenzmodul-km2-exe?rubrik=tools)
+- [Installation und Einrichtung](/hilfe/zusatzprogramme/km2-001?rubrik=tools)
+- [Datenbank und Administration](/hilfe/zusatzprogramme/km2-parameter-administration?rubrik=tools)
+- [Anzeige und Fächerauswahl](/hilfe/zusatzprogramme/km2-parameter-allgemein?rubrik=tools)
+- [Konferenzarbeit](/hilfe/zusatzprogramme/modulbenutzung?rubrik=tools)
+- [Aktualisieren](/hilfe/zusatzprogramme/km2-programmupdate?rubrik=tools)
 
 ## Zum passenden Einstieg
 

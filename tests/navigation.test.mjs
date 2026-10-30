@@ -24,7 +24,7 @@ test('Menüs führen auf vorhandene Artikel und jede Rubrik bietet Übersicht un
   }
   const sidebar=createSidebar(navigation)
   assert.equal(sidebar['/bilder/'][0].text,'Hilfe')
-  assert.equal(articlePath(sidebar['/tools/notenmodul-grundschule/leistungsdaten.md'][0].items[0].link),'/tools/notenmodul-grundschule')
+  assert.equal(articlePath(sidebar['/tools/notenmodul-grundschule/leistungsdaten.md'][0].items[0].link),'/tools')
   for (const [route, groups] of Object.entries(sidebar)) {
     if (route.startsWith('/programmreferenz/') || route==='/druck/programmreferenz.md') continue
     assert.notEqual(groups[0].items[0].link,'/programmreferenz/',`Referenz überschreibt normale Artikelroute: ${route}`)
@@ -36,7 +36,6 @@ test('Jeder Artikelaufruf aus einem Rubrikmenü trägt seine Rubrik mit',()=>{
   for(const section of Object.keys(navigation.sidebar)) {
     for(const item of visit(sidebar[section][0].items)) {
       if(!item.link?.startsWith('/'))continue
-      if(section==='/tools/' && new URL(item.link,'https://docs.invalid').pathname.match(/^\/tools\/[^/]+\/?$/))continue
       assert.equal(new URL(item.link,'https://docs.invalid').searchParams.get('rubrik'),section.slice(1,-1),item.link)
     }
     // Switching sections through 'Weitere Bereiche' must remain intentional.
@@ -49,7 +48,7 @@ test('Jeder Artikelaufruf aus einem Rubrikmenü trägt seine Rubrik mit',()=>{
 test('Geteilte Artikel behalten Themenzweig, Pager und Hauptmenü ihrer gewählten Rubrik',()=>{
   const sidebar=createSidebar(navigation)
   const route='/tools/notenmodul-grundschule/leistungsdaten.html'
-  for(const section of ['/tools/notenmodul-grundschule/','/schild2/']) {
+  for(const section of ['/tools/','/schild2/']) {
     const groups=contextualSidebar(sidebar[section],section,route)
     assert.equal(articlePath(groups[0].items[0].link),articlePath(section))
     const entry=sectionEntries(groups,section).find(item=>item.key===articlePath(route))

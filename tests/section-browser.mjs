@@ -10,8 +10,8 @@ export async function checkSectionMenus(page,base) {
  for(const [section,groups] of Object.entries(navigation.sidebar)) {
   if(section==='/programmreferenz/')continue // custom reference navigation tested separately
   const topics=groups[0].items.slice(2)
-  const category=topics.find(item=>item.items?.some(child=>child.link))
-  const candidate=category ? walk(category.items).find(x=>x.link?.startsWith('/')&&!x.link.includes('#')) : topics.find(x=>x.link)
+  const category=topics.find(item=>item.items?.some(child=>child.link?.startsWith('/')&&!child.link.startsWith('/druck/')&&!child.link.includes('#')))
+  const candidate=category ? walk(category.items).find(x=>x.link?.startsWith('/')&&!x.link.startsWith('/druck/')&&!x.link.includes('#')) : topics.find(x=>x.link)
   if(!candidate)continue
   cases.push({section,target:candidate.link,start:category?.link||candidate.link})
  }
@@ -31,7 +31,6 @@ export async function checkSectionMenus(page,base) {
   assert(href,`Sichtbarer Artikel fehlt in ${section}: ${target}`)
   await page.locator('#VPSidebarNav a[href="'+href+'"]').first().click()
   await page.waitForLoadState('networkidle')
-  if(section==='/tools/' && navigation.sidebar[articlePath(target)+'/'])section=articlePath(target)+'/'
   const check=async()=>{
    await page.waitForFunction(expected=>{const link=document.querySelector('#VPSidebarNav a');return link&&new URL(link.href).searchParams.get('rubrik')===expected},section.slice(1,-1))
    assert.equal(new URL(page.url()).searchParams.get('rubrik'),section.slice(1,-1))
@@ -49,4 +48,39 @@ export async function checkSectionMenus(page,base) {
   }
  }
  console.log(`${cases.length} Rubrik- und Toolmenüs mit Artikelklick, Neuladen und Weiterblättern geprüft.`)
+}
+
+
+export async function checkToolsTree(page,base) {
+ const tools=navigation.sidebar['/tools/'][0].items.filter(item=>item.items)
+ await page.goto(base+'/tools/?rubrik=tools',{waitUntil:'networkidle'})
+ assert.equal(await page.locator('.VPNavBarMenu').getByRole('button',{name:'Tools',exact:true}).count(),0)
+ const top=page.locator('.VPNavBarMenu').getByRole('link',{name:'Tools',exact:true})
+ assert.equal(new URL(await top.getAttribute('href'),base).pathname,'/tools/')
+ let previous
+ for(const tool of tools) {
+  const link=page.locator('#VPSidebarNav').getByRole('link',{name:tool.text,exact:true}).first()
+  await link.click()
+  await page.waitForFunction(expected=>document.querySelector('.vp-doc h1')?.textContent.replace(/\u200b/g,'').trim()===expected,tool.text)
+  await page.waitForFunction(href=>{
+   const link=[...document.querySelectorAll('#VPSidebarNav a')].find(a=>new URL(a.href).pathname===new URL(href,location.origin).pathname+'.html')
+   return link&&!link.closest('.VPSidebarItem').classList.contains('collapsed')
+  },tool.link)
+  assert.equal(new URL(page.url()).searchParams.get('rubrik'),'tools')
+  assert.equal(await page.locator('#VPSidebarNav').getByRole('link',{name:'Übersicht',exact:true}).count(),1)
+  if(previous)assert(await page.locator('#VPSidebarNav').getByRole('link',{name:previous.text,exact:true}).first().evaluate(a=>a.closest('.VPSidebarItem').classList.contains('collapsed')))
+  const child=tool.items.find(x=>x.link?.startsWith('/')&&!x.link.startsWith('/druck/')&&!x.link.includes('#'))
+  if(child) {
+   await page.locator('#VPSidebarNav a').filter({hasText:child.text}).filter({visible:true}).first().click()
+   await page.waitForLoadState('networkidle')
+   assert.equal(new URL(page.url()).searchParams.get('rubrik'),'tools')
+  }
+  previous=tool
+ }
+ await page.goto(base+'/tools/lupo.html?rubrik=tools%2Flupo',{waitUntil:'networkidle'})
+ assert.equal(await page.locator('#VPSidebarNav').getByRole('link',{name:'Übersicht',exact:true}).count(),1)
+ assert(await page.locator('#VPSidebarNav').getByRole('link',{name:'ASDPC',exact:true}).count())
+ await page.goto(base+'/reporting/',{waitUntil:'networkidle'})
+ assert.equal((await page.locator('#VPSidebarNav .group > .VPSidebarItem > .item .text').first().innerText()).trim(),'Reporting')
+ console.log('Alle 20 Tools: Artikel öffnen, passender Zweig auf, vorheriger Zweig zu; gemeinsame Übersicht und alter Toolkontext geprüft.')
 }

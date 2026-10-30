@@ -4,8 +4,8 @@ Mit dem Grundschul-Notenmodul bearbeiten Lehrkräfte Noten, Zeugnistexte und Ank
 
 ## Themen
 
-- [Vorbereitung und Export](/tools/notenmodul-grundschule/vorbereitung?rubrik=tools%2Fnotenmodul-grundschule)
-- [Noten und Kompetenzen eingeben](/tools/notenmodul-grundschule/leistungsdaten?rubrik=tools%2Fnotenmodul-grundschule)
-- [Rückgabe, Import und Druck](/tools/notenmodul-grundschule/rueckgabe-und-druck?rubrik=tools%2Fnotenmodul-grundschule)
+- [Vorbereitung und Export](/tools/notenmodul-grundschule/vorbereitung?rubrik=tools)
+- [Noten und Kompetenzen eingeben](/tools/notenmodul-grundschule/leistungsdaten?rubrik=tools)
+- [Rückgabe, Import und Druck](/tools/notenmodul-grundschule/rueckgabe-und-druck?rubrik=tools)
 
 Programmbezug und verfügbare Ausgaben: [offizielle Programmseite](https://www.svws.nrw.de/schild-nrw-2/tools-module).

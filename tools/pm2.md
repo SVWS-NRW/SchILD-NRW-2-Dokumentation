@@ -4,11 +4,11 @@ Das Prognosemodul untersucht einzelne Notenbilder, Klassen aus SchILD oder Leist
 
 ## Themen
 
-- [Handbuch](/hilfe/zusatzprogramme/prognos?rubrik=tools%2Fpm2)
-- [Einführung](/hilfe/zusatzprogramme/prognos-einleitung?rubrik=tools%2Fpm2)
-- [Installation](/hilfe/zusatzprogramme/prognos-installation?rubrik=tools%2Fpm2)
-- [Erster Programmstart](/hilfe/zusatzprogramme/prognos-programmstart?rubrik=tools%2Fpm2)
-- [Analyseverfahren](/hilfe/zusatzprogramme/prognos-hauptfenster?rubrik=tools%2Fpm2)
-- [Analysen und Ergebnisse](/tools/pm2/analysen-und-ergebnisse?rubrik=tools%2Fpm2)
+- [Handbuch](/hilfe/zusatzprogramme/prognos?rubrik=tools)
+- [Einführung](/hilfe/zusatzprogramme/prognos-einleitung?rubrik=tools)
+- [Installation](/hilfe/zusatzprogramme/prognos-installation?rubrik=tools)
+- [Erster Programmstart](/hilfe/zusatzprogramme/prognos-programmstart?rubrik=tools)
+- [Analyseverfahren](/hilfe/zusatzprogramme/prognos-hauptfenster?rubrik=tools)
+- [Analysen und Ergebnisse](/tools/pm2/analysen-und-ergebnisse?rubrik=tools)
 
 Programmbezug und verfügbare Ausgaben: [offizielle Programmseite](https://www.svws.nrw.de/schild-nrw-2/tools-module).

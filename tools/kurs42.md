@@ -4,13 +4,13 @@ Kurs42 organisiert Kurswahlen, Kurszuordnungen und Blockungen der gymnasialen Ob
 
 ## Themen
 
-- [Installation](/hilfe/zusatzprogramme/kurs42-installationshinweise?rubrik=tools%2Fkurs42)
-- [Zusammenspiel mit SchILD und LuPO](/tools/kurs42/datenfluss?rubrik=tools%2Fkurs42)
-- [Neue Blockung erstellen](/tools/kurs42/neue-blockung?rubrik=tools%2Fkurs42)
-- [Klausuren planen](/tools/kurs42/klausurplanung?rubrik=tools%2Fkurs42)
-- [Halbjahreswechsel und Fachwahlabgleich](/tools/kurs42/halbjahreswechsel?rubrik=tools%2Fkurs42)
-- [K422CNF-Anleitung](/hilfe/zusatzprogramme/k422cnf-uebersicht?rubrik=tools%2Fkurs42)
-- [SchILDzentral](/hilfe/zusatzprogramme/news-kurs42-unter-schild-zentral?rubrik=tools%2Fkurs42)
-- [Änderungshistorie](/hilfe/zusatzprogramme/kurs42-versionsgeschichte?rubrik=tools%2Fkurs42)
+- [Installation](/hilfe/zusatzprogramme/kurs42-installationshinweise?rubrik=tools)
+- [Zusammenspiel mit SchILD und LuPO](/tools/kurs42/datenfluss?rubrik=tools)
+- [Neue Blockung erstellen](/tools/kurs42/neue-blockung?rubrik=tools)
+- [Klausuren planen](/tools/kurs42/klausurplanung?rubrik=tools)
+- [Halbjahreswechsel und Fachwahlabgleich](/tools/kurs42/halbjahreswechsel?rubrik=tools)
+- [K422CNF-Anleitung](/hilfe/zusatzprogramme/k422cnf-uebersicht?rubrik=tools)
+- [SchILDzentral](/hilfe/zusatzprogramme/news-kurs42-unter-schild-zentral?rubrik=tools)
+- [Änderungshistorie](/hilfe/zusatzprogramme/kurs42-versionsgeschichte?rubrik=tools)
 
 Programmbezug und verfügbare Ausgaben: [offizielle Programmseite](https://www.svws.nrw.de/schild-nrw-2/kurs42).

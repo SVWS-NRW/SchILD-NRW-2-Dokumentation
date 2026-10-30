@@ -27,7 +27,7 @@ const indexMode = computed(() => page.value.relativePath === 'hilfe/alle-artikel
 const referenceMode = computed(() => !indexMode.value && (page.value.relativePath.startsWith('programmreferenz/') || page.value.relativePath === 'druck/programmreferenz.md' || (mounted.value && !!referenceSelection.value)))
 const sections = Object.keys(navigation.sidebar)
 const selectedSection = computed(() => {
-  const section = '/' + sectionSelection.value + '/'
+  const section = sectionSelection.value.startsWith('tools/') ? '/tools/' : '/' + sectionSelection.value + '/'
   return mounted.value && sections.includes(section) ? section : ''
 })
 const currentPath = computed(() => '/' + page.value.relativePath)

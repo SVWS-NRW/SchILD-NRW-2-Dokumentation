@@ -4,6 +4,6 @@ Das Migrationstool überträgt SchILD-Daten in eine andere Datenbank. Die vorhan
 
 ## Themen
 
-- [Datenbank übertragen](/administration/datenbanken/schild-nrw-daten-in-eine-andere-datenbank-uebertragen-migrieren?rubrik=tools%2Fmigrationstool)
+- [Datenbank übertragen](/administration/datenbanken/schild-nrw-daten-in-eine-andere-datenbank-uebertragen-migrieren?rubrik=tools)
 
 Programmbezug und verfügbare Ausgaben: [offizielle Programmseite](https://www.svws.nrw.de/schild-nrw-2/tools-module).
