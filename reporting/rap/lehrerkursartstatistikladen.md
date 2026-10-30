@@ -11,17 +11,16 @@ title: "LehrerKursartStatistikLaden"
 
 ## Beschreibung
 
-```pascal
-Procedure LehrerKursartStatistikLaden;
-```
-
-
 Durch den Aufruf dieser Prozedur wird die Datenquelle
 'LehrerUnterrichtsStatistik' mit Daten gefüllt.
 Diese Datenquelle sollte nur als Datenquelle für eine Kreuztabelle
 eingesetzt werden, die dann statistische Aussagen über den Unterricht
 des Lehrers (Anzahl der Schüler mit Kursart xyz...) liefert. Auch diese
 Datenquelle ist Detaildatenquelle der Datenquelle 'Lehrer'.
+
+```pascal
+Procedure LehrerKursartStatistikLaden;
+```
 
 ## Beispiel
 
@@ -32,7 +31,6 @@ Procedure DetailBeforeGenerate;
    LehrerKursartStatistikLaden;
  end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

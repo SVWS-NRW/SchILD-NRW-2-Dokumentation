@@ -6,7 +6,7 @@ title: "Menü Datei"
 
 # Menü Datei
 
-Mit diesem Menü gelangen Sie an folgende Funktionen:
+Das Menü **Datei** enthält Funktionen zum Drucker, zur Datenbank und zur Anmeldung. Wählen Sie die gewünschte Funktion aus der folgenden Übersicht.
 
 <a id="drucker-einrichten"></a>
 
@@ -16,7 +16,7 @@ Hier können Sie die Standardeinstellungen für den Drucker beeinflussen.
 
 Datenbank reparieren und komprimieren
 
-Diese Funktion steht seit der Version 2.0.7.1 unter "Datei" zur Verfügung. Dabei wird, wenn Sie der einzige angemeldete User an der Datenbank sind, das Komprimierungstool für Access-Datenbanken von Microsoft aufgerufen. Es hat sich in der Praxis gezeigt, dass Access-Datenbanken sich nach dieser Reparatur gerade in Netzwerkumgebungen deutlich beschleunigen lassen!
+Diese Funktion steht seit der Version 2.0.7.1 unter "Datei" zur Verfügung. Dabei wird, wenn Sie der einzige angemeldete Benutzer an der Datenbank sind, das Komprimierungstool für Access-Datenbanken von Microsoft aufgerufen. Es hat sich in der Praxis gezeigt, dass Access-Datenbanken sich nach dieser Reparatur gerade in Netzwerkumgebungen deutlich beschleunigen lassen!
 
 Führen Sie diese Funktion regelmäßig vor größeren Datenbank-Arbeiten oder Druckaufträgen (im Netzwerk) durch.
 
@@ -26,7 +26,7 @@ Diese Funktion steht nur bei Access zur Verfügung!
 
 Benutzer wechseln
 
-Meldet den aktuellen User ab und einen neuen User (evtl. mit anderen Berechtigungen) an.
+Meldet den aktuellen Benutzer ab und einen neuen Benutzer (gegebenenfalls mit anderen Berechtigungen) an.
 
 <a id="beenden"></a>
 

@@ -55,7 +55,7 @@ Diese Schule muss dann im Katalog der Schulen ein Kürzel haben!\
 Hier wird die Kursart des Kurses festgelegt.\
 Diese allgemeine Kursart kann sich von den beim Schüler eingetragenen Kursarten unterscheiden.\
 Z.B. wäre ein Grundkurs (GK) beim Schüler dann mit Grundkurs schriftl. (GKS) eingetragen.\
-Auch sog. Differenzierungkurse (DK) an den Schulformen GE und SK würden bei den Schülern dann\
+Auch sogenannte Differenzierungkurse (DK) an den Schulformen GE und SK würden bei den Schülern dann\
 mit E-Kurs oder G-Kurs eingetragen.\
 
 - ZE/Woche insges.
@@ -77,13 +77,15 @@ Hier steht die Zahl der Lehrer, die noch als zusätzliche Lehrkräfte�
 
 - Fortschreibungsart
 
-Die Fortschreibungsart bestimmt, wie bei der Versetzung mit dem Kurs umgegangen wird.\
-Bitte beachten Sie, dass die Fortschreibungsart bei jedem Abschnittswechsel berücksichtigt wird!\
-\# **keine:** Der Kurs wird bei der Versetzung in den neuen Abschnitt gelöscht!\
-\# **Nur Definition, Jg. beibehalten:** Alle Schüler werden aus dem Kurs gelöscht, der Kurs bleibt in seinem Jahrgang bestehen.\
-\# **Nur Definition, Jg. hochschreiben:** Alle Schüler werden aus dem Kurs gelöscht, der Kurs wird einen Jahrgang hochgeschrieben.\
-\# **Komplett:** Der Kurs wird mit allen Schülern in den nächsten Abschnitt geführt. \
-            Beim Schuljahreswechsel wird der Jahrgang erhöht.\
+Die **Fortschreibungsart** legt fest, was bei jedem Abschnittswechsel mit dem Kurs und seiner Schülerzuordnung geschieht. Prüfen Sie die Einstellung deshalb vor dem Wechsel.
+
+| Einstellung | Wirkung beim Abschnittswechsel |
+| --- | --- |
+| **keine** | Der Kurs wird gelöscht. |
+| **Nur Definition, Jg. beibehalten** | Die Schülerzuordnungen werden entfernt. Der Kurs bleibt im bisherigen Jahrgang bestehen. |
+| **Nur Definition, Jg. hochschreiben** | Die Schülerzuordnungen werden entfernt. Der Kurs wird einen Jahrgang hochgeschrieben. |
+| **Komplett** | Der Kurs wird mit den zugeordneten Personen in den nächsten Abschnitt übernommen. Beim Schuljahreswechsel wird der Jahrgang erhöht. |
+
 
 - Sortierung
 
@@ -118,7 +120,7 @@ Markiert alle Kurse, die sich zur Zeit in der Auswahl befinden.\
 - Markiere Kurse löschen
 
 Löscht alle markierten Kurse.\
-Dieser Menüpunkt kann nützlich sein, wenn Sie z.B. eine Blockung für alle Schüler eines Jahrgangs löschen wollen.\
+Dieser Menüpunkt kann nützlich sein, wenn Sie zum Beispiel eine Blockung für alle Schüler eines Jahrgangs löschen wollen.\
 
 - Markierte Kurse kopieren
 

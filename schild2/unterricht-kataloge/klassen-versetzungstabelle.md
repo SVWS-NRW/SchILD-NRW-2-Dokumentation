@@ -6,7 +6,7 @@ title: "Klassen und Versetzungstabelle"
 
 # Klassen und Versetzungstabelle
 
-In der Klassen-/Versetzungstabelle werden alle Klassen, die in Schild-NRW Schülergruppen aufnehmen sollen, angelegt. Wie in allen Katalogen gibt es auch hier eine Benutzerdefinierte Sortierung und ein Merkmal für die Sichtbarkeit, damit Klassen, die zwar noch Schüler (Abgänger) enthalten, aber evtl. nicht mehr benötigt werden, ausgeblendet werden können.
+In der Klassen-/Versetzungstabelle werden alle Klassen, die in Schild-NRW Schülergruppen aufnehmen sollen, angelegt. Wie in allen Katalogen gibt es auch hier eine Benutzerdefinierte Sortierung und ein Merkmal für die Sichtbarkeit, damit Klassen, die zwar noch Schüler (Abgänger) enthalten, aber gegebenenfalls nicht mehr benötigt werden, ausgeblendet werden können.
 
 Hinter dem Karteireiter **Details** verbergen sich dann alle Einstellungen, die zu jeder Klasse vorgenommen werden können.
 
@@ -22,7 +22,7 @@ Das interne Klassenkürzel muss eindeutig sein und kann beliebig vergeben werden
 
 **Statistik-Bezeichnung**
 
-Auch die Statistikbezeichnung muss eindeutig sein. Diese kann von der Internen Bezeichnung abweichen und ist für den Export nach ASDPC32 gedacht. Beim Import in ASDPC32 werden dabei die ersten beiden Stellen der Klassenbezeichnung als Jahrgangsangabe interpretiert. Der dritte Buchstabe dient zur Erstellung der Parallelität. Es ist also zu empfehlen, die Statistikbezeichnung nach dem Muster z.B. 01A zu vergeben, damit in der KLD der Statistik diese Klasse direkt mit dem Jahrgang 1E und der Parallelität A angelegt wird.
+Auch die Statistikbezeichnung muss eindeutig sein. Diese kann von der Internen Bezeichnung abweichen und ist für den Export nach ASDPC32 gedacht. Beim Import in ASDPC32 werden dabei die ersten beiden Stellen der Klassenbezeichnung als Jahrgangsangabe interpretiert. Der dritte Buchstabe dient zur Erstellung der Parallelität. Es ist also zu empfehlen, die Statistikbezeichnung nach dem Muster zum Beispiel 01A zu vergeben, damit in der KLD der Statistik diese Klasse direkt mit dem Jahrgang 1E und der Parallelität A angelegt wird.
 
 **Jahrgang**
 
@@ -30,7 +30,7 @@ Geben Sie hier den Jahrgang der Klasse oder den Jahrgang, der in der Klasse am h
 
 **zusätzliche Beschreibung**
 
-Hier kann ein beliebiger Text eingetragen werden, der z.B. auf Reports genutzt werden kann.
+Hier kann ein beliebiger Text eingetragen werden, der zum Beispiel auf Reports genutzt werden kann.
 
 **Teilstandort**
 
@@ -56,7 +56,7 @@ Tragen Sie hier eine Folgeklasse ein, wenn bei der Versetzung alle Schüler in d
 
 **Vorgänger-Klasse**
 
-Hier sollte, wenn möglich die Vorgängerklasse eingetragen werden. Dies ist z.B. wichtig bei der Blockungsplanung in Kurs42, damit bei der Planung für das Folgeschuljahr per Programm entschieden werden kann, welche Klasse im Schuljahr davor relevant war.
+Hier sollte, wenn möglich die Vorgängerklasse eingetragen werden. Dies ist zum Beispiel wichtig bei der Blockungsplanung in Kurs42, damit bei der Planung für das Folgeschuljahr per Programm entschieden werden kann, welche Klasse im Schuljahr davor relevant war.
 
 **Klassenlehrer und stellv. Klassenlehrer**
 
@@ -68,11 +68,11 @@ Dies ist die Klassenart, die bei der Statistik an ASDPC32 in die KLD übermittel
 
 **Schulgliederung**
 
-Hier wird der Bildungsgang eingetragen, in dem sich die Schüler der Klasse befinden. In Berufkollegs ist das die Anlage, bei vielen weiterführenden Schulen ist das einfach der Eintrag "\*\*\* Standard für diese Schulform". In neu gegründeten Schulen können hier auber auch unterschiedliche Einträge stehen, z.B. "R7 Realschulzweig auslaufend" oder Ähnliches.
+Hier wird der Bildungsgang eingetragen, in dem sich die Schüler der Klasse befinden. In Berufkollegs ist das die Anlage, bei vielen weiterführenden Schulen ist das einfach der Eintrag "\*\*\* Standard für diese Schulform". In neu gegründeten Schulen können hier auber auch unterschiedliche Einträge stehen, zum Beispiel "R7 Realschulzweig auslaufend" oder Ähnliches.
 
 **Prüfungsordnung** Hier kann die Prüfungsordnung der Schüler in der Klasse eingetragen werden.
 
-**Organisationsform** Dieser Eintrag wird auch an die Statistik übermittelt. Bitte beachten Sie, dass die Organisationsform "Teilnahme am offenen Ganztag" bei den Schülern individuell eingetragen werden muss, da u.U. nicht alle Schüler der Klasse dort teilnehmen.
+**Organisationsform** Dieser Eintrag wird auch an die Statistik übermittelt. Bitte beachten Sie, dass die Organisationsform "Teilnahme am offenen Ganztag" bei den Schülern individuell eingetragen werden muss, da unter Umständen nicht alle Schüler der Klasse dort teilnehmen.
 
 :::tip
 **Aktuelle Angaben in Schülerdaten übernehmen**

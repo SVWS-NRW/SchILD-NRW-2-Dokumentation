@@ -11,6 +11,8 @@ title: "LookupSprachenfolge"
 
 ## Beschreibung
 
+Prüft, ob das über sein Statistikkürzel angegebene Fach in der Sprachenfolge vorhanden ist.
+
 ```pascal
 Function LookupSprachenfolge(aStatistikKrz: String):Boolean;
 ```
@@ -20,7 +22,6 @@ Function LookupSprachenfolge(aStatistikKrz: String):Boolean;
 | Parameter | Bedeutung |
 | --- | --- |
 | `aStatistikKrz` | Statistikkürzel des gesuchten Faches |
-
 
 ## Rückgabewert
 
@@ -37,7 +38,6 @@ begin
   Checkbox1.Checked:=LookupSprachenfolge('L7')
 end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

@@ -11,13 +11,12 @@ title: "ReplaceTextEx"
 
 ## Beschreibung
 
+Im Unterschied zu ReplaceText berücksichtigt ReplaceTextEx Groß- und Kleinschreibung.
+
 ```pascal
 function ReplaceTextEx(aSourceText, aSearchText,
                        aReplaceText: String): *   String;
 ```
-
-
-Im Unterschied zu ReplaceText berücksichtigt ReplaceTextEx Groß- und Kleinschreibung.
 
 ## Parameter
 
@@ -26,7 +25,6 @@ Im Unterschied zu ReplaceText berücksichtigt ReplaceTextEx Groß- und Kleinschr
 | `aSourceText` | Text, der den zu ersetzenden String (selbst definierter Platzhalter) enthält |
 | `aSearchText` | String, der ersetzt werden soll |
 | `aReplaceText` |  |
-
 
 ## Rückgabewert
 
@@ -37,7 +35,6 @@ Veränderter Quelltext
 ```pascal
 Memo1.Text:=ReplaceTextEx(Memo1.Text,'$VORNAME$',Schueler['Vorname']);
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

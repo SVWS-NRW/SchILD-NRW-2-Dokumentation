@@ -11,6 +11,8 @@ title: "SelectStringEx"
 
 ## Beschreibung
 
+Zeigt eine Auswahlliste an und liefert den gewählten Eintrag zurück. Das Trennzeichen zwischen den vorgegebenen Einträgen können Sie selbst festlegen.
+
 ```pascal
 function SelectStringEx(Prompt, Optionsliste: String; Trennzeichen: Char): String;
 ```
@@ -22,7 +24,6 @@ function SelectStringEx(Prompt, Optionsliste: String; Trennzeichen: Char): Strin
 | `Prompt` | Hinweistext |
 | `Optionsliste` | Mit Trennzeichen separierte Liste von Daten, die in einem Auswahldialog angezeigt werden. |
 | `Trennzeichen` | Beliebig wählbar, darf nur nicht in den zu trennenden Datensätzen vorkommen |
-
 
 ## Rückgabewert
 
@@ -38,7 +39,6 @@ Procedure ReportBeforePrint;
    lSchulform:=SelectStringEx('Bitte Schulform wählen',
   'Gymnasium|Realschule|Hauptschule','|');
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

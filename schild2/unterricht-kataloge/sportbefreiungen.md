@@ -4,6 +4,8 @@ title: "Sportbefreiungen"
 
 # Sportbefreiungen
 
+Dieser Katalog enthält die auswählbaren Gründe für eine Sportbefreiung. Die folgende Übersicht zeigt die bereits bei der Installation vorgegebenen Einträge.
+
 Der Katalog der Sportbefreiungen ist bereits mit vielen Befreiungsgründen voreingestellt:
 
 ![Sportbefreit](/bilder/schild2/unterricht-kataloge/sportbefreit.jpg)

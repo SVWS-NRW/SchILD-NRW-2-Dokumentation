@@ -11,12 +11,11 @@ title: "Anrede"
 
 ## Beschreibung
 
+Erzeugt aus den Namen, Titeln und Anreden die gemeinsame Anrede für die Erziehungsberechtigten.
+
 ```pascal
 function Anrede(aAnrede1,aTitel1,aName1,aAnrede2,aTitel2,aName2: String): String;
 ```
-
-
-Berechnet aus den übergebenen Werten die korrekte (Erzieher-)Anrede
 
 ## Parameter
 
@@ -28,7 +27,6 @@ Berechnet aus den übergebenen Werten die korrekte (Erzieher-)Anrede
 | `aAnrede2` | Anrede der zweiten Person |
 | `aTitel2` | Titel der zweiten Person |
 | `aName2` | Name der zweiten Person |
-
 
 ## Rückgabewert
 

@@ -6,6 +6,8 @@ title: "Offenen Ganztag statistisch erfassen"
 
 # Offenen Ganztag statistisch erfassen
 
+Hier erfahren Sie, welche Einträge für offenen Ganztag und Übermittagsbetreuung in der Statistik benötigt werden. Die Anleitung führt die betreffenden Felder und Zuordnungen zusammen.
+
 Welche Eintragungen müssen gemacht werden, damit Schülerinnen und Schüler im offenen Ganztag und Schülerinnen und Schüler in der Übermittagsbetreuung für die Statistik korrekt übernommen werden?
 
 Alle Schülerinnen und Schüler des offenen Ganztages benötigen einen entsprechenden Eintrag auf der Karteikarte *Individual-Daten I* unter der *Klassen-Organisationsform*. Tragen Sie hier *Teilnahme am offenen Ganztag ...* ein. Auf der Karteikarte *Individual-Daten II* darf in der Rubrik *Besondere Merkmale* kein Eintrag stehen.

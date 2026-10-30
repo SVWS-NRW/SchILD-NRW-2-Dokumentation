@@ -11,6 +11,8 @@ title: "LoadVermerke"
 
 ## Beschreibung
 
+Liest die Vermerke der angegebenen Vermerkart aus und verbindet sie zu einem Text. Das Trennzeichen zwischen den einzelnen Vermerken können Sie vorgeben.
+
 ```pascal
 function LoadVermerke(aVermerkart, aDelimiter: String): String
 ```
@@ -20,8 +22,7 @@ function LoadVermerke(aVermerkart, aDelimiter: String): String
 | Parameter | Bedeutung |
 | --- | --- |
 | `aVermerkart` | Gewünschte Vermerkart, wie im Katalog „Vermerkarten definiert. |
-| `aDelimiter` | Trenner für die Vermerke. Hier ist eine beliebige Zeichenkette zulässig. Besondere Bedeutung haben '\t ' bzw. '\T' (fügt einen Tabulatorschritt ein) und '\n' bzw. '\N' (fügt einen Zeilenvorschub ein). |
-
+| `aDelimiter` | Trenner für die Vermerke. Hier ist eine beliebige Zeichenkette zulässig. Besondere Bedeutung haben '\t ' beziehungsweise '\T' (fügt einen Tabulatorschritt ein) und '\n' beziehungsweise '\N' (fügt einen Zeilenvorschub ein). |
 
 ## Rückgabewert
 
@@ -37,7 +38,6 @@ Alle Vermerke der gewählten Art, durch den Delimiter voneinander getrennt.
 (*Ergebnis: Alle Betreuungs-Vermerke werden untereinander in einem Memofeld
  dargestellt.*)
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

@@ -9,10 +9,6 @@ title: "Faechervorbelegen"
 
 ## Beschreibung
 
-```pascal
-procedure Faechervorbelegen;
-```
-
 Erzeugt einen Header, der alle bei den gewählten Schülern im gewählten Lernabschnitt
 gefundenen Fächer enthält. Diese Prozedur ist nur nötig und sinnvoll, wenn eine tabellarische
 Übersicht über alle gewählten Schüler und deren Leistungsdaten gewünscht wird, da ein Aufruf
@@ -21,13 +17,15 @@ Schüler gelesen werden, damit eine interne Tabelle mit diesen Fächern angelegt
 In allen anderen Fällen ist dieser Aufruf unnötig! Nach der Darstellung der Tabelle muss
 unbedingt die Prozedur 'ResetFaechervorbelegung' aufgerufen werden!
 
+```pascal
+procedure Faechervorbelegen;
+```
 
 ## Beispiel
 
 ```text
 ...
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

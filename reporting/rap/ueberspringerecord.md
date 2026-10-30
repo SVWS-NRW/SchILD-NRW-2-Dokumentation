@@ -11,19 +11,17 @@ title: "UeberspringeRecord"
 
 ## Beschreibung
 
+überspringt einen Datensatz der Datenquelle
+
 ```pascal
 procedure UeberspringeRecord(aPipeline: TppDatapipeline);
 ```
-
-
-überspringt einen Datensatz der Datenquelle
 
 ## Parameter
 
 | Parameter | Bedeutung |
 | --- | --- |
 | `aPipeline` | Name der Datenpipeline |
-
 
 ## Beispiel
 
@@ -38,7 +36,6 @@ End;
 Bitte beachten Sie, dass die Funktion beim letzten Datensatz nicht weiterspringen kann,
 dies muss u.U. berücksichtigt werden!
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

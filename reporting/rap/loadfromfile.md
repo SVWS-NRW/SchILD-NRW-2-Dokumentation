@@ -11,6 +11,8 @@ title: "LoadFromFile"
 
 ## Beschreibung
 
+Liest den Inhalt einer Textdatei ein und gibt ihn als Text zurück. Übergeben Sie dazu den vollständigen Pfad und Dateinamen.
+
 ```pascal
 function LoadFromFile(aFilename: String): String;
 ```
@@ -20,7 +22,6 @@ function LoadFromFile(aFilename: String): String;
 | Parameter | Bedeutung |
 | --- | --- |
 | `aFilename` | Pfad + Dateiname der zu ladenden Textdatei |
-
 
 ## Rückgabewert
 
@@ -32,7 +33,6 @@ Inhalt der Textdatei
 lFilename:=FileOpenDlg('*.rtf','c:\Texte','Richtexte|*.rtf|Alle Dateien|*.*');
 RichText1.RichText:=LoadFromFile(lFilename')
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

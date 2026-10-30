@@ -26,7 +26,7 @@ Des Weiteren muss das Entlassdatum angegeben werden. Dieses Datum wird dann, vor
 
 ![GP-Zeugnisausschulen](/bilder/zeugnisse/vorbereitung/gp-zeugnisausschulen.jpg)
 
-Klickt man nun auf die Schaltfläche "Zeugnisse drucken", wird man aufgefordert, den gewünschten Report auszuwählen, danach muss die Schaltfläche "Fertigstellen" betätigt werden, um den Druck zu starten.
+Klicken Sie nun auf die Schaltfläche "Zeugnisse drucken", wird man aufgefordert, den gewünschten Report auszuwählen, danach muss die Schaltfläche "Fertigstellen" betätigt werden, um den Druck zu starten.
 
 **Hinweis:** Unter "Extras" \> "Globale Einstellungen" \> "Allgemeines" \> "Standard-Reportprogramm" muss der neue Reportexplorer als Standard eingestellt sein
 

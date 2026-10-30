@@ -12,7 +12,7 @@ Es erfolgt die Eingabe des Pfades für die UVD.TXT.
 
 ![UVDtxtImport](/bilder/schild2/import-export-statistik/uvdtxtimport.jpg)
 
-Eine Aktivierung der Option In Sekundarstufe II Kurse anlegen ist nicht sinnvoll, da hier durch den Import aus den Programmen LuPO bzw. Kurs42 die Kurse übernommen werden.
+Eine Aktivierung der Option In Sekundarstufe II Kurse anlegen ist nicht sinnvoll, da hier durch den Import aus den Programmen LuPO beziehungsweise Kurs42 die Kurse übernommen werden.
 
 ------------------------------------------------------------------------
 

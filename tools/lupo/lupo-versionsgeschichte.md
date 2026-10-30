@@ -6,6 +6,8 @@ title: "Änderungshistorie von LuPO"
 
 # Änderungshistorie von LuPO
 
+Diese Änderungsliste dokumentiert frühere Anpassungen an LuPO. Einzelne Hinweise beziehen sich auf den damaligen Entwicklungsstand; für den Arbeitsablauf verwenden Sie die übrigen Kapitel des Handbuchs.
+
 <a id="Version_2.1.8.1"></a>
 
 ## Version 2.1.8.1

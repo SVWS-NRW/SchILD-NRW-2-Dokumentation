@@ -6,6 +6,8 @@ title: "Ganztag und Übermittagsbetreuung erfassen"
 
 # Ganztag und Übermittagsbetreuung erfassen
 
+Diese Anleitung erläutert die Erfassung von offenem Ganztag und Übermittagsbetreuung für die Statistik. Prüfen Sie die beschriebenen Angaben gemeinsam, damit Teilnahme und Betreuungsform zusammenpassen.
+
 Welche Eintragungen müssen in SchILD-NRW gemacht werden, damit Schülerinnen und Schüler im offenen Ganztag und Schülerinnen und Schüler in der Übermittagsbetreuung für die Statistik korrekt übernommen werden?
 
 <a id="Schülerinnen_und_Schüler_im_offenen_Ganztag"></a>

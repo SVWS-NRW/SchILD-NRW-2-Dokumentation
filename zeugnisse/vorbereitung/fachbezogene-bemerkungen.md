@@ -6,6 +6,8 @@ title: "Fachbezogene Bemerkungen eintragen"
 
 # Fachbezogene Bemerkungen eintragen
 
+Fachbezogene Bemerkungen beziehen sich auf ein einzelnes Unterrichtsfach. Diese Anleitung erläutert ihre Eingabe und die Verwendung in den Leistungs- und Zeugnisdaten.
+
 **Hinweise zum Eintragen von fachbezogenen Bemerkungen**
 
 Fachbezogene Bemerkungen können freie Texteinträge zu beliebigen Unterrichtsfächern bei jedem einzelnen Schüler enthalten. Diese werden zum Beispiel dazu genutzt, um die Themenbezeichnungen für Fach- oder Abschlussarbeiten bei den Schülern speichern zu können. Dazu können diese Bemerkungen einzeln oder auch als Gruppenprozess bei mehreren Schülern gleichzeitig eingetragen werden.
@@ -18,7 +20,7 @@ Gehen Sie dazu in das Menü *Extras -\> Programmeinstellungen* und aktivieren Si
 
 ![FachbezogeneBem-01](/bilder/zeugnisse/vorbereitung/fachbezogenebem-01.png)
 
-Danach steht Ihnen unter dem Karteireiter Akt. Halbjahr (bzw. Akt. Quartal) in den Leistungsdaten der Schüler ein Memofeld am Ende der Fächerliste zur Verfügung.
+Danach steht Ihnen unter dem Karteireiter Akt. Halbjahr (beziehungsweise Akt. Quartal) in den Leistungsdaten der Schüler ein Memofeld am Ende der Fächerliste zur Verfügung.
 
 ![FachbezogeneBem-02](/bilder/zeugnisse/vorbereitung/fachbezogenebem-02.png)
 

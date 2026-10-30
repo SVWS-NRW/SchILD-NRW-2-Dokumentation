@@ -11,13 +11,12 @@ title: "SelectErzFunktion"
 
 ## Beschreibung
 
+Diese Funktion bietet alle im Feld „Funktion“ im Katalog „Erzieher-Funktionen“
+gefundenen Einträge zur Auswahl an.
+
 ```pascal
 function SelectErzFunktion: String;
 ```
-
-
-Diese Funktion bietet alle im Feld „Funktion“ im Katalog „Erzieher-Funktionen“
-gefundenen Einträge zur Auswahl an.
 
 ## Rückgabewert
 
@@ -28,7 +27,6 @@ Erzieherfunktion
 ```pascal
 Siehe „Filtererzieherfunktion“
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

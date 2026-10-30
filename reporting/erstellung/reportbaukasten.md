@@ -6,12 +6,13 @@ title: "Reports mit dem Reportbaukasten erstellen"
 
 # Reports mit dem Reportbaukasten erstellen
 
+Mit dem Reportbaukasten erstellen Sie eigene Druckvorlagen nach einem vorhandenen Muster. Die Anleitung erklärt die Bausteine einer Vorlage und zeigt, wie Daten und Gestaltung zusammenwirken.
 
 ![RepBau01](/bilder/reporting/erstellung/repbau01.jpg)
 
-Der Reportbaukasten soll Usern dabei behilflich sein, eigene Formulare nach einem Vorbild für bestimmte Zwecke erstellen zu können.
+Der Reportbaukasten soll Benutzern dabei behilflich sein, eigene Formulare nach einem Vorbild für bestimmte Zwecke erstellen zu können.
 
-Die Formulare können in einem ZIP-Archiv hier herunter geladen werden. **[Datei:Report-Baukasten.zip](https://wiki.svws.nrw.de/mediawiki/index.php)**
+Die Formulare können in einem ZIP-Archiv hier herunter geladen werden. **[Report-Baukasten mit elf Vorlagen](/dateien/wiki/report-baukasten-24954b57.zip)**
 
 Dabei werden Themengruppen herausgesucht und einige Beispielreports erstellt. Diese Reports sind möglichst einfach gehalten und enthalten auch sehr wenig Layout-Elemente. Sie sollen lediglich als Beispiele für die gewünschte Funktion dienen.
 
@@ -42,7 +43,7 @@ Dieser Wert wird über Datenquelle und Datenfeld gesteuert
 
 ![RepBau05](/bilder/reporting/erstellung/repbau05.jpg)
 
-Subreport = Unterbericht, hier können Datenfelder aus Schild wiedergegeben werden, die u.U. mehrere Datensätze enthalten
+Subreport = Unterbericht, hier können Datenfelder aus Schild wiedergegeben werden, die unter Umständen mehrere Datensätze enthalten
 
 ![RepBau06](/bilder/reporting/erstellung/repbau06.jpg)
 
@@ -202,7 +203,7 @@ Die Lehrämter, Lehrbefähigungen und Lehrerfunktionen werden in Subreports ausg
 
 Die Lehrbefähigungen werden als Unterdatenquelle der Lehrämter gefüllt.
 
-Das ist der Grund dafür, dass im Report ein Unterbericht mit der Datenquelle *LehrerAktuellerAbschnitt* eingefügt ist, weil die *LehrerFunktionen* sonst u.U. nicht gefüllt werden.
+Das ist der Grund dafür, dass im Report ein Unterbericht mit der Datenquelle *LehrerAktuellerAbschnitt* eingefügt ist, weil die *LehrerFunktionen* sonst unter Umständen nicht gefüllt werden.
 
 ![RepBau23](/bilder/reporting/erstellung/repbau23.jpg)
 
@@ -218,13 +219,13 @@ Eine Übersicht über die Abhängigkeit der Datenquellen finden Sie in der Repor
 
 ![RepBau25](/bilder/reporting/erstellung/repbau25.jpg)
 
-Dieser Report soll eine Übersichtsliste z.B. für Konferenzen bieten, die alle Schüler einer Klasse / eines Jahrgangs mit ihren Fächern auflistet. Der Report druckt lediglich den aktuellen Abschnitt.
+Dieser Report soll eine Übersichtsliste zum Beispiel für Konferenzen bieten, die alle Schüler einer Klasse / eines Jahrgangs mit ihren Fächern auflistet. Der Report druckt lediglich den aktuellen Abschnitt.
 
 Dazu werden die Datenquellen *FachUebersichtHeader* und *Fachuebersicht* verwendet.
 
 ![RepBau26](/bilder/reporting/erstellung/repbau26.jpg)
 
-Der Subreport *FachUebersichtHeader* erzeugt eine Kopfzeile für die Übersichtsliste, die alle bei der ausgewählten Schülermenge enthaltenen Fächer in der Sortierungsreihenfolge auflistet. Aus diesem Grund ist es auch sinnvoll, vor dem Druck klassenweise oder jahrgangsweise zu filtern, da alle auftretenden Fächer sonst in den Header wandern.
+Der Subreport *FachUebersichtHeader* erzeugt eine Kopfzeile für die Übersichtsliste, die alle bei der ausgewählten Schülergruppe enthaltenen Fächer in der Sortierungsreihenfolge auflistet. Aus diesem Grund ist es auch sinnvoll, vor dem Druck klassenweise oder jahrgangsweise zu filtern, da alle auftretenden Fächer sonst in den Header wandern.
 
 Im Ereignis *BeforePrint* benötigen die beiden Datenquellen den Aufruf ***Faechervorbelegen*** und im *AfterPrint* Ereignis den Befehl ***ResetFaechervorbelegen***.
 
@@ -240,7 +241,7 @@ Der Bericht enthält zwei Gruppierungen. Die Gruppe\[0\]:Klasse erzeugt eine neu
 
 ![RepBau27](/bilder/reporting/erstellung/repbau27.jpg)
 
-Dieser Report druckt eine Leistungsübersicht der ausgewählten Schülermenge für den aktuellen Lernabschnitt. Dieses Mal wird aber in jeder Schülerzeile eine eigene Kopfzeile für die Fächer erzeugt, die dieser Schüler hat.
+Dieser Report druckt eine Leistungsübersicht der ausgewählten Schülergruppe für den aktuellen Lernabschnitt. Dieses Mal wird aber in jeder Schülerzeile eine eigene Kopfzeile für die Fächer erzeugt, die dieser Schüler hat.
 
 Dazu wird die Datenquelle Lernabschnitte verwendet, die ohne weitere Programmierung den aktuellen Abschnitt des Schülers liefert.
 
@@ -290,7 +291,7 @@ Der Report soll nur bestimmte, aufeinander folgende Abschnitte einer Schülerlau
 
 Dazu wird zusätzlich im Ereignis *ReportOpenDataPipelines* der Befehl *FilterLaufbahnJahrgangASD(‘EF,Q1,Q2‘)* aufgerufen.
 
-Dass hier nicht *ReportBeforePrint* genommen wird, hat den Grund, dass u.U. dann der erste Schülerdatensatz nach dem Öffnen der Datenquelle erstellt wird und evtl. der Fachheader dann nicht korrekt ausgegeben wird.
+Dass hier nicht *ReportBeforePrint* genommen wird, hat den Grund, dass unter Umständen dann der erste Schülerdatensatz nach dem Öffnen der Datenquelle erstellt wird und gegebenenfalls der Fachheader dann nicht korrekt ausgegeben wird.
 
 Zusätzlich wird aber im *ReportBeforePrint* Ereignis der Übersichtsmodus geändert.
 
@@ -312,7 +313,7 @@ Die Felder für die Bemerkungen auf den Zeugnissen wurden vor einigen Versionen 
 
 ![RepBau34](/bilder/reporting/erstellung/repbau34.jpg)
 
-Früher waren dort Richttextinformationen mit Textformatierungen enthalten, weswegen u.U. manche Zeugnisbemerkungen in einer anderen Schrift erscheinen konnten.
+Früher waren dort Richttextinformationen mit Textformatierungen enthalten, weswegen unter Umständen manche Zeugnisbemerkungen in einer anderen Schrift erscheinen konnten.
 
 Um an die Informationen der Bemerkungen zu gelangen, benötigen wir die Subreports zu *Lernabschnitte* sowie einen mit der Datenquelle *SchuelerLaufbahnBem*.
 
@@ -320,7 +321,7 @@ In diesen Subreports werden dann DBMemo-Felder mit den jeweiligen Angaben gefül
 
 Der Report gibt eine Übersicht über die Eintragungen des aktuellen Abschnittes.
 
-Diese Unterberichte könnten so z.B. auch auf einer Konferenzliste eingefügt werden, um die eingetragenen Daten zu kontrollieren.
+Diese Unterberichte könnten so zum Beispiel auch auf einer Konferenzliste eingefügt werden, um die eingetragenen Daten zu kontrollieren.
 
 ------------------------------------------------------------------------
 
@@ -356,7 +357,7 @@ Das Schuljahr und die Klassenbezeichnung steuert die Datenquelle *Lernabschnitte
 
 In den Unterberichten der Fächergruppen werden einige Programmierungen vorgenommen, die je nach Fach oder nach Kursart die Detailbereiche unsichtbar schalten. Dies ist notwendig, wenn entweder Fächer in der Datenquelle vorkommen, die nicht gedruckt werden sollen (hier am Beispiel der Fremdsprachen E und F, die getrennt ausgewiesen werden), oder aber auch im Beispiel der weiteren Unterrichte, wo die Kursarten ZUV und KMFÖ in einer Datenquelle ankommen.
 
-Weitere Unterberichte zu anderen Fächergruppen, wie z.B. Naturwissenschaften oder Gesellschaftslehre, müssen für ergänzt werden, um die entsprechenden Fächer im Zeugnis auszudrucken. Die Fächergruppen der Berufskollegs beginnen mit BK. Dazu gehören beispielsweise die Fächergruppen BKBerufsuebergreifend, BKBerufsbezogen und BKDifferenzierung.
+Weitere Unterberichte zu anderen Fächergruppen, wie zum Beispiel Naturwissenschaften oder Gesellschaftslehre, müssen für ergänzt werden, um die entsprechenden Fächer im Zeugnis auszudrucken. Die Fächergruppen der Berufskollegs beginnen mit BK. Dazu gehören beispielsweise die Fächergruppen BKBerufsuebergreifend, BKBerufsbezogen und BKDifferenzierung.
 
 Die Zeugnisbemerkungen sind nicht wie im Beispielreport_08 aufgebaut, hier können Sie sehen, dass die Angaben in der Datenquelle *ASVSek_I* enthalten sind.
 

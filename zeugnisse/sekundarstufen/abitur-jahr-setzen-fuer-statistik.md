@@ -6,7 +6,7 @@ title: "Abiturjahr für die Statistik setzen"
 
 # Abiturjahr für die Statistik setzen
 
-Dieser Gruppenprozess bildet den Abschluss für die Berechnungen in SchILD und setzt bei allen ausgewählten Schülern das Abitur-Jahr. Dies ist besonders für die Statistik und evtl. weiteren Datenaustausch wichtig, damit z.B. die richtigen Ergebnisse für den Export der Abiturergebnisse zur Verfügung gestellt werden können.
+Dieser Gruppenprozess bildet den Abschluss für die Berechnungen in SchILD und setzt bei allen ausgewählten Schülern das Abitur-Jahr. Dies ist besonders für die Statistik und gegebenenfalls weiteren Datenaustausch wichtig, damit zum Beispiel die richtigen Ergebnisse für den Export der Abiturergebnisse zur Verfügung gestellt werden können.
 
 ------------------------------------------------------------------------
 

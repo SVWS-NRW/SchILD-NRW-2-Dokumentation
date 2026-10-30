@@ -10,7 +10,7 @@ title: "Blockung mit Kurs42 To CNF"
 
 ## Hinweise
 
-Kurs42_To_CNF wurde in JAVA von Benjamin Bartsch programmiert. Die Software ist "open source" und unterliegt der MIT oder der CC0 Lizenz, d.h. der Quellcode steht allen frei zur Verfügung, aber es dürfen keinerlei Ansprüche geltend gemacht werden. Wenn Sie den Autor kontaktieren möchten, finden Sie die E-Mail-Adresse innerhalb des Programms.
+Kurs42_To_CNF wurde in JAVA von Benjamin Bartsch programmiert. Die Software ist "open source" und unterliegt der MIT oder der CC0 Lizenz, das heißt der Quellcode steht allen frei zur Verfügung, aber es dürfen keinerlei Ansprüche geltend gemacht werden. Wenn Sie den Autor kontaktieren möchten, finden Sie die E-Mail-Adresse innerhalb des Programms.
 
 Das Programm arbeitet auf Basis der Daten des Programms Kurs42. Wenn Sie eine Import/Exportfunktion zu anderen Programmen wünschen, können Sie den Autor kontaktieren.
 
@@ -21,7 +21,7 @@ Das Programm unterstützt eine Vielzahl von Nebenbedingungen (Regeln genannt). W
 ## Vorbereitungen
 
 - Laden Sie sich den folgenden SAT-Solver (<https://github.com/msoos/cryptominisat/releases>) herunter und speichern Sie die Datei (für Windows: cryptominisat5-win-amd64-nogauss.exe) auf Ihrem PC und merken Sie sich den Pfad. Für Windows ist die aktuellste Version 5.6.8 (Stand: Mai 2020), Sie müssen den Reiter "Assets" aufklappen, um die Datei zu sehen. Hier ist der Direkt-Link ([https://github.com/msoos/cryptominisat/releases/download/5.6.8/cryptominisat5-win-amd64-nogauss.exe](https://github.com/msoos/cryptominisat/releases/download/5.6.8/cryptominisat5-win-amd64-nogauss.exe)).
-- Installieren Sie ggf. JAVA und laden sich sich dann die aktuellste Version von Kurs42_To_CNF herunter (<https://schulverwaltungsinfos.nrw.de/svws/forum/viewtopic.php?f=71&t=20&start=2000>). Sie finden das Programm auch hier (<https://www.svws.nrw.de/download/tools>), diese Version ist aber nicht immer die aktuellste.
+- Installieren Sie gegebenenfalls JAVA und laden sich sich dann die aktuellste Version von Kurs42_To_CNF herunter (<https://schulverwaltungsinfos.nrw.de/svws/forum/viewtopic.php?f=71&t=20&start=2000>). Sie finden das Programm auch hier (<https://www.svws.nrw.de/download/tools>), diese Version ist aber nicht immer die aktuellste.
 - Sie haben nun das Programm in Form einer JAR-Datei, welche man mit einem Doppelklick starten kann. Dort müssen Sie dort zunächst den Pfad zur Datei cryptominisat...exe angeben und können dann arbeiten, aber zuvor müssen Sie jedoch noch aus Kurs42 Ihre Daten als Textdateien exportieren. **Bitte vergewissern Sie sich, dass in den Einstellung das Exportformat UTF8 eingestellt ist.**
 
 <a id="Daten_in_Kurs42_vorbereiten_und_exportieren"></a>
@@ -29,7 +29,7 @@ Das Programm unterstützt eine Vielzahl von Nebenbedingungen (Regeln genannt). W
 ## Daten in Kurs42 vorbereiten und exportieren
 
 - Die Laufbahnen sollten wie üblich bereits vor dem Blocken gründlich geprüft werden.
-- In Kurs42 werden unter *Bearbeiten --\> Kurse einrichten* bzw. *Bearbeiten --\> Kurse einrichten (ohne Fachwahl)* die Anzahl der Kurse pro Fach festgelegt.
+- In Kurs42 werden unter *Bearbeiten --\> Kurse einrichten* beziehungsweise *Bearbeiten --\> Kurse einrichten (ohne Fachwahl)* die Anzahl der Kurse pro Fach festgelegt.
 - **Unter *Extras* --\> *Einstellungen* wird bei Import-Export bei *Kodierung von Textexporten* auf den Eintrag *UTF8* gestellt.**
 - Unter *Import/Export --\> Export in Textdatei* werden sämtliche Häkchen gesetzt und ein Zielordner gewählt.
 
@@ -42,22 +42,22 @@ Ziel ist es, zunächst ein beliebiges Blockungsergebnis zu erhalten. Anschließe
 - In Kurs42_To_CNF unter *Datei --\> Kurs42-Ordner öffnen* den soeben mit dem Export befüllten Ordner auswählen.
 - Die Abfrage *Sollen aus Kurs42 alle alle Kurse/Teilnehmer als Regeln fixiert werden?* kann zunächst verneint werden. Diese Abfrage wird an anderer Stelle erklärt, wenn es um das Blocken der Zusatzkurse in der Q2 oder das Neuladen eines Blockungsergebnisses geht.
 - Das Fenster *Debug* (unten) sollte leer sein.
-- Das Fenster *Statistik* (oben links) gibt Importinformationen an, z.B. wie viele Schüler importiert und wie viele Fächer gewählt wurden.
+- Das Fenster *Statistik* (oben links) gibt Importinformationen an, zum Beispiel wie viele Schüler importiert und wie viele Fächer gewählt wurden.
 - Lassen Sie das Fenster *Regeln* (unten links) noch leer.
 - Das Fenster *Maximalwerte* (oben links) enthält allgemeine Voreinstellungen zur Blockung.
   - Stellen Sie *Schienen* auf die gewünschte Anzahl an. Die Anzahl der Schienen muss mindestens so groß sein, wie die Anzahl der Kurse des Schülers mit den meisten Kursen.
   - Belassen Sie die *Maximale Kursgrößendifferenz* auf einem sehr hohen Wert (15-20). Dieser wird später automatisch optimiert.
-  - Stellen Sie die *Maximale Kursgröße* auf den größten Wert ein, den Sie alle Kursen zumuten (32-25). Vorsicht: Falls Sie z.B. 32 eingeben und es einen Kurs mit 33 SuS rechnerisch geben müsste, dann ist die Blockung sofort unlösbar (UNSAT).
+  - Stellen Sie die *Maximale Kursgröße* auf den größten Wert ein, den Sie alle Kursen zumuten (32-25). Vorsicht: Falls Sie zum Beispiel 32 eingeben und es einen Kurs mit 33 Schülerinnen und Schüler rechnerisch geben müsste, dann ist die Blockung sofort unlösbar (UNSAT).
   - Stellen Sie die *Umwähler* zunächst auf 0 ein und klicken Sie auf den Button "Berechne!". Über dem Button können Sie die Anzahl der *Threads* auf 1 stehen lassen (mehr dazu unter *Technische Fragen*, siehe unten), das Ausgabeformat ist üblicherweise *Neu+BOM*. Falls Sie nun **keine** Lösung erhalten (ein Indiz dafür ist, dass die Berechnung sehr lange dauert oder es erscheint ein Tab mit dem Hinweis *UNSAT*), müssen Sie die Umwähler sukzessiv um 1 erhöhen. So lässt sich die Mindestzahl an Umwähler ermitteln.
 
-Sie haben nun eine Lösung. Das Ergebnis wird in einem Tab, z.B. *B1_SAT* in sechs Fenstern dargestellt, die sich von selbst erklären. Dieses Ergebnis enthält allerdings noch eine viel zu große Kursgrößendifferenz. Sie könnten nun unter "Auto-Optimierung (GK-KD: Parallele Rechnungen: \_\_\_" auf den Button "K" klicken, dann probiert das Programm automatisch die Grundkurs-Kursgrößendifferenz zu optimieren. Dabei werden "\_\_\_" Prozessorkerne verwendet. Hier müssen Sie ziemlich genau wissen, wie viele Prozessorkerne ihr PC hat. Abbrechen kann man die Automatisierung jederzeit mit dem Button "Stoppe alle Auto-Berechnungen" (oben rechts).
+Sie haben nun eine Lösung. Das Ergebnis wird in einem Tab, zum Beispiel *B1_SAT* in sechs Fenstern dargestellt, die sich von selbst erklären. Dieses Ergebnis enthält allerdings noch eine viel zu große Kursgrößendifferenz. Sie könnten nun unter "Auto-Optimierung (GK-KD: Parallele Rechnungen: \_\_\_" auf den Button "K" klicken, dann probiert das Programm automatisch die Grundkurs-Kursgrößendifferenz zu optimieren. Dabei werden "\_\_\_" Prozessorkerne verwendet. Hier müssen Sie ziemlich genau wissen, wie viele Prozessorkerne ihr PC hat. Abbrechen können Sie die Automatisierung jederzeit mit dem Button "Stoppe alle Auto-Berechnungen" (oben rechts).
 
 <a id="Die_Blockung_mit_Nebenbedingungen/Wünschen_ergänzen"></a>
 <a id="Die_Blockung_mit_Nebenbedingungen.2FW.C3.BCnschen_erg.C3.A4nzen"></a>
 
 ## Die Blockung mit Nebenbedingungen/Wünschen ergänzen
 
-Im Fenster **Regeln** werden die Regeln definiert, an die sich das Programm zwingend halten soll. Sollen z.B. alle Religions- und Philosophie-Kurse unbedingt parallel liegen, und zwar in Schiene 3, wählt man in den vier Drop-Down-Menüs Folgendes aus:
+Im Fenster **Regeln** werden die Regeln definiert, an die sich das Programm zwingend halten soll. Sollen zum Beispiel alle Religions- und Philosophie-Kurse unbedingt parallel liegen, und zwar in Schiene 3, wählen Sie in den vier Drop-Down-Menüs Folgendes aus:
 
 1.  Fach-Art
 2.  Rel,GK
@@ -79,7 +79,7 @@ Bei der Blockung der Q1 ist folgende Regel relativ typisch:
 
 Nach einer erfolgreichen Berechnung einer Blockung legt das Programm im oben angelegten Ordner für den Export aus Kurs einen Unterordner an, dessen Name dem TAB *B1_SAT* entspricht und zusätzlich das Ausgabeformat enthält, hier also *B_00001_NEU_UTF8_BOM*. In disem Ordner gibt es auch eine Textdatei, die das Ergebnis der Berechnung und die angewendeten Regeln dokumentiert, sodass man das Vorgehen rekonstruieren kann. In Kurs42 gibt es zwei Möglichkeiten, diese Blockung zu importieren:
 
-1.  Unter *Import/Export* --\> *Import der SAT-Solver-Ergebnisse* alle Häkchen setzen und den Ordner *B_00001_NEU_UTF8_BOM* auswählen. Die Blockung ist importiert und kann z.B. unter *Blocken* --\> *Automatisch Blocken* eingesehen und bearbeitet werden.
+1.  Unter *Import/Export* --\> *Import der SAT-Solver-Ergebnisse* alle Häkchen setzen und den Ordner *B_00001_NEU_UTF8_BOM* auswählen. Die Blockung ist importiert und kann zum Beispiel unter *Blocken* --\> *Automatisch Blocken* eingesehen und bearbeitet werden.
 2.  Unter *Datei* --\> *Neue Blockung aus Textdatei* wird der o.g. Ordner gewählt, alle Häkchen gesetzt und importiert.
 
 Das zweite Vorgehen hat den Vorteil, dass man nicht versehentlich eine bestehende Blockung überschreibt und so die frisch importierte Blockung unter einem eigenen Namen speichern kann.
@@ -125,16 +125,16 @@ In einem ersten Beispiel wird davon ausgegangen, dass die Schule in der EF quasi
 
 In einem zweiten Beispiel werden nur die Fächer D, E und M in Kerngruppen geblockt, die Verteilung im Stundenplanprogramm erfolgt erst später. Hierbei ist die Zügigkeit egal, da alle Kurse eines Faches in der Gleichen Schiene landen.
 
-- Fach-Art#D;GK#allein in Schiene (SuS optimal)#1
-- Fach-Art#E;GK#allein in Schiene (SuS optimal)#2
-- Fach-Art#M;GK#allein in Schiene (SuS optimal)#3
+- Fach-Art#D;GK#allein in Schiene (Schülerinnen und Schüler optimal)#1
+- Fach-Art#E;GK#allein in Schiene (Schülerinnen und Schüler optimal)#2
+- Fach-Art#M;GK#allein in Schiene (Schülerinnen und Schüler optimal)#3
 
-Der Zusatz *SuS optimal* führt dazu, dass in allen Kursen eine möglichst gleiche Anzahl SuS sitzen.
+Der Zusatz *Schülerinnen und Schüler optimal* führt dazu, dass in allen Kursen eine möglichst gleiche Anzahl Schülerinnen und Schüler sitzen.
 
 Des Weiteren sollen alle Philosophie- und Religionskurse für mögliche Kurswechsler parallel liegen:
 
-- Fach-Art#PL;GK#in Schiene (SuS optimal)#5
-- Fach-Art#REL;GK#in Schiene (SuS optimal)#5
+- Fach-Art#PL;GK#in Schiene (Schülerinnen und Schüler optimal)#5
+- Fach-Art#REL;GK#in Schiene (Schülerinnen und Schüler optimal)#5
 
 Eine Alternative hierzu wäre dieses Vorgehen:
 
@@ -144,7 +144,7 @@ Eine Alternative hierzu wäre dieses Vorgehen:
 - Kurs#PL-GK2#in Schiene#5
 - Kurs#REL-GK3#in Schiene#5
 
-Dies führt dazu, dass in z.B. Schiene 5 auch ein anderer Kurs zusätzlich liegen kann. So gibt es mehr Spielraum und eine bessere Kursgrößendifferenz oder weniger Umwähler.
+Dies führt dazu, dass in zum Beispiel Schiene 5 auch ein anderer Kurs zusätzlich liegen kann. So gibt es mehr Spielraum und eine bessere Kursgrößendifferenz oder weniger Umwähler.
 
 Der Mathe-Vertiefungskurs soll außerhalb der regulären Blockung liegen. Die vorliegende Schule bietet in der EF zwölf Kurse und zusätzlich einen Mathe-Vertiefungskurs als 13. Fach an.
 
@@ -158,11 +158,11 @@ Manchmal bietet es sich auch an, die neueinsetzenden Fremdsprachen parallel zu s
 
 **Blockung der neuen Q1**
 
-Es bietet sich wie üblich an, erst die LKs zu blocken, da ja z.B. nicht erhaltene LK-Wahlen Einfluss auf die GK-Wahlen haben. (Die LKs kann man auch mit Kurs42 blocken. Dort nach den Beratungen die GKs anpassen und das Ergebnis exportieren und wie unten beschrieben im CNF importieren). Sollen die LKs mit CNF geblockt werden, fängt man nach dem Import so an:
+Es bietet sich wie üblich an, erst die LKs zu blocken, da ja zum Beispiel nicht erhaltene LK-Wahlen Einfluss auf die GK-Wahlen haben. (Die LKs können Sie auch mit Kurs42 blocken. Dort nach den Beratungen die GKs anpassen und das Ergebnis exportieren und wie unten beschrieben im CNF importieren). Sollen die LKs mit CNF geblockt werden, fängt man nach dem Import so an:
 
 - LKs allein von Schiene#1#bis Schiene#2
 
-Die LKs liegen exklusiv in Schiene 1 und 2. Für den GK-Bereich wählt man sehr weite Bedigungen bei den Umwählern und Kursgrößendifferenzen und/oder man kann auch weitere Schienen hinzufügen, sodass das Programm für die Berechnung der GKs kaum Zeit benötigt. Die fertige Blockung geht zurück nach Kurs42. Dann müssen Umwähler beraten werden und die neue Blockung, mit den LKs und den neuen GK-Wahlen exportiert und dann in CNF importiert werden.
+Die LKs liegen exklusiv in Schiene 1 und 2. Für den GK-Bereich wählen Sie sehr weite Bedigungen bei den Umwählern und Kursgrößendifferenzen und/oder man kann auch weitere Schienen hinzufügen, sodass das Programm für die Berechnung der GKs kaum Zeit benötigt. Die fertige Blockung geht zurück nach Kurs42. Dann müssen Umwähler beraten werden und die neue Blockung, mit den LKs und den neuen GK-Wahlen exportiert und dann in CNF importiert werden.
 
 Beim Import in CNF die Regel
 
@@ -170,10 +170,10 @@ Beim Import in CNF die Regel
 
 anwenden.
 
-Dann wird der GK-Bereich geblockt, z.B. mit diesem Satz an Regeln:
+Dann wird der GK-Bereich geblockt, zum Beispiel mit diesem Satz an Regeln:
 
-- Fach-Art#PL;GK#in Schiene (SuS optimal)#3
-- Fach-Art#REL;GK#in Schiene (SuS optimal)#3
+- Fach-Art#PL;GK#in Schiene (Schülerinnen und Schüler optimal)#3
+- Fach-Art#REL;GK#in Schiene (Schülerinnen und Schüler optimal)#3
 
 --\> alle Religions- und Philosophie-Kurse werden parallel gelegt, damit Kurswechsel und eine Verschmelzung zur Q2 leicht möglich sind.
 
@@ -205,7 +205,7 @@ Dann wird der GK-Bereich geblockt, z.B. mit diesem Satz an Regeln:
 
 **Blockung der Q2 (Zusatzkurse)**
 
-Zunächst müssen in Kurs42 ggf. Kurse verschmolzen und die Zusatzkurse eingerichtet werden. Die SuS haben AB3/AB4 festgelegt und beim Import aus LuPO wurde dies entsprechend mitübernommen. Dann besteht die grundsätzliche Schwierigkeit darin, die ZKs in die bestehende Blockung einzuarbeiten, ohne dass viele Schüler ihre Kurse wechseln müssen. Dazu gibt es mit Kurs42_to_CNF unterschiedliche Strategien. Zunächst wird die angepasste Blockungsdastei in Kurs42_to_CNF importiert.
+Zunächst müssen in Kurs42 gegebenenfalls Kurse verschmolzen und die Zusatzkurse eingerichtet werden. Die Schülerinnen und Schüler haben AB3/AB4 festgelegt und beim Import aus LuPO wurde dies entsprechend mitübernommen. Dann besteht die grundsätzliche Schwierigkeit darin, die ZKs in die bestehende Blockung einzuarbeiten, ohne dass viele Schüler ihre Kurse wechseln müssen. Dazu gibt es mit Kurs42_to_CNF unterschiedliche Strategien. Zunächst wird die angepasste Blockungsdastei in Kurs42_to_CNF importiert.
 
 *Strategie 1*
 
@@ -219,20 +219,20 @@ Dies führt dazu, dass es keine Umwähler gibt, die den ZK nicht bekommen haben,
 - Fixiere#Teilnehmer#der Kursart#AB4
 - Fixiere#Teilnehmer#der Kursart#AB3
 
-Dies führt dazu, dass die AB3/AB4-schüler definitiv in ihren bisherigen Kursen verbleiben, alle anderen können Kurse wechseln. Dies lässt sich erweitern, wenn man z.B. nicht möchte, dass die Mathe-Kurse grundsätzlich nicht angetastet wedern sollen:
+Dies führt dazu, dass die AB3/AB4-schüler definitiv in ihren bisherigen Kursen verbleiben, alle anderen können Kurse wechseln. Dies lässt sich erweitern, wenn man zum Beispiel nicht möchte, dass die Mathe-Kurse grundsätzlich nicht angetastet wedern sollen:
 
 - Fixiere#Teilnehmer#der Kursart#M
 
-Nun kann man zusätzlich einschränken, wie viele Kursewechsel es geben darf und zwar mit diesen Regeln:
+Nun können Sie zusätzlich einschränken, wie viele Kursewechsel es geben darf und zwar mit diesen Regeln:
 
 - SchülerIn#...#hat definitiv Fach-Art#...", praktisch um Laufbahnen zu gewährleisten.
-- Fixiere#max. Kurswechsel (Summe aller SuS)#...#-, Beispiel: "Fixiere#max. Kurswechsel (Summe aller SuS)#101#-
+- Fixiere#max. Kurswechsel (Summe aller Schülerinnen und Schüler)#...#-, Beispiel: "Fixiere#max. Kurswechsel (Summe aller Schülerinnen und Schüler)#101#-
 - Fixiere#max. Kurswechsel (je SchülerIn)#...#-", Beispiel: "Fixiere#max. Kurswechsel (je SchülerIn)#2#-"
 - Fixiere#max. Kurswechsel (bestimmte SchülerIn)#...#...", Beispiel: "Fixiere#max. Kurswechsel (bestimmte SchülerIn)#Mustermann;Max;01.01.2001;3#1
-- Fixiere#max. Abitur-Kurswechsel (Summe aller SuS)#...#-, Beispiel: "Fixiere#max. Abitur-Kurswechsel (Summe aller SuS)#76#-
+- Fixiere#max. Abitur-Kurswechsel (Summe aller Schülerinnen und Schüler)#...#-, Beispiel: "Fixiere#max. Abitur-Kurswechsel (Summe aller Schülerinnen und Schüler)#76#-
 - Fixiere#max. Abitur-Kurswechsel (je SchülerIn)#...#-, Beispiel: "Fixiere#max. Abitur-Kurswechsel (je SchülerIn)#1#-
 - Fixiere#max. Abitur-Kurswechsel (bestimmte SchülerIn)#...#..., Beispiel: "Fixiere#max. Abitur-Kurswechsel (bestimmte SchülerIn)#Musterfrau;Maren;01.01.2001;4#1
-- Mit "Fixiere#max. 2er-Abitur-Kurswechsel (Summe aller SuS)#42#-" kann man nun die Anzahl an
+- Mit "Fixiere#max. 2er-Abitur-Kurswechsel (Summe aller SuS)#42#-" können Sie nun die Anzahl an
 
 SchülerInnen begrenzen die von 2 Abitur-Kurswechsel betroffen sind.
 
@@ -252,7 +252,7 @@ In Kurs42 lade man aus LuPO die Kurswahlen der Q2 in die zuvor hochgesetzt Kurs4
 
 Danach wird die Blockung in Textdateien exportiert und in CNF importiert. Dann werden für alle GK und LK die Kurse in Schienen und die Schüler in den Kursen fixiert (beim Import der Dateien wird die Abfrage bejaht). Nur die ZKs bleiben frei, also man nimmt die entsprechenden Regeln wieder raus. Dann fängt man mit kleiner Umwählerzahl an zu blocken. Bei UNSAT erhöht man sie um eins, bis man eine Lösung findet.
 
-Wenn man dabei auf eine "Handvoll" Umwähler kommt, geht das Ganze zurück nach Kurs42 und man macht die restlichen Anpassungen von Hand. Sind es zu viele, kann man alle Schüler mit GKM zur Umverteilung freigeben und fängt wieder bei 0 Umwählern an.
+Wenn man dabei auf eine "Handvoll" Umwähler kommt, geht das Ganze zurück nach Kurs42 und man macht die restlichen Anpassungen von Hand. Sind es zu viele, können Sie alle Schüler mit GKM zur Umverteilung freigeben und fängt wieder bei 0 Umwählern an.
 
 <a id="Strategien_und_weitere_Tipps"></a>
 
@@ -272,11 +272,11 @@ Das oben angedeutete Vorgehen, zunächst die Umwähler auf 0 zu setzen und die K
 
 *Auto-Optimierung*
 
-Sobald man eine Lösung gefunden hat (z.B. mit GK-Kursdifferenz 20). Es gibt einen Button, der automatisch (je nach Einstellung) mehrere parallele Berechnungen startet und dabei versucht, die GK-Kursdifferenz auf 19 zu verbessern. Wird eine Lösung gefunden, ist das Ziel die nächstkleinere GK-Kursdifferenz. Die Berechnung stoppt, wenn 100 verschiedene Szenarien nicht zum Erfolg führten oder eine optimale GK-Kursdifferenz gefunden wurde. Es bietet sich an, durchaus 8 Rechnungen gleichzeitg laufen zu lassen, dies hängt vom CPU (der Anzahl der Kerne) ab (siehe *Technische Fragen*) PS: Wenn die Auto-Berechnung abbricht, dann nur, wenn KD1 (GK-Kursdifferenz von 1) gefunden wurde oder eine Reduzierung der Differenz (beweisbar) nicht möglich ist. Es ist manchmal sehr schwer zu erkennen, warum eine weitere Reduzierung nicht möglich ist. In dem Fall würde ich empfehlen in der Liste der Kurse - die nach Kursdifferenz sortiert sind - nach der Fach-Art zu suchen, welche die höchste Kursdifferenz hat. Zur Klärung der Strategien: K = Fixiert zu ... % Kurse in ihren Schienen ausgehend von einer vorhandenen Lösung und versucht die GK-Kursdifferenz um 1 zu reduzieren. S = Fixiert zu ... % Schüler in ihren Kursen ausgehend von einer vorhandenen Lösung und versucht die GK-Kursdifferenz um 1 zu reduzieren. KS = K uns S gemischt. Die % - Anteile werden dynamisch schrittweise reduziert, wenn eine Berechnung keine Lösung gefunden hat. Findet eine Berechnung dagegen eine Lösung, fängt alles von vorne an (ausgehend von dieser Lösung), außer es wurde eine GK-Kursdifferenz von 1 erreicht.
+Sobald man eine Lösung gefunden hat (zum Beispiel mit GK-Kursdifferenz 20). Es gibt einen Button, der automatisch (je nach Einstellung) mehrere parallele Berechnungen startet und dabei versucht, die GK-Kursdifferenz auf 19 zu verbessern. Wird eine Lösung gefunden, ist das Ziel die nächstkleinere GK-Kursdifferenz. Die Berechnung stoppt, wenn 100 verschiedene Szenarien nicht zum Erfolg führten oder eine optimale GK-Kursdifferenz gefunden wurde. Es bietet sich an, durchaus 8 Rechnungen gleichzeitg laufen zu lassen, dies hängt vom CPU (der Anzahl der Kerne) ab (siehe *Technische Fragen*) PS: Wenn die Auto-Berechnung abbricht, dann nur, wenn KD1 (GK-Kursdifferenz von 1) gefunden wurde oder eine Reduzierung der Differenz (beweisbar) nicht möglich ist. Es ist manchmal sehr schwer zu erkennen, warum eine weitere Reduzierung nicht möglich ist. In dem Fall würde ich empfehlen in der Liste der Kurse - die nach Kursdifferenz sortiert sind - nach der Fach-Art zu suchen, welche die höchste Kursdifferenz hat. Zur Klärung der Strategien: K = Fixiert zu ... % Kurse in ihren Schienen ausgehend von einer vorhandenen Lösung und versucht die GK-Kursdifferenz um 1 zu reduzieren. S = Fixiert zu ... % Schüler in ihren Kursen ausgehend von einer vorhandenen Lösung und versucht die GK-Kursdifferenz um 1 zu reduzieren. KS = K uns S gemischt. Die % - Anteile werden dynamisch schrittweise reduziert, wenn eine Berechnung keine Lösung gefunden hat. Findet eine Berechnung dagegen eine Lösung, fängt alles von vorne an (ausgehend von dieser Lösung), außer es wurde eine GK-Kursdifferenz von 1 erreicht.
 
 **Vorhandene Blockungen erneut öffnen**
 
-Eine z.B. mit Kurs42_to_CNF gerechnete Blockung laden, um sie z.B. mit der Autooptimierung zu verbessern:
+Eine zum Beispiel mit Kurs42_to_CNF gerechnete Blockung laden, um sie zum Beispiel mit der Autooptimierung zu verbessern:
 
 - Import in CNF
 - Abfrage "Alle Schüler/Kurse fixieren" bejahen
@@ -284,14 +284,14 @@ Eine z.B. mit Kurs42_to_CNF gerechnete Blockung laden, um sie z.B. mit der Autoo
 - Berechnen
 - Das Ergebnis ist die bisherige Blockung, die nun weiter optimiert werden kann
 
-Falls in Kurs42 schon geblockt wurde und diese Blockung (teilweise) bei Kurs42_to_CNF unangestatet bleiben soll, gibt es z.B. folgende Regel:
+Falls in Kurs42 schon geblockt wurde und diese Blockung (teilweise) bei Kurs42_to_CNF unangestatet bleiben soll, gibt es zum Beispiel folgende Regel:
 
 - Fixiere#Schiene und Teilnehmer#aller#LKs
 - In diesem Beispiel wurden die LKs schon geblockt und werden nun in Kurs42_to_CNF nicht angetastet.
 
 **Tipps zum Umgang mit Ordner- und Dateinamen**
 
-Im Laufe des Blockungsvorgangs können, z.B. durch den Optimierungsvorgang, sehr viele Ergebnisse und damit sehr viele Unterordner entstehen. Es bietet sich an, die nicht benötigten immer wieder zu löschen und den Ordner mit einem guten Ergebniss umzubenennen und dabei einheitlich vorzugehen, z.B.
+Im Laufe des Blockungsvorgangs können, zum Beispiel durch den Optimierungsvorgang, sehr viele Ergebnisse und damit sehr viele Unterordner entstehen. Es bietet sich an, die nicht benötigten immer wieder zu löschen und den Ordner mit einem guten Ergebniss umzubenennen und dabei einheitlich vorzugehen, zum Beispiel
 
 - 5SG_4UW_3KGD_SWnichtparallel
 
@@ -299,10 +299,10 @@ bedeutet, dieses Egebnis enthält 5 Stammgruppen, 4 Umwähler, eine Kursgrößen
 
 **Kurzerhand unterschiedliche Kurszahlen vergleichen**
 
-Wenn es z.B. unklar ist, ob zwei oder drei Deutsch-Grundkurse eingerichtet werden können und man als Entscheidungshilfe beide Blockungsvarianten vergleichen möchte, könnte man entweder
+Wenn es zum Beispiel unklar ist, ob zwei oder drei Deutsch-Grundkurse eingerichtet werden können und man als Entscheidungshilfe beide Blockungsvarianten vergleichen möchte, könnte man entweder
 
 1.  mit Kurs42 zwei Blockungen erstellen, einmal mit drei und einmal mit vier Grundkursen, diese jeweils exportieren und mit Kurs42_to_CNF blocken oder
-2.  man erstellt in Kurs42 eine Blockung mit der höhere Kursanzahl (also drei), blockt diese in CNF und zum Vergleichen wendet man die Regel *Kurs#D-GK3#max. SuS (ignoriert Kursdifferenzen)#0* an. So steht der dritte Deutschkurs nicht zur Verfügung.
+2.  man erstellt in Kurs42 eine Blockung mit der höhere Kursanzahl (also drei), blockt diese in CNF und zum Vergleichen wendet man die Regel *Kurs#D-GK3#max. Schülerinnen und Schüler (ignoriert Kursdifferenzen)#0* an. So steht der dritte Deutschkurs nicht zur Verfügung.
 
 **Kurse über zwei Schinen verteilen**
 
@@ -312,7 +312,7 @@ Wenn es z.B. unklar ist, ob zwei oder drei Deutsch-Grundkurse eingerichtet werde
 
 **Huckepack-Leistungskurse blocken**
 
-Für den seltenen Ausnahmefall, dass ein LK, z.B. Phyisk, nur als sog. Huckepack-Kurs eingerichtet werden kann, kann man so vorgehen:
+Für den seltenen Ausnahmefall, dass ein LK, zum Beispiel Physik, nur als sogenannter Huckepack-Kurs eingerichtet werden kann, können Sie so vorgehen:
 
 - In Kurs42 wird eine Physik-Zusatzkurs eingerichtet.
 - Die Schüler des Physik-LKs wählen auch den ZK.
@@ -320,9 +320,9 @@ Für den seltenen Ausnahmefall, dass ein LK, z.B. Phyisk, nur als sog. Huckepack
 
 ------------------------------------------------------------------------
 
-**Weitere Tipps** Je mehr Sie fixieren, desto schneller ist das Programm. Aber in bestimmten Situationen sollten Sie Fixierungen vermeiden, wenn sie damit nur erreichen wollen, dass bestimmte Kurse zusammen liegen. Sollen z.B. Kurs A und B zusammen liegen und ebenso Kurs C und D und Sie legen nun Kurs A und B in Schiene 5 und Kurs C und D in Schiene 6, dann nehmen Sie dem Programm die Kombinationsmöglichkeit A, B, C und D in die selbe Schiene zu legen.
+**Weitere Tipps** Je mehr Sie fixieren, desto schneller ist das Programm. Aber in bestimmten Situationen sollten Sie Fixierungen vermeiden, wenn sie damit nur erreichen wollen, dass bestimmte Kurse zusammen liegen. Sollen zum Beispiel Kurs A und B zusammen liegen und ebenso Kurs C und D und Sie legen nun Kurs A und B in Schiene 5 und Kurs C und D in Schiene 6, dann nehmen Sie dem Programm die Kombinationsmöglichkeit A, B, C und D in die selbe Schiene zu legen.
 
-**Beispiel 1: Sie wollen, dass alle Deutsch-Kurse in Schiene 1 sind --\> fixieren** Fach-Art#D;GK#allein in Schiene (SuS optimal)#1
+**Beispiel 1: Sie wollen, dass alle Deutsch-Kurse in Schiene 1 sind --\> fixieren** Fach-Art#D;GK#allein in Schiene (Schülerinnen und Schüler optimal)#1
 
 **Beispiel 2: Sie wollen, dass ER-GK1 und ER-GK2 nicht zusammen sind, da es nur eine Lehrkraft gibt** --\> nicht fixieren, sondern
 
@@ -342,7 +342,7 @@ oder besser
 
 oder besser die zwei ER-Zeilen ersetzen durch:
 
-- Fach-Art#ER;GK#in Schiene (SuS optimal)#6
+- Fach-Art#ER;GK#in Schiene (Schülerinnen und Schüler optimal)#6
 
 **Beispiel 4: Sie wollen, dass bestimmte Kurse zusammen sind** --\> auf gar keinen Fall fixieren, sie nehmen sich potentielle Kombinationsmöglichkeiten, wenn Sie die Schiene festlegen, sondern:
 
@@ -350,7 +350,7 @@ oder besser die zwei ER-Zeilen ersetzen durch:
 - Kurs#S0-GK1#unbedingt zusammen mit#F0-GK1
 - Kurs#S0-GK1#unbedingt zusammen mit#S8-GK1
 
-**Beispiel 5: Sie wollen, dass bestimmte Kurse nicht zusammen sind,** z.B. weil ein Lehrer ggf. den zweiten Kurs übernehmen soll --\> auf gar keinen Fall fixieren, sondern:
+**Beispiel 5: Sie wollen, dass bestimmte Kurse nicht zusammen sind,** zum Beispiel weil ein Lehrer gegebenenfalls den zweiten Kurs übernehmen soll --\> auf gar keinen Fall fixieren, sondern:
 
 - Kurs#MU-GK1#niemals zusammen mit#IF-GK1
 

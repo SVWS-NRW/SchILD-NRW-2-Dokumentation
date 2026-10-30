@@ -11,6 +11,8 @@ title: "ReadDateTime"
 
 ## Beschreibung
 
+Zeigt einen Dialog für Datum und Uhrzeiten an. Bei Bedarf lässt sich ein Zeitintervall mit Beginn und Ende erfassen.
+
 ```pascal
 function ReadDateTime(aPrompt: String; var D,T1,T2: TDateTime; IsIntervall: Boolean): Boolean;
 ```
@@ -24,7 +26,6 @@ function ReadDateTime(aPrompt: String; var D,T1,T2: TDateTime; IsIntervall: Bool
 | `T1` | Uhrzeit (Beginn) |
 | `T2` | Uhrzeit(Ende |
 | `IsIntervall` | Falls True, wird die Uhrzeit (Ende) eingeblendet und kann verändert werden |
-
 
 ## Rückgabewert
 
@@ -45,7 +46,6 @@ Procedure Label1OnGetText(var Text: String);
      Text:='---';
  end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

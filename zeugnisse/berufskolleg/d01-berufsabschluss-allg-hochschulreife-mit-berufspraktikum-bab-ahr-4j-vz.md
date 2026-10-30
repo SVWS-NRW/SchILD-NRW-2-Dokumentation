@@ -6,15 +6,17 @@ title: "D01 Berufsabschluss und Abitur"
 
 # D01 Berufsabschluss und Abitur
 
+Diese Seite zeigt ein Bildbeispiel zur Abschlussberechnung für den im Titel genannten Bildungsgang. Vergleichen Sie die dargestellte Ansicht mit Ihrem Bildungsgang. Die Bedeutung des Karteireiters und die allgemeinen Arbeitsschritte erläutert [BK-Abschlussverfahren](/zeugnisse/berufskolleg/bk-abschluss?rubrik=schild2).
+
 Vierjähriger Vollzeitbildungsgang zum Berufsabschluss und zur allgemeinen Hochschulreife mit Berufspraktikum.
 
-Die Berechnungen finden im 4. Jahrgang des Bildungsgangs nach dem Abitur statt. Es wird vorrausgesetzt, dass die Berechnungen auf dem Reiter Abitur gemacht wurden.
+Die Berechnungen finden im 4. Jahrgang des Bildungsgangs nach dem Abitur statt. Es wird vorausgesetzt, dass die Berechnungen auf dem Reiter Abitur gemacht wurden.
 
 <a id="Leistungsdaten_holen"></a>
 
 ## Leistungsdaten holen
 
-Es werden die Leistungsdaten aus 13.1 und 13.2 (3.Jahrgang BK) geholt und von Punkten zu Noten ohne Tendenzen umgerechnet. Dabei wird zu Gunsten des Schülers gerundet. Die Noten können dann vom User manuell korrigiert werden.
+Es werden die Leistungsdaten aus 13.1 und 13.2 (3.Jahrgang BK) geholt und von Punkten zu Noten ohne Tendenzen umgerechnet. Dabei wird zu Gunsten des Schülers gerundet. Die Noten können dann vom Benutzer manuell korrigiert werden.
 
 Die Noten der Berufsabschlussfächer werden nicht geholt. Diese Fächer sind unter den Unterrichtsfächern mit dem Merkmal "schriftl. berufbez." gekennzeichnet.
 

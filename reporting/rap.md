@@ -9,6 +9,22 @@ title: "RAP-Funktionsreferenz"
 
 # RAP-Funktionsreferenz
 
+
+RAP ist die Programmiersprache für zusätzliche Berechnungen und Abläufe im Reportdesigner. Zum Auswählen und Drucken vorhandener Reports brauchen Sie diese Funktionen nicht. Die Referenz richtet sich an Personen, die Vorlagen programmieren oder vorhandenen Code nachvollziehen möchten.
+
+| Begriff | Bedeutung |
+| --- | --- |
+| Funktion | Ein Aufruf, der ein Ergebnis liefert, etwa einen Text oder eine Zahl. |
+| Prozedur | Ein Aufruf, der einen Vorgang ausführt oder übergebene Werte verändert. |
+| Signatur | Die Schreibweise eines Aufrufs mit seinem Namen und den übergebenen Parametern. |
+| Parameter | Ein Wert, den Sie beim Aufruf übergeben. Ein mit `var` gekennzeichneter Parameter kann einen veränderten Wert zurückliefern. |
+| Zeichenkette oder String | Text, zum Beispiel ein Name oder ein Dateipfad. |
+| Wahrheitswert | `True` oder `False`, also wahr oder falsch. Die genaue Bedeutung steht beim jeweiligen Parameter. |
+| Datenquelle | Die für einen Report bereitgestellten Datensätze und Felder. |
+| Ereignis | Ein festgelegter Zeitpunkt der Reportverarbeitung, an dem Code ausgeführt wird. |
+
+Die Einträge bleiben alphabetisch geordnet. Das Seitenmenü fasst sie zusätzlich in Buchstabenbereiche zusammen. Lesen Sie bei einem Aufruf zuerst die Beschreibung und anschließend Parameter und Beispiel. Signaturen und Beispiele sind aus den Quellen übernommen; sie ersetzen keinen Test in der passenden Reportumgebung.
+
 Schlagen Sie eine Funktion alphabetisch nach. Die Funktionsartikel enthalten die dokumentierte Beschreibung und Signatur, Parameter, Rückgabewerte und Beispiele. Die Quellen stehen am jeweiligen Artikel.
 
 Die vollständige Referenz umfasst **122 RAP-Funktionsartikel**. Die Funktionen sind alphabetisch geordnet.

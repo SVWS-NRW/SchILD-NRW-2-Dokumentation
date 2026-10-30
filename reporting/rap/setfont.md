@@ -11,12 +11,11 @@ title: "SetFont"
 
 ## Beschreibung
 
+Setzt den Zeichensatz für alle Komponenten des Reports
+
 ```pascal
 procedure SetFont(aReport: TppReport; const aFontname: String)
 ```
-
-
-Setzt den Zeichensatz für alle Komponenten des Reports
 
 ## Parameter
 
@@ -24,7 +23,6 @@ Setzt den Zeichensatz für alle Komponenten des Reports
 | --- | --- |
 | `aReport` | der zu bearbeitende Report |
 | `aFontname` | Der Name des neuen Zeichensatzes |
-
 
 ## Beispiel
 
@@ -34,7 +32,6 @@ begin
   Setfont(Report,'Tahoma');
 end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

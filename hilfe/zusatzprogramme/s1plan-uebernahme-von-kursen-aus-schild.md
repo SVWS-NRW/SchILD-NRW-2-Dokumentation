@@ -37,7 +37,7 @@ Nach Klick auf das Symbol „Schild“ erscheint das Fenster
 
 ![S1P-045-Abgleich-mit-Schild-Fenster-2](/bilder/tools/s1plan/s1p-045-abgleich-mit-schild-fenster-2.jpg)
 
-mit allen Kursen und (ggf.) Schülerzuordnungen, die bisher in SchILD-NRW vorlagen. Diese Kurse sollen zwecks Bearbeitung in S1Plan nun importiert werden. Also muss die im mittleren Fenster gestellte Frage mit „Ja“ beantwortet werden.
+mit allen Kursen und (gegebenenfalls) Schülerzuordnungen, die bisher in SchILD-NRW vorlagen. Diese Kurse sollen zwecks Bearbeitung in S1Plan nun importiert werden. Also muss die im mittleren Fenster gestellte Frage mit „Ja“ beantwortet werden.
 
 :::info
 Beachten Sie das nun folgende Bestätigungsfenster: Alle schon in S1Plan bestehenden „PUT-Kurse“ werden gelöscht!
@@ -70,14 +70,14 @@ Nach den Änderungen können die neuen Kurswahlen über den Gruppenprozess
 
 ![S1P-047-fixieren](/bilder/tools/s1plan/s1p-047-fixieren.jpg)
 
-fixiert werden. Danach ist eine Bearbeitung (Änderung) der Kurszuordnung im Fenster „Kurswahlen“ nicht mehr möglich. Über den gleichen Schalter kann man die Kurswahlen wieder freigeben.
+fixiert werden. Danach ist eine Bearbeitung (Änderung) der Kurszuordnung im Fenster „Kurswahlen“ nicht mehr möglich. Über den gleichen Schalter können Sie die Kurswahlen wieder freigeben.
 
 <a id="KURSWAHLEN_NACH_SCHILD-NRW_ZURÜCKSCHREIBEN"></a>
 <a id="KURSWAHLEN_NACH_SCHILD-NRW_ZUR.C3.9CCKSCHREIBEN"></a>
 
 ## KURSWAHLEN NACH SCHILD-NRW ZURÜCKSCHREIBEN
 
-Das Zurückschreiben geschieht analog zum Kursexport auf Seite 13. Beachten Sie, dass die bestehenden (entsprechenden) Kurse in der SchILD-NRWDatenbank zunächst gelöscht werden. Nach dem Export nach SchILD-NRW muss hier zur Aktualisierung ggf. einmal unter „Schulverwaltung \> Kurse“ der Menüpunkt „Kurse neu laden“ einmal angeklickt werden.
+Das Zurückschreiben geschieht analog zum Kursexport auf Seite 13. Beachten Sie, dass die bestehenden (entsprechenden) Kurse in der SchILD-NRWDatenbank zunächst gelöscht werden. Nach dem Export nach SchILD-NRW muss hier zur Aktualisierung gegebenenfalls einmal unter „Schulverwaltung \> Kurse“ der Menüpunkt „Kurse neu laden“ einmal angeklickt werden.
 
 :::info
 Im Fenster „Abgleich Kurse/SchILD-Kurse“ kann der Export auch für andere Zwecke in verschiedenen Dateiformaten erfolgen. Bei Klick auf das Symbol ![S1P-048-Einzelexport](/bilder/tools/s1plan/s1p-048-einzelexport.jpg) in einem der vier Fenster werden die Inhalte (der entsprechenden Fenster) exportiert.

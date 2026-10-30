@@ -6,6 +6,8 @@ title: "Kurse sortieren"
 
 # Kurse sortieren
 
+Hier aktualisieren Sie die Reihenfolge der Kurse nach den Vorgaben der Kursverwaltung. Die Funktion sortiert vorhandene Einträge; sie weist den Schülerinnen und Schülern keine neuen Kurse zu.
+
 Diese Funktion sortiert die Kurse in der Tabelle [Schulverwaltung](/schild2/unterricht-kataloge/schulverwaltung) \> [Kurse](/schild2/unterricht-kataloge/kurse) neu.
 
 ------------------------------------------------------------------------

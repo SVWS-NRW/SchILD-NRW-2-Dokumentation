@@ -6,6 +6,8 @@ title: "Mit KM2 in der Konferenz arbeiten"
 
 # Mit KM2 in der Konferenz arbeiten
 
+Diese Anleitung erklärt die Arbeit im Konferenzmodul KM2 nach der Einrichtung. Sie beschreibt die Anzeige der Leistungsdaten und die Bedienung während einer Konferenz.
+
 ![KM2_Bildschirmaufbau_01](/bilder/tools/weitere/km2-bildschirmaufbau-01.png)
 
 *Bildschirmaufbau*
@@ -16,7 +18,7 @@ title: "Mit KM2 in der Konferenz arbeiten"
 
 Der Bildschirmaufbau gliedert sich in vier Bereiche:
 
-- Den meisten Platz nehmen die Leistungsdaten ein. Vertikal sind die Schülernamen Zeile für Zeile aufgetragen und horizontal die zuvor ausgewählten Unterrichtsfächer. Gelbe Markierungen markieren die Daten eines Schüler bzw. eines Faches.
+- Den meisten Platz nehmen die Leistungsdaten ein. Vertikal sind die Schülernamen Zeile für Zeile aufgetragen und horizontal die zuvor ausgewählten Unterrichtsfächer. Gelbe Markierungen markieren die Daten eines Schüler beziehungsweise eines Faches.
 - Am oberen Fensterrand befindet sich das Hauptmenü, mit dessen Hilfe alle Programmfunktionen aufgerufen werden können.
 - An das Menü schließen sich eine Symbolleiste an, mit deren Hilfe die wichtigsten Programmfunktionen aktiviert werden können, und ein Informationsbereich: Schuljahr, Lernabschnitt, Informationen zum markierten Fach
 - Am unteren Bildschirmrand befindet sich eine Statuszeile
@@ -33,7 +35,7 @@ Die Elemente im Einzelnen:
 
 Hinweis: Kursbezeichnungen werden gekürzt, wenn die Kursbezeichnung die Bezeichnung des Faches (zzgl. eines Bindestriches) enthalten sollte. Bespiel: Unterrichtsfach: "WP1". Der Kurs "WP1-NW" wird als "NW" dargestellt und der Kurs "WP1-L6" als "L6".
 
-- Zusatzinformationen (z.B.)
+- Zusatzinformationen (zum Beispiel)
 
 <!-- -->
 
@@ -54,7 +56,7 @@ Hinweis: Das aktuelle SchILD-NRW Schuljahr und der aktuelle Lernabschnitt sind g
 
 - **(5)**: Schnellwahlleiste zum Aufruf der wichtigsten Programmfunktionen.
 - **(6)**: Hauptmenü, mit dessen Hilfe alle Programmfunktionen aufgerufen werden können.
-- **(7)**: Gelbe Markierungen markieren die Daten eines Schülers bzw. eines Faches.
+- **(7)**: Gelbe Markierungen markieren die Daten eines Schülers beziehungsweise eines Faches.
 - **(8)**: Statuszeile (von links nach rechts):
 
 <!-- -->
@@ -64,8 +66,8 @@ Hinweis: Das aktuelle SchILD-NRW Schuljahr und der aktuelle Lernabschnitt sind g
 - angemeldeter Programmbenutzer
 - Status der Datenbank: geöffnet / geschlossen
 - gewähltes Schuljahr / Lernabschnitt
-- Name der automatischen geladenen Profildatei (bzw. "Profildatei: Nicht gefunden", wenn die entsprechende Profildatei vom Programm nicht gefunden wurde)
-- Dateiname der SchILD-Datenbank (bzw. der entsprechenden UDL-Datei) - siehe [Datenbank und Administration](/hilfe/zusatzprogramme/km2-parameter-administration).
+- Name der automatischen geladenen Profildatei (beziehungsweise "Profildatei: Nicht gefunden", wenn die entsprechende Profildatei vom Programm nicht gefunden wurde)
+- Dateiname der SchILD-Datenbank (beziehungsweise der entsprechenden UDL-Datei) - siehe [Datenbank und Administration](/hilfe/zusatzprogramme/km2-parameter-administration).
 
 <a id="Datenbearbeitung"></a>
 
@@ -131,29 +133,29 @@ eingegeben wurde.
 Die Änderungen an den Leistungsdaten - sowohl Noten als auch Bemerkungstexte werden protokolliert. Um eine mögliche Weiterverwendung zu vereinfachen, so sind die Protokolldaten in einem HTML-Dokument abgespeichert. Es werden zwei Arten von Protokolldateien unterschieden und vom Programm automatisch gepflegt:
 
 - In der Datei **Prot.html** im Ordner \Prot werden alle Änderungen protokolliert.
-- In der Datei **KKK_Prot.html** (wobei KKK die jeweils aktive Klasse identifiziert, z.B. 06a_Prot.html) werden alle Änderungen einer bestimmten Klasse dokumentiert.\
+- In der Datei **KKK_Prot.html** (wobei KKK die jeweils aktive Klasse identifiziert, zum Beispiel 06a_Prot.html) werden alle Änderungen einer bestimmten Klasse dokumentiert.\
 
 <!-- -->
 
-- 
+-
 
   ![allgemeine Protokolldatei](/bilder/tools/weitere/km2-protokolldaten-allgemein.png)
 
-  
 
-  
+
+
 
   allgemeine Protokolldatei
 
-  
 
-- 
+
+-
 
   ![Klassenspezifische Protokolldatei](/bilder/tools/weitere/km2-protokolldaten-klasse.png)
 
-  
 
-  
+
+
 
   Klassenspezifische Protokolldatei
 

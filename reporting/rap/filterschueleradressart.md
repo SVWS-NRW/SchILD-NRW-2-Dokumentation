@@ -11,6 +11,8 @@ title: "FilterSchuelerAdressArt"
 
 ## Beschreibung
 
+Filtert die Schüleradressen nach der angegebenen Adressart.
+
 ```pascal
 procedure FilterSchuelerAdressArt(aAdressArt: String);
 ```
@@ -20,7 +22,6 @@ procedure FilterSchuelerAdressArt(aAdressArt: String);
 | Parameter | Bedeutung |
 | --- | --- |
 | `aAdressArt` | Adressart, auf die gefiltert werden soll |
-
 
 ## Beispiel
 
@@ -36,7 +37,6 @@ Procedure ReportBeforePrint;
   Adressen“ angezeigt. Auf das Ergebnis kann über die Datenquelle „SchuelerAdressen“
   zugegriffen werden*)
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

@@ -11,6 +11,8 @@ title: "FileSaveDlg"
 
 ## Beschreibung
 
+Öffnet einen Dialog zur Auswahl eines Speicherorts und Dateinamens. Bei einem Abbruch wird eine leere Zeichenkette zurückgegeben.
+
 ```pascal
 function FileSaveDlg(const aFilename, aInitialDir,
                      aFilter: String): String;
@@ -20,10 +22,9 @@ function FileSaveDlg(const aFilename, aInitialDir,
 
 | Parameter | Bedeutung |
 | --- | --- |
-| `aFilename` | Name der zu speichernden Datei, evtl. mit Platzhaltern |
+| `aFilename` | Name der zu speichernden Datei, gegebenenfalls mit Platzhaltern |
 | `aInitialDir` | Startverzeichnis, Leerer String öffnet im aktuellen Verzeichnis |
 | `aFilter` | Dateinamenfilter |
-
 
 ## Rückgabewert
 
@@ -35,7 +36,6 @@ abgebrochen wird
 ```pascal
 Fn:=FileSaveDlg('*.txt','c:\Text','Textdateien|*.txt|Alle Dateien|*.*');
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

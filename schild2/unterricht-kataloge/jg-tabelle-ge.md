@@ -6,11 +6,13 @@ title: "Statistikjahrgänge an Gesamtschulen"
 
 # Statistikjahrgänge an Gesamtschulen
 
+Dieses Beispiel zeigt die Jahrgangstabelle einer Gesamtschule mit Quartalsbetrieb. Es ergänzt die allgemeine Anleitung zu den Statistikjahrgängen.
+
 ![JG Tabelle GE](/bilder/schild2/unterricht-kataloge/jg-tabelle-ge.jpg)
 
 Typische Jahrgangstabelle für eine Gesamtschule mit Quartalsbetrieb.
 
-An den Restabschnitten sieht man, dass jedes Schuljahr vier Abschnitte hat. Außerdem endet die Sekundarstufe I zunächst im Jahrgang 10.
+An den Restabschnitten sehen Sie, dass jedes Schuljahr vier Abschnitte hat. Außerdem endet die Sekundarstufe I zunächst im Jahrgang 10.
 
 ------------------------------------------------------------------------
 

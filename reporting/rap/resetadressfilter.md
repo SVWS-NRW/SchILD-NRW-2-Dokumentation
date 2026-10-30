@@ -11,19 +11,17 @@ title: "ResetAdressFilter"
 
 ## Beschreibung
 
+Entfernt den über FilterAdresse gesetzten Filter
+
 ```pascal
 procedure ResetAdressFilter;
 ```
-
-
-Entfernt den über FilterAdresse gesetzten Filter
 
 ## Beispiel
 
 ```text
 ...
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

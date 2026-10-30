@@ -6,6 +6,8 @@ title: "Das Programm im Überblick"
 
 # Das Programm im Überblick
 
+Hier lernen Sie die wichtigsten Bereiche von SchILD-NRW 2 kennen. Die Übersicht erklärt, wo Sie Schülerdaten, schulische Vorgaben und wiederkehrende Arbeitsabläufe finden. Für einzelne Aufgaben folgen Sie den verlinkten Anleitungen.
+
 <a id="Hauptfenster"></a>
 
 ## [Hauptfenster](/einstieg/grundlagen/hauptfenster)
@@ -14,7 +16,7 @@ title: "Das Programm im Überblick"
 
 ![Schild-NRW-Hauptfenster](/bilder/einstieg/grundlagen/schild-nrw-hauptfenster.jpg)
 
-SchILD-NRW startet i.d.R. mit dem Hauptfenster. Dieses Fenster ist in mehrere Bereiche gegliedert. Am oberen Fensterrand sind der Name der aktuellen Datenbank, das aktuelle Schuljahr und der angemeldete Benutzer eingeblendet.
+SchILD-NRW startet in der Regel mit dem Hauptfenster. Dieses Fenster ist in mehrere Bereiche gegliedert. Am oberen Fensterrand sind der Name der aktuellen Datenbank, das aktuelle Schuljahr und der angemeldete Benutzer eingeblendet.
 
 Die Dropdown-Menüs befinden sich darunter; über diese können alle Funktionen von Schild-NRW erreicht werden. Alle Menüpunkte dieser Dropdowns werden in den kommenden Abschnitten ausführlich erklärt.
 
@@ -70,9 +72,9 @@ Dies hat den Vorteil, dass Benutzer nicht willkürlich in den Katalogen die Beze
 
 ![Auswahl_01](/bilder/einstieg/grundlagen/auswahl-01.jpg)
 
-Das Menü [Menü Auswahl](/schild2/auswahl/auswahl) ist ein wesentlicher Bestandteil der Schild-NRW-Philosophie, da dort die zahlreichen Möglichkeiten zur Filterung der Schülermenge zu finden sind.
+Das Menü [Menü Auswahl](/schild2/auswahl/auswahl) ist ein wesentlicher Bestandteil der Schild-NRW-Philosophie, da dort die zahlreichen Möglichkeiten zur Filterung der Schülergruppe zu finden sind.
 
-Dieses Menü beinhaltet die Programmpunkte, die es erlauben, die Menge der Schüler im [Schülerliste und Auswahl](/einstieg/grundlagen/container) nach vielen Kriterien einzugrenzen um mit ausgewählten Gruppen gemeinsame Arbeitsschritte (sog. [Gruppenprozesse](/schild2/gruppenprozesse/gruppenprozesse)) zu erledigen. Der Umgang mit diesen Filtern zur Gruppenweise-Bearbeitung oder zum Drucken von Gruppen-Reports ist ein grundlegender Aspekt zur effizienten Bearbeitung der Daten in Schild-NRW.
+Dieses Menü beinhaltet die Programmpunkte, die es erlauben, die Menge der Schüler im [Schülerliste und Auswahl](/einstieg/grundlagen/container) nach vielen Kriterien einzugrenzen um mit ausgewählten Gruppen gemeinsame Arbeitsschritte (sogenannte [Gruppenprozesse](/schild2/gruppenprozesse/gruppenprozesse)) zu erledigen. Der Umgang mit diesen Filtern zur Gruppenweise-Bearbeitung oder zum Drucken von Gruppen-Reports ist ein grundlegender Aspekt zur effizienten Bearbeitung der Daten in Schild-NRW.
 
 Die vielfältigen Möglichkeiten zur Filterung finden Sie im Artikel: **[Menü Auswahl](/schild2/auswahl/auswahl)**
 
@@ -104,7 +106,7 @@ Schild-NRW arbeitet mit einer leistungsfähigen Report-Ausgabe, um Datensätze u
 
 Auf der **[Schild-NRW-Homepage](http://www.svws.nrw.de/)** stehen Ihnen viele Formulare (Reports) zur Verfügung, die Sie in Ihre Druckumgebung einbinden können.
 
-Das Erstellen von Reports bietet allen Usern die Möglichkeit zum Drucken von einfachen Listen, bis hin zu komplizierten Reports, die sogar eigene Auswertungen machen können.
+Das Erstellen von Reports bietet allen Benutzern die Möglichkeit zum Drucken von einfachen Listen, bis hin zu komplizierten Reports, die sogar eigene Auswertungen machen können.
 
 Viele Informationen zum Thema **[Reporting im Überblick](/reporting/erstellung/reporting)** finden Sie in einer eigenen Unterabteilung dieses WIKIS.
 
@@ -136,11 +138,11 @@ Nähere Informationen dazu im Artikel: **[Datenaustausch](/schild2/import-export
 
 ![Extras_01](/bilder/einstieg/grundlagen/extras-01.jpg)
 
-Unter diesem Menüpunkt befinden sich einige Einstellungsmöglichkeiten sowie einige Prozesse, die zur Aktualisierung bzw. zur Reparatur herangezogen werden können.
+Unter diesem Menüpunkt befinden sich einige Einstellungsmöglichkeiten sowie einige Prozesse, die zur Aktualisierung beziehungsweise zur Reparatur herangezogen werden können.
 
 Eine genaue Beschreibung, welche Prozesse zur Verfügung stehen und welche Arbeiten damit durchgeführt werden können, finden Sie in dem Artikel: **[Menü Extras](/administration/benutzer-einstellungen/extras)**.
 
-Dabei ist sicherlich der Menü-Punkt [Programmeinstellungen](/administration/benutzer-einstellungen/programm-einstellungen) für alle Administratoren und User besonders interessant, da dort grundlegende Einstellungen für das Programm festgelegt werden können.
+Dabei ist sicherlich der Menü-Punkt [Programmeinstellungen](/administration/benutzer-einstellungen/programm-einstellungen) für alle Administratoren und Benutzer besonders interessant, da dort grundlegende Einstellungen für das Programm festgelegt werden können.
 
 Bitte beachten Sie, dass dieses Menü je nach Schulform und Einstellung anders aussehen kann.
 
@@ -193,7 +195,7 @@ Eine genaue Beschreibung aller Optionen finden Sie im Artikel: **[Angemeldete Be
 
 In diesem Bereich werden einige kleine Programme vorgestellt und beschrieben, die besondere Aufgaben rund um Schild-NRW übernehmen, die vom Programm selbst nicht erledigt werden können.
 
-Diese Programme werden teilweise mit der Schild-Installation ausgeliefert oder müssen separat heruntergeladen und installiert bzw. gespeichert werden.
+Diese Programme werden teilweise mit der Schild-Installation ausgeliefert oder müssen separat heruntergeladen und installiert beziehungsweise gespeichert werden.
 
 Einzelheiten entnehmen Sie bitte den jeweiligen Artikeln:
 

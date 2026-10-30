@@ -11,13 +11,12 @@ title: "SelectAdressName"
 
 ## Beschreibung
 
+Diese Funktion bietet alle im Feld „Name“ der „Allgemeinen Adressen“ gefundenen
+Einträge zur Auswahl an.
+
 ```pascal
 function SelectAdressName: String;
 ```
-
-
-Diese Funktion bietet alle im Feld „Name“ der „Allgemeinen Adressen“ gefundenen
-Einträge zur Auswahl an.
 
 ## Rückgabewert
 
@@ -34,7 +33,6 @@ Procedure ReportBeforePrint;
   FilterAdresse(lAdresse);
  end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

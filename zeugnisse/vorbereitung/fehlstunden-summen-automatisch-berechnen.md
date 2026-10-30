@@ -6,17 +6,17 @@ title: "Fehlstundensummen automatisch berechnen"
 
 # Fehlstundensummen automatisch berechnen
 
-Dieser Gruppenprozess berechnet bei Aktivierung automatisch die Gesamtfehlstunden bei der ausgewählten Schülermenge. Dabei werden vorhandene Einträge überschrieben.
+Dieser Gruppenprozess berechnet bei Aktivierung automatisch die Gesamtfehlstunden bei der ausgewählten Schülergruppe. Dabei werden vorhandene Einträge überschrieben.
 
 Dazu sollte man wissen, dass die Eingabe von Fehlzeiten in SchILD an zwei verschiedenen Stellen erfolgen kann.
 
 - Unter Gruppenprozesse \> Noten, Zeugnisvorbereitung \> [Noten, Mahnungen und Fehlstunden](/zeugnisse/vorbereitung/noten-mahnungen-und-fehlstunden-eingeben)
 
-In diesem Fall werden alle, sich in der Auswahl befindlichen Schüler mit all ihren Fächern angezeigt. Hier können Sie nun z.B. (nach vorheriger Selektion eines Faches) fehlende Noten, Mahnungen, aber eben auch Fehlzeiten (nach Fach) eingeben.
+In diesem Fall werden alle, sich in der Auswahl befindlichen Schüler mit all ihren Fächern angezeigt. Hier können Sie nun zum Beispiel (nach vorheriger Selektion eines Faches) fehlende Noten, Mahnungen, aber eben auch Fehlzeiten (nach Fach) eingeben.
 
 - Unter Gruppenprozesse \> Noten, Zeugnisvorbereitung \> [Fehlstunden eingeben](/zeugnisse/vorbereitung/fehlstunden-summen-manuell-eingeben)
 
-In diesem Fall geben Sie (z.B. als Klassenlehrer) die Gesamt-Fehlzeiten bei den Schülern ein.
+In diesem Fall geben Sie (zum Beispiel als Klassenlehrer) die Gesamt-Fehlzeiten bei den Schülern ein.
 
 **Hinweis:** Man sollte auf jeden Fall eine Mischeingabe vermeiden. Wurden die Fehlzeiten als Gesamt-Summe eingegeben, so würde die automatische Summenbildung (aus den Zahlen der einzelnen Fächer) diese überschreiben...
 

@@ -6,6 +6,8 @@ title: "Schlüsselverwaltung in ASDPC"
 
 # Schlüsselverwaltung in ASDPC
 
+Für den geschützten Austausch der Statistikdateien werden Schlüsseldateien verwendet. Sie dienen der Ver- und Entschlüsselung der Dateien. Die folgenden Schritte erklären, welche Schlüssel Sie benötigen und wie Sie damit arbeiten.
+
 <a id="Allgemeine_Informationen"></a>
 
 ## Allgemeine Informationen
@@ -29,7 +31,7 @@ Wobei "SXXXXXX" Ihre Schulnummer ist, "JJJJMMTT_SSMMSS" ist das Datum mit Uhrzei
 Der öffentliche Schlüssel wird standardmäßig im Verzeichnis \ASDPC32\ASD\SCHLUESSEL gespeichert, haben Sie ASDPC in C:\Programme installiert, wären die Schlüssel somit bei C:\Programme\ASDPC32\ASD\SCHLUESSEL zu finden.
 
 :::info
-Es empfiehlt sich, das Schlüsselpaar separat z.B. auf einer externen Sicherungsfestplatte oder einem beschrifteten USB-Stick zu speichern und sicher, etwa im Tresor, zu lagern.
+Es empfiehlt sich, das Schlüsselpaar separat zum Beispiel auf einer externen Sicherungsfestplatte oder einem beschrifteten USB-Stick zu speichern und sicher, etwa im Tresor, zu lagern.
 :::
 
 <a id="Neu_Erzeugen,_Einlesen_und_Sichern_von_existierenden_Schlüsseln"></a>
@@ -83,7 +85,7 @@ Hier im Beispiel geht hervor, dass diese Schlüssel am 09.09.2021 um 10:55:53 er
 ## Mögliche Fehler bei Ver- und Entschlüsselung
 
 1.  Aus Sicht von IT.NRW ist der aktuellste Schlüssel immer der zuletzt zugeschickte. Wurde Ihr aktueller öffentlicher Schlüssel (".pub") IT.NRW korrekt zugeschickt? Im Dateinamen der heruntergeladenen Vorgabedaten ist der Zeitpunkt codiert, wann Ihr Schlüssel erstellt wurde, hier können Sie also überprüfen, ob IT.NRW über die gleichen Schlüssel verfügt wie Ihre Schule. Die Vorgabedaten könnten im Dateinamen etwa eine solche Folge behinhalten: "\_20210603_091136" - damit geht hervor, dass IT.NRW einen Schlüssel vom 03.06.2021 09:11:36 vorliegen hatte.
-2.  Lädt man Dateien, z.B. Vorgabedaten, mehrfach herunter, fügt Windows automatisch eine Nummerierung an. Datei.jpg wird nach einem zweiten und dritten Herunterladen somit zu "Datei.jpg", "Datei (1).jpg" und "Datei (2).jpg". Die Zahlen, Klammern und das Leerzeichen müssen somit entfernt werden, bevor die Datei korrekt entschlüsselt werden kann.
+2.  Lädt man Dateien, zum Beispiel Vorgabedaten, mehrfach herunter, fügt Windows automatisch eine Nummerierung an. Datei.jpg wird nach einem zweiten und dritten Herunterladen somit zu "Datei.jpg", "Datei (1).jpg" und "Datei (2).jpg". Die Zahlen, Klammern und das Leerzeichen müssen somit entfernt werden, bevor die Datei korrekt entschlüsselt werden kann.
 
 ------------------------------------------------------------------------
 

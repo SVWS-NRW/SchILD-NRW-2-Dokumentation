@@ -4,9 +4,11 @@ title: "Haltestellen"
 
 # Haltestellen
 
+Im Haltestellenkatalog legen Sie die Einträge an, die Sie für Schulwege und Schülerbeförderung benötigen. Bei einer Grundinstallation enthält er noch keine Haltestellen.
+
 Der Katalog der Haltestellen ist bei der Grundinstallation leer.
 
-Dieser Katalog wird von Schulen verwendet, wenn Schulbusse oder andere Transportmittel verwendet werden und z.B. nachgehalten werden muss, wo die Schüler abgeholt werden sollen. Um diese Information zu den Schülern mit Hilfe von SchILD abzubilden, müssen alle, bei Ihren Schülern vorkommenden Haltestellen im Katalog zuerst eingegeben werden. Anschließend kann bei den Individualdaten des Schülers darauf zugegriffen werden.
+Dieser Katalog wird von Schulen verwendet, wenn Schulbusse oder andere Transportmittel verwendet werden und zum Beispiel nachgehalten werden muss, wo die Schüler abgeholt werden sollen. Um diese Information zu den Schülern mit Hilfe von SchILD abzubilden, müssen alle, bei Ihren Schülern vorkommenden Haltestellen im Katalog zuerst eingegeben werden. Anschließend kann bei den Individualdaten des Schülers darauf zugegriffen werden.
 
 ![Haltestelle](/bilder/schild2/unterricht-kataloge/haltestelle.jpg)
 

@@ -6,6 +6,8 @@ title: "B07 Berufliche Kenntnisse und mittlerer Schulabschluss"
 
 # B07 Berufliche Kenntnisse und mittlerer Schulabschluss
 
+Diese Seite zeigt ein Bildbeispiel zur Abschlussberechnung für den im Titel genannten Bildungsgang. Vergleichen Sie die dargestellte Ansicht mit Ihrem Bildungsgang. Die Bedeutung des Karteireiters und die allgemeinen Arbeitsschritte erläutert [BK-Abschlussverfahren](/zeugnisse/berufskolleg/bk-abschluss?rubrik=schild2).
+
 Einjähriger Vollzeitbildungsgang mit beruflichen Kenntnissen und mittlerem Schulabschluss.
 
 ![BK_Abschluss_B07](/bilder/zeugnisse/berufskolleg/bk-abschluss-b07.png)

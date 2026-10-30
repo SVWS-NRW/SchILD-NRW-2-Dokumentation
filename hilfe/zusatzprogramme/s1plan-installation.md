@@ -19,14 +19,14 @@ Starten Sie das Programm S1Plan-Setup.exe. Bei der Installation erhalten Sie zu 
 
 4\. Führen Sie einen Abgleich der Stammdaten mit SchILD-NRW aus.
 
-5\. Legen Sie ein Kursprofil an(z.B. "AGGT / alle" : Verwaltung der Arbeitsgemeinschaften für alle Jahrgänge
+5\. Legen Sie ein Kursprofil an(zum Beispiel "AGGT / alle" : Verwaltung der Arbeitsgemeinschaften für alle Jahrgänge
 
 6\. Wenn in SchILD-NRW bereits Kursdaten eingegeben sein sollten, so rufen Sie den Menüpunkt:
 
   Abgleich: Kurse / SchILD-Kurse (Alt+A) \
   auf und klicken auf "SchILD-Import"\
 
-Geben Sie nach Klick auf „Weiter“ ggf. Benutzerinformationen an und klicken Sie wiederum auf „Weiter“. Im folgenden Fenster finden Sie eine voreingestellte Pfadangabe zum Installa-tionsort des Programms. Ändern Sie ggf. den Pfad nach Ihren Programmein-stellungen zu SchILD-NRW ab. Auf jeden Fall sollte S1Plan in einem Unter-ordner von SchILD-NRW installiert werden. Klicken Sie danach auf „Weiter“ und führen Sie die Installation zu Ende.
+Geben Sie nach Klick auf „Weiter“ gegebenenfalls Benutzerinformationen an und klicken Sie wiederum auf „Weiter“. Im folgenden Fenster finden Sie eine voreingestellte Pfadangabe zum Installa-tionsort des Programms. Ändern Sie gegebenenfalls den Pfad nach Ihren Programmein-stellungen zu SchILD-NRW ab. Auf jeden Fall sollte S1Plan in einem Unter-ordner von SchILD-NRW installiert werden. Klicken Sie danach auf „Weiter“ und führen Sie die Installation zu Ende.
 
 ------------------------------------------------------------------------
 

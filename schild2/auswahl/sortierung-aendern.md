@@ -6,7 +6,7 @@ title: "Sortierung ändern"
 
 Schild-NRW hat standardmäßig eine Sortierung von Klasse, Name, Vorname eingestellt, welche auch durch die meisten Reports übernommen wird.
 
-Möchte man nun eine andere Reihenfolge (z.B. rein alphabetisch oder nach der aufnehmenden Schule) einstellen, so muss man in Schild-NRW zuerst die Sortierung verändern.
+Möchte man nun eine andere Reihenfolge (zum Beispiel rein alphabetisch oder nach der aufnehmenden Schule) einstellen, so müssen Sie in Schild-NRW zuerst die Sortierung verändern.
 
 Klicken Sie dazu auf die Hand mit den farbigen Punkten!
 
@@ -16,11 +16,11 @@ Es öffnet sich nun ein Dialogfeld, in dem man die Sortierung bestimmen kann:
 
 ![Sortierung-02](/bilder/schild2/auswahl/sortierung-02.png)
 
-Durch Anklicken des gewünschten Datenfeldes kann man nun mit Hilfe der **\>** oder **\<** Tasten die Kriterien für die Sortierung neu einstellen.
+Durch Anklicken des gewünschten Datenfeldes können Sie nun mit Hilfe der **\>** oder **\<** Tasten die Kriterien für die Sortierung neu einstellen.
 
 ![Sortierung-03](/bilder/schild2/auswahl/sortierung-03.png)
 
-Mit den roten Pfeiltasten kann man sogar die Reihenfolge der Sortierung festlegen.
+Mit den roten Pfeiltasten können Sie sogar die Reihenfolge der Sortierung festlegen.
 
 ![Sortierung-04](/bilder/schild2/auswahl/sortierung-04.png)
 

@@ -10,7 +10,7 @@ title: "Import aus Textdateien"
 
 Der Menüpunkt *Import aus Textdateien* steht Ihnen nur zur Verfügung, wenn das Programm ExternImport.exe aus der Tools-Sammlung installiert wurde. (Das Programm muss sich im Installationsverzeichnis von Schild-NRW befinden.)
 
-Nach dem Aufruf des Menüpunktes werden Sie ggf. aufgefordert, erneut die Zieldatenbank auszuwählen und Benutzernamen und Passwort einzugeben.
+Nach dem Aufruf des Menüpunktes werden Sie gegebenenfalls aufgefordert, erneut die Zieldatenbank auszuwählen und Benutzernamen und Passwort einzugeben.
 
 Der Externe-Text-Import ermöglicht es Ihnen, einzelne Datenfelder zu importieren und nicht immer alle Felder der Schnittstelle nutzen zu müssen.
 
@@ -24,9 +24,9 @@ An dieser Stelle können Sie jederzeit den "Hilfe"-Button benutzen, hier erhalte
 
 Wählen Sie über das Ordner-Symbol eine Importdatei aus. Bei dieser Datei muss es sich um eine Textdatei im ANSI- oder Unicode-Format handeln. Es ist zu empfehlen, hier das Semikolon als Trennzeichen zu wählen. Dies kann aber auch verändert werden.
 
-Danach wählen Sie ein Importschema. Sollte noch kein Importschema vorhanden sein, dann können Sie durch einen Klick auf "Datei" ein neues Schema anlegen oder vorhandene Schemata importieren bzw. exportieren. (Damit ist auch die Weitergabe von Import-Schemata möglich.) Wenn Sie ein Schema ausgewählt haben, wird der Button "Bearbeiten" aktiv. Nun können Sie beginnen, die einzelnen Felder im Schema zuzuordnen.
+Danach wählen Sie ein Importschema. Sollte noch kein Importschema vorhanden sein, dann können Sie durch einen Klick auf "Datei" ein neues Schema anlegen oder vorhandene Schemata importieren beziehungsweise exportieren. (Damit ist auch die Weitergabe von Import-Schemata möglich.) Wenn Sie ein Schema ausgewählt haben, wird der Button "Bearbeiten" aktiv. Nun können Sie beginnen, die einzelnen Felder im Schema zuzuordnen.
 
-Jede Import-Datei muss mit einem Import-Schema verknüpft werden. Ein Import-Schema kann als eine Sammlung von Vorschriften angesehen werden, die alle zum Import notwendigen Informationen (z.B. die Reihenfolge der Felder, Art des Trennzeichens usw.) enthält. Dabei kann ein Import-Schema auch für eine beliebige Anzahl von Import-Dateien verwendet werden, vorausgesetzt, deren Aufbau ist identisch. Wenn Sie z.B. jährlich Schülerdaten vom Einwohnermeldeamt immer im gleichen Format erhalten, brauchen Sie das notwendige Import-Schema nur einmal anzulegen. Ohne zugehöriges Import-Schema können keine Daten importiert werden.
+Jede Import-Datei muss mit einem Import-Schema verknüpft werden. Ein Import-Schema kann als eine Sammlung von Vorschriften angesehen werden, die alle zum Import notwendigen Informationen (zum Beispiel die Reihenfolge der Felder, Art des Trennzeichens usw.) enthält. Dabei kann ein Import-Schema auch für eine beliebige Anzahl von Import-Dateien verwendet werden, vorausgesetzt, deren Aufbau ist identisch. Wenn Sie zum Beispiel jährlich Schülerdaten vom Einwohnermeldeamt immer im gleichen Format erhalten, brauchen Sie das notwendige Import-Schema nur einmal anzulegen. Ohne zugehöriges Import-Schema können keine Daten importiert werden.
 
 Um ein Import-Schema anzulegen, benötigen Sie zuallererst eine Import-Datei.
 

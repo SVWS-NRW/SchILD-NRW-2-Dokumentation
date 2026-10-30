@@ -12,9 +12,9 @@ Es öffnet sich das Fenster "Schüler-Datensätze löschen":
 
 ![GP-SchuelerDatensaetzeloeschen](/bilder/schild2/gruppenprozesse/gp-schuelerdatensaetzeloeschen.jpg)
 
-Man hat hier die Möglichkeit, das nach dem Löschen automatisch angelegte Löschprotokoll auszuschalten. Wird ein Protokoll mit den gelöschten Schülerdaten angelegt, können ggf. aus dieser Datei die Daten wieder eingelesen werden.
+Man hat hier die Möglichkeit, das nach dem Löschen automatisch angelegte Löschprotokoll auszuschalten. Wird ein Protokoll mit den gelöschten Schülerdaten angelegt, können gegebenenfalls aus dieser Datei die Daten wieder eingelesen werden.
 
-Klickt man auf die Schaltfläche "Löschaktion durchführen", erfolgt eine erneute Sicherheitsabfrage. Erst wenn diese mit 'Ja' bestätigt wird, erfolgt die endgültige Löschung der ausgewählten Schülergruppe.
+Klicken Sie auf die Schaltfläche "Löschaktion durchführen", erfolgt eine erneute Sicherheitsabfrage. Erst wenn diese mit 'Ja' bestätigt wird, erfolgt die endgültige Löschung der ausgewählten Schülergruppe.
 
 ------------------------------------------------------------------------
 

@@ -11,6 +11,8 @@ title: "SetKursSchuelerFaecherListe"
 
 ## Beschreibung
 
+Übergibt eine durch Kommas getrennte Liste der gewünschten Fächer für die Kurs-Schüler-Fächerliste.
+
 ```pascal
 procedure SetKursSchuelerFaecherListe(Const aListe: String);
 ```
@@ -20,7 +22,6 @@ procedure SetKursSchuelerFaecherListe(Const aListe: String);
 | Parameter | Bedeutung |
 | --- | --- |
 | `Liste` | Kommaseparierte Liste der gewünschten Fächer |
-
 
 ## Beispiel
 
@@ -32,7 +33,6 @@ Procedure ReportBeforePrint;
  In einer KursListe können in einem Subreport
  die Leistungsdaten in diesen Fächern ausgegeben werden.
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

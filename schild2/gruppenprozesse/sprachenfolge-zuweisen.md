@@ -10,9 +10,9 @@ Dieser Gruppenprozess ermöglicht es, allen Schülern in der aktuellen Auswahl e
 
 Unter Sprache werden alle Fremdsprachen, die man unter [Schulverwaltung](/schild2/unterricht-kataloge/schulverwaltung) als [Unterrichtsfach](/schild2/unterricht-kataloge/unterrichtsfaecher) deklariert hat, zur Auswahl angeboten.
 
-Unter Modus muss man angeben, ob es sich um einen Neueintrag, eine Aktualisierung oder eine Löschung handelt.
+Unter Modus müssen Sie angeben, ob es sich um einen Neueintrag, eine Aktualisierung oder eine Löschung handelt.
 
-Weiterhin muss man einen Eintrag bei "Reihenfolge" und dem "Beginn-" bzw. "End"-Jahrgang vornehmen. Ein Eintrag beim "Referenzniveau" ist nicht nötig.
+Weiterhin müssen Sie einen Eintrag bei "Reihenfolge" und dem "Beginn-" beziehungsweise "End"-Jahrgang vornehmen. Ein Eintrag beim "Referenzniveau" ist nicht nötig.
 
 ------------------------------------------------------------------------
 

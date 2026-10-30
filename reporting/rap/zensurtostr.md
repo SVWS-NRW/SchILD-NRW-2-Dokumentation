@@ -11,6 +11,8 @@ title: "ZensurToStr"
 
 ## Beschreibung
 
+Wandelt eine numerische Zensur in die zugehörige Klartextdarstellung um.
+
 ```pascal
 function ZensurToStr(aZensur: String): String;
 ```
@@ -20,7 +22,6 @@ function ZensurToStr(aZensur: String): String;
 | Parameter | Bedeutung |
 | --- | --- |
 | `aZensur` | Numerische Zensur |
-
 
 ## Rückgabewert
 
@@ -32,7 +33,6 @@ Zensur im Klartext
 Label1.Caption:=ZensurToStr('3');
 (*ergibt 'befriedigend'*)
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

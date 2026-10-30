@@ -6,11 +6,13 @@ title: "Amtliche Schulstatistik vorbereiten"
 
 # Amtliche Schulstatistik vorbereiten
 
+Hier bereiten Sie die in SchILD gespeicherten Angaben für die amtliche Schulstatistik auf und geben sie für ASDPC aus. Die zusammenhängende Anleitung zu Vorbereitung, Erhebung und Fehlerprüfung finden Sie unter **Tools → ASDPC**.
+
 Dieser Menüpunkt beinhaltet alle Vorgänge, die zur Bereitstellung der statistischen Daten für ASDPC32 notwendig sind.
 
 Dazu werden die in Schild-NRW vorhandenen Daten in teilanonymisierter Form in eine Statistik-Datenbank entladen. (StatistikDB.MDB im Ordner Statistik der Schild-Installation.)
 
-Teilanonymisiert heißt, dass die Schülerdaten hier noch mit einer Statistiknummer versehen werden, damit man später in Schild-NRW über diese Nummer den Datensatz wiederfinden kann, falls z.B. Fehler gemeldet werden. Beim eigentlichen Export wird diese Nummer dann entfernt, so dass keine Rückverfolgung zu Ihren Daten mehr möglich ist.
+Teilanonymisiert heißt, dass die Schülerdaten hier noch mit einer Statistiknummer versehen werden, damit man später in Schild-NRW über diese Nummer den Datensatz wiederfinden kann, falls zum Beispiel Fehler gemeldet werden. Beim eigentlichen Export wird diese Nummer dann entfernt, so dass keine Rückverfolgung zu Ihren Daten mehr möglich ist.
 
 Beim Aufruf der Prüfroutinen wird dann das Statistikmodul von IT.NRW aufgerufen. Bitte beachten Sie, dass es hier in Serverumgebungen sehr häufig zu Fehlermeldungen kommt, wenn die Installationsanleitung für den Schild-NRW-Client nicht beachtet wurde.
 
@@ -31,11 +33,11 @@ Diese Option bewirkt zwei Abläufe in Schild-NRW. Zunächst werden alle relevant
 
 #### Fehlerprotokoll anzeigen
 
-Wenn das Fehlerprotokoll in Form einer PDF-Datei erfolgreich im Ordner "Statistik" der Schild-NRW-Installation gespeichert wurde, kann man es sich über diesen Menüpunkt aufrufen lassen.
+Wenn das Fehlerprotokoll in Form einer PDF-Datei erfolgreich im Ordner "Statistik" der Schild-NRW-Installation gespeichert wurde, können Sie es sich über diesen Menüpunkt aufrufen lassen.
 
 Bitte beachten Sie, dass dafür ein PDF-Programm installiert sein muss!
 
-In diesem Protokoll werden die Schüler mit Fehlernummern aufgelistet. Diese Schüler kann man nun über das Fernglas durch Eingabe der Statistik_ID aufrufen. Oder man kann über [Menü Auswahl](/schild2/auswahl/auswahl) \> [Filter I](/schild2/auswahl/filter-i) \> [Statistikfehler finden](/schild2/auswahl/schueler-mit-statistik-fehlern-zeigen) gehen.
+In diesem Protokoll werden die Schüler mit Fehlernummern aufgelistet. Diese Schüler können Sie nun über das Fernglas durch Eingabe der Statistik_ID aufrufen. Oder man kann über [Menü Auswahl](/schild2/auswahl/auswahl) \> [Filter I](/schild2/auswahl/filter-i) \> [Statistikfehler finden](/schild2/auswahl/schueler-mit-statistik-fehlern-zeigen) gehen.
 
 Bitte beachten Sie, dass diese Fehlerprüfung nur ein erster Versuch sein kann, grobe Fehler zu finden! Eine komplette Plausibilitätsprüfung, wie in ASDPC32, ist hier nicht möglich! Es lohnt sich deshalb manchmal auch, die Exportdateien trotz einiger Fehler zu erstellen!
 

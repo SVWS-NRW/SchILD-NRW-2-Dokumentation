@@ -11,21 +11,19 @@ title: "AufzaehlungRTF"
 
 ## Beschreibung
 
+Fügt eine Aufzählung ohne Nummerierung in einen RTF-Text ein. RTF ist ein Format für Texte mit Schrift- und Formatangaben.
+
 ```pascal
 function AufzaehlungRTF(aRichtext: String; const Label: String;aListe: TStrings): String;
 ```
-
-
-fügt eine Aufzählung (ungeordnete Liste) in einen RTF-Text ein.
 
 ## Parameter
 
 | Parameter | Bedeutung |
 | --- | --- |
 | `aRichtext` | Der Richtext, in den die Aufzählung eingefügt werden soll |
-| `aLabel` | Positionsmarke, an der die Aufzählung eingefügt werden soll, eingeschlossen von &lt;ul&gt;..&lt;/ul&gt; für eine ungeordnete Liste bzw. &lt;ol&gt;..&lt;/ol&gt; für eine geordnete (nummerierte) Liste. |
+| `aLabel` | Positionsmarke, an der die Aufzählung eingefügt werden soll, eingeschlossen von &lt;ul&gt;..&lt;/ul&gt; für eine ungeordnete Liste beziehungsweise &lt;ol&gt;..&lt;/ol&gt; für eine geordnete (nummerierte) Liste. |
 | `aListe` | Stringliste, die die einzufügenden Zeilen enthält |
-
 
 ## Rückgabewert
 

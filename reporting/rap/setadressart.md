@@ -11,6 +11,8 @@ title: "SetAdressArt"
 
 ## Beschreibung
 
+Setzt einen Filter nach Adressart für die angegebene Zieldatenquelle. Die Parameter bestimmen Ziel und gewünschte Adressart.
+
 ```pascal
 procedure SetAdressArt(aZiel, aAdressArt: String);
 ```
@@ -20,8 +22,7 @@ procedure SetAdressArt(aZiel, aAdressArt: String);
 | Parameter | Bedeutung |
 | --- | --- |
 | `aZiel` | ALLEADRESSEN' setzt den Filter für die Datenquelle „AllgAdresseUndSchueler“, 'KLASSENADRESSEN' auf die Datenquelle „AllgAdresseZurLKlasse“ |
-| `aAdressArt` | Gewünschte Adressart, entweder über SelectAdressArt auswählen oder als Stringliteral (z.B. „Betrieb“) eingeben |
-
+| `aAdressArt` | Gewünschte Adressart, entweder über SelectAdressArt auswählen oder als Stringliteral (zum Beispiel „Betrieb“) eingeben |
 
 ## Beispiel
 
@@ -31,7 +32,6 @@ Procedure ReportBeforePrint;
    SetAdressArt('ALLEADRESSEN','Betrieb');
  end
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

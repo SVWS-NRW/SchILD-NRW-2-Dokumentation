@@ -29,7 +29,7 @@ Prüfen Sie hier, ob das Kontrollhäkchen „Beim Start prüfen, ob im Internet 
 
 ![News Kurs42 002](/bilder/tools/kurs42/news-kurs42-002.jpg)
 
-Weisen Sie hier die zu verwendenden Standardformulare zu. Diese befinden sich i.d.R. im Verzeichnis \Kurs42\Reports unterhalb des „Schulverzeichnisses“.
+Weisen Sie hier die zu verwendenden Standardformulare zu. Diese befinden sich in der Regel im Verzeichnis \Kurs42\Reports unterhalb des „Schulverzeichnisses“.
 
 **Karteireiter Verzeichnisse**
 
@@ -51,13 +51,13 @@ Wenn die Blockungsdatei in der Zentralumgebung erstellt wurde, so wählen Sie di
 
 Blockungsdatei wurde nicht in Zentralumgebung erstellt
 
-Falls die Blockungsdatei nicht in der Zentralumgebung, sondern mit Zugriff auf eine Einzeldatenbank von SchILD-NRW erstellt wurde, sind die internen ID-Werte (z.B. für Schüler, Fächer usw.) i.d.R. in der Blockungsdatei anders als die in der Zentraldatenbank. Ein Datenabgleich über die internen Routinen ist dann nicht möglich. In einem solchen Fall haben Sie zwei Möglichkeiten:
+Falls die Blockungsdatei nicht in der Zentralumgebung, sondern mit Zugriff auf eine Einzeldatenbank von SchILD-NRW erstellt wurde, sind die internen ID-Werte (zum Beispiel für Schüler, Fächer usw.) in der Regel in der Blockungsdatei anders als die in der Zentraldatenbank. Ein Datenabgleich über die internen Routinen ist dann nicht möglich. In einem solchen Fall haben Sie zwei Möglichkeiten:
 
 - Sie führen einen Datenabgleich zwischen der Blockungsdatei und der Zentraldatenbank durch.. Die einzelnen Schritte sind im Detail im folgenden Kapitel beschrieben. Danach stimmen die ID-Werte in der Blockungsdatei und in der Zentraldatenbank überein und Sie können für den Blockungsexport die Option „über interne Routinen“ verwenden
-- Sie benutzen die Option „Über DLL“ für den Blockungsexport. In diesem Fall werden zum Datenabgleich nicht die internen ID-Werte verwendet, sondern „Klartext-Informationen“ (wie z.B. die Kombination „Name, Vorname und Geburtsdatum“, um einen Schüler in der Zentraldatenbank zu finden). Dieser Weg ist zeitaufwändiger und kann in besonderen Fällen (wenn z.B. der Name oder das Geburtsdatum eines Schülers in der Datenbank nachträglich geändert wurde) auch versagen.
+- Sie benutzen die Option „Über DLL“ für den Blockungsexport. In diesem Fall werden zum Datenabgleich nicht die internen ID-Werte verwendet, sondern „Klartext-Informationen“ (wie zum Beispiel die Kombination „Name, Vorname und Geburtsdatum“, um einen Schüler in der Zentraldatenbank zu finden). Dieser Weg ist zeitaufwändiger und kann in besonderen Fällen (wenn zum Beispiel der Name oder das Geburtsdatum eines Schülers in der Datenbank nachträglich geändert wurde) auch versagen.
 
 :::warning
-Bei Wahl der Option „Über DLL“ wird kein automatisches Löschen einer evtl. schon in der Datenbank vorhandenen Blockung durchgeführt. Dies muss zuvor über den Menüpunkt „Blockung\>\>Blockung in der Datenbank löschen“ manuell angestoßen werden.\
+Bei Wahl der Option „Über DLL“ wird kein automatisches Löschen einer gegebenenfalls schon in der Datenbank vorhandenen Blockung durchgeführt. Dies muss zuvor über den Menüpunkt „Blockung\>\>Blockung in der Datenbank löschen“ manuell angestoßen werden.\
 :::
 
 <a id="Datenabgleich_Kurs42_&lt;&gt;_SchILDzentral"></a>
@@ -65,7 +65,7 @@ Bei Wahl der Option „Über DLL“ wird kein automatisches Löschen e
 
 ## Datenabgleich Kurs42 \<\> SchILDzentral
 
-Nachdem eine Schule, die Kurs42 verwendet, in die Zentraldatenbank importiert wurde, sind einige Schritte notwendig, um ein reibungsloses Zusammenarbeiten beider Programme zu gewährleisten. Grund dafür ist die Tatsache, dass beim Import i.d.R. die internen ID-Nummern, die zur eindeutigen Synchronisation der Daten benötigt werden, neu vergeben werden und daher nicht mehr mit den Angaben in den Blockungsdateien von Kurs42 übereinstimmen. Die nachfolgenden Schritte sind daher für jede Blockungsdatei von Kurs42 zu machen.
+Nachdem eine Schule, die Kurs42 verwendet, in die Zentraldatenbank importiert wurde, sind einige Schritte notwendig, um ein reibungsloses Zusammenarbeiten beider Programme zu gewährleisten. Grund dafür ist die Tatsache, dass beim Import in der Regel die internen ID-Nummern, die zur eindeutigen Synchronisation der Daten benötigt werden, neu vergeben werden und daher nicht mehr mit den Angaben in den Blockungsdateien von Kurs42 übereinstimmen. Die nachfolgenden Schritte sind daher für jede Blockungsdatei von Kurs42 zu machen.
 
 Abgleich der Grunddaten
 
@@ -78,7 +78,7 @@ Dadurch werden die aktuellen Angaben zu Schuljahr, Abschnitt usw. aus der Datenb
 ![News Kurs42 006](/bilder/tools/kurs42/news-kurs42-006.jpg)
 
 :::warning
-Die in der Blockungsdatei enthaltenen Schüler müssen in der Zentraldatenbank das gleiche Schuljahr und das gleiche Halbjahr (bzw. Quartal) eingetragen haben wie in der Blockungsdatei. Beim Abgleich wird nämlich nicht nur die Kombination „Name, Vorname, Geburtsdatum“ verwendet, sondern zusätzlich auch der Jahrgang und das Halbjahr/Quartal. Es muss daher gewährleistet sein, dass diese Angaben zueinander passen. Bei Abweichungen müssen entweder die Angaben bei der Blockung angepasst werden oder die Schüler in SchILDzentral in das jeweilige Halbjahr/Quartal übertragen werden.\
+Die in der Blockungsdatei enthaltenen Schüler müssen in der Zentraldatenbank das gleiche Schuljahr und das gleiche Halbjahr (beziehungsweise Quartal) eingetragen haben wie in der Blockungsdatei. Beim Abgleich wird nämlich nicht nur die Kombination „Name, Vorname, Geburtsdatum“ verwendet, sondern zusätzlich auch der Jahrgang und das Halbjahr/Quartal. Es muss daher gewährleistet sein, dass diese Angaben zueinander passen. Bei Abweichungen müssen entweder die Angaben bei der Blockung angepasst werden oder die Schüler in SchILDzentral in das jeweilige Halbjahr/Quartal übertragen werden.\
 :::
 
 **Abgleich der Jahrgänge**
@@ -113,7 +113,7 @@ In einem solchen Fall ist zu prüfen, ob möglicherweise unterschiedliche Schrei
 
 ![News Kurs42 012](/bilder/tools/kurs42/news-kurs42-012.jpg)
 
-Die ID-Nummern in der linken und rechten Liste sollten dann identisch sein. Speichern Sie anschließend die Blockungsdatei ab (evtl. unter neuem Namen).
+Die ID-Nummern in der linken und rechten Liste sollten dann identisch sein. Speichern Sie anschließend die Blockungsdatei ab (gegebenenfalls unter neuem Namen).
 
 <a id="Blockung_in_Datenbank_übertragen"></a>
 <a id="Blockung_in_Datenbank_.C3.BCbertragen"></a>

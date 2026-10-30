@@ -49,11 +49,11 @@ Hier wird festgelegt, wie die Fehlstunden eingetragen werden sollen.
 
 **Suffix für Dateinamen:**
 
-Die Dateinamen für die Lehrerdateien sind immer nach dem Aufbau *Kürzel_Schuljahr_Abschnitt".enm (.enz) aufgebaut. Sie können hier entscheiden, ob Sie noch eine Bezeichnung anhängen wollen.* Dies kann z.B. sinnvoll sein, wenn Sie für die SI und die SII getrennte Notendateien erzeugen wollen.
+Die Dateinamen für die Lehrerdateien sind immer nach dem Aufbau *Kürzel_Schuljahr_Abschnitt".enm (.enz) aufgebaut. Sie können hier entscheiden, ob Sie noch eine Bezeichnung anhängen wollen.* Dies kann zum Beispiel sinnvoll sein, wenn Sie für die SI und die SII getrennte Notendateien erzeugen wollen.
 
 **Bei Klassenlehrern komplette Klasse ausgeben:**
 
-Hier können Sie festlegen, ob der Klassenlehrer (und evtl. auch der stellv. Klassenlehrer) auch die Fachnoten der Kollegen eingeben können soll, die er in seiner Klasse aber gar nicht unterrichtet. Wenn Sie das Modell der Noteneingabe bevorzugen, wo die Klassenlehrer für die Noten ihrer Klasse verantwortlich sind, müssen Sie diesen Haken setzen.
+Hier können Sie festlegen, ob der Klassenlehrer (und gegebenenfalls auch der stellv. Klassenlehrer) auch die Fachnoten der Kollegen eingeben können soll, die er in seiner Klasse aber gar nicht unterrichtet. Wenn Sie das Modell der Noteneingabe bevorzugen, wo die Klassenlehrer für die Noten ihrer Klasse verantwortlich sind, müssen Sie diesen Haken setzen.
 
 **Keine Fachlehrer-Fächer exportieren:**
 
@@ -61,7 +61,7 @@ Sollten Sie o.g. Modell bevorzugen, so möchten Sie vielleicht, dass die Fachleh
 
 *Kennwort der Benutzer in Export-Datei übernehmen:'*
 
-Mit dieser Option kann jede Notendatei mit dem Kennwort des Lehrers geschützt werden. Dazu müssen aber alle Lehrer mit ihrem Kürzel als User in der Datenbank angelegt sein! Dies können Sie in der [Benutzerrechte in KM2](/administration/benutzer-einstellungen/benutzerverwaltung) einstellen.
+Mit dieser Option kann jede Notendatei mit dem Kennwort des Lehrers geschützt werden. Dazu müssen aber alle Lehrer mit ihrem Kürzel als Benutzer in der Datenbank angelegt sein! Dies können Sie in der [Benutzerrechte in KM2](/administration/benutzer-einstellungen/benutzerverwaltung) einstellen.
 
 **Eingabe von Mahnungen sperren:** Evtl. vorhandene Haken bei den Mahnungen können dann von den Kollegen nicht verändert werden.
 
@@ -69,9 +69,9 @@ Mit dieser Option kann jede Notendatei mit dem Kennwort des Lehrers geschützt w
 
 Der E-Mail-Versand setzt voraus, dass die Mail-Einstellungen unter den [Programmeinstellungen](/administration/benutzer-einstellungen/programm-einstellungen) gemacht wurden und getestet sind. Bitte beachten Sie, dass viele Mailprovider einen Massenversand von verschlüsselten ZIP-Dateien blockieren. Testen Sie daher vor dem Notenversand Ihre Einstellungen!
 
-Wenn man den Text in der Mail verändern will, der mit dem Versand der Notendateien gesendet wird, dann muss man eine TXT-Datei mit dem Namen Notendateitext.txt im Installationsverzeichnis ablegen. Der darin enthaltene Text wird dann im Mailbody gesendet.
+Wenn man den Text in der Mail verändern will, der mit dem Versand der Notendateien gesendet wird, dann müssen Sie eine TXT-Datei mit dem Namen Notendateitext.txt im Installationsverzeichnis ablegen. Der darin enthaltene Text wird dann im Mailbody gesendet.
 
-Beispiel: [Datei:Notendateitext.txt](https://wiki.svws.nrw.de/mediawiki/index.php)
+Beispiel: [Mustertext zur Notendatei](/dateien/wiki/notendateitext-b8c20be9.txt)
 
 <a id="Noten_Import"></a>
 

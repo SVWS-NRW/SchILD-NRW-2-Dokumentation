@@ -10,7 +10,7 @@ Nach der Erstinstallation erscheint beim Programmstart zunächst ein Hinweis-fen
 
 ![S1P-001-Ersteinrichtung](/bilder/tools/s1plan/s1p-001-ersteinrichtung.jpg)
 
-Nach Klick auf „OK“ ist im Fenster mit der Zugangskontrolle der Benutzerna-men „S1PAdmin“ und das Passwort „schild“ einzugeben. Schließen Sie dieses Fenster mit Klick auf „Anmelden“. Wählen Sie danach das Schuljahr (z.B. 2016, Lernabschnitt 1 für 1. Halbjahr im Schuljahr 2016/17). Im nächsten Fenster wird darauf hingewiesen, dass noch keine Verbindung zur SchILD-Datenbank hergestellt ist.
+Nach Klick auf „OK“ ist im Fenster mit der Zugangskontrolle der Benutzerna-men „S1PAdmin“ und das Passwort „schild“ einzugeben. Schließen Sie dieses Fenster mit Klick auf „Anmelden“. Wählen Sie danach das Schuljahr (zum Beispiel 2016, Lernabschnitt 1 für 1. Halbjahr im Schuljahr 2016/17). Im nächsten Fenster wird darauf hingewiesen, dass noch keine Verbindung zur SchILD-Datenbank hergestellt ist.
 
 Dies geschieht im nächsten Fenster
 

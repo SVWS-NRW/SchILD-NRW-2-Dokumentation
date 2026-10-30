@@ -6,6 +6,8 @@ title: "Datenschutzerklärung des Wikis"
 
 # Datenschutzerklärung des Wikis
 
+Diese Datenschutzerklärung gehört zur früheren Wiki-Website. Sie bleibt als historischer Text erhalten und beschreibt den dort genannten Betrieb und die damaligen Verantwortlichkeiten.
+
 <a id="Datenschutzerklärung"></a>
 <a id="Datenschutzerkl.C3.A4rung"></a>
 
@@ -103,7 +105,7 @@ Bei jedem Zugriff auf Inhalte des Internetangebotes werden dort vorübergehend D
 
    Clientinformationen (u.a. Browser, Betriebssystem)\
 
-Diese Daten aus den Protokoll- bzw. Logdateien dienen zur Abwehr und Analyse von Angriffen auf das Portal und werden bis zu 48 Stunden direkt und ausschließlich für Administratoren zugänglich aufbewahrt. Danach sind sie nur noch indirekt über die Rekonstruktion von Sicherungsbändern verfügbar und werden nach sechs Wochen endgültig gelöscht.
+Diese Daten aus den Protokoll- beziehungsweise Logdateien dienen zur Abwehr und Analyse von Angriffen auf das Portal und werden bis zu 48 Stunden direkt und ausschließlich für Administratoren zugänglich aufbewahrt. Danach sind sie nur noch indirekt über die Rekonstruktion von Sicherungsbändern verfügbar und werden nach sechs Wochen endgültig gelöscht.
 
 Kundenservice und E-Mail Für Ihre Kontaktaufnahme bieten wir Ihnen verschiedene Zugangsmöglichkeiten über Kontaktformulare oder die Nutzung von E-Mailadressen. Sofern Sie diese Kontakte nutzen, erfolgt die Eingabe personenbezogener Daten auf ausdrücklich freiwilliger Basis (Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. a DSGVO).
 
@@ -141,26 +143,26 @@ Bei Ihrer Kontaktaufnahme mit uns per E-Mail oder über ein Kontaktformular müs
 
 Personen unter 16 Jahren sollten keine personenbezogenen Daten an uns übermitteln, es sei denn die Zustimmung der Eltern oder Sorgeberechtigten (Träger der elterlichen Verantwortung) wurde erteilt (Art. 8 Abs. 1 DSGVO). Die Zustimmung muss dann ausdrücklich in der Nachricht vermerkt sein (Art. 8 Abs. 2 DSGVO). Wir fordern keine personenbezogenen Daten von Kindern und Jugendlichen an. Wissentlich sammeln wir solche Daten nicht.
 
-Die von Ihnen eingegebenen persönlichen Daten verwenden wir nur zu dem von Ihnen gewünschten Zweck und nur innerhalb der Landesregierung bzw. der mit dem jeweiligen Service beauftragten Behörden, Dienststellen und Institutionen.
+Die von Ihnen eingegebenen persönlichen Daten verwenden wir nur zu dem von Ihnen gewünschten Zweck und nur innerhalb der Landesregierung beziehungsweise der mit dem jeweiligen Service beauftragten Behörden, Dienststellen und Institutionen.
 
 Die anfallenden personenbezogenen Daten, die wir per E-Mail oder Kontaktformular erhalten, löschen wir, sobald die Speicherung nicht mehr für den von Ihnen verfolgten Zweck oder im Zusammenhang mit damit ausgelösten Verwaltungsvorgängen und den hierfür geltenden Aufbewahrungspflichten (Anlage zur Aktenordnung für den Geschäftsbereich des Ministeriums für Inneres und Kommunales des Landes Nordrhein-Westfalen (AktO); Runderlass des Ministeriums für Inneres und Kommunales - 51 - 17.05 -vom 25. Juli 2016) erforderlich ist.
 
 Nutzung von Cookies Das Angebot verwendet so genannte „Cookies“. Bei Cookies handelt es sich um kleine Textdateien, die auf Ihrem Rechner abgelegt werden und die Ihr Browser speichert. Sie können die Verwendung von Cookies dadurch unterbinden, indem Sie Ihren Internetbrowser so einstellen, dass dieser keine Cookies akzeptiert. Sie können in Ihrem Browser aber auch festlegen, ob Sie über das Setzen von Cookies informiert werden möchten und Cookies nur im Einzelfall erlauben, ob Sie die Annahme von Cookies für bestimmte Fälle oder eben auch generell ausschließen. Außerdem können Sie das automatische Löschen der Cookies beim Schließen des Browser aktivieren. Wie man das macht, hängt von Ihrem Browser ab.
 
-Beim erstmaligen Besuch des Internetangebotes bzw. einer Seite werden Sie automatisch auf die Cookie-Nutzung hingewiesen.
+Beim erstmaligen Besuch des Internetangebotes beziehungsweise einer Seite werden Sie automatisch auf die Cookie-Nutzung hingewiesen.
 
 Webanalyse Derzeit wird zur Webanalyse das Statistiktool Matomo auf einem eigenen Webserver eingesetzt.
 
 Weitergabe personenbezogener Daten Daten, die beim Zugriff auf die Internetseite des Ministeriums für Schule und Bildung (MSB) protokolliert oder für einen speziellen Dienst erhoben worden sind, werden an Dritte außerhalb der Landesregierung nur übermittelt,
 
-   soweit wir gesetzlich oder durch richterliche bzw. staatsanwaltschaftliche Anordnung dazu verpflichtet sind oder\
+   soweit wir gesetzlich oder durch richterliche beziehungsweise staatsanwaltschaftliche Anordnung dazu verpflichtet sind oder\
    die Weitergabe im Falle von Angriffen auf die Internetinfrastruktur der Landesregierung zur Rechts- oder Strafverfolgung erforderlich ist.\
 
 Allgemeines zum Datenschutz Im Zuge der Weiterentwicklung des Internetangebotes können auch Änderungen dieser Datenschutzerklärung erforderlich werden. Wir empfehlen Ihnen deshalb, sich die Datenschutzerklärung von Zeit zu Zeit erneut durchzulesen.
 
 Allgemeines zum Thema Datenschutz finden Sie auf der Website der Landesbeauftragten für Datenschutz und Informationsfreiheit Nordrhein-Westfalen: www.ldi.nrw.de
 
-Wir weisen darauf hin, dass Betreiber von fremden Internetseiten, die vom Portal aus verlinkt werden, die Daten von Besucherinnen bzw. Besuchern dieser Internetseiten erheben und auswerten können.
+Wir weisen darauf hin, dass Betreiber von fremden Internetseiten, die vom Portal aus verlinkt werden, die Daten von Besucherinnen beziehungsweise Besuchern dieser Internetseiten erheben und auswerten können.
 
 ---
 

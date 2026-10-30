@@ -6,6 +6,8 @@ title: "Änderungshistorie von Kurs42"
 
 # Änderungshistorie von Kurs42
 
+Diese historische Änderungsliste hält frühere Anpassungen an Kurs42 fest. Die Einträge beziehen sich auf die jeweils genannte Ausgabe des Programms und dienen zum Nachschlagen älterer Änderungen.
+
 <a id="09.04.2025_(Kursversion:_3.33.30.528,_Kurs-Notenprogramm:_2.11.12.99)"></a>
 <a id="09.04.2025_.28Kursversion:_3.33.30.528.2C_Kurs-Notenprogramm:_2.11.12.99.29"></a>
 

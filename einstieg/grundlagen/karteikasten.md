@@ -6,6 +6,8 @@ title: "Karteikästen und Schülerstatus"
 
 # Karteikästen und Schülerstatus
 
+Mit den Karteikästen legen Sie fest, welche Schülerstatus in der Schülerliste berücksichtigt werden, etwa aktive oder abgegangene Personen. Die Häkchen verändern die Auswahl, nicht die gespeicherten Schülerdaten.
+
 ![Karteikaesten_01](/bilder/einstieg/grundlagen/karteikaesten-01.jpg)
 
 Durch die Auswahl der Haken können Sie bestimmen, welche Statusarten Sie im [Schülerliste und Auswahl](/einstieg/grundlagen/container) sehen wollen.
@@ -24,7 +26,7 @@ Neuzugänge für das laufende Schuljahr werden nach Aufnahme bei Eingabefeld "St
 
 2. Status **Warteliste**\
 Erfüllt den gleichen Zweck wie der Status Neuaufnahme. Hier können Sie Schüler einsortieren,\
-die evtl. noch keine Aufnahme erhalten und später angeschrieben werden müssen.\
+die gegebenenfalls noch keine Aufnahme erhalten und später angeschrieben werden müssen.\
 Manche Schulen nutzen diesen Kasten auch, um "Nachrücker" zu Beginn des Schuljahres zu verwalten.\
 
 3. Status **Aktiv**\
@@ -37,11 +39,11 @@ einsortieren.\
 
 5. Status **Abgänger**\
 An diesem Ort werden alle Schüler verwaltet, die während des Schuljahres,\
-z.B. durch Umzug, die Schule verlassen.\
+zum Beispiel durch Umzug, die Schule verlassen.\
 
 6. Status **Abschluss**\
 Alle Schüler, die in den Abschlussjahrgängen der jeweiligen Bildungsgänge die Schule verlassen,\
-werden in diesem Karteikasten verwaltet. (z.B. auch in Grundschulen nach Klasse 4).\
+werden in diesem Karteikasten verwaltet. (zum Beispiel auch in Grundschulen nach Klasse 4).\
 
 7. Status **Extern**\
 In diesem Kasten verwalten Sie externe Schüler, die von anderen Schulen zu Ihnen kommen,\

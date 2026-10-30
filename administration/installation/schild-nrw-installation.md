@@ -6,7 +6,9 @@ title: "SchILD-NRW installieren"
 
 # SchILD-NRW installieren
 
-Seit dem 31.10.25 steht der Nachfolger zur Verfügung: 
+Diese Anleitung führt durch die Installation von SchILD-NRW 2 und die Einrichtung des Datenbankzugriffs. SchILD-NRW 2 arbeitet direkt mit einer Datenbank. Hinweise zum Nachfolgeprogramm sind von den folgenden Installationsschritten zu unterscheiden.
+
+Seit dem 31.10.25 steht der Nachfolger zur Verfügung:
 
 [**Schild-NRW 3 und SVWS-Server**](https://www.svws.nrw.de/)
 
@@ -28,11 +30,11 @@ In den folgenden Abschnitten erfahren Sie, wie Schild-NRW installiert werden kan
 
 ### Download der Installationsdateien
 
-Laden Sie von der Homepage die Dateien für das BasisSetup.exe und evtl. das aktuelle Update herunter.
+Laden Sie von der Homepage die Dateien für das BasisSetup.exe und gegebenenfalls das aktuelle Update herunter.
 
 [Schild.NRW Download](https://www.svws.nrw.de/download/schild-nrw/schild-nrw-download)
 
-Die Installation auf einem Einzelplatzrechner erfolgt über die Datei Basissetup.exe, die im Downloadbereich von Schild-NRW erhältlich ist. Bitte beachten Sie, dass u.U. zusätzlich noch eine Updatedatei notwendig sein kann, um auf die neueste Version von Schild-NRW zu gelangen.
+Die Installation auf einem Einzelplatzrechner erfolgt über die Datei Basissetup.exe, die im Downloadbereich von Schild-NRW erhältlich ist. Bitte beachten Sie, dass unter Umständen zusätzlich noch eine Updatedatei notwendig sein kann, um auf die neueste Version von Schild-NRW zu gelangen.
 
 Führen Sie diese Installationsdateien aus und lassen Sie sich von dem Assistenten durch die Routine leiten. Bei der Installation ist zu beachten, dass Sie Administratorrechte auf dem Windowsrechner benötigen. Bitte vergewissern Sie sich, dass dies der Fall ist.
 
@@ -145,7 +147,7 @@ Stellen Sie sicher, dass dieser PC im Netzwerk erreichbar ist und geben Sie den 
 
 Verbinden Sie auf dem Client, der Zugriff bekommen soll, ein Netzlaufwerk mit diesem Ordner. Das Netzlaufwerk sollte so eingerichtet sein, dass es beim Start des Rechners zur Verfügung steht. Stellen Sie anschließend eine Verknüpfung mit der Schild2000.exe aus dem Netzlaufwerk auf dem Desktop des Clients her.
 
-Starten Sie die Anwendung Schild-NRW einmal auf jedem Client explizit mit der rechten Maustaste als Administrator und führen Sie die Schritte zur Registrierung der Statitsik.dlls einmal durch (Schulverwaltung \> Statistik amtl. Schuldaten \> Hilfe bei Problemen). Danach kann die Anwendung mit normalen User-Rechten gestartet werden. Der Zugriff auf Schild-NRW kann nur bei eingeschaltetem "Mini-Server" funktionieren!
+Starten Sie die Anwendung Schild-NRW einmal auf jedem Client explizit mit der rechten Maustaste als Administrator und führen Sie die Schritte zur Registrierung der Statitsik.dlls einmal durch (Schulverwaltung \> Statistik amtl. Schuldaten \> Hilfe bei Problemen). Danach kann die Anwendung mit normalen Benutzer-Rechten gestartet werden. Der Zugriff auf Schild-NRW kann nur bei eingeschaltetem "Mini-Server" funktionieren!
 
 <a id="Server-Installation_mit_Access-Datenbank"></a>
 
@@ -153,9 +155,9 @@ Starten Sie die Anwendung Schild-NRW einmal auf jedem Client explizit mit der re
 
 In allen Schulformen, die mit mehr als einem PC gleichzeitig an Schild-NRW arbeiten wollen, empfehlen wir eine Serverinstallation. Dieser Artikel beschreibt die notwendigen Installationsschritte für eine Serverinstallation mit Access-Datenbank.
 
-Für den Betrieb von Schild-NRW mit einer Access-Datenbank ist es nicht von Bedeutung, ob Sie einen Windows-Server oder einen Linux-Server betreiben. Geben Sie einen Ordner auf dem Server für das Netzwerk frei! Führen Sie bei einem Windows-Server eine Basis-Installation in diesen Netzwerkordner durch. Wenn Sie einen Linux-Server betreiben, kopieren Sie die Dateien der Basis-Installation einfach in das freigegebene Samba-Verzeichnis. Stellen Sie sicher, dass die User der Clients im Verwaltungsbereich vollen Zugriff auf das Schild-NRW-Verzeichnis haben. Vollzugriff ist mindestens auf folgende Ordner unbedingt erforderlich: DB, Statistik, Schild-Reports
+Für den Betrieb von Schild-NRW mit einer Access-Datenbank ist es nicht von Bedeutung, ob Sie einen Windows-Server oder einen Linux-Server betreiben. Geben Sie einen Ordner auf dem Server für das Netzwerk frei! Führen Sie bei einem Windows-Server eine Basis-Installation in diesen Netzwerkordner durch. Wenn Sie einen Linux-Server betreiben, kopieren Sie die Dateien der Basis-Installation einfach in das freigegebene Samba-Verzeichnis. Stellen Sie sicher, dass die Benutzer der Clients im Verwaltungsbereich vollen Zugriff auf das Schild-NRW-Verzeichnis haben. Vollzugriff ist mindestens auf folgende Ordner unbedingt erforderlich: DB, Statistik, Schild-Reports
 
-Empfohlen wird, auf den Verwaltungs-Clients ein Netzlaufwerk fest zu verbinden, das auf allen PCs den selben Buchstaben erhält. In Schild-NRW kann dann dieser Pfad unter Extras \> Programmeinstellungen \> globale Einstellungen verwendet werden, um für alle User die gewünschte Umgebung (z.B. Reportverwaltung, Dokumentenverwaltung) zur Verfügung zu stellen. Erstellen Sie auf dem Desktop der Verwaltungs-PCs eine Verknüpung zur Anwendung Schild2000.exe aus dem Netzlaufwerk.
+Empfohlen wird, auf den Verwaltungs-Clients ein Netzlaufwerk fest zu verbinden, das auf allen PCs den selben Buchstaben erhält. In Schild-NRW kann dann dieser Pfad unter Extras \> Programmeinstellungen \> globale Einstellungen verwendet werden, um für alle Benutzer die gewünschte Umgebung (zum Beispiel Reportverwaltung, Dokumentenverwaltung) zur Verfügung zu stellen. Erstellen Sie auf dem Desktop der Verwaltungs-PCs eine Verknüpung zur Anwendung Schild2000.exe aus dem Netzlaufwerk.
 
 Starten Sie die Anwendung Schild-NRW einmal auf jedem Client explizit mit der rechten Maustaste als Administrator und führen Sie die Schritte zur [Registrierung der Statitsik.dlls](#Registrierung_der_Statitsik.dlls) einmal durch. Danach kann die Anwendung mit normalen Benutzerrechten gestartet werden.
 
@@ -167,9 +169,9 @@ Die Benutzer von Schild-NRW können das Programm in den Einstellungen an ihre Be
 
 In allen Schulformen, die mit mehr als einem PC gleichzeitig an Schild-NRW arbeiten wollen, empfehlen wir eine Serverinstallation. Dieser Artikel beschreibt die notwendigen Installationsschritte für eine Serverinstallation mit MS SQL Server-Datenbank. Informationen zur Einrichtung und zur Inbetriebnahme des Datenbanksystems finden Sie hier. Grundsätzlich wird aber vorausgesetzt, dass bei einem Betrieb mit einem MS SQL Datenbankserver Kenntnisse über dieses Datenbanksystem vorhanden sind.
 
-Lesen Sie sich zunächst die Schritte zur Installation von Schild-NRW im Kapitel [Server-Installation mit Access-Datenbank](#Server-Installation_mit_Access-Datenbank) durch, da die grundsätzliche Installation bei Verwendung einer MS SQL Server Datenbank gleich ist. Stellen Sie sicher, dass ein Server im Schulverwaltungsnetz über den Port, den Sie später verwenden wollen, erreichbar ist. Installieren Sie dort den MS SQL Server in der gewünschten Variante. Die kostenfreie SQL Server Express-Variante können Sie über Microsoft beziehen. Wir empfehlen MS SQL Server Express 2017 oder 2019. Installieren Sie ein Datenbanktool, mit dem Sie auf den Server zugreifen können, z.B. Microsoft SQL Server Management Studio.
+Lesen Sie sich zunächst die Schritte zur Installation von Schild-NRW im Kapitel [Server-Installation mit Access-Datenbank](#Server-Installation_mit_Access-Datenbank) durch, da die grundsätzliche Installation bei Verwendung einer MS SQL Server Datenbank gleich ist. Stellen Sie sicher, dass ein Server im Schulverwaltungsnetz über den Port, den Sie später verwenden wollen, erreichbar ist. Installieren Sie dort den MS SQL Server in der gewünschten Variante. Die kostenfreie SQL Server Express-Variante können Sie über Microsoft beziehen. Wir empfehlen MS SQL Server Express 2017 oder 2019. Installieren Sie ein Datenbanktool, mit dem Sie auf den Server zugreifen können, zum Beispiel Microsoft SQL Server Management Studio.
 
-Legen Sie auf dem Server eine neue Datenbank an und spielen Sie das Script zum Anlegen der Tabellen und Felder von Schild-NRW ein. Das Script legt zudem einen User 'Administrator' ohne Passwort an, mit dem Sie sich zu Beginn an Schild-NRW anmelden können. Bitte beachten Sie, dass dieses Script aus einer älteren Version sein kann! Die leere Datenbank muss dann einmal mit der aktuellen Version von Schild-NRW gestartet werden, damit alle Tabellen und Felder vorhanden sind!
+Legen Sie auf dem Server eine neue Datenbank an und spielen Sie das Script zum Anlegen der Tabellen und Felder von Schild-NRW ein. Das Script legt zudem einen Benutzer 'Administrator' ohne Passwort an, mit dem Sie sich zu Beginn an Schild-NRW anmelden können. Bitte beachten Sie, dass dieses Script aus einer älteren Version sein kann! Die leere Datenbank muss dann einmal mit der aktuellen Version von Schild-NRW gestartet werden, damit alle Tabellen und Felder vorhanden sind!
 
 [Downloadlink zur MS SQL Server-Script-Datei als ZIP](/dateien/wiki/mssql-script-2021-02-22-44a64a7b.zip)
 
@@ -195,7 +197,7 @@ Sie können nun Ihre Schule einrichten. Dies muss aber nur geschehen, wenn Sie e
 
 In allen Schulformen, die mit mehr als einem PC gleichzeitig an Schild-NRW arbeiten wollen, empfehlen wir eine Serverinstallation. Dieser Artikel beschreibt die notwendigen Installationsschritte für eine Serverinstallation mit MySQL- oder MariaDB-Server-Datenbank.
 
-Die Einrichtung eines MySQL-Zugriffs bzw. MariaDB-Zugriffs funktioniert im Prinzip so, wie die in einer MS SQL Server-Umgebung. Ein Unterschied besteht jedoch darin, dass für den Zugriff auf die Datenbank an jedem Client ein ODBC Treiber (MySQL Connector/ODBC oder MariaDB Connector/ODBC) installiert und vorab eingerichtet werden muss. Dieser Treiber prüft die Zugriffsberechtigung auf die Datenbank. Zudem muss eine UDL-Datei in Schild-NRW hinterlegt werden, damit Schild-NRW die Datenbank findet. Die einzelnen Schritte werden hier erklärt.
+Die Einrichtung eines MySQL-Zugriffs beziehungsweise MariaDB-Zugriffs funktioniert im Prinzip so, wie die in einer MS SQL Server-Umgebung. Ein Unterschied besteht jedoch darin, dass für den Zugriff auf die Datenbank an jedem Client ein ODBC Treiber (MySQL Connector/ODBC oder MariaDB Connector/ODBC) installiert und vorab eingerichtet werden muss. Dieser Treiber prüft die Zugriffsberechtigung auf die Datenbank. Zudem muss eine UDL-Datei in Schild-NRW hinterlegt werden, damit Schild-NRW die Datenbank findet. Die einzelnen Schritte werden hier erklärt.
 
 Lesen Sie sich zunächst die Schritte zur Installation von Schild-NRW im Kapitel [Server-Installation mit Access-Datenbank](#Server-Installation_mit_Access-Datenbank) durch, da die grundsätzliche Installation bei Verwendung einer MySQL- oder MariaDB-Datenbankgleich ist.
 
@@ -206,7 +208,7 @@ Lesen Sie sich zunächst die Schritte zur Installation von Schild-NRW im Kapitel
 
 Stellen Sie sicher, dass ein Hardware-Server im Schulverwaltungsnetz über den Port, den Sie später verwenden wollen, erreichbar ist. Der Standard-Port ist 3306. Beachten Sie jedoch, dass die Firewall für diese Zugriffe geöffnet sein muss.
 
-Installieren Sie zunächst einen Datenbankserver. Verwenden Sie hierzu wahlweise das Installationspaket MySQL Community Server von Oracle oder das Installationspaket MariaDB Server von MariaDB Org. Installieren Sie zudem eine passende Benutzeroberfläche, mit der Sie auf die Datenbank zugreifen können, z.B. MySQL-Workbench oder HeidiSQL.
+Installieren Sie zunächst einen Datenbankserver. Verwenden Sie hierzu wahlweise das Installationspaket MySQL Community Server von Oracle oder das Installationspaket MariaDB Server von MariaDB Org. Installieren Sie zudem eine passende Benutzeroberfläche, mit der Sie auf die Datenbank zugreifen können, zum Beispiel MySQL-Workbench oder HeidiSQL.
 
 :::warning
 Sofern ein Unix-Server verwendet wird, muss die mySQL-Einstellung in der my.cnf "lower_case_table_names=1" hinzugefügt werden, da es andernfalls Probleme bei manchen Tabellen mit der Groß- und Kleinschreibung geben kann.
@@ -224,7 +226,7 @@ Legen Sie auf dem Server eine neue Datenbank (Schema) an:
 Zeichensatz UTF8\
 Collation UTF8_bin
 
-Legen Sie in MySQL oder MariaDB einen Datenbankuser an und sorgen Sie dafür dass dieser User volle Zugriffsrechte auf das Schema hat. Kontrollieren Sie auch, ob die Rechte für alle Zugriffsarten bestehen. Dieser User muss später in der UDL- bzw. der SDBCFG-Datei verwendet werden (s.u.)!
+Legen Sie in MySQL oder MariaDB einen Datenbankuser an und sorgen Sie dafür dass dieser Benutzer volle Zugriffsrechte auf das Schema hat. Kontrollieren Sie auch, ob die Rechte für alle Zugriffsarten bestehen. Dieser Benutzer muss später in der UDL- beziehungsweise der SDBCFG-Datei verwendet werden (s.u.)!
 
 <a id="Einspielen_des_Datenbank-Scripts"></a>
 
@@ -269,7 +271,7 @@ Data Source ist dabei der Name der ODBC32-Datenquelle, den Sie im Connector hint
 
 Führen Sie dann das Programm SchILD_PWCryptneu.exe aus. Wählen Sie die UDL-Datei und geben Sie dort den Usernamen und das Passwort Ihres Server-Users ein. Es wird dann eine DAT-Datei mit dem gleichen Namen gespeichert. Diese enthält die Zugangsdaten in verschlüsselter Form.
 
-Schild-NRW kann nun gestartet werden und die eingerichtet Datenbank sollte zur Auswahl stehen. Bitte beachten Sie, dass das Program u.U. mehrmals hintereinander gestartet werden muss, bis die Meldung "Es werden nun Tabellen und Felder angelegt" nicht mehr erscheint! Je nach dem, wie alt das Script ist, mit dem die leere Datenbank erzeugt wurde, kann das einige Male geschehen.
+Schild-NRW kann nun gestartet werden und die eingerichtet Datenbank sollte zur Auswahl stehen. Bitte beachten Sie, dass das Program unter Umständen mehrmals hintereinander gestartet werden muss, bis die Meldung "Es werden nun Tabellen und Felder angelegt" nicht mehr erscheint! Je nach dem, wie alt das Script ist, mit dem die leere Datenbank erzeugt wurde, kann das einige Male geschehen.
 
 Sie können nun Ihre Schule einrichten, sofern Sie zum ersten Mal mit Schild-NRW arbeiten. Wenn Sie aus einer bestehenden Datenbank in die MySQL-Datenbank oder MariaDB-Datenbank migrieren wollen, so können Sie die Einrichtung abbrechen und den [Migrationsprozess mit Hilfe des Migrationstools](/administration/datenbanken/schild-nrw-daten-in-eine-andere-datenbank-uebertragen-migrieren) vornehmen.
 
@@ -300,7 +302,7 @@ Im Folgenden werden die möglichen Einträge für AdminDir, GroupDir und Private
 
 ### Der Eintrag AdminDir
 
-Über den Eintrag `AdminDir={AdminDir}` kann dem Programm mitgeteilt werden, in welchem Verzeichnis sich die von SchILD-NRW benötigten Datenbanken SchildIntern.mdb, Statkue.mdb, Schulver.mdb und ASDTabs.mdb befinden. Diese Dateien müssen sich im Verzeichnis \Keytabs unterhalb des hier eingetragenen Verzeichnisses befinden. Ist für AdminDir kein Eintrag vorhanden, so werden die Dateien im Verzeichnis \Keytabs unterhalb des Programmverzeichnisses gesucht. Dieser Eintrag wird nur sehr selten benötigt, z.B. dann, wenn SchILD-NRW in einer Terminalserver-Umgebung läuft.
+Über den Eintrag `AdminDir={AdminDir}` kann dem Programm mitgeteilt werden, in welchem Verzeichnis sich die von SchILD-NRW benötigten Datenbanken SchildIntern.mdb, Statkue.mdb, Schulver.mdb und ASDTabs.mdb befinden. Diese Dateien müssen sich im Verzeichnis \Keytabs unterhalb des hier eingetragenen Verzeichnisses befinden. Ist für AdminDir kein Eintrag vorhanden, so werden die Dateien im Verzeichnis \Keytabs unterhalb des Programmverzeichnisses gesucht. Dieser Eintrag wird nur sehr selten benötigt, zum Beispiel dann, wenn SchILD-NRW in einer Terminalserver-Umgebung läuft.
 
 Beispiel: Sie haben Eintrag `AdminDir=S:\Schild-Daten` in der Datei ADMIN.INI gemacht. In diesem Fall müssen sich die Dateien SchildIntern.mdb, Statkue.mdb, Schulver.mdb und ASDTabs.mdb im Verzeichnis S:\Schild-Daten\Keytabs befinden. Für das Verzeichnis S:\Schild-Daten\Keytabs wird in diesem Fall für alle Benutzer, die mit SchILD-NRW arbeiten, nur ein Lesezugriff benötigt.
 
@@ -322,12 +324,12 @@ Keytabs\ImpExp.mdb
 
 \DB
 
-Beispiel: Sie haben den Eintrag `GroupDir=S:\Schild-Daten` in der Datei ADMIN.INI gemacht. In diesem Fall müssen sich die Dateien Schild.ini, Floskeln.txt im Verzeichnis S:\Schild-Daten befinden, die Dateien Reports.mdb und ImpExp.mdb im Verzeichnis S:\Schild-Daten\Keytabs befinden (bitte beachten). Das Verzeichnis S:\Schild-Daten\UDL ist nur dann notwendig, wenn Sie mit mehreren Datenbanken arbeiten (z.B. eine für die Mittelstufe, eine für die Oberstufe), Ihre Datenbank sich nicht im Standard-Verzeichnis \DB befindet (s.u.) oder Sie nicht mit einer Access-Datenbank arbeiten (z.B. Firebird, MySQL, MS-SQL-Express). Falls einer dieser Fälle zutrifft, benötigen Sie zum Zugriff auf die Datenbank(en) eine (oder mehrere) UDL-Datei(en), die die Verbindungsparameter enthält und die sich im Verzeichnis \UDL unterhalb des bei GroupDir eingetragenen Verzeichnisses befinden muss.
+Beispiel: Sie haben den Eintrag `GroupDir=S:\Schild-Daten` in der Datei ADMIN.INI gemacht. In diesem Fall müssen sich die Dateien Schild.ini, Floskeln.txt im Verzeichnis S:\Schild-Daten befinden, die Dateien Reports.mdb und ImpExp.mdb im Verzeichnis S:\Schild-Daten\Keytabs befinden (bitte beachten). Das Verzeichnis S:\Schild-Daten\UDL ist nur dann notwendig, wenn Sie mit mehreren Datenbanken arbeiten (zum Beispiel eine für die Mittelstufe, eine für die Oberstufe), Ihre Datenbank sich nicht im Standard-Verzeichnis \DB befindet (s.u.) oder Sie nicht mit einer Access-Datenbank arbeiten (zum Beispiel Firebird, MySQL, MS-SQL-Express). Falls einer dieser Fälle zutrifft, benötigen Sie zum Zugriff auf die Datenbank(en) eine (oder mehrere) UDL-Datei(en), die die Verbindungsparameter enthält und die sich im Verzeichnis \UDL unterhalb des bei GroupDir eingetragenen Verzeichnisses befinden muss.
 
 Wenn keiner dieser Fälle zutrifft, muss sich Ihre Datenbank Schild2000n.mdb im Verzeichnis \DB unterhalb des bei GroupDir eingetragenen Verzeichnisses befinden (im obigen Beispiel also im Verzeichnis S:\Schild-Daten\DB).
 
 :::warning
-Ist für GroupDir kein Eintrag vorhanden, so wird der Eintrag für AdminDir verwendet, ist auch dort nichts eingetragen, so wird das Programmverzeichnis von SchILD-NRW angenommen (d.h. in diesem Falle müssen sich die Dateien Schild.Ini und Floskeln.txt im Programmverzeichnis, die Dateien Reports.mdb und ImpExp.mdb im Verzeichnis \Keytabs unterhalb des Programmverzeichnisses befinden, ebenso wie die Verzeichnisse \DB und \UDL (falls benötigt).
+Ist für GroupDir kein Eintrag vorhanden, so wird der Eintrag für AdminDir verwendet, ist auch dort nichts eingetragen, so wird das Programmverzeichnis von SchILD-NRW angenommen (das heißt in diesem Falle müssen sich die Dateien Schild.Ini und Floskeln.txt im Programmverzeichnis, die Dateien Reports.mdb und ImpExp.mdb im Verzeichnis \Keytabs unterhalb des Programmverzeichnisses befinden, ebenso wie die Verzeichnisse \DB und \UDL (falls benötigt).
 :::
 
 Für den Verzeichnis-Eintrag bei GroupDir und dessen Unterverzeichnisse wird für alle Benutzer, die mit SchILD-NRW arbeiten, ein Lese- und Schreib-Zugriff benötigt.
@@ -336,7 +338,7 @@ Für den Verzeichnis-Eintrag bei GroupDir und dessen Unterverzeichnisse wird fü
 
 ### Der Eintrag PrivateDir
 
-Über den Eintrag `PrivateDir={PrivateDir}` kann ein Verzeichnis definiert werden, in dem exportierte Daten gespeichert werden. Dies hat den Vorteil, dass z.B. die Dateien für die Word-Serienbrieferstellung für jeden Benutzer getrennt abgelegt werden, so dass die Dateien nicht gegenseitig überschrieben werden, wenn mehrere Benutzer gleichzeitig die Serienbriefe erstellen wollen. Beispiel: Sie haben folgenden Eintrag in der Datei ADMIN.INI gemacht `PrivateDir=C:\Meine Schild-Daten`. In diesem Fall werden exportierte Daten in das jeweilige lokale Verzeichnis "C:\Meine Schild-Daten"gespeichert. Hinweis: Über den Eintrag `PrivateDir=<PRIVATE>` (genau so geschrieben, inkl. der Größer- und Kleiner-Zeichen) kann auf das Verzeichnis "C:\Dokumente und Einstellungen\\{Benutzername}" verwiesen werden.
+Über den Eintrag `PrivateDir={PrivateDir}` kann ein Verzeichnis definiert werden, in dem exportierte Daten gespeichert werden. Dies hat den Vorteil, dass zum Beispiel die Dateien für die Word-Serienbrieferstellung für jeden Benutzer getrennt abgelegt werden, so dass die Dateien nicht gegenseitig überschrieben werden, wenn mehrere Benutzer gleichzeitig die Serienbriefe erstellen wollen. Beispiel: Sie haben folgenden Eintrag in der Datei ADMIN.INI gemacht `PrivateDir=C:\Meine Schild-Daten`. In diesem Fall werden exportierte Daten in das jeweilige lokale Verzeichnis "C:\Meine Schild-Daten"gespeichert. Hinweis: Über den Eintrag `PrivateDir=<PRIVATE>` (genau so geschrieben, inkl. der Größer- und Kleiner-Zeichen) kann auf das Verzeichnis "C:\Dokumente und Einstellungen\\{Benutzername}" verwiesen werden.
 
 Für den Verzeichnis-Eintrag bei PrivateDir und dessen Unterverzeichnisse wird für den jeweiligen Benutzer ein Lese- und Schreib-Zugriff benötigt.
 
@@ -366,7 +368,7 @@ C:\Programme\SchILD-NRW\UDL (falls notwendig)
 
 C:\Programme\SchILD-NRW\DB\SchILD2000n.mdb
 
-In diesem Fall kann die Datei ADMIN.INI weggelassen werden bzw. enthält folgende Einträge:
+In diesem Fall kann die Datei ADMIN.INI weggelassen werden beziehungsweise enthält folgende Einträge:
 
 \[Administration\]\
 AdminDir=\
@@ -413,7 +415,7 @@ Diese Konfiguration entspricht also einer lokalen Installation, mit dem einzigen
 
 ### Konfigurationsbeispiel 3: Server-Installation mit schreibgeschütztem Programmverzeichnis
 
-SchILD-NRW wurde auf einem Netzwerk-Server installiert (im Verzeichnis \\\Server\Programme\SchILD-NRW und wird auch von den jeweiligen Arbeitsstationen über das Netzwerk von diesem Verzeichnis aus gestartet). Das Programmverzeichnis ist aber schreibgeschützt. Daher müssen die Dateien, bei denen ein Schreibzugriff stattfinden kann, über einen Eintrag GroupDir= "umgeleitet" werden. Die Datei ADMIN.INI enthält dann z.B. folgende Einträge:
+SchILD-NRW wurde auf einem Netzwerk-Server installiert (im Verzeichnis \\\Server\Programme\SchILD-NRW und wird auch von den jeweiligen Arbeitsstationen über das Netzwerk von diesem Verzeichnis aus gestartet). Das Programmverzeichnis ist aber schreibgeschützt. Daher müssen die Dateien, bei denen ein Schreibzugriff stattfinden kann, über einen Eintrag GroupDir= "umgeleitet" werden. Die Datei ADMIN.INI enthält dann zum Beispiel folgende Einträge:
 
 \[Administration\]\
 AdminDir=\

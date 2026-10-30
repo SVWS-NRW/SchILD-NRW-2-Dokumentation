@@ -4,7 +4,7 @@ title: "Individualdaten ändern"
 
 # Individualdaten ändern
 
-Mit dem Aufruf des Gruppenprozesses "Individualdaten ändern" erscheinen weitere Registerkarten, die sich jeweils auf die entsprechenden Registerkarten eines einzelnen Schülers beziehen.
+Mit diesem Gruppenprozess ändern Sie persönliche Angaben bei mehreren Personen gleichzeitig. Die Reiter orientieren sich an der Einzelansicht eines Schülerdatensatzes. Kontrollieren Sie zuerst, für welche Personen die Änderung gelten soll.
 
 ![Individualdaten-Registerkarten](/bilder/schild2/gruppenprozesse/individualdaten-registerkarten.jpg)
 

@@ -11,12 +11,11 @@ title: "MehrfachauswahlEx"
 
 ## Beschreibung
 
+ermöglicht die Auswahl mehrerer Elemente einer Auswahlliste
+
 ```pascal
 function MehrfachauswahlEx(Prompt: String, Optionsliste: String; Trennzeichen: Char): String;
 ```
-
-
-ermöglicht die Auswahl mehrerer Elemente einer Auswahlliste
 
 ## Parameter
 
@@ -25,7 +24,6 @@ ermöglicht die Auswahl mehrerer Elemente einer Auswahlliste
 | `Prompt` | Eingabeaufforderung |
 | `Optionsliste` | Liste der verfügbaren Optionen |
 | `Trennzeichen` | Trennt die Optionen in der Liste voneinander |
-
 
 ## Rückgabewert
 
@@ -45,7 +43,6 @@ begin
   if pos('-2-',lResult) > 0 then...
 end
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

@@ -11,6 +11,8 @@ title: "FilterErzieherfunktion"
 
 ## Beschreibung
 
+Wählt aus den Erziehungsberechtigten die Einträge mit der angegebenen schulinternen Funktion aus.
+
 ```pascal
 procedure FilterErzieherfunktion(const aFunktion: String);
 ```
@@ -20,7 +22,6 @@ procedure FilterErzieherfunktion(const aFunktion: String);
 | Parameter | Bedeutung |
 | --- | --- |
 | `aFunktion` | Schulinterne Funktion, auf die gefiltert werden soll. Aus den Erziehern werden die Einträge mit der gewählten Funktion ausgewählt. |
-
 
 ## Beispiel
 
@@ -33,7 +34,6 @@ begin
   FilterErzieherfunktion(lFunktion);
 end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

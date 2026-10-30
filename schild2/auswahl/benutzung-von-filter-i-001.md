@@ -6,54 +6,74 @@ title: "Schüler mit Filter I auswählen"
 
 # Schüler mit Filter I auswählen
 
-Dieses Tutorial gibt eine Einführung in die Benutzung des [Filters I](/schild2/auswahl/filter-i). Zuerst werden einige grundlegende Informationen gegeben, dann wird die Benutzung anhand von Beispielen erläutert.
+Diese Anleitung zeigt drei Beispiele für **Filter I**. Beginnen Sie mit Beispiel 1. Danach können Sie Bedingungen zu Leistungsdaten und schließlich zu mehreren Datenbereichen kombinieren. Die [Bedienelemente von Filter I](/schild2/auswahl/filter-i?rubrik=schild2) sind in einem eigenen Artikel erklärt.
 
-Der Filter I bietet diverse Selektionsmöglichkeiten, um die gewünschte Schülermenge zu filtern. Die Filterbedingungen lassen sich durch manuelle Eingaben sowie durch die Auswahl von vorgegebenen Listenfeldern schnell zusammenstellen.
+## Die Grundregeln verstehen
 
-Gefiltert werden kann über die Listenfelder der Individual-Daten I und II, den Bereich der besonderen Merkmale, einige weitere Daten sowie über den Bereich der Leistungsdaten. Standardmäßig nutzt der Filter UND-Verknüpfungen, bei einigen Feldern werden aber auch ODER-Verknüpfungen genutzt.
+Sie wählen Bedingungen über Listenfelder oder eigene Eingaben aus. Die Bereiche entsprechen den Individualdaten I und II, besonderen Merkmalen, weiteren Daten und Leistungsdaten.
 
-Für Listenfelder, bei denen ein roter Pfeil, wie in der Abbildung unten, zu sehen ist, kann man eine Mehrfachauswahl treffen. Nach jedem Auswählen eines Eintrags klickt man auf den roten Pfeil und die Auswahl wird übernommen. Eine Mehrfachauswahl wird stets als ODER-Verknüpfung interpretiert (siehe Beispiele).\
-Hier für das Beispiel des 'Ortes' in den Individual-Daten I.\
+- **UND:** Alle verbundenen Bedingungen müssen zutreffen.
+- **ODER:** Mindestens eine der verbundenen Bedingungen muss zutreffen.
+- **Ausschließen:** Die betreffende Bedingung darf nicht zutreffen.
 
-![FilterITut01](/bilder/schild2/auswahl/filteritut01.jpg)\
+Standardmäßig arbeitet Filter I mit UND-Verknüpfungen. Bei einigen Feldern sind ODER-Verknüpfungen möglich. Ein roter Pfeil neben einem Listenfeld erlaubt eine Mehrfachauswahl: Wählen Sie einen Eintrag und übernehmen Sie ihn mit dem Pfeil. Mehrere so ausgewählte Einträge werden als ODER-Auswahl behandelt.
 
-Um eine Bedingung zu negieren, muss man einen Doppelklick auf die entsprechende Bedingung ausführen. Diese wird dann **fett** und *kursiv* dargestellt.\
-Hier für das Beispiel der 'Konfession' in den Individual-Daten I. Es würde somit nach allen nicht katholischen Schülern gefiltert.\
+![FilterITut01](/bilder/schild2/auswahl/filteritut01.jpg)
 
-![FilterITut02](/bilder/schild2/auswahl/filteritut02.jpg)\
+Doppelklicken Sie auf eine Bedingung, um sie auszuschließen. Sie wird dann **fett** und *kursiv* angezeigt. Bei der Konfession bedeutet dies beispielsweise: Alle Personen auswählen, die nicht katholisch sind.
 
-Einen selbst zusammengestellten Filter kann man mithilfe der rechts platzierten Schaltflächen zurücksetzen, testen, übernehmen und gegebenenfalls zur späteren Wiederanwendung speichern.
+![FilterITut02](/bilder/schild2/auswahl/filteritut02.jpg)
 
-**Beispiel 1:**\
-Gefiltert werden soll nach allen Schülern, die aus Wuppertal oder Aldenhoven stammen und nicht katholisch sind.\
-Dafür muss man unter Individual-Daten I die beiden Orte auswählen und bei der Konfession den Eintrag katholisch (diesen natürlich negiert).\
+Mit den Schaltflächen rechts können Sie den Filter zurücksetzen, testen, übernehmen und speichern.
 
-![FilterITut03](/bilder/schild2/auswahl/filteritut03.jpg)\
+## Beispiel 1: Wohnorte und Konfession
 
-Für die Orte gilt durch die Mehrfachauswahl eine ODER-Verknüpfung, da natürlich niemand aus zwei Orten gleichzeitig stammen kann.\
-Testet man nun die vorgenommenen Filtereinstellungen, wird in einem separaten Fenster angezeigt, wie viele Schüler mit diesen Eigenschaften gefunden wurden. Um die gefundenen Schüler nun für die weitere Bearbeitung im [Schülerliste und Auswahl](/einstieg/grundlagen/container) vorliegen zu haben, bestätigt man mit 'OK' und wählt anschließend die Schaltfläche 'Übernehmen'. Damit stehen die gefilterten Schüler für die weitere Nutzung zur Verfügung.
+**Ziel:** Gesucht sind Personen aus Wuppertal oder Aldenhoven, die nicht katholisch sind.
 
-**Beispiel 2:**\
-Gefiltert werden soll nach allen Schülern, die im aktuellen Schuljahr in der Einführungsphase evangelische Religion als mündlichen Grundkurs belegt haben.\
-Die dafür nötigen Einstellungen müssen unter dem Reiter Lernabschnitt/Leistungsdaten getätigt werden. Dort stellt man das entsprechende Schuljahr ein, wählt unter Jahrgang die Einführungsphase aus und übernimmt sie durch den roten Pfeil. Unter 'Fächer und Noten' stellt man das gesuchte Fach und die Kursart ein. Als verwendete Beziehung muss in diesem Fall UND ausgewählt werden. Auch hier werden die Einstellungen durch einen Klick auf den roten Pfeil übernommen.\
+1. Öffnen Sie **Individualdaten I** im Filter.
+2. Wählen Sie beim Ort **Wuppertal** und übernehmen Sie den Eintrag mit dem roten Pfeil.
+3. Wiederholen Sie dies für **Aldenhoven**.
+4. Wählen Sie bei der Konfession **katholisch** und schließen Sie diese Bedingung durch einen Doppelklick aus.
 
-![FilterITut04](/bilder/schild2/auswahl/filteritut04.jpg)\
+![FilterITut03](/bilder/schild2/auswahl/filteritut03.jpg)
 
-Die so eingestellten Bedingungen liefern dann die gewünschte Schülermenge, die für die weitere Nutzung in den [Schülerliste und Auswahl](/einstieg/grundlagen/container) übernommen werden kann.\
+Die beiden Orte sind mit ODER verbunden. Zusammen mit der ausgeschlossenen Konfession ergibt sich: „Wuppertal oder Aldenhoven“ UND „nicht katholisch“.
 
-**Beispiel 3:**\
-Gefiltert werden soll nach allen Schülern, die im Schuljahr 2008/09 die Abiturzulassung erhalten, das Abitur dann aber nicht bestanden haben (und abgegangen sind) und Englisch als erste Fremdsprache hatten.\
-Dafür müssen Einstellungen unter mehreren Reitern getätigt werden. Zuert muss man unter den Individual-Daten I unter 'Status' nur den Haken bei den Abgängern setzen. Dann wechselt man zum Reiter Weitere Daten und stellt dort unter 'Sprachenfolge' Englisch als erste Sprache ein. Unter dem Reiter Lernabschnitt/Leistungsdaten stellt man nun noch das gewünschte Schuljahr ein (das Halbjahr ist in diesem Fall egal) und ganz unten die Angaben für die Abiturzulassung und das Bestehen des Abiturs.\
+5. Klicken Sie auf **Testen** und prüfen Sie die Anzahl der gefundenen Personen.
+6. Bestätigen Sie mit **OK** und klicken Sie auf **Übernehmen**.
 
-![FilterITut05](/bilder/schild2/auswahl/filteritut05.jpg)\
+Die gefundene Gruppe erscheint in der [Schülerliste](/einstieg/grundlagen/container?rubrik=schild2) und kann weiterbearbeitet werden.
 
-![FilterITut06](/bilder/schild2/auswahl/filteritut06.jpg)\
+## Beispiel 2: Fach und Kursart
 
-![FilterITut07](/bilder/schild2/auswahl/filteritut07.jpg)\
+**Ziel:** Gesucht sind Personen der Einführungsphase, die im aktuellen Schuljahr evangelische Religion als mündlichen Grundkurs belegt haben.
 
-Die so eingestellten Bedingungen liefern dann die gewünschte Schülermenge, die für die weitere Nutzung in den [Schülerliste und Auswahl](/einstieg/grundlagen/container) übernommen werden kann.\
+1. Öffnen Sie im Filter **Lernabschnitt/Leistungsdaten**.
+2. Stellen Sie das gewünschte Schuljahr ein.
+3. Wählen Sie den Jahrgang der **Einführungsphase** und übernehmen Sie ihn mit dem roten Pfeil.
+4. Wählen Sie unter **Fächer und Noten** das Fach und die gesuchte Kursart.
+5. Verwenden Sie für diese Angaben die Beziehung **UND** und übernehmen Sie sie mit dem roten Pfeil.
 
-------------------------------------------------------------------------
+![FilterITut04](/bilder/schild2/auswahl/filteritut04.jpg)
+
+Testen Sie die Auswahl und übernehmen Sie sie anschließend in die Schülerliste. Alle gewählten Merkmale müssen gemeinsam zutreffen.
+
+## Beispiel 3: Mehrere Datenbereiche verbinden
+
+**Ziel des historischen Beispiels:** Gesucht sind Personen, die im Schuljahr 2008/09 zum Abitur zugelassen wurden, es nicht bestanden haben und abgegangen sind. Ihre erste Fremdsprache soll Englisch gewesen sein. Das Schuljahr gehört zum Beispiel der ursprünglichen Anleitung.
+
+1. Öffnen Sie **Individualdaten I** und setzen Sie beim Status nur den Haken für **Abgänger**.
+2. Wechseln Sie zu **Weitere Daten** und wählen Sie in der **Sprachenfolge** Englisch als erste Fremdsprache.
+3. Öffnen Sie **Lernabschnitt/Leistungsdaten** und stellen Sie das gewünschte Schuljahr ein. Der Abschnitt ist für dieses Beispiel nicht entscheidend.
+4. Wählen Sie unten die Bedingungen für die erteilte Abiturzulassung und das nicht bestandene Abitur.
+
+![FilterITut05](/bilder/schild2/auswahl/filteritut05.jpg)
+
+![FilterITut06](/bilder/schild2/auswahl/filteritut06.jpg)
+
+![FilterITut07](/bilder/schild2/auswahl/filteritut07.jpg)
+
+Testen Sie das Ergebnis und übernehmen Sie die gefundene Gruppe anschließend in die Schülerliste. Die Bedingungen aus allen drei Datenbereichen werden gemeinsam ausgewertet.
 
 ---
 

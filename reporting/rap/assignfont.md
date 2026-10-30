@@ -11,12 +11,11 @@ title: "AssignFont"
 
 ## Beschreibung
 
+Ändert die Schriftart eines formatierten Textes. Die Schriftgröße bleibt unverändert.
+
 ```pascal
 procedure AssignFont(aText: TppCustomRichText; aFont: TFont);
 ```
-
-
-ändert den Zeichensatz eines Richtextes. Die Größe bleibt unverändert
 
 ## Parameter
 
@@ -24,7 +23,6 @@ procedure AssignFont(aText: TppCustomRichText; aFont: TFont);
 | --- | --- |
 | `aText` | der zu verändernde Richtext |
 | `aFont` | der neue Zeichensatz |
-
 
 ## Rückgabewert
 
@@ -36,7 +34,6 @@ Der veränderte Richtext
 AssignFont(Richtext1,Label1.Font);
 (*Dem Richtext wird der Zeichensatz eines Labels zugewiesen*)
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

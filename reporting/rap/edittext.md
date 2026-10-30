@@ -11,12 +11,11 @@ title: "EditText"
 
 ## Beschreibung
 
+Ruft einen Texteditor für Text ohne Formatierung auf.
+
 ```pascal
 function EditPlainText
 ```
-
-
-Ruft einen Texteditor für Text ohne Formatierung auf.
 
 ## Rückgabewert
 
@@ -29,7 +28,6 @@ begin
  Text:= EditPlainText;
 end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

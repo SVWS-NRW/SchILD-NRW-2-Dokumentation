@@ -11,6 +11,8 @@ title: "LehrerDatenLaden"
 
 ## Beschreibung
 
+Lädt Angaben zu einer Lehrkraft in die übergebenen Variablen, darunter Name, Anrede und Amtsbezeichnung.
+
 ```pascal
 procedure LehrerDatenLaden(const Kuerzel: String; var Name, Vorname, Anrede, Titel, Amtsbez: String);
 ```
@@ -24,7 +26,6 @@ procedure LehrerDatenLaden(const Kuerzel: String; var Name, Vorname, Anrede, Tit
 | `Anrede` | ..des Lehrers |
 | `Titel` | ..des Lehrers |
 | `Amtsbez` | ..des Lehrers |
-
 
 ## Beispiel
 

@@ -6,6 +6,8 @@ title: "Herkunftssprachlicher Unterricht"
 
 # Herkunftssprachlicher Unterricht
 
+Diese Anleitung erläutert die Erfassung des herkunftssprachlichen Unterrichts, der zugehörigen Sprachprüfung und der Zeugnisangaben. Zuerst werden die im Ausgangstext beschriebenen Voraussetzungen eingeordnet; danach folgen die Einstellungen in SchILD-NRW 2.
+
 <a id="Herkunftssprachlicher_Unterricht"></a>
 
 ## Herkunftssprachlicher Unterricht
@@ -29,7 +31,7 @@ Die Anmeldung verpflichtet zur regelmäßigen Teilnahme. Eine Abmeldung ist nur 
 
 Schülerinnen und Schüler, die am Herkunftssprachlichen Unterricht teilgenommen haben, legen am Ende ihres Bildungsgangs in der Sekundarstufe I verpflichtend die Sprachprüfung im Herkunftssprachlichen Unterricht nach § 5 Absatz 3 APO-S I auf der Anspruchsebene des angestrebten Abschlusses ab (nur ESA, EESA und MSA, nicht MSAQ-E).
 
-Schülerinnen und Schüler können mit einer mindestens guten Leistung in der Sprachprüfung bei der Vergabe der ***Abschlüsse*** nach §§ 40 bis 42 APO-S I (ESA, EESA, MSA, nicht MSA-Q) eine mangelhafte Leistung in einer Fremdsprache ausgleichen. Note hat keine Relevanz für die Versetzung bzw. Berechtigung zum Besuch der gymnasialen Oberstufe! Sie ist damit kein Ausgleich bei der Versetzungsentscheidung und kein Ausgleich bei der Erteilung der Berechtigung zum Besuch der gymnasialen Oberstufe (MSAQ-E). Vollständige Teilnahme am HSU berechtigt in der gymnasialen Oberstufe zur Teilnahme am Kurs der fortgeführten Fremdsprache in dieser Sprache. Bei nicht vollständiger Teilnahme berechtigt die Note „ausreichend“ bei Abschluss der Prüfung auf MSA-Niveau zur Belegung der fortgeführten Fremdsprache in dieser Sprache in der gymnasialen Oberstufe. Die Belegungsverpflichtung einer neu einsetzenden Fremdsprache im Umfang von 4 Wochenstunden bei Schülerinnen und Schülern, die in der Sekundarstufe I nur Englisch erlernt haben, bleibt in jedem Fall, auch bei Belegung der fortgeführten Fremdsprache in der HSU-Sprache, bestehen
+Schülerinnen und Schüler können mit einer mindestens guten Leistung in der Sprachprüfung bei der Vergabe der ***Abschlüsse*** nach §§ 40 bis 42 APO-S I (ESA, EESA, MSA, nicht MSA-Q) eine mangelhafte Leistung in einer Fremdsprache ausgleichen. Note hat keine Relevanz für die Versetzung beziehungsweise Berechtigung zum Besuch der gymnasialen Oberstufe! Sie ist damit kein Ausgleich bei der Versetzungsentscheidung und kein Ausgleich bei der Erteilung der Berechtigung zum Besuch der gymnasialen Oberstufe (MSAQ-E). Vollständige Teilnahme am HSU berechtigt in der gymnasialen Oberstufe zur Teilnahme am Kurs der fortgeführten Fremdsprache in dieser Sprache. Bei nicht vollständiger Teilnahme berechtigt die Note „ausreichend“ bei Abschluss der Prüfung auf MSA-Niveau zur Belegung der fortgeführten Fremdsprache in dieser Sprache in der gymnasialen Oberstufe. Die Belegungsverpflichtung einer neu einsetzenden Fremdsprache im Umfang von 4 Wochenstunden bei Schülerinnen und Schülern, die in der Sekundarstufe I nur Englisch erlernt haben, bleibt in jedem Fall, auch bei Belegung der fortgeführten Fremdsprache in der HSU-Sprache, bestehen
 
 Bei Erreichen einer mindestens ausreichenden Note in der Sprachprüfung im Herkunftssprachlichen Unterricht auf dem Anspruchsniveau des Mittleren Schulabschlusses (MSA) kann diese Sprache in der gymnasialen Oberstufe als fortgeführte Fremdsprache belegt werden, sofern ein entsprechendes Angebot besteht.
 
@@ -88,12 +90,12 @@ Die Teilnahme am Unterricht in der Herkunftsprache wird zusätzlich gemäß Anla
 
 Legen Sie ein Fach für die Prüfungssprache an (Schulverwaltung - Unterrichtsfächer):
 
-- ASD-Bezeichnung: z.B. Unterricht für Herkunftssprache - Spanisch
+- ASD-Bezeichnung: zum Beispiel Unterricht für Herkunftssprache - Spanisch
 - Fächergruppe für Zeugnisdruck: Fremdsprachen
-- interne Kurzform: z.B. HSU Spanisch
-- Bezeichnung: z.B. HSU Spanisch
-- Bezeichnung im Zeugnis: z.B. Spanisch
-- Bezeichnung im Überweisungszeugnis: z.B. Spanisch
+- interne Kurzform: zum Beispiel HSU Spanisch
+- Bezeichnung: zum Beispiel HSU Spanisch
+- Bezeichnung im Zeugnis: zum Beispiel Spanisch
+- Bezeichnung im Überweisungszeugnis: zum Beispiel Spanisch
 - Sonstige Einstellungen: Fremdsprache, Auf Zeugnis, Sichtbar
 
 Hinweis: Nach Anlegen des Faches sollte Schild-NRW einmalig neu gestartet werden.
@@ -108,11 +110,11 @@ Hinweis: Nach Anlegen des Faches sollte Schild-NRW einmalig neu gestartet werden
 
 Tragen Sie das Fach in die Sprachenfolge auf dem Reiter Laufbahninfo ein:
 
-- Fremdsprache: z.B. HSU Spanisch
+- Fremdsprache: zum Beispiel HSU Spanisch
 - Reihenfolge/Sprachenprüfung/Nachweis: Prüfung
 - Referenzniveau: B1 (MSA)
-- von Jahrgang/Abschnitt: leer lassen, ggf. mit der Taste Entf. leeren
-- bis Jahrgang/Abschnitt: leer lassen, ggf. mit der Taste Entf. leeren
+- von Jahrgang/Abschnitt: leer lassen, gegebenenfalls mit der Taste Entf. leeren
+- bis Jahrgang/Abschnitt: leer lassen, gegebenenfalls mit der Taste Entf. leeren
 
 <a id="Leistungsdaten_für_das_Abschlusszeugnis_der_Sekundarstufe_I"></a>
 <a id="Leistungsdaten_f.C3.BCr_das_Abschlusszeugnis_der_Sekundarstufe_I"></a>
@@ -125,7 +127,7 @@ Tragen Sie das Fach in die Sprachenfolge auf dem Reiter Laufbahninfo ein:
 
 Fügen Sie den Leistungsdaten ein Fach hinzu:
 
-- Fach: z.B. HSU Spanisch
+- Fach: zum Beispiel HSU Spanisch
 - Auf Zeugnis: Aktiviert
 - Kursart: leer
 - Lehrkraft: leer

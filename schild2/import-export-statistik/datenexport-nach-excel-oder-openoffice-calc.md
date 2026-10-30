@@ -6,9 +6,9 @@ title: "Daten nach Excel oder Calc exportieren"
 
 # Daten nach Excel oder Calc exportieren
 
-Um Schild-NRW-Daten in anderen Programmen weiter verwenden zu können (z.B. Export für die Bundesjugendspiele) oder um Lehrern die Daten für ihre Klassen „Excel-fähig“ zur Verfügung stellen zu können, bietet Schild-NRW eine einfache Möglichkeit, diese Daten auf der Festplatte zu speichern.
+Um Schild-NRW-Daten in anderen Programmen weiter verwenden zu können (zum Beispiel Export für die Bundesjugendspiele) oder um Lehrern die Daten für ihre Klassen „Excel-fähig“ zur Verfügung stellen zu können, bietet Schild-NRW eine einfache Möglichkeit, diese Daten auf der Festplatte zu speichern.
 
-1.  Filtern Sie bitte zuerst die gewünschte Schülergruppe (z.B. eine Klasse über den Schnellfilter). Ansonsten wird der Export für alle aktiven Schüler ausgeführt.
+1.  Filtern Sie bitte zuerst die gewünschte Schülergruppe (zum Beispiel eine Klasse über den Schnellfilter). Ansonsten wird der Export für alle aktiven Schüler ausgeführt.
 2.  Gehen Sie unter ***Datenaustausch*** in den Menüpunkt ***Export in Text-Dateien***. Dort wählen Sie bitte den Punkt ***Exportieren***.
 3.  Nun öffnet sich der Exportdialog.
 
@@ -31,7 +31,7 @@ Nun müssen noch einige Einstellungen für den Export vorgenommen werden, damit 
 
 1.  Einige Importprogramme haben mit den Anführungszeichen von Textfeldern Probleme, dann müssen diese hier einfach gelöscht werden.
 2.  Textfeld-Trennzeichen ist das Semikolon, was den Beginn eines neuen Datenfeldes markiert! Hier können auch andere Zeichen gewählt werden.
-3.  Mit den roten Pfeilen kann die Reihenfolge der Datenfelder verändert werden. Hier kann man die Reihenfolge direkt so wählen, wie sie in den Spalten der Exceltabelle gewünscht wird.
+3.  Mit den roten Pfeilen kann die Reihenfolge der Datenfelder verändert werden. Hier können Sie die Reihenfolge direkt so wählen, wie sie in den Spalten der Exceltabelle gewünscht wird.
 4.  Falls Sie dieses Export-Schema oft benötigen, können Sie es hier als Vorlage speichern und immer wieder aufrufen!
 5.  Suchen Sie hier die Stelle auf der Festplatte, an der die Datei gespeichert werden soll. Durch Klick auf den gelben Ordner öffnet sich der Windows-Explorer. Wenn Sie die Dateiendung **Beispiel.csv** vergeben, dann kann Excel die Tabelle direkt einlesen!
 
@@ -49,7 +49,7 @@ Schließen oder minimieren Sie auch das Programm Schild-NRW.
 
 In der Regel können Sie diese nun mit einem Doppelklick in Excel öffnen.
 
-Sollte Excel nicht mit CSV-Dateien verknüpft sein, so müssen Sie Excel zuerst starten und dann über ***Datei -\> Öffnen*** gehen. (Achten Sie in diesem Fall darauf, dass Sie im Auswahldialog unten die CSV-Dateien (bzw. Textdateien) und nicht nur Exceldateien (\*.XLS) auswählen.)
+Sollte Excel nicht mit CSV-Dateien verknüpft sein, so müssen Sie Excel zuerst starten und dann über ***Datei -\> Öffnen*** gehen. (Achten Sie in diesem Fall darauf, dass Sie im Auswahldialog unten die CSV-Dateien (beziehungsweise Textdateien) und nicht nur Exceldateien (\*.XLS) auswählen.)
 
 ![Export-Excel-03](/bilder/schild2/import-export-statistik/export-excel-03.png)
 

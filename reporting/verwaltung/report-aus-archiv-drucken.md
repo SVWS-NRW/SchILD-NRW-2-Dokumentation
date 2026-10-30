@@ -4,6 +4,8 @@ title: "Report aus Archiv drucken"
 
 # Report aus Archiv drucken
 
+Hier drucken Sie eine bereits gespeicherte Reportausgabe erneut. Dafür benötigen Sie eine SchILD-Archivdatei mit der Endung `.raf`. Sie wählen damit eine fertige Ausgabe aus, nicht die ursprüngliche Reportvorlage.
+
 Wenn Sie den Menüpunkt **Aus Archiv drucken** ausgewählt haben, erwartet das Programm nach einer Schild-NRW-spezifischen Archivdatei mit der Endung \*.raf. Sie wechseln jetzt in den Ordner, in dem Sie die Archivdatei abgespeichert haben, und wählen die gewünschte Datei aus.
 
 ![Raf-Datei-Beispiel](/bilder/reporting/verwaltung/raf-datei-beispiel.png)

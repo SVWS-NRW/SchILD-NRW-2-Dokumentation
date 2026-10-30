@@ -17,7 +17,7 @@ Die RTM-Zeugnisse ermöglichen mehrere Dinge:
 - alle Zeugnisse können in die Dokumentenverwaltung gedruckt werden
 - Einstellungen für die Zeugnisse können in der INI-Datei gemacht werden
 
-Grundsätzlich liegt im Downloadbereich von svws.nrw.de eine komplette PDF-Anleitung. Aus diesem Grund soll hier auch nicht das gesamte Verfahren erklärt werden. Hier gibt es zusätzlich Hilfe, Tipps und Tricks.
+Die vollständige Verfahrensanleitung wird im Downloadbereich von svws.nrw.de als PDF bereitgestellt. Die folgenden Hinweise ergänzen sie um Hilfen und Beispiele für die Einrichtung und den Zeugnisdruck.
 
 **<https://www.svws.nrw.de/download/schild-reports/zeugnisformulare>**
 

@@ -6,9 +6,11 @@ title: "Einzelne Fächer löschen"
 
 # Einzelne Fächer löschen
 
+Dieser Gruppenprozess entfernt ausgewählte Fächer aus den Leistungsdaten mehrerer Personen. Kontrollieren Sie die Schülerauswahl und die betroffenen Fächer vor dem Löschen.
+
 Mit dem Aufruf des Gruppenprozesses "Einzelne Fächer bei Schülern löschen" erscheint das Eingabefenster "Fächer bei Schülern löschen".
 
-Dieser Gruppenprozess ermöglicht das Löschen ganzer Unterrichtsfächer im jeweils ausgewählten Schuljahr und Abschnitt bei der selektierten Schülergruppe. Dies kann zum Beispiel notwendig sein, wenn wegen Veränderungen in der Unterrichtsverteilung Unterricht komplett entfällt.
+Dieser Gruppenprozess ermöglicht das Löschen ganzer Unterrichtsfächer im jeweils ausgewählten Schuljahr und Abschnitt bei der ausgewählten Schülergruppe. Dies kann zum Beispiel notwendig sein, wenn wegen Veränderungen in der Unterrichtsverteilung Unterricht komplett entfällt.
 
 ![GP-FaecherSloeschen](/bilder/schild2/gruppenprozesse/gp-faechersloeschen.jpg)
 

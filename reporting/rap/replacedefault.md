@@ -11,11 +11,6 @@ title: "ReplaceDefault"
 
 ## Beschreibung
 
-```pascal
-function ReplaceDefault(aText: String): String;
-```
-
-
 Platzhalter              | Wird ersetzt durch
   --------------------------+----------------------------------
    $_NAME$                  | Schueler['Name']
@@ -34,8 +29,12 @@ Platzhalter              | Wird ersetzt durch
    $_ERZ_STRASSE$           | SchErzAdr['ErzStrasse']
    $_ERZ_PLZ_ORT$           | SchErzAdr['ErzPLZ + ' ' + SchErzAdrOrt']
 
+```pascal
+function ReplaceDefault(aText: String): String;
+```
+
 Zusätzlich werden im Text geschlechtsspezifische Umwandlungen nach dem Muster
-der Bemerkungsfelder vorgenommen, d.h. aus &Text_männlich%Text_weiblich& wird
+der Bemerkungsfelder vorgenommen, das heißt aus &Text_männlich%Text_weiblich& wird
 in Abhängigkeit vom Geschlecht des Schülerdatensatzes die korrekte Form gewählt.
 
 ## Parameter
@@ -43,7 +42,6 @@ in Abhängigkeit vom Geschlecht des Schülerdatensatzes die korrekte Form gewäh
 | Parameter | Bedeutung |
 | --- | --- |
 | `aText` | Text, in dem die oder der Standard-Platzhalter ersetzt werden sollen. |
-
 
 ## Beispiel
 
@@ -55,7 +53,6 @@ begin
   ...
 end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

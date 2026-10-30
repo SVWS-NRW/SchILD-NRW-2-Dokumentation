@@ -6,6 +6,8 @@ title: "C06 Fachoberschule Klasse 12S"
 
 # C06 Fachoberschule Klasse 12S
 
+Diese Seite zeigt ein Bildbeispiel zur Abschlussberechnung für den im Titel genannten Bildungsgang. Vergleichen Sie die dargestellte Ansicht mit Ihrem Bildungsgang. Die Bedeutung des Karteireiters und die allgemeinen Arbeitsschritte erläutert [BK-Abschlussverfahren](/zeugnisse/berufskolleg/bk-abschluss?rubrik=schild2).
+
 Einjähriger Vollzeitbildungsgang der Fachoberschule, Klasse 12S.
 
 ![BK_Abschluss_C06](/bilder/zeugnisse/berufskolleg/bk-abschluss-c06.png)

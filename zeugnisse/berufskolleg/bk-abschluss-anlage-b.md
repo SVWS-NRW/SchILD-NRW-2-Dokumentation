@@ -6,6 +6,8 @@ title: "BK-Abschlüsse nach Anlage B"
 
 # BK-Abschlüsse nach Anlage B
 
+Hier finden Sie die im ursprünglichen Wiki aufgeführten Bildungsgänge dieser Anlage. Wählen Sie den passenden Bildungsgang aus den verlinkten Einträgen. Die allgemeinen Erläuterungen stehen unter [BK-Abschlussverfahren](/zeugnisse/berufskolleg/bk-abschluss?rubrik=schild2).
+
 <a id="Bildungsgänge,_die_zu_einem_Berufsabschluss_nach_Landesrecht_und_zum_mittleren_Schulabschluss_(Fachoberschulreife)_oder_zu_beruflichen_Kenntnissen,_Fähigkeiten_und_Fertigkeiten_und_zum_mittleren_Schulabschluss_(Fachoberschulreife)_führen"></a>
 <a id="Bildungsg.C3.A4nge.2C_die_zu_einem_Berufsabschluss_nach_Landesrecht_und_zum_mittleren_Schulabschluss_.28Fachoberschulreife.29_oder_zu_beruflichen_Kenntnissen.2C_F.C3.A4higkeiten_und_Fertigkeiten_und_zum_mittleren_Schulabschluss_.28Fachoberschulreife.29_f.C3.BChren"></a>
 

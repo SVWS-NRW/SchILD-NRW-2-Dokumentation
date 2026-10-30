@@ -11,6 +11,8 @@ title: "Wiederholungen"
 
 ## Beschreibung
 
+Liefert die wiederholten Schuljahre und Jahrgänge einer Person als Text. Die Quelle kennzeichnet diese Funktion als überholt und empfiehlt, sie nicht mehr zu verwenden.
+
 ```pascal
 function Wiederholungen(const aSchuelerId: Integer): String;
 ```
@@ -20,7 +22,6 @@ function Wiederholungen(const aSchuelerId: Integer): String;
 | Parameter | Bedeutung |
 | --- | --- |
 | `aSchuelerId` | Id-Nummer des aktuellen Schuelers |
-
 
 ## Rückgabewert
 

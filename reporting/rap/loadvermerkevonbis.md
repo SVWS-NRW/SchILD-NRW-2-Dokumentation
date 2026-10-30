@@ -11,6 +11,8 @@ title: "LoadVermerkeVonBis"
 
 ## Beschreibung
 
+Liest Vermerke einer gewählten Art innerhalb eines Zeitraums aus. Beginn, Ende, Trennzeichen und die Ausgabe des Datums werden über Parameter festgelegt.
+
 ```pascal
 function LoadVermerkeVonBis(Const aVermerkart, aDelimiter, aStart, aEnde: String; mitDatum: Boolean): String;
 ```
@@ -20,11 +22,10 @@ function LoadVermerkeVonBis(Const aVermerkart, aDelimiter, aStart, aEnde: String
 | Parameter | Bedeutung |
 | --- | --- |
 | `aVermerkart` | Gewünschte Vermerkart, wie im Katalog „Vermerkarten definiert. |
-| `aDelimiter` | Trenner für die Vermerke. Hier ist eine beliebige Zeichenkette zulässig. Besondere Bedeutung haben '\t ' bzw. '\T' (fügt einen Tabulatorschritt ein) und '\n' bzw. '\N' (fügt einen Zeilenvorschub ein). |
+| `aDelimiter` | Trenner für die Vermerke. Hier ist eine beliebige Zeichenkette zulässig. Besondere Bedeutung haben '\t ' beziehungsweise '\T' (fügt einen Tabulatorschritt ein) und '\n' beziehungsweise '\N' (fügt einen Zeilenvorschub ein). |
 | `aStart` | Beginn des Suchzeitraumes |
 | `aEnde` | Ende des Suchzeitraumes |
 | `mitDatum` | Falls true, wird jedem Vermerk das Vermerkdatum vorangestellt |
-
 
 ## Rückgabewert
 
@@ -41,7 +42,6 @@ Alle Vermerke der gewählten Art, durch den Delimiter voneinander getrennt.
   eingetragen wurden, werden untereinander in einem Memofeld
   dargestellt.*)
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

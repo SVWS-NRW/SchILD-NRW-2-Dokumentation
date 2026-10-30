@@ -6,7 +6,7 @@ title: "Abiturzulassung berechnen"
 
 # Abiturzulassung berechnen
 
-Dieser Gruppenprozess realisiert die dritte Stufe der Zulassungsberechnungen.
+Mit diesem Gruppenprozess berechnen Sie die Abiturzulassung auf Grundlage der zuvor übernommenen Leistungsdaten und markierten Kurse. Er ist die dritte Stufe des hier beschriebenen Zulassungsablaufs.
 
 Wurde der Gruppenprozess [Kurse für die Abiturzulassung markieren](/zeugnisse/sekundarstufen/kurse-algorithmisch-markieren) durchgeführt und sind damit die für die Zulassung relevanten Kurse markiert, so realisiert dieser Gruppenprozess die Berechnung der Abiturzulassung. Schon vorhandene Daten werden überschrieben. Anschließend wird auch hier wieder in einer Textdatei angegeben, welche Schüler für die Abiturprüfung zugelassen werden und welche nicht. Diese Datei kann ausgedruckt oder abgespeichert werden.
 

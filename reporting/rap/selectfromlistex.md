@@ -11,13 +11,12 @@ title: "SelectFromListEx"
 
 ## Beschreibung
 
+ermöglicht die Auswahl eines Elemente aus einer Dropdown-Liste, deren
+Elemente durch ein beliebiges Zeichen getrennt sind.
+
 ```pascal
 function SelectFromListEx(Caption, Optionlist, Default: String; Trennzeichen: Char): String;
 ```
-
-
-ermöglicht die Auswahl eines Elemente aus einer Dropdown-Liste, deren
-Elemente durch ein beliebiges Zeichen getrennt sind.
 
 ## Parameter
 
@@ -27,7 +26,6 @@ Elemente durch ein beliebiges Zeichen getrennt sind.
 | `Optionslist` | Liste der verfügbaren Optionen |
 | `Default` | voreingestellter Rückgabewert |
 | `Trennzeichen` | Trennzeichen der Optionsliste |
-
 
 ## Rückgabewert
 
@@ -45,7 +43,6 @@ begin
   ...
 end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

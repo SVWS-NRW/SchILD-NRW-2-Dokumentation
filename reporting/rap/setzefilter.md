@@ -11,12 +11,11 @@ title: "Setzefilter"
 
 ## Beschreibung
 
+schränkt die Datensätze durch die übergebene Filterbedingung ein.
+
 ```pascal
 procedure SetzeFilter(Pipeline: TppDbPipeline; const Filter: String)
 ```
-
-
-schränkt die Datensätze durch die übergebene Filterbedingung ein.
 
 ## Parameter
 
@@ -24,7 +23,6 @@ schränkt die Datensätze durch die übergebene Filterbedingung ein.
 | --- | --- |
 | `Pipeline` | Datenquelle, die gefiltert werden soll |
 | `Filter` | der neue Filter. Ist der Filterstring leer, wird die Filterung entfernt. |
-
 
 ## Beispiel
 

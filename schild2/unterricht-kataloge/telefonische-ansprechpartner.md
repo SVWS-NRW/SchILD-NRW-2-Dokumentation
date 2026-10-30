@@ -8,7 +8,7 @@ title: "Telefonische Ansprechpartner"
 
 Den Katalog der telefonischen Ansprechpartner füllen Sie mit den Kontakten, die Sie im Zusammenhang mit der Betreuung des Schülers benötigen.
 
-Hier stellen sie alle weiteren Telefonkontakte bereit, die Sie bei irgendeinem Schüler verwenden bzw. eintragen wollen.
+Hier stellen sie alle weiteren Telefonkontakte bereit, die Sie bei irgendeinem Schüler verwenden beziehungsweise eintragen wollen.
 
 In der Regel finden sich hier Einträge wie Vater, Mutter, Notfallnummer, Großeltern, Pflegeheim etc.
 

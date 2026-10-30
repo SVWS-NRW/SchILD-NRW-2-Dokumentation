@@ -11,6 +11,8 @@ title: "NurFaecherMitNoten"
 
 ## Beschreibung
 
+Steuert, ob nur Leistungsdaten mit einer eingetragenen Note geladen werden.
+
 ```pascal
 procedure NurFaecherMitNoten(const Value: Boolean);
 ```
@@ -20,7 +22,6 @@ procedure NurFaecherMitNoten(const Value: Boolean);
 | Parameter | Bedeutung |
 | --- | --- |
 | `Value` | True, wenn nur Leistungsdaten mit eingetragenen Noten geholt werden sollen |
-
 
 ## Beispiel
 
@@ -33,7 +34,6 @@ Procedure ReportBeforePrint;
  auf dem Zeugnis. Damit Übersichten etc. funktionieren,
  sollte diese Option in ReportAfterPrint wieder zurückgesetzt werden
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

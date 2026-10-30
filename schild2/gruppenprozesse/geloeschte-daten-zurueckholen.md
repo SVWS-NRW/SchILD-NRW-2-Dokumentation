@@ -6,7 +6,7 @@ title: "Gelöschte Daten zurückholen"
 
 Über den Gruppenprozess [Individualdaten ändern](/schild2/gruppenprozesse/individualdaten-aendern) kann bei den Schülerdatensätzen eine Löschmarkierung gesetzt werden.
 
-Diese Schülerdaten befinden sich dann trotzdem noch in der Datenbank. Dies kann man sich wie den Papierkorb in Windows vorstellen.
+Diese Schülerdaten befinden sich dann trotzdem noch in der Datenbank. Dies können Sie sich wie den Papierkorb in Windows vorstellen.
 
 Sind (durch Filtern über "Filter I" oder "Attributs-Filter erstellen") nur gelöschte Datensätze im [Schülerliste und Auswahl](/einstieg/grundlagen/container), so kann der Gruppenprozess Schülerdatensätze löschen angestoßen werden.
 

@@ -1,6 +1,6 @@
 # SchILDChat
 
-Nachrichten im Schulnetz austauschen.
+SchILDChat unterstützt den Nachrichtenaustausch im Schulnetz. Die verlinkte Anleitung beschreibt den Aufruf und die Verwendung des Chatmoduls.
 
 ## Themen
 

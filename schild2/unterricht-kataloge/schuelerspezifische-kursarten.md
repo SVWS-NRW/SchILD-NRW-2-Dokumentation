@@ -12,7 +12,7 @@ Der Katalog der zur Verfügung stehenden Kursarten wird aus der Statistik-Datenb
 
 Bitte informieren Sie sich über das Schlüsselverzeichnis von IT.NRW zu den an Ihrer Schulform benötigten Kursarten!
 
-Die Kursarten sind deshalb schülerspezifisch, weil es u.U. eine übergeordnete Kursart zum Kurs geben kann, die dann beim Schülerdatensatz nochmals unterschieden werden muss.
+Die Kursarten sind deshalb schülerspezifisch, weil es unter Umständen eine übergeordnete Kursart zum Kurs geben kann, die dann beim Schülerdatensatz nochmals unterschieden werden muss.
 
 Ein Beispiel wäre der Grundkurs in der gymnasialen Oberstufe, der zur Berechnung des Abiturs bei den Schülern dann aber als Grundkurs schriftlich (GKS) oder Grundkurs mündlich (GKM) eingetragen werden muss.
 

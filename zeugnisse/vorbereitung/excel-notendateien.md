@@ -4,13 +4,15 @@ title: "Excel-Notendateien"
 
 # Excel-Notendateien
 
+Mit Excel-Notendateien geben Sie Leistungsdaten zur Bearbeitung aus und lesen sie anschließend wieder ein. Die folgenden Hinweise erklären, welche Angaben die Dateien enthalten und worauf Sie beim Austausch achten müssen.
+
 **Informationen zum Excel-Notenimport und -export:**
 
 Zur Noteneingabe können jetzt auch Excel-Dateien verwendet werden. Hierzu steht ein neuer Menüpunkt "Datenaustausch\>\>Excel-Notendateien" mit den Untereinträgen "Export" und "Import" zur Verfügung. Folgende Punkte sind zu beachten:
 
 <a id="excel-export"></a>
 
-- Der Export bezieht sich immer auf die aktuell ausgewählte Schülermenge.
+- Der Export bezieht sich immer auf die aktuell ausgewählte Schülergruppe.
 - Es werden (anders als beim Export für das ext. Notenmodul) keine "lehrerbezogenen" Dateien erzeugt.
 - Die Dateien haben folgenden Spalten-Aufbau:
 

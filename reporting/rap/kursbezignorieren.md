@@ -11,22 +11,20 @@ title: "KursBezIgnorieren"
 
 ## Beschreibung
 
-```pascal
-Procedure KursBezIgnorieren(Const Ignore : Boolean);
-```
-
-
 Durch den Aufruf dieser Prozedur wird bei der Einsortierung
 der Leistungsdaten in die Leistungsübersichten die Kursbezeichnung
 ignoriert. Diese Prozedur ist nur im Zusammenhang mit SetUebersicht
 notwendig und sinnvoll. Standardmäßig wird die Kursbezeichnung berücksichtigt.
+
+```pascal
+Procedure KursBezIgnorieren(Const Ignore : Boolean);
+```
 
 ## Parameter
 
 | Parameter | Bedeutung |
 | --- | --- |
 | `ignore` | wahr-&gt; Kursarten ignorieren |
-
 
 ## Beispiel
 
@@ -43,7 +41,6 @@ Procedure ReportBeforePrint;
    KursBezIgnorieren(False);
  end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

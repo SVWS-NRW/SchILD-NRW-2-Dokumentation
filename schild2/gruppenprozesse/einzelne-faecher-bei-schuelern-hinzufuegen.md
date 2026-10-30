@@ -6,9 +6,9 @@ title: "Einzelne Fächer hinzufügen"
 
 # Einzelne Fächer hinzufügen
 
-Mit dem Aufruf des Gruppenprozesses "Einzelne Fächer bei Schülern hinzufügen" erscheint das Eingabefenster "Einzelfach nachtragen".
+Hier tragen Sie ein einzelnes Unterrichtsfach bei mehreren ausgewählten Personen nach. Die vorhandenen Leistungsdaten bilden dabei den Ausgangspunkt; das Eingabefenster heißt **Einzelfach nachtragen**.
 
-Dieser Gruppenprozess ermöglicht das Ergänzen eines einzelnen Faches im jeweils ausgewählten Schuljahr und Abschnitt bei der selektierten Schülergruppe. Dies kann zum Beispiel notwendig sein, wenn sich zum Halbjahr die Unterrichtsverteilung ändert und zusätzlicher Unterricht gegeben wird.
+Dieser Gruppenprozess ermöglicht das Ergänzen eines einzelnen Faches im jeweils ausgewählten Schuljahr und Abschnitt bei der ausgewählten Schülergruppe. Dies kann zum Beispiel notwendig sein, wenn sich zum Halbjahr die Unterrichtsverteilung ändert und zusätzlicher Unterricht gegeben wird.
 
 ![GP-FaecherShinzufuegen](/bilder/schild2/gruppenprozesse/gp-faechershinzufuegen.jpg)
 

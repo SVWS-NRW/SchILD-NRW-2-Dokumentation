@@ -4,11 +4,11 @@ title: "Kataloge"
 
 # Kataloge
 
+Kataloge sind gemeinsame Auswahllisten, etwa für Fächer, Orte oder Vermerkarten. Sie sorgen dafür, dass dieselbe Angabe nicht bei jeder Person neu und möglicherweise anders geschrieben werden muss. Hier lernen Sie die gemeinsame Bedienung dieser Listen kennen.
+
 ![Kataloge_01](/bilder/einstieg/grundlagen/kataloge-01.jpg)
 
-Schild-NRW ist ein Schulverwaltungsprogramm mit einem relationalen Datenbanksystem, das heißt, dass viele Einträge, die mehrere Schüler betreffen, aus sogenannten Katalogen entnommen werden müssen. Vorteil dieser Vorgehensweise ist, dass Einträge dann immer eindeutig vorgegeben sind und später auch durch eine Suche wiedergefunden werden können.
-
-Bei den Katalogen ist zu beachten, dass es frei definierbare Kataloge gibt und solche, die z.B. aufgrund von Statistikdaten feststehen, diese können dann nicht durch den Benutzer ergänzt oder verändert werden (sog. abgeschlossene Kataloge).
+Bei den Katalogen ist zu beachten, dass es frei definierbare Kataloge gibt und solche, die zum Beispiel aufgrund von Statistikdaten feststehen, diese können dann nicht durch den Benutzer ergänzt oder verändert werden (sogenannte abgeschlossene Kataloge).
 
 ![SortierungKatalog](/bilder/schild2/unterricht-kataloge/sortierungkatalog.jpg)
 

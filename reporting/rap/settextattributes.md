@@ -11,6 +11,8 @@ title: "SetTextAttributes"
 
 ## Beschreibung
 
+Bearbeitet die Textattribute eines Richtextelements. Das betreffende Element wird über den Parameter `aText` übergeben.
+
 ```pascal
 procedure SetTextAttributes(aText: TppCustomRichText);
 ```
@@ -20,7 +22,6 @@ procedure SetTextAttributes(aText: TppCustomRichText);
 | Parameter | Bedeutung |
 | --- | --- |
 | `aText` | Richtextelement |
-
 
 ## Beispiel
 
@@ -32,7 +33,6 @@ Richtext1.Font.Italic:=True;
 SetTextattributes(Richtext1);
 Formatiert den gesamten Text des Richtextelementes in dem gewünschten Zeichensatz.
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

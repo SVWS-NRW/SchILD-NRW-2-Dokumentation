@@ -11,14 +11,13 @@ title: "Praktikumstage"
 
 ## Beschreibung
 
-```pascal
-function PraktikumsTage( const nur_betriebspraktikum: boolean): integer;
-```
-
-
 Liefert die Anzahl der Praktikumstage eines Schülers (optional nur solche mit
 Kennung „Betriebspraktikum“). Voraussetzung ist, dass das Praktikum bei dem
 jeweiligen Betrieb als solches gekennzeichnet ist (mit Anfangs- und Enddatum)
+
+```pascal
+function PraktikumsTage( const nur_betriebspraktikum: boolean): integer;
+```
 
 ## Rückgabewert
 
@@ -33,7 +32,6 @@ procedure DetailBeforePrint;
  LblPraktikumstage.Text := IntToStr( Praktikumstage( false ) );
 End;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

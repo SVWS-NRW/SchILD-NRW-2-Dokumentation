@@ -11,6 +11,8 @@ title: "FilterAdressArt"
 
 ## Beschreibung
 
+Grenzt die berücksichtigten Adressen auf die angegebene Adressart ein. Die Adressart wird als Text übergeben.
+
 ```pascal
 procedure FilterAdressArt(aAdressArt: String);
 ```
@@ -21,11 +23,9 @@ procedure FilterAdressArt(aAdressArt: String);
 | --- | --- |
 | `aAdressArt` | Adressart, auf die gefiltert werden soll |
 
-
 ## Beispiel
 
 Siehe [SelectAdressArt](/reporting/rap/selectadressart).
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

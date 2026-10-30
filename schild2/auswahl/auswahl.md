@@ -6,7 +6,7 @@ title: "Menü Auswahl"
 
 # Menü Auswahl
 
-Der Menüpunkt "Auswahl" hat besondere Bedeutung, da es im Schulalltag häufig nötig ist, die Schülermenge einzugrenzen. Dies ist vor allem bei der Durchführung von [Gruppenprozessen](/schild2/gruppenprozesse/gruppenprozesse) nötig, oder um Listen zu erstellen, die z.B. nur die evangelischen Schüler eines Jahrgangs oder die Aussiedler an der Schule enthalten sollen. Schild-NRW bietet dazu verschiedene Möglichkeiten an, um diese Eingrenzungen vorzunehmen.
+Der Menüpunkt "Auswahl" hat besondere Bedeutung, da es im Schulalltag häufig nötig ist, die Schülergruppe einzugrenzen. Dies ist vor allem bei der Durchführung von [Gruppenprozessen](/schild2/gruppenprozesse/gruppenprozesse) nötig, oder um Listen zu erstellen, die zum Beispiel nur die evangelischen Schüler eines Jahrgangs oder die Aussiedler an der Schule enthalten sollen. Schild-NRW bietet dazu verschiedene Möglichkeiten an, um diese Eingrenzungen vorzunehmen.
 
 ![Auswahl_01](/bilder/einstieg/grundlagen/auswahl-01.jpg)
 

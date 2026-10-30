@@ -11,6 +11,8 @@ title: "ThemaProjektKurs"
 
 ## Beschreibung
 
+Liefert das bei den Leistungsdaten des Fachs hinterlegte Thema des Projektkurses.
+
 ```pascal
 function ThemaProjektkurs
 ```
@@ -26,7 +28,6 @@ Begin
  Text := ThemaProjektkurs;
 End;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

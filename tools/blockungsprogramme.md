@@ -1,6 +1,6 @@
 # Externe Blockungsprogramme
 
-Externe Programme zur Blockung und Kursplanung einsetzen.
+Diese Übersicht stellt ergänzende Programme zur Kursblockung vor. Dabei werden Kursdaten aus Kurs42 ausgegeben, für die Planung bearbeitet und anschließend wieder übernommen.
 
 ## Themen
 

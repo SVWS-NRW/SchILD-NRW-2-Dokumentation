@@ -4,9 +4,9 @@ title: "SQL-Befehle eingeben"
 
 # SQL-Befehle eingeben
 
-Für erfahrene User mit SQL-Kenntnissen steht dieser spezielle Menüpunkt zur Verfügung.
+Hier lassen sich Datenbankbefehle direkt eingeben und ausführen. SQL ist die Sprache für solche Befehle. Dieser Zugang richtet sich an Personen mit SQL-Kenntnissen; für die normale Dateneingabe verwenden Sie die Eingabefenster von SchILD-NRW 2.
 
-In diesem Dialog können SQL-Befehle direkt auf die Datenbank ausgeführt werden und das Abfrageergebnis u.U. in eine Exceltabelle exportiert werden.
+In diesem Dialog können SQL-Befehle direkt auf die Datenbank ausgeführt werden und das Abfrageergebnis unter Umständen in eine Exceltabelle exportiert werden.
 
 Bitte beachten Sie, dass solche SQL-Befehle z.T. auch in die Datenbank schreiben können und dort erheblichen Schaden anrichten können.
 

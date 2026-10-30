@@ -30,23 +30,23 @@ Ganz oben in der Liste finden Sie den Dateityp **Archivdatei**. Mit dieser Auswa
 
 ![Druck-Druckauswahl](/bilder/reporting/verwaltung/druck-druckauswahl.png)
 
-Im Menü bzw. in der Symbolleiste des Reportexplorers finden Sie natürlich noch weitere Aktionen, die Sie aufrufen können.
+Im Menü beziehungsweise in der Symbolleiste des Reportexplorers finden Sie natürlich noch weitere Aktionen, die Sie aufrufen können.
 
 ![Explorer-Symbole](/bilder/reporting/verwaltung/explorer-symbole.png)
 
 Einen bestehenden Report können Sie bearbeiten, wenn Sie auf das Symbol ![Report-bearbeiten](/bilder/reporting/verwaltung/report-bearbeiten.png) klicken. Weitere Informationen zum Anpassen von Reports finden Sie unter: [Reporting im Überblick](/reporting/erstellung/reporting)
 
-Mit Hilfe der Symbole ![Zeichensatz-anpassen](/bilder/reporting/verwaltung/zeichensatz-anpassen.png) kann einem ganzen Formular eine andere Schriftart bzw. eine andere Schriftgröße zugewiesen werden.
+Mit Hilfe der Symbole ![Zeichensatz-anpassen](/bilder/reporting/verwaltung/zeichensatz-anpassen.png) kann einem ganzen Formular eine andere Schriftart beziehungsweise eine andere Schriftgröße zugewiesen werden.
 
-Ergänzt oder verändert man den Ordner Schild-Reports während der Arbeit mit Schild, z.B., wenn man aktuelle Formulare von der Internetseite herunterlädt, wird der Verzeichnisbaum im Reportexplorer erst nach erneutem Öffnen aktualisiert. Mit dem Klicken auf das Symbol ![Verzeichnisbaum-aktualisieren](/bilder/reporting/verwaltung/verzeichnisbaum-aktualisieren.png) erzwingt man das Aktualisieren.
+Ergänzt oder verändert man den Ordner Schild-Reports während der Arbeit mit Schild, zum Beispiel, wenn man aktuelle Formulare von der Internetseite herunterlädt, wird der Verzeichnisbaum im Reportexplorer erst nach erneutem Öffnen aktualisiert. Mit dem Klicken auf das Symbol ![Verzeichnisbaum-aktualisieren](/bilder/reporting/verwaltung/verzeichnisbaum-aktualisieren.png) erzwingt man das Aktualisieren.
 
 Eine Änderung der eingegebenen Daten wird nicht unbedingt sofort in ein Formular übernommen. Mit ![Abfrage-aktualisieren](/bilder/reporting/verwaltung/abfrage-aktualisieren.png) wird die Abfrage der Datenbank erneut ausgeführt und das Programm sollte die aktuellen Daten im Zugriff haben.
 
-Manchen (vorgeblichen) Fehler kann man beheben, indem man die Einstellungen (Symbol: ![Symbol-Einstellungen](/bilder/reporting/verwaltung/symbol-einstellungen.png) oder über Extras im Fenster Formularverwaltung) des Reportexplorers verändert. Erscheint beispielsweise das Fach Religionslehre doppelt, so sollte das Häkchen im Einstellungsfenster entfernt werden.
+Manchen (vorgeblichen) Fehler können Sie beheben, indem man die Einstellungen (Symbol: ![Symbol-Einstellungen](/bilder/reporting/verwaltung/symbol-einstellungen.png) oder über Extras im Fenster Formularverwaltung) des Reportexplorers verändert. Erscheint beispielsweise das Fach Religionslehre doppelt, so sollte das Häkchen im Einstellungsfenster entfernt werden.
 
 ![Explorer-Einstellungen](/bilder/reporting/verwaltung/explorer-einstellungen.png)
 
-Informationen über die Datenquellen erhält man mit dem Klick auf das Symbol ![Symbol-Datenquellen](/bilder/reporting/verwaltung/symbol-datenquellen.png). Es erscheint eine Liste mit einer näheren Beschreibung der zur Verfügung stehenden Datenquellen.
+Informationen über die Datenquellen erhalten Sie mit dem Klick auf das Symbol ![Symbol-Datenquellen](/bilder/reporting/verwaltung/symbol-datenquellen.png). Es erscheint eine Liste mit einer näheren Beschreibung der zur Verfügung stehenden Datenquellen.
 
 ![Informationen-Datenquellen](/bilder/reporting/verwaltung/informationen-datenquellen.png)
 

@@ -2,6 +2,7 @@ import { spawn } from 'node:child_process'
 import fs from 'node:fs/promises'
 import assert from 'node:assert/strict'
 import { checkSectionMenus, checkToolsTree } from './section-browser.mjs'
+import { checkEditorialNavigation } from './editorial-browser.mjs'
 import { checkPetrolTheme } from './petrol-browser.mjs'
 const { chromium } = await import(process.env.PLAYWRIGHT_MODULE || 'playwright')
 const base = 'http://127.0.0.1:4192'
@@ -62,6 +63,7 @@ try {
   await checkPetrolTheme(page,base)
   await checkSectionMenus(page,base)
   await checkToolsTree(page,base)
+  await checkEditorialNavigation(page,base)
   await page.goto(base+'/schild2/import-export-statistik/schnittstellenbeschreibung.html',{waitUntil:'networkidle'})
   assert(await page.locator('.interface-fields').count()>20,'Feldtabellen müssen ihre tatsächliche Layoutklasse erhalten')
   await page.locator('.interface-table-scroll').first().focus()

@@ -27,7 +27,7 @@ Ist ein Schüler volljährig, so werden beim Wechsel in die Datengruppe Erziehun
 
 Ähnliches gilt für die Gruppe Vorbildungsdaten. Hier wird der zuletzt erworbene Abschluss des Schülers eingetragen. Hat der Schüler mehr als einen Abschluss, so können weitere Abschlüsse über die Taste F9 eingegeben werden. Dies ist besonders wichtig, wenn der zuletzt erworbene Abschluss nicht der höchste ist. In diesem Fall muss unbedingt über F8 der höchste bisher erworbene Abschluss eingetragen werden, da dieser bei den Abschlussberechnungen in SchILD-NRW benötigt wird. Selbstverständlich können Sie diese Daten auch später in SchILD-NRW nachtragen.
 
-Falls für den Schüler mehr als eine Betriebsadresse bzw. weitere Adresse eingegeben werden muss, so kann dies durch Aktivierung der Taste F10 erfolgen.
+Falls für den Schüler mehr als eine Betriebsadresse beziehungsweise weitere Adresse eingegeben werden muss, so kann dies durch Aktivierung der Taste F10 erfolgen.
 
 Um die neuen Schülerdaten in die Datenbank zu übernehmen, aktivieren Sie die Taste F4.
 
@@ -49,9 +49,9 @@ Hinweis: Die Suchfunktion über die Taste F7 steht nicht zur Verfügung, wenn Si
 
 ## Katalog-Einträge ergänzen
 
-Falls Sie bei der Eingabe feststellen, dass der Wohnort (bzw. die Postleitzahl), die zuletzt besuchte Schule oder die Betriebsadresse des Schülers noch nicht in den entsprechenden Katalogen hinterlegt ist, so können Sie die Kataloge ergänzen. Voraussetzung ist aber, dass Sie in der Benutzerverwaltung von SchILD-NRW das Recht zum Ändern von Katalogen haben.
+Falls Sie bei der Eingabe feststellen, dass der Wohnort (beziehungsweise die Postleitzahl), die zuletzt besuchte Schule oder die Betriebsadresse des Schülers noch nicht in den entsprechenden Katalogen hinterlegt ist, so können Sie die Kataloge ergänzen. Voraussetzung ist aber, dass Sie in der Benutzerverwaltung von SchILD-NRW das Recht zum Ändern von Katalogen haben.
 
-Um einen der genannten Kataloge zu ergänzen, wählen Sie das entsprechende Feld aus (z.B. PLZ bei den Personen- oder Erzieherdaten). Aktvieren Sie nun die Taste Einfg. Es öffnet sich ein separates Fenster, in dem Sie den fehlenden Eintrag eingeben können. Anschließend steht der neue Eintrag zur Auswahl zur Verfügung.
+Um einen der genannten Kataloge zu ergänzen, wählen Sie das entsprechende Feld aus (zum Beispiel PLZ bei den Personen- oder Erzieherdaten). Aktvieren Sie nun die Taste Einfg. Es öffnet sich ein separates Fenster, in dem Sie den fehlenden Eintrag eingeben können. Anschließend steht der neue Eintrag zur Auswahl zur Verfügung.
 
 ------------------------------------------------------------------------
 

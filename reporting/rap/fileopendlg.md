@@ -9,31 +9,30 @@ title: "FileOpenDlg"
 
 ## Beschreibung
 
+Öffnet einen Dialog zur Auswahl einer zu öffnenden Datei. Das Ergebnis enthält deren Pfad und Dateinamen; ein Abbruch liefert eine leere Zeichenkette.
+
 ```pascal
 function FileOpenDlg(const aFilename, aInitialDir,
                            aFilter: String): String;
 ```
 
-
 ## Parameter
 
 | Parameter | Bedeutung |
 | --- | --- |
-| `aFilename` | Name der zu öffnenden Datei, evtl. mit Platzhaltern |
+| `aFilename` | Name der zu öffnenden Datei, gegebenenfalls mit Platzhaltern |
 | `aInitialDir` | Startverzeichnis, Leerer String öffnet im aktuellen Verzeichnis |
 | `aFilter` | Dateinamenfilter |
 
-
 ## Rückgabewert
 
-Pfad plus Name der zu öffnenden Datei, leerer String, wenn der Dialog ab
+Pfad plus Name der zu öffnenden Datei, leere Zeichenkette, wenn der Dialog abgebrochen wird.
 
 ## Beispiel
 
 ```pascal
 Fn:=FileOpenDlg('*.txt','c:\Text','Textdateien|*.txt|Alle Dateien|*.*');
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

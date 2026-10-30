@@ -6,7 +6,7 @@ title: "Versetzung und Abschlüsse berechnen"
 
 # Versetzung und Abschlüsse berechnen
 
-Dieser Gruppenprozess wird nach der Noteneingabe benötigt, um für die aktuell ausgewählte Schülermenge die entsprechenden Versetzungsberechnungen durchzuführen. Man sollte vorher unter "Noten, Zeugnisvorbereitung" den Gruppenprozess [Fächer ohne Noten suchen](/zeugnisse/vorbereitung/faecher-ohne-noten-suchen) durchführen, um Fehlermeldungen aufgrund fehlender Noteneinträge zu vermeiden.
+Dieser Gruppenprozess wird nach der Noteneingabe benötigt, um für die aktuell ausgewählte Schülergruppe die entsprechenden Versetzungsberechnungen durchzuführen. Man sollte vorher unter "Noten, Zeugnisvorbereitung" den Gruppenprozess [Fächer ohne Noten suchen](/zeugnisse/vorbereitung/faecher-ohne-noten-suchen) durchführen, um Fehlermeldungen aufgrund fehlender Noteneinträge zu vermeiden.
 
 Grundlage für die Berechnungen ist die in der Klassen- und Versetzungstabelle für die betreffende Klasse eingestellte Prüfungsordnung. (zu finden unter \> [Schulverwaltung](/schild2/unterricht-kataloge/schulverwaltung) \> [Klassen und Versetzungstabelle](/schild2/unterricht-kataloge/klassen-versetzungstabelle) \> Details)
 

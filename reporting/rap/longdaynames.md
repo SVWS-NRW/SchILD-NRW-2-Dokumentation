@@ -11,6 +11,8 @@ title: "LongDayNames"
 
 ## Beschreibung
 
+Gibt den ausgeschriebenen Namen eines Wochentags zurück. Die übergebene Zahl bestimmt den Wochentag.
+
 ```pascal
 function LongDayNames(aTag: Integer): String;
 ```
@@ -21,7 +23,6 @@ function LongDayNames(aTag: Integer): String;
 | --- | --- |
 | `aTag` | Nr. des Wochentages (1=Sonntag,..., 7=Samstag) |
 
-
 ## Rückgabewert
 
 Langname des Wochentages
@@ -31,7 +32,6 @@ Langname des Wochentages
 ```pascal
 Label27.Caption:=LongDayNames(1); //(*Sonntag*)
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

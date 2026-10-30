@@ -11,6 +11,8 @@ title: "SelectString"
 
 ## Beschreibung
 
+Zeigt eine Auswahlliste mit vorgegebenen Texten an und liefert den gewählten Eintrag zurück. Die Einträge werden als durch Kommas getrennte Liste übergeben.
+
 ```pascal
 function SelectString(Prompt, Optionsliste: String): String;
 ```
@@ -21,7 +23,6 @@ function SelectString(Prompt, Optionsliste: String): String;
 | --- | --- |
 | `Prompt` | Hinweistext |
 | `Optionsliste` | Mit Komma separierte Liste von Zeichenketten, die in einem Auswahldialog angezeigt werden. |
-
 
 ## Rückgabewert
 
@@ -37,7 +38,6 @@ begin
   lSchulform:=SelectString('Bitte Schulform wählen',
  'Gymnasium,Realschule,Hauptschule')
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

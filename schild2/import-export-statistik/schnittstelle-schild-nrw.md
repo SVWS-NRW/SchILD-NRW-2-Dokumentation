@@ -6,7 +6,7 @@ title: "Datenaustausch über die SchILD-Schnittstelle"
 
 # Datenaustausch über die SchILD-Schnittstelle
 
-Die Schnittstelle Schild-NRW wurde ursprünglich zum Import bzw. Export der statistikrelevanten Daten eingeführt.
+Die Schnittstelle Schild-NRW wurde ursprünglich zum Import beziehungsweise Export der statistikrelevanten Daten eingeführt.
 
 Mittlerweile lassen sich darüber aber die meisten (nicht alle!) Schüler- und Lehrerdaten importieren und exportieren.
 
@@ -14,7 +14,7 @@ Mittlerweile lassen sich darüber aber die meisten (nicht alle!) Schüler- und L
 
 Die Schnittstelle ist in Textdateien mit der Endung \*.dat aufgebaut, die durch ein \| (Pipe) als Trennzeichen gegliedert sind.
 
-Die Textdateien können im ANSI oder UTF-8 gespeichert werden, beide Formate werden eingelesen. Bitte achten Sie bei den UTF-8- (Unicode)- Dateien darauf, dass diese mit BOM (ByteOrderMark) gespeichert werden. (Dies ist bei einigen Tabellenprogrammen, z.B. LibreOffice, nicht immer der Fall.)
+Die Textdateien können im ANSI oder UTF-8 gespeichert werden, beide Formate werden eingelesen. Bitte achten Sie bei den UTF-8- (Unicode)- Dateien darauf, dass diese mit BOM (ByteOrderMark) gespeichert werden. (Dies ist bei einigen Tabellenprogrammen, zum Beispiel LibreOffice, nicht immer der Fall.)
 
 Der Aufbau der Textdateien ist vorgegeben und kann in der **[Dateien und Felder der Textschnittstelle](/schild2/import-export-statistik/schnittstellenbeschreibung)** nachgeschlagen werden.
 

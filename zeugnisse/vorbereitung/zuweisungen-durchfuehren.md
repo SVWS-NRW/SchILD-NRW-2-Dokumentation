@@ -8,7 +8,7 @@ title: "Fach- und Förderunterricht zuweisen"
 
 Dieser Gruppenprozess steht den differenzierenden Schulformen zur Verfügung und dient der gruppenweisen Zuweisung von Fach- und Förderunterricht.
 
-Man selektiert die gewünschte Schülergruppe und weist dieser dann nach Auswahl des Faches einem 'G-Kurs', einem 'E-Kurs' oder 'Fachbezogenem...' bzw. 'Fachunabhängigem Förderunterricht' zu.
+Man ausgewählt die gewünschte Schülergruppe und weist dieser dann nach Auswahl des Faches einem 'G-Kurs', einem 'E-Kurs' oder 'Fachbezogenem...' beziehungsweise 'Fachunabhängigem Förderunterricht' zu.
 
 Diese Zuweisungen finden sich dann auf Zeugnissen im Unterpunkt 'Zuweisungen' wieder.
 

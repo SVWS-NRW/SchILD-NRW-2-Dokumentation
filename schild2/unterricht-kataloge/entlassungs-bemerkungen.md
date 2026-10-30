@@ -6,11 +6,11 @@ title: "Entlassungsbemerkungen"
 
 # Entlassungsbemerkungen
 
-Die, auf der Registerkarte "Schulbesuch" im Unterpunkt "Entlassung von eigener Schule" -\> "Bemerkung/Entlassgrund" zur VErfügung stehenden Einträge, müssen in diesem Katalog zuerst bereitgestellt werden.
+In diesem Katalog legen Sie die Texte fest, die später als Bemerkung oder Entlassgrund ausgewählt werden können. Die Auswahl erfolgt beim Schüler unter **Schulbesuch → Entlassung von eigener Schule**.
 
 ![Entlassgründe](/bilder/schild2/unterricht-kataloge/entlassgrunde.jpg)
 
-Sollten sie weitere Einträge ergänzen wollen (wie z.B. "Bildungsabbruch" an den BKs), können Sie das hier durch Anklicken des "+"-Zeichens tun.
+Sollten Sie weitere Einträge ergänzen wollen (wie zum Beispiel "Bildungsabbruch" an den BKs), können Sie das hier durch Anklicken des "+"-Zeichens tun.
 
 Die Anzeige-Reihenfolge im 'Drop-Down-Menü' können Sie hier ebenfalls einstellen.
 

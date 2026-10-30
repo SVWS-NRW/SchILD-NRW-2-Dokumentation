@@ -6,7 +6,7 @@ title: "Abgänger mit fehlendem Lernabschnitt"
 
 # Abgänger mit fehlendem Lernabschnitt
 
-Bei Auswahl dieser Filtermöglichkeit werden Ihnen unter allen Abgängern bzw. Schülern mit Abschluss alle die mit fehlendem Abschnitt angezeigt.
+Bei Auswahl dieser Filtermöglichkeit werden Ihnen unter allen Abgängern beziehungsweise Schülern mit Abschluss alle die mit fehlendem Abschnitt angezeigt.
 
 Dies könnte unter Umständen interessant für die Erstellung der Sim.txt im Rahmen der Schulstatistik ASDPC sein.
 

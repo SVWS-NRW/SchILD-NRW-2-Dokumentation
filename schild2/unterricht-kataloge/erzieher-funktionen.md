@@ -6,9 +6,11 @@ title: "Funktionen von Erziehungsberechtigten"
 
 # Funktionen von Erziehungsberechtigten
 
-Es ist zwischen Erzieherarten (unter Kataloge "Erzieher-Arten" wie z.B. Eltern, Mutter, usw.) und Erzieherfunktionen zu unterscheiden.
+Erzieherfunktionen beschreiben Aufgaben an der Schule, zum Beispiel eine Tätigkeit als Elternvertretung. Sie sind von Erzieherarten zu unterscheiden: Diese beschreiben das Verhältnis zum Kind, etwa Mutter oder Vater.
 
-Im Fenster „Erzieher-Funktionen bearbeiten“ können frei formulierbare Eingaben unter „Funktion“ gemacht werden (z.B. Klassenpflegschaft, Schulkonferenz, Mitglied Förderverein, Vorsitz Förderverein, Schulpflegschaftsvorsitzende/-r, usw.), die dann bei „Erzieher mit schulinternen Funktionen“ verwendet und den Erziehungsberechtigten bei "Funktion" auf der Erzieher-Karte zugeordnet werden.
+Es ist zwischen Erzieherarten (unter Kataloge "Erzieher-Arten" wie zum Beispiel Eltern, Mutter, usw.) und Erzieherfunktionen zu unterscheiden.
+
+Im Fenster „Erzieher-Funktionen bearbeiten“ können frei formulierbare Eingaben unter „Funktion“ gemacht werden (zum Beispiel Klassenpflegschaft, Schulkonferenz, Mitglied Förderverein, Vorsitz Förderverein, Schulpflegschaftsvorsitzende/-r, usw.), die dann bei „Erzieher mit schulinternen Funktionen“ verwendet und den Erziehungsberechtigten bei "Funktion" auf der Erzieher-Karte zugeordnet werden.
 
 Es ist ratsam (und nötig), vor der Eingabe der Schülerdaten erst die „Erzieher-Arten“ (bei Kataloge) und die „Erzieher-Funktionen“ (bei Menü Schulverwaltung) einzutragen. Nur mit solchen Vorgaben ist ein zügiges Datenerfassen erst möglich.
 

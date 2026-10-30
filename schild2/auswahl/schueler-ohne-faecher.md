@@ -10,7 +10,7 @@ Dabei werden nach der Ausführung und Angabe des Abschnittes, in dem gesucht wer
 
 Diese Funktion kann nicht dazu verwendet werden, Schüler zu finden, die eine unvollständige Unterrichtsverteilung in ihren Leistungsdaten haben.
 
-Hier werden lediglich Schüler gefunden, die z.B. mitten im Schuljahr hinzugezogen sind und bei denen noch keine Fächer für den Zeugnisdruck zugewiesen wurden.
+Hier werden lediglich Schüler gefunden, die zum Beispiel mitten im Schuljahr hinzugezogen sind und bei denen noch keine Fächer für den Zeugnisdruck zugewiesen wurden.
 
 ------------------------------------------------------------------------
 

@@ -4,7 +4,7 @@ title: "Klassenlehrer aktualisieren"
 
 # Klassenlehrer aktualisieren
 
-Bei Auswahl dieses Gruppenprozesses wird der in der Klassentabelle für die Klasse eingetragene jeweilige Klassenlehrer bei den Lernabschnittsdaten der ausgewählten Schülermenge im eingestellten (aktuellen) Halbjahr aktualisiert.
+Bei Auswahl dieses Gruppenprozesses wird der in der Klassentabelle für die Klasse eingetragene jeweilige Klassenlehrer bei den Lernabschnittsdaten der ausgewählten Schülergruppe im eingestellten (aktuellen) Halbjahr aktualisiert.
 
 ------------------------------------------------------------------------
 

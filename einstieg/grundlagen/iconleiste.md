@@ -6,6 +6,8 @@ title: "Symbolleiste"
 
 # Symbolleiste
 
+Die Symbolleiste bietet direkten Zugriff auf häufige Funktionen. Die folgende Übersicht erklärt die Symbole in ihrer Reihenfolge von links nach rechts. Nutzen Sie sie zum Nachschlagen, wenn Sie ein Symbol noch nicht kennen.
+
 ![Iconleiste](/bilder/einstieg/grundlagen/iconleiste.jpg)
 
 Die Symbole bedeuten (von links nach rechts):

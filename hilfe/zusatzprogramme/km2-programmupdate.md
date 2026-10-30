@@ -43,7 +43,7 @@ Die einfachste Variante für ein Programm-Update kann mit Hilfe des Programms KM
 *Es gibt eine neue Version!*
 
 
-4. Es werden Ihnen alle Teile des Update-Pakets angezeigt, die Sie ggf. einzeln für den Download ab- oder anwählen können In diesem Fall handelt es sich nur um eine ausführbare Datei, die nicht abgewählt werden kann. Klicken Sie → **Weiter**. Das eigentliche Update wird nun ausgeführt.
+4. Es werden Ihnen alle Teile des Update-Pakets angezeigt, die Sie gegebenenfalls einzeln für den Download ab- oder anwählen können In diesem Fall handelt es sich nur um eine ausführbare Datei, die nicht abgewählt werden kann. Klicken Sie → **Weiter**. Das eigentliche Update wird nun ausgeführt.
 
 
 ![KM2_Update_04](/bilder/tools/km2/km2-update-04.png)

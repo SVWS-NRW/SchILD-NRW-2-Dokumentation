@@ -4,7 +4,7 @@ title: "Kurs42: Zusammenspiel mit SchILD und LuPO"
 
 # Zusammenspiel mit SchILD und LuPO
 
-Die drei Programme haben unterschiedliche Aufgaben und betrachten unterschiedliche Zeiträume:
+SchILD, LuPO und Kurs42 bearbeiten unterschiedliche Teile der Oberstufenplanung. Diese Anleitung erklärt, welche Daten zwischen den Programmen ausgetauscht werden und in welcher Reihenfolge die Arbeitsschritte zusammenpassen.
 
 | Programm | Aufgabe |
 | --- | --- |

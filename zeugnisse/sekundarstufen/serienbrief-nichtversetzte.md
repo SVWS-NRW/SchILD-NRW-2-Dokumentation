@@ -25,8 +25,8 @@ Es werden daraufhin alle Schülerinnen und Schüler gefiltert, die ein Anschreib
 
 Im Ordner *Serienbriefe* finden sie den Unterordner *RTF-Serienbriefvorlagen ➜ Nichtversetzung*. Dieser enthält alle schulformspezifischen Anschreiben an nichtversetzte Schülerinnen und Schüler. Die Dateinamen enthalten verschiedene Informationen:
 
-- Schulform oder Schulgliederung (z.B. GY)
-- Jahrgangsbereich (z.B. 07-10)
+- Schulform oder Schulgliederung (zum Beispiel GY)
+- Jahrgangsbereich (zum Beispiel 07-10)
 - NV (nicht versetzt)
 - NP (Nachprüfungsmöglichkeit)
 - SV (Schulformwechsel)
@@ -34,7 +34,7 @@ Im Ordner *Serienbriefe* finden sie den Unterordner *RTF-Serienbriefvorlagen ➜
 - SV (Schule verlassen)
 - VJ (Brief an volljährige)
 
-Jeder Brief kann inhaltlich in einem RTF-Editor (z.B. WordPad) an die eigenen Bedürfnisse angepasst werden. Die RTF-Editoren unterscheiden sich teils deutlich in der Menge des RTF-Codes, der erzeugt wird. Es ist zu empfehlen, hier auf einen sparsamen RTF-Editoren zurückzugreifen. Sie können RTF-Dokumente auch im Reportdesigner öffnen, bearbeiten und speichern.
+Jeder Brief kann inhaltlich in einem RTF-Editor (zum Beispiel WordPad) an die eigenen Bedürfnisse angepasst werden. Die RTF-Editoren unterscheiden sich teils deutlich in der Menge des RTF-Codes, der erzeugt wird. Es ist zu empfehlen, hier auf einen sparsamen RTF-Editoren zurückzugreifen. Sie können RTF-Dokumente auch im Reportdesigner öffnen, bearbeiten und speichern.
 
 <a id="Serienbrief_Nichtversetzte"></a>
 

@@ -6,7 +6,7 @@ title: "Wiki-Kategorie LuPO"
 
 # Wiki-Kategorie LuPO
 
-Der Kategorie LuPO gehören alle Texte an, welche mit dem Programm LuPO zu tun haben.
+Dies ist die frühere Wiki-Kategorie zu LuPO. Die geordnete Anleitung mit Installation, Vorbereitung und Beratung finden Sie heute unter **Tools → LuPO**.
 
 ---
 

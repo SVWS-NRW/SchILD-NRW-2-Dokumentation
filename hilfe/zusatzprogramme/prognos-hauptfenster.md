@@ -6,6 +6,8 @@ title: "Analyseverfahren in PM2 auswählen"
 
 # Analyseverfahren in PM2 auswählen
 
+Im Hauptfenster von PM2 wählen Sie aus, welche Daten untersucht werden sollen: einen Einzelfall, eine Klasse oder eine Notendatei. Die folgenden Abschnitte erklären die unterschiedlichen Zugänge.
+
 <a id="Programmstart"></a>
 
 ## Programmstart
@@ -67,7 +69,7 @@ Beim JSON-Export wird die Datei unter dem Namen Test1.json in der Zwischenablage
 
 ### Prognose
 
-Im Bereich Prognose erscheinen im Symbolband drei bzw. vier Bereiche:
+Im Bereich Prognose erscheinen im Symbolband drei beziehungsweise vier Bereiche:
 
 - Analyse
 - Lernabschnitt (je nach Analyseverfahren)
@@ -80,7 +82,7 @@ Im Bereich Prognose erscheinen im Symbolband drei bzw. vier Bereiche:
 
 ![PM2_Analyse](/bilder/tools/pm2/pm2-analyse.png)
 
-Hierüber können die schon beim Programmstart angezeigten Möglichkeiten der Analyse erneut ausgewählt bzw. geändert werden:
+Hierüber können die schon beim Programmstart angezeigten Möglichkeiten der Analyse erneut ausgewählt beziehungsweise geändert werden:
 
 <a id="Lernabschnitt"></a>
 
@@ -88,7 +90,7 @@ Hierüber können die schon beim Programmstart angezeigten Möglichkeiten der An
 
 ![PM2_Lernabschnitt](/bilder/tools/pm2/pm2-lernabschnitt.png)
 
-Dieser Bereich wird eingeblendet, wenn als Analyseverfahren "Klasse" ausgewählt worden ist. Es besteht die Möglichkeit, das Schuljahr und den Lernabschnitt zu ändern. Nach einer Änderung hier werden die Daten unmittelbar eingelesen. Mittels "Einlesen" können die selektierten Daten aus der verknüpften SchILD-Datenbank erneut eingelesen (ermöglicht paralleles Arbeiten zwischen SchILD und Prognos. Denkbar z.B. wenn LB-Noten für die HA10-Berechnung nachgetragen werden sollen, und Prognos diese direkt wieder einlesen kann für eine erneute Berechnung).
+Dieser Bereich wird eingeblendet, wenn als Analyseverfahren "Klasse" ausgewählt worden ist. Es besteht die Möglichkeit, das Schuljahr und den Lernabschnitt zu ändern. Nach einer Änderung hier werden die Daten unmittelbar eingelesen. Mittels "Einlesen" können die ausgewählten Daten aus der verknüpften SchILD-Datenbank erneut eingelesen (ermöglicht paralleles Arbeiten zwischen SchILD und Prognos. Denkbar zum Beispiel wenn LB-Noten für die HA10-Berechnung nachgetragen werden sollen, und Prognos diese direkt wieder einlesen kann für eine erneute Berechnung).
 
 <a id="Optionen"></a>
 
@@ -98,11 +100,11 @@ Dieser Bereich wird eingeblendet, wenn als Analyseverfahren "Klasse" ausgewählt
 
 - Berechnen
 
-\- Löst die Abschlussberechnung bei den selektierten Datensätzen aus.
+\- Löst die Abschlussberechnung bei den ausgewählten Datensätzen aus.
 
 - Export
 
-\- Ermöglicht den Export der selektierten Daten in verschiedenen Formaten.
+\- Ermöglicht den Export der ausgewählten Daten in verschiedenen Formaten.
 
 - Ergebnisse
 
@@ -130,7 +132,7 @@ Dieser Bereich wird eingeblendet, wenn als Analyseverfahren "Klasse" ausgewählt
 
 ![PM2_Anzeige](/bilder/tools/pm2/pm2-anzeige.png)
 
-Diese Auswahlmöglichkeiten verändern das Fenster bzw. öffnen ein weiteres.
+Diese Auswahlmöglichkeiten verändern das Fenster beziehungsweise öffnen ein weiteres.
 
 - Prognosefenster
 
@@ -154,7 +156,7 @@ Diese Auswahlmöglichkeiten verändern das Fenster bzw. öffnen ein weiteres.
 
 - leere Spalten
 
-\- Durch das Ausblenden leerer Spalten wird die Anzeige komprimiert (sinnvoll z.B. bei der Anzeige des Prognoseergebnisses).
+\- Durch das Ausblenden leerer Spalten wird die Anzeige komprimiert (sinnvoll zum Beispiel bei der Anzeige des Prognoseergebnisses).
 
 <a id="SchILD"></a>
 
@@ -225,7 +227,7 @@ Weitere Einstellungen können getätigt werden:
 
 Keine dieser Optionen ist notwendig, die Option Sonderregelungen bezieht sich auf die Sonderregelungen des Schuljahres 2019/20.
 
-Beim Feld "Zusätzliche Fremdsprachenfächer" können Fremdsprachen eingetragen werden, die als normales Unterrichtsfach unterrichtet werden. Diese werden bei der Abschlussprüfung HA bzw. HA10 nicht berücksichtigt.
+Beim Feld "Zusätzliche Fremdsprachenfächer" können Fremdsprachen eingetragen werden, die als normales Unterrichtsfach unterrichtet werden. Diese werden bei der Abschlussprüfung HA beziehungsweise HA10 nicht berücksichtigt.
 
 <a id="Startmodus"></a>
 

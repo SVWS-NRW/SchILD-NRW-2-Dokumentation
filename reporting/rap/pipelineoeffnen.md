@@ -11,6 +11,8 @@ title: "PipelineOeffnen"
 
 ## Beschreibung
 
+Öffnet die angegebene Datenquelle für den Report. Der Name der Datenquelle wird als Text übergeben.
+
 ```pascal
 procedure PipelineOeffnen(aPipeline: TppDBpipeline);
 ```
@@ -21,7 +23,6 @@ procedure PipelineOeffnen(aPipeline: TppDBpipeline);
 | --- | --- |
 | `DBpipeline` | Die zu öffnende Datenquelle als Zeichenkette. |
 
-
 ## Beispiel
 
 ```pascal
@@ -30,7 +31,6 @@ procedure ReportBeforePrint;
    PipelineOeffnen( Erzieher );
  end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

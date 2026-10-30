@@ -6,7 +6,7 @@ title: "Datensicherung"
 
 Dieser Menüpunkt hilft Ihnen, in Schild-NRW eine einfache Sicherung der Datenbank durchzuführen. Damit besteht die Möglichkeit, vor oder nach größeren Arbeiten an der Datenbank eine schnelle Datensicherung durchzuführen.
 
-Die Datensicherung funktioniert nur, wenn Sie der einzige User (mit entsprechender Berechtigung) sind, der an der Datenbank angemeldet ist.
+Die Datensicherung funktioniert nur, wenn Sie der einzige Benutzer (mit entsprechender Berechtigung) sind, der an der Datenbank angemeldet ist.
 
 ![Datensicherung](/bilder/administration/datenbanken/datensicherung.jpg)
 
@@ -20,7 +20,7 @@ Bitte beachten Sie, dass mit dieser Methode ausschließlich die Access-Datenbank
 
 Alle anderen Dateien der Schild-NRW-Installation bleiben davon unberührt!
 
-**Dateien, die bei dieser Methode verloren gehen können sind z.B.:**
+**Dateien, die bei dieser Methode verloren gehen können sind zum Beispiel:**
 
 - alle Reports (!)
 - Straßenkataloge, Haltestellenkataloge, die im Installationsverzeichnis liegen

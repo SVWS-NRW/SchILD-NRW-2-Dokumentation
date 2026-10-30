@@ -10,9 +10,9 @@ title: "Daten als Text- oder Excel-Datei exportieren"
 
 <a id="exportieren"></a>
 
-Um Schild-NRW-Daten in anderen Programmen weiter verwenden zu können (z.B. Export für die Bundesjugendspiele) oder um Lehrern die Daten für ihre Klassen „Excel-fähig“ zur Verfügung stellen zu können, bietet Schild-NRW eine einfache Möglichkeit, diese Daten auf der Festplatte zu speichern.
+Um Schild-NRW-Daten in anderen Programmen weiter verwenden zu können (zum Beispiel Export für die Bundesjugendspiele) oder um Lehrern die Daten für ihre Klassen „Excel-fähig“ zur Verfügung stellen zu können, bietet Schild-NRW eine einfache Möglichkeit, diese Daten auf der Festplatte zu speichern.
 
-1.  Filtern Sie bitte zuerst die gewünschte Schülergruppe (z.B. eine Klasse über den Schnellfilter). Ansonsten wird der Export für alle aktiven Schüler ausgeführt.
+1.  Filtern Sie bitte zuerst die gewünschte Schülergruppe (zum Beispiel eine Klasse über den Schnellfilter). Ansonsten wird der Export für alle aktiven Schüler ausgeführt.
 2.  Gehen Sie unter Datenaustausch in den Menüpunkt "Export in Text-Dateien". Dort wählen Sie bitte den Punkt "Exportieren".
 3.  Nun öffnet sich der Exportdialog.
 
@@ -30,7 +30,7 @@ Wählen Sie durch Doppelklick die benötigten Datenfelder aus. Diese können auc
 
 **Ausgewählte Felder:**
 
-Mit den roten Pfeilen kann die Reihenfolge der Datenfelder, die in der Datei stehen sollen, verändert werden. Hier kann man die Reihenfolge direkt so wählen, wie sie in den Spalten der Exceltabelle gewünscht wird.
+Mit den roten Pfeilen kann die Reihenfolge der Datenfelder, die in der Datei stehen sollen, verändert werden. Hier können Sie die Reihenfolge direkt so wählen, wie sie in den Spalten der Exceltabelle gewünscht wird.
 
 **Zeugnisdaten:**
 
@@ -56,7 +56,7 @@ Stellen Sie bitte sicher, dass Sie vorher durch einen Klick auf den kleinen Ordn
 
 Schließen Sie nun den Exportdialog. Schließen oder minimieren Sie auch das Programm Schild-NRW. In der Regel können Sie diese Exportdatei nun mit einem Doppelklick in Excel öffnen.
 
-Sollte Excel nicht mit CSV-Dateien verknüpft sein, so müssen Sie Excel zuerst starten und dann über Datei \> Öffnen gehen. (Achten Sie in diesem Fall darauf, dass Sie im Auswahldialog unten die CSV-Dateien (bzw. Textdateien) und nicht nur Excel-Dateien (\*.XLS) auswählen.)
+Sollte Excel nicht mit CSV-Dateien verknüpft sein, so müssen Sie Excel zuerst starten und dann über Datei \> Öffnen gehen. (Achten Sie in diesem Fall darauf, dass Sie im Auswahldialog unten die CSV-Dateien (beziehungsweise Textdateien) und nicht nur Excel-Dateien (\*.XLS) auswählen.)
 
 '*Als Vorlage speichern* Sollten Sie die Einstellungen zu einer Exportdatei öfters benötigen, so empfiehlt es sich diese als Vorlage zu speichern. Diese kann dann später jederzeit wieder mit einer andren Schülerauswahl aus der Liste der gespeicherten Vorlagen genutzt werden.
 

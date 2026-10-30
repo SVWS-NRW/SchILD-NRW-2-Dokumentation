@@ -12,7 +12,7 @@ In der Regel werden die Daten zum Schüler einfach eingetragen. Im Folgenden wer
 
 **Status:**
 
-Dieses Feld bestimmt den "Karteikasten", in dem sich der Schüler befindet. Wollen Sie den Schüler z.B. von *Neuaufnahme* nach *Aktiv* bewegen, so stellen Sie dies an dieser Position ein.
+Dieses Feld bestimmt den "Karteikasten", in dem sich der Schüler befindet. Wollen Sie den Schüler zum Beispiel von *Neuaufnahme* nach *Aktiv* bewegen, so stellen Sie dies an dieser Position ein.
 
 Wenn Sie einen Schüler im Status verändern wollen, so muss der Zielstatus vorher auch mit in der Filterung sein. (Dieses Verhalten können Sie aber unter den Programmeinstellungen - unter "Individuelle Einstellungen" bei "Status-Wechsel ohne vorherige Filterung auf Ziel-Status ermöglichen" - abschalten!)
 

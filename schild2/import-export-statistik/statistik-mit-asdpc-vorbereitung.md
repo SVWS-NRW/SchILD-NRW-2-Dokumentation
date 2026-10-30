@@ -6,6 +6,8 @@ title: "Haupterhebung vorbereiten"
 
 # Haupterhebung vorbereiten
 
+Bereiten Sie die Daten und Programme vor, bevor Sie die Haupterhebung beginnen. Die folgenden Abschnitte erläutern, welche Angaben und Dateien vorliegen müssen und an welchen Stellen Sie diese prüfen.
+
 <a id="Vorbereitung_der_Statistik"></a>
 
 ## Vorbereitung der Statistik
@@ -51,11 +53,11 @@ Je nach Schulform und wie Sie arbeiten, könnte es sinnvoll sein, unterschiedlic
 - ABI.TXT - Daten zum eventuellen Abitur.
 
 :::info
-Bei den Daten zu Lehrkräften und der Unterrichtsverteilung kann ein weiteres, externes Programm zur Unterrichtsplanung und Verwaltung der Lehrkräfte verwendet werden, so dass diese Daten nicht zusätzlich in SchILD eingepflegt werden (z.B. Untis usw.); auch aus diesen lässt sich in der Regel exportieren. In kleinen Systemen, z.B. Grund- oder Förderschulen, wird die UVD eventuell an einer Magnettafel erstellt. Auch in einem solchen Fall kann es sinnvoller sein, diese direkt in ASDPC einzugeben und nicht in SchILD zu pflegen.
+Bei den Daten zu Lehrkräften und der Unterrichtsverteilung kann ein weiteres, externes Programm zur Unterrichtsplanung und Verwaltung der Lehrkräfte verwendet werden, so dass diese Daten nicht zusätzlich in SchILD eingepflegt werden (zum Beispiel Untis usw.); auch aus diesen lässt sich in der Regel exportieren. In kleinen Systemen, zum Beispiel Grund- oder Förderschulen, wird die UVD eventuell an einer Magnettafel erstellt. Auch in einem solchen Fall kann es sinnvoller sein, diese direkt in ASDPC einzugeben und nicht in SchILD zu pflegen.
 :::
 
 :::warning
-Werden SchILD und ASDPC in einer Netzwerkumgebung eingesetzt, ist darauf zu achten, welche .dlls bzw. .mds (etwa die SCHULVER.mdb) mit den aktuellen Daten registriert sind und wo diese gespeichert sind, damit SchILD und ASDPC immer die gleichen, aktuellen Grundlagen nutzen! Konsultieren Sie in diesem Fall bitte die entsprechenden Dokumentationen von SchILD und ASDPC!
+Werden SchILD und ASDPC in einer Netzwerkumgebung eingesetzt, ist darauf zu achten, welche .dlls beziehungsweise .mds (etwa die SCHULVER.mdb) mit den aktuellen Daten registriert sind und wo diese gespeichert sind, damit SchILD und ASDPC immer die gleichen, aktuellen Grundlagen nutzen! Konsultieren Sie in diesem Fall bitte die entsprechenden Dokumentationen von SchILD und ASDPC!
 :::
 
 <a id="Sammeln_der_Ressourcen"></a>
@@ -64,7 +66,7 @@ Werden SchILD und ASDPC in einer Netzwerkumgebung eingesetzt, ist darauf zu acht
 
 Laden Sie sich nun die jeweils auf das aktuelle Jahr der Statistik angepasste Material herunter:
 
-1.  Die aktuellen [Eintragungshilfen nach Schulform Eintragungshilfen (Lang) nach Schulform](https://schulverwaltungsprogramme.msb.nrw.de/schulen/download.htm#D90). Änderungen zum letzten Jahr sind in Gelb deutlich hervorgehoben (Streichungen bzw. Neuerungen).
+1.  Die aktuellen [Eintragungshilfen nach Schulform Eintragungshilfen (Lang) nach Schulform](https://schulverwaltungsprogramme.msb.nrw.de/schulen/download.htm#D90). Änderungen zum letzten Jahr sind in Gelb deutlich hervorgehoben (Streichungen beziehungsweise Neuerungen).
 2.  Die aktuellen [Schlüsseltabellen nach Schulform](https://schulverwaltungsprogramme.msb.nrw.de/schulen/download.htm#D89). In ihnen werden die von ASDPC genutzten Kurzschlüssel erläutert; es finden sich auch hier Hinweise und in Gelb hervorgehobene Änderungen zum Vorjahr.
 
 :::info

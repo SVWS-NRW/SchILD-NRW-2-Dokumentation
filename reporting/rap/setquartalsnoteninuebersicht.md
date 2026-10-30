@@ -11,12 +11,11 @@ title: "SetQuartalsnotenInUebersicht"
 
 ## Beschreibung
 
+Steuert, ob in Leistungsübersichten auch Quartalsnoten erscheinen sollen
+
 ```pascal
 procedure SetQuartalsnotenInUebersicht( MitQuartalnoten: Boolean);
 ```
-
-
-Steuert, ob in Leistungsübersichten auch Quartalsnoten erscheinen sollen
 
 ## Beispiel
 
@@ -27,7 +26,6 @@ procedure ReportBeforePrint;
   SetQuartalsnotenInUebersicht( true );
  End;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

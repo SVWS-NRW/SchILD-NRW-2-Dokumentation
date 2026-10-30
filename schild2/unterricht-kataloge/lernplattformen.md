@@ -4,6 +4,8 @@ title: "Lernplattformen"
 
 # Lernplattformen
 
+Diese Anleitung beschreibt, wie Sie Daten aus SchILD-NRW 2 für eine Lernplattform bereitstellen. Die folgenden Schritte führen von der Vorbereitung bis zur Übergabe der Daten.
+
 <a id="Einleitung"></a>
 
 ## Einleitung
@@ -11,7 +13,7 @@ title: "Lernplattformen"
 Die Bereitstellung von Daten für eine Lernplattform vollzieht sich in folgenden Schritten:
 
 1.  Anlegen der Lernplattform (siehe [Schulverwaltung \> Lernplattformen](#Schulverwaltung_%3E_Lernplattformen))
-2.  Erfassen der Einwilligungen der Schüler bzw. Lehrer (siehe [Gruppenprozess Lernplattformen](#Gruppenprozess_Lernplattformen))
+2.  Erfassen der Einwilligungen der Schüler beziehungsweise Lehrer (siehe [Gruppenprozess Lernplattformen](#Gruppenprozess_Lernplattformen))
 3.  Export der Daten
 
 :::warning
@@ -41,7 +43,7 @@ Wird dies bejaht, so kann im folgenden Fenster die Lernplattform ausgewählt wer
 
 ![Auswahl_alle_Einwilligungen_setzen](/bilder/schild2/unterricht-kataloge/auswahl-alle-einwilligungen-setzen.png)
 
-Wird der Eintrag nicht vorgenommen, so kann dies per Gruppenprozess nachgeholt werden. Sollten nur wenige "Nein" einzutragen sein, so könnten mit der o.g. Möglichkeit alle auf "Ja" gesetzt werden, anschließend per geeigneter Selektion und Gruppenprozess die anderen mit einem evtl. "Nein" überschrieben werden. Für Lehrkräfte muss in der entsprechenden Übersicht erfolgen.
+Wird der Eintrag nicht vorgenommen, so kann dies per Gruppenprozess nachgeholt werden. Sollten nur wenige "Nein" einzutragen sein, so könnten mit der o.g. Möglichkeit alle auf "Ja" gesetzt werden, anschließend per geeigneter Selektion und Gruppenprozess die anderen mit einem gegebenenfalls "Nein" überschrieben werden. Für Lehrkräfte muss in der entsprechenden Übersicht erfolgen.
 
 <a id="Gruppenprozess_Lernplattformen"></a>
 

@@ -9,10 +9,10 @@ title: "PM2 installieren"
 **Installation**\
 Die erforderlichen Dateien finden sich auf der Seite "Schulverwaltung NRW": <https://www.svws.nrw.de/download/schild-tools>. Dabei gibt es die Möglichkeiten ein ausführbares Setup-Programm auszuwählen, oder aber ein ZIP-Archiv mit allen aktuellen Programmdateien. Weiterhin können Sie zwei pdf-Dokumente einsehen:
 
-Versionshinweise  
+Versionshinweise
 Dieses Dokument enthält neben Hinweisen zur Installation, Support auch die Versionshistorie
 
-Bedienungsanleitung  
+Bedienungsanleitung
 Ausführliche Anleitung
 
 An dieser Stelle soll die Vorgehensweise für das Setup-Programm erläutert werden.
@@ -38,7 +38,7 @@ Standard ist die Installation in einem Unterorder "PM2" des Schild-Ordners. Wenn
 ![PM2_Setup_04](/bilder/tools/pm2/pm2-setup-04.png)
 
 **Startmenü-Ordner wählen**\
-Standard ist die Einrichtung eines eigenen Ordners "PM2" im Start-Menü. Die Einbindung in einen bestehenden Ordner (z.B. Schild) ist ebenfalls möglich. Bestätigung erfolgt durch Klick auf "Weiter".
+Standard ist die Einrichtung eines eigenen Ordners "PM2" im Start-Menü. Die Einbindung in einen bestehenden Ordner (zum Beispiel Schild) ist ebenfalls möglich. Bestätigung erfolgt durch Klick auf "Weiter".
 
 ![PM2_Setup_05](/bilder/tools/pm2/pm2-setup-05.png)
 

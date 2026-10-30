@@ -6,6 +6,8 @@ title: "A03 Fachklassen mit Zusatzqualifikation"
 
 # A03 Fachklassen mit Zusatzqualifikation
 
+Diese Seite zeigt ein Bildbeispiel zur Abschlussberechnung für den im Titel genannten Bildungsgang. Vergleichen Sie die dargestellte Ansicht mit Ihrem Bildungsgang. Die Bedeutung des Karteireiters und die allgemeinen Arbeitsschritte erläutert [BK-Abschlussverfahren](/zeugnisse/berufskolleg/bk-abschluss?rubrik=schild2).
+
 Fachklassen der Berufsschule mit erweiterter Zusatzqualifikation in Teilzeit.
 
 ![BK_Abschluss_A03](/bilder/zeugnisse/berufskolleg/bk-abschluss-a03.png)

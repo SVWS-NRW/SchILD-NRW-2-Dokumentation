@@ -6,6 +6,8 @@ title: "BK-Abschlüsse nach Anlage A"
 
 # BK-Abschlüsse nach Anlage A
 
+Hier finden Sie die im ursprünglichen Wiki aufgeführten Bildungsgänge dieser Anlage. Wählen Sie den passenden Bildungsgang aus den verlinkten Einträgen. Die allgemeinen Erläuterungen stehen unter [BK-Abschlussverfahren](/zeugnisse/berufskolleg/bk-abschluss?rubrik=schild2).
+
 <a id="Bildungsgänge_der_Berufsschule"></a>
 <a id="Bildungsg.C3.A4nge_der_Berufsschule"></a>
 
@@ -23,7 +25,7 @@ A05 Berufsorientierungsjahr (BV; VZ)
 
 A06 Berufsgrundschuljahr (BG; VZ)
 
-A07 Klassen für Schüler/innen ohne Ausbildungsverh. (BS 1j;TZ) bzw. Werkstattjahr (BS 1j;TZ)
+A07 Klassen für Schüler/innen ohne Ausbildungsverh. (BS 1j;TZ) beziehungsweise Werkstattjahr (BS 1j;TZ)
 
 A08 Vorpraktikum (VP)
 

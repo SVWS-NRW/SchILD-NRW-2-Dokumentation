@@ -6,9 +6,9 @@ title: "Gruppenprozesse für das Abitur"
 
 # Gruppenprozesse für das Abitur
 
-![GP-Abitur](/bilder/zeugnisse/sekundarstufen/gp-abitur.jpg)
+Diese Übersicht führt durch die Gruppenprozesse der Abiturberechnung. Folgen Sie der Reihenfolge von der Übernahme der Leistungsdaten über die Zulassung bis zur Ermittlung des Gesamtergebnisses.
 
-Zu den "Gruppenaktionen für das Abitur" gehören folgende Gruppenprozesse.
+![GP-Abitur](/bilder/zeugnisse/sekundarstufen/gp-abitur.jpg)
 
 Bitte klicken Sie die Artikel an, um Informationen zu den dahinter liegenden Sammelaktionen zu bekommen.
 

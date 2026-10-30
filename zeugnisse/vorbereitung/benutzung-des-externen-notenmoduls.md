@@ -71,13 +71,13 @@ Die Bereichsnoten können für den Fall eines Hauptschulabschlusses nach Klasse 
 
 Bitte beachten Sie, dass auch die Notendateien eine kleine Datenbank sind.
 
-Aus diesem Grund brauchen Sie auch keine Eingaben explizit zu speichern. Sie können das Notenmodul durch *Datei -\> Beenden* einfach schließen. Bitte achten Sie jedoch darauf, dass die letzte Änderung auch in der Datenbank gespeichert ist. Dies kann man in der Regel durch Drücken der Enter-Taste erreichen.
+Aus diesem Grund brauchen Sie auch keine Eingaben explizit zu speichern. Sie können das Notenmodul durch *Datei -\> Beenden* einfach schließen. Bitte achten Sie jedoch darauf, dass die letzte Änderung auch in der Datenbank gespeichert ist. Dies können Sie in der Regel durch Drücken der Enter-Taste erreichen.
 
 ------------------------------------------------------------------------
 
 **Rücktransport**
 
-Für den Import nach SchILD-NRW wird lediglich die Notendatei benötigt. Senden Sie also die Datei *Kürzel_2014_1.enz* oder *Kürzel_2014_1.enm* an Ihren SchILD-Administrator zurück. Achten Sie darauf, dass das Notenmodul vor dem Rücktransport geschlossen ist. Dies kann man daran erkennen, dass die \*.ldb-Datei, die beim Öffnen entsteht, automatisch von Windows geschlossen und gelöscht wird. ![ExtMod-09](/bilder/zeugnisse/vorbereitung/extmod-09.png)
+Für den Import nach SchILD-NRW wird lediglich die Notendatei benötigt. Senden Sie also die Datei *Kürzel_2014_1.enz* oder *Kürzel_2014_1.enm* an Ihren SchILD-Administrator zurück. Achten Sie darauf, dass das Notenmodul vor dem Rücktransport geschlossen ist. Dies können Sie daran erkennen, dass die \*.ldb-Datei, die beim Öffnen entsteht, automatisch von Windows geschlossen und gelöscht wird. ![ExtMod-09](/bilder/zeugnisse/vorbereitung/extmod-09.png)
 
 ------------------------------------------------------------------------
 

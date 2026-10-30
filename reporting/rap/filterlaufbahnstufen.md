@@ -11,20 +11,18 @@ title: "FilterLaufbahnStufen"
 
 ## Beschreibung
 
+Filtert für Leistungsübersichten auf bestimmte Jahrgangsstufen. Damit ist es möglich,
+zum Beispiel Formulare für die gymn. Oberstufe schulformunabhängig zu entwickeln
+
 ```pascal
 procedure FilterLaufbahnStufen(const Stufenliste: String);
 ```
-
-
-Filtert für Leistungsübersichten auf bestimmte Jahrgangsstufen. Damit ist es möglich,
-z.B. Formulare für die gymn. Oberstufe schulformunabhängig zu entwickeln
 
 ## Parameter
 
 | Parameter | Bedeutung |
 | --- | --- |
 | `Stufenliste` | Die zu betrachtenden Jahrgangsstufen, getrennt durch Komma |
-
 
 ## Beispiel
 
@@ -37,7 +35,6 @@ begin
  FilterLaufbahnStufen('SII-2,SII-3');
 end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

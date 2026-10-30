@@ -8,7 +8,7 @@ Die Dokumentenverwaltung in Schild-NRW unterstützt Sie bei der Archivierung von
 
 Im Folgenden sollen die zur Verfügung stehenden Optionen und Einstellungsmöglichkeiten beschrieben werden.
 
-Die Dokumentenverwaltung steht nach der Installation nicht automatisch zur Verfügung. Wenn Sie diese Möglichkeit zur Archivierung nutzen möchten, dann müssen Sie sie über die Programmeinstellungen aktivieren. Dazu öffnen Sie das Menü Extras --\> Programm-Einstellungen --\> Globale Einstellungen --\> Dokumentenverwaltung. (Die Aktivierung ist nur bei entsprechenden Rechten, z.B. als Admin, möglich!)
+Die Dokumentenverwaltung steht nach der Installation nicht automatisch zur Verfügung. Wenn Sie diese Möglichkeit zur Archivierung nutzen möchten, dann müssen Sie sie über die Programmeinstellungen aktivieren. Dazu öffnen Sie das Menü Extras --\> Programm-Einstellungen --\> Globale Einstellungen --\> Dokumentenverwaltung. (Die Aktivierung ist nur bei entsprechenden Rechten, zum Beispiel als Admin, möglich!)
 
 ![Dokumentenverwaltung-01](/bilder/administration/benutzer-einstellungen/dokumentenverwaltung-01.png)
 
@@ -31,7 +31,7 @@ Um die Dokumente zu archivieren, müssen Sie einen der zusätzlich eingeblendete
 Vielleicht wundern Sie sich, dass bei Ihnen das Druckmenü noch genauso aussieht wie vor der Aktivierung der Dokumentenverwaltung. Für die Archivierung müssen **drei Bedingungen** erfüllt sein:
 
 - \- die Datenquelle *Schüler* muss für den Report ausgewählt sein
-- \- es muss eine Gruppierung bezüglich eines Datenfeldes der Datenquelle im Report vorhanden sein, z.B. nach Schueler_Id
+- \- es muss eine Gruppierung bezüglich eines Datenfeldes der Datenquelle im Report vorhanden sein, zum Beispiel nach Schueler_Id
 - \- Auswahl *Drucker mit Archivierung* oder *nur Archivierung (in Dokumentenverwaltung)* im Druckmenü
 
 **Erstellen geeigneter Reports**

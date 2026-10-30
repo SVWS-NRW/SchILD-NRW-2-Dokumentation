@@ -11,12 +11,11 @@ title: "SelectOption"
 
 ## Beschreibung
 
+ermöglicht die Auswahl eines Elements aus einer Auswahlliste
+
 ```pascal
 function SelectOption(Prompt, Optionsliste: String; Trennzeichen: Char): Integer;
 ```
-
-
-ermöglicht die Auswahl eines Elements aus einer Auswahlliste
 
 ## Parameter
 
@@ -25,7 +24,6 @@ ermöglicht die Auswahl eines Elements aus einer Auswahlliste
 | `Prompt` | Eingabeaufforderung |
 | `Optionsliste` | Liste der verfügbaren Optionen |
 | `Trennzeichen` | Trennt die Optionen in der Liste voneinander |
-
 
 ## Rückgabewert
 

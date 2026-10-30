@@ -6,6 +6,8 @@ title: "BK-Abschluss im Überblick"
 
 # BK-Abschluss im Überblick
 
+Diese Seite bewahrt eine weitere Beschreibung aus dem ursprünglichen Wiki. Den Zugang im Themenmenü finden Sie unter [der zugehörigen Hauptbeschreibung](/zeugnisse/berufskolleg/bk-abschluss?rubrik=schild2).
+
 Für die Schüler eines Bildungsganges im Berufskolleg, die einen Berufsabschluss erwerben, gibt es die Karteikarte **BK-Abschluss**. Abhängig vom Bildungsgang und der zugrundeliegenden Prüfungsordnung, werden die Felder und Schaltflächen auf dieser Karte eingeblendet.
 
 ## Prüfung und Abschluss bearbeiten
@@ -40,7 +42,7 @@ Bildungsgang der Anlage E - Beispiel:
 
 ![BK-Abschluss-AnlageE-Teil1](/bilder/zeugnisse/berufskolleg/bk-abschluss-anlagee-teil1.png)
 
-Im unteren Teil der Karteikarte können in einem Feld die Themen der Abschlussarbeiten eingegeben werden. darunter befindet sich der Bereich *Auswertung*, in dem die erreichten Abschlüsse ung ggf. die Durchschnittsnoten zu finden sind. So kann der Bereich für einen Schüler aussehen, der in einem Bildungsgang der Anlage C seinen Abschluss anstrebt:
+Im unteren Teil der Karteikarte können in einem Feld die Themen der Abschlussarbeiten eingegeben werden. darunter befindet sich der Bereich *Auswertung*, in dem die erreichten Abschlüsse ung gegebenenfalls die Durchschnittsnoten zu finden sind. So kann der Bereich für einen Schüler aussehen, der in einem Bildungsgang der Anlage C seinen Abschluss anstrebt:
 
 ![BK-Abschluss-AnlageC-Teil2](/bilder/zeugnisse/berufskolleg/bk-abschluss-anlagec-teil2.png)
 

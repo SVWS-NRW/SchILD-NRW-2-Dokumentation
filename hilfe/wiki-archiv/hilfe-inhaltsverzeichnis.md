@@ -6,6 +6,8 @@ title: "Hilfe und Support finden"
 
 # Hilfe und Support finden
 
+Hier sind die im früheren Wiki beschriebenen Hilfe- und Supportwege zusammengefasst. Die Seite dient zur Orientierung; eingebundene ältere Kontakte und Verweise gehören zum übernommenen Ausgangstext.
+
 <a id="Wo_bekomme_ich_Hilfe_zu_Schild-NRW_?"></a>
 <a id="Wo_bekomme_ich_Hilfe_zu_Schild-NRW_.3F"></a>
 
@@ -15,7 +17,7 @@ title: "Hilfe und Support finden"
 
 ------------------------------------------------------------------------
 
-[Datei:Supportkonzept des MSW.pdf](https://wiki.svws.nrw.de/mediawiki/index.php)
+[Historisches Supportkonzept des MSW](/dateien/wiki/supportkonzept-des-msw-49f6bce7.pdf)
 
 ------------------------------------------------------------------------
 

@@ -6,11 +6,13 @@ title: "Fehler in ASDPC finden und beheben"
 
 # Fehler in ASDPC finden und beheben
 
+Hier finden Sie typische Fehler bei der Arbeit mit ASDPC und die dazu beschriebenen Lösungswege. Vergleichen Sie die angezeigte Fehlermeldung mit den folgenden Fällen, bevor Sie Daten oder Einstellungen ändern.
+
 <a id="Fehlersuche_-_typische_Fehler_aus_der_Praxis"></a>
 
 ## Fehlersuche - typische Fehler aus der Praxis
 
-Auf der Folgenden Seite werden häufig auftretende Fehler beschrieben.
+Auf der folgenden Seite werden häufig auftretende Fehler beschrieben.
 
 <a id="Versand_an_eine_inkorrekte_Emailadresse"></a>
 
@@ -29,7 +31,7 @@ Weiterhin kommt es vor, dass Meldungen, die Mail habe nicht versandt werden kön
 
 ### Versand von inkorrekten Dateien
 
-Es soll die Datei V4\[SCHULNUMMER\].\[JAHR\]X versendet werden. In der Praxis kann es vorkommen, dass stattdessen eine andere Datei verschickt wurde, z.B.
+Es soll die Datei V4\[SCHULNUMMER\].\[JAHR\]X versendet werden. In der Praxis kann es vorkommen, dass stattdessen eine andere Datei verschickt wurde, zum Beispiel
 
 - die Vorgabedaten
 - eine Statistikdatei aus einem vorherigen Schuljahr

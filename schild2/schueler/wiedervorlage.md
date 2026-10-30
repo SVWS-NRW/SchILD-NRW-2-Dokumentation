@@ -4,37 +4,49 @@ title: "Wiedervorlage"
 
 # Wiedervorlage
 
-Die Wiedervorlage ist eine Art Notizbuch/Terminkalender und soll an die Erledigung terminierter Arbeiten erinnern. In SchILD ist dieser Vorgang an vier Stellen verteilt bearbeitbar (Wecker-Symbol rechts vom Feld Status, Wecker in der Symbolleiste, bei Gruppenprozesse, bei Lehrkräften).
+Mit der Wiedervorlage merken Sie sich Aufgaben zu Schülerinnen, Schülern oder Lehrkräften für einen bestimmten Termin vor. Sie können Einträge zu einzelnen Personen oder zu einer ausgewählten Gruppe anlegen und später als erledigt kennzeichnen.
 
-Das Einrichten der Funktion erfolgt über Menü "Extras / Programm-Einstellungen / Globale Einstellungen" / Häkchen vor „Wiedervorlage bei Programmstart prüfen“ / Schließen. (Es werden dann die Einträge in der Wiedervorlageliste angezeigt, die das aktuelle Tagesdatum als Wiedervorlagedatum haben.)
+## Prüfung beim Programmstart einschalten
 
-Eingabe einer Wiedervorlage-Bemerkung bei einem einzelnen Schüler machen über icon „Eintrag in Wiedervorlageliste hinzufügen“ (Wecker rechts neben Status-Feld auf Karte Individual-Daten I):
+Öffnen Sie **Extras → Programm-Einstellungen → Globale Einstellungen**. Setzen Sie den Haken bei **Wiedervorlage bei Programmstart prüfen** und schließen Sie das Fenster. Beim Programmstart zeigt SchILD die Einträge an, deren Wiedervorlagedatum auf den aktuellen Tag fällt.
+
+## Eintrag für eine Person anlegen
+
+1. Öffnen Sie den betreffenden Schülerdatensatz auf **Individualdaten I**.
+2. Klicken Sie rechts neben dem Statusfeld auf das Weckersymbol **Eintrag in Wiedervorlageliste hinzufügen**.
+3. Tragen Sie im Fenster **Eintrag zur Wiedervorlage** die Bemerkung und das Datum unter **Wiedervorlage am …** ein.
+4. Entscheiden Sie, wer den Eintrag sehen darf, und bestätigen Sie mit **OK**.
 
 ![Wiedervorlage-01](/bilder/schild2/schueler/wiedervorlage-01.jpg)
 
-Im Fensterchen „Eintrag zur Wiedervorlage“ den Text ins Feld unter „Bemerkung“ eingeben und das Datum bei „Wiedervorlage am …“ wählen, wenn gewünscht, Häkchen vor „Eintrag für Sekretariat sichtbar“ (aus der Versions-geschichte zu 71.2: Bei einem neuen Eintrag in der Wiedervorlage kann jetzt ein Häkchen "Eintrag für Sekretariat sichtbar" gesetzt werden, dann ist dieser nicht nur für den Anwender sichtbar, der den Eintrag angelegt hat, sondern auch für das Sekretariat (genauer gesagt für andere Anwender, die das Recht haben, Individualdaten zu ändern. Wird das Häkchen nicht gesetzt, ist der Eintrag nur für den Anwender sichtbar, der den Eintrag angelegt hat.), dann OK.
+Ohne zusätzliche Freigabe sieht den Eintrag nur die Person, die ihn angelegt hat. Mit **Eintrag für Sekretariat sichtbar** wird er auch für andere Benutzerkonten mit dem Recht sichtbar, Individualdaten zu ändern.
 
-Dieses bzw. das gleiche Fensterchen erscheint jeweils zum Eingeben von Bemerkungen für Schüler (Einzel- oder Gruppeneintrag) und auch für Lehrer.
+Für eine Lehrkraft öffnen Sie **Schulverwaltung → Lehrkräfte**. Klicken Sie mit der rechten Maustaste auf den Namen und wählen Sie **Eintrag in Wiedervorlageliste hinzufügen**. Das weitere Vorgehen ist gleich.
 
-Eintrag bezüglich Lehrer/-innen über Schulverwaltung/Lehrkräfte: Nach Rechtsklick auf betreffenden Lehrernamen „Eintrag in Wiedervorlageliste hinzufügen“ und weiter wie bei Schüler-Einzeleintrag.
+## Liste öffnen und Einträge bearbeiten
 
-Wiedervorlage aufrufen, Einträge bearbeiten mit icon „Wiedervorlageliste zeigen“ (in der Symbolleiste Wecker-Symbol rechts vom „Suchen“-Fernglas):
+Öffnen Sie **Wiedervorlageliste zeigen** über das Weckersymbol in der Symbolleiste rechts neben dem Suchsymbol.
 
 ![Wiedervorlage-Iconleiste](/bilder/schild2/schueler/wiedervorlage-iconleiste.jpg)
 
-Es erscheint im Fenster „Wiedervorlage“ eine Übersicht (nach Eingabe des aktuellen oder eines anderen Datums bei „Wiedervorlage bis…“ Anzeige mit Schalter „Ansicht Aktualisieren“), unter „Art“ nach Schülern und Lehrern unterschieden (bei Eingabe eines zukünftigen Datums werden alle bis dahin anstehenden Termine gezeigt). Mit „Eintrag löschen“ können markierte Einträge auch manuell entfernt werden). Einen „Export nach Excel“ ermöglicht dieser Schalter. Das Häkchen vor „Nur unerledigte Einträge zeigen“ wegnehmen, wenn auch die schon bearbeiteten Einträge bis zum Löschdatum angezeigt werden sollen.
+1. Geben Sie unter **Wiedervorlage bis …** das gewünschte Datum ein.
+2. Klicken Sie auf **Ansicht aktualisieren**. Bei einem zukünftigen Datum sehen Sie auch die bis dahin anstehenden Termine. Die Spalte **Art** unterscheidet Einträge zu Schülern und Lehrkräften.
+3. Doppelklicken Sie in die Spalte **Erledigt am**, um eine Aufgabe als erledigt zu kennzeichnen.
 
-“Erledigungsvermerk durch Doppelklick in Spalte ´Erledigt am\` setzen“.
+Weitere Möglichkeiten:
 
-“Schließen“
+- Entfernen Sie den Haken bei **Nur unerledigte Einträge zeigen**, wenn Sie auch erledigte Einträge bis zu deren Löschung sehen möchten.
+- Mit **Eintrag löschen** entfernen Sie markierte Einträge von Hand.
+- Über **Export nach Excel** geben Sie die Liste als Tabelle aus.
+- Schließen Sie anschließend das Fenster.
 
-Beim Erst-Start von SchILD an einem nächstfolgenden Tag werden die Wiedervorlage-Einträge mit dem Tages-Datum angezeigt (im Fenster „Wiedervorlage“ wie oben).
+## Automatische Löschung beachten
 
-14 Tage nach dem eingestellten Wdvl-Datum (ggf. Termin weiter voraus ansetzen) und 7 Tage nach dem Erledigungsdatum werden Einträge automatisch gelöscht. (Aus Gründen des Datenschutzes werden Einträge in der Wiedervorlageliste automatisch gelöscht, die ein Erledigungsdatum haben, das älter als eine Woche ist.).
+Die ursprüngliche Anleitung nennt zwei Löschfristen: 14 Tage nach dem eingestellten Wiedervorlagedatum und 7 Tage nach dem Erledigungsdatum. Setzen Sie einen später benötigten Termin entsprechend weiter in die Zukunft. Erledigte Einträge werden nach Ablauf der genannten Frist nicht dauerhaft in der Liste aufbewahrt.
 
-Einträge in die Wiedervorlage können auch als Gruppenprozess gemacht werden: [Gruppenprozesse](/schild2/gruppenprozesse/gruppenprozesse) \>\> [Wiedervorlage für Schülergruppen anlegen](/schild2/schueler/eintrag-in-wiedervorlage-machen)
+## Eintrag für eine Gruppe anlegen
 
-------------------------------------------------------------------------
+Die Funktion ist auch über [Gruppenprozesse](/schild2/gruppenprozesse/gruppenprozesse?rubrik=schild2) erreichbar. Das Vorgehen für mehrere zuvor ausgewählte Personen beschreibt [Wiedervorlage für Schülergruppen anlegen](/schild2/schueler/eintrag-in-wiedervorlage-machen?rubrik=schild2).
 
 ---
 

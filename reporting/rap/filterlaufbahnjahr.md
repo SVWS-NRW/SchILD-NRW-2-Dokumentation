@@ -11,15 +11,15 @@ title: "FilterLaufbahnJahr"
 
 ## Beschreibung
 
+Filtert die Laufbahndaten auf einen Zeitraum zwischen dem angegebenen Anfangs- und Endjahr.
+
 ```pascal
 procedure FilterLaufbahnJahr(const VonJahr, BisJahr: Integer);
 ```
 
-
-filtert die Laufbahndaten der Schüler für das angegebene Intervall;
-vonJahr = 0 filtert vom Anfing bis BisJahr
-bisJahr = 0 filtert von vonJahr bis zum Ende
-VonJahr = 0 und BisJahr = 0 setzt die Abfrage zurück
+- `VonJahr = 0`: vom Anfang bis zum angegebenen Endjahr filtern.
+- `BisJahr = 0`: vom angegebenen Anfangsjahr bis zum Ende filtern.
+- Beide Werte sind `0`: den Filter zurücksetzen.
 
 ## Parameter
 
@@ -27,7 +27,6 @@ VonJahr = 0 und BisJahr = 0 setzt die Abfrage zurück
 | --- | --- |
 | `VonJahr` | Beginn des Zeitraumes |
 | `BisJahr` | Ende des Zeitraumes |
-
 
 ## Beispiel
 
@@ -44,7 +43,6 @@ begin
   FilterLaufbahnJahr(0,0);
 end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

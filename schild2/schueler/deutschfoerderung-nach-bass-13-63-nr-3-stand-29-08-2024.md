@@ -26,7 +26,7 @@ Tragen Sie für alle Deutschförderschüler ( nach BASS 13-63 Nr. 3 ) die Klasse
 
 ![DFKlassenart1](/bilder/schild2/schueler/dfklassenart1.png)
 
-*Hinweis: Im Screenshot sieht man, dass die Schülerin Birgit trotz Deutschförderung in eine Regelklasse geht. Dies ist zulässig.*
+*Hinweis: Im Screenshot sehen Sie, dass die Schülerin Birgit trotz Deutschförderung in eine Regelklasse geht. Dies ist zulässig.*
 
 Alternativ kann der Eintrag auch im aktuellen Halbjahr/ Allgemeine Angaben angepasst werden.
 
@@ -35,7 +35,7 @@ Alternativ kann der Eintrag auch im aktuellen Halbjahr/ Allgemeine Angaben angep
 
 #### Möglichkeit 2: Über einen Gruppenprozess
 
-Sind viele Schülerinnen und Schüler von der Änderung betroffen, kann man dies auch mit einem Gruppenprozesse realisieren. Unter Gruppenprozess/Individualdaten ändern/Individualdaten I kann die Klassenart für eine Gruppe von Schülerinnen und Schülern angepasst werden. Diese Änderung wird nur für den aktuellen Abschnitt durchgeführt, sofern keine weiteren Angaben erfolgen.
+Sind viele Schülerinnen und Schüler von der Änderung betroffen, können Sie dies auch mit einem Gruppenprozesse realisieren. Unter Gruppenprozess/Individualdaten ändern/Individualdaten I kann die Klassenart für eine Gruppe von Schülerinnen und Schülern angepasst werden. Diese Änderung wird nur für den aktuellen Abschnitt durchgeführt, sofern keine weiteren Angaben erfolgen.
 
 ![DFKlassenartGP](/bilder/schild2/schueler/dfklassenartgp.png)
 
@@ -55,7 +55,7 @@ Für diesen Fall muss auch für den vorangegangenen Abschnitt die Klassenart auf
 
 **Möglichkeit 1: Separat für jeden Schüler unter aktuelles Halbjahr**
 
-Unter aktuelles Halbjahr/Allgemeine Angaben kann man für vorherige Abschnitte die Klassenart ändern:
+Unter aktuelles Halbjahr/Allgemeine Angaben können Sie für vorherige Abschnitte die Klassenart ändern:
 
 ![DFVorherigerAbschnitt](/bilder/schild2/schueler/dfvorherigerabschnitt.png)
 
@@ -82,7 +82,7 @@ In diesem Fall gibt es für den Schüler keinen vorherigen Abschnitt in SchILD. 
 
 *Eintrag für den Schulbesuch.*
 
-Hinweis: Prüfen Sie ggf., ob der Migrationshintergrund korrekt eingetragen wurde. Insbesondere darf das Zuzugsjahr nicht fehlen.
+Hinweis: Prüfen Sie gegebenenfalls, ob der Migrationshintergrund korrekt eingetragen wurde. Insbesondere darf das Zuzugsjahr nicht fehlen.
 
 ![Migrationshintergrund](/bilder/schild2/schueler/migrationshintergrund.png)
 
@@ -131,7 +131,7 @@ Vermutlich fehlt unter Individualdaten II das Zuzugsjahr.
 Ich habe die sim.txt bereits in ASDPC importiert und viele Datensätze dort korrigiert. Allerdings habe ich vergessen, die Klassenart DF für den vorherigen Abschnitt anzupassen.
 
 **Lösung**\
-Da SchILD bei der Plausibilitätsprüfung für diesen Fall keine Fehlermeldung ausgibt, kommt das Problem sicherlich häufiger vor. Wenn die Klassenart DF nicht für vorangegangene Abschnitte bei den Schülern mit Deutschförderung in SchILD eingetragen wurde, erscheint die unten stehende Fehlermeldung. Dies kann man in ASDPC korrigieren, indem der Schlüssel 91 (Verbleib in Deutschförderung) für Spalte Art 611 ausgewählt wird:
+Da SchILD bei der Plausibilitätsprüfung für diesen Fall keine Fehlermeldung ausgibt, kommt das Problem sicherlich häufiger vor. Wenn die Klassenart DF nicht für vorangegangene Abschnitte bei den Schülern mit Deutschförderung in SchILD eingetragen wurde, erscheint die unten stehende Fehlermeldung. Dies können Sie in ASDPC korrigieren, indem der Schlüssel 91 (Verbleib in Deutschförderung) für Spalte Art 611 ausgewählt wird:
 
 ![ASDPCKorrektur91](/bilder/schild2/schueler/asdpckorrektur91.png)
 

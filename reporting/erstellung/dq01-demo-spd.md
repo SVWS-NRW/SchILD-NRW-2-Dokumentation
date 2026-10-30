@@ -6,6 +6,8 @@ title: "Beispiel einer eigenen Report-Datenquelle"
 
 # Beispiel einer eigenen Report-Datenquelle
 
+Dieses Konfigurationsbeispiel ergänzt die Anleitung **Eigene Datenquellen für SchILD-Reports**. Es zeigt Abfragen und Zuordnungen für mehrere Datenquellen. Beginnen Sie mit der Grundlagenanleitung, bevor Sie die nachfolgenden technischen Angaben verwenden.
+
 \[Queries\] \_\_qryNeueDatenQuelle
 
 ---------------------------------------------

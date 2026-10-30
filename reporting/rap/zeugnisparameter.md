@@ -11,6 +11,8 @@ title: "ZeugnisParameter"
 
 ## Beschreibung
 
+Fragt Angaben für Zeugnisse ab: den Wiederbeginn des Unterrichts sowie zwei Sprechtage mit ihren Zeitangaben.
+
 ```pascal
 procedure ZeugnisParameter(var aBeginn, aSprechtag1, aSprechtag2: String);
 ```
@@ -22,7 +24,6 @@ procedure ZeugnisParameter(var aBeginn, aSprechtag1, aSprechtag2: String);
 | `aBeginn` | Wiederbeginn des Unterrichts |
 | `aSprechtag1` | Erster Sprechtag (mit Anfangs – und Endzeiten) |
 | `aSprechtag2` | Zweiter Sprechtag (mit Anfangs – und Endzeiten) |
-
 
 ## Beispiel
 

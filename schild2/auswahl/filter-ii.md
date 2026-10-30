@@ -4,9 +4,9 @@ title: "Filter II"
 
 # Filter II
 
-![FilterII01](/bilder/schild2/auswahl/filterii01.jpg)
+Filter II ist für Abfragen gedacht, die sich mit dem Attributsfilter oder Filter I nicht ausdrücken lassen. Verwenden Sie zunächst diese einfacheren Filter. Die folgenden Erläuterungen richten sich an Personen, die eigene, weitergehende Auswahlbedingungen benötigen.
 
-Um Schülermengen zu erhalten, die sich nicht über die Auswahlmöglichkeiten des Attribut-Filters und des Filters I selektieren lassen, benötigt man den Filter II.
+![FilterII01](/bilder/schild2/auswahl/filterii01.jpg)
 
 Dieses trifft vorwiegend bei ODER-Verknüpfungen zu.
 
@@ -14,9 +14,9 @@ Auch hier ist es möglich, einmal erstellte Filter zu speichern, zu laden, erneu
 
 **Hinweis:**
 
-Die in diesem Abschnitt festgelegten Filterbedingungen selektieren Schülerinnen und Schüler immer aus allen Karteikästen. Da sich im Schulalltag die Auswahl in der Regel auf die Schülerdaten im aktuellen Datenfenster bezieht, ist die Bedingung Status gleich Aktiv in die Filterbedingung zusätzlich aufzunehmen sowie anschließend über UND mit weiteren Bedingungen zu verknüpfen.
+Die in diesem Abschnitt festgelegten Filterbedingungen auswählen Schülerinnen und Schüler immer aus allen Karteikästen. Da sich im Schulalltag die Auswahl in der Regel auf die Schülerdaten im aktuellen Datenfenster bezieht, ist die Bedingung Status gleich Aktiv in die Filterbedingung zusätzlich aufzunehmen sowie anschließend über UND mit weiteren Bedingungen zu verknüpfen.
 
-Nach Aufruf des Filter II erhalten Sie die Maske "Allgemeine Filterbedingungen definieren". Die Vorgabe beim Aufruf dieser Maske enthält die Bedingung Schüler nicht gelöscht.
+Nach Aufruf des Filter II erhalten Sie die Eingabeansicht "Allgemeine Filterbedingungen definieren". Die Vorgabe beim Aufruf dieser Eingabeansicht enthält die Bedingung Schüler nicht gelöscht.
 
 **Und/Oder**
 
@@ -52,11 +52,11 @@ Die in der oberen Zeile erstellte Filterbedingung wird als Klartext-Befehl und a
 
 **Einzelne Filterbedingung zurücksetzen**
 
-Die in der Zeile für die einzelne Filterbedingung erfolgte Auswahl bzw. erfolgten Eintragungen werden gelöscht.
+Die in der Zeile für die einzelne Filterbedingung erfolgte Auswahl beziehungsweise erfolgten Eintragungen werden gelöscht.
 
 **gesamte Abfrage negieren**
 
-Man erhält aufgrund der eingestellten Filterbedingung das Komplement der gefilterten Schülermenge.
+Man erhält aufgrund der eingestellten Filterbedingung das Komplement der gefilterten Schülergruppe.
 
 **SQL-Befehle löschen**
 
@@ -64,17 +64,17 @@ Es werden die erstellten Filterbedingungen gelöscht und der Filter wird auf die
 
 **Aktuelle Auswahl übernehmen**
 
-Ist schon im Datenfenster eine aktuelle Schülermenge aufgrund eines Filters gebildet worden (geladener Attributsfilter oder Allgemeiner Filter, Auswahlknopf ist rot), so kann diese Bedingung als SQL-Befehl eingeblendet und in der Zeile einzelne Filterbedingung erweitert werden.
+Ist schon im Datenfenster eine aktuelle Schülergruppe aufgrund eines Filters gebildet worden (geladener Attributsfilter oder Allgemeiner Filter, Auswahlknopf ist rot), so kann diese Bedingung als SQL-Befehl eingeblendet und in der Zeile einzelne Filterbedingung erweitert werden.
 
 **Testen**
 
 Da über den Filter II auch komplexere Bedingungen eingegeben werden können, wird hier geprüft, ob die gesetzte Filterbedingung von der Syntax her keine Fehler enthält. Bei einer nicht korrekt gebildeten Bedingung erscheint eine Fehlermeldung.
 
-Ein Informationshinweis gibt darüber Auskunft, wie viele Schüler die eingestellte(n) Filterbedingung(en) erfüllen. Werden keine Schüler für diese Filtereinstellung gefunden, so kann man wählen, ob man zur aktiven Schülermenge zurückkehren will oder ob man eine weitere Filterbedingung erstellen möchte.
+Ein Informationshinweis gibt darüber Auskunft, wie viele Schüler die eingestellte(n) Filterbedingung(en) erfüllen. Werden keine Schüler für diese Filtereinstellung gefunden, so können Sie wählen, ob man zur aktiven Schülergruppe zurückkehren will oder ob man eine weitere Filterbedingung erstellen möchte.
 
 **Übernehmen**
 
-Die gefilterte Schülermenge steht nach erfolgreichem Test im Datenfenster für eine weitere Bearbeitung zur Verfügung. (z.B. Ausdruck von Listen, gruppenweise Zuordnung bestimmter Felder etc.)
+Die gefilterte Schülergruppe steht nach erfolgreichem Test im Datenfenster für eine weitere Bearbeitung zur Verfügung. (zum Beispiel Ausdruck von Listen, gruppenweise Zuordnung bestimmter Felder etc.)
 
 **Speichern**
 
@@ -84,7 +84,7 @@ Auch der Filter II kann vergleichbar den anderen Filterstufen zur späteren Wied
 
 Es öffnet sich ein Fenster mit der Liste der bisher gespeicherten Filterbedingungen.
 
-Der entsprechende Filter wird markiert und durch Übernehmen erscheint der Filter im Klartext und als SQL-Befehl im Fenster "Allgemeine Filterbedingung definieren" und kann mit weiteren einzelnen Filterbedingungen verknüpft bzw. erweitert werden.
+Der entsprechende Filter wird markiert und durch Übernehmen erscheint der Filter im Klartext und als SQL-Befehl im Fenster "Allgemeine Filterbedingung definieren" und kann mit weiteren einzelnen Filterbedingungen verknüpft beziehungsweise erweitert werden.
 
 **In Datei speichern**
 
@@ -98,7 +98,7 @@ Eine auf dem Datenträger gespeicherte Filterbedingung mit der Endung .sql kann 
 
 **Abbruch**
 
-Die Maske kann ohne Veränderungen verlassen werden.
+Die Eingabeansicht kann ohne Veränderungen verlassen werden.
 
 ------------------------------------------------------------------------
 

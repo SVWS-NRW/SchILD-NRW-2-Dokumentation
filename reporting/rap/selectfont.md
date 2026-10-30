@@ -11,20 +11,18 @@ title: "Selectfont"
 
 ## Beschreibung
 
+Dialog, um aus der Liste der im System registrierten Zeichensätze einen
+bestimmten Zeichensatz auszuwählen
+
 ```pascal
 function Selectfont(const Default: String): String;
 ```
-
-
-Dialog, um aus der Liste der im System registrierten Zeichensätze einen
-bestimmten Zeichensatz auszuwählen
 
 ## Parameter
 
 | Parameter | Bedeutung |
 | --- | --- |
 | `Default` | Standardwert für den Zeichensatz |
-
 
 ## Rückgabewert
 
@@ -41,7 +39,6 @@ begin
   Setfont(Report,NewFont);
 end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

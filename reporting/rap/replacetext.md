@@ -11,6 +11,8 @@ title: "ReplaceText"
 
 ## Beschreibung
 
+Ersetzt eine vorgegebene Textstelle durch einen anderen Text und liefert den veränderten Text zurück.
+
 ```pascal
 function ReplaceText(aSourceText, aSearchText,
                      aReplaceText: String): String;
@@ -24,7 +26,6 @@ function ReplaceText(aSourceText, aSearchText,
 | `aSearchText` | String, der ersetzt werden soll |
 | `aReplaceText` | String, der eingefügt werden soll |
 
-
 ## Rückgabewert
 
 Veränderter Quelltext
@@ -34,7 +35,6 @@ Veränderter Quelltext
 ```pascal
 Memo1.Text:=ReplaceText(Memo1.Text,'$VORNAME$',Schueler['Vorname']);
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

@@ -6,15 +6,15 @@ title: "Schülerliste und Auswahl"
 
 # Schülerliste und Auswahl
 
-![Container_re_Maus](/bilder/einstieg/grundlagen/container-re-maus.jpg)
+Die Schülerliste zeigt die Personen, auf die Ihre aktuelle Auswahl zutrifft. Im früheren Wiki und an einigen Programmstellen heißt dieser Bereich „Container“. Filter verändern den Inhalt der Liste; die Anzahl der ausgewählten Personen steht unten links.
 
-Der Container zeigt die aktuelle Schülerauswahl. In der linken unteren Ecke wird angezeigt, wie viele Schüler in der Auswahl sind.
+![Container_re_Maus](/bilder/einstieg/grundlagen/container-re-maus.jpg)
 
 Diese Auswahl ist entscheidend für viele weitere Tätigkeiten, die mit Schild-NRW ausgeführt werden sollen.
 
 So wirken sich alle angewählten Gruppenprozesse ausschließlich auf die im Container gefilterten Schüler aus.
 
-In der Regel wird auch beim Druck von Reports genau diese Schülermenge berücksichtigt.
+In der Regel wird auch beim Druck von Reports genau diese Schülergruppe berücksichtigt.
 
 Wie Sie die Menge der Schüler im Container beeinflussen können, wird in der Kategorie [Menü Auswahl](/schild2/auswahl/auswahl) erklärt. Dort werden zahlreiche Möglichkeiten beschrieben, wie man nach bestimmten Kriterien die Schülerauswahl im Container einschränken kann.
 
@@ -22,7 +22,7 @@ Neben der Funktion, die Menge der Schüler zur Weiterverarbeitung und zum Druck 
 
 **Informationen zu Farben anzeigen**\
 Hier öffnet sich ein Fenster, welches die verschiedenen Farbfunktionen im Container erklärt.\
-Als optisches Signal wird in besonderen Fällen der Schülername bzw. \
+Als optisches Signal wird in besonderen Fällen der Schülername beziehungsweise \
 der Hintergrund in der aktuellen Schülerauswahl farbig angezeigt.\
 
 \* Rot: „Keine Auskunft an Dritte!" \
@@ -39,7 +39,7 @@ wird die Schule über -\> Schulverwaltung -\> Schule bearbeiten auch i
 Schuljahr übertragen und die farbliche Markierung entfällt automatisch.\
 
 \* Grau: *Datensatz ist für die Bearbeitung gesperrt.* \
-Änderung:  "Vorhängeschlösser" in der Menüleiste -\> "Schüler sperren" bzw. "Sperrung aufheben". \
+Änderung:  "Vorhängeschlösser" in der Menüleiste -\> "Schüler sperren" beziehungsweise "Sperrung aufheben". \
 Nicht gewertete Abschnitte in der Tabelle auf der Karteikarte "Gesamtübersicht" sind grau hinterlegt.\
 
 \* Türkis: *Folgeschule nach Jg 04 ist eingetragen* Schüler der 4. Klasse, bei denen auf der \
@@ -65,7 +65,7 @@ und den markierten Schülern gibt. (Markierungen werden durch Doppelklic
 und zeigen sich durch den "fett" markierten Schriftsatz im Schülernamen.)\
 
 **Mit gedrückter STRG-Taste auswählen**\
-Wenn Sie die STRG-Taste gedrückt halten, können Sie danach eine gewünschte Schülermenge \
+Wenn Sie die STRG-Taste gedrückt halten, können Sie danach eine gewünschte Schülergruppe \
 durch Anklicken mit der "blauen" Auswahl versehen.\
 
 **Komplement zur Auswahl**\
@@ -76,7 +76,7 @@ Entfernt die "blaue" Auswahl der Schülerdatensätze.\
 
 **Ausgewählte Namen in Zwischenablage kopieren**\
 Schild-NRW kopiert sämtliche ausgewählte Schülernamen in der Form "Nachname, Vorname" in die Zwischenablage.\
-Dieses Ergebnis kann z.B. in ein Textdokument oder ein Worddokument eingefügt werden.\
+Dieses Ergebnis kann zum Beispiel in ein Textdokument oder ein Worddokument eingefügt werden.\
 
 **Auswahl in Excel-Datei exportieren**\
 Öffnet ein Fenster mit einer Tabellenvorschau, in der die sichtbaren Spalten eingefügt sind.\

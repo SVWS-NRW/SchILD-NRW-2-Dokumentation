@@ -6,6 +6,8 @@ title: "Unzulässige Fachkombinationen festlegen"
 
 # Unzulässige Fachkombinationen festlegen
 
+Hier legen Sie fest, welche Fächerkombinationen in einem bestimmten Zeitraum nicht zulässig sind. Die Einschränkungen können zusätzlich auf Kursarten begrenzt werden.
+
 Unter dem Knopf "Nicht mögliche Fächerkombinationen"
 
 ![NMFK-1](/bilder/schild2/unterricht-kataloge/nmfk-1.jpg)

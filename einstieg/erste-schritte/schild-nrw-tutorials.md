@@ -6,6 +6,8 @@ title: "Anleitungen für den Einstieg"
 
 # Anleitungen für den Einstieg
 
+Die Einstiegsanleitungen zeigen typische Aufgaben Schritt für Schritt. Beginnen Sie mit den Grundlagen und nutzen Sie die folgenden Verweise, wenn Sie eine konkrete Tätigkeit nachschlagen möchten.
+
 <a id="Schild-NRW-Installation"></a>
 
 ## Schild-NRW-Installation

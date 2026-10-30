@@ -11,6 +11,8 @@ title: "ReplaceStandardVar"
 
 ## Beschreibung
 
+Ersetzt einen angegebenen Standardplatzhalter in einem Text. Die Parameter bestimmen den Text und die zu ersetzende Standardvariable.
+
 ```pascal
 function ReplaceStandardVar(aText, aStandardVar: String): String;
 ```
@@ -22,7 +24,6 @@ function ReplaceStandardVar(aText, aStandardVar: String): String;
 | `aText` | Text, in dem die oder der Standard-Platzhalter ersetzt werden sollen. |
 | `aStandardVar` | Standardvariable, die ersetzt werden soll |
 
-
 ## Beispiel
 
 ```pascal
@@ -33,7 +34,6 @@ Procedure DetailBeforePrint;
    ...
  end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

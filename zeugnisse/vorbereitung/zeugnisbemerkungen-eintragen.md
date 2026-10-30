@@ -4,7 +4,7 @@ title: "Zeugnisbemerkungen eintragen"
 
 # Zeugnisbemerkungen eintragen
 
-Dieser Gruppenprozess ist geeignet, um für eine Gruppe Bemerkungen für das Zeugnis einzutragen. Dies ist z.B. sinnvoll, wenn eine ganze Jahrgangsstufe ein Sozialpraktikum absolviert hat und dies auf dem Zeugnis bescheinigt werden soll.
+Dieser Gruppenprozess ist geeignet, um für eine Gruppe Bemerkungen für das Zeugnis einzutragen. Dies ist zum Beispiel sinnvoll, wenn eine ganze Jahrgangsstufe ein Sozialpraktikum absolviert hat und dies auf dem Zeugnis bescheinigt werden soll.
 
 Nach Aufruf des Prozesses muss ausgewählt werden, um welche Bemerkungsart es sich handelt. Zur Verfügung stehen:
 
