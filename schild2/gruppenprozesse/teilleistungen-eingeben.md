@@ -20,4 +20,4 @@ Im zweiten Fenster können nun für jeden Schüler die Teilleistungen und ggf. B
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-474) · [Teilleistungen eingeben – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Teilleistungen+eingeben&oldid=3616)
+Quelle: [Teilleistungen eingeben – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Teilleistungen+eingeben&oldid=3616)

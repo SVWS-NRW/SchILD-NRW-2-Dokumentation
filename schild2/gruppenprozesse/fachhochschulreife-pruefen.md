@@ -18,4 +18,4 @@ Danach kann man die Ergebnisse unter dem Reiter [Schulischer Teil der Fachhochsc
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-367) · [Fachhochschulreife prüfen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fachhochschulreife+pr%C3%BCfen&oldid=2045)
+Quelle: [Fachhochschulreife prüfen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fachhochschulreife+pr%C3%BCfen&oldid=2045)

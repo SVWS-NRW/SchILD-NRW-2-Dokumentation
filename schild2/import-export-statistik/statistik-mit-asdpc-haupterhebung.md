@@ -604,4 +604,4 @@ Mitunter sind noch weitere "Weitere Belege" in Ihrer Statistik auszufüllen oder
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1343) · [Statistik mit ASDPC Haupterhebung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC+Haupterhebung&oldid=5313)
+Quelle: [Statistik mit ASDPC Haupterhebung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC+Haupterhebung&oldid=5313)

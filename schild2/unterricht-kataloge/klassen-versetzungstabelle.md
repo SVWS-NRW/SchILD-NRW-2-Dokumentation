@@ -86,4 +86,4 @@ Diese Schaltfläche kann dazu genutzt werden, die Angaben der Klasse auf die zug
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-296) · [Klassen-/Versetzungstabelle – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Klassen-%2FVersetzungstabelle&oldid=5741)
+Quelle: [Klassen-/Versetzungstabelle – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Klassen-%2FVersetzungstabelle&oldid=5741)

@@ -45,4 +45,4 @@ Hier findet, wie im Fenster kurz beschrieben, nur eine Übertragung ins nächste
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-518) · [Versetzung/Übertragung ins neue Halbjahr oder in Abschluss – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Versetzung%2F%C3%9Cbertragung+ins+neue+Halbjahr+oder+in+Abschluss&oldid=4647)
+Quelle: [Versetzung/Übertragung ins neue Halbjahr oder in Abschluss – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Versetzung%2F%C3%9Cbertragung+ins+neue+Halbjahr+oder+in+Abschluss&oldid=4647)

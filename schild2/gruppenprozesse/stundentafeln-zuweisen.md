@@ -22,4 +22,4 @@ Die gewählten Fächer werden je nach Einstellung mit einem Mausklick auf "Über
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-452) · [Stundentafeln zuweisen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Stundentafeln+zuweisen&oldid=3612)
+Quelle: [Stundentafeln zuweisen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Stundentafeln+zuweisen&oldid=3612)

@@ -45,4 +45,4 @@ Der untere Bereich zeigt Klasse, Schuljahr und Halbjahr, Statistikjahrgang, Klas
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-228) · [Individual-Daten I – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Individual-Daten+I&oldid=3714)
+Quelle: [Individual-Daten I – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Individual-Daten+I&oldid=3714)

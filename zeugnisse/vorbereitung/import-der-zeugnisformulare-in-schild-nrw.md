@@ -32,4 +32,4 @@ Die Zeugnisse benötigen keine eigenen Köpfe und Füße.
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-841) · [Import der Zeugnisformulare in Schild-NRW – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Import+der+Zeugnisformulare+in+Schild-NRW&oldid=5874)
+Quelle: [Import der Zeugnisformulare in Schild-NRW – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Import+der+Zeugnisformulare+in+Schild-NRW&oldid=5874)

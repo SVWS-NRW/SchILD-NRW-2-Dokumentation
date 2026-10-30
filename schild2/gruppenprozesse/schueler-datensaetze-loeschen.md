@@ -20,4 +20,4 @@ Klickt man auf die Schaltfläche "Löschaktion durchführen", erfolgt eine erneu
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-578) · [Schüler-Datensätze löschen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sch%C3%BCler-Datens%C3%A4tze+l%C3%B6schen&oldid=2247)
+Quelle: [Schüler-Datensätze löschen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sch%C3%BCler-Datens%C3%A4tze+l%C3%B6schen&oldid=2247)

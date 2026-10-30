@@ -52,4 +52,4 @@ Speichern Sie die Datei z.B. in den Ordner c:\temp. Starten Sie nun die Kommando
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-867) · [Lupo:Installation – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo%3AInstallation&oldid=5549)
+Quelle: [Lupo:Installation – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo%3AInstallation&oldid=5549)

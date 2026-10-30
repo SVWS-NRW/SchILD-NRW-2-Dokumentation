@@ -57,4 +57,4 @@ Die so eingestellten Bedingungen liefern dann die gewünschte Schülermenge, die
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-806) · [Benutzung von Filter I 001 – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Benutzung+von+Filter+I+001&oldid=3255)
+Quelle: [Benutzung von Filter I 001 – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Benutzung+von+Filter+I+001&oldid=3255)

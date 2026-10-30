@@ -97,4 +97,4 @@ Die unten abgebildete Tabelle gibt einen exemplarischen Überblick über die vor
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-240) · [JG-Tabelle-GS – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=JG-Tabelle-GS&oldid=4170)
+Quelle: [JG-Tabelle-GS – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=JG-Tabelle-GS&oldid=4170)

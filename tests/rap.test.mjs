@@ -37,7 +37,7 @@ test('Alle RAP-Artikel folgen der SchILD3-Gliederung und bewahren Quellen sowie 
   assert.equal(headings[0],'Beschreibung',file)
   assert.equal(headings.at(-1),'Beispiel',file)
   assert(source.includes('**Zurück zu [RAP-Funktionen](/reporting/rap)**'),file)
-  assert(source.includes('Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/'),file)
+  assert(source.includes('Quelle: [') && source.includes('https://wiki.svws.nrw.de/'),file)
   if(headings.includes('Parameter')){
    const parameters=source.split('## Parameter')[1].split(/\n## /)[0]
    assert(!parameters.includes('```text'),file)

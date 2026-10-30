@@ -21,4 +21,4 @@ Bitte haben Sie Verständnis, dass der Support keine Gewährleitsung auf Daten g
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-353) · [SQL-Befehle eingeben – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SQL-Befehle+eingeben&oldid=1544)
+Quelle: [SQL-Befehle eingeben – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SQL-Befehle+eingeben&oldid=1544)

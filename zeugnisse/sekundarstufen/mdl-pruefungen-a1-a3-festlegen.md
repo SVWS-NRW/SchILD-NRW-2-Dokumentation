@@ -24,4 +24,4 @@ Für einen einzelnen Schüler kann der Prozess auch unter dem Karteireiter "Abit
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-493) · [Mdl. Prüfungen A1-A3 festlegen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Mdl.+Pr%C3%BCfungen+A1-A3+festlegen&oldid=3632)
+Quelle: [Mdl. Prüfungen A1-A3 festlegen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Mdl.+Pr%C3%BCfungen+A1-A3+festlegen&oldid=3632)

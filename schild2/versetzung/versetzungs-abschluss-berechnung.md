@@ -16,4 +16,4 @@ Nach Aufruf des Prozesses werden die Berechnungen automatisch durchgeführt und 
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-500) · [Versetzungs-/Abschluss-Berechnung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Versetzungs-%2FAbschluss-Berechnung&oldid=3593)
+Quelle: [Versetzungs-/Abschluss-Berechnung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Versetzungs-%2FAbschluss-Berechnung&oldid=3593)

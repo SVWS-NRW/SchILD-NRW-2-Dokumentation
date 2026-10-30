@@ -1,5 +1,5 @@
 ---
-title: "Druckansicht: Arbeiten mit SchILD"
+title: "Druckvorschau: Arbeiten mit SchILD-NRW 2"
 aside: false
 search: false
 ---
@@ -8,6 +8,6 @@ search: false
 import { data } from './schild2.data.mjs'
 </script>
 
-# Arbeiten mit SchILD
+# Arbeiten mit SchILD-NRW 2
 
 <SectionPrintBook :articles="data.articles" :title="data.title" />

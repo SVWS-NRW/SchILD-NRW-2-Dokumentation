@@ -14,4 +14,4 @@ Abfragen, die vom verwendeten Report gemacht werden, tauchen nun an dieser Stell
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-513) · [Zugeordnete Zeugnisformulare drucken – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zugeordnete+Zeugnisformulare+drucken&oldid=2108)
+Quelle: [Zugeordnete Zeugnisformulare drucken – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zugeordnete+Zeugnisformulare+drucken&oldid=2108)

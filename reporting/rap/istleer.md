@@ -42,4 +42,4 @@ end;
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-37) · [IstLeer – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=IstLeer&oldid=58)
+Quelle: [IstLeer – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=IstLeer&oldid=58)

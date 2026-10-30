@@ -50,4 +50,4 @@ Laut Wiki-Quelle wirkt die Filterung in manchen Fällen erst im Druckbetrieb und
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-95) · [Setzefilter – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Setzefilter&oldid=2115)
+Quelle: [Setzefilter – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Setzefilter&oldid=2115)

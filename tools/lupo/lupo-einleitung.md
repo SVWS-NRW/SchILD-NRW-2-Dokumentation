@@ -44,4 +44,4 @@ Am Ende von EF.2 erfolgt eine zweite Beratungsrunde mit der bestehenden Beratung
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-863) · [Lupo:Einleitung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo%3AEinleitung&oldid=5579)
+Quelle: [Lupo:Einleitung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo%3AEinleitung&oldid=5579)

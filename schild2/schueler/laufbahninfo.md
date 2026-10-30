@@ -38,4 +38,4 @@ Hat ein Schüler in einem vorausgehenden Abschnitt einen Abschluss an der eigene
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-336) · [Laufbahninfo – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Laufbahninfo&oldid=3581)
+Quelle: [Laufbahninfo – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Laufbahninfo&oldid=3581)

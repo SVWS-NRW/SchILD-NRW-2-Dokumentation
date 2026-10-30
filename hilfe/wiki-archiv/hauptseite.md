@@ -161,4 +161,4 @@ Prognos PM2
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1) · [Hauptseite – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Hauptseite&oldid=6060)
+Quelle: [Hauptseite – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Hauptseite&oldid=6060)

@@ -291,4 +291,4 @@ In der vorgegebenen Version der Kreuztabelle werden die Spaltenüberschriften nu
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-666) · [Erstellen einfacher Reports – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Erstellen+einfacher+Reports&oldid=4143)
+Quelle: [Erstellen einfacher Reports – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Erstellen+einfacher+Reports&oldid=4143)

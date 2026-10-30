@@ -23,4 +23,4 @@ Im nächsten Menüpunkt unter 'Schulverwaltung' können Sie verschiedene Klassen
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-299) · [Klassengruppen/Abteilungen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Klassengruppen%2FAbteilungen&oldid=1357)
+Quelle: [Klassengruppen/Abteilungen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Klassengruppen%2FAbteilungen&oldid=1357)

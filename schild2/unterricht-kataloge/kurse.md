@@ -154,4 +154,4 @@ Hier kann für alle markierten Kurse gleichzeitig die Fortschreibungsart
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-370) · [Kurse – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurse&oldid=3757)
+Quelle: [Kurse – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurse&oldid=3757)

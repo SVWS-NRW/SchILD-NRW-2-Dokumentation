@@ -14,4 +14,4 @@ Wichtig: Wenn man "Transaktionsprotokoll zeigen" aufruft, wird anschließend das
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-900) · [Transaktionsprotokoll verwenden – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Transaktionsprotokoll+verwenden&oldid=3419)
+Quelle: [Transaktionsprotokoll verwenden – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Transaktionsprotokoll+verwenden&oldid=3419)

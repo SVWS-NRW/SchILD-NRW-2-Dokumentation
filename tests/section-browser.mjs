@@ -1,49 +1,52 @@
 import assert from 'node:assert/strict'
+import fs from 'node:fs'
+import { articlePath } from '../.vitepress/section-navigation.mjs'
+const navigation=JSON.parse(fs.readFileSync('.vitepress/navigation.json','utf8'))
+const walk=items=>items.flatMap(item=>[item,...walk(item.items||[])])
 
 export async function checkSectionMenus(page,base) {
  const prefix=new URL(base).pathname.replace(/\/$/,'')
- // A normal direct visit must not be claimed by the reference or a foreign topic.
- for(const [target,section]of [
-  ['/einstieg/grundlagen/hauptfenster.html','einstieg'],
-  ['/schild2/schueler/individual-daten-i.html','schild2'],
-  ['/tools/notenmodul-grundschule/leistungsdaten.html','tools']
- ]) {
-  await page.goto(base+target,{waitUntil:'networkidle'})
-  assert.equal(await page.locator('#VPSidebarNav .group').first().getByRole('link',{name:'Übersicht',exact:true}).getAttribute('href'),prefix+'/'+section+'/','Direktaufruf braucht seine primäre Rubrik')
+ const cases=[]
+ for(const [section,groups] of Object.entries(navigation.sidebar)) {
+  if(section==='/programmreferenz/')continue // custom reference navigation tested separately
+  const topics=groups[0].items.slice(2)
+  const category=topics.find(item=>item.items?.some(child=>child.link))
+  const candidate=category ? walk(category.items).find(x=>x.link?.startsWith('/')&&!x.link.includes('#')) : topics.find(x=>x.link)
+  if(!candidate)continue
+  cases.push({section,target:candidate.link,start:category?.link||candidate.link})
  }
- const cases=[
-  {start:'/einstieg/grundlagen.html',target:'/einstieg/grundlagen/schild-nrw-index',section:'einstieg',label:'Einstieg',heading:'Das Programm im Überblick'},
-  {start:'/schild2/schueler.html',target:'/schild2/schueler/deutschfoerderung-nach-bass-13-63-nr-3-stand-29-08-2024',section:'schild2',label:'SchILD2',heading:'Deutschförderung'},
-  {start:'/zeugnisse/grundschule.html',target:'/tools/notenmodul-grundschule/leistungsdaten',section:'zeugnisse',label:'Zeugnisse',heading:'Noten und Kompetenzen eingeben'},
-  {start:'/tools/notenmodul-grundschule.html',target:'/tools/notenmodul-grundschule/leistungsdaten',section:'tools',label:'Tools',heading:'Noten und Kompetenzen eingeben'},
-  {start:'/administration/benutzer-einstellungen.html',target:'/administration/benutzer-einstellungen/benutzerverwaltung',section:'administration',label:'SchILD2',heading:'Benutzerrechte in KM2'},
-  {start:'/reporting/verwaltung.html',target:'/reporting/verwaltung/mailversand-aus-der-reporting',section:'reporting',label:'Reporting',heading:'Reports per E-Mail versenden'}
- ]
+ // A shared article must stay in either the working rubric or the tool rubric.
+ cases.push({section:'/schild2/',start:'/zeugnisse/grundschule',target:'/tools/notenmodul-grundschule/leistungsdaten'})
  for(const scenario of cases) {
-  await page.goto(base+scenario.start,{waitUntil:'networkidle'})
-  const link=page.locator(`#VPSidebarNav a[href*="${scenario.target}"][href*="rubrik="]`).first()
-  assert(await link.isVisible(),`Artikel muss im aufgeklappten Themenzweig sichtbar sein: ${scenario.target}`)
-  await link.click()
-  await page.waitForURL(url=>url.pathname===prefix+scenario.target+'.html'&&url.searchParams.get('rubrik')===scenario.section)
-  await page.waitForFunction(heading=>document.querySelector('.vp-doc h1')?.innerText.replace(/\u200b/g,'').trim()===heading,scenario.heading)
-  assert.equal((await page.locator('.vp-doc h1').first().innerText()).replace(/\u200b/g,'').trim(),scenario.heading)
+  const {start,target}=scenario
+  let section=scenario.section
+  const url=new URL(start,base)
+  if(!url.pathname.endsWith('/')&&!url.pathname.endsWith('.html'))url.pathname+='.html'
+  url.searchParams.set('rubrik',section.slice(1,-1))
+  await page.goto(url.href,{waitUntil:'networkidle'})
+  const link=page.locator('#VPSidebarNav a').filter({visible:true})
+  const targetUrl=articlePath(target)
+  const links=await link.evaluateAll(nodes=>nodes.map(n=>n.getAttribute('href')))
+  const href=links.find(h=>h&&articlePath(h.replace(prefix,''))===targetUrl)
+  assert(href,`Sichtbarer Artikel fehlt in ${section}: ${target}`)
+  await page.locator('#VPSidebarNav a[href="'+href+'"]').first().click()
+  await page.waitForLoadState('networkidle')
+  if(section==='/tools/' && navigation.sidebar[articlePath(target)+'/'])section=articlePath(target)+'/'
   const check=async()=>{
-   const overview=await page.locator('#VPSidebarNav .group').first().getByRole('link',{name:'Übersicht',exact:true}).getAttribute('href')
-   assert.equal(overview,prefix+'/'+scenario.section+'/','Die Rubrik muss erhalten bleiben')
+   await page.waitForFunction(expected=>{const link=document.querySelector('#VPSidebarNav a');return link&&new URL(link.href).searchParams.get('rubrik')===expected},section.slice(1,-1))
+   assert.equal(new URL(page.url()).searchParams.get('rubrik'),section.slice(1,-1))
+   const overview=await page.locator('#VPSidebarNav').getByRole('link',{name:'Übersicht',exact:true}).first().getAttribute('href')
+   assert.equal(articlePath(overview.replace(prefix,'')),articlePath(section),`Rubrik gewechselt: ${target}`)
    const active=await page.locator('.VPNavBarMenu > .active').evaluateAll(nodes=>nodes.map(node=>(node.querySelector(':scope > .button .text')||node).textContent.trim()))
-   assert.deepEqual(active,[scenario.label],'Das Hauptmenü muss denselben Lesekontext zeigen')
+   const label=section.startsWith('/tools/')?'Tools':section==='/schild2/'?'Arbeiten mit SchILD2':section==='/hilfe/'?'Hilfe':'Reporting'
+   assert.deepEqual(active,[label])
   }
-  await check()
-  await page.reload({waitUntil:'networkidle'})
-  await check()
+  await check();await page.reload({waitUntil:'networkidle'});await check()
   const next=page.locator('.VPDocFooter a.next')
   if(await next.count()) {
-   const href=await next.getAttribute('href')
-   // Overview destinations intentionally need no parameter; article steps do.
-   assert(new URL(href,base).searchParams.get('rubrik')===scenario.section||new URL(href,base).pathname===prefix+'/'+scenario.section+'/')
    await next.click();await page.waitForLoadState('networkidle');await check()
    await page.goBack({waitUntil:'networkidle'});await check()
   }
  }
- console.log('Rubrikkontext: sechs echte Menüwege mit Neuladen, Weiterblättern und Zurück geprüft.')
+ console.log(`${cases.length} Rubrik- und Toolmenüs mit Artikelklick, Neuladen und Weiterblättern geprüft.`)
 }

@@ -51,4 +51,4 @@ Für jedes Import-Schema wird ein eigener Satz von Zuordnungstabellen erzeugt.
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-260) · [Import aus Textdateien – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Import+aus+Textdateien&oldid=1126)
+Quelle: [Import aus Textdateien – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Import+aus+Textdateien&oldid=1126)

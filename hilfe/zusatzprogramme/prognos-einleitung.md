@@ -12,4 +12,4 @@ Verfügbar ist das Programm neben dem Hauptprogramm Schild-NRW in dessen Downloa
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1224) · [Prognos:Einleitung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Prognos%3AEinleitung&oldid=4836)
+Quelle: [Prognos:Einleitung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Prognos%3AEinleitung&oldid=4836)

@@ -38,4 +38,4 @@ Führen Sie den Mauszeiger über die verschiedenen Symbole. Die Bedeutungen werd
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1104) · [S1PLAN:Anhang – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=S1PLAN%3AAnhang&oldid=4075)
+Quelle: [S1PLAN:Anhang – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=S1PLAN%3AAnhang&oldid=4075)

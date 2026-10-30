@@ -59,4 +59,4 @@ Die einfachste Variante für ein Programm-Update kann mit Hilfe des Programms KM
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-576) · [KM2-Programmupdate – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=KM2-Programmupdate&oldid=2395)
+Quelle: [KM2-Programmupdate – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=KM2-Programmupdate&oldid=2395)

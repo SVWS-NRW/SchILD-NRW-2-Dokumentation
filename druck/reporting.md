@@ -1,5 +1,5 @@
 ---
-title: "Druckansicht: Reporting"
+title: "Druckvorschau: Arbeiten mit der Reportverwaltung und dem Reportdesigner"
 aside: false
 search: false
 ---
@@ -8,6 +8,6 @@ search: false
 import { data } from './reporting.data.mjs'
 </script>
 
-# Reporting
+# Arbeiten mit der Reportverwaltung und dem Reportdesigner
 
 <SectionPrintBook :articles="data.articles" :title="data.title" />

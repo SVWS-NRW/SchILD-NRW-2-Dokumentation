@@ -50,5 +50,25 @@
   {
     "path": "reporting/rap/rap-funktionen.md",
     "replacement": "/reporting/rap"
+  },
+  {
+    "path": "einstieg/index.md",
+    "replacement": "/schild2/"
+  },
+  {
+    "path": "administration/index.md",
+    "replacement": "/schild2/"
+  },
+  {
+    "path": "druck/einstieg.md",
+    "replacement": "/druck/schild2.html"
+  },
+  {
+    "path": "druck/administration.md",
+    "replacement": "/druck/schild2.html"
+  },
+  {
+    "path": "druck/zeugnisse.md",
+    "replacement": "/druck/schild2.html"
   }
 ]

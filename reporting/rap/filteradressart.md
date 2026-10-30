@@ -31,4 +31,4 @@ Siehe [SelectAdressArt](/reporting/rap/selectadressart).
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-24) · [FilterAdressArt – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FilterAdressArt&oldid=45)
+Quelle: [FilterAdressArt – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FilterAdressArt&oldid=45)

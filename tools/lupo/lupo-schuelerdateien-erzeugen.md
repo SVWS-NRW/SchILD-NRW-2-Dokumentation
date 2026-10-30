@@ -55,4 +55,4 @@ Die Schülerversion des Beratungstools öffnet lediglich Beratungsdateien mit de
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-981) · [Lupo:Schülerdateien erzeugen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo%3ASch%C3%BClerdateien+erzeugen&oldid=5551)
+Quelle: [Lupo:Schülerdateien erzeugen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo%3ASch%C3%BClerdateien+erzeugen&oldid=5551)

@@ -69,4 +69,4 @@ Sind die Zeugnisvorbereitungen abgeschlossen, kann der Druck der Zeugnisse durch
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-659) · [Zeugnisvorbereitungen und Druck – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zeugnisvorbereitungen+und+Druck&oldid=2981)
+Quelle: [Zeugnisvorbereitungen und Druck – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zeugnisvorbereitungen+und+Druck&oldid=2981)

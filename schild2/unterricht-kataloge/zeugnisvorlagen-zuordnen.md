@@ -24,4 +24,4 @@ Die Angabe des Jahrgangs ist ab der Version 2.0.7.1 nicht mehr verpflichtend. Hi
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-371) · [Zeugnisvorlagen zuordnen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zeugnisvorlagen+zuordnen&oldid=1799)
+Quelle: [Zeugnisvorlagen zuordnen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zeugnisvorlagen+zuordnen&oldid=1799)

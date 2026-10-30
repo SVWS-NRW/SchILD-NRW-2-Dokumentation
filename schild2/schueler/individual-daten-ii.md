@@ -40,4 +40,4 @@ Abhängig von der Schulform werden weitere Abschnitte eingeblendet:
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-328) · [Individual-Daten II – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Individual-Daten+II&oldid=3024)
+Quelle: [Individual-Daten II – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Individual-Daten+II&oldid=3024)

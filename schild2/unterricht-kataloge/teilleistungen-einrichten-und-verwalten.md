@@ -56,4 +56,4 @@ Wenn man eine Übersicht sehen möchte, muss man einen passenden Report verwende
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1146) · [Teilleistungen einrichten und verwalten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Teilleistungen+einrichten+und+verwalten&oldid=5289)
+Quelle: [Teilleistungen einrichten und verwalten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Teilleistungen+einrichten+und+verwalten&oldid=5289)

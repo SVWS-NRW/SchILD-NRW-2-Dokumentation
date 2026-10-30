@@ -32,4 +32,4 @@ Im Wahldialog können die bestehenden Konflikte mit Hilfe der Schaltfläche „K
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-983) · [Lupo:Auswertung der Fachwahlen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo%3AAuswertung+der+Fachwahlen&oldid=5553)
+Quelle: [Lupo:Auswertung der Fachwahlen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo%3AAuswertung+der+Fachwahlen&oldid=5553)

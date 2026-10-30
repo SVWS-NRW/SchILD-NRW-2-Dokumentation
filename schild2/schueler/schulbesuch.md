@@ -85,4 +85,4 @@ Zusätzliche Eintragungen können über das "Plussymbol" ergänzt werden.
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-329) · [Schulbesuch – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schulbesuch&oldid=3679)
+Quelle: [Schulbesuch – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schulbesuch&oldid=3679)

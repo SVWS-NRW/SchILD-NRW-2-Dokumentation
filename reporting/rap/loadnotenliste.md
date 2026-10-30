@@ -38,4 +38,4 @@ dadurch überschrieben.
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-45) · [LoadNotenliste – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LoadNotenliste&oldid=66)
+Quelle: [LoadNotenliste – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LoadNotenliste&oldid=66)

@@ -18,4 +18,4 @@ Eine Aktivierung der Option In Sekundarstufe II Kurse anlegen ist nicht sinnvoll
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-269) · [UVD-Datei importieren – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=UVD-Datei+importieren&oldid=1151)
+Quelle: [UVD-Datei importieren – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=UVD-Datei+importieren&oldid=1151)

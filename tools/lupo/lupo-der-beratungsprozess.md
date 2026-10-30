@@ -179,4 +179,4 @@ SuS, die nicht zum Beratungstermin erscheinen konnten, können Sie im Menü „D
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-982) · [Lupo:Der Beratungsprozess – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo%3ADer+Beratungsprozess&oldid=5849)
+Quelle: [Lupo:Der Beratungsprozess – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo%3ADer+Beratungsprozess&oldid=5849)

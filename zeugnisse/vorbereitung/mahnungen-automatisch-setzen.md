@@ -12,4 +12,4 @@ Wird der Gruppenprozess angestoßen, kommt nur eine Abfrage, ob die Mahnungen au
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-485) · [Mahnungen automatisch setzen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Mahnungen+automatisch+setzen&oldid=2033)
+Quelle: [Mahnungen automatisch setzen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Mahnungen+automatisch+setzen&oldid=2033)

@@ -22,4 +22,4 @@ Filtern Sie die Schülerinnen und Schüler des Halbtagsunterrichts. Markieren Si
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-921) · [Eintragung der Schüler im offenen Ganztag – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Eintragung+der+Sch%C3%BCler+im+offenen+Ganztag&oldid=6036)
+Quelle: [Eintragung der Schüler im offenen Ganztag – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Eintragung+der+Sch%C3%BCler+im+offenen+Ganztag&oldid=6036)

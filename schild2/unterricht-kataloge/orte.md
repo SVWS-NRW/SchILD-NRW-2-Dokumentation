@@ -20,4 +20,4 @@ Der Ortsname wird dann normal im vorgesehenen Eingabefeld von Hand eingetippt. A
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-180) · [Orte – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Orte&oldid=2820)
+Quelle: [Orte – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Orte&oldid=2820)

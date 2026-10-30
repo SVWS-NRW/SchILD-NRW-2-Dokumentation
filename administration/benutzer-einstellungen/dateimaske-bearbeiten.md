@@ -22,4 +22,4 @@ Testen Sie bitte die gewünschte Dokumentenstruktur ausführlich in einem Probes
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-335) · [Dateimaske bearbeiten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Dateimaske+bearbeiten&oldid=1508)
+Quelle: [Dateimaske bearbeiten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Dateimaske+bearbeiten&oldid=1508)

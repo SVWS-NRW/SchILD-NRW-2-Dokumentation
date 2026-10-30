@@ -40,4 +40,4 @@ Haftungsausschluss Das Ministerium für Schule und Bildung des Landes Nordrhein-
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1153) · [Schild-NRW Wiki:Impressum – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schild-NRW+Wiki%3AImpressum&oldid=4283)
+Quelle: [Schild-NRW Wiki:Impressum – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schild-NRW+Wiki%3AImpressum&oldid=4283)

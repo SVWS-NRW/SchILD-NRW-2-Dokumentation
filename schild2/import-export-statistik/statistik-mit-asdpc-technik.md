@@ -194,4 +194,4 @@ Zum Vergrößern klicken.
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1336) · [Statistik mit ASDPC-Technik – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC-Technik&oldid=5307)
+Quelle: [Statistik mit ASDPC-Technik – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC-Technik&oldid=5307)

@@ -66,4 +66,4 @@ Fall C:
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1022) · [S1PLAN:Übersicht – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=S1PLAN%3A%C3%9Cbersicht&oldid=4044)
+Quelle: [S1PLAN:Übersicht – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=S1PLAN%3A%C3%9Cbersicht&oldid=4044)

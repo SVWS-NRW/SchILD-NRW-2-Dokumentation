@@ -39,4 +39,4 @@ if einzelelement( txt, ',', 2 ) = '2' then
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-119) · [EinzelElement – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=EinzelElement&oldid=164)
+Quelle: [EinzelElement – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=EinzelElement&oldid=164)

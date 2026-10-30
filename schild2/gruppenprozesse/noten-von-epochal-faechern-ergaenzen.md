@@ -14,4 +14,4 @@ Wird z.B. Musik in der Jahrgangsstufe 7 nur im ersten Halbjahr unterrichtet und 
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-512) · [Noten von Epochal-Fächern ergänzen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Noten+von+Epochal-F%C3%A4chern+erg%C3%A4nzen&oldid=2110)
+Quelle: [Noten von Epochal-Fächern ergänzen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Noten+von+Epochal-F%C3%A4chern+erg%C3%A4nzen&oldid=2110)

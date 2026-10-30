@@ -20,4 +20,4 @@ Außerdem steht für die Teilleistungen noch ein Gruppenprozess unter der Rubrik
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-372) · [Teilleistungs-Arten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Teilleistungs-Arten&oldid=4243)
+Quelle: [Teilleistungs-Arten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Teilleistungs-Arten&oldid=4243)

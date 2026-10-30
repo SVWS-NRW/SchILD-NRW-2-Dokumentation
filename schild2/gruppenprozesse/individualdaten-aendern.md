@@ -26,4 +26,4 @@ Bitte beachten Sie, dass alle eingetragenen Werte auch bei allen Schülern, die 
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-321) · [Individualdaten ändern – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Individualdaten+%C3%A4ndern&oldid=1618)
+Quelle: [Individualdaten ändern – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Individualdaten+%C3%A4ndern&oldid=1618)

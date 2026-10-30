@@ -87,4 +87,4 @@ Zum Vergrößern klicken.
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1337) · [Statistik mit ASDPC-Aufbau – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC-Aufbau&oldid=5254)
+Quelle: [Statistik mit ASDPC-Aufbau – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC-Aufbau&oldid=5254)

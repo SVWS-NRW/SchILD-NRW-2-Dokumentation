@@ -24,4 +24,4 @@ In diesem Fall geben Sie (z.B. als Klassenlehrer) die Gesamt-Fehlzeiten bei den 
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-478) · [Fehlstunden-Summen automatisch berechnen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fehlstunden-Summen+automatisch+berechnen&oldid=1987)
+Quelle: [Fehlstunden-Summen automatisch berechnen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fehlstunden-Summen+automatisch+berechnen&oldid=1987)

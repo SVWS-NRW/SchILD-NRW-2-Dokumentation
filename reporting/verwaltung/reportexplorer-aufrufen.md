@@ -54,4 +54,4 @@ Informationen über die Datenquellen erhält man mit dem Klick auf das Symbol ![
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-536) · [Reportexplorer aufrufen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Reportexplorer+aufrufen&oldid=2416)
+Quelle: [Reportexplorer aufrufen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Reportexplorer+aufrufen&oldid=2416)

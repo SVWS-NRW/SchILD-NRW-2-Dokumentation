@@ -10,4 +10,4 @@ Zur Gruppierung der Adressen im Katalog Allgemeine Adressen dient die Tabelle Ad
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-194) · [Adress-Arten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Adress-Arten&oldid=529)
+Quelle: [Adress-Arten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Adress-Arten&oldid=529)

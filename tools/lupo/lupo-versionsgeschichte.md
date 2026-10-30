@@ -209,4 +209,4 @@ In LuPO (und SchILD) wurde die APO-GOSt(B)10/G8 in APO-GOSt(B)10 umbenannt, um V
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1373) · [Lupo:Versionsgeschichte – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo%3AVersionsgeschichte&oldid=6009)
+Quelle: [Lupo:Versionsgeschichte – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo%3AVersionsgeschichte&oldid=6009)

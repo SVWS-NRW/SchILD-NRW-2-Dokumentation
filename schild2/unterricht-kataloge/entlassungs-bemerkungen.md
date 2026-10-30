@@ -16,4 +16,4 @@ Die Anzeige-Reihenfolge im 'Drop-Down-Menü' können Sie hier ebenfalls einstell
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-193) · [Entlassungs-Bemerkungen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Entlassungs-Bemerkungen&oldid=527)
+Quelle: [Entlassungs-Bemerkungen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Entlassungs-Bemerkungen&oldid=527)

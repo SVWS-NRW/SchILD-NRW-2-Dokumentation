@@ -12,4 +12,4 @@ Sinnvoll ist dieser Gruppenprozess, bevor Sie die Dateien für das externe Noten
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-464) · [Fächer ohne Lehrkraft suchen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%A4cher+ohne+Lehrkraft+suchen&oldid=1897)
+Quelle: [Fächer ohne Lehrkraft suchen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%A4cher+ohne+Lehrkraft+suchen&oldid=1897)

@@ -18,4 +18,4 @@ Da dies bei Berufskollegs sehr zeitaufwändig sein kann, steht diese Funktion be
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-348) · [Fächer in Leistungsdaten neu sortieren – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%A4cher+in+Leistungsdaten+neu+sortieren&oldid=2050)
+Quelle: [Fächer in Leistungsdaten neu sortieren – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%A4cher+in+Leistungsdaten+neu+sortieren&oldid=2050)

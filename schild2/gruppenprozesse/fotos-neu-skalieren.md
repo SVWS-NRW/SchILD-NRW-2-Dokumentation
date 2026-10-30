@@ -17,4 +17,4 @@ Bitte beachten Sie, dass eine "Höherskalierung" nicht möglich ist!
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-349) · [Fotos neu skalieren – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fotos+neu+skalieren&oldid=1531)
+Quelle: [Fotos neu skalieren – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fotos+neu+skalieren&oldid=1531)

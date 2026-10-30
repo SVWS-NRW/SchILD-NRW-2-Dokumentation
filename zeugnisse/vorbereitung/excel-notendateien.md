@@ -36,4 +36,4 @@ Zur Noteneingabe können jetzt auch Excel-Dateien verwendet werden. Hierzu steht
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-719) · [Excel-Notendateien – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Excel-Notendateien&oldid=2774)
+Quelle: [Excel-Notendateien – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Excel-Notendateien&oldid=2774)

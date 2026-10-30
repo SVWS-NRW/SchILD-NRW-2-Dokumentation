@@ -1,5 +1,5 @@
 ---
-title: "Druckansicht: Tools und Zusatzprogramme"
+title: "Druckvorschau: Tools und Zusatzprogramme"
 aside: false
 search: false
 ---

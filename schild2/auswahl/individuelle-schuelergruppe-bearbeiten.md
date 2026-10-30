@@ -22,4 +22,4 @@ Nach dem Speichern verlässt man diesen Menüpunkt und markiert im Schüler-Cont
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-149) · [Individuelle Schülergruppe bearbeiten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Individuelle+Sch%C3%BClergruppe+bearbeiten&oldid=966)
+Quelle: [Individuelle Schülergruppe bearbeiten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Individuelle+Sch%C3%BClergruppe+bearbeiten&oldid=966)

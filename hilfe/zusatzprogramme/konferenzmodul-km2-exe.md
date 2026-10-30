@@ -135,4 +135,4 @@ Bei der Installation des Programms (genauer beim ersten Aufruf von KM2) wird ein
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-529) · [Konferenzmodul KM2.exe – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Konferenzmodul+KM2.exe&oldid=5507)
+Quelle: [Konferenzmodul KM2.exe – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Konferenzmodul+KM2.exe&oldid=5507)

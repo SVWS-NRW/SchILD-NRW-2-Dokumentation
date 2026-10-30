@@ -18,4 +18,4 @@ Weiterhin muss man einen Eintrag bei "Reihenfolge" und dem "Beginn-" bzw. "End"-
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-362) · [Sprachenfolge zuweisen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sprachenfolge+zuweisen&oldid=1900)
+Quelle: [Sprachenfolge zuweisen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sprachenfolge+zuweisen&oldid=1900)

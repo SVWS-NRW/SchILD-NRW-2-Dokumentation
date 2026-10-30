@@ -22,13 +22,13 @@ npm run docs:check
 npm run docs:preview
 ```
 
-Der statische Webauftritt liegt in `.vitepress/dist/`. Für das vollständige Quellenarchiv kann beim Build mehr Node-Arbeitsspeicher nötig sein. Die GitHub-Prüfungen stellen 6 GiB bereit. Bei Bedarf lokal `NODE_OPTIONS=--max-old-space-size=6144` setzen (PowerShell: `$env:NODE_OPTIONS='--max-old-space-size=6144'`).
+Der statische Webauftritt liegt in `.vitepress/dist/`. Bei umfangreichen Druckansichten kann beim Build mehr Node-Arbeitsspeicher nötig sein. Die GitHub-Prüfungen stellen 6 GiB bereit. Bei Bedarf lokal `NODE_OPTIONS=--max-old-space-size=6144` setzen (PowerShell: `$env:NODE_OPTIONS='--max-old-space-size=6144'`).
 
 Die begrenzte Browserprüfung läuft mit `npm run docs:check-browser`; Playwright wird durch `npm ci` in der festgelegten Version installiert. Einmalig `npx playwright install chromium` ausführen. Sie prüft repräsentative Ansichten und Bedienwege. Normale Artikelpflege benötigt weder Python noch Pandoc.
 
 ## Aufbau und Pflege
 
-Das Kopfmenü hat sechs Zugänge: **Einstieg · SchILD2 · Zeugnisse · Reporting · Tools · Nachschlagen**. SchILD2 bündelt Arbeiten und Administration; Nachschlagen erschließt Programmreferenz, Hilfe, Artikelindex, Bilder und Quellenarchiv.
+Das Kopfmenü hat fünf Zugänge: **Arbeiten mit SchILD2 · Programmreferenz · Reporting · Tools · Hilfe**. Jedes Tool hat ein eigenes Themenmenü mit Übersicht und Druckvorschau.
 
 - Artikel direkt in ihren Markdown-Dateien bearbeiten. Sichtbare Quellenlinks, fachliche Einzelheiten, Beispiele und benötigte Sprungziele erhalten.
 - `.vitepress/navigation.json` enthält Themenmenüs und Hauptnavigation; `.vitepress/program-reference.json` die SchILD2-Programmreferenz.
@@ -40,11 +40,7 @@ Das Kopfmenü hat sechs Zugänge: **Einstieg · SchILD2 · Zeugnisse · Reportin
 
 ## Quellen und Inhaltserhalt
 
-Das Quellenarchiv erhält alle **1.405 gesicherten Wiki-Seiten und 910 hochgeladenen Originaldateien**, einschließlich der nicht mehr in Fachartikeln verwendeten Dateien. Die Quelltexte stehen unter `/quellen/` und als ZIP unter `public/dateien/quellen/wiki-quelltexte.zip`; frühere Bearbeitungsstände und gelöschte Wiki-Seiten sind nicht Teil dieser Bestandssicherung.
-
-Die normale Dokumentation enthält 461 übernommene Wiki-Artikel sowie 15 ergänzende PDF-Anleitungen. Zwölf frühere Leer- oder Weiterleitungsartikel führen zu Ersatzinhalten. Neun PDF-Quellen sind in Artikeln ausgewertet. Alle Originalquellen bleiben unabhängig von der weiteren Redaktion erhalten.
-
-Historische Konverter und eingefrorene Artikelprüfungen wurden nach geprüfter lokaler Sicherung und ausdrücklicher Freigabe entfernt. Die Git-Historie bewahrt den bisherigen Importstand. Normale Pflege ist nicht an alte Textprüfsummen gebunden. Den Abgleich mit der SchILD3-Arbeitsliste dokumentiert [UMSETZUNG.md](UMSETZUNG.md).
+Das frühere Quellenarchiv und ausschließlich dort verwendete Dateien wurden auf Wunsch des Herausgebers entfernt. Verwendete Artikelbilder und Dateien bleiben erhalten. Quellenangaben verweisen auf die ursprünglichen Wiki-Seiten. Der frühere Archivstand bleibt in der Git-Historie nachvollziehbar.
 
 ## Veröffentlichung
 

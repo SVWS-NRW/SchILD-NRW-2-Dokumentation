@@ -60,4 +60,4 @@ Wenn dies Ihre Filterkriterien sind, gehen Sie auf **Übernehmen**.
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1272) · [Einwilligungen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Einwilligungen&oldid=5040)
+Quelle: [Einwilligungen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Einwilligungen&oldid=5040)

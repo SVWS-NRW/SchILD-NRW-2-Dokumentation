@@ -18,4 +18,4 @@ In der Spalte Export-Bezeichnung können Bezeichnungen eingetragen werden, die f
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-169) · [Erzieher-Arten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Erzieher-Arten&oldid=935)
+Quelle: [Erzieher-Arten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Erzieher-Arten&oldid=935)

@@ -100,4 +100,4 @@ Quelle der Ergänzung: [S1Plan-Bedienungsanleitung, Druckstand 11.12.2018](https
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1090) · [S1PLAN:Übernahme von Kursen aus Schild – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=S1PLAN%3A%C3%9Cbernahme+von+Kursen+aus+Schild&oldid=4073)
+Quelle: [S1PLAN:Übernahme von Kursen aus Schild – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=S1PLAN%3A%C3%9Cbernahme+von+Kursen+aus+Schild&oldid=4073)

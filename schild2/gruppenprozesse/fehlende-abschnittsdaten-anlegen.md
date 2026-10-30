@@ -18,4 +18,4 @@ Diese Funktion ist z.B. nach der Aktivierung aller Neuaufnahmen sinnvoll.
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-346) · [Fehlende Abschnittsdaten anlegen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fehlende+Abschnittsdaten+anlegen&oldid=1541)
+Quelle: [Fehlende Abschnittsdaten anlegen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fehlende+Abschnittsdaten+anlegen&oldid=1541)

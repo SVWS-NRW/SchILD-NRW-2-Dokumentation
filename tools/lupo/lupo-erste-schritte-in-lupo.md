@@ -128,4 +128,4 @@ In diesem Dialog kann zudem für jedes Fach für jedes Halbjahr der Einführungs
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-980) · [Lupo:Erste Schritte in Lupo – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo%3AErste+Schritte+in+Lupo&oldid=5550)
+Quelle: [Lupo:Erste Schritte in Lupo – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo%3AErste+Schritte+in+Lupo&oldid=5550)

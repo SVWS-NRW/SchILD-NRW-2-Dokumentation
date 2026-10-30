@@ -36,4 +36,4 @@ Ist die Eingabe beendet, bitte nicht vergessen, auf die Schaltfläche "In Datenb
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-491) · [Prüfungsergebnisse eingeben – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Pr%C3%BCfungsergebnisse+eingeben&oldid=3631)
+Quelle: [Prüfungsergebnisse eingeben – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Pr%C3%BCfungsergebnisse+eingeben&oldid=3631)

@@ -18,4 +18,4 @@ Eine einzelne gewünschte, exportierte Textdatei kann im Explorer mit Doppelklic
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-253) · [Kataloge exportieren – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kataloge+exportieren&oldid=1070)
+Quelle: [Kataloge exportieren – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kataloge+exportieren&oldid=1070)

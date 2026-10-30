@@ -18,4 +18,4 @@ Wählen Sie die an Ihrer Schule benötigten Sprachen ein und sortieren diese ggf
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-167) · [Verkehrssprachen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Verkehrssprachen&oldid=3777)
+Quelle: [Verkehrssprachen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Verkehrssprachen&oldid=3777)

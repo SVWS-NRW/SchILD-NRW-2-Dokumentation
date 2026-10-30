@@ -12,4 +12,4 @@ Dieser Gruppenprozess bildet den Abschluss für die Berechnungen in SchILD und s
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-499) · [Abitur-Jahr setzen (für Statistik) – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Abitur-Jahr+setzen+%28f%C3%BCr+Statistik%29&oldid=2055)
+Quelle: [Abitur-Jahr setzen (für Statistik) – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Abitur-Jahr+setzen+%28f%C3%BCr+Statistik%29&oldid=2055)

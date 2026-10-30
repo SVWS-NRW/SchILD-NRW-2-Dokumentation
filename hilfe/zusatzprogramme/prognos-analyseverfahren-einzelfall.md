@@ -14,4 +14,4 @@ Als Grundlage müssen nun die Noten und Niveaustufen eingetragen werden, anschli
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1250) · [Prognos:Analyseverfahren: Einzelfall – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Prognos%3AAnalyseverfahren%3A+Einzelfall&oldid=5079)
+Quelle: [Prognos:Analyseverfahren: Einzelfall – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Prognos%3AAnalyseverfahren%3A+Einzelfall&oldid=5079)

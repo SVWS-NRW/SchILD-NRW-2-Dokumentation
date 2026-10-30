@@ -26,4 +26,4 @@ Siehe auch : [LoadNotenliste](/reporting/rap/loadnotenliste)
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-80) · [SelectNotenliste – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SelectNotenliste&oldid=102)
+Quelle: [SelectNotenliste – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SelectNotenliste&oldid=102)

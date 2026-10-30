@@ -35,4 +35,4 @@ end;
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-162) · [EditText – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=EditText&oldid=408)
+Quelle: [EditText – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=EditText&oldid=408)

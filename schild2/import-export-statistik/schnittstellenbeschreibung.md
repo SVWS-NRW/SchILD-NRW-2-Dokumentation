@@ -1271,4 +1271,4 @@ In folgenden Fällen müssen aber andere Einträge verwendet werden:
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-214) · [Schnittstellenbeschreibung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schnittstellenbeschreibung&oldid=6062)
+Quelle: [Schnittstellenbeschreibung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schnittstellenbeschreibung&oldid=6062)

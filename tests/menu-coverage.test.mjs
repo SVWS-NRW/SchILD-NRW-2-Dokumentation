@@ -1,0 +1,70 @@
+import test from 'node:test'
+import assert from 'node:assert/strict'
+import fs from 'node:fs'
+import { articlePath, contextualSidebar, sectionForLink } from '../.vitepress/section-navigation.mjs'
+import { createMarkdownRenderer } from 'vitepress'
+import { createSidebar } from '../.vitepress/sidebar.mjs'
+import { printNavigation } from '../.vitepress/section-print-loader.mjs'
+import { sectionPrintEntries } from '../.vitepress/section-print.mjs'
+const navigation=JSON.parse(fs.readFileSync('.vitepress/navigation.json','utf8'))
+const walk=items=>items.flatMap(item=>[item,...walk(item.items||[])])
+const files=dir=>fs.readdirSync(dir,{withFileTypes:true}).flatMap(e=>e.isDirectory()?files(dir+'/'+e.name):[dir+'/'+e.name])
+
+test('Jeder veröffentlichte Artikel ist ausdrücklich einem Themenmenü zugeordnet',()=>{
+ const entries=new Set(Object.values(navigation.sidebar).flatMap(groups=>walk(groups)).filter(n=>n.link).map(n=>articlePath(n.link)))
+ for(const dir of ['einstieg','schild2','zeugnisse','reporting','tools','administration','hilfe','programmreferenz','bilder']) {
+  for(const file of files(dir).filter(f=>f.endsWith('.md'))) {
+   const route='/'+file.replace(/\/index\.md$/,'/').replace(/\.md$/,'')
+   assert(entries.has(articlePath(route)),`Artikel ohne Menü: ${file}`)
+  }
+ }
+})
+
+test('Alle Rubriken und Toolmenüs behalten jeden Seitenmenülink im eigenen Kontext',()=>{
+ const sidebar=createSidebar(navigation),sections=Object.keys(navigation.sidebar)
+ for(const section of sections) {
+  for(const target of walk(navigation.sidebar[section]).filter(n=>n.link)) {
+   const menu=contextualSidebar(sidebar[section],section,target.link)
+   for(const entry of walk(menu[0].items).filter(n=>n.link)) {
+    const url=new URL(entry.link,'https://docs.invalid')
+    const expected=section==='/tools/' && sections.includes(articlePath(url.pathname)+'/') ? articlePath(url.pathname)+'/' : section
+    assert.equal(url.searchParams.get('rubrik'),expected.slice(1,-1),`${section}: ${entry.link}`)
+   }
+  }
+ }
+ for(const section of sections.filter(s=>s.startsWith('/tools/')&&s!=='/tools/')) {
+  assert.equal(sectionForLink(section,sections),section,'Toolrubrik muss vor allgemeinem Tools-Menü erkannt werden')
+ }
+})
+
+test('Quellenarchiv ist entfernt und der Wiki-Vergleich hat zwei Spalten',()=>{
+ assert(!fs.existsSync('quellen'))
+ assert(!fs.existsSync('public/dateien/quellen'))
+ const comparison=fs.readFileSync('hilfe/artikel-wiki-zuordnung.md','utf8')
+ for(const row of comparison.split('\n').filter(s=>s.startsWith('| '))) assert.equal(row.split('|').length,4,row)
+ for(const dir of ['einstieg','schild2','zeugnisse','reporting','tools','administration','hilfe','programmreferenz','bilder']) {
+  for(const file of files(dir).filter(f=>f.endsWith('.md'))) assert(!/\]\(\/(?:quellen|dateien\/quellen)\//.test(fs.readFileSync(file,'utf8')),file)
+ }
+})
+
+
+test('Die Tooltabelle enthält alle Programme in einer zusammenhängenden Tabelle',async()=>{
+ const md=await createMarkdownRenderer(process.cwd())
+ const html=md.render(fs.readFileSync('tools/index.md','utf8'))
+ assert.equal((html.match(/<table\b/g)||[]).length,1)
+ const programs=navigation.nav.find(n=>n.text==='Tools').items.filter(n=>n.text!=='Übersicht')
+ assert.equal((html.match(/<tbody>[\s\S]*?<\/tbody>/)?.[0].match(/<tr>/g)||[]).length,programs.length)
+})
+
+test('Der gemeinsame Toolsdruck enthält die vollständigen Einzelanleitungen genau einmal',()=>{
+ const print=printNavigation()
+ const combined=sectionPrintEntries(print,'/tools/')
+ const keys=new Set(combined.map(entry=>entry.key))
+ assert.equal(keys.size,combined.length)
+ for(const section of Object.keys(navigation.sidebar).filter(s=>s.startsWith('/tools/')&&s!=='/tools/')) {
+  for(const entry of sectionPrintEntries(print,section)) {
+   assert(keys.has(entry.key),`Im Toolsbuch fehlt ${entry.key}`)
+   assert(fs.existsSync(entry.path),`Druckquelle fehlt: ${entry.path}`)
+  }
+ }
+})

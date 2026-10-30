@@ -38,4 +38,4 @@ Ergebnis: 'Drei-Komma-Fünf-Eins'
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-109) · [Zahlwort – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zahlwort&oldid=134)
+Quelle: [Zahlwort – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zahlwort&oldid=134)

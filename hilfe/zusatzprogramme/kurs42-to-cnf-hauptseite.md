@@ -394,4 +394,4 @@ oder besser die zwei ER-Zeilen ersetzen durch:
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1159) · [Kurs42 To CNF:Hauptseite – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurs42+To+CNF%3AHauptseite&oldid=4591)
+Quelle: [Kurs42 To CNF:Hauptseite – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurs42+To+CNF%3AHauptseite&oldid=4591)

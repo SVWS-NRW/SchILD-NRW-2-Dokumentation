@@ -15,4 +15,4 @@ Innerhalb Ihrer Schule sollten Sie sich einigen, welche Bezeichnungen Sie für d
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-145) · [Konfessionen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Konfessionen&oldid=936)
+Quelle: [Konfessionen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Konfessionen&oldid=936)

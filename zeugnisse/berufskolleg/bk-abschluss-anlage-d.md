@@ -28,4 +28,4 @@ D06 AHR (gem. § 2 Abs. 3 Anlage D) (AHR 2j; TZ) FOS13
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1134) · [BK-Abschluss:Anlage-D – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=BK-Abschluss%3AAnlage-D&oldid=4746)
+Quelle: [BK-Abschluss:Anlage-D – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=BK-Abschluss%3AAnlage-D&oldid=4746)

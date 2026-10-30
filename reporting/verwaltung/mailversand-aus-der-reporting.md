@@ -65,4 +65,4 @@ Grundsätzlich gilt folgendes:
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1185) · [Mailversand aus der Reporting – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Mailversand+aus+der+Reporting&oldid=4731)
+Quelle: [Mailversand aus der Reporting – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Mailversand+aus+der+Reporting&oldid=4731)

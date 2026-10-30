@@ -38,4 +38,4 @@ Da der Klasse kein Statistik-Jahrgang zugewiesen ist, ist es wichtig, bei jedem 
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1386) · [Versetzungstabelle bei jahrgangsübergreifenden Klassen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Versetzungstabelle+bei+jahrgangs%C3%BCbergreifenden+Klassen&oldid=5747)
+Quelle: [Versetzungstabelle bei jahrgangsübergreifenden Klassen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Versetzungstabelle+bei+jahrgangs%C3%BCbergreifenden+Klassen&oldid=5747)

@@ -38,4 +38,4 @@ Label1.Caption:=ZensurToStr('3');
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-110) · [ZensurToStr – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ZensurToStr&oldid=135)
+Quelle: [ZensurToStr – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ZensurToStr&oldid=135)

@@ -23,4 +23,4 @@ Die Einführung eines Kürzels für eine solche Schule ist i.A. nicht notwendig.
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-176) · [Andere Schulen und Schulnummern – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Andere+Schulen+und+Schulnummern&oldid=933)
+Quelle: [Andere Schulen und Schulnummern – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Andere+Schulen+und+Schulnummern&oldid=933)

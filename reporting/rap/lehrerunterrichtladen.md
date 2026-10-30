@@ -34,4 +34,4 @@ end;
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-43) · [LehrerUnterrichtLaden – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LehrerUnterrichtLaden&oldid=64)
+Quelle: [LehrerUnterrichtLaden – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LehrerUnterrichtLaden&oldid=64)

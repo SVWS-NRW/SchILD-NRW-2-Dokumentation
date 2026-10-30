@@ -56,4 +56,4 @@ Jetzt kann der Report wie gewohnt mit Doppelklick gedruckt werden, es erscheint 
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-538) · [Dokumentenverwaltung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Dokumentenverwaltung&oldid=3436)
+Quelle: [Dokumentenverwaltung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Dokumentenverwaltung&oldid=3436)

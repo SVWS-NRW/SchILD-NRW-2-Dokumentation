@@ -6,8 +6,8 @@ export function articlePath(link) {
     .replace(/\.(?:md|html)$/, '').replace(/\/$/, '') || '/'
 }
 
-export function sectionLink(link, section, includeRoot = false) {
-  if (!link?.startsWith('/') || (!includeRoot && (link.endsWith('/') || link.startsWith('/druck/')))) return link
+export function sectionLink(link, section) {
+  if (!link?.startsWith('/')) return link
   const url = new URL(link, 'https://docs.invalid')
   url.searchParams.delete('referenz')
   url.searchParams.delete('artikel')
@@ -15,11 +15,16 @@ export function sectionLink(link, section, includeRoot = false) {
   return url.pathname + url.search + url.hash
 }
 
+function destinationSection(link, section) {
+  const path = articlePath(link)
+  return section === '/tools/' && path !== '/tools/anleitungen' && /^\/tools\/[^/]+$/.test(path) ? path + '/' : section
+}
+
 export function contextualSidebar(groups, section, route) {
   const current = articlePath(route)
   const contains = node => articlePath(node.link || '/') === current || (node.items || []).some(contains)
   const decorate = node => ({ ...node,
-    ...(node.link ? { link: sectionLink(node.link, section) } : {}),
+    ...(node.link ? { link: sectionLink(node.link, destinationSection(node.link, section)) } : {}),
     ...(node.items?.length ? { collapsed: !contains(node), items: node.items.map(decorate) } : {})
   })
   // 'Weitere Bereiche' deliberately changes sections; only the reading menu
@@ -34,7 +39,7 @@ export function sectionEntries(groups, section) {
       const key = articlePath(node.link)
       if (!seen.has(key)) {
         seen.add(key)
-        entries.push({ key, text: node.text, link: sectionLink(node.link, section) })
+        entries.push({ key, text: node.text, link: sectionLink(node.link, destinationSection(node.link, section)) })
       }
     }
     for (const child of node.items || []) visit(child)
@@ -46,19 +51,17 @@ export function sectionEntries(groups, section) {
 export function sectionForLink(link, sections) {
   const route = articlePath(link)
   if (route === '/bilder') return '/hilfe/'
-  return sections.find(section => route === section.slice(0,-1) || route.startsWith(section)) || ''
+  return [...sections].sort((a,b)=>b.length-a.length).find(section => route === section.slice(0,-1) || route.startsWith(section)) || ''
 }
 
 export function contextualNav(nav, activeSection, sections) {
   const decorate = item => {
     const section = item.link ? sectionForLink(item.link, sections) : ''
     return { ...item,
-      ...(section ? { link: sectionLink(item.link, section, true) } : {}),
+      ...(section ? { link: sectionLink(item.link, section) } : {}),
       ...(item.items ? { items: item.items.map(decorate) } : {})
     }
   }
-  const contains = item => item.link
-    ? sectionForLink(item.link, sections) === activeSection
-    : (item.items || []).some(contains)
+  const contains = item => (item.link && sectionForLink(item.link, sections) === activeSection) || (item.items || []).some(contains)
   return nav.map(item => ({ ...decorate(item), activeMatch: activeSection && contains(item) ? '.*' : '^$' }))
 }

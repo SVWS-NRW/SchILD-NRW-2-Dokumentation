@@ -18,4 +18,4 @@ Sollten nach Durchführung des Prozesses noch Änderungen der Daten bei einzelne
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-488) · [Leistungsdaten holen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Leistungsdaten+holen&oldid=2027)
+Quelle: [Leistungsdaten holen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Leistungsdaten+holen&oldid=2027)

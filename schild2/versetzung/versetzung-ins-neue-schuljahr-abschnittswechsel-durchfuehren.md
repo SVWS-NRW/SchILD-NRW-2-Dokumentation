@@ -66,4 +66,4 @@ Im Artikel **[Versetzungsmodelle und Fortschreibung](/schild2/versetzung/hochsch
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1182) · [Versetzung ins neue Schuljahr / Abschnittswechsel durchführen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Versetzung+ins+neue+Schuljahr+%2F+Abschnittswechsel+durchf%C3%BChren&oldid=4653)
+Quelle: [Versetzung ins neue Schuljahr / Abschnittswechsel durchführen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Versetzung+ins+neue+Schuljahr+%2F+Abschnittswechsel+durchf%C3%BChren&oldid=4653)

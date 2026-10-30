@@ -26,4 +26,4 @@ Download: [Udlfile_open32_reg.zip](/dateien/wiki/udlfile-open32-reg-cb5cf3a2.zip
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1019) · [UDL-Dateien unter 64-BIT – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=UDL-Dateien+unter+64-BIT&oldid=3933)
+Quelle: [UDL-Dateien unter 64-BIT – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=UDL-Dateien+unter+64-BIT&oldid=3933)

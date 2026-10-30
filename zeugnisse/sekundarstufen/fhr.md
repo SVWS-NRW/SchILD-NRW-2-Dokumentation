@@ -16,4 +16,4 @@ Der schulische Teil und der berufspraktische Teil sind zu unterscheiden. Eine er
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-442) · [FHR – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FHR&oldid=1942)
+Quelle: [FHR – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FHR&oldid=1942)

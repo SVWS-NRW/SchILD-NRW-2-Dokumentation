@@ -38,4 +38,4 @@ Beendet das Programm.
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-342) · [Datei – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datei&oldid=1539)
+Quelle: [Datei – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datei&oldid=1539)

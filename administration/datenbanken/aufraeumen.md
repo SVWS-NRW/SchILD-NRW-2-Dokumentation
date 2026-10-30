@@ -18,4 +18,4 @@ Mit “Fertig“ und OK wird die Aktion beendet.
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-274) · [Aufräumen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Aufr%C3%A4umen&oldid=1174)
+Quelle: [Aufräumen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Aufr%C3%A4umen&oldid=1174)

@@ -1691,4 +1691,4 @@ Notenmobil=1
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1372) · [Kurs42:Versionsgeschichte – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurs42%3AVersionsgeschichte&oldid=6010)
+Quelle: [Kurs42:Versionsgeschichte – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurs42%3AVersionsgeschichte&oldid=6010)

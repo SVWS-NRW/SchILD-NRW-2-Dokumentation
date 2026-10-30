@@ -37,4 +37,4 @@ NACHNAME_VORNAME_KLASSE.jpg gespeichert.
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-270) · [Fotos – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fotos&oldid=1171)
+Quelle: [Fotos – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fotos&oldid=1171)

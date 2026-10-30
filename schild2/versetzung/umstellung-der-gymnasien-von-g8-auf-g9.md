@@ -56,4 +56,4 @@ Auch auf dem Unterreiter "Allgemeine Angaben" des Reiters "Akt. Halbjahr" ist di
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1136) · [Umstellung der Gymnasien von G8 auf G9 – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Umstellung+der+Gymnasien+von+G8+auf+G9&oldid=5929)
+Quelle: [Umstellung der Gymnasien von G8 auf G9 – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Umstellung+der+Gymnasien+von+G8+auf+G9&oldid=5929)

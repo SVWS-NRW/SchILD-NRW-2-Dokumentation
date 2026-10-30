@@ -71,7 +71,7 @@ Der E-Mail-Versand setzt voraus, dass die Mail-Einstellungen unter den [Programm
 
 Wenn man den Text in der Mail verändern will, der mit dem Versand der Notendateien gesendet wird, dann muss man eine TXT-Datei mit dem Namen Notendateitext.txt im Installationsverzeichnis ablegen. Der darin enthaltene Text wird dann im Mailbody gesendet.
 
-Beispiel: [Datei:Notendateitext.txt](/quellen/wiki/seite-1192)
+Beispiel: [Datei:Notendateitext.txt](https://wiki.svws.nrw.de/mediawiki/index.php)
 
 <a id="Noten_Import"></a>
 
@@ -97,4 +97,4 @@ Sollten Sie in Schild-NRW schon Bemerkungen eingegeben haben, so würden diese v
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-250) · [Externes Notenmodul – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Externes+Notenmodul&oldid=4736)
+Quelle: [Externes Notenmodul – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Externes+Notenmodul&oldid=4736)

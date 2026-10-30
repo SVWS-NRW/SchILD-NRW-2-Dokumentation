@@ -38,4 +38,4 @@ Einträge in die Wiedervorlage können auch als Gruppenprozess gemacht werden: [
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-316) · [Wiedervorlage – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Wiedervorlage&oldid=1395)
+Quelle: [Wiedervorlage – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Wiedervorlage&oldid=1395)

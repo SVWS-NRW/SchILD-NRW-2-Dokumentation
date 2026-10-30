@@ -16,4 +16,4 @@ Zusätzlich kann eine Textdatei "Haltestellen.txt" im Schild-Installationsverzei
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-175) · [Haltestellen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Haltestellen&oldid=490)
+Quelle: [Haltestellen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Haltestellen&oldid=490)

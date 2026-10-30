@@ -34,4 +34,4 @@ Bitte lesen Sie die Beschreibungen in den jeweiligen Artikeln.
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-213) · [Schnittstelle Schild-NRW – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schnittstelle+Schild-NRW&oldid=913)
+Quelle: [Schnittstelle Schild-NRW – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schnittstelle+Schild-NRW&oldid=913)

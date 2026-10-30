@@ -14,7 +14,7 @@ Für Artikel gelten [Artikel schreiben](hilfe/artikel-schreiben.md) und [Markdow
 
 ## Stabile Inhalte
 
-Artikeladressen und verwendete Abschnittsziele erhalten. Bei Zusammenführungen Ersatzadressen in `.vitepress/redirects.json` pflegen. Quellen am Artikel sichtbar verlinken. Die Originale unter `public/dateien/quellen/` und die ursprünglichen Wiki-Dateien bleiben als Archiv erhalten.
+Artikeladressen und verwendete Abschnittsziele erhalten. Bei Zusammenführungen Ersatzadressen in `.vitepress/redirects.json` pflegen. Quellen am Artikel sichtbar verlinken. Das frühere Quellenarchiv ist entfernt; weiterhin benötigte Bilder und Dateien bleiben erhalten.
 
 Neue Bilder thematisch unter `public/bilder/` ablegen und in `.vitepress/image-catalog.json` eintragen. Keine Arbeitskopien oder unbestellten Programmpakete veröffentlichen. Bilder ohne aktuelle Verwendung können zum vollständigen Wiki-Archiv gehören und sind deshalb nicht automatisch entbehrlich.
 

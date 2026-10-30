@@ -64,4 +64,4 @@ Sollte Excel nicht mit CSV-Dateien verknüpft sein, so müssen Sie Excel zuerst 
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-254) · [Export in Text-/Excel-Dateien – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Export+in+Text-%2FExcel-Dateien&oldid=1125)
+Quelle: [Export in Text-/Excel-Dateien – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Export+in+Text-%2FExcel-Dateien&oldid=1125)

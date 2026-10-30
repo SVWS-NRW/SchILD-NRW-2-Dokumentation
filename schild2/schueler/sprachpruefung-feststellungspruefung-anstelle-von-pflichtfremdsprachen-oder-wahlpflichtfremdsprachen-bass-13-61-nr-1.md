@@ -217,4 +217,4 @@ Zeugnisbemerkung: Die Note in Türkisch wurde aufgrund der Sprachprüfung gemä�
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1417) · [Sprachprüfung (Feststellungsprüfung) anstelle von Pflichtfremdsprachen oder Wahlpflichtfremdsprachen BASS 13-61 Nr. 1 – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sprachpr%C3%BCfung+%28Feststellungspr%C3%BCfung%29+anstelle+von+Pflichtfremdsprachen+oder+Wahlpflichtfremdsprachen+BASS+13-61+Nr.+1&oldid=5927)
+Quelle: [Sprachprüfung (Feststellungsprüfung) anstelle von Pflichtfremdsprachen oder Wahlpflichtfremdsprachen BASS 13-61 Nr. 1 – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sprachpr%C3%BCfung+%28Feststellungspr%C3%BCfung%29+anstelle+von+Pflichtfremdsprachen+oder+Wahlpflichtfremdsprachen+BASS+13-61+Nr.+1&oldid=5927)

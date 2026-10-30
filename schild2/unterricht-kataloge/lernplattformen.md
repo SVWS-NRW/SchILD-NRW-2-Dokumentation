@@ -146,4 +146,4 @@ Beim Export ist zu beachten, dass die Einstellungen korrekt erfolgen. Die auf de
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1303) · [Lernplattformen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lernplattformen&oldid=5384)
+Quelle: [Lernplattformen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lernplattformen&oldid=5384)

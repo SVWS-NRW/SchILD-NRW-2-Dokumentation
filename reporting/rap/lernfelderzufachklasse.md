@@ -43,4 +43,4 @@ End;
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-123) · [LernfelderZuFachklasse – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LernfelderZuFachklasse&oldid=172)
+Quelle: [LernfelderZuFachklasse – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LernfelderZuFachklasse&oldid=172)

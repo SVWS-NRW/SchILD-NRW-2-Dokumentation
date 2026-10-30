@@ -14,4 +14,4 @@ Die erstellte Liste der fehlenden Noteneinträge wird nach Lehrerkürzel sortier
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-463) · [Fächer ohne Noten suchen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%A4cher+ohne+Noten+suchen&oldid=3624)
+Quelle: [Fächer ohne Noten suchen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%A4cher+ohne+Noten+suchen&oldid=3624)

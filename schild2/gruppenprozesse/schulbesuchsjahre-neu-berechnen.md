@@ -16,4 +16,4 @@ Bitte bedenken Sie aber, dass der Gruppenprozess Schulbesuchsjahre neu berechnen
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-356) · [Schulbesuchsjahre neu berechnen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schulbesuchsjahre+neu+berechnen&oldid=1612)
+Quelle: [Schulbesuchsjahre neu berechnen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schulbesuchsjahre+neu+berechnen&oldid=1612)

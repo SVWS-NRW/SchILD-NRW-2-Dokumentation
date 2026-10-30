@@ -1,25 +1,12 @@
 {
   "nav": [
     {
-      "text": "Einstieg",
-      "link": "/einstieg/"
+      "text": "Arbeiten mit SchILD2",
+      "link": "/schild2/"
     },
     {
-      "text": "SchILD2",
-      "items": [
-        {
-          "text": "Arbeiten mit SchILD",
-          "link": "/schild2/"
-        },
-        {
-          "text": "Installation und Administration",
-          "link": "/administration/"
-        }
-      ]
-    },
-    {
-      "text": "Zeugnisse",
-      "link": "/zeugnisse/"
+      "text": "Programmreferenz",
+      "link": "/programmreferenz/"
     },
     {
       "text": "Reporting",
@@ -27,46 +14,124 @@
     },
     {
       "text": "Tools",
-      "link": "/tools/"
-    },
-    {
-      "text": "Nachschlagen",
       "items": [
         {
-          "text": "Programmreferenz",
-          "link": "/programmreferenz/"
+          "text": "Übersicht",
+          "link": "/tools/"
         },
         {
-          "text": "Alle Artikel",
-          "link": "/hilfe/alle-artikel"
+          "text": "Kurs42",
+          "link": "/tools/kurs42"
         },
         {
-          "text": "Hilfe und Autorenhinweise",
-          "link": "/hilfe/"
+          "text": "LuPO",
+          "link": "/tools/lupo"
         },
         {
-          "text": "Bilderkatalog",
-          "link": "/bilder/"
+          "text": "ASDPC",
+          "link": "/tools/asdpc"
         },
         {
-          "text": "Vollständiges Quellen- und Dateiarchiv",
-          "link": "/quellen/"
+          "text": "Notenmodul für Grundschulen",
+          "link": "/tools/notenmodul-grundschule"
+        },
+        {
+          "text": "ENM-Notenmanager",
+          "link": "/tools/enm-notenmanager"
+        },
+        {
+          "text": "Externes Notenmodul",
+          "link": "/tools/externes-notenmodul"
+        },
+        {
+          "text": "KM2 – Konferenzmodul",
+          "link": "/tools/km2"
+        },
+        {
+          "text": "PM2 – Prognosemodul",
+          "link": "/tools/pm2"
+        },
+        {
+          "text": "S1Plan",
+          "link": "/tools/s1plan"
+        },
+        {
+          "text": "MA2LBV",
+          "link": "/tools/ma2lbv"
+        },
+        {
+          "text": "Migrationstool",
+          "link": "/tools/migrationstool"
+        },
+        {
+          "text": "Anonymisierungstool",
+          "link": "/tools/anonymisierungstool"
+        },
+        {
+          "text": "Import aus Textdateien",
+          "link": "/tools/import-textdateien"
+        },
+        {
+          "text": "Schuljahr erhöhen",
+          "link": "/tools/schuljahr-erhoehen"
+        },
+        {
+          "text": "Weitere Zusatzprogramme",
+          "link": "/tools/weitere"
+        },
+        {
+          "text": "KPlan",
+          "link": "/tools/kplan"
+        },
+        {
+          "text": "SchILDChat",
+          "link": "/tools/schildchat"
+        },
+        {
+          "text": "SchILDweb",
+          "link": "/tools/schildweb"
+        },
+        {
+          "text": "Schnelleingabemodul",
+          "link": "/tools/schnelleingabemodul"
+        },
+        {
+          "text": "Externe Blockungsprogramme",
+          "link": "/tools/blockungsprogramme"
         }
       ]
+    },
+    {
+      "text": "Hilfe",
+      "link": "/hilfe/"
     }
   ],
   "sidebar": {
-    "/einstieg/": [
+    "/schild2/": [
       {
-        "text": "Einstieg",
+        "text": "Arbeiten mit SchILD-NRW 2",
         "items": [
           {
             "text": "Übersicht",
-            "link": "/einstieg/"
+            "link": "/schild2/"
           },
           {
-            "text": "Druckansicht",
-            "link": "/druck/einstieg.html"
+            "text": "Druckvorschau",
+            "link": "/druck/schild2.html"
+          },
+          {
+            "text": "Installation von SchILD2",
+            "link": "/administration/installation",
+            "items": [
+              {
+                "text": "SchILD installieren",
+                "link": "/administration/installation/schild-nrw-installation"
+              },
+              {
+                "text": "Access unter Windows Server",
+                "link": "/administration/installation/access-datenbanken-und-windows-server-2012"
+              }
+            ]
           },
           {
             "text": "Grundlagen und Orientierung",
@@ -95,6 +160,14 @@
               {
                 "text": "Funktionsübersicht",
                 "link": "/einstieg/grundlagen/inhaltsverzeichnis"
+              },
+              {
+                "text": "SchILD-NRW im Alltag bedienen",
+                "link": "/hilfe/bedienung"
+              },
+              {
+                "text": "Über diese Dokumentation",
+                "link": "/hilfe/ueber-diese-dokumentation"
               }
             ]
           },
@@ -103,37 +176,44 @@
             "link": "/einstieg/erste-schritte",
             "items": [
               {
+                "text": "Schule bearbeiten",
+                "link": "/einstieg/erste-schritte/schule-bearbeiten"
+              },
+              {
+                "text": "Lehrkräfte",
+                "link": "/schild2/lehrkraefte",
+                "items": [
+                  {
+                    "text": "Lehrkräfte",
+                    "link": "/schild2/lehrkraefte/lehrkraefte"
+                  }
+                ]
+              },
+              {
+                "text": "Statistikjahrgänge",
+                "link": "/schild2/unterricht-kataloge/statistik-jahrgaenge"
+              },
+              {
+                "text": "Klassen und Versetzung",
+                "link": "/schild2/unterricht-kataloge/klassen-versetzungstabelle"
+              },
+              {
+                "text": "Unterrichtsfächer",
+                "link": "/schild2/unterricht-kataloge/unterrichtsfaecher"
+              },
+              {
                 "text": "Neuaufnahmen",
                 "link": "/einstieg/erste-schritte/neuaufnahmen-in-schild-nrw-001"
               },
               {
-                "text": "Einführung in Gruppenprozesse",
+                "text": "Gruppenprozesse kennenlernen",
                 "link": "/einstieg/erste-schritte/einfuehrung-in-die-gruppenprozesse-001"
               },
               {
-                "text": "Schuldaten",
-                "link": "/einstieg/erste-schritte/schule-bearbeiten"
-              },
-              {
-                "text": "Einstiegsanleitungen",
+                "text": "Anleitungen für den Einstieg",
                 "link": "/einstieg/erste-schritte/schild-nrw-tutorials"
               }
             ]
-          }
-        ]
-      }
-    ],
-    "/schild2/": [
-      {
-        "text": "Arbeiten mit SchILD",
-        "items": [
-          {
-            "text": "Übersicht",
-            "link": "/schild2/"
-          },
-          {
-            "text": "Druckansicht",
-            "link": "/druck/schild2.html"
           },
           {
             "text": "Schülerdaten und Laufbahn",
@@ -780,1315 +860,431 @@
                 "link": "/schild2/import-export-statistik/wohnortdaten-exportieren"
               }
             ]
-          }
-        ]
-      }
-    ],
-    "/zeugnisse/": [
-      {
-        "text": "Zeugnisse",
-        "items": [
-          {
-            "text": "Übersicht",
-            "link": "/zeugnisse/"
           },
           {
-            "text": "Druckansicht",
-            "link": "/druck/zeugnisse.html"
-          },
-          {
-            "text": "Noten und Zeugnisvorbereitung",
-            "link": "/zeugnisse/vorbereitung",
+            "text": "Noten und Zeugnisse",
+            "link": "/zeugnisse/",
             "items": [
               {
-                "text": "Noten- und Zeugnisprozesse",
-                "link": "/zeugnisse/vorbereitung/noten-zeugnisvorbereitung"
-              },
-              {
-                "text": "Zeugnisdruck vorbereiten",
-                "link": "/zeugnisse/vorbereitung/zeugnisvorbereitungen-und-druck"
-              },
-              {
-                "text": "Aktuelles Halbjahr",
-                "link": "/zeugnisse/vorbereitung/akt-halbjahr"
-              },
-              {
-                "text": "Excel-Notendateien",
-                "link": "/zeugnisse/vorbereitung/excel-notendateien"
-              },
-              {
-                "text": "Zeugnisformulare importieren",
-                "link": "/zeugnisse/vorbereitung/import-der-zeugnisformulare-in-schild-nrw"
-              },
-              {
-                "text": "Ankreuzkompetenzen",
-                "link": "/zeugnisse/vorbereitung/angaben-fuer-ankreuzzeugnisse-kompetenzen"
-              },
-              {
-                "text": "Fachbemerkungen",
-                "link": "/zeugnisse/vorbereitung/fachbezogene-bemerkungen"
-              },
-              {
-                "text": "Abgeschlossene Fächer holen",
-                "link": "/zeugnisse/vorbereitung/abgeschlossene-faecher-holen"
-              },
-              {
-                "text": "Abgeschlossene Fächer löschen",
-                "link": "/zeugnisse/vorbereitung/abgeschlossene-faecher-loeschen"
-              },
-              {
-                "text": "Fehlstunden berechnen",
-                "link": "/zeugnisse/vorbereitung/fehlstunden-summen-automatisch-berechnen"
-              },
-              {
-                "text": "Fehlstunden eingeben",
-                "link": "/zeugnisse/vorbereitung/fehlstunden-summen-manuell-eingeben"
-              },
-              {
-                "text": "Fächer ohne Lehrkraft suchen",
-                "link": "/zeugnisse/vorbereitung/faecher-ohne-lehrkraft-suchen"
-              },
-              {
-                "text": "Fächer ohne Noten suchen",
-                "link": "/zeugnisse/vorbereitung/faecher-ohne-noten-suchen"
-              },
-              {
-                "text": "Konferenz- und Zeugnisdatum",
-                "link": "/zeugnisse/vorbereitung/konferenz-zeugnis-datum-setzen"
-              },
-              {
-                "text": "Lernbereichsnoten eingeben",
-                "link": "/zeugnisse/vorbereitung/lernbereichsnoten-eingeben"
-              },
-              {
-                "text": "Mahnungen automatisch setzen",
-                "link": "/zeugnisse/vorbereitung/mahnungen-automatisch-setzen"
-              },
-              {
-                "text": "Mahnungen drucken",
-                "link": "/zeugnisse/vorbereitung/mahnungen-drucken"
-              },
-              {
-                "text": "Abschnittsnoten löschen",
-                "link": "/zeugnisse/vorbereitung/noten-des-aktuellen-abschnittes-loeschen"
-              },
-              {
-                "text": "Noten, Mahnungen und Fehlstunden",
-                "link": "/zeugnisse/vorbereitung/noten-mahnungen-und-fehlstunden-eingeben"
-              },
-              {
-                "text": "Zeugnisbemerkungen eintragen",
-                "link": "/zeugnisse/vorbereitung/zeugnisbemerkungen-eintragen"
-              },
-              {
-                "text": "Zeugnisdruck und Entlassung",
-                "link": "/zeugnisse/vorbereitung/zeugnisse-drucken-und-schueler-ausschulen"
-              },
-              {
-                "text": "Zugeordnete Zeugnisformulare drucken",
-                "link": "/zeugnisse/vorbereitung/zugeordnete-zeugnisformulare-drucken"
-              },
-              {
-                "text": "Fach- und Förderunterricht",
-                "link": "/zeugnisse/vorbereitung/zuweisungen-durchfuehren"
-              }
-            ]
-          },
-          {
-            "text": "Grundschulzeugnisse",
-            "link": "/zeugnisse/grundschule",
-            "items": [
-              {
-                "text": "Textzeugnisse im Report-Explorer",
-                "link": "/zeugnisse/grundschule/grundschulzeugnisse-textzeugnis"
-              },
-              {
-                "text": "Noten und Kompetenzen eingeben",
-                "link": "/tools/notenmodul-grundschule/leistungsdaten"
-              },
-              {
-                "text": "Textzeugnisse drucken",
-                "link": "/zeugnisse/grundschule/textzeugnisse-drucken"
-              },
-              {
-                "text": "Rückgabe, Import und Druck",
-                "link": "/tools/notenmodul-grundschule/rueckgabe-und-druck"
-              },
-              {
-                "text": "Textzeugnisse zuordnen",
-                "link": "/zeugnisse/grundschule/textzeugnisse-zuordnen"
-              },
-              {
-                "text": "Leistungsübersicht Primarstufe",
-                "link": "/zeugnisse/grundschule/uebersicht-primarstufe"
-              }
-            ]
-          },
-          {
-            "text": "Sekundarstufen und Abitur",
-            "link": "/zeugnisse/sekundarstufen",
-            "items": [
-              {
-                "text": "Abitur",
-                "link": "/zeugnisse/sekundarstufen/abitur"
-              },
-              {
-                "text": "Abiturberechnungen",
-                "link": "/zeugnisse/sekundarstufen/abiturdurchlauf"
-              },
-              {
-                "text": "Abitur-Gruppenprozesse",
-                "link": "/zeugnisse/sekundarstufen/gruppenprozesse-abitur"
-              },
-              {
-                "text": "Abituraktionen",
-                "link": "/zeugnisse/sekundarstufen/gruppenaktionen-abitur"
-              },
-              {
-                "text": "Leistungsübersicht Sekundarstufe I",
-                "link": "/zeugnisse/sekundarstufen/uebersicht-s-i"
-              },
-              {
-                "text": "Leistungsübersicht Sekundarstufe II",
-                "link": "/zeugnisse/sekundarstufen/uebersicht-s-ii"
-              },
-              {
-                "text": "Laufbahnübersicht",
-                "link": "/zeugnisse/sekundarstufen/gesamtuebersicht"
-              },
-              {
-                "text": "Schulischer FHR-Teil",
-                "link": "/zeugnisse/sekundarstufen/fhr"
-              },
-              {
-                "text": "ZP10 und ZK10",
-                "link": "/zeugnisse/sekundarstufen/zp10-zk10"
-              },
-              {
-                "text": "Sprachenfolge im Zeugnis",
-                "link": "/zeugnisse/sekundarstufen/sprachenfolge-bei-seiteneinsteigern-des-gymnasiums-in-zeugnis-korrekt-ausgeben"
-              },
-              {
-                "text": "Bilinguale Bescheinigungen",
-                "link": "/zeugnisse/sekundarstufen/bescheinigungen-des-bilingualen-bildungsgangs"
-              },
-              {
-                "text": "Serienbriefe zur Nichtversetzung",
-                "link": "/zeugnisse/sekundarstufen/serienbrief-nichtversetzte"
-              },
-              {
-                "text": "Abiturjahr setzen",
-                "link": "/zeugnisse/sekundarstufen/abitur-jahr-setzen-fuer-statistik"
-              },
-              {
-                "text": "Abiturzulassung",
-                "link": "/zeugnisse/sekundarstufen/abitur-zulassung-berechnen"
-              },
-              {
-                "text": "Gesamtfehlstunden berechnen",
-                "link": "/zeugnisse/sekundarstufen/gesamt-fehlstunden-berechnen"
-              },
-              {
-                "text": "Abiturergebnis",
-                "link": "/zeugnisse/sekundarstufen/gesamtergebnis-berechnen"
-              },
-              {
-                "text": "Kurse für die Zulassung markieren",
-                "link": "/zeugnisse/sekundarstufen/kurse-algorithmisch-markieren"
-              },
-              {
-                "text": "Leistungsdaten übernehmen",
-                "link": "/zeugnisse/sekundarstufen/leistungsdaten-holen"
-              },
-              {
-                "text": "Mündliche Prüfungen festlegen",
-                "link": "/zeugnisse/sekundarstufen/mdl-pruefungen-a1-a3-festlegen"
-              },
-              {
-                "text": "Mündliche Prüfungen festlegen",
-                "link": "/zeugnisse/sekundarstufen/muendliche-pruefungen-a1-a3-festlegen"
-              },
-              {
-                "text": "Prüfungsergebnisse",
-                "link": "/zeugnisse/sekundarstufen/pruefungsergebnisse-eingeben"
-              },
-              {
-                "text": "Sprachnachweise und Zusatzdaten",
-                "link": "/zeugnisse/sekundarstufen/zusatzdaten-latimun-eingeben"
-              },
-              {
-                "text": "Sprachnachweise und Zusatzdaten",
-                "link": "/zeugnisse/sekundarstufen/zusatzdaten-latinum-eingeben"
-              }
-            ]
-          },
-          {
-            "text": "Berufskolleg",
-            "link": "/zeugnisse/berufskolleg",
-            "items": [
-              {
-                "text": "BK-Abschluss im Überblick",
-                "link": "/zeugnisse/berufskolleg/bkabschluss"
-              },
-              {
-                "text": "BK-Abschlussverfahren",
-                "link": "/zeugnisse/berufskolleg/bk-abschluss"
-              },
-              {
-                "text": "D01 Abschlussberechnung",
-                "link": "/zeugnisse/berufskolleg/anlage-d01"
-              },
-              {
-                "text": "Herkunft am BK und WBK",
-                "link": "/zeugnisse/berufskolleg/eintragung-herkunft-am-bk-wbk"
-              },
-              {
-                "text": "A01 Fachklassen",
-                "link": "/zeugnisse/berufskolleg/a01-fachklassen-bs-tz"
-              },
-              {
-                "text": "A03 Zusatzqualifikation",
-                "link": "/zeugnisse/berufskolleg/a03-fachklassen-erweiterte-zusatzqualifikation-bs-zq-tz"
-              },
-              {
-                "text": "A12 Ausbildungsvorbereitung Vollzeit",
-                "link": "/zeugnisse/berufskolleg/a12-ausbildungsvorbereitung-bs-1j-vz"
-              },
-              {
-                "text": "A13 Ausbildungsvorbereitung Teilzeit",
-                "link": "/zeugnisse/berufskolleg/a13-ausbildungsvorbereitung-bs-1j-tz"
-              },
-              {
-                "text": "B06 Kenntnisse und Hauptschulabschluss",
-                "link": "/zeugnisse/berufskolleg/b06-berufliche-kenntnisse-hauptschulabschluss-kl-10-bk-hsa10-1j-vz"
-              },
-              {
-                "text": "B07 Kenntnisse und mittlerer Abschluss",
-                "link": "/zeugnisse/berufskolleg/b07-berufliche-kenntnisse-mittlerer-schulabschluss-bk-for-1j-vz"
-              },
-              {
-                "text": "Anlage A",
-                "link": "/zeugnisse/berufskolleg/bk-abschluss-anlage-a"
-              },
-              {
-                "text": "Anlage B",
-                "link": "/zeugnisse/berufskolleg/bk-abschluss-anlage-b"
-              },
-              {
-                "text": "Anlage C",
-                "link": "/zeugnisse/berufskolleg/bk-abschluss-anlage-c"
-              },
-              {
-                "text": "Anlage D",
-                "link": "/zeugnisse/berufskolleg/bk-abschluss-anlage-d"
-              },
-              {
-                "text": "Anlage E",
-                "link": "/zeugnisse/berufskolleg/bk-abschluss-anlage-e"
-              },
-              {
-                "text": "C01 Berufsabschluss und FHR",
-                "link": "/zeugnisse/berufskolleg/c01-berufsabschluss-fachhochschulreife-ohne-berufspraktikum-bab-fhr-3j-vz"
-              },
-              {
-                "text": "C02 Berufsabschluss",
-                "link": "/zeugnisse/berufskolleg/c02-berufsabschluss-f-hochschulzugangsberechtigte-bab-2j-vz-bfs"
-              },
-              {
-                "text": "C05 Fachoberschule Klasse 11",
-                "link": "/zeugnisse/berufskolleg/c05-fachoberschule-kl-11-bk-fhr-1j-tz"
-              },
-              {
-                "text": "C06 Fachoberschule Klasse 12S",
-                "link": "/zeugnisse/berufskolleg/c06-fachoberschule-kl-12s-bk-fhr-1j-vz"
-              },
-              {
-                "text": "C08 Fachoberschule Klasse 12B",
-                "link": "/zeugnisse/berufskolleg/c08-fachoberschule-kl-12b-bk-fhr-1j-vz"
-              },
-              {
-                "text": "D01 Berufsabschluss und Abitur",
-                "link": "/zeugnisse/berufskolleg/d01-berufsabschluss-allg-hochschulreife-mit-berufspraktikum-bab-ahr-4j-vz"
-              },
-              {
-                "text": "E02 Fachschule Teilzeit",
-                "link": "/zeugnisse/berufskolleg/e02-fachschule-teilzeit-bw-4j-tz"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "/reporting/": [
-      {
-        "text": "Reporting",
-        "items": [
-          {
-            "text": "Übersicht",
-            "link": "/reporting/"
-          },
-          {
-            "text": "Druckansicht",
-            "link": "/druck/reporting.html"
-          },
-          {
-            "text": "Reports verwalten und drucken",
-            "link": "/reporting/verwaltung",
-            "items": [
-              {
-                "text": "Druckfunktionen",
-                "link": "/reporting/verwaltung/druckausgabe"
-              },
-              {
-                "text": "Report-Explorer öffnen",
-                "link": "/reporting/verwaltung/reportexplorer-aufrufen"
-              },
-              {
-                "text": "Standardformulare",
-                "link": "/reporting/verwaltung/standard-formulare-drucken"
-              },
-              {
-                "text": "Report aus Archiv drucken",
-                "link": "/reporting/verwaltung/report-aus-archiv-drucken"
-              },
-              {
-                "text": "Word-Seriendruck",
-                "link": "/reporting/verwaltung/word-seriendruck"
-              },
-              {
-                "text": "E-Mail-Versand",
-                "link": "/reporting/verwaltung/mailversand-aus-der-reporting"
-              }
-            ]
-          },
-          {
-            "text": "Reports erstellen",
-            "link": "/reporting/erstellung",
-            "items": [
-              {
-                "text": "Reporting-Grundlagen",
-                "link": "/reporting/erstellung/reporting"
-              },
-              {
-                "text": "Reportbaukasten",
-                "link": "/reporting/erstellung/reportbaukasten"
-              },
-              {
-                "text": "Einfache Reports erstellen",
-                "link": "/reporting/erstellung/erstellen-einfacher-reports"
-              },
-              {
-                "text": "Report-Explorer einrichten",
-                "link": "/reporting/erstellung/einrichtung-des-report-explorers"
-              },
-              {
-                "text": "BASIC-Reportbeispiele",
-                "link": "/reporting/erstellung/ausgewaehlte-beispiele-aus-der-basic-sammlung"
-              },
-              {
-                "text": "Eigene Datenquellen",
-                "link": "/reporting/erstellung/eigene-datenquellen-fuer-schild-reports"
-              },
-              {
-                "text": "Beispiel-Datenquelle",
-                "link": "/reporting/erstellung/dq01-demo-spd"
-              }
-            ]
-          },
-          {
-            "text": "RAP-Funktionsreferenz",
-            "link": "/reporting/rap",
-            "items": [
-              {
-                "text": "AlleFaecherLaden",
-                "link": "/reporting/rap/allefaecherladen"
-              },
-              {
-                "text": "Anrede",
-                "link": "/reporting/rap/anrede"
-              },
-              {
-                "text": "AnzahlElemente",
-                "link": "/reporting/rap/anzahlelemente"
-              },
-              {
-                "text": "AssignFont",
-                "link": "/reporting/rap/assignfont"
-              },
-              {
-                "text": "AufFaecherFiltern",
-                "link": "/reporting/rap/auffaecherfiltern"
-              },
-              {
-                "text": "AufzaehlungRTF",
-                "link": "/reporting/rap/aufzaehlungrtf"
-              },
-              {
-                "text": "Bestaetigung",
-                "link": "/reporting/rap/bestaetigung"
-              },
-              {
-                "text": "CreateNotenHeader",
-                "link": "/reporting/rap/createnotenheader"
-              },
-              {
-                "text": "CreateNotenHeaderUS",
-                "link": "/reporting/rap/createnotenheaderus"
-              },
-              {
-                "text": "DateinameFuerDVAuswaehlen",
-                "link": "/reporting/rap/dateinamefuerdvauswaehlen"
-              },
-              {
-                "text": "Datenliste",
-                "link": "/reporting/rap/datenliste"
-              },
-              {
-                "text": "DatensatzZeigerBewegen",
-                "link": "/reporting/rap/datensatzzeigerbewegen"
-              },
-              {
-                "text": "EditRichText",
-                "link": "/reporting/rap/editrichtext"
-              },
-              {
-                "text": "EditRichTextEx",
-                "link": "/reporting/rap/editrichtextex"
-              },
-              {
-                "text": "EditText",
-                "link": "/reporting/rap/edittext"
-              },
-              {
-                "text": "EinzelElement",
-                "link": "/reporting/rap/einzelelement"
-              },
-              {
-                "text": "Faechervorbelegen",
-                "link": "/reporting/rap/faechervorbelegen"
-              },
-              {
-                "text": "FileAge",
-                "link": "/reporting/rap/fileage"
-              },
-              {
-                "text": "FileExists",
-                "link": "/reporting/rap/fileexists"
-              },
-              {
-                "text": "FileOpenDlg",
-                "link": "/reporting/rap/fileopendlg"
-              },
-              {
-                "text": "FileSaveDlg",
-                "link": "/reporting/rap/filesavedlg"
-              },
-              {
-                "text": "FilterAdressArt",
-                "link": "/reporting/rap/filteradressart"
-              },
-              {
-                "text": "FilterAdresse",
-                "link": "/reporting/rap/filteradresse"
-              },
-              {
-                "text": "FilterErzieherfunktion",
-                "link": "/reporting/rap/filtererzieherfunktion"
-              },
-              {
-                "text": "FilterFachUebersichtAufKlasse",
-                "link": "/reporting/rap/filterfachuebersichtaufklasse"
-              },
-              {
-                "text": "FilterLaufbahnJahr",
-                "link": "/reporting/rap/filterlaufbahnjahr"
-              },
-              {
-                "text": "FilterLaufbahnJahrgangASD",
-                "link": "/reporting/rap/filterlaufbahnjahrgangasd"
-              },
-              {
-                "text": "FilterLaufbahnStufen",
-                "link": "/reporting/rap/filterlaufbahnstufen"
-              },
-              {
-                "text": "FilterSchuelerAdressArt",
-                "link": "/reporting/rap/filterschueleradressart"
-              },
-              {
-                "text": "FormatRTF",
-                "link": "/reporting/rap/formatrtf"
-              },
-              {
-                "text": "GeRNiveauAusFachKrz",
-                "link": "/reporting/rap/gerniveauausfachkrz"
-              },
-              {
-                "text": "GeschlechtToString",
-                "link": "/reporting/rap/geschlechttostring"
-              },
-              {
-                "text": "GetFachgruppe",
-                "link": "/reporting/rap/getfachgruppe"
-              },
-              {
-                "text": "GetSqlText",
-                "link": "/reporting/rap/getsqltext"
-              },
-              {
-                "text": "GruppenDesBenutzers",
-                "link": "/reporting/rap/gruppendesbenutzers"
-              },
-              {
-                "text": "IncFontSize",
-                "link": "/reporting/rap/incfontsize"
-              },
-              {
-                "text": "IstInDerGruppe",
-                "link": "/reporting/rap/istindergruppe"
-              },
-              {
-                "text": "IstLeer",
-                "link": "/reporting/rap/istleer"
-              },
-              {
-                "text": "JahrgangsListe",
-                "link": "/reporting/rap/jahrgangsliste"
-              },
-              {
-                "text": "KursBezIgnorieren",
-                "link": "/reporting/rap/kursbezignorieren"
-              },
-              {
-                "text": "LehrerAuswaehlen",
-                "link": "/reporting/rap/lehrerauswaehlen"
-              },
-              {
-                "text": "LehrerDatenLaden",
-                "link": "/reporting/rap/lehrerdatenladen"
-              },
-              {
-                "text": "LehrerKursartStatistikLaden",
-                "link": "/reporting/rap/lehrerkursartstatistikladen"
-              },
-              {
-                "text": "LehrerUnterrichtLaden",
-                "link": "/reporting/rap/lehrerunterrichtladen"
-              },
-              {
-                "text": "LernfelderZuFachklasse",
-                "link": "/reporting/rap/lernfelderzufachklasse"
-              },
-              {
-                "text": "LoadFromFile",
-                "link": "/reporting/rap/loadfromfile"
-              },
-              {
-                "text": "LoadNotenliste",
-                "link": "/reporting/rap/loadnotenliste"
-              },
-              {
-                "text": "LoadVermerke",
-                "link": "/reporting/rap/loadvermerke"
-              },
-              {
-                "text": "LoadVermerkeEx",
-                "link": "/reporting/rap/loadvermerkeex"
-              },
-              {
-                "text": "LoadVermerkeVonBis",
-                "link": "/reporting/rap/loadvermerkevonbis"
-              },
-              {
-                "text": "LongDayNames",
-                "link": "/reporting/rap/longdaynames"
-              },
-              {
-                "text": "LookupSprachenfolge",
-                "link": "/reporting/rap/lookupsprachenfolge"
-              },
-              {
-                "text": "Mehrfachauswahl",
-                "link": "/reporting/rap/mehrfachauswahl"
-              },
-              {
-                "text": "MehrfachauswahlEx",
-                "link": "/reporting/rap/mehrfachauswahlex"
-              },
-              {
-                "text": "MitLernabschnitten",
-                "link": "/reporting/rap/mitlernabschnitten"
-              },
-              {
-                "text": "NotenDurchschnitt",
-                "link": "/reporting/rap/notendurchschnitt"
-              },
-              {
-                "text": "NurErzieherMitAnschreiben",
-                "link": "/reporting/rap/nurerziehermitanschreiben"
-              },
-              {
-                "text": "NurFaecherMitAufsZeugnisFlag",
-                "link": "/reporting/rap/nurfaechermitaufszeugnisflag"
-              },
-              {
-                "text": "NurFaecherMitNoten",
-                "link": "/reporting/rap/nurfaechermitnoten"
-              },
-              {
-                "text": "NurGewerteteAbschnitte",
-                "link": "/reporting/rap/nurgewerteteabschnitte"
-              },
-              {
-                "text": "PickDatum",
-                "link": "/reporting/rap/pickdatum"
-              },
-              {
-                "text": "PipelineOeffnen",
-                "link": "/reporting/rap/pipelineoeffnen"
-              },
-              {
-                "text": "PluginVersion",
-                "link": "/reporting/rap/pluginversion"
-              },
-              {
-                "text": "Praktikumstage",
-                "link": "/reporting/rap/praktikumstage"
-              },
-              {
-                "text": "QuotedStr",
-                "link": "/reporting/rap/quotedstr"
-              },
-              {
-                "text": "ReadDateTime",
-                "link": "/reporting/rap/readdatetime"
-              },
-              {
-                "text": "ReplaceDefault",
-                "link": "/reporting/rap/replacedefault"
-              },
-              {
-                "text": "ReplaceStandardVar",
-                "link": "/reporting/rap/replacestandardvar"
-              },
-              {
-                "text": "ReplaceText",
-                "link": "/reporting/rap/replacetext"
-              },
-              {
-                "text": "ReplaceTextEx",
-                "link": "/reporting/rap/replacetextex"
-              },
-              {
-                "text": "ResetAdressArt",
-                "link": "/reporting/rap/resetadressart"
-              },
-              {
-                "text": "ResetAdressFilter",
-                "link": "/reporting/rap/resetadressfilter"
-              },
-              {
-                "text": "ResetFaechervorbelegung",
-                "link": "/reporting/rap/resetfaechervorbelegung"
-              },
-              {
-                "text": "ResetFilterErzieherfunktion",
-                "link": "/reporting/rap/resetfiltererzieherfunktion"
-              },
-              {
-                "text": "ResetFilterLaufbahnJahr",
-                "link": "/reporting/rap/resetfilterlaufbahnjahr"
-              },
-              {
-                "text": "RtfToPlaintext",
-                "link": "/reporting/rap/rtftoplaintext"
-              },
-              {
-                "text": "SchuljahrToStr",
-                "link": "/reporting/rap/schuljahrtostr"
-              },
-              {
-                "text": "SchuljahrToStrEx",
-                "link": "/reporting/rap/schuljahrtostrex"
-              },
-              {
-                "text": "SchulText",
-                "link": "/reporting/rap/schultext"
-              },
-              {
-                "text": "SelectAdressArt",
-                "link": "/reporting/rap/selectadressart"
-              },
-              {
-                "text": "SelectAdressName",
-                "link": "/reporting/rap/selectadressname"
-              },
-              {
-                "text": "SelectErzFunktion",
-                "link": "/reporting/rap/selecterzfunktion"
-              },
-              {
-                "text": "Selectfont",
-                "link": "/reporting/rap/selectfont"
-              },
-              {
-                "text": "SelectFromList",
-                "link": "/reporting/rap/selectfromlist"
-              },
-              {
-                "text": "SelectFromListEx",
-                "link": "/reporting/rap/selectfromlistex"
-              },
-              {
-                "text": "SelectNotenliste",
-                "link": "/reporting/rap/selectnotenliste"
-              },
-              {
-                "text": "SelectOption",
-                "link": "/reporting/rap/selectoption"
-              },
-              {
-                "text": "SelectString",
-                "link": "/reporting/rap/selectstring"
-              },
-              {
-                "text": "SelectStringEx",
-                "link": "/reporting/rap/selectstringex"
-              },
-              {
-                "text": "SetAbitur",
-                "link": "/reporting/rap/setabitur"
-              },
-              {
-                "text": "SetAdressArt",
-                "link": "/reporting/rap/setadressart"
-              },
-              {
-                "text": "SetBKAbschluss",
-                "link": "/reporting/rap/setbkabschluss"
-              },
-              {
-                "text": "SetFont",
-                "link": "/reporting/rap/setfont"
-              },
-              {
-                "text": "SetJgIntervall",
-                "link": "/reporting/rap/setjgintervall"
-              },
-              {
-                "text": "SetJgIntervall ASD",
-                "link": "/reporting/rap/setjgintervall-asd"
-              },
-              {
-                "text": "SetKursSchuelerFaecherListe",
-                "link": "/reporting/rap/setkursschuelerfaecherliste"
-              },
-              {
-                "text": "SetQuartalsnotenInUebersicht",
-                "link": "/reporting/rap/setquartalsnoteninuebersicht"
-              },
-              {
-                "text": "SetTextAttributes",
-                "link": "/reporting/rap/settextattributes"
-              },
-              {
-                "text": "SetUebersicht",
-                "link": "/reporting/rap/setuebersicht"
-              },
-              {
-                "text": "SetUebersichtEx",
-                "link": "/reporting/rap/setuebersichtex"
-              },
-              {
-                "text": "SetUebersichtKursartFilter",
-                "link": "/reporting/rap/setuebersichtkursartfilter"
-              },
-              {
-                "text": "Setzefilter",
-                "link": "/reporting/rap/setzefilter"
-              },
-              {
-                "text": "SetzeKlassenAdressArt",
-                "link": "/reporting/rap/setzeklassenadressart"
-              },
-              {
-                "text": "SetzeSortierung",
-                "link": "/reporting/rap/setzesortierung"
-              },
-              {
-                "text": "SetzeSortierungEx",
-                "link": "/reporting/rap/setzesortierungex"
-              },
-              {
-                "text": "ShortDayNames",
-                "link": "/reporting/rap/shortdaynames"
-              },
-              {
-                "text": "SortierungVon",
-                "link": "/reporting/rap/sortierungvon"
-              },
-              {
-                "text": "StatistikKuerzelAusFachKuerzel",
-                "link": "/reporting/rap/statistikkuerzelausfachkuerzel"
-              },
-              {
-                "text": "StringInput",
-                "link": "/reporting/rap/stringinput"
-              },
-              {
-                "text": "SummeFehlstunden",
-                "link": "/reporting/rap/summefehlstunden"
-              },
-              {
-                "text": "Textbreite",
-                "link": "/reporting/rap/textbreite"
-              },
-              {
-                "text": "ThemaProjektKurs",
-                "link": "/reporting/rap/themaprojektkurs"
-              },
-              {
-                "text": "UebersichtsfachModus",
-                "link": "/reporting/rap/uebersichtsfachmodus"
-              },
-              {
-                "text": "UeberspringeRecord",
-                "link": "/reporting/rap/ueberspringerecord"
-              },
-              {
-                "text": "VerzeichnisseErzeugen",
-                "link": "/reporting/rap/verzeichnisseerzeugen"
-              },
-              {
-                "text": "WaehleDatumStr",
-                "link": "/reporting/rap/waehledatumstr"
-              },
-              {
-                "text": "WaehleDatumUndZeit",
-                "link": "/reporting/rap/waehledatumundzeit"
-              },
-              {
-                "text": "Wiederholungen",
-                "link": "/reporting/rap/wiederholungen"
-              },
-              {
-                "text": "Zahlwort",
-                "link": "/reporting/rap/zahlwort"
-              },
-              {
-                "text": "ZensurToStr",
-                "link": "/reporting/rap/zensurtostr"
-              },
-              {
-                "text": "ZeugnisDatenquellenOeffnen",
-                "link": "/reporting/rap/zeugnisdatenquellenoeffnen"
-              },
-              {
-                "text": "ZeugnisParameter",
-                "link": "/reporting/rap/zeugnisparameter"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "/tools/": [
-      {
-        "text": "Tools und Zusatzprogramme",
-        "items": [
-          {
-            "text": "Übersicht",
-            "link": "/tools/"
-          },
-          {
-            "text": "Druckansicht",
-            "link": "/druck/tools.html"
-          },
-          {
-            "text": "Kurs42",
-            "link": "/tools/kurs42",
-            "items": [
-              {
-                "text": "Installation",
-                "link": "/hilfe/zusatzprogramme/kurs42-installationshinweise"
-              },
-              {
-                "text": "Zusammenspiel mit SchILD und LuPO",
-                "link": "/tools/kurs42/datenfluss"
-              },
-              {
-                "text": "Neue Blockung erstellen",
-                "link": "/tools/kurs42/neue-blockung"
-              },
-              {
-                "text": "Klausuren planen",
-                "link": "/tools/kurs42/klausurplanung"
-              },
-              {
-                "text": "Halbjahreswechsel und Fachwahlabgleich",
-                "link": "/tools/kurs42/halbjahreswechsel"
-              },
-              {
-                "text": "K422CNF-Anleitung",
-                "link": "/hilfe/zusatzprogramme/k422cnf-uebersicht",
+                "text": "Noten und Zeugnisvorbereitung",
+                "link": "/zeugnisse/vorbereitung",
                 "items": [
                   {
-                    "text": "Kurs42 To CNF",
-                    "link": "/hilfe/zusatzprogramme/kurs42-to-cnf-hauptseite"
+                    "text": "Noten- und Zeugnisprozesse",
+                    "link": "/zeugnisse/vorbereitung/noten-zeugnisvorbereitung"
                   },
                   {
-                    "text": "Klausurplanung CNF",
-                    "link": "/hilfe/zusatzprogramme/klausurplanung-cnf-hauptseite"
+                    "text": "Zeugnisdruck vorbereiten",
+                    "link": "/zeugnisse/vorbereitung/zeugnisvorbereitungen-und-druck"
                   },
                   {
-                    "text": "Multi Klausurplanung CNF",
-                    "link": "/hilfe/zusatzprogramme/multi-klausurplanung-cnf-hauptseite"
+                    "text": "Aktuelles Halbjahr",
+                    "link": "/zeugnisse/vorbereitung/akt-halbjahr"
+                  },
+                  {
+                    "text": "Excel-Notendateien",
+                    "link": "/zeugnisse/vorbereitung/excel-notendateien"
+                  },
+                  {
+                    "text": "Zeugnisformulare importieren",
+                    "link": "/zeugnisse/vorbereitung/import-der-zeugnisformulare-in-schild-nrw"
+                  },
+                  {
+                    "text": "Ankreuzkompetenzen",
+                    "link": "/zeugnisse/vorbereitung/angaben-fuer-ankreuzzeugnisse-kompetenzen"
+                  },
+                  {
+                    "text": "Fachbemerkungen",
+                    "link": "/zeugnisse/vorbereitung/fachbezogene-bemerkungen"
+                  },
+                  {
+                    "text": "Abgeschlossene Fächer holen",
+                    "link": "/zeugnisse/vorbereitung/abgeschlossene-faecher-holen"
+                  },
+                  {
+                    "text": "Abgeschlossene Fächer löschen",
+                    "link": "/zeugnisse/vorbereitung/abgeschlossene-faecher-loeschen"
+                  },
+                  {
+                    "text": "Fehlstunden berechnen",
+                    "link": "/zeugnisse/vorbereitung/fehlstunden-summen-automatisch-berechnen"
+                  },
+                  {
+                    "text": "Fehlstunden eingeben",
+                    "link": "/zeugnisse/vorbereitung/fehlstunden-summen-manuell-eingeben"
+                  },
+                  {
+                    "text": "Fächer ohne Lehrkraft suchen",
+                    "link": "/zeugnisse/vorbereitung/faecher-ohne-lehrkraft-suchen"
+                  },
+                  {
+                    "text": "Fächer ohne Noten suchen",
+                    "link": "/zeugnisse/vorbereitung/faecher-ohne-noten-suchen"
+                  },
+                  {
+                    "text": "Konferenz- und Zeugnisdatum",
+                    "link": "/zeugnisse/vorbereitung/konferenz-zeugnis-datum-setzen"
+                  },
+                  {
+                    "text": "Lernbereichsnoten eingeben",
+                    "link": "/zeugnisse/vorbereitung/lernbereichsnoten-eingeben"
+                  },
+                  {
+                    "text": "Mahnungen automatisch setzen",
+                    "link": "/zeugnisse/vorbereitung/mahnungen-automatisch-setzen"
+                  },
+                  {
+                    "text": "Mahnungen drucken",
+                    "link": "/zeugnisse/vorbereitung/mahnungen-drucken"
+                  },
+                  {
+                    "text": "Abschnittsnoten löschen",
+                    "link": "/zeugnisse/vorbereitung/noten-des-aktuellen-abschnittes-loeschen"
+                  },
+                  {
+                    "text": "Noten, Mahnungen und Fehlstunden",
+                    "link": "/zeugnisse/vorbereitung/noten-mahnungen-und-fehlstunden-eingeben"
+                  },
+                  {
+                    "text": "Zeugnisbemerkungen eintragen",
+                    "link": "/zeugnisse/vorbereitung/zeugnisbemerkungen-eintragen"
+                  },
+                  {
+                    "text": "Zeugnisdruck und Entlassung",
+                    "link": "/zeugnisse/vorbereitung/zeugnisse-drucken-und-schueler-ausschulen"
+                  },
+                  {
+                    "text": "Zugeordnete Zeugnisformulare drucken",
+                    "link": "/zeugnisse/vorbereitung/zugeordnete-zeugnisformulare-drucken"
+                  },
+                  {
+                    "text": "Fach- und Förderunterricht",
+                    "link": "/zeugnisse/vorbereitung/zuweisungen-durchfuehren"
                   }
                 ]
               },
               {
-                "text": "SchILDzentral",
-                "link": "/hilfe/zusatzprogramme/news-kurs42-unter-schild-zentral"
-              },
-              {
-                "text": "Änderungshistorie",
-                "link": "/hilfe/zusatzprogramme/kurs42-versionsgeschichte"
-              }
-            ]
-          },
-          {
-            "text": "LuPO",
-            "link": "/tools/lupo",
-            "items": [
-              {
-                "text": "Einleitung",
-                "link": "/tools/lupo/lupo-einleitung"
-              },
-              {
-                "text": "Installation",
-                "link": "/tools/lupo/lupo-installation"
-              },
-              {
-                "text": "Vorbereitungen in SchILD",
-                "link": "/tools/lupo/lupo-vorbereitungen-in-schild-nrw"
-              },
-              {
-                "text": "Erste Schritte",
-                "link": "/tools/lupo/lupo-erste-schritte-in-lupo",
+                "text": "Grundschulzeugnisse",
+                "link": "/zeugnisse/grundschule",
                 "items": [
                   {
-                    "text": "Schülerdateien erzeugen",
-                    "link": "/tools/lupo/lupo-schuelerdateien-erzeugen"
+                    "text": "Textzeugnisse im Report-Explorer",
+                    "link": "/zeugnisse/grundschule/grundschulzeugnisse-textzeugnis"
+                  },
+                  {
+                    "text": "Noten und Kompetenzen eingeben",
+                    "link": "/tools/notenmodul-grundschule/leistungsdaten"
+                  },
+                  {
+                    "text": "Textzeugnisse drucken",
+                    "link": "/zeugnisse/grundschule/textzeugnisse-drucken"
+                  },
+                  {
+                    "text": "Rückgabe, Import und Druck",
+                    "link": "/tools/notenmodul-grundschule/rueckgabe-und-druck"
+                  },
+                  {
+                    "text": "Textzeugnisse zuordnen",
+                    "link": "/zeugnisse/grundschule/textzeugnisse-zuordnen"
+                  },
+                  {
+                    "text": "Leistungsübersicht Primarstufe",
+                    "link": "/zeugnisse/grundschule/uebersicht-primarstufe"
                   }
                 ]
               },
               {
-                "text": "Beratungsprozess",
-                "link": "/tools/lupo/lupo-der-beratungsprozess"
-              },
-              {
-                "text": "Fachwahlen auswerten",
-                "link": "/tools/lupo/lupo-auswertung-der-fachwahlen"
-              },
-              {
-                "text": "Fachwahlen an Kurs42 übergeben",
-                "link": "/tools/lupo/lupo-uebergabe-der-fachwahlen-an-kurs42"
-              },
-              {
-                "text": "Weitere Laufbahnprüfungen",
-                "link": "/tools/lupo/lupo-weitere-laufbahnpruefungen"
-              },
-              {
-                "text": "Änderungshistorie",
-                "link": "/tools/lupo/lupo-versionsgeschichte"
-              },
-              {
-                "text": "Inhaltsverzeichnis",
-                "link": "/tools/lupo/lupo-handbuch"
-              }
-            ]
-          },
-          {
-            "text": "ASDPC",
-            "link": "/tools/asdpc",
-            "items": [
-              {
-                "text": "Ablauf im Überblick",
-                "link": "/schild2/import-export-statistik/statistik-mit-asdpc-uebersicht"
-              },
-              {
-                "text": "Gesamtablauf",
-                "link": "/schild2/import-export-statistik/statistik-mit-asdpc"
-              },
-              {
-                "text": "Installation und Technik",
-                "link": "/schild2/import-export-statistik/statistik-mit-asdpc-technik"
-              },
-              {
-                "text": "Programmaufbau",
-                "link": "/schild2/import-export-statistik/statistik-mit-asdpc-aufbau"
-              },
-              {
-                "text": "Vorbereitung",
-                "link": "/schild2/import-export-statistik/statistik-mit-asdpc-vorbereitung"
-              },
-              {
-                "text": "Schlüsselverwaltung",
-                "link": "/schild2/import-export-statistik/statistik-mit-asdpc-schluesselmanagement"
-              },
-              {
-                "text": "Haupterhebung",
-                "link": "/schild2/import-export-statistik/statistik-mit-asdpc-haupterhebung"
-              },
-              {
-                "text": "Fehlersuche",
-                "link": "/schild2/import-export-statistik/statistik-mit-asdpc-fehlersuche"
-              }
-            ]
-          },
-          {
-            "text": "Notenmodul für Grundschulen",
-            "link": "/tools/notenmodul-grundschule",
-            "items": [
-              {
-                "text": "Vorbereitung und Export",
-                "link": "/tools/notenmodul-grundschule/vorbereitung"
-              },
-              {
-                "text": "Noten und Kompetenzen eingeben",
-                "link": "/tools/notenmodul-grundschule/leistungsdaten"
-              },
-              {
-                "text": "Rückgabe, Import und Druck",
-                "link": "/tools/notenmodul-grundschule/rueckgabe-und-druck"
-              }
-            ]
-          },
-          {
-            "text": "ENM-Notenmanager",
-            "link": "/tools/enm-notenmanager",
-            "items": [
-              {
-                "text": "Ersteinrichtung und Anzeige",
-                "link": "/tools/enm-notenmanager/ersteinrichtung"
-              },
-              {
-                "text": "Noten, Teilleistungen und Bemerkungen",
-                "link": "/tools/enm-notenmanager/leistungsdaten"
-              },
-              {
-                "text": "Zentrale Prüfungen und Rückgabe",
-                "link": "/tools/enm-notenmanager/pruefungen-und-rueckgabe"
-              },
-              {
-                "text": "Datenimport und Druck",
-                "link": "/tools/enm-notenmanager/import-und-druck"
-              }
-            ]
-          },
-          {
-            "text": "Externes Notenmodul",
-            "link": "/tools/externes-notenmodul",
-            "items": [
-              {
-                "text": "Vorbereitung und Datenaustausch",
-                "link": "/zeugnisse/vorbereitung/externes-notenmodul"
-              },
-              {
-                "text": "Noten eingeben",
-                "link": "/zeugnisse/vorbereitung/benutzung-des-externen-notenmoduls"
-              },
-              {
-                "text": "Notenmodul unter Ubuntu",
-                "link": "/administration/installation/einrichtung-des-enm-moduls-unter-ubuntu-18-04"
-              }
-            ]
-          },
-          {
-            "text": "KM2 – Konferenzmodul",
-            "link": "/tools/km2",
-            "items": [
-              {
-                "text": "Überblick",
-                "link": "/hilfe/zusatzprogramme/konferenzmodul-km2-exe"
-              },
-              {
-                "text": "Installation und Einrichtung",
-                "link": "/hilfe/zusatzprogramme/km2-001"
-              },
-              {
-                "text": "Datenbank und Administration",
-                "link": "/hilfe/zusatzprogramme/km2-parameter-administration"
-              },
-              {
-                "text": "Anzeige und Fächerauswahl",
-                "link": "/hilfe/zusatzprogramme/km2-parameter-allgemein"
-              },
-              {
-                "text": "Konferenzarbeit",
-                "link": "/hilfe/zusatzprogramme/modulbenutzung"
-              },
-              {
-                "text": "Aktualisieren",
-                "link": "/hilfe/zusatzprogramme/km2-programmupdate"
-              }
-            ]
-          },
-          {
-            "text": "PM2 – Prognosemodul",
-            "link": "/tools/pm2",
-            "items": [
-              {
-                "text": "Handbuch",
-                "link": "/hilfe/zusatzprogramme/prognos"
-              },
-              {
-                "text": "Einführung",
-                "link": "/hilfe/zusatzprogramme/prognos-einleitung"
-              },
-              {
-                "text": "Installation",
-                "link": "/hilfe/zusatzprogramme/prognos-installation"
-              },
-              {
-                "text": "Erster Programmstart",
-                "link": "/hilfe/zusatzprogramme/prognos-programmstart"
-              },
-              {
-                "text": "Analyseverfahren",
-                "link": "/hilfe/zusatzprogramme/prognos-hauptfenster",
+                "text": "Sekundarstufen und Abitur",
+                "link": "/zeugnisse/sekundarstufen",
                 "items": [
                   {
-                    "text": "Einzelfall analysieren",
-                    "link": "/hilfe/zusatzprogramme/prognos-analyseverfahren-einzelfall"
+                    "text": "Abitur",
+                    "link": "/zeugnisse/sekundarstufen/abitur"
                   },
                   {
-                    "text": "Klasse analysieren",
-                    "link": "/hilfe/zusatzprogramme/prognos-analyseverfahren-klasse"
+                    "text": "Abiturberechnungen",
+                    "link": "/zeugnisse/sekundarstufen/abiturdurchlauf"
                   },
                   {
-                    "text": "Notendatei analysieren",
-                    "link": "/hilfe/zusatzprogramme/prognos-analyseverfahren-datei"
+                    "text": "Abitur-Gruppenprozesse",
+                    "link": "/zeugnisse/sekundarstufen/gruppenprozesse-abitur"
+                  },
+                  {
+                    "text": "Abituraktionen",
+                    "link": "/zeugnisse/sekundarstufen/gruppenaktionen-abitur"
+                  },
+                  {
+                    "text": "Leistungsübersicht Sekundarstufe I",
+                    "link": "/zeugnisse/sekundarstufen/uebersicht-s-i"
+                  },
+                  {
+                    "text": "Leistungsübersicht Sekundarstufe II",
+                    "link": "/zeugnisse/sekundarstufen/uebersicht-s-ii"
+                  },
+                  {
+                    "text": "Laufbahnübersicht",
+                    "link": "/zeugnisse/sekundarstufen/gesamtuebersicht"
+                  },
+                  {
+                    "text": "Schulischer FHR-Teil",
+                    "link": "/zeugnisse/sekundarstufen/fhr"
+                  },
+                  {
+                    "text": "ZP10 und ZK10",
+                    "link": "/zeugnisse/sekundarstufen/zp10-zk10"
+                  },
+                  {
+                    "text": "Sprachenfolge im Zeugnis",
+                    "link": "/zeugnisse/sekundarstufen/sprachenfolge-bei-seiteneinsteigern-des-gymnasiums-in-zeugnis-korrekt-ausgeben"
+                  },
+                  {
+                    "text": "Bilinguale Bescheinigungen",
+                    "link": "/zeugnisse/sekundarstufen/bescheinigungen-des-bilingualen-bildungsgangs"
+                  },
+                  {
+                    "text": "Serienbriefe zur Nichtversetzung",
+                    "link": "/zeugnisse/sekundarstufen/serienbrief-nichtversetzte"
+                  },
+                  {
+                    "text": "Abiturjahr setzen",
+                    "link": "/zeugnisse/sekundarstufen/abitur-jahr-setzen-fuer-statistik"
+                  },
+                  {
+                    "text": "Abiturzulassung",
+                    "link": "/zeugnisse/sekundarstufen/abitur-zulassung-berechnen"
+                  },
+                  {
+                    "text": "Gesamtfehlstunden berechnen",
+                    "link": "/zeugnisse/sekundarstufen/gesamt-fehlstunden-berechnen"
+                  },
+                  {
+                    "text": "Abiturergebnis",
+                    "link": "/zeugnisse/sekundarstufen/gesamtergebnis-berechnen"
+                  },
+                  {
+                    "text": "Kurse für die Zulassung markieren",
+                    "link": "/zeugnisse/sekundarstufen/kurse-algorithmisch-markieren"
+                  },
+                  {
+                    "text": "Leistungsdaten übernehmen",
+                    "link": "/zeugnisse/sekundarstufen/leistungsdaten-holen"
+                  },
+                  {
+                    "text": "Mündliche Prüfungen festlegen",
+                    "link": "/zeugnisse/sekundarstufen/mdl-pruefungen-a1-a3-festlegen"
+                  },
+                  {
+                    "text": "Mündliche Prüfungen festlegen",
+                    "link": "/zeugnisse/sekundarstufen/muendliche-pruefungen-a1-a3-festlegen"
+                  },
+                  {
+                    "text": "Prüfungsergebnisse",
+                    "link": "/zeugnisse/sekundarstufen/pruefungsergebnisse-eingeben"
+                  },
+                  {
+                    "text": "Sprachnachweise und Zusatzdaten",
+                    "link": "/zeugnisse/sekundarstufen/zusatzdaten-latimun-eingeben"
+                  },
+                  {
+                    "text": "Sprachnachweise und Zusatzdaten",
+                    "link": "/zeugnisse/sekundarstufen/zusatzdaten-latinum-eingeben"
                   }
                 ]
               },
               {
-                "text": "Analysen und Ergebnisse",
-                "link": "/tools/pm2/analysen-und-ergebnisse"
+                "text": "Berufskolleg",
+                "link": "/zeugnisse/berufskolleg",
+                "items": [
+                  {
+                    "text": "BK-Abschluss im Überblick",
+                    "link": "/zeugnisse/berufskolleg/bkabschluss"
+                  },
+                  {
+                    "text": "BK-Abschlussverfahren",
+                    "link": "/zeugnisse/berufskolleg/bk-abschluss"
+                  },
+                  {
+                    "text": "D01 Abschlussberechnung",
+                    "link": "/zeugnisse/berufskolleg/anlage-d01"
+                  },
+                  {
+                    "text": "Herkunft am BK und WBK",
+                    "link": "/zeugnisse/berufskolleg/eintragung-herkunft-am-bk-wbk"
+                  },
+                  {
+                    "text": "A01 Fachklassen",
+                    "link": "/zeugnisse/berufskolleg/a01-fachklassen-bs-tz"
+                  },
+                  {
+                    "text": "A03 Zusatzqualifikation",
+                    "link": "/zeugnisse/berufskolleg/a03-fachklassen-erweiterte-zusatzqualifikation-bs-zq-tz"
+                  },
+                  {
+                    "text": "A12 Ausbildungsvorbereitung Vollzeit",
+                    "link": "/zeugnisse/berufskolleg/a12-ausbildungsvorbereitung-bs-1j-vz"
+                  },
+                  {
+                    "text": "A13 Ausbildungsvorbereitung Teilzeit",
+                    "link": "/zeugnisse/berufskolleg/a13-ausbildungsvorbereitung-bs-1j-tz"
+                  },
+                  {
+                    "text": "B06 Kenntnisse und Hauptschulabschluss",
+                    "link": "/zeugnisse/berufskolleg/b06-berufliche-kenntnisse-hauptschulabschluss-kl-10-bk-hsa10-1j-vz"
+                  },
+                  {
+                    "text": "B07 Kenntnisse und mittlerer Abschluss",
+                    "link": "/zeugnisse/berufskolleg/b07-berufliche-kenntnisse-mittlerer-schulabschluss-bk-for-1j-vz"
+                  },
+                  {
+                    "text": "Anlage A",
+                    "link": "/zeugnisse/berufskolleg/bk-abschluss-anlage-a"
+                  },
+                  {
+                    "text": "Anlage B",
+                    "link": "/zeugnisse/berufskolleg/bk-abschluss-anlage-b"
+                  },
+                  {
+                    "text": "Anlage C",
+                    "link": "/zeugnisse/berufskolleg/bk-abschluss-anlage-c"
+                  },
+                  {
+                    "text": "Anlage D",
+                    "link": "/zeugnisse/berufskolleg/bk-abschluss-anlage-d"
+                  },
+                  {
+                    "text": "Anlage E",
+                    "link": "/zeugnisse/berufskolleg/bk-abschluss-anlage-e"
+                  },
+                  {
+                    "text": "C01 Berufsabschluss und FHR",
+                    "link": "/zeugnisse/berufskolleg/c01-berufsabschluss-fachhochschulreife-ohne-berufspraktikum-bab-fhr-3j-vz"
+                  },
+                  {
+                    "text": "C02 Berufsabschluss",
+                    "link": "/zeugnisse/berufskolleg/c02-berufsabschluss-f-hochschulzugangsberechtigte-bab-2j-vz-bfs"
+                  },
+                  {
+                    "text": "C05 Fachoberschule Klasse 11",
+                    "link": "/zeugnisse/berufskolleg/c05-fachoberschule-kl-11-bk-fhr-1j-tz"
+                  },
+                  {
+                    "text": "C06 Fachoberschule Klasse 12S",
+                    "link": "/zeugnisse/berufskolleg/c06-fachoberschule-kl-12s-bk-fhr-1j-vz"
+                  },
+                  {
+                    "text": "C08 Fachoberschule Klasse 12B",
+                    "link": "/zeugnisse/berufskolleg/c08-fachoberschule-kl-12b-bk-fhr-1j-vz"
+                  },
+                  {
+                    "text": "D01 Berufsabschluss und Abitur",
+                    "link": "/zeugnisse/berufskolleg/d01-berufsabschluss-allg-hochschulreife-mit-berufspraktikum-bab-ahr-4j-vz"
+                  },
+                  {
+                    "text": "E02 Fachschule Teilzeit",
+                    "link": "/zeugnisse/berufskolleg/e02-fachschule-teilzeit-bw-4j-tz"
+                  }
+                ]
               }
             ]
           },
           {
-            "text": "S1Plan",
-            "link": "/tools/s1plan",
+            "text": "Benutzer und Einstellungen",
+            "link": "/administration/benutzer-einstellungen",
             "items": [
               {
-                "text": "Überblick",
-                "link": "/hilfe/zusatzprogramme/s1plan-uebersicht"
+                "text": "Extras-Menü",
+                "link": "/administration/benutzer-einstellungen/extras"
               },
               {
-                "text": "Installation",
-                "link": "/hilfe/zusatzprogramme/s1plan-installation"
+                "text": "Programmeinstellungen",
+                "link": "/administration/benutzer-einstellungen/programm-einstellungen"
               },
               {
-                "text": "Erster Programmstart",
-                "link": "/hilfe/zusatzprogramme/s1plan-erster-programmstart"
+                "text": "Angemeldete Benutzer",
+                "link": "/administration/benutzer-einstellungen/benutzer"
               },
               {
-                "text": "Kurse einrichten",
-                "link": "/hilfe/zusatzprogramme/s1plan-einrichtung-von-kursen"
+                "text": "KM2-Benutzerrechte",
+                "link": "/administration/benutzer-einstellungen/benutzerverwaltung"
               },
               {
-                "text": "Kurse aus SchILD übernehmen",
-                "link": "/hilfe/zusatzprogramme/s1plan-uebernahme-von-kursen-aus-schild"
+                "text": "Benutzerrechte verwalten",
+                "link": "/administration/benutzer-einstellungen/benutzerverwaltung-useradmn-exe"
               },
               {
-                "text": "Menüs und Zusatzfunktionen",
-                "link": "/hilfe/zusatzprogramme/s1plan-anhang"
+                "text": "Benutzerverwaltungs-Plugin",
+                "link": "/administration/benutzer-einstellungen/benutzerverwaltung-plugin-dll"
+              },
+              {
+                "text": "Datenschutzhinweis",
+                "link": "/administration/benutzer-einstellungen/datenschutzhinweis"
+              },
+              {
+                "text": "Dokumentenverwaltung",
+                "link": "/administration/benutzer-einstellungen/dokumentenverwaltung"
+              },
+              {
+                "text": "Dokumentenverwaltung aufräumen",
+                "link": "/administration/benutzer-einstellungen/dokumentenverwaltung-aufraeumen"
+              },
+              {
+                "text": "Dokumentenverzeichnisse aktualisieren",
+                "link": "/administration/benutzer-einstellungen/dokumentenverzeichnisse-aktualisieren"
+              },
+              {
+                "text": "Tastenkürzel",
+                "link": "/administration/benutzer-einstellungen/shortcuts-in-schild-nrw"
+              },
+              {
+                "text": "Dateinamen und Ablage",
+                "link": "/administration/benutzer-einstellungen/dateimaske-bearbeiten"
               }
             ]
           },
           {
-            "text": "MA2LBV",
-            "link": "/tools/ma2lbv",
+            "text": "Hintergrund und frühere Wiki-Inhalte",
             "items": [
               {
-                "text": "Einrichtung und Datenbankzugriff",
-                "link": "/tools/ma2lbv/einrichtung"
+                "text": "Wiki und Versionsgeschichte",
+                "link": "/hilfe/wiki-archiv"
               },
               {
-                "text": "Daten importieren",
-                "link": "/tools/ma2lbv/datenimport"
+                "text": "Zusatzprogramme und Handbücher",
+                "link": "/hilfe/zusatzprogramme"
               },
               {
-                "text": "Abrechnung und Ausgabe",
-                "link": "/tools/ma2lbv/abrechnung"
+                "text": "Frühere Wiki-Startseite",
+                "link": "/hilfe/wiki-archiv/hauptseite"
+              },
+              {
+                "text": "Wiki-Kategorie KM2",
+                "link": "/hilfe/wiki-archiv/kategorie-konferenzmodul-km2"
+              },
+              {
+                "text": "Wiki-Kategorie LuPO",
+                "link": "/hilfe/wiki-archiv/kategorie-lupo"
+              },
+              {
+                "text": "Technische Hinweise aus dem Wiki",
+                "link": "/hilfe/wiki-archiv/schild-nrw-wiki-aktuelle-ereignisse"
+              },
+              {
+                "text": "Datenschutzerklärung des Wikis",
+                "link": "/hilfe/wiki-archiv/schild-nrw-wiki-datenschutz"
+              },
+              {
+                "text": "Impressum des Wikis",
+                "link": "/hilfe/wiki-archiv/schild-nrw-wiki-impressum"
+              },
+              {
+                "text": "Frühere Menüübersicht",
+                "link": "/hilfe/wiki-archiv/testseite"
+              },
+              {
+                "text": "Video aus dem Wiki",
+                "link": "/hilfe/wiki-archiv/youtube"
               }
             ]
-          },
-          {
-            "text": "Migrationstool",
-            "link": "/tools/migrationstool",
-            "items": [
-              {
-                "text": "Datenbank übertragen",
-                "link": "/administration/datenbanken/schild-nrw-daten-in-eine-andere-datenbank-uebertragen-migrieren"
-              }
-            ]
-          },
-          {
-            "text": "Anonymisierungstool",
-            "link": "/tools/anonymisierungstool",
-            "items": []
-          },
-          {
-            "text": "Import aus Textdateien",
-            "link": "/tools/import-textdateien",
-            "items": [
-              {
-                "text": "Datenimport vorbereiten und ausführen",
-                "link": "/schild2/import-export-statistik/import-aus-textdateien"
-              }
-            ]
-          },
-          {
-            "text": "Schuljahr erhöhen",
-            "link": "/tools/schuljahr-erhoehen",
-            "items": []
-          },
-          {
-            "text": "Weitere Zusatzprogramme",
-            "link": "/tools/weitere",
-            "items": [
-              {
-                "text": "Externe Blockungsprogramme",
-                "link": "/hilfe/zusatzprogramme/externe-blockungs-tools"
-              },
-              {
-                "text": "Kursplanung mit KPlan",
-                "link": "/hilfe/zusatzprogramme/kursplanung-kplan-exe"
-              },
-              {
-                "text": "SchILDChat",
-                "link": "/hilfe/zusatzprogramme/schildchat-exe"
-              },
-              {
-                "text": "SchILDweb",
-                "link": "/hilfe/zusatzprogramme/schildweb"
-              },
-              {
-                "text": "Schnelleingabemodul",
-                "link": "/hilfe/zusatzprogramme/sem-schnelleingabemodul"
-              },
-              {
-                "text": "Tool-Übersicht",
-                "link": "/hilfe/zusatzprogramme/zusatzprogramme-tools"
-              }
-            ]
-          },
-          {
-            "text": "Alle Anleitungen",
-            "link": "/tools/anleitungen"
           }
         ]
       }
@@ -2102,7 +1298,7 @@
             "link": "/programmreferenz/"
           },
           {
-            "text": "Druckansicht",
+            "text": "Druckvorschau",
             "link": "/druck/programmreferenz.html"
           },
           {
@@ -3588,158 +2784,676 @@
             "items": []
           }
         ]
-      },
+      }
+    ],
+    "/reporting/": [
       {
-        "text": "Themenbereiche",
+        "text": "Arbeiten mit der Reportverwaltung und dem Reportdesigner",
         "items": [
           {
-            "text": "Einstieg",
-            "link": "/einstieg/"
-          },
-          {
-            "text": "Arbeiten mit SchILD",
-            "link": "/schild2/"
-          },
-          {
-            "text": "Zeugnisse",
-            "link": "/zeugnisse/"
-          },
-          {
-            "text": "Reporting",
+            "text": "Übersicht",
             "link": "/reporting/"
           },
           {
-            "text": "Tools und Zusatzprogramme",
-            "link": "/tools/"
+            "text": "Druckvorschau",
+            "link": "/druck/reporting.html"
           },
           {
-            "text": "Administration",
-            "link": "/administration/"
+            "text": "Reports verwalten und drucken",
+            "link": "/reporting/verwaltung",
+            "items": [
+              {
+                "text": "Druckfunktionen",
+                "link": "/reporting/verwaltung/druckausgabe"
+              },
+              {
+                "text": "Report-Explorer öffnen",
+                "link": "/reporting/verwaltung/reportexplorer-aufrufen"
+              },
+              {
+                "text": "Standardformulare",
+                "link": "/reporting/verwaltung/standard-formulare-drucken"
+              },
+              {
+                "text": "Report aus Archiv drucken",
+                "link": "/reporting/verwaltung/report-aus-archiv-drucken"
+              },
+              {
+                "text": "Word-Seriendruck",
+                "link": "/reporting/verwaltung/word-seriendruck"
+              },
+              {
+                "text": "E-Mail-Versand",
+                "link": "/reporting/verwaltung/mailversand-aus-der-reporting"
+              }
+            ]
           },
           {
-            "text": "Hilfe",
-            "link": "/hilfe/"
+            "text": "Reports erstellen",
+            "link": "/reporting/erstellung",
+            "items": [
+              {
+                "text": "Reporting-Grundlagen",
+                "link": "/reporting/erstellung/reporting"
+              },
+              {
+                "text": "Reportbaukasten",
+                "link": "/reporting/erstellung/reportbaukasten"
+              },
+              {
+                "text": "Einfache Reports erstellen",
+                "link": "/reporting/erstellung/erstellen-einfacher-reports"
+              },
+              {
+                "text": "Report-Explorer einrichten",
+                "link": "/reporting/erstellung/einrichtung-des-report-explorers"
+              },
+              {
+                "text": "BASIC-Reportbeispiele",
+                "link": "/reporting/erstellung/ausgewaehlte-beispiele-aus-der-basic-sammlung"
+              },
+              {
+                "text": "Eigene Datenquellen",
+                "link": "/reporting/erstellung/eigene-datenquellen-fuer-schild-reports"
+              },
+              {
+                "text": "Beispiel-Datenquelle",
+                "link": "/reporting/erstellung/dq01-demo-spd"
+              }
+            ]
+          },
+          {
+            "text": "RAP-Funktionsreferenz",
+            "link": "/reporting/rap",
+            "items": [
+              {
+                "text": "AlleFaecherLaden",
+                "link": "/reporting/rap/allefaecherladen"
+              },
+              {
+                "text": "Anrede",
+                "link": "/reporting/rap/anrede"
+              },
+              {
+                "text": "AnzahlElemente",
+                "link": "/reporting/rap/anzahlelemente"
+              },
+              {
+                "text": "AssignFont",
+                "link": "/reporting/rap/assignfont"
+              },
+              {
+                "text": "AufFaecherFiltern",
+                "link": "/reporting/rap/auffaecherfiltern"
+              },
+              {
+                "text": "AufzaehlungRTF",
+                "link": "/reporting/rap/aufzaehlungrtf"
+              },
+              {
+                "text": "Bestaetigung",
+                "link": "/reporting/rap/bestaetigung"
+              },
+              {
+                "text": "CreateNotenHeader",
+                "link": "/reporting/rap/createnotenheader"
+              },
+              {
+                "text": "CreateNotenHeaderUS",
+                "link": "/reporting/rap/createnotenheaderus"
+              },
+              {
+                "text": "DateinameFuerDVAuswaehlen",
+                "link": "/reporting/rap/dateinamefuerdvauswaehlen"
+              },
+              {
+                "text": "Datenliste",
+                "link": "/reporting/rap/datenliste"
+              },
+              {
+                "text": "DatensatzZeigerBewegen",
+                "link": "/reporting/rap/datensatzzeigerbewegen"
+              },
+              {
+                "text": "EditRichText",
+                "link": "/reporting/rap/editrichtext"
+              },
+              {
+                "text": "EditRichTextEx",
+                "link": "/reporting/rap/editrichtextex"
+              },
+              {
+                "text": "EditText",
+                "link": "/reporting/rap/edittext"
+              },
+              {
+                "text": "EinzelElement",
+                "link": "/reporting/rap/einzelelement"
+              },
+              {
+                "text": "Faechervorbelegen",
+                "link": "/reporting/rap/faechervorbelegen"
+              },
+              {
+                "text": "FileAge",
+                "link": "/reporting/rap/fileage"
+              },
+              {
+                "text": "FileExists",
+                "link": "/reporting/rap/fileexists"
+              },
+              {
+                "text": "FileOpenDlg",
+                "link": "/reporting/rap/fileopendlg"
+              },
+              {
+                "text": "FileSaveDlg",
+                "link": "/reporting/rap/filesavedlg"
+              },
+              {
+                "text": "FilterAdressArt",
+                "link": "/reporting/rap/filteradressart"
+              },
+              {
+                "text": "FilterAdresse",
+                "link": "/reporting/rap/filteradresse"
+              },
+              {
+                "text": "FilterErzieherfunktion",
+                "link": "/reporting/rap/filtererzieherfunktion"
+              },
+              {
+                "text": "FilterFachUebersichtAufKlasse",
+                "link": "/reporting/rap/filterfachuebersichtaufklasse"
+              },
+              {
+                "text": "FilterLaufbahnJahr",
+                "link": "/reporting/rap/filterlaufbahnjahr"
+              },
+              {
+                "text": "FilterLaufbahnJahrgangASD",
+                "link": "/reporting/rap/filterlaufbahnjahrgangasd"
+              },
+              {
+                "text": "FilterLaufbahnStufen",
+                "link": "/reporting/rap/filterlaufbahnstufen"
+              },
+              {
+                "text": "FilterSchuelerAdressArt",
+                "link": "/reporting/rap/filterschueleradressart"
+              },
+              {
+                "text": "FormatRTF",
+                "link": "/reporting/rap/formatrtf"
+              },
+              {
+                "text": "GeRNiveauAusFachKrz",
+                "link": "/reporting/rap/gerniveauausfachkrz"
+              },
+              {
+                "text": "GeschlechtToString",
+                "link": "/reporting/rap/geschlechttostring"
+              },
+              {
+                "text": "GetFachgruppe",
+                "link": "/reporting/rap/getfachgruppe"
+              },
+              {
+                "text": "GetSqlText",
+                "link": "/reporting/rap/getsqltext"
+              },
+              {
+                "text": "GruppenDesBenutzers",
+                "link": "/reporting/rap/gruppendesbenutzers"
+              },
+              {
+                "text": "IncFontSize",
+                "link": "/reporting/rap/incfontsize"
+              },
+              {
+                "text": "IstInDerGruppe",
+                "link": "/reporting/rap/istindergruppe"
+              },
+              {
+                "text": "IstLeer",
+                "link": "/reporting/rap/istleer"
+              },
+              {
+                "text": "JahrgangsListe",
+                "link": "/reporting/rap/jahrgangsliste"
+              },
+              {
+                "text": "KursBezIgnorieren",
+                "link": "/reporting/rap/kursbezignorieren"
+              },
+              {
+                "text": "LehrerAuswaehlen",
+                "link": "/reporting/rap/lehrerauswaehlen"
+              },
+              {
+                "text": "LehrerDatenLaden",
+                "link": "/reporting/rap/lehrerdatenladen"
+              },
+              {
+                "text": "LehrerKursartStatistikLaden",
+                "link": "/reporting/rap/lehrerkursartstatistikladen"
+              },
+              {
+                "text": "LehrerUnterrichtLaden",
+                "link": "/reporting/rap/lehrerunterrichtladen"
+              },
+              {
+                "text": "LernfelderZuFachklasse",
+                "link": "/reporting/rap/lernfelderzufachklasse"
+              },
+              {
+                "text": "LoadFromFile",
+                "link": "/reporting/rap/loadfromfile"
+              },
+              {
+                "text": "LoadNotenliste",
+                "link": "/reporting/rap/loadnotenliste"
+              },
+              {
+                "text": "LoadVermerke",
+                "link": "/reporting/rap/loadvermerke"
+              },
+              {
+                "text": "LoadVermerkeEx",
+                "link": "/reporting/rap/loadvermerkeex"
+              },
+              {
+                "text": "LoadVermerkeVonBis",
+                "link": "/reporting/rap/loadvermerkevonbis"
+              },
+              {
+                "text": "LongDayNames",
+                "link": "/reporting/rap/longdaynames"
+              },
+              {
+                "text": "LookupSprachenfolge",
+                "link": "/reporting/rap/lookupsprachenfolge"
+              },
+              {
+                "text": "Mehrfachauswahl",
+                "link": "/reporting/rap/mehrfachauswahl"
+              },
+              {
+                "text": "MehrfachauswahlEx",
+                "link": "/reporting/rap/mehrfachauswahlex"
+              },
+              {
+                "text": "MitLernabschnitten",
+                "link": "/reporting/rap/mitlernabschnitten"
+              },
+              {
+                "text": "NotenDurchschnitt",
+                "link": "/reporting/rap/notendurchschnitt"
+              },
+              {
+                "text": "NurErzieherMitAnschreiben",
+                "link": "/reporting/rap/nurerziehermitanschreiben"
+              },
+              {
+                "text": "NurFaecherMitAufsZeugnisFlag",
+                "link": "/reporting/rap/nurfaechermitaufszeugnisflag"
+              },
+              {
+                "text": "NurFaecherMitNoten",
+                "link": "/reporting/rap/nurfaechermitnoten"
+              },
+              {
+                "text": "NurGewerteteAbschnitte",
+                "link": "/reporting/rap/nurgewerteteabschnitte"
+              },
+              {
+                "text": "PickDatum",
+                "link": "/reporting/rap/pickdatum"
+              },
+              {
+                "text": "PipelineOeffnen",
+                "link": "/reporting/rap/pipelineoeffnen"
+              },
+              {
+                "text": "PluginVersion",
+                "link": "/reporting/rap/pluginversion"
+              },
+              {
+                "text": "Praktikumstage",
+                "link": "/reporting/rap/praktikumstage"
+              },
+              {
+                "text": "QuotedStr",
+                "link": "/reporting/rap/quotedstr"
+              },
+              {
+                "text": "ReadDateTime",
+                "link": "/reporting/rap/readdatetime"
+              },
+              {
+                "text": "ReplaceDefault",
+                "link": "/reporting/rap/replacedefault"
+              },
+              {
+                "text": "ReplaceStandardVar",
+                "link": "/reporting/rap/replacestandardvar"
+              },
+              {
+                "text": "ReplaceText",
+                "link": "/reporting/rap/replacetext"
+              },
+              {
+                "text": "ReplaceTextEx",
+                "link": "/reporting/rap/replacetextex"
+              },
+              {
+                "text": "ResetAdressArt",
+                "link": "/reporting/rap/resetadressart"
+              },
+              {
+                "text": "ResetAdressFilter",
+                "link": "/reporting/rap/resetadressfilter"
+              },
+              {
+                "text": "ResetFaechervorbelegung",
+                "link": "/reporting/rap/resetfaechervorbelegung"
+              },
+              {
+                "text": "ResetFilterErzieherfunktion",
+                "link": "/reporting/rap/resetfiltererzieherfunktion"
+              },
+              {
+                "text": "ResetFilterLaufbahnJahr",
+                "link": "/reporting/rap/resetfilterlaufbahnjahr"
+              },
+              {
+                "text": "RtfToPlaintext",
+                "link": "/reporting/rap/rtftoplaintext"
+              },
+              {
+                "text": "SchuljahrToStr",
+                "link": "/reporting/rap/schuljahrtostr"
+              },
+              {
+                "text": "SchuljahrToStrEx",
+                "link": "/reporting/rap/schuljahrtostrex"
+              },
+              {
+                "text": "SchulText",
+                "link": "/reporting/rap/schultext"
+              },
+              {
+                "text": "SelectAdressArt",
+                "link": "/reporting/rap/selectadressart"
+              },
+              {
+                "text": "SelectAdressName",
+                "link": "/reporting/rap/selectadressname"
+              },
+              {
+                "text": "SelectErzFunktion",
+                "link": "/reporting/rap/selecterzfunktion"
+              },
+              {
+                "text": "Selectfont",
+                "link": "/reporting/rap/selectfont"
+              },
+              {
+                "text": "SelectFromList",
+                "link": "/reporting/rap/selectfromlist"
+              },
+              {
+                "text": "SelectFromListEx",
+                "link": "/reporting/rap/selectfromlistex"
+              },
+              {
+                "text": "SelectNotenliste",
+                "link": "/reporting/rap/selectnotenliste"
+              },
+              {
+                "text": "SelectOption",
+                "link": "/reporting/rap/selectoption"
+              },
+              {
+                "text": "SelectString",
+                "link": "/reporting/rap/selectstring"
+              },
+              {
+                "text": "SelectStringEx",
+                "link": "/reporting/rap/selectstringex"
+              },
+              {
+                "text": "SetAbitur",
+                "link": "/reporting/rap/setabitur"
+              },
+              {
+                "text": "SetAdressArt",
+                "link": "/reporting/rap/setadressart"
+              },
+              {
+                "text": "SetBKAbschluss",
+                "link": "/reporting/rap/setbkabschluss"
+              },
+              {
+                "text": "SetFont",
+                "link": "/reporting/rap/setfont"
+              },
+              {
+                "text": "SetJgIntervall",
+                "link": "/reporting/rap/setjgintervall"
+              },
+              {
+                "text": "SetJgIntervall ASD",
+                "link": "/reporting/rap/setjgintervall-asd"
+              },
+              {
+                "text": "SetKursSchuelerFaecherListe",
+                "link": "/reporting/rap/setkursschuelerfaecherliste"
+              },
+              {
+                "text": "SetQuartalsnotenInUebersicht",
+                "link": "/reporting/rap/setquartalsnoteninuebersicht"
+              },
+              {
+                "text": "SetTextAttributes",
+                "link": "/reporting/rap/settextattributes"
+              },
+              {
+                "text": "SetUebersicht",
+                "link": "/reporting/rap/setuebersicht"
+              },
+              {
+                "text": "SetUebersichtEx",
+                "link": "/reporting/rap/setuebersichtex"
+              },
+              {
+                "text": "SetUebersichtKursartFilter",
+                "link": "/reporting/rap/setuebersichtkursartfilter"
+              },
+              {
+                "text": "Setzefilter",
+                "link": "/reporting/rap/setzefilter"
+              },
+              {
+                "text": "SetzeKlassenAdressArt",
+                "link": "/reporting/rap/setzeklassenadressart"
+              },
+              {
+                "text": "SetzeSortierung",
+                "link": "/reporting/rap/setzesortierung"
+              },
+              {
+                "text": "SetzeSortierungEx",
+                "link": "/reporting/rap/setzesortierungex"
+              },
+              {
+                "text": "ShortDayNames",
+                "link": "/reporting/rap/shortdaynames"
+              },
+              {
+                "text": "SortierungVon",
+                "link": "/reporting/rap/sortierungvon"
+              },
+              {
+                "text": "StatistikKuerzelAusFachKuerzel",
+                "link": "/reporting/rap/statistikkuerzelausfachkuerzel"
+              },
+              {
+                "text": "StringInput",
+                "link": "/reporting/rap/stringinput"
+              },
+              {
+                "text": "SummeFehlstunden",
+                "link": "/reporting/rap/summefehlstunden"
+              },
+              {
+                "text": "Textbreite",
+                "link": "/reporting/rap/textbreite"
+              },
+              {
+                "text": "ThemaProjektKurs",
+                "link": "/reporting/rap/themaprojektkurs"
+              },
+              {
+                "text": "UebersichtsfachModus",
+                "link": "/reporting/rap/uebersichtsfachmodus"
+              },
+              {
+                "text": "UeberspringeRecord",
+                "link": "/reporting/rap/ueberspringerecord"
+              },
+              {
+                "text": "VerzeichnisseErzeugen",
+                "link": "/reporting/rap/verzeichnisseerzeugen"
+              },
+              {
+                "text": "WaehleDatumStr",
+                "link": "/reporting/rap/waehledatumstr"
+              },
+              {
+                "text": "WaehleDatumUndZeit",
+                "link": "/reporting/rap/waehledatumundzeit"
+              },
+              {
+                "text": "Wiederholungen",
+                "link": "/reporting/rap/wiederholungen"
+              },
+              {
+                "text": "Zahlwort",
+                "link": "/reporting/rap/zahlwort"
+              },
+              {
+                "text": "ZensurToStr",
+                "link": "/reporting/rap/zensurtostr"
+              },
+              {
+                "text": "ZeugnisDatenquellenOeffnen",
+                "link": "/reporting/rap/zeugnisdatenquellenoeffnen"
+              },
+              {
+                "text": "ZeugnisParameter",
+                "link": "/reporting/rap/zeugnisparameter"
+              }
+            ]
           }
         ]
       }
     ],
-    "/administration/": [
+    "/tools/": [
       {
-        "text": "Administration",
+        "text": "Tools und Zusatzprogramme",
         "items": [
           {
             "text": "Übersicht",
-            "link": "/administration/"
+            "link": "/tools/"
           },
           {
-            "text": "Druckansicht",
-            "link": "/druck/administration.html"
+            "text": "Druckvorschau",
+            "link": "/druck/tools.html"
           },
           {
-            "text": "Installation und Datenbank",
-            "link": "/administration/installation",
-            "items": [
-              {
-                "text": "SchILD installieren",
-                "link": "/administration/installation/schild-nrw-installation"
-              },
-              {
-                "text": "Access unter Windows Server",
-                "link": "/administration/installation/access-datenbanken-und-windows-server-2012"
-              },
-              {
-                "text": "UDL-Dateien öffnen",
-                "link": "/administration/installation/udl-dateien-unter-64-bit"
-              }
-            ]
+            "text": "Kurs42",
+            "link": "/tools/kurs42"
           },
           {
-            "text": "Datenbanken und Sicherung",
-            "link": "/administration/datenbanken",
-            "items": [
-              {
-                "text": "Datei-Menü",
-                "link": "/administration/datenbanken/datei"
-              },
-              {
-                "text": "Datensicherung",
-                "link": "/administration/datenbanken/datensicherung"
-              },
-              {
-                "text": "Datenbank kopieren",
-                "link": "/administration/datenbanken/datenbank-kopieren"
-              },
-              {
-                "text": "Access-Datenbank reparieren",
-                "link": "/administration/datenbanken/datenbank-reparieren-und-komprimieren"
-              },
-              {
-                "text": "Transaktionsprotokoll verwenden",
-                "link": "/administration/datenbanken/transaktionsprotokoll-verwenden"
-              },
-              {
-                "text": "Datenbank aufräumen",
-                "link": "/administration/datenbanken/aufraeumen"
-              },
-              {
-                "text": "SQL-Befehle eingeben",
-                "link": "/administration/datenbanken/sql-befehle-eingeben"
-              }
-            ]
+            "text": "LuPO",
+            "link": "/tools/lupo"
           },
           {
-            "text": "Benutzer und Einstellungen",
-            "link": "/administration/benutzer-einstellungen",
-            "items": [
-              {
-                "text": "Extras-Menü",
-                "link": "/administration/benutzer-einstellungen/extras"
-              },
-              {
-                "text": "Programmeinstellungen",
-                "link": "/administration/benutzer-einstellungen/programm-einstellungen"
-              },
-              {
-                "text": "Angemeldete Benutzer",
-                "link": "/administration/benutzer-einstellungen/benutzer"
-              },
-              {
-                "text": "KM2-Benutzerrechte",
-                "link": "/administration/benutzer-einstellungen/benutzerverwaltung"
-              },
-              {
-                "text": "Benutzerrechte verwalten",
-                "link": "/administration/benutzer-einstellungen/benutzerverwaltung-useradmn-exe"
-              },
-              {
-                "text": "Benutzerverwaltungs-Plugin",
-                "link": "/administration/benutzer-einstellungen/benutzerverwaltung-plugin-dll"
-              },
-              {
-                "text": "Datenschutzhinweis",
-                "link": "/administration/benutzer-einstellungen/datenschutzhinweis"
-              },
-              {
-                "text": "Dokumentenverwaltung",
-                "link": "/administration/benutzer-einstellungen/dokumentenverwaltung"
-              },
-              {
-                "text": "Dokumentenverwaltung aufräumen",
-                "link": "/administration/benutzer-einstellungen/dokumentenverwaltung-aufraeumen"
-              },
-              {
-                "text": "Dokumentenverzeichnisse aktualisieren",
-                "link": "/administration/benutzer-einstellungen/dokumentenverzeichnisse-aktualisieren"
-              },
-              {
-                "text": "Tastenkürzel",
-                "link": "/administration/benutzer-einstellungen/shortcuts-in-schild-nrw"
-              },
-              {
-                "text": "Dateinamen und Ablage",
-                "link": "/administration/benutzer-einstellungen/dateimaske-bearbeiten"
-              }
-            ]
+            "text": "ASDPC",
+            "link": "/tools/asdpc"
+          },
+          {
+            "text": "Notenmodul für Grundschulen",
+            "link": "/tools/notenmodul-grundschule"
+          },
+          {
+            "text": "ENM-Notenmanager",
+            "link": "/tools/enm-notenmanager"
+          },
+          {
+            "text": "Externes Notenmodul",
+            "link": "/tools/externes-notenmodul"
+          },
+          {
+            "text": "KM2 – Konferenzmodul",
+            "link": "/tools/km2"
+          },
+          {
+            "text": "PM2 – Prognosemodul",
+            "link": "/tools/pm2"
+          },
+          {
+            "text": "S1Plan",
+            "link": "/tools/s1plan"
+          },
+          {
+            "text": "MA2LBV",
+            "link": "/tools/ma2lbv"
+          },
+          {
+            "text": "Migrationstool",
+            "link": "/tools/migrationstool"
+          },
+          {
+            "text": "Anonymisierungstool",
+            "link": "/tools/anonymisierungstool"
+          },
+          {
+            "text": "Import aus Textdateien",
+            "link": "/tools/import-textdateien"
+          },
+          {
+            "text": "Schuljahr erhöhen",
+            "link": "/tools/schuljahr-erhoehen"
+          },
+          {
+            "text": "Weitere Zusatzprogramme",
+            "link": "/tools/weitere"
+          },
+          {
+            "text": "KPlan",
+            "link": "/tools/kplan"
+          },
+          {
+            "text": "SchILDChat",
+            "link": "/tools/schildchat"
+          },
+          {
+            "text": "SchILDweb",
+            "link": "/tools/schildweb"
+          },
+          {
+            "text": "Schnelleingabemodul",
+            "link": "/tools/schnelleingabemodul"
+          },
+          {
+            "text": "Externe Blockungsprogramme",
+            "link": "/tools/blockungsprogramme"
+          },
+          {
+            "text": "Alle Anleitungen",
+            "link": "/tools/anleitungen"
           }
         ]
       }
@@ -3753,160 +3467,748 @@
             "link": "/hilfe/"
           },
           {
-            "text": "Druckansicht",
+            "text": "Druckvorschau",
             "link": "/druck/hilfe.html"
           },
           {
-            "text": "Hilfe und Problemlösungen",
+            "text": "Hilfe und Fehlerbehebung",
             "link": "/hilfe/probleme",
             "items": [
               {
-                "text": "Programmhilfe",
-                "link": "/hilfe/probleme/hilfe"
-              },
-              {
                 "text": "Statistik-DLL registrieren",
                 "link": "/hilfe/probleme/fehler-beim-export-der-statistikdateien-klasse-nicht-registriert"
-              }
-            ]
-          },
-          {
-            "text": "Wiki und Versionsgeschichte",
-            "link": "/hilfe/wiki-archiv",
-            "items": [
-              {
-                "text": "Änderungshistorie",
-                "link": "/hilfe/wiki-archiv/versionsgeschichte-schild-nrw"
-              },
-              {
-                "text": "Wiki-Video",
-                "link": "/hilfe/wiki-archiv/youtube"
-              },
-              {
-                "text": "Frühere Menüübersicht",
-                "link": "/hilfe/wiki-archiv/testseite"
-              },
-              {
-                "text": "Barrierefreiheit im Wiki",
-                "link": "/hilfe/wiki-archiv/erklaerung-zur-barrierefreiheit"
-              },
-              {
-                "text": "Wiki-Startseite",
-                "link": "/hilfe/wiki-archiv/hauptseite"
               },
               {
                 "text": "Hilfe und Support",
                 "link": "/hilfe/wiki-archiv/hilfe-inhaltsverzeichnis"
               },
               {
-                "text": "Kategorie KM2",
-                "link": "/hilfe/wiki-archiv/kategorie-konferenzmodul-km2"
+                "text": "Barrierefreiheit",
+                "link": "/hilfe/wiki-archiv/erklaerung-zur-barrierefreiheit"
               },
               {
-                "text": "Kategorie LuPO",
-                "link": "/hilfe/wiki-archiv/kategorie-lupo"
-              },
-              {
-                "text": "Technische Wiki-Hinweise",
-                "link": "/hilfe/wiki-archiv/schild-nrw-wiki-aktuelle-ereignisse"
-              },
-              {
-                "text": "Datenschutz im Wiki",
-                "link": "/hilfe/wiki-archiv/schild-nrw-wiki-datenschutz"
-              },
-              {
-                "text": "Wiki-Impressum",
-                "link": "/hilfe/wiki-archiv/schild-nrw-wiki-impressum"
+                "text": "Änderungshistorie",
+                "link": "/hilfe/wiki-archiv/versionsgeschichte-schild-nrw"
               }
             ]
           },
           {
-            "text": "Tools und Zusatzprogramme",
-            "link": "/hilfe/zusatzprogramme",
-            "items": []
+            "text": "Datenbankpflege",
+            "link": "/administration/datenbanken",
+            "items": [
+              {
+                "text": "UDL-Dateien öffnen",
+                "link": "/administration/installation/udl-dateien-unter-64-bit"
+              },
+              {
+                "text": "Datenbank kopieren",
+                "link": "/administration/datenbanken/datenbank-kopieren"
+              },
+              {
+                "id": "menue-menue-87-2",
+                "text": "Datenbank sichern",
+                "link": "/administration/datenbanken/datensicherung",
+                "source_title": "Datensicherung",
+                "items": []
+              },
+              {
+                "text": "Access-Datenbank reparieren und komprimieren",
+                "link": "/administration/datenbanken/datenbank-reparieren-und-komprimieren"
+              },
+              {
+                "id": "menue-menue-87-13",
+                "text": "Transaktionsprotokoll verwenden",
+                "link": "/administration/datenbanken/transaktionsprotokoll-verwenden",
+                "source_title": "Transaktionsprotokoll verwenden",
+                "items": []
+              },
+              {
+                "id": "menue-menue-87-11",
+                "text": "Datenbank aufräumen",
+                "link": "/administration/datenbanken/aufraeumen",
+                "source_title": "Aufräumen",
+                "items": []
+              },
+              {
+                "id": "menue-menue-87-12",
+                "text": "SQL-Befehle eingeben",
+                "link": "/administration/datenbanken/sql-befehle-eingeben",
+                "source_title": "SQL-Befehle eingeben",
+                "items": []
+              }
+            ]
           },
           {
-            "text": "Bedienung im Alltag",
-            "link": "/hilfe/bedienung"
-          },
-          {
-            "text": "Artikel schreiben",
-            "link": "/hilfe/artikel-schreiben"
-          },
-          {
-            "text": "Markdown und Gestaltung",
-            "link": "/hilfe/markdown-und-gestaltung"
-          },
-          {
-            "text": "Bilderkatalog",
-            "link": "/bilder/"
-          },
-          {
-            "text": "Dokumentation und Wiki im Vergleich",
-            "link": "/hilfe/artikel-wiki-zuordnung"
-          },
-          {
-            "text": "Alle Artikel A–Z",
-            "link": "/hilfe/alle-artikel"
-          },
-          {
-            "text": "Über diese Dokumentation",
-            "link": "/hilfe/ueber-diese-dokumentation"
-          },
-          {
-            "text": "Vollständiges Quellenarchiv",
-            "link": "/quellen/"
+            "text": "Dokumentation nutzen und ergänzen",
+            "items": [
+              {
+                "text": "Artikel schreiben",
+                "link": "/hilfe/artikel-schreiben"
+              },
+              {
+                "text": "Markdown und Gestaltung",
+                "link": "/hilfe/markdown-und-gestaltung"
+              },
+              {
+                "text": "Bilderkatalog",
+                "link": "/bilder/"
+              },
+              {
+                "text": "Dokumentation und Wiki im Vergleich",
+                "link": "/hilfe/artikel-wiki-zuordnung"
+              },
+              {
+                "text": "Alle Artikel A–Z",
+                "link": "/hilfe/alle-artikel"
+              }
+            ]
           }
         ]
       }
     ],
-    "/quellen/": [
+    "/tools/kurs42/": [
       {
-        "text": "Quellenarchiv",
+        "text": "Kurs42",
         "items": [
           {
             "text": "Übersicht",
-            "link": "/quellen/"
+            "link": "/tools/kurs42"
           },
           {
-            "text": "Alle Originaldateien",
-            "link": "/quellen/dateien"
+            "text": "Druckvorschau",
+            "link": "/druck/tools/kurs42.html"
           },
           {
-            "text": "Artikel",
-            "link": "/quellen/namensraum-0"
+            "text": "Installation",
+            "link": "/hilfe/zusatzprogramme/kurs42-installationshinweise"
           },
           {
-            "text": "Benutzer",
-            "link": "/quellen/namensraum-2"
+            "text": "Zusammenspiel mit SchILD und LuPO",
+            "link": "/tools/kurs42/datenfluss"
           },
           {
-            "text": "Schild-NRW Wiki",
-            "link": "/quellen/namensraum-4"
+            "text": "Neue Blockung erstellen",
+            "link": "/tools/kurs42/neue-blockung"
           },
           {
-            "text": "Datei",
-            "link": "/quellen/namensraum-6"
+            "text": "Klausuren planen",
+            "link": "/tools/kurs42/klausurplanung"
           },
           {
-            "text": "MediaWiki",
-            "link": "/quellen/namensraum-8"
+            "text": "Halbjahreswechsel und Fachwahlabgleich",
+            "link": "/tools/kurs42/halbjahreswechsel"
           },
           {
-            "text": "Vorlage",
-            "link": "/quellen/namensraum-10"
+            "text": "K422CNF-Anleitung",
+            "link": "/hilfe/zusatzprogramme/k422cnf-uebersicht",
+            "items": [
+              {
+                "text": "Kurs42 To CNF",
+                "link": "/hilfe/zusatzprogramme/kurs42-to-cnf-hauptseite"
+              },
+              {
+                "text": "Klausurplanung CNF",
+                "link": "/hilfe/zusatzprogramme/klausurplanung-cnf-hauptseite"
+              },
+              {
+                "text": "Multi Klausurplanung CNF",
+                "link": "/hilfe/zusatzprogramme/multi-klausurplanung-cnf-hauptseite"
+              }
+            ]
           },
           {
-            "text": "Hilfe",
-            "link": "/quellen/namensraum-12"
+            "text": "SchILDzentral",
+            "link": "/hilfe/zusatzprogramme/news-kurs42-unter-schild-zentral"
           },
           {
-            "text": "Kategorie",
-            "link": "/quellen/namensraum-14"
+            "text": "Änderungshistorie",
+            "link": "/hilfe/zusatzprogramme/kurs42-versionsgeschichte"
+          }
+        ]
+      }
+    ],
+    "/tools/lupo/": [
+      {
+        "text": "LuPO",
+        "items": [
+          {
+            "text": "Übersicht",
+            "link": "/tools/lupo"
           },
           {
-            "text": "Lupo",
-            "link": "/quellen/namensraum-200"
+            "text": "Druckvorschau",
+            "link": "/druck/tools/lupo.html"
+          },
+          {
+            "text": "Einleitung",
+            "link": "/tools/lupo/lupo-einleitung"
+          },
+          {
+            "text": "Installation",
+            "link": "/tools/lupo/lupo-installation"
+          },
+          {
+            "text": "Vorbereitungen in SchILD",
+            "link": "/tools/lupo/lupo-vorbereitungen-in-schild-nrw"
+          },
+          {
+            "text": "Erste Schritte",
+            "link": "/tools/lupo/lupo-erste-schritte-in-lupo",
+            "items": [
+              {
+                "text": "Schülerdateien erzeugen",
+                "link": "/tools/lupo/lupo-schuelerdateien-erzeugen"
+              }
+            ]
+          },
+          {
+            "text": "Beratungsprozess",
+            "link": "/tools/lupo/lupo-der-beratungsprozess"
+          },
+          {
+            "text": "Fachwahlen auswerten",
+            "link": "/tools/lupo/lupo-auswertung-der-fachwahlen"
+          },
+          {
+            "text": "Fachwahlen an Kurs42 übergeben",
+            "link": "/tools/lupo/lupo-uebergabe-der-fachwahlen-an-kurs42"
+          },
+          {
+            "text": "Weitere Laufbahnprüfungen",
+            "link": "/tools/lupo/lupo-weitere-laufbahnpruefungen"
+          },
+          {
+            "text": "Änderungshistorie",
+            "link": "/tools/lupo/lupo-versionsgeschichte"
+          },
+          {
+            "text": "Inhaltsverzeichnis",
+            "link": "/tools/lupo/lupo-handbuch"
+          }
+        ]
+      }
+    ],
+    "/tools/asdpc/": [
+      {
+        "text": "ASDPC",
+        "items": [
+          {
+            "text": "Übersicht",
+            "link": "/tools/asdpc"
+          },
+          {
+            "text": "Druckvorschau",
+            "link": "/druck/tools/asdpc.html"
+          },
+          {
+            "text": "Ablauf im Überblick",
+            "link": "/schild2/import-export-statistik/statistik-mit-asdpc-uebersicht"
+          },
+          {
+            "text": "Gesamtablauf",
+            "link": "/schild2/import-export-statistik/statistik-mit-asdpc"
+          },
+          {
+            "text": "Installation und Technik",
+            "link": "/schild2/import-export-statistik/statistik-mit-asdpc-technik"
+          },
+          {
+            "text": "Programmaufbau",
+            "link": "/schild2/import-export-statistik/statistik-mit-asdpc-aufbau"
+          },
+          {
+            "text": "Vorbereitung",
+            "link": "/schild2/import-export-statistik/statistik-mit-asdpc-vorbereitung"
+          },
+          {
+            "text": "Schlüsselverwaltung",
+            "link": "/schild2/import-export-statistik/statistik-mit-asdpc-schluesselmanagement"
+          },
+          {
+            "text": "Haupterhebung",
+            "link": "/schild2/import-export-statistik/statistik-mit-asdpc-haupterhebung"
+          },
+          {
+            "text": "Fehlersuche",
+            "link": "/schild2/import-export-statistik/statistik-mit-asdpc-fehlersuche"
+          }
+        ]
+      }
+    ],
+    "/tools/notenmodul-grundschule/": [
+      {
+        "text": "Notenmodul für Grundschulen",
+        "items": [
+          {
+            "text": "Übersicht",
+            "link": "/tools/notenmodul-grundschule"
+          },
+          {
+            "text": "Druckvorschau",
+            "link": "/druck/tools/notenmodul-grundschule.html"
+          },
+          {
+            "text": "Vorbereitung und Export",
+            "link": "/tools/notenmodul-grundschule/vorbereitung"
+          },
+          {
+            "text": "Noten und Kompetenzen eingeben",
+            "link": "/tools/notenmodul-grundschule/leistungsdaten"
+          },
+          {
+            "text": "Rückgabe, Import und Druck",
+            "link": "/tools/notenmodul-grundschule/rueckgabe-und-druck"
+          }
+        ]
+      }
+    ],
+    "/tools/enm-notenmanager/": [
+      {
+        "text": "ENM-Notenmanager",
+        "items": [
+          {
+            "text": "Übersicht",
+            "link": "/tools/enm-notenmanager"
+          },
+          {
+            "text": "Druckvorschau",
+            "link": "/druck/tools/enm-notenmanager.html"
+          },
+          {
+            "text": "Ersteinrichtung und Anzeige",
+            "link": "/tools/enm-notenmanager/ersteinrichtung"
+          },
+          {
+            "text": "Noten, Teilleistungen und Bemerkungen",
+            "link": "/tools/enm-notenmanager/leistungsdaten"
+          },
+          {
+            "text": "Zentrale Prüfungen und Rückgabe",
+            "link": "/tools/enm-notenmanager/pruefungen-und-rueckgabe"
+          },
+          {
+            "text": "Datenimport und Druck",
+            "link": "/tools/enm-notenmanager/import-und-druck"
+          }
+        ]
+      }
+    ],
+    "/tools/externes-notenmodul/": [
+      {
+        "text": "Externes Notenmodul",
+        "items": [
+          {
+            "text": "Übersicht",
+            "link": "/tools/externes-notenmodul"
+          },
+          {
+            "text": "Druckvorschau",
+            "link": "/druck/tools/externes-notenmodul.html"
+          },
+          {
+            "text": "Vorbereitung und Datenaustausch",
+            "link": "/zeugnisse/vorbereitung/externes-notenmodul"
+          },
+          {
+            "text": "Noten eingeben",
+            "link": "/zeugnisse/vorbereitung/benutzung-des-externen-notenmoduls"
+          },
+          {
+            "text": "Notenmodul unter Ubuntu",
+            "link": "/administration/installation/einrichtung-des-enm-moduls-unter-ubuntu-18-04"
+          }
+        ]
+      }
+    ],
+    "/tools/km2/": [
+      {
+        "text": "KM2 – Konferenzmodul",
+        "items": [
+          {
+            "text": "Übersicht",
+            "link": "/tools/km2"
+          },
+          {
+            "text": "Druckvorschau",
+            "link": "/druck/tools/km2.html"
+          },
+          {
+            "text": "Überblick",
+            "link": "/hilfe/zusatzprogramme/konferenzmodul-km2-exe"
+          },
+          {
+            "text": "Installation und Einrichtung",
+            "link": "/hilfe/zusatzprogramme/km2-001"
+          },
+          {
+            "text": "Datenbank und Administration",
+            "link": "/hilfe/zusatzprogramme/km2-parameter-administration"
+          },
+          {
+            "text": "Anzeige und Fächerauswahl",
+            "link": "/hilfe/zusatzprogramme/km2-parameter-allgemein"
+          },
+          {
+            "text": "Konferenzarbeit",
+            "link": "/hilfe/zusatzprogramme/modulbenutzung"
+          },
+          {
+            "text": "Aktualisieren",
+            "link": "/hilfe/zusatzprogramme/km2-programmupdate"
+          }
+        ]
+      }
+    ],
+    "/tools/pm2/": [
+      {
+        "text": "PM2 – Prognosemodul",
+        "items": [
+          {
+            "text": "Übersicht",
+            "link": "/tools/pm2"
+          },
+          {
+            "text": "Druckvorschau",
+            "link": "/druck/tools/pm2.html"
+          },
+          {
+            "text": "Handbuch",
+            "link": "/hilfe/zusatzprogramme/prognos"
+          },
+          {
+            "text": "Einführung",
+            "link": "/hilfe/zusatzprogramme/prognos-einleitung"
+          },
+          {
+            "text": "Installation",
+            "link": "/hilfe/zusatzprogramme/prognos-installation"
+          },
+          {
+            "text": "Erster Programmstart",
+            "link": "/hilfe/zusatzprogramme/prognos-programmstart"
+          },
+          {
+            "text": "Analyseverfahren",
+            "link": "/hilfe/zusatzprogramme/prognos-hauptfenster",
+            "items": [
+              {
+                "text": "Einzelfall analysieren",
+                "link": "/hilfe/zusatzprogramme/prognos-analyseverfahren-einzelfall"
+              },
+              {
+                "text": "Klasse analysieren",
+                "link": "/hilfe/zusatzprogramme/prognos-analyseverfahren-klasse"
+              },
+              {
+                "text": "Notendatei analysieren",
+                "link": "/hilfe/zusatzprogramme/prognos-analyseverfahren-datei"
+              }
+            ]
+          },
+          {
+            "text": "Analysen und Ergebnisse",
+            "link": "/tools/pm2/analysen-und-ergebnisse"
+          }
+        ]
+      }
+    ],
+    "/tools/s1plan/": [
+      {
+        "text": "S1Plan",
+        "items": [
+          {
+            "text": "Übersicht",
+            "link": "/tools/s1plan"
+          },
+          {
+            "text": "Druckvorschau",
+            "link": "/druck/tools/s1plan.html"
+          },
+          {
+            "text": "Überblick",
+            "link": "/hilfe/zusatzprogramme/s1plan-uebersicht"
+          },
+          {
+            "text": "Installation",
+            "link": "/hilfe/zusatzprogramme/s1plan-installation"
+          },
+          {
+            "text": "Erster Programmstart",
+            "link": "/hilfe/zusatzprogramme/s1plan-erster-programmstart"
+          },
+          {
+            "text": "Kurse einrichten",
+            "link": "/hilfe/zusatzprogramme/s1plan-einrichtung-von-kursen"
+          },
+          {
+            "text": "Kurse aus SchILD übernehmen",
+            "link": "/hilfe/zusatzprogramme/s1plan-uebernahme-von-kursen-aus-schild"
+          },
+          {
+            "text": "Menüs und Zusatzfunktionen",
+            "link": "/hilfe/zusatzprogramme/s1plan-anhang"
+          }
+        ]
+      }
+    ],
+    "/tools/ma2lbv/": [
+      {
+        "text": "MA2LBV",
+        "items": [
+          {
+            "text": "Übersicht",
+            "link": "/tools/ma2lbv"
+          },
+          {
+            "text": "Druckvorschau",
+            "link": "/druck/tools/ma2lbv.html"
+          },
+          {
+            "text": "Einrichtung und Datenbankzugriff",
+            "link": "/tools/ma2lbv/einrichtung"
+          },
+          {
+            "text": "Daten importieren",
+            "link": "/tools/ma2lbv/datenimport"
+          },
+          {
+            "text": "Abrechnung und Ausgabe",
+            "link": "/tools/ma2lbv/abrechnung"
+          }
+        ]
+      }
+    ],
+    "/tools/migrationstool/": [
+      {
+        "text": "Migrationstool",
+        "items": [
+          {
+            "text": "Übersicht",
+            "link": "/tools/migrationstool"
+          },
+          {
+            "text": "Druckvorschau",
+            "link": "/druck/tools/migrationstool.html"
+          },
+          {
+            "text": "Datenbank übertragen",
+            "link": "/administration/datenbanken/schild-nrw-daten-in-eine-andere-datenbank-uebertragen-migrieren"
+          }
+        ]
+      }
+    ],
+    "/tools/anonymisierungstool/": [
+      {
+        "text": "Anonymisierungstool",
+        "items": [
+          {
+            "text": "Übersicht",
+            "link": "/tools/anonymisierungstool"
+          },
+          {
+            "text": "Druckvorschau",
+            "link": "/druck/tools/anonymisierungstool.html"
+          },
+          {
+            "text": "Anwendung und Hinweise",
+            "link": "/tools/anonymisierungstool#anwendung-und-hinweise"
+          }
+        ]
+      }
+    ],
+    "/tools/import-textdateien/": [
+      {
+        "text": "Import aus Textdateien",
+        "items": [
+          {
+            "text": "Übersicht",
+            "link": "/tools/import-textdateien"
+          },
+          {
+            "text": "Druckvorschau",
+            "link": "/druck/tools/import-textdateien.html"
+          },
+          {
+            "text": "Datenimport vorbereiten und ausführen",
+            "link": "/schild2/import-export-statistik/import-aus-textdateien"
+          }
+        ]
+      }
+    ],
+    "/tools/schuljahr-erhoehen/": [
+      {
+        "text": "Schuljahr erhöhen",
+        "items": [
+          {
+            "text": "Übersicht",
+            "link": "/tools/schuljahr-erhoehen"
+          },
+          {
+            "text": "Druckvorschau",
+            "link": "/druck/tools/schuljahr-erhoehen.html"
+          },
+          {
+            "text": "Anwendung und Hinweise",
+            "link": "/tools/schuljahr-erhoehen#anwendung-und-hinweise"
+          }
+        ]
+      }
+    ],
+    "/tools/weitere/": [
+      {
+        "text": "Weitere Zusatzprogramme",
+        "items": [
+          {
+            "text": "Übersicht",
+            "link": "/tools/weitere"
+          },
+          {
+            "text": "Druckvorschau",
+            "link": "/druck/tools/weitere.html"
+          },
+          {
+            "text": "Externe Blockungsprogramme",
+            "link": "/hilfe/zusatzprogramme/externe-blockungs-tools"
+          },
+          {
+            "text": "Kursplanung mit KPlan",
+            "link": "/hilfe/zusatzprogramme/kursplanung-kplan-exe"
+          },
+          {
+            "text": "SchILDChat",
+            "link": "/hilfe/zusatzprogramme/schildchat-exe"
+          },
+          {
+            "text": "SchILDweb",
+            "link": "/hilfe/zusatzprogramme/schildweb"
+          },
+          {
+            "text": "Schnelleingabemodul",
+            "link": "/hilfe/zusatzprogramme/sem-schnelleingabemodul"
+          },
+          {
+            "text": "Tool-Übersicht",
+            "link": "/hilfe/zusatzprogramme/zusatzprogramme-tools"
+          }
+        ]
+      }
+    ],
+    "/tools/kplan/": [
+      {
+        "text": "KPlan",
+        "items": [
+          {
+            "text": "Übersicht",
+            "link": "/tools/kplan"
+          },
+          {
+            "text": "Druckvorschau",
+            "link": "/druck/tools/kplan.html"
+          },
+          {
+            "text": "Anwendung",
+            "items": [
+              {
+                "text": "Anleitung",
+                "link": "/hilfe/zusatzprogramme/kursplanung-kplan-exe"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "/tools/schildchat/": [
+      {
+        "text": "SchILDChat",
+        "items": [
+          {
+            "text": "Übersicht",
+            "link": "/tools/schildchat"
+          },
+          {
+            "text": "Druckvorschau",
+            "link": "/druck/tools/schildchat.html"
+          },
+          {
+            "text": "Anwendung",
+            "items": [
+              {
+                "text": "Anleitung",
+                "link": "/hilfe/zusatzprogramme/schildchat-exe"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "/tools/schildweb/": [
+      {
+        "text": "SchILDweb",
+        "items": [
+          {
+            "text": "Übersicht",
+            "link": "/tools/schildweb"
+          },
+          {
+            "text": "Druckvorschau",
+            "link": "/druck/tools/schildweb.html"
+          },
+          {
+            "text": "Anwendung",
+            "items": [
+              {
+                "text": "Anleitung",
+                "link": "/hilfe/zusatzprogramme/schildweb"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "/tools/schnelleingabemodul/": [
+      {
+        "text": "Schnelleingabemodul",
+        "items": [
+          {
+            "text": "Übersicht",
+            "link": "/tools/schnelleingabemodul"
+          },
+          {
+            "text": "Druckvorschau",
+            "link": "/druck/tools/schnelleingabemodul.html"
+          },
+          {
+            "text": "Anwendung",
+            "items": [
+              {
+                "text": "Anleitung",
+                "link": "/hilfe/zusatzprogramme/sem-schnelleingabemodul"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "/tools/blockungsprogramme/": [
+      {
+        "text": "Externe Blockungsprogramme",
+        "items": [
+          {
+            "text": "Übersicht",
+            "link": "/tools/blockungsprogramme"
+          },
+          {
+            "text": "Druckvorschau",
+            "link": "/druck/tools/blockungsprogramme.html"
+          },
+          {
+            "text": "Anwendung",
+            "items": [
+              {
+                "text": "Anleitung",
+                "link": "/hilfe/zusatzprogramme/externe-blockungs-tools"
+              }
+            ]
           }
         ]
       }

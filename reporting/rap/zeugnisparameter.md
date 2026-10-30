@@ -61,4 +61,4 @@ Wiederbeginn des Unterrichts am 10. Februar 2006 um 8:00 Uhr.
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-111) · [ZeugnisParameter – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ZeugnisParameter&oldid=136)
+Quelle: [ZeugnisParameter – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ZeugnisParameter&oldid=136)

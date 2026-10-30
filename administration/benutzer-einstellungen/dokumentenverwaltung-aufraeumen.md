@@ -18,4 +18,4 @@ Durch setzen des unteren Häkchens kann man eine Datensicherung der zu löschend
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-582) · [Dokumentenverwaltung aufräumen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Dokumentenverwaltung+aufr%C3%A4umen&oldid=2257)
+Quelle: [Dokumentenverwaltung aufräumen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Dokumentenverwaltung+aufr%C3%A4umen&oldid=2257)

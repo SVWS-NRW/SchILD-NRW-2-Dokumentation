@@ -32,4 +32,4 @@ Eine spezielle Funktion hat die **Schaltfläche "DB-Version zurücksetzen"**. Be
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-524) · [Benutzerverwaltung Useradmn.exe – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Benutzerverwaltung+Useradmn.exe&oldid=5740)
+Quelle: [Benutzerverwaltung Useradmn.exe – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Benutzerverwaltung+Useradmn.exe&oldid=5740)

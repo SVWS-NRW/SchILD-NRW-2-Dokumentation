@@ -18,4 +18,4 @@ Bei Grundschulen lautet dieser Menüpunkt **"Grundschulzeugnisse zuordnen"**.
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-637) · [Textzeugnisse zuordnen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Textzeugnisse+zuordnen&oldid=2477)
+Quelle: [Textzeugnisse zuordnen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Textzeugnisse+zuordnen&oldid=2477)

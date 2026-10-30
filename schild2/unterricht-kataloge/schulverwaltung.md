@@ -62,4 +62,4 @@ Die einzelnen Menüpunkte werden im Folgenden beschrieben.
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-204) · [Schulverwaltung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schulverwaltung&oldid=5138)
+Quelle: [Schulverwaltung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schulverwaltung&oldid=5138)

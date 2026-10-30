@@ -1,5 +1,5 @@
 ---
-title: "Druckansicht: Programmreferenz"
+title: "Druckvorschau: Programmreferenz"
 aside: false
 search: false
 ---
