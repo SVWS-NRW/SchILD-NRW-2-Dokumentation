@@ -143,4 +143,4 @@ Zeugnisbemerkung: ***"Das für HERKUNFTSPRACHE ausgewiesene Niveau wurde durch e
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1423) · [Herkunftssprachlicher Unterricht BASS 13-61 Nr. 2 – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Herkunftssprachlicher+Unterricht+BASS+13-61+Nr.+2&oldid=6028)
+Quelle: [Herkunftssprachlicher Unterricht BASS 13-61 Nr. 2 – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Herkunftssprachlicher+Unterricht+BASS+13-61+Nr.+2&oldid=6028)

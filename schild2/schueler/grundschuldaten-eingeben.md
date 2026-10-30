@@ -16,4 +16,4 @@ Bitte denken Sie daran, nicht mehr benötigte Daten zu löschen. Dazu steht Ihne
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-609) · [Grundschuldaten eingeben – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Grundschuldaten+eingeben&oldid=2347)
+Quelle: [Grundschuldaten eingeben – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Grundschuldaten+eingeben&oldid=2347)

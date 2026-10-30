@@ -77,7 +77,7 @@ Grundlage: die vom Benutzer bereitgestellte vollständige PR-Liste vom 27.10.202
 | [#67](https://github.com/Raffenberg/SchILD3_Doku/pull/67) | Zentrales Drucklayout mit Wiederherstellung von Details/Bildern beibehalten; echte Druckproben geprüft. |
 | [#68](https://github.com/Raffenberg/SchILD3_Doku/pull/68) | Rubrikdruck entsteht weiterhin aus Originalartikeln und enthält jeden Artikel nur einmal. |
 | [#69](https://github.com/Raffenberg/SchILD3_Doku/pull/69) | Druckansicht direkt nach Übersicht; Menüaufruf startet keinen Druckdialog. |
-| [#70](https://github.com/Raffenberg/SchILD3_Doku/pull/70) | Einheitlicher manueller Druckstart und Artikelsymbol in den Leserubriken; Quellenarchiv bleibt Archiv und keine 1.405-Seiten-Druckrubrik. |
+| [#70](https://github.com/Raffenberg/SchILD3_Doku/pull/70) | Einheitlicher manueller Druckstart und Artikelsymbol in den Leserubriken; Das damalige Quellenarchiv wurde später auf ausdrücklichen Wunsch entfernt. |
 
 ## Inhaltserhalt
 

@@ -37,4 +37,4 @@ Memo1.Text:=RtfToPlaintext(SchuelerLernabschnitte['ZeugnisBem'])
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-70) · [RtfToPlaintext – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=RtfToPlaintext&oldid=91)
+Quelle: [RtfToPlaintext – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=RtfToPlaintext&oldid=91)

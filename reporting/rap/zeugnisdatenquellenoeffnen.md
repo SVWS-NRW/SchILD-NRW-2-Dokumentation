@@ -38,4 +38,4 @@ procedure ReportBeforePrint;
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-124) · [ZeugnisDatenquellenOeffnen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ZeugnisDatenquellenOeffnen&oldid=175)
+Quelle: [ZeugnisDatenquellenOeffnen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ZeugnisDatenquellenOeffnen&oldid=175)

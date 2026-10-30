@@ -19,4 +19,4 @@ Erstellen Sie eine [Datensicherung](/administration/datenbanken/datensicherung).
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-504) · [Noten des aktuellen Abschnittes löschen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Noten+des+aktuellen+Abschnittes+l%C3%B6schen&oldid=2064)
+Quelle: [Noten des aktuellen Abschnittes löschen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Noten+des+aktuellen+Abschnittes+l%C3%B6schen&oldid=2064)

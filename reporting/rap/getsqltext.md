@@ -41,4 +41,4 @@ ShowMessage('Abfragetext: ' + GetSqlText(Schueler))
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-33) · [GetSqlText – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=GetSqlText&oldid=54)
+Quelle: [GetSqlText – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=GetSqlText&oldid=54)

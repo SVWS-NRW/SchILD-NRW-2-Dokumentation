@@ -30,4 +30,4 @@ Analog zu [SetAbitur](/reporting/rap/setabitur)
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-86) · [SetBKAbschluss – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetBKAbschluss&oldid=110)
+Quelle: [SetBKAbschluss – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetBKAbschluss&oldid=110)

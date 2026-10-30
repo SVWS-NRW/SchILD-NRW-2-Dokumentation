@@ -37,4 +37,4 @@ Procedure ReportBeforePrint;
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-85) · [SetAdressArt – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetAdressArt&oldid=109)
+Quelle: [SetAdressArt – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetAdressArt&oldid=109)

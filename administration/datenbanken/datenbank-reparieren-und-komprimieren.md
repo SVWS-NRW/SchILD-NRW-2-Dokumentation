@@ -22,4 +22,4 @@ Das kann u.U. auch den gruppenweisen Druckvorgang von Formularen im Netzwerk bes
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1103) · [Datenbank reparieren und komprimieren – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datenbank+reparieren+und+komprimieren&oldid=4064)
+Quelle: [Datenbank reparieren und komprimieren – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datenbank+reparieren+und+komprimieren&oldid=4064)

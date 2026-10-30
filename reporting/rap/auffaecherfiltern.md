@@ -38,4 +38,4 @@ AufFaecherFiltern('D,E,M');
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1144) · [AufFaecherFiltern – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=AufFaecherFiltern&oldid=4247)
+Quelle: [AufFaecherFiltern – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=AufFaecherFiltern&oldid=4247)

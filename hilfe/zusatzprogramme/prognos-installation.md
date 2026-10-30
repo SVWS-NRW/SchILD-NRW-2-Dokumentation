@@ -57,4 +57,4 @@ Zum Abschluss meldet Prognos die erfolgreiche Installation und bietet gleichzeit
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1225) · [Prognos:Installation – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Prognos%3AInstallation&oldid=5511)
+Quelle: [Prognos:Installation – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Prognos%3AInstallation&oldid=5511)

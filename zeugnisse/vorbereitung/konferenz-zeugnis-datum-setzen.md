@@ -18,4 +18,4 @@ Die Daten werden bei allen aktiven Schülern in den Leistungsdaten im "Akt. Halb
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-482) · [Konferenz-/Zeugnis-Datum setzen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Konferenz-%2FZeugnis-Datum+setzen&oldid=3626)
+Quelle: [Konferenz-/Zeugnis-Datum setzen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Konferenz-%2FZeugnis-Datum+setzen&oldid=3626)

@@ -17,4 +17,4 @@ Spätestens durch einen Klick auf 'Reorganisieren' werden die Zahlen in der Spal
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-190) · [Sportbefreiungen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sportbefreiungen&oldid=522)
+Quelle: [Sportbefreiungen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sportbefreiungen&oldid=522)

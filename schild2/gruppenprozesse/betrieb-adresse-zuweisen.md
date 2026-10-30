@@ -16,4 +16,4 @@ Hierbei werden die erforderlichen Daten erfragt und anschließend den Schülern 
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-534) · [Betrieb/Adresse zuweisen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Betrieb%2FAdresse+zuweisen&oldid=3610)
+Quelle: [Betrieb/Adresse zuweisen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Betrieb%2FAdresse+zuweisen&oldid=3610)

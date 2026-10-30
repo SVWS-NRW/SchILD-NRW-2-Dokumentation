@@ -22,4 +22,4 @@ Eine nachträgliche Änderung eines Filters ist nur eingeschränkt unter Filter 
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-157) · [Vorhandene Filterdefinition laden – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Vorhandene+Filterdefinition+laden&oldid=970)
+Quelle: [Vorhandene Filterdefinition laden – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Vorhandene+Filterdefinition+laden&oldid=970)

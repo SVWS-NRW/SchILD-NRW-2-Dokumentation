@@ -18,4 +18,4 @@ Es ist über einen weiteren Parameter auch möglich, die Abfragen zu unterbinden
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1416) · [Bescheinigungen des Bilingualen Bildungsgangs – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Bescheinigungen+des+Bilingualen+Bildungsgangs&oldid=5881)
+Quelle: [Bescheinigungen des Bilingualen Bildungsgangs – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Bescheinigungen+des+Bilingualen+Bildungsgangs&oldid=5881)

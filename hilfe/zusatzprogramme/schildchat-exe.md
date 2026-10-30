@@ -58,4 +58,4 @@ Außerdem steht eine Nachrichtenhistorie für die jeweilige Sitzung zur Verfügu
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-974) · [SchildChat.exe – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SchildChat.exe&oldid=3752)
+Quelle: [SchildChat.exe – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SchildChat.exe&oldid=3752)

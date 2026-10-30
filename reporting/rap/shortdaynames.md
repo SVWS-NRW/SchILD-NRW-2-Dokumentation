@@ -37,4 +37,4 @@ Label27.Caption:=ShortDayNames(1); (*Son*)
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-99) · [ShortDayNames – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ShortDayNames&oldid=123)
+Quelle: [ShortDayNames – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ShortDayNames&oldid=123)

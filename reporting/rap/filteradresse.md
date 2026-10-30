@@ -31,4 +31,4 @@ Siehe [SelectAdressName](/reporting/rap/selectadressname).
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-25) · [FilterAdresse – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FilterAdresse&oldid=46)
+Quelle: [FilterAdresse – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FilterAdresse&oldid=46)

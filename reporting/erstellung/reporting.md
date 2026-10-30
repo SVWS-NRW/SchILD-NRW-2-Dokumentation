@@ -55,4 +55,4 @@ werden diese in ihrer Syntax dargestellt und (wo nötig) mit einem Beispiel erkl
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-8) · [Reporting – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Reporting&oldid=4707)
+Quelle: [Reporting – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Reporting&oldid=4707)

@@ -20,4 +20,4 @@ Ein Beispiel wäre der Grundkurs in der gymnasialen Oberstufe, der zur Berechnun
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-369) · [Schülerspezifische Kursarten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sch%C3%BClerspezifische+Kursarten&oldid=1609)
+Quelle: [Schülerspezifische Kursarten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sch%C3%BClerspezifische+Kursarten&oldid=1609)

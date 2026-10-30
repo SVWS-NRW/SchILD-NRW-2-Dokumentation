@@ -51,4 +51,4 @@ end;
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-81) · [SelectOption – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SelectOption&oldid=2151)
+Quelle: [SelectOption – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SelectOption&oldid=2151)

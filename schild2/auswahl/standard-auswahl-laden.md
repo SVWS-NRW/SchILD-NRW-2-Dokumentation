@@ -14,4 +14,4 @@ Status grün: kein Filter gesetzt (alle aktiven Schüler werden angezeigt)
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-156) · [Standard-Auswahl laden – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Standard-Auswahl+laden&oldid=968)
+Quelle: [Standard-Auswahl laden – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Standard-Auswahl+laden&oldid=968)

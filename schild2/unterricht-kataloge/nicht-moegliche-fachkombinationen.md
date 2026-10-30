@@ -24,4 +24,4 @@ Die Spalten "Kursart 1" und "Kursart 2" wurden hier freigelassen. Dies bedeutet,
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-727) · [Nicht mögliche Fachkombinationen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Nicht+m%C3%B6gliche+Fachkombinationen&oldid=2821)
+Quelle: [Nicht mögliche Fachkombinationen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Nicht+m%C3%B6gliche+Fachkombinationen&oldid=2821)

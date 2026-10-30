@@ -14,4 +14,4 @@ Beim Aufruf der Benutzerverwaltung wird das Passwort des aktuellen Users nochmal
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-525) · [Benutzerverwaltung PlugIn-DLL – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Benutzerverwaltung+PlugIn-DLL&oldid=2158)
+Quelle: [Benutzerverwaltung PlugIn-DLL – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Benutzerverwaltung+PlugIn-DLL&oldid=2158)

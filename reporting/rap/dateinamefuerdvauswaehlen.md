@@ -47,4 +47,4 @@ procedure GlobalOnCreate;
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-125) · [DateinameFuerDVAuswaehlen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=DateinameFuerDVAuswaehlen&oldid=6027)
+Quelle: [DateinameFuerDVAuswaehlen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=DateinameFuerDVAuswaehlen&oldid=6027)

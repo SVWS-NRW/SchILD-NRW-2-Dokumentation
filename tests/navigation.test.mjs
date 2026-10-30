@@ -11,10 +11,10 @@ const reference = JSON.parse(fs.readFileSync('.vitepress/program-reference.json'
 const visit = items => items.flatMap(item => [item,...visit(item.items || [])])
 
 test('Menüs führen auf vorhandene Artikel und jede Rubrik bietet Übersicht und Druck',()=>{
-  assert.equal(navigation.nav.length,6)
+  assert.equal(navigation.nav.length,5)
   for (const [section,groups] of Object.entries(navigation.sidebar)) {
-    assert.equal(groups[0].items[0].link,section)
-    if(section!=='/quellen/') assert.equal(groups[0].items[1].link,`/druck/${section.slice(1,-1)}.html`)
+    assert.equal(articlePath(groups[0].items[0].link),articlePath(section))
+    assert.equal(groups[0].items[1].link,`/druck/${section.slice(1,-1)}.html`)
     for (const node of visit(groups)) {
       if (!node.link?.startsWith('/')) continue
       const target=node.link.split(/[?#]/)[0].replace(/\.html$/,'')
@@ -24,9 +24,7 @@ test('Menüs führen auf vorhandene Artikel und jede Rubrik bietet Übersicht un
   }
   const sidebar=createSidebar(navigation)
   assert.equal(sidebar['/bilder/'][0].text,'Hilfe')
-  assert.equal(sidebar['/hilfe/zusatzprogramme/prognos-analyseverfahren-klasse.md'][0].text,'Tools und Zusatzprogramme')
-  const direct=sidebar['/tools/notenmodul-grundschule/leistungsdaten.md']
-  assert(!direct||direct[0].items[0].link==='/tools/','Fremde Rubriken dürfen den nativen Tools-Artikel nicht überschreiben')
+  assert.equal(articlePath(sidebar['/tools/notenmodul-grundschule/leistungsdaten.md'][0].items[0].link),'/tools/notenmodul-grundschule')
   for (const [route, groups] of Object.entries(sidebar)) {
     if (route.startsWith('/programmreferenz/') || route==='/druck/programmreferenz.md') continue
     assert.notEqual(groups[0].items[0].link,'/programmreferenz/',`Referenz überschreibt normale Artikelroute: ${route}`)
@@ -37,7 +35,8 @@ test('Jeder Artikelaufruf aus einem Rubrikmenü trägt seine Rubrik mit',()=>{
   const sidebar=createSidebar(navigation)
   for(const section of Object.keys(navigation.sidebar)) {
     for(const item of visit(sidebar[section][0].items)) {
-      if(!item.link?.startsWith('/')||item.link.endsWith('/')||item.link.startsWith('/druck/'))continue
+      if(!item.link?.startsWith('/'))continue
+      if(section==='/tools/' && new URL(item.link,'https://docs.invalid').pathname.match(/^\/tools\/[^/]+\/?$/))continue
       assert.equal(new URL(item.link,'https://docs.invalid').searchParams.get('rubrik'),section.slice(1,-1),item.link)
     }
     // Switching sections through 'Weitere Bereiche' must remain intentional.
@@ -50,14 +49,14 @@ test('Jeder Artikelaufruf aus einem Rubrikmenü trägt seine Rubrik mit',()=>{
 test('Geteilte Artikel behalten Themenzweig, Pager und Hauptmenü ihrer gewählten Rubrik',()=>{
   const sidebar=createSidebar(navigation)
   const route='/tools/notenmodul-grundschule/leistungsdaten.html'
-  for(const section of ['/tools/','/zeugnisse/']) {
+  for(const section of ['/tools/notenmodul-grundschule/','/schild2/']) {
     const groups=contextualSidebar(sidebar[section],section,route)
-    assert.equal(groups[0].items[0].link,section)
+    assert.equal(articlePath(groups[0].items[0].link),articlePath(section))
     const entry=sectionEntries(groups,section).find(item=>item.key===articlePath(route))
     assert(entry,'Artikel muss in beiden gewählten Arbeitswegen vorhanden sein')
     assert.equal(new URL(entry.link,'https://docs.invalid').searchParams.get('rubrik'),section.slice(1,-1))
     const main=contextualNav(navigation.nav,section,Object.keys(navigation.sidebar))
-    assert.deepEqual(main.filter(item=>item.activeMatch==='.*').map(item=>item.text),[section==='/tools/'?'Tools':'Zeugnisse'])
+    assert.deepEqual(main.filter(item=>item.activeMatch==='.*').map(item=>item.text),[section.startsWith('/tools/')?'Tools':'Arbeiten mit SchILD2'])
   }
   assert.equal(sectionLink('/artikel#abschnitt','/tools/'),'/artikel?rubrik=tools#abschnitt')
 })

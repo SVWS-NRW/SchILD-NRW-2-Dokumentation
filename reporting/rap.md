@@ -271,4 +271,4 @@ Verändern Sie zunächst eine Kopie des Reports. Prüfen Sie die Ausgabe mit pas
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-9) · [RAP-Funktionen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=RAP-Funktionen&oldid=5689)
+Quelle: [RAP-Funktionen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=RAP-Funktionen&oldid=5689)

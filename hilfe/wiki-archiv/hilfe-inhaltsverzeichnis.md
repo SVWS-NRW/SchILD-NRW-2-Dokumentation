@@ -15,7 +15,7 @@ title: "Hilfe und Support finden"
 
 ------------------------------------------------------------------------
 
-[Datei:Supportkonzept des MSW.pdf](/quellen/wiki/seite-429)
+[Datei:Supportkonzept des MSW.pdf](https://wiki.svws.nrw.de/mediawiki/index.php)
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ Schnellinfo: **<http://www.svws.nrw.de/index.php?id=home>**
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-430) · [Hilfe:Inhaltsverzeichnis – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Hilfe%3AInhaltsverzeichnis&oldid=2044)
+Quelle: [Hilfe:Inhaltsverzeichnis – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Hilfe%3AInhaltsverzeichnis&oldid=2044)

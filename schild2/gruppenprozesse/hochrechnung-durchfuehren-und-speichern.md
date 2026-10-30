@@ -29,4 +29,4 @@ Dann kann man die:
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-511) · [Hochrechnung durchführen und speichern – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Hochrechnung+durchf%C3%BChren+und+speichern&oldid=2090)
+Quelle: [Hochrechnung durchführen und speichern – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Hochrechnung+durchf%C3%BChren+und+speichern&oldid=2090)

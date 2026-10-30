@@ -14,4 +14,4 @@ Damit die Einträge zum Gemeinsamen europäischen Referenzrahmen für Sprachen (
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-366) · [Sprach-Referenzniveaus ermitteln – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sprach-Referenzniveaus+ermitteln&oldid=2792)
+Quelle: [Sprach-Referenzniveaus ermitteln – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sprach-Referenzniveaus+ermitteln&oldid=2792)

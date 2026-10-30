@@ -50,4 +50,4 @@ end;
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-40) · [LehrerAuswaehlen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LehrerAuswaehlen&oldid=61)
+Quelle: [LehrerAuswaehlen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LehrerAuswaehlen&oldid=61)

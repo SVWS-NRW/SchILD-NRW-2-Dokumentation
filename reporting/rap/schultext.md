@@ -40,4 +40,4 @@ end;
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-73) · [SchulText – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SchulText&oldid=94)
+Quelle: [SchulText – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SchulText&oldid=94)

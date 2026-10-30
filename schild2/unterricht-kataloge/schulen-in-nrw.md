@@ -12,4 +12,4 @@ Die angebotene Reihenfolge zur Auswahl richtet sich nach der letzten Sortier-Ein
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-178) · [Schulen in NRW – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schulen+in+NRW&oldid=462)
+Quelle: [Schulen in NRW – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schulen+in+NRW&oldid=462)

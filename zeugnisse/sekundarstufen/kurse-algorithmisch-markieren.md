@@ -18,4 +18,4 @@ Für einen einzelnen Schüler kann der Prozess auch unter dem Karteireiter "Abit
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-489) · [Kurse algorithmisch markieren – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurse+algorithmisch+markieren&oldid=2028)
+Quelle: [Kurse algorithmisch markieren – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurse+algorithmisch+markieren&oldid=2028)

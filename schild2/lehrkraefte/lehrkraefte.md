@@ -75,4 +75,4 @@ SchildWeb ist ein kostenpflichtiges Modul der Firma Ribeka.
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-210) · [Lehrkräfte – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lehrkr%C3%A4fte&oldid=1202)
+Quelle: [Lehrkräfte – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lehrkr%C3%A4fte&oldid=1202)

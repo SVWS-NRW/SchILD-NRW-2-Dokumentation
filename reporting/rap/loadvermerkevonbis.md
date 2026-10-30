@@ -47,4 +47,4 @@ Alle Vermerke der gewählten Art, durch den Delimiter voneinander getrennt.
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-48) · [LoadVermerkeVonBis – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LoadVermerkeVonBis&oldid=69)
+Quelle: [LoadVermerkeVonBis – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LoadVermerkeVonBis&oldid=69)

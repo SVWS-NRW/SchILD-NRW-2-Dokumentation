@@ -37,4 +37,4 @@ lblStern.Left := lblFach.Left + wt;
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-958) · [Textbreite – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Textbreite&oldid=3668)
+Quelle: [Textbreite – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Textbreite&oldid=3668)

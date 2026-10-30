@@ -46,4 +46,4 @@ Der Aufruf sollte nur in Verbindung mit der Datenquelle "Fachuebersicht" erfolge
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-957) · [FilterFachUebersichtAufKlasse – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FilterFachUebersichtAufKlasse&oldid=4282)
+Quelle: [FilterFachUebersichtAufKlasse – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FilterFachUebersichtAufKlasse&oldid=4282)

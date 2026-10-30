@@ -49,4 +49,4 @@ Der gesamte Abiturdurchlauf gliedert sich in mehrere Phasen.
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-630) · [Abiturdurchlauf – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Abiturdurchlauf&oldid=2576)
+Quelle: [Abiturdurchlauf – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Abiturdurchlauf&oldid=2576)

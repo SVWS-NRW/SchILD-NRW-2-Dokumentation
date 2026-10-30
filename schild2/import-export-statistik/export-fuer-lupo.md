@@ -50,4 +50,4 @@ Dies kann z.B. der Fall sein, wenn Sie die Schülerdaten aus einem anderen Progr
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-263) · [Export für Lupo – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Export+f%C3%BCr+Lupo&oldid=1159)
+Quelle: [Export für Lupo – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Export+f%C3%BCr+Lupo&oldid=1159)

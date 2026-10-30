@@ -241,4 +241,4 @@ Das Programm Lupo kann grundsätzlich auch ohne Schild-NRW verwendet werden. All
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-869) · [Lupo:Vorbereitungen in Schild-NRW – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo%3AVorbereitungen+in+Schild-NRW&oldid=5584)
+Quelle: [Lupo:Vorbereitungen in Schild-NRW – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo%3AVorbereitungen+in+Schild-NRW&oldid=5584)

@@ -12,4 +12,4 @@ Sollte es nötig sein (z.B. aufgrund eines Tippfehlers) Daten eines Schülers, d
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-581) · [Dokumentenverzeichnisse aktualisieren – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Dokumentenverzeichnisse+aktualisieren&oldid=2253)
+Quelle: [Dokumentenverzeichnisse aktualisieren – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Dokumentenverzeichnisse+aktualisieren&oldid=2253)

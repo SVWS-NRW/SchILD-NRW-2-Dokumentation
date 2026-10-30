@@ -40,4 +40,4 @@ Der Menüpunkt Datenaustausch beinhaltet alle Optionen für den Import und Expor
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-211) · [Datenaustausch – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datenaustausch&oldid=5750)
+Quelle: [Datenaustausch – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datenaustausch&oldid=5750)

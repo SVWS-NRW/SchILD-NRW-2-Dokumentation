@@ -26,4 +26,4 @@ title: "PM2-Handbuch"
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1223) · [Prognos – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Prognos&oldid=4949)
+Quelle: [Prognos – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Prognos&oldid=4949)

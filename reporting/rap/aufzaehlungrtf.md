@@ -71,4 +71,4 @@ Die Quelle enthält einen unvollständigen Ereignisblock und die auffällige Zei
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-13) · [AufzaehlungRTF – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=AufzaehlungRTF&oldid=2077)
+Quelle: [AufzaehlungRTF – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=AufzaehlungRTF&oldid=2077)

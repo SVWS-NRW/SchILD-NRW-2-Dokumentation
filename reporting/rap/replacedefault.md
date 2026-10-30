@@ -61,4 +61,4 @@ end;
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-61) · [ReplaceDefault – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ReplaceDefault&oldid=82)
+Quelle: [ReplaceDefault – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ReplaceDefault&oldid=82)

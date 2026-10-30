@@ -21,4 +21,4 @@ Auf dem Karteireiter "Erzieher" können nun weitere Telefonnummern eingetragen w
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-188) · [Telefonische Ansprechpartner – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Telefonische+Ansprechpartner&oldid=521)
+Quelle: [Telefonische Ansprechpartner – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Telefonische+Ansprechpartner&oldid=521)

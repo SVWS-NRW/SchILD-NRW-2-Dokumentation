@@ -117,4 +117,4 @@ In den Leistungsdaten können die zur Eingabe berechtigten Personen nun auch mit
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-432) · [Akt. Halbjahr – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Akt.+Halbjahr&oldid=3549)
+Quelle: [Akt. Halbjahr – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Akt.+Halbjahr&oldid=3549)

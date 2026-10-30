@@ -39,4 +39,4 @@ siehe auch [Benutzerrechte in KM2](/administration/benutzer-einstellungen/benutz
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-572) · [KM2 - Parameter - Administration – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=KM2+-+Parameter+-+Administration&oldid=2983)
+Quelle: [KM2 - Parameter - Administration – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=KM2+-+Parameter+-+Administration&oldid=2983)

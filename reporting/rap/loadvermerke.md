@@ -43,4 +43,4 @@ Alle Vermerke der gewählten Art, durch den Delimiter voneinander getrennt.
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-46) · [LoadVermerke – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LoadVermerke&oldid=67)
+Quelle: [LoadVermerke – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LoadVermerke&oldid=67)

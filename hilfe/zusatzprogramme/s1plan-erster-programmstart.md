@@ -60,4 +60,4 @@ Falls Beim Klicken auf die obere Menüleiste die ersten Zeilen in den darunter l
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1085) · [S1PLAN:Erster Programmstart – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=S1PLAN%3AErster+Programmstart&oldid=4028)
+Quelle: [S1PLAN:Erster Programmstart – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=S1PLAN%3AErster+Programmstart&oldid=4028)

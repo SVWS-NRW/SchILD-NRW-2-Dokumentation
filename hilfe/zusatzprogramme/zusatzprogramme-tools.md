@@ -22,4 +22,4 @@ title: "Zusatzprogramme im Überblick"
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-523) · [Zusatzprogramme / Tools – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zusatzprogramme+%2F+Tools&oldid=3939)
+Quelle: [Zusatzprogramme / Tools – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zusatzprogramme+%2F+Tools&oldid=3939)

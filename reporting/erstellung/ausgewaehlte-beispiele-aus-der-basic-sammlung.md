@@ -158,4 +158,4 @@ Um die Noten, die schlechter als ausreichend sind, farblich zu markieren, müsse
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-728) · [Ausgewählte Beispiele aus der BASIC-Sammlung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Ausgew%C3%A4hlte+Beispiele+aus+der+BASIC-Sammlung&oldid=3811)
+Quelle: [Ausgewählte Beispiele aus der BASIC-Sammlung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Ausgew%C3%A4hlte+Beispiele+aus+der+BASIC-Sammlung&oldid=3811)

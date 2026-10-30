@@ -29,4 +29,4 @@ Setzt den über FilterLaufbahnJahr gesetzten Filter zurück
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-69) · [ResetFilterLaufbahnJahr – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ResetFilterLaufbahnJahr&oldid=90)
+Quelle: [ResetFilterLaufbahnJahr – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ResetFilterLaufbahnJahr&oldid=90)

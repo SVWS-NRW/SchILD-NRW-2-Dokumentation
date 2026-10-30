@@ -14,4 +14,4 @@ Im sich öffnenden Fenster muss das zu löschende Schuljahr und der zu löschend
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-503) · [Abschnittsdaten löschen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Abschnittsdaten+l%C3%B6schen&oldid=2063)
+Quelle: [Abschnittsdaten löschen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Abschnittsdaten+l%C3%B6schen&oldid=2063)

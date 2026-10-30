@@ -51,4 +51,4 @@ Procedure Label1OnGetText(var Text: String);
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-60) · [ReadDateTime – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ReadDateTime&oldid=81)
+Quelle: [ReadDateTime – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ReadDateTime&oldid=81)

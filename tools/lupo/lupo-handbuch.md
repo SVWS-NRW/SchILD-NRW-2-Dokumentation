@@ -20,4 +20,4 @@ title: "LuPO-Handbuch"
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-862) · [Lupo:Handbuch – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo%3AHandbuch&oldid=5546)
+Quelle: [Lupo:Handbuch – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo%3AHandbuch&oldid=5546)

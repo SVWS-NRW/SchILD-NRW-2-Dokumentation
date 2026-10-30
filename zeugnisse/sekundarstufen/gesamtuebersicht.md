@@ -24,4 +24,4 @@ Wenn Sie auf die Unter-Karteikarte **Leistungsübersicht** wechseln, bekommen Si
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-438) · [Gesamtübersicht – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Gesamt%C3%BCbersicht&oldid=1941)
+Quelle: [Gesamtübersicht – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Gesamt%C3%BCbersicht&oldid=1941)

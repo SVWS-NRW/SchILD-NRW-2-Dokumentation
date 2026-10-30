@@ -12,4 +12,4 @@ Durch Eingabe der Ortsteile kann nun auch gezielt danach gefiltert werden, was f
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-199) · [Ortsteile – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Ortsteile&oldid=549)
+Quelle: [Ortsteile – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Ortsteile&oldid=549)

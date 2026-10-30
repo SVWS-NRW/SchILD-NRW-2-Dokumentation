@@ -20,4 +20,4 @@ Vor dem Schließen des Fensters muss man die Änderungen in die Leistungsdaten �
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-455) · [Kurse zuweisen (mehrere Kurse) – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurse+zuweisen+%28mehrere+Kurse%29&oldid=3618)
+Quelle: [Kurse zuweisen (mehrere Kurse) – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurse+zuweisen+%28mehrere+Kurse%29&oldid=3618)

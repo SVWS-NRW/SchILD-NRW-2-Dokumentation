@@ -10,4 +10,4 @@ Dieser Gruppenprozess realisiert das automatisierte Berechnen des Abschlussdatum
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-355) · [Abschlussdatum neu berechnen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Abschlussdatum+neu+berechnen&oldid=1587)
+Quelle: [Abschlussdatum neu berechnen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Abschlussdatum+neu+berechnen&oldid=1587)

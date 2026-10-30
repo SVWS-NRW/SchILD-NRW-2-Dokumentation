@@ -46,4 +46,4 @@ end
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-51) · [Mehrfachauswahl – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Mehrfachauswahl&oldid=1842)
+Quelle: [Mehrfachauswahl – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Mehrfachauswahl&oldid=1842)

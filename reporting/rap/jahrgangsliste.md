@@ -44,4 +44,4 @@ Procedure ReportBeforePrint;
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-38) · [JahrgangsListe – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=JahrgangsListe&oldid=59)
+Quelle: [JahrgangsListe – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=JahrgangsListe&oldid=59)

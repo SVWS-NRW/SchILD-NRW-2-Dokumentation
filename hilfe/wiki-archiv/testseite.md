@@ -59,4 +59,4 @@ search: false
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1376) · [Testseite – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Testseite&oldid=5588)
+Quelle: [Testseite – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Testseite&oldid=5588)

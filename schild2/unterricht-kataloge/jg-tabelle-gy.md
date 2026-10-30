@@ -16,4 +16,4 @@ An den Restabschnitten der Sekundarstufe I sieht man, dass der Jahrgang 10 momen
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-235) · [JG-Tabelle-GY – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=JG-Tabelle-GY&oldid=4703)
+Quelle: [JG-Tabelle-GY – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=JG-Tabelle-GY&oldid=4703)

@@ -47,4 +47,4 @@ Procedure ReportBeforePrint;
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-94) · [SetUebersichtKursartFilter – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetUebersichtKursartFilter&oldid=180)
+Quelle: [SetUebersichtKursartFilter – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetUebersichtKursartFilter&oldid=180)

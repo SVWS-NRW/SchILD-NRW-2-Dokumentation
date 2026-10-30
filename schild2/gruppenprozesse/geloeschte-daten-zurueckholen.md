@@ -23,4 +23,4 @@ Bitte beachten Sie, dass die wiederhergestellten Daten immer noch die Löschmark
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-344) · [Gelöschte Daten zurückholen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Gel%C3%B6schte+Daten+zur%C3%BCckholen&oldid=3016)
+Quelle: [Gelöschte Daten zurückholen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Gel%C3%B6schte+Daten+zur%C3%BCckholen&oldid=3016)

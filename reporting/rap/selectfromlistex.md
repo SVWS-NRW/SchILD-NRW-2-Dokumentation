@@ -51,4 +51,4 @@ end;
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-79) · [SelectFromListEx – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SelectFromListEx&oldid=100)
+Quelle: [SelectFromListEx – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SelectFromListEx&oldid=100)

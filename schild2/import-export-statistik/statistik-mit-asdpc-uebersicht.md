@@ -49,4 +49,4 @@ Zur ausführlichen Anleitung: [Link](/schild2/import-export-statistik/statistik-
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1345) · [Statistik mit ASDPC Übersicht – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC+%C3%9Cbersicht&oldid=5350)
+Quelle: [Statistik mit ASDPC Übersicht – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC+%C3%9Cbersicht&oldid=5350)

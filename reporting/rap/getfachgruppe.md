@@ -40,4 +40,4 @@ Klartextname
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-32) · [GetFachgruppe – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=GetFachgruppe&oldid=53)
+Quelle: [GetFachgruppe – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=GetFachgruppe&oldid=53)

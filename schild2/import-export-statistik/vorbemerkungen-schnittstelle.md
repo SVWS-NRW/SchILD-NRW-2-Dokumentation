@@ -79,4 +79,4 @@ Falls übergeordnete Daten nicht vorhanden sind, wird der entsprechende Datensat
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-231) · [Vorbemerkungen-Schnittstelle – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Vorbemerkungen-Schnittstelle&oldid=1817)
+Quelle: [Vorbemerkungen-Schnittstelle – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Vorbemerkungen-Schnittstelle&oldid=1817)

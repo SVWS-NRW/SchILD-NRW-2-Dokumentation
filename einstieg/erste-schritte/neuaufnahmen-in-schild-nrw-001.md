@@ -32,4 +32,4 @@ Um den Statuswechsel durchzuführen, wählen Sie den Karteikasten Neuaufnahme au
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-641) · [Neuaufnahmen in Schild-NRW 001 – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Neuaufnahmen+in+Schild-NRW+001&oldid=2591)
+Quelle: [Neuaufnahmen in Schild-NRW 001 – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Neuaufnahmen+in+Schild-NRW+001&oldid=2591)

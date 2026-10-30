@@ -12,4 +12,4 @@ In Abhängigkeit von den Angaben auf dem Karteireiter **[Individualdaten II](/sc
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-987) · [Migrationshintergrund automatisch setzen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Migrationshintergrund+automatisch+setzen&oldid=3780)
+Quelle: [Migrationshintergrund automatisch setzen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Migrationshintergrund+automatisch+setzen&oldid=3780)

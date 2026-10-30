@@ -49,4 +49,4 @@ end;
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-105) · [VerzeichnisseErzeugen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=VerzeichnisseErzeugen&oldid=129)
+Quelle: [VerzeichnisseErzeugen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=VerzeichnisseErzeugen&oldid=129)

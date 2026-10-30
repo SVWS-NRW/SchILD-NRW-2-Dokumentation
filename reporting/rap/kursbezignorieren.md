@@ -49,4 +49,4 @@ Procedure ReportBeforePrint;
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-39) · [KursBezIgnorieren – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=KursBezIgnorieren&oldid=60)
+Quelle: [KursBezIgnorieren – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=KursBezIgnorieren&oldid=60)

@@ -44,4 +44,4 @@ Laden Sie die Setup.exe über den Downloadbereich herunter. Führen Sie diese Da
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1016) · [Kursplanung KPlan.exe – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kursplanung+KPlan.exe&oldid=3913)
+Quelle: [Kursplanung KPlan.exe – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kursplanung+KPlan.exe&oldid=3913)

@@ -44,4 +44,4 @@ dies muss u.U. berücksichtigt werden!
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-104) · [UeberspringeRecord – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=UeberspringeRecord&oldid=2723)
+Quelle: [UeberspringeRecord – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=UeberspringeRecord&oldid=2723)

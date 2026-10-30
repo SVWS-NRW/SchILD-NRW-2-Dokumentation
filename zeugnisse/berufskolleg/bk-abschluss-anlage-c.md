@@ -39,4 +39,4 @@ C13 Berufsabschluss/Fachhochschulreife (gestuft) (BAB/FHR 3j; VZ)
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1195) · [BK-Abschluss:Anlage-C – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=BK-Abschluss%3AAnlage-C&oldid=4743)
+Quelle: [BK-Abschluss:Anlage-C – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=BK-Abschluss%3AAnlage-C&oldid=4743)

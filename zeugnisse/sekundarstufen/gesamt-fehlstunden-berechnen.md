@@ -14,4 +14,4 @@ Wurden die Gesamtfehlstunden über den Gruppenprozess [Sprachnachweise und Zusat
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-498) · [Gesamt-Fehlstunden berechnen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Gesamt-Fehlstunden+berechnen&oldid=2054)
+Quelle: [Gesamt-Fehlstunden berechnen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Gesamt-Fehlstunden+berechnen&oldid=2054)

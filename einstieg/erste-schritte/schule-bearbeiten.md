@@ -117,4 +117,4 @@ Standardeinstellung ist 45 Minuten. Hier kann allerdings auf ein anderes Minuten
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-206) · [Schule bearbeiten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schule+bearbeiten&oldid=3867)
+Quelle: [Schule bearbeiten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schule+bearbeiten&oldid=3867)

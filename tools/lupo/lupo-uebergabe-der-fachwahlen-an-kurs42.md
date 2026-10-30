@@ -56,4 +56,4 @@ Es ist empfehlenswert, bei Fächerumwahlen LuPO und Kurs42 gleichzeitig zu öffn
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-985) · [Lupo:Übergabe der Fachwahlen an Kurs42 – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo%3A%C3%9Cbergabe+der+Fachwahlen+an+Kurs42&oldid=5554)
+Quelle: [Lupo:Übergabe der Fachwahlen an Kurs42 – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo%3A%C3%9Cbergabe+der+Fachwahlen+an+Kurs42&oldid=5554)

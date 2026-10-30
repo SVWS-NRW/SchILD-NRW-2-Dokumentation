@@ -26,4 +26,4 @@ Nach Abschluss der Eingabe werden die Daten durch Kick auf die Schaltfläche "In
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-479) · [Noten, Mahnungen und Fehlstunden eingeben – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Noten%2C+Mahnungen+und+Fehlstunden+eingeben&oldid=3623)
+Quelle: [Noten, Mahnungen und Fehlstunden eingeben – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Noten%2C+Mahnungen+und+Fehlstunden+eingeben&oldid=3623)

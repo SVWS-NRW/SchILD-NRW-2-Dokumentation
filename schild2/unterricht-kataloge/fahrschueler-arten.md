@@ -18,4 +18,4 @@ In Kombination mit der Eingabe von [Haltestellen](/schild2/unterricht-kataloge/h
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-171) · [Fahrschüler-Arten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fahrsch%C3%BCler-Arten&oldid=465)
+Quelle: [Fahrschüler-Arten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fahrsch%C3%BCler-Arten&oldid=465)

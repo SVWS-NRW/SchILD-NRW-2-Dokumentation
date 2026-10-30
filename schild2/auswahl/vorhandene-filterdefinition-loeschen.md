@@ -19,4 +19,4 @@ Durch Klicken auf "Abbrechen" kann die Maske auch ohne Veränderungen verlassen 
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-158) · [Vorhandene Filterdefinition löschen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Vorhandene+Filterdefinition+l%C3%B6schen&oldid=971)
+Quelle: [Vorhandene Filterdefinition löschen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Vorhandene+Filterdefinition+l%C3%B6schen&oldid=971)

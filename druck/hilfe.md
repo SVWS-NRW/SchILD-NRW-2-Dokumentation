@@ -1,5 +1,5 @@
 ---
-title: "Druckansicht: Hilfe"
+title: "Druckvorschau: Hilfe und Problemlösungen"
 aside: false
 search: false
 ---
@@ -8,6 +8,6 @@ search: false
 import { data } from './hilfe.data.mjs'
 </script>
 
-# Hilfe
+# Hilfe und Problemlösungen
 
 <SectionPrintBook :articles="data.articles" :title="data.title" />

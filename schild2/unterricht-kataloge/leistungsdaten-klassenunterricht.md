@@ -48,4 +48,4 @@ Die Daten sind in drei weiteren Reitern gesammelt:
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-749) · [Leistungsdaten Klassenunterricht – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Leistungsdaten+Klassenunterricht&oldid=3145)
+Quelle: [Leistungsdaten Klassenunterricht – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Leistungsdaten+Klassenunterricht&oldid=3145)

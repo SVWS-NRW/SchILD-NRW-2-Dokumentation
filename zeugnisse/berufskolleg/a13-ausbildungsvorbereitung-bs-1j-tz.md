@@ -12,4 +12,4 @@ Einjähriger Bildungsgang der Berufsschule in Teilzeit.
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1203) · [A13 Ausbildungsvorbereitung (BS 1j; TZ) – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=A13+Ausbildungsvorbereitung+%28BS+1j%3B+TZ%29&oldid=4755)
+Quelle: [A13 Ausbildungsvorbereitung (BS 1j; TZ) – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=A13+Ausbildungsvorbereitung+%28BS+1j%3B+TZ%29&oldid=4755)

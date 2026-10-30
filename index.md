@@ -5,22 +5,19 @@ hero:
   name: SchILD-NRW 2
   tagline: Dokumentation für die tägliche Arbeit, Zeugnisse und Reporting.
 features:
-  - title: Einstieg
-    details: Grundlagen kennenlernen und die ersten Schritte mit SchILD-NRW 2 gehen.
-    link: /einstieg/
-  - title: SchILD2
-    details: Schülerdaten, Unterricht und Schuljahreswechsel sowie Installation, Datenbanken und Benutzerrechte.
+  - title: Arbeiten mit SchILD2
+    details: Installation, Einrichtung, Schülerdaten, Unterricht und Zeugnisse.
     link: /schild2/
-  - title: Zeugnisse
-    details: Noten vorbereiten, Abschlüsse berechnen und Zeugnisse erstellen.
-    link: /zeugnisse/
+  - title: Programmreferenz
+    details: Menüs, Bereiche und Karteireiter des Programms nachschlagen.
+    link: /programmreferenz/
   - title: Reporting
-    details: Reports verwalten, erstellen und mit RAP erweitern.
+    details: Reports verwalten, drucken und mit dem Reportdesigner gestalten.
     link: /reporting/
   - title: Tools
-    details: Handbücher und Anleitungen zu Kurs42, LuPO, ASDPC, Notenmodulen und weiteren Werkzeugen.
+    details: Anleitungen zu Kurs42, LuPO, ASDPC und weiteren Zusatzprogrammen.
     link: /tools/
-  - title: Nachschlagen
-    details: Programmreferenz, Artikel von A–Z, Hilfe, Bilder und das vollständige Quellenarchiv.
+  - title: Hilfe
+    details: Probleme lösen, Datenbanken pflegen und die Dokumentation ergänzen.
     link: /hilfe/
 ---

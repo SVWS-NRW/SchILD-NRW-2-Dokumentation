@@ -157,4 +157,4 @@ Bitte beachten Sie, dass Sie die Lernfelder auch unter der Tabelle [Fachklassen]
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-308) · [Unterrichtsfächer – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Unterrichtsf%C3%A4cher&oldid=4622)
+Quelle: [Unterrichtsfächer – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Unterrichtsf%C3%A4cher&oldid=4622)

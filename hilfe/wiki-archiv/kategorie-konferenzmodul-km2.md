@@ -10,4 +10,4 @@ title: "Wiki-Kategorie KM2"
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-577) · [Kategorie:Konferenzmodul KM2 – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kategorie%3AKonferenzmodul+KM2&oldid=2241)
+Quelle: [Kategorie:Konferenzmodul KM2 – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kategorie%3AKonferenzmodul+KM2&oldid=2241)

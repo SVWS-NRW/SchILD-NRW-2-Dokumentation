@@ -12,4 +12,4 @@ Einjähriger Teilzeitbildungsgang der Fachoberschule, Klasse 11.
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1215) · [C05 Fachoberschule Kl. 11 (BK/FHR 1j; TZ) – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=C05+Fachoberschule+Kl.+11+%28BK%2FFHR+1j%3B+TZ%29&oldid=4766)
+Quelle: [C05 Fachoberschule Kl. 11 (BK/FHR 1j; TZ) – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=C05+Fachoberschule+Kl.+11+%28BK%2FFHR+1j%3B+TZ%29&oldid=4766)

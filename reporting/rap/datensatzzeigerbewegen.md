@@ -37,4 +37,4 @@ DatensatzZeigerBewegen( Lernabschnitte, -1 );
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1381) · [DatensatzZeigerBewegen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=DatensatzZeigerBewegen&oldid=5690)
+Quelle: [DatensatzZeigerBewegen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=DatensatzZeigerBewegen&oldid=5690)

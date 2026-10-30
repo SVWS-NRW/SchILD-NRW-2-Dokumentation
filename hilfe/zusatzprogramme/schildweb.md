@@ -14,4 +14,4 @@ Bitte beachten Sie, dass es sich bei SchILDweb um ein kostenpflichtiges Modul de
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1005) · [SchILDweb – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SchILDweb&oldid=3865)
+Quelle: [SchILDweb – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SchILDweb&oldid=3865)

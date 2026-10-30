@@ -39,4 +39,4 @@ End;
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-122) · [Praktikumstage – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Praktikumstage&oldid=170)
+Quelle: [Praktikumstage – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Praktikumstage&oldid=170)

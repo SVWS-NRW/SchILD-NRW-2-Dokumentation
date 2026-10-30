@@ -20,4 +20,4 @@ Die Übernahme der Bemerkungen erfolgt durch Klicken auf die Schaltfläche "OK".
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-502) · [Zeugnisbemerkungen eintragen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zeugnisbemerkungen+eintragen&oldid=2060)
+Quelle: [Zeugnisbemerkungen eintragen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zeugnisbemerkungen+eintragen&oldid=2060)

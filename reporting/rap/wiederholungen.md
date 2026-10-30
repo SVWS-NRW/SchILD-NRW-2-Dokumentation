@@ -44,4 +44,4 @@ Procedure Label4711OnGetText(var Text: String);
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-108) · [Wiederholungen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Wiederholungen&oldid=5721)
+Quelle: [Wiederholungen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Wiederholungen&oldid=5721)

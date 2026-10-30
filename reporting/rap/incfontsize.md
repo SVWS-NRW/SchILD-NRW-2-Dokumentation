@@ -40,4 +40,4 @@ end;
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-35) · [IncFontSize – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=IncFontSize&oldid=56)
+Quelle: [IncFontSize – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=IncFontSize&oldid=56)

@@ -38,4 +38,4 @@ Fertig!
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-856) · [Datenbank kopieren – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datenbank+kopieren&oldid=3635)
+Quelle: [Datenbank kopieren – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datenbank+kopieren&oldid=3635)

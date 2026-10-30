@@ -57,4 +57,4 @@ Um einen der genannten Kataloge zu ergänzen, wählen Sie das entsprechende Feld
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-973) · [SEM:Schnelleingabemodul – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SEM%3ASchnelleingabemodul&oldid=3751)
+Quelle: [SEM:Schnelleingabemodul – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SEM%3ASchnelleingabemodul&oldid=3751)

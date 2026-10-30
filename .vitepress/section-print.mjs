@@ -15,8 +15,9 @@ export function sectionPrintEntries(navigation, section) {
       const key = canonicalArticle(item.link)
       if (!seen.has(key)) {
         seen.add(key)
-        const path = key === '/' ? '/index.md' : item.link.endsWith('/') ? key + '/index.md' : key + '.md'
-        entries.push({ key, path: path.slice(1), url: item.link.endsWith('/') ? key + '/' : key + '.html', label: item.text, depth, id: `artikel-${entries.length + 1}` })
+        const directory = new URL(item.link, 'https://docs.invalid').pathname.endsWith('/')
+        const path = key === '/' ? '/index.md' : directory ? key + '/index.md' : key + '.md'
+        entries.push({ key, path: path.slice(1), url: directory ? key + '/' : key + '.html', label: item.text, depth, id: `artikel-${entries.length + 1}` })
       }
     }
     for (const child of item.items || []) visit(child, depth + 1)

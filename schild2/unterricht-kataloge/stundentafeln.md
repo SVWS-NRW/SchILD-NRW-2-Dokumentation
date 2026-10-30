@@ -24,4 +24,4 @@ Erst mit dem Gruppenprozess [Stundentafeln zuweisen](/schild2/gruppenprozesse/st
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-368) · [Stundentafeln – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Stundentafeln&oldid=3868)
+Quelle: [Stundentafeln – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Stundentafeln&oldid=3868)

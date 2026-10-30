@@ -29,4 +29,4 @@ Entfernt den über FilterErzieherfunktion gesetzten Filter
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-68) · [ResetFilterErzieherfunktion – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ResetFilterErzieherfunktion&oldid=89)
+Quelle: [ResetFilterErzieherfunktion – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ResetFilterErzieherfunktion&oldid=89)

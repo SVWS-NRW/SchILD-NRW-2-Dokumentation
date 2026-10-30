@@ -33,4 +33,4 @@ Anschließend findet man bei allen ausgewählten Schülern das korrekte Referenz
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-721) · [Eingabe der GeR-Niveaus – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Eingabe+der+GeR-Niveaus&oldid=3121)
+Quelle: [Eingabe der GeR-Niveaus – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Eingabe+der+GeR-Niveaus&oldid=3121)

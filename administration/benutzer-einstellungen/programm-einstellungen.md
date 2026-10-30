@@ -412,4 +412,4 @@ Schild-NRW benötigt für die Übertragung zur Schildweb-Datenbank ein Passwort,
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-247) · [Programm-Einstellungen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Programm-Einstellungen&oldid=4706)
+Quelle: [Programm-Einstellungen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Programm-Einstellungen&oldid=4706)

@@ -22,4 +22,4 @@ Oder Sie können über den Gruppenprozess [Markierte Schülerdatensätze endgül
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-967) · [Papierkorb zeigen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Papierkorb+zeigen&oldid=3715)
+Quelle: [Papierkorb zeigen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Papierkorb+zeigen&oldid=3715)

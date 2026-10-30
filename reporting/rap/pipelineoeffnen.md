@@ -36,4 +36,4 @@ procedure ReportBeforePrint;
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-115) · [PipelineOeffnen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=PipelineOeffnen&oldid=155)
+Quelle: [PipelineOeffnen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=PipelineOeffnen&oldid=155)

@@ -219,4 +219,4 @@ Quelle der Ergänzung: [S1Plan-Bedienungsanleitung, Druckstand 11.12.2018](https
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1088) · [S1PLAN:Einrichtung von Kursen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=S1PLAN%3AEinrichtung+von+Kursen&oldid=4078)
+Quelle: [S1PLAN:Einrichtung von Kursen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=S1PLAN%3AEinrichtung+von+Kursen&oldid=4078)

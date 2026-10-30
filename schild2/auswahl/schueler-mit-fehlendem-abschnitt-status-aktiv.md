@@ -16,4 +16,4 @@ Sollten die Lernabschnitte im vorangegangenen Schuljahr nicht vollständig einge
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-153) · [Schüler mit fehlendem Abschnitt (Status=Aktiv,..) – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sch%C3%BCler+mit+fehlendem+Abschnitt+%28Status%3DAktiv%2C..%29&oldid=975)
+Quelle: [Schüler mit fehlendem Abschnitt (Status=Aktiv,..) – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sch%C3%BCler+mit+fehlendem+Abschnitt+%28Status%3DAktiv%2C..%29&oldid=975)

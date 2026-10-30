@@ -82,4 +82,4 @@ Nun ist alles bereit! ✅
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1342) · [Statistik mit ASDPC Vorbereitung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC+Vorbereitung&oldid=5308)
+Quelle: [Statistik mit ASDPC Vorbereitung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC+Vorbereitung&oldid=5308)

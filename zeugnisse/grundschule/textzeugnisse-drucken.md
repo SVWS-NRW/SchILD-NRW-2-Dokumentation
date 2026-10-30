@@ -14,4 +14,4 @@ Wenn Sie den Klassen die Textzeugnisse zugeordnet haben, können Sie die Zeugnis
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-640) · [Textzeugnisse drucken – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Textzeugnisse+drucken&oldid=2482)
+Quelle: [Textzeugnisse drucken – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Textzeugnisse+drucken&oldid=2482)

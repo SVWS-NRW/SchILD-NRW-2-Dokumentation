@@ -16,4 +16,4 @@ Archivdateien werden mit Hilfe der Druckausgabe erzeugt, indem man das Druckerge
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-623) · [Report aus Archiv drucken – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Report+aus+Archiv+drucken&oldid=2432)
+Quelle: [Report aus Archiv drucken – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Report+aus+Archiv+drucken&oldid=2432)

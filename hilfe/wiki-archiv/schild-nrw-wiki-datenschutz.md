@@ -164,4 +164,4 @@ Wir weisen darauf hin, dass Betreiber von fremden Internetseiten, die vom Portal
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1154) · [Schild-NRW Wiki:Datenschutz – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schild-NRW+Wiki%3ADatenschutz&oldid=6069)
+Quelle: [Schild-NRW Wiki:Datenschutz – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schild-NRW+Wiki%3ADatenschutz&oldid=6069)

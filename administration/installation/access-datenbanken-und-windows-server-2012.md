@@ -28,4 +28,4 @@ Ansonsten hat bei unseren Tests nur geholfen, auf SMB1 zurückzuschalten. Bei Se
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1018) · [Access-Datenbanken und Windows-Server 2012 – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Access-Datenbanken+und+Windows-Server+2012&oldid=3931)
+Quelle: [Access-Datenbanken und Windows-Server 2012 – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Access-Datenbanken+und+Windows-Server+2012&oldid=3931)

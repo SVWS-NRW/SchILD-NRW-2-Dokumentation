@@ -2276,4 +2276,4 @@ In der Datenquelle für die Schüler-Anrede wurde bei minderjährigen Schülern 
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1352) · [Versionsgeschichte Schild-NRW – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Versionsgeschichte+Schild-NRW&oldid=6074)
+Quelle: [Versionsgeschichte Schild-NRW – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Versionsgeschichte+Schild-NRW&oldid=6074)

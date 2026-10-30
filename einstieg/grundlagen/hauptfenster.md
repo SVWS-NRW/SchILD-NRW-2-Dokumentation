@@ -97,4 +97,4 @@ Springe zu [Das Programm im Überblick](/einstieg/grundlagen/schild-nrw-index)
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-134) · [Hauptfenster – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Hauptfenster&oldid=4287)
+Quelle: [Hauptfenster – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Hauptfenster&oldid=4287)

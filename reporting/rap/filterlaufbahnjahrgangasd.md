@@ -47,4 +47,4 @@ end;
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-28) · [FilterLaufbahnJahrgangASD – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FilterLaufbahnJahrgangASD&oldid=49)
+Quelle: [FilterLaufbahnJahrgangASD – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FilterLaufbahnJahrgangASD&oldid=49)

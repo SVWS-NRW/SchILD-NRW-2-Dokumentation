@@ -20,4 +20,4 @@ Dieser Menüpunkt hilft dabei, bei dem Abschlussjahrgang der Sekundarstufe 1 (z.
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-345) · [Schulpflicht autom. setzen zum SJ.-Ende – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schulpflicht+autom.+setzen+zum+SJ.-Ende&oldid=1524)
+Quelle: [Schulpflicht autom. setzen zum SJ.-Ende – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schulpflicht+autom.+setzen+zum+SJ.-Ende&oldid=1524)

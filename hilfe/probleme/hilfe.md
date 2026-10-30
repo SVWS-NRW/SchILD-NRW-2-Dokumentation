@@ -103,4 +103,4 @@ Nach der Meldung "Der Download des Updates ist komplett..." folgt die Aufforderu
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-257) · [Hilfe – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Hilfe&oldid=1432)
+Quelle: [Hilfe – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Hilfe&oldid=1432)

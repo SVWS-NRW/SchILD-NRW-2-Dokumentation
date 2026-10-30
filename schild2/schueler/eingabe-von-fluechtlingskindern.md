@@ -82,4 +82,4 @@ Sollten die Flüchtlingskinder auf Regelklassen verteilt sein und einzelne Deuts
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-936) · [Eingabe von Flüchtlingskindern – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Eingabe+von+Fl%C3%BCchtlingskindern&oldid=5693)
+Quelle: [Eingabe von Flüchtlingskindern – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Eingabe+von+Fl%C3%BCchtlingskindern&oldid=5693)

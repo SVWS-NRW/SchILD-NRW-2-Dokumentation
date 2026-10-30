@@ -137,4 +137,4 @@ Löscht die Vorgaben aus der vorangegangenen Funktion.\
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-181) · [Container – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Container&oldid=1108)
+Quelle: [Container – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Container&oldid=1108)

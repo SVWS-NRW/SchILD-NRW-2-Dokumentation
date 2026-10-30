@@ -16,4 +16,4 @@ Lassen Sie zunächst den Gruppenprozess [Versetzung und Abschlüsse berechnen](/
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-481) · [Lernbereichsnoten eingeben – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lernbereichsnoten+eingeben&oldid=1988)
+Quelle: [Lernbereichsnoten eingeben – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lernbereichsnoten+eingeben&oldid=1988)

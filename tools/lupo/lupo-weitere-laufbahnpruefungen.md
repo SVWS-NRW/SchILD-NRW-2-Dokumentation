@@ -21,4 +21,4 @@ Um in der Beratungssituation die Leistungskurswahl und die Laufbahn besser beurt
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-986) · [Lupo:Weitere Laufbahnprüfungen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo%3AWeitere+Laufbahnpr%C3%BCfungen&oldid=5555)
+Quelle: [Lupo:Weitere Laufbahnprüfungen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo%3AWeitere+Laufbahnpr%C3%BCfungen&oldid=5555)

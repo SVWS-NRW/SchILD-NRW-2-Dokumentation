@@ -140,4 +140,4 @@ Da SchILD bei der Plausibilitätsprüfung für diesen Fall keine Fehlermeldung a
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1429) · [Deutschförderung nach BASS 13-63 Nr. 3 (Stand 29.08.2024) – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Deutschf%C3%B6rderung+nach+BASS+13-63+Nr.+3+%28Stand+29.08.2024%29&oldid=5986)
+Quelle: [Deutschförderung nach BASS 13-63 Nr. 3 (Stand 29.08.2024) – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Deutschf%C3%B6rderung+nach+BASS+13-63+Nr.+3+%28Stand+29.08.2024%29&oldid=5986)

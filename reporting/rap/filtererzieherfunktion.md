@@ -39,4 +39,4 @@ end;
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-26) · [FilterErzieherfunktion – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FilterErzieherfunktion&oldid=47)
+Quelle: [FilterErzieherfunktion – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FilterErzieherfunktion&oldid=47)

@@ -35,4 +35,4 @@ Es ist ratsam, erst mit dem Listenknopf eine dieser vorgegebenen ASD-Bezeichnung
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-163) · [Förderschwerpunkte – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%B6rderschwerpunkte&oldid=938)
+Quelle: [Förderschwerpunkte – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%B6rderschwerpunkte&oldid=938)

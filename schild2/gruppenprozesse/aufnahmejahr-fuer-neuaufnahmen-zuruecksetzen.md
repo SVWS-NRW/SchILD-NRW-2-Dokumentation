@@ -18,4 +18,4 @@ Bei der nächsten Neuaufnahme erscheint dann wieder der Auswahldialog.
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-351) · [Aufnahmejahr für Neuaufnahmen zurücksetzen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Aufnahmejahr+f%C3%BCr+Neuaufnahmen+zur%C3%BCcksetzen&oldid=1542)
+Quelle: [Aufnahmejahr für Neuaufnahmen zurücksetzen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Aufnahmejahr+f%C3%BCr+Neuaufnahmen+zur%C3%BCcksetzen&oldid=1542)

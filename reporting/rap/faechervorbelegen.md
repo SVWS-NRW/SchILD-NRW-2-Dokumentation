@@ -33,4 +33,4 @@ unbedingt die Prozedur 'ResetFaechervorbelegung' aufgerufen werden!
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-19) · [Faechervorbelegen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Faechervorbelegen&oldid=39)
+Quelle: [Faechervorbelegen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Faechervorbelegen&oldid=39)

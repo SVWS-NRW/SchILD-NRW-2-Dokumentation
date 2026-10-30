@@ -38,4 +38,4 @@ Da der Dateipfad in der ZIP-Datei mitgespeichert wird, kann das Schild-NRW-Tool 
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-341) · [Datensicherung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datensicherung&oldid=1538)
+Quelle: [Datensicherung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datensicherung&oldid=1538)

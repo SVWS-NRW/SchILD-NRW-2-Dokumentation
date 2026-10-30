@@ -18,4 +18,4 @@ Eine Erzieherfunktion wird den Erzieherdaten folgendermaßen zugewiesen: Wird na
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-375) · [Erzieher-Funktionen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Erzieher-Funktionen&oldid=1623)
+Quelle: [Erzieher-Funktionen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Erzieher-Funktionen&oldid=1623)

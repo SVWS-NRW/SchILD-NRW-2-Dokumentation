@@ -32,4 +32,4 @@ End;
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-161) · [ThemaProjektKurs – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ThemaProjektKurs&oldid=405)
+Quelle: [ThemaProjektKurs – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ThemaProjektKurs&oldid=405)

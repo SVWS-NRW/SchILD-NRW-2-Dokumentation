@@ -74,4 +74,4 @@ Siehe hierzu die in der Praxis auftretenden Fehler im [Schlüsselmanagenent](/sc
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1340) · [Statistik mit ASDPC Fehlersuche – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC+Fehlersuche&oldid=5713)
+Quelle: [Statistik mit ASDPC Fehlersuche – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC+Fehlersuche&oldid=5713)

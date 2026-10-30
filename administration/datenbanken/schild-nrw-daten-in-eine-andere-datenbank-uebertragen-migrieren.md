@@ -32,4 +32,4 @@ Am Ende der Migration wird ein Fehlerprotokoll ausgegeben. Hier kann es unter Um
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1370) · [Schild-NRW-Daten in eine andere Datenbank übertragen (migrieren) – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schild-NRW-Daten+in+eine+andere+Datenbank+%C3%BCbertragen+%28migrieren%29&oldid=5623)
+Quelle: [Schild-NRW-Daten in eine andere Datenbank übertragen (migrieren) – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schild-NRW-Daten+in+eine+andere+Datenbank+%C3%BCbertragen+%28migrieren%29&oldid=5623)

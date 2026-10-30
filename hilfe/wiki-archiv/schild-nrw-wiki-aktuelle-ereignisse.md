@@ -18,4 +18,4 @@ Technische Informationen zu den Schulverwaltungsprogrammen
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1017) · [Schild-NRW Wiki:Aktuelle Ereignisse – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schild-NRW+Wiki%3AAktuelle+Ereignisse&oldid=3947)
+Quelle: [Schild-NRW Wiki:Aktuelle Ereignisse – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schild-NRW+Wiki%3AAktuelle+Ereignisse&oldid=3947)

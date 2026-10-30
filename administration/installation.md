@@ -1,4 +1,4 @@
-# Installation und Datenbankverbindung
+# Installation von SchILD2
 
 Installieren Sie zuerst das Programm und richten Sie den Zugriff auf die verwendete Datenbank ein. SchILD-NRW 2 benötigt dafür keinen SVWS-Server. Die UDL-Anleitung behandelt besondere Verbindungen auf 64-Bit-Systemen; die Anleitung zu Windows Server 2012 beschreibt ein älteres Betriebssystem.
 

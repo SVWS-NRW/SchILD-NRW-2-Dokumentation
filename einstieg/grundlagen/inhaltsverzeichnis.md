@@ -131,4 +131,4 @@ title: "Funktionen im Überblick"
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1169) · [Inhaltsverzeichnis – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Inhaltsverzeichnis&oldid=5938)
+Quelle: [Inhaltsverzeichnis – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Inhaltsverzeichnis&oldid=5938)

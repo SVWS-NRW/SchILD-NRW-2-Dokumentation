@@ -104,4 +104,4 @@ Die Maske kann ohne Veränderungen verlassen werden.
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-279) · [Filter II – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Filter+II&oldid=1192)
+Quelle: [Filter II – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Filter+II&oldid=1192)

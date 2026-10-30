@@ -20,4 +20,4 @@ Weitere Informationen (Klassenlehrer, Versetzungsentscheidung, Bemerkung,...) zu
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-584) · [Übersicht S I – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=%C3%9Cbersicht+S+I&oldid=2283)
+Quelle: [Übersicht S I – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=%C3%9Cbersicht+S+I&oldid=2283)

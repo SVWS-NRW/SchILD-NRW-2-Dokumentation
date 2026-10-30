@@ -16,4 +16,4 @@ Handelt es sich um einen Jahrgang, der nicht "Abgangsjahrgang" ist, werden die E
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-361) · [Sprachenfolge aus Leistungsdaten ermitteln – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sprachenfolge+aus+Leistungsdaten+ermitteln&oldid=1901)
+Quelle: [Sprachenfolge aus Leistungsdaten ermitteln – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sprachenfolge+aus+Leistungsdaten+ermitteln&oldid=1901)

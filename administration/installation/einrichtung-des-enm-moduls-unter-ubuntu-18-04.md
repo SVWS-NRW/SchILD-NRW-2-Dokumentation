@@ -30,4 +30,4 @@ Starten Sie das Notenmodul mit dem Befehl:
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1174) · [Einrichtung des ENM-Moduls unter Ubuntu 18.04 – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Einrichtung+des+ENM-Moduls+unter+Ubuntu+18.04&oldid=4609)
+Quelle: [Einrichtung des ENM-Moduls unter Ubuntu 18.04 – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Einrichtung+des+ENM-Moduls+unter+Ubuntu+18.04&oldid=4609)

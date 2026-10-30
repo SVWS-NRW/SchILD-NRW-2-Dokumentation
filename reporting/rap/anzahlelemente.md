@@ -42,4 +42,4 @@ if AnzahlElemente( txt, ',' ) > 2 then
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-118) · [AnzahlElemente – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=AnzahlElemente&oldid=162)
+Quelle: [AnzahlElemente – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=AnzahlElemente&oldid=162)

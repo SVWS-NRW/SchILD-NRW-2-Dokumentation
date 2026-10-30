@@ -86,4 +86,4 @@ Epochenunterricht
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-932) · [DQ01-Demo.spd – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=DQ01-Demo.spd&oldid=3513)
+Quelle: [DQ01-Demo.spd – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=DQ01-Demo.spd&oldid=3513)

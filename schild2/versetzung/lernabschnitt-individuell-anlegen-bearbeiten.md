@@ -18,4 +18,4 @@ Es öffnet sich das Fenster "Halbjahr anlegen". Dort sind alle nötigen Eintragu
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-501) · [Lernabschnitt individuell anlegen/bearbeiten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lernabschnitt+individuell+anlegen%2Fbearbeiten&oldid=3630)
+Quelle: [Lernabschnitt individuell anlegen/bearbeiten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lernabschnitt+individuell+anlegen%2Fbearbeiten&oldid=3630)

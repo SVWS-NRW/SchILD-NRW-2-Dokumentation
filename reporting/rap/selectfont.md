@@ -47,4 +47,4 @@ end;
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-77) · [Selectfont – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Selectfont&oldid=98)
+Quelle: [Selectfont – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Selectfont&oldid=98)

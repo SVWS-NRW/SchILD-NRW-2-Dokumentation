@@ -82,4 +82,4 @@ Aus Schild können die Lehrerdaten exportiert werden über Schulverwaltung / Sta
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-378) · [Statistik / amtliche Schuldaten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+%2F+amtliche+Schuldaten&oldid=2543)
+Quelle: [Statistik / amtliche Schuldaten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+%2F+amtliche+Schuldaten&oldid=2543)

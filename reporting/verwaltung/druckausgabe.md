@@ -92,4 +92,4 @@ Bitte entnehmen Sie hier die Vorgehensweise: [Textzeugnisse drucken](/zeugnisse/
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-434) · [Druckausgabe – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Druckausgabe&oldid=2415)
+Quelle: [Druckausgabe – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Druckausgabe&oldid=2415)

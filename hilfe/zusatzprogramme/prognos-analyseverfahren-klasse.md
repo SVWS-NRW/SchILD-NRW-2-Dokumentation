@@ -14,4 +14,4 @@ Nach der Auswahl einer Klasse öffnet sich das Hauptfenster, wo die weitere Arbe
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1251) · [Prognos:Analyseverfahren: Klasse – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Prognos%3AAnalyseverfahren%3A+Klasse&oldid=5080)
+Quelle: [Prognos:Analyseverfahren: Klasse – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Prognos%3AAnalyseverfahren%3A+Klasse&oldid=5080)

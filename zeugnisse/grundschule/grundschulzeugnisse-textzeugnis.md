@@ -27,4 +27,4 @@ Für die Grundschul-Text-Zeugnisse sind einige Video-Turtorials verfügbar:
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1177) · [Grundschulzeugnisse Textzeugnis – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Grundschulzeugnisse+Textzeugnis&oldid=5515)
+Quelle: [Grundschulzeugnisse Textzeugnis – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Grundschulzeugnisse+Textzeugnis&oldid=5515)

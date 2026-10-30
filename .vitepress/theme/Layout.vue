@@ -33,7 +33,7 @@ const selectedSection = computed(() => {
 const currentPath = computed(() => '/' + page.value.relativePath)
 const defaultGroups = computed(() => getSidebar(theme.value.sidebar, page.value.relativePath))
 const activeSection = computed(() => indexMode.value ? '/hilfe/' : referenceMode.value ? '/programmreferenz/'
-  : selectedSection.value || defaultGroups.value[0]?.items?.[0]?.link || '')
+  : selectedSection.value || (defaultGroups.value[0]?.items?.[0]?.link ? articlePath(defaultGroups.value[0].items[0].link) + '/' : ''))
 const readingGroups = computed(() => {
   const groups = theme.value.sidebar[activeSection.value]
   return groups ? contextualSidebar(groups, activeSection.value, currentPath.value) : defaultGroups.value
@@ -44,12 +44,11 @@ function adjacentInSection(offset: number) {
   const entry = position < 0 ? undefined : readingEntries.value[position + offset]
   return entry ? { text: entry.text, link: entry.link } : false
 }
-const helpSidebar = computed(() => theme.value.sidebar['/hilfe/'].map(group => ({
-  ...group,
-  items: group.items.map(item => item.link === '/hilfe/alle-artikel'
-    ? { ...item, collapsed: false, items: articles.map(article => ({ text: article.title.replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;'), link: articleIndexLink(article.url) })) }
-    : item)
-})))
+const indexBranch = (item: any): boolean => articlePath(item.link || '/') === '/hilfe/alle-artikel' || !!item.items?.some(indexBranch)
+const expandIndex = (item: any): any => articlePath(item.link || '/') === '/hilfe/alle-artikel'
+ ? { ...item, collapsed: false, items: articles.map(article => ({ text: article.title.replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;'), link: articleIndexLink(article.url) })) }
+ : { ...item, ...(item.items ? { items: item.items.map(expandIndex), ...(indexBranch(item) ? { collapsed: false } : {}) } : {}) }
+const helpSidebar = computed(() => theme.value.sidebar['/hilfe/'].map(expandIndex))
 // Supply the context menu to the default theme, including its active states,
 // mobile navigation and previous/next links. Original page data stays intact.
 const indexHome = computed(() => indexMode.value && frontmatter.value.layout === 'home')

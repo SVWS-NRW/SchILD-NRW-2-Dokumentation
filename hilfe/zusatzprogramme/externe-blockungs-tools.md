@@ -58,4 +58,4 @@ Das Programm Multi_Klausurplanung_CNF berechnet die Klausurpläne mehrerer Jahrg
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1155) · [Externe Blockungs-Tools – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Externe+Blockungs-Tools&oldid=4572)
+Quelle: [Externe Blockungs-Tools – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Externe+Blockungs-Tools&oldid=4572)

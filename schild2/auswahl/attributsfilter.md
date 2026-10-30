@@ -70,4 +70,4 @@ Besonderheit: Wenn Schüler mit einer Löschmarkierung endgültig aus der Datenb
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-159) · [Attributsfilter – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Attributsfilter&oldid=1185)
+Quelle: [Attributsfilter – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Attributsfilter&oldid=1185)

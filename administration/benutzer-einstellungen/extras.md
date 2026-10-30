@@ -106,4 +106,4 @@ Zeigt das Protokoll, wenn die o.g. Funktion eingeschaltet wurde.
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-230) · [Extras – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Extras&oldid=3736)
+Quelle: [Extras – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Extras&oldid=3736)

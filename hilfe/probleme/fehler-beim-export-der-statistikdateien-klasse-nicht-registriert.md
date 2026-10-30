@@ -77,4 +77,4 @@ rem Systemdateien\
 
 ---
 
-Quelle: [Lokal gesicherter Wiki-Quelltext](/quellen/wiki/seite-1361) · [Fehler beim Export der Statistikdateien - Klasse nicht registriert – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fehler+beim+Export+der+Statistikdateien+-+Klasse+nicht+registriert&oldid=5469)
+Quelle: [Fehler beim Export der Statistikdateien - Klasse nicht registriert – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fehler+beim+Export+der+Statistikdateien+-+Klasse+nicht+registriert&oldid=5469)
