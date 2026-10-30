@@ -11,19 +11,17 @@ title: "FileAge"
 
 ## Beschreibung
 
+Ermittelt das Datum der angegebenen Datei.
+
 ```pascal
 function FileAge(const aFilename: String): DateTime;
 ```
-
-
-bestimmt das Dateidatum
 
 ## Parameter
 
 | Parameter | Bedeutung |
 | --- | --- |
 | `aFilename` | Dateiname incl. Pfad |
-
 
 ## Rückgabewert
 

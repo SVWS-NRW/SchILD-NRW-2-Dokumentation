@@ -9,10 +9,11 @@ title: "NurGewerteteAbschnitte"
 
 ## Beschreibung
 
+Steuert, ob ausschließlich gewertete Lernabschnitte angezeigt werden. Die nachfolgenden Hinweise erläutern die Voreinstellung und ihre Bedeutung für Leistungsübersichten.
+
 ```pascal
 NurGewerteteAbschnitte( zeigen: boolen );
 ```
-
 
 ## Parameter
 
@@ -20,18 +21,16 @@ NurGewerteteAbschnitte( zeigen: boolen );
 | --- | --- |
 | `Anzeigewerte` | True, False |
 
-
 ## Beispiel
 
 ```pascal
 NurGewerteteAbschnitte( false );
 ```
 
-Wichtig: Der "Default" steht" auf "true" (d.h. nur gewertete Abschnitte
+Wichtig: Der "Default" steht" auf "true" (das heißt nur gewertete Abschnitte
 zeigen). Andernfalls könnte es Probleme bei Reports geben, die nur gewertete
-Abschnitte zeigen dürfen (z.B. Abi-Übersichten). Wenn man für ein Stammblatt
+Abschnitte zeigen dürfen (zum Beispiel Abi-Übersichten). Wenn man für ein Stammblatt
 auch die nicht gewerteten Abschnitte sehen will.
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

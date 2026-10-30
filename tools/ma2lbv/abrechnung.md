@@ -4,6 +4,8 @@ title: "MA2LBV / MA2: Abrechnung erstellen und ausgeben"
 
 # Abrechnung erstellen und ausgeben
 
+Hier bereiten Sie Mehrarbeitsdaten für die Abrechnung und Ausgabe mit MA2 vor. Legen Sie zuerst den Abrechnungszeitraum fest und wählen Sie danach den passenden Weg zur Übernahme oder Eingabe der Daten.
+
 ## Zeitraum und Daten wählen
 
 Beim ersten Start legen Sie den Startmonat eines **sechsmonatigen Abrechnungszeitraums** fest. Für die Abrechnungsdaten bestehen drei Wege:

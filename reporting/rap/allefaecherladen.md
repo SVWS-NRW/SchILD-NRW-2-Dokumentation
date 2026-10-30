@@ -11,20 +11,18 @@ title: "AlleFaecherLaden"
 
 ## Beschreibung
 
+Stellt die Grundeinstellung "Auch Leistungsdaten ohne Noten laden"
+für einen Report um.
+
 ```pascal
 procedure AlleFaecherLaden(const Value: Boolean);
 ```
-
-
-Stellt die Grundeinstellung "Auch Leistungsdaten ohne Noten laden"
-für einen Report um.
 
 ## Parameter
 
 | Parameter | Bedeutung |
 | --- | --- |
 | `Value` | Boolescher Wert |
-
 
 ## Beispiel
 
@@ -34,7 +32,6 @@ begin
   AlleFaecherLaden(True);
 end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

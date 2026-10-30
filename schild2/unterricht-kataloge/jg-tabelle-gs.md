@@ -6,6 +6,8 @@ title: "Statistikjahrgänge an Grundschulen"
 
 # Statistikjahrgänge an Grundschulen
 
+Hier sehen Sie die Jahrgangstabelle für Grundschulen. Die folgenden Vorgaben erläutern, welche Einträge unabhängig von der Klassenorganisation benötigt werden.
+
 <a id="Die_Jahrgangstabelle"></a>
 
 ## **Die Jahrgangstabelle**

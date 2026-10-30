@@ -18,11 +18,11 @@ Im Menü „Auswertung \> Übersicht“ haben Sie die Möglichkeit, eine Übersi
 
 ## Fächer mit mangelnder Schülerzahl
 
-Wenn Sie Fächer löschen, gehen auch die Fachwahlen in diesem Fach verloren. Konflikte können dann nicht mehr ausgegeben werden. Entfernen Sie vielmehr die Häkchen der Auswahlfelder, damit die Fachwahlen bestehen bleiben.Nach der Beurteilung der Wahlen durch die Schulleitung kann es dazu kommen, dass die Entscheidung getroffen wird, ein Fach nicht anzubieten. In diesem Fall müssen alle SuS angesprochen werden, die dieses Fach gewählt haben.
+Wenn Sie Fächer löschen, gehen auch die Fachwahlen in diesem Fach verloren. Konflikte können dann nicht mehr ausgegeben werden. Entfernen Sie vielmehr die Häkchen der Auswahlfelder, damit die Fachwahlen bestehen bleiben.Nach der Beurteilung der Wahlen durch die Schulleitung kann es dazu kommen, dass die Entscheidung getroffen wird, ein Fach nicht anzubieten. In diesem Fall müssen alle Schülerinnen und Schüler angesprochen werden, die dieses Fach gewählt haben.
 
-Gehen Sie hierzu in das Menü „Datenbearbeitung \> Fächer“ und deaktivieren Sie bei dem entsprechenden Fach alle Auswahlfelder aller Halbjahre. Klicken Sie nun auf die Schaltfläche „Konflikte“. LuPO erkennt nun, dass SuS existieren, die dieses demarkierte Fach gewählt haben und listet diese SuS in einem Ausgabefenster auf. Sie können die Liste leicht kopieren, um sie in einem Anschreiben einzufügen.
+Gehen Sie hierzu in das Menü „Datenbearbeitung \> Fächer“ und deaktivieren Sie bei dem entsprechenden Fach alle Auswahlfelder aller Halbjahre. Klicken Sie nun auf die Schaltfläche „Konflikte“. LuPO erkennt nun, dass Schülerinnen und Schüler existieren, die dieses demarkierte Fach gewählt haben und listet diese Schülerinnen und Schüler in einem Ausgabefenster auf. Sie können die Liste leicht kopieren, um sie in einem Anschreiben einzufügen.
 
-Im Wahldialog können die bestehenden Konflikte mit Hilfe der Schaltfläche „Konflikte entfernen“ automatisch beseitigt werden. Wählen Sie hierzu die entsprechende Schülerin bzw. den entsprechenden Schüler aus und drücken Sie auf die Schaltfläche.
+Im Wahldialog können die bestehenden Konflikte mit Hilfe der Schaltfläche „Konflikte entfernen“ automatisch beseitigt werden. Wählen Sie hierzu die entsprechende Schülerin beziehungsweise den entsprechenden Schüler aus und drücken Sie auf die Schaltfläche.
 
 [zurück zum Seitenanfang](#top)
 

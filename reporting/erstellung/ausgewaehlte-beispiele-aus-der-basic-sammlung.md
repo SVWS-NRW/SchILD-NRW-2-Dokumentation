@@ -78,7 +78,7 @@ Wenn Sie dagegen Änderungen an den Texteingabefeldern vornehmen möchten, müss
 
 Im unteren Bildschirmbereich sollte nun die *procedure ReportBeforePrint* zu sehen sein, in der die Texteingabefelder aktiviert werden.
 
-Zunächst werden verschiedene Variablen (z.B. Wochentag, Datum, Hergang, Schilderung) deklariert, die beim Aufruf des Reports durch die Eingaben des Nutzers mit Inhalt gefüllt werden.
+Zunächst werden verschiedene Variablen (zum Beispiel Wochentag, Datum, Hergang, Schilderung) deklariert, die beim Aufruf des Reports durch die Eingaben des Nutzers mit Inhalt gefüllt werden.
 
 ![Unfallanzeige-04](/bilder/reporting/erstellung/unfallanzeige-04.png)
 
@@ -88,7 +88,7 @@ Nach dem Einlesen des Textes in die jeweilige Variable wird der Inhalt der Varia
 
 ![Unfallanzeige-05](/bilder/reporting/erstellung/unfallanzeige-05.png)
 
-Wenn Sie ein größeres Eingabefeld, z.B. bei der Schilderung des Unfallhergangs bevorzugen, können Sie es über den Aufruf des Editors erreichen, die Zeile würde dann lauten:
+Wenn Sie ein größeres Eingabefeld, zum Beispiel bei der Schilderung des Unfallhergangs bevorzugen, können Sie es über den Aufruf des Editors erreichen, die Zeile würde dann lauten:
 
 "Hergang := EditPlainText('Schildern Sie hier bitte den Unfallhergang und geben Sie die Art der Veranstaltung bzw. die Sportart bei Sportunfällen an');"
 
@@ -105,7 +105,7 @@ Im Ordner A5_Leistungsübersichten finden Sie Formulare unterschiedlicher Komple
 
 ![Leistungsuebersicht-01](/bilder/reporting/erstellung/leistungsuebersicht-01.png)
 
-Die Leistungsübersicht ist tabellarisch aufgebaut, wobei die Tabelle abhängig von den zugewiesenen Fächern erstellt und gefüllt wird. Somit ist die Spaltenanzahl der Tabelle nicht fest vorgegeben, sondern abhängig von der verwendeten Stundentafel bzw. von den Fächern, die die ausgewählten Schüler im aktuellen Halbjahr haben.
+Die Leistungsübersicht ist tabellarisch aufgebaut, wobei die Tabelle abhängig von den zugewiesenen Fächern erstellt und gefüllt wird. Somit ist die Spaltenanzahl der Tabelle nicht fest vorgegeben, sondern abhängig von der verwendeten Stundentafel beziehungsweise von den Fächern, die die ausgewählten Schüler im aktuellen Halbjahr haben.
 
 Wenn Sie den Report im Bearbeitungsmodus öffnen, sehen Sie, dass zwei Subreports mit der Datenquelle *Fachuebersicht* benutzt werden.
 
@@ -152,7 +152,7 @@ Um die Noten, die schlechter als ausreichend sind, farblich zu markieren, müsse
 
 ![Leistungsuebersicht-10](/bilder/reporting/erstellung/leistungsuebersicht-10.png)
 
-Über den noten wird in der Leistungsübersicht gekennzeichnet, ob es sich um einen Leistungskurs handelt bzw. ob der Kurs nur mündlich belgt wurde. Die zugehörige Programmierung ist auch im SubReport2, nämlich beim Label 12. In die neu definierte String-Variable **S** wird die Kursart eingelesen. Mit der Funktion *copy* werden die ersten beiden Buchstaben aus **S** ausgelesen und abgeglichen.
+Über den noten wird in der Leistungsübersicht gekennzeichnet, ob es sich um einen Leistungskurs handelt beziehungsweise ob der Kurs nur mündlich belgt wurde. Die zugehörige Programmierung ist auch im SubReport2, nämlich beim Label 12. In die neu definierte String-Variable **S** wird die Kursart eingelesen. Mit der Funktion *copy* werden die ersten beiden Buchstaben aus **S** ausgelesen und abgeglichen.
 
 ------------------------------------------------------------------------
 

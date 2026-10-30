@@ -11,12 +11,11 @@ title: "AnzahlElemente"
 
 ## Beschreibung
 
+Liefert die Anzahl der durch das Trennzeichen getrennten Einzelelemente in "text"
+
 ```pascal
 function AnzahlElemente( const text, trennzeichen: string ): integer;
 ```
-
-
-Liefert die Anzahl der durch das Trennzeichen getrennten Einzelelemente in "text"
 
 ## Parameter
 
@@ -24,7 +23,6 @@ Liefert die Anzahl der durch das Trennzeichen getrennten Einzelelemente in "text
 | --- | --- |
 | `text` | der zu analysierende Text |
 | `trennzeichen` | Das Trennzeichen |
-
 
 ## Rückgabewert
 
@@ -36,7 +34,6 @@ Integerwert der Elementanzahl.
 txt := '1,2,3,4':
 if AnzahlElemente( txt, ',' ) > 2 then
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

@@ -11,6 +11,8 @@ title: "SchuljahrToStrEx"
 
 ## Beschreibung
 
+Erzeugt eine Schuljahresangabe nach einem vorgegebenen Textformat. Die Parameter bestimmen außerdem die Reihenfolge von Jahr und Abschnitt.
+
 ```pascal
 function SchuljahrToStrEx(aJahr, aAbschnitt: integer; Format: String; AbschnittVorn: Boolean): String;
 ```
@@ -24,7 +26,6 @@ function SchuljahrToStrEx(aJahr, aAbschnitt: integer; Format: String; AbschnittV
 | `Format` | Formatanweisung. Text mit Platzhaltern für numerische Variablen. An der gewünschten Position ist ein %[w]d einzufügen. Der optionale Parameter w enthält die gewünschte Breite, falls notwendig, wird linksbündig mit Nullen aufgefüllt. |
 | `AbschnittVorn` | Wenn AbschnittVorn wahr ist, werden die Parameter in der Reihenfolge Abschnitt, Jahr, Jahr + 1 aufgefüllt, sonst in der Reihenfolge Jahr, Jahr + 1, Abschnitt |
 
-
 ## Rückgabewert
 
 Schuljahr in der durch Format vorgegebenen Form
@@ -37,7 +38,6 @@ Ergebnis: lSchuljahrStr = '3. Quartal 2005/06'
 SchuljahrStr:=SchuljahrToStrEx(2005,2,'Schuljahr %d/%2d, %d. Halbjahr',False);
 Ergebnis: lSchuljahrStr = 'Schuljahr 2005/06, 2. Halbjahr'
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

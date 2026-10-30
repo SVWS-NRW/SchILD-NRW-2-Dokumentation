@@ -11,6 +11,8 @@ title: "FormatRTF"
 
 ## Beschreibung
 
+Formatiert einen Richtext, also einen Text mit Schrift- und Formatangaben. Die Parameter bestimmen Schriftart, Größe, Farbe und Hervorhebungen.
+
 ```pascal
 procedure FormatRTF(aRichtext: TppcustomRichtext; aFontname: String; Groesse: Integer;Fett: Boolean; Kursiv: Boolean; Unterstrichen: Boolean; Gestrichen: Boolean; Farbe: TColor);
 ```
@@ -26,8 +28,7 @@ procedure FormatRTF(aRichtext: TppcustomRichtext; aFontname: String; Groesse: In
 | `Kursiv` | Boolescher Wert, falls true, wird das Attribut gesetzt. |
 | `Unterstrichen` | Boolescher Wert, falls true, wird das Attribut gesetzt. |
 | `Gestrichen` | Boolescher Wert, falls true, wird das Attribut gesetzt. |
-| `Farbe` | Schriftfarbe (z.B. clRed, clBlue...) |
-
+| `Farbe` | Schriftfarbe (zum Beispiel clRed, clBlue...) |
 
 ## Beispiel
 
@@ -37,7 +38,6 @@ begin
  end;
  (*Formatiert den Text in Tahoma, Größe 11, Fett, Kursiv, Schriftfarbe Rot*)
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

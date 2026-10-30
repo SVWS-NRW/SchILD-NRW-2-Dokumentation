@@ -10,9 +10,9 @@ Die **Übersicht S I** ermöglicht den Überblick über alle dokumentierten Leis
 
 ![Uebersicht-SI](/bilder/zeugnisse/sekundarstufen/uebersicht-si.jpg)
 
-Wird die Anzeige für die Kursarten gewählt wird direkt unter den Leistungsnoten der zurückliegenden Halbjahre die Kursart (PUK, PUT, WPII etc.) angezeigt. Wählt man die Anzeige für die Lehrkräfte wird direkt unter den Leistungsnoten die Lehrkraft angezeigt.
+Wird die Anzeige für die Kursarten gewählt wird direkt unter den Leistungsnoten der zurückliegenden Halbjahre die Kursart (PUK, PUT, WPII etc.) angezeigt. Wählen Sie die Anzeige für die Lehrkräfte wird direkt unter den Leistungsnoten die Lehrkraft angezeigt.
 
-Weitere Informationen (Klassenlehrer, Versetzungsentscheidung, Bemerkung,...) zu zurückliegenden Schulhalbjahren erhält man, wenn man in die entsprechende Halbjahresspalte klickt. Daraufhin wird unten im Fenster ein Bereich "Allgemeine Angaben in ..." eingeblendet.
+Weitere Informationen (Klassenlehrer, Versetzungsentscheidung, Bemerkung,...) zu zurückliegenden Schulhalbjahren erhalten Sie, wenn man in die entsprechende Halbjahresspalte klickt. Daraufhin wird unten im Fenster ein Bereich "Allgemeine Angaben in ..." eingeblendet.
 
 ![Uebersicht-SIa](/bilder/zeugnisse/sekundarstufen/uebersicht-sia.jpg)
 

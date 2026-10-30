@@ -11,14 +11,13 @@ title: "LoadNotenliste"
 
 ## Beschreibung
 
-```pascal
-procedure LoadNotenliste(aFilename: String);
-```
-
-
 Die zu ladende Textdatei muss pro Zeile ein Paar der Form
 'Numerischer Wert=Klartext' enthalten. Die interne Zuordnungsliste wird
 dadurch überschrieben.
+
+```pascal
+procedure LoadNotenliste(aFilename: String);
+```
 
 ## Parameter
 
@@ -26,13 +25,11 @@ dadurch überschrieben.
 | --- | --- |
 | `aFilename` | Dateiname (incl.Pfad) der Textdatei |
 
-
 ## Beispiel
 
 ```text
 ...
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

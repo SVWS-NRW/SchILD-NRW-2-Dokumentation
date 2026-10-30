@@ -11,12 +11,11 @@ title: "IstInDerGruppe"
 
 ## Beschreibung
 
+Diese Funktion ermittelt, ob ein bestimmter Benutzer einer Gruppe angehört
+
 ```pascal
 function IstInDerGruppe(const aLoginName, aGruppenName: String): Boolean;
 ```
-
-
-Diese Funktion ermittelt, ob ein bestimmter Benutzer einer Gruppe angehört
 
 ## Parameter
 
@@ -24,7 +23,6 @@ Diese Funktion ermittelt, ob ein bestimmter Benutzer einer Gruppe angehört
 | --- | --- |
 | `aLoginname` | der Schild-Loginname des Benutzers |
 | `aGruppenname` | die zu überprüfende Gruppe |
-
 
 ## Rückgabewert
 
@@ -38,7 +36,6 @@ begin
   Detail.Visible:=IstInDerGruppe('LEHRER',SchildUmgebung['Login_Name'])
 end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

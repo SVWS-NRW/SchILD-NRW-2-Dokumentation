@@ -21,7 +21,7 @@ Prinzipiell sind die Mahnbriefe Serienbriefe mit erweiterten Funktionen und Rüc
 
 ## Vorbereitungen
 
-Setzen Sie zunächst bei allen Schülerinnen und Schülern in den Leistungsdaten von defizitären Epochalfächern ein Mahnhäkchen. Dies kann z.B. auch mit Hilfe von Notendateien und dem ENM-Notenmodul oder über den Gruppenprozess [Noten, Mahnungen und Fehlstunden bearbeiten](/zeugnisse/vorbereitung/noten-mahnungen-und-fehlstunden-eingeben) geschehen.
+Setzen Sie zunächst bei allen Schülerinnen und Schülern in den Leistungsdaten von defizitären Epochalfächern ein Mahnhäkchen. Dies kann zum Beispiel auch mit Hilfe von Notendateien und dem ENM-Notenmodul oder über den Gruppenprozess [Noten, Mahnungen und Fehlstunden bearbeiten](/zeugnisse/vorbereitung/noten-mahnungen-und-fehlstunden-eingeben) geschehen.
 
 Die Mahnhäkchen werden mit zwei Farben hinterlegt. Bei roten Mahnhäkchen wurde noch kein Mahndatum hinterlegt. Bei grünen Mahnhäkchen existiert bereits ein Mahndatum. Das Mahndatum hat informativen Charakter und wird vom Gruppenprozess für die Filterung ausgewertet.
 
@@ -91,7 +91,7 @@ WHERE\
       AND SLD.Warnung = '+'\
       AND SLD.Warndatum IS NULL)\
 
-Alternativ zur Eingabe des Codes können Sie auch einen SQL-Filter "Aus Datei laden". [Die benötigte Datei können Sie hier als ZIP-Datei für SchILD-NRW herunterladen.](https://wiki.svws.nrw.de/mediawiki/index.php) Diese Datei muss vor der Benutzung noch entpackt werden. [Die benötigte Datei können Sie hier als ZIP-Datei für SchILDzentral herunterladen.](https://wiki.svws.nrw.de/mediawiki/index.php)
+Alternativ zur Eingabe des Codes können Sie auch einen SQL-Filter "Aus Datei laden". [SQL-Filter für SchILD-NRW herunterladen](/dateien/wiki/serienbrief-mahnung-gefaehrdete-versetzung-filter-ii-211e3c93.zip) Diese Datei muss vor der Benutzung noch entpackt werden. [SQL-Filter für SchILDzentral herunterladen](/dateien/wiki/serienbrief-mahnung-gefaehrdete-versetzung-filter-ii-schildzentral-5642ca5b.zip)
 
 Passen Sie die Jahrgänge im Codeabschnitt `AND Schueler.ASDJahrgang IN ('06','07','08','09','10','EF')` entsprechend ihrer Schulform an.
 
@@ -120,7 +120,7 @@ Lassen Sie die zwei Auswahlfelder aktiviert. Es ist nun notwendig, auf die Schal
 
 ### Übersichtslisten drucken
 
-Sie finden in der Basis-Reportsammlung eine Übersichtsliste "Schülerliste Gemahnte Schüler.rtm" für die Schulleitung bzw. die Koordinatoren und eine Übersichtsliste "Klassenliste Gemahnte Schüler @KL.rtm" für die Klassenleitungen. Diese können Sie optional ebenfalls drucken. Insbesondere im 2. Halbjahr ist es sinnvoll, hierzu eine Übersicht zu drucken, welche alle Mahnungen des Schuljahres enthält. Hierzu können Sie entweder den Filter II abermals einsetzen und folgende angepassten SQL-Befehle nutzen:
+Sie finden in der Basis-Reportsammlung eine Übersichtsliste "Schülerliste Gemahnte Schüler.rtm" für die Schulleitung beziehungsweise die Koordinatoren und eine Übersichtsliste "Klassenliste Gemahnte Schüler @KL.rtm" für die Klassenleitungen. Diese können Sie optional ebenfalls drucken. Insbesondere im 2. Halbjahr ist es sinnvoll, hierzu eine Übersicht zu drucken, welche alle Mahnungen des Schuljahres enthält. Hierzu können Sie entweder den Filter II abermals einsetzen und folgende angepassten SQL-Befehle nutzen:
 
 **SchILD-NRW**
 
@@ -179,7 +179,7 @@ Alternativ können Sie den Gruppenprozess abermals starten und das erste Auswahl
 
 ## Verwendung des Serienbriefs "Serienbrief Mahnung gefährdete Versetzung @Eltern.rtf"
 
-Dieser Serienbrief muss über den Gruppenprozess ➜ Noten, Zeugnisvorbereitung ➜ Mahnungen drucken aufgerufen werden. Der Gruppenprozess übernimmt die Filterung auf die passende Schülermenge und füllt die Pipeline "Mahnungen" des Reportexplorers. Der Report greift für den Ausdruck auf die Datenpipeline "Warnungen" zurück und funktioniert nur in Kombination mit dem Gruppenprozess. Bei diesem Serienbrief kommt es leider aufgrund eines fehlerhaften Filters im Gruppenprozess unter Umständen im 2. Halbjahr dazu, dass Mahnungen für Schülerinnen und Schüler gedruckt werden, die keine weitere Mahnung im 2. Halbjahr erhalten haben. Diese fehlerhaften Briefe müssen manuell aussortiert werden. Das benötigte Mahnschreiben heißt "Serienbrief Mahnung gefährdete Versetzung @Eltern.rtm" und befindet sich in der Basis-Reportsammlung, welche Sie hier herunterladen können: <https://www.svws.nrw.de/download/schild-reports/basis-reportsammlung>
+Dieser Serienbrief muss über den Gruppenprozess ➜ Noten, Zeugnisvorbereitung ➜ Mahnungen drucken aufgerufen werden. Der Gruppenprozess übernimmt die Filterung auf die passende Schülergruppe und füllt die Pipeline "Mahnungen" des Reportexplorers. Der Report greift für den Ausdruck auf die Datenpipeline "Warnungen" zurück und funktioniert nur in Kombination mit dem Gruppenprozess. Bei diesem Serienbrief kommt es leider aufgrund eines fehlerhaften Filters im Gruppenprozess unter Umständen im 2. Halbjahr dazu, dass Mahnungen für Schülerinnen und Schüler gedruckt werden, die keine weitere Mahnung im 2. Halbjahr erhalten haben. Diese fehlerhaften Briefe müssen manuell aussortiert werden. Das benötigte Mahnschreiben heißt "Serienbrief Mahnung gefährdete Versetzung @Eltern.rtm" und befindet sich in der Basis-Reportsammlung, welche Sie hier herunterladen können: <https://www.svws.nrw.de/download/schild-reports/basis-reportsammlung>
 
 <a id="Schüler_mit_Hilfe_des_Gruppenprozesses_filtern"></a>
 <a id="Sch.C3.BCler_mit_Hilfe_des_Gruppenprozesses_filtern"></a>
@@ -211,7 +211,7 @@ Hinweis: Sie können zu jedem Zeitpunkt den Gruppenprozess abbrechen und zu eine
 
 ### Übersichtslisten drucken
 
-Sie finden in der Basis-Reportsammlung eine Übersichtsliste "Schülerliste Gemahnte Schüler.rtm" für die Schulleitung bzw. die Koordinatoren und eine Übersichtsliste "Klassenliste Gemahnte Schüler @KL.rtm" für die Klassenleitungen. Diese können Sie optional ebenfalls drucken, indem Sie den Gruppenprozess abermals starten. Für diese Reports sollte ebenfalls das erste Auswahlfeld "Nur Mahnungen ausgeben, bei denen das Mahndatum noch nicht gesetzt ist" deaktiviert werden. Auf diese Weise erhalten Sie eine Übersicht aller gemahnten Fächer des 1. und 2. Halbjahres.
+Sie finden in der Basis-Reportsammlung eine Übersichtsliste "Schülerliste Gemahnte Schüler.rtm" für die Schulleitung beziehungsweise die Koordinatoren und eine Übersichtsliste "Klassenliste Gemahnte Schüler @KL.rtm" für die Klassenleitungen. Diese können Sie optional ebenfalls drucken, indem Sie den Gruppenprozess abermals starten. Für diese Reports sollte ebenfalls das erste Auswahlfeld "Nur Mahnungen ausgeben, bei denen das Mahndatum noch nicht gesetzt ist" deaktiviert werden. Auf diese Weise erhalten Sie eine Übersicht aller gemahnten Fächer des 1. und 2. Halbjahres.
 
 <a id="Mahnungen_beim_Versetzungsprozess"></a>
 

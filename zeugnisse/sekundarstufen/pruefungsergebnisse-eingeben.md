@@ -6,27 +6,27 @@ title: "Abiturprüfungsergebnisse eingeben"
 
 # Abiturprüfungsergebnisse eingeben
 
-Dieser Gruppenprozess ermöglicht eine komfortable Eingabe der Prüfungsergebnisse.
+Hier erfassen Sie die Ergebnisse der Abiturprüfungen für die ausgewählte Gruppe. Diese Eingaben werden in den folgenden Schritten für weitere Prüfungsentscheidungen und das Gesamtergebnis verwendet.
 
 Sobald Prüfungsergebnisse aus den Abiturprüfungen vorliegen, sollte man diesen Gruppenprozess nutzen, um sie in die Datenbank einzutragen. Startet man den Gruppenprozess (in der Auswahl die aktuellen Abiturienten), so öffnet sich das Fenster "Ergebnisse der Abiturprüfungen gruppenweise eingeben".
 
-Dort sollte man zuerst die Schaltfläche "Daten holen" anklicken, um die Schülerdaten zu laden. Dann kann man sich entscheiden, ob man Noten oder Punkte eintragen möchte.
+Dort sollte man zuerst die Schaltfläche "Daten holen" anklicken, um die Schülerdaten zu laden. Dann können Sie sich entscheiden, ob man Noten oder Punkte eintragen möchte.
 
 Es stehen mehrere Sortierungs- und Filtermöglichkeiten zur Verfügung, die einem die Eingabe erleichtern sollen.
 
-Sortieren kann man nach:
+Sortieren können Sie nach:
 
 - Fach, Kursart, Name (zu einem Fach werden alle Schüler aufgelistet)
 - Name, Kursart, Fach (zu einem Schüler werden alle seine Fächer aufgelistet)
 
-Filtern kann man auf:
+Filtern können Sie auf:
 
 - das 1. und 2. Abiturfach
 - das 3. Abiturfach
 - das 4. Abiturfach
 - auf einen speziellen Kurs
 
-Die Eingabe der Ergebnisse erfolgt dann durch Eintragung der Note (bzw. der Punkte) in die Tabelle in die Spalte "Punkte im Abitur".
+Die Eingabe der Ergebnisse erfolgt dann durch Eintragung der Note (beziehungsweise der Punkte) in die Tabelle in die Spalte "Punkte im Abitur".
 
 ![GP-Pruefungsergebnisse](/bilder/zeugnisse/sekundarstufen/gp-pruefungsergebnisse.jpg)
 

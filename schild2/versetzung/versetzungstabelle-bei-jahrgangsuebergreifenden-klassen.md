@@ -6,7 +6,7 @@ title: "Versetzung jahrgangsübergreifender Klassen"
 
 # Versetzung jahrgangsübergreifender Klassen
 
-In Schulen, die teilweise oder durchgehend mit jahrgangsübergreifenden Klassen arbeiten (was häufig an Förderschulden der Fall ist), ist die Versetzungstabelle folgendermaßen anzulegen:
+In Schulen, die teilweise oder durchgehend mit jahrgangsübergreifenden Klassen arbeiten (was häufig an Förderschulen der Fall ist), ist die Versetzungstabelle folgendermaßen anzulegen:
 
 ![Versetzungstabelle-Jahrgangsuebergreifend](/bilder/schild2/versetzung/versetzungstabelle-jahrgangsuebergreifend.jpg)
 
@@ -32,7 +32,7 @@ Die **Klassenart** ist normalerweise "Regelklasse".
 
 **Hinweise:**
 
-Durch diese Art des Anlegens verbleiben die Schülerinnen und Schüler auch beim Hochsetzen des Schuljahres und bei eingetragenem Versetungsvermerk ("versetzt") in der Klasse. Eventuelle Klassenwechsler müssen händisch, ggf. über einen Gruppenprozess, umgesetzt werden.
+Durch diese Art des Anlegens verbleiben die Schülerinnen und Schüler auch beim Hochsetzen des Schuljahres und bei eingetragenem Versetungsvermerk ("versetzt") in der Klasse. Eventuelle Klassenwechsler müssen händisch, gegebenenfalls über einen Gruppenprozess, umgesetzt werden.
 
 Da der Klasse kein Statistik-Jahrgang zugewiesen ist, ist es wichtig, bei jedem Schüler in den Individualdaten den korrekten Statistik-Jahrgang eingetragen zu haben. Dieser erhöht sich beim Hochsetzen des Schuljahres.
 

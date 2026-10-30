@@ -13,8 +13,8 @@ Dieses Tutorial erläutert zum einen, welche Vorbereitungen für den Zeugnisdruc
 1.  Als Erstes müssen natürlich die Noten, Fehlzeiten und Bemerkungen der Schüler für das aktuelle Halbjahr eingetragen werden. Dies kann über das [Externe Notenmodul](/zeugnisse/vorbereitung/externes-notenmodul) erfolgen oder über die Nutzung des entsprechenden [Gruppenprozesses](/zeugnisse/vorbereitung/noten-mahnungen-und-fehlstunden-eingeben). Das Notenmodul hat den Vorteil, dass für jede Lehrkraft eine Noten-Datei erstellt werden kann, die dann außerhalb von Schild-NRW bearbeitet werden kann. So ist es für jede Lehrkraft möglich, für die von ihr unterrichteten Schüler die Noten, Fehlstunden und Bemerkungen einzutragen. Diese Notendateien werden dann wieder eingelesen und die Noten, Fehlstunden und Bemerkungen sind in der Datenbank enthalten.
 2.  Bei Schülern, die den aktuellen Abschnitt wiederholen, sollte man eventuell kontrollieren, ob unter 'akt. Halbjahr' die Häkchen für den gewerteten Abschnitt / 2. Durchgang, auch für die zurückliegenden Abschnitte, richtig gesetzt sind.
 3.  Erfolgte die Eingabe der Noten über das externe Notenmodul, sollte man als nächsten Schritt die Gruppenprozesse "[Fächer ohne Noten suchen](/zeugnisse/vorbereitung/faecher-ohne-noten-suchen)" und "[Fehlstundensummen automatisch berechnen](/zeugnisse/vorbereitung/fehlstunden-summen-automatisch-berechnen)" starten, um die Vollständigkeit der Eingaben zu prüfen und die Aufsummierung der Fehlstunden automatisch durchführen zu lassen.
-4.  Über den Gruppenprozess "[Konferenz- und Zeugnisdatum setzen](/zeugnisse/vorbereitung/konferenz-zeugnis-datum-setzen)" können nun für die gefilterte Schülermenge die jeweiligen Daten gesetzt werden.
-5.  Bei Versetzungszeugnissen kann man nun den Gruppenprozess [Versetzung und Abschlüsse berechnen](/schild2/versetzung/versetzungs-abschluss-berechnung) aufrufen, der die Versetzungsberechnungen durchführt. Die Ergebnisse sollte man abschließend noch mit den Entscheidungen der Versetzungskonferenz abgleichen.\
+4.  Über den Gruppenprozess "[Konferenz- und Zeugnisdatum setzen](/zeugnisse/vorbereitung/konferenz-zeugnis-datum-setzen)" können nun für die gefilterte Schülergruppe die jeweiligen Daten gesetzt werden.
+5.  Bei Versetzungszeugnissen können Sie nun den Gruppenprozess [Versetzung und Abschlüsse berechnen](/schild2/versetzung/versetzungs-abschluss-berechnung) aufrufen, der die Versetzungsberechnungen durchführt. Die Ergebnisse sollte man abschließend noch mit den Entscheidungen der Versetzungskonferenz abgleichen.\
     Bei Halbjahreszeugnissen ist es an dieser Stelle nicht nötig, diesen Gruppenprozess aufzurufen.
 6.  Damit sind die Vorbereitungen für den normalen Zeugnisdruck abgeschlossen.
 
@@ -40,14 +40,14 @@ Sind die Zeugnisvorbereitungen abgeschlossen, kann der Druck der Zeugnisse durch
     Startet man diesen Prozess, öffnet sich das Fenster "Gruppenweise Zeugnisausgabe".\
     ![ZeugnisdruckTut01](/bilder/zeugnisse/vorbereitung/zeugnisdrucktut01.jpg)\
 
-    Nun kann man auf bestimmte Gruppen filtern und dann einzelne oder alle vordefinierten Druckvarianten zum Druck auswählen. Durch Klicken auf den Button "Ausgabe starten" wird der Druckprozess in Gang gesetzt. Es folgen weitere Auswahlmöglichkeiten und evtl. zeugnisspezifische Abfragen. Danach beginnt der Druck.
+    Nun können Sie auf bestimmte Gruppen filtern und dann einzelne oder alle vordefinierten Druckvarianten zum Druck auswählen. Durch Klicken auf den Button "Ausgabe starten" wird der Druckprozess in Gang gesetzt. Es folgen weitere Auswahlmöglichkeiten und gegebenenfalls zeugnisspezifische Abfragen. Danach beginnt der Druck.
 2.  Druck über die [Druckfunktionen und Reportausgabe](/reporting/verwaltung/druckausgabe):\
-    Um über die Druckausgabe die Zeugnisse zu drucken, muss sich im [Schülerliste und Auswahl](/einstieg/grundlagen/container) die entsprechende Schülermenge befinden.\
-    Unter "[Druckfunktionen und Reportausgabe](/reporting/verwaltung/druckausgabe)" kann man nun den "[Report-Explorer aufrufen](/reporting/verwaltung/reportexplorer-aufrufen)".\
-    In der angezeigten Ordnerstruktur wählt man den passenden Lernabschnitt und das passende Zeugnisformular durch Doppelklick aus.\
+    Um über die Druckausgabe die Zeugnisse zu drucken, muss sich im [Schülerliste und Auswahl](/einstieg/grundlagen/container) die entsprechende Schülergruppe befinden.\
+    Unter "[Druckfunktionen und Reportausgabe](/reporting/verwaltung/druckausgabe)" können Sie nun den "[Report-Explorer aufrufen](/reporting/verwaltung/reportexplorer-aufrufen)".\
+    In der angezeigten Ordnerstruktur wählen Sie den passenden Lernabschnitt und das passende Zeugnisformular durch Doppelklick aus.\
     ![ZeugnisdruckTut02](/bilder/zeugnisse/vorbereitung/zeugnisdrucktut02.jpg)\
 
-    Es folgen weitere Auswahlmöglichkeiten und evtl. zeugnisspezifische Abfragen. Danach beginnt der Druck.
+    Es folgen weitere Auswahlmöglichkeiten und gegebenenfalls zeugnisspezifische Abfragen. Danach beginnt der Druck.
 
 **Zeugnisdruck der Abgangs- oder Abschlusszeugnisse:**
 
@@ -56,14 +56,14 @@ Sind die Zeugnisvorbereitungen abgeschlossen, kann der Druck der Zeugnisse durch
     Startet man den Prozess, öffnet sich das Fenster "Angaben zur Ausschulung festlegen und Zeugnisse drucken".\
     ![ZeugnisdruckTut03](/bilder/zeugnisse/vorbereitung/zeugnisdrucktut03.jpg)\
 
-    Hier muss man Angaben zum Status der Schüler, zum Entlassdatum, zum Entlassgrund und der Art des Abschlusses vornehmen. Danach aktiviert man den Schalter "Zeugnisse drucken". Es öffnet sich der [Report-Explorer](/reporting/verwaltung/reportexplorer-aufrufen) und man kann das gewünschte Zeugnisformular auswählen. Es folgen weitere Auswahlmöglichkeiten und evtl. zeugnisspezifische Abfragen. Danach beginnt der Druck. Zum Abschluss muss im Fenster "Angaben zur Ausschulung festlegen und Zeugnisse drucken" noch die Schaltfläche "Fertigstellen" betätigt werden, um den Vorgang abzuschließen.
+    Hier müssen Sie Angaben zum Status der Schüler, zum Entlassdatum, zum Entlassgrund und der Art des Abschlusses vornehmen. Danach aktiviert man den Schalter "Zeugnisse drucken". Es öffnet sich der [Report-Explorer](/reporting/verwaltung/reportexplorer-aufrufen) und man kann das gewünschte Zeugnisformular auswählen. Es folgen weitere Auswahlmöglichkeiten und gegebenenfalls zeugnisspezifische Abfragen. Danach beginnt der Druck. Zum Abschluss muss im Fenster "Angaben zur Ausschulung festlegen und Zeugnisse drucken" noch die Schaltfläche "Fertigstellen" betätigt werden, um den Vorgang abzuschließen.
 2.  Druck über die [Druckfunktionen und Reportausgabe](/reporting/verwaltung/druckausgabe):\
-    Um über die Druckausgabe die Zeugnisse zu drucken, muss sich im [Schülerliste und Auswahl](/einstieg/grundlagen/container) die entsprechende Schülermenge befinden.\
-    Unter "[Druckfunktionen und Reportausgabe](/reporting/verwaltung/druckausgabe)" kann man nun den "[Report-Explorer aufrufen](/reporting/verwaltung/reportexplorer-aufrufen)".\
-    In der angezeigten Ordnerstruktur wählt man den passenden Lernabschnitt und das passende Zeugnisformular durch Doppelklick aus.\
+    Um über die Druckausgabe die Zeugnisse zu drucken, muss sich im [Schülerliste und Auswahl](/einstieg/grundlagen/container) die entsprechende Schülergruppe befinden.\
+    Unter "[Druckfunktionen und Reportausgabe](/reporting/verwaltung/druckausgabe)" können Sie nun den "[Report-Explorer aufrufen](/reporting/verwaltung/reportexplorer-aufrufen)".\
+    In der angezeigten Ordnerstruktur wählen Sie den passenden Lernabschnitt und das passende Zeugnisformular durch Doppelklick aus.\
     ![ZeugnisdruckTut04](/bilder/zeugnisse/vorbereitung/zeugnisdrucktut04.jpg)\
 
-    Es folgen weitere Auswahlmöglichkeiten und evtl. zeugnisspezifische Abfragen. Danach beginnt der Druck.
+    Es folgen weitere Auswahlmöglichkeiten und gegebenenfalls zeugnisspezifische Abfragen. Danach beginnt der Druck.
 
 ------------------------------------------------------------------------
 

@@ -4,9 +4,9 @@ title: "Ortsteile"
 
 # Ortsteile
 
-![Ortsteile](/bilder/schild2/unterricht-kataloge/ortsteile.jpg)
+Mit Ortsteilen unterscheiden Sie Wohnbereiche innerhalb einer Gemeinde, auch wenn diese dieselbe Postleitzahl haben. Die Einträge ergänzen die Ortsangaben der Schüleradressen.
 
-Für 'Landgemeinden' eine sicher gute Orientierungshilfe bietet die Möglichkeit, Ortsteile angeben zu können. Oftmals sind unter einer Postleitzahl verschiedene Ortsteile einer Kommune zusammengefasst.
+![Ortsteile](/bilder/schild2/unterricht-kataloge/ortsteile.jpg)
 
 Durch Eingabe der Ortsteile kann nun auch gezielt danach gefiltert werden, was für Anfragen des Schulträgers häufig sinnvoll ist.
 

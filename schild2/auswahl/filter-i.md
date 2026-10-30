@@ -4,37 +4,40 @@ title: "Filter I"
 
 # Filter I
 
+Mit **Filter I** stellen Sie eine Schülerauswahl aus mehreren Bedingungen zusammen. Sie können zum Beispiel nach persönlichen Angaben, besuchten Schulen und Leistungsdaten suchen. Die gefundenen Personen stehen anschließend in der Schülerliste für weitere Arbeiten oder Ausdrucke bereit.
+
+## Bedingungen festlegen
+
 ![FilterI01](/bilder/schild2/auswahl/filteri01.jpg)
 
-Eine erweiterte Selektionsmöglichkeit für Schülermengen bietet der Filter I.
+Wählen Sie die Bedingungen in den Listenfeldern aus oder geben Sie die gesuchten Werte ein. Die Felder sind nach Bereichen gegliedert:
 
-Die Filterbedingungen lassen sich durch manuelle Eingaben sowie durch die Auswahl von vorgegebenen Listenfeldern schnell zusammenstellen.
+- **Individualdaten I:** unter anderem Status, Geschlecht, Staatsangehörigkeit, Aufnahmedatum, Klassenart und Prüfungsordnung.
+- **Individualdaten II:** Migrationshintergrund, Grundschuldaten, Angaben zur Sekundarstufe I und sonderpädagogische Förderung.
+- **Weitere Daten:** Erziehungsberechtigte, Vermerke und Schulbesuch, etwa die zuletzt besuchte oder aufnehmende Schule.
+- **Leistungsdaten:** unter anderem Schuljahr, Jahrgang, Klasse, Klassenleitung, Abschlussart und Versetzungsvermerke.
 
-Es ist eine Filterung über die Listenfelder der Individualdaten I und II, einigen weiteren Daten sowie über den Bereich der Leistungsdaten standardmäßig mit UND-Verknüpfungen, bei einigen Feldern auch mit ODER- Verknüpfungen möglich.
+## UND und ODER unterscheiden
 
-Bei den Listenfeldern der 'Individualdaten I' kann man vom Status über das Geschlecht, die Staatsangehörigkeit, das Aufnahmedatum, die Klassenart bis hin zur Prüfungsordnung diverse Filterbedingungen einstellen.
-
-Unter 'Individualdaten II' stehen Filtermöglichkeiten zum Migrationshintergrund, zum Grundschulbereich, zur Sekundarstufe I und zur sonderpädagogischne Förderung bereit.
-
-Die 'weiteren Daten' stellen Auswahlfilter zu den Erziehungsberechtigten und zu Vermerken zur Verfügung. Dort kann ebenfalls nach den Schulbesuchsdaten (zuletzt besuchte Schule, Entlassung von eigener Schule, Wechsel zu aufnehmender Schule) gefiltert werden.
-
-Im Bereich der 'Leistungsdaten' kann man neben anderen z. B. über das Schuljahr, den Jahrgang oder die Klasse, den Klassenlehrer, die Abschlussart und Versetzungsvermerke filtern.
+Die Bedingungen werden überwiegend mit **UND** verknüpft: Eine Person muss dann alle gewählten Bedingungen erfüllen. Bei einer **ODER**-Verknüpfung genügt eine der zusammengefassten Bedingungen. Welche Verknüpfung verwendet wird, hängt vom Feld und der Auswahl ab.
 
 ![FilterI02](/bilder/schild2/auswahl/filteri02.jpg)
 
-*Hinweise:*
+Wenn neben einem Feld ein roter Pfeil steht, können Sie mehrere Einträge übernehmen. Wählen Sie einen Eintrag aus und klicken Sie auf den roten Pfeil. Wiederholen Sie dies für die weiteren Einträge.
 
-Wenn ein roter Pfeil wie in der Abbildung links zu sehen ist, kann man eine Mehrfachauswahl treffen. Nach jedem Auswählen eines Eintrags klickt man auf den roten Pfeil und die Auswahl wird übernommen.
+## Eine Bedingung ausschließen
 
-Um eine einzelne Bedingung zu negieren, führt man einen Doppelclick auf die entsprechende Bedingung aus. Diese wird dann **fett** und *kursiv* dargestellt.
+Doppelklicken Sie auf eine Bedingung, um sie auszuschließen. Das Programm stellt diese Bedingung **fett** und *kursiv* dar. Fachsprachlich heißt das „negieren“.
 
 ![FilterI03](/bilder/schild2/auswahl/filteri03.jpg)
 
-Die Abbildung rechts zeigt zum Beispiel die Filterung nach Jahrgang 8, ohne die Klasse 8b.
+Die Abbildung zeigt eine Auswahl aus Jahrgang 8, bei der die Klasse 8b ausgeschlossen ist.
 
-Den neu zusammengestellten Filter kann man nun testen, übernehmen und gegebenenfalls zur späteren Wiederanwendung speichern. Das Vorgehen ist dasselbe wie beim [Attributsfilter](/schild2/auswahl/attributsfilter).
+## Ergebnis prüfen und übernehmen
 
-------------------------------------------------------------------------
+Testen Sie den zusammengestellten Filter, bevor Sie ihn übernehmen. Kontrollieren Sie die gefundene Schülergruppe. Anschließend können Sie den Filter übernehmen und für eine spätere Verwendung speichern. Die Schaltflächen arbeiten wie beim [Attributsfilter](/schild2/auswahl/attributsfilter?rubrik=schild2).
+
+Die Anleitung [Schüler mit Filter I auswählen](/schild2/auswahl/benutzung-von-filter-i-001?rubrik=schild2) führt diese Schritte an drei Beispielen von einer einfachen Auswahl bis zu einer Kombination mehrerer Datenbereiche durch.
 
 ---
 

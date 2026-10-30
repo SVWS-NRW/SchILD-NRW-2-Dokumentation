@@ -4,7 +4,7 @@ title: "Fächer ohne Noten suchen"
 
 # Fächer ohne Noten suchen
 
-Dieser Gruppenprozess sucht in der ausgewählten Schülermenge im aktuellen Abschnitt nach Fächern ohne Noteneintrag. Wurden die Noten von Hand eingegeben oder mithilfe des externen Notenmoduls eingelesen, sollte man vor dem Zeugnisdruck diesen Gruppenprozess starten um die Vollständigkeit der Noteneinträge zu prüfen. Im sich öffnenden Fenster wird noch abgefragt, ob nur die "zeugnisrelevanten" oder alle Fächer überprüft werden sollen.
+Dieser Gruppenprozess sucht in der ausgewählten Schülergruppe im aktuellen Abschnitt nach Fächern ohne Noteneintrag. Wurden die Noten von Hand eingegeben oder mithilfe des externen Notenmoduls eingelesen, sollte man vor dem Zeugnisdruck diesen Gruppenprozess starten um die Vollständigkeit der Noteneinträge zu prüfen. Im sich öffnenden Fenster wird noch abgefragt, ob nur die "zeugnisrelevanten" oder alle Fächer überprüft werden sollen.
 
 ![GP-FaecherohneNoten](/bilder/zeugnisse/vorbereitung/gp-faecherohnenoten.jpg)
 

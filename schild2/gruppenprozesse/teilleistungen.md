@@ -14,7 +14,7 @@ Diese Prozesse können wie folgt eingesetzt werden:
 
 ## Teilleistungen aus Vorlage zuweisen
 
-Mit diesem Prozess werden alle Teilleistungsarten, die unter [Unterrichtsfächer](/schild2/unterricht-kataloge/unterrichtsfaecher) angelegt wurden, bei den Fächern angelegt. Die zuständigen Kollegen sehen dann dort die vorhandenen Einträge und müssen Datum und Note (ggf. Bemerkung) ergänzen.
+Mit diesem Prozess werden alle Teilleistungsarten, die unter [Unterrichtsfächer](/schild2/unterricht-kataloge/unterrichtsfaecher) angelegt wurden, bei den Fächern angelegt. Die zuständigen Kollegen sehen dann dort die vorhandenen Einträge und müssen Datum und Note (gegebenenfalls Bemerkung) ergänzen.
 
 Diese Vorgehensweise wird notwendig sein, wenn Teilleistungen in externe Programme (SchildWeb, Notenmodul) exportiert und wieder importiert werden sollen.
 
@@ -42,7 +42,7 @@ Dieser Prozess steht allen Kollegen mit der Berechtigung Leistungsdaten (funktio
 
 ![NE-Teilleistung-vorbereitet](/bilder/schild2/gruppenprozesse/ne-teilleistung-vorbereitet.jpg)
 
-Nach Filterung des Jahrgangs und ggf. des Kurses kann der eingebende Lehrer diesen Gruppenprozess aufrufen. Fach und Teilleistungsart müssen über das "Dropdown-Menü" ausgewählt werden. Um eine Ansicht der Daten zu erhalten, muss der Button "Aktualisieren" gedrückt werden. Das Datum kann, wenn gewünscht, gesammelt übernommen werden.
+Nach Filterung des Jahrgangs und gegebenenfalls des Kurses kann der eingebende Lehrer diesen Gruppenprozess aufrufen. Fach und Teilleistungsart müssen über das "Dropdown-Menü" ausgewählt werden. Um eine Ansicht der Daten zu erhalten, muss der Button "Aktualisieren" gedrückt werden. Das Datum kann, wenn gewünscht, gesammelt übernommen werden.
 
 Alle Teilleistungen dieser Schülergruppe können dann eingegeben werden.
 

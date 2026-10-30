@@ -6,9 +6,9 @@ title: "Gruppenprozesse für Fächer"
 
 # Gruppenprozesse für Fächer
 
-![GP-Fächer](/bilder/schild2/gruppenprozesse/gp-facher.jpg)
+Hier finden Sie Gruppenprozesse zum Zuweisen und Bearbeiten von Unterrichtsfächern. Beginnen Sie mit dem Hinzufügen oder Zuweisen von Fächern; Sortier-, Korrektur- und Löschfunktionen folgen danach.
 
-Unter dem Karteireiter "Fächer" verbergen sich folgende Gruppenprozesse.
+![GP-Fächer](/bilder/schild2/gruppenprozesse/gp-facher.jpg)
 
 Bitte klicken Sie die Artikel an, um Informationen zu den dahinter liegenden Sammelaktionen zu bekommen.
 

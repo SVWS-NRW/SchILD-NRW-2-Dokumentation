@@ -6,12 +6,13 @@ title: "GeR-Niveaus erfassen"
 
 # GeR-Niveaus erfassen
 
+GeR bedeutet **Gemeinsamer europäischer Referenzrahmen für Sprachen**. Seine Niveaustufen beschreiben Sprachkenntnisse. Diese Anleitung erläutert die Eintragung in Verbindung mit der Sprachenfolge und die Verwendung in Abschlusszeugnissen.
 
 Die Vergabe des GeR-Niveaus hängt unmittelbar mit dem korrekten Eintrag der Sprachenfolge auf der Karteikarte „Laufbahninfo“ zusammen. Neben der Sprachenfolge ist das GeR-Niveau auf jedem Abschlusszeugnis zu dokumentieren. Es wird nicht für die Sprachen Lateinisch, Hebräisch und Altgriechisch vergeben, sondern nur für die „modernen“ Fremdsprachen. Es gibt zwei Möglichkeiten der Erfassung des GeR:
 
 **1. Individuelle Erfassung bei jedem Schüler auf der Karteikarte „Laufbahninfo“.**
 
-Diese Methode wird dann verwendet, wenn z.B. Seiteneinsteiger die Schule verlassen und man zu diesen Seiteneinsteigern nicht alle Leistungshalbjahre (und damit Sprachen und deren Noten) in SchILD-NRW erfasst hat. Dies tritt insbesondere dann auf, wenn z.B. Realschüler nach der Klasse 10 das Gymnasium besuchen und eine in der Sek.I begonnene Fremdsprache in der Oberstufe nicht fortführen.
+Diese Methode wird dann verwendet, wenn zum Beispiel Seiteneinsteiger die Schule verlassen und man zu diesen Seiteneinsteigern nicht alle Leistungshalbjahre (und damit Sprachen und deren Noten) in SchILD-NRW erfasst hat. Dies tritt insbesondere dann auf, wenn zum Beispiel Realschüler nach der Klasse 10 das Gymnasium besuchen und eine in der Sek.I begonnene Fremdsprache in der Oberstufe nicht fortführen.
 
 Zunächst sind die Sprachenfolgen korrekt einzutragen (siehe hierzu auch die Informationen zu "Eintrag der Sprachenfolge").
 

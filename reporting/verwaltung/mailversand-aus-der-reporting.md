@@ -10,7 +10,7 @@ title: "Reports per E-Mail versenden"
 
 ## Versenden einer Reportvorlage
 
-Wenn Sie eine Reportvorlage (RTM-Datei) mit jemanden austauschen wollen, dann können Sie diese Vorlage direkt aus dem Reportexplorer versenden. Vorraussetzung ist es, dass der Mailversand in den Programm-Einstellungen eingerichtet ist.
+Wenn Sie eine Reportvorlage (RTM-Datei) mit jemanden austauschen wollen, dann können Sie diese Vorlage direkt aus dem Reportexplorer versenden. Voraussetzung ist es, dass der Mailversand in den Programm-Einstellungen eingerichtet ist.
 
 Klicken Sie mit der rechten Maustaste auf den Report, den Sie versenden wollen und wählen Sie die unten abgebildete Option.
 
@@ -39,7 +39,7 @@ Es erscheint nun die Schild-Mail-Funktion oder das Standard-E-Mail-Programm mit 
 
 Diese Funktion bietet die Möglichkeit Serienbriefe an verschiedene Empfänger zu senden. Je nach Datenquelle des Reports werden dann die E-Mail-Adresse verwendet.
 
-So ist es z.B. möglich personalisierte Briefe an Erzieher zu senden. Auch kann man damit Klassenliste an die Klassenlehrer versenden.
+So ist es zum Beispiel möglich personalisierte Briefe an Erzieher zu senden. Auch können Sie damit Klassenliste an die Klassenlehrer versenden.
 
 ![PDF-Mailversand03](/bilder/reporting/verwaltung/pdf-mailversand03.png)
 

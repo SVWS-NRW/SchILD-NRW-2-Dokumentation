@@ -26,15 +26,15 @@ Lehrer, die auf "unsichtbar" geschaltet sind, sind in der Übersichtstabelle gra
 
 ![Lehrer_02](/bilder/schild2/lehrkraefte/lehrer-02.jpg)
 
-Auf diesem Karteireiter werden die Stammdaten der Lehrer verwaltet. Die Felder mit der farbigen Schrift werden dazu genutzt, die Statistik zu beliefern. Der Haken bei "relevant für Statistik" steuert dabei, ob der Lehrerdatensatz in die Statistik-Datei geschrieben wird. Sie könnten so auch andere Personen mit verwalten, die in der Hauptstatistik aber nicht gemeldet werden müssen, weil es sich z.B. um Zusatzkräfte handelt, die über andere Träger finanziert werden.
+Auf diesem Karteireiter werden die Stammdaten der Lehrer verwaltet. Die Felder mit der farbigen Schrift werden dazu genutzt, die Statistik zu beliefern. Der Haken bei "relevant für Statistik" steuert dabei, ob der Lehrerdatensatz in die Statistik-Datei geschrieben wird. Sie könnten so auch andere Personen mit verwalten, die in der Hauptstatistik aber nicht gemeldet werden müssen, weil es sich zum Beispiel um Zusatzkräfte handelt, die über andere Träger finanziert werden.
 
-Wenn gewünscht, können Sie hier auch evtl. vorhandene Titel und Amtsbezeichnungen eingeben. Bei einigen Zeugnisformularen kann dies dann ausgewertet und korrekt gedruckt werden.
+Wenn gewünscht, können Sie hier auch gegebenenfalls vorhandene Titel und Amtsbezeichnungen eingeben. Bei einigen Zeugnisformularen kann dies dann ausgewertet und korrekt gedruckt werden.
 
 Angaben zu Telefonnummern, Adresse, E-Mail-Adressen sind wichtig, wenn Sie über Lehrerreports auch Listen für das Kollegium erstellen wollen.
 
 Wenn eine E-Mail-Adresse eingetragen ist, kann über die rechte Maustaste in der Übersichtstabelle auch ein Mailversand an einen oder mehrere Kollegen erfolgen. (Markieren Sie dazu mehrere Lehrer mit gedrückter STRG-Taste.)
 
-Das Feld "kann folgende Fächer unterrichten" ist ein frei definierbares Textfeld, auf das Sie in der Reporting zurückgreifen können. Damit ist es z.B. möglich, über einen Report die Kollegen nach Fächern zuzuordnen. In Schild-NRW sind mit diesem Feld jedoch z.Z. keine weiteren Funktionen verknüpft, so dass Sie sich die Eingabemethode selbst aussuchen können. Es wird empfohlen die Eingabe nach internem Fachkürzel und mit Komma getrennt vorzunehmen, da einige Reports aus der Downloadsammlung diese Notation erwarten. (Beispiel: "D,E,PH")
+Das Feld "kann folgende Fächer unterrichten" ist ein frei definierbares Textfeld, auf das Sie in der Reporting zurückgreifen können. Damit ist es zum Beispiel möglich, über einen Report die Kollegen nach Fächern zuzuordnen. In Schild-NRW sind mit diesem Feld jedoch z.Z. keine weiteren Funktionen verknüpft, so dass Sie sich die Eingabemethode selbst aussuchen können. Es wird empfohlen die Eingabe nach internem Fachkürzel und mit Komma getrennt vorzunehmen, da einige Reports aus der Downloadsammlung diese Notation erwarten. (Beispiel: "D,E,PH")
 
 Fotos von Lehrern können über den Kamera-Button eingebunden werden. Bitte beachten Sie dabei wie in allen anderen Stellen in Schild, wo Fotos eingebunden werden, dass die Bilder (möglichst im jpg-Format) vorher in eine sinnvolle Größe gebracht werden. Über den Button mit dem Radiergummi werden Fotos gelöscht. Der Button mit dem Pinsel öffnet ein Fenster mit drei Bearbeitungsmöglichkeiten. (Helligkeit, Kontrast und Drehung)
 

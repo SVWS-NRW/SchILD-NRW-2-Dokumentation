@@ -6,6 +6,8 @@ title: "PM2-Handbuch"
 
 # PM2-Handbuch
 
+Dieses Handbuch erschließt die Arbeit mit dem Prognosemodul PM2. Beginnen Sie mit Einführung und Installation, wählen Sie danach ein Analyseverfahren und lesen Sie anschließend die Hinweise zur Auswertung.
+
 <a id="Inhaltsangabe"></a>
 
 ## Inhaltsangabe

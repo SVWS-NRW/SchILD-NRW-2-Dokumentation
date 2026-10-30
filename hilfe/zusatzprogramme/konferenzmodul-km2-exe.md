@@ -40,7 +40,7 @@ Für die Installation und die ersten Schritte gibt es drei kurze Videoanleitunge
 - [Erste Schritte mit KM2](http://www.svws.nrw.de/uploads/media/videos/erste_schritte.swf)
 - [Fächerauswahl mit KM2](http://www.svws.nrw.de/uploads/media/videos/fachauswahl.swf)
 
-Bitte beachten Sie, dass sich die Anleitungen u.U. auf eine ältere Version beziehen können.
+Bitte beachten Sie, dass sich die Anleitungen unter Umständen auf eine ältere Version beziehen können.
 
 <a id="Installation"></a>
 
@@ -52,7 +52,7 @@ Bitte beachten Sie, dass sich die Anleitungen u.U. auf eine ältere Version bezi
 |----|
 | **→ Startseite → Downloads → [Schild Tools](https://www.svws.nrw.de/download/schild-tools)** |
 
-Nach dem Download des Installationspaketes starten Sie die Installation (z.B. durch einen Doppelklick auf die Datei **KM2-Setup.exe**).
+Nach dem Download des Installationspaketes starten Sie die Installation (zum Beispiel durch einen Doppelklick auf die Datei **KM2-Setup.exe**).
 
 Eine ausführliche Beschreibung des Installationsprozesses erhalten Sie → **hier**
 
@@ -68,7 +68,7 @@ Dieser Dialog besteht aus den beiden Registern „Allgemein" und „Administrati
 
 ![KM2ParameterRegister](/bilder/tools/km2/km2parameterregister.png)
 
-- Alle **sensiblen Einstellungen** (z.B. Passwort des Administrators, Datenbankverbindungsdaten, etc.) werden auf der Registerseite „**Administration**" vorgenommen und die vom Admin definierten SchILD-Verbindungsdaten für alle Benutzer, die das Programm **KM<sup>2</sup>** benutzen. Mit anderen Worten: Der *normale Benutzer* kann die SchILD-Verbindungsdaten nicht ändern.
+- Alle **sensiblen Einstellungen** (zum Beispiel Passwort des Administrators, Datenbankverbindungsdaten, etc.) werden auf der Registerseite „**Administration**" vorgenommen und die vom Admin definierten SchILD-Verbindungsdaten für alle Benutzer, die das Programm **KM<sup>2</sup>** benutzen. Mit anderen Worten: Der *normale Benutzer* kann die SchILD-Verbindungsdaten nicht ändern.
 - Alle anderen Parameter werden auf der Seite „Allgemein" vorgenommen und sind benutzerspezifisch.
 
 <a id="Administration"></a>
@@ -124,7 +124,7 @@ Bei der Installation des Programms (genauer beim ersten Aufruf von KM2) wird ein
 <!-- -->
 
 - Die Datei **KM2_Admin.INI** enthält die SchILD-Verbindungsdaten in verschlüsselter Form
-- Alle anderen Dateien enthalten die Benutzerdaten (z.B. enthält die Datei LEH_KM2.Ini die Konfigurationsparameter des (SchILD-)Benutzers LEH)
+- Alle anderen Dateien enthalten die Benutzerdaten (zum Beispiel enthält die Datei LEH_KM2.Ini die Konfigurationsparameter des (SchILD-)Benutzers LEH)
 
 <!-- -->
 

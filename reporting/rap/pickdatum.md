@@ -11,6 +11,8 @@ title: "PickDatum"
 
 ## Beschreibung
 
+Zeigt einen Dialog zur Datumsauswahl an. Das gewählte Datum wird als Text zurückgegeben.
+
 ```pascal
 function PickDatum(aCaption, aDate: String): String;
 ```
@@ -22,10 +24,9 @@ function PickDatum(aCaption, aDate: String): String;
 | `aCaption` | Überschrift des Dialoges |
 | `aDate` | Datumsvorgabe |
 
-
 ## Rückgabewert
 
-Datum als Zeichenkette, z.B. '31.12.2010'
+Datum als Zeichenkette, zum Beispiel '31.12.2010'
 
 ## Beispiel
 
@@ -36,7 +37,6 @@ Begin
  Pickdatum('Datum Konferenz',KDate);
 End;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

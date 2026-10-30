@@ -50,7 +50,7 @@ Bei der Arbeit mit dieser umfangreichen Anleitung kann es hilfreich sein, Links 
 
 Über diese Anleitung hinaus bestehen diverse weitere Supportangebote:
 
-- Das [SVWS-Forum](https://schulverwaltungsinfos.nrw.de/svws/forum/viewforum.php?f=22), um zu zu suchen, ob Ihre Frage oder das Problem schon beantwortet bzw. gelöst wurde. Hier können Sie auch neue Fragen stellen, die von Fachberatern beantwortet werden.
+- Das [SVWS-Forum](https://schulverwaltungsinfos.nrw.de/svws/forum/viewforum.php?f=22), um zu zu suchen, ob Ihre Frage oder das Problem schon beantwortet beziehungsweise gelöst wurde. Hier können Sie auch neue Fragen stellen, die von Fachberatern beantwortet werden.
 
 <!-- -->
 
@@ -62,7 +62,7 @@ Bei der Arbeit mit dieser umfangreichen Anleitung kann es hilfreich sein, Links 
 
 <!-- -->
 
-- Kontakte zu IT.NRW für Fragen zu ASDPC32 und Inhalten der Statistik bzw. zu technischem Support finden Sie im jährlichen Rundschreiben zur Haupterhebung von IT.NRW: ["Anschreiben zu ASDPC"](https://schulverwaltungsprogramme.msb.nrw.de/schulen/download.htm#D92). In diesem Anschreiben sind auch die Fachberater-Kontakte der Bezirksregierungen genannt, die für eventuelle Abgabetermine betreffende Anfragen zuständig sind.
+- Kontakte zu IT.NRW für Fragen zu ASDPC32 und Inhalten der Statistik beziehungsweise zu technischem Support finden Sie im jährlichen Rundschreiben zur Haupterhebung von IT.NRW: ["Anschreiben zu ASDPC"](https://schulverwaltungsprogramme.msb.nrw.de/schulen/download.htm#D92). In diesem Anschreiben sind auch die Fachberater-Kontakte der Bezirksregierungen genannt, die für eventuelle Abgabetermine betreffende Anfragen zuständig sind.
 
 <!-- -->
 
@@ -146,7 +146,7 @@ Bei der Arbeit mit dieser umfangreichen Anleitung kann es hilfreich sein, Links 
 
 ## Vorbereitung der Statistik
 
-[Vorbereitung der Statistik](/schild2/import-export-statistik/statistik-mit-asdpc-vorbereitung#Vorbereitung_der_Statistik) - In diesem Kapitel finden sich vorbereitende Arbeiten, z.B. zum Updaten von ASDPC, SchILD NRW, Export von Daten aus Schulverwaltungsprogrammen oder dem Besorgen der aktuellen Verfahrensanleitung, Schlüsseltabellen und Eintragungshilfen.
+[Vorbereitung der Statistik](/schild2/import-export-statistik/statistik-mit-asdpc-vorbereitung#Vorbereitung_der_Statistik) - In diesem Kapitel finden sich vorbereitende Arbeiten, zum Beispiel zum Updaten von ASDPC, SchILD NRW, Export von Daten aus Schulverwaltungsprogrammen oder dem Besorgen der aktuellen Verfahrensanleitung, Schlüsseltabellen und Eintragungshilfen.
 
 <a id="Sammeln_der_notwendigen_Ressourcen_und_Updates"></a>
 

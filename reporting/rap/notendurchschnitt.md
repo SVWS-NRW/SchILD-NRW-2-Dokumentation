@@ -11,12 +11,11 @@ title: "NotenDurchschnitt"
 
 ## Beschreibung
 
+var Beste, Schlechteste: Integer; var Schnitt: String);
+
 ```pascal
 procedure NotenDurchschnitt(const aSchuelerId, aJahr, aAbschnitt: Integer;
 ```
-
-
-var Beste, Schlechteste: Integer; var Schnitt: String);
 
 ## Parameter
 
@@ -25,7 +24,6 @@ var Beste, Schlechteste: Integer; var Schnitt: String);
 | `aSchuelerId` | Id-Nummer des Schülers |
 | `aJahr` | Schuljahr und |
 | `aAbschnitt` | Abschnitt des Schuljahres, für das der Schnitt berechnet wird. |
-
 
 ## Rückgabewert
 
@@ -47,7 +45,6 @@ begin
   Label3.Caption:=lSchnitt;
 end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

@@ -38,7 +38,7 @@ Multi_Klausurplanung_CNF ist ein in JAVA programmiertes Tool zur Berechnung von 
 
 Das Programm Multi_Klausurplanung_CNF berechnet eine Blockung mit Hilfe vom Benutzer definierter Regeln. Für die Berechnung wird die Blockung in ein mathematisches Gleichungssystem kodiert (genauer konjunktive Normalform, engl. \[C\]onjunctive \[N\]ormal \[F\]orm) und mit Hilfe eines SAT-Solvers gelöst (<https://github.com/msoos/cryptominisat/releases>). Das passiert im Hintergrund, der Benutzer muss nur den SAT-Solver zuvor herunter laden (cryptominisat5-win-amd64-nogauss.exe) und den Pfad im Programm hinterlegen.
 
-Das Programm Multi_Klausurplanung_CNF berechnet die Klausurpläne mehrerer Jahrgangsstufen parallel und in Beziehung zueinander, so dass z.B. in der gymnasialen Oberstufe alle drei Jahrgangsstufen in einer gemeinsamer Klausurplanung berechnet werden.
+Das Programm Multi_Klausurplanung_CNF berechnet die Klausurpläne mehrerer Jahrgangsstufen parallel und in Beziehung zueinander, so dass zum Beispiel in der gymnasialen Oberstufe alle drei Jahrgangsstufen in einer gemeinsamer Klausurplanung berechnet werden.
 
                        **[Multi_Klausurplanung_CNF: Hauptseite](/hilfe/zusatzprogramme/multi-klausurplanung-cnf-hauptseite)**\
 

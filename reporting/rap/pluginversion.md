@@ -11,12 +11,11 @@ title: "PluginVersion"
 
 ## Beschreibung
 
+Liefert die Version der Reporting.dll
+
 ```pascal
 function PluginVersion: string;
 ```
-
-
-Liefert die Version der Reporting.dll
 
 ## Beispiel
 
@@ -31,7 +30,6 @@ procedure ReportBeforePrint;
   end;
  end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

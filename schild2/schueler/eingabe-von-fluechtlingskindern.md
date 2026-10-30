@@ -13,9 +13,9 @@ In diesem Artikel wird beschrieben, wie Flüchtlingskinder in der Datenbank korr
 
 ## Einrichten einer neuen Klasse (nur bei vollständig äußerer Differenzierung)
 
-Es ist möglich, neu zugewanderte Schülerinnen und Schüler ausschließlich in eigenständigen Klassen in vollständig äußerer Differenzierung zu unterrichten. Die zugewanderten Schülerinnen und Schüler nehmen dann an keinem Unterricht der anderen Regelklassen teil, sondern bilden eine eigene Lerngruppe. Über die Bezeichnung dieser Lerngruppen entscheidet die Schule (z.B. Vorbereitungsklasse, Willkommensklasse, Internationale Klasse).
+Es ist möglich, neu zugewanderte Schülerinnen und Schüler ausschließlich in eigenständigen Klassen in vollständig äußerer Differenzierung zu unterrichten. Die zugewanderten Schülerinnen und Schüler nehmen dann an keinem Unterricht der anderen Regelklassen teil, sondern bilden eine eigene Lerngruppe. Über die Bezeichnung dieser Lerngruppen entscheidet die Schule (zum Beispiel Vorbereitungsklasse, Willkommensklasse, Internationale Klasse).
 
-Im diesem Fall legen Sie in SchILD-NRW in der [Klassen und Versetzungstabelle](/schild2/unterricht-kataloge/klassen-versetzungstabelle) eine eigene Klasse an. Vergeben Sie eine geeignete interne Bezeichnung (z.B. IK für internationale Klasse) und bennen Sie die Klasse in der Statistikbezeichnung mit einer Parallelität. "JUA" steht im Beispiel für jahrgangsübergreifende Klasse der Parallelität A. Wenn Sie eine weitere internationale Klasse anlegen möchten, erhält diese in der Statistikbezeichnung das Kürzel JUB. Lassen Sie das Feld Jahrgang leer. Tragen Sie als Folgeklasse und Vorgängerklasse die eigene Klasse ein (Tipp: dies ist nur möglich, wenn Sie die Klasse vorab mit der Häkchen-Taste angelegt haben). Wählen Sie eine passende Schulgliederung (GY9-G9, \*\*\*-Standard für diese Schulform etc). Wählen Sie die Klassenart "Deutschförderklasse (gemäß BASS 13-63 Nr. 3, Nummer 3.5.1)".
+Im diesem Fall legen Sie in SchILD-NRW in der [Klassen und Versetzungstabelle](/schild2/unterricht-kataloge/klassen-versetzungstabelle) eine eigene Klasse an. Vergeben Sie eine geeignete interne Bezeichnung (zum Beispiel IK für internationale Klasse) und bennen Sie die Klasse in der Statistikbezeichnung mit einer Parallelität. "JUA" steht im Beispiel für jahrgangsübergreifende Klasse der Parallelität A. Wenn Sie eine weitere internationale Klasse anlegen möchten, erhält diese in der Statistikbezeichnung das Kürzel JUB. Lassen Sie das Feld Jahrgang leer. Tragen Sie als Folgeklasse und Vorgängerklasse die eigene Klasse ein (Tipp: dies ist nur möglich, wenn Sie die Klasse vorab mit der Häkchen-Taste angelegt haben). Wählen Sie eine passende Schulgliederung (GY9-G9, \*\*\*-Standard für diese Schulform etc). Wählen Sie die Klassenart "Deutschförderklasse (gemäß BASS 13-63 Nr. 3, Nummer 3.5.1)".
 
 ![IK-Versetzungstabelle](/bilder/schild2/schueler/ik-versetzungstabelle.png)
 
@@ -23,9 +23,9 @@ Im diesem Fall legen Sie in SchILD-NRW in der [Klassen und Versetzungstabelle](/
 
 ## Individual-Daten I:
 
-**Aufnahmedatum**: Tag der Aufnahme (z.B. 1.8.2015)
+**Aufnahmedatum**: Tag der Aufnahme (zum Beispiel 1.8.2015)
 
-**1. Staatsangehörigkeit**: nicht "deustch" bzw. Deutschland
+**1. Staatsangehörigkeit**: nicht "deustch" beziehungsweise Deutschland
 
 ![IK-Staatsangehoerigkeit](/bilder/schild2/schueler/ik-staatsangehoerigkeit.png)
 
@@ -55,7 +55,7 @@ oder
 
 **allgemeine Herkunft des Schülers:** Ausländische Schüler, die aus dem Ausland zugezogen sind (Statistikkürzel AS)
 
-**Entlassen am:** Tag vor dem Aufnahmedatum (z.B. 31.7.2015)
+**Entlassen am:** Tag vor dem Aufnahmedatum (zum Beispiel 31.7.2015)
 
 **Entlassjahrg.:** leer
 

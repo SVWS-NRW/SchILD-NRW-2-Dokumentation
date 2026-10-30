@@ -11,6 +11,8 @@ title: "JahrgangsListe"
 
 ## Beschreibung
 
+Erzeugt eine durch Kommas getrennte Liste von Jahrgängen. Die Parameter legen den Endjahrgang und den Abstand zum Startjahrgang fest.
+
 ```pascal
 function JahrgangsListe(Const aEndJg: String; const aDiff: Integer): String;
 ```
@@ -21,7 +23,6 @@ function JahrgangsListe(Const aEndJg: String; const aDiff: Integer): String;
 | --- | --- |
 | `aEndJg` | Letzter Jahrgang des Intervalls |
 | `aDiff` | Abstand zum Startjahrgang |
-
 
 ## Rückgabewert
 
@@ -38,7 +39,6 @@ Procedure ReportBeforePrint;
    SetJgIntervall_ASD(lJahrgaenge);
  end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

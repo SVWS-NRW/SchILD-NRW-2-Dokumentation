@@ -6,6 +6,8 @@ title: "Tastenkürzel"
 
 # Tastenkürzel
 
+Mit Tastenkombinationen erreichen Sie häufige Funktionen ohne Maus. Die folgende Übersicht ordnet die Tasten den jeweiligen Aufgaben zu.
+
 | STRG + w         | Word Seriendruck starten                            |
 |------------------|-----------------------------------------------------|
 | STRG + r         | Alle Filter zurücksetzen                            |

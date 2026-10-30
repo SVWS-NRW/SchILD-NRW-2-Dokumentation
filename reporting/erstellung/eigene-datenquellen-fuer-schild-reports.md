@@ -6,11 +6,13 @@ title: "Eigene Datenquellen für Reports einrichten"
 
 # Eigene Datenquellen für Reports einrichten
 
+Eine Datenquelle stellt einem Report die benötigten Daten bereit. Diese technische Anleitung erläutert, wie Sie eigene Datenquellen für besondere Ausgaben definieren und weitergeben. Für normale Listen und Formulare reichen zunächst die vorhandenen Datenquellen und Reportvorlagen.
+
 <a id="Einleitung"></a>
 
 ## Einleitung
 
-Zur Nutzung von eigenen Datenquellen in der Reportverwaltung von Schild-NRW wurde ein Verfahren eingeführt, das es dem Nutzer ermöglicht, spezielle, für einen Report benötigte Datenquellendynamisch zu erstellen und diese dann auch an andere Schild-Installationen weiterzugeben, ohne dass die Datenquellen im Report immer wieder neu angelegt werden müssen.
+Zur Nutzung von eigenen Datenquellen in der Reportverwaltung von Schild-NRW wurde ein Verfahren eingeführt, das es dem Nutzer ermöglicht, spezielle, für einen Report benötigte Datenquellen dynamisch zu erstellen und diese dann auch an andere Schild-Installationen weiterzugeben, ohne dass die Datenquellen im Report immer wieder neu angelegt werden müssen.
 
 Außerdem besteht mit dieser Lösung eine Möglichkeit, auch für Schild-Zentral eigene Datenquellen zu nutzen. Die jeweiligen Datenquellen-Dateien müssen dann nur nach einer Sicherheitsüberprüfung von den jeweiligen IT-Administratoren in die Schild-Umgebung kopiert werden.
 
@@ -61,7 +63,7 @@ Hier wird die Datenquelle mit dem Befehl Name=\_\_dsNamederAbfrage erzeugt.
 
 Über *Name=\_\_pplnNamederQuelle* wird dann die eigentliche Datenpipeline erzeugt. Die Befehle *Opendatasource*, *CloseDatasource* und *SkipWhenNoRecords* entnehmen Sie bitte den Beispieldateien.
 
-*Username=xxNamederDatenQuelle* stellt den eigentlichen Namen bereit, den der User später im Reportdesigner zu sehen bekommt.
+*Username=xxNamederDatenQuelle* stellt den eigentlichen Namen bereit, den der Benutzer später im Reportdesigner zu sehen bekommt.
 
 ![SPD-04](/bilder/reporting/erstellung/spd-04.png)
 

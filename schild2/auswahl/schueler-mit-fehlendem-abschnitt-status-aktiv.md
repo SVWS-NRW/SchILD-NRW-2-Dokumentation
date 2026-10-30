@@ -6,7 +6,7 @@ title: "Aktive Schüler mit fehlendem Lernabschnitt"
 
 # Aktive Schüler mit fehlendem Lernabschnitt
 
-Bei Auswahl dieser Filtermöglichkeit werden Ihnen unter allen aktiven bzw. externen Schülern alle die mit fehlendem Abschnitt angezeigt.
+Bei Auswahl dieser Filtermöglichkeit werden Ihnen unter allen aktiven beziehungsweise externen Schülern alle die mit fehlendem Abschnitt angezeigt.
 
 Dies könnte unter Umständen interessant für die Erstellung der Sim.txt im Rahmen der Schulstatistik ASDPC sein.
 

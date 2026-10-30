@@ -11,6 +11,8 @@ title: "Bestaetigung"
 
 ## Beschreibung
 
+Zeigt eine Frage in einem Bestätigungsdialog an und liefert zurück, ob die Eingabe bestätigt wurde.
+
 ```pascal
 function Bestaetigung(const aFrage: String): Boolean;
 ```
@@ -20,7 +22,6 @@ function Bestaetigung(const aFrage: String): Boolean;
 | Parameter | Bedeutung |
 | --- | --- |
 | `aFrage` | String mir einer Frage, die sich durch Ja oder nein beantworten lässt |
-
 
 ## Rückgabewert
 

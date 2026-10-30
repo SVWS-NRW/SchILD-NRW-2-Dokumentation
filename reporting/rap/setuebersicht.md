@@ -11,6 +11,8 @@ title: "SetUebersicht"
 
 ## Beschreibung
 
+Schaltet die Aufbereitung der Leistungsdaten für eine tabellarische Übersicht ein oder aus. Das berücksichtigte Jahrgangsintervall wird zuvor mit `SetJgIntervall` festgelegt.
+
 ```pascal
 procedure SetUebersicht(IsUebersicht: Boolean);
 ```
@@ -21,7 +23,6 @@ procedure SetUebersicht(IsUebersicht: Boolean);
 | --- | --- |
 | `IsUebersicht` | Boolescher Wert, bei 'True' werden die Leistungsdaten eines Schülers im über SetJgIntervall definierten Zeitintervall in eine Tabellenstruktur eingefügt. Da dieser Vorgang recht zeitaufwendig ist, kann und sollte er durch diese Funktion nur bei Bedarf  zugeschaltet werden |
 
-
 ## Beispiel
 
 ```pascal
@@ -31,7 +32,6 @@ Procedure ReportBeforePrint;
    SetUebersicht(True);
  end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

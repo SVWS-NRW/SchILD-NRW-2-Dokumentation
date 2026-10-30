@@ -11,20 +11,18 @@ title: "GetSqlText"
 
 ## Beschreibung
 
+liefert den Text der SQL-Abfrage, die der als Parameter übergebenen
+Datenquelle zugrunde liegt.
+
 ```pascal
 function GetSqlText(aPipeline: TppDatapipeline): String;
 ```
-
-
-liefert den Text der SQL-Abfrage, die der als Parameter übergebenen
-Datenquelle zugrunde liegt.
 
 ## Parameter
 
 | Parameter | Bedeutung |
 | --- | --- |
 | `aPipeline` | Name der Datenpipeline |
-
 
 ## Rückgabewert
 
@@ -35,7 +33,6 @@ SqlText, falls die Pipeline eine DB-Pipeline ist, sonst ein leerer String
 ```pascal
 ShowMessage('Abfragetext: ' + GetSqlText(Schueler))
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

@@ -4,7 +4,7 @@ title: "Fotos löschen"
 
 # Fotos löschen
 
-Dieser Gruppenprozess löscht bei allen Schülern der aktuellen Auswahl die hinterlegten Bilder. Vor dem endgültigen Löschen muss man nochmals bestätigen, dass das Löschen wirklich durchgeführt werden soll.
+Dieser Gruppenprozess löscht bei allen Schülern der aktuellen Auswahl die hinterlegten Bilder. Vor dem endgültigen Löschen müssen Sie nochmals bestätigen, dass das Löschen wirklich durchgeführt werden soll.
 
 Sicherheitshalber sollte man vor dieser Aktion eine Datensicherung vornehmen.
 

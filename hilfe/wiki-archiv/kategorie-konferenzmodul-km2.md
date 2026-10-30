@@ -6,6 +6,8 @@ title: "Wiki-Kategorie KM2"
 
 # Wiki-Kategorie KM2
 
+Dies ist die frühere Wiki-Kategorie zum Konferenzmodul KM2. Die zusammenhängende Anleitung finden Sie heute unter **Tools → KM2 – Konferenzmodul**.
+
 ![Km2-logo](/bilder/tools/km2/km2-logo.png) Dokumente im Zusammenhang mit dem Konferenzmodul **KM<sup>2</sup>**.
 
 ---

@@ -11,14 +11,13 @@ title: "LehrerUnterrichtLaden"
 
 ## Beschreibung
 
-```pascal
-Procedure LehrerUnterrichtLaden;
-```
-
-
 Durch den Aufruf dieser Prozedur werden die Datenquellen
 'KursUnterricht' und 'Klassenunterricht', die beide Detaildatenquellen
 der Hauptdatenquelle 'Lehrer' sind, mit Daten gefüllt
+
+```pascal
+Procedure LehrerUnterrichtLaden;
+```
 
 ## Beispiel
 
@@ -28,7 +27,6 @@ Procedure DetailBeforeGenerate;
    LehrerUnterrichtLaden
 end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

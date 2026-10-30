@@ -6,6 +6,8 @@ title: "Druckfunktionen und Reportausgabe"
 
 # Druckfunktionen und Reportausgabe
 
+Im Menü **Druckausgabe** wählen Sie den Ausgabeweg für Ihre Daten. Der Report-Explorer verwaltet Vorlagen, während die Archivfunktion bereits gespeicherte Ausgaben öffnet. Welche Funktionen verfügbar sind, hängt auch von den Benutzerrechten ab.
+
 <a id="Reportexplorer_aufrufen"></a>
 
 <a id="reportexplorer-aufrufen"></a>
@@ -24,7 +26,7 @@ Weitere Informationen: [Reports im Report-Explorer auswählen](/reporting/verwal
 
 ## Report aus Ordner Standard drucken
 
-Hier wird der Report-Explorer genauso aufgerufen, wie im o.g. Menüpunkt. Einziger Unterschied ist jedoch, dass hier für den User nur ein spezieller Ordner angezeigt wird.
+Hier wird der Report-Explorer genauso aufgerufen, wie im o.g. Menüpunkt. Einziger Unterschied ist jedoch, dass hier für den Benutzer nur ein spezieller Ordner angezeigt wird.
 
 Alle anderen Reports, die außerhalb der Ordners "Standard" liegen, werden dann vor dem Benutzer verborgen. Diese Option kann dazu benutzt werden, bestimmten Nutzern auch nur Zugriff auf bestimmte Reports zu ermöglichen.
 

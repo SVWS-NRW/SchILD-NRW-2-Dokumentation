@@ -11,6 +11,8 @@ title: "FilterAdresse"
 
 ## Beschreibung
 
+Grenzt die berücksichtigten Adressen auf die übergebene Adresse ein.
+
 ```pascal
 procedure FilterAdresse(aAdresse: String);
 ```
@@ -21,11 +23,9 @@ procedure FilterAdresse(aAdresse: String);
 | --- | --- |
 | `aAdresse` | Adresse, auf die gefiltert werden soll |
 
-
 ## Beispiel
 
 Siehe [SelectAdressName](/reporting/rap/selectadressname).
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

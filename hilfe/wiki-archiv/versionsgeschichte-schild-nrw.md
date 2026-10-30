@@ -6,6 +6,7 @@ title: "Änderungshistorie von SchILD-NRW"
 
 # Änderungshistorie von SchILD-NRW
 
+Diese historische Änderungsliste dokumentiert frühere Anpassungen an SchILD-NRW 2. Die Einträge erklären die damaligen Änderungen; sie sind keine fortlaufende Arbeitsanleitung und werden hier als ursprüngliche Dokumentation erhalten.
 
 <a id="Version_2.0.36.4_vom_18.08.2026"></a>
 

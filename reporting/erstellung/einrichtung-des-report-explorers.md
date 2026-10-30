@@ -6,7 +6,7 @@ title: "Report-Explorer einrichten"
 
 # Report-Explorer einrichten
 
-Der Dateibasierende-Reportgenerator für Schild-NRW benötigt einige Einstellungen, die hier im Folgenden beschrieben werden.
+Der Report-Explorer verwaltet die Dateien Ihrer Druckvorlagen. Diese Anleitung erklärt die benötigten Einstellungen, bevor Sie Vorlagen auswählen, bearbeiten und drucken.
 
 <a id="Dateistruktur_in_der_Installation"></a>
 
@@ -20,7 +20,7 @@ Achten Sie darauf, dass diese Ordner auch in Ihrer Schildinstallation direkt im 
 
 Wenn Sie eine Serverinstallation haben, stehen hier die Pfade des Netzlaufwerks oder die UNC-Pfadangaben des Servers.
 
-Mit dem Haken "Standard-Verzeichnisstruktur verwenden" können Sie die eingetragenen Werte übergehen, dies ist z.B. nützlich, wenn man mit einer Kopie der Datenbank außerhalb der Serverumgebung arbeiten muss.
+Mit dem Haken "Standard-Verzeichnisstruktur verwenden" können Sie die eingetragenen Werte übergehen, dies ist zum Beispiel nützlich, wenn man mit einer Kopie der Datenbank außerhalb der Serverumgebung arbeiten muss.
 
 <a id="Funktionen_der_Ordner"></a>
 
@@ -29,7 +29,7 @@ Mit dem Haken "Standard-Verzeichnisstruktur verwenden" können Sie die eingetrag
 ![Reportordner](/bilder/reporting/erstellung/reportordner.jpg)
 
 1.  **Header_Footer**, dieser Ordner enthält alle Köpfe und Füße, die Sie in der neuen Reporting verwenden möchten. Auch diese liegen als Subreportdateien einzeln auf der Festplatte und können dort genauso wie „normale“ Reports bearbeitet werden. Viele Formulare durchsuchen genau diesen Ordner nach bestimmten Köpfen oder Füßen. Sie können sich eine Beispielsammlung von Köpfen und Füßen auf der Seite <http://www.svws.nrw.de> herunterladen.
-2.  **Standard**, dieser Ordner wird für den schnelleren Druckzugang verwendet. Der Zugriff kann über Schild-NRW neben dem Druckersymbol über "Standardformulare drucken" erreicht werden. Bei diesem Ordner hat man auch in der Benutzerverwaltung die Möglichkeit, einigen Usern nur den Zugriff auf den Ordner Standard zu gewähren. Alle Formulare außerhalb können dann von diesen Benutzern nicht erreicht werden.
+2.  **Standard**, dieser Ordner wird für den schnelleren Druckzugang verwendet. Der Zugriff kann über Schild-NRW neben dem Druckersymbol über "Standardformulare drucken" erreicht werden. Bei diesem Ordner haben Sie auch in der Benutzerverwaltung die Möglichkeit, einigen Benutzern nur den Zugriff auf den Ordner Standard zu gewähren. Alle Formulare außerhalb können dann von diesen Benutzern nicht erreicht werden.
 3.  **Subreports**, dieser Ordner enthält bestimmte Subreports, die von verschiedenen Formularen genutzt werden können. Die Formulare sehen dann vor dem Druck in diesem Ordner nach und laden die Subreports zur Laufzeit.
 4.  **Standardtexte**, hier liegen die RTF-Dateien (wordähnliches Format), die auf den Zeugnissen die Hinweistexte darstellen. Diese Standardtexte können auch von der Schild-Homepage im Zeugnisbereich heruntergeladen und dort hineinkopiert werden.
 
@@ -69,7 +69,7 @@ Achten Sie bitte darauf, dass die Reports-Ordnerstruktur mit den 4 festgelegten 
 
 ![Reports_alt](/bilder/reporting/erstellung/reports-alt.png)
 
-Eine sachgerechte Organisation der Ordnerstruktur, die sinnvolle Vergabe der Benutzerrechte und regelmäßiges Ausmisten kann die tägliche Arbeit enorm erleichtern. Eine solche Struktur ist z.B. in der Basis-Reportsammlung angelegt.
+Eine sachgerechte Organisation der Ordnerstruktur, die sinnvolle Vergabe der Benutzerrechte und regelmäßiges Ausmisten kann die tägliche Arbeit enorm erleichtern. Eine solche Struktur ist zum Beispiel in der Basis-Reportsammlung angelegt.
 
 In den Abbildungen sind jeweils aktive Report-Ordner eines Gymnasiums vor (rechts) und nach (links) der Überarbeitung dargestellt. Vor der Überarbeitung waren im Report-Ordner mehr als 4000 Dateien. Nach einer vorsichtigen Überarbeitung sind es weniger als 1000.**Während der Überarbeitung werden keine Dateien gelöscht. Nicht unbedingt benötigte Dateien werden in den Ordner ARCHIV geschoben und können von dort aktiviert werden!**
 

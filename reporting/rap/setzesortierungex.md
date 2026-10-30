@@ -11,6 +11,8 @@ title: "SetzeSortierungEx"
 
 ## Beschreibung
 
+Ändert die Sortierung einer Datenquelle. Im Unterschied zu `SetzeSortierung` können auch die im Artikel beschriebenen speziellen Feldausdrücke verwendet werden.
+
 ```pascal
 procedure SetzeSortierungEx(Pipeline: TppDbPipeline; const Sortierfelder: String);
 ```
@@ -20,8 +22,7 @@ procedure SetzeSortierungEx(Pipeline: TppDbPipeline; const Sortierfelder: String
 | Parameter | Bedeutung |
 | --- | --- |
 | `Pipeline` | Datenquelle, deren Abfrage neu sortiert werden soll |
-| `Sortierfelder` | Mit Komma separierte Liste Sortierfeldern. Im Unterschied zu „SetzeSortierung“ können hier auch spezielle Felder, wie z.B. MONTH(Geburtsatum) etc verwendet werden. |
-
+| `Sortierfelder` | Mit Komma separierte Liste Sortierfeldern. Im Unterschied zu „SetzeSortierung“ können hier auch spezielle Felder, wie zum Beispiel MONTH(Geburtsatum) etc verwendet werden. |
 
 ## Beispiel
 
@@ -33,7 +34,6 @@ Procedure ReportBeforePrint;
   SetzeSortierungEx(Report.Datapipeline,'Klasse,MONTH(Geburtsdatum)');
  end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

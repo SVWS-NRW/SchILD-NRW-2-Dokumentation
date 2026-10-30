@@ -12,7 +12,7 @@ title: "Bildungsgangwechsel am Berufskolleg"
 
 ![KA33_001](/bilder/schild2/versetzung/ka33-001.jpg)
 
-Verwendet die Schule kein Online-Anmeldeverfahren, so müssen Datensätze neu-er Schüler manuell eingetragen werden. Handelt es sich um Schüler der eigenen Schule, die einen weiteren Bildungsgang besuchen möchten, so kann man sich die Eingabe der Daten ersparen, indem man ein Duplikat anlegt: Zunächst aktiviert man zusätzlich den Haken bei „Neuaufnahme“, wählt den Da-tensatz des Schülers aus und drückt anschließend auf „Schüler duplizieren“. Hierdurch wird ein neuer Datensatz mit den Daten des Schülers angelegt, der dann in die zukünftige Klasse und in das entsprechende (kommende) Halbjahr einsortiert wird.
+Verwendet die Schule kein Online-Anmeldeverfahren, so müssen Datensätze neu-er Schüler manuell eingetragen werden. Handelt es sich um Schüler der eigenen Schule, die einen weiteren Bildungsgang besuchen möchten, so können Sie sich die Eingabe der Daten ersparen, indem man ein Duplikat anlegt: Zunächst aktiviert man zusätzlich den Haken bei „Neuaufnahme“, wählt den Da-tensatz des Schülers aus und drückt anschließend auf „Schüler duplizieren“. Hierdurch wird ein neuer Datensatz mit den Daten des Schülers angelegt, der dann in die zukünftige Klasse und in das entsprechende (kommende) Halbjahr einsortiert wird.
 
 <a id="Bildungsgangwechsler_mit_Schüler-Online_(oder_anderen_Verfahren)"></a>
 <a id="Bildungsgangwechsler_mit_Sch.C3.BCler-Online_.28oder_anderen_Verfahren.29"></a>

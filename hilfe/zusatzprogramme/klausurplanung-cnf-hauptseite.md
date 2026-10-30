@@ -10,7 +10,7 @@ title: "Klausuren mit Klausurplanung CNF planen"
 
 ## Hinweise
 
-Klausurplanung_CNF wurde in JAVA von Benjamin Bartsch programmiert. Die Software ist "open source" und unterliegt der MIT oder der CC0 Lizenz, d.h. der Quellcode steht allen frei zur Verfügung, aber es dürfen keinerlei Ansprüche geltend gemacht werden. Wenn Sie den Autor kontaktieren möchten, finden Sie die E-Mail-Adresse innerhalb des Programms.
+Klausurplanung_CNF wurde in JAVA von Benjamin Bartsch programmiert. Die Software ist "open source" und unterliegt der MIT oder der CC0 Lizenz, das heißt der Quellcode steht allen frei zur Verfügung, aber es dürfen keinerlei Ansprüche geltend gemacht werden. Wenn Sie den Autor kontaktieren möchten, finden Sie die E-Mail-Adresse innerhalb des Programms.
 
 Das Programm arbeitet auf Basis der Daten des Programms Kurs42. Wenn Sie eine Import/Exportfunktion zu anderen Programmen wünschen, können Sie den Autor kontaktieren.
 
@@ -25,7 +25,7 @@ Das Programm Klausurplanung_CNF berechnet den Klausurplan einer Jahrgangsstufe. 
 ## Vorbereitungen
 
 - Laden Sie sich den folgenden SAT-Solver (<https://github.com/msoos/cryptominisat/releases>) herunter und speichern Sie die Datei (für Windows: cryptominisat5-win-amd64-nogauss.exe) auf Ihrem PC und merken Sie sich den Pfad.
-- Installieren Sie ggf. JAVA und laden sich sich dann die aktuellste Version von Klausurplanung_CNF herunter (<https://schulverwaltungsinfos.nrw.de/svws/forum/viewtopic.php?f=71&t=1302>).
+- Installieren Sie gegebenenfalls JAVA und laden sich sich dann die aktuellste Version von Klausurplanung_CNF herunter (<https://schulverwaltungsinfos.nrw.de/svws/forum/viewtopic.php?f=71&t=1302>).
 - Sie haben nun das Programm in Form einer JAR-Datei, welche man mit einem Doppelklick starten kann. Dort müssen Sie dort zunächst den Pfad zu cryptominisat...exe angeben und können dann arbeiten, aber zuvor müssen Sie jedoch noch aus Kurs42 Ihre Daten exportieren.
 
 <a id="Daten_in_Kurs42_vorbereiten_und_exportieren"></a>
@@ -42,7 +42,7 @@ Das Programm Klausurplanung_CNF berechnet den Klausurplan einer Jahrgangsstufe. 
 ## Vorbereitungen und Rechnung
 
 - Auf der Registerkarte "Berechnungen" legen Sie den Beginn und das Ende des Klausurzeitraums an (frühester Termin der 1. Klausur und spätester Termin der letzten Klausur).
-- Die maximale Anzahl von Klausuren eines Schüler bzw. einer Schülerin ist standardmäßig auf drei pro Woche voreingestellt. Dies kann bei Bedarf geändert werden.
+- Die maximale Anzahl von Klausuren eines Schüler beziehungsweise einer Schülerin ist standardmäßig auf drei pro Woche voreingestellt. Dies kann bei Bedarf geändert werden.
 - Im Fenster Regeln werden nun die nötigen Regeln für den Klausurplan per Dropdown ausgewählt und präzisiert (siehe nachfolgender Abschnitt).
 - Ist dies geschehen, kann die Rechnung durch Klick auf "+" gestartet werden. Mehrere Rechnungen sind, je nach Leistung des Computers, möglich. Als Orientierungswert gilt: höchstens eine Rechnung pro CPU-Kern.
 
@@ -67,7 +67,7 @@ Ist ein Regelkatalog mit grundsätzlichen Vorgaben erstellt, so folgt ein weiter
 - Anzahl der durch Klausuren betroffenen Stunden
 - Anzahl von Klausuren, die in einer bestimmten Stunde liegen (Unterrichtsausfall)
 - Anzahl der SchülerInnen, die Klausuren an zwei/drei aufeinanderfolgenden Tagen haben
-- Anzahl der Klausuren pro Woche (kann ggf. auf zwei reduziert werden?)
+- Anzahl der Klausuren pro Woche (kann gegebenenfalls auf zwei reduziert werden?)
 - Anzahl von Klausurstunden, die innerhalb der regulären Unterrichtszeit liegen
 - Abstand von zwei Klausuren eines Kurses
 - ...

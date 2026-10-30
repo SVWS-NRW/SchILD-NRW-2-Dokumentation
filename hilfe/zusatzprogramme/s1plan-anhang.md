@@ -6,6 +6,8 @@ title: "Menüs und Zusatzfunktionen in S1Plan"
 
 # Menüs und Zusatzfunktionen in S1Plan
 
+Hier finden Sie ergänzende Erläuterungen zu den Menüs und Symbolen von S1Plan. Verwenden Sie diese Übersicht zum Nachschlagen, nachdem das Programm eingerichtet ist.
+
 <a id="MENÜPUNKT_DATEI"></a>
 <a id="MEN.C3.9CPUNKT_DATEI"></a>
 

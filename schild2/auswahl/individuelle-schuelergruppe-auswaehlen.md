@@ -6,7 +6,9 @@ title: "Gespeicherte Schülergruppe auswählen"
 
 # Gespeicherte Schülergruppe auswählen
 
-Nach dem Aufrufen dieses Menüpunkts wählt man die gewünschte Schülergruppe aus der Liste aus.
+Eine gespeicherte Schülergruppe können Sie als aktuelle Schülerauswahl laden. Legen Sie die Gruppe vorher über **Individuelle Schülergruppe bearbeiten** an, falls sie noch nicht vorhanden ist.
+
+Nach dem Aufrufen dieses Menüpunkts wählen Sie die gewünschte Schülergruppe aus der Liste aus.
 
 Nach dem Klick auf "Übernehmen" werden nur die Schüler dieser Gruppe im Schüler-Container angezeigt.
 

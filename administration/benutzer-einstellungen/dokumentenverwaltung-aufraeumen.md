@@ -10,9 +10,9 @@ Nach dem Aufruf dieses Gruppenprozesses öffnet sich das Fenster "Dokumentenverw
 
 ![GP-Dokuaufraeumen](/bilder/administration/benutzer-einstellungen/gp-dokuaufraeumen.jpg)
 
-Man kann nun auswählen, ob man nur Verzeichnisse entfernen möchte die leer sind (Häkchen setzen), oder alle Verzeichnisse entfernt werden sollen, die zu keinem Schüler in der Datenbank gehören.
+Sie können nun auswählen, ob man nur Verzeichnisse entfernen möchte die leer sind (Häkchen setzen), oder alle Verzeichnisse entfernt werden sollen, die zu keinem Schüler in der Datenbank gehören.
 
-Durch setzen des unteren Häkchens kann man eine Datensicherung der zu löschenden Daten vornehmen.
+Durch setzen des unteren Häkchens können Sie eine Datensicherung der zu löschenden Daten vornehmen.
 
 ------------------------------------------------------------------------
 

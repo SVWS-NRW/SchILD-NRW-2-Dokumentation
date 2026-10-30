@@ -11,6 +11,8 @@ title: "NurErzieherMitAnschreiben"
 
 ## Beschreibung
 
+Steuert, ob nur Erziehungsberechtigte mit dem gesetzten Merkmal **Erhält Anschreiben** berücksichtigt werden.
+
 ```pascal
 procedure NurErzieherMitAnschreiben(Filtern: Boolean);
 ```
@@ -20,7 +22,6 @@ procedure NurErzieherMitAnschreiben(Filtern: Boolean);
 | Parameter | Bedeutung |
 | --- | --- |
 | `Filtern` | TRUE, falls nur Erzieher berücksichtigt werden sollen, bei denen das Flag „Erhält Anschreiben“ gesetzt ist. |
-
 
 ## Beispiel
 
@@ -35,7 +36,6 @@ begin
   NurErzieherMitAnschreiben(False);
 end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

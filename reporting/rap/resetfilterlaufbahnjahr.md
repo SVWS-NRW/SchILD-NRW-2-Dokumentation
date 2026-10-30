@@ -11,19 +11,17 @@ title: "ResetFilterLaufbahnJahr"
 
 ## Beschreibung
 
+Setzt den über FilterLaufbahnJahr gesetzten Filter zurück
+
 ```pascal
 procedure ResetFilterLaufbahnJahr;
 ```
-
-
-Setzt den über FilterLaufbahnJahr gesetzten Filter zurück
 
 ## Beispiel
 
 ```text
 ...
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

@@ -11,6 +11,8 @@ title: "IstLeer"
 
 ## Beschreibung
 
+Prüft, ob das angegebene Feld einer Datenquelle leer ist. Das Ergebnis ist ein Wahrheitswert: `True` bedeutet hier „leer“.
+
 ```pascal
 function IstLeer(aDataPipeline: TppDataPipeline; const aFieldname: String): Boolean;
 ```
@@ -21,7 +23,6 @@ function IstLeer(aDataPipeline: TppDataPipeline; const aFieldname: String): Bool
 | --- | --- |
 | `aDataPipeline` | Zu prüfende Datenquelle |
 | `aFieldname` | Name des zu überprüfenden Felde |
-
 
 ## Rückgabewert
 
@@ -36,7 +37,6 @@ begin
     Text:='Geburtsdatum fehlt';
 end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

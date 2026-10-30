@@ -11,12 +11,11 @@ title: "SetJgIntervall"
 
 ## Beschreibung
 
+ist veraltet. Statt dessen sollte SetJgIntervall_ASD benutzt werden.
+
 ```pascal
 function SetJgIntervall(aStartJg, aEndJg: Integer): Boolean; Diese Funktion
 ```
-
-
-ist veraltet. Statt dessen sollte SetJgIntervall_ASD benutzt werden.
 
 ## Parameter
 
@@ -24,7 +23,6 @@ ist veraltet. Statt dessen sollte SetJgIntervall_ASD benutzt werden.
 | --- | --- |
 | `aStartJg` | Beginn des Jahrgangsintervalles, für das Übersichten erzeugt werden solle |
 | `aEndJg` | Ende des Jahrgangsintervalles, für das Übersichten erzeugt werden sollen |
-
 
 ## Beispiel
 
@@ -35,7 +33,6 @@ Procedure ReportBeforePrint;
      ShowMessage('Dieser Report ist für den Quartalsbetrieb nicht geeignet');
  end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

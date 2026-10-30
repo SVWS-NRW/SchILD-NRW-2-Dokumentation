@@ -6,11 +6,13 @@ title: "Statistikjahrgänge an Gymnasien"
 
 # Statistikjahrgänge an Gymnasien
 
+Dieses Beispiel zeigt eine Jahrgangstabelle für ein Gymnasium mit Halbjahresbetrieb. Die Abbildung und die Hinweise stammen aus der ursprünglichen Anleitung; die allgemeine Bedeutung der Felder erläutert der Artikel **Statistikjahrgänge**.
+
 ![JGTabelle GY](/bilder/schild2/unterricht-kataloge/jgtabelle-gy.png)
 
 Typische Jahrgangstabelle für ein Gymnasium mit Halbjahresbetrieb. Der Jahrgang 10 wurde noch erhalten, weil dieser ja mit G9 wieder benötigt wird.
 
-An den Restabschnitten der Sekundarstufe I sieht man, dass der Jahrgang 10 momentan noch weggefallen ist.
+An den Restabschnitten der Sekundarstufe I sehen Sie, dass der Jahrgang 10 momentan noch weggefallen ist.
 
 ------------------------------------------------------------------------
 

@@ -11,19 +11,17 @@ title: "GeRNiveauAusFachKrz"
 
 ## Beschreibung
 
+bestimmt das eingetragene Sprachniveau zum Fachkürzel aus der Sprachenfolge
+
 ```pascal
 function GeRNiveauAusFachKrz(FachKrz: String): String;
 ```
-
-
-bestimmt das eingetragene Sprachniveau zum Fachkürzel aus der Sprachenfolge
 
 ## Parameter
 
 | Parameter | Bedeutung |
 | --- | --- |
 | `FachKrz` | Fachkürzel aus der Fächertabelle |
-
 
 ## Rückgabewert
 
@@ -34,7 +32,6 @@ Klartextname GeRNiveau
 ```pascal
 GeRNiveauAusFachKrz('E5');
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

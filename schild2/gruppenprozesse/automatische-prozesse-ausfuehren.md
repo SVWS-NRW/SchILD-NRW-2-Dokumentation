@@ -4,11 +4,13 @@ title: "Automatische Prozesse ausführen"
 
 # Automatische Prozesse ausführen
 
+Hier starten Sie die ansonsten regelmäßig automatisch angestoßenen Pflegeprozesse von Hand. Die folgende Übersicht beschreibt die betroffenen Aufgaben.
+
 Diese Prozesse werden einmal pro Woche von Schild-NRW automatisch angestoßen.
 
 Sie können diese aber auch manuell mit diesem Menüpunkt ablaufen lassen.
 
-Die "Automatischen Prozesse" prüfen, ob alle Schüler einen Lernabschnitt im aktuellen Halbjahr haben. Sollte z.B. bei einigen Schülern, die aus dem Karteikasten "Neuaufnahme" aktiviert wurden, noch nie der Reiter "Akt. Halbjahr" angeklickt worden sein, so wird dies an dieser Stelle nachgeholt.
+Die "Automatischen Prozesse" prüfen, ob alle Schüler einen Lernabschnitt im aktuellen Halbjahr haben. Sollte zum Beispiel bei einigen Schülern, die aus dem Karteikasten "Neuaufnahme" aktiviert wurden, noch nie der Reiter "Akt. Halbjahr" angeklickt worden sein, so wird dies an dieser Stelle nachgeholt.
 
 Es wird die Volljährigkeit geprüft.
 

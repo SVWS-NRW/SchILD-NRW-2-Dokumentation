@@ -6,14 +6,15 @@ title: "Gespeicherte Filter löschen"
 
 # Gespeicherte Filter löschen
 
+Hier entfernen Sie gespeicherte Filterdefinitionen, die Sie nicht mehr benötigen. Gelöscht wird die gespeicherte Auswahlregel, nicht ein Schülerdatensatz.
 
 ![Filterloeschen](/bilder/schild2/auswahl/filterloeschen.jpg)
 
-Werden vorhandene gespeicherte Attributsfilter oder auch allgemeine Filter nicht mehr benötigt, kann man sie unter diesem Menüpunkt löschen.
+Werden vorhandene gespeicherte Attributsfilter oder auch allgemeine Filter nicht mehr benötigt, können Sie sie unter diesem Menüpunkt löschen.
 
-Nach Auswahl des Menüpunktes erscheint die Maske "Filterdefinition speichern", aus der man den zu löschenden Filter auswählen kann. Nach Klicken auf den Button "Löschen" erfolgt eine Sicherheitsabfrage, die man zum endgültigen Löschen der Filterdefinition mit "Ja" bestätigen muss. Die gespeicherte Filterdefinition wird aus der Liste ausgetragen und das Fenster schließt sich automatisch.
+Nach Auswahl des Menüpunktes erscheint die Eingabeansicht "Filterdefinition speichern", aus der man den zu löschenden Filter auswählen kann. Nach Klicken auf den Button "Löschen" erfolgt eine Sicherheitsabfrage, die man zum endgültigen Löschen der Filterdefinition mit "Ja" bestätigen muss. Die gespeicherte Filterdefinition wird aus der Liste ausgetragen und das Fenster schließt sich automatisch.
 
-Durch Klicken auf "Abbrechen" kann die Maske auch ohne Veränderungen verlassen werden.
+Durch Klicken auf "Abbrechen" kann die Eingabeansicht auch ohne Veränderungen verlassen werden.
 
 ------------------------------------------------------------------------
 

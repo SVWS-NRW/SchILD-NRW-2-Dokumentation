@@ -6,6 +6,8 @@ title: "BK-Abschlüsse nach Anlage E"
 
 # BK-Abschlüsse nach Anlage E
 
+Hier finden Sie die im ursprünglichen Wiki aufgeführten Bildungsgänge dieser Anlage. Wählen Sie den passenden Bildungsgang aus den verlinkten Einträgen. Die allgemeinen Erläuterungen stehen unter [BK-Abschlussverfahren](/zeugnisse/berufskolleg/bk-abschluss?rubrik=schild2).
+
 <a id="Bildungsgänge_der_Fachschule"></a>
 <a id="Bildungsg.C3.A4nge_der_Fachschule"></a>
 

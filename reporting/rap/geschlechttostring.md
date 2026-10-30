@@ -11,6 +11,8 @@ title: "GeschlechtToString"
 
 ## Beschreibung
 
+Wählt abhängig von der übergebenen Geschlechtsangabe die männliche oder weibliche Textform aus.
+
 ```pascal
 function GeschlechtToString(aGeschlecht: integer; aMaennl_Form, aWeibl_Form: String): String;
 ```
@@ -23,7 +25,6 @@ function GeschlechtToString(aGeschlecht: integer; aMaennl_Form, aWeibl_Form: Str
 | `aMaennl_Form` | männliche Form |
 | `aWeibl_Form` | weibliche Form |
 
-
 ## Rückgabewert
 
 Vorgabe, je nach Geschlecht
@@ -33,7 +34,6 @@ Vorgabe, je nach Geschlecht
 ```pascal
 lAnrede:=GeschlechtToString(Schueler['Geschlecht'],'Schüler','Schülerin')
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

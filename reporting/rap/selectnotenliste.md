@@ -11,12 +11,11 @@ title: "SelectNotenliste"
 
 ## Beschreibung
 
+Öffnet die Auswahl einer Notendefinitionsdatei und lädt die ausgewählte Datei.
+
 ```pascal
 procedure SelectNotenliste;
 ```
-
-
-Öffnet die Auswahl einer Notendefinitionsdatei und lädt die ausgewählte Datei.
 
 ## Beispiel
 

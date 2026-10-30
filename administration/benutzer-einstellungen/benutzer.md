@@ -6,6 +6,8 @@ title: "Angemeldete Benutzer anzeigen"
 
 # Angemeldete Benutzer anzeigen
 
+Hier sehen Sie, welche Benutzerkonten gerade an der Datenbank angemeldet sind. Der Menüpunkt gehört zum optionalen Plugin **Benutzerliste**; die folgende Einstellung blendet ihn ein.
+
 Dieser Punkt wird nur angezeigt, wenn unter "Extras -\> Programm-Einstellungen -\> Plugins" vor "Benutzerliste" ein Häkchen gesetzt wurde.
 
 Unter Benutzer findet sich "Angemeldete Benutzer". Im gleichnamigen Fenster sehen Sie dazu Angaben in den Spalten Anmeldename, Name, Anmeldung, Abmeldung. Darüber sehen Sie fünf Icons (Filter auf nicht abgemeldete Benutzer, Filter aufheben (womit die Anzeige wieder vollständig wird), Tabelle bereinigen, Vorschau Drucker, Benutzeranzeige beenden (nur damit wird das Fensterchen geschlossen!)).

@@ -6,6 +6,8 @@ title: "Fahrschülerarten"
 
 # Fahrschülerarten
 
+Mit diesem Katalog verwalten Sie die Auswahlmöglichkeiten für Fahrschüler. Neben den vorgegebenen Angaben **ja** und **nein** können Sie die im Artikel beschriebenen weiteren Einträge verwenden.
+
 Bei der Installation des Programmes sind die Einträge 'ja' und 'nein' vor eingestellt.
 
 ![Fahrschüler](/bilder/schild2/unterricht-kataloge/fahrschuler.jpg)
@@ -14,7 +16,7 @@ Sie können diesen Katalog aber beliebig erweitern. Da im [Filter I](/schild2/au
 
 ![Haltestelle_Fahrschüler](/bilder/schild2/unterricht-kataloge/haltestelle-fahrschuler.jpg)
 
-In Kombination mit der Eingabe von [Haltestellen](/schild2/unterricht-kataloge/haltestellen), erhält man ein vollständiges Bild, wie und woher jeder einzelne Schüler zur Schule kommt. Angaben, die für die Beförderungskosten oder Verhandlungen mit den Busunternehmen eine nicht zu unterschätzende Information liefern.
+In Kombination mit der Eingabe von [Haltestellen](/schild2/unterricht-kataloge/haltestellen), erhalten Sie ein vollständiges Bild, wie und woher jeder einzelne Schüler zur Schule kommt. Angaben, die für die Beförderungskosten oder Verhandlungen mit den Busunternehmen eine nicht zu unterschätzende Information liefern.
 
 ---
 

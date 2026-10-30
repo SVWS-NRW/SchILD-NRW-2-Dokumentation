@@ -11,20 +11,18 @@ title: "FilterLaufbahnJahrgangASD"
 
 ## Beschreibung
 
+filtert die Laufbahndaten der Schüler für die angegebenen Jahrgänge;
+Jahrgangsliste = '' setzt die Abfrage zurück
+
 ```pascal
 procedure FilterLaufbahnJahrgandASD(const Jahrgangsliste: String);
 ```
-
-
-filtert die Laufbahndaten der Schüler für die angegebenen Jahrgänge;
-Jahrgangsliste = '' setzt die Abfrage zurück
 
 ## Parameter
 
 | Parameter | Bedeutung |
 | --- | --- |
 | `Jahrgangsliste` | kommaseparierte Liste der Jahrgänge |
-
 
 ## Beispiel
 
@@ -41,7 +39,6 @@ begin
   FilterLaufbahnJahrgangASD('');
 end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

@@ -6,6 +6,8 @@ title: "Sprachfeststellungsprüfung"
 
 # Sprachfeststellungsprüfung
 
+Diese Anleitung behandelt eine Sprachfeststellungsprüfung als Ersatz für eine Pflicht- oder Wahlpflichtfremdsprache. Sie erläutert die beschriebenen Voraussetzungen sowie die zugehörigen Einträge und Zeugnisangaben.
+
 <a id="Sprachprüfung_(Feststellungsprüfung)_anstelle_von_Pflichtfremdsprachen_oder_Wahlpflichtfremdsprachen"></a>
 <a id="Sprachpr.C3.BCfung_.28Feststellungspr.C3.BCfung.29_anstelle_von_Pflichtfremdsprachen_oder_Wahlpflichtfremdsprachen"></a>
 
@@ -36,7 +38,7 @@ Soll eine Amtssprache Englisch ersetzen, so nehmen die Schülerinnen und Schüle
 
 Das Fach Englisch kann auf dem Zeugnis aufgenommen werden. Als Note wird dann "Teilgenommen" eingetragen.
 
-Als Zeugnisbemerkung wird z.B. folgendes eingetragen:
+Als Zeugnisbemerkung wird zum Beispiel folgendes eingetragen:
 
 ***"\$Vorname\$ hat am Unterricht im Fach Englisch teilgenommen."***
 
@@ -45,7 +47,7 @@ Als Zeugnisbemerkung wird z.B. folgendes eingetragen:
 
 ### Zeugnis: Abschlusszeugnis oder Versetzungszeugnis Ende der SI im Prüfungsjahr
 
-Die Prüfungsnote wird von der Schule, der Einrichtung der Weiterbildung bzw. der besonderen Einrichtung des Schulwesens anstelle der 1. Fremdsprache in das Abschlusszeugnis bzw. in das Versetzungszeugnis übertragen. In der Spalte Bemerkungen ist aufzunehmen:
+Die Prüfungsnote wird von der Schule, der Einrichtung der Weiterbildung beziehungsweise der besonderen Einrichtung des Schulwesens anstelle der 1. Fremdsprache in das Abschlusszeugnis beziehungsweise in das Versetzungszeugnis übertragen. In der Spalte Bemerkungen ist aufzunehmen:
 
 ***"Die Note in \_\_\_\_\_\_\_\_\_ wurde aufgrund der Sprachprüfung gemäß RdErl. d. KM v. 10.03.1992 (BASS 13-61 Nr. 1) erteilt."***
 
@@ -62,7 +64,7 @@ Die GER-Referenzniveau wird unter den Fremdsprachennachweisen mit erreichten Niv
 
 ### Zeugnis: Abschlusszeugnis oder Versetzungszeugnis Ende der EF im Prüfungsjahr (je nach Laufbahn)
 
-Die Prüfungsnote wird von der Schule, der Einrichtung der Weiterbildung bzw. der besonderen Einrichtung des Schulwesens anstelle der 2. oder 3. Wahlpflichtfremdsprache in das Abschlusszeugnis bzw. in das Versetzungszeugnis übertragen. In der Spalte Bemerkungen ist aufzunehmen:
+Die Prüfungsnote wird von der Schule, der Einrichtung der Weiterbildung beziehungsweise der besonderen Einrichtung des Schulwesens anstelle der 2. oder 3. Wahlpflichtfremdsprache in das Abschlusszeugnis beziehungsweise in das Versetzungszeugnis übertragen. In der Spalte Bemerkungen ist aufzunehmen:
 
 "Die Note in \_\_\_\_\_\_\_\_\_ wurde aufgrund der Sprachprüfung gemäß RdErl. d. KM v. 10.03.1992 (BASS 13-61 Nr. 1) erteilt."
 
@@ -100,7 +102,7 @@ Am Ende der Sekundarstufe I ermöglicht die Schule diesen Schülerinnen und Sch�
 
 ### Zeugnis: Abschlusszeugnis oder Versetzungszeugnis Ende der SI
 
-Die Prüfungsnote wird von der Schule, der Einrichtung der Weiterbildung bzw. der besonderen Einrichtung des Schulwesens anstelle der 2. oder 3. Fremdsprache in das Abschlusszeugnis bzw. in das Versetzungszeugnis übertragen. In der Spalte Bemerkungen ist aufzunehmen:
+Die Prüfungsnote wird von der Schule, der Einrichtung der Weiterbildung beziehungsweise der besonderen Einrichtung des Schulwesens anstelle der 2. oder 3. Fremdsprache in das Abschlusszeugnis beziehungsweise in das Versetzungszeugnis übertragen. In der Spalte Bemerkungen ist aufzunehmen:
 
 ***"Die Note in \_\_\_\_\_\_\_\_\_ wurde aufgrund der Sprachprüfung gemäß RdErl. d. KM v. 10.03.1992 (BASS 13-61 Nr. 1) erteilt."***
 
@@ -171,10 +173,10 @@ Legen Sie ein Fach für die Prüfungssprache an (Schulverwaltung - Unterrichtsf�
 
 - ASD-Bezeichnung: Sonstige Sprache
 - Fächergruppe für Zeugnisdruck: Fremdsprachen
-- interne Kurzform: z.B. FSP Türkisch
-- Bezeichnung: z.B. FSP Türkisch
-- Bezeichnung im Zeugnis: z.B. Türkisch
-- Bezeichnung im Überweisungszeugnis: z.B. Türkisch
+- interne Kurzform: zum Beispiel FSP Türkisch
+- Bezeichnung: zum Beispiel FSP Türkisch
+- Bezeichnung im Zeugnis: zum Beispiel Türkisch
+- Bezeichnung im Überweisungszeugnis: zum Beispiel Türkisch
 - Sonstige Einstellungen: Fremdsprache, Auf Zeugnis, Sichtbar
 
 Hinweis: Nach Anlegen des Faches sollte Schild-NRW einmalig neu gestartet werden.
@@ -189,11 +191,11 @@ Hinweis: Nach Anlegen des Faches sollte Schild-NRW einmalig neu gestartet werden
 
 Tragen Sie das Fach in die Sprachenfolge auf dem Reiter Laufbahninfo ein:
 
-- Fremdsprache: z.B. FSP Türkisch
+- Fremdsprache: zum Beispiel FSP Türkisch
 - Reihenfolge/Sprachenprüfung/Nachweis: Nachweis
 - Referenzniveau: A2/B1 (EESA) oder B1 (MSA)
-- von Jahrgang/Abschnitt: leer lassen, ggf. mit der Taste Entf. leeren
-- bis Jahrgang/Abschnitt: leer lassen, ggf. mit der Taste Entf. leeren
+- von Jahrgang/Abschnitt: leer lassen, gegebenenfalls mit der Taste Entf. leeren
+- bis Jahrgang/Abschnitt: leer lassen, gegebenenfalls mit der Taste Entf. leeren
 
 <a id="Leistungsdaten_für_Abschluss-_und_Versetzungszeugnis"></a>
 <a id="Leistungsdaten_f.C3.BCr_Abschluss-_und_Versetzungszeugnis"></a>
@@ -206,7 +208,7 @@ Tragen Sie das Fach in die Sprachenfolge auf dem Reiter Laufbahninfo ein:
 
 Fügen Sie den Leistungsdaten ein Fach hinzu:
 
-- Fach: z.B. FSP Türkisch
+- Fach: zum Beispiel FSP Türkisch
 - Auf Zeugnis: Aktiviert
 - Kursart: leer
 - Lehrkraft: leer

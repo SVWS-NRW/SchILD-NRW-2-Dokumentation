@@ -11,6 +11,8 @@ title: "WaehleDatumUndZeit"
 
 ## Beschreibung
 
+Öffnet einen Dialog zur Auswahl von Datum und Uhrzeit. Der Rückgabewert zeigt an, ob der Dialog bestätigt wurde.
+
 ```pascal
 function WaehleDatumUndZeit(Hinweis: String; Var Datum, Uhrzeit: Datetime): Boolean;
 ```
@@ -23,7 +25,6 @@ function WaehleDatumUndZeit(Hinweis: String; Var Datum, Uhrzeit: Datetime): Bool
 | `Datum` | Platzhalter für die zu wählenden Daten |
 | `Uhrzeit` | Platzhalter für die zu wählenden Daten |
 
-
 ## Rückgabewert
 
 TRUE, falls der Dialog mit Ok beendet wurde, sonst FALSE
@@ -34,7 +35,6 @@ TRUE, falls der Dialog mit Ok beendet wurde, sonst FALSE
 If WaehleDatum('Bitte Beginn der Veranstaltung
                 eingeben',lDatum,lUhrzeit) then...
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

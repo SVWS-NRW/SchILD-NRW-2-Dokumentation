@@ -6,11 +6,11 @@ title: "Statistikfehler finden"
 
 # Statistikfehler finden
 
-Wenn Sie diesen Menüpunkt anwählen, werden Ihnen Statistik-Fehler angezeigt.
+Mit diesem Filter suchen Sie Schülerdatensätze, bei denen die Statistikprüfung Fehler meldet. Die gefundenen Personen werden in der Schülerliste angezeigt, damit Sie die betreffenden Angaben prüfen können.
 
 Was sind nun Statistik-Fehler?
 
-Wenn Sie Ihre Schild-Daten für die Haupterhebung in das Programm ASDPC32 übertragen wollen, werden Ihre Daten geprüft. Die Schüler, bei denen in diesem Prüfverfahren Fehler oder fehlende Einträge festgestellt wurden, werden hier im Container angezeigt. Aufgrund der Fehlerbeschreibung kann man sehr schnell die Daten bereinigen.
+Wenn Sie Ihre Schild-Daten für die Haupterhebung in das Programm ASDPC32 übertragen wollen, werden Ihre Daten geprüft. Die Schüler, bei denen in diesem Prüfverfahren Fehler oder fehlende Einträge festgestellt wurden, werden hier im Container angezeigt. Aufgrund der Fehlerbeschreibung können Sie sehr schnell die Daten bereinigen.
 
 Wie kann ich das Prüfverfahren starten?
 

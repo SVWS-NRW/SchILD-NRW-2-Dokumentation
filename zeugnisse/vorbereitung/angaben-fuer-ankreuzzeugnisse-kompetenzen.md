@@ -11,7 +11,7 @@ title: "Ankreuzkompetenzen einrichten"
 
 ## Einträge in der Schulverwaltung
 
-Um Ankreuzzeugnisse (z.B. für Inklusionsschülerinnen und -schüler) zu erstellen, müssen zunächst die Kompetenzen für jedes Fach und jede Jahrgangstufe im Programm hinterlegt werden. Dies geschieht in der **Schulverwaltung** unter **Ankreuzkompetenzen**.
+Um Ankreuzzeugnisse (zum Beispiel für Inklusionsschülerinnen und -schüler) zu erstellen, müssen zunächst die Kompetenzen für jedes Fach und jede Jahrgangstufe im Programm hinterlegt werden. Dies geschieht in der **Schulverwaltung** unter **Ankreuzkompetenzen**.
 
 ![Kompetenzen](/bilder/zeugnisse/vorbereitung/kompetenzen.png)
 

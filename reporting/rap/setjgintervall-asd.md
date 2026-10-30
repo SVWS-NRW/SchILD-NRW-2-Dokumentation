@@ -11,6 +11,8 @@ title: "SetJgIntervall ASD"
 
 ## Beschreibung
 
+Legt fest, für welche Jahrgänge eine Leistungsübersicht erzeugt werden soll. Die Jahrgänge werden als Liste übergeben.
+
 ```pascal
 function SetJgIntervall_ASD(Const aJahrgangsliste: String): Boolean;
 ```
@@ -21,7 +23,6 @@ function SetJgIntervall_ASD(Const aJahrgangsliste: String): Boolean;
 | --- | --- |
 | `aJahrgangsliste` | Liste der Jahrgänge, für die eine Übersicht erzeugt werden soll |
 
-
 ## Beispiel
 
 ```pascal
@@ -31,7 +32,6 @@ Procedure ReportBeforePrint;
      ShowMessage('Dieser Report ist für den Quartalsbetrieb nicht geeignet');
  end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

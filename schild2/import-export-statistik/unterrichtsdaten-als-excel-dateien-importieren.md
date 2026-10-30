@@ -8,7 +8,7 @@ title: "Unterrichtsdaten aus Excel importieren"
 
 ![UVDExelImport](/bilder/schild2/import-export-statistik/uvdexelimport.jpg)
 
-Hier können Sie Unterrichts- bzw. Leistungsdaten über eine Excelliste importieren.
+Hier können Sie Unterrichts- beziehungsweise Leistungsdaten über eine Excelliste importieren.
 
 Wenn Sie auf den Button "Informationen anzeigen" klicken, bekommen Sie folgende Erklärung:
 
@@ -30,7 +30,7 @@ Die Klassenbezeichnung, muss in der Klassen-/Versetzungstabelle vorhanden sein. 
 
 **Spalte 3: Schuljahr**
 
-**Spalte 4: Halbjahr bzw. Quartal**
+**Spalte 4: Halbjahr beziehungsweise Quartal**
 
 **Spalte 5: Jahrgang (optional)**
 
@@ -52,7 +52,7 @@ Anz. Wochenstunden, die vom Kursleiter gehalten werden, falls leer, wird Gesamt-
 
 **Spalte 10: Lehrer**
 
-Kursleiter bzw. Fachlehrer (als schulinternes Kürzel)
+Kursleiter beziehungsweise Fachlehrer (als schulinternes Kürzel)
 
 **Wichtig:**
 
@@ -90,7 +90,7 @@ Falls die Kursbezeichnung (Spalte 1) nicht leer ist, können hier im Wechsel bel
 
  \| 06B \| 2006 \| 2 \|   \| SP \| PUT \| 2 \|   \| Bo \| N \|   \| 1 \| ALD\
 
-**Beispiel 3:** 2-stündiger Sportkurs "Volleyball" in Jahrgang 07 im 2. Hj. 2006/07, 1 Std. bei Lehrer "BO", 1 Std. bei Lehrer "ALD", wird nur als Kurs eingerichtet (d.h. keine Zuweisungen bei Schülern)
+**Beispiel 3:** 2-stündiger Sportkurs "Volleyball" in Jahrgang 07 im 2. Hj. 2006/07, 1 Std. bei Lehrer "BO", 1 Std. bei Lehrer "ALD", wird nur als Kurs eingerichtet (das heißt keine Zuweisungen bei Schülern)
 
 Volleyball \|   \| 2006 \| 2 \| 07 \| SP \| AGGT \| 2 \| 1 \| BO \| N \|   \| 1 \| ALD\
 

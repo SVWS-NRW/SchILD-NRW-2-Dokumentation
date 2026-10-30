@@ -46,9 +46,9 @@ Es ist nun zu sehen, dass sich das Menü in der Kopfzeile verändert hat. Diese 
 
 ![ASDPC_Import](/bilder/schild2/import-export-statistik/asdpc-import.png)
 
-Hier können von anderen Programmen erstellte Daten eingelesen werden, z.B. von SchILD NRW. Je nach Schulform können eventuell auch weitere Dateien eingelesen werden.
+Hier können von anderen Programmen erstellte Daten eingelesen werden, zum Beispiel von SchILD NRW. Je nach Schulform können eventuell auch weitere Dateien eingelesen werden.
 
-Hier sind die Daten in der Reihenfolge des Menüs einzulesen. Daher es müssen zuerst die Schuldaten über die Vorgabedaten eingelesen werden, dann die Daten zu SuS, dann Lehrkraftdaten und schließlich die Unterrichtsverteilung. Dass Daten erfolgreich importiert wurden, bedeutet jedoch nicht, dass diese fehlerfrei sind. Bitte prüfen Sie an dieser Stelle schon von ASDPC gemeldete Unstimmigkeiten und beseitigen Sie diese in Ihrem Schulverwaltsprogramm und nehmen Sie dann einen erneuten Import vor.
+Hier sind die Daten in der Reihenfolge des Menüs einzulesen. Daher es müssen zuerst die Schuldaten über die Vorgabedaten eingelesen werden, dann die Daten zu Schülerinnen und Schülern, dann Lehrkraftdaten und schließlich die Unterrichtsverteilung. Dass Daten erfolgreich importiert wurden, bedeutet jedoch nicht, dass diese fehlerfrei sind. Bitte prüfen Sie an dieser Stelle schon von ASDPC gemeldete Unstimmigkeiten und beseitigen Sie diese in Ihrem Schulverwaltsprogramm und nehmen Sie dann einen erneuten Import vor.
 
 Diese Daten können importiert werden
 
@@ -70,7 +70,7 @@ Die Vorgabedaten enthalten u.a. die Adresse der Schule. Ändert sich diese, ist 
 
 Das Einlesen der Lehrerdaten ist optional. In ihnen finden sich auch eventuell noch fehlende Lehreridentnummern (LID).
 
-Zum Einlesen müssen die passenden Dateien gewählt werden. Vom Standard bietet ASDPC den Ordner "Eingang" im ASDPC-Installationsverzeichnis an. Hat man die von anderen Programmen exportierten Daten oder die Vorgabedaten in einem anderen Verzeichnis abgelegt, lassen sich die Dateien dort finden. Hier im Beispiel lassen sich noch verschlüsselte oder schon unverschlüsselte Vorgabedaten anwählen.
+Zum Einlesen müssen die passenden Dateien gewählt werden. Vom Standard bietet ASDPC den Ordner "Eingang" im ASDPC-Installationsverzeichnis an. Haben Sie die von anderen Programmen exportierten Daten oder die Vorgabedaten in einem anderen Verzeichnis abgelegt, lassen sich die Dateien dort finden. Hier im Beispiel lassen sich noch verschlüsselte oder schon unverschlüsselte Vorgabedaten anwählen.
 
 ![ASDPC_Import_Vorgabedaten](/bilder/schild2/import-export-statistik/asdpc-import-vorgabedaten.png)
 
@@ -81,7 +81,7 @@ Der Import von Daten überschreibt den aktuellen Stand dieser Daten. Vor einem (
 :::
 
 :::info
-Die *Abteilungsdaten* werden benötigt, wenn mehrere Personen - eventuell auch an unterschiedlichen Standorten mit unterschiedlichen Datenträgern - an der Statistik arbeiten. Über diesen Import ist das Zusammenführen dieser Daten möglich. Ist ein solches verteiltes Arbeiten bei Ihnen nicht der Fall bzw. die Abteilungen sind digital vernetzt, muss hier nichts eingelesen werden.
+Die *Abteilungsdaten* werden benötigt, wenn mehrere Personen - eventuell auch an unterschiedlichen Standorten mit unterschiedlichen Datenträgern - an der Statistik arbeiten. Über diesen Import ist das Zusammenführen dieser Daten möglich. Ist ein solches verteiltes Arbeiten bei Ihnen nicht der Fall beziehungsweise die Abteilungen sind digital vernetzt, muss hier nichts eingelesen werden.
 :::
 
 <a id="Datei_➥_Export"></a>
@@ -182,14 +182,14 @@ Vor dem Abschicken an IT.NRW muss eine Gesamtprüfung und Auswertung des Fehlerp
 
 Über "Prüfen" ➥ "Prüfbericht" können Sie sich die Fehler mit oder ohne Beschreibungen anzeigen lassen, auch ein Ausdruck ist hier nun möglich. Der Prüfbericht kann drei Arten von Fehlern beinhalten:
 
-- Harte Fehler (rot markiert): Ein Fehlerbericht kann nur *ohne* Harte Fehler abgeschickt werden. Diese müssen bereinigt werden. Beispiele für Harte Fehler wären etwa falsche Schlüssel wie nicht existierende Staatsangehörigkeiten, Klassen ohne Bildungsgang oder mehr ausländische SuS in einer Klasse als es SuS gibt.
-- Muss-Fehler (orange markiert): Der Prüfbericht kann abgeschickt werden, wenn er M-Fehler enthält. Sie treten auf, wenn wie bei den Harten Fehlern eigentlich unlogische Eintragungen auftreten, z.B. ein BK-Schüler mit Herkunft "Grundschule". Bilden diese aber die Realität ab und wurde der Einzelfall ausdrücklich von der Schulaufsicht genehmigt, muss der Fehler nicht korrigiert werden. Alle Muss-Fehler müssen einzeln geprüft werden.
+- Harte Fehler (rot markiert): Ein Fehlerbericht kann nur *ohne* Harte Fehler abgeschickt werden. Diese müssen bereinigt werden. Beispiele für Harte Fehler wären etwa falsche Schlüssel wie nicht existierende Staatsangehörigkeiten, Klassen ohne Bildungsgang oder mehr ausländische Schülerinnen und Schüler in einer Klasse als es Schülerinnen und Schüler gibt.
+- Muss-Fehler (orange markiert): Der Prüfbericht kann abgeschickt werden, wenn er M-Fehler enthält. Sie treten auf, wenn wie bei den Harten Fehlern eigentlich unlogische Eintragungen auftreten, zum Beispiel ein BK-Schüler mit Herkunft "Grundschule". Bilden diese aber die Realität ab und wurde der Einzelfall ausdrücklich von der Schulaufsicht genehmigt, muss der Fehler nicht korrigiert werden. Alle Muss-Fehler müssen einzeln geprüft werden.
 - Hinweise (gelb markiert): Ein Hinweis macht auf eventuelle Fehler aufmerksam, die geprüft werden müssen. Bilden die Eintragungen den Sachverhalt an Ihrer Schule korrekt ab, kann er belassen werden.
 
 :::danger
 Zusammenfassend:\
 *Harte Fehler* müssen entfernt werden.\
-*Muss-Fehler* müssen minimiert werden, nach Absprache mit der Schulaufsicht können sie u.U. bleiben.\
+*Muss-Fehler* müssen minimiert werden, nach Absprache mit der Schulaufsicht können sie unter Umständen bleiben.\
 *Hinweise* sind zu prüfen. Das Ziel hier ist nicht aufgrund von künstlichen Eintragungen die Fehlerzahl niedrig zu halten, sondern den Ist-Zustand an Ihrer Schule so zutreffend wie möglich abzubilden.
 :::
 
@@ -216,7 +216,7 @@ Nachdem Sie die [Statistik vorbereitet](/schild2/import-export-statistik/statist
 - SIM.txt
 - Lehrer.txt
 - UVD.txt - dies ist an kleinen Schulen eventuell nicht notwendig; liegt die UVD ohnehin digital vor, etwa weil ein online-Vertretungsplan genutzt wird oder weil zeitabhängige Lehrerdaten in SchILD erfasst werden, kann diese aber auch eingelesen werden.
-- ABI.txt - an Grundschulen usw. i.d.R. nicht notwendig. ;)
+- ABI.txt - an Grundschulen usw. in der Regel nicht notwendig. ;)
 
 ![ASDPC_Belege_in_der_HE](/bilder/schild2/import-export-statistik/asdpc-belege-in-der-he.png)
 
@@ -287,7 +287,7 @@ Unterhalb der Steuerleiste befinden sich die Datensätze. Diese können mit eine
 
 ![ASDPC_B_Daten_zu_Satz](/bilder/schild2/import-export-statistik/asdpc-b-daten-zu-satz.png)
 
-Klickt man auf das jeweilige Kopffeld einer Spalte, wird nach dieser Spalte sortiert. Die Sortierung kann mit einem Klick auf *Standardsortierung* wieder aufgehoben werden.
+Klicken Sie auf das jeweilige Kopffeld einer Spalte, wird nach dieser Spalte sortiert. Die Sortierung kann mit einem Klick auf *Standardsortierung* wieder aufgehoben werden.
 
 Unter den Datensätzen - die lassen sich rechts mit einem Balken scrollen - befinden sich in der Fußleiste weitere mit diesem Datensatz verknüpfte Felder. Hier in diesem Fall der Lehrerdaten LID123 sind dies die Lehrämter, Ausbildung, Fächer, Mehr- und Minderleistung und Nichtunterrichtliche Tätigkeiten.
 
@@ -335,35 +335,35 @@ Jede abweichende Kombination aus "Jahrgang" und "Parallelität" bedeutet für AS
 **Sollte dies notwendig werden, müssen über "Prüfen" ➥ "Abgleich KLD → UVD" und "Abgleich UVD → KLD" in den jeweiligen Belegen die Klassenkürzel angepasst werden.**
 :::
 
-In der folgenden Spalte (413) werden die unterschiedlichen Teilklassen von Mischklassen (daher TKM 413) erfasst. Hier im Beispiel wäre dies die Klasse 05A, in welcher 26 SuS ohne Förderschwerpunkt (Zeile 1), zwei Schüler mit dem Förderschwerpunkt "LB" (Zeile 2) und einer mit dem Förderschwerpunkt "SG" (Zeile 3) erfasst sind.
+In der folgenden Spalte (413) werden die unterschiedlichen Teilklassen von Mischklassen (daher TKM 413) erfasst. Hier im Beispiel wäre dies die Klasse 05A, in welcher 26 Schülerinnen und Schüler ohne Förderschwerpunkt (Zeile 1), zwei Schüler mit dem Förderschwerpunkt "LB" (Zeile 2) und einer mit dem Förderschwerpunkt "SG" (Zeile 3) erfasst sind.
 
 In den folgenden Spalten sind oft die möglichen Felder per Dropdown-Eintrag auszuwählen, wobei bei der Menüauswahl der Schlüssel zu einer wörtlichen Ausformulierung aufgelöst wird.
 
 - Schulgliederung (420) - Bleibt für "Standard für diese Schulform" leer.
-- Klassenart (431) - z.B. "RK" für "Regelklasse".
-- Organisationsform (435) - z.B. "2" für Teilnahme am gebundenen Ganztag.
+- Klassenart (431) - zum Beispiel "RK" für "Regelklasse".
+- Organisationsform (435) - zum Beispiel "2" für Teilnahme am gebundenen Ganztag.
 - Jahrgang für diese Teilklasse (440)
 - Es folgen die möglichen Förderschwerpunkte 1 (4441) und 2 (4412), sowie der Schalter bei einem Anspruch auf "intensivpädagogische Förderung bei Schwerstbehinderung" (442).
 - Reformpädagogik (443) - für "ohne" bleibt der Eintrag leer.
-- Lehrkraft (450) der Teilklasse - ggf. ist hier bei mehreren Teilklassen die gleiche Lehrkraft mehrfach einzutragen.
+- Lehrkraft (450) der Teilklasse - gegebenenfalls ist hier bei mehreren Teilklassen die gleiche Lehrkraft mehrfach einzutragen.
 
 :::warning
-Für weitere Beispiele und aktuelle - und sich ggf. über die Jahre ändernde! - Eintragungskonventionen konsultieren Sie die für Ihre Schulform geltenden Eintragungshilfe des aktuellen Schuljahres.
+Für weitere Beispiele und aktuelle - und sich gegebenenfalls über die Jahre ändernde! - Eintragungskonventionen konsultieren Sie die für Ihre Schulform geltenden Eintragungshilfe des aktuellen Schuljahres.
 :::
 
-Es folgt die Erfassung der Gesamtschüler/innenzahlen. Hierbei erfasst ASDPC immer zuerst alle SuS (510) und dann die \*\*davon\*\* weiblichen (510W). Diese Eintragung wiederholt sich in den Spalten 870 und 870W für die ausländischen SuS.
+Es folgt die Erfassung der Gesamtschüler/innenzahlen. Hierbei erfasst ASDPC immer zuerst alle Schülerinnen und Schüler (510) und dann die \*\*davon\*\* weiblichen (510W). Diese Eintragung wiederholt sich in den Spalten 870 und 870W für die ausländischen Schülerinnen und Schüler.
 
-Unten im Fuß des Belegs wird für jede Klasse die \*\*schulische Herkunft\*\* der jeweiligen Teilnehmer/innen erfasst. Hierbei wird für alle SuS mit gemeinsamen Daten eine Zeile angelegt. Der erste Eintrag ist hier die Schulnummer (609), dann folgt die Schulform (610) dieser Schule und die Art (611) der Herkunft. In der Grundschule findet noch eine Unterscheidung nach den Grundschulempfehlungen (611A) statt. Es erfolgt dann eine Erfassung der Gesamtzahlen (612) mit "Davon weiblich" (14) und dann die Aufschlüsselung, wer Ausländer-/in ist (613 und 613W) für diesen Eintrag.
+Unten im Fuß des Belegs wird für jede Klasse die \*\*schulische Herkunft\*\* der jeweiligen Teilnehmer/innen erfasst. Hierbei wird für alle Schülerinnen und Schüler mit gemeinsamen Daten eine Zeile angelegt. Der erste Eintrag ist hier die Schulnummer (609), dann folgt die Schulform (610) dieser Schule und die Art (611) der Herkunft. In der Grundschule findet noch eine Unterscheidung nach den Grundschulempfehlungen (611A) statt. Es erfolgt dann eine Erfassung der Gesamtzahlen (612) mit "Davon weiblich" (14) und dann die Aufschlüsselung, wer Ausländer-/in ist (613 und 613W) für diesen Eintrag.
 
 :::info
-Bei der Art würden bei einer weiterführenden Schule in Jahrgang 05 diverse Grundschulen erscheinen, von denen die SuS zusammengekommen sind, die dann noch nach den Empfehlungen aufgeschlüsselt werden. In Jahrgang 06 und aufwärts werden die meisten SuS von der eigenen Schule per Wiederholung oder Versetzung erfasst werden und nur Schulwechsler würden von einer anderen Schule kommen.
+Bei der Art würden bei einer weiterführenden Schule in Jahrgang 05 diverse Grundschulen erscheinen, von denen die Schülerinnen und Schüler zusammengekommen sind, die dann noch nach den Empfehlungen aufgeschlüsselt werden. In Jahrgang 06 und aufwärts werden die meisten Schülerinnen und Schüler von der eigenen Schule per Wiederholung oder Versetzung erfasst werden und nur Schulwechsler würden von einer anderen Schule kommen.
 :::
 
 :::info
-In den Fußfeldern können neue Einträge jeweils oben links mit dem entsprechenden Symbol erstellt, ausgewählte Zeilen auch gelöscht bzw. kopiert werden.
+In den Fußfeldern können neue Einträge jeweils oben links mit dem entsprechenden Symbol erstellt, ausgewählte Zeilen auch gelöscht beziehungsweise kopiert werden.
 :::
 
-Rechts neben der "Herkunft der Schüler-/innen" werden die Auslandsherkünfte der SuS in dem zugehörigen Eintrag links weiter aufgeschlüsselt. Hier sind die Staatsangehörigkeit (810), die Gesamtzahl (811) und wieder "Davon weiblich" (811W) zu erfassen.
+Rechts neben der "Herkunft der Schüler-/innen" werden die Auslandsherkünfte der Schülerinnen und Schüler in dem zugehörigen Eintrag links weiter aufgeschlüsselt. Hier sind die Staatsangehörigkeit (810), die Gesamtzahl (811) und wieder "Davon weiblich" (811W) zu erfassen.
 
 Schlussendlich können Einträge für die "Betreuung" mit einer Art (970) angelegt werden, auch hier wird wieder eine Gesamtzahl (971) erfasst.
 
@@ -379,11 +379,11 @@ In Optionen ➥ Unterrichtseinheiten in Minuten kann zwischen dem 45-Minuten-Mod
 
 ![ASDPC_UVD1](/bilder/schild2/import-export-statistik/asdpc-uvd1.png)
 
-Für den einfachsten Fall, dass alle SuS einer Klasse an einer Unterrichtseinheit teilnehmen, sind in der Zeile ein Jahrgang (110) und eine Parallelität (111) zu wählen. Der Bildungsgang bleibt bei fast allen Schulformen als "Standard für diese Schulform" leer; bei Gymnasien ist er auszufüllen (G8, G9, Aufbaugymnasium). Die Art der Gruppe (112) bleibt ebenfalls leer.
+Für den einfachsten Fall, dass alle Schülerinnen und Schüler einer Klasse an einer Unterrichtseinheit teilnehmen, sind in der Zeile ein Jahrgang (110) und eine Parallelität (111) zu wählen. Der Bildungsgang bleibt bei fast allen Schulformen als "Standard für diese Schulform" leer; bei Gymnasien ist er auszufüllen (G8, G9, Aufbaugymnasium). Die Art der Gruppe (112) bleibt ebenfalls leer.
 
 Es fehlen noch das Fach (121) und die Lehrkraft (130), die aus dem Dropdown-Menü ausgewählt werden.
 
-Zusätzliche Teilnehmer (140 und 141) sind nicht einzutragen, da ASDPC davon ausgeht, dass alle SuS der Klasse an diesen Unterrichten teilnehmen.
+Zusätzliche Teilnehmer (140 und 141) sind nicht einzutragen, da ASDPC davon ausgeht, dass alle Schülerinnen und Schüler der Klasse an diesen Unterrichten teilnehmen.
 
 :::info
 Über den *Bildungsgang* lassen sich Unterrichte mit angeschlossenen Bildungsgängen und Bildungszweigen abbilden. So würde eine Gesamtschule mit einem angeschlossenen gymnasialen Bildungszweig eine Klasse hier als Bildungsgang "GY" anlegen.
@@ -393,7 +393,7 @@ Mit den Folgezeilen "Team-Teaching" und "Schüler-Folgezeile" lassen sich viele 
 
 ![UVD_3](/bilder/schild2/import-export-statistik/uvd-3.png)
 
-Hat man eine leere UVD vor sich, kann mit dem Symbol "Satz einfügen" eine neue Zeile eingefügt werden, die dann über die erste Spalte "Zeilenart" auf "H - Hauptteile", "F- Schüler-Folgezeile" oder "T - Team-Teaching" gesetzt werden kann. Möchte man eine Zeile in einer existierenden UVD-Tabelle anlegen, so gelingt dies über das Menü "Folgezeilen".
+Haben Sie eine leere UVD vor sich, kann mit dem Symbol "Satz einfügen" eine neue Zeile eingefügt werden, die dann über die erste Spalte "Zeilenart" auf "H - Hauptteile", "F- Schüler-Folgezeile" oder "T - Team-Teaching" gesetzt werden kann. Möchte man eine Zeile in einer existierenden UVD-Tabelle anlegen, so gelingt dies über das Menü "Folgezeilen".
 
 In der Abbildung oben ist zu sehen, dass sich beim Team-Teachung lediglich eine neue Lehrkraft mit dann entsprechender Stundenzahl eintragen lässt. Alle anderen Einträge sind ausgegraut und wie die Hauptzeile.
 
@@ -406,18 +406,18 @@ Die Abbildung oben zeigt zwei Beispiele:
 1\. Die *Hauptzeile* H 0159 hat eine *Folgezeile* F 0159. In der Hauptzeile findet im Jahrgang 07 vierstündig Sport bei Lehrkraft L10 mit 14 Teilnehmern statt (7 davon weiblich). In *diesem* Sportkurs befindet sich eine weitere Gruppe aus dem Jahrgang 06 fünf weitere Teilnehmer (davon 3 weiblich). Felder, die in Folgezeilen nicht gesetzt werden können, sind ausgegraut - in Folgezeilen lassen sich also keine Parallelität, keine weiteren Wochenstunden oder neue Lehrkräfte setzen.\
 Es lassen sich nach Bedarf weitere Folgezeilen hinzufügen.
 
-Über Folgezeilen lässt sich z.B. gemeinsamer Unterricht von unterschiedlichen Bildungsgängen abbilden. Hier wären dann bei ansonsten identischen Hauptzeile und Folgezeilen unterschiedliche Bildungsgänge und Arten der Gruppe (112) einzutragen; am Ende stünden dann die jeweiligen Teilnehmendenzahlen.
+Über Folgezeilen lässt sich zum Beispiel gemeinsamer Unterricht von unterschiedlichen Bildungsgängen abbilden. Hier wären dann bei ansonsten identischen Hauptzeile und Folgezeilen unterschiedliche Bildungsgänge und Arten der Gruppe (112) einzutragen; am Ende stünden dann die jeweiligen Teilnehmendenzahlen.
 
 2\. Die *Hauptzeile* H 0162 wird von einer *Team-Teaching-Zeile* T 0162 gefolgt. Hier lassen sich weitere Lehrkräfte mit einer Stundenzahl setzen. Alle andere Felder sind ausgegraut und nicht veränderbar, da am Unterricht der Hauptzeile ansonsten nichts verändert wird.\
 Es lassen sich nach Bedarf weitere Team-Teaching-Zeilen hinzufügen.
 
 Folgezeilen und Team-Teaching-Zeilen lassen sich auch kombinieren, etwa um abzubilden, dass ein Unterricht mit Gruppen aus unterschiedlichen Jahrgängen (teilweise) von mehreren Lehrkräften durchgeführt wird.
 
-Über die Spalte Schüler anderer Schulen (109) lassen sich Teilnehmende über Hauptzeilen oder Folgezeilen als externe SuS kenntlich machen.
+Über die Spalte Schüler anderer Schulen (109) lassen sich Teilnehmende über Hauptzeilen oder Folgezeilen als externe Schülerinnen und Schüler kenntlich machen.
 
 Bilingualer Unterricht wird über die Spalte 160 erfasst. Hier ist die Sprache einzutragen ("F", "E" usw.).
 
-Gemischtkonfessioneller Religionsunterricht wird über zwei Hauptzeilen erfasst, da die Fächer eigenständig erhalten bleiben und die evangelischen bzw. katholischen Lehrkräfte im Wechsel unterrichten. Ein solcher Unterricht muss zuvor durch die Schulaufsicht genehmigt werden.
+Gemischtkonfessioneller Religionsunterricht wird über zwei Hauptzeilen erfasst, da die Fächer eigenständig erhalten bleiben und die evangelischen beziehungsweise katholischen Lehrkräfte im Wechsel unterrichten. Ein solcher Unterricht muss zuvor durch die Schulaufsicht genehmigt werden.
 
 :::info
 Weitere angepasste Beispiele und Konventionen finden sich in den Eintragungshilfen für das aktuelle Jahr.
@@ -434,7 +434,7 @@ In diesem Beleg werden jahrgangsweise die Religionszugehörigkeiten und Abmeldun
 
 :::info
 Beachten Sie bitte hierzu die aktuellen Eintragungshilfen.\
-So sind z.B. nur Mitglieder der Evangelischen Kirche als "evangelisch" zu erfassen. SuS die zu einer Evangelischen Freikirche gehören, sind als "Andere" zu erfassen. Weiterhin ist festgelegt, welche Orthodoxen Kirchen unter "Orthodox" einzutragen sind und welche getrennt zu erfassen sind.
+So sind zum Beispiel nur Mitglieder der Evangelischen Kirche als "evangelisch" zu erfassen. Schülerinnen und Schüler die zu einer Evangelischen Freikirche gehören, sind als "Andere" zu erfassen. Weiterhin ist festgelegt, welche Orthodoxen Kirchen unter "Orthodox" einzutragen sind und welche getrennt zu erfassen sind.
 :::
 
 <a id="Beleg:_SCD012_-_Abgänger"></a>
@@ -442,15 +442,15 @@ So sind z.B. nur Mitglieder der Evangelischen Kirche als "evangelisch" zu erfass
 
 #### Beleg: SCD012 - Abgänger
 
-In diesem Beleg werden die SuS erfasst, welche die Schule **am Ende des abgelaufenen Schuljahres** nach **Beendigung ihrer Vollschulzeitpflicht** verlassen haben. D.h. geht es darum, die regulär abgehenden SuS zu erfassen.
+In diesem Beleg werden die Schülerinnen und Schüler erfasst, welche die Schule **am Ende des abgelaufenen Schuljahres** nach **Beendigung ihrer Vollschulzeitpflicht** verlassen haben. D.h. geht es darum, die regulär abgehenden Schülerinnen und Schüler zu erfassen.
 
-*Nicht* zu erfassen sind SuS, die
+*Nicht* zu erfassen sind Schülerinnen und Schüler, die
 
 - an der Schule verbleiben
 - vor dem Erreichen der Vollzeitschulpflicht die Schule verlassen
-- **vor dem Ende des laufenden Schuljahres** die Schule ohne Abschluss verließen (z.B. Wechsler mit einem Überweisungzeugnis)
+- **vor dem Ende des laufenden Schuljahres** die Schule ohne Abschluss verließen (zum Beispiel Wechsler mit einem Überweisungzeugnis)
 
-Weiterhin zu erfassen sind SuS, die 1. **vor dem Ende des Schuljahres** zur Schule kamen, dann 2. **die Vollschulzeitpflicht beendeten** und 3. **nach dem Ende des Schuljahres** die Schule wieder verließen.
+Weiterhin zu erfassen sind Schülerinnen und Schüler, die 1. **vor dem Ende des Schuljahres** zur Schule kamen, dann 2. **die Vollschulzeitpflicht beendeten** und 3. **nach dem Ende des Schuljahres** die Schule wieder verließen.
 
 :::warning
 Es ist zwingend erforderlich, dass die Vorgabedaten *vor* jeder Bearbeitung oder dem Import von Daten aus Schulverwaltungssoftware eingelesen werden.\
@@ -458,7 +458,7 @@ Es ist zwingend erforderlich, dass die Vorgabedaten *vor* jeder Bearbeitung oder
 **Hierbei sind die Vorgabedaten auf ihre Richtigkeit zu prüfen.**
 :::
 
-Aufgrund der Tatsache, dass Vorgabedaten nur die *abschlussrelevanten Jahrgänge* ab Jahrgang 09 enthalten, kann es passieren, dass ein Schüler oder eine Schülerin die Schule nach Erreichen der Vollschulzeitpflicht in einem niedrigeren, z.B. 08, Jahrgang verlässt. Dieser niedrigere Jahrgang wäre somit händisch nachzutragen.
+Aufgrund der Tatsache, dass Vorgabedaten nur die *abschlussrelevanten Jahrgänge* ab Jahrgang 09 enthalten, kann es passieren, dass ein Schüler oder eine Schülerin die Schule nach Erreichen der Vollschulzeitpflicht in einem niedrigeren, zum Beispiel 08, Jahrgang verlässt. Dieser niedrigere Jahrgang wäre somit händisch nachzutragen.
 
 ![ASDPC_SCD012](/bilder/schild2/import-export-statistik/asdpc-scd012.png)
 
@@ -466,9 +466,9 @@ Die grünen Einträge sind vorgegeben und können nicht verändert werden.
 
 Fehlende Bildungsgänge sind nachzutragen, hierbei ist im Feld "Bemerkungen" einzutragen, wieso sie im Vorjahr nicht berücksichtigt waren.
 
-Im Block rechts unten sind wie bei den Klassendaten KLD jeweils die SuS zeilenweise zu erfassen, deren die Abschlussart (61A), Geburtsjahr (61B) und Staatsangehörigkeit (61C) gemein sind, abschließend sind die jeweiligen Anzahlen nach Gesamt (62) und weiblich (62W) aufzuführen.
+Im Block rechts unten sind wie bei den Klassendaten KLD jeweils die Schülerinnen und Schüler zeilenweise zu erfassen, deren die Abschlussart (61A), Geburtsjahr (61B) und Staatsangehörigkeit (61C) gemein sind, abschließend sind die jeweiligen Anzahlen nach Gesamt (62) und weiblich (62W) aufzuführen.
 
-Es ist zu beachten, dass SuS, die neben einer anderen Staatsangehörigkeit auch die Deutsche besitzen nicht als Ausländer gemeldet werden. Bei SuS ohne deutscher, aber dafür mehrerer anderer Staatsangehörigkeiten ist die "effektive Staatsangehörigkeit" zu melden, d.h. die, mit der sich am meisten identifiziert wird - als Indizien hierfür können Wohnsitz, Geburtsort und bisherige Lebensführung der betroffenen Schülerinnen und Schüler herangezogen werden.
+Es ist zu beachten, dass Schülerinnen und Schüler, die neben einer anderen Staatsangehörigkeit auch die Deutsche besitzen nicht als Ausländer gemeldet werden. Bei Schülerinnen und Schüler ohne deutscher, aber dafür mehrerer anderer Staatsangehörigkeiten ist die "effektive Staatsangehörigkeit" zu melden, das heißt die, mit der sich am meisten identifiziert wird - als Indizien hierfür können Wohnsitz, Geburtsort und bisherige Lebensführung der betroffenen Schülerinnen und Schüler herangezogen werden.
 
 :::info
 Es ist jeweils der höchste erreichte Abschluss einzutragen, selbst wenn er in einem vorherigen Jahrgang erworben wurde.
@@ -491,7 +491,7 @@ Hier finden sich diverse Belege für weitere Daten. Manche der Belege werden nur
 
 ![ASDPC_Abitur](/bilder/schild2/import-export-statistik/asdpc-abitur.png)
 
-In diesem Beleg sind die Abiturprüfungsergebnisse einzulesen. Diese Daten können über die von SchILD NRW erzeugte ABI.txt eingelesen werden. Es ist zu beachten, dass bei "Bild.-Gang" von Gymnasien bzw. von Gesamtschulen mit entsprechenden Bildungsgängen G8 bzw. G9 einzutragen ist. Eine Automatik ist bei einer passenden Schulform unter "Bearbeiten" anwählbar.
+In diesem Beleg sind die Abiturprüfungsergebnisse einzulesen. Diese Daten können über die von SchILD NRW erzeugte ABI.txt eingelesen werden. Es ist zu beachten, dass bei "Bild.-Gang" von Gymnasien beziehungsweise von Gesamtschulen mit entsprechenden Bildungsgängen G8 beziehungsweise G9 einzutragen ist. Eine Automatik ist bei einer passenden Schulform unter "Bearbeiten" anwählbar.
 
 Zum Ende der Bearbeitung sind wie bei vorherigen Belegen über die gelben Schaltflächen in der Kopfzeile die Daten mit "Schülersummen" und dem Beleg "SCD012" abzugleichen.
 
@@ -499,16 +499,16 @@ Zum Ende der Bearbeitung sind wie bei vorherigen Belegen über die gelben Schalt
 
 ##### Zuwanderungsgeschichte
 
-In diesem Beleg wird die Zuwanderungsgeschichte von SuS klassenweise erfasst. Hierbei ist zu beachten, dass im rechten Bereich zwei unterschiedliche Zählweisen verwendet werden:
+In diesem Beleg wird die Zuwanderungsgeschichte von Schülerinnen und Schülern klassenweise erfasst. Hierbei ist zu beachten, dass im rechten Bereich zwei unterschiedliche Zählweisen verwendet werden:
 
 ![ASDPC_ZuwGeschi](/bilder/schild2/import-export-statistik/asdpc-zuwgeschi.png)
 
-- Personen 1): Hier wird jede Person nur einmal gezählt, d.h. es handelt sich um die Summe der SuS, die irgendeine Zuwanderungsgeschichte haben
+- Personen 1): Hier wird jede Person nur einmal gezählt, das heißt es handelt sich um die Summe der Schülerinnen und Schüler, die irgendeine Zuwanderungsgeschichte haben
 - Fallzählung 2): Hier werden drei unterschiedliche Fälle differenziert erfasst und somit kann es möglich sein, dass SoS in mehren der Spalten gezählt werden müssen. Z.B. würde ein Schüler, der "nicht in Deutschland geboren" ist und bei dem "mindstens ein Elternteil nicht in Deutschland geboren" ist, aber die Verkehrssprache "Deutsch" in der Familie hat, in den ersten beiden Spalten erfasst werden.
 
 :::info
 Eine zu erfassende "Personen 1)"-Zuwanderungsgeschichte liegt dann und nur dann vor, wenn mindestens einer der Fälle in "Fallzählung 2)" erfüllt ist.\
-Somit kann es durchaus sein, dass SuS keine deutsche Staatsbürgerschaft besitzen, aber auch nicht in diesem Beleg erfasst werden.
+Somit kann es durchaus sein, dass Schülerinnen und Schüler keine deutsche Staatsbürgerschaft besitzen, aber auch nicht in diesem Beleg erfasst werden.
 :::
 
 ![ASDPC_ZuwGeschi_Kontrolle](/bilder/schild2/import-export-statistik/asdpc-zuwgeschi-kontrolle.png)
@@ -534,10 +534,10 @@ Hier werden die Wohnorte mit Postleitzahl und Wohnort nach Klassen und Teilklass
 
 ![ASDPC_Wohnorte](/bilder/schild2/import-export-statistik/asdpc-wohnorte.png)
 
-Wie schon bei anderen Belegen werden SuS mit allen übereinstimmenden Merkmalen zu einer Gruppe im Feld unterhalt der Auswahlliste zusammengefasst. Hier sind eine Postleitzahl aus NRW und dann ein dazugehörender Wohnort zu wählen.
+Wie schon bei anderen Belegen werden Schülerinnen und Schüler mit allen übereinstimmenden Merkmalen zu einer Gruppe im Feld unterhalt der Auswahlliste zusammengefasst. Hier sind eine Postleitzahl aus NRW und dann ein dazugehörender Wohnort zu wählen.
 
 :::info
-Wird die Postleitzahl geändert bzw. gewählt wird der Wohnort nicht automatisch mit gesetzt. Dieser muss anschließend aus dem Dropdown-Menü angewählt werden.
+Wird die Postleitzahl geändert beziehungsweise gewählt wird der Wohnort nicht automatisch mit gesetzt. Dieser muss anschließend aus dem Dropdown-Menü angewählt werden.
 :::
 
 Ein Wohnort außerhalb von NRW - etwa in einem anderen Bundesland oder einem von ASDPC erfassten Nachbar-Ausland Deutschlands - wird über die entsprechenden Schlüssel am Ende der Postleitzahlenliste gewählt.
@@ -552,11 +552,11 @@ Um diese Einschränkung rückgängig zu machen, steht das Feld "Auswahl zurücks
 
 ##### Altersstruktur
 
-Die SuS werden wieder nach Klassen und Teilklassen, wie in der KLD323 gesetzt, erfasst. Hierbei sind folgende SuS gemeinsam als Gruppe unterhalb der (Teil-)klassenauswahl zu erfassen:
+Die Schülerinnen und Schüler werden wieder nach Klassen und Teilklassen, wie in der KLD323 gesetzt, erfasst. Hierbei sind folgende Schülerinnen und Schüler gemeinsam als Gruppe unterhalb der (Teil-)klassenauswahl zu erfassen:
 
 ![Bild_2022-01-03_104947](/bilder/schild2/import-export-statistik/bild-2022-01-03-104947.png)
 
-Jede Gruppe besteht aus SuS mit gleichem Geburtsjahr und gleicher Staatsangehörigkeit. Damit ergibt sich, dass ausländische SuS als eigene Gruppe mit der jeweiligen Staatsangehörigkeit gesondert zur Erfassung angelegt werden.
+Jede Gruppe besteht aus Schülerinnen und Schülern mit gleichem Geburtsjahr und gleicher Staatsangehörigkeit. Damit ergibt sich, dass ausländische Schülerinnen und Schüler als eigene Gruppe mit der jeweiligen Staatsangehörigkeit gesondert zur Erfassung angelegt werden.
 
 In der Kopfzeile sind wieder die "Schülersummen" manuell einzutragen und zu bestätigen.
 
@@ -577,7 +577,7 @@ Deutschördergruppen, die nicht nach BASS 13-63 Nr. 3 eingerichtet wurden, dürf
 
 Der entsprechende Erlass kann hier nachgelesen werden: [BASS 13-63 Nr. 3](https://bass.schul-welt.de/18431.htm).
 
-Grundlegend sind alle Fördergruppen zu berücksichtigen, die für neu zugewanderte SuS eingerichtet wurden.
+Grundlegend sind alle Fördergruppen zu berücksichtigen, die für neu zugewanderte Schülerinnen und Schüler eingerichtet wurden.
 
 Der Handreichung des Ministeriums ist zu entnehmen:
 

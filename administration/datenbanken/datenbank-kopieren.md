@@ -6,7 +6,7 @@ title: "Datenbank kopieren"
 
 Wenn Sie die Schild-Datenbank kopieren möchten, können Sie wie folgt vorgehen:
 
-Das Hauptverzeichnis ist auf der Festplatte **C:\Schild-NRW** bzw. **C:\Programme(x86)\Schild-NRW**. Öffnen Sie den Arbeitsplatz (Explorer) und navigieren Sie dort hin.
+Das Hauptverzeichnis ist auf der Festplatte **C:\Schild-NRW** beziehungsweise **C:\Programme(x86)\Schild-NRW**. Öffnen Sie den Arbeitsplatz (Explorer) und navigieren Sie dort hin.
 
 ![DB-kopieren-01](/bilder/administration/datenbanken/db-kopieren-01.png)
 

@@ -4,9 +4,9 @@ title: "Abgeschlossene Fächer löschen"
 
 # Abgeschlossene Fächer löschen
 
-Dieser Gruppenprozess dient dem Löschen der zusätzlich eingetragenen abgeschlossenen Fächer bzw. deren Noten bei allen ausgewählten Schülern im aktiven Abschnitt/Halbjahr.
+Dieser Gruppenprozess dient dem Löschen der zusätzlich eingetragenen abgeschlossenen Fächer beziehungsweise deren Noten bei allen ausgewählten Schülern im aktiven Abschnitt/Halbjahr.
 
-Sollen nur bei einem einzelnen Schüler die abgeschlossenen Fächer gelöscht werden, kann man in der Übersicht SI durch einen Rechtsklick in die letzte Spalte zwischen zwei Löschmöglichkeiten wählen:
+Sollen nur bei einem einzelnen Schüler die abgeschlossenen Fächer gelöscht werden, können Sie in der Übersicht SI durch einen Rechtsklick in die letzte Spalte zwischen zwei Löschmöglichkeiten wählen:
 
 - Abgeschlossene Fächer löschen
 - Einzelnes abgeschlossenes Fach löschen

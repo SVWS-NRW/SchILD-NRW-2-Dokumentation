@@ -33,7 +33,7 @@ Diese Schritte lassen sich für die ganze Gruppe über Gruppenprozesse ausführe
 
 [Bildungsgänge der Anlage E](/zeugnisse/berufskolleg/bk-abschluss-anlage-e)
 
-Im unteren Teil der Karteikarte können in einem Feld die Themen der Abschlussarbeiten eingegeben werden. Darunter befindet sich der Bereich *Auswertung*, in dem die erreichten Abschlüsse und ggf. die Durchschnittsnoten zu finden sind.
+Im unteren Teil der Karteikarte können in einem Feld die Themen der Abschlussarbeiten eingegeben werden. Darunter befindet sich der Bereich *Auswertung*, in dem die erreichten Abschlüsse und gegebenenfalls die Durchschnittsnoten zu finden sind.
 
 ![BK-Abschluss-Reiter](/bilder/zeugnisse/berufskolleg/bk-abschluss-reiter.jpg)
 

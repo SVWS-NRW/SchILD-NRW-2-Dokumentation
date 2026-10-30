@@ -11,13 +11,12 @@ title: "SelectAdressArt"
 
 ## Beschreibung
 
+Diese Funktion bietet alle im Feld „AdressArt“ des Kataloges „Adressarten“ gefundenen
+Einträge zur Auswahl an.
+
 ```pascal
 function SelectAdressArt: String;
 ```
-
-
-Diese Funktion bietet alle im Feld „AdressArt“ des Kataloges „Adressarten“ gefundenen
-Einträge zur Auswahl an.
 
 ## Rückgabewert
 
@@ -34,7 +33,6 @@ Procedure ReportBeforePrint;
    FilterAdressArt(lAdressArt);
  end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

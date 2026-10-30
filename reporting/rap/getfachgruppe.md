@@ -11,19 +11,17 @@ title: "GetFachgruppe"
 
 ## Beschreibung
 
+bestimmt den Klartextnamen einer bestimmten Fächergruppe
+
 ```pascal
 function GetFachgruppe(aFG_Id: Integer): String;
 ```
-
-
-bestimmt den Klartextnamen einer bestimmten Fächergruppe
 
 ## Parameter
 
 | Parameter | Bedeutung |
 | --- | --- |
 | `aFG_Id` | Id-Nummer der Fachgruppe |
-
 
 ## Rückgabewert
 
@@ -34,7 +32,6 @@ Klartextname
 ```text
 ...
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

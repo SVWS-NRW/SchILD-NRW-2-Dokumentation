@@ -6,6 +6,8 @@ title: "BK-Abschlüsse nach Anlage D"
 
 # BK-Abschlüsse nach Anlage D
 
+Hier finden Sie die im ursprünglichen Wiki aufgeführten Bildungsgänge dieser Anlage. Wählen Sie den passenden Bildungsgang aus den verlinkten Einträgen. Die allgemeinen Erläuterungen stehen unter [BK-Abschlussverfahren](/zeugnisse/berufskolleg/bk-abschluss?rubrik=schild2).
+
 In diesem Bereich sollen die Berechnungen der Anlage D, soweit diese in Schild-NRW hinterlegt sind, beschrieben werden.
 
 Dazu werden die einzelnen Gliederungen (hier immer mit Statistikkennung genannt, abweichend zur Bezeichnung in der BASS) hier aufgelistet:

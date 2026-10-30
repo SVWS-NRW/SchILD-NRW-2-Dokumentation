@@ -6,6 +6,8 @@ title: "A12 Ausbildungsvorbereitung in Vollzeit"
 
 # A12 Ausbildungsvorbereitung in Vollzeit
 
+Diese Seite zeigt ein Bildbeispiel zur Abschlussberechnung für den im Titel genannten Bildungsgang. Vergleichen Sie die dargestellte Ansicht mit Ihrem Bildungsgang. Die Bedeutung des Karteireiters und die allgemeinen Arbeitsschritte erläutert [BK-Abschlussverfahren](/zeugnisse/berufskolleg/bk-abschluss?rubrik=schild2).
+
 Einjähriger Bildungsgang der Berufsschule in Vollzeit.
 
 ![BK_Abschluss_A12](/bilder/zeugnisse/berufskolleg/bk-abschluss-a12.png)

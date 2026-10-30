@@ -11,11 +11,6 @@ title: "UebersichtsfachModus"
 
 ## Beschreibung
 
-```pascal
-Procedure UebersichtsfachModus(Const Modus : String);
-```
-
-
 Durch den Parameter dieser Prozedur wird die Einsortierung
 der Leistungsdaten in die Leistungsübersichten gesteuert.
 Möglich sind die drei Modi
@@ -27,12 +22,15 @@ Möglich sind die drei Modi
  Der Aufruf von 'UebersichtsfachModus('NurFach')' entspricht dem
  Aufruf der Funktion 'KursbezIgnorieren(True)'.
 
+```pascal
+Procedure UebersichtsfachModus(Const Modus : String);
+```
+
 ## Parameter
 
 | Parameter | Bedeutung |
 | --- | --- |
 | `Modus` | String, zulässig sind 'NurFach', 'KursArt' oder 'KursBezeichnung' |
-
 
 ## Beispiel
 
@@ -49,7 +47,6 @@ Procedure ReportBeforePrint;
    UebersichtsfachModus('KursBezeichnung');
  end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

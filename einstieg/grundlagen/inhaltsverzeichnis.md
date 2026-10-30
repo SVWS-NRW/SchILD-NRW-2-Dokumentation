@@ -6,6 +6,7 @@ title: "Funktionen im Überblick"
 
 # Funktionen im Überblick
 
+Diese Funktionsübersicht führt zu Anleitungen und Hilfen aus dem früheren Wiki. Für einen geführten Einstieg verwenden Sie zuerst **Grundlagen und Orientierung** und anschließend **Erste Schritte** im Seitenmenü.
 
 - [Programmüberblick](/einstieg/grundlagen/schild-nrw-index)
   - [Datei-Menü](/administration/datenbanken/datei)

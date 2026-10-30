@@ -11,6 +11,8 @@ title: "SetUebersichtEx"
 
 ## Beschreibung
 
+Schaltet die Aufbereitung der Leistungsdaten für eine tabellarische Übersicht ein oder aus. Die berücksichtigten Jahrgänge werden direkt als Liste übergeben.
+
 ```pascal
 procedure SetUebersichtEx(IsUebersicht: Boolean;  const aJahrgangsliste: String);
 ```
@@ -22,7 +24,6 @@ procedure SetUebersichtEx(IsUebersicht: Boolean;  const aJahrgangsliste: String)
 | `IsUebersicht` | Boolescher Wert, bei 'True' werden die Leistungsdaten eines Schülers im über aJahrgangsliste definierten Zeitintervall in eine Tabellenstruktur eingefügt. Da dieser Vorgang recht zeitaufwendig ist, kann und sollte er durch diese Funktion nur bei Bedarf  zugeschaltet werden |
 | `aJahrgangsliste` | Kommaseparierte Liste der zu berücksichtigen (ASD-)Jahrgänge |
 
-
 ## Beispiel
 
 ```pascal
@@ -31,7 +32,6 @@ Procedure ReportBeforePrint;
    SetUebersichtEx(True, 'Q1,Q2');
  end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

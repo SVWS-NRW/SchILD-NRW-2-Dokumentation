@@ -11,12 +11,11 @@ title: "IncFontSize"
 
 ## Beschreibung
 
+Vergrößert oder verkleinert die Schriftgröße.
+
 ```pascal
 procedure IncFontSize(aReport: TppReport; const aIncrement: Integer);
 ```
-
-
-Vergößert oder verkleinert die Zeichensatz größe
 
 ## Parameter
 
@@ -24,7 +23,6 @@ Vergößert oder verkleinert die Zeichensatz größe
 | --- | --- |
 | `aReport` | der Report, dessen Komponenten bearbeitet werden sollen |
 | `aIncrement` | Wert, um den der Zeichensatz vergrößert (oder bei negativem Increment) verkleinert werden soll |
-
 
 ## Beispiel
 
@@ -34,7 +32,6 @@ begin
   IncFontSize(Report,1);
 end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

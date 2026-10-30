@@ -6,7 +6,7 @@ title: "Herkunft am Berufskolleg und Weiterbildungskolleg erfassen"
 
 # Herkunft am Berufskolleg und Weiterbildungskolleg erfassen
 
-Eintragung der Herkunft aus dem letzten Schuljahr auf dem Karteireiter Schulbesuch
+Hier erfahren Sie, wie die Herkunft aus dem letzten Schuljahr am Berufskolleg und Weiterbildungskolleg eingetragen wird. Die Angaben werden auf **Schulbesuch** erfasst.
 
 An Berufskollegs und Weiterbildungskollegs gibt es seit einiger Zeit einige spezielle Herkunftsarten, die für Schüler vorgesehen sind, die im letzten Schuljahr keine Schule besucht haben.
 

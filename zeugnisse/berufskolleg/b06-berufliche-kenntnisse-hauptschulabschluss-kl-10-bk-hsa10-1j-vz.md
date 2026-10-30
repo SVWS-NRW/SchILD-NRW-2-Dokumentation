@@ -6,6 +6,8 @@ title: "B06 Berufliche Kenntnisse und Hauptschulabschluss"
 
 # B06 Berufliche Kenntnisse und Hauptschulabschluss
 
+Diese Seite zeigt ein Bildbeispiel zur Abschlussberechnung für den im Titel genannten Bildungsgang. Vergleichen Sie die dargestellte Ansicht mit Ihrem Bildungsgang. Die Bedeutung des Karteireiters und die allgemeinen Arbeitsschritte erläutert [BK-Abschlussverfahren](/zeugnisse/berufskolleg/bk-abschluss?rubrik=schild2).
+
 Einjähriger Vollzeitbildungsgang mit beruflichen Kenntnissen und Hauptschulabschluss nach Klasse 10.
 
 ![BK_Abschluss_B06](/bilder/zeugnisse/berufskolleg/bk-abschluss-b06.png)

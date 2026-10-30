@@ -6,6 +6,8 @@ title: "C02 Berufsabschluss für Studienberechtigte"
 
 # C02 Berufsabschluss für Studienberechtigte
 
+Diese Seite zeigt ein Bildbeispiel zur Abschlussberechnung für den im Titel genannten Bildungsgang. Vergleichen Sie die dargestellte Ansicht mit Ihrem Bildungsgang. Die Bedeutung des Karteireiters und die allgemeinen Arbeitsschritte erläutert [BK-Abschlussverfahren](/zeugnisse/berufskolleg/bk-abschluss?rubrik=schild2).
+
 Zweijähriger Vollzeitbildungsgang der Berufsfachschule für Hochschulzugangsberechtigte.
 
 ![BK_Abschluss_C02](/bilder/zeugnisse/berufskolleg/bk-abschluss-c02.png)

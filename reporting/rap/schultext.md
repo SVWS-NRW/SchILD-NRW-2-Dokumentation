@@ -11,6 +11,8 @@ title: "SchulText"
 
 ## Beschreibung
 
+Gibt den Text zurück, der dem übergebenen Kürzel zugeordnet ist.
+
 ```pascal
 function SchulText(const Kuerzel: String): String;
 ```
@@ -20,7 +22,6 @@ function SchulText(const Kuerzel: String): String;
 | Parameter | Bedeutung |
 | --- | --- |
 | `Kuerzel` | Kurzzeichen des Textes |
-
 
 ## Rückgabewert
 
@@ -34,7 +35,6 @@ begin
   Text:='Schulleiter: ' + SchulText('Direktor');
 end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

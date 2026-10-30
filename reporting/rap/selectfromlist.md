@@ -11,12 +11,11 @@ title: "SelectFromList"
 
 ## Beschreibung
 
+ermöglicht die Auswahl eines Elemente aus einer Dropdown-Liste
+
 ```pascal
 function SelectFromList(Caption, Optionlist, Default: String): String;
 ```
-
-
-ermöglicht die Auswahl eines Elemente aus einer Dropdown-Liste
 
 ## Parameter
 
@@ -25,7 +24,6 @@ ermöglicht die Auswahl eines Elemente aus einer Dropdown-Liste
 | `Caption` | Titel des Dialoges |
 | `Optionslist` | Liste der verfügbaren Optionen |
 | `Default` | voreingestellter Rückgabewert |
-
 
 ## Rückgabewert
 
@@ -43,7 +41,6 @@ begin
   ...
 end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

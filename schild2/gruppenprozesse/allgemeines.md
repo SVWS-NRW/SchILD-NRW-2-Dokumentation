@@ -6,9 +6,9 @@ title: "Allgemeine Gruppenprozesse"
 
 # Allgemeine Gruppenprozesse
 
-![GP-Allgemeines](/bilder/schild2/gruppenprozesse/gp-allgemeines.jpg)
+Der Reiter **Allgemeines** bündelt Gruppenprozesse für Stammdaten, Zuordnungen und Datenpflege. Ein Gruppenprozess führt dieselbe Änderung für mehrere ausgewählte Personen aus. Wählen Sie die Personen deshalb aus, bevor Sie die konkrete Funktion starten.
 
-Unter dem Karteireiter "Allgemeines" verbergen sich folgende Gruppenprozesse.
+![GP-Allgemeines](/bilder/schild2/gruppenprozesse/gp-allgemeines.jpg)
 
 Bitte klicken Sie die Artikel an, um Informationen zu den dahinter liegenden Sammelaktionen zu bekommen.
 

@@ -6,9 +6,11 @@ title: "Frühere Wiki-Startseite"
 
 # Frühere Wiki-Startseite
 
+Dies ist die frühere Startseite des SchILD2-Wikis. Sie bleibt als historischer Einstieg erhalten. Die aktuelle Dokumentation erschließen Sie über die fünf Rubriken im Kopfmenü.
+
 **Sie befinden sich im Dokumentationsbereich von Schild-NRW 2**
 
-Seit dem 31.10.25 steht der Nachfolger zur Verfügung: 
+Seit dem 31.10.25 steht der Nachfolger zur Verfügung:
 
 [**Schild-NRW 3 und SVWS-Server**](https://www.svws.nrw.de/)
 
@@ -55,7 +57,7 @@ in den einzelnen Abteilungen.
 
 Hier finden Sie zu bestimmten Themen einige Anleitungen,
 
-die nach Tätigkeiten gruppiert sind. Ein Einsteigertutorial soll allen Usern,
+die nach Tätigkeiten gruppiert sind. Ein Einsteigertutorial soll allen Benutzern,
 
 die sich neu in Schild-NRW einarbeiten müssen, helfen,
 

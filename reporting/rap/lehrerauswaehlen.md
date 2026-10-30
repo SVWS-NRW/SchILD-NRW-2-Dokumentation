@@ -11,11 +11,6 @@ title: "LehrerAuswaehlen"
 
 ## Beschreibung
 
-```pascal
-procedure LehrerAuswaehlen(const Auswahlzeigen: Boolean)
-```
-
-
 Bisher wurde vor dem Druck eines Berichtes mit der Datenquelle
 'Lehrer' grundsätzlich der Lehrerauswahldialog auf gerufen.
 Dieser Dialog wird jetzt nur noch aufgerufen, wenn in einem geeigneten
@@ -24,12 +19,15 @@ Ereignis (hier bietet sich BeforeOpenDataPipelines an) die Procedur
 aufgerufen wird. Sinnvollerweise sollte die Auswahl nach dem Druck
 wieder zurückgesetzt werden.
 
+```pascal
+procedure LehrerAuswaehlen(const Auswahlzeigen: Boolean)
+```
+
 ## Parameter
 
 | Parameter | Bedeutung |
 | --- | --- |
 | `Auswahlzeigen` | Boolea |
-
 
 ## Beispiel
 
@@ -44,7 +42,6 @@ begin
   LehrerAuswaehlen(false);
 end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

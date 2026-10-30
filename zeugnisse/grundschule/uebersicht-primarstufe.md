@@ -14,7 +14,7 @@ Durch setzen des Häkchens kann die Anzeige nach Kursarten unterschieden werden.
 
 In den Spalten zu den Halbjahren findet man direkt unter den Leistungsnoten die das Fach unterrichtende Lehrkraft.
 
-Weitere Informationen (Klassenlehrer, Konferenzdatum, Angaben zum Arbeits- und Sozialverhalten, .. etc.) zu zurückliegenden Schulhalbjahren erhält man, wenn man in die entsprechende Halbjahresspalte klickt. Daraufhin werden im Fenster zwei weitere Bereiche eingeblendet. Rechts ein Bereich "Allgemeine Angaben in ..." und unten ein Bereich "Beurteilungen und Bemerkungen in ..."eingeblendet.
+Weitere Informationen (Klassenlehrer, Konferenzdatum, Angaben zum Arbeits- und Sozialverhalten, .. etc.) zu zurückliegenden Schulhalbjahren erhalten Sie, wenn man in die entsprechende Halbjahresspalte klickt. Daraufhin werden im Fenster zwei weitere Bereiche eingeblendet. Rechts ein Bereich "Allgemeine Angaben in ..." und unten ein Bereich "Beurteilungen und Bemerkungen in ..."eingeblendet.
 
 ![Uebersicht-Primara](/bilder/zeugnisse/grundschule/uebersicht-primara.jpg)
 

@@ -49,9 +49,9 @@ Wählen Sie zuerst die Schülergruppe aus, für welche die BAN-Markierungen gese
 
 In der Regel muss beim Export keine Schülergruppe ausgewählt werden, da die zu exportierenden Schüler schon im aktuellen Lernabschnitt markiert sind. Nicht-markierte Schüler werden daher beim Export ignoriert.
 
-Sie können für den BAN-Export ausgehend von der gesamten Schülermenge arbeiten.
+Sie können für den BAN-Export ausgehend von der gesamten Schülergruppe arbeiten.
 
-Sollten Sie nur ausgewählte Schülermengen exportieren wollen, filtern Sie diese vor dem Gruppenprozess aus.
+Sollten Sie nur ausgewählte Schülergruppen exportieren wollen, filtern Sie diese vor dem Gruppenprozess aus.
 
 Im Anschluss gehen Sie über *Datenaustausch ➜ Weitere Exporte* ➜ **Export für BAN-Portal**.\
 

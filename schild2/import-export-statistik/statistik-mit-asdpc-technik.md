@@ -6,6 +6,8 @@ title: "ASDPC installieren und einrichten"
 
 # ASDPC installieren und einrichten
 
+Diese Anleitung behandelt Installation und technische Vorbereitung von ASDPC. Sie erläutert außerdem Aktualisierungen und den Umgang mit den Programmdateien. Den eigentlichen Erhebungsablauf finden Sie in den folgenden Kapiteln des ASDPC-Menüs.
+
 \_
 
 ------------------------------------------------------------------------
@@ -15,7 +17,7 @@ title: "ASDPC installieren und einrichten"
 ## Erstinstallation
 
 :::danger
-ASDPC benötigt zur Installation zwingend Administratorrechte. Kontaktieren Sie bei Bedarf Ihren zuständigen Hardware-/Softwareverwalter bzw. Dienstleister.\
+ASDPC benötigt zur Installation zwingend Administratorrechte. Kontaktieren Sie bei Bedarf Ihren zuständigen Hardware-/Softwareverwalter beziehungsweise Dienstleister.\
 
 Eine Installation auf anderen Betriebssystemen als MS Windows wird nicht unterstützt.
 :::
@@ -83,7 +85,7 @@ Wenn Sie den Link zum Update aufrufen und etwas herunterscrollen, finden sich au
 Bitte beachten Sie, dass vor oder während der Statistik noch weitere Updates mit Fehlerkorrekturen erscheinen können. Prüfen Sie bitte vor der Arbeit, ob Sie mit der neuesten Version von ASDPC32 arbeiten.
 :::
 
-Denken Sie auch daran zu prüfen, ob Ihre Schulverwaltungsprogramme - z.B. SchILD NRW - geupdated werden können.
+Denken Sie auch daran zu prüfen, ob Ihre Schulverwaltungsprogramme - zum Beispiel SchILD NRW - geupdated werden können.
 
 <a id="Schlüsselmanagement"></a>
 <a id="Schl.C3.BCsselmanagement"></a>
@@ -145,7 +147,7 @@ Haben Sie einmal den Modus "Erhebung Amtliche Schuldaten (ASDPC)" aufgerufen, bi
 ![ASDPC_Extras](/bilder/schild2/import-export-statistik/asdpc-extras.png)
 
 - *ASDPC Datenbank reorganisieren*
-- *dienstliche Dokumente bzw. Dateien entschlüsseln* - wird Ihnen per Email mitgeteilt, dass entsprechende Dateien vorliegen, können diese nach dem Download hier entschlüsselt werden (z.B. für Mithilfe bei Fahndungen der Polizei).
+- *dienstliche Dokumente beziehungsweise Dateien entschlüsseln* - wird Ihnen per Email mitgeteilt, dass entsprechende Dateien vorliegen, können diese nach dem Download hier entschlüsselt werden (zum Beispiel für Mithilfe bei Fahndungen der Polizei).
 - *Schlüsselverwaltung* - verwalten Sie die Schlüssel von ASDPC: [Schlüsselverwaltung](/schild2/import-export-statistik/statistik-mit-asdpc-schluesselmanagement)
 
 <a id="Abschnitt_&quot;Optionen&quot;"></a>
@@ -157,8 +159,8 @@ Haben Sie einmal den Modus "Erhebung Amtliche Schuldaten (ASDPC)" aufgerufen, bi
 
 - *Optionen*
   - *Verzeichnisse* - Wählen Sie die Speicherorte für die Hauptdatenbank (ASDPC.mdb) sowie die benötigten weiteren Daten. Nutzen Sie ASDPC in einer Netzwerkumgebung ist es wichtig, diese Pfade korrekt zu nutzen.
-  - *Daten bei Programmstart sichern* - Bestätigen Sie mit einem Haken, wenn automatisch eine Sicherung beim Start von ASDPC angelegt werden soll. Sie finden die Sicherung im ASDPC-Installationsverzeichnis \ASD\sicherungen, also bei einer Installation auf Laufwerk C: z.B. bei C:\ASDPC32\ASD\Sicherungen.
-  - *Unterrichtseinheiten in Minuten* - wird diese Option aktiviert, werden alle Angaben in der Unterrichtsverteilung (UVD) und den Lehrerdaten (LID) in Minuteneinheiten umgerechnet, d.h. sie werden mit 45 multipliziert, um der Standard-Einheitendauer zu entsprechend. **Vorsicht**: die Umrechnung gilt für *künftige* Importe der UVD.TXT, LEHRER.TXT und EXTERN.DAT. Das Einlesen von Abteilungsdaten oder Sicherungen kann zu Umrechnungsproblemen führen. Sollte weiterhin später wieder auf das Stundenmodell zurückgeschaltet werden, kann es zu Rundungsverlusten kommen.
+  - *Daten bei Programmstart sichern* - Bestätigen Sie mit einem Haken, wenn automatisch eine Sicherung beim Start von ASDPC angelegt werden soll. Sie finden die Sicherung im ASDPC-Installationsverzeichnis \ASD\sicherungen, also bei einer Installation auf Laufwerk C: zum Beispiel bei C:\ASDPC32\ASD\Sicherungen.
+  - *Unterrichtseinheiten in Minuten* - wird diese Option aktiviert, werden alle Angaben in der Unterrichtsverteilung (UVD) und den Lehrerdaten (LID) in Minuteneinheiten umgerechnet, das heißt sie werden mit 45 multipliziert, um der Standard-Einheitendauer zu entsprechend. **Vorsicht**: die Umrechnung gilt für *künftige* Importe der UVD.TXT, LEHRER.TXT und EXTERN.DAT. Das Einlesen von Abteilungsdaten oder Sicherungen kann zu Umrechnungsproblemen führen. Sollte weiterhin später wieder auf das Stundenmodell zurückgeschaltet werden, kann es zu Rundungsverlusten kommen.
   - *Farbeinstellung (Rotschwäche)* - ASDPC kann hier einen barrierefreien Modus für Rotschwäche geschaltet werden.
 
 ![ASDPC_Verzeichnisse](/bilder/schild2/import-export-statistik/asdpc-verzeichnisse.png)

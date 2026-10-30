@@ -11,19 +11,17 @@ title: "GruppenDesBenutzers"
 
 ## Beschreibung
 
+Ermittelt die Benutzergruppen, denen ein Benutzer angehört
+
 ```pascal
 function GruppenDesBenutzers(const aLoginName: String): String;
 ```
-
-
-Ermittelt die Benutzergruppen, denen ein Benutzer angehört
 
 ## Parameter
 
 | Parameter | Bedeutung |
 | --- | --- |
 | `aLoginName` | Loginname des Benutzers |
-
 
 ## Rückgabewert
 
@@ -40,7 +38,6 @@ begin
   Detail.Visible:=pos('LEHRER',lGruppen) > 0
 end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

@@ -12,7 +12,7 @@ title: "Reporting im Überblick"
 
 Der Reportgenerator bietet über sogenannte Datenbankreports die Schnittstelle zwischen Schild-NRW und dem Drucker. Dabei werden über festgelegte Formulare die Werte aus der Datenbank abgerufen und für den Druck zusammengestellt.
 
-Die Datenformulare werden als RTM-Dateien auf dem Computer gespeichert und können so unter den Usern ausgetauscht werden.
+Die Datenformulare werden als RTM-Dateien auf dem Computer gespeichert und können so unter den Benutzern ausgetauscht werden.
 
 Wie diese Formulare erstellt werden, wo Sie gespeichert sein müssen und wie der Umgang mit solchen Reports geregelt wird, finden Sie unter dieser Rubrick.
 
@@ -43,7 +43,7 @@ Wie diese Formulare erstellt werden, wo Sie gespeichert sein müssen und wie der
 
 ## [RAP-Funktionen](/reporting/rap)
 
-Eine alphabetische Auflistung aller Funktionen, die im RAP-Code der Reports benutzt werden können. Zur Erstellung von aufwändigen Reports ist eine Programmierung unerlässlich. Der RBuilder der Firma Digital-Metaphors, den wir in Schild-NRW, Kurs42 und den anderen Programmen einsetzen, bietet hier eine Reihe von Möglichkeiten, wie man Berechnungen in den Formularen durchführen lassen kann. Dazu steht eine Auswahl an einfachen Delphi-Befehlen zur Verfügung. Um diese Möglichkeiten zu erweitern und den Usern Programmarbeiten, die immer wiederkehren, abzunehmen, wurden die Befehle um diese RAP-Funktionen ergänzt.
+Eine alphabetische Auflistung aller Funktionen, die im RAP-Code der Reports benutzt werden können. Zur Erstellung von aufwändigen Reports ist eine Programmierung unerlässlich. Der RBuilder der Firma Digital-Metaphors, den wir in Schild-NRW, Kurs42 und den anderen Programmen einsetzen, bietet hier eine Reihe von Möglichkeiten, wie man Berechnungen in den Formularen durchführen lassen kann. Dazu steht eine Auswahl an einfachen Delphi-Befehlen zur Verfügung. Um diese Möglichkeiten zu erweitern und den Benutzern Programmarbeiten, die immer wiederkehren, abzunehmen, wurden die Befehle um diese RAP-Funktionen ergänzt.
 
 Im Artikel:
 

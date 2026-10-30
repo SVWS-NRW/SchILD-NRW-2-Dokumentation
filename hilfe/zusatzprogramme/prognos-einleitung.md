@@ -6,7 +6,7 @@ title: "Abschlussprognosen mit PM2 erstellen"
 
 # Abschlussprognosen mit PM2 erstellen
 
-Prognos PM2 ist ein Zusatzprogramm, mit dessen Hilfe Gesamt- und Sekundarschulen in NRW auf Basis von Leistungsdaten (z.B. aus der Schild-DB oder speziell erfassten) den daraus resultierenden Abschluss ermitteln können. Die Berechnungen basieren auf der maßgeblichen Ausbildungs- und Prüfungsordnung (APO-SI). Die Berechnung ersetzt niemals die genaue Prüfung durch die zuständige Lehrkraft, sondern sie kann nur als Unterstützung zur Ermittlung dienen.
+Prognos PM2 ist ein Zusatzprogramm, mit dessen Hilfe Gesamt- und Sekundarschulen in NRW auf Basis von Leistungsdaten (zum Beispiel aus der Schild-DB oder speziell erfassten) den daraus resultierenden Abschluss ermitteln können. Die Berechnungen basieren auf der maßgeblichen Ausbildungs- und Prüfungsordnung (APO-SI). Die Berechnung ersetzt niemals die genaue Prüfung durch die zuständige Lehrkraft, sondern sie kann nur als Unterstützung zur Ermittlung dienen.
 
 Verfügbar ist das Programm neben dem Hauptprogramm Schild-NRW in dessen Download-Bereich.
 

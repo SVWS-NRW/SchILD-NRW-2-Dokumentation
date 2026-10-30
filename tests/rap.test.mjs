@@ -18,7 +18,7 @@ test('RAP-Einstieg und Seitenmenü erschließen alle 122 Funktionen alphabetisch
  const nav=JSON.parse(fs.readFileSync('.vitepress/navigation.json','utf8'))
  const visit=items=>items.flatMap(item=>[item,...visit(item.items||[])])
  const menu=visit(nav.sidebar['/reporting/']).find(n=>n.link==='/reporting/rap')
- assert.deepEqual(menu.items.map(n=>n.link),links.map(x=>x[2]))
+ assert.deepEqual(visit(menu.items).filter(n=>n.link).map(n=>n.link),links.map(x=>x[2]))
  const redirects=JSON.parse(fs.readFileSync('.vitepress/redirects.json','utf8'))
  assert.equal(redirects.find(n=>n.path==='reporting/rap/rap-funktionen.md').replacement,'/reporting/rap')
  for(const letter of 'ABCDEFGHIJKLMNOPQRSTUVWXYZ')assert(intro.includes(`id="${letter}"`))

@@ -11,6 +11,8 @@ title: "EditRichText"
 
 ## Beschreibung
 
+Öffnet einen Editor für formatierten Text und liefert den bearbeiteten Text zurück. Der Ausgangstext wird über den Parameter `Default` übergeben.
+
 ```pascal
 function EditRichText(Const Default: String): String;
 ```
@@ -21,7 +23,6 @@ function EditRichText(Const Default: String): String;
 | --- | --- |
 | `Default` | Zu bearbeitender Richtext, kann auch leer sein |
 
-
 ## Rückgabewert
 
 Veränderter Richtext
@@ -31,7 +32,6 @@ Veränderter Richtext
 ```pascal
 RichText1.RichText:=EditRichText('Hier den Text eingeben!');
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

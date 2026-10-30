@@ -6,7 +6,7 @@ title: "Konferenz- und Zeugnisdatum setzen"
 
 # Konferenz- und Zeugnisdatum setzen
 
-Dieser Gruppenprozess ermöglich das automatische Setzen des Konferenz- und Zeugnisdatums im ausgewählten Schuljahr und Abschnitt bei der ausgewählten Schülermenge.
+Dieser Gruppenprozess ermöglich das automatische Setzen des Konferenz- und Zeugnisdatums im ausgewählten Schuljahr und Abschnitt bei der ausgewählten Schülergruppe.
 
 Die Daten werden bei allen aktiven Schülern in den Leistungsdaten im "Akt. Halbjahr" eingetragen. So können bei verschiedenen Jahrgängen auch unterschiedliche Datumseingaben vorgenommen werden, wenn diese bei Konferenzen für jeweils bestimmte Jahrgänge festgelegt wurden.
 

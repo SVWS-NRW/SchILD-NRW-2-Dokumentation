@@ -11,20 +11,18 @@ title: "MitLernabschnitten"
 
 ## Beschreibung
 
+Erzwingt die Aktualisierung der Datenquelle Lernabschnitte beim Wechsel
+eines Schülerdatensatzes.
+
 ```pascal
 procedure MitLernabschnitten(const Value: Boolean);
 ```
-
-
-Erzwingt die Aktualisierung der Datenquelle Lernabschnitte beim Wechsel
-eines Schülerdatensatzes.
 
 ## Parameter
 
 | Parameter | Bedeutung |
 | --- | --- |
 | `Value` | Boolescher Wert |
-
 
 ## Beispiel
 
@@ -39,7 +37,6 @@ begin
   MitLernabschnitten(false);
 end
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

@@ -11,19 +11,17 @@ title: "QuotedStr"
 
 ## Beschreibung
 
+schließt den String Value in Delphi-Hochkommata ein
+
 ```pascal
 function QuotedStr(const Value: String): String;
 ```
-
-
-schließt den String Value in Delphi-Hochkommata ein
 
 ## Parameter
 
 | Parameter | Bedeutung |
 | --- | --- |
 | `Value` | String, der eingeschlossen werden soll |
-
 
 ## Rückgabewert
 
@@ -34,7 +32,6 @@ In Hochkommata eingeschlossener String
 ```pascal
 Setzefilter(Klassenlehrer_mit_Noten,'Fachkrz=' + QuotedStr('M'));
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

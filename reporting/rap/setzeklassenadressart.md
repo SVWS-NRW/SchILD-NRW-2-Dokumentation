@@ -11,22 +11,20 @@ title: "SetzeKlassenAdressArt"
 
 ## Beschreibung
 
-```pascal
-Procedure SetzeKlassenAdressArt(const AdressArt: String);
-```
-
-
 Diese Prozedur kann benutzt werden, wenn die Datenquelle
 AllgAdresseZurKlasse verwendet werden soll. Voreingestellt
 ist die Adressart 'Betrieb'. Diese Datenquelle ist eine Detaildatenquelle
 zur Hauptdatenquelle 'Klassen'.
+
+```pascal
+Procedure SetzeKlassenAdressArt(const AdressArt: String);
+```
 
 ## Parameter
 
 | Parameter | Bedeutung |
 | --- | --- |
 | `AdressArt` | zu berücksichtigende Adressenkategorie |
-
 
 ## Beispiel
 
@@ -36,7 +34,6 @@ Procedure ReportBeforeOpenDatapipelines;
    SetzeKlassenAdressArt('Kammern');
  end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

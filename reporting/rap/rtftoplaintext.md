@@ -11,6 +11,8 @@ title: "RtfToPlaintext"
 
 ## Beschreibung
 
+Entfernt die Formatangaben aus einem RTF-Text. Zurück bleibt der reine Textinhalt.
+
 ```pascal
 function RtfToPlaintext(aRtfText: String): String;
 ```
@@ -21,7 +23,6 @@ function RtfToPlaintext(aRtfText: String): String;
 | --- | --- |
 | `aRtfText` | Richtext, aus dem alle Formatanweisungen entfernt werden sollen |
 
-
 ## Rückgabewert
 
 Reiner Text ohne Formatierung
@@ -31,7 +32,6 @@ Reiner Text ohne Formatierung
 ```pascal
 Memo1.Text:=RtfToPlaintext(SchuelerLernabschnitte['ZeugnisBem'])
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

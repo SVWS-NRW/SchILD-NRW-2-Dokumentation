@@ -4,9 +4,11 @@ title: "Weitere Adressen"
 
 # Weitere Adressen
 
+Hier hinterlegen Sie zusätzliche Kontaktadressen zu einer Person, etwa einen Praktikums- oder Ausbildungsbetrieb. Am Berufskolleg heißt der Karteireiter **Adressen/Betriebe**.
+
 Die Bezeichnung des Karteireiters ist abhängig von der Schulform; bei einem Berufskolleg lautet die Bezeichnung **Adressen/Betriebe**.
 
-Auf der Karteikarte können Adressen wie z.B. die Adresse des Praktikumsplatzes oder des Ausbildungsbetriebs gespeichert werden. Dazu wird durch das **+**-Zeichen die Eingabe-Maske aufgerufen.
+Auf der Karteikarte können Adressen wie zum Beispiel die Adresse des Praktikumsplatzes oder des Ausbildungsbetriebs gespeichert werden. Dazu wird durch das **+**-Zeichen die Eingabe-Eingabeansicht aufgerufen.
 
 ![AllgemeineAdressen](/bilder/schild2/schueler/allgemeineadressen.jpg)
 
@@ -14,7 +16,7 @@ Aus der Liste der schon vorhandenen Adressen kann die passende Adresse mit Hilfe
 
 ![AdresseNeueingabe](/bilder/schild2/schueler/adresseneueingabe.jpg)
 
-In dieser Maske gibt es einen weiteren Karteireiter *Übersicht*. Man hat hier u. a. die Möglichkeit, die Liste aller Adressen als Excel-Liste zu exportieren.
+In dieser Eingabeansicht gibt es einen weiteren Karteireiter *Übersicht*. Man hat hier u. a. die Möglichkeit, die Liste aller Adressen als Excel-Liste zu exportieren.
 
 ------------------------------------------------------------------------
 

@@ -6,7 +6,7 @@ title: "Daten in eine andere Datenbank übertragen"
 
 # Daten in eine andere Datenbank übertragen
 
-Mit dem Migrationstool können Sie die Daten einer bestehenden Datenbank in eine andere Datenbank übertragen. So können Sie z.B. die Daten aus einer Access-Datenbank in eine neue Access-Datenbank oder eine SQL-Server-Datenbank übertragen. Mit dem Migrationstool erhalten Sie zudem ein Programm, welches Ihnen beim Erzeugen einer SDBCFG-Datei hilft. Diese Dateien sind für den Migrationsprozess notwendig.
+Mit dem Migrationstool können Sie die Daten einer bestehenden Datenbank in eine andere Datenbank übertragen. So können Sie zum Beispiel die Daten aus einer Access-Datenbank in eine neue Access-Datenbank oder eine SQL-Server-Datenbank übertragen. Mit dem Migrationstool erhalten Sie zudem ein Programm, welches Ihnen beim Erzeugen einer SDBCFG-Datei hilft. Diese Dateien sind für den Migrationsprozess notwendig.
 
 ![Migrationstool](/bilder/administration/datenbanken/migrationstool.jpg)
 
@@ -28,7 +28,7 @@ Starten Sie anschließend das Migrationstool 'SchILDMigTool.exe'. Wählen Sie Ko
 
 *Migrationsprozess starten*
 
-Am Ende der Migration wird ein Fehlerprotokoll ausgegeben. Hier kann es unter Umständen zu sehr vielen Meldungen kommen. Die verschiedenen Datenbanksysteme behandeln bestimmte Feldtypen ggf. alle unterschiedlich, das betrifft vor allem NULL-Werte. Ob ein Feld jedoch leer ist oder NULL sollte bei der Auswertung der Daten keinen Unterschied machen. Solche Fehler kann man ignorieren. Auch bei doppelten Facheintragungen kommt es oft zu Fehlern, wenn Schüler das gleiche Fach komplett identisch zweimal in einem Lernabschnitt haben. Auch hier kann man die Fehler ignorieren, weil das eigentlich nur eine Fehleintragung sein kann.
+Am Ende der Migration wird ein Fehlerprotokoll ausgegeben. Hier kann es unter Umständen zu sehr vielen Meldungen kommen. Die verschiedenen Datenbanksysteme behandeln bestimmte Feldtypen gegebenenfalls alle unterschiedlich, das betrifft vor allem NULL-Werte. Ob ein Feld jedoch leer ist oder NULL sollte bei der Auswertung der Daten keinen Unterschied machen. Solche Fehler können Sie ignorieren. Auch bei doppelten Facheintragungen kommt es oft zu Fehlern, wenn Schüler das gleiche Fach komplett identisch zweimal in einem Lernabschnitt haben. Auch hier können Sie die Fehler ignorieren, weil das eigentlich nur eine Fehleintragung sein kann.
 
 ---
 

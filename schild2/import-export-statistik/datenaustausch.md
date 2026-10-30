@@ -4,6 +4,8 @@ title: "Datenaustausch"
 
 # Datenaustausch
 
+Im Menü **Datenaustausch** geben Sie Daten an andere Programme weiter oder übernehmen Daten aus Dateien. „Export“ bedeutet Daten ausgeben, „Import“ bedeutet Daten einlesen. Welche Funktionen sichtbar sind, hängt auch von Ihren Benutzerrechten ab.
+
 Der Menüpunkt Datenaustausch beinhaltet alle Optionen für den Import und Export von Daten. Dabei gibt es in Schild-NRW die verschiedensten Möglichkeiten. Bitte beachten Sie, dass dieser Menüpunkt je nach den Benutzerrechten mehr oder weniger Optionen enthalten kann.
 
 ![Exchange](/bilder/schild2/import-export-statistik/exchange.png)

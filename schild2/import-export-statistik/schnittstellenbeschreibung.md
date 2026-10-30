@@ -7,6 +7,8 @@ pageClass: reference-tables
 
 # Dateien und Felder der Textschnittstelle
 
+Diese technische Referenz beschreibt Aufbau und Felder der Importdateien für die SchILD-Schnittstelle. Für die normale Bedienung beginnen Sie mit **Datenaustausch über die SchILD-Schnittstelle**. Die Feldbeschreibungen benötigen Sie, wenn Sie Importdateien vorbereiten oder prüfen.
+
 Der folgende Artikel beschreibt die einzelnen Dateien der [Datenaustausch über die SchILD-Schnittstelle](/schild2/import-export-statistik/schnittstelle-schild-nrw) und wie diese zum Import vorliegen müssen.
 
 Lesen Sie hier einige **[Vorbemerkungen](/schild2/import-export-statistik/vorbemerkungen-schnittstelle)**.
@@ -106,7 +108,7 @@ Beschreibung: Diese Datei enthält die an der Schule vorkommenden Jahrgänge. Di
 |----|----|----|----|----|----|
 | 1 | Schulinterne Bezeichnung | InternKrz | Text(20) | Nein | Muss eindeutig sein! Kann (muss aber nicht) mit Statistik-Kürzel (Spalte 2) identisch sein |
 | 2 | Zugehöriges Statistik-Kürzel | StatistikKrz | Text(2) | Nein | Statistik-Kürzel aus Stat kue.mdb, Tabelle "ZulJahrgänge". Muss nicht eindeutig sein |
-| 3 | Schulgliederung | Gliederung | Text(3) | Nein | Als Statistik-Kürzel (z.B. \*\*\*,GY8,GY9, A01) aus Statkue.mdb, Tabelle "Gliederung", Felder BKAnlage +BKTyp |
+| 3 | Schulgliederung | Gliederung | Text(3) | Nein | Als Statistik-Kürzel (zum Beispiel \*\*\*,GY8,GY9, A01) aus Statkue.mdb, Tabelle "Gliederung", Felder BKAnlage +BKTyp |
 :::example
 InternKrz\|StatistikKrz\|Gliederung\
 E1\|E1\|\*\*\*\
@@ -138,8 +140,8 @@ Beschreibung: Diese Datei enthält die an der Schule vorkommenden Klassen. Die e
 | 6 | Klassenlehrer | Klassenlehrer | Text(10) | Ja | Muss identisch sein mit einem schulinternen Kürzel aus Lehrkraefte.dat |
 | 7 | Organisationsform | OrgForm | Text(1) | Ja | Als Statistik-Kürzel aus Statkue.mdb, Tabelle "Organisationsform". |
 | 8 | Klassenart | Klassenart | Text(2) | Ja | Als Statistik-Kürzel aus Statkue.mdb, Tabelle "ZulKlArt". Bleibt bei Berufskollegs leer! |
-| 9 | Gliederung | Gliederung | Text(3) | Ja | Als Statistik-Kürzel (z.B. \*\*\*, GY8, GY9, A01) aus Statkue.mdb, Tabelle "Gliederung", Felder BKAnlage + BKTyp |
-| 10 | Fachklasse | Fachklasse | Text(10) | Ja | Nur bei BKAktuelle Fachklasse In der Form BKIndex-Fachklassenschlüssel-Ausprägung (z.B.1-113-00 Bankkaufmann), aus Statkue.mdb, Tabelle "Fachklasse". |
+| 9 | Gliederung | Gliederung | Text(3) | Ja | Als Statistik-Kürzel (zum Beispiel \*\*\*, GY8, GY9, A01) aus Statkue.mdb, Tabelle "Gliederung", Felder BKAnlage + BKTyp |
+| 10 | Fachklasse | Fachklasse | Text(10) | Ja | Nur bei BKAktuelle Fachklasse In der Form BKIndex-Fachklassenschlüssel-Ausprägung (zum Beispiel 1-113-00 Bankkaufmann), aus Statkue.mdb, Tabelle "Fachklasse". |
 :::example
 InternBez\|StatistikBez\|SonstigeBez\|Jahrgang\|Folgeklasse\|Klassenlehrer\|OrgForm\|Klassenart\|Gliederung\|Fachklasse\
 04A\|04A\|04A\|04\|05A\|AU\|1\|RK\|\*\*\*\|\
@@ -162,8 +164,8 @@ Bemerkung: Diese Datei enthält Angaben zu Kurs- oder Klassen -Unterricht. Die D
 | 1 | Kursbezeichnung | KursBez | Text(20) | Ja | Eintrag muss in Kombination mit, Jahr, Abschnitt und Jahrgang eindeutig sein! Der Eintrag selbst erfolgt ohne Angabe von Jahr, Abschnitt, Jahrgang und Lehrer (s. Beispiele). Das Feld kann leer sein, falls es sich um einen Unterricht im Klassenverband handelt, dann muss aber das Feld 2 gefüllt sein. |
 | 2 | Klasse | Klasse | Text(15) | Ja | Die Klassenbezeichnung, folgende Kombinationen mit der Kursbezeichnung sind möglich:<br>1. Kursbezeichnung nicht leer, Klasse leer: In diesem Fall wird nur ein Kurs in der Kursver-waltung von SchILD-NRW angelegt, es erfolgt keine Zuteilung von Unterricht an die Schüler.<br>2. Kursbezeichnung nicht leer, Klasse nicht leer: In der Kursver-waltung von SchILD-NRW wird ein Kurs angelegt, dieser wird allen Schülern der Klasse (als Kursunterricht) zugeteilt.<br>3. Kursbezeichnung leer, Klasse nicht leer: Es wird kein Kurs in der Kursverwaltung angelegt, der Unterricht wird ohne Kurszuweisung allen Schülern der Klasse zugeordnet (Unterricht im Klassenverband)<br>4. Kursbezeichnung leer, Klasse leer: Nicht erlaubt |
 | 3 | Jahr | Jahr | Integer | Nein | Schuljahr |
-| 4 | Abschnitt | Abschnitt | Integer | Nein | Halbjahr bzw. Quartal |
-| 5 | Jahrgang | Jahrgang | Text(20) | Ja | Muss identisch sein mit einer Bezeichnung aus Jahrgaenge.dat Falls leer, ist der Kurs jahrgangsübergreifend (nur wenn Kursbezeichnung nicht leer). Wird bei Klassenunterricht (Spalte 2 nicht leer) ignoriert. Hinweis: Falls es sich um einen Kurs für mehrere Jahrgänge handelt (z.B. für 11 und EF) können auch mehrere Jahrgänge (getrennt durch Komma) eingegeben werden. |
+| 4 | Abschnitt | Abschnitt | Integer | Nein | Halbjahr beziehungsweise Quartal |
+| 5 | Jahrgang | Jahrgang | Text(20) | Ja | Muss identisch sein mit einer Bezeichnung aus Jahrgaenge.dat Falls leer, ist der Kurs jahrgangsübergreifend (nur wenn Kursbezeichnung nicht leer). Wird bei Klassenunterricht (Spalte 2 nicht leer) ignoriert. Hinweis: Falls es sich um einen Kurs für mehrere Jahrgänge handelt (zum Beispiel für 11 und EF) können auch mehrere Jahrgänge (getrennt durch Komma) eingegeben werden. |
 | 6 | Fach | Fach | Text(20) | Nein | Muss identisch mit einer schulinternen Kurzbez. aus Faecher.dat |
 | 7 | Kursart | Kursart | Text(5) | (Ja) | allgemeine Kursart (nicht individuelle Kursart) als Statistik-Kürzel, Bemerkungen siehe [Anhang](#Anhang) |
 | 8 | Wochenstunden | Wochenstd. | Integer | Nein | Gesamt-Wochenstunden, so wie sie bei den Schüler-Leistungsdaten eingetragen werden |
@@ -172,14 +174,14 @@ Bemerkung: Diese Datei enthält Angaben zu Kurs- oder Klassen -Unterricht. Die D
 | **Hinweis** | Wichtig: Bis hier müssen alle Spalten existieren | | | | |
 | 11 | Epochenunterricht | Epochenunterricht | Text(1) | Ja | Als "J" oder "N", wird nur bei Klassenunterricht (2. Spalte nicht leer ) berücksichtigt und wenn der Abschnitt (4. Spalte) im ersten Halbjahr ist. |
 | 12 | Schul-Nummer | Schulnr | Integer | Ja | Falls ein Kurs im Rahmen einer Kooperation an einer anderen Schule gegeben wird, kann hier die Schulnr dieser Schule übergeben werden.Wird nur bei Kursunterricht (Spalte 1 nicht leer) berücksichtigt |
-| 13 | Wochenstunden Zusatzkraft | Wochenstd. ZK | Float | Ja | Falls Kursbezeichnung leer ist (d.h. reiner Unterricht im Klassenverband) können hier die Stunden einer "team-teaching" Kraft eingetragen werden (siehe Definition unten). Falls die Kursbezeichnung nicht leer ist (d.h. Kursunterricht), können hier die Stunden einer zweiten Lehrkraft eingetragen werden, die aber (im Gegensatz zu einer "team-teaching"-Kraft) nicht zwingend zur gleichen Zeit wie die Hauptlehrkraft unterrichten muss. |
+| 13 | Wochenstunden Zusatzkraft | Wochenstd. ZK | Float | Ja | Falls Kursbezeichnung leer ist (das heißt reiner Unterricht im Klassenverband) können hier die Stunden einer "team-teaching" Kraft eingetragen werden (siehe Definition unten). Falls die Kursbezeichnung nicht leer ist (das heißt Kursunterricht), können hier die Stunden einer zweiten Lehrkraft eingetragen werden, die aber (im Gegensatz zu einer "team-teaching"-Kraft) nicht zwingend zur gleichen Zeit wie die Hauptlehrkraft unterrichten muss. |
 | 14 | Zusatzkraft | Zusatzkraft | Text(10) | Ja | Kürzel der Zusatzkraft, muss identisch sein mit einem schulinternen Kürzel aus Lehrkraefte.dat |
 | 15 | Wochenstunden weitere Zusatzkraft | Wochenstd ZK | Float | Ja | Falls Kursbezeichnung nicht leer ist, können hier im Wechsel beliebig viele Wochenstunden und Kürzel von weiteren Zusatzkräften eingegeben werden. Ist die Kursbezeichnung leer, so werden diese Angaben ignoriert |
 | 16usw. | Weitere Zusatzkraft | Weitere Zusatzkraft | Text(10) | Ja | Kürzel der Zusatzkraft, muss identisch sein mit einem schulinternen Kürzel aus Lehrkraefte.dat |
 
 **Zum Begriff "team-teaching":**
 
-Team-Teaching liegt dann vor, wenn eine "Hauptlehrkraft" den Unterricht in einem Fach während der gesamten Wochenstunden leitet (in der Regel im Klassenverband), dabei während einer bestimmten Anzahl von Stunden (was auch alle sein können) von einer zweiten Lehrkraft unterstützt wird. Team-Teaching liegt nicht vor, wenn z.B. bei einem 4-stündigen Sportunterricht eine Lehrkraft 3 Stunden allgemeinen Sport unterrichtet, eine andere 1 Stunde Schwimmen (oder noch mehr Lehrkräfte beteiligt sind). Der Fall "mehr als zwei Lehrkräfte" kann nur über einen Kurs mit Zusatz-Einträgen in der Datei "KurseLehrkraefte.dat" (s.u.) abgebildet werden.
+Team-Teaching liegt dann vor, wenn eine "Hauptlehrkraft" den Unterricht in einem Fach während der gesamten Wochenstunden leitet (in der Regel im Klassenverband), dabei während einer bestimmten Anzahl von Stunden (was auch alle sein können) von einer zweiten Lehrkraft unterstützt wird. Team-Teaching liegt nicht vor, wenn zum Beispiel bei einem 4-stündigen Sportunterricht eine Lehrkraft 3 Stunden allgemeinen Sport unterrichtet, eine andere 1 Stunde Schwimmen (oder noch mehr Lehrkräfte beteiligt sind). Der Fall "mehr als zwei Lehrkräfte" kann nur über einen Kurs mit Zusatz-Einträgen in der Datei "KurseLehrkraefte.dat" (s.u.) abgebildet werden.
 
 :::example
 **Standardkurse**\
@@ -206,7 +208,7 @@ AG-Homepage\|\|2020\|2\|\|AG-HP\|\|1\|1\|TU\|J
 :::
 
 :::example
-**Beispiel 3: 2-stündiger Sportkurs "Basketball" in Jahrgang 06 im 2. Hj. 2020/21, 1 Std. bei Lehrer "BO", 1 Std. bei Lehrer "ALD", wird nur als Kurs eingerichtet (d.h. keine Zuweisungen bei Schülern)**\
+**Beispiel 3: 2-stündiger Sportkurs "Basketball" in Jahrgang 06 im 2. Hj. 2020/21, 1 Std. bei Lehrer "BO", 1 Std. bei Lehrer "ALD", wird nur als Kurs eingerichtet (das heißt keine Zuweisungen bei Schülern)**\
 Basketball\|\|2020\|1\|06\|SP\|AGGT\|2\|1\|BO\|N\|\|1\|ALD
 :::
 
@@ -233,7 +235,7 @@ Beschreibung: Das alte Format der Datei Kurse.dat enthält weniger Informationen
 |----|----|----|----|----|----|
 | 1 | Kursbezeichnung | KursBez | Text(20) | Nein | Eintrag muss in Kombination mit Jahr, Abschnitt und Jahrgang eindeutig sein! Der Eintrag selbst erfolgt ohne Angabe von Jahr, Abschnitt, Jahrgang und Lehrer (s. Beispiele). |
 | 2 | Jahr | Jahr | Integer | Nein | Schuljahr |
-| 3 | Abschnitt | Abschnitt | Integer | Nein | Halbjahr bzw. Quartal |
+| 3 | Abschnitt | Abschnitt | Integer | Nein | Halbjahr beziehungsweise Quartal |
 | 4 | Jahrgang | Jahrgang | Text(20) | Ja | Muss identisch sein mit einer Bezeichnung aus Jahrgaenge.dat. Falls leer, ist der Kurs jahrgangsübergreifend |
 | 5 | Fach | Fach | Text(20) | Nein | Muss identisch sein mit einer schulinternen Kurzbez. aus Faecher.dat |
 | 6 | Kursart | Kursart | Text(5) | Ja | allgemeine Kursart (nicht schülerspezifische Kursart) als Statistik-Kürzel, Bemerkungen siehe [Anhang](#Anhang) |
@@ -263,7 +265,7 @@ Beschreibung: Diese Datei enthält zusätzliche Informationen zu Kursen, falls d
 |----|----|----|----|----|----|
 | 1 | Kursbezeichnung | KursBez | Text(20) | Nein | Eintrag muss in Kombination mit Jahr, Abschnitt und Jahrgang auf einen Eintrag aus Kurse.dat verweisen. |
 | 2 | Jahr | Jahr | Integer | Nein | Schuljahr |
-| 3 | Abschnitt | Abschnitt | Integer | Nein | Halbjahr bzw. Quartal |
+| 3 | Abschnitt | Abschnitt | Integer | Nein | Halbjahr beziehungsweise Quartal |
 | 4 | Lehrkraft | Lehrkraft | Text(10) | Nein | Muss identisch sein mit einem schulinternen Kürzel aus Lehrkraefte.dat |
 | 5 | Wochenstunden | Wochenstd | Float | Nein | Anteil des Lehrers an den Gesamtwochenstunden des Kurses |
 | 6 | Jahrgang | Jahrgang | Text(20) | Ja | Falls leer, muss die Kursbezeichnung (Spalte 1) in Kombination mit Jahr und Abschnitt eindeutig sein |
@@ -291,7 +293,7 @@ Beschreibung: Diese Datei wird automatisch beim Export der "Lehrkräfte" erzeugt
 | 6 | Vorname | Vorname | Text(20) | Nein |  |
 | 7 | Geschlecht | Geschlecht | Text(1) | Nein | Als "m" oder "w" |
 | 8 | Geburtsdatum | Geburtsdatum | Datum | Ja | Als TT.MM.JJJJ |
-| 9 | Staatsangehörigkeit | Staatsang | Text(3) | Ja | Als Statistik-Länderkürzel (z.B. 000 für Deutschland) aus Statkue.mdb, Tabelle "Nationalitäten". |
+| 9 | Staatsangehörigkeit | Staatsang | Text(3) | Ja | Als Statistik-Länderkürzel (zum Beispiel 000 für Deutschland) aus Statkue.mdb, Tabelle "Nationalitäten". |
 | 10 | PLZ Wohnort | PLZ | Text(10) | Ja |  |
 | 11 | Wohnort | Ort | Text(50) | Ja | Falls PLZ angegeben, darf Wohnort nicht leer sein |
 | 12 | Straße und Hausnr. | Straße | Text(50) | Ja |  |
@@ -487,20 +489,20 @@ Abenden\|Jennifer\|09.11.1988\|J\|J\|1,8\|2006\|2 Abendroth\|Marko\|04.05.1987\|
 
 ## SchuelerAdressen.dat
 
-Beschreibung: Enthält weitere Adressen (z.B. von Ausbildungsbetrieben) der Schüler
+Beschreibung: Enthält weitere Adressen (zum Beispiel von Ausbildungsbetrieben) der Schüler
 
 | Spalte | Beschreibung | Header-Text | Datentyp | Darf leer sein? | Bemerkung |
 |----|----|----|----|----|----|
 | 1 | Nachname des Schülers | Nachname | Text(50) | Ja (s.u.) | Muss in Verbindung mit Vorname und Geburtsdatum auf einen Eintrag aus SchuelerBasisdaten.dat verweisen. |
 | 2 | Vorname des Schülers | Vorname | Text(30) | Ja (s.u.) |  |
 | 3 | Geburtsdatum des Schülers | Geburtsdatum | Datum | Ja (s.u.) | Als TT.MM.JJJJ |
-| 4 | Adressart | Adressart | Text(30) | Ja | Als Klartext, z.B. "Betrieb" |
+| 4 | Adressart | Adressart | Text(30) | Ja | Als Klartext, zum Beispiel "Betrieb" |
 | 5 | Name1 | Name1 | Text(50) | Nein | 1\. Adresszeile |
 | 6 | Name2 | Name2 | Text(50) | Ja | 2\. Adresszeile |
 | 7 | Straße | Straße | Text(50) | Ja |  |
 | 8 | PLZ | PLZ | Text(10) | (Ja) | Wird bei Berufskollegs benötigt |
 | 9 | Ort | Ort | Text(50) | (Ja) | Falls PLZ angegeben, darf Wohnort nicht leer sein |
-| 10 | 1\. Telefon-Nr | 1\. Tel.-Nr. | Text(20) | Ja | Falls nicht leer, wird dies beim Import als Kriterium benutzt, ob ein Betrieb schon in SchILD-NRW existiert. Dabei werden die ersten n Stellen der Telefonnr. verglichen (n frei wählbar). Ist die Telefon-Nr. leer, so wird anhand des Feldes Name1 und ggf. Name2 geprüft, ob eine Adresse schon existiert. |
+| 10 | 1\. Telefon-Nr | 1\. Tel.-Nr. | Text(20) | Ja | Falls nicht leer, wird dies beim Import als Kriterium benutzt, ob ein Betrieb schon in SchILD-NRW existiert. Dabei werden die ersten n Stellen der Telefonnr. verglichen (n frei wählbar). Ist die Telefon-Nr. leer, so wird anhand des Feldes Name1 und gegebenenfalls Name2 geprüft, ob eine Adresse schon existiert. |
 | 11 | 2\. Telefon-Nr. | 2\. Tel.-Nr. | Text(20) | Ja |  |
 | 12 | E-Mail | E-Mail | Text(40) | Ja |  |
 | 13 | Betreuer Nachname | Betreuer Nachname | Text(30) | Ja | Betreuer des Schülers |
@@ -553,7 +555,7 @@ Beschreibung: Mit dieser Datei können die Bemerkungen zum Arbeits- und Sozialve
 | 2 | Vorname des Schülers | Vorname | Text(30) | Nein |  |
 | 3 | Geburtsdatum des Schülers | Geburtsdatum | Datum | Nein | Als TT.MM.JJJJ |
 | 4 | Jahr | Jahr | Integer | Nein | Schuljahr |
-| 5 | Abschnitt | Abschnitt | Integer | Nein | Halbjahr bzw. Quartal |
+| 5 | Abschnitt | Abschnitt | Integer | Nein | Halbjahr beziehungsweise Quartal |
 Danach folgt der eigentliche Bemerkungstext. Zwischen den Markierungen \<V\> und \</V\>.
 
 :::example
@@ -606,7 +608,7 @@ enthaltenen Schüler schon in SchILD-NRW existieren (anhand von Nachname, Vornam
 | 7 | Ort | Ort | Text(50) | (Ja) | Falls PLZ angegeben, darf Wohnort nicht leer sein! |
 | 8 | Straße | Straße | Text(50) | Ja | Mit Hausnr |
 | 9 | Spätaussiedler | Aussiedler | Text(1) | Ja | "J" oder "N" |
-| 10 | 1. Staatsangehörigkeit | 1. Staatsang. | Text(3) | (Ja) | Als Statistik-Kürzel (z.B. 000 für Deutschland) aus Statkue.mdb, Tabelle "Nationalitäten" |
+| 10 | 1. Staatsangehörigkeit | 1. Staatsang. | Text(3) | (Ja) | Als Statistik-Kürzel (zum Beispiel 000 für Deutschland) aus Statkue.mdb, Tabelle "Nationalitäten" |
 | 11 | Konfession, Klartext | Konfession | Text(30) | (Ja) | Klarttext für Konfession |
 | 12 | Konfession, Statistik-Kürzel | StatistikKrz Konfession | Text(10) | (Ja) | Statistik-Kürzel der Konfession aus Statkue.mdb, Tabelle "Religionen" |
 | 13 | Aufnahmedatum | Aufnahmedatum | Datum | (Ja) | Datum der Aufnahme an Schule |
@@ -615,14 +617,14 @@ enthaltenen Schüler schon in SchILD-NRW existieren (anhand von Nachname, Vornam
 | 16 | Schulpflicht erfüllt | Schulpflicht erf. | Text(1) | Nein | Als "J" oder "N" |
 | 17 | Reform-Pädagogik | Reform-Pädagogik | Text(1) | Ja | Als Statistik-Kürzel aus Statkue.mdb, Tabelle "Reformpädagogik" |
 | 18 | Nr. der Stammschule | Nr. Stammschule | Text(6) | (Ja) | Nummer der Stammschule, nur bei Status = Extern notwendig |
-| 19 | Jahr | Jahr | Integer | (Ja) | Das Schuljahr, in dem sich der Schüler befindet. Muss nicht immer identisch mit dem aktuellen Schuljahr sein (z.B. bei Abgängern) |
-| 20 | Abschnitt | Abschnitt | Integer | (Ja) | Der Abschnitt, in dem sich der Schüler befindet. Muss nicht immer identisch mit dem aktuellen Abschnitt sein (z.B. bei Abgängern) |
+| 19 | Jahr | Jahr | Integer | (Ja) | Das Schuljahr, in dem sich der Schüler befindet. Muss nicht immer identisch mit dem aktuellen Schuljahr sein (zum Beispiel bei Abgängern) |
+| 20 | Abschnitt | Abschnitt | Integer | (Ja) | Der Abschnitt, in dem sich der Schüler befindet. Muss nicht immer identisch mit dem aktuellen Abschnitt sein (zum Beispiel bei Abgängern) |
 | 21 | Jahrgang | Jahrgang | Text(20) | (Ja) | Muss identisch sein mit einer Bezeichnung aus Jahrgaenge.dat |
 | 22 | Klasse | Klasse | Text(6) | (Ja) | Aktuelle Klasse, muss auf einen Eintrag aus Klassen.dat verweisen |
-| 23 | Gliederung | Schulgliederung | Text(3) | (Ja) | Aktuelle Gliederung (z.B: ***, GY8, GY9, A01). Als Statistik-Kürzel (z.B. ***, GY8, GY9, A01) aus Statkue.mdb, Tabelle "Gliederung", Felder BKAnlage + BKTyp |
+| 23 | Gliederung | Schulgliederung | Text(3) | (Ja) | Aktuelle Gliederung (z.B: ***, GY8, GY9, A01). Als Statistik-Kürzel (zum Beispiel ***, GY8, GY9, A01) aus Statkue.mdb, Tabelle "Gliederung", Felder BKAnlage + BKTyp |
 | 24 | Klassen-Organisationsform | OrgForm | Text(1) | (Ja) | Aktuelle Organisationsform. Als Statistik-Kürzel aus Statkue.mdb, Tabelle "Organisationsform". |
 | 25 | Klassenart | Klassenart | Text(2) | (Ja) | Als Statistik-Kürzel aus Statkue.mdb, Tabelle "ZulKlArt". Bleibt bei Berufskollegs leer. |
-| 26 | Fachklasse | Fachklasse | Text(10) | (Ja) | Nur bei BKAktuelle FachklasseIn der Form BKIndex-Fachklassenschlüssel-Ausprägung (z.B.1-113-00 Bankkaufmann), aus Statkue.mdb, Tabelle "Fachklasse". |
+| 26 | Fachklasse | Fachklasse | Text(10) | (Ja) | Nur bei BKAktuelle FachklasseIn der Form BKIndex-Fachklassenschlüssel-Ausprägung (zum Beispiel 1-113-00 Bankkaufmann), aus Statkue.mdb, Tabelle "Fachklasse". |
 | 27 | Wird erst später benutzt |  |  |  | Noch leer lassen |
 | 28 | Verpflichtung zu Teilnahme an Sprachförderkurs | Verpflichtung Sprachförderkurs | Text(1) | Nein | Als "J" oder "N" |
 | 29 | Teilnahme an Sprachförderkurs | Teilnahme Sprachförderkurs | Text(1) | Nein | Als "J" oder "N" |
@@ -643,7 +645,7 @@ enthaltenen Schüler schon in SchILD-NRW existieren (anhand von Nachname, Vornam
 | 44 | Versetzung an abgeb. Schule | LS Versetzung | Integer | (Ja) | 0: Ja<br>1: Nein<br>2: Freiw. Rücktritt |
 | 45 | Reform-Pädagogik an abgebender Schule | LS Reformpädagogik | Text(1) | (Ja) | Als Statistik-Kürzel aus Statkue.mdb, Tabelle "Reformpädagogik" |
 | 46 | Gliederung an abgebender Schule | LS Gliederung | Text(3) | (Ja) | Als Statistik-Kürzel aus Statkue.mdb, Tabelle "Gliederung", Felder BKAnlage + BKTyp |
-| 47 | Fachklasse an abgebender Schule | LS Fachklasse | Text(10) | (Ja) | Nur bei BKAktuelle FachklasseIn der Form BKIndex-Fachklassenschlüssel-Ausprägung (z.B.1-113-00 Bankkaufmann)Aus Statkue.mdb, Tabelle "Fachklasse" |
+| 47 | Fachklasse an abgebender Schule | LS Fachklasse | Text(10) | (Ja) | Nur bei BKAktuelle FachklasseIn der Form BKIndex-Fachklassenschlüssel-Ausprägung (zum Beispiel 1-113-00 Bankkaufmann)Aus Statkue.mdb, Tabelle "Fachklasse" |
 | 48 | Art des Abschlusses an abgebender Schule | LS Abschluss | Text(2) | (Ja) | Als Statistik-Kürzel aus Statkue.mdb, Tabelle "Abgangsart" |
 | 49 | Art des Abschlusses an eigener Schule bei Verlassen der eigenen Schule | Abschluss | Text(2) | (Ja) | Als Statistik-Kürzel aus Statkue.mdb, Tabelle "Abgangsart" |
 | 50 | Schulnummer der aufnehmenden Schule | Schulnr. neue Schule | Text(6) | (Ja) |  |
@@ -653,13 +655,13 @@ Optional kann die Datei auch noch die folgenden Daten enthalten.
 
 | 51 | Jahr des Zuzugs | Zuzugsjahr | Integer | (Ja) |  |
 | --- | --- | --- | --- | --- | --- |
-| 52 | Geburtsland Schüler | Geburtsland Schüler | Text(3) | (Ja) | Als Statistik-Kürzel (z.B. 000 für Deutschland) aus Statkue.mdb, Tabelle "Nationalitäten |
-| 53 | Geburtsland Mutter | Geburtsland Mutter | Text(3) | (Ja) | Als Statistik-Kürzel (z.B. 000 für Deutschland) aus Statkue.mdb, Tabelle "Nationalitäten |
-| 54 | Geburtsland Vater | Geburtsland Vater | Text(3) | (Ja) | Als Statistik-Kürzel (z.B. 000 für Deutschland) aus Statkue.mdb, Tabelle "Nationalitäten |
-| 55 | Verkehrssprache in der Familie | Verkehrssprache | Text(2) | (Ja) | Als Statistik-Kürzel (z.B. "de" für Deutsch) aus Statkue.mdb, Tabelle "SchuelerVerkehrssprache" |
+| 52 | Geburtsland Schüler | Geburtsland Schüler | Text(3) | (Ja) | Als Statistik-Kürzel (zum Beispiel 000 für Deutschland) aus Statkue.mdb, Tabelle "Nationalitäten |
+| 53 | Geburtsland Mutter | Geburtsland Mutter | Text(3) | (Ja) | Als Statistik-Kürzel (zum Beispiel 000 für Deutschland) aus Statkue.mdb, Tabelle "Nationalitäten |
+| 54 | Geburtsland Vater | Geburtsland Vater | Text(3) | (Ja) | Als Statistik-Kürzel (zum Beispiel 000 für Deutschland) aus Statkue.mdb, Tabelle "Nationalitäten |
+| 55 | Verkehrssprache in der Familie | Verkehrssprache | Text(2) | (Ja) | Als Statistik-Kürzel (zum Beispiel "de" für Deutsch) aus Statkue.mdb, Tabelle "SchuelerVerkehrssprache" |
 | 56 | Dauer des Kindergartenbesuches | Dauer Kindergartenbesuch | Text(1) | (Ja) | Nur bei Grundschulengültige Einträge<br>0: Kein Kindergarten1: unter 1 Jahr<br>2: 1 bis unter 2 Jahre<br>3: 2 bis unter 3 Jahre<br>4: 3 Jahre und mehr |
 | 57 | Ende der Eingliederungsphase | Migrationsinformation | Datum | (Ja) |  |
-| 58 | Ende Anschlussförderung | Migrationsinformation | Datum | (Ja) | Als Statistik-Kürzel (z.B. "de" für Deutsch) aus Statkue.mdb, Tabelle "SchuelerVerkehrssprache" |
+| 58 | Ende Anschlussförderung | Migrationsinformation | Datum | (Ja) | Als Statistik-Kürzel (zum Beispiel "de" für Deutsch) aus Statkue.mdb, Tabelle "SchuelerVerkehrssprache" |
 
 :::warning
 Jede Zeile der Importdatei muss entweder 50, 56 oder 58 "Spalten" enthalten.\
@@ -673,7 +675,7 @@ Eckhoff\|Franz\|17.06.1995\|m\|2\|46499\|Hamminkeln\|Ströteberger Str. 23\|N\|0
 :::
 
 :::warning
-Zur Identifizierung eines Schülers werden normalerweise der Name, der Vorname und das Geburtsdatum verwendet. Dies gilt auch für die oben genannten "abhängige" Dateien. Existiert in der Datenbank ein Schüler mit der Kombination "Name,Vorname,Geburtsdatum", so wird der Schüler als bereits existierend angenommen. In manchen Fällen kann es aber auch notwendig sein, dass ein Schüler mehrfach als getrennte Datensätze importiert werden muss, z.B. dann, wenn der Schüler an einem Berufskolleg mehrere Ausbildungsgänge besucht. In diesem Fall reicht die Kombination "Name, Vorname und Geburtsdatum" nicht aus, um zwei getrennte Datensätze zu erzeugen. Um dies dennoch realisieren zu können, muss die Klasse als ein weiteres Kriterium verwendet werden, damit beim Import eindeutig entschieden werden kann, ob ein Datensatz schon existiert. Damit die bisherige Struktur der Importdateien nicht verändert werden muss, wird die Klasse nicht als zusätzliche Spalte angegeben, sondern dem Nachnamen angehängt, mit einem \#-Zeichen als Trenner.
+Zur Identifizierung eines Schülers werden normalerweise der Name, der Vorname und das Geburtsdatum verwendet. Dies gilt auch für die oben genannten "abhängige" Dateien. Existiert in der Datenbank ein Schüler mit der Kombination "Name,Vorname,Geburtsdatum", so wird der Schüler als bereits existierend angenommen. In manchen Fällen kann es aber auch notwendig sein, dass ein Schüler mehrfach als getrennte Datensätze importiert werden muss, zum Beispiel dann, wenn der Schüler an einem Berufskolleg mehrere Ausbildungsgänge besucht. In diesem Fall reicht die Kombination "Name, Vorname und Geburtsdatum" nicht aus, um zwei getrennte Datensätze zu erzeugen. Um dies dennoch realisieren zu können, muss die Klasse als ein weiteres Kriterium verwendet werden, damit beim Import eindeutig entschieden werden kann, ob ein Datensatz schon existiert. Damit die bisherige Struktur der Importdateien nicht verändert werden muss, wird die Klasse nicht als zusätzliche Spalte angegeben, sondern dem Nachnamen angehängt, mit einem \#-Zeichen als Trenner.
 :::
 
 :::example
@@ -726,7 +728,7 @@ Beschreibung: Enthält weitere Schulen, die bisher besucht wurden
 
 ## SchuelerDatenschutz.dat
 
-Beschreibung: Diese Datei enthält Datenschutzinformationen zu Schülerinnen und Schüler. Bei einem Import der Schnittstellendaten müssen alle in der Datei vorkommenden Datenschutzbezeichnungen vorab in Schild-NRW unter Schulverwaltung - DSGVO-Einwilligungen definiert worden sein, ansonsten erfolgt kein Import.
+Beschreibung: Diese Datei enthält Datenschutzinformationen zu Schülerinnen und Schülern. Bei einem Import der Schnittstellendaten müssen alle in der Datei vorkommenden Datenschutzbezeichnungen vorab in Schild-NRW unter Schulverwaltung - DSGVO-Einwilligungen definiert worden sein, ansonsten erfolgt kein Import.
 
 | Spalte | Beschreibung | Header-Text | Datentyp | Darf leer sein? | Bemerkung |
 |----|----|----|----|----|----|
@@ -748,14 +750,14 @@ Zornbach\|Andrea\|01.01.2009\|Fotos auf der Homepage\|N\|J\
 
 ## SchuelerErzieher.dat
 
-Beschreibung: Enthält Angaben zu den Erziehern der Schüler. Pro Datensatz können die Namen von 1 (bei allein erziehendem Elternteil) oder 2 Personen (i.d.R. Mutter und Vater) eingegeben werden. Falls zu einem Schüler mehrere Datensätze existieren, sollen diese in der Reihenfolge der "Wichtigkeit" (wichtigste Adresse zuerst) erscheinen.
+Beschreibung: Enthält Angaben zu den Erziehern der Schüler. Pro Datensatz können die Namen von 1 (bei allein erziehendem Elternteil) oder 2 Personen (in der Regel Mutter und Vater) eingegeben werden. Falls zu einem Schüler mehrere Datensätze existieren, sollen diese in der Reihenfolge der "Wichtigkeit" (wichtigste Adresse zuerst) erscheinen.
 
 | Spalte | Beschreibung | Header-Text | Datentyp | Darf leer sein? | Bemerkung |
 |----|----|----|----|----|----|
 | 1 | Nachname des Schülers | Nachname | Text(50) | Nein | Muss in Verbindung mit Vorname und Geburtsdatum auf einen Eintrag aus SchuelerBasisdaten.dat verweisen. Falls notwendig, mit Klasse ergänzen (mit \#-Zeichen getrennt - siehe Beschreibung zu SchuelerBasisdaten.dat) |
 | 2 | Vorname des Schülers | Vorname | Text(30) | Nein |  |
 | 3 | Geburtsdatum des Schülers | Geburtsdatum | Datum | Nein | Als TT.MM.JJJJ |
-| 4 | Erzieherart | Erzieherart | Text(30) | Ja | z.B. "Eltern", "Mutter", "Vater" usw. |
+| 4 | Erzieherart | Erzieherart | Text(30) | Ja | zum Beispiel "Eltern", "Mutter", "Vater" usw. |
 | 5 | Anrede 1. Person | Anrede 1.Person | Text(20) | Ja | "Herr" oder "Frau" |
 | 6 | Titel 1. Person | Titel 1.Person | Text(10) | Ja |  |
 | 7 | Nachname 1. Person | Nachname 1.Person | Text(50) | Nein |  |
@@ -799,7 +801,7 @@ Beschreibung: Mit dieser Datei können die fachbezogenen Bemerkungen zum jeweili
 | 2 | Vorname des Schülers | Vorname | Text(30) | Nein |  |
 | 3 | Geburtsdatum des Schülers | Geburtsdatum | Datum | Nein | Als TT.MM.JJJJ |
 | 4 | Jahr | Jahr | Integer | Nein | Schuljahr |
-| 5 | Abschnitt | Abschnitt | Integer | Nein | Halbjahr bzw. Quartal |
+| 5 | Abschnitt | Abschnitt | Integer | Nein | Halbjahr beziehungsweise Quartal |
 | 6 | schulinterne Fachbezeichnung | Fach | Text | Nein | Fach, für den der Bemerkungstext gilt. |
 Danach folgt der eigentliche Bemerkungstext. Zwischen den Markierungen \<V\> und \</V\>.
 
@@ -833,7 +835,7 @@ Alles super auf dem Zeugnis!\
 | 12 | Entschuldigt als Ja/Nein | Entschuldigt | Test(1) | J |  |
 | 13 | Lehrer-Kürzel | Lehrkraft | Text | J |  |
 :::info
-Wenn Von Std. und Bis Std. nicht leer ist, wird Anzahl Std. ignoriert (bzw. vom Programm selbst berechnet)
+Wenn Von Std. und Bis Std. nicht leer ist, wird Anzahl Std. ignoriert (beziehungsweise vom Programm selbst berechnet)
 :::
 
 :::example
@@ -855,7 +857,7 @@ Beschreibung: Enthält die Daten der Herkunftsgrundschule, welche zur Aufnahmeen
 | 1 | Nachname des Schülers | Nachname | Text(50) | Nein | Muss in Verbindung mit Vorname und Geburtsdatum auf einen Eintrag aus SchuelerBasisdaten.dat verweisen. Falls notwendig, mit Klasse ergänzen (mit \#-Zeichen getrennt - siehe Beschreibung zu SchuelerBasisdaten.dat). Außerdem muss ein entsprechender Eintrag (in Verbindung mit Jahr und Abschnitt) in SchuelerLernabschnitsdaten.dat vorhanden sein. |
 | 2 | Vorname des Schülers | Vorname | Text(30) | Nein |  |
 | 3 | Geburtsdatum des Schülers | Geburtsdatum | Datum | Nein |  |
-| 4 | Zeugnisnote Sprachgebrauch | Sprachgebrauch | Text | Ja | Normale Zeugnisnote als Zahl, z.B. 2 |
+| 4 | Zeugnisnote Sprachgebrauch | Sprachgebrauch | Text | Ja | Normale Zeugnisnote als Zahl, zum Beispiel 2 |
 | 5 | Zeugnisnote Lesen | Lesen | Text | Ja |  |
 | 6 | Zeugnisnote Rechtschreiben | Rechtschreiben | Text | Ja |  |
 | 7 | Zeugnisnote Sachunterricht | Sachunterricht | Text | Ja |  |
@@ -893,10 +895,10 @@ Beschreibung: Enthält die Leistungsdaten (Fächer und Noten) eines Lernabschnit
 | 2 | Vorname des Schülers | Vorname | Text(30) | Nein |  |
 | 3 | Geburtsdatum des Schülers | Geburtsdatum | Datum | Nein |  |
 | 4 | Jahr | Jahr | Integer | Nein | Schuljahr |
-| 5 | Abschnitt | Abschnitt | Integer | Nein | Halbjahr bzw. Quartal |
+| 5 | Abschnitt | Abschnitt | Integer | Nein | Halbjahr beziehungsweise Quartal |
 | 6 | Fach | Fach | Text(20) | Nein | Muss identisch sein mit einer schulinternen Kurzbez. aus Faecher.dat |
 | 7 | Fachlehrer | Fachlehrer | Text(10) | (Ja) | Muss identisch sein mit einem schulinternen Kürzel aus Lehrkraefte.dat |
-| 8 | Kursart | Kursart | Text(5) | Ja | Die "schülerbezogene Kursart", z.B. GKS, GKM aus Statkue.mdb, Tabelle "ZulKuArt". |
+| 8 | Kursart | Kursart | Text(5) | Ja | Die "schülerbezogene Kursart", zum Beispiel GKS, GKM aus Statkue.mdb, Tabelle "ZulKuArt". |
 | 9 | Kurs | Kurs | Text(20) | Ja | Die Kursbezeichnung, muss zusammen mit Jahr, Abschnitt und Jahrgang des Schülers auf einen eindeutigen Eintrag in Kurse.dat verweisen |
 | 10 | Note | Note | Text(2) | Ja | Die Note in üblicher Bezeichnung ("2", "2+", "2-" usw.) |
 | 11 | AbiFach | Abiturfach | Integer | Ja | Angabe um welches Abiturfach es sich handelt (1,2,3,4)Falls leer, wird beim Import versucht, über die Kursart (Spalte 8) das Abiturfach zu setzen |
@@ -940,7 +942,7 @@ Beschreibung: Mit dieser Datei können die Bemerkungen zum außerunterrichtliche
 | 2 | Vorname des Schülers | Vorname | Text(30) | Nein |  |
 | 3 | Geburtsdatum des Schülers | Geburtsdatum | Datum | Nein | Als TT.MM.JJJJ |
 | 4 | Jahr | Jahr | Integer | Nein | Schuljahr |
-| 5 | Abschnitt | Abschnitt | Integer | Nein | Halbjahr bzw. Quartal |
+| 5 | Abschnitt | Abschnitt | Integer | Nein | Halbjahr beziehungsweise Quartal |
 Danach folgt der eigentliche Bemerkungstext. Zwischen den Markierungen \<V\> und \</V\>.
 
 :::example
@@ -965,13 +967,13 @@ Beschreibung: Enthält die Daten für einen Lernabschnitt (=Halbjahr oder Quarta
 | 2 | Vorname des Schülers | Vorname | Text(30) | Nein |  |
 | 3 | Geburtsdatum des Schülers | Geburtsdatum | Datum | Nein | Als TT.MM.JJJJ |
 | 4 | Jahr | Jahr | Integer | Nein | Schuljahr |
-| 5 | Abschnitt | Abschnitt | Integer | Nein | Halbjahr bzw. Quartal |
+| 5 | Abschnitt | Abschnitt | Integer | Nein | Halbjahr beziehungsweise Quartal |
 | 6 | Jahrgang | Jahrgang | Text(20) | (Ja) | Der Jahrgang, in dem sich der Schüler im jeweiligen Abschnitt befand. Muss identisch sein mit einer Bezeichnung aus Jahrgaenge.dat |
 | 7 | Klasse | Klasse | Text(6) | (Ja) | Klasse im jeweiligen Abschnitt, muss auf einen Eintrag aus Klassen.dat verweisen |
-| 8 | Gliederung | Schulgliederung | Text(3) | (Ja) | Gliederung im jeweiligen Abschnitt Als Statistik-Kürzel (z.B. \*\*\*, GY8, GY9, A01) aus Statkue.mdb, Tabelle "Gliederung", Felder BKAnlage + BKTyp |
+| 8 | Gliederung | Schulgliederung | Text(3) | (Ja) | Gliederung im jeweiligen Abschnitt Als Statistik-Kürzel (zum Beispiel \*\*\*, GY8, GY9, A01) aus Statkue.mdb, Tabelle "Gliederung", Felder BKAnlage + BKTyp |
 | 9 | Klassen-Organisationsform | OrgForm | Text(1) | (Ja) | Organisationsform im jeweiligen Abschnitt. Als Statistik-Kürzel aus Statkue.mdb, Tabelle "Organisationsform". |
 | 10 | Klassenart | Klassenart | Text(2) | (Ja) | Als Statistik-Kürzel aus Statkue.mdb, Tabelle "ZulKlArt". Bleibt bei Berufskollegs leer. |
-| 11 | Fachklasse | Fachklasse | Text(10) | (Ja) | Nur bei BKFachklasse im jeweiligen Abschnitt. In der Form BKIndex-Fachklassenschlüssel-Ausprägung (z.B.1-113-00 Bankkaufmann), aus Statkue.mdb, Tabelle "Fachklasse". |
+| 11 | Fachklasse | Fachklasse | Text(10) | (Ja) | Nur bei BKFachklasse im jeweiligen Abschnitt. In der Form BKIndex-Fachklassenschlüssel-Ausprägung (zum Beispiel 1-113-00 Bankkaufmann), aus Statkue.mdb, Tabelle "Fachklasse". |
 | 12 | Haupt-Förderschwerpunkt | Förderschwerpunkt | Text(2) | Ja | Förderschwerpunkt im jeweiligen AbschnittAls Statistik-Kürzel aus Statkue.mdb, Tabelle "Förderschwerpunkt". |
 | 13 | Weiterer Förderschwerpunkt | 2\. Förderschwerpunkt | Text(2) | Ja | Förderschwerpunkt im jeweiligen AbschnittAls Statistk-Kürzel, Tabelle "Förderschwerpunkt". |
 | 14 | Schwerstbehinderung | Schwerstbehinderung | Text(1) | Nein | Schwerstbehinderung im jeweiligen AbschnittAls "J" oder "N" |
@@ -1027,7 +1029,7 @@ Zornbach\|Andrea\|01.01.2009\|5\|SDS\|zornbach@sds.de\|hfj65ufZ\
 
 ## SchuelerMerkmale.dat
 
-Beschreibung: Enthält spezielle Merkmale der Schüler (z.B. Teilnahme am BUS-Projekt, Offene Ganztagsschule usw.)
+Beschreibung: Enthält spezielle Merkmale der Schüler (zum Beispiel Teilnahme am BUS-Projekt, Offene Ganztagsschule usw.)
 
 | Spalte | Beschreibung | Header-Text | Datentyp | Darf leer sein? | Bemerkung |
 |----|----|----|----|----|----|
@@ -1087,11 +1089,11 @@ Beschreibung: Enthält die Teilleistungsdaten (Teilleistung und Noten) eines Ler
 | 2 | Vorname des Schülers | Vorname | Text(30) | Nein |  |
 | 3 | Geburtsdatum des Schülers | Geburtsdatum | Datum | Nein |  |
 | 4 | Jahr | Jahr | Integer | Nein | Schuljahr |
-| 5 | Abschnitt | Abschnitt | Integer | Nein | Halbjahr bzw. Quartal |
+| 5 | Abschnitt | Abschnitt | Integer | Nein | Halbjahr beziehungsweise Quartal |
 | 6 | Fach | Fach | Text(20) | Nein | Muss identisch sein mit einer schulinternen Kurzbez. aus Faecher.dat |
 | 7 | Datum der Teilleistung | Datum | Datum | Nein |  |
-| 8 | Art der Teilleistung | Teilleistung | Text | Nein | Art der Teilleistung, z.B. Klausur 1, Sominote 1, Test 2 |
-| 9 | Note | Note | Text | Nein | Normale Note z.B. 2+ |
+| 8 | Art der Teilleistung | Teilleistung | Text | Nein | Art der Teilleistung, zum Beispiel Klausur 1, Sominote 1, Test 2 |
+| 9 | Note | Note | Text | Nein | Normale Note zum Beispiel 2+ |
 | 10 | Bemerkung | Bemerkung | Text(100) | Ja | Bemerkung zur Teilleistung |
 | 11 | Lehrkraft | Lehrkraft | Text | Ja | eindeutiges Kürzel der Lehrkraft |
 :::example
@@ -1105,7 +1107,7 @@ Schmidt\|Sarah\|01.04.2003\|2020\|1\|E\|20.10.2020\|1. Klausur\|3-\|\|WA
 
 ## SchuelerTelefonnummern.dat
 
-Beschreibung: Enthält zusätzliche Telefonnummern der Schüler bzw. der Erzieher.
+Beschreibung: Enthält zusätzliche Telefonnummern der Schüler beziehungsweise der Erzieher.
 
 | Spalte | Beschreibung | Header-Text | Datentyp | Darf leer sein? | Bemerkung |
 |----|----|----|----|----|----|
@@ -1113,7 +1115,7 @@ Beschreibung: Enthält zusätzliche Telefonnummern der Schüler bzw. der Erziehe
 | 2 | Vorname des Schülers | Vorname | Text(30) | Nein |  |
 | 3 | Geburtsdatum des Schülers | Geburtsdatum | Datum | Nein | Als TT.MM.JJJJ |
 | 4 | Telefon-Nummer | Telefonnr. | Text(20) | Nein |  |
-| 5 | TelefonArt | Art | Text(30) | Nein | Beschreibung der Telefonnr, z.B. "Eltern", "Handy Schüler", "Büro Vater", "Handy Mutter" usw. |
+| 5 | TelefonArt | Art | Text(30) | Nein | Beschreibung der Telefonnr, zum Beispiel "Eltern", "Handy Schüler", "Büro Vater", "Handy Mutter" usw. |
 :::example
 Nachname\|Vorname\|Geburtsdatum\|Telefonnr.\|Art\
 Abel\|Jennifer\|09.11.1990\|01234-775303\|Eltern\
@@ -1127,7 +1129,7 @@ Addens\|Sophie\|05.12.1991\|01234-561482\|Eltern
 
 ## SchuelerVermerke.dat
 
-Beschreibung: Enthält Vermerke (z.B. Bemerkungen) zu den Schülern, optional mit Datum. Zu jedem Vermerk kann ein beliebig langer Bemerkungstext hinzugefügt werden. Aus diesem Grunde ist der Dateiaufbau auch etwas anders als bei den übrigen Dateien: Auf eine Zeile, die zum einen zur Identifikation des Schülers (über Name und Geburtsdatum) dient, zum anderen die Vermerkart und das Datum des Vermerkes enthält, folgt der Bemerkungstext, der auch mehrere Zeilen umfassen kann. Der Bemerkungstext ist durch die "Tags" \<V\> und \</V\> abgegrenzt, diese müssen jeweils in einer separaten Zeile stehen. Die Tags müssen auch vorhanden sein, wenn ein leerer Bemerkungstext übergeben wird.
+Beschreibung: Enthält Vermerke (zum Beispiel Bemerkungen) zu den Schülern, optional mit Datum. Zu jedem Vermerk kann ein beliebig langer Bemerkungstext hinzugefügt werden. Aus diesem Grunde ist der Dateiaufbau auch etwas anders als bei den übrigen Dateien: Auf eine Zeile, die zum einen zur Identifikation des Schülers (über Name und Geburtsdatum) dient, zum anderen die Vermerkart und das Datum des Vermerkes enthält, folgt der Bemerkungstext, der auch mehrere Zeilen umfassen kann. Der Bemerkungstext ist durch die "Tags" \<V\> und \</V\> abgegrenzt, diese müssen jeweils in einer separaten Zeile stehen. Die Tags müssen auch vorhanden sein, wenn ein leerer Bemerkungstext übergeben wird.
 
 Der Aufbau der "Identifikationszeile" ist wie folgt:
 
@@ -1136,9 +1138,9 @@ Der Aufbau der "Identifikationszeile" ist wie folgt:
 | 1 | Nachname des Schülers | Nachname | Text(50) | Nein | Muss in Verbindung mit Vorname und Geburtsdatum auf einen Eintrag aus SchuelerBasisdaten.dat verweisen. Falls notwendig, mit Klasse ergänzen (mit \#-Zeichen getrennt - siehe Beschreibung zu SchuelerBasisdaten.dat) |
 | 2 | Vorname des Schülers | Vorname | Text(30) | Nein |  |
 | 3 | Geburtsdatum des Schülers | Geburtsdatum | Datum | Nein | Als TT.MM.JJJJ |
-| 4 | Vermerkart | Vermerkart | Text(30) | Nein | Art des Vermerkes (z.B. Tadel, allg. Bemerkung, Laufbahnbemerkung usw), kann frei vergeben werden |
+| 4 | Vermerkart | Vermerkart | Text(30) | Nein | Art des Vermerkes (zum Beispiel Tadel, allg. Bemerkung, Laufbahnbemerkung usw), kann frei vergeben werden |
 | 5 | Datum | Vermerkdatum | Datum | Ja | Datum des Vermerkes |
-Auf jede Identifikationszeile folgt der eigentliche Bemerkungstext, der durch die Tags \<V\> und \</V\> begonnen bzw. beendet wird.
+Auf jede Identifikationszeile folgt der eigentliche Bemerkungstext, der durch die Tags \<V\> und \</V\> begonnen beziehungsweise beendet wird.
 
 :::example
 Nachname\|Vorname\|Geburtsdatum\|Vermerkart\|Vermerkdatum\
@@ -1162,7 +1164,7 @@ Beschreibung: Mit dieser Datei können die Zeugnisbemerkungen zum jeweiligen Ler
 | 2 | Vorname des Schülers | Vorname | Text(30) | Nein |  |
 | 3 | Geburtsdatum des Schülers | Geburtsdatum | Datum | Nein | Als TT.MM.JJJJ |
 | 4 | Jahr | Jahr | Integer | Nein | Schuljahr |
-| 5 | Abschnitt | Abschnitt | Integer | Nein | Halbjahr bzw. Quartal |
+| 5 | Abschnitt | Abschnitt | Integer | Nein | Halbjahr beziehungsweise Quartal |
 Danach folgt der eigentliche Bemerkungstext. Zwischen den Markierungen \<V\> und \</V\>.
 
 :::example
@@ -1192,8 +1194,8 @@ Beschreibung: Enthält zusätzliche Stammdaten der Schüler, die nicht statistik
 | 7 | Ortsteil | Ortsteil | Text(30) | Ja |  |
 | 8 | Telefon-Nr. | Telefon-Nr. | Text(20) | Ja |  |
 | 9 | E-Mail | E-Mail | Text(40) | Ja |  |
-| 10 | 2\. Staatsangehörigkeit | 2\. Staatsang. | Text(3) | Ja | Als Statistik-Kürzel (z.B. 163 für Türkei) |
-| 11 | Externe ID-Nr. | Externe ID-Nr | Text(30) | Ja | z.B. aus Einwohnermeldeamt |
+| 10 | 2\. Staatsangehörigkeit | 2\. Staatsang. | Text(3) | Ja | Als Statistik-Kürzel (zum Beispiel 163 für Türkei) |
+| 11 | Externe ID-Nr. | Externe ID-Nr | Text(30) | Ja | zum Beispiel aus Einwohnermeldeamt |
 | 12 | Sportbefreiung | Sportbefreiung | Text(50) | Ja |  |
 | 13 | Fahrschülerart | Fahrschülerart | Text(30) | Ja |  |
 | 14 | Haltestelle | Haltestelle | Text(50) | Ja |  |
@@ -1224,7 +1226,7 @@ Fatirmay\|Jasemin\|26.01.1995\|\|\|Gütersloh\|Roisdorf\|01234-803324\|JFatirmay
 
 ## SchuleMerkmale.dat
 
-Beschreibung: Enthält spezielle Merkmale der Schule (z.B. ob Offene Ganztagsschule angeboten wird usw.)
+Beschreibung: Enthält spezielle Merkmale der Schule (zum Beispiel ob Offene Ganztagsschule angeboten wird usw.)
 
 | Spalte | Beschreibung | Header-Text | Datentyp | Darf leer sein? | Bemerkung |
 |----|----|----|----|----|----|

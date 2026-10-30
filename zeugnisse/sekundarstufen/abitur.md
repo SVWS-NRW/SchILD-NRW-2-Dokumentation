@@ -14,7 +14,7 @@ Im unteren Teil des Fensters wird die Auswertung der gesamten Abiturprüfung ang
 
 Die einzelnen Schritte werden in der Regel für die gesamte Gruppe als Gruppenprozess ([Gruppenprozesse für das Abitur](/zeugnisse/sekundarstufen/gruppenprozesse-abitur)) ausgeführt, können aber auch hier für den einzelnen Schüler ausgeführt werden.
 
-Des Weiteren kann man hier drei Häkchen setzen:
+Des Weiteren können Sie hier drei Häkchen setzen:
 
 - Belegungs- und Markierungsfehler ignorieren
 - Zulassungsberechnung automatisch
@@ -42,13 +42,13 @@ Es kann gewählt werden zwischen
 
 Wird eine bes. Lernleistung ausgewählt, so erscheinen zwei weitere Felder, in die die Benotung (in Punkten) und das Thema der Lernleistung eingetragen werden müssen.
 
-In der Übersicht der Leistungen der Qualifikationsphase besteht nun noch die Möglichkeit, einzelne Kurse nicht auf dem Abiturzeugnis ausgeben zu lassen. Dazu macht man einen Rechtsklick auf den gewünschten Kurs und wählt "Nicht in Abiturzeugnis auswählen". Ein solcher Kurs wird nun in eckigen Klammern dargestellt. Möglich ist diese Option allerdings nur bei Kursen, die nicht zur Pflichtbelegung gehören bzw. nicht in die Abiturberechnung einbezogen wurden.
+In der Übersicht der Leistungen der Qualifikationsphase besteht nun noch die Möglichkeit, einzelne Kurse nicht auf dem Abiturzeugnis ausgeben zu lassen. Dazu macht man einen Rechtsklick auf den gewünschten Kurs und wählt "Nicht in Abiturzeugnis auswählen". Ein solcher Kurs wird nun in eckigen Klammern dargestellt. Möglich ist diese Option allerdings nur bei Kursen, die nicht zur Pflichtbelegung gehören beziehungsweise nicht in die Abiturberechnung einbezogen wurden.
 
 ![Karteireiter-Abitur5](/bilder/zeugnisse/sekundarstufen/karteireiter-abitur5.jpg)
 
 Für die weiteren Eingabemöglichkeiten unter diesem Reiter findet man eine ausführliche Darlegung im aktuellen Handbuch_Teil_2_11.pdf vom 03.02.2014: <http://www.svws.nrw.de/index.php?id=dokumentationen>
 
-Hat ein Schüler das Abitur bestanden, ist es wichtig, dass bei ihm das Abitur-Jahr gesetzt wird (rechts unten im Fenster). Dies ist für die Statistik und evtl. weiteren Datenaustausch wichtig, damit z.B. die richtigen Ergebnisse für den Export der Abiturergebnisse zur Verfügung gestellt werden können.
+Hat ein Schüler das Abitur bestanden, ist es wichtig, dass bei ihm das Abitur-Jahr gesetzt wird (rechts unten im Fenster). Dies ist für die Statistik und gegebenenfalls weiteren Datenaustausch wichtig, damit zum Beispiel die richtigen Ergebnisse für den Export der Abiturergebnisse zur Verfügung gestellt werden können.
 
 ![Karteireiter-Abitur6](/bilder/zeugnisse/sekundarstufen/karteireiter-abitur6.jpg)
 

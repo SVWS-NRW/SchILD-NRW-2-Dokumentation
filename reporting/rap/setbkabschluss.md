@@ -11,6 +11,8 @@ title: "SetBKAbschluss"
 
 ## Beschreibung
 
+Schaltet die für Abschlussreports am Berufskolleg benötigten Datenquellen ein oder aus.
+
 ```pascal
 procedure SetBKAbschluss(IsAbschluss: Boolean);
 ```
@@ -20,7 +22,6 @@ procedure SetBKAbschluss(IsAbschluss: Boolean);
 | Parameter | Bedeutung |
 | --- | --- |
 | `IsAbschluss` | Boolescher Wert, bei 'True' werden die für den Abschluss von Berufskolleg-Bildungsgängen relevanten Datenquellen (BKfaecher, BKAbschluss. aktiviert und beim Schülerwechsel aktualisiert |
-
 
 ## Beispiel
 

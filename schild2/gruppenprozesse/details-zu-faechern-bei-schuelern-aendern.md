@@ -6,11 +6,13 @@ title: "Fachangaben gruppenweise ändern"
 
 # Fachangaben gruppenweise ändern
 
+Mit diesem Gruppenprozess ändern Sie Angaben zu bereits zugewiesenen Fächern für mehrere Personen. Wählen Sie zuerst die Schülergruppe aus und prüfen Sie im Eingabefenster, welche Fachangaben geändert werden sollen.
+
 Mit dem Aufruf des Gruppenprozesses "Details zu Fächern bei Schülern ändern" erscheint das Eingabefenster "Angaben zu Fächern ändern".
 
 Im Kopfbereich des Fensters sind die Angaben des zu bearbeitenden Faches vorzunehmen.
 
-Auf der Registerkarte "Ändern" können nun zahlreiche Informationen zu dem ausgewählten Fach bei den ausgewählten Schülern für einen beliebigen Abschnitt (Auswahl s.o.) geändert werden. Man kann sogar ein Fach, in dem bereits Noten eingegeben wurden, in ein anderes Fach umwandeln. Die Noten werden für das neue Fach übernommen. Die Felder, in die nichts eingetragen wurde, führen nicht zum Löschen der Information.
+Auf der Registerkarte "Ändern" können nun zahlreiche Informationen zu dem ausgewählten Fach bei den ausgewählten Schülern für einen beliebigen Abschnitt (Auswahl s.o.) geändert werden. Sie können sogar ein Fach, in dem bereits Noten eingegeben wurden, in ein anderes Fach umwandeln. Die Noten werden für das neue Fach übernommen. Die Felder, in die nichts eingetragen wurde, führen nicht zum Löschen der Information.
 
 ![GP-Faecheraendern01](/bilder/schild2/gruppenprozesse/gp-faecheraendern01.jpg)
 

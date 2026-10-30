@@ -6,7 +6,7 @@ title: "Grundschuldaten eingeben"
 
 ![GSDaten](/bilder/schild2/schueler/gsdaten.jpg)
 
-Geben Sie hier die Zeugnisdaten und Informationen aus der Grundschule ein, wenn Sie diese z.B. für ein Aufnahmeverfahren oder die Erprobungsstufenkonferenzen benötigen.
+Geben Sie hier die Zeugnisdaten und Informationen aus der Grundschule ein, wenn Sie diese zum Beispiel für ein Aufnahmeverfahren oder die Erprobungsstufenkonferenzen benötigen.
 
 Die Berechnung der Durchschnittsnoten kann im Listendruck mit dem Reportgenerator genutzt werden.
 

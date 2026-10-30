@@ -7,6 +7,8 @@ search: false
 
 # Barrierefreiheitserklärung des Wikis
 
+Diese Erklärung bezieht sich auf die frühere Wiki-Website. Sie beschreibt deren damaligen Stand der Barrierefreiheit und ist keine Bewertung dieser VitePress-Dokumentation.
+
 <a id="Barrierefreiheit_dieser_Internetseite"></a>
 
 ## Barrierefreiheit dieser Internetseite
@@ -46,7 +48,7 @@ Diese Erklärung wurde im Juni 2024 zu Düsseldorf angepasst.
 
 Sind Ihnen Mängel beim barrierefreien Zugang zu Inhalten auf dieser Seite aufgefallen? Oder haben Sie Fragen zum Thema Barrierefreiheit? Dann können Sie sich gerne bei uns melden. Bitte benutzen Sie dafür das vorgesehene Kontaktformular auf dieser Website: <https://www.land.nrw/de/servicecenter/kontakt>
 
-Bitte beachten Sie, dass mit dem Absenden des Formulars die von Ihnen angegebenen personenbezogenen Daten sowie die besonderen Daten (§ 3 Abs. 9 BDSG, z.B. politische Meinungen) an die Landesregierung Nordrhein-Westfalen übermittelt und zur Beantwortung der Anfrage verwendet werden. Beachten Sie hierzu bitte auch unsere Datenschutzhinweise.
+Bitte beachten Sie, dass mit dem Absenden des Formulars die von Ihnen angegebenen personenbezogenen Daten sowie die besonderen Daten (§ 3 Abs. 9 BDSG, zum Beispiel politische Meinungen) an die Landesregierung Nordrhein-Westfalen übermittelt und zur Beantwortung der Anfrage verwendet werden. Beachten Sie hierzu bitte auch unsere Datenschutzhinweise.
 
 Sie können uns auch per Post oder telefonisch kontaktieren:
 

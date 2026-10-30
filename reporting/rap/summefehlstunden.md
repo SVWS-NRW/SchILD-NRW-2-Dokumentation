@@ -11,6 +11,8 @@ title: "SummeFehlstunden"
 
 ## Beschreibung
 
+Ermittelt die gesamten und unentschuldigten Fehlstunden einer Person für das aktuelle Schuljahr. Die beiden Werte werden über die dafür vorgesehenen Ausgabeparameter bereitgestellt.
+
 ```pascal
 procedure SummeFehlstunden(aSchuelerId: integer; var FehlStd, uFehlStd: Integer);
 ```
@@ -21,11 +23,10 @@ procedure SummeFehlstunden(aSchuelerId: integer; var FehlStd, uFehlStd: Integer)
 | --- | --- |
 | `aSchuelerId` | Id des gewünschten Schülers |
 
-
 ## Rückgabewert
 
-FehlStd            - Fehlstunden des Schülers im aktuellen Schuljahr, d.h. es wird
-                     über die letzten zwei Abschnitte bzw. die letzten vier
+FehlStd            - Fehlstunden des Schülers im aktuellen Schuljahr, das heißt es wird
+                     über die letzten zwei Abschnitte beziehungsweise die letzten vier
                      Quartale summiert.
 uFehlStd           - Unentschuldigte Fehlstunden des Schülers
 
@@ -39,7 +40,6 @@ Var
    Label1.Caption:='FehlStunden: ' + IntoStr(lFehl);
    Label2.Caption:='davon unentschuldigt: ' + IntToStr(lUFehl
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

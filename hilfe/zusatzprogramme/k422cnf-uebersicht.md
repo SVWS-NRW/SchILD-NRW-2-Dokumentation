@@ -6,6 +6,8 @@ title: "Blockung mit K422CNF"
 
 # Blockung mit K422CNF
 
+Diese Übersicht verbindet die Anleitungen zum Datenaustausch zwischen Kurs42 und den CNF-Programmen. Beginnen Sie mit dem Export aus Kurs42, führen Sie anschließend die gewünschte Planung durch und importieren Sie das Ergebnis zurück.
+
 Übersicht\|Einführung Übersicht\|Export aus Kurs42 Übersicht\|Grundlegende Berechnungen in Ku42_To_CNF Übersicht\|Import in Kurs42
 
 <a id="K422CNF:Einführung"></a>
@@ -13,7 +15,7 @@ title: "Blockung mit K422CNF"
 
 ## K422CNF:Einführung
 
-Mit der Software Kurs_to_CNF lässt sich das Blocken von Kursen, das sonst Kurs42 übernimmt, erledigen. Alle anderen Verwaltungsaufgaben von Kurs42 bleiben unberührt, so werden dort auch weiterhin alle Kurse eingerichtet, jedoch werden die Schülerdaten und Blockungsgrunddaten (z.B. Kursanzahlen) in Kurs_to_CNF exportiert, dort wird die Blockung erstellt und die fertige Blockung wird wieder in Kurs 42 importiert.
+Mit der Software Kurs_to_CNF lässt sich das Blocken von Kursen, das sonst Kurs42 übernimmt, erledigen. Alle anderen Verwaltungsaufgaben von Kurs42 bleiben unberührt, so werden dort auch weiterhin alle Kurse eingerichtet, jedoch werden die Schülerdaten und Blockungsgrunddaten (zum Beispiel Kursanzahlen) in Kurs_to_CNF exportiert, dort wird die Blockung erstellt und die fertige Blockung wird wieder in Kurs 42 importiert.
 
 <a id="K422CNF:Vorbereitungen_in_Kurs42_und_Export"></a>
 

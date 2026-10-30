@@ -6,6 +6,8 @@ title: "Benutzerrechte in KM2"
 
 # Benutzerrechte in KM2
 
+Hier richten Sie Benutzerrechte für das Konferenzmodul KM2 ein. Unterscheiden Sie das Administratorkonto für die Einrichtung von den Konten, mit denen Lehrkräfte in einer Konferenz arbeiten.
+
 Der von KM2 selbst verwaltete Benutzer "Administrator" mit dem Loginnamen "**Admin**" hat **Vollzugriff** auf alle Leistungsdaten der Schüler. Nicht nur auf den aktuellen SchILD-Abschnitt, sondern auch **auf alle vergangenen Lernabschnitte**. Insofern sollte der Benutzer "Admin" nicht zur Programmbenutzung benutzt werden, sondern nur zur Konfiguration des Zugrifs auf die SchILD-Datenbank. Alle anderen zulässigen KM2-Programmbenutzer sind jene SchILD-Benutzer, sofern diese in SchILD als Koordinatoren im Bereich **Klassengruppen/Abteilungen** verwaltet werden (siehe SchILD → Schulverwaltung → Klassengruppen/Abteilungen).
 
 ![Km2_schild_klassengruppen_abteilungen](/bilder/administration/benutzer-einstellungen/km2-schild-klassengruppen-abteilungen.png)

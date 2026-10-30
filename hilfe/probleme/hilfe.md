@@ -95,7 +95,7 @@ Sie können sich so leicht über aktuelle implementierte Neuerungen im Programm 
 
 Um SchILD möglichst auf dem neuesten Stand zu halten, ist dieser Menüpunkt (gegenüber früher nun ein eigener und damit aufgewertet) die einfachste Möglichkeit. Nach wenigen Klicks wissen Sie, ob es im Internet neue Programmversionen gibt ("Es wurde eine neue Version gefunden."). Es muss eine Internetverbindung bestehen, bevor Sie diesen Menüpunkt aufrufen, sonst passiert nichts.
 
-Nach der Meldung "Der Download des Updates ist komplett..." folgt die Aufforderung: "Bestätigen Sie den Neustart, um das Update zu starten.". Nach Klick auf den Button "Neu starten" sollten Sie die Meldung "Shutdown application to update executable files?" mit "Ja" bestätigen. Danach wird das heruntergeladene Update installiert (ggf. werden Sie dafür nach einem Admin-Kennwort gefragt).
+Nach der Meldung "Der Download des Updates ist komplett..." folgt die Aufforderung: "Bestätigen Sie den Neustart, um das Update zu starten.". Nach Klick auf den Button "Neu starten" sollten Sie die Meldung "Shutdown application to update executable files?" mit "Ja" bestätigen. Danach wird das heruntergeladene Update installiert (gegebenenfalls werden Sie dafür nach einem Admin-Kennwort gefragt).
 
 **Lesen Sie unbedingt die mitgelieferte Versionsgeschichte, um über Änderungen und Neuerungen informiert zu sein!**
 

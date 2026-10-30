@@ -37,11 +37,11 @@ Zunächst müssen die Kurse über
 
 selber eingerichtet werden.
 
-Folgende Maske ist (zumindest teilweise) zu füllen:
+Folgende Eingabeansicht ist (zumindest teilweise) zu füllen:
 
 ![S1P-016-Kursdateneingabe](/bilder/tools/s1plan/s1p-016-kursdateneingabe.jpg)
 
-Die hier nicht eingetragenen Felder sind (zunächst) nicht zwingend zu füllen, insbesondere dann nicht, wenn die Lehrerzuordnung (Kursleitung und ggf. Zusatzkraft) (noch) nicht bekannt sind. Tag, Zeit und Ort sind bei WPI-Kursen verzichtbar, da diese Daten üblicherweise aus dem Stundenplan hervorgehen. Die Fortschreibungsart „Komplett“ ist hier sinnvoll, weil die Schüler den Kurs von Jahrgangsstufe 06 bis Jahrgangsstufe 09 besuchen. Nach Eintrag weiterer Kurse (durch Klick auf „+“) ergibt die Kursübersicht:
+Die hier nicht eingetragenen Felder sind (zunächst) nicht zwingend zu füllen, insbesondere dann nicht, wenn die Lehrerzuordnung (Kursleitung und gegebenenfalls Zusatzkraft) (noch) nicht bekannt sind. Tag, Zeit und Ort sind bei WPI-Kursen verzichtbar, da diese Daten üblicherweise aus dem Stundenplan hervorgehen. Die Fortschreibungsart „Komplett“ ist hier sinnvoll, weil die Schüler den Kurs von Jahrgangsstufe 06 bis Jahrgangsstufe 09 besuchen. Nach Eintrag weiterer Kurse (durch Klick auf „+“) ergibt die Kursübersicht:
 
 ![S1P-017-Kursübersicht](/bilder/tools/s1plan/s1p-017-kursubersicht.jpg)
 
@@ -72,11 +72,11 @@ Hier wurde „Schnellzuweisung“ markiert. Damit reicht zur Zuweisung ein Einfa
 
 Mit Klick auf „Speichern“ wird das Fenster geschlossen.
 
-Es erscheint nun wieder der Hauptbildschirm mit der Kurs- bzw. Schülerübersicht:
+Es erscheint nun wieder der Hauptbildschirm mit der Kurs- beziehungsweise Schülerübersicht:
 
 ![S1P-022-Übersichtsseite](/bilder/tools/s1plan/s1p-022-ubersichtsseite.jpg)
 
-Hier gibt es (auch) die Möglichkeit, Zuweisungen einzelner Schüler zu ändern. Hierzu klickt man auf die Spalte „Zuw.“. Im rechten Fenster. Nun kann man auf den Auswahlknopf klicken oder einen Buchstaben oder eine Zahl eingeben. Es werden dann die Kurse angezeigt, die aufgrund der Eingabe in Frage kommen. Es gibt jetzt noch die Möglichkeit, die Kurse zu fixieren. Dies geschieht sinnvollerweise über den entsprechenden Gruppenprozess „Kurswahlen fixieren“.
+Hier gibt es (auch) die Möglichkeit, Zuweisungen einzelner Schüler zu ändern. Hierzu klicken Sie auf die Spalte „Zuw.“. Im rechten Fenster. Nun können Sie auf den Auswahlknopf klicken oder einen Buchstaben oder eine Zahl eingeben. Es werden dann die Kurse angezeigt, die aufgrund der Eingabe in Frage kommen. Es gibt jetzt noch die Möglichkeit, die Kurse zu fixieren. Dies geschieht sinnvollerweise über den entsprechenden Gruppenprozess „Kurswahlen fixieren“.
 
 <a id="EXPORT_DER_KURSWAHLEN_NACH_SCHILD-NRW"></a>
 
@@ -123,7 +123,7 @@ Im Folgenden werden für einen Jahrgang 07 als Sport-AGs Fußball (1 Kurs), Hand
 
 ![S1P-028-Kursprofil](/bilder/tools/s1plan/s1p-028-kursprofil.jpg)
 
-Da die Schüler Erst-, Zweit- und Drittwunsch äußern dürfen, muss im unteren Bereich der Haken bei „Wunschspalten“ gesetzt werden. Danach werden unter dem Menüpunkt „Einrichtung“ die Kurse selbst eingerichtet. Dabei ist unbedingt darauf zu achten, dass das zur Kursart zugewiesene Fach nicht SP, sondern SPAG heißt. Dieses Fach muss ggf. vorher in SchILDNRW bei den Unterrichtsfächern ergänzt werden. Falls dies nicht gemacht wird und nur das Fach SP zugeordnet wird, gibt es bei den Leistungsübersichten und Zeugnissen Probleme der Darstellung des Faches Sport bzw. der Sport-AG.
+Da die Schüler Erst-, Zweit- und Drittwunsch äußern dürfen, muss im unteren Bereich der Haken bei „Wunschspalten“ gesetzt werden. Danach werden unter dem Menüpunkt „Einrichtung“ die Kurse selbst eingerichtet. Dabei ist unbedingt darauf zu achten, dass das zur Kursart zugewiesene Fach nicht SP, sondern SPAG heißt. Dieses Fach muss gegebenenfalls vorher in SchILDNRW bei den Unterrichtsfächern ergänzt werden. Falls dies nicht gemacht wird und nur das Fach SP zugeordnet wird, gibt es bei den Leistungsübersichten und Zeugnissen Probleme der Darstellung des Faches Sport beziehungsweise der Sport-AG.
 
 ![S1P-029-AG-Fach-fuer-SP](/bilder/tools/s1plan/s1p-029-ag-fach-fuer-sp.jpg)
 
@@ -144,9 +144,9 @@ Im folgenden Fenster werden
 
 ![S1P-032-Matrix-Schülerwünsche](/bilder/tools/s1plan/s1p-032-matrix-schulerwunsche.jpg)
 
-die Wünsche eingegeben. Hier kann ausschließlich mit der Tastatur gearbeitet werden (Eingabe des ersten und ggf. zweiten Buchstabens des Kurses und Weiterschaltung mit der TAB-Taste). Die Eingabe eines Wunsches reicht hier aus. Nach Eingabe aller Wünsche wird das Fenster über das Symbol „Speichern“ geschlossen.
+die Wünsche eingegeben. Hier kann ausschließlich mit der Tastatur gearbeitet werden (Eingabe des ersten und gegebenenfalls zweiten Buchstabens des Kurses und Weiterschaltung mit der TAB-Taste). Die Eingabe eines Wunsches reicht hier aus. Nach Eingabe aller Wünsche wird das Fenster über das Symbol „Speichern“ geschlossen.
 
-Nach Eingabe aller Wünsche erhält man folgende Übersichtsmatrix:
+Nach Eingabe aller Wünsche erhalten Sie folgende Übersichtsmatrix:
 
 ![S1P-033-Matrix-der-Wünsche](/bilder/tools/s1plan/s1p-033-matrix-der-wunsche.jpg)
 
@@ -178,7 +178,7 @@ Der Ausgleich (andere Zuordnung) kann natürlich per Hand erfolgen, aber auch al
 
 ![S1P-037-Menüpunkt-Optimieren](/bilder/tools/s1plan/s1p-037-menupunkt-optimieren.jpg)
 
-erhält man das Doppelfenster
+erhalten Sie das Doppelfenster
 
 ![S1P-038-Optimierungsfenster](/bilder/tools/s1plan/s1p-038-optimierungsfenster.jpg)
 
@@ -186,7 +186,7 @@ Durch Klick auf "OPTIMIEREN" ergibt sich nach dem Optimierungslauf folgende Vert
 
 ![S1P-039-Optimierungsergebnis](/bilder/tools/s1plan/s1p-039-optimierungsergebnis.jpg)
 
-Hier wurde vor dem Optimierungslauf z.B. dem Schüler Biedermann der zunächst eingetragene Erstwunsch „VB“ zugewiesen. Nach der Optimierung wurde ihm sein Zweitwunsch „HB“ zugewiesen. Ein zugehöriges Protokoll kann im Browser eingesehen (und gespeichert) werden.
+Hier wurde vor dem Optimierungslauf zum Beispiel dem Schüler Biedermann der zunächst eingetragene Erstwunsch „VB“ zugewiesen. Nach der Optimierung wurde ihm sein Zweitwunsch „HB“ zugewiesen. Ein zugehöriges Protokoll kann im Browser eingesehen (und gespeichert) werden.
 
 Durch Klick auf ![S1P-040-Optimierung-speichern](/bilder/tools/s1plan/s1p-040-optimierung-speichern.jpg)
 
@@ -195,7 +195,7 @@ Im Fenster der Kursübersicht und der Kurswahlen werden die Optimierungsergebnis
 Wie in Kapitel 5.1.2 auf Seite 13 können alle Kurse in die SchILD-NRWDatenbank übertragen werden.
 
 :::info
-Analog zu den AG-Wahlen können auch z.B. die Wahlen zu Projekten bei einer Projektwoche mit Erst-, Zweit- und Drittwunsch behandelt werden.
+Analog zu den AG-Wahlen können auch zum Beispiel die Wahlen zu Projekten bei einer Projektwoche mit Erst-, Zweit- und Drittwunsch behandelt werden.
 :::
 
 ------------------------------------------------------------------------

@@ -11,6 +11,8 @@ title: "StringInput"
 
 ## Beschreibung
 
+Öffnet einen Dialog zur Texteingabe. Sie können einen Hinweis und einen bereits vorbelegten Text übergeben.
+
 ```pascal
 function StringInput(aPrompt, Default: String): string;
 ```
@@ -22,7 +24,6 @@ function StringInput(aPrompt, Default: String): string;
 | `aPrompt` | Hinweistext |
 | `Default` | Textvorgabe, kann leer sein |
 
-
 ## Rückgabewert
 
 Eingegebener Text
@@ -32,7 +33,6 @@ Eingegebener Text
 ```pascal
 Label1.Caption:=StringInput('Bitte geben Sie das KFZ-Kennzeichen ein','NRW-4711');
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

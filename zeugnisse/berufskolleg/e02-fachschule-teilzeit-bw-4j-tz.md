@@ -6,6 +6,8 @@ title: "E02 Fachschule in Teilzeit"
 
 # E02 Fachschule in Teilzeit
 
+Diese Seite zeigt ein Bildbeispiel zur Abschlussberechnung für den im Titel genannten Bildungsgang. Vergleichen Sie die dargestellte Ansicht mit Ihrem Bildungsgang. Die Bedeutung des Karteireiters und die allgemeinen Arbeitsschritte erläutert [BK-Abschlussverfahren](/zeugnisse/berufskolleg/bk-abschluss?rubrik=schild2).
+
 Vierjähriger Teilzeitbildungsgang der Fachschule.
 
 ![BK_Abschluss_E02](/bilder/zeugnisse/berufskolleg/bk-abschluss-e02.png)

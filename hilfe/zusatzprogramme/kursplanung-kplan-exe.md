@@ -35,7 +35,7 @@ Laden Sie die Setup.exe über den Downloadbereich herunter. Führen Sie diese Da
 3.  Konfigurieren Sie die Verbindung zur SchILD-Datenbank.
 4.  Führen Sie einen Abgleich der Stammdaten mit SchILD-NRW aus.
 5.  Legen Sie ein Kursprofil
-    z.B. "**AGGT / alle**" : Verwaltung der Arbeitsgemeinschaften für alle Jahrgänge
+    zum Beispiel "**AGGT / alle**" : Verwaltung der Arbeitsgemeinschaften für alle Jahrgänge
 6.  Wenn in SchILD-NRW bereits Kursdaten eingegeben sein sollten, so rufen Sie den Menüpunkt:
     Abgleich: Kurse / SchILD-Kurse (Alt+A)
     auf und klicken auf "SchILD-Import"

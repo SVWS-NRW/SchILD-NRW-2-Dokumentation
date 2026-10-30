@@ -4,7 +4,7 @@ title: "Allgemeine Adressen"
 
 # Allgemeine Adressen
 
-In den Berufskollegs ist es erforderlich, Informationen zu den von den Schülern besuchten Betrieben zu erhalten. Auch der SI-Bereich kann diesen Katalog nutzen, um Praktikumsstellen sowie Ausbildungsbetriebe zu verwalten und den Schülern später zuzuordnen. Für die vollständigen Eintragungen in den einzelnen Feldern der Maske Allgemeine Adressen bearbeiten ist eine vorherige Erfassung der [Adressarten](/schild2/unterricht-kataloge/adress-arten) in dem entsprechenden Katalog erforderlich.
+In den Berufskollegs ist es erforderlich, Informationen zu den von den Schülern besuchten Betrieben zu erhalten. Auch der SI-Bereich kann diesen Katalog nutzen, um Praktikumsstellen sowie Ausbildungsbetriebe zu verwalten und den Schülern später zuzuordnen. Für die vollständigen Eintragungen in den einzelnen Feldern der Eingabeansicht Allgemeine Adressen bearbeiten ist eine vorherige Erfassung der [Adressarten](/schild2/unterricht-kataloge/adress-arten) in dem entsprechenden Katalog erforderlich.
 
 ![Allgemeine_Adressen_bearbeiten](/bilder/schild2/unterricht-kataloge/allgemeine-adressen-bearbeiten.jpg)
 

@@ -11,6 +11,8 @@ title: "SetzeSortierung"
 
 ## Beschreibung
 
+Ändert die Reihenfolge der Datensätze einer Datenquelle anhand der angegebenen Sortierfelder.
+
 ```pascal
 procedure SetzeSortierung(Pipeline: TppDbPipeline; const Sortierfelder: String);
 ```
@@ -20,8 +22,7 @@ procedure SetzeSortierung(Pipeline: TppDbPipeline; const Sortierfelder: String);
 | Parameter | Bedeutung |
 | --- | --- |
 | `Pipeline` | Datenquelle, deren Abfrage neu sortiert werden soll |
-| `Sortierfelder` | Mit Komma separierte Liste Sortierfeldern. Es können  keine Lookup- oder berechnete Felder verwendet werden, Informationen über die Felder erhält man im Dialog „Info über Datenquellen“ im Reportdesigner. |
-
+| `Sortierfelder` | Mit Komma separierte Liste Sortierfeldern. Es können  keine Lookup- oder berechnete Felder verwendet werden, Informationen über die Felder erhalten Sie im Dialog „Info über Datenquellen“ im Reportdesigner. |
 
 ## Beispiel
 
@@ -33,7 +34,6 @@ Procedure ReportBeforePrint;
    SetzeSortierung(Report.Datapipeline,'Klasse,Geburtsdatum');
  end
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

@@ -11,13 +11,12 @@ title: "ResetFaechervorbelegung"
 
 ## Beschreibung
 
+Setzt interne Abfragen zurück, muss immer nach Verwendung von Faechervorbelegen oder
+CreateNotenHeader aufgerufen werden.
+
 ```pascal
 procedure ResetFaechervorbelegung;
 ```
-
-
-Setzt interne Abfragen zurück, muss immer nach Verwendung von Faechervorbelegen oder
-CreateNotenHeader aufgerufen werden.
 
 ## Beispiel
 
@@ -32,7 +31,6 @@ Procedure ReportBeforePrint;
    ResetFaechervorbelegung;
  end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

@@ -14,12 +14,12 @@ Zur ausführlichen Anleitung: [Link](/schild2/import-export-statistik/statistik-
 
 Die Statistik besteht im Kern aus drei Teilen:
 
-1.  Einlesen der Vorgabedaten und der Daten aus Ihrem Schulverwaltungsprogramm (z.B. SchILD NRW) in ASDPC32.
+1.  Einlesen der Vorgabedaten und der Daten aus Ihrem Schulverwaltungsprogramm (zum Beispiel SchILD NRW) in ASDPC32.
 2.  Durchführen der Haupterhebung durch
     1.  Bearbeiten der
     2.  diversen **Belege**,
     3.  in denen die unterschiedlichen
-    4.  Daten zu z.B. den Lehrkäften,
+    4.  Daten zu zum Beispiel den Lehrkäften,
     5.  der Unterrichtsverteilung
     6.  oder den Klassen erfasst werden.
 3.  Abschicken der Daten an IT.NRW

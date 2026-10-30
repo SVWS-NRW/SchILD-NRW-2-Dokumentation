@@ -11,6 +11,8 @@ title: "LoadVermerkeEx"
 
 ## Beschreibung
 
+Liest Vermerke einer gewählten Art aus. Zusätzlich zum Trennzeichen können Sie festlegen, ob das Eintragsdatum mit ausgegeben wird.
+
 ```pascal
 function LoadVermerkeEx(const aVermerkart, aDelimiter: String; const MitDatum: Boolean): String;
 ```
@@ -20,9 +22,8 @@ function LoadVermerkeEx(const aVermerkart, aDelimiter: String; const MitDatum: B
 | Parameter | Bedeutung |
 | --- | --- |
 | `aVermerkart` | Gewünschte Vermerkart, wie im Katalog „Vermerkarten definiert. |
-| `aDelimiter` | Trenner für die Vermerke. Hier ist eine beliebige Zeichenkette zulässig. Besondere Bedeutung haben '\t ' bzw. '\T' (fügt einen Tabulatorschritt ein) und '\n' bzw. '\N' (fügt einen Zeilenvorschub ein). |
-| `MitDatum` | Boolescher Wert. Falls TRUE, wird den Ergebiszeilen das Eintragsdatum vorangestellt |
-
+| `aDelimiter` | Trenner für die Vermerke. Hier ist eine beliebige Zeichenkette zulässig. Besondere Bedeutung haben '\t ' beziehungsweise '\T' (fügt einen Tabulatorschritt ein) und '\n' beziehungsweise '\N' (fügt einen Zeilenvorschub ein). |
+| `MitDatum` | Boolescher Wert. Falls TRUE, wird den Ergebniszeilen das Eintragsdatum vorangestellt |
 
 ## Rückgabewert
 
@@ -37,7 +38,6 @@ Alle Vermerke der gewählten Art, durch den Delimiter voneinander getrennt.
  end;
 (*Ergebnis: Die Zeilen haben die Form '31.02.2123: XYZ aufgenommen'*)
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

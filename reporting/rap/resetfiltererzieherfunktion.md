@@ -11,19 +11,17 @@ title: "ResetFilterErzieherfunktion"
 
 ## Beschreibung
 
+Entfernt den über FilterErzieherfunktion gesetzten Filter
+
 ```pascal
 procedure ResetFilterErzieherfunktion;
 ```
-
-
-Entfernt den über FilterErzieherfunktion gesetzten Filter
 
 ## Beispiel
 
 ```text
 ...
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

@@ -16,17 +16,17 @@ Hier wählen Sie den Jahrgang aus, der an die Statistik (ASDPC32) übermittelt w
 
 **Interne Bez.:**
 
-An dieser Stelle können Sie dem Jahrgang eine eigene individuelle Bezeichnung geben. Diese Bezeichnung wird an den meisten Stellen in Schild-NRW angezeigt und steht i.d.R. als *ASD-Jahrgang* zur Verfügung.
+An dieser Stelle können Sie dem Jahrgang eine eigene individuelle Bezeichnung geben. Diese Bezeichnung wird an den meisten Stellen in Schild-NRW angezeigt und steht in der Regel als *ASD-Jahrgang* zur Verfügung.
 
 **Gliederung (Klartext):**
 
 Hier tragen Sie die Gliederung für den Bildungsgang ein. An den meisten Schulen steht hier nur "Standard für diese Schulform" zur Verfügung. Es werden alle Gliederungen angezeigt, die unter [Schulverwaltung](/schild2/unterricht-kataloge/schulverwaltung) \> [Schuldaten einrichten](/einstieg/erste-schritte/schule-bearbeiten) eingetragen sind.
 
-An Grundschulen kann es z.B. die Gliederung für kath. oder ev. Bekenntnisschulen oder die Gemeinschaftsschule geben.
+An Grundschulen kann es zum Beispiel die Gliederung für kath. oder ev. Bekenntnisschulen oder die Gemeinschaftsschule geben.
 
 An Sekundarschulen treten häufig auslaufende Gliederungen für Realschule oder Hauptschule auf.
 
-An Gesamtschulen kann z.B. eine zusätzliche Gliederung für einen gymnasialen Bildungsgang vorhanden sein.
+An Gesamtschulen kann zum Beispiel eine zusätzliche Gliederung für einen gymnasialen Bildungsgang vorhanden sein.
 
 Bitte informieren Sie sich bei Ihrer Bezirksregierung (oder bei IT.NRW), welche Gliederungen bei Ihrer Schule eingetragen werden müssen, wenn Sie sich nicht sicher sind.
 
@@ -38,7 +38,7 @@ Dreistelliges Statistikkürzel. (\*\*\* bei Standard-Gliederung)
 
 **Kurzbez.:**
 
-Hier können Sie eine Kurzbezeichnung vergeben, die z.B. im Listendruck verwendet werden kann.
+Hier können Sie eine Kurzbezeichnung vergeben, die zum Beispiel im Listendruck verwendet werden kann.
 
 **JG-Stufe:**
 
@@ -46,7 +46,7 @@ Hier werden die Jahrgangseinteilungen für die Bildungsgänge und Prüfungsordnu
 
 **Restabschn.:**
 
-Das sind i.d.R. Halbjahre oder Quartale bis zum Abschluss der Schulform (Beispiel Grundschule: für 1. Schulbesuchsjahr 8, bei E2 und E3 jeweils 6, Klasse 4 noch 2 Restabschnitte).
+Das sind in der Regel Halbjahre oder Quartale bis zum Abschluss der Schulform (Beispiel Grundschule: für 1. Schulbesuchsjahr 8, bei E2 und E3 jeweils 6, Klasse 4 noch 2 Restabschnitte).
 
 Diese Spalte sollte ausgefüllt werden, denn mit diesen Angaben wird das Datum bei "voraus. Abschl." unter "Aktuelle Laufbahndaten" auf der Karte Individual-Daten I berechnet (nachträglich auch mit Gruppenprozess "Abschlussdatum neu berechnen").
 
@@ -66,7 +66,7 @@ Hier wird festgelegt, ob die Jahrgänge in einer Schulgliederung chronologisch a
 
 **Sichtbar:**
 
-In dieser Spalte kann eingestellt werden, ob ein Jahrgang bei der Arbeit in Schild-NRW sichtbar ist. Sollte einmal ein Jahrgang in Ihrer Schulform wegfallen, so kann dieser auf unsichtbar geschaltet werden, wenn die Anzeige nicht mehr benötigt wird. Ein Beispiel wäre der Jahrgang 10 der Sek1 am Gymnasium mit G8. Bitte achten Sie aber darauf, dass Sie diesen Jahrgang erst unsichtbar markieren, wenn keine Schüler mehr aktiv sind, die diesen Jahrgang noch benötigen, z.B. in vergangenen Abschnitten!
+In dieser Spalte kann eingestellt werden, ob ein Jahrgang bei der Arbeit in Schild-NRW sichtbar ist. Sollte einmal ein Jahrgang in Ihrer Schulform wegfallen, so kann dieser auf unsichtbar geschaltet werden, wenn die Anzeige nicht mehr benötigt wird. Ein Beispiel wäre der Jahrgang 10 der Sek1 am Gymnasium mit G8. Bitte achten Sie aber darauf, dass Sie diesen Jahrgang erst unsichtbar markieren, wenn keine Schüler mehr aktiv sind, die diesen Jahrgang noch benötigen, zum Beispiel in vergangenen Abschnitten!
 
 '*Sortierung:* Hier kann, wie in allen Katalogen, die Reihenfolge der Anzeige bestimmt werden. Bitte beachten Sie in diesem Sonderfall den Zusammenhang mit der Spalte "chronologisch".
 

@@ -11,6 +11,8 @@ title: "ShortDayNames"
 
 ## Beschreibung
 
+Gibt den abgekürzten Namen eines Wochentags zurück. Die übergebene Zahl bestimmt den Wochentag.
+
 ```pascal
 function ShortDayNames(aTag: Integer): String;
 ```
@@ -21,7 +23,6 @@ function ShortDayNames(aTag: Integer): String;
 | --- | --- |
 | `aTag` | Nr. des Wochentages (1=Sonntag,..., 7=Samstag) |
 
-
 ## Rückgabewert
 
 Kurzname des Wochentages
@@ -31,7 +32,6 @@ Kurzname des Wochentages
 ```pascal
 Label27.Caption:=ShortDayNames(1); (*Son*)
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

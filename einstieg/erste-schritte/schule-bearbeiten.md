@@ -6,7 +6,7 @@ title: "Schuldaten einrichten"
 
 # Schuldaten einrichten
 
-Unter diesem Programmpunkt werden die Grundeinstellungen zur Schule vorgenommen.
+Tragen Sie hier die Grundangaben Ihrer Schule ein. Diese Angaben werden an anderen Stellen wiederverwendet, zum Beispiel bei Formularen und statistischen Ausgaben. Prüfen Sie sie deshalb bei der Ersteinrichtung, bevor Sie weitere Kataloge pflegen.
 
 ------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ Durch Betätigung des "Auswahl"-Buttons kann nachträglich die Schule (Schulnumm
 
 *Weitere Schultexte...*
 
-Hier können Sie zusätzliche Informationen z.B. zu Schulleitung oder anderen Personen hinzufügen, die dann später in der Reporting zum Druck zur Verfügung stehen. Die weiteren Texte werden wie in allen Katalogen hinzugefügt. Auch weitere Bezeichnungen zur Schule, die dann in bestimmten Briefen verwendet werden können, sind hier möglich. Über die Einbindung dieser Texte in Formularen finden Sie Informationen im Bereich [Reporting im Überblick](/reporting/erstellung/reporting).
+Hier können Sie zusätzliche Informationen zum Beispiel zu Schulleitung oder anderen Personen hinzufügen, die dann später in der Reporting zum Druck zur Verfügung stehen. Die weiteren Texte werden wie in allen Katalogen hinzugefügt. Auch weitere Bezeichnungen zur Schule, die dann in bestimmten Briefen verwendet werden können, sind hier möglich. Über die Einbindung dieser Texte in Formularen finden Sie Informationen im Bereich [Reporting im Überblick](/reporting/erstellung/reporting).
 
 **Noteneingabe gesperrt**
 
@@ -36,7 +36,7 @@ Mit diesem Haken kann in der gesamten Datenbank die Noteneingabe gesperrt werden
 
 **Aktuelle Datenbank ist am Hauptsitz der Schule installiert**
 
-Sollte die Datenbank im Außenstellenbetrieb verwendet werden, so kann dieser Haken entfernt werden. Das führt dazu, dass von den Usern bestimmte Kataloge nicht mehr verändert werden können. Hier wird das "+"-Zeichen in der Katalogansicht dann ausgeblendet. Diese Funktion ist wichtig, damit in der Außenstelle nicht einfach Katalogeinträge gemacht werden können, die dann am Hauptsitz nicht existieren, wenn später Schülerdatensätze zurückgeführt werden müssen. Im Außenstellenbetrieb, der in Frage kommt, wenn keine Internetleitung zur Verfügung steht, sollten die Schülerdatensätze des jeweiligen anderen Standortes gesperrt werden. Informationen dazu finden Sie unter [Symbolleiste](/einstieg/grundlagen/iconleiste).
+Sollte die Datenbank im Außenstellenbetrieb verwendet werden, so kann dieser Haken entfernt werden. Das führt dazu, dass von den Benutzern bestimmte Kataloge nicht mehr verändert werden können. Hier wird das "+"-Zeichen in der Katalogansicht dann ausgeblendet. Diese Funktion ist wichtig, damit in der Außenstelle nicht einfach Katalogeinträge gemacht werden können, die dann am Hauptsitz nicht existieren, wenn später Schülerdatensätze zurückgeführt werden müssen. Im Außenstellenbetrieb, der in Frage kommt, wenn keine Internetleitung zur Verfügung steht, sollten die Schülerdatensätze des jeweiligen anderen Standortes gesperrt werden. Informationen dazu finden Sie unter [Symbolleiste](/einstieg/grundlagen/iconleiste).
 
 **Teamteaching ermöglichen**
 
@@ -44,7 +44,7 @@ Nur wenn dieser Haken gesetzt ist, ist es möglich, bei Kursen und Klassenunterr
 
 **Gruppenprozesse für Abitur gesperrt**
 
-Nur für Schulen mit SEK-II-Bildungsgängen relevant. Wenn dort ein Jahrgang der Stufe SEKII-3 gefiltert ist, dann stehen unter "Gruppenprozesse" einige Funktionen zum Abitur zur Verfügung. Wenn man die gruppenweise Bearbeitung dieser Abiturjahrgänge zu bestimmten Zeiten im Jahr verhindern möchte, so kann man diesen Haken setzen.
+Nur für Schulen mit SEK-II-Bildungsgängen relevant. Wenn dort ein Jahrgang der Stufe SEKII-3 gefiltert ist, dann stehen unter "Gruppenprozesse" einige Funktionen zum Abitur zur Verfügung. Wenn man die gruppenweise Bearbeitung dieser Abiturjahrgänge zu bestimmten Zeiten im Jahr verhindern möchte, so können Sie diesen Haken setzen.
 
 <a id="Karteireiter_in_der_rechten_oberen_Ecke"></a>
 
@@ -61,8 +61,8 @@ An einigen Schulen gibt es auch mehrere Gliederungen, die dann in diesem Kasten 
 Einige Beispiele sind:
 
 - Wiedereinrichter Gymnasium G9
-- auslaufende Bildungsgänge z.B. Hauptschule an der Sekundarschule
-- parallele Bildungsgänge z.B. H und R an der Sekundarschule
+- auslaufende Bildungsgänge zum Beispiel Hauptschule an der Sekundarschule
+- parallele Bildungsgänge zum Beispiel H und R an der Sekundarschule
 - kath. Grundschule (RKB), hier entfällt die Standardgliederung
 
 Bitte informieren Sie sich, welche Gliederungen an Ihrer Schule aufgeführt sein müssen.

@@ -11,6 +11,8 @@ title: "SortierungVon"
 
 ## Beschreibung
 
+Liefert die Sortierfelder der angegebenen Datenquelle als Liste zurück.
+
 ```pascal
 function SortierungVon(Pipeline: TppDbPipeline): String;
 ```
@@ -20,7 +22,6 @@ function SortierungVon(Pipeline: TppDbPipeline): String;
 | Parameter | Bedeutung |
 | --- | --- |
 | `Pipeline` | Datenquelle; Sortierung, die angewendet werden soll |
-
 
 ## Rückgabewert
 
@@ -41,7 +42,6 @@ Procedure ReportBeforePrint;
    SetzeSortierung(Report.Datapipeline,OriginalSortierung);
  end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 

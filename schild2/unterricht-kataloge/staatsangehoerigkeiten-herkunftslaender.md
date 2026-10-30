@@ -12,7 +12,7 @@ Hier macht die benutzerdefinierte Sortierung Sinn, da in der Regel eine übersch
 
 Wird die Nationalität bei der Dateneingabe nicht aus dem Scroll-Down-Menü gewählt, sondern eingetippt, liefert ein getipptes 'D' zunächst den Eintrag 'Dänemark', da in der alphabetischen Sortierung vor 'Deutschland'. Dies lässt sich durch Verwendung der 'Benutzerdefinierten Sortierreihenfolge' leicht ändern.
 
-Wenn man bei "Staatsangehörigkeit" auf Individual-Daten I adjektivische Bezeichnungen besser findet (deutsch statt Deutschland, kosovarisch statt Kosovo), so kann man dies ändern über Extras / Programm-Einstellungen / Globale Einstellungen -\> Häkchen vor "Für Nationalitäten Adjektive verwenden". Für die Eintragung bei "Geburtsland" auf Individual-Daten II bleiben aber die Ländernamen zur Auswahl erhalten.
+Wenn man bei "Staatsangehörigkeit" auf Individual-Daten I adjektivische Bezeichnungen besser findet (deutsch statt Deutschland, kosovarisch statt Kosovo), so können Sie dies ändern über Extras / Programm-Einstellungen / Globale Einstellungen -\> Häkchen vor "Für Nationalitäten Adjektive verwenden". Für die Eintragung bei "Geburtsland" auf Individual-Daten II bleiben aber die Ländernamen zur Auswahl erhalten.
 
 ------------------------------------------------------------------------
 

@@ -6,7 +6,7 @@ title: "Sprachenfolge von Seiteneinsteigern im Zeugnis ausgeben"
 
 # Sprachenfolge von Seiteneinsteigern im Zeugnis ausgeben
 
-Diese Anleitung beschreibt die **korrekte Druckausgabe der Sprachenfolge bei Seiteneinsteigern** aus Haupt- und Realschule, die nach der Klasse 10 zum Gymnasium wechseln und die in der Sekundarstufe I eine zweite Fremdsprache z.B. von Klasse 8 bis 10 belegt und abgeschlossen haben.
+Diese Anleitung beschreibt die **korrekte Druckausgabe der Sprachenfolge bei Seiteneinsteigern** aus Haupt- und Realschule, die nach der Klasse 10 zum Gymnasium wechseln und die in der Sekundarstufe I eine zweite Fremdsprache zum Beispiel von Klasse 8 bis 10 belegt und abgeschlossen haben.
 
 Diese Möglichkeit gibt es in den im Download zu findenden Zeugnissen seit der Version V07_04.
 
@@ -22,13 +22,13 @@ Mit dem roten Pfeil **muss** die bisher besuchte Schule nach unten übertragen w
 
 ![Sprachenfolge](/bilder/schild2/schueler/sprachenfolge.png)
 
-**3. Zeugnisaufruf** (z.B. GymOb_Anl6a_JgQ1_Q2_B_Abg_Zeugnis_ohne_FHR_A3_V07_05.rtm):
+**3. Zeugnisaufruf** (zum Beispiel GymOb_Anl6a_JgQ1_Q2_B_Abg_Zeugnis_ohne_FHR_A3_V07_05.rtm):
 
 Dort erscheint das Fenster
 
 ![Zeugnisabfrage](/bilder/zeugnisse/sekundarstufen/zeugnisabfrage.png)
 
-Hier muss man dann die erste Option wählen.
+Hier müssen Sie dann die erste Option wählen.
 
 ---
 

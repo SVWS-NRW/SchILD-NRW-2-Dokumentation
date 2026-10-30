@@ -10,7 +10,7 @@ Dieser Gruppenprozess bietet Ihnen die Möglichkeit, bestimmte Vermerke oder Mer
 
 ![GP-Vermerkeloeschen](/bilder/schild2/gruppenprozesse/gp-vermerkeloeschen.jpg)
 
-Dazu auswählen, ob Vermerk oder Merkmal gelöscht werden soll, und dann den zu löschenden Vermerk bzw. das zu löschende Merkmal auswählen.
+Dazu auswählen, ob Vermerk oder Merkmal gelöscht werden soll, und dann den zu löschenden Vermerk beziehungsweise das zu löschende Merkmal auswählen.
 
 Einzelne, sehr individuelle Eintragungen löschen Sie einfacher beim betreffenden Schüler selbst.
 

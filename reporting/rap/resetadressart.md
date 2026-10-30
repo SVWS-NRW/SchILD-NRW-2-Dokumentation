@@ -11,6 +11,8 @@ title: "ResetAdressArt"
 
 ## Beschreibung
 
+Hebt einen zuvor gesetzten Adressartfilter für die angegebene Zieldatenquelle wieder auf.
+
 ```pascal
 procedure ResetAdressArt(aZiel: String);
 ```
@@ -19,9 +21,7 @@ procedure ResetAdressArt(aZiel: String);
 
 | Parameter | Bedeutung |
 | --- | --- |
-| `aZiel` | ALLEADRESSEN' setzt den Filter für die Datenquelle „AllgAdresseUndSchueler“ zurück, 'KLASSENADRESSEN' den Filter |
-| `auf` | die Datenquelle „AllgAdresseZurLKlasse“ zurück |
-
+| `aZiel` | `ALLEADRESSEN` setzt den Filter der Datenquelle „AllgAdresseUndSchueler“ zurück; `KLASSENADRESSEN` setzt den Filter der Datenquelle „AllgAdresseZurLKlasse“ zurück. |
 
 ## Beispiel
 
@@ -31,7 +31,6 @@ Procedure ReportAfterPrint;
    ResetAdressArt('ALLEADRESSEN');
  end;
 ```
-
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
