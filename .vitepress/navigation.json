@@ -3560,6 +3560,10 @@
               {
                 "text": "Alle Artikel A–Z",
                 "link": "/hilfe/alle-artikel"
+              },
+              {
+                "text": "Quelltexte und Originaldateien",
+                "link": "/hilfe/ueber-diese-dokumentation#quelltexte-und-erganzende-dateien"
               }
             ]
           }

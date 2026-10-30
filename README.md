@@ -40,7 +40,7 @@ Das Kopfmenü hat fünf Zugänge: **Arbeiten mit SchILD2 · Programmreferenz · 
 
 ## Quellen und Inhaltserhalt
 
-Das frühere Quellenarchiv und ausschließlich dort verwendete Dateien wurden auf Wunsch des Herausgebers entfernt. Verwendete Artikelbilder und Dateien bleiben erhalten. Quellenangaben verweisen auf die ursprünglichen Wiki-Seiten. Der frühere Archivstand bleibt in der Git-Historie nachvollziehbar.
+Die einzelnen Archivseiten und separaten Rohquelltext-Dateien wurden auf Wunsch des Herausgebers entfernt. Das vollständige Quelltext-ZIP unter `public/dateien/quellen/wiki-quelltexte.zip` sowie sämtliche ursprünglichen Wiki-Dateien bleiben erhalten. Auch eine fehlende aktuelle Artikelverlinkung rechtfertigt keine Löschung fachlicher Unterlagen, Vorlagen oder Bilder. Quellenangaben verweisen auf die ursprünglichen Wiki-Seiten. Der frühere Archivstand bleibt in der Git-Historie nachvollziehbar.
 
 ## Veröffentlichung
 
