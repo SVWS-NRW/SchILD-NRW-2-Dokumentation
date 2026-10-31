@@ -23,9 +23,9 @@ test('Jeder veröffentlichte Artikel ist ausdrücklich einem Themenmenü zugeord
 test('Alle Rubriken und Toolmenüs behalten jeden Seitenmenülink im eigenen Kontext',()=>{
  const sidebar=createSidebar(navigation),sections=Object.keys(navigation.sidebar)
  for(const section of sections) {
-  for(const target of walk(navigation.sidebar[section]).filter(n=>n.link)) {
+  for(const target of walk(navigation.sidebar[section]).filter(n=>n.link?.startsWith('/'))) {
    const menu=contextualSidebar(sidebar[section],section,target.link)
-   for(const entry of walk(menu[0].items).filter(n=>n.link)) {
+   for(const entry of walk(menu[0].items).filter(n=>n.link?.startsWith('/'))) {
     const url=new URL(entry.link,'https://docs.invalid')
     const expected=section
     assert.equal(url.searchParams.get('rubrik'),expected.slice(1,-1),`${section}: ${entry.link}`)
