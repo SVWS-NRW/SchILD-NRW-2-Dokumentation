@@ -39,6 +39,7 @@ export async function checkEditorLinks(page, base) {
     ['/reporting/rap/anrede.html?rubrik=reporting', 'reporting/rap/anrede.md'],
     ['/hilfe/alle-artikel.html', 'hilfe/alle-artikel.md'],
     ['/hilfe/mitarbeiten.html', 'CONTRIBUTING.md'],
+    ['/hilfe/redaktionsworkflow.html', 'WORKFLOW.md'],
     ['/hilfe/vscode-editor.html', 'hilfe/vscode-editor.md'],
     ['/hilfe/github-editor.html', 'hilfe/github-editor.md']
   ]) {
