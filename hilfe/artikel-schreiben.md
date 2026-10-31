@@ -6,6 +6,8 @@ title: Artikel schreiben und bearbeiten
 
 Schreiben Sie so, dass auch Personen ohne Vorkenntnisse den beschriebenen Arbeitsschritt verstehen. Diese Hinweise gelten für neue Artikel und für die Überarbeitung bestehender Texte. Kopierbare Bausteine finden Sie unter [Markdown und Gestaltung](/hilfe/markdown-und-gestaltung).
 
+Den Weg vom Bearbeiten bis zum geprüften Änderungsvorschlag erläutern [Mit VS Code im Browser bearbeiten](/hilfe/vscode-editor) und [Mit dem GitHub-Editor bearbeiten](/hilfe/github-editor). Einen Überblick bietet [An der Dokumentation mitarbeiten](/hilfe/mitarbeiten).
+
 ## Eine klare Aufgabe beschreiben
 
 Titel benennen das Thema oder die Aufgabe. Menünamen bleiben kurz und sind auch ohne Kenntnis alter Wiki-Bezeichnungen verständlich. Verwenden Sie keine Klammerzusätze, Datumsstände, Tutorialnummern oder bloßen Dateinamen im Titel. Notwendige Rechtsgrundlagen, Bildungsgangdetails und technische Bezeichnungen gehören in den Artikeltext. Funktionsnamen der RAP-Referenz bleiben unverändert.

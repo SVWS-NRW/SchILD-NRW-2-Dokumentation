@@ -7,6 +7,8 @@ export async function checkEditorLinks(page, base) {
     await page.evaluate(dark => document.documentElement.classList.toggle('dark', dark), dark)
     const controls = page.locator('.article-print-controls')
     await controls.waitFor()
+    await page.waitForFunction(() => new Set([...document.querySelectorAll('.article-print-icon')].map(node => getComputedStyle(node).color)).size === 1)
+    assert.equal(await controls.locator('.article-print-icon').evaluateAll(nodes => new Set(nodes.map(node => getComputedStyle(node).color)).size), 1, 'Alle drei Symbole haben dieselbe Farbe')
     assert.equal(await controls.locator('button').count(), 1)
     const links = controls.locator('a')
     assert.deepEqual(await links.evaluateAll(nodes => nodes.map(a => ({ href: a.href, target: a.target, rel: a.rel }))), [
@@ -32,7 +34,29 @@ export async function checkEditorLinks(page, base) {
     assert.equal(await page.locator('.vp-doc h1').evaluate(node => getComputedStyle(node).paddingTop), '0px')
     await page.emulateMedia({ media: 'screen' })
   }
-  await page.goto(base + '/schild2/', { waitUntil: 'networkidle' })
-  await page.locator('.article-print-controls').waitFor()
-  assert.equal(await page.locator('.article-editor-link').count(), 0, 'Test bleibt auf den ausgewählten Artikel begrenzt')
+  for (const [route, source] of [
+    ['/schild2/', 'schild2/index.md'],
+    ['/reporting/rap/anrede.html?rubrik=reporting', 'reporting/rap/anrede.md'],
+    ['/hilfe/alle-artikel.html', 'hilfe/alle-artikel.md'],
+    ['/hilfe/mitarbeiten.html', 'CONTRIBUTING.md'],
+    ['/hilfe/vscode-editor.html', 'hilfe/vscode-editor.md'],
+    ['/hilfe/github-editor.html', 'hilfe/github-editor.md']
+  ]) {
+    await page.goto(base + route, { waitUntil: 'networkidle' })
+    await page.locator('.article-editor-link').first().waitFor()
+    assert.equal(await page.locator('.article-editor-link').first().getAttribute('href'), 'https://github.com/SVWS-NRW/SchILD-NRW-2-Dokumentation/edit/dev/' + source)
+    if (route.includes('-editor.html')) {
+      const images = page.locator('.vp-doc img')
+      assert.equal(await images.count(), route.includes('vscode') ? 14 : 6)
+      for (const img of await images.all()) {
+        await img.scrollIntoViewIfNeeded()
+        await img.evaluate(node => node.decode())
+      }
+    }
+  }
+  await page.goto(base + '/schild2/auswahl.html?artikel=az', { waitUntil: 'networkidle' })
+  await page.locator('.article-editor-link').first().waitFor()
+  assert.equal(await page.locator('.article-editor-link').first().getAttribute('href'), 'https://github.com/SVWS-NRW/SchILD-NRW-2-Dokumentation/edit/dev/schild2/auswahl.md', 'A–Z-Kontext verändert das Bearbeitungsziel nicht')
+  await page.goto(base + '/druck/hilfe.html', { waitUntil: 'networkidle' })
+  assert.equal(await page.locator('.article-print-controls').count(), 0, 'Keine Artikel-Schaltflächen in Druckvorschauen')
 }

@@ -1,7 +1,3 @@
----
-articleEditorLinks: true
----
-
 # Auswählen und filtern
 
 Mit einer Auswahl begrenzen Sie die Schülerliste auf die Personen, die Sie gerade bearbeiten oder ausdrucken möchten. Beginnen Sie mit der Standard-Auswahl und einfachen Filtern. Kombinierte Bedingungen, gespeicherte Filter und eigene Schülergruppen folgen danach.
