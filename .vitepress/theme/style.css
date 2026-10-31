@@ -181,7 +181,12 @@
 .vp-doc p:has(> a > img) + p:has(> em:only-child) { margin-top: 4px; }
 
 .vp-doc h1:has(.article-print-controls) { position: relative; padding-right: 48px; }
-.article-print-controls { position: absolute; top: 0; right: 0; line-height: 1; }
+.article-print-controls { position: absolute; top: 0; right: 0; display: inline-flex; align-items: center; gap: 6px; line-height: 1; }
+.vp-doc h1:has(.article-print-controls.has-edit-links) { padding-right: 132px; }
+.vp-doc a.article-editor-link { font-size: 13px; font-weight: 600; text-decoration: none; }
+@media screen and (max-width: 639px) {
+  .vp-doc h1:has(.article-print-controls.has-edit-links) { padding-right: 0; padding-top: 48px; }
+}
 .article-print-icon {
   display: inline-flex; align-items: center; justify-content: center;
   width: 36px; height: 36px; padding: 0; border: 1px solid var(--vp-c-divider);

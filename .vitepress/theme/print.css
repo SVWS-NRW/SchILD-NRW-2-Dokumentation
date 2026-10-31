@@ -93,7 +93,8 @@
 
 @media print {
   .article-print-controls, .book-toolbar { display: none !important; }
-  .vp-doc h1:has(.article-print-controls) { padding-right: 0; }
+  .vp-doc h1:has(.article-print-controls),
+  .vp-doc h1:has(.article-print-controls.has-edit-links) { padding-right: 0; }
   .book-toc { padding: 0; border: 0; border-radius: 0; font-size: 9pt; }
   .book-toc li { margin: 1mm 0; }
   .book-article { break-before: page; margin: 0; padding: 0; border: 0; }
