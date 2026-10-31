@@ -17,3 +17,5 @@ Hier finden Sie Anleitungen von der Installation und Einrichtung bis zur täglic
 - [Import, Export und Statistik](/schild2/import-export-statistik?rubrik=schild2)
 - [Benutzer und Einstellungen](/administration/benutzer-einstellungen?rubrik=schild2)
 - [Hintergrund und frühere Wiki-Inhalte](/hilfe/wiki-archiv?rubrik=schild2)
+
+Dies ist ein Test
