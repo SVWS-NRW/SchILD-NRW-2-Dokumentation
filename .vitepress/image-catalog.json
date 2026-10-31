@@ -13079,5 +13079,21 @@
         "link": "/hilfe/github-editor"
       }
     ]
+  },
+  {
+    "path": "/bilder/zeugnisformulare/zeugnisdruck-zeugniseinstellungen-ini.png",
+    "title": "zeugnisdruck zeugniseinstellungen ini",
+    "original": "SchILD Zeugnisdruck ZeugniseinstellungenINI.png",
+    "folder": "zeugnisformulare",
+    "captions": [
+      "Die Zeugniseinstellungen.ini kann direkt aus dem Reportexplorer geöffnet werden.",
+      "Die Datei Zeugniseinstellungen.ini liegt im zugehörigen Zeugnisordner."
+    ],
+    "articles": [
+      {
+        "title": "Markdown und Gestaltung",
+        "link": "/hilfe/markdown-und-gestaltung"
+      }
+    ]
   }
 ]

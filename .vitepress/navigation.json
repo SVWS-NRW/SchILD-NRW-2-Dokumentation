@@ -4251,49 +4251,44 @@
             ]
           },
           {
-            "text": "Dokumentation nutzen und ergänzen",
-            "items": [
-              {
-                "text": "Mitarbeiten",
-                "link": "/hilfe/mitarbeiten"
-              },
-              {
-                "text": "Redaktionsworkflow",
-                "link": "/hilfe/redaktionsworkflow"
-              },
-              {
-                "text": "Mit VS Code bearbeiten",
-                "link": "/hilfe/vscode-editor"
-              },
-              {
-                "text": "Mit GitHub bearbeiten",
-                "link": "/hilfe/github-editor"
-              },
-              {
-                "text": "Artikel schreiben",
-                "link": "/hilfe/artikel-schreiben"
-              },
-              {
-                "text": "Markdown und Gestaltung",
-                "link": "/hilfe/markdown-und-gestaltung"
-              },
-              {
-                "text": "Bilderkatalog",
-                "link": "/bilder/"
-              },
-              {
-                "text": "Dokumentation und Wiki im Vergleich",
-                "link": "/hilfe/artikel-wiki-zuordnung"
-              },
-              {
-                "text": "Alle Artikel A–Z",
-                "link": "/hilfe/alle-artikel"
-              },
-              {
-                "text": "Quelltexte und Originaldateien",
-                "link": "/hilfe/ueber-diese-dokumentation#quelltexte-und-erganzende-dateien"
-              }
-            ]
+            "text": "Mitarbeiten",
+            "link": "/hilfe/mitarbeiten"
+          },
+          {
+            "text": "Redaktionsworkflow",
+            "link": "/hilfe/redaktionsworkflow"
+          },
+          {
+            "text": "Mit VS Code bearbeiten",
+            "link": "/hilfe/vscode-editor"
+          },
+          {
+            "text": "Mit GitHub bearbeiten",
+            "link": "/hilfe/github-editor"
+          },
+          {
+            "text": "Artikel schreiben",
+            "link": "/hilfe/artikel-schreiben"
+          },
+          {
+            "text": "Markdown und Gestaltung",
+            "link": "/hilfe/markdown-und-gestaltung"
+          },
+          {
+            "text": "Bilderkatalog",
+            "link": "/bilder/"
+          },
+          {
+            "text": "Dokumentation und Wiki im Vergleich",
+            "link": "/hilfe/artikel-wiki-zuordnung"
+          },
+          {
+            "text": "Alle Artikel A–Z",
+            "link": "/hilfe/alle-artikel"
+          },
+          {
+            "text": "Quelltexte und Originaldateien",
+            "link": "/hilfe/ueber-diese-dokumentation#quelltexte-und-erganzende-dateien"
           }
         ]
       }

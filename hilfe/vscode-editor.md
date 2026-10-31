@@ -4,6 +4,8 @@ Mit der **VS**-Schaltfläche öffnen Sie die Markdown-Datei eines Artikels direk
 
 Ein eigener **Branch** hält Ihren Vorschlag vom gemeinsamen Arbeitsstand `dev` getrennt. **Commit und Push** speichern ihn auf GitHub. Erst der anschließende **Pull Request** reicht ihn zur Übernahme ein. Die Begriffe und weitere Hilfen finden Sie unter [An der Dokumentation mitarbeiten](/hilfe/mitarbeiten).
 
+Die Bildschirmbeispiele zeigen die SchILD-NRW-2-Dokumentation. Der Ablauf gilt für beide Dokumentationen; die Schaltflächen öffnen jeweils das zugehörige Repository.
+
 ## Artikel öffnen und bearbeiten
 
 ### 1. VS Code öffnen
