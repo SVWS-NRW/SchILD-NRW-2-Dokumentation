@@ -79,7 +79,7 @@ Verwenden Sie nummerierte Listen für eine Reihenfolge und Aufzählungen für gl
 
 [Zum Abschnitt Listen auf dieser Seite](#listen)
 
-[Repository der Dokumentation](https://github.com/Raffenberg/SchILD2_Doku)
+[SVWS-NRW auf GitHub](https://github.com/SVWS-NRW)
 ```
 
 **Darstellung:**
@@ -88,7 +88,7 @@ Verwenden Sie nummerierte Listen für eine Reihenfolge und Aufzählungen für gl
 
 [Zum Abschnitt Listen auf dieser Seite](#listen)
 
-[Repository der Dokumentation](https://github.com/Raffenberg/SchILD2_Doku)
+[SVWS-NRW auf GitHub](https://github.com/SVWS-NRW)
 
 Interne Links beginnen mit `/` und enthalten die Artikeladresse ohne `.md`. Einen Abschnitt erreichen Sie über dessen Sprungmarke nach `#`. Verwenden Sie die Adresse der tatsächlich gerenderten Überschrift; raten Sie die Schreibweise bei Sonderzeichen nicht. Bestehende Sprungmarken dürfen bei einer Umbenennung nicht verloren gehen.
 
@@ -99,20 +99,20 @@ Das folgende Beispiel verwendet eine bereits vorhandene Abbildung. In der Artike
 **Markdown:**
 
 ```markdown
-![Hauptfenster von SchILD-NRW 2](/bilder/einstieg/grundlagen/schild-nrw-hauptfenster.jpg)
+![Reportexplorer mit dem Zeugnisordner GymOb und markierter Zeugniseinstellungen.ini](/bilder/zeugnisformulare/zeugnisdruck-zeugniseinstellungen-ini.png)
 
 *Die Datei Zeugniseinstellungen.ini liegt im zugehörigen Zeugnisordner.*
 
-[Bild in Originalgröße öffnen](/bilder/einstieg/grundlagen/schild-nrw-hauptfenster.jpg)
+[Bild in Originalgröße öffnen](/bilder/zeugnisformulare/zeugnisdruck-zeugniseinstellungen-ini.png)
 ```
 
 **Darstellung:**
 
-![Hauptfenster von SchILD-NRW 2](/bilder/einstieg/grundlagen/schild-nrw-hauptfenster.jpg)
+![Reportexplorer mit dem Zeugnisordner GymOb und markierter Zeugniseinstellungen.ini](/bilder/zeugnisformulare/zeugnisdruck-zeugniseinstellungen-ini.png)
 
 *Die Datei Zeugniseinstellungen.ini liegt im zugehörigen Zeugnisordner.*
 
-[Bild in Originalgröße öffnen](/bilder/einstieg/grundlagen/schild-nrw-hauptfenster.jpg)
+[Bild in Originalgröße öffnen](/bilder/zeugnisformulare/zeugnisdruck-zeugniseinstellungen-ini.png)
 
 Der Text in den eckigen Klammern ist der Alternativtext. Er beschreibt den Bildinhalt auch dann, wenn die Abbildung nicht angezeigt wird. Die Bildunterschrift darunter erklärt den Zusammenhang. Bilder werden an die verfügbare Breite angepasst; ein Textumfluss oder eine eigene Größenangabe ist normalerweise nicht nötig.
 
@@ -123,12 +123,12 @@ Verlinken Sie Downloads mit einer verständlichen Bezeichnung und nennen Sie das
 **Markdown:**
 
 ```markdown
-[Beispieldatei: Matrix für Schulform und Jahrgang der Nichtversetzten (XLSX)](/dateien/wiki/schulform-jahrgang-nichtversetzte-matrix-90b9c252.xlsx){download}
+[Beispieldatei: Matrix für Schulform und Jahrgang der Nichtversetzten (XLSX)](/dateien/serienbriefe/schulform-jahrgang-nichtversetzte-matrix.xlsx){download}
 ```
 
 **Darstellung:**
 
-[Beispieldatei: Matrix für Schulform und Jahrgang der Nichtversetzten (XLSX)](/dateien/wiki/schulform-jahrgang-nichtversetzte-matrix-90b9c252.xlsx){download}
+[Beispieldatei: Matrix für Schulform und Jahrgang der Nichtversetzten (XLSX)](/dateien/serienbriefe/schulform-jahrgang-nichtversetzte-matrix.xlsx){download}
 
 ## Codeblöcke
 
@@ -148,7 +148,7 @@ ZeugnisMitRand=J
 ZeugnisMitRand=J
 ```
 
-Soll ein Beispiel selbst drei Backticks zeigen, verwenden Sie außen vier Backticks – wie im Quelltext dieses Abschnitts. Eine farbige Darstellung von Code bedeutet nicht, dass das Beispiel auch in SchILD-NRW 2 ausgeführt oder fachlich geprüft wurde.
+Soll ein Beispiel selbst drei Backticks zeigen, verwenden Sie außen vier Backticks – wie im Quelltext dieses Abschnitts. Eine farbige Darstellung von Code bedeutet nicht, dass das Beispiel auch im dokumentierten Programm ausgeführt oder fachlich geprüft wurde.
 
 ## Tabellen
 
@@ -190,7 +190,7 @@ Ein senkrechter Strich innerhalb einer Tabellenzelle benötigt einen einzelnen B
 
 ### Breite Feldtabellen
 
-Die [Dateien und Felder der Textschnittstelle](/schild2/import-export-statistik/schnittstellenbeschreibung) zeigt ein vorhandenes Tabellenformat für Feldbeschreibungen. Es verwendet genau die sechs Überschriften „Spalte“, „Beschreibung“, „Header-Text“, „Datentyp“, „Darf leer sein?“ und „Bemerkung“. Daraus entstehen zentral einheitliche Spalten und ein per Tastatur bedienbarer Scrollbereich.
+Für Feldbeschreibungen steht ein gemeinsames Tabellenformat zur Verfügung. Verwenden Sie genau die sechs Überschriften „Spalte“, „Beschreibung“, „Header-Text“, „Datentyp“, „Darf leer sein?“ und „Bemerkung“. Daraus entstehen zentral einheitliche Spalten und ein per Tastatur bedienbarer Scrollbereich.
 
 Für die zugehörige breitere Seitendarstellung wird im vorhandenen Seitenkopf die Angabe `pageClass: reference-tables` ergänzt. Verwenden Sie für solche Nachschlageartikel die vorhandene Schnittstellenbeschreibung als Vorlage, statt eigene Breiten oder Inline-Stile in den Artikel zu schreiben.
 

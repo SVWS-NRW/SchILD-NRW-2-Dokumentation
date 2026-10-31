@@ -1,6 +1,6 @@
 # Verbindlicher Redaktions- und Veröffentlichungsworkflow
 
-Dieser Ablauf gilt für die Mitarbeit an [SchILD-NRW 2 – Dokumentation](https://github.com/SVWS-NRW/SchILD-NRW-2-Dokumentation). Die technischen Arbeitsschritte stehen in [Mitarbeiten](/hilfe/mitarbeiten), die Schreibregeln unter [Artikel schreiben und bearbeiten](/hilfe/artikel-schreiben).
+Dieser Ablauf gilt für die Mitarbeit an dieser Dokumentation. Das zugehörige offizielle Repository erreichen Sie über das GitHub-Symbol im Kopfmenü. Die technischen Arbeitsschritte stehen in [Mitarbeiten](/hilfe/mitarbeiten), die Schreibregeln unter [Artikel schreiben und bearbeiten](/hilfe/artikel-schreiben).
 
 **Was nach `dev` gemergt wird, muss grundsätzlich veröffentlichungsfähig sein.** Unfertige Arbeiten bleiben auf einem eigenen Arbeitsbranch oder in einem PR-Entwurf. Ein Merge nach `dev` darf keine noch ausstehende fachliche Ergänzung oder Fehlerbehebung voraussetzen.
 
@@ -42,9 +42,9 @@ npm run docs:build
 npm run docs:check
 ```
 
-Bei Änderungen an Menü, Suche, Gestaltung oder Werkzeugen zusätzlich `npm run docs:check-browser` ausführen. Die Installation des Testbrowsers ist in der [README](https://github.com/SVWS-NRW/SchILD-NRW-2-Dokumentation/blob/dev/README.md) beschrieben. In PowerShell kann `npm.cmd` statt `npm` verwendet werden.
+Bei Änderungen an Menü, Suche, Gestaltung oder Werkzeugen zusätzlich `npm run docs:check-browser` ausführen. Die Installation des Testbrowsers ist in der `README.md` des jeweiligen Repositorys beschrieben. In PowerShell kann `npm.cmd` statt `npm` verwendet werden.
 
-Prüfskripte liegen unter `scripts/`, kleine Tests und Browserprüfungen unter `tests/`. Die npm-Befehle sind der gemeinsame Einstieg; Dateien werden nicht aus dem Skriptordner heraus gestartet.
+Die npm-Befehle sind der gemeinsame Einstieg für Prüfskripte, kleine Tests und Browserprüfungen des jeweiligen Repositorys. Dateien werden nicht aus dem Skriptordner heraus gestartet.
 
 ## Pull Request gegen dev öffnen
 
@@ -91,7 +91,7 @@ Wenn `dev` während der Arbeit weiterläuft, den neuen Stand in den eigenen Arbe
 5. Der dadurch entstehende Push nach `master` startet den Veröffentlichungsworkflow automatisch. Auch dessen Build und Deployment müssen erfolgreich abgeschlossen sein; ein gemergter PR allein bestätigt noch keine erfolgreiche Veröffentlichung.
 6. Nach dem Deployment Startseite, tiefe Artikellinks, Suche, Bilder und Mobilmenü auf der tatsächlichen Zieladresse stichprobenartig prüfen.
 
-Die GitHub-Pages-Veröffentlichung und das Artefakt `schild2-domain` sind zu unterscheiden: Das Artefakt enthält den Build für die Domainwurzel des eigenen Nginx-Servers. Seine Übernahme auf diesen Server erfolgt über den dafür eingerichteten separaten Weg; der Pages-Workflow ändert weder DNS noch den Nginx-Server.
+Die GitHub-Pages-Veröffentlichung und das Domain-Artefakt des jeweiligen Repositorys sind zu unterscheiden: Das Artefakt enthält den Build für die Domainwurzel des eigenen Nginx-Servers. Seine Übernahme auf diesen Server erfolgt über den dafür eingerichteten separaten Weg; der Pages-Workflow ändert weder DNS noch den Nginx-Server.
 
 ## Dringende Korrektur am veröffentlichten Stand
 

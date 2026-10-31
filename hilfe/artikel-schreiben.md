@@ -12,7 +12,7 @@ Den Weg vom Bearbeiten bis zum geprüften Änderungsvorschlag erläutern [Mit VS
 
 Titel benennen das Thema oder die Aufgabe. Menünamen bleiben kurz und sind auch ohne Kenntnis alter Wiki-Bezeichnungen verständlich. Verwenden Sie keine Klammerzusätze, Datumsstände, Tutorialnummern oder bloßen Dateinamen im Titel. Notwendige Rechtsgrundlagen, Bildungsgangdetails und technische Bezeichnungen gehören in den Artikeltext. Funktionsnamen der RAP-Referenz bleiben unverändert.
 
-Ein Artikel behandelt eine erkennbare Aufgabe oder einen klar abgegrenzten Gegenstand. Sagen Sie zu Beginn, wobei er hilft und welche Voraussetzungen tatsächlich nötig sind. Verwenden Sie genaue Begriffe und übernehmen Sie die sichtbaren Bezeichnungen aus SchILD-NRW 2.
+Ein Artikel behandelt eine erkennbare Aufgabe oder einen klar abgegrenzten Gegenstand. Sagen Sie zu Beginn, wobei er hilft und welche Voraussetzungen tatsächlich nötig sind. Verwenden Sie genaue Begriffe und übernehmen Sie die sichtbaren Bezeichnungen aus dem dokumentierten Programm.
 
 Erhalten Sie bei Überarbeitungen die fachlichen Einzelheiten, Einschränkungen, Beispiele, Tabellen, Bilder und Bildunterschriften. Sprachliche Vereinfachungen sind möglich; fachliche Änderungen müssen sich begründen lassen. Erfinden Sie keine Voraussetzungen, Programmfunktionen, Parameter oder Ergebnisse. Benennen Sie offene Fragen im Änderungsvorschlag.
 
@@ -59,7 +59,7 @@ Nicht jede Übersicht braucht Bilder. Bildschirmabbildungen können dort stehen,
 ## Einheitlich schreiben
 
 - Sprechen Sie Leserinnen und Leser mit „Sie“ an. Schreiben Sie kurz und aktiv: „Wählen Sie …“, „Öffnen Sie …“.
-- Verwenden Sie im Fließtext „SchILD-NRW 2“, „Schülerinnen und Schüler“, „Lehrkräfte“ und „E-Mail“. Sichtbare Programmbezeichnungen bleiben unverändert, auch wenn sie davon abweichen.
+- Verwenden Sie im Fließtext „SchILD-NRW“ mit der passenden Programmbezeichnung, „Schülerinnen und Schüler“, „Lehrkräfte“ und „E-Mail“. Sichtbare Programmbezeichnungen bleiben unverändert, auch wenn sie davon abweichen.
 - Zeichnen Sie Schaltflächen und Feldnamen **fett** aus. Schreiben Sie Menüpfade einheitlich, zum Beispiel **Verwaltung → Einstellungen → Interne Texte**.
 - Setzen Sie Dateinamen, Verzeichnisse, Konfigurationsschlüssel und Codebezeichner in Inline-Code, etwa `Zeugniseinstellungen.ini` oder `ZeugnisMitRand=J`.
 - Unterscheiden Sie zwischen dem „Report“ als Vorlage und der „Ausgabe“ beziehungsweise „PDF-Ausgabe“ als erzeugtem Dokument. Nennen Sie abweichende Bezeichnungen des Programms ausdrücklich.
@@ -96,7 +96,7 @@ Erhalten Sie bestehende Artikeladressen und benötigte Abschnittsanker. Prüfen 
 
 Ordnen Sie den Artikel einem passenden Themenbereich zu und verlinken Sie ihn in dessen Übersicht oder Menü. Der Speicherort allein erzeugt keinen Menüeintrag. Wo es sinnvoll ist, kann zusätzlich die Programmreferenz auf denselben Fachartikel verweisen; dafür ist keine zweite Kopie des Artikels nötig.
 
-Veröffentlichte Seiten erscheinen automatisch unter [Alle Artikel A–Z](/hilfe/alle-artikel) und werden von der lokalen Suche erfasst. Die technischen Schritte für Dateien, Menüeinträge, lokale Vorschau und Pull Requests stehen unter [An der Dokumentation mitarbeiten](https://github.com/Raffenberg/SchILD2_Doku/blob/dev/CONTRIBUTING.md).
+Veröffentlichte Seiten erscheinen automatisch unter [Alle Artikel A–Z](/hilfe/alle-artikel) und werden von der lokalen Suche erfasst. Die technischen Schritte für Dateien, Menüeinträge, lokale Vorschau und Pull Requests stehen unter [An der Dokumentation mitarbeiten](/hilfe/mitarbeiten).
 
 ## Vor dem Einreichen gegenlesen
 

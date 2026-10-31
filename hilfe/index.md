@@ -6,7 +6,8 @@ Hier finden Sie Unterstützung bei Problemen, Hinweise zur Datenbankpflege und H
 
 - [Hilfe und Fehlerbehebung](/hilfe/probleme?rubrik=hilfe)
 - [Datenbankpflege](/administration/datenbanken?rubrik=hilfe)
-- [Dokumentation nutzen und ergänzen](/hilfe/mitarbeiten?rubrik=hilfe)
+- [Mitarbeiten](/hilfe/mitarbeiten?rubrik=hilfe)
+- [Redaktionsworkflow](/hilfe/redaktionsworkflow?rubrik=hilfe)
 
 ## Zum passenden Einstieg
 
