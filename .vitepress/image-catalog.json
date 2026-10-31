@@ -12779,5 +12779,305 @@
     "folder": "archiv",
     "captions": [],
     "articles": []
+  },
+  {
+    "path": "/bilder/hilfe/bearbeiten/vscode-artikel-oeffnen.png",
+    "title": "Die VS-Schaltfläche neben dem Drucksymbol öffnet VS Code im Browser",
+    "original": "vscode_edit_01.png",
+    "folder": "hilfe/bearbeiten",
+    "captions": [
+      "Die VS-Schaltfläche neben dem Drucksymbol öffnet VS Code im Browser."
+    ],
+    "articles": [
+      {
+        "title": "Mit VS Code im Browser bearbeiten",
+        "link": "/hilfe/vscode-editor"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/hilfe/bearbeiten/vscode-text-bearbeiten.png",
+    "title": "Die Markdown-Datei des Artikels ist in VS Code zur Bearbeitung geöffnet",
+    "original": "vscode_edit_02.png",
+    "folder": "hilfe/bearbeiten",
+    "captions": [
+      "Die Markdown-Datei des Artikels ist in VS Code zur Bearbeitung geöffnet."
+    ],
+    "articles": [
+      {
+        "title": "Mit VS Code im Browser bearbeiten",
+        "link": "/hilfe/vscode-editor"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/hilfe/bearbeiten/vscode-branch-auswahl.png",
+    "title": "Die Branch-Schaltfläche dev befindet sich unten links in der Statusleiste",
+    "original": "vscode_edit_03.png",
+    "folder": "hilfe/bearbeiten",
+    "captions": [
+      "Die Branch-Schaltfläche dev befindet sich unten links in der Statusleiste."
+    ],
+    "articles": [
+      {
+        "title": "Mit VS Code im Browser bearbeiten",
+        "link": "/hilfe/vscode-editor"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/hilfe/bearbeiten/vscode-neuen-branch-erstellen.png",
+    "title": "In der Branch-Auswahl ist Neuen Branch erstellen markiert",
+    "original": "vscode_edit_04.png",
+    "folder": "hilfe/bearbeiten",
+    "captions": [
+      "In der Branch-Auswahl ist Neuen Branch erstellen markiert."
+    ],
+    "articles": [
+      {
+        "title": "Mit VS Code im Browser bearbeiten",
+        "link": "/hilfe/vscode-editor"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/hilfe/bearbeiten/vscode-branch-benennen.png",
+    "title": "Das Eingabefeld für den Namen des neuen Arbeitsbranches",
+    "original": "vscode_edit_05.png",
+    "folder": "hilfe/bearbeiten",
+    "captions": [
+      "Das Eingabefeld für den Namen des neuen Arbeitsbranches."
+    ],
+    "articles": [
+      {
+        "title": "Mit VS Code im Browser bearbeiten",
+        "link": "/hilfe/vscode-editor"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/hilfe/bearbeiten/vscode-zum-branch-wechseln.png",
+    "title": "Die Rückfrage bestätigt die Übernahme der Änderungen und bietet Zum Branch wechseln an",
+    "original": "vscode_edit_06.png",
+    "folder": "hilfe/bearbeiten",
+    "captions": [
+      "Die Rückfrage bestätigt die Übernahme der Änderungen und bietet Zum Branch wechseln an."
+    ],
+    "articles": [
+      {
+        "title": "Mit VS Code im Browser bearbeiten",
+        "link": "/hilfe/vscode-editor"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/hilfe/bearbeiten/vscode-quellcodeverwaltung-oeffnen.png",
+    "title": "Das Symbol Quellcodeverwaltung in der linken Leiste von VS Code",
+    "original": "vscode_edit_07.png",
+    "folder": "hilfe/bearbeiten",
+    "captions": [
+      "Das Symbol Quellcodeverwaltung in der linken Leiste von VS Code."
+    ],
+    "articles": [
+      {
+        "title": "Mit VS Code im Browser bearbeiten",
+        "link": "/hilfe/vscode-editor"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/hilfe/bearbeiten/vscode-commit-erlaeutern.png",
+    "title": "In der Quellcodeverwaltung steht eine kurze Erläuterung über der Liste geänderter Dateien",
+    "original": "vscode_edit_08.png",
+    "folder": "hilfe/bearbeiten",
+    "captions": [
+      "In der Quellcodeverwaltung steht eine kurze Erläuterung über der Liste geänderter Dateien."
+    ],
+    "articles": [
+      {
+        "title": "Mit VS Code im Browser bearbeiten",
+        "link": "/hilfe/vscode-editor"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/hilfe/bearbeiten/vscode-commit-und-push.png",
+    "title": "Die Schaltfläche Commit und Push überträgt den Änderungsstand zu GitHub",
+    "original": "vscode_edit_09.png",
+    "folder": "hilfe/bearbeiten",
+    "captions": [
+      "Die Schaltfläche Commit und Push überträgt den Änderungsstand zu GitHub."
+    ],
+    "articles": [
+      {
+        "title": "Mit VS Code im Browser bearbeiten",
+        "link": "/hilfe/vscode-editor"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/hilfe/bearbeiten/vscode-github-menue-oeffnen.png",
+    "title": "Die blaue GitHub-Schaltfläche in der Statusleiste öffnet die Repository-Optionen",
+    "original": "vscode_edit_10.png",
+    "folder": "hilfe/bearbeiten",
+    "captions": [
+      "Die blaue GitHub-Schaltfläche in der Statusleiste öffnet die Repository-Optionen."
+    ],
+    "articles": [
+      {
+        "title": "Mit VS Code im Browser bearbeiten",
+        "link": "/hilfe/vscode-editor"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/hilfe/bearbeiten/vscode-zum-repository-wechseln.png",
+    "title": "Das Menü enthält die Auswahl Zu Repository wechseln",
+    "original": "vscode_edit_11.png",
+    "folder": "hilfe/bearbeiten",
+    "captions": [
+      "Das Menü enthält die Auswahl Zu Repository wechseln."
+    ],
+    "articles": [
+      {
+        "title": "Mit VS Code im Browser bearbeiten",
+        "link": "/hilfe/vscode-editor"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/hilfe/bearbeiten/vscode-vergleich-starten.png",
+    "title": "GitHub zeigt für den gepushten Branch Compare und pull request an",
+    "original": "vscode_edit_13.png",
+    "folder": "hilfe/bearbeiten",
+    "captions": [
+      "GitHub zeigt für den gepushten Branch Compare und pull request an."
+    ],
+    "articles": [
+      {
+        "title": "Mit VS Code im Browser bearbeiten",
+        "link": "/hilfe/vscode-editor"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/hilfe/bearbeiten/vscode-basis-dev-waehlen.png",
+    "title": "In der Basis-Auswahl wird dev anstelle von master gewählt",
+    "original": "vscode_edit_14.png",
+    "folder": "hilfe/bearbeiten",
+    "captions": [
+      "In der Basis-Auswahl wird dev anstelle von master gewählt."
+    ],
+    "articles": [
+      {
+        "title": "Mit VS Code im Browser bearbeiten",
+        "link": "/hilfe/vscode-editor"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/hilfe/bearbeiten/vscode-pull-request-einreichen.png",
+    "title": "Der fertige Änderungsvorschlag richtet sich gegen dev und wird mit Create pull request eingereicht",
+    "original": "vscode_edit_15.png",
+    "folder": "hilfe/bearbeiten",
+    "captions": [
+      "Der fertige Änderungsvorschlag richtet sich gegen dev und wird mit Create pull request eingereicht."
+    ],
+    "articles": [
+      {
+        "title": "Mit VS Code im Browser bearbeiten",
+        "link": "/hilfe/vscode-editor"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/hilfe/bearbeiten/github-artikel-oeffnen.png",
+    "title": "Die Stift-Schaltfläche öffnet den GitHub-Dateieditor für den Artikel",
+    "original": "github_edit_01.png",
+    "folder": "hilfe/bearbeiten",
+    "captions": [
+      "Die Stift-Schaltfläche öffnet den GitHub-Dateieditor für den Artikel."
+    ],
+    "articles": [
+      {
+        "title": "Mit dem GitHub-Editor bearbeiten",
+        "link": "/hilfe/github-editor"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/hilfe/bearbeiten/github-text-bearbeiten.png",
+    "title": "Die Datei des Artikels ist im GitHub-Editor geöffnet",
+    "original": "github_edit_02.png",
+    "folder": "hilfe/bearbeiten",
+    "captions": [
+      "Die Datei des Artikels ist im GitHub-Editor geöffnet."
+    ],
+    "articles": [
+      {
+        "title": "Mit dem GitHub-Editor bearbeiten",
+        "link": "/hilfe/github-editor"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/hilfe/bearbeiten/github-commit-dialog-oeffnen.png",
+    "title": "Die grüne Schaltfläche Commit changes öffnet den Speicherdialog",
+    "original": "github_edit_03.png",
+    "folder": "hilfe/bearbeiten",
+    "captions": [
+      "Die grüne Schaltfläche Commit changes öffnet den Speicherdialog."
+    ],
+    "articles": [
+      {
+        "title": "Mit dem GitHub-Editor bearbeiten",
+        "link": "/hilfe/github-editor"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/hilfe/bearbeiten/github-aenderung-beschreiben.png",
+    "title": "Der Speicherdialog enthält Commit message und Extended description",
+    "original": "github_edit_04.png",
+    "folder": "hilfe/bearbeiten",
+    "captions": [
+      "Der Speicherdialog enthält Commit message und Extended description."
+    ],
+    "articles": [
+      {
+        "title": "Mit dem GitHub-Editor bearbeiten",
+        "link": "/hilfe/github-editor"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/hilfe/bearbeiten/github-neuen-branch-vorschlagen.png",
+    "title": "Die Auswahl für einen neuen Branch ist aktiviert und der Branchname eingetragen",
+    "original": "github_edit_05.png",
+    "folder": "hilfe/bearbeiten",
+    "captions": [
+      "Die Auswahl für einen neuen Branch ist aktiviert und der Branchname eingetragen."
+    ],
+    "articles": [
+      {
+        "title": "Mit dem GitHub-Editor bearbeiten",
+        "link": "/hilfe/github-editor"
+      }
+    ]
+  },
+  {
+    "path": "/bilder/hilfe/bearbeiten/github-pull-request-einreichen.png",
+    "title": "Der Pull Request vergleicht den eigenen Branch mit dev und wird mit Create pull request eingereicht",
+    "original": "github_edit_06.png",
+    "folder": "hilfe/bearbeiten",
+    "captions": [
+      "Der Pull Request vergleicht den eigenen Branch mit dev und wird mit Create pull request eingereicht."
+    ],
+    "articles": [
+      {
+        "title": "Mit dem GitHub-Editor bearbeiten",
+        "link": "/hilfe/github-editor"
+      }
+    ]
   }
 ]

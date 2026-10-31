@@ -4254,6 +4254,18 @@
             "text": "Dokumentation nutzen und ergänzen",
             "items": [
               {
+                "text": "Mitarbeiten",
+                "link": "/hilfe/mitarbeiten"
+              },
+              {
+                "text": "Mit VS Code bearbeiten",
+                "link": "/hilfe/vscode-editor"
+              },
+              {
+                "text": "Mit GitHub bearbeiten",
+                "link": "/hilfe/github-editor"
+              },
+              {
                 "text": "Artikel schreiben",
                 "link": "/hilfe/artikel-schreiben"
               },
