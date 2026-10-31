@@ -21,7 +21,7 @@ Die folgenden Abschnitte richten sich an Personen, die lokal an Texten, Menüfü
 2. `npm ci` bei geändertem Paketbestand ausführen.
 3. `npm test`, `npm run docs:build` und `npm run docs:check` ausführen.
 4. Bei Darstellungs- oder Navigationsänderungen zusätzlich `npm run docs:check-browser` ausführen. Ergebnisse liegen ignoriert in `test-results/`.
-5. PR gegen `dev` mit Problem, Änderung und Prüfung anlegen. Die Übernahme richtet sich nach [dem Repository-Workflow](https://github.com/SVWS-NRW/SchILD-NRW-2-Dokumentation/blob/dev/WORKFLOW.md); auf `dev` und `master` wird ausschließlich über geprüfte PRs gearbeitet.
+5. PR gegen `dev` mit Problem, Änderung und Prüfung anlegen. Die Übernahme richtet sich nach [dem Repository-Workflow](/hilfe/redaktionsworkflow); auf `dev` und `master` wird ausschließlich über geprüfte PRs gearbeitet.
 
 `QA_BROWSER` kann auf einen vorhandenen Chromium-Browser zeigen; `PLAYWRIGHT_MODULE` auf eine vorhandene Playwright-Installation. Die CI verwendet Chrome des GitHub-Runners. `npm audit` bei Paketänderungen auswerten und kompatible Aktualisierungen prüfen.
 
@@ -41,4 +41,4 @@ Für Unterpfade `DOCS_BASE` setzen und eigene Vue-Komponenten mit `withBase()` v
 
 ## Offizielles Repository
 
-Für neue Aufgaben `origin/dev` aus `SVWS-NRW/SchILD-NRW-2-Dokumentation` verwenden. Der frühere Migrationsstand unter `Raffenberg/SchILD2_Doku` wird nicht weiter bearbeitet. Node.js 22 entsprechend `.nvmrc` und `npm ci` verwenden. Veröffentlicht wird über einen geprüften PR von `dev` nach `master`; Details stehen im [Repository-Workflow](https://github.com/SVWS-NRW/SchILD-NRW-2-Dokumentation/blob/dev/WORKFLOW.md).
+Für neue Aufgaben `origin/dev` aus `SVWS-NRW/SchILD-NRW-2-Dokumentation` verwenden. Der frühere Migrationsstand unter `Raffenberg/SchILD2_Doku` wird nicht weiter bearbeitet. Node.js 22 entsprechend `.nvmrc` und `npm ci` verwenden. Veröffentlicht wird über einen geprüften PR von `dev` nach `master`; Details stehen im [Repository-Workflow](/hilfe/redaktionsworkflow).

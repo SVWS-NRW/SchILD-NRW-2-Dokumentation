@@ -5,7 +5,8 @@ import { printDocument } from './print-document.mjs'
 const { page } = useData()
 const editorLinks = computed(() => {
   if (page.value.relativePath.startsWith('druck/')) return null
-  const source = page.value.relativePath === 'hilfe/mitarbeiten.md' ? 'CONTRIBUTING.md' : page.value.relativePath
+  const sources = { 'hilfe/mitarbeiten.md': 'CONTRIBUTING.md', 'hilfe/redaktionsworkflow.md': 'WORKFLOW.md' }
+  const source = sources[page.value.relativePath] || page.value.relativePath
   const path = source.split('/').map(encodeURIComponent).join('/')
   return {
     github: `https://github.com/SVWS-NRW/SchILD-NRW-2-Dokumentation/edit/dev/${path}`,
