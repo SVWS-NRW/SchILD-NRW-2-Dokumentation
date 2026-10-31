@@ -61,7 +61,11 @@ export async function checkToolsTree(page,base) {
  for(const tool of tools) {
   const link=page.locator('#VPSidebarNav').getByRole('link',{name:tool.text,exact:true}).first()
   await link.click()
-  await page.waitForFunction(expected=>document.querySelector('.vp-doc h1')?.textContent.replace(/\u200b/g,'').trim()===expected,tool.text)
+  await page.waitForFunction(expected=>{
+   const heading=document.querySelector('.vp-doc h1')?.cloneNode(true)
+   heading?.querySelector('.article-print-controls')?.remove()
+   return heading?.textContent.replace(/\u200b/g,'').trim()===expected
+  },tool.text)
   await page.waitForFunction(href=>{
    const link=[...document.querySelectorAll('#VPSidebarNav a')].find(a=>new URL(a.href).pathname===new URL(href,location.origin).pathname+'.html')
    return link&&!link.closest('.VPSidebarItem').classList.contains('collapsed')
