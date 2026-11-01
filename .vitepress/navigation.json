@@ -2445,16 +2445,14 @@
                 "id": "menue-65",
                 "text": "Teilleistungen",
                 "link": "/schild2/gruppenprozesse/teilleistungen",
-                "source_title": "Teilleistungen",
-                "items": [
-                  {
-                    "id": "menue-menue-65-1",
-                    "text": "Unterrichtsfächer",
-                    "link": "/schild2/unterricht-kataloge/unterrichtsfaecher",
-                    "source_title": "Unterrichtsfächer",
-                    "items": []
-                  }
-                ]
+                "source_title": "Teilleistungen"
+              },
+              {
+                "id": "menue-menue-65-1",
+                "text": "Unterrichtsfächer",
+                "link": "/schild2/unterricht-kataloge/unterrichtsfaecher",
+                "source_title": "Unterrichtsfächer",
+                "items": []
               },
               {
                 "id": "menue-66",
@@ -2762,16 +2760,14 @@
                 "id": "menue-80",
                 "text": "LuPO-Export",
                 "link": "/schild2/import-export-statistik/export-fuer-lupo",
-                "source_title": "Export für Lupo",
-                "items": [
-                  {
-                    "id": "menue-81",
-                    "text": "Wohnortdaten exportieren",
-                    "link": "/schild2/import-export-statistik/wohnortdaten-exportieren",
-                    "source_title": "Wohnortdaten exportieren",
-                    "items": []
-                  }
-                ]
+                "source_title": "Export für Lupo"
+              },
+              {
+                "id": "menue-81",
+                "text": "Wohnortdaten exportieren",
+                "link": "/schild2/import-export-statistik/wohnortdaten-exportieren",
+                "source_title": "Wohnortdaten exportieren",
+                "items": []
               },
               {
                 "id": "menue-82",
