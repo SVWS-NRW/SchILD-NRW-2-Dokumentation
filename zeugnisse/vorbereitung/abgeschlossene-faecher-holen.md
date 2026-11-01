@@ -19,8 +19,4 @@ Muss nur für einen einzelnen Schüler ein Überweisungs- oder Abschlusszeugnis 
 
 Die Noten aus vorherigen Jahren werden dann mit vor- und nachgestelltem \* markiert (zum Beispiel \*3\*).
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Abgeschlossene Fächer holen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Abgeschlossene+F%C3%A4cher+holen&oldid=2106)

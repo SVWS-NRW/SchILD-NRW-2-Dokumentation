@@ -72,8 +72,4 @@ Wird ASDPC auf einem Monitor mit hoher Auflösung ausgeführt, werden die Inhalt
 
 Siehe hierzu die in der Praxis auftretenden Fehler im [Schlüsselmanagenent](/schild2/import-export-statistik/statistik-mit-asdpc-schluesselmanagement#M.C3.B6gliche_Fehler_bei_Ver-_und_Entschl.C3.BCsselung).
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Statistik mit ASDPC Fehlersuche – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC+Fehlersuche&oldid=5713)

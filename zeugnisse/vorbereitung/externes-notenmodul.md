@@ -6,15 +6,15 @@ title: "Externes Notenmodul"
 
 ![Notenmodulexport](/bilder/zeugnisse/vorbereitung/notenmodulexport.jpg)
 
-Das Externe Notenmodul ist ein Zusatzprogramm zu Schild-NRW. Es ist in der Basisinstallation enthalten, kann aber auch über die Homepage (<http://www.svws.nrw.de/index.php?id=tools>) einzeln heruntergeladen werden.
+Das Externe Notenmodul ist ein Zusatzprogramm zu SchILD-NRW 2. Es ist in der Basisinstallation enthalten, kann aber auch über die Homepage (<http://www.svws.nrw.de/index.php?id=tools>) einzeln heruntergeladen werden.
 
-Mit diesem Tool ist es möglich, für jeden Lehrer eine Noten-Datei zu erstellen, die dieser dann außerhalb von Schild-NRW bearbeiten kann. Wenn die Lehrer die Noten eingetragen haben, werden diese Notendateien wieder eingelesen und die Noten, Fehlstunden und Bemerkungen sind in der Datenbank enthalten.
+Mit diesem Tool ist es möglich, für jeden Lehrer eine Noten-Datei zu erstellen, die dieser dann außerhalb von SchILD-NRW 2 bearbeiten kann. Wenn die Lehrer die Noten eingetragen haben, werden diese Notendateien wieder eingelesen und die Noten, Fehlstunden und Bemerkungen sind in der Datenbank enthalten.
 
 Der Export in die Notendateien ist auf Grundlage der VO-DV-I abgesichert. ([Datenschutzhinweis](/administration/benutzer-einstellungen/datenschutzhinweis))
 
 Eine Anleitung zur Bedienung des Externen Notenprogramms für die Kollegen finden Sie unter [Tools](/hilfe/zusatzprogramme/zusatzprogramme-tools).
 
-Im Folgenden wird nun beschrieben, wie der Export/Import in Schild-NRW funktioniert.
+Im Folgenden wird nun beschrieben, wie der Export/Import in SchILD-NRW 2 funktioniert.
 
 <a id="Noten_Export"></a>
 
@@ -45,7 +45,7 @@ Legen Sie hier fest, wohin die Notendateien gespeichert werden sollen. Tun Sie d
 Hier wird festgelegt, wie die Fehlstunden eingetragen werden sollen.
 
 - Gesamtfehlstunden: Der Klassenlehrer/Abteilungsleiter trägt die Summe der Fehlstunden auf dem Reiter der Bemerkungen ein.
-- fachbezogene Fehlstunden: Jeder Lehrer kann bei seinem Fach in der Noteneingabe-Ansicht die Fehlstunden eintragen. Diese müssen später in Schild-NRW zusammengerechnet werden.
+- fachbezogene Fehlstunden: Jeder Lehrer kann bei seinem Fach in der Noteneingabe-Ansicht die Fehlstunden eintragen. Diese müssen später in SchILD-NRW 2 zusammengerechnet werden.
 
 **Suffix für Dateinamen:**
 
@@ -83,7 +83,7 @@ Nach der Auswahl dieses Menüpunktes öffnet sich ein Datei-Fenster. Wählen Sie
 
 **Alle Daten übernehmen**
 
-Es werden alle Daten übernommen, auch wenn in Schild-NRW bereits neuere Einträge vorliegen.
+Es werden alle Daten übernommen, auch wenn in SchILD-NRW 2 bereits neuere Einträge vorliegen.
 
 **Gelöschte Noteneinträge übernehmen**
 
@@ -91,10 +91,6 @@ Es werden auch Noten entfernt, wenn im Notenmodul keine Note gegeben wurde.
 
 **keine Bemerkungen übernehmen**
 
-Sollten Sie in Schild-NRW schon Bemerkungen eingegeben haben, so würden diese von denen im Notenmodul überschrieben. Mit dieser Einstellung können Sie das verhindern, jedoch werden die Bemerkungen der Notendateien dann auch ignoriert.
-
-------------------------------------------------------------------------
-
----
+Sollten Sie in SchILD-NRW 2 schon Bemerkungen eingegeben haben, so würden diese von denen im Notenmodul überschrieben. Mit dieser Einstellung können Sie das verhindern, jedoch werden die Bemerkungen der Notendateien dann auch ignoriert.
 
 Quelle: [Externes Notenmodul – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Externes+Notenmodul&oldid=4736)

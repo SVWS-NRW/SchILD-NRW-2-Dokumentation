@@ -4,7 +4,7 @@ title: "Notenmodul für Grundschulen: Rückgabe, Import und Zeugnisdruck"
 
 # Rückgabe, Import und Zeugnisdruck
 
-Nach der Bearbeitung gibt die Lehrkraft ihre Notendatei an die SchILD-Administration zurück. Diese übernimmt die Eingaben wieder in die Datenbank.
+Nach der Bearbeitung gibt die Lehrkraft ihre Notendatei an die SchILD-NRW 2-Administration zurück. Diese übernimmt die Eingaben wieder in die Datenbank.
 
 ## Zeugnisse im Modul ausgeben
 
@@ -14,20 +14,22 @@ Die Klassenleitung kann über den Reiter **Zeugnisse** eine Vorschau oder einen 
 2. Weisen Sie eine Zeugnisvorlage automatisch oder individuell zu.
 3. Geben Sie das Zeugnis für die ausgewählte Person oder die gesamte Gruppe aus.
 
-Fehlen **Zeugnisvorlagen zuweisen** und **Zeugnisse ausgeben** trotz eingetragener Klassenleitung, kontrolliert die Administration die Exporteinstellungen in SchILD. Dort muss **Zeugnisvorlagen exportieren** aktiviert sein. Die Vorlagen werden zuvor unter **Druckausgabe → Grundschulzeugnisse zuordnen** hinterlegt.
+Fehlen **Zeugnisvorlagen zuweisen** und **Zeugnisse ausgeben** trotz eingetragener Klassenleitung, kontrolliert die Administration die Exporteinstellungen in SchILD-NRW 2. Dort muss **Zeugnisvorlagen exportieren** aktiviert sein. Die Vorlagen werden zuvor unter **Druckausgabe → Grundschulzeugnisse zuordnen** hinterlegt.
 
-## Rückläufe in SchILD importieren
+<a id="rucklaufe-in-schild-importieren"></a>
+
+## Rückläufe in SchILD-NRW 2 importieren
 
 Wählen Sie beim Notenimport die zurückgegebenen Dateien aus; mehrere Dateien können gemeinsam eingelesen werden. Kontrollieren Sie die Importoptionen vor der Übernahme:
 
 | Option | Wirkung |
 | --- | --- |
 | **Alle Daten übernehmen (auch solche ohne Änderungsvermerk)** | Übernimmt die Daten unabhängig davon, ob sie im Modul als geändert gekennzeichnet wurden. Normalerweise werden nur geänderte Eingaben übernommen. |
-| **Gelöschte Noteneinträge übernehmen** | Übernimmt auch Löschungen von Noten und Bemerkungen. Ohne diese Option bleiben die entsprechenden bisherigen Einträge in SchILD bestehen. |
+| **Gelöschte Noteneinträge übernehmen** | Übernimmt auch Löschungen von Noten und Bemerkungen. Ohne diese Option bleiben die entsprechenden bisherigen Einträge in SchILD-NRW 2 bestehen. |
 | **Keine Bemerkungen übernehmen** | Schließt Bemerkungen von der Übernahme aus. |
 
 :::warning
-Soll eine im Modul gelöschte Zeugnisbemerkung auch in SchILD verschwinden, muss die Übernahme gelöschter Einträge aktiviert sein. Andernfalls bleibt die alte Bemerkung in der Datenbank erhalten.
+Soll eine im Modul gelöschte Zeugnisbemerkung auch in SchILD-NRW 2 verschwinden, muss die Übernahme gelöschter Einträge aktiviert sein. Andernfalls bleibt die alte Bemerkung in der Datenbank erhalten.
 :::
 
 Für die Übernahme der Schulformempfehlung nach **Individual-Daten II** müssen anschließend die Schülerdaten aktualisiert werden. Prüfen Sie nach dem Import stichprobenartig Noten, Bemerkungen und die betroffenen Empfehlungen.

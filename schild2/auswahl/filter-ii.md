@@ -14,7 +14,7 @@ Auch hier ist es möglich, einmal erstellte Filter zu speichern, zu laden, erneu
 
 **Hinweis:**
 
-Die in diesem Abschnitt festgelegten Filterbedingungen auswählen Schülerinnen und Schüler immer aus allen Karteikästen. Da sich im Schulalltag die Auswahl in der Regel auf die Schülerdaten im aktuellen Datenfenster bezieht, ist die Bedingung Status gleich Aktiv in die Filterbedingung zusätzlich aufzunehmen sowie anschließend über UND mit weiteren Bedingungen zu verknüpfen.
+Die in diesem Abschnitt festgelegten Filterbedingungen auswählen Schülerinnen und Schüler immer aus allen Statusfilter. Da sich im Schulalltag die Auswahl in der Regel auf die Schülerdaten im aktuellen Datenfenster bezieht, ist die Bedingung Status gleich Aktiv in die Filterbedingung zusätzlich aufzunehmen sowie anschließend über UND mit weiteren Bedingungen zu verknüpfen.
 
 Nach Aufruf des Filter II erhalten Sie die Eingabeansicht "Allgemeine Filterbedingungen definieren". Die Vorgabe beim Aufruf dieser Eingabeansicht enthält die Bedingung Schüler nicht gelöscht.
 
@@ -99,9 +99,5 @@ Eine auf dem Datenträger gespeicherte Filterbedingung mit der Endung .sql kann 
 **Abbruch**
 
 Die Eingabeansicht kann ohne Veränderungen verlassen werden.
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Filter II – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Filter+II&oldid=1192)

@@ -10,8 +10,4 @@ Mit dieser Funktion erzeugen Sie Textzeugnisse als Word-Dokumente. Ordnen Sie vo
 
 *Hinweis:* Bei Schulen, in denen ein Jahrgang in verschiedenen Bildungsgängen vorkommt, funktioniert dieser Menüpunkt **nicht**. Es erscheint die Fehlermeldung "Jahrgang ... nicht eindeutig" und der Vorgang wird abgebrochen.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Textzeugnisse drucken – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Textzeugnisse+drucken&oldid=2482)

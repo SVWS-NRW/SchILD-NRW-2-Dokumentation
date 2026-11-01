@@ -34,6 +34,4 @@ Procedure ReportAfterPrint;
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [ResetAdressArt – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ResetAdressArt&oldid=86)

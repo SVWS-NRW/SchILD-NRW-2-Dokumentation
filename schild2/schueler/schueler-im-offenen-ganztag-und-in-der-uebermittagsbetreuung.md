@@ -8,7 +8,7 @@ title: "Ganztag und Übermittagsbetreuung erfassen"
 
 Diese Anleitung erläutert die Erfassung von offenem Ganztag und Übermittagsbetreuung für die Statistik. Prüfen Sie die beschriebenen Angaben gemeinsam, damit Teilnahme und Betreuungsform zusammenpassen.
 
-Welche Eintragungen müssen in SchILD-NRW gemacht werden, damit Schülerinnen und Schüler im offenen Ganztag und Schülerinnen und Schüler in der Übermittagsbetreuung für die Statistik korrekt übernommen werden?
+Welche Eintragungen müssen in SchILD-NRW 2 gemacht werden, damit Schülerinnen und Schüler im offenen Ganztag und Schülerinnen und Schüler in der Übermittagsbetreuung für die Statistik korrekt übernommen werden?
 
 <a id="Schülerinnen_und_Schüler_im_offenen_Ganztag"></a>
 <a id="Sch.C3.BClerinnen_und_Sch.C3.BCler_im_offenen_Ganztag"></a>
@@ -28,7 +28,7 @@ Alle Schülerinnen und Schüler in der Übermittagsbetreuung benötigen auf der 
 
 ![OrganisationsformHalbtag](/bilder/schild2/schueler/organisationsformhalbtag.png)![MerkmalUebermittag](/bilder/schild2/schueler/merkmaluebermittag.png)
 
-Wenn kein entsprechendes Merkmal ausgewählt werden kann, so fehlt diese Definition in SchILD-NRW. Diese können Sie unter dem Menüpunkt *Schulverwaltung - Schule bearbeiten* auf dem Karteireiter *Merkmale* definieren.
+Wenn kein entsprechendes Merkmal ausgewählt werden kann, so fehlt diese Definition in SchILD-NRW 2. Diese können Sie unter dem Menüpunkt *Schulverwaltung - Schule bearbeiten* auf dem Karteireiter *Merkmale* definieren.
 
 ![MerkmaleDefinieren](/bilder/schild2/schueler/merkmaledefinieren.png)
 
@@ -43,9 +43,5 @@ Filtern Sie anschließend die Schülerinnen und Schüler des offenen Ganztags mi
 Filtern Sie anschließend die Schülerinnen und Schüler des Halbtagsunterrichts. Markieren Sie die Schülerinnen und Schüler, die an der Übermittagsbetreuung teilnehmen. Wenden sie auf die explizit ausgewählten Schülerinnen und Schüler den *Gruppenprozess - Allgemeines* an und ändern die Individualdaten. Setzen Sie im Gruppenprozess auf dem Karteireiter *Individual-Daten II* in der Rubrik *Sonstiges* das Merkmal *Übermittagsbetreuung.*
 
 ![Text](/bilder/schild2/schueler/gruppenprozessorganisationsform.png)![Text](/bilder/schild2/schueler/gruppenprozessmerkmal.png)
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Schüler im offenen Ganztag und in der Übermittagsbetreuung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sch%C3%BCler+im+offenen+Ganztag+und+in+der+%C3%9Cbermittagsbetreuung&oldid=6054)

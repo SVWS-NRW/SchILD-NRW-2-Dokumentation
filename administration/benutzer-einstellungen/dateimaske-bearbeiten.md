@@ -18,8 +18,4 @@ In der Praxis hat sich gezeigt, dass sehr verschachtelte Ordnerstrukturen eher P
 
 Testen Sie bitte die gewünschte Dokumentenstruktur ausführlich in einem Probesystem. Nachträgliche Änderungen können unter Umständen mit dem Verlust der vorhandenen Dokumente verbunden sein!
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Dateimaske bearbeiten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Dateimaske+bearbeiten&oldid=1508)

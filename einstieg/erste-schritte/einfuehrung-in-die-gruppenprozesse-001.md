@@ -75,8 +75,4 @@ Problemstellung: Einer gesamten Klasse sollen die Klassenart, die Klassen-Organi
 
     ![GruppenprozesseTut12](/bilder/einstieg/erste-schritte/gruppenprozessetut12.jpg)\
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Einführung in die Gruppenprozesse 001 – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Einf%C3%BChrung+in+die+Gruppenprozesse+001&oldid=3598)

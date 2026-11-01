@@ -11,11 +11,13 @@ const walk=items=>items.flatMap(item=>[item,...walk(item.items||[])])
 const files=dir=>fs.readdirSync(dir,{withFileTypes:true}).flatMap(e=>e.isDirectory()?files(dir+'/'+e.name):[dir+'/'+e.name])
 
 test('Jeder veröffentlichte Artikel ist ausdrücklich einem Themenmenü zugeordnet',()=>{
+ const sidebar=createSidebar(navigation)
  const entries=new Set(Object.values(navigation.sidebar).flatMap(groups=>walk(groups)).filter(n=>n.link).map(n=>articlePath(n.link)))
  for(const dir of ['einstieg','schild2','zeugnisse','reporting','tools','administration','hilfe','programmreferenz','bilder']) {
   for(const file of files(dir).filter(f=>f.endsWith('.md'))) {
    const route='/'+file.replace(/\/index\.md$/,'/').replace(/\.md$/,'')
    assert(entries.has(articlePath(route)),`Artikel ohne Menü: ${file}`)
+   assert(Object.keys(sidebar).some(prefix=>('/'+file).startsWith(prefix)),`Direkt aufgerufener Artikel ohne Seitenmenü: ${file}`)
   }
  }
 })

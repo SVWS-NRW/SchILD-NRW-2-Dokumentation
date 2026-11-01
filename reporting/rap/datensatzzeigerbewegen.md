@@ -32,6 +32,4 @@ DatensatzZeigerBewegen( Lernabschnitte, -1 );
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [DatensatzZeigerBewegen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=DatensatzZeigerBewegen&oldid=5690)

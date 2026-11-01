@@ -20,8 +20,4 @@ Bitte klicken Sie die Artikel an, um Informationen zu den dahinter liegenden Sam
 - Lernabschnitt mit Standardangaben anlegen
 - [Abschnittsdaten löschen](/schild2/versetzung/abschnittsdaten-loeschen)
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Lernabschnitte, Versetzung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lernabschnitte%2C+Versetzung&oldid=1278)

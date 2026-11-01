@@ -1,12 +1,11 @@
-# Über diese Dokumentation
+# Quelltexte und Originaldateien
 
-Diese Dokumentation überträgt das SchILD2-Wiki in eine nach Aufgaben und Programmen gegliederte Website. Die übernommenen Artikel nennen ihre ursprünglichen Wiki-Quellen. Benötigte Bilder und Dateien stehen lokal zur Verfügung. Die einzelnen Archivseiten werden nicht mehr veröffentlicht. Das vollständige Quelltext-ZIP und die ursprünglichen Wiki-Dateien bleiben erhalten.
+Hier finden Sie die gesicherten Wiki-Quelltexte und ergänzende Originaldateien der Dokumentation von SchILD-NRW 2.
 
-Leere Platzhalter und reine Weiterleitungsartikel werden nicht als eigenständige Fachartikel angeboten. Die Anleitungen zu den Zusatzprogrammen stehen direkt unter [Tools und Zusatzprogramme](/tools/).
-
-Historische Verfahren bleiben als solche erkennbar. SchILD2 greift direkt auf seine Datenbank zu und benötigt keinen SVWS-Server. Verfasser- und Quellenangaben der übernommenen Inhalte bleiben erhalten.
+<a id="quelltexte-und-erganzende-dateien"></a>
 
 ## Quelltexte und ergänzende Dateien
+
 
 Das [vollständige Quelltext-ZIP](/dateien/quellen/wiki-quelltexte.zip) enthält die 1.405 gesicherten Wiki-Seiten sowie sechs Bestands- und Metadatendateien. Es bewahrt die ursprünglichen Inhalte unabhängig von der redaktionellen Bearbeitung.
 
@@ -27,3 +26,5 @@ Auch Dateien ohne aktuellen Verweis in einem Fachartikel bleiben erhalten. Fehle
 | [Mustertext zur Notendatei](/dateien/wiki/notendateitext-b8c20be9.txt) | Historischer Begleittext mit Hinweisen zum externen Notenmodul. |
 
 Die 109 ergänzenden Screenshots und Abbildungen sind ebenfalls erhalten und über den [Bilderkatalog](/bilder/) auffindbar.
+
+

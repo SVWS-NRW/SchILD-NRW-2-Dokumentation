@@ -50,6 +50,4 @@ Procedure ReportBeforePrint;
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [UebersichtsfachModus – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=UebersichtsfachModus&oldid=127)

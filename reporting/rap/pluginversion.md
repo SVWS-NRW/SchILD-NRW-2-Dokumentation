@@ -33,6 +33,4 @@ procedure ReportBeforePrint;
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [PluginVersion – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=PluginVersion&oldid=160)

@@ -39,6 +39,4 @@ Fn:=FileSaveDlg('*.txt','c:\Text','Textdateien|*.txt|Alle Dateien|*.*');
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [FileSaveDlg – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FileSaveDlg&oldid=44)

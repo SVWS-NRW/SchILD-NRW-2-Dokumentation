@@ -47,6 +47,4 @@ end;
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [SelectOption – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SelectOption&oldid=2151)

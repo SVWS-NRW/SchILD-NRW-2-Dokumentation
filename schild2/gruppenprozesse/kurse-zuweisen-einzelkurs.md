@@ -14,8 +14,4 @@ Im nächsten Schritt muss nun zuerst ein Kurs aus dem Pull-down-Menü ausgewähl
 
 Soll eine Klasse auf zwei Kurse aufgeteilt werden, können Sie nach Zuweisung der ersten Gruppe den zweiten Kurs auswählen, auf "Komplement zu aktivierten Schülern bilden" klicken und dann dem Rest der Klasse diesen Kurs wie oben beschrieben zuweisen.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Kurse zuweisen (Einzelkurs) – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurse+zuweisen+%28Einzelkurs%29&oldid=3617)

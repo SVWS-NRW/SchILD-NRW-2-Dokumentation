@@ -33,6 +33,4 @@ procedure LoadNotenliste(aFilename: String);
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [LoadNotenliste – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LoadNotenliste&oldid=66)

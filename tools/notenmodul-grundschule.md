@@ -1,6 +1,6 @@
 # Notenmodul für Grundschulen
 
-Mit dem Grundschul-Notenmodul bearbeiten Lehrkräfte Noten, Zeugnistexte und Ankreuzkompetenzen in den von SchILD ausgegebenen Notendateien. Die Vorbereitung und Rückübernahme übernimmt die SchILD-Administration.
+Mit dem Grundschul-Notenmodul bearbeiten Lehrkräfte Noten, Zeugnistexte und Ankreuzkompetenzen in den von SchILD-NRW 2 ausgegebenen Notendateien. Die Vorbereitung und Rückübernahme übernimmt die SchILD-NRW 2-Administration.
 
 ## Themen
 

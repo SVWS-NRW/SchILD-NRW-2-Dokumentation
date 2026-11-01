@@ -12,8 +12,4 @@ Alternativ können Lernbereichsnoten für jeden Schüler einzeln auf der Karteik
 
 Lassen Sie zunächst den Gruppenprozess [Versetzung und Abschlüsse berechnen](/schild2/versetzung/versetzungs-abschluss-berechnung) durchlaufen und merken Sie sich die Schüler, bei denen angegeben wird, dass eine Berechnung wegen fehlender Lernbereichsnoten nicht möglich ist. So minimieren Sie die Anzahl der einzutragenden Lernbereichsnoten.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Lernbereichsnoten eingeben – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lernbereichsnoten+eingeben&oldid=1988)

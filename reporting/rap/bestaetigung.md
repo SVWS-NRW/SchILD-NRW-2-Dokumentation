@@ -43,6 +43,4 @@ end;
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [Bestaetigung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Bestaetigung&oldid=28)

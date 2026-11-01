@@ -45,6 +45,4 @@ Procedure ReportBeforePrint;
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [SortierungVon – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SortierungVon&oldid=3507)

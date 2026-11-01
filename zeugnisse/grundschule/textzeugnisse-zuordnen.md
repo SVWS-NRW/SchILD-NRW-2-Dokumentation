@@ -12,12 +12,8 @@ Wenn Sie den Menüpunkt **"Textzeugnisse zuordnen"** auswählen, öffnet sich da
 
 Möchten Sie ein Zeugnisformular bearbeiten, dann aktivieren Sie die zugehörige Zeile und klicken Sie auf **Zeugnisdatei** bearbeiten. Im Textverarbeitungsprogramm öffnet sich die ausgewählte Serienbriefvorlage und zusätzlich wird zur Kontrolle ein Serienbrief mit den Musterdaten erzeugt.
 
-*Hinweis:* Wird in der Serienbriefvorlage ein Seriendruckfeld verwendet, das nicht in der Steuerdatei enthalten ist, liegt das Fenster mit diesem Hinweis möglicherweise hinter dem Schild-NRW-Fenster. Das zeigt sich daran, dass Schild scheinbar nicht mehr reagiert. Über den Task-Manager können Sie auf jeden Fall in das Fenster "ungültiges Seriendruckfeld" wechseln und die Seriendruckfelder ersetzen beziehungsweise löschen.
+*Hinweis:* Wird in der Serienbriefvorlage ein Seriendruckfeld verwendet, das nicht in der Steuerdatei enthalten ist, liegt das Fenster mit diesem Hinweis möglicherweise hinter dem SchILD-NRW 2-Fenster. Das zeigt sich daran, dass SchILD-NRW 2 scheinbar nicht mehr reagiert. Über den Task-Manager können Sie auf jeden Fall in das Fenster "ungültiges Seriendruckfeld" wechseln und die Seriendruckfelder ersetzen beziehungsweise löschen.
 
 Bei Grundschulen lautet dieser Menüpunkt **"Grundschulzeugnisse zuordnen"**.
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Textzeugnisse zuordnen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Textzeugnisse+zuordnen&oldid=2477)

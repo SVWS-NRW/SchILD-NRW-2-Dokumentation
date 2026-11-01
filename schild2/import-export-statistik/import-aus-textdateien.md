@@ -8,7 +8,7 @@ title: "Import aus Textdateien"
 
 ![ExternImport1](/bilder/schild2/import-export-statistik/externimport1.jpg)
 
-Der Menüpunkt *Import aus Textdateien* steht Ihnen nur zur Verfügung, wenn das Programm ExternImport.exe aus der Tools-Sammlung installiert wurde. (Das Programm muss sich im Installationsverzeichnis von Schild-NRW befinden.)
+Der Menüpunkt *Import aus Textdateien* steht Ihnen nur zur Verfügung, wenn das Programm ExternImport.exe aus der Tools-Sammlung installiert wurde. (Das Programm muss sich im Installationsverzeichnis von SchILD-NRW 2 befinden.)
 
 Nach dem Aufruf des Menüpunktes werden Sie gegebenenfalls aufgefordert, erneut die Zieldatenbank auszuwählen und Benutzernamen und Passwort einzugeben.
 
@@ -32,23 +32,18 @@ Um ein Import-Schema anzulegen, benötigen Sie zuallererst eine Import-Datei.
 
 ![ExternImport4](/bilder/schild2/import-export-statistik/externimport4.jpg)
 
-Ordnen Sie hier die gewünschten Felder zu, indem Sie in die Spalte klicken und dann aus der Liste der "Felder zu aktueller Tabellenspalte" das Datenfeld in Schild-NRW wählen.
+Ordnen Sie hier die gewünschten Felder zu, indem Sie in die Spalte klicken und dann aus der Liste der "Felder zu aktueller Tabellenspalte" das Datenfeld in SchILD-NRW 2 wählen.
 
 **Zuordnungstabellen bearbeiten**
 
-Falls in Ihrer Import-Datei auch Angaben über die Staats- und Religionszugehörigkeit der Schüler oder über die Erzieher-Art (außerdem Länderbezeichnungen, Fachklassen am BK, Schulformen, Abschlüsse, Organisationsformen, Schulnamen und Verkehrssprachen) vorhanden sind, so werden in der Regel die dort verwendeten Bezeichnungen nicht mit den entsprechenden Bezeichnungen in der Datenbank von SchILD-NRW übereinstimmen. Um dennoch auch für diese Daten einen korrekten Import zu ermöglichen, können Zuordnungstabellen angelegt werden. Eine Zuordnungstabelle enthält zum einen die jeweilige Angabe aus der Import-Datei, zum anderen die zugehörige Bezeichnung in der Datenbank von SchILD-NRW.
+Falls in Ihrer Import-Datei auch Angaben über die Staats- und Religionszugehörigkeit der Schüler oder über die Erzieher-Art (außerdem Länderbezeichnungen, Fachklassen am BK, Schulformen, Abschlüsse, Organisationsformen, Schulnamen und Verkehrssprachen) vorhanden sind, so werden in der Regel die dort verwendeten Bezeichnungen nicht mit den entsprechenden Bezeichnungen in der Datenbank von SchILD-NRW 2 übereinstimmen. Um dennoch auch für diese Daten einen korrekten Import zu ermöglichen, können Zuordnungstabellen angelegt werden. Eine Zuordnungstabelle enthält zum einen die jeweilige Angabe aus der Import-Datei, zum anderen die zugehörige Bezeichnung in der Datenbank von SchILD-NRW 2.
 
 Um die Zuordnungstabellen zu bearbeiten, aktivieren Sie den Schalter **Zuordnungstabellen bearbeiten** im Fenster "Import-Schema definieren".
 
 Am Beispiel der Staatsangehörigkeiten soll das Vorgehen erläutert werden.
 
-Angenommen, in Ihrer Import-Datei ist für die Staatsangehörigkeit der Schüler das entsprechende Kfz-Länderkennzeichen eingetragen. Da SchILD-NRW eine andere Verschlüsselung für diese Information verwendet, ist eine direkte Übernahme dieser Information beim Import nicht möglich. Wenn Sie aber in der Zuordnungstabelle Länderbezeichnungen eine entsprechende Verknüpfung herstellen, so können die Daten dennoch übernommen werden. Die rechte Spalte der Zuordnungstabellen enthält alle in SchILD-NRW "bekannten" Einträge. Wenn Sie nun in der linken Spalte der Zuordnungstabelle die jeweilige Bezeichnungen aus Ihrer Import-Datei eintragen (in diesem Fall also das Kfz-Kürzel), kann beim Import eine Transformation auf die internen Bezeichnungen von SchILD-NRW durchgeführt werden. Dies gilt sinngemäß auch für die Religionszugehörigkeit und die Erzieher-Art.
+Angenommen, in Ihrer Import-Datei ist für die Staatsangehörigkeit der Schüler das entsprechende Kfz-Länderkennzeichen eingetragen. Da SchILD-NRW 2 eine andere Verschlüsselung für diese Information verwendet, ist eine direkte Übernahme dieser Information beim Import nicht möglich. Wenn Sie aber in der Zuordnungstabelle Länderbezeichnungen eine entsprechende Verknüpfung herstellen, so können die Daten dennoch übernommen werden. Die rechte Spalte der Zuordnungstabellen enthält alle in SchILD-NRW 2 "bekannten" Einträge. Wenn Sie nun in der linken Spalte der Zuordnungstabelle die jeweilige Bezeichnungen aus Ihrer Import-Datei eintragen (in diesem Fall also das Kfz-Kürzel), kann beim Import eine Transformation auf die internen Bezeichnungen von SchILD-NRW 2 durchgeführt werden. Dies gilt sinngemäß auch für die Religionszugehörigkeit und die Erzieher-Art.
 
 Für jedes Import-Schema wird ein eigener Satz von Zuordnungstabellen erzeugt.
-
-------------------------------------------------------------------------
-
-
----
 
 Quelle: [Import aus Textdateien – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Import+aus+Textdateien&oldid=1126)

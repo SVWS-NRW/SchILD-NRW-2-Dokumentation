@@ -12,8 +12,4 @@ Eintragungen wie zum Beispiel "E5" oder "E7" können über diesen Gruppenprozess
 
 Über die beiden Listenknöpfe werden die internen Kürzel aller Fremdsprachen, die man unter [Schulverwaltung](/schild2/unterricht-kataloge/schulverwaltung) als [Unterrichtsfach](/schild2/unterricht-kataloge/unterrichtsfaecher) deklariert hat, zur Auswahl angeboten.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Fächer in Sprachenfolge ersetzen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%A4cher+in+Sprachenfolge+ersetzen&oldid=1899)

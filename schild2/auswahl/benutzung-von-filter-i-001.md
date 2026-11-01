@@ -75,6 +75,4 @@ Testen Sie die Auswahl und übernehmen Sie sie anschließend in die Schülerlist
 
 Testen Sie das Ergebnis und übernehmen Sie die gefundene Gruppe anschließend in die Schülerliste. Die Bedingungen aus allen drei Datenbereichen werden gemeinsam ausgewertet.
 
----
-
 Quelle: [Benutzung von Filter I 001 – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Benutzung+von+Filter+I+001&oldid=3255)

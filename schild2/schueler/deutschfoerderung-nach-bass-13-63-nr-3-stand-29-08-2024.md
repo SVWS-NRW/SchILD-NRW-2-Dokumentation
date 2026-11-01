@@ -8,7 +8,7 @@ title: "Deutschförderung"
 
 Die ursprüngliche Anleitung beschreibt die Erfassung nach BASS 13-63 Nr. 3 mit Stand vom 29.08.2024.
 
-Für die Erhebung der amtlichen Schuldaten wurde zur Kennung von Schülerinnen und Schülern mit Deutschförderung ein neuer Schlüssel DF für die Klassenart definiert. Die Eintragungen in SchILD-NRW müssen entsprechend angepasst werden, um die Daten fehlerfrei nach ASDPC zu importieren:
+Für die Erhebung der amtlichen Schuldaten wurde zur Kennung von Schülerinnen und Schülern mit Deutschförderung ein neuer Schlüssel DF für die Klassenart definiert. Die Eintragungen in SchILD-NRW 2 müssen entsprechend angepasst werden, um die Daten fehlerfrei nach ASDPC zu importieren:
 
 Alle Schülerinnen und Schüler, die an einer Deutschförderung nach BASS 13-63 Nr. 3 teilnehmen, erhalten als Klassenart Deutschförderung (ohne Bildungsgangzuordnung, BASS 13-63 Nr. 3) mit dem Schlüssel DF unabhängig davon, ob sie in einer Deutschförderklasse oder einer Regelklasse unterrichtet werden.
 
@@ -76,7 +76,7 @@ Unter Gruppenprozesse/Allgemeines/Individualdaten ändern/Lernabschnitte kann de
 
 ### Fall 2: Der Schüler kam von einer anderen deutschen Schule
 
-In diesem Fall gibt es für den Schüler keinen vorherigen Abschnitt in SchILD. Informationen zur Herkunft des Schülers müssen unter Schulbesuch korrekt eingetragen werden:
+In diesem Fall gibt es für den Schüler keinen vorherigen Abschnitt in SchILD-NRW 2. Informationen zur Herkunft des Schülers müssen unter Schulbesuch korrekt eingetragen werden:
 
 ![DFSchulbesuchG](/bilder/schild2/schueler/dfschulbesuchg.png)
 
@@ -110,7 +110,7 @@ Hinweis: Hat der aus dem Ausland zugezogene Schüler die deutsche Staatsangehör
 ### Fehler E89
 
 **Problem**\
-Nach der Plausibilitätsprüfung in SchILD erhalten ich den Fehler E89.
+Nach der Plausibilitätsprüfung in SchILD-NRW 2 erhalten ich den Fehler E89.
 
 ![FehlerE89](/bilder/schild2/schueler/fehlere89.png)
 
@@ -131,13 +131,10 @@ Vermutlich fehlt unter Individualdaten II das Zuzugsjahr.
 Ich habe die sim.txt bereits in ASDPC importiert und viele Datensätze dort korrigiert. Allerdings habe ich vergessen, die Klassenart DF für den vorherigen Abschnitt anzupassen.
 
 **Lösung**\
-Da SchILD bei der Plausibilitätsprüfung für diesen Fall keine Fehlermeldung ausgibt, kommt das Problem sicherlich häufiger vor. Wenn die Klassenart DF nicht für vorangegangene Abschnitte bei den Schülern mit Deutschförderung in SchILD eingetragen wurde, erscheint die unten stehende Fehlermeldung. Dies können Sie in ASDPC korrigieren, indem der Schlüssel 91 (Verbleib in Deutschförderung) für Spalte Art 611 ausgewählt wird:
+Da SchILD-NRW 2 bei der Plausibilitätsprüfung für diesen Fall keine Fehlermeldung ausgibt, kommt das Problem sicherlich häufiger vor. Wenn die Klassenart DF nicht für vorangegangene Abschnitte bei den Schülern mit Deutschförderung in SchILD-NRW 2 eingetragen wurde, erscheint die unten stehende Fehlermeldung. Dies können Sie in ASDPC korrigieren, indem der Schlüssel 91 (Verbleib in Deutschförderung) für Spalte Art 611 ausgewählt wird:
 
 ![ASDPCKorrektur91](/bilder/schild2/schueler/asdpckorrektur91.png)
 
 *Korrektur "Verbleib in Deutschförderung".*
-
-
----
 
 Quelle: [Deutschförderung nach BASS 13-63 Nr. 3 (Stand 29.08.2024) – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Deutschf%C3%B6rderung+nach+BASS+13-63+Nr.+3+%28Stand+29.08.2024%29&oldid=5986)

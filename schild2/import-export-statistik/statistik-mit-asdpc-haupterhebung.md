@@ -46,7 +46,7 @@ Es ist nun zu sehen, dass sich das Menü in der Kopfzeile verändert hat. Diese 
 
 ![ASDPC_Import](/bilder/schild2/import-export-statistik/asdpc-import.png)
 
-Hier können von anderen Programmen erstellte Daten eingelesen werden, zum Beispiel von SchILD NRW. Je nach Schulform können eventuell auch weitere Dateien eingelesen werden.
+Hier können von anderen Programmen erstellte Daten eingelesen werden, zum Beispiel von SchILD-NRW 2. Je nach Schulform können eventuell auch weitere Dateien eingelesen werden.
 
 Hier sind die Daten in der Reihenfolge des Menüs einzulesen. Daher es müssen zuerst die Schuldaten über die Vorgabedaten eingelesen werden, dann die Daten zu Schülerinnen und Schülern, dann Lehrkraftdaten und schließlich die Unterrichtsverteilung. Dass Daten erfolgreich importiert wurden, bedeutet jedoch nicht, dass diese fehlerfrei sind. Bitte prüfen Sie an dieser Stelle schon von ASDPC gemeldete Unstimmigkeiten und beseitigen Sie diese in Ihrem Schulverwaltsprogramm und nehmen Sie dann einen erneuten Import vor.
 
@@ -210,12 +210,12 @@ Die Hilfe ist identisch zum übergeordneten Menü ["Hilfe"](/schild2/import-expo
 
 ![Schaubild_ASDPC2](/bilder/schild2/import-export-statistik/schaubild-asdpc2.png)
 
-Nachdem Sie die [Statistik vorbereitet](/schild2/import-export-statistik/statistik-mit-asdpc#Vorbereitung_der_Statistik) haben, können Sie damit beginnen, Ihren Daten einzulesen. Beginnen Sie mit den Vorgabedaten. Die weiteren Daten, SIM.TXT, Lehrer.TXT etc. können eventuell aus Schulverwaltungsprogrammen wie SchILD NRW oder Untis usw. erstellt werden.
+Nachdem Sie die [Statistik vorbereitet](/schild2/import-export-statistik/statistik-mit-asdpc#Vorbereitung_der_Statistik) haben, können Sie damit beginnen, Ihren Daten einzulesen. Beginnen Sie mit den Vorgabedaten. Die weiteren Daten, SIM.TXT, Lehrer.TXT etc. können eventuell aus Schulverwaltungsprogrammen wie SchILD-NRW 2 oder Untis usw. erstellt werden.
 
 - Einlesen der Vorgabedaten
 - SIM.txt
 - Lehrer.txt
-- UVD.txt - dies ist an kleinen Schulen eventuell nicht notwendig; liegt die UVD ohnehin digital vor, etwa weil ein online-Vertretungsplan genutzt wird oder weil zeitabhängige Lehrerdaten in SchILD erfasst werden, kann diese aber auch eingelesen werden.
+- UVD.txt - dies ist an kleinen Schulen eventuell nicht notwendig; liegt die UVD ohnehin digital vor, etwa weil ein online-Vertretungsplan genutzt wird oder weil zeitabhängige Lehrerdaten in SchILD-NRW 2 erfasst werden, kann diese aber auch eingelesen werden.
 - ABI.txt - an Grundschulen usw. in der Regel nicht notwendig. ;)
 
 ![ASDPC_Belege_in_der_HE](/bilder/schild2/import-export-statistik/asdpc-belege-in-der-he.png)
@@ -491,7 +491,7 @@ Hier finden sich diverse Belege für weitere Daten. Manche der Belege werden nur
 
 ![ASDPC_Abitur](/bilder/schild2/import-export-statistik/asdpc-abitur.png)
 
-In diesem Beleg sind die Abiturprüfungsergebnisse einzulesen. Diese Daten können über die von SchILD NRW erzeugte ABI.txt eingelesen werden. Es ist zu beachten, dass bei "Bild.-Gang" von Gymnasien beziehungsweise von Gesamtschulen mit entsprechenden Bildungsgängen G8 beziehungsweise G9 einzutragen ist. Eine Automatik ist bei einer passenden Schulform unter "Bearbeiten" anwählbar.
+In diesem Beleg sind die Abiturprüfungsergebnisse einzulesen. Diese Daten können über die von SchILD-NRW 2 erzeugte ABI.txt eingelesen werden. Es ist zu beachten, dass bei "Bild.-Gang" von Gymnasien beziehungsweise von Gesamtschulen mit entsprechenden Bildungsgängen G8 beziehungsweise G9 einzutragen ist. Eine Automatik ist bei einer passenden Schulform unter "Bearbeiten" anwählbar.
 
 Zum Ende der Bearbeitung sind wie bei vorherigen Belegen über die gelben Schaltflächen in der Kopfzeile die Daten mit "Schülersummen" und dem Beleg "SCD012" abzugleichen.
 
@@ -601,7 +601,5 @@ Die \*-Anmerkungen im Beleg verweisen für Details auf die entsprechenden Sektio
 ##### Weitere "Weitere Belege"
 
 Mitunter sind noch weitere "Weitere Belege" in Ihrer Statistik auszufüllen oder hier aufgeführte werden in einem bestimmten Jahr nicht (weiter) erhoben. Ob und welche dies sind, hängt vom Schuljahr beziehungsweise der Schulform Ihrer Schule ab.
-
----
 
 Quelle: [Statistik mit ASDPC Haupterhebung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC+Haupterhebung&oldid=5313)

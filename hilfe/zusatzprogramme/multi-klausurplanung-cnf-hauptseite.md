@@ -226,6 +226,4 @@ Rückimport der XML-Datei in Kurs42:
 
 ..wird ausgebaut...
 
----
-
 Quelle: [Multi Klausurplanung CNF:Hauptseite – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Multi+Klausurplanung+CNF%3AHauptseite&oldid=4574)

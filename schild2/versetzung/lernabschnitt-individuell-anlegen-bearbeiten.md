@@ -14,8 +14,4 @@ Es öffnet sich das Fenster "Halbjahr anlegen". Dort sind alle nötigen Eintragu
 
 **Hinweis:** Das Häkchen bei "In Schüler-Individualdaten übernehmen" sollte nur dann gesetzt werden, wenn sich der Schüler danach in diesem Abschnitt befinden soll, das heißt durch Setzen dieses Häkchens wird der Schüler direkt in den gerade eingegebenen Abschnitt "versetzt".
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Lernabschnitt individuell anlegen/bearbeiten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lernabschnitt+individuell+anlegen%2Fbearbeiten&oldid=3630)

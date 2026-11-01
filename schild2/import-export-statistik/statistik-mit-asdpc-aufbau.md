@@ -8,8 +8,6 @@ title: "Programmaufbau von ASDPC"
 
 Lernen Sie hier den Aufbau von ASDPC kennen: die Erhebungsbereiche, die Eingabeoberfläche und die zugehörigen Dateien. Diese Orientierung hilft Ihnen, die späteren Arbeitsschritte der Haupterhebung einzuordnen.
 
-------------------------------------------------------------------------
-
 Startet man ASDPC, öffnet sich ein Fenster mit Informationen zum Stand von ASDPC, dem Stand der Schlüsseltabellen, Hinweisen zur Statistik des aktuellen Schuljahres und einem Link auf die ToDo-Liste zur Haupterhebung des aktuellen Jahres.
 
 ![ASDPC-Startinformationen](/bilder/schild2/import-export-statistik/asdpc-startinformationen.jpg)
@@ -84,9 +82,5 @@ Eine Sicherung einzuspielen überschreibt den aktuellen Arbeitsstand mit dem der
 ![ASDPC_Inhaltsverzeichnis](/bilder/schild2/import-export-statistik/asdpc-inhaltsverzeichnis.png)
 
 Zum Vergrößern klicken.
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Statistik mit ASDPC-Aufbau – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC-Aufbau&oldid=5254)

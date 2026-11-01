@@ -10,8 +10,4 @@ Die gleiche Funktionalität wird mit einem Klick auf die runde Leuchtdiode ausge
 
 Status grün: kein Filter gesetzt (alle aktiven Schüler werden angezeigt)
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Standard-Auswahl laden – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Standard-Auswahl+laden&oldid=968)

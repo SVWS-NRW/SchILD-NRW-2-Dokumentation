@@ -35,8 +35,4 @@ Nach einer Bestätigung werden dann alle Schülerfotos der gefilterten Schülerg
 
 NACHNAME_VORNAME_KLASSE.jpg gespeichert.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Fotos – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fotos&oldid=1171)

@@ -70,5 +70,37 @@
   {
     "path": "druck/zeugnisse.md",
     "replacement": "/druck/schild2.html"
+  },
+  {
+    "path": "einstieg/grundlagen/inhaltsverzeichnis.md",
+    "replacement": "/programmreferenz/"
+  },
+  {
+    "path": "hilfe/bedienung.md",
+    "replacement": "/einstieg/grundlagen"
+  },
+  {
+    "path": "hilfe/ueber-diese-dokumentation.md",
+    "replacement": "/hilfe/quelltexte-und-originaldateien"
+  },
+  {
+    "path": "einstieg/erste-schritte/schild-nrw-tutorials.md",
+    "replacement": "/schild2/"
+  },
+  {
+    "path": "schild2/lehrkraefte.md",
+    "replacement": "/schild2/lehrkraefte/lehrkraefte"
+  },
+  {
+    "path": "zeugnisse/sekundarstufen/zusatzdaten-latimun-eingeben.md",
+    "replacement": "/zeugnisse/sekundarstufen/zusatzdaten-latinum-eingeben"
+  },
+  {
+    "path": "zeugnisse/sekundarstufen/mdl-pruefungen-a1-a3-festlegen.md",
+    "replacement": "/zeugnisse/sekundarstufen/muendliche-pruefungen-a1-a3-festlegen"
+  },
+  {
+    "path": "zeugnisse/berufskolleg/bkabschluss.md",
+    "replacement": "/zeugnisse/berufskolleg/bk-abschluss"
   }
 ]

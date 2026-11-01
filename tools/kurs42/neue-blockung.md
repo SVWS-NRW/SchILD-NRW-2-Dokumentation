@@ -4,11 +4,11 @@ title: "Kurs42: Neue Blockung erstellen"
 
 # Neue Blockung erstellen
 
-Vor dem Anlegen einer Blockung müssen die benötigten Schülerdaten in SchILD und die Fachwahlen in LuPO vorbereitet sein. Für die Erstellung aus der SchILD-Datenbank werden entsprechende Benutzerrechte benötigt.
+Vor dem Anlegen einer Blockung müssen die benötigten Schülerdaten in SchILD-NRW 2 und die Fachwahlen in LuPO vorbereitet sein. Für die Erstellung aus der SchILD-NRW 2-Datenbank werden entsprechende Benutzerrechte benötigt.
 
 ## Blockungsdatei anlegen
 
-1. Öffnen Sie **Datei → Neue Kursblockung** und wählen Sie die SchILD-Datenbank aus.
+1. Öffnen Sie **Datei → Neue Kursblockung** und wählen Sie die SchILD-NRW 2-Datenbank aus.
 2. Übernehmen Sie die Verbindung und geben Sie bei Bedarf die benötigte Datenbankkennung ein.
 3. Vergeben Sie eine eindeutige Blockungsbezeichnung und wählen Sie das **zu planende Halbjahr**.
 4. Legen Sie die Schülergruppe fest, für die die Blockung erzeugt wird, und kontrollieren Sie die Prüfungsordnung.
@@ -28,4 +28,4 @@ Die **Fachwahlmatrix** unter **Wahlen** hilft einzuschätzen, welche Kurse paral
 
 Speichern Sie nach dem Import und nach wesentlichen Änderungen. Verwenden Sie für Varianten unterschiedliche Dateinamen, damit sich frühere Blockungsstände wieder öffnen lassen. Ein Fachwahlimport ist noch keine fertige Blockung: Nach Änderungen müssen gegebenenfalls noch nicht verteilte Schülerinnen und Schüler zugeordnet werden.
 
-Quelle: [Handbuch SchILD–LuPO–Kurs42, 22. Auflage, Mai 2022](https://www.svws.nrw.de/system/files/media/document/file/handbuch-schild-lupo-kurs42-22.auflage.pdf), Kapitel 5, Seiten 42–74.
+Quelle: [Handbuch SchILD-NRW 2–LuPO–Kurs42, 22. Auflage, Mai 2022](https://www.svws.nrw.de/system/files/media/document/file/handbuch-schild-lupo-kurs42-22.auflage.pdf), Kapitel 5, Seiten 42–74.

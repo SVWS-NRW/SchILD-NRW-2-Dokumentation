@@ -14,7 +14,7 @@ Zur ausführlichen Anleitung: [Link](/schild2/import-export-statistik/statistik-
 
 Die Statistik besteht im Kern aus drei Teilen:
 
-1.  Einlesen der Vorgabedaten und der Daten aus Ihrem Schulverwaltungsprogramm (zum Beispiel SchILD NRW) in ASDPC32.
+1.  Einlesen der Vorgabedaten und der Daten aus Ihrem Schulverwaltungsprogramm (zum Beispiel SchILD-NRW 2) in ASDPC32.
 2.  Durchführen der Haupterhebung durch
     1.  Bearbeiten der
     2.  diversen **Belege**,
@@ -45,8 +45,5 @@ Sollte es Probleme geben, nutzen Sie die bestehenden [Supportangebote](/schild2/
 :::info
 Zur ausführlichen Anleitung: [Link](/schild2/import-export-statistik/statistik-mit-asdpc "Statistik mit ASDPC").
 :::
-
-
----
 
 Quelle: [Statistik mit ASDPC Übersicht – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC+%C3%9Cbersicht&oldid=5350)

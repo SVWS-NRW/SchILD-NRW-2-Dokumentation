@@ -37,6 +37,4 @@ liefert (z.B.) 'Sonntag, 26. Mai 1996'
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [WaehleDatumStr – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=WaehleDatumStr&oldid=131)

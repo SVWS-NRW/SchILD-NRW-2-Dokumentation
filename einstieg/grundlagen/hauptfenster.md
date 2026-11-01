@@ -8,33 +8,30 @@ title: "Hauptfenster"
 
 ## Hauptfenster
 
-Nach dem Start von Schild-NRW sehen Sie den Hauptbildschirm mit einigen Elementen, die die Daten hinter den Schülern zeigen. Dieser Artikel soll Ihnen eine Übersicht über die wesentlichen Elemente des Hauptfensters und deren Funktion geben.
+Nach dem Start von SchILD-NRW 2 sehen Sie den Hauptbildschirm mit einigen Elementen, die die Daten hinter den Schülern zeigen. Dieser Artikel soll Ihnen eine Übersicht über die wesentlichen Elemente des Hauptfensters und deren Funktion geben.
 
 ![Hauptfenster Schema](/bilder/einstieg/grundlagen/hauptfenster-schema.png)
 
-Hier können Sie die verschiedenen Bereiche des Hauptfensters erkennen. Hinter der Menüleiste verbergen sich sämtliche Funktionen von Schild-NRW. Diese Menüpunkte werden im [Das Programm im Überblick](/einstieg/grundlagen/schild-nrw-index) ausführlich beschrieben.
+Hier können Sie die verschiedenen Bereiche des Hauptfensters erkennen. Hinter der Menüleiste verbergen sich sämtliche Funktionen von SchILD-NRW 2. Diese Menüpunkte werden im [Das Programm im Überblick](/einstieg/grundlagen/schild-nrw-index) ausführlich beschrieben.
 
-Über die [Symbolleiste](/einstieg/grundlagen/iconleiste) erreichen Sie einige, häufig gebrauchte Menüpunkte direkt. Wenn man mit der Maus über die Icons fährt, erscheint ein kleiner Hilfetext zum jeweiligen Icon. Am linken Rand befindet sich die "Leuchtdiode", die in Schild-NRW eine besondere Funktion übernimmt. Die Leuchtdiode ist nach dem Start von Schild-NRW grün. Dies zeigt an, dass alle aktiven Schüler im Zugriff ([Schülerliste und Auswahl](/einstieg/grundlagen/container)) sind. Wenn der Benutzer einen Filter auf eine Klasse, einen Jahrgang oder Ähnliches setzt, dann verändert sich die Leuchtdiode und wird gelb. Sollte der Benutzer einen weiteren Filter setzen, z.B über [Menü Auswahl](/schild2/auswahl/auswahl) und [Filter I](/schild2/auswahl/filter-i), so wird die Diode rot. Sie zeigt also an, wenn nicht die aktive Schülergruppe im Zugriff ist. Durch einen Mausklick auf die Leuchtdiode können Sie immer zu "grün" zurückkehren. Dies ist somit ein schneller Weg, alle Filter zu lösen!
+Über die [Symbolleiste](/einstieg/grundlagen/iconleiste) erreichen Sie einige, häufig gebrauchte Menüpunkte direkt. Wenn man mit der Maus über die Icons fährt, erscheint ein kleiner Hilfetext zum jeweiligen Icon. Am linken Rand befindet sich die "Leuchtdiode", die in SchILD-NRW 2 eine besondere Funktion übernimmt. Die Leuchtdiode ist nach dem Start von SchILD-NRW 2 grün. Dies zeigt an, dass alle aktiven Schüler im Zugriff ([Schülerliste und Auswahl](/einstieg/grundlagen/container)) sind. Wenn der Benutzer einen Filter auf eine Klasse, einen Jahrgang oder Ähnliches setzt, dann verändert sich die Leuchtdiode und wird gelb. Sollte der Benutzer einen weiteren Filter setzen, z.B über [Menü Auswahl](/schild2/auswahl/auswahl) und [Filter I](/schild2/auswahl/filter-i), so wird die Diode rot. Sie zeigt also an, wenn nicht die aktive Schülergruppe im Zugriff ist. Durch einen Mausklick auf die Leuchtdiode können Sie immer zu "grün" zurückkehren. Dies ist somit ein schneller Weg, alle Filter zu lösen!
 
 <a id="Karteikasten"></a>
+<a id="karteikasten"></a>
 
-## Karteikasten
+## Statusfilter
 
-![Karteikaesten_01](/bilder/einstieg/grundlagen/karteikaesten-01.jpg)
-
-Darunter in der linken oberen Ecke befindet sich der [Karteikästen und Schülerstatus](/einstieg/grundlagen/karteikasten). Hier können Sie Schüler über den jeweiligen Status filtern. Durch das Setzen des Hakens kann der jeweilige Karteikasten angewählt werden. Da man auch mehrere Kästen gleichzeitig auswählen kann, muss nach der Wahl das rote Häkchen zur Bestätigung betätigt werden. Wenn Sie mehrere Haken gesetzt haben, werden die Schüler der verschiedenen Statusarten zusammen im [Schülerliste und Auswahl](/einstieg/grundlagen/container) dargestellt.
-
-Eine genauere Beschreibung der Statusarten erhalten Sie im Artikel:[Karteikästen und Schülerstatus](/einstieg/grundlagen/karteikasten)
+Im Bereich **Aktuelle Schülerauswahl** legen Sie mit dem [Statusfilter](/einstieg/grundlagen/karteikasten) fest, welche Schülerstatus angezeigt werden. Mehrere Häkchen sind möglich. Bestätigen Sie die Auswahl, falls die Schaltfläche zur Übernahme angezeigt wird. Der Filter verändert nur die Schülerliste; den gespeicherten Status einer Person ändern Sie unter **Individualdaten I**.
 
 <a id="Schnellfilter"></a>
 
 ## Schnellfilter
 
-![Schnellfilter_01](/bilder/einstieg/grundlagen/schnellfilter-01.jpg)
+![Aktuelle Schülerauswahl eines Berufskollegs mit allen Status- und Schnellfiltern.](/bilder/einstieg/grundlagen/aktuelle-schuelerauswahl-berufskolleg.png)
 
-Rechts neben dem [Karteikästen und Schülerstatus](/einstieg/grundlagen/karteikasten) befinden sich die **Schnellfilter**.
+Klassen-, Jahrgangs-, Kurs- und Abteilungsfilter grenzen die Schülerliste weiter ein. Je nach Schulform werden zusätzlich ein Schulgliederungsfilter und ein Fachklassenfilter eingeblendet. Die Abbildung zeigt diese Auswahl an einem Berufskolleg.
 
-Die Anzahl der Schnellfilter variiert je nach eingestellter Schulform. Ihre Aufgabe ist es, dem Benutzer bei der alltäglichen Arbeit mit Schild-NRW einen möglichst schnellen Zugriff auf einzelne Klassen, Jahrgänge oder Kurse zu verschaffen. Da die Schnellfilter auch kombiniert werden können, muss zur Bestätigung des Filters das rote Häkchen angeklickt werden. Beispiel: Wenn man einen Jahrgang ausgewählt hat, stehen im Filter Kurse auch nur die Kurse des Jahrgangs zur Verfügung. Wie an mehreren Stellen in Schild-NRW werden jahrgangsübergreifende Kurse gezeigt, wenn man bei der Auswahl die STRG-Taste gedrückt hält.
+Die Filter hängen voneinander ab. Nach der Auswahl eines Jahrgangs stehen beispielsweise nur dazu passende Kurse zur Verfügung. Die gemeinsame Bedienung und die Einbeziehung jahrgangsübergreifender Kurse erklärt [Status- und Schnellfilter](/schild2/auswahl/schnellfilter).
 
 <a id="Container"></a>
 
@@ -44,19 +41,17 @@ Die Anzahl der Schnellfilter variiert je nach eingestellter Schulform. Ihre Aufg
 
 ![Container_02](/bilder/einstieg/grundlagen/container-02.jpg)
 
-Ein wesentliches Bedienelement von Schild-NRW ist der [Schülerliste und Auswahl](/einstieg/grundlagen/container), der sich unter den o.g. Bereichen befindet. Hier wird die aktuell ausgewählte Schülergruppe gezeigt. Durch Anklicken eines einzelnen Datensatzes werden die zugehörigen Daten auf den Karteireitern gezeigt.
+Ein wesentliches Bedienelement von SchILD-NRW 2 ist der [Schülerliste und Auswahl](/einstieg/grundlagen/container), der sich unter den o.g. Bereichen befindet. Hier wird die aktuell ausgewählte Schülergruppe gezeigt. Durch Anklicken eines einzelnen Datensatzes werden die zugehörigen Daten auf den Karteireitern gezeigt.
 
 Die Anzahl der zur Zeit gefilterten Datensätze wird unten links in der Ecke angezeigt.
 
-Ziel des Containers ist es nicht nur, schnellen Zugriff auf einzelne Schülerdatensätze zu gewährleisten, sondern auch einen gemeinsamen Zugriff auf alle im Container befindlichen Datensätze zu ermöglichen. Dabei ist es die Philosophie von Schild-NRW, dass man alle Gruppenprozesse oder Druckaufträge auf die im Container gefilterten Daten ablaufen lassen kann. (Bestimmte Formulare sind so programmiert, dass sie die Filterung im Container umgehen, dies ist jedoch die Ausnahme.)
+Ziel des Containers ist es nicht nur, schnellen Zugriff auf einzelne Schülerdatensätze zu gewährleisten, sondern auch einen gemeinsamen Zugriff auf alle im Container befindlichen Datensätze zu ermöglichen. Dabei ist es die Philosophie von SchILD-NRW 2, dass man alle Gruppenprozesse oder Druckaufträge auf die im Container gefilterten Daten ablaufen lassen kann. (Bestimmte Formulare sind so programmiert, dass sie die Filterung im Container umgehen, dies ist jedoch die Ausnahme.)
 
 ![Container_02a](/bilder/einstieg/grundlagen/container-02a.jpg)
 
 Oberhalb des Containers befindet sich ein Eingabefeld zur Suche von einzelnen Namen. Beim Klicken auf die Pfeilspitze nach oben oder unten, wird die Suche innerhalb des Containers ausgeführt.
 
 Welche Möglichkeiten der Bedienung sich in diesem Objekt ergeben, gibt es in einem eigenen Artikel:**[Schülerliste und Auswahl](/einstieg/grundlagen/container)**
-
-------------------------------------------------------------------------
 
 <a id="Karteireiter"></a>
 
@@ -91,10 +86,6 @@ Im Folgenden werden die einzelnen Karteireiter aufgelistet und in ihren Artikeln
 
 Am unteren Fensterrand zeigt die Statuszeile die Position des ausgewählten Datensatzes, die Sortierung der Schülerliste und die aktive Filterbedingung.
 
-------------------------------------------------------------------------
-
 Springe zu [Das Programm im Überblick](/einstieg/grundlagen/schild-nrw-index)
-
----
 
 Quelle: [Hauptfenster – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Hauptfenster&oldid=4287)

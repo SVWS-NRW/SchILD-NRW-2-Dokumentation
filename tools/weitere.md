@@ -1,6 +1,6 @@
 # Weitere Zusatzprogramme
 
-Diese Programme ergänzen SchILD2 bei Kursplanung, Kommunikation und Dateneingabe.
+Diese Programme ergänzen SchILD-NRW 2 bei Kursplanung, Kommunikation und Dateneingabe.
 
 ## Themen
 

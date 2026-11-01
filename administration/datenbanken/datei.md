@@ -34,8 +34,4 @@ Schließen
 
 Beendet das Programm.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Datei – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datei&oldid=1539)

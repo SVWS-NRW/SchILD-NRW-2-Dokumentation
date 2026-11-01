@@ -4,7 +4,7 @@ title: "ENM-Notenmanager: Ersteinrichtung und Anzeige"
 
 # Ersteinrichtung und Anzeige
 
-Der ENM-Notenmanager erweitert die externe Noteneingabe um Teilleistungen, Fördermaßnahmen und weitere Leistungsdaten. Er öffnet die von der SchILD-Administration ausgegebenen Dateien mit der Endung `.enm` beziehungsweise `.enz`.
+Der ENM-Notenmanager erweitert die externe Noteneingabe um Teilleistungen, Fördermaßnahmen und weitere Leistungsdaten. Er öffnet die von der SchILD-NRW 2-Administration ausgegebenen Dateien mit der Endung `.enm` beziehungsweise `.enz`.
 
 ## Programm und Notendatei öffnen
 
@@ -22,7 +22,7 @@ Beim ersten Start prüft das Programm die benötigten Dateien. Mit der ausführb
 - **Letzte Notendatei öffnen** öffnet beim nächsten Programmstart die zuletzt benutzte Datei.
 - Mit **Enter-Taste = Tab-Taste** kann auch die Eingabetaste zum nächsten Eingabefeld führen.
 
-Die Sichtbarkeit einzelner Teilleistungsspalten steuern Sie außerdem über **Zusätze → Spalten wählen**. Es werden nur die Daten bearbeitet, die die Schule in der Notendatei bereitgestellt hat; zusätzliche Spalten ersetzen nicht die fachliche Vorbereitung in SchILD.
+Die Sichtbarkeit einzelner Teilleistungsspalten steuern Sie außerdem über **Zusätze → Spalten wählen**. Es werden nur die Daten bearbeitet, die die Schule in der Notendatei bereitgestellt hat; zusätzliche Spalten ersetzen nicht die fachliche Vorbereitung in SchILD-NRW 2.
 
 Weiter: [Fachnoten und Teilleistungen eingeben](/tools/enm-notenmanager/leistungsdaten).
 

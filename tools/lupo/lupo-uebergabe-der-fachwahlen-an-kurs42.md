@@ -6,7 +6,7 @@ title: "Fachwahlen an Kurs42 übergeben"
 
 # Fachwahlen an Kurs42 übergeben
 
-Die getätigten Fachwahlen können über zwei Wege von LuPO nach Kurs42 übergeben werden. 1. Über das Schnittstellenformat: In LuPO „*Export \> Export der Fachwahlen im Schnittstellenformat SchILD-NRW \>* “ in eine Dat-Datei schreiben, welche von Kurs42 eingelesen werden kann. 2. Über den Direkt-Import: In Kurs42 "*Im/Export \> LuPO-Direkt-Im/Export \> Fachwahlen aus LuPO importieren \> LuPO-Datei auswählen*".
+Die getätigten Fachwahlen können über zwei Wege von LuPO nach Kurs42 übergeben werden. 1. Über das Schnittstellenformat: In LuPO „*Export \> Export der Fachwahlen im Schnittstellenformat SchILD-NRW 2 \>* “ in eine Dat-Datei schreiben, welche von Kurs42 eingelesen werden kann. 2. Über den Direkt-Import: In Kurs42 "*Im/Export \> LuPO-Direkt-Im/Export \> Fachwahlen aus LuPO importieren \> LuPO-Datei auswählen*".
 
 Da Kurs42 nur die Daten eines Halbjahres verwaltet, müssen Sie im Dialog den zu exportierenden Abschnitt und das passende Schuljahr und Halbjahr wählen.
 
@@ -18,7 +18,7 @@ Optional können Sie das Auswahlfeld deaktivieren, wenn auch Fachwahlen von Sch�
 
 Legen Sie hierzu in Kurs42 zunächst eine neue Blockungsdatei der zukünftigen Oberstufenschülerinnen und -schüler an. Bevor die zuvor aus Lupo exportierten Daten in Kurs42 importiert werden können, müssen in Kurs42 im Menü „Bearbeiten \> Fächer laden“ die (zuvor einmal) erzeugten Fächer in Kurs42 angepasst werden.
 
-Wählen Sie in Kurs42 anschließend den Menüpunkt „Im/Export SchILD-NRW Schnittstelle \> Import“ und markieren dort das Auswahlfeld „Schülerdaten“. Die Fachwahlen der Schülerinnen und Schüler werden nun an das Programm übergeben und können im Folgenden geblockt werden.
+Wählen Sie in Kurs42 anschließend den Menüpunkt „Im/Export SchILD-NRW 2 Schnittstelle \> Import“ und markieren dort das Auswahlfeld „Schülerdaten“. Die Fachwahlen der Schülerinnen und Schüler werden nun an das Programm übergeben und können im Folgenden geblockt werden.
 
 Achten Sie darauf, dass auch Kurswahlen von Konfliktfächern übergeben werden, solange die Konflikte durch Umwahlen noch nicht beseitigt wurden. Konfliktfächer werden bei der Blockung nicht berücksichtigt, sofern Sie für dieses Fach keinen Kurs einrichten.
 
@@ -40,7 +40,7 @@ Leichter ist es, die Umwahlen über den Direkt-Import in Kurs42 zu importieren. 
 
 ### Umwahlen in Kurs42
 
-Eine Fachumwahl in Kurs42 verdeutlicht sofort die Zwänge in der bestehenden Blockung, stellt jedoch die Laufbahn der Schülerinnen und Schüler nicht prognostisch dar. Führen Sie bei diesem Vorgehen die Umwahlen in Kurs42 durch und exportieren Sie die Fachwahlen aller Schülerinnen und Schüler über den Menüpunkt „Im/Export \> SchILD-NRW-Schnittstelle \> Export“ und markieren im folgenden Dialog das Kontrollkästchen „Leistungsdaten (für SchILD-NRW oder LuPO)“. Die erzeugte Datei können Sie in LuPO über den Menüpunkt „Import \> Einzeldateien Importieren \> Schülerdaten“ importieren. LuPO gleicht die empfangenen Daten mit den vorhandenen ab und nimmt bei den Schülerinnen und Schülern die entsprechenden Änderungen vor. Hierbei werden lediglich die Wahlen des importierten Halbjahres verändert. Die bestehenden Prognosedaten bleiben bestehen. Auch die Abwahl eines Faches erkennt LuPO und löscht die Wahl, sofern Sie dem zustimmen. Anschließend sollten Sie die Laufbahnen der betreffenden Schülerinnen und Schüler erneut hochschreiben und überprüfen. Drucken Sie die geprüfte Laufbahn aus, um sich die Änderung von der Schülerin, dem Schüler oder deren Erziehungsberechtigten unterschreiben zu lassen. Denken Sie jedoch daran, dass Sie die Umwahl bereits ohne Unterschrift durchgeführt haben.
+Eine Fachumwahl in Kurs42 verdeutlicht sofort die Zwänge in der bestehenden Blockung, stellt jedoch die Laufbahn der Schülerinnen und Schüler nicht prognostisch dar. Führen Sie bei diesem Vorgehen die Umwahlen in Kurs42 durch und exportieren Sie die Fachwahlen aller Schülerinnen und Schüler über den Menüpunkt „Im/Export \> SchILD-NRW 2-Schnittstelle \> Export“ und markieren im folgenden Dialog das Kontrollkästchen „Leistungsdaten (für SchILD-NRW 2 oder LuPO)“. Die erzeugte Datei können Sie in LuPO über den Menüpunkt „Import \> Einzeldateien Importieren \> Schülerdaten“ importieren. LuPO gleicht die empfangenen Daten mit den vorhandenen ab und nimmt bei den Schülerinnen und Schülern die entsprechenden Änderungen vor. Hierbei werden lediglich die Wahlen des importierten Halbjahres verändert. Die bestehenden Prognosedaten bleiben bestehen. Auch die Abwahl eines Faches erkennt LuPO und löscht die Wahl, sofern Sie dem zustimmen. Anschließend sollten Sie die Laufbahnen der betreffenden Schülerinnen und Schüler erneut hochschreiben und überprüfen. Drucken Sie die geprüfte Laufbahn aus, um sich die Änderung von der Schülerin, dem Schüler oder deren Erziehungsberechtigten unterschreiben zu lassen. Denken Sie jedoch daran, dass Sie die Umwahl bereits ohne Unterschrift durchgeführt haben.
 
 <a id="Umwahlen_in_LuPO_und_Kurs42"></a>
 
@@ -53,7 +53,5 @@ Es ist empfehlenswert, bei Fächerumwahlen LuPO und Kurs42 gleichzeitig zu öffn
 [zurück zum Artikel Lupo:Auswertung der Fachwahlen](/tools/lupo/lupo-auswertung-der-fachwahlen)
 
 [weiter zum Artikel Lupo:Weitere Laufbahnprüfungen](/tools/lupo/lupo-weitere-laufbahnpruefungen)
-
----
 
 Quelle: [Lupo:Übergabe der Fachwahlen an Kurs42 – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo%3A%C3%9Cbergabe+der+Fachwahlen+an+Kurs42&oldid=5554)

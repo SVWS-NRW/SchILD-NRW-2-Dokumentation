@@ -4,6 +4,8 @@ title: "Sprachnachweise und Zusatzdaten fürs Abitur erfassen"
 
 <a id="zusatzdaten-latinum-eingeben"></a>
 
+<a id="zusatzdaten-latimun-eingeben"></a>
+
 # Sprachnachweise und Zusatzdaten fürs Abitur erfassen
 
 Dieser Gruppenprozess bietet die Möglichkeit, für das Abitur relevante Zusatzdaten wie Latinum, Graecum, Hebraicum und Fehlstunden für alle Abiturienten in einem Rutsch einzugeben.
@@ -14,8 +16,6 @@ Die eingegebenen Informationen zu den Sprachen können Sie unter dem Karteireite
 
 ![GP-Zusatzdaten](/bilder/zeugnisse/sekundarstufen/gp-zusatzdaten.jpg)
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Zusatzdaten (Latinum...) eingeben – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zusatzdaten+%28Latinum...%29+eingeben&oldid=3634)
+
+Weitere ursprüngliche Beschreibung: [Zusatzdaten (Latimun...) eingeben – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zusatzdaten+%28Latimun...%29+eingeben&oldid=2900)

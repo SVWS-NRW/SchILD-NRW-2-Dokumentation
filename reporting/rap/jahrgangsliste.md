@@ -42,6 +42,4 @@ Procedure ReportBeforePrint;
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [JahrgangsListe – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=JahrgangsListe&oldid=59)

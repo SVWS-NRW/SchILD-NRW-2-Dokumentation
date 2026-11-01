@@ -35,6 +35,4 @@ If FileExists('C:\Schild-NRW\Schild-Reports\Zeugnisse\Zeugnis_11.rtm') then...;
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [FileExists – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FileExists&oldid=41)

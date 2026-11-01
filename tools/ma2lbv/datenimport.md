@@ -4,7 +4,7 @@ title: "MA2LBV / MA2: Abrechnungsdaten importieren"
 
 # Abrechnungsdaten importieren
 
-MA2 unterstützt den Import aus SchILD sowie zwei CSV-Schnittstellen für externe Abrechnungsdaten. Wählen Sie das Format passend zur erzeugenden Anwendung; die beiden Schnittstellen dürfen nicht durch beliebiges Umstellen von Spalten vermischt werden.
+MA2 unterstützt den Import aus SchILD-NRW 2 sowie zwei CSV-Schnittstellen für externe Abrechnungsdaten. Wählen Sie das Format passend zur erzeugenden Anwendung; die beiden Schnittstellen dürfen nicht durch beliebiges Umstellen von Spalten vermischt werden.
 
 ## CSV-Datei vorbereiten
 
@@ -22,6 +22,6 @@ Das erste beschriebene Format enthält Lehrkraft-Stammdaten und Angaben für gen
 4. Kontrollieren Sie Lehrkräfte, Zeitraum, Stunden und Merkmale in der angezeigten Übersicht.
 5. Verwenden Sie beim **LBV-Export** zunächst die Möglichkeit zur Prüfung, bevor Sie die endgültigen Mitteilungen erzeugen.
 
-Wenn keine passende Abrechnungsdatei vorliegt, können Sie stattdessen die Lehrkraftdaten aus SchILD importieren und die Mehrarbeitsstunden im Programm ergänzen. Der dafür verwendete SchILD-Benutzer benötigt Leserechte auf die Lehrkraftdaten.
+Wenn keine passende Abrechnungsdatei vorliegt, können Sie stattdessen die Lehrkraftdaten aus SchILD-NRW 2 importieren und die Mehrarbeitsstunden im Programm ergänzen. Der dafür verwendete SchILD-NRW 2-Benutzer benötigt Leserechte auf die Lehrkraftdaten.
 
 Quelle: [Bedienungsanleitung MA2, Druckstand 18.03.2024](https://www.svws.nrw.de/system/files/media/document/file/ma2lbv_anleitung.pdf), Kapitel 4, 5.3 und 6.1, Seiten 12–17 und 23–31.

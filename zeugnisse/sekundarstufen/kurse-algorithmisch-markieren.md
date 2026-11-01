@@ -14,8 +14,4 @@ Sollte es nötig sein, an dieser Stelle den Algorithmus zu übersteuern, so kön
 
 Für einen einzelnen Schüler kann der Prozess auch unter dem Karteireiter "Abitur" durch Klicken auf die Schaltfläche "Kurse algorithmisch markieren" initialisiert werden.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Kurse algorithmisch markieren – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurse+algorithmisch+markieren&oldid=2028)

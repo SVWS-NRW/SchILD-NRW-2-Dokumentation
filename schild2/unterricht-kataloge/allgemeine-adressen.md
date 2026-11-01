@@ -20,6 +20,4 @@ Die Registerkarte enthält die Karteireiter Übersicht und Details (siehe rechts
 - Auf der Registerkarte Details werden über die Schaltfläche Schüler zeigen nur die entsprechenden Schüler mit dem Status Aktiv angezeigt.
 - Eintragungen im Feld Branche erlauben eine gezielte Filterung in umfangreichen Adresskatalogen. Bewährt hat sich hier eine kommaseparierte Liste der Klassenbezeichner. ![Branche](/bilder/schild2/unterricht-kataloge/branche.jpg)
 
----
-
 Quelle: [Allgemeine Adressen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Allgemeine+Adressen&oldid=547)

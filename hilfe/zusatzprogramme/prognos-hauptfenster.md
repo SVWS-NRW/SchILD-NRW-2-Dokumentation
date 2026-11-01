@@ -17,7 +17,7 @@ Nach dem Programmstart wird als erstes der Analysemodus ausgewählt. Dabei stehe
 ![PM2_Auswahl_01](/bilder/tools/pm2/pm2-auswahl-01.png)
 
 1.  [Analyse eines einzelnen Notenbildes](/hilfe/zusatzprogramme/prognos-analyseverfahren-einzelfall)
-2.  [Leistungsdaten einer SCHILD-Klasse einlesen](/hilfe/zusatzprogramme/prognos-analyseverfahren-klasse)
+2.  [Leistungsdaten einer SchILD-NRW 2-Klasse einlesen](/hilfe/zusatzprogramme/prognos-analyseverfahren-klasse)
 3.  [Leistungsdaten einer PM2-Notendatei einlesen](/hilfe/zusatzprogramme/prognos-analyseverfahren-datei)
 
 Wird die Option "Abbrechen" gewählt, so kann in dem Programm weiter gearbeitet werden. Eine Weiterarbeit kann dann aber wiederum nur durch eine Auswahl der o.g. Punkte, dann aber im Menüband des Programms, erfolgen.
@@ -31,7 +31,7 @@ Im Menüband finden sich folgende Einträge:
 
 - Datei
 - Prognose
-- SchILD
+- SchILD-NRW 2
 - Zusätze
 - Hilfe
 
@@ -90,7 +90,7 @@ Hierüber können die schon beim Programmstart angezeigten Möglichkeiten der An
 
 ![PM2_Lernabschnitt](/bilder/tools/pm2/pm2-lernabschnitt.png)
 
-Dieser Bereich wird eingeblendet, wenn als Analyseverfahren "Klasse" ausgewählt worden ist. Es besteht die Möglichkeit, das Schuljahr und den Lernabschnitt zu ändern. Nach einer Änderung hier werden die Daten unmittelbar eingelesen. Mittels "Einlesen" können die ausgewählten Daten aus der verknüpften SchILD-Datenbank erneut eingelesen (ermöglicht paralleles Arbeiten zwischen SchILD und Prognos. Denkbar zum Beispiel wenn LB-Noten für die HA10-Berechnung nachgetragen werden sollen, und Prognos diese direkt wieder einlesen kann für eine erneute Berechnung).
+Dieser Bereich wird eingeblendet, wenn als Analyseverfahren "Klasse" ausgewählt worden ist. Es besteht die Möglichkeit, das Schuljahr und den Lernabschnitt zu ändern. Nach einer Änderung hier werden die Daten unmittelbar eingelesen. Mittels "Einlesen" können die ausgewählten Daten aus der verknüpften SchILD-NRW 2-Datenbank erneut eingelesen (ermöglicht paralleles Arbeiten zwischen SchILD-NRW 2 und Prognos. Denkbar zum Beispiel wenn LB-Noten für die HA10-Berechnung nachgetragen werden sollen, und Prognos diese direkt wieder einlesen kann für eine erneute Berechnung).
 
 <a id="Optionen"></a>
 
@@ -124,7 +124,7 @@ Dieser Bereich wird eingeblendet, wenn als Analyseverfahren "Klasse" ausgewählt
 
 - Speichern
 
-\- Mittels Speichern werden die eingetragenen Abschlüsse in der SchILD-Datenbank gespeichert. Dies ist nur im aktuellen Abschnitt der Datenbank möglich!
+\- Mittels Speichern werden die eingetragenen Abschlüsse in der SchILD-NRW 2-Datenbank gespeichert. Dies ist nur im aktuellen Abschnitt der Datenbank möglich!
 
 <a id="Anzeige"></a>
 
@@ -160,15 +160,19 @@ Diese Auswahlmöglichkeiten verändern das Fenster beziehungsweise öffnen ein w
 
 <a id="SchILD"></a>
 
-### SchILD
+<a id="schild"></a>
+
+### SchILD-NRW 2
 
 Bild
 
 <a id="SchILD-Zugriff"></a>
 
-#### SchILD-Zugriff
+<a id="schild-zugriff"></a>
 
-Beim Klick auf "SchILD-Zugriff" erscheint das aus dem Menüpunkt [Programmstart](/hilfe/zusatzprogramme/prognos-programmstart) bekannte Fenster.
+#### SchILD-NRW 2-Zugriff
+
+Beim Klick auf "SchILD-NRW 2-Zugriff" erscheint das aus dem Menüpunkt [Programmstart](/hilfe/zusatzprogramme/prognos-programmstart) bekannte Fenster.
 
 <a id="Benutzer_anmelden"></a>
 
@@ -203,7 +207,7 @@ Bei den allgemeinen Einstellungen sind einige voreingestellt:
 
 - Versetzungstabelle
 
-\- Beim Schuljahreswechsel wird die Versetzungstabelle in SchILD berücksichtigt.
+\- Beim Schuljahreswechsel wird die Versetzungstabelle in SchILD-NRW 2 berücksichtigt.
 
 - Nachprüfungen automatisch
 
@@ -244,7 +248,5 @@ Als Standard ist die Reihenfolge HA bis MSAQ eingestellt, diese Reihenfolge kann
 <a id="Bedienungsanleitung"></a>
 
 ##### Bedienungsanleitung
-
----
 
 Quelle: [Prognos:Hauptfenster – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Prognos%3AHauptfenster&oldid=5111)

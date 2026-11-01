@@ -1,6 +1,6 @@
 # KPlan
 
-Mit KPlan planen Sie Kurse und Lerngruppen auf Grundlage einer SchILD-Datenbank oder einer Kopie davon. Die verlinkte Anleitung erläutert die Arbeit mit dem Zusatzprogramm.
+Mit KPlan planen Sie Kurse und Lerngruppen auf Grundlage einer SchILD-NRW 2-Datenbank oder einer Kopie davon. Die verlinkte Anleitung erläutert die Arbeit mit dem Zusatzprogramm.
 
 ## Themen
 

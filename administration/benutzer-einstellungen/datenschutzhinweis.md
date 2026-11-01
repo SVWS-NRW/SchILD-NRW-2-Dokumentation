@@ -18,11 +18,8 @@ Einen Link zur VO-DV-II auf der Seite des Schulministeriums:
 
 Die Datenschutzbeauftragen der Schulen (das können auch kommunal bestellte Personen sein) sind in der Regel mit der Erstellung eines Verfahrensverzeichnisses für die verwendete Software beauftragt.
 
-Ein Musterverfahrensverzeichnis für Schild-NRW stellen wir hier zur Verfügung:
+Ein Musterverfahrensverzeichnis für SchILD-NRW 2 stellen wir hier zur Verfügung:
 
 [Downloadlink Verfahrensverzeichnis](/dateien/wiki/verfahrensverzeichnis-34512fbd.pdf)
-
-
----
 
 Quelle: [Datenschutzhinweis – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datenschutzhinweis&oldid=4136)

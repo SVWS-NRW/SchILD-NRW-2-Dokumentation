@@ -14,8 +14,4 @@ Es erfolgt die Eingabe des Pfades für die UVD.TXT.
 
 Eine Aktivierung der Option In Sekundarstufe II Kurse anlegen ist nicht sinnvoll, da hier durch den Import aus den Programmen LuPO beziehungsweise Kurs42 die Kurse übernommen werden.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [UVD-Datei importieren – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=UVD-Datei+importieren&oldid=1151)

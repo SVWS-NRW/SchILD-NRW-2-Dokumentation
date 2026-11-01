@@ -84,6 +84,4 @@ Telefonisch ist die Ombudsstelle für barrierefreie Informationstechnik NRW unte
 
 Weitere Informationen zur Ombudsstelle für barrierefreie Informationstechnik NRW finden Sie hier: [www.mags.nrw/ombudsstelle-barrierefreie-informationstechnik](https://www.mags.nrw/ombudsstelle-barrierefreie-informationstechnik)
 
----
-
 Quelle: [Erklärung zur Barrierefreiheit – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Erkl%C3%A4rung+zur+Barrierefreiheit&oldid=5930)

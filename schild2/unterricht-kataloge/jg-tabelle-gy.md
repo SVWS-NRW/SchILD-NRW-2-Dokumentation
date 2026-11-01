@@ -14,8 +14,4 @@ Typische Jahrgangstabelle für ein Gymnasium mit Halbjahresbetrieb. Der Jahrgang
 
 An den Restabschnitten der Sekundarstufe I sehen Sie, dass der Jahrgang 10 momentan noch weggefallen ist.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [JG-Tabelle-GY – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=JG-Tabelle-GY&oldid=4703)

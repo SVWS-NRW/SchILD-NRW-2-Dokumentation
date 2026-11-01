@@ -14,8 +14,4 @@ Dazu stellt man im oberen Bereich des sich öffnenden Fensters ein, aus welchem 
 
 Im Falle einer Kontrolle, ob gegebenenfalls schon Einträge im neuen (aktiven) Abschnitt vorhanden sind, müssen Sie das letzte Häkchen setzen. Der Zeitaufwand ist hierbei natürlich erhöht.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Fächer aus vorherigem Abschnitt holen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%A4cher+aus+vorherigem+Abschnitt+holen&oldid=3620)

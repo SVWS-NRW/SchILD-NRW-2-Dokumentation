@@ -20,8 +20,4 @@ Wenn Sie auf die Unter-Karteikarte **Leistungsübersicht** wechseln, bekommen Si
 
 ![Gesamtueb-Leistungsdaten](/bilder/zeugnisse/sekundarstufen/gesamtueb-leistungsdaten.png)
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Gesamtübersicht – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Gesamt%C3%BCbersicht&oldid=1941)

@@ -4,6 +4,8 @@ title: "Mündliche Prüfungen in den Abiturfächern festlegen"
 
 <a id="mundliche-prufungen-a1-a3-festlegen"></a>
 
+<a id="mdl-prufungen-a1-a3-festlegen"></a>
+
 # Mündliche Prüfungen in den Abiturfächern festlegen
 
 Dieser Gruppenprozess sollte erst durchgeführt werden, wenn die Ergebnisse in den ersten drei Abiturfächern ( mithilfe des Gruppenprozesses [Abiturprüfungsergebnisse eingeben](/zeugnisse/sekundarstufen/pruefungsergebnisse-eingeben)) eingegeben wurden.
@@ -20,8 +22,6 @@ Die festgesetzten Prüfungen können dann unter dem Karteireiter "Abitur" einges
 
 Für einen einzelnen Schüler kann der Prozess auch unter dem Karteireiter "Abitur" durch Klicken auf die Schaltfläche "Mdl. Prüfung festlegen" initialisiert werden.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Mündliche Prüfungen A1-A3 festlegen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=M%C3%BCndliche+Pr%C3%BCfungen+A1-A3+festlegen&oldid=2899)
+
+Weitere ursprüngliche Beschreibung: [Mdl. Prüfungen A1-A3 festlegen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Mdl.+Pr%C3%BCfungen+A1-A3+festlegen&oldid=3632)

@@ -9,7 +9,7 @@ PM2 unterscheidet drei Wege, Leistungsdaten für die Prognose auszuwählen. Ents
 | Verfahren | Datenbasis und Bearbeitung |
 | --- | --- |
 | **Einzelanalyse** | Ein einzelnes Notenbild wird im Prognosedialog erfasst und berechnet. |
-| **Klasse** | Die Leistungsdaten einer Klasse aus SchILD werden angezeigt. Der Lernabschnitt lässt sich auswählen; Fachnoten und E-/G-Niveaus sind in dieser Ansicht nicht direkt veränderbar. |
+| **Klasse** | Die Leistungsdaten einer Klasse aus SchILD-NRW 2 werden angezeigt. Der Lernabschnitt lässt sich auswählen; Fachnoten und E-/G-Niveaus sind in dieser Ansicht nicht direkt veränderbar. |
 | **Datei** | Eine PM2-Notendatei wird eingelesen. Über **Bearbeiten** können die angezeigten Daten im Gitter bearbeitet werden. |
 
 ## Daten auswählen und prüfen
@@ -26,7 +26,7 @@ Lesen Sie das Ergebnis zusammen mit den zugrunde gelegten Fachzuordnungen und Hi
 
 ## Speichern und ausgeben
 
-- **Strg+S** speichert die Prognosedaten bei der Analyse von SchILD- oder CSV-Leistungsdaten.
+- **Strg+S** speichert die Prognosedaten bei der Analyse von SchILD-NRW 2- oder CSV-Leistungsdaten.
 - **Strg+X** öffnet die allgemeine Ausgabe beziehungsweise den Export.
 - **Strg+P** druckt die angezeigten Daten.
 - Bei der Klassenanalyse können die Prognoseergebnisse der markierten Datensätze außerdem als Textdatei ausgegeben werden.

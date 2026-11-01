@@ -49,8 +49,6 @@ Beim Karteireiter **Ränder** können Sie die gewünschten Werte eingeben.
 
 ![Report-Neu-Raender](/bilder/reporting/erstellung/report-neu-raender.png)
 
-------------------------------------------------------------------------
-
 <a id="Erstellen_einer_einfachen_Liste_mit_dem_Berichtsassistenten"></a>
 
 ## Erstellen einer einfachen Liste mit dem Berichtsassistenten
@@ -65,7 +63,7 @@ Durch einen Doppelklick auf **Berichtsassistent** wählen Sie diesen aus. Nun k�
 
 ![Assistent-Datenfelder](/bilder/reporting/erstellung/assistent-datenfelder.png)
 
-*Hinweis: Mit dem Berichtsassistenten können Sie immer nur auf eine einzelne der zahlreichen SchILD-NRW-Datenquellen zugleich zugreifen. Für ganz einfache Listen und Formulare reicht das aber in der Regel aus.*
+*Hinweis: Mit dem Berichtsassistenten können Sie immer nur auf eine einzelne der zahlreichen SchILD-NRW 2-Datenquellen zugleich zugreifen. Für ganz einfache Listen und Formulare reicht das aber in der Regel aus.*
 
 Über die Pfeile/Doppelpfeile wählen Sie die Felder, die auf dem Formular ausgedruckt werden sollen. Felder, die Sie versehentlich ausgewählt haben, entfernen Sie mit Hilfe der Rückpfeile.
 
@@ -288,9 +286,5 @@ Für jedes Feld können Sie im Kontextmenü u.a. bestimmen, ob das Feld sichtbar
 In der vorgegebenen Version der Kreuztabelle werden die Spaltenüberschriften nur auf der ersten Seite angedruckt. Die wiederholten Überschriften auf jeder neuen Seite erhalten Sie, wenn man in der Entwurfsansicht mit der rechten Maustaste auf das Feld *CrossTab2:Schueler* klickt und dann den Menüpunkt *Layout* wählt. Hier können Sie statt *Standard* die *Wiederholende Beschriftung* auswählen.
 
 ![Kreuztabelle-Layout](/bilder/reporting/erstellung/kreuztabelle-layout.png)
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Erstellen einfacher Reports – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Erstellen+einfacher+Reports&oldid=4143)

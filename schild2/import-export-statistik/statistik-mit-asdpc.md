@@ -19,7 +19,7 @@ Das Programm ASDPC32 hat für Sie im Wesentlichen zwei Funktionen:
 1.  Die Entschlüsselung von dienstlichen Dokumenten, die über ihre Schulmail angekündigt und über gesicherten Bereich des Bildungsportals heruntergeladen werden können.
 2.  Die Erstellung der jährlichen amtlichen Schulstatistik NRW.
 
-Diese Anleitung gibt einen Überblick über ASDPC und führt Schritt für Schritt durch die Erstellung der *amtlichen Schulstatistik NRW* mit ASDPC32 unter optionaler Verwendung des Datenimports aus SchILD NRW. Dazu wird die einmalige und jährliche Vorbereitung von ASDPC erklärt, weiterhin werden Hinweise für den Ablauf und die Fehlersuche aufgeführt.
+Diese Anleitung gibt einen Überblick über ASDPC und führt Schritt für Schritt durch die Erstellung der *amtlichen Schulstatistik NRW* mit ASDPC32 unter optionaler Verwendung des Datenimports aus SchILD-NRW 2. Dazu wird die einmalige und jährliche Vorbereitung von ASDPC erklärt, weiterhin werden Hinweise für den Ablauf und die Fehlersuche aufgeführt.
 
 :::info
 Aspekte, die nicht direkt zur Statistik gehören - zum Beispiel die Ersteinrichtung von ASDPC oder Anmerkungen zum Verschlüsselungsverfahren - werden auf Unterseiten weiter ausgeführt und sind je nach Bedarf oder Interesse aufzurufen.
@@ -39,8 +39,6 @@ Die Statistik mit ASDPC wird grundlegend in folgenden Schritten durchgeführt:
 :::info
 Bei der Arbeit mit dieser umfangreichen Anleitung kann es hilfreich sein, Links im Browser in einem neuen Tab zu öffnen. Klicken Sie hierzu mit der rechten Maustaste auf einen Link und wählen Sie "In neuem Tab öffnen". Oft ist die Funktion auch durch einen Klick der mittleren Maustaste erreichbar.
 :::
-
-------------------------------------------------------------------------
 
 <a id="Supportangebote"></a>
 
@@ -146,7 +144,7 @@ Bei der Arbeit mit dieser umfangreichen Anleitung kann es hilfreich sein, Links 
 
 ## Vorbereitung der Statistik
 
-[Vorbereitung der Statistik](/schild2/import-export-statistik/statistik-mit-asdpc-vorbereitung#Vorbereitung_der_Statistik) - In diesem Kapitel finden sich vorbereitende Arbeiten, zum Beispiel zum Updaten von ASDPC, SchILD NRW, Export von Daten aus Schulverwaltungsprogrammen oder dem Besorgen der aktuellen Verfahrensanleitung, Schlüsseltabellen und Eintragungshilfen.
+[Vorbereitung der Statistik](/schild2/import-export-statistik/statistik-mit-asdpc-vorbereitung#Vorbereitung_der_Statistik) - In diesem Kapitel finden sich vorbereitende Arbeiten, zum Beispiel zum Updaten von ASDPC, SchILD-NRW 2, Export von Daten aus Schulverwaltungsprogrammen oder dem Besorgen der aktuellen Verfahrensanleitung, Schlüsseltabellen und Eintragungshilfen.
 
 <a id="Sammeln_der_notwendigen_Ressourcen_und_Updates"></a>
 
@@ -156,9 +154,11 @@ Bei der Arbeit mit dieser umfangreichen Anleitung kann es hilfreich sein, Links 
 
 <a id="Export_aus_SchILD_NRW_und_anderen_Schulverwaltungsprogrammen"></a>
 
-#### Export aus SchILD NRW und anderen Schulverwaltungsprogrammen
+<a id="export-aus-schild-nrw-und-anderen-schulverwaltungsprogrammen"></a>
 
-[Export aus SchILD NRW und anderen Schulverwaltungsprogrammen](/schild2/import-export-statistik/statistik-mit-asdpc-vorbereitung#Export_aus_SchILD_NRW_und_anderen_Schulverwaltungsprogrammen)
+#### Export aus SchILD-NRW 2 und anderen Schulverwaltungsprogrammen
+
+[Export aus SchILD-NRW 2 und anderen Schulverwaltungsprogrammen](/schild2/import-export-statistik/statistik-mit-asdpc-vorbereitung#Export_aus_SchILD_NRW_und_anderen_Schulverwaltungsprogrammen)
 
 <a id="Sammeln_der_Ressourcen"></a>
 
@@ -321,9 +321,5 @@ Achten Sie bei diesen Daten auf den Datenschutz und nutzen Sie sichere Übertrag
 ## Fehlersuche - typische Fehler aus der Praxis
 
 [Häufig in der Praxis auftauchende Fehlerquellen](/schild2/import-export-statistik/statistik-mit-asdpc-fehlersuche)
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Statistik mit ASDPC – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC&oldid=5337)

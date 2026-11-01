@@ -32,8 +32,4 @@ Bitte klicken Sie die Artikel an, um Informationen zu den dahinter liegenden Sam
 - [Zeugnisdruck und Entlassung](/zeugnisse/vorbereitung/zeugnisse-drucken-und-schueler-ausschulen)
 - [Abschnittsnoten löschen](/zeugnisse/vorbereitung/noten-des-aktuellen-abschnittes-loeschen)
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Noten, Zeugnisvorbereitung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Noten%2C+Zeugnisvorbereitung&oldid=1292)

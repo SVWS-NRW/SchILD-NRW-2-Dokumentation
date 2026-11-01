@@ -7,7 +7,7 @@ search: false
 
 # Frühere Menüübersicht
 
-Diese Seite enthält eine frühere Übersicht der Programmmenüs. Für die nach der SchILD-NRW-2-Oberfläche geordnete Hilfe verwenden Sie die aktuelle **Programmreferenz** im Kopfmenü.
+Diese Seite enthält eine frühere Übersicht der Programmmenüs. Für die nach der SchILD-NRW 2-Oberfläche geordnete Hilfe verwenden Sie die aktuelle **Programmreferenz** im Kopfmenü.
 
 <a id="Datei"></a>
 
@@ -58,7 +58,5 @@ Diese Seite enthält eine frühere Übersicht der Programmmenüs. Für die nach 
 <a id="Kataloge"></a>
 
 ## Kataloge
-
----
 
 Quelle: [Testseite – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Testseite&oldid=5588)

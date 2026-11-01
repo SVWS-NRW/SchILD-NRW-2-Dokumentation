@@ -10,13 +10,13 @@ Nach der Erstinstallation erscheint beim Programmstart zunächst ein Hinweis-fen
 
 ![S1P-001-Ersteinrichtung](/bilder/tools/s1plan/s1p-001-ersteinrichtung.jpg)
 
-Nach Klick auf „OK“ ist im Fenster mit der Zugangskontrolle der Benutzerna-men „S1PAdmin“ und das Passwort „schild“ einzugeben. Schließen Sie dieses Fenster mit Klick auf „Anmelden“. Wählen Sie danach das Schuljahr (zum Beispiel 2016, Lernabschnitt 1 für 1. Halbjahr im Schuljahr 2016/17). Im nächsten Fenster wird darauf hingewiesen, dass noch keine Verbindung zur SchILD-Datenbank hergestellt ist.
+Nach Klick auf „OK“ ist im Fenster mit der Zugangskontrolle der Benutzerna-men „S1PAdmin“ und das Passwort „SchILD-NRW 2“ einzugeben. Schließen Sie dieses Fenster mit Klick auf „Anmelden“. Wählen Sie danach das Schuljahr (zum Beispiel 2016, Lernabschnitt 1 für 1. Halbjahr im Schuljahr 2016/17). Im nächsten Fenster wird darauf hingewiesen, dass noch keine Verbindung zur SchILD-NRW 2-Datenbank hergestellt ist.
 
 Dies geschieht im nächsten Fenster
 
 ![S1P-002-Zugriffskonfiguration](/bilder/tools/s1plan/s1p-002-zugriffskonfiguration.jpg)
 
-Den Schild-Zugriff können Sie über
+Den SchILD-NRW 2-Zugriff können Sie über
 
 ![S1P-003-Schild-Zugriff](/bilder/tools/s1plan/s1p-003-schild-zugriff.jpg)
 
@@ -26,7 +26,7 @@ und Auswahl der zugehörigen Datenbank
 
 steuern.
 
-Wenn im oberen Fenster „SchILDNRW UDL-Datei(\*.UDL) gewählt wurde, kann im unteren Fenster die entsprechende UDL-Datei ausgewählt werden. Beach-ten Sie dabei, dass bei Verwendung der Schild-Standarddatenbank (schild2000n.mdb) der Zugriff über die MDB-Datei erfolgen muss, weil zur Schild-Standarddatenbank keine UDL-Datei existiert.
+Wenn im oberen Fenster „SchILD-NRW 2 UDL-Datei(\*.UDL) gewählt wurde, kann im unteren Fenster die entsprechende UDL-Datei ausgewählt werden. Beach-ten Sie dabei, dass bei Verwendung der SchILD-NRW 2-Standarddatenbank (schild2000n.mdb) der Zugriff über die MDB-Datei erfolgen muss, weil zur SchILD-NRW 2-Standarddatenbank keine UDL-Datei existiert.
 
 Über ![S1P-005-Verbindung_testen](/bilder/tools/s1plan/s1p-005-verbindung-testen.jpg) erkennt man, ob die Verbindung erfolgreich ist.
 
@@ -36,11 +36,11 @@ Es empfiehlt sich, im folgenden Fenster
 
 Direkt die Stammdaten abzugleichen. Dies wird nach kurzer Zeit vom Pro-gramm bestätigt.
 
-Verlassen Sie das SchILD-Zugriffs-Fenster durch Klick auf ![S1P-007-speichern](/bilder/tools/s1plan/s1p-007-speichern.jpg).
+Verlassen Sie das SchILD-NRW 2-Zugriffs-Fenster durch Klick auf ![S1P-007-speichern](/bilder/tools/s1plan/s1p-007-speichern.jpg).
 
 Als nächstes können ein oder mehrere Kursprofile festgelegt werden.
 
-Im folgenden Beispiel wurde ein Kursprofil für den Jahrgang 08 und den Kurs-arten AGGT, PUT, WPI und WPII ausgewählt. Die Benutzer BN1 und BN2 (siehe oberes Bild zur SchILD-Zugriffskonfiguration) dürfen dieses Profil verwenden und bearbeiten:
+Im folgenden Beispiel wurde ein Kursprofil für den Jahrgang 08 und den Kurs-arten AGGT, PUT, WPI und WPII ausgewählt. Die Benutzer BN1 und BN2 (siehe oberes Bild zur SchILD-NRW 2-Zugriffskonfiguration) dürfen dieses Profil verwenden und bearbeiten:
 
 ![S1P-008-Kursprofil festlegen](/bilder/tools/s1plan/s1p-008-kursprofil-festlegen.jpg)
 
@@ -54,10 +54,6 @@ Durch Klick auf ![S1P-009-wählen](/bilder/tools/s1plan/s1p-009-wahlen.jpg) wird
 Falls Beim Klicken auf die obere Menüleiste die ersten Zeilen in den darunter liegenden Fenstern überdeckt werden sollten, wird durch Klick auf das rechts oben stehende Symbol ![S1P-010-Aufklappsymbol](/bilder/tools/s1plan/s1p-010-aufklappsymbol.jpg) die Fensteranordnung korrekt eingestellt.
 :::
 
-------------------------------------------------------------------------
-
 [Weiter zu Einrichtung von Kursen](/hilfe/zusatzprogramme/s1plan-einrichtung-von-kursen)
-
----
 
 Quelle: [S1PLAN:Erster Programmstart – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=S1PLAN%3AErster+Programmstart&oldid=4028)

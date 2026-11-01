@@ -14,8 +14,4 @@ Die vollständige Fachhochschulreife setzt zusätzlich den berufspraktischen Tei
 
 Danach können Sie die Ergebnisse unter dem Reiter [Schulischer Teil der Fachhochschulreife](/zeugnisse/sekundarstufen/fhr) einsehen. Dort können Sie den Prüfalgorithmus für den aktuellen Schüler erneut ausführen.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Fachhochschulreife prüfen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fachhochschulreife+pr%C3%BCfen&oldid=2045)

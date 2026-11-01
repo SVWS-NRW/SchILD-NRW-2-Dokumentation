@@ -14,12 +14,8 @@ Dazu legen Sie mit dem '+'-Schalter eine neue Schülergruppe an, der man unter B
 
 **Hinweis:**
 
-Wenn das Häkchen bei 'nur für eigenen Gebrauch' gesetzt ist, kann kein anderer Schild-Nutzer diese Schülergruppe sehen beziehungsweise nutzen.
+Wenn das Häkchen bei 'nur für eigenen Gebrauch' gesetzt ist, kann kein anderer SchILD-NRW 2-Nutzer diese Schülergruppe sehen beziehungsweise nutzen.
 
 Nach dem Speichern verlässt man diesen Menüpunkt und markiert im Schüler-Container die Schülerinnen und Schüler, die dieser Gruppe zugewiesen werden sollen. Mit einem Rechtsklick wählen Sie den Eintrag 'Zu individueller Gruppe hinzufügen' und fügt die markierten Schüler der entsprechenden Schülergruppe zu. Mit dem Schalter "Schüler aus Gruppe entfernen" können Sie nach Auswahl der entsprechenden Schülergruppe und Anklicken des Schülernamens den gewünschten Schüler aus der Gruppe wieder herausnehmen.
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Individuelle Schülergruppe bearbeiten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Individuelle+Sch%C3%BClergruppe+bearbeiten&oldid=966)

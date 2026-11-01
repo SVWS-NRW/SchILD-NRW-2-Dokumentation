@@ -60,6 +60,4 @@ Wiederbeginn des Unterrichts am 10. Februar 2006 um 8:00 Uhr.
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [ZeugnisParameter – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ZeugnisParameter&oldid=136)

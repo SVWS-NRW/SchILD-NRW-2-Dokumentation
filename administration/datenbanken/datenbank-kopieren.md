@@ -4,7 +4,7 @@ title: "Datenbank kopieren"
 
 # Datenbank kopieren
 
-Wenn Sie die Schild-Datenbank kopieren möchten, können Sie wie folgt vorgehen:
+Wenn Sie die SchILD-NRW 2-Datenbank kopieren möchten, können Sie wie folgt vorgehen:
 
 Das Hauptverzeichnis ist auf der Festplatte **C:\Schild-NRW** beziehungsweise **C:\Programme(x86)\Schild-NRW**. Öffnen Sie den Arbeitsplatz (Explorer) und navigieren Sie dort hin.
 
@@ -35,7 +35,5 @@ Klicken Sie dann auf *Kopieren*.
 Rechte Maustaste.... *Einfügen*!
 
 Fertig!
-
----
 
 Quelle: [Datenbank kopieren – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datenbank+kopieren&oldid=3635)

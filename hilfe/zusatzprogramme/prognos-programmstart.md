@@ -13,11 +13,11 @@ Beim ersten Programmstart erscheint folgendes Informationsfenster:
 Nach einem Klick kann der erste Programmstart mittels der hier aufgeführten Benutzerdaten fortgesetzt werden:
 
 Benutzername: **PM2Admin**\
-Passwort: **Schild**
+Passwort: **SchILD-NRW 2**
 
 Als nächstes erscheint der Hinweis, das Startkennwort für den Benutzer **PM2Admin** zu ändern.
 
-Zuerst sollte allerdings der Schild-Zugriff eingestellt werden, das Menü ändert sich, je nachdem, ob udl oder mdb ausgewählt wird.
+Zuerst sollte allerdings der SchILD-NRW 2-Zugriff eingestellt werden, das Menü ändert sich, je nachdem, ob udl oder mdb ausgewählt wird.
 
 Zugriff über udl:
 
@@ -35,13 +35,10 @@ Als nächstes erscheint das Fenster **Einstellungen**:
 
 ![PM2_Erststart_04](/bilder/tools/pm2/pm2-erststart-04.png)
 
-Zu diesem Zeitpunkt müssen hier aber noch keine Einstellungen vorgenommen werden. Nach "Speichern" erscheint der Hinweis, dass man sich einem als Schild-Benutzer mit Administrationsrechten anmelden muss, um PM2 für den Zugriff auf Schild zu autorisieren.
+Zu diesem Zeitpunkt müssen hier aber noch keine Einstellungen vorgenommen werden. Nach "Speichern" erscheint der Hinweis, dass man sich einem als SchILD-NRW 2-Benutzer mit Administrationsrechten anmelden muss, um PM2 für den Zugriff auf SchILD-NRW 2 zu autorisieren.
 
 Danach erscheint, wie bei jedem weiteren Programmstart, das folgende Fenster:
 
 ![PM2_Erststart_05](/bilder/tools/pm2/pm2-erststart-05.png)
-
-
----
 
 Quelle: [Prognos:Programmstart – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Prognos%3AProgrammstart&oldid=5339)

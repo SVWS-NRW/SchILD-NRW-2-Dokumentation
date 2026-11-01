@@ -10,8 +10,4 @@ Dieser Gruppenprozess ermöglicht das einfache Ergänzen von Epochal-Fächern im
 
 Wird zum Beispiel Musik in der Jahrgangsstufe 7 nur im ersten Halbjahr unterrichtet und damit auch benotet, so soll diese Note natürlich auch auf dem Versetzungszeugnis erscheinen. Dieser Gruppenprozess ergänzt für die ausgewählte Schülergruppe im aktuellen Abschnitt sowohl das Fach als auch die Note.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Noten von Epochal-Fächern ergänzen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Noten+von+Epochal-F%C3%A4chern+erg%C3%A4nzen&oldid=2110)

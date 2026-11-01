@@ -8,11 +8,11 @@ title: "Textschnittstelle vorbereiten"
 
 Hier finden Sie die allgemeinen Vorgaben für Dateien, die über die Textschnittstelle eingelesen werden. Eine Schnittstelle ist eine vereinbarte Form des Datenaustauschs. Die einzelnen Felder sind in der **Schnittstellenbeschreibung** erläutert.
 
-Dieses Dokument beschreibt die Text-Importschnittstelle für SchILD-NRW.
+Dieses Dokument beschreibt die Text-Importschnittstelle für SchILD-NRW 2.
 
 Der Import erfolgt aus mehreren Textdateien, deren Struktur nachfolgend erläutert ist. Für alle Textdateien gelten folgende Bedingungen:
 
-Schild-NRW erwartet, dass die Schnittstellendateien genau die hier angegebenen Dateinamen haben. Beispielsweise wird Sbasis.dat an Stelle von SchuelerBasisdaten.dat nicht erkannt.
+SchILD-NRW 2 erwartet, dass die Schnittstellendateien genau die hier angegebenen Dateinamen haben. Beispielsweise wird Sbasis.dat an Stelle von SchuelerBasisdaten.dat nicht erkannt.
 
 Jede Zeile muss genau einen Datensatz enthalten.
 
@@ -34,7 +34,7 @@ Bei den einzelnen Spalten ist angegeben, ob diese leer sein dürfen. Dabei trete
 
 <!-- -->
 
-- (Ja): Spalte darf aus datentechnischen Gründen leer sein, für die Statistik-Erhebung wird aber unter Umständen ein entsprechender Eintrag in SchILD-NRW benötigt. Wenn der Eintrag in der Import-Datei leer ist, muss er später in SchILD-NRW nachgepflegt werden.
+- (Ja): Spalte darf aus datentechnischen Gründen leer sein, für die Statistik-Erhebung wird aber unter Umständen ein entsprechender Eintrag in SchILD-NRW 2 benötigt. Wenn der Eintrag in der Import-Datei leer ist, muss er später in SchILD-NRW 2 nachgepflegt werden.
 
 <!-- -->
 
@@ -52,7 +52,7 @@ Bei den einzelnen Spalten ist jeweils der erwartete Datentyp angegeben:
 
 - Float: Gleitkommazahl (es kann entweder ein Komma oder ein Punkt als dezimales Trennzeichen verwendet werden)
 
-Es ist nicht unbedingt notwendig, dass alle der nachfolgend beschriebenen Dateien in einem Zug importiert werden, das heißt es ist auch möglich, einzelne Dateien nachträglich zu importieren. Voraussetzung dafür ist aber, dass „übergeordnete“ Informationen, auf die in der jeweiligen Importdatei verwiesen wird, bereits in der Datenbank von SchILD-NRW existieren (zum Beispiel durch einen vorangegangenen Import). Wenn zum Beispiel Lernabschnitts- und Leistungsdaten separat importiert werden sollen, müssen die folgenden Daten bereits vorhanden sein:
+Es ist nicht unbedingt notwendig, dass alle der nachfolgend beschriebenen Dateien in einem Zug importiert werden, das heißt es ist auch möglich, einzelne Dateien nachträglich zu importieren. Voraussetzung dafür ist aber, dass „übergeordnete“ Informationen, auf die in der jeweiligen Importdatei verwiesen wird, bereits in der Datenbank von SchILD-NRW 2 existieren (zum Beispiel durch einen vorangegangenen Import). Wenn zum Beispiel Lernabschnitts- und Leistungsdaten separat importiert werden sollen, müssen die folgenden Daten bereits vorhanden sein:
 
 - Die Basisdaten der Schüler, deren Lernabschnitts- und Leistungsdaten importiert werden sollen
 
@@ -74,10 +74,6 @@ Es ist nicht unbedingt notwendig, dass alle der nachfolgend beschriebenen Dateie
 
 Falls übergeordnete Daten nicht vorhanden sind, wird der entsprechende Datensatz nicht importiert und eine Meldung wird im Importprotokoll ausgegeben.
 
-- Schüler-Basisdaten und Schüler-Zusatzdaten können auch additiv importiert werden, das heißt Daten, die beim Erstimport noch nicht vorhanden waren, können in einem Zweitimport gefüllt werden. Falls bei einem Zweitimport Informationen leer sind, die in SchILD-NRW schon vorhanden sind, so werden diese nicht verändert.
-
-------------------------------------------------------------------------
-
----
+- Schüler-Basisdaten und Schüler-Zusatzdaten können auch additiv importiert werden, das heißt Daten, die beim Erstimport noch nicht vorhanden waren, können in einem Zweitimport gefüllt werden. Falls bei einem Zweitimport Informationen leer sind, die in SchILD-NRW 2 schon vorhanden sind, so werden diese nicht verändert.
 
 Quelle: [Vorbemerkungen-Schnittstelle – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Vorbemerkungen-Schnittstelle&oldid=1817)

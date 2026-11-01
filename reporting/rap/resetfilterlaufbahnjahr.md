@@ -25,6 +25,4 @@ procedure ResetFilterLaufbahnJahr;
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [ResetFilterLaufbahnJahr – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ResetFilterLaufbahnJahr&oldid=90)

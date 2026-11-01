@@ -14,8 +14,4 @@ Die Ergebnisse der Berechnung können dann unter dem Karteireiter "Abitur" unten
 
 ![GP-AbiturGesamtergebnis](/bilder/zeugnisse/sekundarstufen/gp-abiturgesamtergebnis.jpg)
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Gesamtergebnis berechnen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Gesamtergebnis+berechnen&oldid=3633)

@@ -36,7 +36,7 @@ Mit diesem Haken wird in den Leistungsdaten der Schüler die Spalte mit den Team
 
 Status-Wechsel ohne vorherige Filterung ermöglichen
 
-Ein Wechsel des Datenfeldes "Status" bewirkt die Einsortierung des Schülerdatensatzes in die Karteikästen. Ist diese Option angewählt, so können Sie den Status des Schülers einfach ändern, was zur Folge haben kann, dass der Schüler aus der Auswahl verschwindet, weil der Zielstatus nicht im aktuellen Filter enthalten ist. Möchte man dies verhindern, so sollte diese Option abgewählt werden. Ist dieser Haken nicht gesetzt, erscheint ein Fehlerhinweis, wenn versucht wird, den Status zu wechseln, obwohl der Zielstatus nicht im Filter enthalten ist.
+Das Feld **Status** unter **Individualdaten I** legt den gespeicherten Schülerstatus fest. Der Statusfilter bestimmt, welche dieser Status in der Schülerliste angezeigt werden. Ist diese Option angewählt, so können Sie den Status des Schülers einfach ändern, was zur Folge haben kann, dass der Schüler aus der Auswahl verschwindet, weil der Zielstatus nicht im aktuellen Filter enthalten ist. Möchte man dies verhindern, so sollte diese Option abgewählt werden. Ist dieser Haken nicht gesetzt, erscheint ein Fehlerhinweis, wenn versucht wird, den Status zu wechseln, obwohl der Zielstatus nicht im Filter enthalten ist.
 
 Nach Excel-Export Tabellenkalkulationsprogramm starten
 
@@ -44,7 +44,7 @@ Bewirkt einen Autostart von zum Beispiel Excel, wenn exportiert wurde.
 
 Report-Explorer automatisch positionieren
 
-Bewirkt, dass das Fenster des Report-Explorers immer automatisch vor die Iconleiste des Schild-NRW-Fensters gelegt wird. Ist diese Option nicht gewählt, so kann es in manchen Windows-Umgebungen dazu kommen, dass das Explorerfenster hinter dem Schild-Fenster startet.
+Bewirkt, dass das Fenster des Report-Explorers immer automatisch vor die Iconleiste des SchILD-NRW 2-Fensters gelegt wird. Ist diese Option nicht gewählt, so kann es in manchen Windows-Umgebungen dazu kommen, dass das Explorerfenster hinter dem SchILD-NRW 2-Fenster startet.
 
 Reihenfolge bei Adresseingabe
 
@@ -52,7 +52,7 @@ Stellt die Reihenfolge der Adresseingabe ein, wenn die TAB-Taste benutzt wird, u
 
 Fenster skalieren auf (%)
 
-Mit diesem Wert kann die Größe der Schrift und der Datenfelder in 5%-Schritten eingestellt werden (nach der Änderung des Skalierungsfaktors ist ein Neustart von Schild nötig). Bitte beachten Sie, dass es bei dieser Einstellung über 100% und zusätzlicher Aktivierung von großen Schriftarten in Windows zu Darstellungsproblemen kommen kann. Ggf. ist der Fensterteil "Aktuelle Laufbahndaten" auf dem Karteireiter Individual-Daten I mit dem Doppelpfeil am blauen Streifen bei gedrückter linker Maustaste nach unten zu verschieben, damit die verdeckten Felder sichtbar werden.
+Mit diesem Wert kann die Größe der Schrift und der Datenfelder in 5%-Schritten eingestellt werden (nach der Änderung des Skalierungsfaktors ist ein Neustart von SchILD-NRW 2 nötig). Bitte beachten Sie, dass es bei dieser Einstellung über 100% und zusätzlicher Aktivierung von großen Schriftarten in Windows zu Darstellungsproblemen kommen kann. Ggf. ist der Fensterteil "Aktuelle Laufbahndaten" auf dem Karteireiter Individual-Daten I mit dem Doppelpfeil am blauen Streifen bei gedrückter linker Maustaste nach unten zu verschieben, damit die verdeckten Felder sichtbar werden.
 
 Farbeinstellung für Statistik-Felder
 
@@ -60,7 +60,7 @@ Hier kann die grüne Schriftart für die statistikrelevanten Datenfelder individ
 
 Textverarbeitungsprogramm
 
-Hier kann zwischen Microsoft-Word und OpenOffice gewählt werden. Dabei steuert Schild-NRW dann den Aufruf des Textverarbeitungsprogramms beim Druck von Serienbriefen.
+Hier kann zwischen Microsoft-Word und OpenOffice gewählt werden. Dabei steuert SchILD-NRW 2 dann den Aufruf des Textverarbeitungsprogramms beim Druck von Serienbriefen.
 
 Individuelle Einstellungen zurücksetzen
 
@@ -69,8 +69,6 @@ Die individuellen Einstellungen werden userbezogen in der Registry gespeichert. 
 E-Mail-Kontodaten bearbeiten (SMTP)
 
 Wenn unter den globalen Einstellungen der E-Mail-Versand via SMTP eingestellt ist, können hier für jeden Benutzer das E-Mail-Konto und die Zugangsdaten verwaltet werden.
-
-------------------------------------------------------------------------
 
 <a id="Globale_Einstellungen"></a>
 
@@ -86,7 +84,7 @@ Für die Statistik 2015/16 ist es nicht länger erforderlich, die Zuwanderungsge
 
 Automatische Plausibilitätsprüfung von Datumswerten bei Änderung der Schülerdaten
 
-Schild-NRW prüft bei Aktivierung, ob Datumswerte nicht stimmig sind. (Z.B. Entlassdatum kleiner als Aufnahmedatum.) In einem solchen Fall wird ein Warnhinweis gegeben.
+SchILD-NRW 2 prüft bei Aktivierung, ob Datumswerte nicht stimmig sind. (Z.B. Entlassdatum kleiner als Aufnahmedatum.) In einem solchen Fall wird ein Warnhinweis gegeben.
 
 Telefonliste automatisch ergänzen
 
@@ -98,7 +96,7 @@ Bei Neueingaben Geburtsort aus Wohnort entnehmen
 
 Für Nationalitäten Adjektive verwenden
 
-Anstelle der Ländernamen (Gebietsschlüssel) werden 205 alphabetisch sortierte Adjektive angeboten (in der statkue.mdb im Schild-Unterordner Keytabs). Es ist eine abgeschlossene Liste, sie kann also nicht ergänzt werden. Für die Umstellung auf Adjektive ist Folgendes zu beachten (Punkte in dieser Reihenfolge ausführen, für die Umstellung nur einmal nötig): -- Katalog Staatsangehörigkeiten, Herkunftsländer öffnen und wieder Schließen -- Extras / Programm-Einstellungen / Globale Einstellungen / Karte Allgemeines -\> Häkchen vor „Für Nationalitäten Adjektive verwenden“, Schließen -- Extras -\> Automatische Prozesse ausführen. Es kann dann im Eingabefeld bei Staatsangehörigkeit das Adjektiv gewählt werden, zum Beispiel deutsch statt Deutschland oder kosovarisch statt Kosovo – die adjektivischen Bezeichnungen sind schon von der Haupterhebung mit ASDPC her bekannt -, bei Geburtsland auf Karte Individual-Daten II werden aber weiterhin die Ländernamen zur Auswahl angeboten. Die schon vorhandenen Ländernamen in den Eingabefeldern auf den Karten Individual-Daten I und Erz.-Berechtigte werden automatisch umgestellt. Für Statistiken werden die Schlüssel ausgewertet und nicht die Wörter.
+Anstelle der Ländernamen (Gebietsschlüssel) werden 205 alphabetisch sortierte Adjektive angeboten (in der statkue.mdb im SchILD-NRW 2-Unterordner Keytabs). Es ist eine abgeschlossene Liste, sie kann also nicht ergänzt werden. Für die Umstellung auf Adjektive ist Folgendes zu beachten (Punkte in dieser Reihenfolge ausführen, für die Umstellung nur einmal nötig): -- Katalog Staatsangehörigkeiten, Herkunftsländer öffnen und wieder Schließen -- Extras / Programm-Einstellungen / Globale Einstellungen / Karte Allgemeines -\> Häkchen vor „Für Nationalitäten Adjektive verwenden“, Schließen -- Extras -\> Automatische Prozesse ausführen. Es kann dann im Eingabefeld bei Staatsangehörigkeit das Adjektiv gewählt werden, zum Beispiel deutsch statt Deutschland oder kosovarisch statt Kosovo – die adjektivischen Bezeichnungen sind schon von der Haupterhebung mit ASDPC her bekannt -, bei Geburtsland auf Karte Individual-Daten II werden aber weiterhin die Ländernamen zur Auswahl angeboten. Die schon vorhandenen Ländernamen in den Eingabefeldern auf den Karten Individual-Daten I und Erz.-Berechtigte werden automatisch umgestellt. Für Statistiken werden die Schlüssel ausgewertet und nicht die Wörter.
 
 Straße und Hausnummer bei Schülerdaten getrennt verwalten
 
@@ -116,11 +114,9 @@ Statistikdatenbank (StatistikDB.mdb) benutzerbezogen speichern
 
 Speichert die Datenbank "StatistikDB.mdb" im "Eigene Dateien \> Eigene Dokumente"-Verzeichnis des jeweiligen Users. Damit ist es möglich, dass verschiedene Benutzer gleichzeitig Statistikdaten bereitstellen können, die sich dann aber nicht gegenseitig beeinflussen. Dies kann zum Beispiel dann sinnvoll sein, wenn ein Kollege die UVD.txt erstellen will, ein anderer Kollege aber für die Sim.txt zuständig ist.
 
-------------------------------------------------------------------------
-
 max. Anzahl der Einträge in Drop-Down-Listen
 
-Stellen Sie hier ein, wie viele Zeilen die ausklappbaren Auswahlmenüs in Schild-NRW (zum Beispiel die Klassenliste beim Schnellfilter) haben sollen.
+Stellen Sie hier ein, wie viele Zeilen die ausklappbaren Auswahlmenüs in SchILD-NRW 2 (zum Beispiel die Klassenliste beim Schnellfilter) haben sollen.
 
 Fotos skalieren auf
 
@@ -128,7 +124,7 @@ Legt fest, auf wie viel Pixel die eingelesenen Fotos umgewandelt werden sollen. 
 
 Vorwahl für die Telefonanlage
 
-Schild-NRW unterstützt die Windowsfunktionen für Telefonanlagen. Dadurch kann mit der rechten Maustaste eine Telefonnummer direkt zur Anlage gesendet werden, wenn dies unterstützt wird. An dieser Stelle wird eine gegebenenfalls erforderliche Vorwahl eingegeben.
+SchILD-NRW 2 unterstützt die Windowsfunktionen für Telefonanlagen. Dadurch kann mit der rechten Maustaste eine Telefonnummer direkt zur Anlage gesendet werden, wenn dies unterstützt wird. An dieser Stelle wird eine gegebenenfalls erforderliche Vorwahl eingegeben.
 
 Beginn der Schuljahresliste
 
@@ -140,9 +136,7 @@ Hier kann festgelegt werden, ob "Bei Programmstart" oder "Bei Programmende" (so 
 
 Standard-WinPlan-Datei
 
-Hier kann der Pfad zu einer WinPlan-Datei angegeben werden, so dass die Schülerstundenpläne in Schild-NRW angezeigt werden können.
-
-------------------------------------------------------------------------
+Hier kann der Pfad zu einer WinPlan-Datei angegeben werden, so dass die Schülerstundenpläne in SchILD-NRW 2 angezeigt werden können.
 
 <a id="Ansicht"></a>
 
@@ -150,11 +144,11 @@ Hier kann der Pfad zu einer WinPlan-Datei angegeben werden, so dass die Schüler
 
 Warnung "Schuljahr korrekt?" anzeigen (falls angebracht)
 
-Diese Option führt dazu, dass Schild-NRW ab dem 1.2. (Halbjahr) oder dem 1.8. (Schuljahr) prüft, ob sich die Datenbank im richtigen Schuljahr befindet. Ist die Versetzung noch nicht gemacht, gibt es einen roten Warnhinweis am oberen Rand des Fensters.
+Diese Option führt dazu, dass SchILD-NRW 2 ab dem 1.2. (Halbjahr) oder dem 1.8. (Schuljahr) prüft, ob sich die Datenbank im richtigen Schuljahr befindet. Ist die Versetzung noch nicht gemacht, gibt es einen roten Warnhinweis am oberen Rand des Fensters.
 
 Individuelle Gestaltung der Schüler-Übersichtstabelle ermöglichen
 
-Wenn im Schülernamenskasten zusätzlich zu den standardmäßigen Spalten "Name" (mit Vorname) und "Klasse" auch noch andere (wie zum Beispiel Jahrgang oder Klassenlehrer) angezeigt werden sollen, wird hier ein Häkchen gesetzt, damit man (nach Klick auf Schließen und Neustart von SchILD) dann nach Rechtsklick in den Namenskasten mit der Option "Sichtbare Spalten auswählen" aus der Liste die gewünschten Felder auswählen kann (dies mit OK bestätigen). Ggf. müssen Sie bei mehreren Spalten deren Breite anpassen (wenn an senkrechter Trennlinie vor den Spaltenüberschriften ein Doppelpfeil erscheint, können Sie bei gedrückter linker Maustaste die Trennlinien nach Bedarf verschieben).
+Wenn im Schülernamenskasten zusätzlich zu den standardmäßigen Spalten "Name" (mit Vorname) und "Klasse" auch noch andere (wie zum Beispiel Jahrgang oder Klassenlehrer) angezeigt werden sollen, wird hier ein Häkchen gesetzt, damit man (nach Klick auf Schließen und Neustart von SchILD-NRW 2) dann nach Rechtsklick in den Namenskasten mit der Option "Sichtbare Spalten auswählen" aus der Liste die gewünschten Felder auswählen kann (dies mit OK bestätigen). Ggf. müssen Sie bei mehreren Spalten deren Breite anpassen (wenn an senkrechter Trennlinie vor den Spaltenüberschriften ein Doppelpfeil erscheint, können Sie bei gedrückter linker Maustaste die Trennlinien nach Bedarf verschieben).
 
 Karteireiter "Weitere Adresse/Betriebe" zeigen
 
@@ -171,8 +165,6 @@ Blendet den genannten Karteireiter aus, falls er nicht verwendet werden soll.
 Fachbezogenes Bemerkungsfeld zeigen
 
 Blendet das Datenfeld unter [Daten im aktuellen Halbjahr bearbeiten](/zeugnisse/vorbereitung/akt-halbjahr) in den Leistungsdaten der Fächer im Schülerdatensatz ein. Hier können Texte und Bemerkungen zu jedem einzelnen Fach in einem Memofeld verwaltet werden. Dieses Feld wird häufig für Textzeugnisse genutzt. In der gymnasialen Oberstufe sollte hier zum Beispiel das Projektkursthema eingetragen werden.
-
-------------------------------------------------------------------------
 
 <a id="Fächer_und_Noten"></a>
 <a id="F.C3.A4cher_und_Noten"></a>
@@ -197,7 +189,7 @@ Einstellung für die Versetzungs- und Abschlussberechnung! Setzen oder entfernen
 
 Doppelte Fächer in Leistungsdaten vermeiden
 
-Durch Aktivierung dieser Option versucht Schild-NRW bei Importen von Fächern eine Erkennung von Doppelungen und versucht, diese zu vermeiden. Dieser Haken muss auch gesetzt sein, wenn der Gruppenprozess [Doppelte Fächer löschen](/schild2/gruppenprozesse/doppelte-faecher-loeschen) ausgeführt werden soll!
+Durch Aktivierung dieser Option versucht SchILD-NRW 2 bei Importen von Fächern eine Erkennung von Doppelungen und versucht, diese zu vermeiden. Dieser Haken muss auch gesetzt sein, wenn der Gruppenprozess [Doppelte Fächer löschen](/schild2/gruppenprozesse/doppelte-faecher-loeschen) ausgeführt werden soll!
 
 Eingabemodus für Teilleistungen
 
@@ -212,13 +204,13 @@ Sek I Modus für Gesamt-Fehlstunden
 
 - Eingabe der Gesamt-Fehlstunden (durch den Klassenlehre/ Abteilungsleiter)
 - Eingabe der FAchbezogenen-Fehlstunden (durch den Fachlehrer)
-- Tagesbezogenes Fehlstunden-Modell (nur durch Import oder direkt in Schild-NRW)
+- Tagesbezogenes Fehlstunden-Modell (nur durch Import oder direkt in SchILD-NRW 2)
 
 Sek II Modus für Gesamt-Fehlstunden
 
 - Eingabe der Gesamt-Fehlstunden (durch den Klassenlehre/ Abteilungsleiter)
 - Eingabe der FAchbezogenen-Fehlstunden (durch den Fachlehrer)
-- Tagesbezogenes Fehlstunden-Modell (nur durch Import oder direkt in Schild-NRW)
+- Tagesbezogenes Fehlstunden-Modell (nur durch Import oder direkt in SchILD-NRW 2)
 
 Fachbezogene Fehlstunden aus 1. und 2. beziehungsweise 3. und 4. Quartal addieren.
 
@@ -227,8 +219,6 @@ Dieser Haken kann gesetzt werden, wenn die Fehlstunden aus den Quartalen addiert
 Maximale Zeichenzahl für Bemerkungen
 
 Hier kann für die Zeugnisbemerkungen, das au8ßerunterrichtliche Engagement und das Arbeits- und Sozialverhalten eine maximale Zeichenanzahl voreingestellt werden.
-
-------------------------------------------------------------------------
 
 <a id="Dokumentenverwaltung"></a>
 
@@ -248,7 +238,7 @@ Hier kann die Ordnerstruktur der Dokumentenverwaltung festgelegt werden. Im Arti
 
 Dokumentenverzeichnis für alle aktiven Schüler anlegen
 
-Legt per Gruppenprozess die Schülerordner an. Diese Aktion kann nach der Versetzung oder der Neuaufnahme von großen Schülergruppen ausgeführt werden. Da man auch außerhalb von Schild-NRW Dateien in diesen Ordnern ablegen kann, ist unter Umständen gewünscht, dass diese Ordner im Vorfeld schon existieren. Grundsätzlich muss dieser Prozess aber nicht ausgeführt werden, da Schild-NRW beim Druck die Schülerordner selbstständig anlegt, falls diese noch nicht vorhanden sind.
+Legt per Gruppenprozess die Schülerordner an. Diese Aktion kann nach der Versetzung oder der Neuaufnahme von großen Schülergruppen ausgeführt werden. Da man auch außerhalb von SchILD-NRW 2 Dateien in diesen Ordnern ablegen kann, ist unter Umständen gewünscht, dass diese Ordner im Vorfeld schon existieren. Grundsätzlich muss dieser Prozess aber nicht ausgeführt werden, da SchILD-NRW 2 beim Druck die Schülerordner selbstständig anlegt, falls diese noch nicht vorhanden sind.
 
 Auch Status "Neuaufnahme" und "Warteliste" berücksichtigen
 
@@ -258,8 +248,6 @@ Auch Status "Abgänger" und "Abschluss" berücksichtigen
 
 Bezieht sich auf den o.g. Prozess.
 
-------------------------------------------------------------------------
-
 <a id="E-Mail-Versand"></a>
 
 ### E-Mail-Versand
@@ -268,11 +256,11 @@ Verfahren zum Versenden der E-Mails
 
 Direkt über SMTP:
 
-Wenn Sie diese Einstellung wählen, müssen Sie in den folgenden Feldern Ihre SMTP-Server-Daten eintragen. Schild-NRW sendet dann direkt die Mails über diesen Server. Bitte entnehmen Sie die Einstellungen zu dem Port und der SSL-Verschlüsselung Ihrem Mailprovider. Die Nachrichten werden nicht zwischengespeichert! Bei den individuellen Einstellungen wird dann die "SMTP-Schaltfläche" sichtbar und die Konto-Zugangsdaten des jeweiligen Users können eingetragen werden.
+Wenn Sie diese Einstellung wählen, müssen Sie in den folgenden Feldern Ihre SMTP-Server-Daten eintragen. SchILD-NRW 2 sendet dann direkt die Mails über diesen Server. Bitte entnehmen Sie die Einstellungen zu dem Port und der SSL-Verschlüsselung Ihrem Mailprovider. Die Nachrichten werden nicht zwischengespeichert! Bei den individuellen Einstellungen wird dann die "SMTP-Schaltfläche" sichtbar und die Konto-Zugangsdaten des jeweiligen Users können eingetragen werden.
 
 Aufruf des Standard-E-Mail-Programmes
 
-Typische Mailprogramme sind zum Beispiel Outlook oder Thunderbird. Bei diesem Eintrag sendet Schild-NRW die Mails über das Mailprogramm, welches in Windows als Standard für das Kommando "mailto:" definiert wurde. Wo dies eingestelllt wird, ist in den verschiedenen Windows-Versionen recht unterschiedlich. Unter den "Systemeinstellungen" kann jedoch ab WindowsXP in der Regel das Standardprogramm für bestimmte Aktionen ausgewählt werden. Außerdem sollten Sie im "Internetexplorer" unter **Extras \> Interneteinstellungen** kontrollieren, ob das gewünschte Mailprogramm eingetragen ist.
+Typische Mailprogramme sind zum Beispiel Outlook oder Thunderbird. Bei diesem Eintrag sendet SchILD-NRW 2 die Mails über das Mailprogramm, welches in Windows als Standard für das Kommando "mailto:" definiert wurde. Wo dies eingestelllt wird, ist in den verschiedenen Windows-Versionen recht unterschiedlich. Unter den "Systemeinstellungen" kann jedoch ab WindowsXP in der Regel das Standardprogramm für bestimmte Aktionen ausgewählt werden. Außerdem sollten Sie im "Internetexplorer" unter **Extras \> Interneteinstellungen** kontrollieren, ob das gewünschte Mailprogramm eingetragen ist.
 
 Bei Sammel-E-Mails Adresse als BCC eintragen
 
@@ -284,7 +272,7 @@ Diese Option bewirkt, dass bei mehreren Empfängern alle weiteren Mailadressen a
 
 Wiedervorlage bei Programmstart prüfen
 
-Schild-NRW kann bei jedem Programmstart prüfen, ob Schüler in der Wiedervorlage mit dem aktuellen Datum eingetragen sind. Ist diese Option aktiviert, so erscheint das Fenster der Wiedervorlage, bevor das eigentliche [Hauptfenster](/einstieg/grundlagen/hauptfenster) erscheint.
+SchILD-NRW 2 kann bei jedem Programmstart prüfen, ob Schüler in der Wiedervorlage mit dem aktuellen Datum eingetragen sind. Ist diese Option aktiviert, so erscheint das Fenster der Wiedervorlage, bevor das eigentliche [Hauptfenster](/einstieg/grundlagen/hauptfenster) erscheint.
 
 Verfallszeit (in Tagen) für erledigte Einträge
 
@@ -295,8 +283,6 @@ Verfallszeit (in Tagen) für überfällige Einträge
 Auch nicht erledigte Einträge werden nach diesem Zeitraum aus der Datenbank entfernt.
 
 Dabei werden Einträge in die Wiedervorlage auch erhalten, wenn Schüler in den Abgänger- oder Abschlusskasten verschoben werden, so dass man auch von ehemaligen Schülern eine Wiedervorlage bekommen kann.
-
-------------------------------------------------------------------------
 
 <a id="Report-Einstellungen"></a>
 
@@ -320,11 +306,11 @@ Mit dieser Einstellung können Sie Einfluss auf die im Report-Generator verwende
 
 ![Reportverzeichnisse](/bilder/administration/benutzer-einstellungen/reportverzeichnisse.jpg)
 
-An dieser Stelle können Sie festlegen, an welcher Stelle Schild-NRW nach Ihren Report-Dateien sucht. In einer Serverinstallation sind hier üblicherweise Netzwerkpfade oder Netzwerklaufwerke angelegt.
+An dieser Stelle können Sie festlegen, an welcher Stelle SchILD-NRW 2 nach Ihren Report-Dateien sucht. In einer Serverinstallation sind hier üblicherweise Netzwerkpfade oder Netzwerklaufwerke angelegt.
 
 Standard-Verzeichnisstruktur verwenden
 
-Diese Option bewirkt, dass Schild-NRW automatisch im eigenen Installationsverzeichnis nach dem Ordner "Schild-Reports" und den anderen Unterverzeichnissen sucht.
+Diese Option bewirkt, dass SchILD-NRW 2 automatisch im eigenen Installationsverzeichnis nach dem Ordner "SchILD-NRW 2-Reports" und den anderen Unterverzeichnissen sucht.
 
 <a id="Schnellzugriff"></a>
 
@@ -332,11 +318,11 @@ Diese Option bewirkt, dass Schild-NRW automatisch im eigenen Installationsverzei
 
 ![Schnellzugriff](/bilder/administration/benutzer-einstellungen/schnellzugriff.jpg)
 
-Auf diesem Reiter können Sie den Schnellzugriff für Repoortvorlagen aktivieren. Ist der Haken gesetzt, erscheint beim Start von Schild-NRW ein schwebendes Fenster, in dem man auf vordefinierte Reports mit einem Klick zugreifen kann. Diese Reports müssen im Ordner "Schnellzugriff" liegen, welcher wiederum im Ordner Standard angelegt sein muss. Ist dieser Ordner vorhanden und sind dort Reports hinterlegt, so können diese mit einer Beschreibung vordefiniert werden.
+Auf diesem Reiter können Sie den Schnellzugriff für Repoortvorlagen aktivieren. Ist der Haken gesetzt, erscheint beim Start von SchILD-NRW 2 ein schwebendes Fenster, in dem man auf vordefinierte Reports mit einem Klick zugreifen kann. Diese Reports müssen im Ordner "Schnellzugriff" liegen, welcher wiederum im Ordner Standard angelegt sein muss. Ist dieser Ordner vorhanden und sind dort Reports hinterlegt, so können diese mit einer Beschreibung vordefiniert werden.
 
 ![Schnellzugriff-Fenster](/bilder/administration/benutzer-einstellungen/schnellzugriff-fenster.jpg)
 
-Das Schnellzugriff-Fenster erscheint immer beim Start von Schild-NRW, es kann aber über das "Schließen"-Symbol geschlossen werden. Ein Klick auf das "Drucken"-Symbol im Hauptfenster öffnet den Schnellzugriff dann wieder!
+Das Schnellzugriff-Fenster erscheint immer beim Start von SchILD-NRW 2, es kann aber über das "Schließen"-Symbol geschlossen werden. Ein Klick auf das "Drucken"-Symbol im Hauptfenster öffnet den Schnellzugriff dann wieder!
 
 <a id="SchildChat"></a>
 
@@ -350,8 +336,6 @@ Legen Sie den Port fest, der für das Chatmodul verwendet werden soll. Bitte den
 
 Das Zeitintervall legt fest, in welchen Abständen die Client nach dem Chatserver suchen, da dieser ja unter Umständen erst nach dem Start der Clients aktiv wird.
 
-------------------------------------------------------------------------
-
 <a id="Farben"></a>
 
 ## Farben
@@ -359,8 +343,6 @@ Das Zeitintervall legt fest, in welchen Abständen die Client nach dem Chatserve
 In diesem Menü können Sie durch Doppelklick auf die Spalte "Farbe" eine individuelle Gestaltung für die vorhandenen Fächergruppen vornehmen. Viele Schulen nutzen diese Einstellungen zur besseren Übersichtlichkeit der Fächerliste in den Leistungsdaten-Tabellen.
 
 ![Fächerfarben](/bilder/administration/benutzer-einstellungen/facherfarben.jpg)
-
-------------------------------------------------------------------------
 
 <a id="Plugins"></a>
 
@@ -370,7 +352,7 @@ In diesem Menü können Sie durch Doppelklick auf die Spalte "Farbe" eine indivi
 
 Unter dem Menüeintrag "Extras" -\> "Programm-Einstellungen" findet sich auf dem Karteireiter "Plugins" eine Liste von Plugins, die Sie durch Setzen eines entsprechenden Häkchens aktivieren können.
 
-Nach der Aktivierung des Häkchens muss SchILD geschlossen und wieder geöffnet werden, damit die gewünschte Funktionalität geladen wird.
+Nach der Aktivierung des Häkchens muss SchILD-NRW 2 geschlossen und wieder geöffnet werden, damit die gewünschte Funktionalität geladen wird.
 
 Die Namen der einzelnen Plugins sind selbsterklärend ("Komm mit", "Start-Klar", "Export Abiturdaten" etc.)
 
@@ -379,8 +361,6 @@ Einige der Plugins (wie zum Beispiel auch das Plugin der Benutzerverwaltung) mü
 Sie sehen, dass es eine \*.exe (selbst ausführende Installation) und eine \*.zip (gepackte Installation) - Datei gibt.
 
 Beide haben denselben Inhalt. Da einige Kommunen die Installation von Programmen durch den Anwender in der Schule verhindern, wird auch eine Zip-Datei bereitgestellt. In der Regel können Anwender solche Dateien entpacken, wohingegen Installationen durch Beschränkungen auf dem PC unterbunden werden. Auf diesem Weg können Schulen dann Programmaktualisierungen oder Einbindungen von Plugins (auch ohne administrative Rechte auf dem PC) vornehmen.
-
-------------------------------------------------------------------------
 
 <a id="SchILDweb"></a>
 
@@ -408,10 +388,6 @@ Sollte in Ihrer Netzwerkumgebung ein Proxy-Server zwischengeschaltet sein, so tr
 
 Kennwort für Synchronisation zurücksetzen
 
-Schild-NRW benötigt für die Übertragung zur Schildweb-Datenbank ein Passwort, damit keine Übertragung aus einer beliebigen Datenbank geschehen kann. Wenn Sie das Passwort zurücksetzen, müssen Sie das auch in Ihrer Schildweb-Umgebung tun, eine Anleitung dazu finden Sie in Ihrer Schildweb-Dokumentation.
-
-------------------------------------------------------------------------
-
----
+SchILD-NRW 2 benötigt für die Übertragung zur Schildweb-Datenbank ein Passwort, damit keine Übertragung aus einer beliebigen Datenbank geschehen kann. Wenn Sie das Passwort zurücksetzen, müssen Sie das auch in Ihrer Schildweb-Umgebung tun, eine Anleitung dazu finden Sie in Ihrer Schildweb-Dokumentation.
 
 Quelle: [Programm-Einstellungen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Programm-Einstellungen&oldid=4706)

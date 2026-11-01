@@ -35,6 +35,4 @@ GeRNiveauAusFachKrz('E5');
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [GeRNiveauAusFachKrz – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=GeRNiveauAusFachKrz&oldid=2720)

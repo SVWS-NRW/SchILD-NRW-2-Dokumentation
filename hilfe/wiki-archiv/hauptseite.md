@@ -6,13 +6,13 @@ title: "Frühere Wiki-Startseite"
 
 # Frühere Wiki-Startseite
 
-Dies ist die frühere Startseite des SchILD2-Wikis. Sie bleibt als historischer Einstieg erhalten. Die aktuelle Dokumentation erschließen Sie über die fünf Rubriken im Kopfmenü.
+Dies ist die frühere Startseite des SchILD-NRW 2-Wikis. Sie bleibt als historischer Einstieg erhalten. Die aktuelle Dokumentation erschließen Sie über die fünf Rubriken im Kopfmenü.
 
-**Sie befinden sich im Dokumentationsbereich von Schild-NRW 2**
+**Sie befinden sich im Dokumentationsbereich von SchILD-NRW 2**
 
 Seit dem 31.10.25 steht der Nachfolger zur Verfügung:
 
-[**Schild-NRW 3 und SVWS-Server**](https://www.svws.nrw.de/)
+[**SchILD-NRW 3 und SVWS-Server**](https://www.svws.nrw.de/)
 
 -\> zum [Schild3-Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/)
 
@@ -27,15 +27,15 @@ Seit dem 31.10.25 steht der Nachfolger zur Verfügung:
 
 <a id="schild-nrw-ubersicht"></a>
 
-### [Programmüberblick](/einstieg/grundlagen/schild-nrw-index)
+### Programmüberblick
 
 ![Inhalt](/bilder/hilfe/wiki-archiv/inhalt.png)
 
 *Inhalt*
 
-Dieser Teil des Schild-NRW-Wiki bietet Ihnen eine Auflistung
+Dieser Teil des SchILD-NRW 2-Wiki bietet Ihnen eine Auflistung
 
-der Funktionen nach den Menüpunkten in Schild-NRW.
+der Funktionen nach den Menüpunkten in SchILD-NRW 2.
 
 Dabei können Sie sich an der Struktur des Bildschirms orientieren.
 
@@ -43,13 +43,13 @@ Verweise auf die Tutorials oder Kurzanleitungen finden Sie dann
 
 in den einzelnen Abteilungen.
 
-                       **[Schild-NRW-Übersicht](/einstieg/grundlagen/schild-nrw-index)**\
+                       **[SchILD-NRW 2-Übersicht](/einstieg/grundlagen/schild-nrw-index)**\
 
 <a id="Schild-NRW-Tutorials"></a>
 
 <a id="schild-nrw-tutorials"></a>
 
-### [Einstiegsanleitungen](/einstieg/erste-schritte/schild-nrw-tutorials)
+### Einstiegsanleitungen
 
 ![Inhalt](/bilder/hilfe/wiki-archiv/tutorial.png)
 
@@ -59,21 +59,19 @@ Hier finden Sie zu bestimmten Themen einige Anleitungen,
 
 die nach Tätigkeiten gruppiert sind. Ein Einsteigertutorial soll allen Benutzern,
 
-die sich neu in Schild-NRW einarbeiten müssen, helfen,
+die sich neu in SchILD-NRW 2 einarbeiten müssen, helfen,
 
 sich möglichst schnell zurechtzufinden.
 
 Arbeiten, wie die Versetzung, Kurszuweisungen u.v.m. werden hier beschrieben.
 
-                       **[Anleitungen für den Einstieg](/einstieg/erste-schritte/schild-nrw-tutorials)**\
-
-------------------------------------------------------------------------
+                       **[Kurzanleitungen](/schild2/#kurzanleitungen)**\
 
 <a id="Reporting"></a>
 
 <a id="reporting"></a>
 
-### [Reporting-Grundlagen](/reporting/erstellung/reporting)
+### Reporting-Grundlagen
 
 ![Inhalt](/bilder/hilfe/wiki-archiv/reporting.png)
 
@@ -91,13 +89,11 @@ Nähere Informationen gibt es im folgenden Artikel:
 
              **[Reporting im Überblick](/reporting/erstellung/reporting)**\
 
-------------------------------------------------------------------------
-
 <a id="Lupo_Handbuch"></a>
 
 <a id="lupo-handbuch"></a>
 
-### [Inhaltsverzeichnis](/tools/lupo/lupo-handbuch)
+### Inhaltsverzeichnis
 
 ![Inhalt](/bilder/hilfe/wiki-archiv/lupo-hauptseite.png)
 
@@ -115,13 +111,11 @@ schnell die benötigte Informationen.
 
              **[Lupo Handbuch](/tools/lupo/lupo-handbuch)**\
 
-------------------------------------------------------------------------
-
 <a id="Externe_Blockungs-Tools"></a>
 
 <a id="externe-blockungs-tools"></a>
 
-### [Externe Blockungsprogramme](/hilfe/zusatzprogramme/externe-blockungs-tools)
+### Externe Blockungsprogramme
 
 ![Inhalt](/bilder/hilfe/wiki-archiv/kurs42tocnf-logo.png)
 
@@ -139,13 +133,11 @@ Sitzplangenerator
 
              **[Externe Blockungs-Tools](/hilfe/zusatzprogramme/externe-blockungs-tools)**\
 
-------------------------------------------------------------------------
-
 <a id="Prognos"></a>
 
 <a id="prognos"></a>
 
-### [Handbuch](/hilfe/zusatzprogramme/prognos)
+### Handbuch
 
 ![Inhalt](/bilder/hilfe/wiki-archiv/prognos-logo.png)
 
@@ -158,9 +150,5 @@ Prognos PM2
 (Die Seiten werden in den nächsten Wochen und Monaten aufgebaut, und werden daher ständig ergänzt und erweitert. Wenn die Erstellung abgeschlossen ist, wird dieser Hinweis entfernt.
 
              **[PM2-Handbuch](/hilfe/zusatzprogramme/prognos)**\
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Hauptseite – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Hauptseite&oldid=6060)

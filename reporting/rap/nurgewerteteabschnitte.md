@@ -34,6 +34,4 @@ auch die nicht gewerteten Abschnitte sehen will.
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [NurGewerteteAbschnitte – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=NurGewerteteAbschnitte&oldid=185)

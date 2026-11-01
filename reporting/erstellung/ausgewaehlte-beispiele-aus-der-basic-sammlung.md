@@ -10,7 +10,7 @@ Wenn Sie anfangen, mit dem Reportexplorer zu arbeiten, bietet es sich an, die BA
 
 Einzelne Reports aus der Sammlung werden in diesem Kapitel genauer vorgestellt.
 
-Vorausgesetzt ist, dass Sie die Reportsammlung im Ordner **Schild-Reports** abgespeichert haben und die mitgelieferten Briefköpfe und -füße in den Ordner **Header_Footer**, der ein direkter Unterordner von Schild-Reports sein muss, verschoben haben.
+Vorausgesetzt ist, dass Sie die Reportsammlung im Ordner **SchILD-NRW 2-Reports** abgespeichert haben und die mitgelieferten Briefköpfe und -füße in den Ordner **Header_Footer**, der ein direkter Unterordner von SchILD-NRW 2-Reports sein muss, verschoben haben.
 
 <a id="DIN-Erzieherbrief_(Ordner:_A4_Mitteilungen)"></a>
 <a id="DIN-Erzieherbrief_.28Ordner:_A4_Mitteilungen.29"></a>
@@ -36,8 +36,6 @@ Klicken Sie nun mit der rechten Maustaste auf den Brieftext, dann können Sie ih
 Nachdem Sie die Änderungen beim Schließen des Editors gespeichert haben, lassen sich die Änderungen in der Vorschau überprüfen. Speichern Sie anschließend das erstellte Briefformular unter einem aussagekräftigen Namen ab.
 
 Wenn Sie nun die passende Schülergruppe auswählen, können Sie den Brief an die Erziehungsberechtigten ausdrucken!
-
-------------------------------------------------------------------------
 
 Es fällt auf, dass der Brieftext im Vergleich zur Anrede verrutscht ist. Um den Brieftext, also hier das RichText-Element richtig auszurichten, öffnen Sie im Reportexplorer den Header *Erzieher_Kopf.rtm*, der in den Erzieherbrief eingebunden wird.
 
@@ -153,9 +151,5 @@ Um die Noten, die schlechter als ausreichend sind, farblich zu markieren, müsse
 ![Leistungsuebersicht-10](/bilder/reporting/erstellung/leistungsuebersicht-10.png)
 
 Über den noten wird in der Leistungsübersicht gekennzeichnet, ob es sich um einen Leistungskurs handelt beziehungsweise ob der Kurs nur mündlich belgt wurde. Die zugehörige Programmierung ist auch im SubReport2, nämlich beim Label 12. In die neu definierte String-Variable **S** wird die Kursart eingelesen. Mit der Funktion *copy* werden die ersten beiden Buchstaben aus **S** ausgelesen und abgeglichen.
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Ausgewählte Beispiele aus der BASIC-Sammlung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Ausgew%C3%A4hlte+Beispiele+aus+der+BASIC-Sammlung&oldid=3811)

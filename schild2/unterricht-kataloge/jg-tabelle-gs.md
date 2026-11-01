@@ -34,7 +34,7 @@ Die Klassen-Versetzungstabelle wird bei jahrgangsbezogenem Unterricht wie folgt 
 
 ![VersetzungstabelleGsJg](/bilder/schild2/unterricht-kataloge/versetzungstabellegsjg.png)
 
-Die unten abgebildete Tabelle gibt einen exemplarischen Überblick über die vorzunehmenden Einträge einer zweizügigen Grundschule mit jahrgangsbezogenem Halbtagsunterricht. In der Tabelle erkennt man, dass lediglich die Klassen-Jahrgänge 1E, 2E, 03 und 04 verwendet werden. Als Klassenart wird immer "Regelklasse" eingetragen. Die Klassenart **"Schuleingangsphase, Jahrgangsbezogene Unterrichtsorganisation" findet ab 2016 keine Verwendung mehr**, da die Klassenjahrgänge 1E und 2E diese Information bereits enthalten. Ist die Folgeklasse leer, so versetzt Schild diese Schüler in den Abschlusskasten, wenn kein anderer Versetzungsvermerk gesetzt ist.
+Die unten abgebildete Tabelle gibt einen exemplarischen Überblick über die vorzunehmenden Einträge einer zweizügigen Grundschule mit jahrgangsbezogenem Halbtagsunterricht. In der Tabelle erkennt man, dass lediglich die Klassen-Jahrgänge 1E, 2E, 03 und 04 verwendet werden. Als Klassenart wird immer "Regelklasse" eingetragen. Die Klassenart **"Schuleingangsphase, Jahrgangsbezogene Unterrichtsorganisation" findet ab 2016 keine Verwendung mehr**, da die Klassenjahrgänge 1E und 2E diese Information bereits enthalten. Ist die Folgeklasse leer, so versetzt SchILD-NRW 2 diese Schüler in den Abschlusskasten, wenn kein anderer Versetzungsvermerk gesetzt ist.
 
 | Schulinterne Bez. | Jahrgang | Parallelität | Folge-Klasse | Vorgänger-Klasse | Klassenart |
 |----|----|----|----|----|----|
@@ -46,8 +46,6 @@ Die unten abgebildete Tabelle gibt einen exemplarischen Überblick über die vor
 | 03B | 03 | B | 04B | 02B | Regelklasse |
 | 04A | 04 | A |  | 03A | Regelklasse |
 | 04B | 04 | B |  | 03B | Regelklasse |
-
-------------------------------------------------------------------------
 
 <a id="Beispiel_2:_Klassen-Versetzungstabelle_einer_Grundschule_mit_jahrgangsübergreifendem_Unterricht_in_der_Schuleingangsphase"></a>
 <a id="Beispiel_2:_Klassen-Versetzungstabelle_einer_Grundschule_mit_jahrgangs.C3.BCbergreifendem_Unterricht_in_der_Schuleingangsphase"></a>
@@ -71,8 +69,6 @@ Die unten abgebildete Tabelle gibt einen exemplarischen Überblick über die vor
 | 04A | 04 | A |  | 03A | Regelklasse |
 | 04B | 04 | B |  | 03B | Regelklasse |
 
-------------------------------------------------------------------------
-
 <a id="Beispiel_3:_Klassen-Versetzungstabelle_einer_Grundschule_mit_jahrgangsübergreifendem_Unterricht_in_allen_Jahrgängen"></a>
 <a id="Beispiel_3:_Klassen-Versetzungstabelle_einer_Grundschule_mit_jahrgangs.C3.BCbergreifendem_Unterricht_in_allen_Jahrg.C3.A4ngen"></a>
 
@@ -94,9 +90,5 @@ Die unten abgebildete Tabelle gibt einen exemplarischen Überblick über die vor
 | Karpfen | JU | F | Karpfen | Karpfen | Regelklasse |
 | Maulwürfe | JU | G | Maulwürfe | Maulwürfe | Regelklasse |
 | Bären | JU | H | Bären | Bären | Regelklasse |
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [JG-Tabelle-GS – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=JG-Tabelle-GS&oldid=4170)

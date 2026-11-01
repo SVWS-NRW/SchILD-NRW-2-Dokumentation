@@ -37,7 +37,7 @@ Dieser Serienbrief muss in Kombination mit dem Filter II gedruckt werden. Der Re
 
 ### Schüler mit Hilfe von Filter II filtern
 
-Rufen Sie Auswahl ➜ Filter II auf. Fügen Sie in **SchILD-NRW** entsprechend der Abbildung folgenden Code ein:
+Rufen Sie Auswahl ➜ Filter II auf. Fügen Sie in **SchILD-NRW 2** entsprechend der Abbildung folgenden Code ein:
 
 SELECT Schueler.\*\
 FROM Schueler\
@@ -91,7 +91,7 @@ WHERE\
       AND SLD.Warnung = '+'\
       AND SLD.Warndatum IS NULL)\
 
-Alternativ zur Eingabe des Codes können Sie auch einen SQL-Filter "Aus Datei laden". [SQL-Filter für SchILD-NRW herunterladen](/dateien/wiki/serienbrief-mahnung-gefaehrdete-versetzung-filter-ii-211e3c93.zip) Diese Datei muss vor der Benutzung noch entpackt werden. [SQL-Filter für SchILDzentral herunterladen](/dateien/wiki/serienbrief-mahnung-gefaehrdete-versetzung-filter-ii-schildzentral-5642ca5b.zip)
+Alternativ zur Eingabe des Codes können Sie auch einen SQL-Filter "Aus Datei laden". [SQL-Filter für SchILD-NRW 2 herunterladen](/dateien/wiki/serienbrief-mahnung-gefaehrdete-versetzung-filter-ii-211e3c93.zip) Diese Datei muss vor der Benutzung noch entpackt werden. [SQL-Filter für SchILDzentral herunterladen](/dateien/wiki/serienbrief-mahnung-gefaehrdete-versetzung-filter-ii-schildzentral-5642ca5b.zip)
 
 Passen Sie die Jahrgänge im Codeabschnitt `AND Schueler.ASDJahrgang IN ('06','07','08','09','10','EF')` entsprechend ihrer Schulform an.
 
@@ -122,7 +122,7 @@ Lassen Sie die zwei Auswahlfelder aktiviert. Es ist nun notwendig, auf die Schal
 
 Sie finden in der Basis-Reportsammlung eine Übersichtsliste "Schülerliste Gemahnte Schüler.rtm" für die Schulleitung beziehungsweise die Koordinatoren und eine Übersichtsliste "Klassenliste Gemahnte Schüler @KL.rtm" für die Klassenleitungen. Diese können Sie optional ebenfalls drucken. Insbesondere im 2. Halbjahr ist es sinnvoll, hierzu eine Übersicht zu drucken, welche alle Mahnungen des Schuljahres enthält. Hierzu können Sie entweder den Filter II abermals einsetzen und folgende angepassten SQL-Befehle nutzen:
 
-**SchILD-NRW**
+**SchILD-NRW 2**
 
 SELECT Schueler.\*\
 FROM Schueler\
@@ -224,9 +224,5 @@ Beim Wechsel vom ersten Halbjahr in das zweite Halbjahr werden bei allen Schüle
 ## Weitere Hinweise
 
 Sie können ein Mahndatum entfernen/ändern, indem Sie mit der rechten Maustaste auf das betreffende Mahnhäkchen klicken und im Kontextmenü den Menüpunkt "Mahndatum eingeben" wählen. Sie können in dem folgenden Fenster das Mahndatum löschen oder ändern. Es gibt keinen Gruppenprozess zum Ändern oder Entfernen von Eintragungen zum Mahndatum. Sie sollten das Mahndatum immer erst setzen, wenn der Ausdruck der Mahnschreiben abgeschlossen ist.
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Mahnungen drucken – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Mahnungen+drucken&oldid=6067)

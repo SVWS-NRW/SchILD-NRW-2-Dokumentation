@@ -52,7 +52,7 @@ Hinweis: Kursbezeichnungen werden gekürzt, wenn die Kursbezeichnung die Bezeich
 - **(3)**: gewählte Klasse und Klassenlehrer
 - **(4)**: gewähltes Schuljahr und Lernabschnitt
 
-Hinweis: Das aktuelle SchILD-NRW Schuljahr und der aktuelle Lernabschnitt sind gelb hinterlegt. Nur in diesem Abschnitt können Leistungsdaten bearbeitet werden (Ausnahme: Der Benutzer mit dem Loginnamen "Admin" kann alle Leistungsdaten ändern.)
+Hinweis: Das aktuelle SchILD-NRW 2 Schuljahr und der aktuelle Lernabschnitt sind gelb hinterlegt. Nur in diesem Abschnitt können Leistungsdaten bearbeitet werden (Ausnahme: Der Benutzer mit dem Loginnamen "Admin" kann alle Leistungsdaten ändern.)
 
 - **(5)**: Schnellwahlleiste zum Aufruf der wichtigsten Programmfunktionen.
 - **(6)**: Hauptmenü, mit dessen Hilfe alle Programmfunktionen aufgerufen werden können.
@@ -67,7 +67,7 @@ Hinweis: Das aktuelle SchILD-NRW Schuljahr und der aktuelle Lernabschnitt sind g
 - Status der Datenbank: geöffnet / geschlossen
 - gewähltes Schuljahr / Lernabschnitt
 - Name der automatischen geladenen Profildatei (beziehungsweise "Profildatei: Nicht gefunden", wenn die entsprechende Profildatei vom Programm nicht gefunden wurde)
-- Dateiname der SchILD-Datenbank (beziehungsweise der entsprechenden UDL-Datei) - siehe [Datenbank und Administration](/hilfe/zusatzprogramme/km2-parameter-administration).
+- Dateiname der SchILD-NRW 2-Datenbank (beziehungsweise der entsprechenden UDL-Datei) - siehe [Datenbank und Administration](/hilfe/zusatzprogramme/km2-parameter-administration).
 
 <a id="Datenbearbeitung"></a>
 
@@ -81,11 +81,11 @@ Die Bearbeitungsmöglichkeiten beschränken sich auf Leistungsdaten (die *normal
 
 - Leistungsdaten tippen Sie einfach in der jeweiligen Fachspalte ein.
 - Wenn Sie als Admin angemeldet sind, so können Sie alle Leistungsdaten verändern, nicht nur die des aktuellen Abschnitts.
-- Alle normalen Benutzer (das sind Koordinatoren der SchILD-Klassengruppen) können die Noten des aktuellen SchILD-Abschnitts ihrer Klassen editieren und alle anderen Leistungsdaten einsehen. Diese Einsichtmöglichkeit beschränkt sich auf die Klassen, die ihnen als Koordinator in SchILD zugeordnet worden sind (siehe [KM2-Benutzerrechte](/administration/benutzer-einstellungen/benutzerverwaltung)).
+- Alle normalen Benutzer (das sind Koordinatoren der SchILD-NRW 2-Klassengruppen) können die Noten des aktuellen SchILD-NRW 2-Abschnitts ihrer Klassen editieren und alle anderen Leistungsdaten einsehen. Diese Einsichtmöglichkeit beschränkt sich auf die Klassen, die ihnen als Koordinator in SchILD-NRW 2 zugeordnet worden sind (siehe [KM2-Benutzerrechte](/administration/benutzer-einstellungen/benutzerverwaltung)).
 
 **Hinweise:**:
 
-- Wenn Sie in einer Fachspalte die Taste \[Einfg\] drücken, erscheint eine Notenauswahlliste. KM2 berücksichtigt die globale SchILD-Einstellung "Erweiterte Noten in Sek. I zulassen".
+- Wenn Sie in einer Fachspalte die Taste \[Einfg\] drücken, erscheint eine Notenauswahlliste. KM2 berücksichtigt die globale SchILD-NRW 2-Einstellung "Erweiterte Noten in Sek. I zulassen".
 
 ![KM2_NotenAuswahl](/bilder/tools/weitere/km2-notenauswahl.png)
 
@@ -101,7 +101,7 @@ Die Bearbeitungsmöglichkeiten beschränken sich auf Leistungsdaten (die *normal
 
 *Bemerkungsarten*
 
-Es werden - wie auch in SchILD-NRW - vier verschiedene Bemerkungsarten unterschieden:
+Es werden - wie auch in SchILD-NRW 2 - vier verschiedene Bemerkungsarten unterschieden:
 
 1.  **Fachbemerkungen**: Texte, die einem einzelnen Unterrichtsfach zugeordnet sind.
 2.  **Zeugnisbemerkungen**: Text, der einem Schüler in einem bestimmten Lernabschnitt als allgemeine Zeugnisbemerkung zugeordnet wird.
@@ -141,24 +141,12 @@ Die Änderungen an den Leistungsdaten - sowohl Noten als auch Bemerkungstexte we
 
   ![allgemeine Protokolldatei](/bilder/tools/weitere/km2-protokolldaten-allgemein.png)
 
-
-
-
-
   allgemeine Protokolldatei
-
-
 
 -
 
   ![Klassenspezifische Protokolldatei](/bilder/tools/weitere/km2-protokolldaten-klasse.png)
 
-
-
-
-
   Klassenspezifische Protokolldatei
-
----
 
 Quelle: [Modulbenutzung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Modulbenutzung&oldid=2986)

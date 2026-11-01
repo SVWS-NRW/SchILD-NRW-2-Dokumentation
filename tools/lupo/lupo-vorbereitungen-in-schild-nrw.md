@@ -1,12 +1,14 @@
 ---
-title: "SchILD-Daten für LuPO vorbereiten"
+title: "SchILD-NRW 2-Daten für LuPO vorbereiten"
 ---
 
 <a id="lupo-vorbereitungen-in-schild-nrw"></a>
 
-# SchILD-Daten für LuPO vorbereiten
+<a id="schild-daten-fur-lupo-vorbereiten"></a>
 
-Sämtliche Daten, die für die Beratung in Lupo benötigt werden, können von Schild-NRW bereitgestellt werden. Hierzu zählen neben den Individualdaten der Schülerinnen und Schüler auch deren Sprachenfolgen sowie die Fächer der Oberstufe. Haben Sie die Fächer der Oberstufe einmal eingegeben, so stehen diese auch in den nächsten Jahren zur Verfügung. Es ist also von Vorteil, wesentliche Informationen in Schild-NRW vorzuhalten, damit diese nicht jedes Mal neu in Lupo eingegeben werden müssen. Über den Datenaustausch kann Schild sämtliche Informationen an die Lupo-Datenbank übergeben oder eine neue Lupo-Datenbank erstellen.
+# SchILD-NRW 2-Daten für LuPO vorbereiten
+
+Sämtliche Daten, die für die Beratung in Lupo benötigt werden, können von SchILD-NRW 2 bereitgestellt werden. Hierzu zählen neben den Individualdaten der Schülerinnen und Schüler auch deren Sprachenfolgen sowie die Fächer der Oberstufe. Haben Sie die Fächer der Oberstufe einmal eingegeben, so stehen diese auch in den nächsten Jahren zur Verfügung. Es ist also von Vorteil, wesentliche Informationen in SchILD-NRW 2 vorzuhalten, damit diese nicht jedes Mal neu in Lupo eingegeben werden müssen. Über den Datenaustausch kann SchILD-NRW 2 sämtliche Informationen an die Lupo-Datenbank übergeben oder eine neue Lupo-Datenbank erstellen.
 
 <a id="Unterrichtsfächer_der_Oberstufe_festlegen_und_bearbeiten"></a>
 <a id="Unterrichtsf.C3.A4cher_der_Oberstufe_festlegen_und_bearbeiten"></a>
@@ -15,13 +17,13 @@ Sämtliche Daten, die für die Beratung in Lupo benötigt werden, können von Sc
 
 ![Lupo_schild_unterrichtsfaecher_1](/bilder/tools/lupo/lupo-schild-unterrichtsfaecher-1.png)
 
-*Schild-Dialog "Unterrichtsfächer bearbeiten", Reiter "Übersicht"*
+*SchILD-NRW 2-Dialog "Unterrichtsfächer bearbeiten", Reiter "Übersicht"*
 
 ![Lupo_schild_unterrichtsfaecher_2](/bilder/tools/lupo/lupo-schild-unterrichtsfaecher-2.png)
 
-*Schild-Dialog "Unterrichtsfächer bearbeiten", Reiter "Details"*
+*SchILD-NRW 2-Dialog "Unterrichtsfächer bearbeiten", Reiter "Details"*
 
-Öffnen Sie das Programm Schild-NRW und gehen Sie in das Menü „Schulverwaltung \> Unterrichtsfächer“.
+Öffnen Sie das Programm SchILD-NRW 2 und gehen Sie in das Menü „Schulverwaltung \> Unterrichtsfächer“.
 
 Wählen Sie auf dem Reiter "Übersicht" die [Sortierung „Benutzerdefiniert SII“](/schild2/unterricht-kataloge/unterrichtsfaecher#Weitere_Optionen). Sortieren Sie nun die Fächer der Sekundarstufe II in der gewünschten Reihenfolge.
 
@@ -41,7 +43,7 @@ Um den Wahldialog im Beratungstool so übersichtlich wie möglich zu gestalten, 
 
 ### Fremdsprachenfächer
 
-Aus Gründen der Übersichtlichkeit und der Statistik verwenden viele Schulen in Schild-NRW für die Fremdsprachen diejenige schulinternen Kürzel und ASD-Kürzel, welche den Sprachenbeginn enthalten (hier am Beispiel F6 und F8). Eine solche Unterscheidung zwischen Fremdsprachenfächern der Sekundarstufe I ist in der Oberstufe jedoch prinzipiell nicht notwendig, es sei denn, man möchte die Schülerinnen und Schüler weiterhin in getrennten Kursen unterrichten. In der Regel ist jedoch das Gegenteil der Fall, so dass in der Oberstufe nur noch zwischen fortgeführter und neu einsetzender Fremdsprache unterschieden werden muss. Somit brauchen Sie die Fremdsprachen F6 und F8 nicht als Fächer der Oberstufe zu markieren, richten Sie vielmehr ein neues Fach mit schulinternem Kürzel F und ASD-Kürzel F6 ein. Die Information zum Sprachenbeginn geht auf diese Weise nicht verloren, da die Sprachenfolge gesondert auf dem Reiter "Laufbahninfo" geführt wird.
+Aus Gründen der Übersichtlichkeit und der Statistik verwenden viele Schulen in SchILD-NRW 2 für die Fremdsprachen diejenige schulinternen Kürzel und ASD-Kürzel, welche den Sprachenbeginn enthalten (hier am Beispiel F6 und F8). Eine solche Unterscheidung zwischen Fremdsprachenfächern der Sekundarstufe I ist in der Oberstufe jedoch prinzipiell nicht notwendig, es sei denn, man möchte die Schülerinnen und Schüler weiterhin in getrennten Kursen unterrichten. In der Regel ist jedoch das Gegenteil der Fall, so dass in der Oberstufe nur noch zwischen fortgeführter und neu einsetzender Fremdsprache unterschieden werden muss. Somit brauchen Sie die Fremdsprachen F6 und F8 nicht als Fächer der Oberstufe zu markieren, richten Sie vielmehr ein neues Fach mit schulinternem Kürzel F und ASD-Kürzel F6 ein. Die Information zum Sprachenbeginn geht auf diese Weise nicht verloren, da die Sprachenfolge gesondert auf dem Reiter "Laufbahninfo" geführt wird.
 
 :::danger
 Der Katalog der ASD Kürzel wurde von IT-NRW im Jahr 2017 überarbeitet. Hierbei sind, bis auf Englisch, die Kürzel für Fremdsprachen ohne Jahrgangsbeginn gestrichen worden. Im Fach Englisch wiederum sind die Kürzel mit Jahrgangsbeginn gestrichen worden. Verwenden Sie aus diesem Grund bei allen Fremdsprachenfächern, bis auf Englisch, nur noch ASD-Kürzel mit Jahrgangsbeginn (zum Beispiel E, L6, F8). Das schulinterne Kürzel darf natürlich nach wie vor ohne Jahrgangsbeginn definiert werden.
@@ -62,7 +64,7 @@ Zuletzt sei gesagt, dass Sie die Fachbezeichnungen und die Statistikkürzel nich
 
 *Laufbahnwechsel im bilingualen Sachfach*
 
-An Schulen mit bilingualem Bildungsgang dürfen natürlich zusätzliche bilinguale Sachfächer (zum Beispiel GE_BI als internes Kürzel) in Schild-NRW eingerichtet werden. Lupo unterscheidet anhand der bilingualen Sachfachsprache zwischen bilingualen und nichtbilingualen Sachfächern und führt die Laufbahnprognose trotz Unterscheidung korrekt durch, sofern die bilinguale Sachfachsprache korrekt eingestellt wurde. Bei den bilingualen Sachfächern Geschichte und SW stehen keine Zusatzkurse zur Verfügung. Diese werden ausschließlich bei den muttersprachlichen Fächern angeboten. Ein Laufbahnwechsel vom bilingualen Zweig in den Regelzweig ist in der Regel möglich und wird von Lupo erkannt. Die Laufbahnprüfung wird auch in diesen Fällen korrekt durchgeführt.
+An Schulen mit bilingualem Bildungsgang dürfen natürlich zusätzliche bilinguale Sachfächer (zum Beispiel GE_BI als internes Kürzel) in SchILD-NRW 2 eingerichtet werden. Lupo unterscheidet anhand der bilingualen Sachfachsprache zwischen bilingualen und nichtbilingualen Sachfächern und führt die Laufbahnprognose trotz Unterscheidung korrekt durch, sofern die bilinguale Sachfachsprache korrekt eingestellt wurde. Bei den bilingualen Sachfächern Geschichte und SW stehen keine Zusatzkurse zur Verfügung. Diese werden ausschließlich bei den muttersprachlichen Fächern angeboten. Ein Laufbahnwechsel vom bilingualen Zweig in den Regelzweig ist in der Regel möglich und wird von Lupo erkannt. Die Laufbahnprüfung wird auch in diesen Fällen korrekt durchgeführt.
 
 Bedenken Sie aber bitte, dass die Abiturfachzelle nur dann freigegeben wird, wenn ein Fach durchgehend belegt wurde. Bei einem Laufbahnwechsel ist dies nicht der Fall (siehe Abbildung). Soll das Fach trotz Laufbahnwechsel Abiturfach sein, so sollten alle bestehenden Kurse durchgehend einem Fach zugeordnet werden, damit die Zelle zur Eingabe des Abiturfaches freigegeben wird.
 
@@ -74,7 +76,7 @@ Bedenken Sie aber bitte, dass die Abiturfachzelle nur dann freigegeben wird, wen
 
 *Zusatzkurs trotz nicht möglicher Fächerkombination*
 
-Einige Schulen unterscheiden zwischen den Fächern „Geschichte“ und „Geschichte Zusatzkurs“ beziehungsweise zwischen den Fächern „Sozialwissenschaften“ und „Sozialwissenschaften Zusatzkurs“. Eine solche Unterscheidung ist sowohl für die Laufbahnprüfung in Schild-NRW als auch für Lupo nicht notwendig und führt zu Fehlern bei der Laufbahnprüfung. Richten Sie aus diesem Grunde lediglich ein Fach Geschichte und ein Fach Sozialwissenschaften ein. In Lupo und im Blockungsprogramm Kurs42 werden die Zusatzkurse anhand der Kursart ZK unterschieden. Dies gilt auch für die Laufbahnprüfung in Schild-NRW. Es besteht darüber hinaus im Beratungstool im Dialog „Fächer der Oberstufe bearbeiten“ die Möglichkeit, Zusatzkurse gänzlich zu unterbinden.
+Einige Schulen unterscheiden zwischen den Fächern „Geschichte“ und „Geschichte Zusatzkurs“ beziehungsweise zwischen den Fächern „Sozialwissenschaften“ und „Sozialwissenschaften Zusatzkurs“. Eine solche Unterscheidung ist sowohl für die Laufbahnprüfung in SchILD-NRW 2 als auch für Lupo nicht notwendig und führt zu Fehlern bei der Laufbahnprüfung. Richten Sie aus diesem Grunde lediglich ein Fach Geschichte und ein Fach Sozialwissenschaften ein. In Lupo und im Blockungsprogramm Kurs42 werden die Zusatzkurse anhand der Kursart ZK unterschieden. Dies gilt auch für die Laufbahnprüfung in SchILD-NRW 2. Es besteht darüber hinaus im Beratungstool im Dialog „Fächer der Oberstufe bearbeiten“ die Möglichkeit, Zusatzkurse gänzlich zu unterbinden.
 
 Werden die Fächer Geschichte oder Sozialwissenschaften in Verbindung mit nicht möglichen Fächerkombinationen festgelegt, so können Zusatzkurse trotzdem weiterhin gewählt werden (siehe Abbildung). Ein Beispiel: Geschichte und Erdkunde werden als nicht mögliche Fächerkombination festgelegt. Wählt ein Schüler nun Erdkunde, so wird im Programm die gleichzeitige Anwahl von Geschichte gänzlich unterbunden. Lediglich in Q2.1 und Q2.2 kann Geschichte weiterhin als Zusatzkurs angewählt werden. Diese Anwahl geschieht beim prognostischen Hochschreiben der gewählten Fächer aus EF.1 sogar automatisch.
 
@@ -83,9 +85,9 @@ Werden die Fächer Geschichte oder Sozialwissenschaften in Verbindung mit nicht 
 
 ### Mehrere inhaltsgleiche Fächer
 
-Vor dem Initial-Export der Fächer in Schild-NRW sollten Sie genau abschätzen, welche Fächer später von Lupo an Kurs42 übergeben werden müssen. In manchen Fällen ist es sinnvoll, mehrere inhaltsgleiche Fächer einzurichten, damit Kurs42 die Schülergruppen getrennt voneinander blocken kann. Als Beispiel seien die bilingualen Sachfächer genannt: An einer Schule mit bilingualem Zweig in englischer Sprache existieren bilinguale Schulklassen neben Klassen des Normalzweigs. Beim Übergang in die Oberstufe entscheidet der Schulleiter, die ursprünglichen Klassen des bilingualen Zweiges und des Normalzweigs weiterhin in Englisch getrennt zu unterrichten, um dem unterschiedlichen Leistungsniveau der Schülerinnen und Schüler Rechnung zu tragen. Aus diesem Grund richtet der Oberstufenkoordinator zwei Fächer für Englisch (zum Beispiel mit internem Kürzel E und E_BI) ein, damit er diese in Kurs42 getrennt voneinander blocken kann. Durch die unterschiedliche schulinterne Bezeichnung der Fächer ist es nun in Kurs42 sehr einfach, die einzelnen Schülergruppen in getrennte Kurse zu blocken.
+Vor dem Initial-Export der Fächer in SchILD-NRW 2 sollten Sie genau abschätzen, welche Fächer später von Lupo an Kurs42 übergeben werden müssen. In manchen Fällen ist es sinnvoll, mehrere inhaltsgleiche Fächer einzurichten, damit Kurs42 die Schülergruppen getrennt voneinander blocken kann. Als Beispiel seien die bilingualen Sachfächer genannt: An einer Schule mit bilingualem Zweig in englischer Sprache existieren bilinguale Schulklassen neben Klassen des Normalzweigs. Beim Übergang in die Oberstufe entscheidet der Schulleiter, die ursprünglichen Klassen des bilingualen Zweiges und des Normalzweigs weiterhin in Englisch getrennt zu unterrichten, um dem unterschiedlichen Leistungsniveau der Schülerinnen und Schüler Rechnung zu tragen. Aus diesem Grund richtet der Oberstufenkoordinator zwei Fächer für Englisch (zum Beispiel mit internem Kürzel E und E_BI) ein, damit er diese in Kurs42 getrennt voneinander blocken kann. Durch die unterschiedliche schulinterne Bezeichnung der Fächer ist es nun in Kurs42 sehr einfach, die einzelnen Schülergruppen in getrennte Kurse zu blocken.
 
-Es sei bei diesem Beispiel aber darauf hingewiesen, dass eine solche Trennung ganzer Klassen auch in Kurs42 vorgenommen werden kann. Eine Auftrennung der Fächer wäre folglich in Schild-NRW nicht zwingend notwendig gewesen, vereinfacht dort jedoch die Arbeit.
+Es sei bei diesem Beispiel aber darauf hingewiesen, dass eine solche Trennung ganzer Klassen auch in Kurs42 vorgenommen werden kann. Eine Auftrennung der Fächer wäre folglich in SchILD-NRW 2 nicht zwingend notwendig gewesen, vereinfacht dort jedoch die Arbeit.
 
 <a id="Details_zu_Fächern_der_Oberstufe_bearbeiten"></a>
 <a id="Details_zu_F.C3.A4chern_der_Oberstufe_bearbeiten"></a>
@@ -94,9 +96,9 @@ Es sei bei diesem Beispiel aber darauf hingewiesen, dass eine solche Trennung ga
 
 ![Lupo_schild_unterrichtsfaecher_3](/bilder/tools/lupo/lupo-schild-unterrichtsfaecher-3.png)
 
-*Schild-Dialog "Einstellungen für Fächer der Oberstufe", Reiter "Fächer"*
+*SchILD-NRW 2-Dialog "Einstellungen für Fächer der Oberstufe", Reiter "Fächer"*
 
-Bei den Projektkursen (ASD-Bezeichnung "Projektkurs (Pseudofach: nicht für ASD)") muss ein Leitfach und können bis zu zwei Leitfächer über deren ASD-Kürzel angegeben werden. Somit ist der Projektkurs an inhaltsgleiche Fächer gekoppelt. Detailliertere Einstellungen zu den Fächern der Oberstufe können Sie über die Schaltfläche „Fächer der Oberstufe bearbeiten“ vornehmen. Diese Einstellungen sind für Lupo wichtig und spielen in Schild-NRW für die Schulstatistik für die Projektkurse und die Vertiefungskurse (ASD-Bezeichnung "Vertiefungsfach (Pseudofach: nicht für ASD)") eine große Rolle. Bestimmen Sie in diesem Dialog durch das Setzen der entsprechenden Häkchen, welche Fächer in welchem Halbjahr unterrichtet werden. Markieren Sie zudem die neueinsetzenden Fremdsprachen und fügen Sie bis zu zwei Leitfächer der Projektkurse ein. In der Spalte "Wochenstunden" können Sie zudem angeben, ob der gewählte Projektkurs zweistündig oder dreistündig unterrichtet wird.
+Bei den Projektkursen (ASD-Bezeichnung "Projektkurs (Pseudofach: nicht für ASD)") muss ein Leitfach und können bis zu zwei Leitfächer über deren ASD-Kürzel angegeben werden. Somit ist der Projektkurs an inhaltsgleiche Fächer gekoppelt. Detailliertere Einstellungen zu den Fächern der Oberstufe können Sie über die Schaltfläche „Fächer der Oberstufe bearbeiten“ vornehmen. Diese Einstellungen sind für Lupo wichtig und spielen in SchILD-NRW 2 für die Schulstatistik für die Projektkurse und die Vertiefungskurse (ASD-Bezeichnung "Vertiefungsfach (Pseudofach: nicht für ASD)") eine große Rolle. Bestimmen Sie in diesem Dialog durch das Setzen der entsprechenden Häkchen, welche Fächer in welchem Halbjahr unterrichtet werden. Markieren Sie zudem die neueinsetzenden Fremdsprachen und fügen Sie bis zu zwei Leitfächer der Projektkurse ein. In der Spalte "Wochenstunden" können Sie zudem angeben, ob der gewählte Projektkurs zweistündig oder dreistündig unterrichtet wird.
 
 :::danger
 Hinterlegen Sie für die Projektkurse mindestens ein Leitfach und für die Vertiefungskurse ebenfalls ein Leitfach. Dies ist für die jährliche Schulstatistik wichtig, da die ASD-Kürzel der Fächer für ASDPC aus diesen Einträgen gewonnen werden!
@@ -115,7 +117,7 @@ In der Regel müssen die Einstellungen in diesem Menü nur einmal gemacht werden
 
 ![Lupo_schild_unterrichtsfaecher_4](/bilder/tools/lupo/lupo-schild-unterrichtsfaecher-4.png)
 
-*Schild-Dialog "Einstellungen für Fächer der Oberstufe", Reiter "Nicht mögliche Fächerkombinationen"*
+*SchILD-NRW 2-Dialog "Einstellungen für Fächer der Oberstufe", Reiter "Nicht mögliche Fächerkombinationen"*
 
 In dem Karteireiter [„Nicht mögliche Fachkombinationen“](/schild2/unterricht-kataloge/nicht-moegliche-fachkombinationen) können Sie einstellen, ob es Fächerkombinationen gibt, die an Ihrer Schule nicht gemeinsam belegt werden dürfen.
 
@@ -138,7 +140,7 @@ Legen Sie keine nicht mögliche Fächerkombination für Standardfälle fest, da 
 
 ![Lupo_schild_unterrichtsfaecher_5](/bilder/tools/lupo/lupo-schild-unterrichtsfaecher-5.png)
 
-*Schild-Dialog "Einstellungen für Fächer der Oberstufe", Reiter "Fächerprofile"*
+*SchILD-NRW 2-Dialog "Einstellungen für Fächer der Oberstufe", Reiter "Fächerprofile"*
 
 Im Karteireiter „Fächerprofile“ können Sie Fachkombinationen eintragen, die aus bestimmten Gründen an Ihrer Schule zusammen belegt werden müssen. Dabei können Sie auch Kursarten (GK, LK) und den Gültigkeitszeitraum einbeziehen. Falls keine Kursarten definiert werden, muss die Fachkombination grundsätzlich belegt werden (unabhängig von den Kursarten). Die Reihenfolge der Facheingabe ist nicht relevant. Die Kombinationen wirken immer in beide Richtungen.
 
@@ -151,9 +153,9 @@ Im Karteireiter „Fächerprofile“ können Sie Fachkombinationen eintragen, di
 
 *Bilingualer Zweig*
 
-Vor der Übergabe der Daten an Lupo sollten Sie überprüfen, ob die Schüler-Individualdaten vollständig in Schild-NRW eingetragen sind. Hierzu gehören neben Nachname, Geburtsdatum, Geschlecht und Konfession auch die Zugehörigkeit zu einem bilingualen Zweig.
+Vor der Übergabe der Daten an Lupo sollten Sie überprüfen, ob die Schüler-Individualdaten vollständig in SchILD-NRW 2 eingetragen sind. Hierzu gehören neben Nachname, Geburtsdatum, Geschlecht und Konfession auch die Zugehörigkeit zu einem bilingualen Zweig.
 
-*SchILD \> Auswahl \> Filter auf fehlende Einträge*
+*SchILD-NRW 2 \> Auswahl \> Filter auf fehlende Einträge*
 
 <a id="Laufbahninfo_Sprachenfolge"></a>
 
@@ -163,15 +165,17 @@ Vor der Übergabe der Daten an Lupo sollten Sie überprüfen, ob die Schüler-In
 
 *Sprachenfolge*
 
-Die APO-GOSt fordert die Belegung von zwei Fremdsprachen als Voraussetzung für die Zulassung zum Abitur. Um diese Voraussetzung zu prüfen, müssen die Sprachenfolgen der Schüler in Schild-NRW korrekt eingetragen sein. Prüfen Sie deshalb unbedingt, ob alle Eintragungen bei den Schülern vollständig und korrekt sind.
+Die APO-GOSt fordert die Belegung von zwei Fremdsprachen als Voraussetzung für die Zulassung zum Abitur. Um diese Voraussetzung zu prüfen, müssen die Sprachenfolgen der Schüler in SchILD-NRW 2 korrekt eingetragen sein. Prüfen Sie deshalb unbedingt, ob alle Eintragungen bei den Schülern vollständig und korrekt sind.
 
-Viele Schulen verwenden in der Sekundarstufe I Fremdsprachen-Statistikkürzel mit Jahrgangsstufenbeginn (zum Beispiel E5 oder F6). Entsprechend sind in der Sprachenfolge die gleichen Statistikkürzel mit Jahrgangsstufenbeginn hinterlegt. Auch wenn Sie für die Oberstufe Fächer ohne Jahrgangsstufenbeginn definiert haben, brauchen Sie in der Sprachenfolge keine Anpassung vorzunehmen. Schild-NRW und Lupo ordnen die Sprachenfolgen mit Jahrgangsstufenbeginn den neuen Fremdsprachenfächern der Oberstufe ohne Jahrgangsstufenbeginn korrekt zu.
+Viele Schulen verwenden in der Sekundarstufe I Fremdsprachen-Statistikkürzel mit Jahrgangsstufenbeginn (zum Beispiel E5 oder F6). Entsprechend sind in der Sprachenfolge die gleichen Statistikkürzel mit Jahrgangsstufenbeginn hinterlegt. Auch wenn Sie für die Oberstufe Fächer ohne Jahrgangsstufenbeginn definiert haben, brauchen Sie in der Sprachenfolge keine Anpassung vorzunehmen. SchILD-NRW 2 und Lupo ordnen die Sprachenfolgen mit Jahrgangsstufenbeginn den neuen Fremdsprachenfächern der Oberstufe ohne Jahrgangsstufenbeginn korrekt zu.
 
 <a id="Export_der_Daten_von_Schild-NRW_nach_Lupo"></a>
 
-## Export der Daten von Schild-NRW nach Lupo
+<a id="export-der-daten-von-schild-nrw-nach-lupo"></a>
 
-Unter dem Menüpunkt „Datenaustausch \> Export für LuPO \> Initial-Export“ finden Sie die Übergabeschnittstelle zu Lupo. Mit Hilfe dieser Schnittstelle werden Daten von Schild-NRW bereitgestellt, die für eine Beratung notwendig sind. Hierzu gehören die Schülernamen, Klassenbezeichnungen, E-Mail-Adressen, Geburtsdaten, Sprachenfolgen und Fächer der Oberstufe, Fächerprofile. Grundsätzlich gibt es zwei Varianten, die Daten von Schild-NRW an Lupo zu übergeben.
+## Export der Daten von SchILD-NRW 2 nach Lupo
+
+Unter dem Menüpunkt „Datenaustausch \> Export für LuPO \> Initial-Export“ finden Sie die Übergabeschnittstelle zu Lupo. Mit Hilfe dieser Schnittstelle werden Daten von SchILD-NRW 2 bereitgestellt, die für eine Beratung notwendig sind. Hierzu gehören die Schülernamen, Klassenbezeichnungen, E-Mail-Adressen, Geburtsdaten, Sprachenfolgen und Fächer der Oberstufe, Fächerprofile. Grundsätzlich gibt es zwei Varianten, die Daten von SchILD-NRW 2 an Lupo zu übergeben.
 
 <a id="Export_direkt_in_eine_Lupo-Datei"></a>
 
@@ -181,9 +185,9 @@ Unter dem Menüpunkt „Datenaustausch \> Export für LuPO \> Initial-Export“ 
 
 *Initial-Export in eine Lupo-Datei*
 
-Bei diesem Export erzeugt Schild eine Lupo-Datei, welche von Lupo ohne weitere Maßnahmen geöffnet und bearbeitet werden kann. Dieser Export ist für Nutzer von Schild-NRW der Standard-Export.
+Bei diesem Export erzeugt SchILD-NRW 2 eine Lupo-Datei, welche von Lupo ohne weitere Maßnahmen geöffnet und bearbeitet werden kann. Dieser Export ist für Nutzer von SchILD-NRW 2 der Standard-Export.
 
-*SchILD \> Datenaustausch \> Export für LuPO \>Initial-Export für LuPO*
+*SchILD-NRW 2 \> Datenaustausch \> Export für LuPO \>Initial-Export für LuPO*
 
 Navigieren Sie im Feld "*Lupo-Datei*" zum gewünschten Ordner und vergeben Sie einen aussagekräftigen Namen für die Lupo-Beratungsdatei (zum Beispiel Abiturjahrgang_zukünftigeStufe_Halbjahr.lup).
 
@@ -197,7 +201,7 @@ Wenn Sie die Schaltfläche "*Export starten*" anklicken, wird im Ausgabeverzeich
 
 *Initial-Export in Schnittstellen-Dateien*
 
-Bei den Schnittstellen-Dateien handelt es sich um DAT-Dateien mit spaltenseparierten Daten (Trennzeichen Pipe "\|"). Die Dateien können mit einem Texteditor geöffnet und bearbeitet werden. Als Benutzer von Schild-NRW ist dieser Export lediglich zu empfehlen, wenn Sie einen Blick auf die exportierten Daten werfen und diese anpassen wollen. Sie sollten jedoch berücksichtigen, dass jede Manipulation der Daten zu einen fehlerhaften Import in Lupo führen kann.
+Bei den Schnittstellen-Dateien handelt es sich um DAT-Dateien mit spaltenseparierten Daten (Trennzeichen Pipe "\|"). Die Dateien können mit einem Texteditor geöffnet und bearbeitet werden. Als Benutzer von SchILD-NRW 2 ist dieser Export lediglich zu empfehlen, wenn Sie einen Blick auf die exportierten Daten werfen und diese anpassen wollen. Sie sollten jedoch berücksichtigen, dass jede Manipulation der Daten zu einen fehlerhaften Import in Lupo führen kann.
 
 ![Lupo_schnittstellen_dateien1](/bilder/tools/lupo/lupo-schnittstellen-dateien1.png)
 
@@ -209,7 +213,7 @@ Es ist zu empfehlen, dass ein eigener Ordner (zum Beispiel "Schnittstellendateie
 
 *Schnittstellen-Dateien im Texteditor*
 
-Sie können ebenfalls Teilmengen des Initial-Exports an das Beratungstool übergeben. Hierzu stehen in Schild-NRW die Unterpunkte „Nur Schülerdaten exportieren“ und „Nur Fächerdaten exportieren“ zur Verfügung. So können Sie zum Beispiel nachträglich in Schild-NRW hinzugefügte E-Mail-Adressen der Schülerinnen und Schüler an Lupo übergeben, indem Sie „Nur Schülerdaten exportieren“ auswählen. Im Beratungstool existiert als Gegenstück der Menüpunkt „Nur Schülerdaten importieren“. Auf diese Weise können bestehende Daten durch E-Mail-Adressen ergänzt, neue Schüler aufgenommen beziehungsweise nach dem Schuljahreswechsel die Klassen und Jahrgangsstufen angepasst werden.
+Sie können ebenfalls Teilmengen des Initial-Exports an das Beratungstool übergeben. Hierzu stehen in SchILD-NRW 2 die Unterpunkte „Nur Schülerdaten exportieren“ und „Nur Fächerdaten exportieren“ zur Verfügung. So können Sie zum Beispiel nachträglich in SchILD-NRW 2 hinzugefügte E-Mail-Adressen der Schülerinnen und Schüler an Lupo übergeben, indem Sie „Nur Schülerdaten exportieren“ auswählen. Im Beratungstool existiert als Gegenstück der Menüpunkt „Nur Schülerdaten importieren“. Auf diese Weise können bestehende Daten durch E-Mail-Adressen ergänzt, neue Schüler aufgenommen beziehungsweise nach dem Schuljahreswechsel die Klassen und Jahrgangsstufen angepasst werden.
 
 <a id="Export_der_E-Mail-Adresse_und_Fachbelegungen"></a>
 
@@ -223,15 +227,17 @@ Mit dem Auswahlfeld "Auch Fachbelegungen der Oberstufe exportieren" können Sie 
 
 ## Korrektur der exportierten Daten in Lupo
 
-Grundsätzlich können an Lupo übergebene Fächer- und Schülerdaten nachträglich verändert und korrigiert werden. So können Sie in Lupo Schülerinnen und Schüler hinzufügen oder entfernen, Fächer hinzufügen, umbenennen und löschen, Fächerkombinationen einrichten, Abiturfächer korrigieren oder Sprachenlaufbahnen berichtigen. Hierzu stehen im Beratungstool die gleichen Dialoge zur Verfügung, die Sie auch schon aus Schild-NRW kennen. Die Dialoge finden Sie im Menü „Datenbearbeitung“. Die Änderungen können ebenfalls in Beratungsdateien vorgenommen werden, die bereits Fachwahlen enthalten. Wenn Sie zum Beispiel ein Fach umbenennen, so werden die bereits getätigten Wahlen unter der neuen Fachbezeichnung aufgelistet. Lediglich beim Löschen von Fächern ist Vorsicht geboten.
+Grundsätzlich können an Lupo übergebene Fächer- und Schülerdaten nachträglich verändert und korrigiert werden. So können Sie in Lupo Schülerinnen und Schüler hinzufügen oder entfernen, Fächer hinzufügen, umbenennen und löschen, Fächerkombinationen einrichten, Abiturfächer korrigieren oder Sprachenlaufbahnen berichtigen. Hierzu stehen im Beratungstool die gleichen Dialoge zur Verfügung, die Sie auch schon aus SchILD-NRW 2 kennen. Die Dialoge finden Sie im Menü „Datenbearbeitung“. Die Änderungen können ebenfalls in Beratungsdateien vorgenommen werden, die bereits Fachwahlen enthalten. Wenn Sie zum Beispiel ein Fach umbenennen, so werden die bereits getätigten Wahlen unter der neuen Fachbezeichnung aufgelistet. Lediglich beim Löschen von Fächern ist Vorsicht geboten.
 
-Bei der Datenbearbeitung in Lupo ist daran zu denken, dass eine Änderung der Fächerbezeichnung dazu führt, dass die Daten in Kurs42 und Schild-NRW nicht mehr korrekt eingelesen werden können, sofern nicht auch dort die Fächerbezeichnungen entsprechend angepasst werden.
+Bei der Datenbearbeitung in Lupo ist daran zu denken, dass eine Änderung der Fächerbezeichnung dazu führt, dass die Daten in Kurs42 und SchILD-NRW 2 nicht mehr korrekt eingelesen werden können, sofern nicht auch dort die Fächerbezeichnungen entsprechend angepasst werden.
 
 <a id="Schulen_ohne_Schild-NRW"></a>
 
-## Schulen ohne Schild-NRW
+<a id="schulen-ohne-schild-nrw"></a>
 
-Das Programm Lupo kann grundsätzlich auch ohne Schild-NRW verwendet werden. Alle oben genannten Eingaben können auch unmittelbar in Lupo vorgenommen werden. Ebenso können Schüler- und Fächerdaten über die [Standard-Schnittstelle](/schild2/import-export-statistik/schnittstellenbeschreibung) von Lupo importiert und anschließend bearbeitet werden. Hierzu müssen die Dateien "Faecher.dat", "SchuelerBasisdaten.dat" und "SchuelerSprachenfolgen.dat" bereitgestellt werden. Eine genaue Beschreibung des Import-Vorgangs finden Sie im Kapitel "[Erste Schritte in Lupo](/tools/lupo/lupo-erste-schritte-in-lupo)".
+## Schulen ohne SchILD-NRW 2
+
+Das Programm Lupo kann grundsätzlich auch ohne SchILD-NRW 2 verwendet werden. Alle oben genannten Eingaben können auch unmittelbar in Lupo vorgenommen werden. Ebenso können Schüler- und Fächerdaten über die [Standard-Schnittstelle](/schild2/import-export-statistik/schnittstellenbeschreibung) von Lupo importiert und anschließend bearbeitet werden. Hierzu müssen die Dateien "Faecher.dat", "SchuelerBasisdaten.dat" und "SchuelerSprachenfolgen.dat" bereitgestellt werden. Eine genaue Beschreibung des Import-Vorgangs finden Sie im Kapitel "[Erste Schritte in Lupo](/tools/lupo/lupo-erste-schritte-in-lupo)".
 
 [zurück zum Seitenanfang](#top)
 
@@ -239,6 +245,4 @@ Das Programm Lupo kann grundsätzlich auch ohne Schild-NRW verwendet werden. All
 
 [weiter zum Artikel Lupo:Erste Schritte in Lupo](/tools/lupo/lupo-erste-schritte-in-lupo)
 
----
-
-Quelle: [Lupo:Vorbereitungen in Schild-NRW – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo%3AVorbereitungen+in+Schild-NRW&oldid=5584)
+Quelle: [Lupo:Vorbereitungen in SchILD-NRW 2 – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo%3AVorbereitungen+in+Schild-NRW&oldid=5584)

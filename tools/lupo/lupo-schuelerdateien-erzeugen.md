@@ -55,6 +55,4 @@ Die Schülerversion des Beratungstools öffnet lediglich Beratungsdateien mit de
 
 [weiter zum Artikel Lupo:Der Beratungsprozess](/tools/lupo/lupo-der-beratungsprozess)
 
----
-
 Quelle: [Lupo:Schülerdateien erzeugen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo%3ASch%C3%BClerdateien+erzeugen&oldid=5551)

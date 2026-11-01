@@ -18,6 +18,4 @@ Hierzu sind bei diesem Katalog derzeit 176 verschiedene Sprachen hinterlegt.
 
 Wählen Sie die an Ihrer Schule benötigten Sprachen ein und sortieren diese gegebenenfalls in der gewünschten oder am häufigsten benötigten Reihenfolge.
 
----
-
 Quelle: [Verkehrssprachen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Verkehrssprachen&oldid=3777)

@@ -29,6 +29,4 @@ Siehe [SelectAdressArt](/reporting/rap/selectadressart).
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [FilterAdressArt – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FilterAdressArt&oldid=45)

@@ -8,7 +8,7 @@ title: "Menü Extras"
 
 ![Extras](/bilder/administration/benutzer-einstellungen/extras.jpg)
 
-Unter diesem Menüpunkt stehen Ihnen einige Prozesse zur Verfügung, die zur Einstellung und Wartung der Schild-NRW-Umgebung gedacht sind.
+Unter diesem Menüpunkt stehen Ihnen einige Prozesse zur Verfügung, die zur Einstellung und Wartung der SchILD-NRW 2-Umgebung gedacht sind.
 
 - [Programmeinstellungen](/administration/benutzer-einstellungen/programm-einstellungen)
 
@@ -101,9 +101,5 @@ Löscht alle Markierungen im [Schülerliste und Auswahl](/einstieg/grundlagen/co
 Zeigt das Protokoll, wenn die o.g. Funktion eingeschaltet wurde.
 
 - [SchILDChat](/hilfe/zusatzprogramme/schildchat-exe)
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Extras – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Extras&oldid=3736)

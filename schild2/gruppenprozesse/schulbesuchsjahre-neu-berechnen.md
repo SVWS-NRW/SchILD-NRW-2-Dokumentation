@@ -12,8 +12,4 @@ Obwohl das Datenfeld für die Schulbesuchsjahre ausgegraut ist, weil hier ein be
 
 Bitte bedenken Sie aber, dass der Gruppenprozess Schulbesuchsjahre neu berechnen dann wieder den alten Wert einträgt!
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Schulbesuchsjahre neu berechnen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schulbesuchsjahre+neu+berechnen&oldid=1612)

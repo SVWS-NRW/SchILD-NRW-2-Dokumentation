@@ -22,8 +22,4 @@ Nach Klick auf "OK" werden die nichtmöglichen Fächerkombinationen incl. des Ze
 
 Die Spalten "Kursart 1" und "Kursart 2" wurden hier freigelassen. Dies bedeutet, dass diese Einschränkungen sowohl für LKs als auch für GKs gelten.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Nicht mögliche Fachkombinationen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Nicht+m%C3%B6gliche+Fachkombinationen&oldid=2821)

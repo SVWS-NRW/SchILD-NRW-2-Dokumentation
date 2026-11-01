@@ -158,7 +158,9 @@ Die Noten werden in diesen entbehrlichen Fällen von der Schule anstelle von Eng
 
 <a id="Einstellungen_in_Schild-NRW"></a>
 
-## Einstellungen in Schild-NRW
+<a id="einstellungen-in-schild-nrw"></a>
+
+## Einstellungen in SchILD-NRW 2
 
 <a id="Unterrichtsfächer"></a>
 <a id="Unterrichtsf.C3.A4cher"></a>
@@ -179,7 +181,7 @@ Legen Sie ein Fach für die Prüfungssprache an (Schulverwaltung - Unterrichtsf�
 - Bezeichnung im Überweisungszeugnis: zum Beispiel Türkisch
 - Sonstige Einstellungen: Fremdsprache, Auf Zeugnis, Sichtbar
 
-Hinweis: Nach Anlegen des Faches sollte Schild-NRW einmalig neu gestartet werden.
+Hinweis: Nach Anlegen des Faches sollte SchILD-NRW 2 einmalig neu gestartet werden.
 
 <a id="Sprachenfolge"></a>
 
@@ -216,7 +218,5 @@ Fügen Sie den Leistungsdaten ein Fach hinzu:
 - Wochenzeiteinheit: leer
 
 Zeugnisbemerkung: Die Note in Türkisch wurde aufgrund der Sprachprüfung gemäß RdErl. d. KM v. 10.03.1992 (BASS 13-61 Nr. 1) erteilt.
-
----
 
 Quelle: [Sprachprüfung (Feststellungsprüfung) anstelle von Pflichtfremdsprachen oder Wahlpflichtfremdsprachen BASS 13-61 Nr. 1 – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sprachpr%C3%BCfung+%28Feststellungspr%C3%BCfung%29+anstelle+von+Pflichtfremdsprachen+oder+Wahlpflichtfremdsprachen+BASS+13-61+Nr.+1&oldid=5927)

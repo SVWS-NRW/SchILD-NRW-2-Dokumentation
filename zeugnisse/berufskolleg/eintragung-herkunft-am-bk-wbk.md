@@ -26,16 +26,12 @@ XS  980500\
 SP  999000\
 AS  991000, 992000, 993000, 999000\
 
-Um die zugehörigen Schulnummern in Schild-NRW auswählen zu können, fügen Sie diese bitte über den Katalog “Schulen außerhalb NRW” hinzu. ![Herkunftbk2](/bilder/zeugnisse/berufskolleg/herkunftbk2.jpg)
+Um die zugehörigen Schulnummern in SchILD-NRW 2 auswählen zu können, fügen Sie diese bitte über den Katalog “Schulen außerhalb NRW” hinzu. ![Herkunftbk2](/bilder/zeugnisse/berufskolleg/herkunftbk2.jpg)
 
 Hier können Sie über das „+“-Zeichen die benötigten Eintragungen ergänzen. Der Katalog sollte dann in etwa so aussehen:
 
 ![Herkunftbk3](/bilder/zeugnisse/berufskolleg/herkunftbk3.jpg)
 
 Nach dieser Vorbereitung lassen sich die notwendigen Eintragungen beim Schüler durchführen.
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Eintragung Herkunft am BK/WBK – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Eintragung+Herkunft+am+BK%2FWBK&oldid=2329)

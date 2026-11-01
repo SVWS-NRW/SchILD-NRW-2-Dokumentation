@@ -41,6 +41,4 @@ begin
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [FormatRTF – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FormatRTF&oldid=51)

@@ -145,7 +145,4 @@ Beim Export ist zu beachten, dass die Einstellungen korrekt erfolgen. Die auf de
 
 *border=20*
 
-
----
-
 Quelle: [Lernplattformen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lernplattformen&oldid=5384)

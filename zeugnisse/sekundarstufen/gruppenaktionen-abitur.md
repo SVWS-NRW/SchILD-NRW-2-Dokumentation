@@ -18,12 +18,8 @@ Bitte klicken Sie die Artikel an, um Informationen zu den dahinter liegenden Sam
 - [Prüfungsergebnisse](/zeugnisse/sekundarstufen/pruefungsergebnisse-eingeben)
 - [Mündliche Prüfungen festlegen](/zeugnisse/sekundarstufen/muendliche-pruefungen-a1-a3-festlegen)
 - [Abiturergebnis](/zeugnisse/sekundarstufen/gesamtergebnis-berechnen)
-- [Sprachnachweise und Zusatzdaten](/zeugnisse/sekundarstufen/zusatzdaten-latimun-eingeben)
+- [Sprachnachweise und Zusatzdaten](/zeugnisse/sekundarstufen/zusatzdaten-latinum-eingeben)
 - [Gesamtfehlstunden berechnen](/zeugnisse/sekundarstufen/gesamt-fehlstunden-berechnen)
 - [Abiturjahr setzen](/zeugnisse/sekundarstufen/abitur-jahr-setzen-fuer-statistik)
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Gruppenaktionen Abitur – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Gruppenaktionen+Abitur&oldid=1286)

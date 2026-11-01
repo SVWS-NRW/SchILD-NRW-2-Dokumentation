@@ -37,7 +37,7 @@ export async function checkSectionMenus(page,base) {
    const overview=await page.locator('#VPSidebarNav').getByRole('link',{name:'Übersicht',exact:true}).first().getAttribute('href')
    assert.equal(articlePath(overview.replace(prefix,'')),articlePath(section),`Rubrik gewechselt: ${target}`)
    const active=await page.locator('.VPNavBarMenu > .active').evaluateAll(nodes=>nodes.map(node=>(node.querySelector(':scope > .button .text')||node).textContent.trim()))
-   const label=section.startsWith('/tools/')?'Tools':section==='/schild2/'?'Arbeiten mit SchILD2':section==='/hilfe/'?'Hilfe':'Reporting'
+   const label=section.startsWith('/tools/')?'Tools':section==='/schild2/'?'Arbeiten mit SchILD-NRW 2':section==='/hilfe/'?'Hilfe':'Reporting'
    assert.deepEqual(active,[label])
   }
   await check();await page.reload({waitUntil:'networkidle'});await check()

@@ -67,6 +67,4 @@ Die Quelle enthält einen unvollständigen Ereignisblock und die auffällige Zei
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [AufzaehlungRTF – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=AufzaehlungRTF&oldid=2077)

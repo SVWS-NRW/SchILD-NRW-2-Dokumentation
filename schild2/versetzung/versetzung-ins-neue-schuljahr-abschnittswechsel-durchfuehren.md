@@ -6,12 +6,11 @@ title: "Schuljahr und Lernabschnitt wechseln"
 
 # Schuljahr und Lernabschnitt wechseln
 
-
 <a id="Einleitung"></a>
 
 ## Einleitung
 
-Der Schuljahres- oder Halbjahreswechsel kann in Schild-NRW auf verschiedene Arten durchgeführt werden. Entscheidend sind oft die Schulform und die Arbeitsweise an der jeweiligen Schule.
+Der Schuljahres- oder Halbjahreswechsel kann in SchILD-NRW 2 auf verschiedene Arten durchgeführt werden. Entscheidend sind oft die Schulform und die Arbeitsweise an der jeweiligen Schule.
 
 Grundsätzlich kann aber gesagt werden, dass in aller Regel der Weg über Schulverwaltung \> Schule bearbeiten gewählt werden kann.
 
@@ -38,10 +37,10 @@ Die Angaben zu Beginn und Ende sind optional.
 
 Am Ende des Schuljahres muss der Abschnittswechsel mit Versetzung durchgeführt werden. Dazu werden zwei Vorgehensweisen unterschieden.
 
-- Die Schule hat die Zeugnisse mit Schild-NRW gedruckt und alle Versetzungsvermerke bei den Schülern wurden schon gesetzt.
-- Die Schule hat keine Zeugnisse mit Schild-NRW gedruckt und alle Versetzungsvermerke bei den Schülern sind leer.
+- Die Schule hat die Zeugnisse mit SchILD-NRW 2 gedruckt und alle Versetzungsvermerke bei den Schülern wurden schon gesetzt.
+- Die Schule hat keine Zeugnisse mit SchILD-NRW 2 gedruckt und alle Versetzungsvermerke bei den Schülern sind leer.
 
-In beiden Fällen ist es ratsam den Abschnittswechsel über **Schulverwaltung \> Schule bearbeiten** durchzuführen. Im zweiten Fall muss beachten werden, das Schild-NRW bei einem leeren Versetzungsvermerk davon ausgeht, dass der Schülerdatensatz versetzt werden soll. Sollten hier Wiederholer vorhanden sein, muss der Versetzungsvermerk bei der visuellen Kontrolle im entsprechenden Fenster manuell geändert werden. Ansonsten ist das Vorgehen aber gleich.
+In beiden Fällen ist es ratsam den Abschnittswechsel über **Schulverwaltung \> Schule bearbeiten** durchzuführen. Im zweiten Fall muss beachten werden, das SchILD-NRW 2 bei einem leeren Versetzungsvermerk davon ausgeht, dass der Schülerdatensatz versetzt werden soll. Sollten hier Wiederholer vorhanden sein, muss der Versetzungsvermerk bei der visuellen Kontrolle im entsprechenden Fenster manuell geändert werden. Ansonsten ist das Vorgehen aber gleich.
 
 Drücken Sie den Button **Schuljahreswechsel durchführen**. Achten Sie im folgenden Menü darauf, dass der Haken zu den Fächern wie gewünscht gesetzt ist und, dass der Haken **mit visueller Kontrolle** gesetzt ist!
 
@@ -60,10 +59,6 @@ Im Anschluss können die Schüler im Kasten **Neuaufnahme** aktiviert werden.
 
 ## Erklärung des Versetzungsalgorithmus
 
-Im Artikel **[Versetzungsmodelle und Fortschreibung](/schild2/versetzung/hochschreibungsalgorithmus)** wird beschrieben, nach welchen Kriterien Schild-NRW die Hochstufung des Jahrgangs, die Versetzung in die Folgeklasse und die Einteilung in den Status "Abschluss" vornimmt. Dies ist eine sehr technische Erklärung und dient nur als Zusatz für interessierte Nutzer.
-
-------------------------------------------------------------------------
-
----
+Im Artikel **[Versetzungsmodelle und Fortschreibung](/schild2/versetzung/hochschreibungsalgorithmus)** wird beschrieben, nach welchen Kriterien SchILD-NRW 2 die Hochstufung des Jahrgangs, die Versetzung in die Folgeklasse und die Einteilung in den Status "Abschluss" vornimmt. Dies ist eine sehr technische Erklärung und dient nur als Zusatz für interessierte Nutzer.
 
 Quelle: [Versetzung ins neue Schuljahr / Abschnittswechsel durchführen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Versetzung+ins+neue+Schuljahr+%2F+Abschnittswechsel+durchf%C3%BChren&oldid=4653)

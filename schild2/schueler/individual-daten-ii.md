@@ -36,8 +36,4 @@ Abhängig von der Schulform werden weitere Abschnitte eingeblendet:
 
 \- **Berufskolleg**: u.a. sollen hier die Anrechnungsmonate nach BKAZVO - statistikrelevant - eingetragen werden.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Individual-Daten II – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Individual-Daten+II&oldid=3024)

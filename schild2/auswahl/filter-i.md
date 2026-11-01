@@ -39,6 +39,4 @@ Testen Sie den zusammengestellten Filter, bevor Sie ihn übernehmen. Kontrollier
 
 Die Anleitung [Schüler mit Filter I auswählen](/schild2/auswahl/benutzung-von-filter-i-001?rubrik=schild2) führt diese Schritte an drei Beispielen von einer einfachen Auswahl bis zu einer Kombination mehrerer Datenbereiche durch.
 
----
-
 Quelle: [Filter I – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Filter+I&oldid=1265)

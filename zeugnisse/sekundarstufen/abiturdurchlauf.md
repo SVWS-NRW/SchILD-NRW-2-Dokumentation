@@ -10,7 +10,7 @@ Dieses Tutorial soll helfen, die kompletten Abiturberechnungen fehlerfrei durchz
 
 Der gesamte Abiturdurchlauf gliedert sich in mehrere Phasen.
 
-1.  Zuerst müssen die Berechnungen für die Abiturzulassung durchgeführt werden. Voraussetzung ist natürlich, dass alle Leistungsdaten am Ende der Qualifikationsphase 2 in Schild vorliegen.\
+1.  Zuerst müssen die Berechnungen für die Abiturzulassung durchgeführt werden. Voraussetzung ist natürlich, dass alle Leistungsdaten am Ende der Qualifikationsphase 2 in SchILD-NRW 2 vorliegen.\
     Für die Abiturzulassungsberechnung werden die ersten drei Gruppenprozesse der [Gruppenaktionen für das Abitur](/zeugnisse/sekundarstufen/gruppenaktionen-abitur) benötigt. Der erste Gruppenprozess [Leistungsdaten für das Abitur übernehmen](/zeugnisse/sekundarstufen/leistungsdaten-holen) bildet die Grundlage für alle weiteren Abitur-Gruppenprozesse. Wird dieser Prozess gestartet, so werden alle Noten der ausgewählten Schülergruppe für die weiteren Abiturberechnungen unter dem Karteireiter "Abitur" zur Verfügung gestellt. Dort schon vorhandene Daten werden überschrieben.\
 
     ![AbiturTut01](/bilder/zeugnisse/sekundarstufen/abiturtut01.jpg)\
@@ -29,7 +29,7 @@ Der gesamte Abiturdurchlauf gliedert sich in mehrere Phasen.
 
     Der Prozess gibt aber am Ende auch noch eine Textdatei aus, in der aufgelistet ist, welche Schüler für die Abiturprüfung zugelassen werden und welche nicht.\
 2.  Die zweite Phase der Abiturberechnungen findet statt, sobald die Prüfungsergebnisse der schriftlichen und mündlichen Prüfungen vorliegen. In der Regel liegen die mündlichen Ergebnisse als Erstes vor und können auch direkt eingegeben werden. Danach folgt die Eingabe der Ergebnisse der schriftlichen Prüfungen. Eine sehr komfortable Möglichkeit bietet hier der Gruppenprozess [Abiturprüfungsergebnisse eingeben](/zeugnisse/sekundarstufen/pruefungsergebnisse-eingeben). Dort stehen mehrere Sortierung- und Filtermöglichkeiten zur Verfügung, um die Eingabe der Ergebnisse möglichst leicht zu gestalten. Genauere Erläuterungen findet man unter dem entsprechenden Gruppenprozess.\
-    Sind die Ergebnisse der schriftlichen Prüfungen eingegeben, so kann der Gruppenprozess [Mündliche Prüfungen in den Abiturfächern festlegen](/zeugnisse/sekundarstufen/mdl-pruefungen-a1-a3-festlegen) durchgeführt werden. Der Prozess legt fest, in welchen Fächern zusätzliche mündliche (Abweichungs- beziehungsweise Bestehens-) Prüfungen angesetzt werden müssen. In einer Textdatei wird ausgegeben, welche Schüler zusätzliche Prüfungen ablegen müssen. Sollte bei einem Schüler doch noch eine Note im ersten bis dritten Abiturfach fehlen, wird "Abiturergebnisse unvollständig" ausgegeben. Die festgesetzten Prüfungen können dann unter dem Karteireiter "Abitur" eingesehen werden.\
+    Sind die Ergebnisse der schriftlichen Prüfungen eingegeben, so kann der Gruppenprozess [Mündliche Prüfungen in den Abiturfächern festlegen](/zeugnisse/sekundarstufen/muendliche-pruefungen-a1-a3-festlegen) durchgeführt werden. Der Prozess legt fest, in welchen Fächern zusätzliche mündliche (Abweichungs- beziehungsweise Bestehens-) Prüfungen angesetzt werden müssen. In einer Textdatei wird ausgegeben, welche Schüler zusätzliche Prüfungen ablegen müssen. Sollte bei einem Schüler doch noch eine Note im ersten bis dritten Abiturfach fehlen, wird "Abiturergebnisse unvollständig" ausgegeben. Die festgesetzten Prüfungen können dann unter dem Karteireiter "Abitur" eingesehen werden.\
     In der Spalte "MPRF" (= Reihenfolge der mündlichen Prüfungen im 1. - 3. Fach) muss dann die Reihenfolge festgelegt werden, in der die Prüfungen stattfinden sollen. Über die [Druckfunktionen und Reportausgabe](/reporting/verwaltung/druckausgabe) und das passende Formular können dann direkt die Informationen für die Fachprüfungsausschüsse ausgedruckt werden.\
 
     ![AbiturTut04](/bilder/zeugnisse/sekundarstufen/abiturtut04.jpg)\
@@ -43,10 +43,6 @@ Der gesamte Abiturdurchlauf gliedert sich in mehrere Phasen.
 
     ![AbiturTut06](/bilder/zeugnisse/sekundarstufen/abiturtut06.jpg)\
 3.  Die [Gruppenaktionen für das Abitur](/zeugnisse/sekundarstufen/gruppenaktionen-abitur) stellen allerdings noch drei weitere Prozesse zur Verfügung. Die ersten beiden dienen dazu, weitere Informationen zu den Schülern für das Abiturzeugnis zu erfassen. Dies sind die Gruppenprozesse [Sprachnachweise und Zusatzdaten fürs Abitur erfassen](/zeugnisse/sekundarstufen/zusatzdaten-latinum-eingeben) und [Gesamtfehlstunden für das Abitur berechnen](/zeugnisse/sekundarstufen/gesamt-fehlstunden-berechnen).\
-    Der letzte Gruppenprozess [Abiturjahr für die Statistik setzen](/zeugnisse/sekundarstufen/abitur-jahr-setzen-fuer-statistik) bildet den endgültigen Abschluss für die Berechnungen in SchILD und setzt bei allen ausgewählten Schülern das Abitur-Jahr. Dies ist besonders für die Statistik und gegebenenfalls weiteren Datenaustausch wichtig, damit zum Beispiel die richtigen Ergebnisse für den Export der Abiturergebnisse zur Verfügung gestellt werden können.
-
-------------------------------------------------------------------------
-
----
+    Der letzte Gruppenprozess [Abiturjahr für die Statistik setzen](/zeugnisse/sekundarstufen/abitur-jahr-setzen-fuer-statistik) bildet den endgültigen Abschluss für die Berechnungen in SchILD-NRW 2 und setzt bei allen ausgewählten Schülern das Abitur-Jahr. Dies ist besonders für die Statistik und gegebenenfalls weiteren Datenaustausch wichtig, damit zum Beispiel die richtigen Ergebnisse für den Export der Abiturergebnisse zur Verfügung gestellt werden können.
 
 Quelle: [Abiturdurchlauf – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Abiturdurchlauf&oldid=2576)

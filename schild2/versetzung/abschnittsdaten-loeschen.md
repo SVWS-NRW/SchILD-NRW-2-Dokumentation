@@ -12,8 +12,4 @@ Im sich öffnenden Fenster muss das zu löschende Schuljahr und der zu löschend
 
 **Hinweis:** Wie bei allen anderen Löschoperationen auch, sollte vorher eine Datensicherung durchgeführt werden.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Abschnittsdaten löschen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Abschnittsdaten+l%C3%B6schen&oldid=2063)

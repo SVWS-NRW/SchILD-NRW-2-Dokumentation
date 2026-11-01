@@ -6,7 +6,7 @@ title: "Menü Auswahl"
 
 # Menü Auswahl
 
-Der Menüpunkt "Auswahl" hat besondere Bedeutung, da es im Schulalltag häufig nötig ist, die Schülergruppe einzugrenzen. Dies ist vor allem bei der Durchführung von [Gruppenprozessen](/schild2/gruppenprozesse/gruppenprozesse) nötig, oder um Listen zu erstellen, die zum Beispiel nur die evangelischen Schüler eines Jahrgangs oder die Aussiedler an der Schule enthalten sollen. Schild-NRW bietet dazu verschiedene Möglichkeiten an, um diese Eingrenzungen vorzunehmen.
+Der Menüpunkt "Auswahl" hat besondere Bedeutung, da es im Schulalltag häufig nötig ist, die Schülergruppe einzugrenzen. Dies ist vor allem bei der Durchführung von [Gruppenprozessen](/schild2/gruppenprozesse/gruppenprozesse) nötig, oder um Listen zu erstellen, die zum Beispiel nur die evangelischen Schüler eines Jahrgangs oder die Aussiedler an der Schule enthalten sollen. SchILD-NRW 2 bietet dazu verschiedene Möglichkeiten an, um diese Eingrenzungen vorzunehmen.
 
 ![Auswahl_01](/bilder/einstieg/grundlagen/auswahl-01.jpg)
 
@@ -22,23 +22,13 @@ Der Menüpunkt "Auswahl" bietet folgende Unterpunkte für die Filterung an:
 - [Statistikfehler](/schild2/auswahl/schueler-mit-statistik-fehlern-zeigen)
 - [Geschwister](/schild2/auswahl/nur-schueler-mit-geschwistern-zeigen)
 
-------------------------------------------------------------------------
-
 - [Aktive ohne Abschnitt](/schild2/auswahl/schueler-mit-fehlendem-abschnitt-status-aktiv)
 - [Abgänger ohne Abschnitt](/schild2/auswahl/schueler-mit-fehlendem-abschnitt-status-abgang)
 - [Schüler ohne Fächer](/schild2/auswahl/schueler-ohne-faecher)
 
-------------------------------------------------------------------------
-
 - [Schülergruppe anlegen](/schild2/auswahl/individuelle-schuelergruppe-bearbeiten)
 - [Schülergruppe auswählen](/schild2/auswahl/individuelle-schuelergruppe-auswaehlen)
 
-------------------------------------------------------------------------
-
 - [Papierkorb zeigen](/schild2/auswahl/papierkorb-zeigen)
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Auswahl – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Auswahl&oldid=3707)

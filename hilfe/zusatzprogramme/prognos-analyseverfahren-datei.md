@@ -12,6 +12,4 @@ Nach der Auswahl des Analyseverfahrens für eine Datei erscheint ein Explorer-Fe
 
 Nach der Auswahl einer Datei öffnet sich das Hauptfenster, wo die weitere Arbeit mit dem Programm erfolgt.
 
----
-
 Quelle: [Prognos:Analyseverfahren: Datei – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Prognos%3AAnalyseverfahren%3A+Datei&oldid=5081)

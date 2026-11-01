@@ -29,9 +29,9 @@ Alternative 2:
 - Schließen Sie das Fenster. Öffnen Sie den Katalog erneut, sind die Einträge gemäß der eingetragenen Ziffern sortiert.
 - Durch einen Klick auf 'Reorganisieren' werden bei der Sortierung wieder 10-er Schritte eingetragen, die Reihenfolge der Einträge selbst aber nicht verändert.
 
-- Sollten sich in der Liste Einträge befinden, die Sie nicht benötigen, können Sie diese durch Anklicken des Minuszeichens löschen. Alternativ können Sie dieses Element auch 'nicht-sichtbar' (Doppelklick auf das '+' Zeichen in der Spalte 'Sichtbar') schalten. Dieses Element wird nun in SchILD in allen Drop-Down-Menüs ausgeblendet. Durch einen erneuten Doppelklick auf das "-" Zeichen wird der Eintrag wieder aktiviert.
+- Sollten sich in der Liste Einträge befinden, die Sie nicht benötigen, können Sie diese durch Anklicken des Minuszeichens löschen. Alternativ können Sie dieses Element auch 'nicht-sichtbar' (Doppelklick auf das '+' Zeichen in der Spalte 'Sichtbar') schalten. Dieses Element wird nun in SchILD-NRW 2 in allen Drop-Down-Menüs ausgeblendet. Durch einen erneuten Doppelklick auf das "-" Zeichen wird der Eintrag wieder aktiviert.
 
-Eine weitere Gemeinsamkeit: Jeder Katalog kann mit 'Excel-Export' gespeichert werden und liegt so zur weiteren Verwendung im Excel-Format außerhalb von SchILD zur Verfügung.
+Eine weitere Gemeinsamkeit: Jeder Katalog kann mit 'Excel-Export' gespeichert werden und liegt so zur weiteren Verwendung im Excel-Format außerhalb von SchILD-NRW 2 zur Verfügung.
 
 **Besonderheiten der einzelnen Kataloge** finden Sie im Folgenden.
 
@@ -42,36 +42,22 @@ Der Menüpunkt "Kataloge" lässt Einstellungen zu folgenden Unterpunkten zu:
 - [Förderschwerpunkte](/schild2/unterricht-kataloge/foerderschwerpunkte)
 - [Verkehrssprachen](/schild2/unterricht-kataloge/verkehrssprachen)
 
-------------------------------------------------------------------------
-
 - [Erzieherarten](/schild2/unterricht-kataloge/erzieher-arten)
 - [Fahrschülerarten](/schild2/unterricht-kataloge/fahrschueler-arten)
 - [Telefonische Ansprechpartner](/schild2/unterricht-kataloge/telefonische-ansprechpartner)
 
-------------------------------------------------------------------------
-
 - [Sportbefreiungen](/schild2/unterricht-kataloge/sportbefreiungen)
 - [Entlassungsbemerkungen](/schild2/unterricht-kataloge/entlassungs-bemerkungen)
 
-------------------------------------------------------------------------
-
 - [Adressarten](/schild2/unterricht-kataloge/adress-arten)
 - [Allgemeine Adressen](/schild2/unterricht-kataloge/allgemeine-adressen)
-
-------------------------------------------------------------------------
 
 - [Orte](/schild2/unterricht-kataloge/orte)
 - [Ortsteile](/schild2/unterricht-kataloge/ortsteile)
 - [Haltestellen](/schild2/unterricht-kataloge/haltestellen)
 
-------------------------------------------------------------------------
-
 - [Kindergärten](/schild2/unterricht-kataloge/kindergaerten)
 - [Schulen in NRW](/schild2/unterricht-kataloge/schulen-in-nrw)
 - [Andere Schulen und Schulnummern](/schild2/unterricht-kataloge/andere-schulen-und-schulnummern)
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Kataloge – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kataloge&oldid=939)

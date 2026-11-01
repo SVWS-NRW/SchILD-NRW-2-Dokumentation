@@ -56,6 +56,4 @@ Ein Klick auf das kleine Dreieck (Pulldown) öffnet folgende Optionen:
 
 Um die Standard-Schulbescheinigung und das -stammblatt zu drucken, müssen im Reportexplorer vorher die entsprechenden Formulare mit der rechten Maustaste aktiviert werden.
 
----
-
 Quelle: [Iconleiste – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Iconleiste&oldid=1386)

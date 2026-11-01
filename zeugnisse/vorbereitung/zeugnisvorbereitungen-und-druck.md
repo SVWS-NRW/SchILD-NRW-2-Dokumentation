@@ -10,7 +10,7 @@ Dieses Tutorial erläutert zum einen, welche Vorbereitungen für den Zeugnisdruc
 
 **Zeugnisvorbereitungen für den normalen Zeugnisdruck:**
 
-1.  Als Erstes müssen natürlich die Noten, Fehlzeiten und Bemerkungen der Schüler für das aktuelle Halbjahr eingetragen werden. Dies kann über das [Externe Notenmodul](/zeugnisse/vorbereitung/externes-notenmodul) erfolgen oder über die Nutzung des entsprechenden [Gruppenprozesses](/zeugnisse/vorbereitung/noten-mahnungen-und-fehlstunden-eingeben). Das Notenmodul hat den Vorteil, dass für jede Lehrkraft eine Noten-Datei erstellt werden kann, die dann außerhalb von Schild-NRW bearbeitet werden kann. So ist es für jede Lehrkraft möglich, für die von ihr unterrichteten Schüler die Noten, Fehlstunden und Bemerkungen einzutragen. Diese Notendateien werden dann wieder eingelesen und die Noten, Fehlstunden und Bemerkungen sind in der Datenbank enthalten.
+1.  Als Erstes müssen natürlich die Noten, Fehlzeiten und Bemerkungen der Schüler für das aktuelle Halbjahr eingetragen werden. Dies kann über das [Externe Notenmodul](/zeugnisse/vorbereitung/externes-notenmodul) erfolgen oder über die Nutzung des entsprechenden [Gruppenprozesses](/zeugnisse/vorbereitung/noten-mahnungen-und-fehlstunden-eingeben). Das Notenmodul hat den Vorteil, dass für jede Lehrkraft eine Noten-Datei erstellt werden kann, die dann außerhalb von SchILD-NRW 2 bearbeitet werden kann. So ist es für jede Lehrkraft möglich, für die von ihr unterrichteten Schüler die Noten, Fehlstunden und Bemerkungen einzutragen. Diese Notendateien werden dann wieder eingelesen und die Noten, Fehlstunden und Bemerkungen sind in der Datenbank enthalten.
 2.  Bei Schülern, die den aktuellen Abschnitt wiederholen, sollte man eventuell kontrollieren, ob unter 'akt. Halbjahr' die Häkchen für den gewerteten Abschnitt / 2. Durchgang, auch für die zurückliegenden Abschnitte, richtig gesetzt sind.
 3.  Erfolgte die Eingabe der Noten über das externe Notenmodul, sollte man als nächsten Schritt die Gruppenprozesse "[Fächer ohne Noten suchen](/zeugnisse/vorbereitung/faecher-ohne-noten-suchen)" und "[Fehlstundensummen automatisch berechnen](/zeugnisse/vorbereitung/fehlstunden-summen-automatisch-berechnen)" starten, um die Vollständigkeit der Eingaben zu prüfen und die Aufsummierung der Fehlstunden automatisch durchführen zu lassen.
 4.  Über den Gruppenprozess "[Konferenz- und Zeugnisdatum setzen](/zeugnisse/vorbereitung/konferenz-zeugnis-datum-setzen)" können nun für die gefilterte Schülergruppe die jeweiligen Daten gesetzt werden.
@@ -64,9 +64,5 @@ Sind die Zeugnisvorbereitungen abgeschlossen, kann der Druck der Zeugnisse durch
     ![ZeugnisdruckTut04](/bilder/zeugnisse/vorbereitung/zeugnisdrucktut04.jpg)\
 
     Es folgen weitere Auswahlmöglichkeiten und gegebenenfalls zeugnisspezifische Abfragen. Danach beginnt der Druck.
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Zeugnisvorbereitungen und Druck – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zeugnisvorbereitungen+und+Druck&oldid=2981)

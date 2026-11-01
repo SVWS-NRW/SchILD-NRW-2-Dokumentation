@@ -29,6 +29,4 @@ Siehe [SelectAdressName](/reporting/rap/selectadressname).
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [FilterAdresse – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FilterAdresse&oldid=46)

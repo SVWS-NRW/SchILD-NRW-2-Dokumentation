@@ -10,6 +10,4 @@ Dies ist die frühere Wiki-Kategorie zum Konferenzmodul KM2. Die zusammenhängen
 
 ![Km2-logo](/bilder/tools/km2/km2-logo.png) Dokumente im Zusammenhang mit dem Konferenzmodul **KM<sup>2</sup>**.
 
----
-
 Quelle: [Kategorie:Konferenzmodul KM2 – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kategorie%3AKonferenzmodul+KM2&oldid=2241)

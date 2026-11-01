@@ -2,7 +2,9 @@
 
 Noten vorbereiten, Abschlüsse berechnen und Zeugnisse erstellen.
 
-## [Noten und Zeugnisvorbereitung](/zeugnisse/vorbereitung)
+## Noten und Zeugnisvorbereitung
+
+Weitere Informationen finden Sie unter [Noten und Zeugnisvorbereitung](/zeugnisse/vorbereitung).
 
 - [Noten- und Zeugnisprozesse](/zeugnisse/vorbereitung/noten-zeugnisvorbereitung)
 - [Zeugnisdruck vorbereiten](/zeugnisse/vorbereitung/zeugnisvorbereitungen-und-druck)
@@ -10,7 +12,7 @@ Noten vorbereiten, Abschlüsse berechnen und Zeugnisse erstellen.
 - [Excel-Notendateien](/zeugnisse/vorbereitung/excel-notendateien)
 - [Zeugnisformulare importieren](/zeugnisse/vorbereitung/import-der-zeugnisformulare-in-schild-nrw)
 
-## [Grundschulzeugnisse](/zeugnisse/grundschule)
+## Grundschulzeugnisse
 
 - [Textzeugnisse im Report-Explorer](/zeugnisse/grundschule/grundschulzeugnisse-textzeugnis)
 - [Grundschulzeugnisse Ankreuzzeugnis](/tools/notenmodul-grundschule/leistungsdaten)
@@ -18,7 +20,9 @@ Noten vorbereiten, Abschlüsse berechnen und Zeugnisse erstellen.
 - [Textzeugnisse drucken](/zeugnisse/grundschule/textzeugnisse-drucken)
 - [Textzeugnisse erzeugen](/tools/notenmodul-grundschule/rueckgabe-und-druck)
 
-## [Sekundarstufen und Abitur](/zeugnisse/sekundarstufen)
+## Sekundarstufen und Abitur
+
+Weitere Informationen finden Sie unter [Sekundarstufen und Abitur](/zeugnisse/sekundarstufen).
 
 - [Abitur](/zeugnisse/sekundarstufen/abitur)
 - [Abiturberechnungen](/zeugnisse/sekundarstufen/abiturdurchlauf)
@@ -26,9 +30,11 @@ Noten vorbereiten, Abschlüsse berechnen und Zeugnisse erstellen.
 - [Abituraktionen](/zeugnisse/sekundarstufen/gruppenaktionen-abitur)
 - [Leistungsübersicht Sekundarstufe I](/zeugnisse/sekundarstufen/uebersicht-s-i)
 
-## [Berufskolleg](/zeugnisse/berufskolleg)
+## Berufskolleg
 
-- [BK-Abschluss im Überblick](/zeugnisse/berufskolleg/bkabschluss)
+Weitere Informationen finden Sie unter [Berufskolleg](/zeugnisse/berufskolleg).
+
+- [BK-Abschluss im Überblick](/zeugnisse/berufskolleg/bk-abschluss)
 - [BK-Abschlussverfahren](/zeugnisse/berufskolleg/bk-abschluss)
 - [D01 Abschlussberechnung](/zeugnisse/berufskolleg/anlage-d01)
 - [Herkunft am BK und WBK](/zeugnisse/berufskolleg/eintragung-herkunft-am-bk-wbk)

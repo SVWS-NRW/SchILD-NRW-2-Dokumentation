@@ -41,6 +41,4 @@ Ergebnis: lSchuljahrStr = 'Schuljahr 2005/06, 2. Halbjahr'
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [SchuljahrToStrEx – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SchuljahrToStrEx&oldid=93)

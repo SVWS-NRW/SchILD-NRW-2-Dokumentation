@@ -4,14 +4,14 @@ title: "Teilleistungen einrichten und verwalten"
 
 # Teilleistungen einrichten und verwalten
 
-Über die Teilleistungen können Sie zum Beispiel Klassenarbeits- oder Mitarbeitsnoten in Schild erfassen.
+Über die Teilleistungen können Sie zum Beispiel Klassenarbeits- oder Mitarbeitsnoten in SchILD-NRW 2 erfassen.
 
 <a id="Teilleistungsarten_einrichten_und_den_Kursarten_der_Fächer_zuweisen"></a>
 <a id="Teilleistungsarten_einrichten_und_den_Kursarten_der_F.C3.A4cher_zuweisen"></a>
 
 ## Teilleistungsarten einrichten und den Kursarten der Fächer zuweisen
 
-Die in diesem Abschnitt beschriebenen Vorbereitungsarbeiten müssen nur einmal in SchILD durchgeführt werden.
+Die in diesem Abschnitt beschriebenen Vorbereitungsarbeiten müssen nur einmal in SchILD-NRW 2 durchgeführt werden.
 
 Unter *Schulverwaltung-\>Teilleistungs-Arten* müssen alle Teilleistungsarten, die in der Schule benutzt werden sollen, eingetragen werden. Im Beispiel unten sind das die drei Klassenarbeiten für die SekI und die Klausur- und SoMi-Noten der SekII.
 
@@ -34,11 +34,11 @@ Sobald zu Beginn eines Halbjahres allen Schülern ihr Unterricht zugewiesen wurd
 
 ## Teilleistungsnoten eingeben
 
-**Einzelne Teilleisungen** können in SchILD direkt beim Schüler im Reiter *Akt. Halbjahr-\>Leistungsdaten* eingegeben werden. Dazu klicken Sie in der Zeile des jeweiligen Fachs in der Spalte *Teilleistung* auf *Bearbeiten* und gibt die Noten ein.
+**Einzelne Teilleisungen** können in SchILD-NRW 2 direkt beim Schüler im Reiter *Akt. Halbjahr-\>Leistungsdaten* eingegeben werden. Dazu klicken Sie in der Zeile des jeweiligen Fachs in der Spalte *Teilleistung* auf *Bearbeiten* und gibt die Noten ein.
 
 ![Tl4](/bilder/schild2/unterricht-kataloge/tl4.jpg)
 
-Wenn man in Schild **Teilleistungen für eine Gruppe** eingeben möchte, filtert man zunächst auf die Schüler und wählt dann *Gruppenprozesse-\>Teilleistungen: Noteneingabe (nur vorbereitete TL).*
+Wenn man in SchILD-NRW 2 **Teilleistungen für eine Gruppe** eingeben möchte, filtert man zunächst auf die Schüler und wählt dann *Gruppenprozesse-\>Teilleistungen: Noteneingabe (nur vorbereitete TL).*
 
 Hier gibt man bei den *Auswahlkriterien* zunächst das Fach und die Teilleistungsart an und klickt dann auf *Aktualisieren*. Es erscheinen nun alle Schüler, bei denen man die Teilleistung eintragen kann. Bei Bedarf können Sie mit der Schaltfläche *Datum übernehmen* ein Datum setzen. Mit *In Datenbank übernehmen* werden die Teilleistungen gespeichert.
 
@@ -50,10 +50,8 @@ Hier gibt man bei den *Auswahlkriterien* zunächst das Fach und die Teilleistung
 
 ## Teilleistungen ansehen und drucken
 
-In SchILD gibt es bisher keine Möglichkeit, die Teilleistungen der Schüler in einer Übersicht direkt zu sehen. Einzelne Teilleistungen können Sie sich direkt beim Schüler für jedes Fach einzeln aufrufen, indem man in der Spalte *Teilleistung* auf *Bearbeiten* klickt.
+In SchILD-NRW 2 gibt es bisher keine Möglichkeit, die Teilleistungen der Schüler in einer Übersicht direkt zu sehen. Einzelne Teilleistungen können Sie sich direkt beim Schüler für jedes Fach einzeln aufrufen, indem man in der Spalte *Teilleistung* auf *Bearbeiten* klickt.
 
 Wenn man eine Übersicht sehen möchte, müssen Sie einen passenden Report verwenden.
-
----
 
 Quelle: [Teilleistungen einrichten und verwalten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Teilleistungen+einrichten+und+verwalten&oldid=5289)

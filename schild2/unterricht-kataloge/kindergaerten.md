@@ -12,6 +12,4 @@ Da die Kindergärten nicht, vergleichbar zu Schulnummern, katalogisiert sind, m�
 
 Im gefüllten Katalog ist eine Sortierung nach Name, PLZ, Ort und Benutzerdefiniert möglich. Wollen Sie in Drop-Down-Menüs eine bestimmte Reihenfolge erhalten, ist es notwendig, dass Sie die Einstellung "Benutzerdefiniert" wählen.
 
----
-
 Quelle: [Kindergärten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kinderg%C3%A4rten&oldid=455)

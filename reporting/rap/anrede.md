@@ -42,6 +42,4 @@ Ergebnis: Sehr geehrter Herr Meier, sehr geehrte Frau Dr. Müller-Lüdenscheid
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [Anrede – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Anrede&oldid=5722)

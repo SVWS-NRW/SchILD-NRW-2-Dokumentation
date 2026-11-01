@@ -6,7 +6,7 @@ LuPO begleitet die Laufbahnberatung und die Prüfung der Fachwahlen in der Obers
 
 - [Einleitung](/tools/lupo/lupo-einleitung?rubrik=tools)
 - [Installation](/tools/lupo/lupo-installation?rubrik=tools)
-- [Vorbereitungen in SchILD](/tools/lupo/lupo-vorbereitungen-in-schild-nrw?rubrik=tools)
+- [Vorbereitungen in SchILD-NRW 2](/tools/lupo/lupo-vorbereitungen-in-schild-nrw?rubrik=tools)
 - [Erste Schritte](/tools/lupo/lupo-erste-schritte-in-lupo?rubrik=tools)
 - [Beratungsprozess](/tools/lupo/lupo-der-beratungsprozess?rubrik=tools)
 - [Fachwahlen auswerten](/tools/lupo/lupo-auswertung-der-fachwahlen?rubrik=tools)

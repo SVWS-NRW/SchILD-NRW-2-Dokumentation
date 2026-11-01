@@ -12,8 +12,4 @@ Man ausgewählt die gewünschte Schülergruppe und weist dieser dann nach Auswah
 
 Diese Zuweisungen finden sich dann auf Zeugnissen im Unterpunkt 'Zuweisungen' wieder.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Zuweisungen durchführen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zuweisungen+durchf%C3%BChren&oldid=2078)

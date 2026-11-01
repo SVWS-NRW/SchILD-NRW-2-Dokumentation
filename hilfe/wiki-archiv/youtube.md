@@ -10,6 +10,4 @@ Diese Seite bewahrt ein im früheren Wiki eingebundenes Video. Öffnen Sie es ü
 
 [Video ansehen](https://www.youtube-nocookie.com/embed/s4S2L0VCvHg)
 
----
-
 Quelle: [Youtube – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Youtube&oldid=4699)

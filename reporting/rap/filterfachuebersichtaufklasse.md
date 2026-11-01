@@ -41,6 +41,4 @@ Der Aufruf sollte nur in Verbindung mit der Datenquelle "Fachuebersicht" erfolge
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [FilterFachUebersichtAufKlasse – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FilterFachUebersichtAufKlasse&oldid=4282)

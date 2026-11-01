@@ -12,8 +12,4 @@ Wenn nun festgestellt wird, dass ein Gruppenprozess scheinbar nichts "tut", kann
 
 Wichtig: Wenn man "Transaktionsprotokoll zeigen" aufruft, wird anschließend das Transaktionsprotokoll autom. gelöscht (damit der Speicher nicht irgendwann überläuft), das heißt man kann sich ein Protokoll nur einmal anschauen, wenn man es dauerhaft benötigt, muss es separat aus dem Protokollfenster abgespeichert werden.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Transaktionsprotokoll verwenden – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Transaktionsprotokoll+verwenden&oldid=3419)

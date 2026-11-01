@@ -25,6 +25,4 @@ Klicken Sie mit der rechten Maustaste in das Feld desjenigen Erziehers, der eine
 
 Wenn Sie *Neuer Eintrag* wählen, öffnet sich wieder der Katalog mit den Erzieherfunktionen und Sie können den gewünschten Eintrag vornehmen.
 
----
-
 Quelle: [Erzieher mit Funktionen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Erzieher+mit+Funktionen&oldid=3592)

@@ -1,6 +1,6 @@
 # Externes Notenmodul
 
-Das ältere externe Notenmodul verarbeitet die von SchILD ausgegebenen Notendateien. Es bietet gegenüber dem ENM-Notenmanager einen geringeren Funktionsumfang; die folgenden Wiki-Anleitungen bleiben für bestehende Arbeitsabläufe erhalten.
+Das ältere externe Notenmodul verarbeitet die von SchILD-NRW 2 ausgegebenen Notendateien. Es bietet gegenüber dem ENM-Notenmanager einen geringeren Funktionsumfang; die folgenden Wiki-Anleitungen bleiben für bestehende Arbeitsabläufe erhalten.
 
 ## Themen
 

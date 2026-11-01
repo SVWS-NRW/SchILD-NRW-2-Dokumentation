@@ -20,8 +20,4 @@ In der Benutzerverwaltung kann über „Benutzergruppen bearbeiten“ bei den Ko
 
 Die Merkmale bei "Schule bearbeiten" hingegen umfassen schulisch-organisatorische Angaben (wie OGS oder Sprachen) aus einer vorgegebenen, nicht ergänzbaren Liste.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Vermerk-Arten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Vermerk-Arten&oldid=1622)

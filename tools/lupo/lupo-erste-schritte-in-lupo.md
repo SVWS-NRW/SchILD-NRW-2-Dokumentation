@@ -6,12 +6,14 @@ title: "Erste Schritte mit LuPO"
 
 # Erste Schritte mit LuPO
 
-Die ersten Schritte in Lupo hängen davon ab, ob Sie mit Hilfe von Schild-NRW direkt eine Lupo-Datei erstellt haben, ob Sie Schnittstellen-Dateien für Lupo bereitgestellt haben oder ob Sie alle Eingaben in Lupo manuell durchführen wollen.
+Die ersten Schritte in Lupo hängen davon ab, ob Sie mit Hilfe von SchILD-NRW 2 direkt eine Lupo-Datei erstellt haben, ob Sie Schnittstellen-Dateien für Lupo bereitgestellt haben oder ob Sie alle Eingaben in Lupo manuell durchführen wollen.
 
 <a id="Öffnen_einer_von_Schild-NRW_bereitgestellten_Lupo-Datei"></a>
 <a id=".C3.96ffnen_einer_von_Schild-NRW_bereitgestellten_Lupo-Datei"></a>
 
-## Öffnen einer von Schild-NRW bereitgestellten Lupo-Datei
+<a id="offnen-einer-von-schild-nrw-bereitgestellten-lupo-datei"></a>
+
+## Öffnen einer von SchILD-NRW 2 bereitgestellten Lupo-Datei
 
 ![Lupo_ersteinrichtung](/bilder/tools/lupo/lupo-ersteinrichtung.png)
 
@@ -40,15 +42,17 @@ Eine einmal angelegte Beratungsdatei können Sie später jederzeit über das Men
 <a id="Import_der_Exportdateien_aus_SchILD-NRW_(Initial-Import)"></a>
 <a id="Import_der_Exportdateien_aus_SchILD-NRW_.28Initial-Import.29"></a>
 
-## Import der Exportdateien aus SchILD-NRW (Initial-Import)
+<a id="import-der-exportdateien-aus-schild-nrw-initial-import"></a>
 
-Sie können nun den Initial-Import über das Menü „Import \> Import im Schnittstellenformat SchILD-NRW \> Initial-Import“ starten. Dabei werden die Grundeinstellungen der Schule, die Fächer für die Oberstufe, nicht zulässige Fächerkombinationen, Fächerprofile und die Schülerdatensätze aus SchILD-NRW übertragen, sofern Sie an einem Gymnasium oder einer Gesamtschule arbeiten. Wählen Sie das Verzeichnis, in welchem Sie die Initial-Dateien aus SchILD-NRW abgelegt haben und schließen Sie mit OK ab. Nach dem Initial-Import stehen Ihnen also alle relevanten Daten zur Verfügung, die Sie für eine Beratung benötigen.
+## Import der Exportdateien aus SchILD-NRW 2 (Initial-Import)
 
-Nach dem Initial-Import fehlen an Weiterbildungskollegs die Schülerdaten. Diese müssen nach Präzisierungen in der Fächertabelle nachträglich eingelesen werden. An Weiterbildungskollegs werden durch einen Initial-Import nur Grundeinstellungen und Fächer importiert. Nach dem Import muss im Fächerdialog des Beratungstools unter anderem die Wochenstundenzahl der einzelnen Fächer in EF.1 und EF.2 festgelegt werden, erst danach können über "Import \> Import im Schnittstellenformat SchILD-NRW \> Import von Schülerdaten" die Schülerdaten importiert werden, welche sich im gleichen Initial-Verzeichnis befinden.
+Sie können nun den Initial-Import über das Menü „Import \> Import im Schnittstellenformat SchILD-NRW 2 \> Initial-Import“ starten. Dabei werden die Grundeinstellungen der Schule, die Fächer für die Oberstufe, nicht zulässige Fächerkombinationen, Fächerprofile und die Schülerdatensätze aus SchILD-NRW 2 übertragen, sofern Sie an einem Gymnasium oder einer Gesamtschule arbeiten. Wählen Sie das Verzeichnis, in welchem Sie die Initial-Dateien aus SchILD-NRW 2 abgelegt haben und schließen Sie mit OK ab. Nach dem Initial-Import stehen Ihnen also alle relevanten Daten zur Verfügung, die Sie für eine Beratung benötigen.
+
+Nach dem Initial-Import fehlen an Weiterbildungskollegs die Schülerdaten. Diese müssen nach Präzisierungen in der Fächertabelle nachträglich eingelesen werden. An Weiterbildungskollegs werden durch einen Initial-Import nur Grundeinstellungen und Fächer importiert. Nach dem Import muss im Fächerdialog des Beratungstools unter anderem die Wochenstundenzahl der einzelnen Fächer in EF.1 und EF.2 festgelegt werden, erst danach können über "Import \> Import im Schnittstellenformat SchILD-NRW 2 \> Import von Schülerdaten" die Schülerdaten importiert werden, welche sich im gleichen Initial-Verzeichnis befinden.
 
 Grundsätzlich ist es auch möglich, über das Import-Menü Initial-Dateien in mehreren Schritten einzulesen. So können Sie zum Beispiel zuerst über das Menü „Import \> Einzeldateien importieren \> Fächer“ lediglich die Fächer einlesen.Ändert sich der Fächerkanon der Schule oder die Schülergruppe, so können Sie über das Menü „Import“ gezielt einzelne DAT-Dateien einlesen. Beim Import werden die Daten mit den bestehenden Daten verglichen. Auf mögliche Änderungen werden Sie aufmerksam gemacht, so dass Sie jederzeit die Kontrolle über Ihre Daten behalten. Denken Sie jedoch daran, dass zu löschende Fächer zu Datenverlusten bei bereits beratenen Schülerinnen und Schüler führen können. Es empfiehlt sich daher, Fächer in LuPO vorerst nicht zu löschen, sondern alle Kontrollkästchen der nicht mehr benötigten Fächer im Fächerdialog zu deaktivieren Auf diese Weise können Sie mögliche Konflikte bei bestehenden Wahlen abfangen.
 
-Es ist theoretisch auch möglich, alle benötigten Angaben ohne Initial-Import manuell einzugeben. Dies ist insbesondere für Schulen interessant, die keine Schulverwaltungssoftware besitzen. Es bietet sich dabei an, die benötigten Daten nicht einzeln einzutippen, sondern Listen eines Tabellenkalkulationsprogramms in das Importformat zu überführen. So können die Dateien „SchuelerBasisdaten.dat“, „SchuelerSprachenfolgen.dat“, „SchuelerZusatzdaten.dat“ und „Faecher.dat“ leicht erzeugt werden. Diese Dateien bilden die Grundlage für einen SchILD-NRW unabhängigen Initial-Import. Der Aufbau der DAT-Textdateien wird in der [Dateien und Felder der Textschnittstelle](/schild2/import-export-statistik/schnittstellenbeschreibung) erläutert.
+Es ist theoretisch auch möglich, alle benötigten Angaben ohne Initial-Import manuell einzugeben. Dies ist insbesondere für Schulen interessant, die keine Schulverwaltungssoftware besitzen. Es bietet sich dabei an, die benötigten Daten nicht einzeln einzutippen, sondern Listen eines Tabellenkalkulationsprogramms in das Importformat zu überführen. So können die Dateien „SchuelerBasisdaten.dat“, „SchuelerSprachenfolgen.dat“, „SchuelerZusatzdaten.dat“ und „Faecher.dat“ leicht erzeugt werden. Diese Dateien bilden die Grundlage für einen SchILD-NRW 2 unabhängigen Initial-Import. Der Aufbau der DAT-Textdateien wird in der [Dateien und Felder der Textschnittstelle](/schild2/import-export-statistik/schnittstellenbeschreibung) erläutert.
 
 <a id="Datenbearbeitung"></a>
 
@@ -99,7 +103,7 @@ In diesem Dialog können Sie ebenfalls Schülergruppen filtern und die gefiltert
 
 *Lupo-Dialog "Datenbearbeitung &gt; Fächer"*
 
-Im Dialog „Datenbearbeitung \> Fächer“ können Sie Fächer hinzufügen, entfernen und deaktivieren, Abiturfächer festsetzen, Unterrichtssprachen, Leitfächer und Fremdsprachenfächer einrichten sowie nicht mögliche Fächerkombinationen und Fächerprofile anlegen (siehe auch: [Vorbereitungen in Schild-NRW \> Unterrichtsfächer der Oberstufe festlegen und bearbeiten](/tools/lupo/lupo-vorbereitungen-in-schild-nrw#Unterrichtsf%C3%A4cher_der_Oberstufe_festlegen_und_bearbeiten)).
+Im Dialog „Datenbearbeitung \> Fächer“ können Sie Fächer hinzufügen, entfernen und deaktivieren, Abiturfächer festsetzen, Unterrichtssprachen, Leitfächer und Fremdsprachenfächer einrichten sowie nicht mögliche Fächerkombinationen und Fächerprofile anlegen (siehe auch: [Vorbereitungen in SchILD-NRW 2 \> Unterrichtsfächer der Oberstufe festlegen und bearbeiten](/tools/lupo/lupo-vorbereitungen-in-schild-nrw#Unterrichtsf%C3%A4cher_der_Oberstufe_festlegen_und_bearbeiten)).
 
 Sie können in diesem Dialog zu jeder Zeit Fachbezeichnungen oder fehlende Einträge korrigieren. Sollten Sie jedoch Fächer deaktivieren, so hat dies in der Regel auch Auswirkungen auf die Fachwahlen der Schülerinnen und Schüler, sofern das Fach bereits gewählt wurde. Sie können sich jedoch die Schülerinnen und Schüler mit Hilfe der Schaltfläche „Konflikte bei Schülern ermitteln“ ausgeben lassen, auf die die Änderung einen Einfluss genommen hat.
 
@@ -122,10 +126,8 @@ In diesem Dialog kann zudem für jedes Fach für jedes Halbjahr der Einführungs
 
 [zurück zum Seitenanfang](#top)
 
-[zurück zum Artikel Lupo:Vorbereitungen in Schild-NRW](/tools/lupo/lupo-vorbereitungen-in-schild-nrw)
+[zurück zum Artikel Lupo:Vorbereitungen in SchILD-NRW 2](/tools/lupo/lupo-vorbereitungen-in-schild-nrw)
 
 [weiter zum Artikel Lupo:Schülerdateien erzeugen](/tools/lupo/lupo-schuelerdateien-erzeugen)
-
----
 
 Quelle: [Lupo:Erste Schritte in Lupo – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo%3AErste+Schritte+in+Lupo&oldid=5550)

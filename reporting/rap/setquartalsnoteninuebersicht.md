@@ -29,6 +29,4 @@ procedure ReportBeforePrint;
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [SetQuartalsnotenInUebersicht – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetQuartalsnotenInUebersicht&oldid=166)

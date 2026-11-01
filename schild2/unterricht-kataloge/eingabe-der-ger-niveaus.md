@@ -12,7 +12,7 @@ Die Vergabe des GeR-Niveaus hängt unmittelbar mit dem korrekten Eintrag der Spr
 
 **1. Individuelle Erfassung bei jedem Schüler auf der Karteikarte „Laufbahninfo“.**
 
-Diese Methode wird dann verwendet, wenn zum Beispiel Seiteneinsteiger die Schule verlassen und man zu diesen Seiteneinsteigern nicht alle Leistungshalbjahre (und damit Sprachen und deren Noten) in SchILD-NRW erfasst hat. Dies tritt insbesondere dann auf, wenn zum Beispiel Realschüler nach der Klasse 10 das Gymnasium besuchen und eine in der Sek.I begonnene Fremdsprache in der Oberstufe nicht fortführen.
+Diese Methode wird dann verwendet, wenn zum Beispiel Seiteneinsteiger die Schule verlassen und man zu diesen Seiteneinsteigern nicht alle Leistungshalbjahre (und damit Sprachen und deren Noten) in SchILD-NRW 2 erfasst hat. Dies tritt insbesondere dann auf, wenn zum Beispiel Realschüler nach der Klasse 10 das Gymnasium besuchen und eine in der Sek.I begonnene Fremdsprache in der Oberstufe nicht fortführen.
 
 Zunächst sind die Sprachenfolgen korrekt einzutragen (siehe hierzu auch die Informationen zu "Eintrag der Sprachenfolge").
 
@@ -20,7 +20,7 @@ Zunächst sind die Sprachenfolgen korrekt einzutragen (siehe hierzu auch die Inf
 
 Über die Liste hinter ![GER-2](/bilder/schild2/unterricht-kataloge/ger-2.jpg) kann das Referenzniveau nun per Hand angegeben werden. Hierzu hat das Ministerium eine Erläuterung zum GeR-Niveau herausgegeben. Diese Erläuterung muss an der Schule vorliegen.
 
-Falls alle Noten der vom Schüler gewählten Sprachen in SchILD-NRW (auf der Karteikarte „Akt. Halbjahr“) vorliegen, kann der Einfachheit halber durch ![GER-3](/bilder/schild2/unterricht-kataloge/ger-3.jpg) das Referenzniveau berechnet werden.
+Falls alle Noten der vom Schüler gewählten Sprachen in SchILD-NRW 2 (auf der Karteikarte „Akt. Halbjahr“) vorliegen, kann der Einfachheit halber durch ![GER-3](/bilder/schild2/unterricht-kataloge/ger-3.jpg) das Referenzniveau berechnet werden.
 
 **2. Gruppenweise Erfassung des GeR.**
 
@@ -31,7 +31,5 @@ Hinweis: Dieses Verfahren funktioniert nur dann, wenn die Sprachenfolgen korrekt
 Anschließend findet man bei allen ausgewählten Schülern das korrekte Referenzniveau:
 
 ![GER-5](/bilder/schild2/unterricht-kataloge/ger-5.jpg)
-
----
 
 Quelle: [Eingabe der GeR-Niveaus – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Eingabe+der+GeR-Niveaus&oldid=3121)

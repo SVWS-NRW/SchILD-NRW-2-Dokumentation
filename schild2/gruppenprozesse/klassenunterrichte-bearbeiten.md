@@ -12,8 +12,4 @@ Dieser Gruppenprozess dient der Bearbeitung der nicht-kursgebundenen Fächer der
 
 ![GP-Klassenunterrichtbearbeiten](/bilder/schild2/gruppenprozesse/gp-klassenunterrichtbearbeiten.jpg)
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Klassenunterrichte bearbeiten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Klassenunterrichte+bearbeiten&oldid=3613)

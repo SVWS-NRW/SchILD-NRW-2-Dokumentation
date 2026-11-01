@@ -18,6 +18,4 @@ Sie können diesen Katalog aber beliebig erweitern. Da im [Filter I](/schild2/au
 
 In Kombination mit der Eingabe von [Haltestellen](/schild2/unterricht-kataloge/haltestellen), erhalten Sie ein vollständiges Bild, wie und woher jeder einzelne Schüler zur Schule kommt. Angaben, die für die Beförderungskosten oder Verhandlungen mit den Busunternehmen eine nicht zu unterschätzende Information liefern.
 
----
-
 Quelle: [Fahrschüler-Arten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fahrsch%C3%BCler-Arten&oldid=465)

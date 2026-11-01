@@ -15,7 +15,7 @@ Diese historische Änderungsliste hält frühere Anpassungen an Kurs42 fest. Die
 
 - Unter Extras-\>Spezial können jetzt die Teilleistungen separat gelöscht werden. Evtl. existierende Noten bleiben erhalten.
 - Beim Laden eines Schullogos im GIF-Format kam es zu einem Laufzeitfehler, nun behoben.
-- Defaultwert für die verwendete Schild-Version ist nun Schild.2x.
+- Defaultwert für die verwendete SchILD-NRW 2-Version ist nun SchILD-NRW 2.2x.
 
 <a id="19.03.2025_(Kursversion:_3.33.26.525,_Kurs-Notenprogramm:_2.11.12.98)"></a>
 <a id="19.03.2025_.28Kursversion:_3.33.26.525.2C_Kurs-Notenprogramm:_2.11.12.98.29"></a>
@@ -50,16 +50,16 @@ Die Platzhalter 1 - 4 werden nur ausgewertet, wenn der Export kursweise (Option 
 - Im Noteneingabedialog wurde die Vorschlagsnote falsch berechnet, nun behoben.
 - Bei der Arbeit mit einer Schild3-DB kam es unter gewissen Umständen beim Zugriff auf die Fächertabelle in der DB zu einem Fehler, nun behoben.
 - Im Dialog "Schüler intern bearbeiten" wurde das Geschlecht "d" (divers) nicht übernommen, nun behoben.
-- Da auf der SVWS-Seite auf Github zu lesen ist, dass am 18. Oktober das Release v1.0.0 des SVWS-Servers mit Aufruf zum öffentlichen Betatest veröffentlicht werden soll, wurde in Kurs 42 die Abhängigkeit von der Einstellung "Betatest" entfernt. Bitte kontrollieren Sie sicherheitshalber unter Extras-\>Einstellungen, ob unter Allgemeines-\>Verwendete Schild-Version der für Sie zutreffende Wert eingetragen ist.
+- Da auf der SVWS-Seite auf Github zu lesen ist, dass am 18. Oktober das Release v1.0.0 des SVWS-Servers mit Aufruf zum öffentlichen Betatest veröffentlicht werden soll, wurde in Kurs 42 die Abhängigkeit von der Einstellung "Betatest" entfernt. Bitte kontrollieren Sie sicherheitshalber unter Extras-\>Einstellungen, ob unter Allgemeines-\>Verwendete SchILD-NRW 2-Version der für Sie zutreffende Wert eingetragen ist.
 - Der Import von Klausuren aus XML-Dateien wurde überarbeitet, um Fehler, die durch fehlende Felder in Exporten externer Programme verursacht wurden, abzufangen.
-- Der Import der Kurse.dat der Schild-NRW-Schnittstelle wurde überarbeitet.
+- Der Import der Kurse.dat der SchILD-NRW 2-Schnittstelle wurde überarbeitet.
 
 <a id="01.10.2024_(Kursversion:_3.33.14.509,_Kurs-Notenprogramm:_2.11.12.98)"></a>
 <a id="01.10.2024_.28Kursversion:_3.33.14.509.2C_Kurs-Notenprogramm:_2.11.12.98.29"></a>
 
 ## 01.10.2024 (Kursversion: 3.33.14.509, Kurs-Notenprogramm: 2.11.12.98)
 
-- Der Import der Kurse.dat der Schild-NRW-Schnittstelle wurde überarbeitet.
+- Der Import der Kurse.dat der SchILD-NRW 2-Schnittstelle wurde überarbeitet.
 - Überarbeitung des UNTIS-Datenaustausches:
 
 \- Die Stundenzählung beim Export beginnt immer mit der Eins.
@@ -68,7 +68,7 @@ Die Platzhalter 1 - 4 werden nur ausgewertet, wenn der Export kursweise (Option 
 
 \- Im Dialog "Kurse bearbeiten" kann man jetzt nicht nur die U.Nrn löschen, sondern auch erzeugen.
 
-- UNTIS: Datenaustausch: Der Export der GPU010.TXT wurde um das Feld für die Schild-Id-Nummer ergänzt.
+- UNTIS: Datenaustausch: Der Export der GPU010.TXT wurde um das Feld für die SchILD-NRW 2-Id-Nummer ergänzt.
 - Im CNF-Modul gab es einen Fehler in der Behandlung der Regel "Fixiere#Teilnehmer#aller#Alle Lks", nun behoben.
 - Ein Bug in der Markierungsroutine im Blockungsdialog führte dazu, dass beim Blocken fixierte Kurse verdoppelt wurden, nun behoben.
 - Betroffene Blockungen können repariert werden. Vorgehensweise:
@@ -91,7 +91,7 @@ Anschließend funktioniert das Blocken wie gewohnt.
 
 - Bei der Notenübernahme aus alten Notendateien wurden die Teilleistungen nicht korrekt dargestellt, nun behoben.
 - Bei der Anmeldung an der Datenbank konnte das Programm in eine Endlosschleife laufen, nun behoben.
-- Die Option zur Auswahl der Schild-Version (Schild 2.X oder Schild 3.X) ist in den Einstellungen jetzt immer freigeschaltet. Voreingestellt ist Schild 2.0.
+- Die Option zur Auswahl der SchILD-NRW 2-Version (SchILD-NRW 2.X oder Schild 3.X) ist in den Einstellungen jetzt immer freigeschaltet. Voreingestellt ist SchILD-NRW 2.0.
 - Bei der Beendigung des Einstellungsdialoges kam es zu einem Laufzeitfehler, nun behoben.
 - Im Klausurblockungsdialog wurden die Facharbeitsschreiber nicht korrekt berücksichtigt, nun behoben.
 - Die Textkodierung wurde nicht in den Einstellungen gespeichert, nun behoben
@@ -149,7 +149,7 @@ Anschließend funktioniert das Blocken wie gewohnt.
 
 - In der Klausurplanung wurden Facharbeitsschreiber nicht immer berücksichtigt, nun behoben
 - Beim Im/Export von Textdateien, insbesondere von/nach UNTIS, wurde die Textcodierung nicht korrekt beachtet, nun behoben
-- Die Schild-NRW-Schnittstelle wurde um den Teilleistungsimport erweitert
+- Die SchILD-NRW 2-Schnittstelle wurde um den Teilleistungsimport erweitert
 - Kleinere Anpassungsarbeiten für SchildZentral
 - Im Klausurblockungsdialog wird eine Zelle auch automatisch selektiert, wenn sie mit der rechten Maustaste angeklickt wird.
 - Kurs: Im Ladeprozess für Kursreports war eine Anpassungsroutine für ältere Reports deaktiviert, nun wieder aktiviert.
@@ -168,7 +168,7 @@ Dennoch sollten Reports, bei denen diese Anpassungen automatisch vorgenommen wur
 ## 07.12.2022 (Kurs Version 3.31.0.436, Kurs-Notenprogramm: 2.11.7.80)
 
 - Die versehentlich deaktivierte RAP-Funktion "EditRichtext" steht jetzt wieder zur Verfügung.
-- Die Auswertung der Einträge in der Datei Admin.ini von Schild-NRW wurde überarbeitet.
+- Die Auswertung der Einträge in der Datei Admin.ini von SchILD-NRW 2 wurde überarbeitet.
 - Ab dieser Version von Kurs 42 kann ein Kommandozeilen-Parameter "-SCHILDUDL:" übergeben werden, der auf eine UDL-Datei verweist.
 
 Der Aufruf hat die Form
@@ -181,7 +181,7 @@ Beispiel:
 
 `Kurs32.exe -SCHILDUDL: "C:\Schild-NRW\UDL\Karl-Heinz Plum-Gymnasium.udl"`
 
-Dadurch entfällt beim Verbindungsaufbau zur Schild-NRW-DB die Datenbankauswahl.
+Dadurch entfällt beim Verbindungsaufbau zur SchILD-NRW 2-DB die Datenbankauswahl.
 
 - Notendateien können jetzt in einem alternativen Format gespeichert werden. Dabei handelt es sich um Zip-Archive, die mehrere Textdateien enthalten. Durch die Verwendung dieses Formates wird der Datenaustausch erheblich erleichtert. Die Option muss in den Einstellungen auf der Seite "Im/Export, Kurse-\>Im- und Exporteinstellungen-\>Allgemein" gewählt werden.
 
@@ -191,8 +191,8 @@ An Rückmeldungen über das neue Notenprogramm bin ich sehr interessiert.
 
 - Fehler beim Import von Textdateien, nun behoben.
 - Beim Löschen von SoS aus der Blockung wurden die Klausurkurse nicht bereinigt, nun behoben.
-- Beim Import der LuL aus Schild werden wieder alle LuL übernommen, auch wenn Sie nicht in der Benutzerverwaltung von Schild enthalten sind.
-- Beim Blockungsexport nach Schild kam es zu einem Laufzeitfehler, falls externe SoS nach Schild exportiert werden sollten, nun behoben.
+- Beim Import der LuL aus SchILD-NRW 2 werden wieder alle LuL übernommen, auch wenn Sie nicht in der Benutzerverwaltung von SchILD-NRW 2 enthalten sind.
+- Beim Blockungsexport nach SchILD-NRW 2 kam es zu einem Laufzeitfehler, falls externe SoS nach SchILD-NRW 2 exportiert werden sollten, nun behoben.
 - Beim Export der Kurse und der Leistungsdaten wird die Schulnummer jetzt mit übertragen.
 - Im Umwahldialog blieb der Individualplan leer, nun behoben.
 - Der Emailversand von Reports funktioniert wieder.
@@ -201,10 +201,10 @@ Wichtig: Eine existierende ChilkatDelphi32.dll muss unbedingt durch die im Setup
 
 - In der Klausurplanung wurde in den Klausurschienen die existierende Liste der betroffenen Kurse nicht gelöscht, nun behoben.
 - Der Stundenrasterdialog wurde überarbeitet.
-- Beim Kursexport in die Schild-DB kam es unter gewissen Umständen zu einem Laufzeitfehler, nun behoben.
+- Beim Kursexport in die SchILD-NRW 2-DB kam es unter gewissen Umständen zu einem Laufzeitfehler, nun behoben.
 - Untis-Planimport überarbeitet. Vor dem Import wird abgefragt, ob die Kurslehrer überschrieben werden sollen.
 - Fehler beim E-Mail-Versand von Reports beseitigt.
-- Diese Version von Kurs 42 benötigt zum direkten Datenbankzugriff auf die Schild-DB nicht mehr die SchildUA.dll. Daraus ergibt sich (leider), dass der Export in die DB im Schnittstellenformat nur noch funktioniert, wenn explizit Textdateien erzeugt werden, die dann in Schild über die Textschnittstelle importiert werden müssen.
+- Diese Version von Kurs 42 benötigt zum direkten Datenbankzugriff auf die SchILD-NRW 2-DB nicht mehr die SchildUA.dll. Daraus ergibt sich (leider), dass der Export in die DB im Schnittstellenformat nur noch funktioniert, wenn explizit Textdateien erzeugt werden, die dann in SchILD-NRW 2 über die Textschnittstelle importiert werden müssen.
 - Die Blockungen können jetzt neben dem klassischen Format (.blo) und in einer sqLite-DB (.sqblo) jetzt auch im Textformat in einer ZIP-Datei gespeichert werden. Diese Dateien haben die Endung .zblo und können wie normale ZIP-Dateien mit entsprechenden Tools geöffnet werden.
 
 Das gewünschte Standardformat kann unter "Extras-\>Einstellungen-\>Allgemeines-\>Dateiformat" gewählt werden. Standard ist "Classic"
@@ -301,7 +301,7 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 - Im Dialog "Klausurtermine bearbeiten" können (auf Wunsch von Anwendern) Aufsichtslehrer und Klausurräume wieder getrennt über die Tastatur bzw. Dropdown-Listen eingegeben werden.
 - Beim Laden einer Blockung wird automatisch eine Fehlerbereinigung durchgeführt.
 - Bei der Klausurterminfestlegung können die Klausuren jetzt (wieder) in einer Pause beginnen und enden.
-- Import der Leistungsdaten aus der Schild-NRW-Schnittstelle überarbeitet
+- Import der Leistungsdaten aus der SchILD-NRW 2-Schnittstelle überarbeitet
 - Unter Extras gibt es den neuen Menüpunkt "Dateisperrung zurücksetzen," mit dem eine ungültig gewordene Lockdatei gelöscht werden kann.
 - Erweiterung im Dialog "Schüler manuell zuweisen": Hier können jetzt auch alle Schüler (nicht nur klassenweise) angezeigt werden,
 - Vor dem Export der Blockung in die DB wird überprüft, ob es Unterschiede zwischen Schülern in der Blockung und der DB gibt.
@@ -339,7 +339,7 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 - Fehlerbereinigungsroutine erweitert
 - Fehler im Dialog "Kurse bearbeiten" (... nicht im Editiermodus...) behoben.
 - Beim Nachladen der Schüler wurde die Schul-Emailadresse nicht übernommen, nun behoben
-- Beim Mailversand an Schüler wird die Schild-Einstellung (Schul-Email-Adresse verwenden) berücksichtigt.
+- Beim Mailversand an Schüler wird die SchILD-NRW 2-Einstellung (Schul-Email-Adresse verwenden) berücksichtigt.
 - Format-Fehler bein Laden von FORQ-Schülern beseitigt
 
 <a id="03.05.2021_(Kurs_Version:_3.27.8.374,_Noten:_2.11.2.66"></a>
@@ -363,11 +363,11 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 ## 11.04.2021 (Kurs Version: 3.27.6.372, Noten: 2.11.2.66
 
 - Beim Aufruf der Stundenraster-Bearbeitung kam es zu einer Schutzverletzung, nun behoben.
-- Beim Export über die Schild-NRW-Schnittstelle wurde ein Datum nicht korrekt übermittelt, nun behoben.
+- Beim Export über die SchILD-NRW 2-Schnittstelle wurde ein Datum nicht korrekt übermittelt, nun behoben.
 - In der Datenquelle "Blockplan" wurde der Lehrer nicht ausgegeben, nun behoben.
 - Bei der Bearbeitung der Schülerliste wurden Sonderzeichen im Namen nicht korrekt übernommen, nun behoben.
 - Im Fachwahldialog wurde bei der gruppenweisen Zuweisung von Fächern die Kursart überschrieben, nun behoben.
-- Beim Schülerabgleich mit der Schild-DB kam es zu einer (unkritischen) Schutzverletzung, nun behoben.
+- Beim Schülerabgleich mit der SchILD-NRW 2-DB kam es zu einer (unkritischen) Schutzverletzung, nun behoben.
 - Die Sortierung nach Kursart im Blockungsdialog wurde noch einmal überarbeitet
 - Beim Druck von Klausurübersichten kam es beim Druck der letzten Seite zu einer Schutzverletzung, nun behoben.
 
@@ -559,7 +559,7 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 
 ## 26.08.2020 (Kurs Version: 3.24.4.353, Noten: 2.10.2.50
 
-- In den Schülerdatensatz wird jetzt auch die externeId-Nummer sus Schild-NRW importiert. Diese externe Id-Nummer wird in dem UNTIS-Export (gpu010) als "Fremdschlüssel (ab Version 2012) " exportiert.
+- In den Schülerdatensatz wird jetzt auch die externeId-Nummer sus SchILD-NRW 2 importiert. Diese externe Id-Nummer wird in dem UNTIS-Export (gpu010) als "Fremdschlüssel (ab Version 2012) " exportiert.
 
 <!-- -->
 
@@ -701,7 +701,7 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 
 - Fehler im Noten Im/Export von Kurs 42 und Noten 42 behoben
 - Darstellungsfehler in Noten (Gesamtnote), nun behoben.
-- Beim Import der Schülerdaten aus Schild-NRW wird die Einstellung "Vorzugsweise Schul-Emailadresse benutzen" ausgewertet.
+- Beim Import der Schülerdaten aus SchILD-NRW 2 wird die Einstellung "Vorzugsweise Schul-Emailadresse benutzen" ausgewertet.
 - Die Lockdatei wird jetzt erst beim Schließen der Blockungsdatei gelöscht.
 
 <a id="11.11.2019_(Kurs:_Version:_3.22.14.310,_Noten:_2.9.0.45"></a>
@@ -710,7 +710,7 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 ## 11.11.2019 (Kurs: Version: 3.22.14.310, Noten: 2.9.0.45
 
 - Fehler bei der Darstellung von Stundenrastern, nun behoben.
-- Noten: Anpassung an die neue Passwortvergabe in Schild-NRW.
+- Noten: Anpassung an die neue Passwortvergabe in SchILD-NRW 2.
 
 <a id="10.11.2019_(Kurs:_Version:_3.22.13.310"></a>
 <a id="10.11.2019_.28Kurs:_Version:_3.22.13.310"></a>
@@ -759,7 +759,7 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 
 ## 17.09.2019 (Kurs: Version: 3.22.8.308
 
-- Beim Laden der Lehrer aus der DB wird die EMail-Adresse in Abhängigkeit von der Einstellung in Schild-NRW (dienstliche/private) geladen.
+- Beim Laden der Lehrer aus der DB wird die EMail-Adresse in Abhängigkeit von der Einstellung in SchILD-NRW 2 (dienstliche/private) geladen.
 - Beim Export der gpu017.txt (Klausuren) für UNTIS kann jetzt gewählt werden, ob beim Export eine Zeile pro Schiene (Standard) oder eine Zeile pro Kurs geschrieben werden soll. Die Einstellung kann unter Extras-\>Einstellungen-\>Im/Export,Kurse bearbeitet werden.
 - Im Dialog "Kurse bearbeiten" kann jetzt die UNTIS-Unterrichtsnummer bearbeitet werden.
 
@@ -768,7 +768,7 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 
 ## 12.09.2019 (Kurs: Version: 3.22.7.305
 
-- Das EMail-Feld der Lehrer wird jetzt in Abhängigkeit von den Einstellungen in Schild-NRW gefüllt.
+- Das EMail-Feld der Lehrer wird jetzt in Abhängigkeit von den Einstellungen in SchILD-NRW 2 gefüllt.
 
 <a id="09.09.2019_(Kurs:_Version:_3.22.6.305"></a>
 <a id="09.09.2019_.28Kurs:_Version:_3.22.6.305"></a>
@@ -847,7 +847,7 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 - Daten vom Typ String werden ebenfalls in Doublequotes eingeschlossen
 - Die Textdateien werden mit der in den Einstellungen festgelegten Kodierung erzeugt.
 - Als Trennzeichen wird das im Betriebssystem (Systemsteuerung-\>Region) vereinbarte Listentrennzeichen verwendet.
-- Diese Änderungen betreffen nicht die für den Austausch mit der Schild-NRW-Schnittstelle vorgesehenen Textdateien.
+- Diese Änderungen betreffen nicht die für den Austausch mit der SchILD-NRW 2-Schnittstelle vorgesehenen Textdateien.
 
 <a id="24.10.2018_(Kurs:_Version_3.20.52.295)"></a>
 <a id="24.10.2018_.28Kurs:_Version_3.20.52.295.29"></a>
@@ -1066,7 +1066,7 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 ## 17.09.2016 (Kurs: Version 3.20.13.284, Noten: Version 2.8.1.34)
 
 - Überarbeitung des UNTIS-Planimportes über gpu001.txt. Ab sofort wird auch gpu002.txt ausgewertet, um A- und B-Wochenpläne importieren zu können. Unter Extras-\>Einstellungen-\>Im/Export kann festgelegt werden, durch welche Zeichenkette A- bzw. B-Woche identifiziert werden. Ausgewertet wird aus gpu002.txt das Feld \#12 (Gruppe).
-- Beim Export der Kurse nach Schild-NRW wurde das Feld für die Stunden des Kursleiters mit einem falschen Wert gefüllt; nun behoben.
+- Beim Export der Kurse nach SchILD-NRW 2 wurde das Feld für die Stunden des Kursleiters mit einem falschen Wert gefüllt; nun behoben.
 
 <a id="08.09.2016_(Kurs:_Version_3.20.12.284,_Noten:_Version_2.8.1.34)"></a>
 <a id="08.09.2016_.28Kurs:_Version_3.20.12.284.2C_Noten:_Version_2.8.1.34.29"></a>
@@ -1172,7 +1172,7 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 
 ## 09.08.2015 (Kurs Version 3.19.0.280, Noten: Version 2.7.15.32 )
 
-- Eine besondere UDL-Verknüpfung für die Statistik-DB ist nicht mehr nötig, da ab sofort grundsätzlich auf die Stakue.mdb im Keytabs-Verzeichnis von Schild-NRW zugegriffen wird.
+- Eine besondere UDL-Verknüpfung für die Statistik-DB ist nicht mehr nötig, da ab sofort grundsätzlich auf die Stakue.mdb im Keytabs-Verzeichnis von SchILD-NRW 2 zugegriffen wird.
 - Beim Untis-Export kann jetzt auch die gpu019.txt (enthält die Informationen über Schienen und Kurse) erzeugt werden. Aufruf über 'Im/Export-\>Untis Im/Export-\>Untis-Dateien einzeln exportieren-\>Schienen'.
 - Die Im/Exportschnittstelle "Raumplan" wurde um das Feld 'Lehrer' ergänzt. Der Header enthält jetzt die Felde
 - Kurs;"Tag";"Std";"Woche";"Raum";"Lehrer"
@@ -1266,7 +1266,7 @@ Kursbelegung.txt
 
 - Fehler bei der Stundenplananzeige beseitigt.
 - Beim Direktimport aus LuPO wurden bei neu angelegten Schülern nicht alle Fächer importiert, nun behoben.
-- Beim Export nach Schild-NRW wurden unter gewissen Umständen die Fächer nicht exportiert, nun behoben.
+- Beim Export nach SchILD-NRW 2 wurden unter gewissen Umständen die Fächer nicht exportiert, nun behoben.
 
 <a id="02.04.2015_(Kurs_Version_3.18.24.276,_Noten:_Version_2.7.13.32_)"></a>
 <a id="02.04.2015_.28Kurs_Version_3.18.24.276.2C_Noten:_Version_2.7.13.32_.29"></a>
@@ -1433,7 +1433,7 @@ Notenmobil=1
 
 - Kurs 42: Der Klausurplanungsbereich wurde überarbeitet.
 - Noten 42: Die (unnötige) Abhängigkeit von SchildUAneu.dll wurde beseitigt
-- Das Plugin für die Plananzeige in Schild-NRW wurde überarbeitet, so dass eine Schutzverletzung bei der Plananzeige vermieden wird.
+- Das Plugin für die Plananzeige in SchILD-NRW 2 wurde überarbeitet, so dass eine Schutzverletzung bei der Plananzeige vermieden wird.
 
 <a id="11.02.2014_(Kurs:_Version_3.17.1.275,_Noten:_Version_2.7.1.32)"></a>
 <a id="11.02.2014_.28Kurs:_Version_3.17.1.275.2C_Noten:_Version_2.7.1.32.29"></a>
@@ -1482,7 +1482,7 @@ Notenmobil=1
 - Fehler in der Fächerbearbeitung beseitigt
 - Die Menüstruktur wurde verändert; einige Menüpunkte aus dem "Spezial"-Bereich wurden in logisch sinnvollere Bereiche verlagert.
 - Die in der Blockung gespeicherten Fächer können jetzt auch ohne DB-Zugriff bearbeitet werden.
-- Das Kursplugin brachte unter gewissen Umständen Schild-NRW zum Absturz, nun behoben.
+- Das Kursplugin brachte unter gewissen Umständen SchILD-NRW 2 zum Absturz, nun behoben.
 
 <a id="04.12.2013_(Kurs:_Version_3.15.12.271,_Noten:_Version_2.6.33.31)"></a>
 <a id="04.12.2013_.28Kurs:_Version_3.15.12.271.2C_Noten:_Version_2.6.33.31.29"></a>
@@ -1578,7 +1578,7 @@ Notenmobil=1
 - o gpu019.txt (Unterrichtsfolge)
 - erwartet.
 - Im Dialog 'Kurse einrichten (ohne Fachwahl)' wurden Einträge fälschlicherweise mehrfach angelegt, nun behoben.
-- Beim Setup wird jetzt nach dem Arbeitsverzeichnis gefragt, in dem die Einstellungen gespeichert werden sollen. Kurs 42 bezieht die Information über dieses Arbeitsverzeichnis aus der Datei Admin.ini, die im Programmverzeichnis erwartet wird. Die Datei ist identisch aufgebaut wie die Admin.ini von Schild-NRW:
+- Beim Setup wird jetzt nach dem Arbeitsverzeichnis gefragt, in dem die Einstellungen gespeichert werden sollen. Kurs 42 bezieht die Information über dieses Arbeitsverzeichnis aus der Datei Admin.ini, die im Programmverzeichnis erwartet wird. Die Datei ist identisch aufgebaut wie die Admin.ini von SchILD-NRW 2:
 - \[Administration\]
 - AdminDir=Hier_steht_der_Pfad_zum_Einstellungsverzeichnis
 - Wenn Admin.ini nicht existiert oder AdminDir ein Leerstring ist, wird als Verzeichnis für die Einstellungen das Programmverzeichnis verwendet. Bei einem Einsatz im Netzwerk sollte ein UNC-Pfad eingetragen werden.
@@ -1638,7 +1638,7 @@ Notenmobil=1
 ## 07.12.2012 (Kurs: Version 3.12.15.260, Noten: Version 2.6.26.27)
 
 - Die Klausurplanung wurde in vielen Details überarbeitet.
-- in Kurs 42 wurde der Export der Klausur- und SoMi-Noten implementiert. Dieser Export funktioniert zur Zeit nur, wenn unter Extras-\>Einstellungen-\>Verschiedenes die Option 'Export mit internen Routinen' aktiviert ist. Damit der Export alter Blockungsdateien funktioniert, muss vor einem Export zunächst die Lehrertabelle aktualisiert werden: Bearbeiten-\>Lehrerliste bearbeiten-\>Lehrer aus DB laden, Änderungen übernehmen. Nach dem Export sollte die Blockung unbedingt gespeichert werden, weil in der Blockung Informationen gespeichert werden, die für eine eventuelle spätere Aktualisierung nötig sind. Der Export funktioniert logischerweise erst mit einer Schild-Version \>= 2.0.2.5.
+- in Kurs 42 wurde der Export der Klausur- und SoMi-Noten implementiert. Dieser Export funktioniert zur Zeit nur, wenn unter Extras-\>Einstellungen-\>Verschiedenes die Option 'Export mit internen Routinen' aktiviert ist. Damit der Export alter Blockungsdateien funktioniert, muss vor einem Export zunächst die Lehrertabelle aktualisiert werden: Bearbeiten-\>Lehrerliste bearbeiten-\>Lehrer aus DB laden, Änderungen übernehmen. Nach dem Export sollte die Blockung unbedingt gespeichert werden, weil in der Blockung Informationen gespeichert werden, die für eine eventuelle spätere Aktualisierung nötig sind. Der Export funktioniert logischerweise erst mit einer SchILD-NRW 2-Version \>= 2.0.2.5.
 - Beim Versand der Notendateien per Email wird, falls im Anwendungsverzeichnis des Benutzers (Users\Benutzername\Appdata\Roaming\Kurs 42) die Datei 'NotenBegleitText.txt' gefunden wird, der Inhalt dieser Datei als Mailbody verwendet.
 - Die Systemverzeichnisse können über Hilfe-\>Systemverzeichnisse angezeigt und mit dem Windows-Explorer auch direkt angesteuert werden.
 - Das Auswahlmenü für den Druck wurde verändert, so dass neben den drei Optionen 'Vorschau', 'Drucker' und 'Email' jetzt 'Report-Vorgabe' angeboten wird, so dass das Ausgabemedium gewählt werden kann, das in den Report-Eigenschaften als 'Devicetype' eingegtragen ist.
@@ -1665,7 +1665,7 @@ Notenmobil=1
 - Beim Druck war im Druckdialog immer die Option "Archivdruck" mit Ausgabegerät "PDF" gesetzt. Bei einem neuen Report wird diese Option weiterhin defaultmäßig gesetzt, kan aber durch Veränderung der ernsprechenden Option im Report später deaktiviert werden.
 - Das Drag-And-Drop-Verhalten des Formularexplorers wurde erweitert, so dass jetzt Dateien auch (z.B.) in den Windows-Explorer gezogen werden können. Der umgekehrte Weg funktionierte schon immer,
 - Die Aufsichtsbelegung wurde dahingehend verändert, dass der Kurslehrer bei der Festlegung der Klausurtermine nur dann als Aufsichtslehrer eingetragen wird, wenn er am Klausurtermin in den betroffenen Stunden tatsächlich Unterricht im Kurs hat, anderenfalls steht dort nur '=='. Die freien Aufsichten müssen dann natürlich im Termindialog oder extern festgelegt werden.
-- Der Dialog 'Fächer bearbeiten' wurde modifiziert, so dass, wenn Fächer von der linken Seite (Schild-NRW) nach rechts (Blockung) gezogen werden, geprüft wird, ob es bereits ein Fach mit gleicher ID-Nummer in der Blockung gibt. Nach Rückfrage kann das existierende Fach (Kürzel, Bezeichnung, Fachgruppe) überschrieben werden.
+- Der Dialog 'Fächer bearbeiten' wurde modifiziert, so dass, wenn Fächer von der linken Seite (SchILD-NRW 2) nach rechts (Blockung) gezogen werden, geprüft wird, ob es bereits ein Fach mit gleicher ID-Nummer in der Blockung gibt. Nach Rückfrage kann das existierende Fach (Kürzel, Bezeichnung, Fachgruppe) überschrieben werden.
 
 <a id="21.07.2012_(Kurs:_Version_3.11.16.258,_Noten:_Version_2.6.23.27)"></a>
 <a id="21.07.2012_.28Kurs:_Version_3.11.16.258.2C_Noten:_Version_2.6.23.27.29"></a>
@@ -1690,7 +1690,5 @@ Notenmobil=1
 ## 03.05.2012 (Kurs: Version 3.11.8.258, Noten: Version 2.6.23.27)
 
 - Beim Import der von LuPO erzeugten Leistungsdaten kam es zu einem Fehler, nun behoben.
-
----
 
 Quelle: [Kurs42:Versionsgeschichte – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurs42%3AVersionsgeschichte&oldid=6010)

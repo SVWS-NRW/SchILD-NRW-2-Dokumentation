@@ -36,6 +36,4 @@ Label1.Caption:=StringInput('Bitte geben Sie das KFZ-Kennzeichen ein','NRW-4711'
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [StringInput – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=StringInput&oldid=125)

@@ -39,6 +39,4 @@ E12 Berufspraktikum Erzieher/innen (FS/BP/Erz 2j; TZ)
 
 E13 Fachschule Teilzeit (BW 3j; TZ)
 
----
-
 Quelle: [BK-Abschluss:Anlage-E – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=BK-Abschluss%3AAnlage-E&oldid=4747)

@@ -10,8 +10,4 @@ Dieser Gruppenprozess berechnet bei Aktivierung automatisch die Gesamtfehlstunde
 
 Wurden die Gesamtfehlstunden über den Gruppenprozess [Sprachnachweise und Zusatzdaten fürs Abitur erfassen](/zeugnisse/sekundarstufen/zusatzdaten-latinum-eingeben) eingegeben, sollte man diesen Prozess nicht mehr ausführen.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Gesamt-Fehlstunden berechnen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Gesamt-Fehlstunden+berechnen&oldid=2054)

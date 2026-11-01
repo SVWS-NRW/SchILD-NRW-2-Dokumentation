@@ -77,10 +77,6 @@ Der Button "vorl. Abschlussnoten berechnen" muss dann erneut betätigt werden. M
 
 Die Spalte "vorl. Abschlussnoten" wird auf max. ein Mangelhaft geprüft, außerdem muss die Praktische Prüfung mindestens ausreichend sein.
 
-------------------------------------------------------------------------
-
 Zurück zu Anlage D
-
----
 
 Quelle: [Anlage D01 – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Anlage+D01&oldid=4196)

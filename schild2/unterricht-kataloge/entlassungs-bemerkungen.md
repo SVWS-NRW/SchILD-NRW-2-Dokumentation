@@ -14,6 +14,4 @@ Sollten Sie weitere Einträge ergänzen wollen (wie zum Beispiel "Bildungsabbruc
 
 Die Anzeige-Reihenfolge im 'Drop-Down-Menü' können Sie hier ebenfalls einstellen.
 
----
-
 Quelle: [Entlassungs-Bemerkungen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Entlassungs-Bemerkungen&oldid=527)

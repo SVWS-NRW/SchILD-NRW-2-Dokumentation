@@ -29,6 +29,4 @@ procedure Faechervorbelegen;
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [Faechervorbelegen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Faechervorbelegen&oldid=39)

@@ -6,11 +6,9 @@ title: "Beispiel einer eigenen Report-Datenquelle"
 
 # Beispiel einer eigenen Report-Datenquelle
 
-Dieses Konfigurationsbeispiel ergänzt die Anleitung **Eigene Datenquellen für SchILD-Reports**. Es zeigt Abfragen und Zuordnungen für mehrere Datenquellen. Beginnen Sie mit der Grundlagenanleitung, bevor Sie die nachfolgenden technischen Angaben verwenden.
+Dieses Konfigurationsbeispiel ergänzt die Anleitung **Eigene Datenquellen für SchILD-NRW 2-Reports**. Es zeigt Abfragen und Zuordnungen für mehrere Datenquellen. Beginnen Sie mit der Grundlagenanleitung, bevor Sie die nachfolgenden technischen Angaben verwenden.
 
 \[Queries\] \_\_qryNeueDatenQuelle
-
----------------------------------------------
 
 Neue Datenquelle
 
@@ -85,7 +83,5 @@ Epochenunterricht
 \[Datasource\_\_qrySchuelerLeistungenHJ2EP\] Name=\_\_dsSchuelerLeistungenHJ2EP
 
 \[Pipeline\_\_qrySchuelerLeistungenHJ2EP\] Name=\_\_pplnSchuelerLeistungenHJ2EP OpendataSource=1 CloseDataSource=1 SkipWhenNoRecords=0 UserName=xxSchuelerLeistungenHJ2EP
-
----
 
 Quelle: [DQ01-Demo.spd – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=DQ01-Demo.spd&oldid=3513)

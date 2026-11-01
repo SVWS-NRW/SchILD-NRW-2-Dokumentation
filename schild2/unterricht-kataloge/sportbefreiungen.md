@@ -16,7 +16,4 @@ Eine benutzerdefinierte Sortierreihenfolge kann durch Aktivierung des entspreche
 
 Spätestens durch einen Klick auf 'Reorganisieren' werden die Zahlen in der Spalte 'Sortierung' entsprechend der eingestellten Reihenfolge aktualisiert.
 
-
----
-
 Quelle: [Sportbefreiungen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sportbefreiungen&oldid=522)

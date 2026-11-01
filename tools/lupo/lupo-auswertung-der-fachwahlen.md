@@ -30,6 +30,4 @@ Im Wahldialog können die bestehenden Konflikte mit Hilfe der Schaltfläche „K
 
 [weiter zum Artikel Lupo:Übergabe der Fachwahlen an Kurs42](/tools/lupo/lupo-uebergabe-der-fachwahlen-an-kurs42)
 
----
-
 Quelle: [Lupo:Auswertung der Fachwahlen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo%3AAuswertung+der+Fachwahlen&oldid=5553)

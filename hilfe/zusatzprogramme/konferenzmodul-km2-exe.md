@@ -14,15 +14,15 @@ title: "Das Konferenzmodul KM2 kennenlernen"
 
 ![KM2_LeistungsUebersicht_Bsp_01](/bilder/tools/km2/km2-leistungsuebersicht-bsp-01.png)
 
-- **KM<sup>2</sup>** ist eine Erweiterung von SchILD-NRW und findet seinen Einsatz bei der Durchführung von Notenkonferenzen.
-- Das Konferenzmodul **KM<sup>2</sup>** ist ein eigenständiges Programm und kann getrennt von Schild-NRW gestartet werden, es wird keinerlei Installation benötigt, lediglich ein Zugriff auf die Datenbank muss existieren. Gleichwohl wird auch ein Grundinstallationspaket verfügbar sein.
+- **KM<sup>2</sup>** ist eine Erweiterung von SchILD-NRW 2 und findet seinen Einsatz bei der Durchführung von Notenkonferenzen.
+- Das Konferenzmodul **KM<sup>2</sup>** ist ein eigenständiges Programm und kann getrennt von SchILD-NRW 2 gestartet werden, es wird keinerlei Installation benötigt, lediglich ein Zugriff auf die Datenbank muss existieren. Gleichwohl wird auch ein Grundinstallationspaket verfügbar sein.
 - **KM<sup>2</sup>** listet alle Leistungsdaten einer Lerngruppe in tabellarischer Form auf.
 - Die Anordnung der Leistungsdaten ist für den Benutzer frei wählbar.
 - Einzelne Schülerdaten können mit Hilfe einer **Lupenfunktion** besonders hervorgehoben werden.
 
 ![KM2_SchuelerLupe_Bsp_01](/bilder/tools/km2/km2-schuelerlupe-bsp-01.png)
 
-- Leistungsdatenänderungen können direkt in die SchILD-Datenbank zurückgeschrieben werden, wobei diese Änderungen gesondert protokolliert werden.
+- Leistungsdatenänderungen können direkt in die SchILD-NRW 2-Datenbank zurückgeschrieben werden, wobei diese Änderungen gesondert protokolliert werden.
 - **KM<sup>2</sup>** implementiert ein zusätzliches Verfahren
 
 <!-- -->
@@ -46,11 +46,11 @@ Bitte beachten Sie, dass sich die Anleitungen unter Umständen auf eine ältere 
 
 ## Installation
 
-**KM<sup>2</sup>** ist ähnlich wie SchILD-NRW eine Anwendung für MS-Windows. Das Grundinstallationspaket erhalten Sie im SchILD-NRW Portal:
+**KM<sup>2</sup>** ist ähnlich wie SchILD-NRW 2 eine Anwendung für MS-Windows. Das Grundinstallationspaket erhalten Sie im SchILD-NRW 2 Portal:
 
 |  |
 |----|
-| **→ Startseite → Downloads → [Schild Tools](https://www.svws.nrw.de/download/schild-tools)** |
+| **→ Startseite → Downloads → [SchILD-NRW 2 Tools](https://www.svws.nrw.de/download/schild-tools)** |
 
 Nach dem Download des Installationspaketes starten Sie die Installation (zum Beispiel durch einen Doppelklick auf die Datei **KM2-Setup.exe**).
 
@@ -68,7 +68,7 @@ Dieser Dialog besteht aus den beiden Registern „Allgemein" und „Administrati
 
 ![KM2ParameterRegister](/bilder/tools/km2/km2parameterregister.png)
 
-- Alle **sensiblen Einstellungen** (zum Beispiel Passwort des Administrators, Datenbankverbindungsdaten, etc.) werden auf der Registerseite „**Administration**" vorgenommen und die vom Admin definierten SchILD-Verbindungsdaten für alle Benutzer, die das Programm **KM<sup>2</sup>** benutzen. Mit anderen Worten: Der *normale Benutzer* kann die SchILD-Verbindungsdaten nicht ändern.
+- Alle **sensiblen Einstellungen** (zum Beispiel Passwort des Administrators, Datenbankverbindungsdaten, etc.) werden auf der Registerseite „**Administration**" vorgenommen und die vom Admin definierten SchILD-NRW 2-Verbindungsdaten für alle Benutzer, die das Programm **KM<sup>2</sup>** benutzen. Mit anderen Worten: Der *normale Benutzer* kann die SchILD-NRW 2-Verbindungsdaten nicht ändern.
 - Alle anderen Parameter werden auf der Seite „Allgemein" vorgenommen und sind benutzerspezifisch.
 
 <a id="Administration"></a>
@@ -123,16 +123,12 @@ Bei der Installation des Programms (genauer beim ersten Aufruf von KM2) wird ein
 
 <!-- -->
 
-- Die Datei **KM2_Admin.INI** enthält die SchILD-Verbindungsdaten in verschlüsselter Form
-- Alle anderen Dateien enthalten die Benutzerdaten (zum Beispiel enthält die Datei LEH_KM2.Ini die Konfigurationsparameter des (SchILD-)Benutzers LEH)
+- Die Datei **KM2_Admin.INI** enthält die SchILD-NRW 2-Verbindungsdaten in verschlüsselter Form
+- Alle anderen Dateien enthalten die Benutzerdaten (zum Beispiel enthält die Datei LEH_KM2.Ini die Konfigurationsparameter des (SchILD-NRW 2-)Benutzers LEH)
 
 <!-- -->
 
 - Der Ordner **Prot** enthält Protokolldaten im HTML-Format. Für jede Klasse wird eine Protokolldatei angelegt.
 - Der Ordner **Temp** wird temporär für Dateien benötigt, die vom Programm KM2 selbst erzeugt werden. Diese Dateien können nach Programmende wieder gelöscht werden.
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Konferenzmodul KM2.exe – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Konferenzmodul+KM2.exe&oldid=5507)

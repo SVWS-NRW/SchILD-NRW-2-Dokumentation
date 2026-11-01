@@ -48,8 +48,6 @@ Speichern Sie die Datei zum Beispiel in den Ordner c:\temp. Starten Sie nun die 
 
 [zurück zum Artikel Lupo:Einleitung](/tools/lupo/lupo-einleitung)
 
-[weiter zum Artikel Lupo:Vorbereitungen in Schild-NRW](/tools/lupo/lupo-vorbereitungen-in-schild-nrw)
-
----
+[weiter zum Artikel Lupo:Vorbereitungen in SchILD-NRW 2](/tools/lupo/lupo-vorbereitungen-in-schild-nrw)
 
 Quelle: [Lupo:Installation – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo%3AInstallation&oldid=5549)

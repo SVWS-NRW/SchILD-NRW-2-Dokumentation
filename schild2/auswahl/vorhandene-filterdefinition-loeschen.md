@@ -16,8 +16,4 @@ Nach Auswahl des Menüpunktes erscheint die Eingabeansicht "Filterdefinition spe
 
 Durch Klicken auf "Abbrechen" kann die Eingabeansicht auch ohne Veränderungen verlassen werden.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Vorhandene Filterdefinition löschen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Vorhandene+Filterdefinition+l%C3%B6schen&oldid=971)

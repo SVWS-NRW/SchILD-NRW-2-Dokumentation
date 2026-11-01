@@ -12,8 +12,4 @@ Grundlage für die Berechnungen ist die in der Klassen- und Versetzungstabelle f
 
 Nach Aufruf des Prozesses werden die Berechnungen automatisch durchgeführt und die Ergebnisse werden in einem Mitteilungsfenster angezeigt. Es gibt Informationen zu der Versetzung wie auch zu möglichen Abschlüssen oder Nachprüfungsmöglichkeiten. Der Inhalt des Fensters kann als Textdatei gespeichert oder ausgedruckt werden.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Versetzungs-/Abschluss-Berechnung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Versetzungs-%2FAbschluss-Berechnung&oldid=3593)

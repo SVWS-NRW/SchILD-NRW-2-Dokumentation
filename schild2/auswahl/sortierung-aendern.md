@@ -4,9 +4,9 @@ title: "Sortierung ändern"
 
 # Sortierung ändern
 
-Schild-NRW hat standardmäßig eine Sortierung von Klasse, Name, Vorname eingestellt, welche auch durch die meisten Reports übernommen wird.
+SchILD-NRW 2 hat standardmäßig eine Sortierung von Klasse, Name, Vorname eingestellt, welche auch durch die meisten Reports übernommen wird.
 
-Möchte man nun eine andere Reihenfolge (zum Beispiel rein alphabetisch oder nach der aufnehmenden Schule) einstellen, so müssen Sie in Schild-NRW zuerst die Sortierung verändern.
+Möchte man nun eine andere Reihenfolge (zum Beispiel rein alphabetisch oder nach der aufnehmenden Schule) einstellen, so müssen Sie in SchILD-NRW 2 zuerst die Sortierung verändern.
 
 Klicken Sie dazu auf die Hand mit den farbigen Punkten!
 
@@ -31,9 +31,5 @@ Für die Liste der aufnehmenden Schulen muss für alle Schüler unter *Schulbesu
 ![Sortierung-05](/bilder/schild2/auswahl/sortierung-05.png)
 
 Sollten Schüler keine Schule eingetragen haben, so werden diese auf der ersten Seite des Reports gemeinsam ausgegeben.
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Sortierung ändern – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sortierung+%C3%A4ndern&oldid=3214)
