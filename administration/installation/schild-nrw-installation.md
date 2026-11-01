@@ -12,9 +12,9 @@ Diese Anleitung führt durch die Installation von SchILD-NRW 2 und die Einrichtu
 
 Seit dem 31.10.25 steht der Nachfolger zur Verfügung:
 
-[**SchILD-NRW 3 und SVWS-Server**](https://www.svws.nrw.de/)
+[**SchILD-NRW 3 und SVWS-Server**](https://www.svws.nrw.de/svws-server-schild-nrw-3)
 
--\> zum [Schild3-Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/)
+-\> zur [SchILD-NRW 3 Dokumentation](https://schild3.svws-nrw.de)
 
 -\> zur [SVWS-Server Dokumentation](https://doku.svws-nrw.de)
 
@@ -34,7 +34,7 @@ In den folgenden Abschnitten erfahren Sie, wie SchILD-NRW 2 installiert werden k
 
 Laden Sie von der Homepage die Dateien für das BasisSetup.exe und gegebenenfalls das aktuelle Update herunter.
 
-[SchILD-NRW 2 Download](https://www.svws.nrw.de/download/schild-nrw/schild-nrw-download)
+[SchILD-NRW 2 Download](https://www.svws.nrw.de/schild-nrw-2/schild-nrw-2)
 
 Die Installation auf einem Einzelplatzrechner erfolgt über die Datei Basissetup.exe, die im Downloadbereich von SchILD-NRW 2 erhältlich ist. Bitte beachten Sie, dass unter Umständen zusätzlich noch eine Updatedatei notwendig sein kann, um auf die neueste Version von SchILD-NRW 2 zu gelangen.
 
@@ -115,7 +115,7 @@ Diese Schritte sind nur notwendig, wenn Sie Zugriff auf mehrere Datenbanken habe
 
 Starten Sie einmal SchILD-NRW 2 und gehen Sie auf die Druckausgabe \> Reportverwaltung starten. Dort wurden mit der Basis-Installation einige Reports mitgeliefert. Ein sehr umfangreiches Reportpaket können Sie auch von der SchILD-NRW 2-Homepage herunterladen:
 
-\[[Reportsammlung für SchILD-NRW 2](https://www.svws.nrw.de/download/schild-nrw/schild-nrw-reports/reportsammlungen)\]
+\[[Reportsammlung für SchILD-NRW 2](https://www.svws.nrw.de/schild-nrw-2/reports-schild-nrw-2)\]
 
 Entpacken Sie das ZIP-Paket nun im Ordner SchILD-NRW 2-Reports. Achten Sie darauf, dass die Ordnerstruktur der Reportverwaltung in diesem Ordner nachgebildet werden muss. Wichtig sind die Ordner Standard, Header_Footer, Standardtexte und Subreports. Alle anderen Ordner können frei benannt werden!
 
@@ -131,7 +131,7 @@ Bitte beachten Sie, dass hier sehr viele Reports angeboten werden. Löschen Sie 
 
 Sie können von der SchILD-NRW 2-Homepage auch noch zusätzliche Module für bestimmte Aufgaben herunterladen, die nicht alle Schulen immer benötigen. Bitte beachten Sie die jeweiligen Installationshinweise, die dort gegeben werden.
 
-\[[Module und Tools für SchILD-NRW 2](https://www.svws.nrw.de/download/schild-tools)\]
+\[[Module und Tools für SchILD-NRW 2](https://www.svws.nrw.de/schild-nrw-2/tools-module)\]
 
 <a id="Programm-Einstellungen"></a>
 
