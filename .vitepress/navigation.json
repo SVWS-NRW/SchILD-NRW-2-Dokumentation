@@ -73,10 +73,6 @@
                 "link": "/einstieg/grundlagen/iconleiste"
               },
               {
-                "text": "Statusfilter",
-                "link": "/einstieg/grundlagen/karteikasten"
-              },
-              {
                 "text": "Status- und Schnellfilter",
                 "link": "/schild2/auswahl/schnellfilter"
               },
@@ -219,10 +215,6 @@
                   {
                     "text": "Status- und Schnellfilter",
                     "link": "/schild2/auswahl/schnellfilter"
-                  },
-                  {
-                    "text": "Statusfilter und Schülerstatus",
-                    "link": "/einstieg/grundlagen/karteikasten"
                   },
                   {
                     "text": "Auswahlmenü",
@@ -1464,8 +1456,8 @@
             "items": [
               {
                 "id": "menue-3",
-                "text": "Statusfilter",
-                "link": "/einstieg/grundlagen/karteikasten",
+                "text": "Status- und Schnellfilter",
+                "link": "/schild2/auswahl/schnellfilter",
                 "source_title": "Karteikasten",
                 "items": []
               },

@@ -123,7 +123,7 @@ Die Tabelle führt die ursprünglichen Wiki-Inhaltsseiten zu den passenden Dokum
 | NurGewerteteAbschnitte | [NurGewerteteAbschnitte](/reporting/rap/nurgewerteteabschnitte "/reporting/rap/nurgewerteteabschnitte") |
 | Hauptfenster | [Hauptfenster](/einstieg/grundlagen/hauptfenster "/einstieg/grundlagen/hauptfenster") |
 | StatistikKuerzelAusFachKuerzel | [StatistikKuerzelAusFachKuerzel](/reporting/rap/statistikkuerzelausfachkuerzel "/reporting/rap/statistikkuerzelausfachkuerzel") |
-| Statusfilter | [Statusfilter und Schülerstatus](/einstieg/grundlagen/karteikasten) |
+| Statusfilter | [Status- und Schnellfilter](/schild2/auswahl/schnellfilter) |
 | Kurs42:Inhaltsverzeichnis | [Kurs42:Inhaltsverzeichnis](/tools/kurs42 "/tools/kurs42") |
 | Kataloge | [Kataloge](/schild2/unterricht-kataloge/kataloge "/schild2/unterricht-kataloge/kataloge") |
 | Konfessionen | [Konfessionen](/schild2/unterricht-kataloge/konfessionen "/schild2/unterricht-kataloge/konfessionen") |

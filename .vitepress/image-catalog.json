@@ -310,8 +310,8 @@
         "link": "/einstieg/grundlagen/hauptfenster"
       },
       {
-        "title": "Statusfilter und Schülerstatus",
-        "link": "/einstieg/grundlagen/karteikasten"
+        "title": "Status- und Schnellfilter",
+        "link": "/schild2/auswahl/schnellfilter"
       }
     ]
   },
@@ -3699,10 +3699,6 @@
       {
         "title": "Mündliche Prüfungen in den Abiturfächern festlegen",
         "link": "/zeugnisse/sekundarstufen/muendliche-pruefungen-a1-a3-festlegen"
-      },
-      {
-        "title": "Mündliche Prüfungen in den Abiturfächern festlegen",
-        "link": "/zeugnisse/sekundarstufen/muendliche-pruefungen-a1-a3-festlegen"
       }
     ]
   },
@@ -3730,10 +3726,6 @@
       "GP-Zusatzdaten"
     ],
     "articles": [
-      {
-        "title": "Sprachnachweise und Zusatzdaten fürs Abitur erfassen",
-        "link": "/zeugnisse/sekundarstufen/zusatzdaten-latinum-eingeben"
-      },
       {
         "title": "Sprachnachweise und Zusatzdaten fürs Abitur erfassen",
         "link": "/zeugnisse/sekundarstufen/zusatzdaten-latinum-eingeben"
@@ -13108,10 +13100,6 @@
       {
         "title": "Status- und Schnellfilter",
         "link": "/schild2/auswahl/schnellfilter"
-      },
-      {
-        "title": "Statusfilter und Schülerstatus",
-        "link": "/einstieg/grundlagen/karteikasten"
       },
       {
         "title": "Hauptfenster",

@@ -12,7 +12,7 @@ In der Regel werden die Daten zum Schüler einfach eingetragen. Im Folgenden wer
 
 **Status:**
 
-Im Feld **Status** wählen Sie genau einen gespeicherten Status für die Schülerin oder den Schüler, zum Beispiel *Neuaufnahme* oder *Aktiv*. Der [Statusfilter](/einstieg/grundlagen/karteikasten) im Hauptfenster ist davon zu unterscheiden: Dort können Sie mehrere Status für die Anzeige auswählen, ohne die gespeicherten Daten zu ändern.
+Im Feld **Status** wählen Sie genau einen gespeicherten Status für die Schülerin oder den Schüler, zum Beispiel *Neuaufnahme* oder *Aktiv*. Der [Statusfilter](/schild2/auswahl/schnellfilter) im Hauptfenster ist davon zu unterscheiden: Dort können Sie mehrere Status für die Anzeige auswählen, ohne die gespeicherten Daten zu ändern.
 
 Wenn Sie einen Schüler im Status verändern wollen, so muss der Zielstatus vorher auch mit in der Filterung sein. (Dieses Verhalten können Sie aber unter den Programmeinstellungen - unter "Individuelle Einstellungen" bei "Status-Wechsel ohne vorherige Filterung auf Ziel-Status ermöglichen" - abschalten!)
 

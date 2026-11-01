@@ -40,6 +40,7 @@ export function contextualSidebar(groups, section, route, selection = '') {
       link = url.pathname + url.search + url.hash
     }
     return { ...node,
+      sidebarActive: chosen?.id === id,
       ...(link ? { link } : {}),
       ...(node.items?.length ? { collapsed: !contains(node, id), items: node.items.map((child, i) => decorate(child, id + '.' + i)) } : {})
     }
