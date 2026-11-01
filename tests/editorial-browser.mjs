@@ -3,7 +3,8 @@ import assert from 'node:assert/strict'
 export async function checkEditorialNavigation(page,base) {
  const cases=[
   {overview:'/schild2/auswahl',target:'/schild2/auswahl/filter-i',group:'Filter I',next:'/schild2/auswahl/benutzung-von-filter-i-001'},
-  {overview:'/schild2/unterricht-kataloge',target:'/schild2/unterricht-kataloge/statistik-jahrgaenge',group:'Jahrgänge und Klassen'},
+  // Without a menu occurrence in the article link, only the first matching branch opens.
+  {overview:'/schild2/unterricht-kataloge',target:'/schild2/unterricht-kataloge/statistik-jahrgaenge',group:'Erste Schritte'},
   {overview:'/schild2/gruppenprozesse',target:'/schild2/gruppenprozesse/einzelne-faecher-bei-schuelern-hinzufuegen',group:'Fächer und Unterricht'},
   {overview:'/zeugnisse/vorbereitung',target:'/zeugnisse/vorbereitung/faecher-ohne-noten-suchen',group:'Daten prüfen und Druck vorbereiten'},
   {overview:'/zeugnisse/sekundarstufen',target:'/zeugnisse/sekundarstufen/leistungsdaten-holen',group:'Abitur vorbereiten'}
@@ -13,8 +14,8 @@ export async function checkEditorialNavigation(page,base) {
   await page.locator('.vp-doc a[href*="'+scenario.target+'"]').first().click()
   await page.waitForURL(url=>url.pathname.endsWith(scenario.target+'.html')&&url.searchParams.get('rubrik')==='schild2')
   const check=async()=>{
-   await page.waitForFunction(group=>[...document.querySelectorAll('#VPSidebarNav .item[role=button]')].some(el=>el.textContent.includes(group)&&!el.closest('.VPSidebarItem').classList.contains('collapsed')),scenario.group)
-   const heading=page.locator('#VPSidebarNav .item[role="button"]').filter({hasText:scenario.group}).filter({visible:true}).first()
+   await page.waitForFunction(group=>[...document.querySelectorAll('#VPSidebarNav .item')].some(el=>el.textContent.includes(group)&&!el.closest('.VPSidebarItem').classList.contains('collapsed')),scenario.group)
+   const heading=page.locator('#VPSidebarNav .item').filter({hasText:scenario.group}).filter({visible:true}).first()
    await heading.waitFor({state:'visible'})
    assert(await heading.evaluate(el=>!el.closest('.VPSidebarItem').classList.contains('collapsed')),scenario.group)
    const overview=page.locator('#VPSidebarNav').getByRole('link',{name:'Übersicht',exact:true})
