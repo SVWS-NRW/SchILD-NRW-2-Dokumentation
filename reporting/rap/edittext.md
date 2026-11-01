@@ -31,6 +31,4 @@ end;
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [EditText – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=EditText&oldid=408)

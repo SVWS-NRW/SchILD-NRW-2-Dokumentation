@@ -43,6 +43,4 @@ Procedure Label4711OnGetText(var Text: String);
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [Wiederholungen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Wiederholungen&oldid=5721)

@@ -4,7 +4,7 @@ title: "Word-Seriendruck"
 
 # Word-Seriendruck
 
-Mit Schild-NRW können Steuerdateien für den Word-Seriendruck erstellt werden (s. auch [Daten als Text- oder Excel-Datei exportieren](/schild2/import-export-statistik/export-in-text-excel-dateien)). Das Textverarbeitungsprogramm, das für den Seriendruck verwendet wird, kann in Schild-NRW eingestellt werden. Sie wechseln dazu in das Menü **Extras** und wählen den Menüpunkt **Programm-Einstellungen** aus. Auf dem Karteireiter **Individuelle Einstellungen** lässt sich das Textverarbeitungsprogramm auswählen. Standardmäßig ist *Microsoft Word* ausgewählt.
+Mit SchILD-NRW 2 können Steuerdateien für den Word-Seriendruck erstellt werden (s. auch [Daten als Text- oder Excel-Datei exportieren](/schild2/import-export-statistik/export-in-text-excel-dateien)). Das Textverarbeitungsprogramm, das für den Seriendruck verwendet wird, kann in SchILD-NRW 2 eingestellt werden. Sie wechseln dazu in das Menü **Extras** und wählen den Menüpunkt **Programm-Einstellungen** aus. Auf dem Karteireiter **Individuelle Einstellungen** lässt sich das Textverarbeitungsprogramm auswählen. Standardmäßig ist *Microsoft Word* ausgewählt.
 
 ![Textverarbeitungsprogramm](/bilder/reporting/verwaltung/textverarbeitungsprogramm.png)
 
@@ -28,10 +28,6 @@ Wenn Sie ihre selbst erstellte Steuerdatei verwenden wollen, öffnet sich ein Fe
 
 Nach Auswahl der Dokument-Vorlage in Word öffnet sich der erstellte Serienbrief im Textverarbeitungsprogramm, den Sie dann speichern und ausdrucken können.
 
-Hinweis: Zur Zeit erwartet Schild-NRW bei der Verwendung der selbst erstellten Steuerdatei als Serienbrief-Vorlage noch eine **.doc**-Datei.
-
-------------------------------------------------------------------------
-
----
+Hinweis: Zur Zeit erwartet SchILD-NRW 2 bei der Verwendung der selbst erstellten Steuerdatei als Serienbrief-Vorlage noch eine **.doc**-Datei.
 
 Quelle: [Word-Seriendruck – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Word-Seriendruck&oldid=2436)

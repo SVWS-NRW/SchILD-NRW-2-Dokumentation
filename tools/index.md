@@ -22,11 +22,10 @@ Die Zusatzprogramme unterstützen Sie bei Planung, Leistungsbewertung und Datena
 | [PM2 – Prognosemodul](/tools/pm2?rubrik=tools) | Schulabschlüsse und Versetzungen prognostizieren. |
 | [S1Plan](/tools/s1plan?rubrik=tools) | Unterricht der Sekundarstufe I planen. |
 | [SchILDChat](/tools/schildchat?rubrik=tools) | Nachrichten im Schulnetz austauschen. |
-| [SchILDweb](/tools/schildweb?rubrik=tools) | SchILD-Daten für webgestützte Anwendungen nutzen. |
+| [SchILDweb](/tools/schildweb?rubrik=tools) | SchILD-NRW 2-Daten für webgestützte Anwendungen nutzen. |
 | [Schnelleingabemodul](/tools/schnelleingabemodul?rubrik=tools) | Daten über ein ergänzendes Eingabemodul erfassen. |
 | [Schuljahr erhöhen](/tools/schuljahr-erhoehen?rubrik=tools) | Das Schuljahr von Schulungsdatenbanken erhöhen. |
 | [Weitere Zusatzprogramme](/tools/weitere?rubrik=tools) | Weitere Programme zur Kursplanung, Kommunikation und Dateneingabe kennenlernen. |
-
 
 ## Zum passenden Einstieg
 

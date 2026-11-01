@@ -16,8 +16,4 @@ Dieser Gruppenprozess ermöglicht das Löschen ganzer Unterrichtsfächer im jewe
 
 Das Häkchen, das ganz unten gesetzt werden kann, verhindert das versehentliche Löschen von Fächern, in denen Kurse zugewiesen sind. Ist das Häkchen gesetzt, werden nur Fächer ohne Kurseintrag gelöscht.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Einzelne Fächer bei Schülern löschen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Einzelne+F%C3%A4cher+bei+Sch%C3%BClern+l%C3%B6schen&oldid=3611)

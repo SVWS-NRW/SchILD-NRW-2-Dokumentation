@@ -18,8 +18,4 @@ Mit "Export als Steuerdatei für Serienbrief" wird eine csv-Datei erzeugt, deren
 
 Mit Schalter "Aufräumen" werden "alle Einträge gelöscht, die mit gelöschten oder nicht-aktiven Schülern verknüpft sind". Da sollte aber Vorsicht geboten sein (Datensicherung!).
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Erzieher mit schulinternen Funktionen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Erzieher+mit+schulinternen+Funktionen&oldid=1626)

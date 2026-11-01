@@ -4,7 +4,6 @@ title: "Schulbesuch"
 
 # Schulbesuch
 
-
 Auf dem Karteireiter *Schulbesuch* werden alle bisher besuchten Schulen aufgeführt. Insbesondere die Schule aus dem letzten Schuljahr und die Art des Abschlusses werden hier vermerkt und in der Statistik abgefragt.
 
 Bei Berufskollegs wird auf diesem Reiter nach dem **höchsten allgemeinbildenden Abschluss** gefragt, der von dem Schüler je erworben wurde. Hat der Schüler im letzten Schuljahr ein Berufskolleg besucht, dann wird hier auch die Eingabe der Fachklasse erwartet.
@@ -24,18 +23,14 @@ Der Karteireiter **Schulbesuch** hat für die Erstellung der Statistik einige en
 Bitte beachten Sie, dass die Eintragungen an dieser Stelle nur im ersten Jahr des Schülers an der Schule ausgewertet werden! Die Angaben können danach zu Informationszwecken erhalten bleiben und brauchen nicht geändert zu werden! An Berufskollegs und Weiterbildungskollegs gibt es Schüler, die im vergangenen Schuljahr keine Schule besucht haben, bitte beachten Sie die besonderen **[Eintragungsmodalitäten](/zeugnisse/berufskolleg/eintragung-herkunft-am-bk-wbk "Eintragung Herkunft am BK/WBK")**!
 :::
 
-Um die Eintragungen für die Statistik näher zu erklären, dient die folgende Tabelle. Hier werden die Felder in Schild-NRW und die Bezeichnungen von IT.NRW gegenübergestellt.
+Um die Eintragungen für die Statistik näher zu erklären, dient die folgende Tabelle. Hier werden die Felder in SchILD-NRW 2 und die Bezeichnungen von IT.NRW gegenübergestellt.
 
-
-| Schild-NRW Name des Feldes | IT.NRW-Statistik (Statkue.mdb) | Anzeigefilter in Schild-NRW |
+| SchILD-NRW 2 Name des Feldes | IT.NRW-Statistik (Statkue.mdb) | Anzeigefilter in SchILD-NRW 2 |
 | --- | --- | --- |
 | Allg. Herkunft des Schülers | Herkunftsschulform | Es wird auf die Schulform der Herkunftsschule gefiltert. |
 | Versetzung | Herkunftsart | Filter auf zulässige Einträge der eigenen Schulform |
-| Höchster allgem.bildender Abschluss (BK,WBK) Art des Abschlusses (andere Schulen) <br>von abgebender Schule | Abgangsart | Filter auf Schulform und Jahrgang der abgebenden Schule. <br>(Hier haben die Bks und WBKs eine feste programminterne Tabelle in Schild-NRW wegen der Dopplungen in der Statkue.mdb) |
+| Höchster allgem.bildender Abschluss (BK,WBK) Art des Abschlusses (andere Schulen) <br>von abgebender Schule | Abgangsart | Filter auf Schulform und Jahrgang der abgebenden Schule. <br>(Hier haben die Bks und WBKs eine feste programminterne Tabelle in SchILD-NRW 2 wegen der Dopplungen in der Statkue.mdb) |
 | Art des Abschlusses <br>von eigener Schule | Abgangsart | Filter auf eigene Schulform und Jahrgang |
-
-
-------------------------------------------------------------------------
 
 <a id="Grundschuldaten_eingeben"></a>
 
@@ -80,9 +75,5 @@ Zu Informationszwecken können hier alle bisher besuchten Schulen aufgelistet we
 Die Eintragung im oberen Bereich kann hierher mit dem "roten Pfeil" übernommen werden.
 
 Zusätzliche Eintragungen können über das "Plussymbol" ergänzt werden.
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Schulbesuch – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schulbesuch&oldid=3679)

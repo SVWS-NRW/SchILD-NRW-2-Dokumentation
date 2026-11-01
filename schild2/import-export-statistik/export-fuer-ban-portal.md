@@ -6,14 +6,14 @@ title: "Export für BAN-Portal"
 
 Zu KAoA gehört das *Belegungs-, Abrechnungs- und Nachweisportal*, das [*BAN-Portal*](https://banportal-kaoa.de). Nehmen Sie hier auch die [Information zum Portal und zum Supportkontakt](https://banportal-kaoa.de/Home/About) zur Kenntnis.
 
-Hierbei sollen die Schüler identifiziert werden, die über keine konkrete Anschlussperspektive wie eine Ausbildung, Schulplatz, ein freiwilliges Jahr, Praktikum für den FHR und so weiter verfügen. Aus SchILD-NRW lassen sich die im Portal einzulesenden Daten exportieren. In der Regel sollte dies nur wenige Schüler betreffen.
+Hierbei sollen die Schüler identifiziert werden, die über keine konkrete Anschlussperspektive wie eine Ausbildung, Schulplatz, ein freiwilliges Jahr, Praktikum für den FHR und so weiter verfügen. Aus SchILD-NRW 2 lassen sich die im Portal einzulesenden Daten exportieren. In der Regel sollte dies nur wenige Schüler betreffen.
 
 <a id="Schüler_vorbereiten"></a>
 <a id="Sch.C3.BCler_vorbereiten"></a>
 
 ## Schüler vorbereiten
 
-![SchILD-NRW_Export_BAN-Portal_Markieren](/bilder/schild2/import-export-statistik/schild-nrw-export-ban-portal-markieren.png)
+![SchILD-NRW 2_Export_BAN-Portal_Markieren](/bilder/schild2/import-export-statistik/schild-nrw-export-ban-portal-markieren.png)
 
 *Markieren Sie Schüler als *für das BAN-Portal zu exportieren*.*
 
@@ -43,9 +43,9 @@ Wählen Sie zuerst die Schülergruppe aus, für welche die BAN-Markierungen gese
 
 ## BAN-Export
 
-![SchILD-NRW_Export_ExportBAN](/bilder/schild2/import-export-statistik/schild-nrw-export-exportban.png)
+![SchILD-NRW 2_Export_ExportBAN](/bilder/schild2/import-export-statistik/schild-nrw-export-exportban.png)
 
-*Exportieren Sie die Datei für das BAN-Portal aus SchILD-NRW.*
+*Exportieren Sie die Datei für das BAN-Portal aus SchILD-NRW 2.*
 
 In der Regel muss beim Export keine Schülergruppe ausgewählt werden, da die zu exportierenden Schüler schon im aktuellen Lernabschnitt markiert sind. Nicht-markierte Schüler werden daher beim Export ignoriert.
 
@@ -55,13 +55,13 @@ Sollten Sie nur ausgewählte Schülergruppen exportieren wollen, filtern Sie die
 
 Im Anschluss gehen Sie über *Datenaustausch ➜ Weitere Exporte* ➜ **Export für BAN-Portal**.\
 
-![SchILD-NRW_Export_ExportBAN_Datei](/bilder/schild2/import-export-statistik/schild-nrw-export-exportban-datei.png)
+![SchILD-NRW 2_Export_ExportBAN_Datei](/bilder/schild2/import-export-statistik/schild-nrw-export-exportban-datei.png)
 
 *Wählen Sie den Speicherort der Exportdatei. Der Dateiname *BAN-Export.csv'* wird beibehalten.*
 
 Im folgenden Fenster ist der **Speicherort** für die Datei zu wählen.
 
-Hier im Beispiel wird im SchILD-NRW-Verzeichnis der Unterdrdner *Export* ausgewählt.
+Hier im Beispiel wird im SchILD-NRW 2-Verzeichnis der Unterdrdner *Export* ausgewählt.
 
 Der Standard-Dateiname wird beibehalten.
 
@@ -93,7 +93,6 @@ Hierbei können im Feld **Geschlecht** diese Werte auftreten:
 
 Ausschließlich bei Berufskollegs wird im Feld **Gliederung** der ASD-Schlüssel für die Schulgliederung ausgewiesen, aus dem jeweils die Bezeichnung des Bildungsganges abgeleitet werden kann
 
-
 | Schulgliederung<br>(Schlüssel) | Bezeichnung des Bildungsganges |
 | --- | --- |
 | A12 | Ausbildungsvorbereitung in Vollzeitform gemäß §§ 18, 22 Absatz 3 APOBK Anlage A (Anlage A 2.2) |
@@ -104,7 +103,6 @@ Ausschließlich bei Berufskollegs wird im Feld **Gliederung** der ASD-Schlüssel
 | C05 | Fachoberschule gemäß § 8 Nummer 1 APO-BK Anlage C (Anlage C 3); Klasse 11 |
 | C06 | Fachoberschule gemäß § 8 Nummer 1 APO-BK Anlage C (Anlage C 3); Klasse 12S |
 | D02 | Berufliches Gymnasium § 1a Absatz 1 Nummer 1 APO-BK Anlage D (Anlagen D 14-D 28) |
-
 
 Im Feld **voraussichtlich erreichter Abschluss** finden sich die Buchstabenkürzel, die nach der Statistik den Abschluss angeben. Diese Spalte dient nur zu Informationszwecken für die Schulen und kann in der Exportdatei auch leer bleiben, da der Eintrag zum voraussichtlichen Abschluss automatisiert beim Import auf dem BAN-Portal ergänzt wird.
 
@@ -126,9 +124,5 @@ Felder ohne Eintrag werden als *A - Ohne Abschluss* gewertet.
 :::info
 Die Spalte „voraussichtlich erreichter Abschluss“, die in der Exportdatei nach wie vor ausgewiesen wird, hat für den BAN-Import keine Relevanz. Die Importspezifikation des BAN-Portal-Moduls stellt sicher, dass diese Spalte beim Einlesen in das BAN-Portal ignoriert wird.
 :::
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Export für BAN-Portal – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Export+f%C3%BCr+BAN-Portal&oldid=6070)

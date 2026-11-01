@@ -1058,7 +1058,7 @@
         },
         {
           "id": "menue-79",
-          "text": "SchILD-Schnittstelle",
+          "text": "SchILD-NRW 2-Schnittstelle",
           "link": "/schild2/import-export-statistik/schnittstelle-schild-nrw",
           "source_title": "Schnittstelle Schild-NRW",
           "items": []
@@ -1442,7 +1442,7 @@
         },
         {
           "id": "hilfe-forum",
-          "text": "Forum SchILD-NRW besuchen",
+          "text": "Forum SchILD-NRW 2 besuchen",
           "items": [],
           "link": "/hilfe/probleme/hilfe#Forum_SchILD-NRW_besuchen"
         },
@@ -1467,7 +1467,7 @@
         },
         {
           "id": "menue-3",
-          "text": "Karteikästen",
+          "text": "Statusfilter",
           "link": "/einstieg/grundlagen/karteikasten",
           "source_title": "Karteikasten",
           "items": []
@@ -1901,7 +1901,7 @@
             {
               "id": "menue-menue-68-7",
               "text": "Sprachnachweise und Zusatzdaten",
-              "link": "/zeugnisse/sekundarstufen/zusatzdaten-latimun-eingeben",
+              "link": "/zeugnisse/sekundarstufen/zusatzdaten-latinum-eingeben",
               "source_title": "Zusatzdaten (Latimun...) eingeben",
               "items": []
             },

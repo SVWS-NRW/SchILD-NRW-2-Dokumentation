@@ -12,8 +12,4 @@ Die Berechnung der Durchschnittsnoten kann im Listendruck mit dem Reportgenerato
 
 Bitte denken Sie daran, nicht mehr benötigte Daten zu löschen. Dazu steht Ihnen der Gruppenprozess [Grundschuldaten löschen](/schild2/gruppenprozesse/grundschuldaten-loeschen) zur Verfügung.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Grundschuldaten eingeben – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Grundschuldaten+eingeben&oldid=2347)

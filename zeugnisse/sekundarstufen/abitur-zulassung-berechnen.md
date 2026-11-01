@@ -14,8 +14,4 @@ Die genauen Ergebnisse der Berechnung können dann unter dem Karteireiter "Abitu
 
 Für einen einzelnen Schüler kann der Prozess auch unter dem Karteireiter "Abitur" durch Klicken auf die Schaltfläche "Abitur-Zulassung berechnen" initialisiert werden.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Abitur-Zulassung berechnen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Abitur-Zulassung+berechnen&oldid=2029)

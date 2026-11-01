@@ -14,7 +14,7 @@ Wählen Sie die zum Bildungsgang gehörende Anlage und Gliederung. Bezeichnungen
 ## Grundlagen und Schülerdaten
 
 - [BK-Abschlussverfahren](/zeugnisse/berufskolleg/bk-abschluss?rubrik=schild2)
-  - [Weitere Wiki-Beschreibung](/zeugnisse/berufskolleg/bkabschluss?rubrik=schild2)
+  - [Weitere Wiki-Beschreibung](/zeugnisse/berufskolleg/bk-abschluss?rubrik=schild2)
 - [Herkunft am BK und WBK](/zeugnisse/berufskolleg/eintragung-herkunft-am-bk-wbk?rubrik=schild2)
 
 ## Anlage A

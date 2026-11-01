@@ -12,12 +12,8 @@ Da die Vollzeitschulpflicht in NRW nach 10 Schulbesuchsjahren (am G8-Gymnasium n
 
 Da die Schüler zu diesem Zeitpunkt vor den Sommerferien die Schulpflicht eigentlich noch nicht erfüllt haben, wird dieser Haken von den "Automatischen Prozessen" nicht gesetzt.
 
-Die Schüler "wandern" aber mit der Versetzung in aller Regel in den Karteikasten "Abschluss", von wo aus das nachträgliche Setzen der Schulpflicht oft vergessen wird, beziehungsweise die "Automatischen Prozesse" nichts mehr an den Datensätzen ändern.
+Die Schüler erhalten mit der Versetzung in aller Regel den Status "Abschluss". Bei diesen Datensätzen wird das nachträgliche Setzen der Schulpflicht oft vergessen, beziehungsweise die "Automatischen Prozesse" nichts mehr an den Datensätzen ändern.
 
 Dieser Menüpunkt hilft dabei, bei dem Abschlussjahrgang der Sekundarstufe 1 (zum Beispiel Jahrgang 10 an der Gesamtschule) den Schulpflichthaken schon kurz vor den Sommerferien zu setzen.
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Schulpflicht autom. setzen zum SJ.-Ende – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schulpflicht+autom.+setzen+zum+SJ.-Ende&oldid=1524)

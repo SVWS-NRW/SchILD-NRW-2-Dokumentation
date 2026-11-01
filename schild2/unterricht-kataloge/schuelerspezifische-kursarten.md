@@ -16,8 +16,4 @@ Die Kursarten sind deshalb schülerspezifisch, weil es unter Umständen eine üb
 
 Ein Beispiel wäre der Grundkurs in der gymnasialen Oberstufe, der zur Berechnung des Abiturs bei den Schülern dann aber als Grundkurs schriftlich (GKS) oder Grundkurs mündlich (GKM) eingetragen werden muss.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Schülerspezifische Kursarten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sch%C3%BClerspezifische+Kursarten&oldid=1609)

@@ -12,8 +12,4 @@ Hierbei werden die erforderlichen Daten erfragt und anschließend den Schülern 
 
 ![GP-Betriebe-Adressen](/bilder/schild2/gruppenprozesse/gp-betriebe-adressen.png)
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Betrieb/Adresse zuweisen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Betrieb%2FAdresse+zuweisen&oldid=3610)

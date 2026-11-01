@@ -33,8 +33,4 @@ Folgende Bezeichnungen stehen hier zur Verfügung:
 
 Es ist ratsam, erst mit dem Listenknopf eine dieser vorgegebenen ASD-Bezeichnungen auszuwählen und dann im links davon befindlichen Feld eine frei formulierbare "interne Bezeichnung" dazu einzutragen (zum Beispiel Körperliche Entwicklung -\> KB). Den neuen Eintrag mit dem Häkchen zu bestätigen nicht vergessen.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Förderschwerpunkte – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%B6rderschwerpunkte&oldid=938)

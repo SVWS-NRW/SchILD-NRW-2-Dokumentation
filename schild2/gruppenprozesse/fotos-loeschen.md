@@ -8,8 +8,4 @@ Dieser Gruppenprozess löscht bei allen Schülern der aktuellen Auswahl die hint
 
 Sicherheitshalber sollte man vor dieser Aktion eine Datensicherung vornehmen.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Fotos löschen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fotos+l%C3%B6schen&oldid=1903)

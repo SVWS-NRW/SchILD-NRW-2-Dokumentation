@@ -12,6 +12,4 @@ Fachklassen der Berufsschule mit erweiterter Zusatzqualifikation in Teilzeit.
 
 ![BK_Abschluss_A03](/bilder/zeugnisse/berufskolleg/bk-abschluss-a03.png)
 
----
-
 Quelle: [A03 Fachklassen/erweiterte Zusatzqualifikation (BS/ZQ; TZ) – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=A03+Fachklassen%2Ferweiterte+Zusatzqualifikation+%28BS%2FZQ%3B+TZ%29&oldid=4751)

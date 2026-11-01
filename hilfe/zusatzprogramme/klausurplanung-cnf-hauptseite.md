@@ -74,6 +74,4 @@ Ist ein Regelkatalog mit grundsätzlichen Vorgaben erstellt, so folgt ein weiter
 
 Ist die Festlegung der Prioritäten erfolgt, kann anhand dieser der Klausurplan errechnet werden. Beispiele finden Sie auf der Seite vom Multi_Klausurplaner_CNF: [Klick!](/hilfe/zusatzprogramme/multi-klausurplanung-cnf-hauptseite).
 
----
-
 Quelle: [Klausurplanung CNF:Hauptseite – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Klausurplanung+CNF%3AHauptseite&oldid=4499)

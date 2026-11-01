@@ -8,8 +8,4 @@ Dieser Gruppenprozess sucht in der ausgewählten Schülergruppe im aktuellen Abs
 
 Sinnvoll ist dieser Gruppenprozess, bevor Sie die Dateien für das externe Notenmodul bereitstellen. Fehlt beim Unterricht eines Schülers der Eintrag des Lehrers, wird dieser Unterricht dem eigentlich zuständigen Kollegen auch nicht in seine Notendatei exportiert.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Fächer ohne Lehrkraft suchen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%A4cher+ohne+Lehrkraft+suchen&oldid=1897)

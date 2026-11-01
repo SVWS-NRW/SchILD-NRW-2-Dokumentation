@@ -6,8 +6,7 @@ title: "Kurse in S1Plan einrichten und zuweisen"
 
 # Kurse in S1Plan einrichten und zuweisen
 
-
-Das Einrichten von Kursen kann auf zwei Wegen erfolgen. Falls in der angebundenen SchILD-Datenbank schon Kurse (mit oder ohne Schülerverteilung) vorhanden sind, können diese in S1Plan eingelesen werden. Falls noch keine Kurse in der SchILD-Datenbank vorliegen, können in S1Plan alle Kurse eingerichtet und hier auch eine Schülerverteilung vorgenommen werden. Im Folgenden wird davon ausgegangen, dass in der SchILD-Datenbank noch keine Kurse eingerichtet wurden (Fall A, siehe oben Seite 3).
+Das Einrichten von Kursen kann auf zwei Wegen erfolgen. Falls in der angebundenen SchILD-NRW 2-Datenbank schon Kurse (mit oder ohne Schülerverteilung) vorhanden sind, können diese in S1Plan eingelesen werden. Falls noch keine Kurse in der SchILD-NRW 2-Datenbank vorliegen, können in S1Plan alle Kurse eingerichtet und hier auch eine Schülerverteilung vorgenommen werden. Im Folgenden wird davon ausgegangen, dass in der SchILD-NRW 2-Datenbank noch keine Kurse eingerichtet wurden (Fall A, siehe oben Seite 3).
 
 <a id="NEUEINRICHTUNG_VON_KURSEN_IN_S1PLAN_(Beispiel:_GY)"></a>
 <a id="NEUEINRICHTUNG_VON_KURSEN_IN_S1PLAN_.28Beispiel:_GY.29"></a>
@@ -58,7 +57,7 @@ Zunächst sollte der Schildabgleich über den Menüpunkt
 
 ![S1P-016-Stammdaten](/bilder/tools/s1plan/s1p-016-stammdaten.jpg)
 
-vorgenommen werden. Dadurch werden die betreffenden Schüler aus SchILDNRW nach S1Plan geladen. Über den Menüpunkt
+vorgenommen werden. Dadurch werden die betreffenden Schüler aus SchILD-NRW 2 nach S1Plan geladen. Über den Menüpunkt
 
 ![S1P-019-Kurszuweisung-alle](/bilder/tools/s1plan/s1p-019-kurszuweisung-alle.jpg)
 
@@ -80,35 +79,37 @@ Hier gibt es (auch) die Möglichkeit, Zuweisungen einzelner Schüler zu ändern.
 
 <a id="EXPORT_DER_KURSWAHLEN_NACH_SCHILD-NRW"></a>
 
-## EXPORT DER KURSWAHLEN NACH SCHILD-NRW
+<a id="export-der-kurswahlen-nach-schild-nrw"></a>
+
+## EXPORT DER KURSWAHLEN NACH SchILD-NRW 2
 
 Über den Menüpunkt
 
-![S1P-021-Export nach Schild](/bilder/tools/s1plan/s1p-021-export-nach-schild.jpg)
+![S1P-021-Export nach SchILD-NRW 2](/bilder/tools/s1plan/s1p-021-export-nach-schild.jpg)
 
-können die Kurswahlen nach SchILD exportiert werden.
+können die Kurswahlen nach SchILD-NRW 2 exportiert werden.
 
 Das folgende Fenster
 
 ![S1P-023-Export-Fenster](/bilder/tools/s1plan/s1p-023-export-fenster.jpg)
 
-gliedert sich in 4 Teile: Oben links sind die in S1Plan angelegten Kurse, oben rechts die (schon) in SchILD vorhandenen Kurse. Unten links sind die zu obigem markiertem Kurs zugeordneten Schüler, unten rechts eine Vorschau auf die später nach SchILD exportierten Schüler. Bisher wurde noch kein Export vorgenommen, was daran zu erkennen ist, dass noch keine grünen Markierungen (siehe nächste Seite) bei Kursen und Schülern vorkommen.
+gliedert sich in 4 Teile: Oben links sind die in S1Plan angelegten Kurse, oben rechts die (schon) in SchILD-NRW 2 vorhandenen Kurse. Unten links sind die zu obigem markiertem Kurs zugeordneten Schüler, unten rechts eine Vorschau auf die später nach SchILD-NRW 2 exportierten Schüler. Bisher wurde noch kein Export vorgenommen, was daran zu erkennen ist, dass noch keine grünen Markierungen (siehe nächste Seite) bei Kursen und Schülern vorkommen.
 
-Mit dem Export-Symbol ![S1P-024-Export-Knopf](/bilder/tools/s1plan/s1p-024-export-knopf.jpg) können alle Kurse incl. der Schülerbelegung nach SchILD exportiert werden.
+Mit dem Export-Symbol ![S1P-024-Export-Knopf](/bilder/tools/s1plan/s1p-024-export-knopf.jpg) können alle Kurse incl. der Schülerbelegung nach SchILD-NRW 2 exportiert werden.
 
 :::info
-Dabei werden damit auch alle in diejenigen Kurse des gewählten Jahrgangs in der SchILD-Datenbank gelöscht, deren Kursart im verwendeten Kursprofil von S1Plan vorhanden sind! Es erscheint vor dem Export ein entsprechendes Hinweisfenster. Mit den beiden Doppelpfeilen in der Mitte kann der Export (ohne Löschung der bisherigen SchILD-Kurse) erfolgen.
+Dabei werden damit auch alle in diejenigen Kurse des gewählten Jahrgangs in der SchILD-NRW 2-Datenbank gelöscht, deren Kursart im verwendeten Kursprofil von S1Plan vorhanden sind! Es erscheint vor dem Export ein entsprechendes Hinweisfenster. Mit den beiden Doppelpfeilen in der Mitte kann der Export (ohne Löschung der bisherigen SchILD-NRW 2-Kurse) erfolgen.
 :::
 
-Nach dem Export (hier: alle Kurse und Löschung der bisherigen Kurse in SchILD-NRW) ergibt sich folgende Fensterdarstellung:
+Nach dem Export (hier: alle Kurse und Löschung der bisherigen Kurse in SchILD-NRW 2) ergibt sich folgende Fensterdarstellung:
 
 ![S1P-025-Export-Fenster-2](/bilder/tools/s1plan/s1p-025-export-fenster-2.jpg)
 
 Hier weisen die grünen Markierungen auf den erfolgten Export hin.
 
-In der SchILD-Datenbank sieht es nach dem Export folgendermaßen aus:
+In der SchILD-NRW 2-Datenbank sieht es nach dem Export folgendermaßen aus:
 
-![S1P-026-Kurse in Schild](/bilder/tools/s1plan/s1p-026-kurse-in-schild.jpg)
+![S1P-026-Kurse in SchILD-NRW 2](/bilder/tools/s1plan/s1p-026-kurse-in-schild.jpg)
 
 Bei den Schülern erkennt man auf der Karteikarte „Akt. Halbjahr“ ebenfalls die Kurszuordnungen:
 
@@ -123,7 +124,7 @@ Im Folgenden werden für einen Jahrgang 07 als Sport-AGs Fußball (1 Kurs), Hand
 
 ![S1P-028-Kursprofil](/bilder/tools/s1plan/s1p-028-kursprofil.jpg)
 
-Da die Schüler Erst-, Zweit- und Drittwunsch äußern dürfen, muss im unteren Bereich der Haken bei „Wunschspalten“ gesetzt werden. Danach werden unter dem Menüpunkt „Einrichtung“ die Kurse selbst eingerichtet. Dabei ist unbedingt darauf zu achten, dass das zur Kursart zugewiesene Fach nicht SP, sondern SPAG heißt. Dieses Fach muss gegebenenfalls vorher in SchILDNRW bei den Unterrichtsfächern ergänzt werden. Falls dies nicht gemacht wird und nur das Fach SP zugeordnet wird, gibt es bei den Leistungsübersichten und Zeugnissen Probleme der Darstellung des Faches Sport beziehungsweise der Sport-AG.
+Da die Schüler Erst-, Zweit- und Drittwunsch äußern dürfen, muss im unteren Bereich der Haken bei „Wunschspalten“ gesetzt werden. Danach werden unter dem Menüpunkt „Einrichtung“ die Kurse selbst eingerichtet. Dabei ist unbedingt darauf zu achten, dass das zur Kursart zugewiesene Fach nicht SP, sondern SPAG heißt. Dieses Fach muss gegebenenfalls vorher in SchILD-NRW 2 bei den Unterrichtsfächern ergänzt werden. Falls dies nicht gemacht wird und nur das Fach SP zugeordnet wird, gibt es bei den Leistungsübersichten und Zeugnissen Probleme der Darstellung des Faches Sport beziehungsweise der Sport-AG.
 
 ![S1P-029-AG-Fach-fuer-SP](/bilder/tools/s1plan/s1p-029-ag-fach-fuer-sp.jpg)
 
@@ -192,31 +193,26 @@ Durch Klick auf ![S1P-040-Optimierung-speichern](/bilder/tools/s1plan/s1p-040-op
 
 Im Fenster der Kursübersicht und der Kurswahlen werden die Optimierungsergebnisse nun dargestellt.
 
-Wie in Kapitel 5.1.2 auf Seite 13 können alle Kurse in die SchILD-NRWDatenbank übertragen werden.
+Wie in Kapitel 5.1.2 auf Seite 13 können alle Kurse in die SchILD-NRW 2Datenbank übertragen werden.
 
 :::info
 Analog zu den AG-Wahlen können auch zum Beispiel die Wahlen zu Projekten bei einer Projektwoche mit Erst-, Zweit- und Drittwunsch behandelt werden.
 :::
 
-------------------------------------------------------------------------
-
-[Weiter zu Übernahme von Kursen aus Schild](/hilfe/zusatzprogramme/s1plan-uebernahme-von-kursen-aus-schild)
-
+[Weiter zu Übernahme von Kursen aus SchILD-NRW 2](/hilfe/zusatzprogramme/s1plan-uebernahme-von-kursen-aus-schild)
 
 ## Zuweisungen und Export kontrollieren
 
-Führen Sie vor der Schülerzuweisung den SchILD-Abgleich durch. Für eine Kursart, in der jede Person genau einen Kurs belegt, kann die **Einzelzuweisung** verwendet werden; bei aktivierter **Schnellzuweisung** genügt ein Klick in die Zuordnungsmatrix. Speichern Sie die Zuweisungen vor dem Export.
+Führen Sie vor der Schülerzuweisung den SchILD-NRW 2-Abgleich durch. Für eine Kursart, in der jede Person genau einen Kurs belegt, kann die **Einzelzuweisung** verwendet werden; bei aktivierter **Schnellzuweisung** genügt ein Klick in die Zuordnungsmatrix. Speichern Sie die Zuweisungen vor dem Export.
 
 Bei Arbeitsgemeinschaften oder Projekten mit Erst-, Zweit- und Drittwunsch muss das Kursprofil die **Wunschspalten** enthalten. Eine Optimierung kann Personen auf einen anderen der erfassten Wünsche verschieben. Kontrollieren und speichern Sie deshalb das Ergebnis und das zugehörige Protokoll.
 
-:::danger Export nach SchILD
-Der vollständige Export kann die bisherigen SchILD-Kurse des gewählten Jahrgangs löschen, deren Kursarten zum verwendeten S1Plan-Kursprofil gehören. Kontrollieren Sie Kursprofil, Jahrgang und Bestätigungsdialog. Die im Handbuch beschriebenen Doppelpfeile erlauben daneben eine Übertragung ohne vorherige Löschung der vorhandenen SchILD-Kurse.
+:::danger Export nach SchILD-NRW 2
+Der vollständige Export kann die bisherigen SchILD-NRW 2-Kurse des gewählten Jahrgangs löschen, deren Kursarten zum verwendeten S1Plan-Kursprofil gehören. Kontrollieren Sie Kursprofil, Jahrgang und Bestätigungsdialog. Die im Handbuch beschriebenen Doppelpfeile erlauben daneben eine Übertragung ohne vorherige Löschung der vorhandenen SchILD-NRW 2-Kurse.
 :::
 
-Im Exportfenster stehen links die Kurse und Zuordnungen aus S1Plan, rechts die vorhandenen beziehungsweise vorgesehenen Daten in SchILD. Grüne Markierungen zeigen die erfolgte Übertragung an.
+Im Exportfenster stehen links die Kurse und Zuordnungen aus S1Plan, rechts die vorhandenen beziehungsweise vorgesehenen Daten in SchILD-NRW 2. Grüne Markierungen zeigen die erfolgte Übertragung an.
 
 Quelle der Ergänzung: [S1Plan-Bedienungsanleitung, Druckstand 11.12.2018](https://www.svws.nrw.de/system/files/media/document/file/s1plan_anleitung.pdf), Kapitel 4, Seiten 13–26.
-
----
 
 Quelle: [S1PLAN:Einrichtung von Kursen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=S1PLAN%3AEinrichtung+von+Kursen&oldid=4078)

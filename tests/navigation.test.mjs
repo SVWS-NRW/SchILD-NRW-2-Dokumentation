@@ -55,7 +55,7 @@ test('Geteilte Artikel behalten Themenzweig, Pager und Hauptmenü ihrer gewählt
     assert(entry,'Artikel muss in beiden gewählten Arbeitswegen vorhanden sein')
     assert.equal(new URL(entry.link,'https://docs.invalid').searchParams.get('rubrik'),section.slice(1,-1))
     const main=contextualNav(navigation.nav,section,Object.keys(navigation.sidebar))
-    assert.deepEqual(main.filter(item=>item.activeMatch==='.*').map(item=>item.text),[section.startsWith('/tools/')?'Tools':'Arbeiten mit SchILD2'])
+    assert.deepEqual(main.filter(item=>item.activeMatch==='.*').map(item=>item.text),[section.startsWith('/tools/')?'Tools':'Arbeiten mit SchILD-NRW 2'])
   }
   assert.equal(sectionLink('/artikel#abschnitt','/tools/'),'/artikel?rubrik=tools#abschnitt')
 })

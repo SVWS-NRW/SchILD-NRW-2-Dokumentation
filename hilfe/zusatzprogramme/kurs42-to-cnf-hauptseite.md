@@ -91,8 +91,6 @@ Das zweite Vorgehen hat den Vorteil, dass man nicht versehentlich eine bestehend
 
 Die hier vorgestellten Regeln sind nur Beispiele einer Schule mit ihren jeweiligen schulspezifischen Anforderungen und können niemals 1:1 übernommen werden. Sie sollen Anregungen schaffen, wie man für seine Schule ein gutes Ergebnis erzielen kann.
 
-------------------------------------------------------------------------
-
 **Blockung der neuen EF mit Stamm-/Kerngruppen**
 
 In einem ersten Beispiel wird davon ausgegangen, dass die Schule in der EF quasi vierzügig ist und die Fächer Englisch, Mathe, Deutsch und Sport jeweils in der gleichen Zusammensetzung stattfinden sollen. Dazu werden folgende Regeln angewendet:
@@ -154,8 +152,6 @@ Manchmal bietet es sich auch an, die neueinsetzenden Fremdsprachen parallel zu s
 
 - Kurs#I0-GK1#unbedingt zusammen mit#S0-GK1
 
-------------------------------------------------------------------------
-
 **Blockung der neuen Q1**
 
 Es bietet sich wie üblich an, erst die LKs zu blocken, da ja zum Beispiel nicht erhaltene LK-Wahlen Einfluss auf die GK-Wahlen haben. (Die LKs können Sie auch mit Kurs42 blocken. Dort nach den Beratungen die GKs anpassen und das Ergebnis exportieren und wie unten beschrieben im CNF importieren). Sollen die LKs mit CNF geblockt werden, fängt man nach dem Import so an:
@@ -200,8 +196,6 @@ Dann wird der GK-Bereich geblockt, zum Beispiel mit diesem Satz an Regeln:
 - Kurs#PH-GK1#niemals zusammen mit#PH-GK2
 
 --\> es gibt nur einen Physiklehrer, sodass die Physik-Kurse nicht parallel liegen dürfen.
-
-------------------------------------------------------------------------
 
 **Blockung der Q2 (Zusatzkurse)**
 
@@ -318,8 +312,6 @@ Für den seltenen Ausnahmefall, dass ein LK, zum Beispiel Physik, nur als sogena
 - Die Schüler des Physik-LKs wählen auch den ZK.
 - Der ZK muss parallel zum GK liegen: Kurs#PH-GK1#unbedingt zusammen mit#PH-ZK1
 
-------------------------------------------------------------------------
-
 **Weitere Tipps** Je mehr Sie fixieren, desto schneller ist das Programm. Aber in bestimmten Situationen sollten Sie Fixierungen vermeiden, wenn sie damit nur erreichen wollen, dass bestimmte Kurse zusammen liegen. Sollen zum Beispiel Kurs A und B zusammen liegen und ebenso Kurs C und D und Sie legen nun Kurs A und B in Schiene 5 und Kurs C und D in Schiene 6, dann nehmen Sie dem Programm die Kombinationsmöglichkeit A, B, C und D in die selbe Schiene zu legen.
 
 **Beispiel 1: Sie wollen, dass alle Deutsch-Kurse in Schiene 1 sind --\> fixieren** Fach-Art#D;GK#allein in Schiene (Schülerinnen und Schüler optimal)#1
@@ -391,7 +383,5 @@ oder besser die zwei ER-Zeilen ersetzen durch:
 3\) Rechnungen durchführen
 
 4\) Re-Import der Daten in Kurs42
-
----
 
 Quelle: [Kurs42 To CNF:Hauptseite – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurs42+To+CNF%3AHauptseite&oldid=4591)

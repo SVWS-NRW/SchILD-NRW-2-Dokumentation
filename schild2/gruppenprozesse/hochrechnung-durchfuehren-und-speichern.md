@@ -25,8 +25,4 @@ Dann können Sie die:
 
 **Hinweis:** Durch den Gruppenprozess wird die Hochrechnung direkt gespeichert. Zu erkennen ist dies daran, dass in der "Übersicht SII" die Noten und Kursarten in grau und unterstrichen angezeigt werden. Eine nicht gespeicherte Hochrechnung wird nur durch graue Noten und Kursarten dargestellt.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Hochrechnung durchführen und speichern – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Hochrechnung+durchf%C3%BChren+und+speichern&oldid=2090)

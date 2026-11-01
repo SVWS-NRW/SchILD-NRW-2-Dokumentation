@@ -14,8 +14,4 @@ Nach Aufruf dieser Option klicken Sie unter „Verzeichnis für Export-Dateien�
 
 Eine einzelne gewünschte, exportierte Textdatei kann im Explorer mit Doppelklick geöffnet und dann im Editor-Fenster über "Datei / Drucken" ausgedruckt werden.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Kataloge exportieren – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kataloge+exportieren&oldid=1070)

@@ -20,8 +20,4 @@ Bevor man nun eine Zuweisung vornehmen kann, müssen Sie im Kopfbereich des Fens
 
 Wählen Sie als Bearbeitungsmodus "Löschen", dann bewirkt das Anklicken der Spaltenüberschrift beziehungsweise einer einzelnen Zelle, dass das ausgewählte Fach bei den Schülerinnen und Schülern gelöscht wird.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Fächer zuweisen (tabellarisch) – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%A4cher+zuweisen+%28tabellarisch%29&oldid=3619)

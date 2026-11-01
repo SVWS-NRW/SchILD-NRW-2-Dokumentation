@@ -16,8 +16,4 @@ Man hat hier die Möglichkeit, das nach dem Löschen automatisch angelegte Lösc
 
 Klicken Sie auf die Schaltfläche "Löschaktion durchführen", erfolgt eine erneute Sicherheitsabfrage. Erst wenn diese mit 'Ja' bestätigt wird, erfolgt die endgültige Löschung der ausgewählten Schülergruppe.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Schüler-Datensätze löschen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sch%C3%BCler-Datens%C3%A4tze+l%C3%B6schen&oldid=2247)

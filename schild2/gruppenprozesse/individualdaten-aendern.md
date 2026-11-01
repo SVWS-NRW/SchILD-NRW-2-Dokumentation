@@ -22,8 +22,4 @@ Angaben und Daten zu den einzelnen Lernabschnitten lassen sich auf dem entsprech
 
 Bitte beachten Sie, dass alle eingetragenen Werte auch bei allen Schülern, die sich in der [Menü Auswahl](/schild2/auswahl/auswahl) im [Schülerliste und Auswahl](/einstieg/grundlagen/container) befinden, geändert werden! Eine gruppenweise Änderung der Individualdaten lässt sich nicht mehr rückgängig machen! Sie sollten also vor größeren Arbeiten unbedingt eine Datensicherung machen.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Individualdaten ändern – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Individualdaten+%C3%A4ndern&oldid=1618)

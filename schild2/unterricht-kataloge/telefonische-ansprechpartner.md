@@ -18,7 +18,4 @@ Auf dem Karteireiter "Erzieher" können nun weitere Telefonnummern eingetragen w
 
 ![Notfallnummern](/bilder/schild2/unterricht-kataloge/notfallnummern.jpg)
 
-
----
-
 Quelle: [Telefonische Ansprechpartner – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Telefonische+Ansprechpartner&oldid=521)

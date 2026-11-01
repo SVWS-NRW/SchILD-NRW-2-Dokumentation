@@ -86,7 +86,6 @@ Die **Fortschreibungsart** legt fest, was bei jedem Abschnittswechsel mit dem Ku
 | **Nur Definition, Jg. hochschreiben** | Die Schülerzuordnungen werden entfernt. Der Kurs wird einen Jahrgang hochgeschrieben. |
 | **Komplett** | Der Kurs wird mit den zugeordneten Personen in den nächsten Abschnitt übernommen. Beim Schuljahreswechsel wird der Jahrgang erhöht. |
 
-
 - Sortierung
 
 Hier können Sortiernummern für die Kurse gegeben werden.\
@@ -105,8 +104,6 @@ wenn das Kursfach eine andere Bezeichnung als das "normale" Fach haben
 - Belegt in folgenden Klassen
 
 Zeigt die Klassen an, in denen der Kurs belegt ist.\
-
-------------------------------------------------------------------------
 
 <a id="Optionen_über_die_rechte_Maustaste"></a>
 <a id="Optionen_.C3.BCber_die_rechte_Maustaste"></a>
@@ -151,9 +148,5 @@ Hier können nachträglich Eintragungen in "mehrere Jahrgänge" gemacht 
 - Fortschreibungsart änderm
 
 Hier kann für alle markierten Kurse gleichzeitig die Fortschreibungsart umgestellt werden.\
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Kurse – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurse&oldid=3757)

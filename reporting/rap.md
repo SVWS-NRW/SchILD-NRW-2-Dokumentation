@@ -9,7 +9,6 @@ title: "RAP-Funktionsreferenz"
 
 # RAP-Funktionsreferenz
 
-
 RAP ist die Programmiersprache für zusätzliche Berechnungen und Abläufe im Reportdesigner. Zum Auswählen und Drucken vorhandener Reports brauchen Sie diese Funktionen nicht. Die Referenz richtet sich an Personen, die Vorlagen programmieren oder vorhandenen Code nachvollziehen möchten.
 
 | Begriff | Bedeutung |
@@ -284,7 +283,5 @@ Verändern Sie zunächst eine Kopie des Reports. Prüfen Sie die Ausgabe mit pas
 <a id="Inhaltsverzeichnis_A_B_C_D_E_F_G_H_I_J_K_L_M_N_O_P_Q_R_S_T_U_V_W_X_Y_Z"></a>
 
 <a id="Inhaltsverzeichnis_A_B_C_D_E_F_G_H_I_J_K_L_M_N_O_P_Q_R_S_T_U_V_W_X_Y_Z_2"></a>
-
----
 
 Quelle: [RAP-Funktionen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=RAP-Funktionen&oldid=5689)

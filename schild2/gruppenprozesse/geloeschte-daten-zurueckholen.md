@@ -18,9 +18,4 @@ Danach kann der Wiederherstellungsvorgang abgeschlossen werden.
 
 Bitte beachten Sie, dass die wiederhergestellten Daten immer noch die Löschmarkierung besitzen!
 
-------------------------------------------------------------------------
-
-
----
-
 Quelle: [Gelöschte Daten zurückholen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Gel%C3%B6schte+Daten+zur%C3%BCckholen&oldid=3016)

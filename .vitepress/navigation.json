@@ -1,7 +1,7 @@
 {
   "nav": [
     {
-      "text": "Arbeiten mit SchILD2",
+      "text": "Arbeiten mit SchILD-NRW 2",
       "link": "/schild2/"
     },
     {
@@ -35,11 +35,11 @@
             "link": "/druck/schild2.html"
           },
           {
-            "text": "Installation von SchILD2",
+            "text": "Installation von SchILD-NRW 2",
             "link": "/administration/installation",
             "items": [
               {
-                "text": "SchILD installieren",
+                "text": "SchILD-NRW 2 installieren",
                 "link": "/administration/installation/schild-nrw-installation"
               },
               {
@@ -57,6 +57,10 @@
                 "link": "/einstieg/grundlagen/schild-nrw-index"
               },
               {
+                "text": "Datei-Menü",
+                "link": "/administration/datenbanken/datei"
+              },
+              {
                 "text": "Häufige Begriffe",
                 "link": "/einstieg/grundlagen/begriffe"
               },
@@ -69,24 +73,16 @@
                 "link": "/einstieg/grundlagen/iconleiste"
               },
               {
-                "text": "Karteikästen",
+                "text": "Statusfilter",
                 "link": "/einstieg/grundlagen/karteikasten"
+              },
+              {
+                "text": "Status- und Schnellfilter",
+                "link": "/schild2/auswahl/schnellfilter"
               },
               {
                 "text": "Schülerliste",
                 "link": "/einstieg/grundlagen/container"
-              },
-              {
-                "text": "Funktionsübersicht",
-                "link": "/einstieg/grundlagen/inhaltsverzeichnis"
-              },
-              {
-                "text": "SchILD-NRW im Alltag bedienen",
-                "link": "/hilfe/bedienung"
-              },
-              {
-                "text": "Über diese Dokumentation",
-                "link": "/hilfe/ueber-diese-dokumentation"
               }
             ]
           },
@@ -100,13 +96,7 @@
               },
               {
                 "text": "Lehrkräfte",
-                "link": "/schild2/lehrkraefte",
-                "items": [
-                  {
-                    "text": "Lehrkräfte",
-                    "link": "/schild2/lehrkraefte/lehrkraefte"
-                  }
-                ]
+                "link": "/schild2/lehrkraefte/lehrkraefte"
               },
               {
                 "text": "Statistikjahrgänge",
@@ -127,10 +117,6 @@
               {
                 "text": "Gruppenprozesse kennenlernen",
                 "link": "/einstieg/erste-schritte/einfuehrung-in-die-gruppenprozesse-001"
-              },
-              {
-                "text": "Anleitungen für den Einstieg",
-                "link": "/einstieg/erste-schritte/schild-nrw-tutorials"
               }
             ]
           },
@@ -230,6 +216,14 @@
               {
                 "text": "Auswahl und Reihenfolge",
                 "items": [
+                  {
+                    "text": "Status- und Schnellfilter",
+                    "link": "/schild2/auswahl/schnellfilter"
+                  },
+                  {
+                    "text": "Statusfilter und Schülerstatus",
+                    "link": "/einstieg/grundlagen/karteikasten"
+                  },
                   {
                     "text": "Auswahlmenü",
                     "link": "/schild2/auswahl/auswahl"
@@ -332,13 +326,7 @@
           },
           {
             "text": "Lehrkräfte",
-            "link": "/schild2/lehrkraefte",
-            "items": [
-              {
-                "text": "Lehrkräfte",
-                "link": "/schild2/lehrkraefte/lehrkraefte"
-              }
-            ]
+            "link": "/schild2/lehrkraefte/lehrkraefte"
           },
           {
             "text": "Unterricht und Kataloge",
@@ -999,13 +987,11 @@
                       },
                       {
                         "text": "Sprachnachweise und Zusatzdaten",
-                        "link": "/zeugnisse/sekundarstufen/zusatzdaten-latinum-eingeben",
-                        "items": [
-                          {
-                            "text": "Weitere Wiki-Beschreibung",
-                            "link": "/zeugnisse/sekundarstufen/zusatzdaten-latimun-eingeben"
-                          }
-                        ]
+                        "link": "/zeugnisse/sekundarstufen/zusatzdaten-latinum-eingeben"
+                      },
+                      {
+                        "text": "Weitere Wiki-Beschreibung",
+                        "link": "/zeugnisse/sekundarstufen/zusatzdaten-latinum-eingeben"
                       }
                     ]
                   },
@@ -1026,13 +1012,11 @@
                       },
                       {
                         "text": "Mündliche Prüfungen festlegen",
-                        "link": "/zeugnisse/sekundarstufen/muendliche-pruefungen-a1-a3-festlegen",
-                        "items": [
-                          {
-                            "text": "Weitere Wiki-Beschreibung",
-                            "link": "/zeugnisse/sekundarstufen/mdl-pruefungen-a1-a3-festlegen"
-                          }
-                        ]
+                        "link": "/zeugnisse/sekundarstufen/muendliche-pruefungen-a1-a3-festlegen"
+                      },
+                      {
+                        "text": "Weitere Wiki-Beschreibung",
+                        "link": "/zeugnisse/sekundarstufen/muendliche-pruefungen-a1-a3-festlegen"
                       },
                       {
                         "text": "Gesamtfehlstunden berechnen",
@@ -1076,13 +1060,11 @@
                     "items": [
                       {
                         "text": "BK-Abschlussverfahren",
-                        "link": "/zeugnisse/berufskolleg/bk-abschluss",
-                        "items": [
-                          {
-                            "text": "Weitere Wiki-Beschreibung",
-                            "link": "/zeugnisse/berufskolleg/bkabschluss"
-                          }
-                        ]
+                        "link": "/zeugnisse/berufskolleg/bk-abschluss"
+                      },
+                      {
+                        "text": "Weitere Wiki-Beschreibung",
+                        "link": "/zeugnisse/berufskolleg/bk-abschluss"
                       },
                       {
                         "text": "Herkunft am BK und WBK",
@@ -1327,7 +1309,7 @@
                 "text": "Textschnittstelle verstehen",
                 "items": [
                   {
-                    "text": "SchILD-Schnittstelle",
+                    "text": "SchILD-NRW 2-Schnittstelle",
                     "link": "/schild2/import-export-statistik/schnittstelle-schild-nrw"
                   },
                   {
@@ -1482,7 +1464,7 @@
             "items": [
               {
                 "id": "menue-3",
-                "text": "Karteikästen",
+                "text": "Statusfilter",
                 "link": "/einstieg/grundlagen/karteikasten",
                 "source_title": "Karteikasten",
                 "items": []
@@ -2689,7 +2671,7 @@
                   {
                     "id": "menue-menue-68-7",
                     "text": "Sprachnachweise und Zusatzdaten",
-                    "link": "/zeugnisse/sekundarstufen/zusatzdaten-latimun-eingeben",
+                    "link": "/zeugnisse/sekundarstufen/zusatzdaten-latinum-eingeben",
                     "source_title": "Zusatzdaten (Latimun...) eingeben",
                     "items": []
                   },
@@ -2779,7 +2761,7 @@
               },
               {
                 "id": "menue-79",
-                "text": "SchILD-Schnittstelle",
+                "text": "SchILD-NRW 2-Schnittstelle",
                 "link": "/schild2/import-export-statistik/schnittstelle-schild-nrw",
                 "source_title": "Schnittstelle Schild-NRW",
                 "items": []
@@ -3834,7 +3816,7 @@
                 "link": "/hilfe/zusatzprogramme/kurs42-installationshinweise"
               },
               {
-                "text": "Zusammenspiel mit SchILD und LuPO",
+                "text": "Zusammenspiel mit SchILD-NRW 2 und LuPO",
                 "link": "/tools/kurs42/datenfluss"
               },
               {
@@ -3894,18 +3876,16 @@
                 "link": "/tools/lupo/lupo-installation"
               },
               {
-                "text": "Vorbereitungen in SchILD",
+                "text": "Vorbereitungen in SchILD-NRW 2",
                 "link": "/tools/lupo/lupo-vorbereitungen-in-schild-nrw"
               },
               {
                 "text": "Erste Schritte",
-                "link": "/tools/lupo/lupo-erste-schritte-in-lupo",
-                "items": [
-                  {
-                    "text": "Schülerdateien erzeugen",
-                    "link": "/tools/lupo/lupo-schuelerdateien-erzeugen"
-                  }
-                ]
+                "link": "/tools/lupo/lupo-erste-schritte-in-lupo"
+              },
+              {
+                "text": "Schülerdateien erzeugen",
+                "link": "/tools/lupo/lupo-schuelerdateien-erzeugen"
               },
               {
                 "text": "Beratungsprozess",
@@ -4064,7 +4044,7 @@
                 "link": "/hilfe/zusatzprogramme/s1plan-einrichtung-von-kursen"
               },
               {
-                "text": "Kurse aus SchILD übernehmen",
+                "text": "Kurse aus SchILD-NRW 2 übernehmen",
                 "link": "/hilfe/zusatzprogramme/s1plan-uebernahme-von-kursen-aus-schild"
               },
               {
@@ -4288,7 +4268,7 @@
           },
           {
             "text": "Quelltexte und Originaldateien",
-            "link": "/hilfe/ueber-diese-dokumentation#quelltexte-und-erganzende-dateien"
+            "link": "/hilfe/quelltexte-und-originaldateien"
           }
         ]
       }

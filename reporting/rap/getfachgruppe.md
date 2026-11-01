@@ -35,6 +35,4 @@ Klartextname
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [GetFachgruppe – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=GetFachgruppe&oldid=53)

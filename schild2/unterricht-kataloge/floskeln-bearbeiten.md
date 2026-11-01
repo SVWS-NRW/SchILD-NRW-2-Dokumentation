@@ -6,13 +6,13 @@ title: "Floskeln bearbeiten"
 
 # Floskeln bearbeiten
 
-In Schild-NRW gibt es sogenannte "Floskeln". Dies sind wiederkehrende Bemerkungen, die in Zeugnisbemerkungen, Bemerkungen zum Arbeits- und Sozialverhalten, Angaben zum außerunterrichtlichen Engagement oder den fachbezogenen Bemerkungen vorkommen können.
+In SchILD-NRW 2 gibt es sogenannte "Floskeln". Dies sind wiederkehrende Bemerkungen, die in Zeugnisbemerkungen, Bemerkungen zum Arbeits- und Sozialverhalten, Angaben zum außerunterrichtlichen Engagement oder den fachbezogenen Bemerkungen vorkommen können.
 
-Um diese Bemerkungen nicht immer eintippen zu müssen, können diese in Schild-NRW mit einem Kürzel hinterlegt werden.
+Um diese Bemerkungen nicht immer eintippen zu müssen, können diese in SchILD-NRW 2 mit einem Kürzel hinterlegt werden.
 
 ![Floskeln](/bilder/schild2/unterricht-kataloge/floskeln.jpg)
 
-Seit einigen Versionen werden die Floskeln nicht mehr in einer Textdatei im Installationsverzeichnis von Schild-NRW gespeichert, sondern in der Datenbank. Dazu musste in den [Programmeinstellungen](/administration/benutzer-einstellungen/programm-einstellungen) der Haken "Floskeln in Datenbank verwalten" gesetzt sein. Diese Einstellung ist nun immer eingestellt und nicht mehr wählbar. Über die Schaltflächen "Import" und "Export" kann das alte Floskelformat nachträglich noch immer eingelesen oder wieder erzeugt werden.
+Seit einigen Versionen werden die Floskeln nicht mehr in einer Textdatei im Installationsverzeichnis von SchILD-NRW 2 gespeichert, sondern in der Datenbank. Dazu musste in den [Programmeinstellungen](/administration/benutzer-einstellungen/programm-einstellungen) der Haken "Floskeln in Datenbank verwalten" gesetzt sein. Diese Einstellung ist nun immer eingestellt und nicht mehr wählbar. Über die Schaltflächen "Import" und "Export" kann das alte Floskelformat nachträglich noch immer eingelesen oder wieder erzeugt werden.
 
 Weil die Floskeln nun in der Datenbank verwaltet werden, werden diese auch automatisch mit der Notendatei der Lehrer an das Externe-Notenmodul übergeben.
 
@@ -70,9 +70,5 @@ Der Editor steht an folgenden Stellen zur Verfügung:
 Die Filterung kann dann aber manuell aufgehoben oder geändert werden.
 
 Bei den fachbezogenen Floskeln können ein Jahrgang und ein Niveau vergeben werden, so können Sie die Kategorien für den Zeugnisdruck aufbauen.
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [&quot;Floskeln&quot; bearbeiten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=%22Floskeln%22+bearbeiten&oldid=3914)

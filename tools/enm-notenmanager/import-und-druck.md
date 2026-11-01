@@ -24,8 +24,8 @@ Bei der Übernahme nur einer Notenspalte muss die Reihenfolge der Schülerinnen 
 
 Im **Report-Explorer** wählen Sie einen vorhandenen Report, starten den Designer oder legen eine neue Vorlage an. Markieren Sie die zu druckenden Datensätze in der ersten Spalte.
 
-Die Register für Lerngruppen und Klassenleitung verwenden unterschiedliche Vorlagen. Das Register **Klassenleitung** ist nur sichtbar, wenn die Lehrkraft in SchILD entsprechend zugeordnet wurde. Die Reportdateien liegen im Ordner `Reports`: Lerngruppen-Reports haben die Endung `.rLG`, Klassenleitungs-Reports `.rKL`.
+Die Register für Lerngruppen und Klassenleitung verwenden unterschiedliche Vorlagen. Das Register **Klassenleitung** ist nur sichtbar, wenn die Lehrkraft in SchILD-NRW 2 entsprechend zugeordnet wurde. Die Reportdateien liegen im Ordner `Reports`: Lerngruppen-Reports haben die Endung `.rLG`, Klassenleitungs-Reports `.rKL`.
 
-Die Vorlage und der Ausdruck sind von der gespeicherten Notendatei zu unterscheiden. Für die Übernahme nach SchILD muss weiterhin die bearbeitete Notendatei zurückgegeben werden.
+Die Vorlage und der Ausdruck sind von der gespeicherten Notendatei zu unterscheiden. Für die Übernahme nach SchILD-NRW 2 muss weiterhin die bearbeitete Notendatei zurückgegeben werden.
 
 Quelle: [Bedienungsanleitung ENM-Notenmanager, Druckstand 15.12.2020](https://www.svws.nrw.de/system/files/media/document/file/enm_bedienungsanleitung_2.pdf), Kapitel 9.1–9.2, Seiten 27–41.

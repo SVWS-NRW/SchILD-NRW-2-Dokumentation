@@ -10,7 +10,7 @@ Die Schülerliste zeigt die Personen, auf die Ihre aktuelle Auswahl zutrifft. Im
 
 ![Container_re_Maus](/bilder/einstieg/grundlagen/container-re-maus.jpg)
 
-Diese Auswahl ist entscheidend für viele weitere Tätigkeiten, die mit Schild-NRW ausgeführt werden sollen.
+Diese Auswahl ist entscheidend für viele weitere Tätigkeiten, die mit SchILD-NRW 2 ausgeführt werden sollen.
 
 So wirken sich alle angewählten Gruppenprozesse ausschließlich auf die im Container gefilterten Schüler aus.
 
@@ -60,7 +60,7 @@ unter [Menü Extras](/administration/benutzer-einstellungen/extras) \> [Progr
 
 **Alle auswählen** \
 Dieser Befehl führt dazu, dass alle Schüler im Container ausgewählt und "blau" unterlegt werden.\
-Bitte beachten Sie, dass es in Schild-NRW einen Unterschied zwischen den ausgewählten Schülern \
+Bitte beachten Sie, dass es in SchILD-NRW 2 einen Unterschied zwischen den ausgewählten Schülern \
 und den markierten Schülern gibt. (Markierungen werden durch Doppelklick auf den Schüler erreicht \
 und zeigen sich durch den "fett" markierten Schriftsatz im Schülernamen.)\
 
@@ -75,24 +75,22 @@ Bewirkt eine Umkehrung der Auswahl.\
 Entfernt die "blaue" Auswahl der Schülerdatensätze.\
 
 **Ausgewählte Namen in Zwischenablage kopieren**\
-Schild-NRW kopiert sämtliche ausgewählte Schülernamen in der Form "Nachname, Vorname" in die Zwischenablage.\
+SchILD-NRW 2 kopiert sämtliche ausgewählte Schülernamen in der Form "Nachname, Vorname" in die Zwischenablage.\
 Dieses Ergebnis kann zum Beispiel in ein Textdokument oder ein Worddokument eingefügt werden.\
 
 **Auswahl in Excel-Datei exportieren**\
 Öffnet ein Fenster mit einer Tabellenvorschau, in der die sichtbaren Spalten eingefügt sind.\
 Diese Tabelle kann als Excel-Datei (XLS) gespeichert werden.\
 
-------------------------------------------------------------------------
-
 **E-Mail an ausgewählte Schüler senden**\
-Schild sendet an alle Mailadressen der ausgewählten Schüler eine E-Mail. \
+SchILD-NRW 2 sendet an alle Mailadressen der ausgewählten Schüler eine E-Mail. \
 Hier wird die Adresse unter [Individual-Daten I](/schild2/schueler/individual-daten-i) genutzt.\
-Bitte beachten Sie, dass dazu die Maileinstellungen in Schild-NRW unter \
+Bitte beachten Sie, dass dazu die Maileinstellungen in SchILD-NRW 2 unter \
 [Menü Extras](/administration/benutzer-einstellungen/extras) \> [Programmeinstellungen](/administration/benutzer-einstellungen/programm-einstellungen) \> Globale Einstellungen vorgenommen werden müssen.\
 
 **E-Mail an Erzieher der ausgewählten Schüler senden**\
 Verwendet beim Versand die E-Mail-Adressen, die unter [Erziehungsberechtigte verwalten](/schild2/schueler/erz-berechtigte) eingetragen sind.\
-Schild berücksichtigt dabei auch den Haken bei "erhält Anschreiben".\
+SchILD-NRW 2 berücksichtigt dabei auch den Haken bei "erhält Anschreiben".\
 
 **E-Mail an weitere Adresse der ausgewählten Schüler senden**\
 Sendet an den Betrieb, der unter "Weitere Adressen" eingetragen ist.\
@@ -120,8 +118,6 @@ Wie Sie individuelle Schülergruppen definieren können, erfahren Sie un
 Fügt die "blau" ausgewählten Schülerdatensätze zu einer allgemeinen Personengruppe hinzu.\
 Diese Personengruppen werden unter [Schulverwaltung](/schild2/unterricht-kataloge/schulverwaltung) erzeugt.\
 
-------------------------------------------------------------------------
-
 **Basisdaten in Vorlage übernehmen**\
 Diese Funktion bewirkt, dass beim aktuell ausgewählten Schüler einige Basisdaten \
 (Wohnort, Aufnahmedatum, ...) in eine Vorlage kopiert werden.\
@@ -131,10 +127,6 @@ so werden diese Basisdaten bei dem neu erzeugten Schüler-Datensatz ber
 **Basisdaten aus Vorlage löschen**\
 Löscht die Vorgaben aus der vorangegangenen Funktion.\
 
-------------------------------------------------------------------------
-
 [Springe zu Hauptfenster](/einstieg/grundlagen/hauptfenster)
-
----
 
 Quelle: [Container – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Container&oldid=1108)

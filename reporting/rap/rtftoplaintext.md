@@ -35,6 +35,4 @@ Memo1.Text:=RtfToPlaintext(SchuelerLernabschnitte['ZeugnisBem'])
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [RtfToPlaintext – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=RtfToPlaintext&oldid=91)

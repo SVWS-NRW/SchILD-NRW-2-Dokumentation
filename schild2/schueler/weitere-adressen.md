@@ -18,8 +18,4 @@ Aus der Liste der schon vorhandenen Adressen kann die passende Adresse mit Hilfe
 
 In dieser Eingabeansicht gibt es einen weiteren Karteireiter *Übersicht*. Man hat hier u. a. die Möglichkeit, die Liste aller Adressen als Excel-Liste zu exportieren.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Weitere Adressen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Weitere+Adressen&oldid=1481)

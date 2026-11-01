@@ -1,10 +1,12 @@
 ---
-title: "Änderungshistorie von SchILD-NRW"
+title: "Änderungshistorie von SchILD-NRW 2"
 ---
 
 <a id="versionsgeschichte-schild-nrw"></a>
 
-# Änderungshistorie von SchILD-NRW
+<a id="anderungshistorie-von-schild-nrw"></a>
+
+# Änderungshistorie von SchILD-NRW 2
 
 Diese historische Änderungsliste dokumentiert frühere Anpassungen an SchILD-NRW 2. Die Einträge erklären die damaligen Änderungen; sie sind keine fortlaufende Arbeitsanleitung und werden hier als ursprüngliche Dokumentation erhalten.
 
@@ -80,7 +82,7 @@ Die Abitur-Gruppenprozesse sind jetzt wieder verfügbar, wenn alle SuS in der ak
 - In den Programmeinstellungen steht jetzt für den E-Mail-Versand die Option "E-Mails an mehrere Empfänger immer einzeln versenden" zur Verfügung. Wenn diese Option aktiviert ist, wird eine E-Mail, die an mehrere Empfänger adressiert ist, nicht als "Sammel-E-Mail" verschickt, sondern für jeden Empfänger als eine Einzel-E-Mail.
 - In der statkue.mdb und schulver.mdb wurden fehlende Einträge ergänzt. Insbesondere kann nun die Abgangsart R (Ohne Abschluss) für Abgänger aus der Deutschförderung ausgewählt werden.
 - Beim Filter I wird nun im Reiter Lernabschnitt/Leistungsdaten für das Feld Abschluss auch das Kürzel der Prüfungsordnung angezeigt.
-- Es steht nun ein Gruppenprozess "Alle Vornamen anpassen" zur Verfügung. Durch diesen Prozess wird der Rufname in das Feld "Alle Vornamen" übertragen, sofern das Feld "Alle Vornamen" nicht leer ist und der Rufname dort noch nicht vorhanden ist. Dies ist eine Vorbereitung für den Umstieg nach SchILD3. Nähere Informationen finden Sie im SchILD-NRW3 Wiki:
+- Es steht nun ein Gruppenprozess "Alle Vornamen anpassen" zur Verfügung. Durch diesen Prozess wird der Rufname in das Feld "Alle Vornamen" übertragen, sofern das Feld "Alle Vornamen" nicht leer ist und der Rufname dort noch nicht vorhanden ist. Dies ist eine Vorbereitung für den Umstieg nach SchILD3. Nähere Informationen finden Sie im SchILD-NRW 23 Wiki:
 
 <https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Alle_Vornamen_anpassen_(Gruppenprozesse_Allgemein)>
 
@@ -109,7 +111,7 @@ In der Pipeline "SchildUmgebung" wurden neue Datenfelder definiert, um das in de
 
 ### Schulformunabhängige Änderungen
 
-- Beim Import der Datei SchuelerVermerke.dat kam es zu fehlerhaften Einträgen, wenn Schüler in der Importdatei aufgelistet wurden, die nicht in der SchILD-Datenbank vorhanden vorhanden waren. Dieser Bug ist nun behoben.
+- Beim Import der Datei SchuelerVermerke.dat kam es zu fehlerhaften Einträgen, wenn Schüler in der Importdatei aufgelistet wurden, die nicht in der SchILD-NRW 2-Datenbank vorhanden vorhanden waren. Dieser Bug ist nun behoben.
 - Ein Bug beim Import der SchuelerFehlstunden.dat wurde korrigiert.
 
 <a id="Sekundarstufe_II_2"></a>
@@ -122,7 +124,7 @@ In der Pipeline "SchildUmgebung" wurden neue Datenfelder definiert, um das in de
 
 ### Gesamtschulen und Sekundarschulen
 
-- Die überarbeitete Prognoseberechnung aus PM2 wurde in SchILD integriert.
+- Die überarbeitete Prognoseberechnung aus PM2 wurde in SchILD-NRW 2 integriert.
 
 <a id="Berufskolleg_2"></a>
 
@@ -214,7 +216,7 @@ Hinweis: Hier wird in den Sommerferien eine weitere Aktualisierung erwartet.
 
 ### Vorbereitung zur kommenden Haupterhebung der amtlichen Schuldaten
 
-- Änderungen zum Vorjahr, die aus der Schulmail vom 17.04.24 hervorgehen, wurden bereits in SchILD eingepflegt. Informationen zu den Anpassungen finden Sie hier:
+- Änderungen zum Vorjahr, die aus der Schulmail vom 17.04.24 hervorgehen, wurden bereits in SchILD-NRW 2 eingepflegt. Informationen zu den Anpassungen finden Sie hier:
 
 <https://schulverwaltungsprogramme.msb.nrw.de/schulen/download.htm#D86>
 
@@ -288,7 +290,7 @@ Für Primarstufen an Förderschulen steht nun ein Notenexport für das GS-Notenm
 
 - Das Versenden von Mails über die Liste "Erzieher mit schulinternen Funktionen" führte zu einer Fehlermeldung. Dies ist nun behoben.
 - Beim Excel-Export von Schülerdaten können nun auch Angaben zum stellvertretenden Klassenlehrer exportiert werden.
-- Beim Export von Schülerbasisdaten über die Schnittstelle Schild-NRW wird nun für den Eintrag divers das Kürzel "d" statt "5" und für den Eintrag Ohne Angabe das Kürzel "o" statt "6" exportiert.
+- Beim Export von Schülerbasisdaten über die Schnittstelle SchILD-NRW 2 wird nun für den Eintrag divers das Kürzel "d" statt "5" und für den Eintrag Ohne Angabe das Kürzel "o" statt "6" exportiert.
 - Beim Excel-Export von Schülerdaten kann nun auch ein Ausgabewert für divers definiert werden.
 - Für die Datenquelle „Wahlpflichtbereich“ wurde ein Ereignis hinzugefügt, sodass nun auch Ankreuzkompetenzen für diese Fächergruppe über einen Report geladen werden können.
 
@@ -296,7 +298,7 @@ Für Primarstufen an Förderschulen steht nun ein Notenexport für das GS-Notenm
 
 ### Gesamtschulen und Sekundarschulen
 
-- Die überarbeitete Prognoseberechnung aus PM2 wurde in SchILD integriert.
+- Die überarbeitete Prognoseberechnung aus PM2 wurde in SchILD-NRW 2 integriert.
 - Wenn von der Prognoseberechnung das Ergebnis „MSAQ“ ermittelt wurde, so wurde dies nicht korrekt in der Datenbank gespeichert, nun behoben.
 - Das Ergebnis der Abschlussberechnung im Reiter aktuelles Halbjahr wurde als html-Quelltext abgebildet. Dies ist nun korrigiert
 
@@ -304,7 +306,7 @@ Für Primarstufen an Förderschulen steht nun ein Notenexport für das GS-Notenm
 
 ### Grundschulen
 
-- Es ist jetzt auch möglich, die Bemerkungen für die Übergangsempfehlung Jg. 05 über die Schnittstelle SchILD-NRW zu exportieren und zu importieren.
+- Es ist jetzt auch möglich, die Bemerkungen für die Übergangsempfehlung Jg. 05 über die Schnittstelle SchILD-NRW 2 zu exportieren und zu importieren.
 
 <a id="Förderschulen_2"></a>
 <a id="F.C3.B6rderschulen_2"></a>
@@ -338,7 +340,7 @@ MaxEmails=100
 
 ### Gesamtschulen
 
-- In der APO-SI gab es Änderungen für Schülerinnen und Schüler der Gesamt- und (teil)-integrierten Sekundarschulen, die ab dem 01.08.2020 in die Jahrgangsstufe 5 übergegangen sind. Um dies in SchILD abzubilden wurde die Prüfungsordnung APO-SI 20 in SchILD eingepflegt. Die "neue" Prüfungsordnung muss wie folgt für die Jahrgangsstufe 5 bis 8 eingetragen werden:
+- In der APO-SI gab es Änderungen für Schülerinnen und Schüler der Gesamt- und (teil)-integrierten Sekundarschulen, die ab dem 01.08.2020 in die Jahrgangsstufe 5 übergegangen sind. Um dies in SchILD-NRW 2 abzubilden wurde die Prüfungsordnung APO-SI 20 in SchILD-NRW 2 eingepflegt. Die "neue" Prüfungsordnung muss wie folgt für die Jahrgangsstufe 5 bis 8 eingetragen werden:
   - Öffnen Sie unter Schulverwaltung die Klassen-/Versetzungstabellen.
   - Ändern Sie hier die Prüfungsordnung für alle Klassen der Jahrgangsstufen 5 bis 8. Wählen Sie für jede Klasse die Option "Aktuelle Angaben in Schülerdaten übernehmen" aus, sodass die Prüfungsordnung APO-SI 20 auch bei den Schülern hinterlegt ist.
 
@@ -372,8 +374,8 @@ MaxEmails=100
 - In der statkue.mdb und schulver.mdb wurden fehlende Einträge ergänzt.
 - Die Datei ASDStatistik.dll von IT-NRW, die für den Export der Statistikdaten und die Gesamtprüfung zuständig ist, wurde aktualisiert.
 - Unter Schulverwaltung -\> schülerspezifische Kursarten ist nun der zur Kursart gehörige Statistikschlüssel sichtbar. Dies erleichtert die richtige Wahl der Kursart, die der Schlüsseltabelle entnommen werden kann. Sollte die Bezeichnung einer Kursart nicht zum Schlüssel bzw. Kürzel passen, muss die Kursart einmal gelöscht und anschließend wieder hinzugefügt werden. Eine detaillierte Beschreibung findet man hier: <https://schulverwaltungsinfos.nrw.de/svws/forum/viewtopic.php?p=34398#p34398>
-- In diesem Zusammenhang sei darauf hingewiesen, dass sich einige Kursbezeichnungen geändert haben. So wird an Gymnasien beispielsweise die Bezeichnung F3 in anderem Zusammenhang genutzt. An Hauptschulen werden nun anstatt der Kursarten E und G die Bezeichnungen E_H und G_H verwendet. Die genauen Kursartenschlüssel können der Schlüsseltabelle von ASDPC entnommen werden (<https://schulverwaltungsprogramme.msb.nrw.de/schulen/download.htm>). Diese Schlüssel müssen in der Schülerspezifischen Kurstabelle von Schild hinterlegt sein und verwendet werden.
-- Da es gelegentlich vorkommt, dass über den Schnittstellenimport versehentlich veraltete ".dat-Dateien" in SchILD importiert werden, erscheint nun vor dem eigentlichen Import ein Hinweisfenster, sofern die entsprechende Importdatei nicht das aktuelle Tagesdatum hat.
+- In diesem Zusammenhang sei darauf hingewiesen, dass sich einige Kursbezeichnungen geändert haben. So wird an Gymnasien beispielsweise die Bezeichnung F3 in anderem Zusammenhang genutzt. An Hauptschulen werden nun anstatt der Kursarten E und G die Bezeichnungen E_H und G_H verwendet. Die genauen Kursartenschlüssel können der Schlüsseltabelle von ASDPC entnommen werden (<https://schulverwaltungsprogramme.msb.nrw.de/schulen/download.htm>). Diese Schlüssel müssen in der Schülerspezifischen Kurstabelle von SchILD-NRW 2 hinterlegt sein und verwendet werden.
+- Da es gelegentlich vorkommt, dass über den Schnittstellenimport versehentlich veraltete ".dat-Dateien" in SchILD-NRW 2 importiert werden, erscheint nun vor dem eigentlichen Import ein Hinweisfenster, sofern die entsprechende Importdatei nicht das aktuelle Tagesdatum hat.
 
 <a id="Gymnasium_5"></a>
 
@@ -429,7 +431,7 @@ MaxEmails=100
   Hauptschulabschluss nach Klasse 10 → Erweiterer Erster Schulabschluss (EESA)
   Fachoberschulreife → Mittlerer Schulabschluss (MSA)
 - Wenn E-Mails an alle Erzieher einer Schülergruppe versendet und eine Kopie dieser E-Mail in die Dokumentenverwaltung gespeichert werden sollte, wurden diese Kopien bei einigen Schülern falsch zugeordnet. Dies ist nun behoben.
-- Beim Import von Teilleistungen über die Schnittstelle Schild-NRW wurden in der Spalte "Lehrkräfte" leer Einträge fehlerhaft übernommen. Dies ist nun behoben.
+- Beim Import von Teilleistungen über die Schnittstelle SchILD-NRW 2 wurden in der Spalte "Lehrkräfte" leer Einträge fehlerhaft übernommen. Dies ist nun behoben.
 - Für im Halbjahr zurückgestufte SuS wurde beim Datenexport für Lernplattformen auch Fächer exportiert, die vor der Zurückstufung belegt wurden. Dies ist nun behoben.
 - Im Filter I kann nun auch nach dem Anmeldedatum gefiltert werden.
 
@@ -442,13 +444,13 @@ MaxEmails=100
 
 ### Schulformunabhängige Änderungen
 
-- An manchen Schulen erhält SchILD keinen Internet-Zugriff auf die Dateien für das Hinweisfenster, welche Schild hier herunterlädt:
+- An manchen Schulen erhält SchILD-NRW 2 keinen Internet-Zugriff auf die Dateien für das Hinweisfenster, welche SchILD-NRW 2 hier herunterlädt:
 
 <https://www.svws.nrw.de/uploads/media/schildinfo.inf>
 
 [https://www.svws.nrw.de/uploads/media/schildinfo.rtf](https://www.svws.nrw.de/uploads/media/schildinfo.rtf)
 
-Hierdurch kommt es zu einem extrem verzögerten Start, der durch einen Timeout nach 30s gekennzeichnet ist. In der Beta-Version 2.0.29.5 wurde die Timeout-Zeit auf 2 Sekunden reduziert. Auf diese Weise sollte bei den betroffenen Schulen SchILD zumindest nur unmerklich langsamer starten. Im Hauptverzeichnis von SchILD kann eine Admin.ini angelegt werden, mit der die Timeout-Zeit vergrößert werden kann. Zudem kann über einen weiteren Schalter das Erzeugen einer Protokolldatei aktiviert werden, welche im Fehlerfall das Ereignis protokolliert. Diese Protokolldatei trägt den Namen "SchildDownloadErrors.log" und wird im Verzeichnis C:\Users\\\<Benutzername\>\Dokuments gespeichert. Unter diesem Pfad werden auch die schildinfo.inf und schildinfo.rtf abgelegt, wenn SchILD die Dateien erfolgreich abrufen konnte. Die Benutzer benötigen hierzu Zugriffsrechte auf dieses Verzeichnis. Von dem Phänomen betroffene Schulen können in der Regel ebenfalls den Programmpunkt "Hilfe ➜ Auf Update prüfen" nicht erfolgreich ausführen. Die Einträge in der Admin.ini müssen wie folgt aussehen:
+Hierdurch kommt es zu einem extrem verzögerten Start, der durch einen Timeout nach 30s gekennzeichnet ist. In der Beta-Version 2.0.29.5 wurde die Timeout-Zeit auf 2 Sekunden reduziert. Auf diese Weise sollte bei den betroffenen Schulen SchILD-NRW 2 zumindest nur unmerklich langsamer starten. Im Hauptverzeichnis von SchILD-NRW 2 kann eine Admin.ini angelegt werden, mit der die Timeout-Zeit vergrößert werden kann. Zudem kann über einen weiteren Schalter das Erzeugen einer Protokolldatei aktiviert werden, welche im Fehlerfall das Ereignis protokolliert. Diese Protokolldatei trägt den Namen "SchildDownloadErrors.log" und wird im Verzeichnis C:\Users\\\<Benutzername\>\Dokuments gespeichert. Unter diesem Pfad werden auch die schildinfo.inf und schildinfo.rtf abgelegt, wenn SchILD-NRW 2 die Dateien erfolgreich abrufen konnte. Die Benutzer benötigen hierzu Zugriffsrechte auf dieses Verzeichnis. Von dem Phänomen betroffene Schulen können in der Regel ebenfalls den Programmpunkt "Hilfe ➜ Auf Update prüfen" nicht erfolgreich ausführen. Die Einträge in der Admin.ini müssen wie folgt aussehen:
 
 \[Programm\]\
 HttpConnectTimeout=\<Zeit in Sekunden\>\
@@ -469,7 +471,7 @@ InfoVerzeichnis=\<Verzeichnis der Dateien schildinfo.inf und schildinfo.rtf
 Die beiden Dateien schildinfo.inf und schildinfo.rtf liegen auch auf der Webseite von ribeka, die Provider von SchILDzentral können die Dateien von dort herunterladen und in ein lokales Verzeichnis legen. Dann wird statt eines „echten“ Downloads einfach die Datei aus dem angegebene Verzeichnis gelesen.
 
 - Der neue Hinweis "Keine Internet-Verbindung" wurde im Programm immer dann ausgegeben, wenn die Datei "schildinfo.inf" nicht heruntergeladen werden konnte. Da dies nicht zwingend bedeutete, dass keine Internet-Verbindung existierte, wurde nun diese missverständliche Information zu "Informationsdatei konnte nicht heruntergeladen werden" geändert.
-- Wenn SchILD über eine Remote-Desktop-Verbindung gestartet wird, stehen auf dem RD-Server auch die auf dem lokalen Rechner installierten „weitergeleiteten“ Drucker zur Verfügung. Es trat aber das Problem auf, dass der (lokale) Standarddrucker unter bestimmten Bedingungen nicht korrekt als Standard erkannt wurde. Das Problem ist nun behoben.
+- Wenn SchILD-NRW 2 über eine Remote-Desktop-Verbindung gestartet wird, stehen auf dem RD-Server auch die auf dem lokalen Rechner installierten „weitergeleiteten“ Drucker zur Verfügung. Es trat aber das Problem auf, dass der (lokale) Standarddrucker unter bestimmten Bedingungen nicht korrekt als Standard erkannt wurde. Das Problem ist nun behoben.
 
 <a id="Gesamtschulen_3"></a>
 
@@ -500,7 +502,7 @@ Die beiden Dateien schildinfo.inf und schildinfo.rtf liegen auch auf der Webseit
 
 ### Schulformunabhängige Änderungen
 
-- Das neue Hinweisfenster (v. 2.0.29.2) konnte die Neuigkeiten bei Nutzung eines Proxy-Servers nicht abrufen und anzeigen. Dadurch war der Start von Schild verzögert. Diese Version berücksichtigt nun auch das Vorhandensein eines Proxys. Die Angaben zum Proxy können auf zwei Arten übergeben werden. Zum einen kann eine Admin.ini im Hauptverzeichnis von SchILD-NRW angelegt werden, welche Informationen zum Proxy enthalt. Falls es keine Admin.ini gibt oder diese keine Informationen zum Proxy enthält, versucht SchILD die im System hinterlegten Einstellungen auszulesen, sofern diese vorhanden sind. Die Admin.ini muss folgenden Eintrag enthalten:
+- Das neue Hinweisfenster (v. 2.0.29.2) konnte die Neuigkeiten bei Nutzung eines Proxy-Servers nicht abrufen und anzeigen. Dadurch war der Start von SchILD-NRW 2 verzögert. Diese Version berücksichtigt nun auch das Vorhandensein eines Proxys. Die Angaben zum Proxy können auf zwei Arten übergeben werden. Zum einen kann eine Admin.ini im Hauptverzeichnis von SchILD-NRW 2 angelegt werden, welche Informationen zum Proxy enthalt. Falls es keine Admin.ini gibt oder diese keine Informationen zum Proxy enthält, versucht SchILD-NRW 2 die im System hinterlegten Einstellungen auszulesen, sofern diese vorhanden sind. Die Admin.ini muss folgenden Eintrag enthalten:
 
 \[Proxy\]\
 Server=\<IP des Proxys\>\
@@ -518,11 +520,11 @@ Port=\<Port des Proxys\>\
 
 ### Schulform unabhängige Änderungen
 
-- Beim Start von SchILD-NRW werden nun Hinweise zu Updates und anderen Neuigkeiten gegeben, sofern welche vorliegen. Voraussetzung für diese Hinweise ist eine bestehende Internetverbindung.
+- Beim Start von SchILD-NRW 2 werden nun Hinweise zu Updates und anderen Neuigkeiten gegeben, sofern welche vorliegen. Voraussetzung für diese Hinweise ist eine bestehende Internetverbindung.
 
-Beim Start überprüft Schild zunächst, ob neue Hinweise vorliegen. Hierzu lädt Schild eine kleine Informationsdatei herunter und wertet das enthaltene Datum aus. Diese Informationsdatei wird hier heruntergeladen: <https://www.svws.nrw.de/uploads/media/schildinfo.inf>
+Beim Start überprüft SchILD-NRW 2 zunächst, ob neue Hinweise vorliegen. Hierzu lädt SchILD-NRW 2 eine kleine Informationsdatei herunter und wertet das enthaltene Datum aus. Diese Informationsdatei wird hier heruntergeladen: <https://www.svws.nrw.de/uploads/media/schildinfo.inf>
 
-Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in Schild angezeigt. Die rtf-Datei liegt hier: [https://www.svws.nrw.de/uploads/media/schildinfo.rtf](https://www.svws.nrw.de/uploads/media/schildinfo.rtf)
+Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NRW 2 angezeigt. Die rtf-Datei liegt hier: [https://www.svws.nrw.de/uploads/media/schildinfo.rtf](https://www.svws.nrw.de/uploads/media/schildinfo.rtf)
 
 - Das Auswahlfeld "Masernschutzimpfung" wurde aus Datenschutzgründen bei den Lehrkräften entfernt.
 
@@ -557,7 +559,7 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in Schild an
 - In der statkue.mdb und schulver.mdb wurden fehlende Einträge ergänzt.
 - Die schülerspezifischen Kursarten wurden auf die neuen Bezeichnunngen von IT-NRW angepasst (insbesondere die neue Kursart F3).
 - Straßennamen werden nun wieder exportiert, wenn der Export in eine CSV- oder XLS-Datei erfolgen soll. Dies war zwischenzeitlich nicht möglich.
-- Das Update enthält die neuste ASDStatistik.dll (Version 5.10.4 vom 09.08.2022), in welcher ein kleinerer Fehler bei der Gesamtprüfung in Schild bezüglich der Schulbesuchsjahre behoben wurde.
+- Das Update enthält die neuste ASDStatistik.dll (Version 5.10.4 vom 09.08.2022), in welcher ein kleinerer Fehler bei der Gesamtprüfung in SchILD-NRW 2 bezüglich der Schulbesuchsjahre behoben wurde.
 - Beim Fotoexport gab es eine Fehlermeldung, wenn die Dateinamen die IDs der Schülerinnen und Schüler enthalten sollten. Behoben.
 - Der iServ-Export berücksichtigt nun auch Lehrerinnen und Lehrer, sowie Schülerinnen und Schüler ohne Unterricht. Schülerinnen und Schüler mit Löschvermerk werden nicht mehr exportiert. Lehrerinnen und Lehrer ohne Exportvermerk werden nicht mehr exportiert.
 - Beim Löschen eines oder mehrerer Kurse gab es unter Umständen eine Fehlermeldung, obwohl die Kurse gelöscht wurden. Dies sollte nun behoben sein.
@@ -768,7 +770,7 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in Schild an
 - Wenn dies dort aktiviert ist, steht beim Druck eines DV-tauglichen Reports auch die Option Archivierung in Zeugnisverzeichnis zur Verfügung.
 - Es werden dann einzelne PDFs mit dem Dateinamen Name_Vorname_Klasse.pdf erstellt.
 - Unter Datenaustausch „Weitere Export“ wurden nun Exporte zusammengefasst.
-- Dort steht nun auch ein iServ-Export zur Verfügung. Der Logineo-Export wurde in Schild-NRW integriert und muss nun nicht mehr als DLL im Programmverzeichnis sein.
+- Dort steht nun auch ein iServ-Export zur Verfügung. Der Logineo-Export wurde in SchILD-NRW 2 integriert und muss nun nicht mehr als DLL im Programmverzeichnis sein.
 - Beim Gruppenprozess „Zeugnisbemerkungen eintragen“ wird jetzt an bereits existierende Texte ein Leerzeichen angehängt, sofern dieser nicht mit der Kombination „Punkt + Leerzeichen“ endet.
 
 <a id="Reportausgabe_3"></a>
@@ -917,7 +919,7 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in Schild an
 - Reports mit selbstdefinierten Datenquellen funktionieren nun wieder.
 - Die Berechnung der GeR-Niveaus in Sek1 und Sek2 wurde nochmals überarbeitet.
 - In den Abiturberechnungen wurde die Verpflichtung zur Abweichungsprüfung für das kommende Abitur entfernt.
-- Mailversand per SMTP. Das Fehlerprotokoll beim Mailversand wurde teilweise doppelt angezeigt. Die globalen Mail-Einstellungen wurden sofort beim Verbindungstest in SchILD-NRW aktualisiert, nicht aber die individuellen (Benutzername und Kennwort), ist nun korrigiert.
+- Mailversand per SMTP. Das Fehlerprotokoll beim Mailversand wurde teilweise doppelt angezeigt. Die globalen Mail-Einstellungen wurden sofort beim Verbindungstest in SchILD-NRW 2 aktualisiert, nicht aber die individuellen (Benutzername und Kennwort), ist nun korrigiert.
 
 <a id="Version_2.0.23.10"></a>
 
@@ -963,13 +965,13 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in Schild an
   - Wenn zu einer „Erzieheradresse“ zwei E-Mail-Adressen hinterlegt sind, werden auch zwei E-Mails erzeugt. Dieses Verhalten kann aber auch z.B. bei Anschreiben an die Erzieher genutzt werden, da dann alle Felder der DQ „Schueler“ genutzt werden können (und sogar alle von „Schueler“ abhängigen weiteren Datenquellen)
   - Damit die Serienmailfunktion verfügbar ist, muss bei den Gruppierungseigenschaften auch die Option „Email new file“ aktiviert sein.
 - Es gibt nun eine Funktion „Informationelle Selbstauskunft für ausgewählten Schüler erstellen“. Diese kann durch einen Klick mit der rechten Maustaste auf einen Schüler im Schülercontainer aktiviert werden. Die Funktion speichert eine Excel-Datei im ausgewählten Ordner. Diese Datei enthält alle gespeicherten Daten und kann dem Schüler ausgedruckt oder ausgehändigt werden. Die Funktion ist an die Berechtigung „Schülerdaten exportieren“ gekoppelt.
-- Es gibt nun eine neue Funktion Löschfristen prüfen im Menü Extras. Diese Funktion kann manuell aufgerufen werden. Ab dem 1.12. eines Kalenderjahres prüft Schild-NRW aber auch automatisch. Wenn eine Erinnerung an die Löschfristen nicht gewünscht wird, kann diese Meldung auch unterdrückt werden!
-- Schild-NRW prüft nun, ob Daten vorhanden sind, die die 5 Jahres-, 10 Jahres- und 20 Jahresfristen überschreiten. Im Folgefenster könnten die Daten auch gesichtet werden. Nach erneuter Bestätigung werden die Daten dann gelöscht. Diese Funktion soll bei der Einhaltung der DSGVO behilflich sein.
+- Es gibt nun eine neue Funktion Löschfristen prüfen im Menü Extras. Diese Funktion kann manuell aufgerufen werden. Ab dem 1.12. eines Kalenderjahres prüft SchILD-NRW 2 aber auch automatisch. Wenn eine Erinnerung an die Löschfristen nicht gewünscht wird, kann diese Meldung auch unterdrückt werden!
+- SchILD-NRW 2 prüft nun, ob Daten vorhanden sind, die die 5 Jahres-, 10 Jahres- und 20 Jahresfristen überschreiten. Im Folgefenster könnten die Daten auch gesichtet werden. Nach erneuter Bestätigung werden die Daten dann gelöscht. Diese Funktion soll bei der Einhaltung der DSGVO behilflich sein.
 - Der Bereich der Bemerkungen in den Leistungsdaten auf dem Reiter „akt Halbjahr/akt, Abschnitt“ wurde neu gestaltet. Die Buttons für Zeugnisbemerkungen, ASV und AUE sind weggefallen, dafür wurden eigene Reiter bereitgestellt.
 - Zusätzlich wurden zwei neue Reiter für Bemerkungen geschaffen: Bemerkung Förderschwerpunkt und Individueller Versetzungsvermerk (nur 2. HJ). Mit diesen beiden Bemerkungen soll zukünftig der Zeugnisdruck besser gesteuert werden können. In den neuen Grundschulzeugnissen ist das bereits umgesetzt, dass hier eigene individuelle Bemerkungen eingegeben werden können, falls der Standardtext nicht gewünscht ist.
-- Es gibt nun einen Reiter „DSGVO-Einwilligungen“. Unter Schulverwaltung \> DSGVO-Einwilligungen kann man die gewünschten Merkmale ergänzen. Die Einwilligung zum Foto wird beim Update automatisch an diese Stelle kopiert und der eingetragene Wert beim Schülerdatensatz übernommen. Beim Anlegen einer Einwilligung wird diese automatisch sofort bei allen Schülern ergänzt. Die Einwilligungen können auch mit Filter I gefiltert werden. Es steht auch ein Gruppenprozess zur Verfügung. Die Datenquelle für die Reporting heißt: SchuelerDSGVOEinwilligung. Die Spalte Schlüssel, wird in Schild-NRW um Einträge ergänzt werden, die später bestimmte Automatismen ermöglichen soll. Diese Werte werden also vom Programm vorgegeben. (zunächst nur FOTO, was die Beziehung zu diesem Merkmal herstellt)
+- Es gibt nun einen Reiter „DSGVO-Einwilligungen“. Unter Schulverwaltung \> DSGVO-Einwilligungen kann man die gewünschten Merkmale ergänzen. Die Einwilligung zum Foto wird beim Update automatisch an diese Stelle kopiert und der eingetragene Wert beim Schülerdatensatz übernommen. Beim Anlegen einer Einwilligung wird diese automatisch sofort bei allen Schülern ergänzt. Die Einwilligungen können auch mit Filter I gefiltert werden. Es steht auch ein Gruppenprozess zur Verfügung. Die Datenquelle für die Reporting heißt: SchuelerDSGVOEinwilligung. Die Spalte Schlüssel, wird in SchILD-NRW 2 um Einträge ergänzt werden, die später bestimmte Automatismen ermöglichen soll. Diese Werte werden also vom Programm vorgegeben. (zunächst nur FOTO, was die Beziehung zu diesem Merkmal herstellt)
 - In der Benutzerverwaltung gibt es nun die Kompetenz „KAOA-Daten ändern“, hiermit kann eingestellt werden, ob User diese Daten ändern dürfen oder nicht.
-- Es können ab jetzt auch Teilleistungen über die Schnittstelle Schild-NRW im- und exportiert werden.
+- Es können ab jetzt auch Teilleistungen über die Schnittstelle SchILD-NRW 2 im- und exportiert werden.
 - Bei der Bearbeitung von Kursen ist es jetzt nicht mehr möglich, sowohl einen Eintrag in der Spalte "Jahrgang" als auch in der Spalte "mehrere Jahrgänge" zu machen (es gilt jetzt "entweder/oder"). Der Jahrgangsbezug kann nachträglich nur noch über die rechte Maustaste verändert werden. Beim Hochschreiben in einen neuen Abschnitt wird bei Kursen, bei denen beide Spalten gefüllt sind, eine automatische Korrektur durchgeführt, dabei haben Einträge in der Spalte "mehrere Jahrgänge" Vorrang.
 - Hinweis: Falls in der Spalte "mehrere Jahrgänge" Einträge enthalten sind, die betreffenden Jahrgänge aber nicht mehr existieren (weil gelöscht), so blieb bisher die Anzeige in der Kurstabelle leer. Das konnte zu schwer lokalisierbaren Problemen beim Hochschreiben führen. In solchen Fällen wird man nun durch "UNGÜLTIGE EINTRÄGE!" darauf hingewiesen, die Angaben zu korrigieren.
 
@@ -977,7 +979,7 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in Schild an
 
 ### Reportausgabe
 
-- Es gibt zwei neue Datenquellen "SchuelerJahresuebersicht" und "SchuelerJahresuebersichtTeilleistungen“. Damit lassen sich relativ einfach Jahresübersichten der Leistungsdaten und der zugehörigen Teilleistungen erzeugen. Entsprechende Beispielreports gibt es im Supportforum oder auch im Schild-NRW-Wiki.
+- Es gibt zwei neue Datenquellen "SchuelerJahresuebersicht" und "SchuelerJahresuebersichtTeilleistungen“. Damit lassen sich relativ einfach Jahresübersichten der Leistungsdaten und der zugehörigen Teilleistungen erzeugen. Entsprechende Beispielreports gibt es im Supportforum oder auch im SchILD-NRW 2-Wiki.
 - Hinweis: Die Datenquellen enthalten Felder der Art "Note_1", "Note_2" usw. Die Zahl entspricht dabei dem jeweiligen Anschnitt, "Note_1" gibt also die Note im ersten Halbjahr/Quartal aus, "Note_4" die Note im vierten Quartal.
 - Neue RAP-Funktion steht zur Verfügung: ***procedure AufFaecherFiltern(const fachliste: string);***
   - Ermöglicht eine Filterung in der Datenquelle „SchuelerJahresuebersicht“ auf bestimmte Fächer. Der Aufruf erfolgt typischerweise im Ereignis „ReportBeforPrint“
@@ -1105,8 +1107,8 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in Schild an
 
 - Beim Export in die Notenmodule wurde ein Fehler korrigiert, so dass nun keine leeren Lehrerdateien mehr erzeugt werden.
 - Die Übertragung von Kursen (beim Halbjahres- oder Schuljahreswechsel) wurde verbessert und beschleunigt, u.a. werden Kurse mit gleichen Namen und verschiedenen Lehrern nun als „verschieden“ erkannt.
-- Es wurde ein Teamviewer-Quicksupport-Modul in der Version 14 mitgeliefert. Das Programm kann aus Schild-NRW heraus mit STRG-T gestartet werden.
-- Der Import von Betrieben (bzw. Zuordnungen von Schülern zu Betrieben) über die „Schnittstelle SchILD-NRW“ wurde deutlich verbessert. Es wird jetzt anhand mehrerer Kriterien der „am besten passende Betrieb“ gesucht. Nur wenn kein solcher gefunden wird, erfolgt ein Neueintrag im Katalog „Allgemeine Adressen“.
+- Es wurde ein Teamviewer-Quicksupport-Modul in der Version 14 mitgeliefert. Das Programm kann aus SchILD-NRW 2 heraus mit STRG-T gestartet werden.
+- Der Import von Betrieben (bzw. Zuordnungen von Schülern zu Betrieben) über die „Schnittstelle SchILD-NRW 2“ wurde deutlich verbessert. Es wird jetzt anhand mehrerer Kriterien der „am besten passende Betrieb“ gesucht. Nur wenn kein solcher gefunden wird, erfolgt ein Neueintrag im Katalog „Allgemeine Adressen“.
 - Bei der Einstellung „Autoedit-Funktion für Individualdaten deaktivieren“ kam es zu einer Fehlermeldung, wenn in ein Editierfeld ein Text eingegeben wurde, dies ist nun korrigiert.
 
 <a id="Berufskollegs_12"></a>
@@ -1189,7 +1191,7 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in Schild an
 ### Sekundarschulen und Gesamtschulen
 
 - Bei eingetragener Gliederung „RH“ sollte nun die Abschlussberechnung so wie in den Gesamtschulen auch funktionieren.
-- Es wurde nun der Prognose-Algorithmus von PM2 auch in Schild-NRW implementiert. Damit sollten unterschiedliche Berechnungen zwischen den beiden Programmen nicht mehr vorkommen. Ein einfacher „Planspiel-Modus“ steht auch zur Verfügung.
+- Es wurde nun der Prognose-Algorithmus von PM2 auch in SchILD-NRW 2 implementiert. Damit sollten unterschiedliche Berechnungen zwischen den beiden Programmen nicht mehr vorkommen. Ein einfacher „Planspiel-Modus“ steht auch zur Verfügung.
 
 <a id="Gymnasium_7"></a>
 
@@ -1230,7 +1232,7 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in Schild an
 ### Schulformübergreifende Änderungen
 
 - Bei der Ausgabe von Lehrerreports, bei denen die interaktive Lehrerauswahl aktiviert ist, kam es zu einer Fehlermeldung, nun behoben.
-- Beim Schulträgerexport („Datenaustausch\>\>Schnittstelle SchILD-NRW\>\>Export an Schulträger“) kann nun gewählt werden, ob nur die aktuelle Auswahl berücksichtigt werden soll oder alle Schüler (also auch solche mit Status „Abgänger“ oder „Abschluss“).
+- Beim Schulträgerexport („Datenaustausch\>\>Schnittstelle SchILD-NRW 2\>\>Export an Schulträger“) kann nun gewählt werden, ob nur die aktuelle Auswahl berücksichtigt werden soll oder alle Schüler (also auch solche mit Status „Abgänger“ oder „Abschluss“).
 
 <a id="Gesamtschulen_5"></a>
 
@@ -1259,8 +1261,8 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in Schild an
 
 ### Schulform unabhängige Änderungen
 
-- Bei bestimmten Betriebssystem-== Versionen (z.B. Windows 7 32-bit) kam es aus nicht geklärten Gründen zu Fehlermeldungen der Art „Application made attempt to free invalid or unknown memory block.“ Diese scheinen mit einer neuen Version des in SchILD verwendeten „Fehlerprotokollierers“ (Eurekalog) zusammenzuhängen. Daher wurde wieder auf die vorherige Version zurückgestellt.
-- Über den Menüpunkt „Datenaustausch\>\>Schnittstelle SchILD-NRW\>\>Export an Schulträger“ können rudimentäre Stammdaten der Schüler (z.B. Name, Vorname, Adresse) exportiert und dem Schulträger für Auswertungen zur Verfügung gestellt werden. Der bisherige unverschlüsselte Export ist nun aus Sicherheitsgründen nicht mehr möglich, es wird nun eine mit Kennwort verschlüsselte Zip-Datei erstellt. Dabei stehen folgende Optionen zur Verfügung:
+- Bei bestimmten Betriebssystem-== Versionen (z.B. Windows 7 32-bit) kam es aus nicht geklärten Gründen zu Fehlermeldungen der Art „Application made attempt to free invalid or unknown memory block.“ Diese scheinen mit einer neuen Version des in SchILD-NRW 2 verwendeten „Fehlerprotokollierers“ (Eurekalog) zusammenzuhängen. Daher wurde wieder auf die vorherige Version zurückgestellt.
+- Über den Menüpunkt „Datenaustausch\>\>Schnittstelle SchILD-NRW 2\>\>Export an Schulträger“ können rudimentäre Stammdaten der Schüler (z.B. Name, Vorname, Adresse) exportiert und dem Schulträger für Auswertungen zur Verfügung gestellt werden. Der bisherige unverschlüsselte Export ist nun aus Sicherheitsgründen nicht mehr möglich, es wird nun eine mit Kennwort verschlüsselte Zip-Datei erstellt. Dabei stehen folgende Optionen zur Verfügung:
   - Daten verschlüsseln mit Standardkennwort (Entschlüsselung nur mit Schulträgermodul von SchILDzentral möglich)
   - Daten verschlüsseln mit individuellem Kennwort (muss mit Schulträger abgesprochen werden)
 - Bei der ersten Option ist eine Entschlüsselung nur mit dem Schulträgermodul von SchILDzentral möglich, bei der zweiten Option kann ein eigenes Kennwort für die Verschlüsselung verwendet werden, das dann aber dem Schulträger mitgeteilt werden muss.
@@ -1283,7 +1285,7 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in Schild an
 
 ### Grundschulen
 
-- In Kürze wird ein auf die Belange der Grundschulen zugeschnittenes „Grundschul-Notenmodul“ zur Verfügung stehen. In der aktuellen SchILD-Version können bereits Notendateien für dieses Modul erzeugt werden („Datenaustausch\>\>Externes Notenmodul“).
+- In Kürze wird ein auf die Belange der Grundschulen zugeschnittenes „Grundschul-Notenmodul“ zur Verfügung stehen. In der aktuellen SchILD-NRW 2-Version können bereits Notendateien für dieses Modul erzeugt werden („Datenaustausch\>\>Externes Notenmodul“).
 
 <a id="Berufskollegs_14"></a>
 
@@ -1435,7 +1437,7 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in Schild an
 
 ### Grundschule
 
-- Es wurden erste Vorbereitungen für die Möglichkeit, Ankreuzzeugnisse zu erstellen, in Schild-NRW implementiert.
+- Es wurden erste Vorbereitungen für die Möglichkeit, Ankreuzzeugnisse zu erstellen, in SchILD-NRW 2 implementiert.
 - Unter Schulverwaltung \> Stundentafeln wurde die Möglichkeit geschaffen, „Standardtafeln“ zu holen, die die Fächer der Ankreuzzeugnisse berücksichtigen. Dafür müssen eigene Stundentafeln vorher gelöscht werden.
 - In der Klassen-/Versetzungstabelle befindet sich nun ein Haken „In dieser Klasse werden Ankreuzzeugnisse verwendet“. Ist dieser Haken gesetzt, so erscheint beim Schüler im akt. Halbjahr ein weiterer Reiter für die Liste der Kompetenzen mit den Ankreuzzeugnissen.
 - Unter Schulverwaltung „Angaben für Ankreuzzeugnisse“ können dann die Kategorien mit einer Liste der Kompetenzen für jede Jahrgangsstufe erzeugt werden. Die Kompetenzstufen werden auf dem zweiten Reiter eingegeben.
@@ -1455,12 +1457,12 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in Schild an
 
 - Mailversand wurde im gesamten Programm umgestellt. Dazu liegt nun eine Datei namens Fleximailer.dll im Programmverzeichnis. Dieser Mailverkehr kann nun auch mit Microsoft-Outlook über das Extended MAPI-Verfahren kommunizieren. Dabei sollte es nun möglich sein, Anhänge über Outlook auch ohne Einzelbestätigung zu senden.
 - Portable-Programme und Web-Mailer können über diese Schnittstelle nicht angesprochen werden. Es muss ein Standardmailprogramm in Windows registriert sein.
-- Bitte kontrollieren Sie die Einstellungen zum Mailversand in Schild-NRW. Bei einigen Portangaben muss der Haken bei SSL-Verwenden deaktiviert werden!
+- Bitte kontrollieren Sie die Einstellungen zum Mailversand in SchILD-NRW 2. Bei einigen Portangaben muss der Haken bei SSL-Verwenden deaktiviert werden!
 - Bei Port 587 muss in der Regel SSL deaktiviert werden. Ob Ihr SMTP Server StartTLS aktiviert haben muss, probieren Sie bitte aus.
 - Die RAP-Funktion „PickDatum“ funktioniert wieder.
 - Es wurde das Feld Schueler\[Schul-Email\] bei den Schülern eingeführt. Hier soll die E-Mail-Adresse, die u.U. im pädagogischen System der Schule vergeben wird, verwaltet werden.
 - Unter den globalen Einstellungen kann auch aktiviert werden, dass beim Mailversand diese Adresse genommen werden soll. Später soll diese Adresse auch importiert werden können, z.B. aus Logineo.
-- Die Reportingdatenquelle LeistungsUebersicht verwendet nun auch die in Schild-NRW genutzte Sortierung.
+- Die Reportingdatenquelle LeistungsUebersicht verwendet nun auch die in SchILD-NRW 2 genutzte Sortierung.
 - Im Gruppenprozess „Zeugnisse drucken und Schüler ausschulen“ wurde eine Fehlermeldung beseitigt.
 - Im Gruppenprozess „Fehlstunden eingeben“ wird nun auch nach Name und Vorname sortiert.
 - Die Auswahlliste „Zeugnisart“ im akt. Halbjahr wurde um die Art „Zieldifferentes Zeugnis (ZD)“ ergänzt.
@@ -1468,7 +1470,7 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in Schild an
 - In der Sim.txt können nun auch Statistikbezeichnungen mit doppeltem Parallelitätskennzeichen (z.B. JUAA) übermittelt werden. So ist es möglich, mehr als 26 Kombinationen mit einem Jahrgang zu übermitteln.
 - Im Dialog „Stundentafeln zuweisen“ lässt sich nun die Fenstergröße ändern.
 - In der Datenquelle „Kursunterricht“ wurde ein Berechnungsfehler für die Kurszahlen behoben.
-- Der Reportexplorer reagiert nun auch auf die in Schild-NRW eingestellte Skalierung.
+- Der Reportexplorer reagiert nun auch auf die in SchILD-NRW 2 eingestellte Skalierung.
 - Der Menüpunkt „DB-Version zurücksetzen“ in der Benutzerverwaltung funktioniert wieder.
 - Beim Notenversand ohne Kennwort wurde keine Notendatei angefügt. Es sollten zwar nur verschlüsselte Notendateien gesendet werden, aber dieser Fehler ist behoben.
 - Bei den Betrieben / Adressen wurde ein Fehler behoben, der die Sichtbarkeitsumschaltung verhindert hat.
@@ -1662,7 +1664,7 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in Schild an
 ### Gesamtschulen, Sekundarschulen
 
 - Es wurde eine PrognosLib.dll ins Hauptverzeichnis gespeichert.
-- Wenn in Schild-NRW eine Prognose angestoßen ist, meldet Schild-NRW nun in einem Fenster beide Prognosen (Prognos und Schild-Intern). Sollten die Tests mit der Prognos.dll erfolgreich sein, kann diese eingeschaltet werden.
+- Wenn in SchILD-NRW 2 eine Prognose angestoßen ist, meldet SchILD-NRW 2 nun in einem Fenster beide Prognosen (Prognos und SchILD-NRW 2-Intern). Sollten die Tests mit der Prognos.dll erfolgreich sein, kann diese eingeschaltet werden.
 
 <a id="Version_2.0.15.9"></a>
 
@@ -1691,7 +1693,7 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in Schild an
 - Unter den Programmeinstellungen „Fächer“ gibt es nun die Option, das Summieren der fachbezogenen Fehlstunden in den Quartalen 1+2 bzw. 3+4 zu verhindern.
 - Wird ein Schüler manuell in eine andere Klasse gesetzt, so wird nun auch die korrekte Folgeklasse eingetragen bzw. gelöscht.
 - Es steht nun ein Gruppenprozess „Prüfungsnoten aus Teilleistungen holen“ zur Verfügung. Damit kann aus den Teilleistungen zu einem Fach eine Note für den Reiter ZP10 (BKAbschluss) geholt werden. Bei dem Prozess kann die Teilleistungsart ausgewählt werden.
-- Es gibt nun einen Fehlzeitenimport/-export über die Schnittstelle. Die genaue Beschreibung wird in der Schnittstellenbeschreibung veröffentlicht. Damit ist es nun möglich die Tagesbezogenen Fehlzeiten extern zu erfassen und dann in Schild-NRW später zu importieren (oder anders herum).
+- Es gibt nun einen Fehlzeitenimport/-export über die Schnittstelle. Die genaue Beschreibung wird in der Schnittstellenbeschreibung veröffentlicht. Damit ist es nun möglich die Tagesbezogenen Fehlzeiten extern zu erfassen und dann in SchILD-NRW 2 später zu importieren (oder anders herum).
 - In Filter I können Auswahlkriterien nun auch mit Doppelklick übernommen werden. (zusätzlich zum „roten Pfeil“)
 
 <a id="Realschule"></a>
@@ -1732,7 +1734,7 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in Schild an
 ### Schulform unabhängige Änderungen
 
 - Alle PlugIns (DLLs) wurden auf ein neues Verfahren umgestellt.
-- Zukünftig müssen zusätzliche PlugIns nur als DLL im Hauptverzeichnis von Schild-NRW liegen. Die alten DLLs im Unterordner Schild-Plugins werden nicht mehr berücksichtigt. Die neuen DLLs werden mit dem Update ausgeliefert.
+- Zukünftig müssen zusätzliche PlugIns nur als DLL im Hauptverzeichnis von SchILD-NRW 2 liegen. Die alten DLLs im Unterordner SchILD-NRW 2-Plugins werden nicht mehr berücksichtigt. Die neuen DLLs werden mit dem Update ausgeliefert.
 - Bei dem Gruppenprozess zum Löschen einzelner Fächer kann nun ausgewählt werden, ob geholte Fächer gelöscht werden sollen.
 - Die Fehlstundensumme im Quartalsbetrieb wird nun als Summe aus den Quartalen 1+2 und 3+4 gerechnet!
 - Bei der Erstellung der Notenmodule werden nun auch die neuen Floskelkategorien mit in das ENM exportiert. Dazu wird ein neues Notenmodul ExtNotMod3.exe ausgeliefert. Alte Notendateien können mit der == Version 3 nicht geöffnet werden!
@@ -1756,7 +1758,7 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in Schild an
 
 ### Schulform unabhängige Änderungen
 
-- Bei einigen Datenbanken kam es nach dem Update auf 2.0.15.3 zu einer Fehlermeldung beim Start von Schild-NRW. (Listenindex überschreitet das Maximum)
+- Bei einigen Datenbanken kam es nach dem Update auf 2.0.15.3 zu einer Fehlermeldung beim Start von SchILD-NRW 2. (Listenindex überschreitet das Maximum)
 - Diese Version behebt diesen Fehler, Sie müssen das Update nur in diesem Fall einmal manuell ausführen.
 
 <a id="Version_2.0.15.3"></a>
@@ -1770,7 +1772,7 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in Schild an
 
 - Test der neuen ASDStatistik.dll: Die Prüfung der Daten im Hinblick auf die richtige Übertragung zu ASDPC32 mit der SIM.txt wird bis zur nächsten Erhebung weiter überarbeitet. Es wurde nun eine Überprüfung der Förderschwerpunkte und eine Überprüfung der Herkünfte wird nun weiter verbessert.
 - Neue kategorisierte Floskeln: Mit dieser TestVersion wurden die Möglichkeiten, die Floskeln zu verwalten erweitert. Es können nun Floskelkategorien angelegt werden und auch Fächerfloskeln mit Jahrgang und Niveau vergeben werden. Eine Anleitung dazu finden Sie im WIKI. [Floskeln](/schild2/unterricht-kataloge/floskeln-bearbeiten)
-- Die Benutzerverwaltung wurde in Schild-NRW integriert und muss nun nicht mehr als PlugIn aktiviert werden. Diese steht unter „Extras“ zur Verfügung.
+- Die Benutzerverwaltung wurde in SchILD-NRW 2 integriert und muss nun nicht mehr als PlugIn aktiviert werden. Diese steht unter „Extras“ zur Verfügung.
 - Es gibt nun eine Abfragemöglichkeit nach dem Straßennamen unter „Betriebe/weitere Adressen“
 - Beim Ändern des Lehrerkürzels konnte es passieren, dass der Unterricht des Lehrers falsch eingetragen wurde.
 - Bei der Suche mit dem Fernglas kann nun wieder der Doppelklick verwendet werden.
@@ -1887,10 +1889,10 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in Schild an
 - Fehlermeldungen in Zusammenhang mit dem Karteireiter „Fehlzeiten“ wurden behoben.
 - Meldung „Operation kann bei geschlossener Datenmenge…“ bei Aufruf der Versetzung behoben.
 - Der Gruppenprozess „Fehlstundensummen automatisch berechnen“ löscht nun auch wieder vorhandene Einträge in „0“, wenn die Fehlstunden bei den Fächern auch in der Summe „0“ ergeben!
-- Die neue Lehrer.txt aus ASDPC32 kann nun wieder in Schild-NRW importiert werden.
+- Die neue Lehrer.txt aus ASDPC32 kann nun wieder in SchILD-NRW 2 importiert werden.
 - Das Feld „Art des Abschlusses“ oder am BK „höchster allg Bild. Abschluss“ wird nun immer in die StatistikDB.mdb exportiert.
 - Das Feld „Versetzung“ unter „Schulbesuch“ wird nun nur noch mit zulässigen Werten der berichtenden Schulform gefiltert!
-- In der Funktion „Fenster auf Standarddrucker ausgeben“ wurde eine kleine „Sleep-Funktion“ eingebaut, so dass nur noch das Schild-NRW-Fenster auf dem Ausdruck erscheinen sollte.
+- In der Funktion „Fenster auf Standarddrucker ausgeben“ wurde eine kleine „Sleep-Funktion“ eingebaut, so dass nur noch das SchILD-NRW 2-Fenster auf dem Ausdruck erscheinen sollte.
 - Im Excel-Export der Betriebe ist nun auch die Anrede des Betreuers enthalten.
 - In der Druckausgabe kann nun zusätzlich gewählt werden, ob nur für die markierten (mehrere Schüler) gedruckt werden soll.
 - Unter „Extras \> Programm-Einstellungen \> Report-Einstellungen \> Schnellzugriff“ kann nun ein schwebendes Fenster aktiviert werden, in dem zehn Reports festgelegt werden können, auf die man dann mit einem Klick zur Druckausgabe gelangt. Diese Reports können mit einer Beschriftung festgelegt werden. Dazu müssen diese aber im Ordner „Standard\Schnellzugriff“ liegen.
@@ -1899,7 +1901,7 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in Schild an
 - Nähere Informationen in den RAP-Funktionen.
 - Der Text der zuletzt besuchten Schule auf dem Reiter Schulbesuch wurde geändert in "Vor der Aufnahme besuchte Schule / Einrichtung /Sonstige Herkunftsarten".
 - Beim Gruppenprozess „Fächer in Leistungsdaten neu sortieren“ werden nun auch die Fächer auf dem Reiter „BK-Abschluss“ berücksichtigt.
-- Beim Import der Basisdaten über die Schnittstelle SchILD-NRW wird jetzt automatisch die Eigenschaft „Duplikat“ gesetzt, wenn zur Identifizierung des Schülers neben Name, Vorname und Geburtsdatum auch die Klasse (als Teil des Namens, getrennt durch \#) verwendet wird.
+- Beim Import der Basisdaten über die Schnittstelle SchILD-NRW 2 wird jetzt automatisch die Eigenschaft „Duplikat“ gesetzt, wenn zur Identifizierung des Schülers neben Name, Vorname und Geburtsdatum auch die Klasse (als Teil des Namens, getrennt durch \#) verwendet wird.
 - Neuer Menüpunkt „Auswahl\>\>Papierkorb zeigen“. Darüber können nun viel einfacher die Schüler mit Löschmarkierung angezeigt werden.
 - Neuer Eintrag im Schüler-Popup-Menü „Löschmarkierung aufheben“ (nur sichtbar, wenn eine Löschmarkierung vorhanden ist).
 - Neue „Weitere Funktion“: Zusatzfunktion „Telefon-Nummern zeigen“. Wenn diese Funktion aktiviert ist, werden in einem „schwebenden“ Fenster die Telefon-Nummern des jeweils ausgewählten Schülers gezeigt.
@@ -1943,7 +1945,7 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in Schild an
 - Näheres dazu im WIKI: [Fehlzeiten](/zeugnisse/vorbereitung/akt-halbjahr#Fehlzeiten)
 - Über die globalen Programmeinstellungen (Karteireiter "Ansicht") kann jetzt eingestellt werden, ob der Reiter „Fehlzeiten“ im aktuellen Abschnitt gezeigt werden soll.
 - Die Statistik.dll wurde erneuert, damit wird nun eine SIN.txt erstellt, die auch die neue „kürzere“ Erfassung des Migrationshintergrundes exportiert.
-- Teilweise wurden Umlaute in von Schild-NRW versendeten Mails nicht korrekt dargestellt. Hier wurde eine Einstellung verändert.
+- Teilweise wurden Umlaute in von SchILD-NRW 2 versendeten Mails nicht korrekt dargestellt. Hier wurde eine Einstellung verändert.
 - Bei Verwendung der Adjektive als Nationalitäten, kam es vor, dass falsche Adjektive angezeigt wurden.
 - Beim Lupo-Export kam ein falsches Dialogfenster bei der Speicherort-Auswahl.
 - Abgeschlossene und geholte Fächer werden nun bei der Berechnung der Sprachenfolge ignoriert.
@@ -2022,7 +2024,7 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in Schild an
 
 ### Reportausgabe
 
-- Ausgabe von Betrieben und Praktikumsadressen: \* Wenn bei einem Schüler mehrere Betriebe (oder Praktikumsadressen) eingetragen waren, so wurde in Reports nicht immer die gleiche Reihenfolge verwendet wie im Programm selbst. Dies ist nun korrigiert, die Reports geben die Adressen in der gleichen Reihenfolge aus wie in SchILD.
+- Ausgabe von Betrieben und Praktikumsadressen: \* Wenn bei einem Schüler mehrere Betriebe (oder Praktikumsadressen) eingetragen waren, so wurde in Reports nicht immer die gleiche Reihenfolge verwendet wie im Programm selbst. Dies ist nun korrigiert, die Reports geben die Adressen in der gleichen Reihenfolge aus wie in SchILD-NRW 2.
 - Die Datenquelle SchuelerEinzelleistungen wurde in SchuelerTeilleistungen umbenannt. Dies muss in bestehenden Reports geändert werden.
 
 <a id="Version_2.0.11.8"></a>
@@ -2152,7 +2154,7 @@ In der Datenquelle für die Schüler-Anrede wurde bei minderjährigen Schülern 
 ### Berufskollegs
 
 - In der neuen Statkue stehen die Gliederungen und Fachklassen der neuen APO-BK-15 zur Verfügung.
-- Prüfungsordnungen und das Verhalten von Schild-NRW zur neuen APO-BK-15 werden noch angepasst.
+- Prüfungsordnungen und das Verhalten von SchILD-NRW 2 zur neuen APO-BK-15 werden noch angepasst.
 - Bei den Fachklassen gibt es jetzt einen Schalter "DQR-Niveaus ermitteln". Dazu muss aber die aktuelle Schildintern.mdb verwendet werden. In der Datenquelle "Schueler" gibt es dazu auch ein Feld "DQR_Niveau".
 - Das Holen der Leistungsdaten auf den Reiter „BKAbschluss“ für die Gliederung A03 sollte nun korrekt funktionieren.
 - Die FHR-Berechnung berücksichtigte das Fach Didaktik und Methodik „DM“ nicht unter Gesellschaftslehre.
@@ -2229,7 +2231,7 @@ In der Datenquelle für die Schüler-Anrede wurde bei minderjährigen Schülern 
 - Die ASDStatistik.dll wurde ausgetauscht, weil andere Minutenmodelle als 45min nicht in der UVD.txt ankamen.
 - Bei Benutzung des neuen Feldes „Namenszusatz“ wurde die Anrede in der Reporting nicht korrekt generiert.
 - Bei MySQL-Datenbanken funktionierte manchmal die GeR-Berechnung nicht.
-- Die Faxnummer in der SchuelerZusatzdaten.dat (Schnittstelle Schild-NRW) wurde als berechnete Zahl importiert.
+- Die Faxnummer in der SchuelerZusatzdaten.dat (Schnittstelle SchILD-NRW 2) wurde als berechnete Zahl importiert.
 - Userrechte wurden korrigiert, wenn Abteilungsleiter fälschlicherweise Noten ändern (oder auch nicht ändern) konnten.
 - In der Tabelle „Schulverwaltung \> Kurse“ können nun per rechter Maustaste die Angaben zum Kurs bei Schülern aktualisiert werden, was nach einem Import sinnvoll sein kann.
 - Bei Schulform GY und „Wiedereinrichtern G9“ kam es u.U. zu Fehlern bei der Fortschreibung der Kurse.
@@ -2243,7 +2245,7 @@ In der Datenquelle für die Schüler-Anrede wurde bei minderjährigen Schülern 
 
 ### Schulform unabhängige Änderungen
 
-- Mit dieser Version wird die alte Datenbankbasierte Reporting nun endgültig deaktiviert! Auch ein Umschalten auf die Reporting.dll vom Januar 2013 ist ab jetzt nicht mehr möglich. In Zukunft wird es mit einer Schild-NRW-Version auch immer eine feste Reporting-Version geben.
+- Mit dieser Version wird die alte Datenbankbasierte Reporting nun endgültig deaktiviert! Auch ein Umschalten auf die Reporting.dll vom Januar 2013 ist ab jetzt nicht mehr möglich. In Zukunft wird es mit einer SchILD-NRW 2-Version auch immer eine feste Reporting-Version geben.
 - Für die eigene Schule kann jetzt auch eine Web-Adresse eingegeben werden.
 - Statistik.dll, Statkue.mdb, asdtabs.mdb und Schulver.mdb wurden auf den aktuellen Stand für die Statistik 2014/15 gebracht.
 - Im Text-/Excelexport stehen nun auch AUE und ASV zur Verfügung.
@@ -2252,11 +2254,11 @@ In der Datenquelle für die Schüler-Anrede wurde bei minderjährigen Schülern 
 - Es wurden Folgejahrgänge in der Tabelle der Statistikjahrgänge eingeführt. Diese werden beim Hochschreibungssalgorithmus berücksichtigt. Eine genauere Beschreibung folgt im WIKI: [Versetzungsmodelle](/schild2/versetzung/hochschreibungsalgorithmus)
 - Es ist jetzt möglich, "Zusätze zum Nachnamen" bei den Schülern und Erziehern zu verwalten. Es gibt wohl Schulen, die solche Zusätze wie z.B. Markus "van den" Bruggen oder auch Alexander "Graf" Lambsdorf (die Zusätze sind in Hochkomma) in einem separaten Feld verwalten wollen. Es gab bisher schon ein Feld Zusatz, das aber eher für weitere Vornamen gedacht war, wobei das Feld aber auch oft für solche Zusätze zum Nachnamen benutzt wurde. Nun hat man eine eindeutige Zuordnung. Das Feld ist nicht direkt sichtbar (weil es vermutl. nicht so häufig benutzt wird), sondern ist über den Schalter links neben dem normalen Namensfeld verfügbar.
 - Es gibt zwei neue Datenquellen in der Reporting:
-  - Betriebe_zur_Schuelerauswahl: Liefert die Betriebe (in alphabet. Reihenfolge), die bei den Schülern der aktuellen Auswahl jeweils an erster Stelle bei "Allg. Adressen" stehen (und damit im Verständnis von SchILD die Betriebe sind, an denen die Schüler derzeit ausgebildet werden). Diese Datenquelle muss in einer Serienbriefvorlage die Hauptdatenquelle sein.
+  - Betriebe_zur_Schuelerauswahl: Liefert die Betriebe (in alphabet. Reihenfolge), die bei den Schülern der aktuellen Auswahl jeweils an erster Stelle bei "Allg. Adressen" stehen (und damit im Verständnis von SchILD-NRW 2 die Betriebe sind, an denen die Schüler derzeit ausgebildet werden). Diese Datenquelle muss in einer Serienbriefvorlage die Hauptdatenquelle sein.
   - Schueler_zu_aktuellem_Betrieb: Liefert die Schüler (in alphabet. Reihenfolg, zzgl. Angaben zu Vertragsbeginn usw.), die dem jeweiligen Betrieb aus "Betriebe_zur_Schuelerauswahl" zugeordnet sind. Auch hier wird die aktuelle Schülerauswahl berücksichtigt.
     - Die Datenquelle Schueler_zu_aktuellem_Betrieb muss als Subreport zu Betriebe_zur_Schuelerauswahl verwendet werden.\
-      ***Beispiel:*** Es wird in SchILD auf die Klasse AM05A gefiltert. Dann liefert Betriebe_zur_Schuelerauswahl nur solche, die bei den Schülern aus AM05A als erste in der Reihenfolge eingetragen sind.\
-      Schueler_zu_aktuellem_Betrieb liefert dann nur die Schüler, die die AM05A besuchen und aktuell bei dem Betrieb ausgebildet werden. Wenn also Max Mustermann (Klasse AM05A) und Stefan Sonderling (Klasse AM05B) beide bei "Schmitz und Sohn" ausgebildet werden, wird "Schmitz und Sohn" bei Filterung in SchILD auf AM05A in Betriebe_zur_Schuelerauswahl erscheinen. Max Mustermann ist dann in Schueler_zu_aktuellem_Betrieb vorhanden, nicht aber Stefan Sonderling (weil in AM05B).
+      ***Beispiel:*** Es wird in SchILD-NRW 2 auf die Klasse AM05A gefiltert. Dann liefert Betriebe_zur_Schuelerauswahl nur solche, die bei den Schülern aus AM05A als erste in der Reihenfolge eingetragen sind.\
+      Schueler_zu_aktuellem_Betrieb liefert dann nur die Schüler, die die AM05A besuchen und aktuell bei dem Betrieb ausgebildet werden. Wenn also Max Mustermann (Klasse AM05A) und Stefan Sonderling (Klasse AM05B) beide bei "Schmitz und Sohn" ausgebildet werden, wird "Schmitz und Sohn" bei Filterung in SchILD-NRW 2 auf AM05A in Betriebe_zur_Schuelerauswahl erscheinen. Max Mustermann ist dann in Schueler_zu_aktuellem_Betrieb vorhanden, nicht aber Stefan Sonderling (weil in AM05B).
 - Fachbezogene Bemerkungen werden nun auch bei Epochalfächern geholt.
 - In der Klassen-/Versetzungstabelle gibt es an Hauptschulen, Sekundarschulen und Förderschulen nun das Feld „Kooperationsklasse“, dieses wird in der SIM.txt nun separat an die Statistik übergeben. Die Klassenart „Kooperationsklasse“ entfällt damit.
 - Bei „Doppelte Nennung des Vornamens vermeiden“ in den Floskeln wurde ein Problem mit der Kleinschreibung behoben.
@@ -2275,6 +2277,4 @@ In der Datenquelle für die Schüler-Anrede wurde bei minderjährigen Schülern 
 
 - Die Abschluss-/Versetzungsberechnung für den Bildungsgang „Realschule auslaufend“ wurde nicht angestoßen. Dieser Fehler wurde behoben.
 
----
-
-Quelle: [Versionsgeschichte Schild-NRW – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Versionsgeschichte+Schild-NRW&oldid=6074)
+Quelle: [Versionsgeschichte SchILD-NRW 2 – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Versionsgeschichte+Schild-NRW&oldid=6074)

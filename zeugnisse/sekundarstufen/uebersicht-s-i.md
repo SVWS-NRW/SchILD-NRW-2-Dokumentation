@@ -16,8 +16,4 @@ Weitere Informationen (Klassenlehrer, Versetzungsentscheidung, Bemerkung,...) zu
 
 ![Uebersicht-SIa](/bilder/zeugnisse/sekundarstufen/uebersicht-sia.jpg)
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Übersicht S I – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=%C3%9Cbersicht+S+I&oldid=2283)

@@ -26,6 +26,4 @@ Dieses Handbuch erschließt die Arbeit mit dem Prognosemodul PM2. Beginnen Sie m
   - Einstellungen
   - Auswahlfenster Klasse
 
----
-
 Quelle: [Prognos – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Prognos&oldid=4949)

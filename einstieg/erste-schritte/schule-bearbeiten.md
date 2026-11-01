@@ -8,11 +8,7 @@ title: "Schuldaten einrichten"
 
 Tragen Sie hier die Grundangaben Ihrer Schule ein. Diese Angaben werden an anderen Stellen wiederverwendet, zum Beispiel bei Formularen und statistischen Ausgaben. Prüfen Sie sie deshalb bei der Ersteinrichtung, bevor Sie weitere Kataloge pflegen.
 
-------------------------------------------------------------------------
-
 ![Schule_bearbeiten](/bilder/einstieg/erste-schritte/schule-bearbeiten.jpg)
-
-------------------------------------------------------------------------
 
 Nach dem Anlegen der Datenbank werden die Angaben in der rechten oberen Ecke aus dem Katalog der Schulen (Schulver.mdb) von IT.NRW übernommen. Diese Angaben können Sie nachträglich verändern, da diese Angaben in der Reporting unter "Eigene Schule" zur Verfügung stehen und in der Regel in Briefköpfen genutzt werden, sollten Sie hier die Angaben einsetzen, die für Ihre Schule am sinnvollsten erscheinen.
 
@@ -54,7 +50,7 @@ Nur für Schulen mit SEK-II-Bildungsgängen relevant. Wenn dort ein Jahrgang der
 
 Hier werden alle Gliederungen (Bildungsgänge) einer Schule aufgeführt. An den meisten Schulformen gibt es nur den Bildungsgang "\*\*\*-Standard für diese Schulform".
 
-An Berufskollegs und Weiterbildungskollegs werden hier alle Gliederungen eingetragen, für die es Fachklassen an der Schule gibt. Schild-NRW richtet sich dabei nach den Bezeichnungen der Statistik.
+An Berufskollegs und Weiterbildungskollegs werden hier alle Gliederungen eingetragen, für die es Fachklassen an der Schule gibt. SchILD-NRW 2 richtet sich dabei nach den Bezeichnungen der Statistik.
 
 An einigen Schulen gibt es auch mehrere Gliederungen, die dann in diesem Kasten aufgeführt sein müssen.
 
@@ -85,7 +81,7 @@ Dient zur Kontrolle der Datenbank. Hier darf nur ein Datensatz vorhanden sein. B
 
 **SchILDweb**
 
-Hier können Sie einige Angaben zum SchILD-Web-Export machen. Bitte beachten Sie, dass es sich bei Schild-Web um ein kostenpflichtiges Modul der Firma [Ribeka](http://www.ribeka.com/) handelt. Nähere Informationen dazu entnehmen Sie bitte der Anleitung von SchILDweb.
+Hier können Sie einige Angaben zum SchILDweb-Export machen. Bitte beachten Sie, dass es sich bei SchILDweb um ein kostenpflichtiges Modul der Firma [Ribeka](http://www.ribeka.com/) handelt. Nähere Informationen dazu entnehmen Sie bitte der Anleitung von SchILDweb.
 
 <a id="Angaben_zum_aktuellen_Abschnitt"></a>
 
@@ -95,11 +91,11 @@ Unter der Box mit den Gliederungen befinden sich einige Angaben zum organisatori
 
 **Aktuelles Schuljahr und Abschnitte**
 
-Hier können Sie beeinflussen, in welchem Jahr und Abschnitt sich die Schild-Datenbank befindet. Es kann durchaus sein, dass Datenbank und Schüler sich in verschiedenen Schuljahren befinden. Dies wird dann durch die "rosa" Färbung der Datensätze signalisiert. Im Regelfall sollte dies aber übereinstimmen.
+Hier können Sie beeinflussen, in welchem Jahr und Abschnitt sich die SchILD-NRW 2-Datenbank befindet. Es kann durchaus sein, dass Datenbank und Schüler sich in verschiedenen Schuljahren befinden. Dies wird dann durch die "rosa" Färbung der Datensätze signalisiert. Im Regelfall sollte dies aber übereinstimmen.
 
 **Schuljahreswechsel / Halbjahreswechsel durchführen**
 
-Mit dieser Schaltfläche kann der Abschnittswechsel der Datenbank durchgeführt werden. Nähere Informationen dazu erhalten Sie in den [Anleitungen für den Einstieg](/einstieg/erste-schritte/schild-nrw-tutorials). Die Versetzung über diese Schaltfläche macht nur Sinn, wenn alle Schüler gleichzeitig in den neuen Abschnitt versetzt werden sollen. Ein Assistent leitet Sie durch diesen Vorgang.
+Mit dieser Schaltfläche kann der Abschnittswechsel der Datenbank durchgeführt werden. Nähere Informationen dazu erhalten Sie in den [Schuljahres- und Abschnittswechsel](/schild2/versetzung/versetzung-ins-neue-schuljahr-abschnittswechsel-durchfuehren). Die Versetzung über diese Schaltfläche macht nur Sinn, wenn alle Schüler gleichzeitig in den neuen Abschnitt versetzt werden sollen. Ein Assistent leitet Sie durch diesen Vorgang.
 
 **Anzahl der Abschnitte**
 
@@ -112,9 +108,5 @@ Legen Sie hier fest, wie die Abschnitte benannt werden sollen. Dies ist in der R
 **Dauer einer Unterrichtseinheit**
 
 Standardeinstellung ist 45 Minuten. Hier kann allerdings auf ein anderes Minutenmodell umgestellt werden. Dies ist nur relevant bei der Erzeugung der UVD.txt für die Statistik. Hier wird zu Beginn der Datei übermittelt, wie viele Minuten eine Unterrichtseinheit hat.
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Schule bearbeiten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schule+bearbeiten&oldid=3867)

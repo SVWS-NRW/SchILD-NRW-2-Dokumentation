@@ -23,15 +23,17 @@ Auch in der laufenden Statistik kann es vorkommen, dass eine neue Version bereit
 
 Schauen Sie hierzu bitte bei Bedarf in das Kapitel [Updaten von ASDPC](/schild2/import-export-statistik/statistik-mit-asdpc-technik#Updaten_von_ASDPC).
 
-Sofern Sie SchILD NRW nutzen, führen Sie auch hier bitte das Update aus, da beide Programme zusammen für die Statistik genutzt werden können. Eventuell kann es sinnvoll sein, auch andere Schulverwaltungsprogramme zu updaten.
+Sofern Sie SchILD-NRW 2 nutzen, führen Sie auch hier bitte das Update aus, da beide Programme zusammen für die Statistik genutzt werden können. Eventuell kann es sinnvoll sein, auch andere Schulverwaltungsprogramme zu updaten.
 
 ![SchILD_Update](/bilder/schild2/import-export-statistik/schild-update.png)
 
-Sofern es eine aktuellere Version von SchILD gibt, wird diese nun heruntergeladen und installiert.
+Sofern es eine aktuellere Version von SchILD-NRW 2 gibt, wird diese nun heruntergeladen und installiert.
 
 <a id="Export_aus_SchILD_NRW_und_anderen_Schulverwaltungsprogrammen"></a>
 
-#### Export aus SchILD NRW und anderen Schulverwaltungsprogrammen
+<a id="export-aus-schild-nrw-und-anderen-schulverwaltungsprogrammen"></a>
+
+#### Export aus SchILD-NRW 2 und anderen Schulverwaltungsprogrammen
 
 :::info
 Bereinigen Sie so viele Fehler wie möglich in ihren Verwaltungsprogrammen *vor* dem Datenexport, damit diese Fehler in einem Arbeitsgang auch zukünftig bereinigt sind. Es empfiehlt sich, diese Bereinigung routinemäßig und vor der Statistik durchzuführen. Ein möglicher Zeitpunkt wäre, einige Wochen nach Schuljahresbeginn wenn Neuaufnahmen, Klassen- und Kurswechsel usw. abgeschlossen sind, auf Statistikfehler zu prüfen.
@@ -39,7 +41,7 @@ Bereinigen Sie so viele Fehler wie möglich in ihren Verwaltungsprogrammen *vor*
 
 ![SchILD_Gesamtprüfung](/bilder/schild2/import-export-statistik/schild-gesamtprufung.png)
 
-SchILD findet nicht alle Fehler die ASDPC erzeugen könnte, jedoch lassen sich viele Fehleinträge in den Statisikfeldern - per Standard in SchILD sind diese grün eingefärbt - schon im Vorfeld finden. Wurde eine Gesamtprüfung durchgeführt, lassen sich die Fehler über "Schulverwaltung" ➥ "Statistik/amtliche Schuldaten" ➥ "Fehlerprotokol" anzeigen.
+SchILD-NRW 2 findet nicht alle Fehler die ASDPC erzeugen könnte, jedoch lassen sich viele Fehleinträge in den Statisikfeldern - per Standard in SchILD-NRW 2 sind diese grün eingefärbt - schon im Vorfeld finden. Wurde eine Gesamtprüfung durchgeführt, lassen sich die Fehler über "Schulverwaltung" ➥ "Statistik/amtliche Schuldaten" ➥ "Fehlerprotokol" anzeigen.
 
 Führen Sie nach Abschluss dieser Arbeiten den Export in die in ASDPC einzulesenden Dateien durch.
 
@@ -48,16 +50,16 @@ Führen Sie nach Abschluss dieser Arbeiten den Export in die in ASDPC einzulesen
 Je nach Schulform und wie Sie arbeiten, könnte es sinnvoll sein, unterschiedliche Dateien zu erzeugen:
 
 - SIM.TXT - Enthält die Schülerdaten.
-- LEHRER.TXT - Enthält die Lehrerdaten und Daten zum zeitlichen Einsatz, soweit sie in SchILD gepflegt werden.
+- LEHRER.TXT - Enthält die Lehrerdaten und Daten zum zeitlichen Einsatz, soweit sie in SchILD-NRW 2 gepflegt werden.
 - UVD.TXT - Enthält die Daten zur Unterrichtsverteilung.
 - ABI.TXT - Daten zum eventuellen Abitur.
 
 :::info
-Bei den Daten zu Lehrkräften und der Unterrichtsverteilung kann ein weiteres, externes Programm zur Unterrichtsplanung und Verwaltung der Lehrkräfte verwendet werden, so dass diese Daten nicht zusätzlich in SchILD eingepflegt werden (zum Beispiel Untis usw.); auch aus diesen lässt sich in der Regel exportieren. In kleinen Systemen, zum Beispiel Grund- oder Förderschulen, wird die UVD eventuell an einer Magnettafel erstellt. Auch in einem solchen Fall kann es sinnvoller sein, diese direkt in ASDPC einzugeben und nicht in SchILD zu pflegen.
+Bei den Daten zu Lehrkräften und der Unterrichtsverteilung kann ein weiteres, externes Programm zur Unterrichtsplanung und Verwaltung der Lehrkräfte verwendet werden, so dass diese Daten nicht zusätzlich in SchILD-NRW 2 eingepflegt werden (zum Beispiel Untis usw.); auch aus diesen lässt sich in der Regel exportieren. In kleinen Systemen, zum Beispiel Grund- oder Förderschulen, wird die UVD eventuell an einer Magnettafel erstellt. Auch in einem solchen Fall kann es sinnvoller sein, diese direkt in ASDPC einzugeben und nicht in SchILD-NRW 2 zu pflegen.
 :::
 
 :::warning
-Werden SchILD und ASDPC in einer Netzwerkumgebung eingesetzt, ist darauf zu achten, welche .dlls beziehungsweise .mds (etwa die SCHULVER.mdb) mit den aktuellen Daten registriert sind und wo diese gespeichert sind, damit SchILD und ASDPC immer die gleichen, aktuellen Grundlagen nutzen! Konsultieren Sie in diesem Fall bitte die entsprechenden Dokumentationen von SchILD und ASDPC!
+Werden SchILD-NRW 2 und ASDPC in einer Netzwerkumgebung eingesetzt, ist darauf zu achten, welche .dlls beziehungsweise .mds (etwa die SCHULVER.mdb) mit den aktuellen Daten registriert sind und wo diese gespeichert sind, damit SchILD-NRW 2 und ASDPC immer die gleichen, aktuellen Grundlagen nutzen! Konsultieren Sie in diesem Fall bitte die entsprechenden Dokumentationen von SchILD-NRW 2 und ASDPC!
 :::
 
 <a id="Sammeln_der_Ressourcen"></a>
@@ -73,15 +75,12 @@ Laden Sie sich nun die jeweils auf das aktuelle Jahr der Statistik angepasste Ma
 Die Eintragungshilfen und Schlüsseltabellen für Ihre Schulform können auch direkt aus ASDPC aufgerufen und somit ohne Suchen im Browser angezeigt werden. Wählen Sie hierzu "Hilfe" ➥ "Eintragungshilfen/Schlüsseltabellen" in ASDPC an.
 :::
 
-Prüfen Sie nun in Ihren Schulverwaltungsprogrammen, SchILD NRW, Untis usw., wenn von dort die Lehrerdaten/Unterrichtsverteilung exportiert werden sollen, ob Ihre Daten so fehlerfrei wie möglich sind.
+Prüfen Sie nun in Ihren Schulverwaltungsprogrammen, SchILD-NRW 2, Untis usw., wenn von dort die Lehrerdaten/Unterrichtsverteilung exportiert werden sollen, ob Ihre Daten so fehlerfrei wie möglich sind.
 
-SchILD NRW bietet eine Gesamtprüfung der Daten an, die schon viele Eintragungsfehler im Vorfeld findet.
+SchILD-NRW 2 bietet eine Gesamtprüfung der Daten an, die schon viele Eintragungsfehler im Vorfeld findet.
 
 :::info
 Nun ist alles bereit! ✅
 :::
-
-
----
 
 Quelle: [Statistik mit ASDPC Vorbereitung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC+Vorbereitung&oldid=5308)

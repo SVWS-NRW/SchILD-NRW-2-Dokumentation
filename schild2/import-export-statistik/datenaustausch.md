@@ -6,7 +6,7 @@ title: "Datenaustausch"
 
 Im Menü **Datenaustausch** geben Sie Daten an andere Programme weiter oder übernehmen Daten aus Dateien. „Export“ bedeutet Daten ausgeben, „Import“ bedeutet Daten einlesen. Welche Funktionen sichtbar sind, hängt auch von Ihren Benutzerrechten ab.
 
-Der Menüpunkt Datenaustausch beinhaltet alle Optionen für den Import und Export von Daten. Dabei gibt es in Schild-NRW die verschiedensten Möglichkeiten. Bitte beachten Sie, dass dieser Menüpunkt je nach den Benutzerrechten mehr oder weniger Optionen enthalten kann.
+Der Menüpunkt Datenaustausch beinhaltet alle Optionen für den Import und Export von Daten. Dabei gibt es in SchILD-NRW 2 die verschiedensten Möglichkeiten. Bitte beachten Sie, dass dieser Menüpunkt je nach den Benutzerrechten mehr oder weniger Optionen enthalten kann.
 
 ![Exchange](/bilder/schild2/import-export-statistik/exchange.png)
 
@@ -16,7 +16,7 @@ Der Menüpunkt Datenaustausch beinhaltet alle Optionen für den Import und Expor
 
 [Import aus Textdateien](/schild2/import-export-statistik/import-aus-textdateien)
 
-[Datenaustausch über die SchILD-Schnittstelle](/schild2/import-export-statistik/schnittstelle-schild-nrw)
+[Datenaustausch über die SchILD-NRW 2-Schnittstelle](/schild2/import-export-statistik/schnittstelle-schild-nrw)
 
 [Schülerdaten für LuPO exportieren](/schild2/import-export-statistik/export-fuer-lupo)
 
@@ -37,9 +37,5 @@ Der Menüpunkt Datenaustausch beinhaltet alle Optionen für den Import und Expor
 [Jahrgänge und Nationalitäten exportieren](/schild2/import-export-statistik/jana-export-jahrgang-und-nationalitaet)
 
 [Export für BAN-Portal](/schild2/import-export-statistik/export-fuer-ban-portal)
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Datenaustausch – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datenaustausch&oldid=5750)

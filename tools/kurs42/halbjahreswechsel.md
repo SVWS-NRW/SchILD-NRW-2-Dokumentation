@@ -33,6 +33,6 @@ Die Übernahme aktualisiert die Fachwahlen, erzeugt aber nicht automatisch eine 
 
 Werden Umwahlen zuerst in Kurs42 vorgenommen, können sie über den direkten Export nach LuPO zurückgeschrieben werden. Dabei wird nur der von der Kurs42-Datei verwaltete Abschnitt geändert. Prüfen Sie in LuPO, welche Änderungen für die folgenden Halbjahre fortgeschrieben werden müssen.
 
-Sichern Sie die beteiligten Arbeitsstände und prüfen Sie vor einer Übertragung nach SchILD, dass beide Programme denselben geplanten Abschnitt beschreiben.
+Sichern Sie die beteiligten Arbeitsstände und prüfen Sie vor einer Übertragung nach SchILD-NRW 2, dass beide Programme denselben geplanten Abschnitt beschreiben.
 
-Quelle: [Handbuch SchILD–LuPO–Kurs42, 22. Auflage, Mai 2022](https://www.svws.nrw.de/system/files/media/document/file/handbuch-schild-lupo-kurs42-22.auflage.pdf), Kapitel 9, Seiten 104–118.
+Quelle: [Handbuch SchILD-NRW 2–LuPO–Kurs42, 22. Auflage, Mai 2022](https://www.svws.nrw.de/system/files/media/document/file/handbuch-schild-lupo-kurs42-22.auflage.pdf), Kapitel 9, Seiten 104–118.

@@ -32,10 +32,6 @@ von ... bis Buchstaben einzutragen. Bitte verwenden Sie hier ausschlie�
 
 <a id="erreichte-abschluesse"></a>
 
-Hat ein Schüler in einem vorausgehenden Abschnitt einen Abschluss an der eigenen Schule erreicht, so wird dieser automatisch von SchILD in die Liste im Bereich **Erreichte Abschlüsse und Berechtigungen an aktueller Schule** eingetragen.
-
-------------------------------------------------------------------------
-
----
+Hat ein Schüler in einem vorausgehenden Abschnitt einen Abschluss an der eigenen Schule erreicht, so wird dieser automatisch von SchILD-NRW 2 in die Liste im Bereich **Erreichte Abschlüsse und Berechtigungen an aktueller Schule** eingetragen.
 
 Quelle: [Laufbahninfo – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Laufbahninfo&oldid=3581)

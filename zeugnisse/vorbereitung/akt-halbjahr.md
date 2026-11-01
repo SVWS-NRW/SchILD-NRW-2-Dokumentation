@@ -34,7 +34,7 @@ Bei Wechsel (Rücktritt u. Sprung nach oben) im laufenden Schuljahr (nicht Verse
 
 Analog wird bei "Sprung nach oben im laufenden Schuljahr" (Hand rechtsweisend) vorgegangen (Rückfrage "Sprung nach oben ausführen?").
 
-Nach dem Neustart von SchILD sollte die "neue" Klasse beim Schüler unter "Laufbahn" (auf der Karte [Individualdaten I](/schild2/schueler/individual-daten-i)) geprüft werden (auch der "Statistik-Jahrgang", gegebenenfalls diesen anpassen). In der Folge wären Klassenlisten zu ändern, auch das Stammblatt.
+Nach dem Neustart von SchILD-NRW 2 sollte die "neue" Klasse beim Schüler unter "Laufbahn" (auf der Karte [Individualdaten I](/schild2/schueler/individual-daten-i)) geprüft werden (auch der "Statistik-Jahrgang", gegebenenfalls diesen anpassen). In der Folge wären Klassenlisten zu ändern, auch das Stammblatt.
 
 Eine Abfrage ist möglich mit [Filter I](/schild2/auswahl/filter-i) (auf Karte *Lernabschnitt/Leistungsdaten* Häkchen vor "Rücktritt im laufenden Schuljahr"? / Testen / usw.).
 
@@ -50,19 +50,13 @@ Im unteren Bereich des Fensters sind die Angaben zum Zeugnis beziehungsweise zur
 
 ![Zeugnis-Abschluss](/bilder/zeugnisse/vorbereitung/zeugnis-abschluss.png)
 
-------------------------------------------------------------------------
-
 <a id="Allgemeine_Angaben"></a>
 
 ## Allgemeine Angaben
 
-------------------------------------------------------------------------
-
 <a id="Leistungsdaten"></a>
 
 ## Leistungsdaten
-
-------------------------------------------------------------------------
 
 <a id="Fehlzeiten"></a>
 
@@ -108,15 +102,9 @@ In den Leistungsdaten können die zur Eingabe berechtigten Personen nun auch mit
 
 ![Fehlzeiten009](/bilder/zeugnisse/vorbereitung/fehlzeiten009.jpg)
 
-------------------------------------------------------------------------
-
 <a id="Ergebnis_der_Versetzungs-/Abschluss-Berechnung"></a>
 <a id="Ergebnis_der_Versetzungs-.2FAbschluss-Berechnung"></a>
 
 ## Ergebnis der Versetzungs-/Abschluss-Berechnung
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Akt. Halbjahr – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Akt.+Halbjahr&oldid=3549)

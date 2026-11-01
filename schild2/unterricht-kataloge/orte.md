@@ -6,7 +6,7 @@ title: "Orte"
 
 Der Katalog "Orte" listet nach PLZ, Ortsnamen oder Benutzerdefiniert sortiert, Orte des Landes NRW auf.
 
-Auf diesen Katalog greift SchILD bei der Eingabe einer PLZ (zum Beispiel bei den Individual-Daten I eines Schülers) zurück. Sollten Sie häufiger mit Orten außerhalb NRWs zu tun haben, können Sie diese Orte an dieser Stelle ergänzen. Für die Statistik müssen Sie ein "Land" (im gelb unterlegten Feld) auswählen Änderungen der Ortsbezeichnung (zu einer gegebenen PLZ) oder Neueingaben innerhalb NRWs sind möglich, aber eher unwahrscheinlich.
+Auf diesen Katalog greift SchILD-NRW 2 bei der Eingabe einer PLZ (zum Beispiel bei den Individual-Daten I eines Schülers) zurück. Sollten Sie häufiger mit Orten außerhalb NRWs zu tun haben, können Sie diese Orte an dieser Stelle ergänzen. Für die Statistik müssen Sie ein "Land" (im gelb unterlegten Feld) auswählen Änderungen der Ortsbezeichnung (zu einer gegebenen PLZ) oder Neueingaben innerhalb NRWs sind möglich, aber eher unwahrscheinlich.
 
 Um auch Kleinstgemeinden mit gleicher PLZ im Katalog Orte für Schüler zum Beispiel aus RLP eingeben zu können, wurde folgender Weg gefunden:
 
@@ -15,9 +15,5 @@ Um auch Kleinstgemeinden mit gleicher PLZ im Katalog Orte für Schüler zum Beis
 - So bekommt der erste Ort ein geschütztes Leerzeichen, der zweite zwei, usw. (wobei jedes Mal die ALT-Taste nach dem Eintippen der Ziffern 255 losgelassen werden muss, um das nächste Zeichen erzeugen zu können, am Ende einer solchen PLZ muss immer ein GL (= geschütztes Leerzeichen) sein.).
 
 Der Ortsname wird dann normal im vorgesehenen Eingabefeld von Hand eingetippt. Allerdings müssen Sie gegebenenfalls einen größeren Zwischenraum zwischen PLZ und Ortsname bei Ausdrucken in Kauf nehmen.
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Orte – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Orte&oldid=2820)

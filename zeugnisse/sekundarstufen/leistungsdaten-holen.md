@@ -14,8 +14,4 @@ Liegen gegen Ende der Qualifikationsphase 2 alle Noten in den Leistungsdaten vor
 
 Sollten nach Durchführung des Prozesses noch Änderungen der Daten bei einzelnen Schülern vorgenommen werden, so können Sie die Aktualisierung der Daten für einen einzelnen Schüler auch unter dem Karteireiter "Abitur" durch Klicken auf die Schaltfläche "Leistungsdaten holen" durchführen.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Leistungsdaten holen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Leistungsdaten+holen&oldid=2027)

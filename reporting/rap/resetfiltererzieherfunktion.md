@@ -25,6 +25,4 @@ procedure ResetFilterErzieherfunktion;
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [ResetFilterErzieherfunktion – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ResetFilterErzieherfunktion&oldid=89)

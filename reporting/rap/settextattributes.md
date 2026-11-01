@@ -36,6 +36,4 @@ Formatiert den gesamten Text des Richtextelementes in dem gewünschten Zeichensa
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [SetTextAttributes – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetTextAttributes&oldid=115)

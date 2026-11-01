@@ -24,7 +24,7 @@ Bei den neuen Belegprüfungen nach APO-GOSt § 8 (5) Satz 2 und APO-GOSt VV 8.5.
 
 ## Version 2.1.7.2
 
-In LuPO (und SchILD) wurde die APO-GOSt(B)10/G8 in APO-GOSt(B)10 umbenannt, um Verwirrungen zu vermeiden.
+In LuPO (und SchILD-NRW 2) wurde die APO-GOSt(B)10/G8 in APO-GOSt(B)10 umbenannt, um Verwirrungen zu vermeiden.
 
 <a id="Version_2.1.7.1"></a>
 
@@ -38,7 +38,7 @@ In LuPO (und SchILD) wurde die APO-GOSt(B)10/G8 in APO-GOSt(B)10 umbenannt, um V
 ## Version 2.1.6.2
 
 - Bei den Fremdsprachen funktionierte die Belegungssperre nicht immer korrekt, wenn unter Datenbearbeitung \> Fächer das Auswahlfeld „Eingabe bei Fremdsprachen aus SI nur erlauben, wenn auch eine Sprachenfolge eingetragen ist.“ aktiviert war. Diese Funktion wurde überarbeitet.
-- Beim Import von Schüler- und Laufbahndaten über die Schild-NRW Schnittstelle wird nun gefragt, ob die privaten oder die schulischen E-Mail-Adressen importiert werden sollen. Voraussetzung ist natürlich, dass in Schild der passende Export vorgenommen wurde.
+- Beim Import von Schüler- und Laufbahndaten über die SchILD-NRW 2 Schnittstelle wird nun gefragt, ob die privaten oder die schulischen E-Mail-Adressen importiert werden sollen. Voraussetzung ist natürlich, dass in SchILD-NRW 2 der passende Export vorgenommen wurde.
 - Der E-Mail-Versand mit dem internen E-Mail-Client wurde unter Umständen auf dem falschen Port gesendet.
 - Beim Öffnen von Lupo-Dateien werden nun die Benutzerkennwörter gehasht. Nach diesem Prozess können die Lupo-Dateien von älteren Lupo-Versionen nicht mehr geöffnet werden.
 - Bei den Schülern können nun erweiterte Geschlechtsangaben gemacht werden
@@ -46,7 +46,7 @@ In LuPO (und SchILD) wurde die APO-GOSt(B)10/G8 in APO-GOSt(B)10 umbenannt, um V
 - Wenn kein SMTP-Server eingetragen ist, erfolgt der Mailversand über MAPI
 - Bei der Ausgabe von Wahlbögen (Druckausgabe: Beratungsbögen mit erneuter /ohne erneute Prüfung) erscheint nun der ein Dialog.
 - Wenn „als Serienmail versenden“ gewählt wird, muss ein Verzeichnis angegeben werden, in das die PDF-Wahlbögen zwischengespeichert werden.
-- Unter Datenbearbeitung Schüler können nun nachträglich die Schild-IDs eingetragen und geändert werden.
+- Unter Datenbearbeitung Schüler können nun nachträglich die SchILD-NRW 2-IDs eingetragen und geändert werden.
 - Es gab eine exotische Sonderkonstellationen von Sprachenbeginn und Sprachenfolge, bei welchen Fehlermeldungen nicht ausgelöst wurden.
 - Wenn man Schüler gefiltert hatte und anschließend bei den gefilterten Schülern die Belegung geändert hatte, so konnte es zu Fehlern kommen, wenn die geänderte Belegung die eigentliche Filterbedingung aufhob.
 
@@ -66,9 +66,9 @@ In LuPO (und SchILD) wurde die APO-GOSt(B)10/G8 in APO-GOSt(B)10 umbenannt, um V
 - Bei einem Wechsel von einem bilingualen Zweig in den Regelzweig konnte das Fach nicht als Abiturfach angewählt werden, da eine durchgehende Belegung abgeprüft wurde. Nun wird das Abiturfeld freigegeben, sobald eine Kurswahl in Q2.2 getätigt wird. Damit können nun auch in solchen Fällen Abiturfächer gewählt werden.
 - Das Fach Islamische Religionslehre steht nun in neuen LuPO-Vorlagedateien zur Verfügung.
 - In Verbindung mit nicht zulässigen Fächerkombinationen konnte in bestimmten Konstellationen die Kursart AT in Sport nicht gewählt werden. Nun behoben.
-- Es gibt nun zwei Ebenen der Datensicherung innerhalb einer Lupo-Datei. Zum einen gibt es einen Basissicherung, welche die Original-(Schild)-Daten enthält, sofern welche existieren und mit dem Initialexport an die Lupo-Datei übergeben wurden. Mit der Basissicherung kann man immer wieder den ursprünglichen Zustand nach einem Initialexport/ import herstellen. Diese Basissicherung kann nicht überschrieben werden.
+- Es gibt nun zwei Ebenen der Datensicherung innerhalb einer Lupo-Datei. Zum einen gibt es einen Basissicherung, welche die Original-(SchILD-NRW 2)-Daten enthält, sofern welche existieren und mit dem Initialexport an die Lupo-Datei übergeben wurden. Mit der Basissicherung kann man immer wieder den ursprünglichen Zustand nach einem Initialexport/ import herstellen. Diese Basissicherung kann nicht überschrieben werden.
 - Zusätzlich kann man eine Belegung /Noten zwischensichern und die Sicherung wieder abrufen. Die Sicherung und das Zurückspielen von Belegungen und Noten erfolgt auf den Reitern „Laufbahnplanung“ und „Abiturberechnung“ getrennt.
-- Die Anzeige, ob Basisdaten aus Schild vorliegen, wurde ausdifferenziert. Es gibt nun quadratische und dreieckige Markierungen auf dem Belegungs- und Abiturreiter. Die dreieckigen Marker weisen darauf hin, dass es eine Fachbelegung in der Basissicherung gibt. Ein quadratischer Marker weist darauf hin, dass es zusätzlich eine Note in der Basissicherung gibt.
+- Die Anzeige, ob Basisdaten aus SchILD-NRW 2 vorliegen, wurde ausdifferenziert. Es gibt nun quadratische und dreieckige Markierungen auf dem Belegungs- und Abiturreiter. Die dreieckigen Marker weisen darauf hin, dass es eine Fachbelegung in der Basissicherung gibt. Ein quadratischer Marker weist darauf hin, dass es zusätzlich eine Note in der Basissicherung gibt.
 - Bei den drei Gruppenprozessen „Hochschreiben von…“ wurden nicht alle Fächer hochgeschrieben. Nun behoben.
 - In der Schülerversion konnten gesperrte Zellen überschrieben werden, wenn die Funktion „Hochschreiben von… bis…“ verwendet wurde. Dies ist nun nicht mehr möglich.
 - In den Fächern Geschichte und Sozialwissenschaften konnten Kurse ohne Fehlermeldung belegt werden, auch wenn das Folgekursprinzip nicht befolgt wurde. Nun kommt eine Fehlermeldung.
@@ -128,7 +128,7 @@ In LuPO (und SchILD) wurde die APO-GOSt(B)10/G8 in APO-GOSt(B)10 umbenannt, um V
 ## Version 2.0.3.9
 
 - Die Anordnung der Schaltflächen wurde für ein übersichtlicheres Layout und eine schnellere Bedienung verändert.
-- Das Menü wurde in Anlehnung an Schild angepasst.
+- Das Menü wurde in Anlehnung an SchILD-NRW 2 angepasst.
 - Es gibt im Menüpunkt "Auswahl" erweiterte Möglichkeiten, auf Schülergruppen zu filtern.
 - Es wurden Möglichkeiten hinzugefügt, Daten an Excel zu übergeben.
 - Die gruppenweise Änderung von Schülerdaten ist nun leichter über eine Optionsschaltfläche möglich.
@@ -207,8 +207,6 @@ In LuPO (und SchILD) wurde die APO-GOSt(B)10/G8 in APO-GOSt(B)10 umbenannt, um V
 
 - Der Prüfungsalgorithmus für die APO-GOST ist aus dem Beta-Status.
 - In der Version 2.0 wird in der Lehrerversion bei eingeschalteter Prüfung der Gesamtlaufbahn nun ein weiterer Reiter „Abiturberechnung“ eingeblendet. Hier können Noten zur prognostischen Beratung einge"geben werden, wobei Lupo die Berechnungen der Gesamtqualifikation und der Abiturergebnisse vornimmt. Dieser Vorschlag kann dann als Grundlage für ein Beratungsgespräch gesehen werden.
-- Vorhandene Laufbahnen und Noten können aus Schild-NRW importiert werden. Solche importierten Noten werden mit einem kleinen Viereck im Raster gekennzeichnet.
-
----
+- Vorhandene Laufbahnen und Noten können aus SchILD-NRW 2 importiert werden. Solche importierten Noten werden mit einem kleinen Viereck im Raster gekennzeichnet.
 
 Quelle: [Lupo:Versionsgeschichte – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo%3AVersionsgeschichte&oldid=6009)

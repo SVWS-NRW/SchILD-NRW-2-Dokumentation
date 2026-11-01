@@ -11,8 +11,4 @@ Sollen nur bei einem einzelnen Schüler die abgeschlossenen Fächer gelöscht we
 - Abgeschlossene Fächer löschen
 - Einzelnes abgeschlossenes Fach löschen
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Abgeschlossene Fächer löschen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Abgeschlossene+F%C3%A4cher+l%C3%B6schen&oldid=2082)

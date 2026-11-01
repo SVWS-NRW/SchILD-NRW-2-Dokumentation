@@ -18,8 +18,4 @@ Dabei können Sie die Löschmarkierung einer ganzen Schülergruppe zurücknehmen
 
 Oder Sie können über den Gruppenprozess [Markierte Schülerdatensätze endgültig löschen](/schild2/gruppenprozesse/schueler-datensaetze-loeschen) eine ganze Gruppe endgültig aus der Datenbank entfernen.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Papierkorb zeigen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Papierkorb+zeigen&oldid=3715)

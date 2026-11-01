@@ -14,8 +14,4 @@ Nach dem Klick auf "Übernehmen" werden nur die Schüler dieser Gruppe im Schül
 
 Alle Operationen wie Listendruck, Anschreiben o. Ä. werden nun nur für diese Schülergruppe ausgeführt.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Individuelle Schülergruppe auswählen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Individuelle+Sch%C3%BClergruppe+ausw%C3%A4hlen&oldid=967)

@@ -14,8 +14,4 @@ Die Daten werden bei allen aktiven Schülern in den Leistungsdaten im "Akt. Halb
 
 **Hinweis:** Man sollte in jedem Fall sicherstellen, dass nicht noch Schüler 'aktiv' sind, die schon ein Zeugnis mit einem ganz anderen Datum erhalten haben. Bei diesen Schülern ist bereits ein Konferenz- und Zeugnisdatum eingetragen, das durch den Gruppenprozess überschrieben würde.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Konferenz-/Zeugnis-Datum setzen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Konferenz-%2FZeugnis-Datum+setzen&oldid=3626)

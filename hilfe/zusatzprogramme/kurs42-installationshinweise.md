@@ -8,7 +8,7 @@ title: "Kurs42 installieren und verbinden"
 
 Kurs42 ist ein Programm, das den Abteilungsleiterinnen und Oberstufenkoordinatoren die Kursplanung der Oberstufe ermöglichen soll. Darüber hinaus, kann Kurs42 selbstverständlich auch für SekI-Kurse verwendet werden.
 
-Die Blockungsdateien sind Teildaten der Schild-NRW-Datenbank und können separat auf dem Computer des Koordinators / der Koordinatorin ausgeführt werden.
+Die Blockungsdateien sind Teildaten der SchILD-NRW 2-Datenbank und können separat auf dem Computer des Koordinators / der Koordinatorin ausgeführt werden.
 
 Um diese Funktionen zu gewährleisten, kann Kurs42 auf einem Einzelplatz oder auf einem Netzlaufwerk auf einem Server installiert werden.
 
@@ -28,7 +28,5 @@ Dies kann in Systemen mit eingeschränkten Rechten von Vorteil sein.
 Wenn der Kurs42-Installationsordner und das Kurs42-Arbeitsverzeichnis auf einem verbundenen Netzlaufwerk abgelegt sind, kann das Programm in einer Serverumgebung für mehrere Benutzer betrieben werden. Es wird dann lediglich eine Verknüpfung zur Programmdatei auf dem Desktop der Clients benötigt.
 
 Dies hat den Vorteil, das für alle Benutzer nur eine Installation aktuell gehalten werden muss.
-
----
 
 Quelle: [Kurs42:Installationshinweise – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurs42%3AInstallationshinweise&oldid=5508)

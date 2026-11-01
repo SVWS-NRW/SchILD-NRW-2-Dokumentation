@@ -1,12 +1,14 @@
 ---
-title: "Datenaustausch über die SchILD-Schnittstelle"
+title: "Datenaustausch über die SchILD-NRW 2-Schnittstelle"
 ---
 
 <a id="schnittstelle-schild-nrw"></a>
 
-# Datenaustausch über die SchILD-Schnittstelle
+<a id="datenaustausch-uber-die-schild-schnittstelle"></a>
 
-Die Schnittstelle Schild-NRW wurde ursprünglich zum Import beziehungsweise Export der statistikrelevanten Daten eingeführt.
+# Datenaustausch über die SchILD-NRW 2-Schnittstelle
+
+Die Schnittstelle SchILD-NRW 2 wurde ursprünglich zum Import beziehungsweise Export der statistikrelevanten Daten eingeführt.
 
 Mittlerweile lassen sich darüber aber die meisten (nicht alle!) Schüler- und Lehrerdaten importieren und exportieren.
 
@@ -18,7 +20,7 @@ Die Textdateien können im ANSI oder UTF-8 gespeichert werden, beide Formate wer
 
 Der Aufbau der Textdateien ist vorgegeben und kann in der **[Dateien und Felder der Textschnittstelle](/schild2/import-export-statistik/schnittstellenbeschreibung)** nachgeschlagen werden.
 
-Im Menü Schnittstelle Schild-NRW gibt es mehrere Unterpunkte.
+Im Menü Schnittstelle SchILD-NRW 2 gibt es mehrere Unterpunkte.
 
 Export
 
@@ -30,8 +32,4 @@ Aufnahmebestätigung importieren
 
 Bitte lesen Sie die Beschreibungen in den jeweiligen Artikeln.
 
-------------------------------------------------------------------------
-
----
-
-Quelle: [Schnittstelle Schild-NRW – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schnittstelle+Schild-NRW&oldid=913)
+Quelle: [Schnittstelle SchILD-NRW 2 – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schnittstelle+Schild-NRW&oldid=913)

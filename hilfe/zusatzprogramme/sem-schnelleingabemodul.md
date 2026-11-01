@@ -8,9 +8,9 @@ title: "Schülerdaten im Schnelleingabemodul erfassen"
 
 Das Programm dient zur schnellen Eingabe von Schülerdaten (Personen-, Erzieher-, Vorbildungs- und Adressdaten). Das Programm kann ohne Mauseinsatz über die Tastatur bedient werden. Eine Übersicht über die Tastaturbelegung finden Sie am Ende des Artikels.
 
-Das Schnelleingabemodul befindet sich im Downloadbereich von SVWS.NRW.DE unter "Tools" und kann dort heruntergeladen werden, das Programm muss im Installationsverzeichnis von Schild-NRW liegen.
+Das Schnelleingabemodul befindet sich im Downloadbereich von SVWS.NRW.DE unter "Tools" und kann dort heruntergeladen werden, das Programm muss im Installationsverzeichnis von SchILD-NRW 2 liegen.
 
-Beim erstmaligen Aufruf des Programmes müssen Sie eine Datenbank auswählen, mit der Sie arbeiten wollen, es erscheint der gleiche Auswahldialog wie in SchILD-NRW. Bei allen weiteren Aufrufen des Programmes wird automatisch die Datenbank, die zuletzt benutzt wurde, geöffnet. Wenn Sie die Datenbank wechseln möchten, aktivieren Sie die Funktionstaste F11, es erscheint dann der bekannte Auswahldialog.
+Beim erstmaligen Aufruf des Programmes müssen Sie eine Datenbank auswählen, mit der Sie arbeiten wollen, es erscheint der gleiche Auswahldialog wie in SchILD-NRW 2. Bei allen weiteren Aufrufen des Programmes wird automatisch die Datenbank, die zuletzt benutzt wurde, geöffnet. Wenn Sie die Datenbank wechseln möchten, aktivieren Sie die Funktionstaste F11, es erscheint dann der bekannte Auswahldialog.
 
 <a id="Neuen_Schüler_anlegen"></a>
 <a id="Neuen_Sch.C3.BCler_anlegen"></a>
@@ -25,7 +25,7 @@ Um zum nächsten Eingabefeld zu wechseln, verwenden Sie die Tab-Taste. Die Einga
 
 Ist ein Schüler volljährig, so werden beim Wechsel in die Datengruppe Erziehungsberechtigte seine Daten automatisch dort eingetragen. Falls bei einem Schüler mehr als ein Erzieher-Datensatz benötigt wird, so kann über die Taste F8 ein separates Fenster geöffnet werden, in dem die zusätzlichen Daten eingegeben werden können.
 
-Ähnliches gilt für die Gruppe Vorbildungsdaten. Hier wird der zuletzt erworbene Abschluss des Schülers eingetragen. Hat der Schüler mehr als einen Abschluss, so können weitere Abschlüsse über die Taste F9 eingegeben werden. Dies ist besonders wichtig, wenn der zuletzt erworbene Abschluss nicht der höchste ist. In diesem Fall muss unbedingt über F8 der höchste bisher erworbene Abschluss eingetragen werden, da dieser bei den Abschlussberechnungen in SchILD-NRW benötigt wird. Selbstverständlich können Sie diese Daten auch später in SchILD-NRW nachtragen.
+Ähnliches gilt für die Gruppe Vorbildungsdaten. Hier wird der zuletzt erworbene Abschluss des Schülers eingetragen. Hat der Schüler mehr als einen Abschluss, so können weitere Abschlüsse über die Taste F9 eingegeben werden. Dies ist besonders wichtig, wenn der zuletzt erworbene Abschluss nicht der höchste ist. In diesem Fall muss unbedingt über F8 der höchste bisher erworbene Abschluss eingetragen werden, da dieser bei den Abschlussberechnungen in SchILD-NRW 2 benötigt wird. Selbstverständlich können Sie diese Daten auch später in SchILD-NRW 2 nachtragen.
 
 Falls für den Schüler mehr als eine Betriebsadresse beziehungsweise weitere Adresse eingegeben werden muss, so kann dies durch Aktivierung der Taste F10 erfolgen.
 
@@ -49,12 +49,8 @@ Hinweis: Die Suchfunktion über die Taste F7 steht nicht zur Verfügung, wenn Si
 
 ## Katalog-Einträge ergänzen
 
-Falls Sie bei der Eingabe feststellen, dass der Wohnort (beziehungsweise die Postleitzahl), die zuletzt besuchte Schule oder die Betriebsadresse des Schülers noch nicht in den entsprechenden Katalogen hinterlegt ist, so können Sie die Kataloge ergänzen. Voraussetzung ist aber, dass Sie in der Benutzerverwaltung von SchILD-NRW das Recht zum Ändern von Katalogen haben.
+Falls Sie bei der Eingabe feststellen, dass der Wohnort (beziehungsweise die Postleitzahl), die zuletzt besuchte Schule oder die Betriebsadresse des Schülers noch nicht in den entsprechenden Katalogen hinterlegt ist, so können Sie die Kataloge ergänzen. Voraussetzung ist aber, dass Sie in der Benutzerverwaltung von SchILD-NRW 2 das Recht zum Ändern von Katalogen haben.
 
 Um einen der genannten Kataloge zu ergänzen, wählen Sie das entsprechende Feld aus (zum Beispiel PLZ bei den Personen- oder Erzieherdaten). Aktvieren Sie nun die Taste Einfg. Es öffnet sich ein separates Fenster, in dem Sie den fehlenden Eintrag eingeben können. Anschließend steht der neue Eintrag zur Auswahl zur Verfügung.
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [SEM:Schnelleingabemodul – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SEM%3ASchnelleingabemodul&oldid=3751)

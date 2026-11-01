@@ -6,7 +6,7 @@ title: "Schulverwaltung"
 
 ![Schulverwaltung_01](/bilder/einstieg/grundlagen/schulverwaltung-01.jpg)
 
-Unter dem Menüpunkt Schulverwaltung sind die Programmpunkte zusammengefasst, die tendenziell eher dem Aufgabenbereich der erweiterten Schulleitung oder der Schild-NRW-Administration zugeschrieben werden können.
+Unter dem Menüpunkt Schulverwaltung sind die Programmpunkte zusammengefasst, die tendenziell eher dem Aufgabenbereich der erweiterten Schulleitung oder der SchILD-NRW 2-Administration zugeschrieben werden können.
 
 Hier werden vor allem einige Grundeinstellungen für die gesamte Datenbank getätigt.
 
@@ -26,8 +26,6 @@ Die einzelnen Menüpunkte werden im Folgenden beschrieben.
 
 [Klassengruppen und Abteilungen](/schild2/unterricht-kataloge/klassengruppen-abteilungen)
 
-------------------------------------------------------------------------
-
 [Unterrichtsfächer](/schild2/unterricht-kataloge/unterrichtsfaecher)
 
 [Stundentafeln](/schild2/unterricht-kataloge/stundentafeln)
@@ -37,8 +35,6 @@ Die einzelnen Menüpunkte werden im Folgenden beschrieben.
 [Kurse](/schild2/unterricht-kataloge/kurse)
 
 [Zeugnisvorlagen zuordnen](/schild2/unterricht-kataloge/zeugnisvorlagen-zuordnen)
-
-------------------------------------------------------------------------
 
 [Teilleistungsarten](/schild2/unterricht-kataloge/teilleistungs-arten)
 
@@ -54,12 +50,6 @@ Die einzelnen Menüpunkte werden im Folgenden beschrieben.
 
 [Lernplattformen](/schild2/unterricht-kataloge/lernplattformen) (in Bearbeitung)
 
-------------------------------------------------------------------------
-
 [Amtliche Schulstatistik vorbereiten](/schild2/import-export-statistik/statistik-amtliche-schuldaten)
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Schulverwaltung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schulverwaltung&oldid=5138)

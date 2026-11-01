@@ -10,8 +10,6 @@ Diese Anleitung behandelt Installation und technische Vorbereitung von ASDPC. Si
 
 \_
 
-------------------------------------------------------------------------
-
 <a id="Erstinstallation"></a>
 
 ## Erstinstallation
@@ -78,14 +76,13 @@ Es lässt sich auch von ASDPC heraus auf Updates prüfen:
 
 ![ASDUpdate](/bilder/schild2/import-export-statistik/asdupdate.jpg)
 
-
 Wenn Sie den Link zum Update aufrufen und etwas herunterscrollen, finden sich auch typische Problemsituationen mit ihren Lösungen, die im Zusammenhang mit dem Update auftreten können.
 
 :::danger
 Bitte beachten Sie, dass vor oder während der Statistik noch weitere Updates mit Fehlerkorrekturen erscheinen können. Prüfen Sie bitte vor der Arbeit, ob Sie mit der neuesten Version von ASDPC32 arbeiten.
 :::
 
-Denken Sie auch daran zu prüfen, ob Ihre Schulverwaltungsprogramme - zum Beispiel SchILD NRW - geupdated werden können.
+Denken Sie auch daran zu prüfen, ob Ihre Schulverwaltungsprogramme - zum Beispiel SchILD-NRW 2 - geupdated werden können.
 
 <a id="Schlüsselmanagement"></a>
 <a id="Schl.C3.BCsselmanagement"></a>
@@ -192,8 +189,5 @@ Eine Sicherung einzuspielen überschreibt den aktuellen Arbeitsstand mit dem der
 ![ASDPC_Inhaltsverzeichnis](/bilder/schild2/import-export-statistik/asdpc-inhaltsverzeichnis.png)
 
 Zum Vergrößern klicken.
-
-
----
 
 Quelle: [Statistik mit ASDPC-Technik – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Statistik+mit+ASDPC-Technik&oldid=5307)

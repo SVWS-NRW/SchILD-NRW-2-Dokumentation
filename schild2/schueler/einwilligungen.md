@@ -4,7 +4,7 @@ title: "Einwilligungen"
 
 # Einwilligungen
 
-In Schild-NRW ist es möglich zu einem Schülerdatensatz mehrere Einwilligungen zu verwalten.
+In SchILD-NRW 2 ist es möglich zu einem Schülerdatensatz mehrere Einwilligungen zu verwalten.
 
 Dies kann im Datenschutzbereich viele Bereiche betreffen, wo Zustimmungen benötigt werden. Beispiele hierfür ist die Zustimmung zu Benachrichtigungen, zu Veröffentlichung von Fotos oder die Teilnahme an bestimmten Maßnahmen.
 
@@ -57,7 +57,5 @@ Gehen Sie nun auf **Testen**. Die Zahl der gefundenen Datensätze wird Ihnen ang
 ![Einwilligungen007](/bilder/schild2/schueler/einwilligungen007.png)
 
 Wenn dies Ihre Filterkriterien sind, gehen Sie auf **Übernehmen**.
-
----
 
 Quelle: [Einwilligungen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Einwilligungen&oldid=5040)

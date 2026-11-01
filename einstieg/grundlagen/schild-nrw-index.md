@@ -10,37 +10,31 @@ Hier lernen Sie die wichtigsten Bereiche von SchILD-NRW 2 kennen. Die Übersicht
 
 <a id="Hauptfenster"></a>
 
-## [Hauptfenster](/einstieg/grundlagen/hauptfenster)
+## Hauptfenster
 
-------------------------------------------------------------------------
+![SchILD-NRW 2-Hauptfenster](/bilder/einstieg/grundlagen/schild-nrw-hauptfenster.jpg)
 
-![Schild-NRW-Hauptfenster](/bilder/einstieg/grundlagen/schild-nrw-hauptfenster.jpg)
+SchILD-NRW 2 startet in der Regel mit dem Hauptfenster. Dieses Fenster ist in mehrere Bereiche gegliedert. Am oberen Fensterrand sind der Name der aktuellen Datenbank, das aktuelle Schuljahr und der angemeldete Benutzer eingeblendet.
 
-SchILD-NRW startet in der Regel mit dem Hauptfenster. Dieses Fenster ist in mehrere Bereiche gegliedert. Am oberen Fensterrand sind der Name der aktuellen Datenbank, das aktuelle Schuljahr und der angemeldete Benutzer eingeblendet.
+Die Dropdown-Menüs befinden sich darunter; über diese können alle Funktionen von SchILD-NRW 2 erreicht werden. Alle Menüpunkte dieser Dropdowns werden in den kommenden Abschnitten ausführlich erklärt.
 
-Die Dropdown-Menüs befinden sich darunter; über diese können alle Funktionen von Schild-NRW erreicht werden. Alle Menüpunkte dieser Dropdowns werden in den kommenden Abschnitten ausführlich erklärt.
+Über die Iconleiste können bestimmte Funktionen von SchILD-NRW 2 direkt erreicht werden. Eine kurze Beschreibung aller Icons erreichen Sie unter dem Artikel: [Symbolleiste](/einstieg/grundlagen/iconleiste).
 
-Über die Iconleiste können bestimmte Funktionen von Schild-NRW direkt erreicht werden. Eine kurze Beschreibung aller Icons erreichen Sie unter dem Artikel: [Symbolleiste](/einstieg/grundlagen/iconleiste).
-
-In der linken oberen Ecke befindet sich die Auswahlbox für die [Karteikästen](/einstieg/grundlagen/karteikasten). Im [Schülerliste und Auswahl](/einstieg/grundlagen/container) darunter befindet sich eine Auswahl von Schülern aus der Datenbank. Ist ein Schüler angeklickt, zeigen sich die zugehörigen Daten auf den Karteireitern, die den Hauptteil des Bildschirms einnehmen.
+Links im Hauptfenster bestimmen Sie mit dem [Statusfilter](/einstieg/grundlagen/karteikasten), welche Schülerstatus angezeigt werden. Klassen, Jahrgänge und weitere Gruppen grenzen Sie mit den [Schnellfiltern](/schild2/auswahl/schnellfilter) ein. Darunter zeigt die [Schülerliste](/einstieg/grundlagen/container) die ausgewählten Personen. Wenn Sie eine Person anklicken, erscheinen ihre Daten auf den Karteireitern im Hauptteil des Fensters.
 
 Eine ausführliche Beschreibung des Hauptfensters finden Sie im Artikel: **[Hauptfenster](/einstieg/grundlagen/hauptfenster)**
-
-------------------------------------------------------------------------
 
 <a id="Datei"></a>
 
 <a id="datei"></a>
 
-## [Datei-Menü](/administration/datenbanken/datei)
+## Datei-Menü
 
-------------------------------------------------------------------------
+Weitere Informationen finden Sie unter [Datei-Menü](/administration/datenbanken/datei).
 
 <a id="Schulverwaltung"></a>
 
-## [Schulverwaltung](/schild2/unterricht-kataloge/schulverwaltung)
-
-------------------------------------------------------------------------
+## Schulverwaltung
 
 ![Schulverwaltung_01](/bilder/einstieg/grundlagen/schulverwaltung-01.jpg)
 
@@ -52,13 +46,11 @@ Eine genaue Beschreibung finden Sie im Artikel: **[Schulverwaltung](/schild2/unt
 
 <a id="Kataloge"></a>
 
-## [Kataloge](/schild2/unterricht-kataloge/kataloge)
-
-------------------------------------------------------------------------
+## Kataloge
 
 ![Kataloge_01](/bilder/einstieg/grundlagen/kataloge-01.jpg)
 
-Das Programm Schild-NRW verwaltet die Schülerdaten in einer Datenbank mit festen Zuordnungen für die meisten Eintragungen. Aus diesem Grund können viele Werte nur aus Katalogen ausgewählt und nicht "eingetippt" werden.
+Das Programm SchILD-NRW 2 verwaltet die Schülerdaten in einer Datenbank mit festen Zuordnungen für die meisten Eintragungen. Aus diesem Grund können viele Werte nur aus Katalogen ausgewählt und nicht "eingetippt" werden.
 
 Dies hat den Vorteil, dass Benutzer nicht willkürlich in den Katalogen die Bezeichnungen auswählen können und die Eintragungen bei jedem Schüler gleich lauten. Welche Kataloge fest vorgegeben sind und welche Kataloge Sie bearbeiten können, entnehmen Sie bitte dem Artikel: **[Kataloge](/schild2/unterricht-kataloge/kataloge)**
 
@@ -66,27 +58,23 @@ Dies hat den Vorteil, dass Benutzer nicht willkürlich in den Katalogen die Beze
 
 <a id="auswahl"></a>
 
-## [Auswahlmenü](/schild2/auswahl/auswahl)
-
-------------------------------------------------------------------------
+## Auswahlmenü
 
 ![Auswahl_01](/bilder/einstieg/grundlagen/auswahl-01.jpg)
 
-Das Menü [Menü Auswahl](/schild2/auswahl/auswahl) ist ein wesentlicher Bestandteil der Schild-NRW-Philosophie, da dort die zahlreichen Möglichkeiten zur Filterung der Schülergruppe zu finden sind.
+Das Menü [Menü Auswahl](/schild2/auswahl/auswahl) ist ein wesentlicher Bestandteil der SchILD-NRW 2-Philosophie, da dort die zahlreichen Möglichkeiten zur Filterung der Schülergruppe zu finden sind.
 
-Dieses Menü beinhaltet die Programmpunkte, die es erlauben, die Menge der Schüler im [Schülerliste und Auswahl](/einstieg/grundlagen/container) nach vielen Kriterien einzugrenzen um mit ausgewählten Gruppen gemeinsame Arbeitsschritte (sogenannte [Gruppenprozesse](/schild2/gruppenprozesse/gruppenprozesse)) zu erledigen. Der Umgang mit diesen Filtern zur Gruppenweise-Bearbeitung oder zum Drucken von Gruppen-Reports ist ein grundlegender Aspekt zur effizienten Bearbeitung der Daten in Schild-NRW.
+Dieses Menü beinhaltet die Programmpunkte, die es erlauben, die Menge der Schüler im [Schülerliste und Auswahl](/einstieg/grundlagen/container) nach vielen Kriterien einzugrenzen um mit ausgewählten Gruppen gemeinsame Arbeitsschritte (sogenannte [Gruppenprozesse](/schild2/gruppenprozesse/gruppenprozesse)) zu erledigen. Der Umgang mit diesen Filtern zur Gruppenweise-Bearbeitung oder zum Drucken von Gruppen-Reports ist ein grundlegender Aspekt zur effizienten Bearbeitung der Daten in SchILD-NRW 2.
 
 Die vielfältigen Möglichkeiten zur Filterung finden Sie im Artikel: **[Menü Auswahl](/schild2/auswahl/auswahl)**
 
 <a id="Gruppenprozesse"></a>
 
-## [Gruppenprozesse](/schild2/gruppenprozesse/gruppenprozesse)
-
-------------------------------------------------------------------------
+## Gruppenprozesse
 
 ![Gruppenprozesse_01](/bilder/einstieg/grundlagen/gruppenprozesse-01.jpg)
 
-Die [Gruppenprozesse](/schild2/gruppenprozesse/gruppenprozesse) stellen das wichtigste Werkzeugpaket innerhalb Schild-NRW dar, um Schülerdatensätze gemeinsam zu bearbeiten.
+Die [Gruppenprozesse](/schild2/gruppenprozesse/gruppenprozesse) stellen das wichtigste Werkzeugpaket innerhalb SchILD-NRW 2 dar, um Schülerdatensätze gemeinsam zu bearbeiten.
 
 Hier finden Sie eine Sammlung der häufigsten Tätigkeiten, die im Schulalltag an vielen Schülerdatensätzen gleichzeitig ausgeführt werden müssen. Grundsätzlich sind die [Gruppenprozesse](/schild2/gruppenprozesse/gruppenprozesse) nach Themengebieten sortiert und sollten immer dann aufgerufen werden, wenn Arbeiten anstehen, die mehr als einen Schüler betreffen.
 
@@ -96,15 +84,13 @@ Weitere Informationen gibt es im Artikel: **[Gruppenprozesse](/schild2/gruppenpr
 
 <a id="druckausgabe"></a>
 
-## [Druckfunktionen](/reporting/verwaltung/druckausgabe)
-
-------------------------------------------------------------------------
+## Druckfunktionen
 
 ![Druckausgabe_01](/bilder/einstieg/grundlagen/druckausgabe-01.jpg)
 
-Schild-NRW arbeitet mit einer leistungsfähigen Report-Ausgabe, um Datensätze und Datenzusammenstellungen zu Papier (oder auch zu PDF) zu bringen.
+SchILD-NRW 2 arbeitet mit einer leistungsfähigen Report-Ausgabe, um Datensätze und Datenzusammenstellungen zu Papier (oder auch zu PDF) zu bringen.
 
-Auf der **[Schild-NRW-Homepage](http://www.svws.nrw.de/)** stehen Ihnen viele Formulare (Reports) zur Verfügung, die Sie in Ihre Druckumgebung einbinden können.
+Auf der **[SchILD-NRW 2-Homepage](http://www.svws.nrw.de/)** stehen Ihnen viele Formulare (Reports) zur Verfügung, die Sie in Ihre Druckumgebung einbinden können.
 
 Das Erstellen von Reports bietet allen Benutzern die Möglichkeit zum Drucken von einfachen Listen, bis hin zu komplizierten Reports, die sogar eigene Auswertungen machen können.
 
@@ -114,17 +100,15 @@ Die Benutzung des Menüs **[Druckfunktionen und Reportausgabe](/reporting/verwal
 
 <a id="Datenaustausch"></a>
 
-## [Datenaustausch](/schild2/import-export-statistik/datenaustausch)
-
-------------------------------------------------------------------------
+## Datenaustausch
 
 ![Datenaustausch_01](/bilder/einstieg/grundlagen/datenaustausch-01.jpg)
 
-Bei der Zusammenarbeit mit anderen Programmen, die in der Schulverwaltung eingesetzt werden oder auch zur Weitergabe bestimmter Daten an andere Stellen, bietet Schild-NRW eine große Anzahl an Möglichkeiten zum [Datenaustausch](/schild2/import-export-statistik/datenaustausch).
+Bei der Zusammenarbeit mit anderen Programmen, die in der Schulverwaltung eingesetzt werden oder auch zur Weitergabe bestimmter Daten an andere Stellen, bietet SchILD-NRW 2 eine große Anzahl an Möglichkeiten zum [Datenaustausch](/schild2/import-export-statistik/datenaustausch).
 
-Schild-NRW versteht sich dabei als "offenes Programm", so dass Stundenplanprogramme, Excellisten, eigene Anwendungen und vieles mehr über die Exportschnittstellen bedient werden können.
+SchILD-NRW 2 versteht sich dabei als "offenes Programm", so dass Stundenplanprogramme, Excellisten, eigene Anwendungen und vieles mehr über die Exportschnittstellen bedient werden können.
 
-Über die Schnittstelle-Schild-NRW können fast alle Schülerdaten in einem festgelegten Schema importiert und exportiert werden.
+Über die Textschnittstelle von SchILD-NRW 2 können fast alle Schülerdaten in einem festgelegten Schema importiert und exportiert werden.
 
 Nähere Informationen dazu im Artikel: **[Datenaustausch](/schild2/import-export-statistik/datenaustausch)**.
 
@@ -132,9 +116,7 @@ Nähere Informationen dazu im Artikel: **[Datenaustausch](/schild2/import-export
 
 <a id="extras"></a>
 
-## [Extras-Menü](/administration/benutzer-einstellungen/extras)
-
-------------------------------------------------------------------------
+## Extras-Menü
 
 ![Extras_01](/bilder/einstieg/grundlagen/extras-01.jpg)
 
@@ -148,11 +130,9 @@ Bitte beachten Sie, dass dieses Menü je nach Schulform und Einstellung anders a
 
 <a id="Datenschutzhinweis"></a>
 
-## [Datenschutzhinweis](/administration/benutzer-einstellungen/datenschutzhinweis)
+## Datenschutzhinweis
 
-------------------------------------------------------------------------
-
-Unter diesem Menü-Punkt bekommen Sie lediglich noch einmal den Hinweis, der auch schon beim Start von Schild-NRW gezeigt wird.
+Unter diesem Menü-Punkt bekommen Sie lediglich noch einmal den Hinweis, der auch schon beim Start von SchILD-NRW 2 gezeigt wird.
 
 Hier finden Sie einen Verweis auf die VO-DVI und die VO-DVII, die die Richtlinien zur elektronischen Datenverarbeitung von Schülerdaten und Lehrerdaten regeln. Im Artikel: **[Datenschutzhinweis](/administration/benutzer-einstellungen/datenschutzhinweis)** finden Sie noch einige Informationen zu den Regelungen und einige zusätzliche Informationen, die für Datenschutzbeauftragte interessant sein könnten.
 
@@ -160,11 +140,9 @@ Hier finden Sie einen Verweis auf die VO-DVI und die VO-DVII, die die Richtlinie
 
 <a id="hilfe"></a>
 
-## [Programmhilfe](/hilfe/probleme/hilfe)
+## Programmhilfe
 
-------------------------------------------------------------------------
-
-Hier befinden sich die Hilfefunktionen von Schild-NRW. Sie werden dort unter anderem auf dieses Wiki geleitet oder erhalten dort Hinweise auf die aktuelle Versionsnummer.
+Hier befinden sich die Hilfefunktionen von SchILD-NRW 2. Sie werden dort unter anderem auf dieses Wiki geleitet oder erhalten dort Hinweise auf die aktuelle Versionsnummer.
 
 Zusätzlich finden Sie hier auch die automatische Updatefunktion.
 
@@ -174,13 +152,11 @@ Alle Informationen befinden sich im Artikel: **[Hilfefunktionen im Programm](/hi
 
 <a id="benutzer"></a>
 
-## [Angemeldete Benutzer](/administration/benutzer-einstellungen/benutzer)
-
-------------------------------------------------------------------------
+## Angemeldete Benutzer
 
 Dieser Menü-Punkt steht Ihnen zur Verfügung, wenn die PlugIns zur Benutzerverwaltung oder Benutzeranzeige aktiviert sind. Wie diese Aktivierung funktioniert, finden Sie unter [Programmeinstellungen](/administration/benutzer-einstellungen/programm-einstellungen).
 
-In der Benutzerverwaltung stehen Ihnen viele Optionen zur Verfügung, wie Sie die angelegten Benutzer in Schild-NRW verwalten wollen.
+In der Benutzerverwaltung stehen Ihnen viele Optionen zur Verfügung, wie Sie die angelegten Benutzer in SchILD-NRW 2 verwalten wollen.
 
 Eine genaue Beschreibung aller Optionen finden Sie im Artikel: **[Angemeldete Benutzer anzeigen](/administration/benutzer-einstellungen/benutzer)**.
 
@@ -189,20 +165,14 @@ Eine genaue Beschreibung aller Optionen finden Sie im Artikel: **[Angemeldete Be
 
 <a id="zusatzprogramme-tools"></a>
 
-## [Tool-Übersicht](/hilfe/zusatzprogramme/zusatzprogramme-tools)
+## Tool-Übersicht
 
-------------------------------------------------------------------------
+In diesem Bereich werden einige kleine Programme vorgestellt und beschrieben, die besondere Aufgaben rund um SchILD-NRW 2 übernehmen, die vom Programm selbst nicht erledigt werden können.
 
-In diesem Bereich werden einige kleine Programme vorgestellt und beschrieben, die besondere Aufgaben rund um Schild-NRW übernehmen, die vom Programm selbst nicht erledigt werden können.
-
-Diese Programme werden teilweise mit der Schild-Installation ausgeliefert oder müssen separat heruntergeladen und installiert beziehungsweise gespeichert werden.
+Diese Programme werden teilweise mit der SchILD-NRW 2-Installation ausgeliefert oder müssen separat heruntergeladen und installiert beziehungsweise gespeichert werden.
 
 Einzelheiten entnehmen Sie bitte den jeweiligen Artikeln:
 
 [Zusatzprogramme im Überblick](/hilfe/zusatzprogramme/zusatzprogramme-tools)
 
-------------------------------------------------------------------------
-
----
-
-Quelle: [Schild-NRW-Index – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schild-NRW-Index&oldid=5935)
+Quelle: [SchILD-NRW 2-Index – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schild-NRW-Index&oldid=5935)

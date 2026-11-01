@@ -33,6 +33,4 @@ B09 Berufsabschl./Hauptschulab.Kl. 10 oder mittl. Schulab. (BAB/HSA10-FOR, 3j. T
 
 B10 Berufsabschl./Hauptschulab.Kl. 10 oder mittl. Schulab. (BAB/HSA10-FOR, 4j. TZ)
 
----
-
 Quelle: [BK-Abschluss:Anlage-B – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=BK-Abschluss%3AAnlage-B&oldid=4742)

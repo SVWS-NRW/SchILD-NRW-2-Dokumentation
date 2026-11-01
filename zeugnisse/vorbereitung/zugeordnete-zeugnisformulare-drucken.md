@@ -10,8 +10,4 @@ Nach den Zeugniskonferenzen und der Eingabe aller Daten können Sie mit Hilfe di
 
 Abfragen, die vom verwendeten Report gemacht werden, tauchen nun an dieser Stelle natürlich auch auf.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Zugeordnete Zeugnisformulare drucken – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zugeordnete+Zeugnisformulare+drucken&oldid=2108)

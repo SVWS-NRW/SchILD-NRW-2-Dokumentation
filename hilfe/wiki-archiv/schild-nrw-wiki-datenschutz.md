@@ -164,6 +164,4 @@ Allgemeines zum Thema Datenschutz finden Sie auf der Website der Landesbeauftrag
 
 Wir weisen darauf hin, dass Betreiber von fremden Internetseiten, die vom Portal aus verlinkt werden, die Daten von Besucherinnen beziehungsweise Besuchern dieser Internetseiten erheben und auswerten können.
 
----
-
-Quelle: [Schild-NRW Wiki:Datenschutz – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schild-NRW+Wiki%3ADatenschutz&oldid=6069)
+Quelle: [SchILD-NRW 2 Wiki:Datenschutz – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schild-NRW+Wiki%3ADatenschutz&oldid=6069)

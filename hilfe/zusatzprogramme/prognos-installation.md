@@ -33,12 +33,12 @@ Hier können Angaben zum Benutzer und der Organisation eingetragen werden. Die E
 ![PM2_Setup_03](/bilder/tools/pm2/pm2-setup-03.png)
 
 **Ziel-Ordner wählen**\
-Standard ist die Installation in einem Unterorder "PM2" des Schild-Ordners. Wenn ein anderer Ordner verwendet werden soll, muss sichergestellt sein, dass entsprechende Schreibrechte vorhanden sind. Das Programm erkennt, ob der Ordner bereits vorhanden ist und bittet um die Bestätigung, dass der Ordner dennoch verwendet werden soll. Wiederum werden die Eingaben mit Klick auf "Weiter" bestätigt.
+Standard ist die Installation in einem Unterorder "PM2" des SchILD-NRW 2-Ordners. Wenn ein anderer Ordner verwendet werden soll, muss sichergestellt sein, dass entsprechende Schreibrechte vorhanden sind. Das Programm erkennt, ob der Ordner bereits vorhanden ist und bittet um die Bestätigung, dass der Ordner dennoch verwendet werden soll. Wiederum werden die Eingaben mit Klick auf "Weiter" bestätigt.
 
 ![PM2_Setup_04](/bilder/tools/pm2/pm2-setup-04.png)
 
 **Startmenü-Ordner wählen**\
-Standard ist die Einrichtung eines eigenen Ordners "PM2" im Start-Menü. Die Einbindung in einen bestehenden Ordner (zum Beispiel Schild) ist ebenfalls möglich. Bestätigung erfolgt durch Klick auf "Weiter".
+Standard ist die Einrichtung eines eigenen Ordners "PM2" im Start-Menü. Die Einbindung in einen bestehenden Ordner (zum Beispiel SchILD-NRW 2) ist ebenfalls möglich. Bestätigung erfolgt durch Klick auf "Weiter".
 
 ![PM2_Setup_05](/bilder/tools/pm2/pm2-setup-05.png)
 
@@ -54,7 +54,5 @@ Die unter den Punkten "Benutzerinformation", "Ziel-Ordner" und "Startmenü-Ordne
 
 **Ende der Installation**\
 Zum Abschluss meldet Prognos die erfolgreiche Installation und bietet gleichzeitig die Möglichkeit, das Programm nach dem Fertigstellen sofort zu starten.
-
----
 
 Quelle: [Prognos:Installation – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Prognos%3AInstallation&oldid=5511)

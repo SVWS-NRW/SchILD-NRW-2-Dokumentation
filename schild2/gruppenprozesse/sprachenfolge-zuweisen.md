@@ -14,8 +14,4 @@ Unter Modus müssen Sie angeben, ob es sich um einen Neueintrag, eine Aktualisie
 
 Weiterhin müssen Sie einen Eintrag bei "Reihenfolge" und dem "Beginn-" beziehungsweise "End"-Jahrgang vornehmen. Ein Eintrag beim "Referenzniveau" ist nicht nötig.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Sprachenfolge zuweisen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sprachenfolge+zuweisen&oldid=1900)

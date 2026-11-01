@@ -21,7 +21,7 @@ function IstInDerGruppe(const aLoginName, aGruppenName: String): Boolean;
 
 | Parameter | Bedeutung |
 | --- | --- |
-| `aLoginname` | der Schild-Loginname des Benutzers |
+| `aLoginname` | der SchILD-NRW 2-Loginname des Benutzers |
 | `aGruppenname` | die zu überprüfende Gruppe |
 
 ## Rückgabewert
@@ -38,7 +38,5 @@ end;
 ```
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
-
----
 
 Quelle: [IstInDerGruppe – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=IstInDerGruppe&oldid=57)

@@ -4,7 +4,6 @@ title: "Unterrichtsfächer"
 
 # Unterrichtsfächer
 
-
 <a id="Unterrichtsfächer_bearbeiten"></a>
 <a id="Unterrichtsf.C3.A4cher_bearbeiten"></a>
 
@@ -26,7 +25,7 @@ Zunächst ist die Tabelle unter dem Reiter 'Übersicht' nur mit den Fächern gef
 
 ## Teilleistungsarten vorbereiten
 
-Ab der SchILD-Version 2.0.10.1 gibt es die Möglichkeit, Teilleistungen zu verwalten. Wenn zuvor unter Schulverwaltung [Teilleistungen](/schild2/unterricht-kataloge/teilleistungs-arten) definiert wurden, können bei den Fachdetails die Teilleistungen vorgegeben werden.
+Ab der SchILD-NRW 2-Version 2.0.10.1 gibt es die Möglichkeit, Teilleistungen zu verwalten. Wenn zuvor unter Schulverwaltung [Teilleistungen](/schild2/unterricht-kataloge/teilleistungs-arten) definiert wurden, können bei den Fachdetails die Teilleistungen vorgegeben werden.
 
 Sie können dabei zwischen zwei Arbeitsweisen unterscheiden.
 
@@ -43,8 +42,6 @@ Wählen Sie hier mit dem "Plussymbol" die benötigten Teilleistungsarten zu jede
 
 Wenn diese Vorbereitung stattgefunden hat, kann mit dem Gruppenprozess Teilleistungsarten aus Vorlage zuweisen für alle vorbereiteten Fächer die Eingabe der Teilleistungen angelegt werden. Dies wird bei der Verwendung von externen Programmen (SchildWeb, Notenmodul) notwendig sein.
 
-------------------------------------------------------------------------
-
 <a id="Sichtbarkeit_von_Unterrichtsfächern"></a>
 <a id="Sichtbarkeit_von_Unterrichtsf.C3.A4chern"></a>
 
@@ -53,8 +50,6 @@ Wenn diese Vorbereitung stattgefunden hat, kann mit dem Gruppenprozess Teilleist
 Schalten Sie als erstes die Fächer, die an Ihrer Schule nicht unterrichtet werden, auf unsichtbar. Dies kann auf zwei verschiedene Weisen geschehen: Sie können durch einen Doppelklick auf das Plussymbol in der Spalte 'Sichtbar' die Markierung ändern. Es erscheint dann ein Minuszeichen. Oder Sie wechseln durch einen Doppelklick auf das jeweilige Fach zum 'Details'-Fenster und entfernen unter 'Sonstige Einstellungen' - 'Sichtbar' die Markierung und bestätigen diese Aktion oben in der Steuerleiste durch Klick auf das nun freigegebene Hakensymbol.
 
 Schalten Sie Unterrichtsfächer nur "unsichtbar", wenn Sie diese nicht mehr benötigen! In den Schülerdatensätzen werden unsichtbare Fächer ausgeblendet. Es sieht dann so aus, als ob nichts eingetragen wäre!
-
-------------------------------------------------------------------------
 
 <a id="Unterrichtsfächer_ergänzen"></a>
 <a id="Unterrichtsf.C3.A4cher_erg.C3.A4nzen"></a>
@@ -65,7 +60,7 @@ Selbstverständlich können Sie auch Unterrichtsfächer nach Bedarf ergänzen. N
 
 Achten Sie insbesondere auf die Einteilung in die richtige **Fächergruppe**, dieses Merkmal steuert die zugehörige Position auf den allermeisten Zeugnisformularen! Gerade für Projekt- und Vertiefungskurse ist das entscheidend. AGs und zusätzliche Unterrichtsveranstaltungen sollten hier auch korrekt angelegt werden, damit das Fach unter "weiterer Unterricht" erscheint.
 
-Der Haken **Fremdsprache** markiert für Schild-NRW alle Fächer, die als verwertbar für die Sprachenfolge gelten. Die Fächer mit diesem Haken stehen Ihnen unter [Laufbahninformationen](/schild2/schueler/laufbahninfo) in der Sprachenfolge zur Verfügung. Außerdem kann Schild-NRW für die Abiturzulassung die Sprachenverpflichtung nur prüfen, wenn die Haken hier korrekt gesetzt sind.
+Der Haken **Fremdsprache** markiert für SchILD-NRW 2 alle Fächer, die als verwertbar für die Sprachenfolge gelten. Die Fächer mit diesem Haken stehen Ihnen unter [Laufbahninformationen](/schild2/schueler/laufbahninfo) in der Sprachenfolge zur Verfügung. Außerdem kann SchILD-NRW 2 für die Abiturzulassung die Sprachenverpflichtung nur prüfen, wenn die Haken hier korrekt gesetzt sind.
 
 **Aufs Zeugnis** bewirkt, dass das Fach beim Füllen der Datenquellen für den Zeugnisdruck berücksichtigt wird.
 
@@ -75,15 +70,11 @@ Der Haken **Fremdsprache** markiert für Schild-NRW alle Fächer, die als verwer
 
 **Fach der Oberstufe** bringt das Fach in den Oberstufenpool, diese Fächer sind wichtig für die Erstellung von Lupo-Dateien.
 
-------------------------------------------------------------------------
-
 <a id="Besonderheit_Vertiefungskurs_und_Projektkurs_der_gymnasialen_Oberstufe"></a>
 
 ## Besonderheit Vertiefungskurs und Projektkurs der gymnasialen Oberstufe
 
 Für Vertiefungskurse steht ein Fachunabhängiges Statistikkürzel "VX - Vertiefungsfach (Pseudofach: nicht für ASD) bereit. Für Projektkurse steht ein fachunabhängiges Statistikkürzel "PX - Projektkurs (Pseudofach: nicht für ASD) bereit. Beide Fächer müssen als Fächer der Oberstufe markiert und über die Schaltfläche "Fächer der Oberstufe bearbeiten" mit einem Leitfach versehen werden. Ohne 1. Leitfach ist kein korrekter Export über die uvd.txt an ASDPC möglich.
-
-------------------------------------------------------------------------
 
 <a id="Weitere_Optionen"></a>
 
@@ -111,8 +102,6 @@ Mit dieser Funktion können Sie ein bestimmtes Fach in allen (!) Leistungsdatens
 
 Diese Funktion ist zur Bereinigung der Datenbank zum Beispiel nach einem Import aus Fremddaten gedacht.
 
-------------------------------------------------------------------------
-
 <a id="Fächer_der_gymnasialen_Oberstufe"></a>
 <a id="F.C3.A4cher_der_gymnasialen_Oberstufe"></a>
 
@@ -124,8 +113,6 @@ Wenn es sich bei Ihrer Schule um eine weiterführende Schule mit einer gymnasial
 
 Die Wahlmöglichkeiten an Ihrer Schule können Sie unter den Karteireitern **[Unzulässige Fachkombinationen festlegen](/schild2/unterricht-kataloge/nicht-moegliche-fachkombinationen)** und **Fächerprofile** noch detaillierter abbilden. Dort bestimmen Sie die Fächer, die für einen bestimmten Zeitraum nicht gleichzeitig angewählt werden können (evt. Religionslehre und Philosophie) beziehungsweise die zwingend zusammen angewählt werden müssen. Wählen Sie dazu einfach über die Dropdown-Menüs in den Tabellen die entsprechenden Fächer, Kursarten und Zeiträume aus. Über die Ihnen bekannten Symbole in der Steuerleiste können Sie Zeilen hinzufügen, entfernen und Ihre Eintragungen bestätigen oder annulieren.
 
-------------------------------------------------------------------------
-
 <a id="Excel-Export"></a>
 
 ## Excel-Export
@@ -133,8 +120,6 @@ Die Wahlmöglichkeiten an Ihrer Schule können Sie unter den Karteireitern **[Un
 Schließlich haben Sie noch die Möglichkeit, die Angaben zu den Unterrichtsfächern in eine Exceltabelle zu exportieren. Markieren Sie hierzu ein Fach und fahren Sie mit der Maus bei gedrückter Shift-Taste zur letzten Zeile des Bereiches, den Sie exportieren wollen. Diese Zeilen sind nun ausgewählt und blau eingefärbt. Wenn Sie nun die Funktion '**Excel-Export'** anwählen, sehen Sie zunächst eine Vorschau der zukünftigen Exceltabelle. Durch Mausklick auf '**Speichern'** wird die Exceltabelle erzeugt.
 
 ![Excelexport](/bilder/schild2/unterricht-kataloge/excelexport.jpg)
-
-------------------------------------------------------------------------
 
 <a id="Einstellungen_für_Berufskollegs"></a>
 <a id="Einstellungen_f.C3.BCr_Berufskollegs"></a>
@@ -152,9 +137,5 @@ Unter dem Button "Gliederung-bezogene Einstellungen" können Sie dann diese Eins
 ![Gliederungseinstellungen](/bilder/schild2/unterricht-kataloge/gliederungseinstellungen.jpg)
 
 Bitte beachten Sie, dass Sie die Lernfelder auch unter der Tabelle [Fachklassen](/schild2/unterricht-kataloge/fachklassen) verwalten können. Dies steht Ihnen als Alternative zur Verfügung!
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Unterrichtsfächer – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Unterrichtsf%C3%A4cher&oldid=4622)

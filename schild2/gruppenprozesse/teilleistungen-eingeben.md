@@ -16,8 +16,4 @@ Im zweiten Fenster können nun für jeden Schüler die Teilleistungen und gegebe
 
 **Hinweis**: Die Teilleistungs-Arten können unter [Schulverwaltung](/schild2/unterricht-kataloge/schulverwaltung) \> [Teilleistungsarten](/schild2/unterricht-kataloge/teilleistungs-arten) ergänzt werden.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Teilleistungen eingeben – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Teilleistungen+eingeben&oldid=3616)

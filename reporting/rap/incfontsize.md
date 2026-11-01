@@ -35,6 +35,4 @@ end;
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [IncFontSize – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=IncFontSize&oldid=56)

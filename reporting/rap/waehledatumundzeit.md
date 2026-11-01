@@ -38,6 +38,4 @@ If WaehleDatum('Bitte Beginn der Veranstaltung
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [WaehleDatumUndZeit – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=WaehleDatumUndZeit&oldid=132)

@@ -18,8 +18,6 @@ Wenn Sie in der Übersicht der Lehrkräfte auf den Karteireiter "Details" klicke
 
 Lehrer, die auf "unsichtbar" geschaltet sind, sind in der Übersichtstabelle grau hinterlegt. Wenn der Haken bei "nur sichtbare Datensätze anzeigen" angeklickt ist, werden diese Lehrer ausgeblendet. Bei unsichtbaren Lehrern ist der Karteireiter "Details" ausgeblendet. Wenn Sie diesen dennoch erreichen möchten, müssen Sie auf das "-"-Zeichen in der Spalte "Sichtbar" einen Doppelklick machen.
 
-------------------------------------------------------------------------
-
 <a id="Basisdaten_der_Lehrer"></a>
 
 ## Basisdaten der Lehrer
@@ -34,15 +32,15 @@ Angaben zu Telefonnummern, Adresse, E-Mail-Adressen sind wichtig, wenn Sie über
 
 Wenn eine E-Mail-Adresse eingetragen ist, kann über die rechte Maustaste in der Übersichtstabelle auch ein Mailversand an einen oder mehrere Kollegen erfolgen. (Markieren Sie dazu mehrere Lehrer mit gedrückter STRG-Taste.)
 
-Das Feld "kann folgende Fächer unterrichten" ist ein frei definierbares Textfeld, auf das Sie in der Reporting zurückgreifen können. Damit ist es zum Beispiel möglich, über einen Report die Kollegen nach Fächern zuzuordnen. In Schild-NRW sind mit diesem Feld jedoch z.Z. keine weiteren Funktionen verknüpft, so dass Sie sich die Eingabemethode selbst aussuchen können. Es wird empfohlen die Eingabe nach internem Fachkürzel und mit Komma getrennt vorzunehmen, da einige Reports aus der Downloadsammlung diese Notation erwarten. (Beispiel: "D,E,PH")
+Das Feld "kann folgende Fächer unterrichten" ist ein frei definierbares Textfeld, auf das Sie in der Reporting zurückgreifen können. Damit ist es zum Beispiel möglich, über einen Report die Kollegen nach Fächern zuzuordnen. In SchILD-NRW 2 sind mit diesem Feld jedoch z.Z. keine weiteren Funktionen verknüpft, so dass Sie sich die Eingabemethode selbst aussuchen können. Es wird empfohlen die Eingabe nach internem Fachkürzel und mit Komma getrennt vorzunehmen, da einige Reports aus der Downloadsammlung diese Notation erwarten. (Beispiel: "D,E,PH")
 
-Fotos von Lehrern können über den Kamera-Button eingebunden werden. Bitte beachten Sie dabei wie in allen anderen Stellen in Schild, wo Fotos eingebunden werden, dass die Bilder (möglichst im jpg-Format) vorher in eine sinnvolle Größe gebracht werden. Über den Button mit dem Radiergummi werden Fotos gelöscht. Der Button mit dem Pinsel öffnet ein Fenster mit drei Bearbeitungsmöglichkeiten. (Helligkeit, Kontrast und Drehung)
+Fotos von Lehrern können über den Kamera-Button eingebunden werden. Bitte beachten Sie dabei wie in allen anderen Stellen in SchILD-NRW 2, wo Fotos eingebunden werden, dass die Bilder (möglichst im jpg-Format) vorher in eine sinnvolle Größe gebracht werden. Über den Button mit dem Radiergummi werden Fotos gelöscht. Der Button mit dem Pinsel öffnet ein Fenster mit drei Bearbeitungsmöglichkeiten. (Helligkeit, Kontrast und Drehung)
 
 <a id="Schulbezogene_Daten_der_Lehrer"></a>
 
 ## Schulbezogene Daten der Lehrer
 
-Dieser Karteireiter beinhaltet ausschließlich statistikrelevante Daten. Diese Eintragungen benötigen Sie, wenn Sie die Lehrerdaten per Lehrer.txt nach ASDPC32 bringen wollen. Die Lehrämter, -befähigungen und Anerkennungen werden dabei aus der Datei Statkue.mdb aus dem Ordner "Keytabs" der Schildinstallation ausgewertet. Sollten hier einmal neuere Werte nicht zur Verfügung stehen, so führen Sie bitte ein Update durch (Startseite -\> Downloads -\> Hilfstabellen --\>\> statkue.zip herunterladen und in das Verzeichnis Keytabs von Schild entpacken).
+Dieser Karteireiter beinhaltet ausschließlich statistikrelevante Daten. Diese Eintragungen benötigen Sie, wenn Sie die Lehrerdaten per Lehrer.txt nach ASDPC32 bringen wollen. Die Lehrämter, -befähigungen und Anerkennungen werden dabei aus der Datei Statkue.mdb aus dem Ordner "Keytabs" der Schildinstallation ausgewertet. Sollten hier einmal neuere Werte nicht zur Verfügung stehen, so führen Sie bitte ein Update durch (Startseite -\> Downloads -\> Hilfstabellen --\>\> statkue.zip herunterladen und in das Verzeichnis Keytabs von SchILD-NRW 2 entpacken).
 
 Die möglichen und nötigen Eintragungen in diesem Bereich können Sie aus den Schlüsselverzeichnissen von IT.NRW entnehmen.
 
@@ -70,9 +68,5 @@ In einem Report können Sie über die Datenquelle "Lehrerfunktionen" als Unterda
 Hier können Sie die fachlehrer- und klassenlehrerbezogenen Benutzeroptionen für den Export nach SchildWeb steuern.
 
 SchildWeb ist ein kostenpflichtiges Modul der Firma Ribeka.
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Lehrkräfte – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lehrkr%C3%A4fte&oldid=1202)

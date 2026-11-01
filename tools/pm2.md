@@ -1,6 +1,6 @@
 # PM2 – Prognosemodul
 
-Das Prognosemodul untersucht einzelne Notenbilder, Klassen aus SchILD oder Leistungsdaten aus Dateien. Die Wiki-Anleitungen werden durch einen Ablauf zur Auswahl der Analyse und zur Ergebnisausgabe ergänzt.
+Das Prognosemodul untersucht einzelne Notenbilder, Klassen aus SchILD-NRW 2 oder Leistungsdaten aus Dateien. Die Wiki-Anleitungen werden durch einen Ablauf zur Auswahl der Analyse und zur Ergebnisausgabe ergänzt.
 
 ## Themen
 

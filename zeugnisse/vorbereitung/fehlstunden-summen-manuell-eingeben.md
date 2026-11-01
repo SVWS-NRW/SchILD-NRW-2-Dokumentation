@@ -12,8 +12,4 @@ Nach Abschluss der Eingabe werden die Daten durch Kick auf die Schaltfläche "In
 
 **Hinweis:** Damit man diesen Gruppenprozess nutzen kann, darf unter Extras \> Programm-Einstellungen \> Globale Einstellungen \> Fächer und Noten kein Häkchen bei "Fehlstunden fächerbezogen verwalten" gesetzt sein.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Fehlstunden-Summen manuell eingeben – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fehlstunden-Summen+manuell+eingeben&oldid=2032)

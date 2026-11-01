@@ -24,8 +24,4 @@ Mit Tastenkombinationen erreichen Sie häufige Funktionen ohne Maus. Die folgend
 | STRG + b         | Freigabe zur Bearbeitung (bei abgeschalt. Autoedit) |
 | STRG + Umsch + k | Direkteingabe im Klassenfilter                      |
 
-------------------------------------------------------------------------
-
----
-
-Quelle: [Shortcuts in Schild-NRW – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Shortcuts+in+Schild-NRW&oldid=2371)
+Quelle: [Shortcuts in SchILD-NRW 2 – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Shortcuts+in+Schild-NRW&oldid=2371)

@@ -19,7 +19,7 @@ Verwendet die Schule kein Online-Anmeldeverfahren, so müssen Datensätze neu-er
 
 ## Bildungsgangwechsler mit Schüler-Online (oder anderen Verfahren)
 
-Exportiert man Schülerdaten aus Schüler-Online, wird der Name des Schülers in der zu erzeugten Datei (SchuelerBasisidaten.dat) durch „#neueKlasse“ ergänzt. Wenn SchILD beim Import bereits einen Schülerdatensatz für den gleichen Schüler (Kriterien sind Name, Vorname und Geburtsdatum) findet, so wird dieser als Dupli-kat mit der neuen Klasse für das kommende Schuljahr eingetragen. Bei Verwendung anderer Online-Anmeldungen (OSA,…) sollte man versuchen, die zu übertragende Datei genauso zu strukturieren, um den gleichen Effekt beim Im-port zu erreichen.
+Exportiert man Schülerdaten aus Schüler-Online, wird der Name des Schülers in der zu erzeugten Datei (SchuelerBasisidaten.dat) durch „#neueKlasse“ ergänzt. Wenn SchILD-NRW 2 beim Import bereits einen Schülerdatensatz für den gleichen Schüler (Kriterien sind Name, Vorname und Geburtsdatum) findet, so wird dieser als Dupli-kat mit der neuen Klasse für das kommende Schuljahr eingetragen. Bei Verwendung anderer Online-Anmeldungen (OSA,…) sollte man versuchen, die zu übertragende Datei genauso zu strukturieren, um den gleichen Effekt beim Im-port zu erreichen.
 
 <a id="Verschmelzen_von_Duplikat_und_ursprünglichem_Datensatz"></a>
 <a id="Verschmelzen_von_Duplikat_und_urspr.C3.BCnglichem_Datensatz"></a>
@@ -30,7 +30,7 @@ Exportiert man Schülerdaten aus Schüler-Online, wird der Name des Schülers in
 
 Egal, auf welchem Weg die Schülerdatensätze ins Programm gekommen sind, das weitere Verfahren ist völlig identisch: Der Name des Schülers ist in der Namensliste gelb hinterlegt und der Haken bei „Ist Duplikat“ ist gesetzt worden.
 
-Die weiteren Arbeiten erfolgen nach dem Schuljahrewechsel. Beim Schuljahreswechsel wird der ursprüngliche „Originaldatensatz“ (also der Datensatz des abgelaufenen Schuljahres) automatisch in den Karteikasten „Ab-schluss“ verschoben. Sinnvoll ist es nun, das Duplikat und den Originaldatensatz zu „verschmelzen“. Dies hat den Vorteil, dass die komplette Vorgeschichte des Schülers an der eigenen Schule im gleichen Datensatz verfügbar ist, so dass pädagogische Absprachen o-der Rückfragen einfacher möglich sind.
+Die weiteren Arbeiten erfolgen nach dem Schuljahrewechsel. Beim Schuljahreswechsel wird der ursprüngliche „Originaldatensatz“ (also der Datensatz des abgelaufenen Schuljahres) automatisch mit dem Status „Abschluss“ versehen. Sinnvoll ist es nun, das Duplikat und den Originaldatensatz zu „verschmelzen“. Dies hat den Vorteil, dass die komplette Vorgeschichte des Schülers an der eigenen Schule im gleichen Datensatz verfügbar ist, so dass pädagogische Absprachen o-der Rückfragen einfacher möglich sind.
 
 Um dies zu erreichen geht man wie folgt vor:
 
@@ -54,9 +54,5 @@ Um dies zu erreichen geht man wie folgt vor:
 6.) Der Duplikatdatensatz wird gelöscht.
 
 7.) Die Sortierreihenfolge kann danach wieder geändert werden.
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Umgang mit Bildungsgangswechlsern am BK – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Umgang+mit+Bildungsgangswechlsern+am+BK&oldid=4062)

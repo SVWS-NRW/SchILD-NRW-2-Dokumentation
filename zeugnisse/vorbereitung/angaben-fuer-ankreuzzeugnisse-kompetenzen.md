@@ -41,6 +41,4 @@ Hinweis: Derzeit ist ein Export in die .enm-Dateien nicht möglich.
 
 Nach dem Setzen der Kreuze können die Zeugnisse mit den Reports der Reportsammlung "Inklusionszeugnisse", dort "Ankreuzform" gedruckt werden.
 
----
-
 Quelle: [Angaben für Ankreuzzeugnisse/-kompetenzen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Angaben+f%C3%BCr+Ankreuzzeugnisse%2F-kompetenzen&oldid=5811)

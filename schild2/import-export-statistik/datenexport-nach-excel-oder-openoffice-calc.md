@@ -6,7 +6,7 @@ title: "Daten nach Excel oder Calc exportieren"
 
 # Daten nach Excel oder Calc exportieren
 
-Um Schild-NRW-Daten in anderen Programmen weiter verwenden zu können (zum Beispiel Export für die Bundesjugendspiele) oder um Lehrern die Daten für ihre Klassen „Excel-fähig“ zur Verfügung stellen zu können, bietet Schild-NRW eine einfache Möglichkeit, diese Daten auf der Festplatte zu speichern.
+Um SchILD-NRW 2-Daten in anderen Programmen weiter verwenden zu können (zum Beispiel Export für die Bundesjugendspiele) oder um Lehrern die Daten für ihre Klassen „Excel-fähig“ zur Verfügung stellen zu können, bietet SchILD-NRW 2 eine einfache Möglichkeit, diese Daten auf der Festplatte zu speichern.
 
 1.  Filtern Sie bitte zuerst die gewünschte Schülergruppe (zum Beispiel eine Klasse über den Schnellfilter). Ansonsten wird der Export für alle aktiven Schüler ausgeführt.
 2.  Gehen Sie unter ***Datenaustausch*** in den Menüpunkt ***Export in Text-Dateien***. Dort wählen Sie bitte den Punkt ***Exportieren***.
@@ -43,7 +43,7 @@ Stellen Sie bitte sicher, dass Sie vorher durch einen Klick auf den kleinen Ordn
 
 Schließen Sie nun den Exportdialog.
 
-Schließen oder minimieren Sie auch das Programm Schild-NRW.
+Schließen oder minimieren Sie auch das Programm SchILD-NRW 2.
 
 Öffnen Sie nun den Windows-Explorer und suchen Sie die Stelle, an der Sie die CSV-Datei gespeichert haben.
 
@@ -56,9 +56,5 @@ Sollte Excel nicht mit CSV-Dateien verknüpft sein, so müssen Sie Excel zuerst 
 Das Ergebnis wird folgendermaßen aussehen und kann nun wie gewohnt weiterverarbeitet werden:
 
 ![Export-Excel-02](/bilder/schild2/import-export-statistik/export-excel-02.png)
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Datenexport nach Excel oder OpenOffice-Calc – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datenexport+nach+Excel+oder+OpenOffice-Calc&oldid=3244)

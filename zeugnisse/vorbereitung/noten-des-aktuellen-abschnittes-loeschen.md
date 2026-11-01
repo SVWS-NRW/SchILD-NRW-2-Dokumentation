@@ -17,6 +17,4 @@ Erstellen Sie eine [Datensicherung](/administration/datenbanken/datensicherung).
 3. Prüfen Sie die zusätzliche Rückfrage und bestätigen Sie das Löschen nur für die gewünschte Gruppe.
 4. Kontrollieren Sie anschließend die Leistungsdaten einzelner betroffener Schülerinnen und Schüler.
 
----
-
 Quelle: [Noten des aktuellen Abschnittes löschen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Noten+des+aktuellen+Abschnittes+l%C3%B6schen&oldid=2064)

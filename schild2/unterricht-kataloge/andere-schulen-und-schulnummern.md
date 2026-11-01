@@ -18,9 +18,4 @@ Wie weit Sie die anderen Daten (offizielle Bezeichnung, Kürzel, Schulform sowie
 
 Die Einführung eines Kürzels für eine solche Schule ist i.A. nicht notwendig.
 
-------------------------------------------------------------------------
-
-
----
-
 Quelle: [Andere Schulen und Schulnummern – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Andere+Schulen+und+Schulnummern&oldid=933)

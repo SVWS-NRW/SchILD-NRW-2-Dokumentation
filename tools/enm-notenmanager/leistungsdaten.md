@@ -20,7 +20,7 @@ Datensätze mit einem **x** in der Spalte **Fx.** sind fixiert und können nur b
 | **M.** | Ein `+` kennzeichnet eine Mahnung; die Anzeige wird rot unterlegt. |
 | **Zuw.** | Kurszuweisung. Zulässige Werte lassen sich per Doppelklick anzeigen. |
 | **Komp.** | Öffnet per Doppelklick die Kompetenzeingabe. Nach der Bearbeitung mit **Speichern** schließen. |
-| Teilleistungsspalten | Nur nutzbar, wenn die Teilleistungen in SchILD den Fächern zugeordnet und für die Anzeige aktiviert wurden. |
+| Teilleistungsspalten | Nur nutzbar, wenn die Teilleistungen in SchILD-NRW 2 den Fächern zugeordnet und für die Anzeige aktiviert wurden. |
 
 Blenden Sie nicht benötigte Teilleistungen über **Zusätze → Spalten wählen** aus, um die aktuelle Eingabe übersichtlich zu halten.
 

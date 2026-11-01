@@ -1,6 +1,6 @@
 # Sekundarstufen und Abitur
 
-Die folgenden Artikel behandeln Prüfungsdaten, Abschlüsse und Zeugnisangaben der Sekundarstufen. Unterscheiden Sie die Berechnung in SchILD, die schulische Entscheidung und die Ausgabe im Zeugnisreport. Sprachliche Nachweise und der schulische Teil der Fachhochschulreife haben jeweils eigene Voraussetzungen.
+Die folgenden Artikel behandeln Prüfungsdaten, Abschlüsse und Zeugnisangaben der Sekundarstufen. Unterscheiden Sie die Berechnung in SchILD-NRW 2, die schulische Entscheidung und die Ausgabe im Zeugnisreport. Sprachliche Nachweise und der schulische Teil der Fachhochschulreife haben jeweils eigene Voraussetzungen.
 
 ## Themen
 
@@ -25,7 +25,7 @@ Die folgenden Artikel behandeln Prüfungsdaten, Abschlüsse und Zeugnisangaben d
 - [Abituraktionen](/zeugnisse/sekundarstufen/gruppenaktionen-abitur?rubrik=schild2)
 - [Leistungsdaten übernehmen](/zeugnisse/sekundarstufen/leistungsdaten-holen?rubrik=schild2)
 - [Sprachnachweise und Zusatzdaten](/zeugnisse/sekundarstufen/zusatzdaten-latinum-eingeben?rubrik=schild2)
-  - [Weitere Wiki-Beschreibung](/zeugnisse/sekundarstufen/zusatzdaten-latimun-eingeben?rubrik=schild2)
+  - [Weitere Wiki-Beschreibung](/zeugnisse/sekundarstufen/zusatzdaten-latinum-eingeben?rubrik=schild2)
 
 ## Zulassung, Prüfungen und Ergebnis
 
@@ -33,7 +33,7 @@ Die folgenden Artikel behandeln Prüfungsdaten, Abschlüsse und Zeugnisangaben d
 - [Abiturzulassung](/zeugnisse/sekundarstufen/abitur-zulassung-berechnen?rubrik=schild2)
 - [Prüfungsergebnisse](/zeugnisse/sekundarstufen/pruefungsergebnisse-eingeben?rubrik=schild2)
 - [Mündliche Prüfungen festlegen](/zeugnisse/sekundarstufen/muendliche-pruefungen-a1-a3-festlegen?rubrik=schild2)
-  - [Weitere Wiki-Beschreibung](/zeugnisse/sekundarstufen/mdl-pruefungen-a1-a3-festlegen?rubrik=schild2)
+  - [Weitere Wiki-Beschreibung](/zeugnisse/sekundarstufen/muendliche-pruefungen-a1-a3-festlegen?rubrik=schild2)
 - [Gesamtfehlstunden berechnen](/zeugnisse/sekundarstufen/gesamt-fehlstunden-berechnen?rubrik=schild2)
 - [Abiturergebnis](/zeugnisse/sekundarstufen/gesamtergebnis-berechnen?rubrik=schild2)
 - [Abiturjahr setzen](/zeugnisse/sekundarstufen/abitur-jahr-setzen-fuer-statistik?rubrik=schild2)

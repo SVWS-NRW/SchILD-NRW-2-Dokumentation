@@ -4,7 +4,7 @@ title: "Dokumentenverwaltung"
 
 # Dokumentenverwaltung
 
-Die Dokumentenverwaltung in Schild-NRW unterstützt Sie bei der Archivierung von schülerbezogenen Briefen, Zeugnissen, E-Mails usw. Seit der Version 1.7.77.2 ist die Dokumentenverwaltung verfügbar. Es können PDFs und E-Mail-Texte direkt aus Schild-NRW beim Schüler in den eigenen Ordner gedruckt werden. Über das Windows-Dateisystem können aber auch beliebige Dateien dort gespeichert werden.
+Die Dokumentenverwaltung in SchILD-NRW 2 unterstützt Sie bei der Archivierung von schülerbezogenen Briefen, Zeugnissen, E-Mails usw. Seit der Version 1.7.77.2 ist die Dokumentenverwaltung verfügbar. Es können PDFs und E-Mail-Texte direkt aus SchILD-NRW 2 beim Schüler in den eigenen Ordner gedruckt werden. Über das Windows-Dateisystem können aber auch beliebige Dateien dort gespeichert werden.
 
 Im Folgenden sollen die zur Verfügung stehenden Optionen und Einstellungsmöglichkeiten beschrieben werden.
 
@@ -51,9 +51,5 @@ Dieses Feld kann auch ein (unsichtbares) Datenfeld mit der SchülerID sein, um s
 ![Dokumentenverwaltung-07](/bilder/administration/benutzer-einstellungen/dokumentenverwaltung-07.png)
 
 Jetzt kann der Report wie gewohnt mit Doppelklick gedruckt werden, es erscheint dann das Druckmenü mit den zusätzlichen Auswahlmöglichkeiten *Drucker mit Archivierung* oder *nur Archivierung (in Dokumentenverwaltung)*.
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Dokumentenverwaltung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Dokumentenverwaltung&oldid=3436)

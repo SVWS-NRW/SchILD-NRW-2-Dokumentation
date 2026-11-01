@@ -64,6 +64,4 @@ An dieser Stelle kann zudem eine Excel-Übersicht und eine LibreCalc-Übersicht 
 
 [Excel - Schulform Jahrgang Nichtversetzte Matrix](/dateien/wiki/schulform-jahrgang-nichtversetzte-matrix-90b9c252.xlsx)
 
----
-
 Quelle: [Serienbrief Nichtversetzte – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Serienbrief+Nichtversetzte&oldid=5863)

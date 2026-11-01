@@ -37,6 +37,4 @@ lAnrede:=GeschlechtToString(Schueler['Geschlecht'],'Schüler','Schülerin')
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [GeschlechtToString – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=GeschlechtToString&oldid=5650)

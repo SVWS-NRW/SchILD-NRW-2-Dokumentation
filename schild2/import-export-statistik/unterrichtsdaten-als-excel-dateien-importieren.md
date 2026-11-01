@@ -34,13 +34,13 @@ Die Klassenbezeichnung, muss in der Klassen-/Versetzungstabelle vorhanden sein. 
 
 **Spalte 5: Jahrgang (optional)**
 
-Die Jahrgangsbezeichnung muss der Bezeichnung in SchILD entsprechen. Falls der Eintrag leer ist, liegt ein jahrgangsübergreifender Kurs vor. Bei Klassenunterricht (Spalte 2 nicht leer) wird die Angabe ignoriert (ebenso, wenn Spalte 1 leer ist).
+Die Jahrgangsbezeichnung muss der Bezeichnung in SchILD-NRW 2 entsprechen. Falls der Eintrag leer ist, liegt ein jahrgangsübergreifender Kurs vor. Bei Klassenunterricht (Spalte 2 nicht leer) wird die Angabe ignoriert (ebenso, wenn Spalte 1 leer ist).
 
 **Spalte 6: Fach**
 
 Die Fachbezeichnung, muss in der Fächertabelle vorhanden sein.
 
-**Spalte 7: Kursart (optional)** Die allgemeine Kursart, muss in der Tabelle der allg. Kursarten in SchILD vorhanden sein.
+**Spalte 7: Kursart (optional)** Die allgemeine Kursart, muss in der Tabelle der allg. Kursarten in SchILD-NRW 2 vorhanden sein.
 
 **Spalte 8: Wochenstunden**
 
@@ -101,9 +101,5 @@ Sport-1-07a \| 07A \| 2006 \| 2 \| 07 \| SP \| AGGT \| 4 \| 3 \
 **Beispiel 5:** 2-stündiger Sportkurs "Hockey" in Jahrgang 08 im 2. Hj. 2006/07, wird an Partnerschule mit Schulnr. 123456 gegeben
 
 Hockey \|   \| 2006 \| 2 \| 08 \| SP \| AGGT \| 2 \|   \|   \| N \| 123456\
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Unterrichtsdaten (als Excel Dateien) importieren – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Unterrichtsdaten+%28als+Excel+Dateien%29+importieren&oldid=1170)

@@ -32,6 +32,6 @@ Wählen Sie den Weg nach Ziel und Datenformat: Datenaustausch zwischen Programme
 
 ## Textschnittstelle verstehen
 
-- [SchILD-Schnittstelle](/schild2/import-export-statistik/schnittstelle-schild-nrw?rubrik=schild2)
+- [SchILD-NRW 2-Schnittstelle](/schild2/import-export-statistik/schnittstelle-schild-nrw?rubrik=schild2)
 - [Vorgaben der Textschnittstelle](/schild2/import-export-statistik/vorbemerkungen-schnittstelle?rubrik=schild2)
 - [Schnittstellenbeschreibung](/schild2/import-export-statistik/schnittstellenbeschreibung?rubrik=schild2)

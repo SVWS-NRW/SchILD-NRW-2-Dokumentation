@@ -35,6 +35,4 @@ Label27.Caption:=LongDayNames(1); //(*Sonntag*)
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [LongDayNames – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LongDayNames&oldid=70)

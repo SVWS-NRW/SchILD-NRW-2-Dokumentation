@@ -18,8 +18,4 @@ Weitere Informationen (Klassenlehrer, Konferenzdatum, Angaben zum Arbeits- und S
 
 ![Uebersicht-Primara](/bilder/zeugnisse/grundschule/uebersicht-primara.jpg)
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Übersicht Primarstufe – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=%C3%9Cbersicht+Primarstufe&oldid=2284)

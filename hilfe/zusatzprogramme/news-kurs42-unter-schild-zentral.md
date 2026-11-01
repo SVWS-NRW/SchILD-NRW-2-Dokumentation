@@ -51,7 +51,7 @@ Wenn die Blockungsdatei in der Zentralumgebung erstellt wurde, so wählen Sie di
 
 Blockungsdatei wurde nicht in Zentralumgebung erstellt
 
-Falls die Blockungsdatei nicht in der Zentralumgebung, sondern mit Zugriff auf eine Einzeldatenbank von SchILD-NRW erstellt wurde, sind die internen ID-Werte (zum Beispiel für Schüler, Fächer usw.) in der Regel in der Blockungsdatei anders als die in der Zentraldatenbank. Ein Datenabgleich über die internen Routinen ist dann nicht möglich. In einem solchen Fall haben Sie zwei Möglichkeiten:
+Falls die Blockungsdatei nicht in der Zentralumgebung, sondern mit Zugriff auf eine Einzeldatenbank von SchILD-NRW 2 erstellt wurde, sind die internen ID-Werte (zum Beispiel für Schüler, Fächer usw.) in der Regel in der Blockungsdatei anders als die in der Zentraldatenbank. Ein Datenabgleich über die internen Routinen ist dann nicht möglich. In einem solchen Fall haben Sie zwei Möglichkeiten:
 
 - Sie führen einen Datenabgleich zwischen der Blockungsdatei und der Zentraldatenbank durch.. Die einzelnen Schritte sind im Detail im folgenden Kapitel beschrieben. Danach stimmen die ID-Werte in der Blockungsdatei und in der Zentraldatenbank überein und Sie können für den Blockungsexport die Option „über interne Routinen“ verwenden
 - Sie benutzen die Option „Über DLL“ für den Blockungsexport. In diesem Fall werden zum Datenabgleich nicht die internen ID-Werte verwendet, sondern „Klartext-Informationen“ (wie zum Beispiel die Kombination „Name, Vorname und Geburtsdatum“, um einen Schüler in der Zentraldatenbank zu finden). Dieser Weg ist zeitaufwändiger und kann in besonderen Fällen (wenn zum Beispiel der Name oder das Geburtsdatum eines Schülers in der Datenbank nachträglich geändert wurde) auch versagen.
@@ -121,9 +121,5 @@ Die ID-Nummern in der linken und rechten Liste sollten dann identisch sein. Spei
 ## Blockung in Datenbank übertragen
 
 Der Export der Blockungsdaten (Kurse, Belegungen bei den Schülern) erfolgt über den Menüpunkt „DB-Zugriff\>\>Blockung in DB exportieren“.
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [News:Kurs42 unter Schild-Zentral – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=News%3AKurs42+unter+Schild-Zentral&oldid=6063)

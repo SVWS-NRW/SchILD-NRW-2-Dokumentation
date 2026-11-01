@@ -10,8 +10,4 @@ Dieser Gruppenprozess sucht in der ausgewählten Schülergruppe im aktuellen Abs
 
 Die erstellte Liste der fehlenden Noteneinträge wird nach Lehrerkürzel sortiert in einem gesonderten Fenster ausgegeben. Der Text kann gespeichert oder ausgedruckt werden.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Fächer ohne Noten suchen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%A4cher+ohne+Noten+suchen&oldid=3624)

@@ -3,7 +3,7 @@ import { computed, onMounted, provide, ref } from 'vue'
 import DefaultTheme from 'vitepress/theme'
 import { useData } from 'vitepress'
 import { dataSymbol } from 'vitepress/dist/client/app/data.js'
-import { referenceSelection, articleIndexSelection, sectionSelection } from './reference-state'
+import { referenceSelection, articleIndexSelection, sectionSelection, menuSelection } from './reference-state'
 import { getSidebar } from 'vitepress/dist/client/theme-default/support/sidebar.js'
 import { articlePath, contextualSidebar, contextualNav, sectionEntries } from '../section-navigation.mjs'
 import { data as articles } from '../../hilfe/artikel.data.mjs'
@@ -24,7 +24,7 @@ const { page, theme, frontmatter } = data
 const mounted = ref(false)
 onMounted(() => { mounted.value = true })
 const indexMode = computed(() => page.value.relativePath === 'hilfe/alle-artikel.md' || (mounted.value && articleIndexSelection.value))
-const referenceMode = computed(() => !indexMode.value && (page.value.relativePath.startsWith('programmreferenz/') || page.value.relativePath === 'druck/programmreferenz.md' || (mounted.value && !!referenceSelection.value)))
+const referenceMode = computed(() => !indexMode.value && (page.value.relativePath.startsWith('programmreferenz/') || page.value.relativePath === 'druck/programmreferenz.md' || (mounted.value && !!referenceSelection.value) || ((!sectionSelection.value || sectionSelection.value === 'programmreferenz') && articlePath(getSidebar(theme.value.sidebar, page.value.relativePath)[0]?.items?.[0]?.link || '/') === '/programmreferenz')))
 const sections = Object.keys(navigation.sidebar)
 const selectedSection = computed(() => {
   const section = sectionSelection.value.startsWith('tools/') ? '/tools/' : '/' + sectionSelection.value + '/'
@@ -36,7 +36,7 @@ const activeSection = computed(() => indexMode.value ? '/hilfe/' : referenceMode
   : selectedSection.value || (defaultGroups.value[0]?.items?.[0]?.link ? articlePath(defaultGroups.value[0].items[0].link) + '/' : ''))
 const readingGroups = computed(() => {
   const groups = theme.value.sidebar[activeSection.value]
-  return groups ? contextualSidebar(groups, activeSection.value, currentPath.value) : defaultGroups.value
+  return groups ? contextualSidebar(groups, activeSection.value, currentPath.value, menuSelection.value) : defaultGroups.value
 })
 const readingEntries = computed(() => readingGroups.value.length ? sectionEntries(readingGroups.value, activeSection.value) : [])
 function adjacentInSection(offset: number) {

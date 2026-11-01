@@ -6,7 +6,7 @@ title: "Leistungsdaten im Klassenunterricht bearbeiten"
 
 # Leistungsdaten im Klassenunterricht bearbeiten
 
-Dieses Tutorial gibt eine Einführung in den Umgang mit den Leistungsdaten für Klassenunterricht. Klassenunterricht ist Unterricht, der im normalen Klassenverband gegeben wird. Für die Sekundarstufe I ist dies die Regelunterrichtsform. Ausnahmen sind zum Beispiel der Wahlpflichtbereich der Jahrgangsstufen 8 und 9 an Gymnasien oder der Religionsunterricht. Es wird erklärt, wie man die Leistungsdaten der Schüler in Schild anlegt, wo weitere Eintragungen, wie zum Beispiel Arbeits- und Sozialverhalten, durchgeführt werden können und wie man Daten ändern und löschen kann.
+Dieses Tutorial gibt eine Einführung in den Umgang mit den Leistungsdaten für Klassenunterricht. Klassenunterricht ist Unterricht, der im normalen Klassenverband gegeben wird. Für die Sekundarstufe I ist dies die Regelunterrichtsform. Ausnahmen sind zum Beispiel der Wahlpflichtbereich der Jahrgangsstufen 8 und 9 an Gymnasien oder der Religionsunterricht. Es wird erklärt, wie man die Leistungsdaten der Schüler in SchILD-NRW 2 anlegt, wo weitere Eintragungen, wie zum Beispiel Arbeits- und Sozialverhalten, durchgeführt werden können und wie man Daten ändern und löschen kann.
 
 In allen Jahrgangsstufen mit Klassenunterricht muss dieser Unterricht erst einmal in den Schülerdaten angelegt werden. Nachdem die Versetzung der Schüler aus dem vorangegangenen Schuljahr abgeschlossen ist, können Sie Gruppenprozesse nutzen, um den Schülern ihren Unterricht zuzuweisen. Natürlich muss dazu die [Stundentafel](/schild2/unterricht-kataloge/stundentafeln) der entsprechenden Jahrgangsstufe vollständig unter \>Schulverwaltung\>Stundentafeln eingetragen sein.
 
@@ -22,7 +22,7 @@ Um nun den Unterricht zuzuweisen, ist das folgende Vorgehen zu empfehlen:
 
     Der Gruppenprozess eignet sich im Übrigen auch, wenn sich im laufenden Schuljahr Änderungen der Fachlehrer ergeben sollten.
 
-Mit den obigen beiden Schritten haben Sie bei allen Schülern eines Jahrgangs ihren Regelunterricht in SchildNRW angelegt. Nun muss noch der Kursunterricht ergänzt werden. Wie man dies am besten durchführt, ist in dem Tutorial [Leistungsdaten im Kursunterricht bearbeiten](/schild2/unterricht-kataloge/leistungsdaten-kursunterricht) beschrieben.
+Mit den obigen beiden Schritten haben Sie bei allen Schülern eines Jahrgangs ihren Regelunterricht in SchILD-NRW 2 angelegt. Nun muss noch der Kursunterricht ergänzt werden. Wie man dies am besten durchführt, ist in dem Tutorial [Leistungsdaten im Kursunterricht bearbeiten](/schild2/unterricht-kataloge/leistungsdaten-kursunterricht) beschrieben.
 
 Haben Sie auch den Kursunterricht angelegt, stehen nun bei jedem Schüler seine Kurse / Fächer in der Datenbank (Reiter 'akt. Halbjahr' -\> 'Leistungsdaten') mit allen benötigten Angaben zur Verfügung. In einem nächsten Schritt müssten nun die Noten etc. in die Datenbank übertragen werden. Welche Vorbereitungen dafür zu treffen sind und wie man die Noten am besten in die Datenbank bekommt, können Sie im Tutorial [Zeugnisdruck vorbereiten und durchführen](/zeugnisse/vorbereitung/zeugnisvorbereitungen-und-druck) nachlesen.
 
@@ -38,14 +38,10 @@ Die Daten sind in drei weiteren Reitern gesammelt:
     Hier findet man die aktuellen Fächer / Kurse des Schülers mit Kursart, Kursbezeichnung, Lehrkraft, Note etc. Daneben können Sie hier auch noch Eintragungen zum Arbeits- und Sozialverhalten und zum Außerunterrichtlichen Engagement in der Schule unter dem entsprechenden Button vornehmen.\
     ![LeistungsdatenKlasseTut04](/bilder/schild2/unterricht-kataloge/leistungsdatenklassetut04.jpg)\
 
-    Auch hier ist es möglich, alle Eintragungen für den aktuellen Schüler, wenn nötig, zu ändern. Löschen können Sie einen Kurs, indem man ihn markiert (kleines Dreieck ganz links) und dann den SchildNRW-üblichen 'Minus-Button' betätigt.\
+    Auch hier ist es möglich, alle Eintragungen für den aktuellen Schüler, wenn nötig, zu ändern. Löschen können Sie einen Kurs, indem man ihn markiert (kleines Dreieck ganz links) und dann den SchILD-NRW 2-üblichen 'Minus-Button' betätigt.\
     ![LeistungsdatenKlasseTut05](/bilder/schild2/unterricht-kataloge/leistungsdatenklassetut05.jpg)\
 
 3.  Ergebnis Versetzungs- und Abschluss-Berechnung:\
     Hier findet man die Ergebnisse der Versetzungs- und Abschlussberechnungen des aktuellen Schülers.
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Leistungsdaten Klassenunterricht – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Leistungsdaten+Klassenunterricht&oldid=3145)

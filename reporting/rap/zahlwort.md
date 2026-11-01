@@ -36,6 +36,4 @@ Ergebnis: 'Drei-Komma-Fünf-Eins'
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [Zahlwort – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zahlwort&oldid=134)

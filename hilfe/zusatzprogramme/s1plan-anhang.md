@@ -34,10 +34,6 @@ Führen Sie den Mauszeiger über die verschiedenen Symbole. Die Bedeutungen werd
 
 ## MENÜPUNKT „ZUSÄTZE“
 
-------------------------------------------------------------------------
-
-\[\[S1PLAN:Übernahme von Kursen aus Schild\|Zurück zu Übernahme von Kursen aus Schild\]
-
----
+\[\[S1PLAN:Übernahme von Kursen aus SchILD-NRW 2\|Zurück zu Übernahme von Kursen aus SchILD-NRW 2\]
 
 Quelle: [S1PLAN:Anhang – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=S1PLAN%3AAnhang&oldid=4075)

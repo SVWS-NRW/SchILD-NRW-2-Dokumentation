@@ -14,8 +14,4 @@ Sie können nun auswählen, ob man nur Verzeichnisse entfernen möchte die leer 
 
 Durch setzen des unteren Häkchens können Sie eine Datensicherung der zu löschenden Daten vornehmen.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Dokumentenverwaltung aufräumen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Dokumentenverwaltung+aufr%C3%A4umen&oldid=2257)

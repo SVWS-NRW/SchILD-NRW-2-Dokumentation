@@ -36,9 +36,9 @@ Zusätzlich werden im obigen Beispiel die Unterrichtsfächer KR, ER und PP in ei
 
 <!-- -->
 
-- entweder die SchILD-Langbezeichnung des Faches hinzu oder
+- entweder die SchILD-NRW 2-Langbezeichnung des Faches hinzu oder
 - das Wort "Ersatzfach" oder
-- das Wort "nicht definiert", wenn das eingegebene Unterrichtsfach nicht in der SchILD-Fachliste enthalten ist und es sich offensichtlich nicht um ein Ersatzfach handelt (kein vorgestelltes "#").
+- das Wort "nicht definiert", wenn das eingegebene Unterrichtsfach nicht in der SchILD-NRW 2-Fachliste enthalten ist und es sich offensichtlich nicht um ein Ersatzfach handelt (kein vorgestelltes "#").
 
 **(2)**: **Eingabehilfen:**
 
@@ -46,11 +46,11 @@ Zusätzlich werden im obigen Beispiel die Unterrichtsfächer KR, ER und PP in ei
 
 <!-- -->
 
-- Fächer aus der Liste der SchILD-Unterrichtsfächer zu übernehmen\
+- Fächer aus der Liste der SchILD-NRW 2-Unterrichtsfächer zu übernehmen\
 
 (oder durch einen Doppelklick auf die Fachspalte)
 
-- Fächer aus der Liste der SchILD-Unterrichtsfächer für Ersatzfächer zu übernehmen\
+- Fächer aus der Liste der SchILD-NRW 2-Unterrichtsfächer für Ersatzfächer zu übernehmen\
 
 (oder durch einen Doppelklick auf die Fachspalte für Ersatzfächer)
 
@@ -62,7 +62,7 @@ Zusätzlich werden im obigen Beispiel die Unterrichtsfächer KR, ER und PP in ei
 
 (oder mit der Taste \<**Ent**\>)
 
-- Bei der Eingabe eines einzelnen Faches lässt sich mit Hilfe von \<Alt\>+\<↓\> ein einzelnes SchILD-Fach auswählen.
+- Bei der Eingabe eines einzelnen Faches lässt sich mit Hilfe von \<Alt\>+\<↓\> ein einzelnes SchILD-NRW 2-Fach auswählen.
 - Die Fachreihenfolge verändert man durch ein einfaches Drag&Drop in der ersten Spalte
 
 <a id="Kompetenzmodus"></a>
@@ -111,19 +111,19 @@ Hier bei der Wahl der Parameter können Sie festlegen, welche Lernabschnitte zur
 - **Automatische Profilauswahl**: Alle allgemeinen Einstellungen lassen sich in sogenannten Profildateien speichern beziehungsweise aus diesen Profildateien wieder auslesen.\
   Wenn Sie die für den 5. Jahrgang zutreffenden Einstellungen in die Profildatei „JG_05.KMP" gespeichert haben und die für den 6. Jahrgang in die Profildatei „JG_06.KMP", so wird beim Aufruf der Klasse 06d automatisch die Profildatei „JG_06.KMP" und beim Aufruf der Klasse 05a automatisch die Profildatei „JG_05.KMP" hinzugeladen, aber nur dann, wenn Sie die **Automatische Profilauswahl** aktiviert haben.\
   Die Profildateien werden im KM2-Unterordner „\Ini" abgelegt.
-- **Automatische Fachauswahl**: Sie können neben der individuellen Fachauswahl und der Möglichkeit, Ersatzfächer zu definieren (siehe oben), sich auch dafür entscheiden, dass alle von einer Klasse in einem Lernabschnitt belegten Fächer angezeigt werden. Die Sortierung ergibt sich aus der Sortierung der SchILD-Unterrichtsfächer.
+- **Automatische Fachauswahl**: Sie können neben der individuellen Fachauswahl und der Möglichkeit, Ersatzfächer zu definieren (siehe oben), sich auch dafür entscheiden, dass alle von einer Klasse in einem Lernabschnitt belegten Fächer angezeigt werden. Die Sortierung ergibt sich aus der Sortierung der SchILD-NRW 2-Unterrichtsfächer.
 - **Protokollieren**: Wenn Sie diese Option aktiviert haben, werden alle Änderungen an den Leistungsdaten in einer Protokolldatei gespeichert. Pro Klasse wird eine Protokolldatei angelegt. Diese Protokolldateien werden im KM2-Unterordner „\Prot" abgelegt. Bezeichnung der Protokolldateien: KKK_Prot.Txt (zum Beispiel 05a_Prot.Txt).
-- **In DB speichern**: Wenn Sie diese Option aktiviert haben, werden alle Änderungen an den Leistungsdaten direkt in die SchILD-Datenbank gespeichert.
+- **In DB speichern**: Wenn Sie diese Option aktiviert haben, werden alle Änderungen an den Leistungsdaten direkt in die SchILD-NRW 2-Datenbank gespeichert.
 - **2-Spalten-Anzeige**: Pro angezeigtes Fach werden zwei Spalten erstellt. In der rechten Spalte steht die Note, in der linken Spalte werden der Fachlehrer, Kursinformationen, mögliche Zuweisungen usw. aufgelistet.\
   Wenn Sie die 2-Spalten-Anzeige deaktivieren, verbleibt nur noch die Notenspalte.\
   Alle fachrelevanten Informationen werden unabhängig von der Anzahl der Spalten immer oberhalb der Leistungstabelle angezeigt beziehungsweise erscheinen in einem kleinen Informationsfenster, sobald Sie mit der Maus auf einen bestimmten Eintrag zeigen.
 - **Prognose / Abschluss**: Besonders für Gesamtschulen dürfte es interessant sein, den erreichten beziehungsweise prognostizierten Schulabschluss mitanzuzeigen.
-- **SchILD-Farben benutzen**: Die in SchILD zugewiesenen Farben für Fachgruppen werden auch in KM2 verwendet werden.
+- **SchILD-NRW 2-Farben benutzen**: Die in SchILD-NRW 2 zugewiesenen Farben für Fachgruppen werden auch in KM2 verwendet werden.
 - **Versetzungstabelle**: Bei der Umschaltung auf ein anderes Schuljahr kann jetzt voreingestellt werden, ob die Versetzungstabelle eingehalten wird oder jedes Mal der Klassenauswahldialog erscheint.\
 
 **Beispiel**:\
 
-Angezeigtes Schuljahr 2013 / Angezeigte Klasse 10a. Laut Versetzungstabelle der Schule (SchILD-Klassenversetzungstabelle) ist die Vorgängerklasse 09a. Wird nun das Schuljahr in KM2 auf 2012 gewechselt, wird automatisch die Klasse 09a in der Übersicht angezeigt, sofern bei den Parametern -\> Sonstige Einstellungen -\> Versetzungstabelle aktiviert ist.
+Angezeigtes Schuljahr 2013 / Angezeigte Klasse 10a. Laut Versetzungstabelle der Schule (SchILD-NRW 2-Klassenversetzungstabelle) ist die Vorgängerklasse 09a. Wird nun das Schuljahr in KM2 auf 2012 gewechselt, wird automatisch die Klasse 09a in der Übersicht angezeigt, sofern bei den Parametern -\> Sonstige Einstellungen -\> Versetzungstabelle aktiviert ist.
 
 - **Zeichengröße**: Legen Sie fest, mit welcher Schriftgröße die Leistungsdaten angezeigt werden. Die Anzeige der Informationen in der Schülerlupe wird von diesem Wert ebenfalls beeinflusst: Er vergrößert sich um das 1,5-fache gegenüber diesem hier ausgewählten Wert.
 
@@ -138,7 +138,5 @@ Angezeigtes Schuljahr 2013 / Angezeigte Klasse 10a. Laut Versetzungstabelle der 
 ## Dialog beenden
 
 **(8)**: Klicken Sie auf "Speichern", um alle Parameter zu speichern und die Änderungen wirksam werden zu lassen, beziehungsweise auf "Abbrechen", um alle möglichen Veränderungen an den Parametern zu verwerfen und um zur Leistungsanzeige zurückzukehren.
-
----
 
 Quelle: [KM2 - Parameter - Allgemein – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=KM2+-+Parameter+-+Allgemein&oldid=2984)

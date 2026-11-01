@@ -77,7 +77,9 @@ Die Teilnahme am Unterricht in der Herkunftsprache wird zusätzlich gemäß Anla
 
 <a id="Einstellungen_in_Schild-NRW"></a>
 
-## Einstellungen in Schild-NRW
+<a id="einstellungen-in-schild-nrw"></a>
+
+## Einstellungen in SchILD-NRW 2
 
 <a id="Unterrichtsfächer"></a>
 <a id="Unterrichtsf.C3.A4cher"></a>
@@ -98,7 +100,7 @@ Legen Sie ein Fach für die Prüfungssprache an (Schulverwaltung - Unterrichtsf�
 - Bezeichnung im Überweisungszeugnis: zum Beispiel Spanisch
 - Sonstige Einstellungen: Fremdsprache, Auf Zeugnis, Sichtbar
 
-Hinweis: Nach Anlegen des Faches sollte Schild-NRW einmalig neu gestartet werden.
+Hinweis: Nach Anlegen des Faches sollte SchILD-NRW 2 einmalig neu gestartet werden.
 
 <a id="Sprachenfolge"></a>
 
@@ -142,7 +144,5 @@ Zeugnisbemerkung: ***"Die Note im Fach HERKUNFTSPRACHE beruht auf einer Sprachen
 ### Leistungsdaten für Abgangszeugnisse und das Abiturzeugnis
 
 Zeugnisbemerkung: ***"Das für HERKUNFTSPRACHE ausgewiesene Niveau wurde durch eine Sprachprüfung nach der Teilnahme am Herkunftssprachlichen Unterricht erreicht.“"***
-
----
 
 Quelle: [Herkunftssprachlicher Unterricht BASS 13-61 Nr. 2 – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Herkunftssprachlicher+Unterricht+BASS+13-61+Nr.+2&oldid=6028)

@@ -12,8 +12,4 @@ Der schulische Teil und der berufspraktische Teil sind zu unterscheiden. Eine er
 
 ![FHR-Karteikarte](/bilder/zeugnisse/sekundarstufen/fhr-karteikarte.png)
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [FHR – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=FHR&oldid=1942)

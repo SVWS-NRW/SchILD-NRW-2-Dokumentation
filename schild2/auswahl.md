@@ -13,10 +13,11 @@ Mit einer Auswahl begrenzen Sie die Schülerliste auf die Personen, die Sie gera
 
 ## Auswahl und Reihenfolge
 
+Beginnen Sie mit [Status- und Schnellfilter](/schild2/auswahl/schnellfilter). Die Bedeutung des gespeicherten Schülerstatus und der Mehrfachauswahl im Hauptfenster erklärt [Statusfilter und Schülerstatus](/einstieg/grundlagen/karteikasten).
+
 - [Auswahlmenü](/schild2/auswahl/auswahl?rubrik=schild2)
 - [Standard-Auswahl laden](/schild2/auswahl/standard-auswahl-laden?rubrik=schild2)
 - [Sortierung ändern](/schild2/auswahl/sortierung-aendern?rubrik=schild2)
-
 
 ## Filter I
 

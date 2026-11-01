@@ -4,7 +4,7 @@ title: "Notenmodul für Grundschulen: Vorbereitung und Export"
 
 # Vorbereitung und Export
 
-Die SchILD-Administration erstellt für die Lehrkräfte Notendateien. Darin bearbeiten diese anschließend Noten, Kompetenzen und Zeugnisbemerkungen, ohne auf die SchILD-Datenbank zugreifen zu müssen.
+Die SchILD-NRW 2-Administration erstellt für die Lehrkräfte Notendateien. Darin bearbeiten diese anschließend Noten, Kompetenzen und Zeugnisbemerkungen, ohne auf die SchILD-NRW 2-Datenbank zugreifen zu müssen.
 
 ## Unterricht und Zeugnisinhalte vorbereiten
 
@@ -29,7 +29,7 @@ Beim ersten Öffnen ersetzt die Lehrkraft das Initialkennwort durch ein eigenes 
 | **Keine Fachlehrer-Fächer exportieren** | Muss ausgeschaltet sein, wenn Fachlehrkräfte ihre Leistungsdaten bearbeiten sollen. |
 | **Bei Klassenlehrer komplette Klasse ausgeben** | Ermöglicht der Klassenleitung die Bearbeitung aller Fächer ihrer Klasse. Schalten Sie die Option aus, wenn dies nicht gewünscht ist. |
 | Optionen zu Fehlstunden | Bestimmen, ob die Klassenleitung diese Daten im Modul erfassen kann. |
-| **Zeugnisvorlagen exportieren** | Ermöglicht die Vorschau und Ausgabe von Zeugnissen im Modul. Die Vorlagen müssen vorher in SchILD zugeordnet sein. |
+| **Zeugnisvorlagen exportieren** | Ermöglicht die Vorschau und Ausgabe von Zeugnissen im Modul. Die Vorlagen müssen vorher in SchILD-NRW 2 zugeordnet sein. |
 
 Der Dateiname enthält Lehrerkürzel, Schuljahr und Halbjahr; ein zusätzliches Suffix ist möglich. Geben Sie den Lehrkräften die erzeugten Dateien zusammen mit den benötigten Zugangsinformationen.
 

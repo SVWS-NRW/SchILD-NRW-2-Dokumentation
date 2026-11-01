@@ -59,6 +59,4 @@ würde nur die Fächer D,M und alle Englisch-Fächer berücksichtigen (aber nich
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [CreateNotenHeader – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=CreateNotenHeader&oldid=183)

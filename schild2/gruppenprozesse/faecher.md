@@ -25,12 +25,6 @@ Bitte klicken Sie die Artikel an, um Informationen zu den dahinter liegenden Sam
 - [Fächer aus Vorabschnitt](/schild2/gruppenprozesse/faecher-aus-vorherigem-abschnitt-holen)
 - [Doppelte Fächer löschen](/schild2/gruppenprozesse/doppelte-faecher-loeschen)
 
-------------------------------------------------------------------------
-
 - [Fächer sortieren](/schild2/gruppenprozesse/faecher-in-leistungsdaten-neu-sortieren) (nur BK-Datenbanken)
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Fächer – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%A4cher&oldid=1309)

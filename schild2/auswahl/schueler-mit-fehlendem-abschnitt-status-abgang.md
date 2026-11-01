@@ -12,8 +12,4 @@ Dies könnte unter Umständen interessant für die Erstellung der Sim.txt im Rah
 
 Sollten die Lernabschnitte im vorangegangenen Schuljahr nicht vollständig eingetragen sein, könnten sich beim Abgleich innerhalb von ASDPC Probleme ergeben.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Schüler mit fehlendem Abschnitt (Status=Abgang,..) – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sch%C3%BCler+mit+fehlendem+Abschnitt+%28Status%3DAbgang%2C..%29&oldid=976)

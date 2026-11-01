@@ -14,8 +14,4 @@ Wird die Nationalität bei der Dateneingabe nicht aus dem Scroll-Down-Menü gew�
 
 Wenn man bei "Staatsangehörigkeit" auf Individual-Daten I adjektivische Bezeichnungen besser findet (deutsch statt Deutschland, kosovarisch statt Kosovo), so können Sie dies ändern über Extras / Programm-Einstellungen / Globale Einstellungen -\> Häkchen vor "Für Nationalitäten Adjektive verwenden". Für die Eintragung bei "Geburtsland" auf Individual-Daten II bleiben aber die Ländernamen zur Auswahl erhalten.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Staatsangehörigkeiten / Herkunftsländer – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Staatsangeh%C3%B6rigkeiten+%2F+Herkunftsl%C3%A4nder&oldid=937)

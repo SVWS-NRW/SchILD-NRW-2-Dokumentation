@@ -28,8 +28,4 @@ Der untere Bereich der Registerkarte ist für Telefonnummern reserviert. Auf der
 
 An dieser Stelle können beliebig viele Telefonnummern mit ihren Ansprechpartnern angegeben werden. Sie werden in der Tabelle 'SchuelerTelefone' gespeichert und müssen in einem Subreport abgefragt werden. Sollte Ihnen im Katalog **Ansprechpartner** ein passender Eintrag fehlen, so finden Sie hier Hinweise zur Erweiterung des Katalogs [Telefonische Ansprechpartner](/schild2/unterricht-kataloge/telefonische-ansprechpartner).
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Erz.-Berechtigte – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Erz.-Berechtigte&oldid=1332)

@@ -6,7 +6,7 @@ title: "Klassen und Versetzungstabelle"
 
 # Klassen und Versetzungstabelle
 
-In der Klassen-/Versetzungstabelle werden alle Klassen, die in Schild-NRW Schülergruppen aufnehmen sollen, angelegt. Wie in allen Katalogen gibt es auch hier eine Benutzerdefinierte Sortierung und ein Merkmal für die Sichtbarkeit, damit Klassen, die zwar noch Schüler (Abgänger) enthalten, aber gegebenenfalls nicht mehr benötigt werden, ausgeblendet werden können.
+In der Klassen-/Versetzungstabelle werden alle Klassen, die in SchILD-NRW 2 Schülergruppen aufnehmen sollen, angelegt. Wie in allen Katalogen gibt es auch hier eine Benutzerdefinierte Sortierung und ein Merkmal für die Sichtbarkeit, damit Klassen, die zwar noch Schüler (Abgänger) enthalten, aber gegebenenfalls nicht mehr benötigt werden, ausgeblendet werden können.
 
 Hinter dem Karteireiter **Details** verbergen sich dann alle Einstellungen, die zu jeder Klasse vorgenommen werden können.
 
@@ -38,7 +38,7 @@ Besitzt die Schule mehrere Standorte, so werden diese unter [Schuldaten einricht
 
 **Sichtbar**
 
-Regelt die Sichtbarkeit der Klasse bei der Arbeit mit Schild-NRW.
+Regelt die Sichtbarkeit der Klasse bei der Arbeit mit SchILD-NRW 2.
 
 **Noteneingabe gesperrt**
 
@@ -47,12 +47,12 @@ Durch diesen Haken kann die Noteneingabe für eine Klasse komplett gesperrt werd
 :::danger
 **Wichtig:**
 
-Die folgenden Einträge werden von Schild-NRW genutzt, um bei der Versetzung diese Angaben in den neuen Lernabschnitt (unter akt. Halbjahr/Abschnitt) einzutragen!
+Die folgenden Einträge werden von SchILD-NRW 2 genutzt, um bei der Versetzung diese Angaben in den neuen Lernabschnitt (unter akt. Halbjahr/Abschnitt) einzutragen!
 :::
 
 **Folge-Klasse**
 
-Tragen Sie hier eine Folgeklasse ein, wenn bei der Versetzung alle Schüler in diese versetzt werden sollen. Dabei wählt Schild-NRW dann auch den Jahrgang der Folgeklasse für die Versetzung aus. Ist keine Folgeklasse eingetragen, so verbleiben die Schüler in der Klasse bei der Versetzung. Schild-NRW versucht in diesem Fall den Folgejahrgang aus der Tabelle [Statistikjahrgänge einrichten](/schild2/unterricht-kataloge/statistik-jahrgaenge) zu bestimmen, wenn hier das "+"-Zeichen bei *Chronologisch* gesetzt ist. Im letzten Jahrgang der Schule bleiben die Folgeklassen-Einträge leer.
+Tragen Sie hier eine Folgeklasse ein, wenn bei der Versetzung alle Schüler in diese versetzt werden sollen. Dabei wählt SchILD-NRW 2 dann auch den Jahrgang der Folgeklasse für die Versetzung aus. Ist keine Folgeklasse eingetragen, so verbleiben die Schüler in der Klasse bei der Versetzung. SchILD-NRW 2 versucht in diesem Fall den Folgejahrgang aus der Tabelle [Statistikjahrgänge einrichten](/schild2/unterricht-kataloge/statistik-jahrgaenge) zu bestimmen, wenn hier das "+"-Zeichen bei *Chronologisch* gesetzt ist. Im letzten Jahrgang der Schule bleiben die Folgeklassen-Einträge leer.
 
 **Vorgänger-Klasse**
 
@@ -81,9 +81,5 @@ Diese Schaltfläche kann dazu genutzt werden, die Angaben der Klasse auf die zug
 :::
 
 [Versetzung jahrgangsübergreifender Klassen](/schild2/versetzung/versetzungstabelle-bei-jahrgangsuebergreifenden-klassen)
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Klassen-/Versetzungstabelle – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Klassen-%2FVersetzungstabelle&oldid=5741)

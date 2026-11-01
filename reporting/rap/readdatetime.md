@@ -49,6 +49,4 @@ Procedure Label1OnGetText(var Text: String);
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [ReadDateTime – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=ReadDateTime&oldid=81)

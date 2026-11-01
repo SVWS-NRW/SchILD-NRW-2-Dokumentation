@@ -1,6 +1,6 @@
 # Migrationstool
 
-Das Migrationstool überträgt SchILD-Daten in eine andere Datenbank. Die vorhandene Anleitung erläutert den Ablauf und die Besonderheiten der Übertragung.
+Das Migrationstool überträgt SchILD-NRW 2-Daten in eine andere Datenbank. Die vorhandene Anleitung erläutert den Ablauf und die Besonderheiten der Übertragung.
 
 ## Themen
 

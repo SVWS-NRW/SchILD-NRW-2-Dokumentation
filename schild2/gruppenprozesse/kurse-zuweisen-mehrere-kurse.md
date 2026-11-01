@@ -16,8 +16,4 @@ Durch einen einfachen Klick in eine Zelle können Sie einem Schüler/einer Schü
 
 Vor dem Schließen des Fensters müssen Sie die Änderungen in die Leistungsdaten übernehmen.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Kurse zuweisen (mehrere Kurse) – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurse+zuweisen+%28mehrere+Kurse%29&oldid=3618)

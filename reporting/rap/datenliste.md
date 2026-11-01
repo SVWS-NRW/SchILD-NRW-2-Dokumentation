@@ -31,6 +31,4 @@ lblBesuchteKlassen.Caption := DatenListe( SchuelerLaufbahn, 'Klasse', ', ', fals
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [Datenliste – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datenliste&oldid=4250)

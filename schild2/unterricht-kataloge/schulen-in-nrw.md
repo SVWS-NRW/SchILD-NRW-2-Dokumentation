@@ -10,6 +10,4 @@ Als Vorgabe ist die eigene Schule schon aufgeführt. Klicken Sie auf das +-Zeich
 
 Die angebotene Reihenfolge zur Auswahl richtet sich nach der letzten Sortier-Einstellung im Schulen-Katalog. Für die Eingabe der "Stammschule" bei ´Lehrkräfte/Details/Zeitabhängige Daten´ ist vorher ein frei definierbares "Kürzel" in der Katalog-Spalte für die betreffende Schule einzutragen.
 
----
-
 Quelle: [Schulen in NRW – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schulen+in+NRW&oldid=462)

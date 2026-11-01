@@ -6,13 +6,13 @@ title: "Reports im Report-Explorer auswählen"
 
 # Reports im Report-Explorer auswählen
 
-Nach dem Aufruf des Report-Explorers öffnet sich ein neues Fenster mit der Ordnerstruktur, in der sich die verschiedenen Reports befinden. Diese Ordner entsprechen den Ordnern im Verzeichnis, in dem Sie Schild-NRW installiert haben.
+Nach dem Aufruf des Report-Explorers öffnet sich ein neues Fenster mit der Ordnerstruktur, in der sich die verschiedenen Reports befinden. Diese Ordner entsprechen den Ordnern im Verzeichnis, in dem Sie SchILD-NRW 2 installiert haben.
 
 Jeder Report stellt dabei sozusagen ein Formular dar, das beim Drucken mit den Daten aus der Datenbank gefüllt wird.
 
 ![Druckausgabe-Explorer1](/bilder/reporting/verwaltung/druckausgabe-explorer1.png)
 
-Um alle Ordner sehen zu können, klicken Sie auf das **+** vor Schild-Reports. Der Baum könnte dann so aussehen:
+Um alle Ordner sehen zu können, klicken Sie auf das **+** vor SchILD-NRW 2-Reports. Der Baum könnte dann so aussehen:
 
 ![Druckausgabe-Explorer2](/bilder/reporting/verwaltung/druckausgabe-explorer2.png)
 
@@ -38,7 +38,7 @@ Einen bestehenden Report können Sie bearbeiten, wenn Sie auf das Symbol ![Repor
 
 Mit Hilfe der Symbole ![Zeichensatz-anpassen](/bilder/reporting/verwaltung/zeichensatz-anpassen.png) kann einem ganzen Formular eine andere Schriftart beziehungsweise eine andere Schriftgröße zugewiesen werden.
 
-Ergänzt oder verändert man den Ordner Schild-Reports während der Arbeit mit Schild, zum Beispiel, wenn man aktuelle Formulare von der Internetseite herunterlädt, wird der Verzeichnisbaum im Reportexplorer erst nach erneutem Öffnen aktualisiert. Mit dem Klicken auf das Symbol ![Verzeichnisbaum-aktualisieren](/bilder/reporting/verwaltung/verzeichnisbaum-aktualisieren.png) erzwingt man das Aktualisieren.
+Ergänzt oder verändert man den Ordner SchILD-NRW 2-Reports während der Arbeit mit SchILD-NRW 2, zum Beispiel, wenn man aktuelle Formulare von der Internetseite herunterlädt, wird der Verzeichnisbaum im Reportexplorer erst nach erneutem Öffnen aktualisiert. Mit dem Klicken auf das Symbol ![Verzeichnisbaum-aktualisieren](/bilder/reporting/verwaltung/verzeichnisbaum-aktualisieren.png) erzwingt man das Aktualisieren.
 
 Eine Änderung der eingegebenen Daten wird nicht unbedingt sofort in ein Formular übernommen. Mit ![Abfrage-aktualisieren](/bilder/reporting/verwaltung/abfrage-aktualisieren.png) wird die Abfrage der Datenbank erneut ausgeführt und das Programm sollte die aktuellen Daten im Zugriff haben.
 
@@ -49,9 +49,5 @@ Manchen (vorgeblichen) Fehler können Sie beheben, indem man die Einstellungen (
 Informationen über die Datenquellen erhalten Sie mit dem Klick auf das Symbol ![Symbol-Datenquellen](/bilder/reporting/verwaltung/symbol-datenquellen.png). Es erscheint eine Liste mit einer näheren Beschreibung der zur Verfügung stehenden Datenquellen.
 
 ![Informationen-Datenquellen](/bilder/reporting/verwaltung/informationen-datenquellen.png)
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Reportexplorer aufrufen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Reportexplorer+aufrufen&oldid=2416)

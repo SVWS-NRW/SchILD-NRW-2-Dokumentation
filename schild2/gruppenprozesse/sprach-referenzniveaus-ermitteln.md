@@ -10,8 +10,4 @@ Dieser Gruppenprozess ermittelt aus den vorhandenen Einträgen bei der Sprachenf
 
 Damit die Einträge zum Gemeinsamen europäischen Referenzrahmen für Sprachen (GeR) auf Abschluss- und Abgangszeugnissen eingetragen werden können, muss dieser Prozess vor der Erstellung der entsprechenden Zeugnisse angestoßen werden.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Sprach-Referenzniveaus ermitteln – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sprach-Referenzniveaus+ermitteln&oldid=2792)

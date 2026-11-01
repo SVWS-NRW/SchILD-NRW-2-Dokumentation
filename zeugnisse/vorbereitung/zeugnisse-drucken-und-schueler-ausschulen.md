@@ -30,8 +30,4 @@ Klicken Sie nun auf die Schaltfläche "Zeugnisse drucken", wird man aufgefordert
 
 **Hinweis:** Unter "Extras" \> "Globale Einstellungen" \> "Allgemeines" \> "Standard-Reportprogramm" muss der neue Reportexplorer als Standard eingestellt sein
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Zeugnisse drucken und Schüler ausschulen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zeugnisse+drucken+und+Sch%C3%BCler+ausschulen&oldid=3627)

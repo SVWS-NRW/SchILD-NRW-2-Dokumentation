@@ -56,8 +56,4 @@ Nur bei gefilterten ZP10/ZK Jahrgang
 
 - Gruppenprozesse ZP10/ZK
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Gruppenprozesse – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Gruppenprozesse&oldid=3609)

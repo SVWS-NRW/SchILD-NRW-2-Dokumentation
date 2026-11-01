@@ -36,6 +36,4 @@ Durch diese Art des Anlegens verbleiben die Schülerinnen und Schüler auch beim
 
 Da der Klasse kein Statistik-Jahrgang zugewiesen ist, ist es wichtig, bei jedem Schüler in den Individualdaten den korrekten Statistik-Jahrgang eingetragen zu haben. Dieser erhöht sich beim Hochsetzen des Schuljahres.
 
----
-
 Quelle: [Versetzungstabelle bei jahrgangsübergreifenden Klassen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Versetzungstabelle+bei+jahrgangs%C3%BCbergreifenden+Klassen&oldid=5747)

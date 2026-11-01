@@ -6,7 +6,7 @@ title: "Gymnasien von G8 auf G9 umstellen"
 
 # Gymnasien von G8 auf G9 umstellen
 
-1\. Führen Sie ein Update auf die neuste Version von Schild-NRW durch.
+1\. Führen Sie ein Update auf die neuste Version von SchILD-NRW 2 durch.
 
 2\. Versetzen Sie die Schule in das Schuljahr 2019/20 1.Hj.
 
@@ -20,7 +20,7 @@ title: "Gymnasien von G8 auf G9 umstellen"
 
 *Umstellen der Statistik-Jahrgänge*
 
-4\. Öffnen Sie das Fenster "Schulverwaltung -\> Statistik-Jahrgänge". Ändern Sie in der Spalte "Gliederung Klartext" mit Hilfe des Auswahlmenüs die Einträge der Jahrgangsstufen 5 und 6 von "\*\*\*" auf "GY9". Korrigieren Sie in der Jahrgangsstufe 5 die Spalte Restabschnitte auf den Wert 18 und in der Jahrgangsstufe 6 auf den Wert 16. Sofern sie in Schild-NRW keinen Halbjahresbetrieb, sondern den Quartalsbetrieb eingerichtet haben, müssen hier die Restabschnitte 36 und 32 eingetragen werden. Ändern Sie anschließend auf gleiche Weise in der Spalte "Gliederung Klartext" mit Hilfe des Auswahlmenüs die Einträge der Jahrgangsstufen 7 bis Q2 von "\*\*\*" auf "GY8". Schließen sie das Fenster über die Schaltfläche "Schließen"
+4\. Öffnen Sie das Fenster "Schulverwaltung -\> Statistik-Jahrgänge". Ändern Sie in der Spalte "Gliederung Klartext" mit Hilfe des Auswahlmenüs die Einträge der Jahrgangsstufen 5 und 6 von "\*\*\*" auf "GY9". Korrigieren Sie in der Jahrgangsstufe 5 die Spalte Restabschnitte auf den Wert 18 und in der Jahrgangsstufe 6 auf den Wert 16. Sofern sie in SchILD-NRW 2 keinen Halbjahresbetrieb, sondern den Quartalsbetrieb eingerichtet haben, müssen hier die Restabschnitte 36 und 32 eingetragen werden. Ändern Sie anschließend auf gleiche Weise in der Spalte "Gliederung Klartext" mit Hilfe des Auswahlmenüs die Einträge der Jahrgangsstufen 7 bis Q2 von "\*\*\*" auf "GY8". Schließen sie das Fenster über die Schaltfläche "Schließen"
 
 ![KlassenVersetzungstabelleG9](/bilder/schild2/versetzung/klassenversetzungstabelleg9.png)
 
@@ -53,7 +53,5 @@ Filtern Sie im Anschluss auf gleiche Weise die Stufen 7 bis Q2 und ändern Sie d
 Auch auf dem Unterreiter "Allgemeine Angaben" des Reiters "Akt. Halbjahr" ist die neue Schulgliederung für das Halbjahr zu erkennen.
 
 8\. In den zukünftigen Schuljahren müssen Sie nach der Versetzung die Punkte 3 und 4 für die hochwachsenden Klassen 6 sukzessive wiederholen, da diese durch die Versetzung zunächst in die Gliederung "GY8" rutschen, da der Jahrgang vor der Versetzung noch nicht angepasst werden konnte. Bei Schülern, die im laufenden Schuljahr eine Klasse zurückgehen und bei Schülern, die eine Nachprüfung bestehen, sollten Sie auch immer daran denken, die Gliederung auf dem Unterreiter "Allgemeine Angaben" des Reiters "Akt. Halbjahr" anzupassen.
-
----
 
 Quelle: [Umstellung der Gymnasien von G8 auf G9 – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Umstellung+der+Gymnasien+von+G8+auf+G9&oldid=5929)

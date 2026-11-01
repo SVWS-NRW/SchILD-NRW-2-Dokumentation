@@ -16,8 +16,4 @@ Technische Informationen zu den Schulverwaltungsprogrammen
 
 \[[unter Schild-Zentral\|Kurs42 unter Schild-Zentral](News:Kurs42)\]
 
----
-
----
-
-Quelle: [Schild-NRW Wiki:Aktuelle Ereignisse – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schild-NRW+Wiki%3AAktuelle+Ereignisse&oldid=3947)
+Quelle: [SchILD-NRW 2 Wiki:Aktuelle Ereignisse – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schild-NRW+Wiki%3AAktuelle+Ereignisse&oldid=3947)

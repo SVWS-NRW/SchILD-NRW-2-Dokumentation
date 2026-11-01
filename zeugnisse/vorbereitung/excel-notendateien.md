@@ -21,7 +21,7 @@ Zur Noteneingabe können jetzt auch Excel-Dateien verwendet werden. Hierzu steht
 <a id="excel-import"></a>
 
 - Wichtig: Die ersten sechs Spalten (Name bis Kursart) werden vom Export gefüllt und dürfen bei der Bearbeitung der Datei (Noteneingabe) nicht verändert werden, da ansonsten keine Zuordnung beim Import möglich ist!
-- Nachträgliche Änderungen in SchILD (Fach, Kursart) können dazu führen, dass der betreffende Datensatz beim Import nicht gefunden oder falsch zugeordnet wird!
+- Nachträgliche Änderungen in SchILD-NRW 2 (Fach, Kursart) können dazu führen, dass der betreffende Datensatz beim Import nicht gefunden oder falsch zugeordnet wird!
 - Die Reihenfolge der Spalten darf nicht geändert werden!
 - Die Daten werden in der Reihenfolge "Klasse, Name, Fach" ausgegeben, diese Reihenfolge sollte möglichst nicht verändert werden, da ansonsten der Import länger dauert.
 - Es können Noten oder Punkte (in die jeweilige Spalte) eingetragen werden, wenn beides eingetragen ist, hat die Note Vorrang.
@@ -33,9 +33,5 @@ Zur Noteneingabe können jetzt auch Excel-Dateien verwendet werden. Hierzu steht
 **Download einer Beispieldatei:**
 
 [Media:Notenbeispiel.xlsx](/dateien/wiki/notenbeispiel-e5e8e2ce.xlsx)
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Excel-Notendateien – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Excel-Notendateien&oldid=2774)

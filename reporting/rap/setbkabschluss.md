@@ -29,6 +29,4 @@ Analog zu [SetAbitur](/reporting/rap/setabitur)
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [SetBKAbschluss – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SetBKAbschluss&oldid=110)

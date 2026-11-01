@@ -17,7 +17,7 @@ Mit einer individuellen Schülergruppe können Gruppen definiert werden und somi
 
 ## Definition von Schülergruppen
 
-In SchILD: Auswahl / Individuelle Schülergruppe bearbeiten
+In SchILD-NRW 2: Auswahl / Individuelle Schülergruppe bearbeiten
 
 ![ISG-001](/bilder/schild2/auswahl/isg-001.jpg)
 
@@ -47,8 +47,6 @@ Auswahl / Individuelle Schülergruppe bearbeiten / Schüler auswählen: Feld neb
 
 ## Nutzung
 
-Da SchILD abschnittsweise und im Gegensatz zu Kurs42 in Unterrichtsverteilung und Leistungsdaten nicht vorausschauend arbeitet, wurde in einer Fortbildung nach einer Möglichkeit gefragt, Fachwahlen zum Beispiel für die 2. Fremdsprache bei den Schülerinnen und Schülern einzugeben und bei der UVD im nächsten Abschnitt zu nutzen. Bei einer entsprechend definierten Schülergruppe ist es möglich, nach Übertragung ins neue Halbjahr/Schuljahr über einen Gruppenprozess diesen Schülerinnen und Schülern das entsprechende Fach beziehungsweise den entsprechenden Kurs zuzuteilen. Zudem können durch Auswahl der Schülergruppe Anschreiben, Informationen oder auch Planungen unterstützt werden.
-
----
+Da SchILD-NRW 2 abschnittsweise und im Gegensatz zu Kurs42 in Unterrichtsverteilung und Leistungsdaten nicht vorausschauend arbeitet, wurde in einer Fortbildung nach einer Möglichkeit gefragt, Fachwahlen zum Beispiel für die 2. Fremdsprache bei den Schülerinnen und Schülern einzugeben und bei der UVD im nächsten Abschnitt zu nutzen. Bei einer entsprechend definierten Schülergruppe ist es möglich, nach Übertragung ins neue Halbjahr/Schuljahr über einen Gruppenprozess diesen Schülerinnen und Schülern das entsprechende Fach beziehungsweise den entsprechenden Kurs zuzuteilen. Zudem können durch Auswahl der Schülergruppe Anschreiben, Informationen oder auch Planungen unterstützt werden.
 
 Quelle: [Individuelle Schülergruppen bearbeiten und nutzen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Individuelle+Sch%C3%BClergruppen+bearbeiten+und+nutzen&oldid=3878)

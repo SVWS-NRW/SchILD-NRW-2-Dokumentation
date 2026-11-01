@@ -28,6 +28,4 @@ Starten Sie das Notenmodul mit dem Befehl:
 
 ![ENM_wine](/bilder/administration/installation/enm-wine.jpg)
 
----
-
 Quelle: [Einrichtung des ENM-Moduls unter Ubuntu 18.04 – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Einrichtung+des+ENM-Moduls+unter+Ubuntu+18.04&oldid=4609)

@@ -41,8 +41,4 @@ Hier findet, wie im Fenster kurz beschrieben, nur eine Übertragung ins nächste
 
 ![GP-VersetzungUebertragung04](/bilder/schild2/versetzung/gp-versetzunguebertragung04.jpg)
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Versetzung/Übertragung ins neue Halbjahr oder in Abschluss – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Versetzung%2F%C3%9Cbertragung+ins+neue+Halbjahr+oder+in+Abschluss&oldid=4647)

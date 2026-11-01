@@ -6,13 +6,13 @@ title: "Versetzungsmodelle und Fortschreibung"
 
 # Versetzungsmodelle und Fortschreibung
 
-Ein Versetzungsmodell legt fest, wie SchILD die Klassen beim Schuljahreswechsel fortschreibt. Wählen Sie das Modell passend zur Klassenorganisation Ihrer Schule. Die folgenden Beispiele erläutern die Unterschiede.
+Ein Versetzungsmodell legt fest, wie SchILD-NRW 2 die Klassen beim Schuljahreswechsel fortschreibt. Wählen Sie das Modell passend zur Klassenorganisation Ihrer Schule. Die folgenden Beispiele erläutern die Unterschiede.
 
 Zunächst muss unterschieden werden, wie die Klassen versetzt werden. Die Auswahl des "Modells" richtet sich dabei nach der Vorgabe der Schule.
 
 **Verbleib-Modell**: Hierbei handelt es sich um ein Modell, bei der die Schüler immer in der gleichen Klasse bleiben, das heißt nach einem Schuljahreswechsel sind sie weiterhin in der gleichen Klasse, nur mit einem anderen Jahrgang. Diese Modell kommt zum Beispiel an Montessori-Schulen und oft auch an BKs vor, die früher mit IBIS gearbeitet haben (diese BKs benutzen dann oft im Klassennamen das jeweilige Jahr, in dem die Schüler in die Klasse eingetreten sind, was dann aber mit der Zeit zu einer sehr umfangreichen Klassenliste führt). Bei diesem Modell ist bei einer Klasse als Folgeklasse sie selbst eingetragen.
 
-**Wechsel-Modell**: Bei diesem Modell wechseln die Schüler (sofern sie versetzt werden) in eine andere (höhere) Klasse, dieses Modell ist der Standard bei allen Sek-I- und Sek-II-Schulen im allgemeinbildenden Bereich (aber auch bei vielen BKs, die schon länger mit SchILD arbeiten).
+**Wechsel-Modell**: Bei diesem Modell wechseln die Schüler (sofern sie versetzt werden) in eine andere (höhere) Klasse, dieses Modell ist der Standard bei allen Sek-I- und Sek-II-Schulen im allgemeinbildenden Bereich (aber auch bei vielen BKs, die schon länger mit SchILD-NRW 2 arbeiten).
 
 Weiterhin wird im Folgenden unterschieden, ob die Schule das "Folgejahrgangs-Modell" verwendet. Dies bedeutet, dass in der Jahrgangstabelle jedem Jahrgang (außer den Abschlussjahrgängen) ein Folgejahrgang zugewiesen wird. Wenn das Folgejahrgangs-Modell verwendet wird, muss es konsequent eingerichtet werden, das heißt allen Jahrgängen (außer den Abschlussjahrgängen) muss dann zwingend ein Folgejahrgang zugeordnet werden.
 
@@ -64,8 +64,6 @@ Wenn das Folgejahrgangsmodell nicht verwendet wird, prüft das Programm in der J
 
 Wichtig: Wenn so kein Folgejahrgang gefunden wird, geht das Programm davon aus, dass der Eintrag "Versetzt" falsch ist, und ändert diesen auf "Abschluss".
 
-------------------------------------------------------------------------
-
 **Versetzugsvermerk=Nicht versetzt** (oder analoge Einträge wie "Nicht versetzt, mit Nachprüfung")
 
 Der Jahrgang des Schülers bleibt gleich.
@@ -73,9 +71,5 @@ Der Jahrgang des Schülers bleibt gleich.
 Der Schüler bleibt in der aktuellen Klasse, falls nicht folgende Bedingung erfüllt ist:
 
 Im akt. Halbjahr ist als Folgeklasse eine andere Klasse als die aktuelle Klasse eingetragen. Wenn diese Folgeklasse den gleichen Jahrgang hat wie die aktuelle, wird diese Folgeklasse verwendet, ansonsten wird als Folgeklasse die aktuelle Klasse genommen.
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Hochschreibungsalgorithmus – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Hochschreibungsalgorithmus&oldid=2414)

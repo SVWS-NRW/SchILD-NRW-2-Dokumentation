@@ -38,6 +38,4 @@ End;
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [LernfelderZuFachklasse – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LernfelderZuFachklasse&oldid=172)

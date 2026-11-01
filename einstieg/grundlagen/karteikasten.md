@@ -1,62 +1,42 @@
 ---
-title: "Karteikästen und Schülerstatus"
+title: Statusfilter und Schülerstatus
 ---
 
 <a id="karteikasten"></a>
+<a id="karteikasten-und-schulerstatus"></a>
 
-# Karteikästen und Schülerstatus
+# Statusfilter und Schülerstatus
 
-Mit den Karteikästen legen Sie fest, welche Schülerstatus in der Schülerliste berücksichtigt werden, etwa aktive oder abgegangene Personen. Die Häkchen verändern die Auswahl, nicht die gespeicherten Schülerdaten.
+Der **Statusfilter** im Bereich **Aktuelle Schülerauswahl** legt fest, welche Schülerstatus in der Schülerliste berücksichtigt werden. Sie können mehrere Status gleichzeitig anhaken. Die Auswahl ändert weder den gespeicherten Status noch andere Schülerdaten.
 
-![Karteikaesten_01](/bilder/einstieg/grundlagen/karteikaesten-01.jpg)
+![Aktuelle Schülerauswahl am Berufskolleg: links die Mehrfachauswahl der Status, daneben und darunter die weiteren Schnellfilter.](/bilder/einstieg/grundlagen/aktuelle-schuelerauswahl-berufskolleg.png)
 
-Durch die Auswahl der Haken können Sie bestimmen, welche Statusarten Sie im [Schülerliste und Auswahl](/einstieg/grundlagen/container) sehen wollen.
+## Anzeige filtern oder Status ändern
 
-Achten Sie bitte darauf, dass die Schüler aller gewählten Karteikästen dann in der eingestellten Sortierung dargestellt werden!
+- **Statusfilter im Hauptfenster:** Haken Sie die Status an, deren Datensätze Sie sehen möchten. Bestätigen Sie die Auswahl, falls eine Schaltfläche zur Übernahme angezeigt wird. Die Schülerliste enthält anschließend alle Personen mit einem der gewählten Status.
+- **Statusfeld unter Individualdaten I:** Wählen Sie genau einen Status für die betreffende Person. Das ändert den gespeicherten Schülerstatus. Eine Person kann dadurch aus der aktuellen Schülerliste verschwinden, wenn ihr neuer Status im Filter nicht angehakt ist.
 
-Dabei werden die 7 verschiedenen Statusarten unterschieden:
+Den Speicherort des Statusfeldes erläutert [Individualdaten I](/schild2/schueler/individual-daten-i). Klassen-, Jahrgangs-, Kurs-, Abteilungs-, Schulgliederungs- und Fachklassenfilter sind unter [Status- und Schnellfilter](/schild2/auswahl/schnellfilter) zusammengefasst.
 
-1. Status **Neuaufnahme**\
-Hier geben Sie die Schüler ein, die sich während des laufenden Schuljahres bei Ihnen anmelden.\
-Neuaufnahmen haben noch keine Lernabschnitte und können so lange im Karteikasten \
-Neuaufnahme verweilen, bis auf das folgende Schuljahr umgestellt wurde.\
-Danach erhalten diese den Status "Aktiv".\
+## Die Status im Überblick
 
-Neuzugänge für das laufende Schuljahr werden nach Aufnahme bei Eingabefeld "Status" auf "Aktiv" umgesetzt.
+| Status | Bedeutung |
+| --- | --- |
+| Aufnahme | Neu angemeldete Schülerinnen und Schüler. Ältere Anleitungen verwenden die Bezeichnung **Neuaufnahme**. Für die Aufnahme in das laufende Schuljahr wird der Status nach der Aufnahme auf **Aktiv** gesetzt. |
+| Warteliste | Angemeldete Personen, deren Aufnahme noch offen ist, zum Beispiel Nachrückende. |
+| Aktiv | Schülerinnen und Schüler, die zurzeit an der Schule unterrichtet werden. |
+| Beurlaubt | Personen, die die Schule vorübergehend nicht besuchen; der Datensatz bleibt erhalten. |
+| Extern | Externe Schülerinnen und Schüler, etwa aus einer Kooperation mit einer anderen Schule. |
+| Abschluss | Personen, die ihren Bildungsgang an der Schule abschließen, beispielsweise nach Klasse 4 der Grundschule. |
+| Abgang ohne Abschluss | Personen, die die Schule ohne entsprechenden Abschluss verlassen, beispielsweise bei einem Schulwechsel. Ältere Texte sprechen von **Abgängern**. |
+| Ehemalige | Frühere Schülerinnen und Schüler, deren Datensätze weiterhin vorgehalten werden. |
 
-2. Status **Warteliste**\
-Erfüllt den gleichen Zweck wie der Status Neuaufnahme. Hier können Sie Schüler einsortieren,\
-die gegebenenfalls noch keine Aufnahme erhalten und später angeschrieben werden müssen.\
-Manche Schulen nutzen diesen Kasten auch, um "Nachrücker" zu Beginn des Schuljahres zu verwalten.\
+Neuaufnahmen haben zunächst noch keine Lernabschnitte. Bei der Aufnahme für das kommende Schuljahr bleiben sie bis zur entsprechenden Umstellung im Aufnahmestatus. Den Ablauf beschreibt [Neuaufnahmen](/einstieg/erste-schritte/neuaufnahmen-in-schild-nrw-001).
 
-3. Status **Aktiv**\
-Hier sollten alle zur Zeit an der Schule unterrichteten Schüler beinhaltet sein.\
+## Bedeutung für die Statistik
 
-4. Status **Beurlaubt**\
-Sollten Sie Schüler haben, die nur für eine überschaubare Zeit die Schule nicht besuchen, \
-und Sie möchten den Datensatz nicht löschen, so können Sie die Schüler in diesen Karteikasten\
-einsortieren.\
+Für die amtliche Statistik ist der gespeicherte Status maßgeblich. Der ursprüngliche Wiki-Artikel unterscheidet dabei aktive Schülerinnen und Schüler des aktuellen Schuljahres, Abgänge und Abschlüsse des vorherigen Schuljahres sowie externe Schülerinnen und Schüler. Andere Status werden dort nicht als zu übermittelnder Bestand beschrieben. Die aktuelle Sichtbarkeit durch einen Haken im Statusfilter ersetzt diese fachliche Zuordnung nicht.
 
-5. Status **Abgänger**\
-An diesem Ort werden alle Schüler verwaltet, die während des Schuljahres,\
-zum Beispiel durch Umzug, die Schule verlassen.\
-
-6. Status **Abschluss**\
-Alle Schüler, die in den Abschlussjahrgängen der jeweiligen Bildungsgänge die Schule verlassen,\
-werden in diesem Karteikasten verwaltet. (zum Beispiel auch in Grundschulen nach Klasse 4).\
-
-7. Status **Extern**\
-In diesem Kasten verwalten Sie externe Schüler, die von anderen Schulen zu Ihnen kommen,\
-weil die Schule beispielsweise eine Kooperation mit einer Nachbarschule hat.\
-
-Generell können Sie selbst bestimmen, wie Sie die Karteikästen in Schild-NRW verwenden. Wichtig ist jedoch, dass die Bedeutung der Karteikästen für die Übermittlung der amtlichen Haupterhebung beachtet wird.
-
-Aus dem Karteikasten "Aktiv" werden alle Schüler für das aktuelle Schuljahr in die Statistikschnittstelle geschrieben. Aus den Karteikästen "Abgänger" und "Abschluss" werden alle Schüler mit dem Schuljahr des vorherigen Jahres an die Statistikschnittstelle übergeben. Dabei werden die Schüler aus diesen Kästen NICHT unterschieden.
-
-Aus dem Status "Extern" werden die externen Schüler an die Statistik übergeben.
-
-Alle anderen Karteikästen werden bei der Statistik nicht berücksichtigt!
-
----
+Den gesamten Arbeitsablauf finden Sie unter [Statistik mit ASDPC](/schild2/import-export-statistik/statistik-mit-asdpc).
 
 Quelle: [Karteikasten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Karteikasten&oldid=400)

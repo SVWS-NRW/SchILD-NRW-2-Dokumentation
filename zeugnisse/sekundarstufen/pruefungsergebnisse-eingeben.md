@@ -32,8 +32,4 @@ Die Eingabe der Ergebnisse erfolgt dann durch Eintragung der Note (beziehungswei
 
 Ist die Eingabe beendet, bitte nicht vergessen, auf die Schaltfläche "In Datenbank übernehmen" zu klicken. Sollte man es doch vergessen, wird nochmals nachgefragt, ob die Daten übernommen werden sollen.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Prüfungsergebnisse eingeben – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Pr%C3%BCfungsergebnisse+eingeben&oldid=3631)

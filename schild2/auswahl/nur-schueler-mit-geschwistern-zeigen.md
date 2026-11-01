@@ -6,7 +6,7 @@ title: "Geschwister auswählen"
 
 # Geschwister auswählen
 
-Die Filteroption "Nur Schüler mit Geschwistern zeigen" soll dazu dienen, Schüler herauszufiltern, die Geschwister an der gleichen Schule haben. Dabei wird die aktuell in SchILD-NRW eingestellte Sortierung verwendet. Außerdem sind mehrere Kombinationen für den Status möglich.
+Die Filteroption "Nur Schüler mit Geschwistern zeigen" soll dazu dienen, Schüler herauszufiltern, die Geschwister an der gleichen Schule haben. Dabei wird die aktuell in SchILD-NRW 2 eingestellte Sortierung verwendet. Außerdem sind mehrere Kombinationen für den Status möglich.
 
 ***Beispiel:***
 
@@ -15,9 +15,5 @@ Es sollen alle Neuaufnahmen gezeigt werden, die Geschwister mit Status 'Aktiv' a
 ***Wichtig:***
 
 Die Geschwister werden anhand der Kriterien Nachname, Straße und PLZ ermittelt (Voraussetzung: gleiche Schreibweise der Straßennamen), das heißt wenn diese bei zwei Schülerinnen und Schülern gleich sind, werden sie als Geschwister interpretiert. Das kann im Einzelfall natürlich zu Fehlinterpretationen führen, zum Beispiel Tim Müller und Tania Müller, die nicht miteinander verwandt sind, aber beide in der Hauptstraße 123 in 54321 Musterhausen wohnen. Ein ähnliches Feature ist “Geschwister suchen“ (unter "Weitere Funktionen" rechts vom Status-Eingabefeld) zu einem ausgewählten Schüler.
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Nur Schüler mit Geschwistern zeigen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Nur+Sch%C3%BCler+mit+Geschwistern+zeigen&oldid=1033)

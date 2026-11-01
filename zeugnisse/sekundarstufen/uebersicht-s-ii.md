@@ -10,8 +10,4 @@ Die **Übersicht S II** ermöglicht den Überblick über alle dokumentierten Lei
 
 ![Uebersicht-SII](/bilder/zeugnisse/sekundarstufen/uebersicht-sii.png)
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Übersicht S II – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=%C3%9Cbersicht+S+II&oldid=1940)

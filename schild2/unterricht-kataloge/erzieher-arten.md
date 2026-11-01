@@ -14,8 +14,4 @@ Die Sortierungen lassen sich, wie bei den anderen Katalogen auch, wie gewünscht
 
 In der Spalte Export-Bezeichnung können Bezeichnungen eingetragen werden, die für Außenstehende gegebenenfalls aussagekräftiger oder eindeutiger sind.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Erzieher-Arten – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Erzieher-Arten&oldid=935)

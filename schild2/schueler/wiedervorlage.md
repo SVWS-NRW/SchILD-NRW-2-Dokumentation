@@ -8,7 +8,7 @@ Mit der Wiedervorlage merken Sie sich Aufgaben zu Schülerinnen, Schülern oder 
 
 ## Prüfung beim Programmstart einschalten
 
-Öffnen Sie **Extras → Programm-Einstellungen → Globale Einstellungen**. Setzen Sie den Haken bei **Wiedervorlage bei Programmstart prüfen** und schließen Sie das Fenster. Beim Programmstart zeigt SchILD die Einträge an, deren Wiedervorlagedatum auf den aktuellen Tag fällt.
+Öffnen Sie **Extras → Programm-Einstellungen → Globale Einstellungen**. Setzen Sie den Haken bei **Wiedervorlage bei Programmstart prüfen** und schließen Sie das Fenster. Beim Programmstart zeigt SchILD-NRW 2 die Einträge an, deren Wiedervorlagedatum auf den aktuellen Tag fällt.
 
 ## Eintrag für eine Person anlegen
 
@@ -47,7 +47,5 @@ Die ursprüngliche Anleitung nennt zwei Löschfristen: 14 Tage nach dem eingeste
 ## Eintrag für eine Gruppe anlegen
 
 Die Funktion ist auch über [Gruppenprozesse](/schild2/gruppenprozesse/gruppenprozesse?rubrik=schild2) erreichbar. Das Vorgehen für mehrere zuvor ausgewählte Personen beschreibt [Wiedervorlage für Schülergruppen anlegen](/schild2/schueler/eintrag-in-wiedervorlage-machen?rubrik=schild2).
-
----
 
 Quelle: [Wiedervorlage – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Wiedervorlage&oldid=1395)

@@ -29,11 +29,9 @@ Sie gelangen nun in den gleichen Bildschirm, der oben schon gezeigt wurde. Jedoc
 
 Bitte beachten Sie, dass jeder eingetragene Fachlehrer eine Fördermaßnahme anlegen kann. Allgemeine Fördermaßnahmen können nur Klassenlehrer oder Abteilungsleiter anlegen.
 
-------------------------------------------------------------------------
-
 **Ausdruck von Fördermaßnahmen in der Reporting**
 
-In der Reporting (ab Schild-Version 2.0.14.1) stehen zwei Datenquellen zum Ausdruck der Fördermaßnahmen bereit. Diese sollen mit ihrem zugedachten Verwendungszweck hier beschrieben werden:
+In der Reporting (ab SchILD-NRW 2-Version 2.0.14.1) stehen zwei Datenquellen zum Ausdruck der Fördermaßnahmen bereit. Diese sollen mit ihrem zugedachten Verwendungszweck hier beschrieben werden:
 
 - **Datenquelle Foerdermassnahmen**
 
@@ -51,10 +49,6 @@ Dieser Report druckt eine Klassenliste, wobei bei den Schülern, die eine Förde
 
 2\. [Reportvorlage für abschnittsbezogene Fördermaßnahmen](/dateien/wiki/foerdermassnahmen-abschnitt-dv-v01-31efc0cd.zip)
 
-Dieser Report ist nach Schüler ID gruppiert und druckt alle Fördermaßnahmen zu einem Schüler auf eine eigene Seite. Für diesen Report ist es sinnvoll, vorher auf bestehende Fördermaßnahmen zu filtern. Dies geht ab Schild-Version 2.0.14.1 mit Filter I \> Lernabschnitte! Dieser Report ist geeignet, um in die Dokumentenverwaltung zu drucken.
-
-------------------------------------------------------------------------
-
----
+Dieser Report ist nach Schüler ID gruppiert und druckt alle Fördermaßnahmen zu einem Schüler auf eine eigene Seite. Für diesen Report ist es sinnvoll, vorher auf bestehende Fördermaßnahmen zu filtern. Dies geht ab SchILD-NRW 2-Version 2.0.14.1 mit Filter I \> Lernabschnitte! Dieser Report ist geeignet, um in die Dokumentenverwaltung zu drucken.
 
 Quelle: [Fördermaßnahmen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=F%C3%B6rderma%C3%9Fnahmen&oldid=3726)

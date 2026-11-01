@@ -18,8 +18,4 @@ Ein weiterer Menüpunkt, der hier erscheinen kann, ist die [Benutzerrechte in KM
 
 Auch dieses Menü erscheint nur, wenn unter den "Extras -\> Programm-Einstellungen -\> Plugins" die [Benutzerrechte in KM2](/administration/benutzer-einstellungen/benutzerverwaltung) aktiviert wurde.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Benutzer – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Benutzer&oldid=1848)

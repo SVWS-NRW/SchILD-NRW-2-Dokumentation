@@ -11,7 +11,7 @@ Hier bereiten Sie Mehrarbeitsdaten für die Abrechnung und Ausgabe mit MA2 vor. 
 Beim ersten Start legen Sie den Startmonat eines **sechsmonatigen Abrechnungszeitraums** fest. Für die Abrechnungsdaten bestehen drei Wege:
 
 - Eine unterstützte Abrechnungsdatei mit bereits enthaltenen Mehrarbeitsstunden importieren.
-- Lehrkraftdaten aus SchILD übernehmen und die vergütbaren Stunden und Merkmale anschließend ergänzen.
+- Lehrkraftdaten aus SchILD-NRW 2 übernehmen und die vergütbaren Stunden und Merkmale anschließend ergänzen.
 - Die benötigten Daten vollständig manuell erfassen.
 
 Eine vorhandene Datei wählen Sie über den Pfeil neben **Abrechnung → Abrechnungsdatei festlegen**. Anschließend lesen Sie die Datei über **Abrechnung** ein und kontrollieren die angezeigten Werte.

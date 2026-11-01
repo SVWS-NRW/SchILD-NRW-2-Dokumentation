@@ -5,7 +5,7 @@ Kurs42 organisiert Kurswahlen, Kurszuordnungen und Blockungen der gymnasialen Ob
 ## Themen
 
 - [Installation](/hilfe/zusatzprogramme/kurs42-installationshinweise?rubrik=tools)
-- [Zusammenspiel mit SchILD und LuPO](/tools/kurs42/datenfluss?rubrik=tools)
+- [Zusammenspiel mit SchILD-NRW 2 und LuPO](/tools/kurs42/datenfluss?rubrik=tools)
 - [Neue Blockung erstellen](/tools/kurs42/neue-blockung?rubrik=tools)
 - [Klausuren planen](/tools/kurs42/klausurplanung?rubrik=tools)
 - [Halbjahreswechsel und Fachwahlabgleich](/tools/kurs42/halbjahreswechsel?rubrik=tools)

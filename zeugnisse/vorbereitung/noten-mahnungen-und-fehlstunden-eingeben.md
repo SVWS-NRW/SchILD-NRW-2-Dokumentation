@@ -22,8 +22,4 @@ Nach Abschluss der Eingabe werden die Daten durch Kick auf die Schaltfläche "In
 
 **Besonderheiten:** In der Sek.II kann durch einen Klick auf den Spaltentitel Noten auf eine Eingabe und Anzeige von Punkten umgeschaltet werden. In Jahrgängen, in denen keine Mahnungen vorgesehen sind (zum Beispiel in der Qualifikationsphase), wird die Spalte Mahnen nicht angezeigt.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Noten, Mahnungen und Fehlstunden eingeben – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Noten%2C+Mahnungen+und+Fehlstunden+eingeben&oldid=3623)

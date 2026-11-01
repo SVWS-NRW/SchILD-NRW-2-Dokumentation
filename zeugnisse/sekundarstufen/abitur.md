@@ -52,8 +52,4 @@ Hat ein Schüler das Abitur bestanden, ist es wichtig, dass bei ihm das Abitur-J
 
 ![Karteireiter-Abitur6](/bilder/zeugnisse/sekundarstufen/karteireiter-abitur6.jpg)
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Abitur – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Abitur&oldid=4201)

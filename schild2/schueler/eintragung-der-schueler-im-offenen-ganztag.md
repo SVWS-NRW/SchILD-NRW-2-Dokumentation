@@ -20,8 +20,4 @@ Filtern Sie die Schülerinnen und Schüler des offenen Ganztags mit dem Filter I
 
 Filtern Sie die Schülerinnen und Schüler des Halbtagsunterrichts. Markieren Sie die Schülerinnen und Schüler, die an der Übermittagsbetreuung teilnehmen. Wenden sie auf die explizit ausgewählten Schülerinnen und Schüler den *Gruppenprozess - Allgemeines* an und ändern die Individualdaten. Setzen Sie auf dem Karteireiter Individual-Daten II in der Rubrik Sonstiges das Merkmal *Übermittagsbetreuung.*
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Eintragung der Schüler im offenen Ganztag – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Eintragung+der+Sch%C3%BCler+im+offenen+Ganztag&oldid=6036)

@@ -36,6 +36,4 @@ CreateNotenHeaderUS('D,E,M,F,L');
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [CreateNotenHeaderUS – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=CreateNotenHeaderUS&oldid=35)

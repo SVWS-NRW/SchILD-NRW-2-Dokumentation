@@ -6,7 +6,7 @@ title: "Personengruppen"
 
 ![Personengruppen](/bilder/schild2/unterricht-kataloge/personengruppen.jpg)
 
-Personengruppen im Sinne von SchILD können aus Lehrern, Schülern, Erziehungsberechtigten oder außerschulischen Kontaktpersonen bestehen.
+Personengruppen im Sinne von SchILD-NRW 2 können aus Lehrern, Schülern, Erziehungsberechtigten oder außerschulischen Kontaktpersonen bestehen.
 
 Beispiele für Personengruppen sind Schulkonferenz oder Förderverein. Im Fenster „Personengruppen bearbeiten“ gibt es zwei Karteireiter: Übersicht und Personen. Auf der Karte Übersicht wird der „Name der Gruppe“ definiert und eingetragen (zum Beispiel Schulkonferenz). Unter „Zusatzinfo“ kann eine kurze Beschreibung eingegeben werden.
 
@@ -20,14 +20,10 @@ Jeweils ist im Fensterchen „Personengruppe auswählen“ eine schon zuvor defi
 
 Es können auch mehrere Namen markiert werden (den ersten anklicken, dann bei gedrückt gehaltener STRG-Taste die weiteren). Mit dem Schalter „Datenabgleich“ (im Fenster „Personengruppen bearbeiten“/ Übersicht) werden Kontaktdaten (Adresse, E-Mail) auf der Grundlage der Hauptfenster-Daten aktualisiert. Das ist nur bei der automatischen Datenübernahme möglich, nicht aber bei manueller Eingabe der Mitgliederdaten.
 
-Oder durch manuelle Eingabe auf der Karte „Personen“ im Fenster „Personengruppen bearbeiten“ im rechten Eingabeteil „Details“. Mit + über dem Anzeigebereich werden weitere Mitglieder eingegeben. Auch die „Art“ ist mit dem Listenknopf zu wählen. Bei dieser Form ist aber kein Datenabgleich möglich. Nur manuell erfasst werden können Personen, die nicht zu Lehrkräften, Schülern oder Erziehungsberechtigten gehören, also von Personen, deren Daten in der Schild-Datenbank normalerweise nicht vorhanden sind ("Sonstige").
+Oder durch manuelle Eingabe auf der Karte „Personen“ im Fenster „Personengruppen bearbeiten“ im rechten Eingabeteil „Details“. Mit + über dem Anzeigebereich werden weitere Mitglieder eingegeben. Auch die „Art“ ist mit dem Listenknopf zu wählen. Bei dieser Form ist aber kein Datenabgleich möglich. Nur manuell erfasst werden können Personen, die nicht zu Lehrkräften, Schülern oder Erziehungsberechtigten gehören, also von Personen, deren Daten in der SchILD-NRW 2-Datenbank normalerweise nicht vorhanden sind ("Sonstige").
 
 Zum Datenexport werden nach Klick auf „Export“ im dann erscheinenden Fenster „Exportdatei auswählen“ Zielpfad und Dateiname der zu erzeugenden txt-Datei angegeben. Mit „Öffnen“ wird die Exportdatei erstellt. Mit einem Häkchen können Sie „Nach dem Export Word-Seriendruck starten“.
 
 Es können Sammel-E-Mails an die Mitglieder solcher Personengruppen gesendet und deren Daten exportiert werden (zum Beispiel in Excel). Zum Löschen von Mitgliedern wird im Fenster „Personengruppen bearbeiten“ zuerst auf der Karte Übersicht der „Name der Gruppe“ gewählt, auf der Karte Personen wird dann die markierte mit – („Datensatz löschen“) und nach Rückfrage-OK aus der Liste entfernt.
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Personengruppen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Personengruppen&oldid=1629)

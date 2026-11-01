@@ -1,12 +1,14 @@
 ---
-title: "SchILD-Kurse in S1Plan übernehmen"
+title: "SchILD-NRW 2-Kurse in S1Plan übernehmen"
 ---
 
 <a id="s1plan-ubernahme-von-kursen-aus-schild"></a>
 
-# SchILD-Kurse in S1Plan übernehmen
+<a id="schild-kurse-in-s1plan-ubernehmen"></a>
 
-Im Folgenden wird davon ausgegangen, dass in SchILD-NRW Kurse vorhanden sind. Im neuen Schuljahr sollen diese Kurse aber neu zusammengesetzt werden. Dies wird am Beispiel von Religion und praktischer Philosophie in einem Jahrgang 08 erläutert.
+# SchILD-NRW 2-Kurse in S1Plan übernehmen
+
+Im Folgenden wird davon ausgegangen, dass in SchILD-NRW 2 Kurse vorhanden sind. Im neuen Schuljahr sollen diese Kurse aber neu zusammengesetzt werden. Dies wird am Beispiel von Religion und praktischer Philosophie in einem Jahrgang 08 erläutert.
 
 <a id="ANLEGEN_DES_ZUGEHÖRIGEN_KURSPROFILS"></a>
 <a id="ANLEGEN_DES_ZUGEH.C3.96RIGEN_KURSPROFILS"></a>
@@ -27,23 +29,25 @@ Falls in den Fenstern „Kursübersicht“ und „Kurswahlen“ Inhalte einer vo
 
 <a id="KURSIMPORT_AUS_SCHILD-NRW"></a>
 
-## KURSIMPORT AUS SCHILD-NRW
+<a id="kursimport-aus-schild-nrw"></a>
 
-Da die Kurse in SchILD-NRW vorhanden sind, muss zunächst ein Abgleich mit der entsprechenden SchILD-NRW-Datenbank vorgenommen werden. Dies geschieht über den Menüpunkt
+## KURSIMPORT AUS SchILD-NRW 2
 
-![S1P-021-Export nach Schild](/bilder/tools/s1plan/s1p-021-export-nach-schild.jpg)
+Da die Kurse in SchILD-NRW 2 vorhanden sind, muss zunächst ein Abgleich mit der entsprechenden SchILD-NRW 2-Datenbank vorgenommen werden. Dies geschieht über den Menüpunkt
 
-Nach Klick auf das Symbol „Schild“ erscheint das Fenster
+![S1P-021-Export nach SchILD-NRW 2](/bilder/tools/s1plan/s1p-021-export-nach-schild.jpg)
+
+Nach Klick auf das Symbol „SchILD-NRW 2“ erscheint das Fenster
 
 ![S1P-045-Abgleich-mit-Schild-Fenster-2](/bilder/tools/s1plan/s1p-045-abgleich-mit-schild-fenster-2.jpg)
 
-mit allen Kursen und (gegebenenfalls) Schülerzuordnungen, die bisher in SchILD-NRW vorlagen. Diese Kurse sollen zwecks Bearbeitung in S1Plan nun importiert werden. Also muss die im mittleren Fenster gestellte Frage mit „Ja“ beantwortet werden.
+mit allen Kursen und (gegebenenfalls) Schülerzuordnungen, die bisher in SchILD-NRW 2 vorlagen. Diese Kurse sollen zwecks Bearbeitung in S1Plan nun importiert werden. Also muss die im mittleren Fenster gestellte Frage mit „Ja“ beantwortet werden.
 
 :::info
 Beachten Sie das nun folgende Bestätigungsfenster: Alle schon in S1Plan bestehenden „PUT-Kurse“ werden gelöscht!
 :::
 
-Nach der Bestätigung werden die beiden linken Fenster gefüllt und es liegt in S1Plan eine Kopie der SchILD-NRW-Kurswahl (bzgl. der betrachteten Kurse) vor:
+Nach der Bestätigung werden die beiden linken Fenster gefüllt und es liegt in S1Plan eine Kopie der SchILD-NRW 2-Kurswahl (bzgl. der betrachteten Kurse) vor:
 
 ![S1P-046-nach-Abgleich-mit-Schild](/bilder/tools/s1plan/s1p-046-nach-abgleich-mit-schild.jpg)
 
@@ -63,7 +67,7 @@ Die bestehenden Zuweisungen der Schüler zu den Kursen können auf zwei Arten ge
 zumindest noch „Einzelzuweisung“ angeklickt werden.
 
 :::info
-Der Menüpunkt „Gruppenprozess \> Kurse zuweisen“ entspricht in SchILDNRW dem Gruppenprozess „Fächer \> Kurse zuweisen (mehrere Kurse)“ und (hier) der Filterung auf die Kursart „PUT“.
+Der Menüpunkt „Gruppenprozess \> Kurse zuweisen“ entspricht in SchILD-NRW 2 dem Gruppenprozess „Fächer \> Kurse zuweisen (mehrere Kurse)“ und (hier) der Filterung auf die Kursart „PUT“.
 :::
 
 Nach den Änderungen können die neuen Kurswahlen über den Gruppenprozess
@@ -75,22 +79,21 @@ fixiert werden. Danach ist eine Bearbeitung (Änderung) der Kurszuordnung im Fen
 <a id="KURSWAHLEN_NACH_SCHILD-NRW_ZURÜCKSCHREIBEN"></a>
 <a id="KURSWAHLEN_NACH_SCHILD-NRW_ZUR.C3.9CCKSCHREIBEN"></a>
 
-## KURSWAHLEN NACH SCHILD-NRW ZURÜCKSCHREIBEN
+<a id="kurswahlen-nach-schild-nrw-zuruckschreiben"></a>
 
-Das Zurückschreiben geschieht analog zum Kursexport auf Seite 13. Beachten Sie, dass die bestehenden (entsprechenden) Kurse in der SchILD-NRWDatenbank zunächst gelöscht werden. Nach dem Export nach SchILD-NRW muss hier zur Aktualisierung gegebenenfalls einmal unter „Schulverwaltung \> Kurse“ der Menüpunkt „Kurse neu laden“ einmal angeklickt werden.
+## KURSWAHLEN NACH SchILD-NRW 2 ZURÜCKSCHREIBEN
+
+Das Zurückschreiben geschieht analog zum Kursexport auf Seite 13. Beachten Sie, dass die bestehenden (entsprechenden) Kurse in der SchILD-NRW 2Datenbank zunächst gelöscht werden. Nach dem Export nach SchILD-NRW 2 muss hier zur Aktualisierung gegebenenfalls einmal unter „Schulverwaltung \> Kurse“ der Menüpunkt „Kurse neu laden“ einmal angeklickt werden.
 
 :::info
 Im Fenster „Abgleich Kurse/SchILD-Kurse“ kann der Export auch für andere Zwecke in verschiedenen Dateiformaten erfolgen. Bei Klick auf das Symbol ![S1P-048-Einzelexport](/bilder/tools/s1plan/s1p-048-einzelexport.jpg) in einem der vier Fenster werden die Inhalte (der entsprechenden Fenster) exportiert.
 :::
 
-------------------------------------------------------------------------
-
 [Weiter zu Anhang](/hilfe/zusatzprogramme/s1plan-anhang)
-
 
 ## Vorhandene Kurse übernehmen
 
-Legen Sie zuerst das zum Import passende Kursprofil an und führen Sie den Datenbankabgleich durch. Nach Auswahl der in SchILD vorhandenen Kurse kann deren Stand einschließlich vorhandener Schülerzuordnungen nach S1Plan übernommen werden.
+Legen Sie zuerst das zum Import passende Kursprofil an und führen Sie den Datenbankabgleich durch. Nach Auswahl der in SchILD-NRW 2 vorhandenen Kurse kann deren Stand einschließlich vorhandener Schülerzuordnungen nach S1Plan übernommen werden.
 
 :::warning
 Der Import ersetzt die bereits in S1Plan bestehenden Kurse der betroffenen Kursart. Prüfen Sie den Bestätigungsdialog, bevor Sie eine schon bearbeitete Kursverteilung überschreiben.
@@ -98,6 +101,4 @@ Der Import ersetzt die bereits in S1Plan bestehenden Kurse der betroffenen Kursa
 
 Quelle der Ergänzung: [S1Plan-Bedienungsanleitung, Druckstand 11.12.2018](https://www.svws.nrw.de/system/files/media/document/file/s1plan_anleitung.pdf), Kapitel 5, Seiten 27–31.
 
----
-
-Quelle: [S1PLAN:Übernahme von Kursen aus Schild – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=S1PLAN%3A%C3%9Cbernahme+von+Kursen+aus+Schild&oldid=4073)
+Quelle: [S1PLAN:Übernahme von Kursen aus SchILD-NRW 2 – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=S1PLAN%3A%C3%9Cbernahme+von+Kursen+aus+Schild&oldid=4073)

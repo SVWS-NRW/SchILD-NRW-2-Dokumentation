@@ -12,8 +12,4 @@ Die Ergebnisse werden unter [Laufbahninformationen](/schild2/schueler/laufbahnin
 
 Handelt es sich um einen Jahrgang, der nicht "Abgangsjahrgang" ist, werden die Einträge mit offenem Ende erzeugt.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Sprachenfolge aus Leistungsdaten ermitteln – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sprachenfolge+aus+Leistungsdaten+ermitteln&oldid=1901)

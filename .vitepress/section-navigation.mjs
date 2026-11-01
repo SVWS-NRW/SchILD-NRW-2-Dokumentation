@@ -15,16 +15,38 @@ export function sectionLink(link, section) {
   return url.pathname + url.search + url.hash
 }
 
-export function contextualSidebar(groups, section, route) {
+export function contextualSidebar(groups, section, route, selection = '') {
   const current = articlePath(route)
-  const contains = node => articlePath(node.link || '/') === current || (node.items || []).some(contains)
-  const decorate = node => ({ ...node,
-    ...(node.link ? { link: sectionLink(node.link, section) } : {}),
-    ...(node.items?.length ? { collapsed: !contains(node), items: node.items.map(decorate) } : {})
+  const entries = [], counts = new Map()
+  const collect = (nodes, parents = []) => nodes.forEach((node, index) => {
+    const id = [...parents, index].join('.')
+    if (node.link?.startsWith('/')) {
+      const path = articlePath(node.link)
+      entries.push({ node, id, path })
+      counts.set(path, (counts.get(path) || 0) + 1)
+    }
+    collect(node.items || [], [...parents, index])
   })
+  collect(groups[0].items)
+  const requested = selection || new URL(route, 'https://docs.invalid').searchParams.get('menue')
+  const matches = entries.filter(entry => entry.path === current)
+  const chosen = matches.find(entry => entry.id === requested) || matches[0]
+  const contains = (node, id) => chosen?.id === id || (node.items || []).some((child, i) => contains(child, id + '.' + i))
+  const decorate = (node, id) => {
+    let link = node.link ? sectionLink(node.link, section) : undefined
+    if (link?.startsWith('/') && counts.get(articlePath(link)) > 1) {
+      const url = new URL(link, 'https://docs.invalid')
+      url.searchParams.set('menue', id)
+      link = url.pathname + url.search + url.hash
+    }
+    return { ...node,
+      ...(link ? { link } : {}),
+      ...(node.items?.length ? { collapsed: !contains(node, id), items: node.items.map((child, i) => decorate(child, id + '.' + i)) } : {})
+    }
+  }
   // 'Weitere Bereiche' deliberately changes sections; only the reading menu
   // inherits the current context.
-  return [{ ...groups[0], items: groups[0].items.map(decorate) }, ...groups.slice(1)]
+  return [{ ...groups[0], items: groups[0].items.map((node, i) => decorate(node, String(i))) }, ...groups.slice(1)]
 }
 
 export function sectionEntries(groups, section) {

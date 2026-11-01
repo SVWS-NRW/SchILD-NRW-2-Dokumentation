@@ -7,13 +7,11 @@ pageClass: reference-tables
 
 # Dateien und Felder der Textschnittstelle
 
-Diese technische Referenz beschreibt Aufbau und Felder der Importdateien für die SchILD-Schnittstelle. Für die normale Bedienung beginnen Sie mit **Datenaustausch über die SchILD-Schnittstelle**. Die Feldbeschreibungen benötigen Sie, wenn Sie Importdateien vorbereiten oder prüfen.
+Diese technische Referenz beschreibt Aufbau und Felder der Importdateien für die SchILD-NRW 2-Schnittstelle. Für die normale Bedienung beginnen Sie mit **Datenaustausch über die SchILD-NRW 2-Schnittstelle**. Die Feldbeschreibungen benötigen Sie, wenn Sie Importdateien vorbereiten oder prüfen.
 
-Der folgende Artikel beschreibt die einzelnen Dateien der [Datenaustausch über die SchILD-Schnittstelle](/schild2/import-export-statistik/schnittstelle-schild-nrw) und wie diese zum Import vorliegen müssen.
+Der folgende Artikel beschreibt die einzelnen Dateien der [Datenaustausch über die SchILD-NRW 2-Schnittstelle](/schild2/import-export-statistik/schnittstelle-schild-nrw) und wie diese zum Import vorliegen müssen.
 
 Lesen Sie hier einige **[Vorbemerkungen](/schild2/import-export-statistik/vorbemerkungen-schnittstelle)**.
-
-------------------------------------------------------------------------
 
 <a id="Adressen.dat"></a>
 
@@ -35,14 +33,12 @@ Daten aus dem Tabellenblatt "Weitere Adressen".
 | 10 | E-Mail-Adresse | E-Mail | Text | J |  |
 | 11 | Branche | Branche | Text | J |  |
 | 12 | Bemerkungen | Bemerkungen | Text | J |  |
-| 13 | SchILD-ID Ansprechpartner | SchILD-ID | Text | J |  |
+| 13 | `SchILD-ID` Ansprechpartner | `SchILD-ID` | Text | J |  |
 | 14 | Externe-ID Ansprechpartner | Externe ID | Text | J |  |
 :::example
 Adress-Art\|Name1\|Name2\|Straße\|PLZ\|Ort\|Telefonnr. 1\|Telefonnr. 2\|Fax\|E-Mail\|Branche\|Bemerkungen\|SchILD-ID\|Externe ID\
 Ausbildungsbetrieb\|Herr Peter Schmidt\|\|Fridolinweg 5\|42111\|Wuppertal\|012345-678\|\|\|p.schmidt@firma.de\|Metallverarbeitung\|\|123\|125
 :::
-
-------------------------------------------------------------------------
 
 <a id="Ansprechpartner.dat"></a>
 
@@ -59,14 +55,12 @@ Ansprechpartner aus dem Tabellenblatt "Weitere Adressen".
 | 5 | Telefon | Telefon | Text | J |  |
 | 6 | E-Mail | E-Mail | Text(40) | J |  |
 | 7 | Abteilung | Abteilung | Text | J |  |
-| 8 | SchILD-Adress-ID | SchILD-Adress-ID | Text | J |  |
+| 8 | `SchILD-Adress-ID` | `SchILD-Adress-ID` | Text | J |  |
 | 9 | externe Adress-ID | externe Adress-ID | Text | J |  |
 :::example
 Name\|Vorname\|Anrede\|akad. Titel\|Telefon\|E-Mail\|Abteilung\|SchILD-Adress-ID\|externe Adress-ID\
 Ann\|Klaudia\|Frau\|Dr.\|01234-56789\|k.ann@firma.de\|Aquise\|128\|12
 :::
-
-------------------------------------------------------------------------
 
 <a id="Faecher.dat"></a>
 
@@ -96,8 +90,6 @@ M\|M\|Mathematik\|Mathematik\|Mathematik\|D\|5\|6\|1
 
 **[Download einer Beispiel-Faecher.dat](/dateien/wiki/faecher-f76c8a51.dat)**
 
-------------------------------------------------------------------------
-
 <a id="Jahrgaenge.dat"></a>
 
 ## Jahrgaenge.dat
@@ -121,8 +113,6 @@ Q1\|Q1\|GY8
 :::
 
 **[Download einer Beispiel-Jahrgaenge.dat](/dateien/wiki/jahrgaenge-546fc188.dat)**
-
-------------------------------------------------------------------------
 
 <a id="Klassen.dat"></a>
 
@@ -150,19 +140,16 @@ InternBez\|StatistikBez\|SonstigeBez\|Jahrgang\|Folgeklasse\|Klassenlehrer\|OrgF
 Q1\|Q1\|Q1\|Q1\|Q2\|DF\|1\|RK\|GY8\|
 :::
 
-------------------------------------------------------------------------
-
 <a id="Kurse.dat"></a>
 
 ## Kurse.dat
 
-Bemerkung: Diese Datei enthält Angaben zu Kurs- oder Klassen -Unterricht. Die Datei Kurse.dat ist die Erweiterung einer älteren Version. In der erweiterten Datei können insbesondere auch mehrere Lehrkräfte eingetragen werden, so dass bei Verwendung dieses Formates die Datei KurseLehrkraefte.dat (s.u.) nicht benötigt wird. Die ältere Version wird zwar noch im Import unterstützt, aber von Schild-NRW nicht mehr exportiert.
-
+Bemerkung: Diese Datei enthält Angaben zu Kurs- oder Klassen -Unterricht. Die Datei Kurse.dat ist die Erweiterung einer älteren Version. In der erweiterten Datei können insbesondere auch mehrere Lehrkräfte eingetragen werden, so dass bei Verwendung dieses Formates die Datei KurseLehrkraefte.dat (s.u.) nicht benötigt wird. Die ältere Version wird zwar noch im Import unterstützt, aber von SchILD-NRW 2 nicht mehr exportiert.
 
 | Spalte | Beschreibung | Header-Text | Datentyp | Darf leer sein? | Bemerkung |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Kursbezeichnung | KursBez | Text(20) | Ja | Eintrag muss in Kombination mit, Jahr, Abschnitt und Jahrgang eindeutig sein! Der Eintrag selbst erfolgt ohne Angabe von Jahr, Abschnitt, Jahrgang und Lehrer (s. Beispiele). Das Feld kann leer sein, falls es sich um einen Unterricht im Klassenverband handelt, dann muss aber das Feld 2 gefüllt sein. |
-| 2 | Klasse | Klasse | Text(15) | Ja | Die Klassenbezeichnung, folgende Kombinationen mit der Kursbezeichnung sind möglich:<br>1. Kursbezeichnung nicht leer, Klasse leer: In diesem Fall wird nur ein Kurs in der Kursver-waltung von SchILD-NRW angelegt, es erfolgt keine Zuteilung von Unterricht an die Schüler.<br>2. Kursbezeichnung nicht leer, Klasse nicht leer: In der Kursver-waltung von SchILD-NRW wird ein Kurs angelegt, dieser wird allen Schülern der Klasse (als Kursunterricht) zugeteilt.<br>3. Kursbezeichnung leer, Klasse nicht leer: Es wird kein Kurs in der Kursverwaltung angelegt, der Unterricht wird ohne Kurszuweisung allen Schülern der Klasse zugeordnet (Unterricht im Klassenverband)<br>4. Kursbezeichnung leer, Klasse leer: Nicht erlaubt |
+| 2 | Klasse | Klasse | Text(15) | Ja | Die Klassenbezeichnung, folgende Kombinationen mit der Kursbezeichnung sind möglich:<br>1. Kursbezeichnung nicht leer, Klasse leer: In diesem Fall wird nur ein Kurs in der Kursver-waltung von SchILD-NRW 2 angelegt, es erfolgt keine Zuteilung von Unterricht an die Schüler.<br>2. Kursbezeichnung nicht leer, Klasse nicht leer: In der Kursver-waltung von SchILD-NRW 2 wird ein Kurs angelegt, dieser wird allen Schülern der Klasse (als Kursunterricht) zugeteilt.<br>3. Kursbezeichnung leer, Klasse nicht leer: Es wird kein Kurs in der Kursverwaltung angelegt, der Unterricht wird ohne Kurszuweisung allen Schülern der Klasse zugeordnet (Unterricht im Klassenverband)<br>4. Kursbezeichnung leer, Klasse leer: Nicht erlaubt |
 | 3 | Jahr | Jahr | Integer | Nein | Schuljahr |
 | 4 | Abschnitt | Abschnitt | Integer | Nein | Halbjahr beziehungsweise Quartal |
 | 5 | Jahrgang | Jahrgang | Text(20) | Ja | Muss identisch sein mit einer Bezeichnung aus Jahrgaenge.dat Falls leer, ist der Kurs jahrgangsübergreifend (nur wenn Kursbezeichnung nicht leer). Wird bei Klassenunterricht (Spalte 2 nicht leer) ignoriert. Hinweis: Falls es sich um einen Kurs für mehrere Jahrgänge handelt (zum Beispiel für 11 und EF) können auch mehrere Jahrgänge (getrennt durch Komma) eingegeben werden. |
@@ -222,8 +209,6 @@ Basketball\|06A\|2020\|2\|\|SP\|AGGT\|4\|3\|BO\|N\|\|1\|ALD\|1\|MÜ
 Basketball\|\|2020\|2\|06\|SP\|AGGT\|2\|\|\|N\|123456
 :::
 
-------------------------------------------------------------------------
-
 <a id="Kurse.dat_(altes_Format)"></a>
 <a id="Kurse.dat_.28altes_Format.29"></a>
 
@@ -253,8 +238,6 @@ PKE-G1\|2020\|2\|Q1\|PK-E\|VTF\|3\|3\|GO\|\
 AG-Turnen\|2020\|2\|05\|AG-SP\|AGGT\|2\|2\|PA\|J
 :::
 
-------------------------------------------------------------------------
-
 <a id="KurseLehrkraefte.dat"></a>
 
 ## KurseLehrkraefte.dat
@@ -275,13 +258,11 @@ F_12_LK\|2005\|2\|Schmitz\|2\|12\
 E_13_LK\|2005\|2\|Moore\|1\|13
 :::
 
-------------------------------------------------------------------------
-
 <a id="Lehrkraefte.dat"></a>
 
 ## Lehrkraefte.dat
 
-Beschreibung: Diese Datei wird automatisch beim Export der "Lehrkräfte" erzeugt und enthält die Lehrer-Grunddaten (Kürzel, Name, Adresse usw.). Alternativ können die Lehrer-Daten aber auch über eine von ASD-PC erzeugte Datei mit Abteilungsdaten importiert werden (bei der Lehrerverwaltung von SchILD-NRW über den Button "Daten importieren aus "Lehrer.txt"). Dann kann auf die Datei Lehrkraefte.dat verzichtet werden, allerdings muss der Import der Abteilungsdaten dann auch zuerst erfolgen.
+Beschreibung: Diese Datei wird automatisch beim Export der "Lehrkräfte" erzeugt und enthält die Lehrer-Grunddaten (Kürzel, Name, Adresse usw.). Alternativ können die Lehrer-Daten aber auch über eine von ASD-PC erzeugte Datei mit Abteilungsdaten importiert werden (bei der Lehrerverwaltung von SchILD-NRW 2 über den Button "Daten importieren aus "Lehrer.txt"). Dann kann auf die Datei Lehrkraefte.dat verzichtet werden, allerdings muss der Import der Abteilungsdaten dann auch zuerst erfolgen.
 
 | Spalte | Beschreibung | HeaderText | Datentyp | Darf leer sein? | Bemerkung |
 |----|----|----|----|----|----|
@@ -314,8 +295,6 @@ MUE\|MÜ1\|Frau\|Dr.\|Müller\|Johanna\|w\|21.4.1957\|000\|54321\|Musterstadt\|T
 MUE2\|MÜ2\|Herr\|StR.\|Müller\|Albrecht\|m\|6.8.1960\|000\|54352\|Testdorf\|Mustergasse 2\|01243-345123\|\|amueller@gmx.de\|U\|T\|\*\|13\|\|J\|123456\|mueal@schule.de
 :::
 
-------------------------------------------------------------------------
-
 <a id="LehrkraefteLehraemter.dat"></a>
 
 ## LehrkraefteLehraemter.dat
@@ -339,8 +318,6 @@ BK\|24\|ST\|E\|1\|SQ\|3\
 MÜ1\|24\|ST\|D\|1\|\|
 :::
 
-------------------------------------------------------------------------
-
 <a id="LehrkraefteLernplattformen.dat"></a>
 
 ## LehrkraefteLernplattformen.dat
@@ -349,7 +326,7 @@ Beschreibung: Diese Datei enthält Benutzernamen und Initialkennwörter zu Lernp
 
 | Spalte | Beschreibung | Header-Text | Datentyp | Darf leer sein? | Bemerkung |
 |----|----|----|----|----|----|
-| 1 | Kürzel | Kürzel | Text(10) | Nein | Muss identisch sein mit einem schulinternen Kürzel in Schild-NRW |
+| 1 | Kürzel | Kürzel | Text(10) | Nein | Muss identisch sein mit einem schulinternen Kürzel in SchILD-NRW 2 |
 | 2 | Lernplattform | Lernplattform | Text | Nein | Enthält den Namen einer Lernplattform |
 | 3 | Benutzername | Benutzername | Text | Nein | Der Benutzername, mit dem man sich an der Lernplattform anmeldet |
 | 4 | Initialkennwort | Initialkennwort | Text | Nein | Das Kennwort für die Erstanmeldung an der Lernplattform. Darf kein Pipe-Zeichen ("\|") entalten. |
@@ -359,14 +336,11 @@ MÜ\|SDS\|müller@sds.de\|hfz6\$+uu\
 ZO\|SDS\|zorbert@sds.de\|hfj65ufZ\
 :::
 
-------------------------------------------------------------------------
-
 <a id="LehrkraefteSonderzeiten.dat"></a>
 
 ## LehrkraefteSonderzeiten.dat
 
 Beschreibung: Diese Datei wird automatisch beim Export der "Lehrkräfte" erzeugt und enthält Sonderzeiten (Mehrleistung, Minderleistung, Anrechnung) mit Gründen für die einzelne Lehrkräfte. Die Datei kann nicht einzeln importiert werden, sondern nur im Zusammenhang mit der Lehrkraefte.dat.
-
 
 | Spalte | Beschreibung | Header-Text | Datentyp | Darf leer sein? | Bemerkung |
 | --- | --- | --- | --- | --- | --- |
@@ -381,8 +355,6 @@ MÜ1\|MEHRLEISTUNG\|100\|3\
 MÜ1\|ANRECHNUNG\|510\|2\
 MÜ2\|MINDERLEISTUNG\|260\|2
 :::
-
-------------------------------------------------------------------------
 
 <a id="SchuelerAbiFaecher.dat"></a>
 
@@ -429,7 +401,6 @@ MÜ2\|MINDERLEISTUNG\|260\|2
 | 37 | Sortierung | Sortierung |  |  |  |
 | 38 | P_FA | P_FA |  |  |  |
 | 39 | R_FA | R_FA |  |  |  |
-------------------------------------------------------------------------
 
 <a id="SchuelerAbitur.dat"></a>
 
@@ -483,8 +454,6 @@ Nachname\|Vorname\|Geburtsdatum\|Zugelassen\|Bestanden\|Gesamtnote\|Jahr\|Abschn
 Abenden\|Jennifer\|09.11.1988\|J\|J\|1,8\|2006\|2 Abendroth\|Marko\|04.05.1987\|J\|J\|2,4\|2006\|2
 :::
 
-------------------------------------------------------------------------
-
 <a id="SchuelerAdressen.dat"></a>
 
 ## SchuelerAdressen.dat
@@ -502,7 +471,7 @@ Beschreibung: Enthält weitere Adressen (zum Beispiel von Ausbildungsbetrieben) 
 | 7 | Straße | Straße | Text(50) | Ja |  |
 | 8 | PLZ | PLZ | Text(10) | (Ja) | Wird bei Berufskollegs benötigt |
 | 9 | Ort | Ort | Text(50) | (Ja) | Falls PLZ angegeben, darf Wohnort nicht leer sein |
-| 10 | 1\. Telefon-Nr | 1\. Tel.-Nr. | Text(20) | Ja | Falls nicht leer, wird dies beim Import als Kriterium benutzt, ob ein Betrieb schon in SchILD-NRW existiert. Dabei werden die ersten n Stellen der Telefonnr. verglichen (n frei wählbar). Ist die Telefon-Nr. leer, so wird anhand des Feldes Name1 und gegebenenfalls Name2 geprüft, ob eine Adresse schon existiert. |
+| 10 | 1\. Telefon-Nr | 1\. Tel.-Nr. | Text(20) | Ja | Falls nicht leer, wird dies beim Import als Kriterium benutzt, ob ein Betrieb schon in SchILD-NRW 2 existiert. Dabei werden die ersten n Stellen der Telefonnr. verglichen (n frei wählbar). Ist die Telefon-Nr. leer, so wird anhand des Feldes Name1 und gegebenenfalls Name2 geprüft, ob eine Adresse schon existiert. |
 | 11 | 2\. Telefon-Nr. | 2\. Tel.-Nr. | Text(20) | Ja |  |
 | 12 | E-Mail | E-Mail | Text(40) | Ja |  |
 | 13 | Betreuer Nachname | Betreuer Nachname | Text(30) | Ja | Betreuer des Schülers |
@@ -522,7 +491,7 @@ Optional kann die Datei auch noch die folgenden Daten enthalten.
 | 23 | Branche des Betriebes | Branche | Text(50) | Ja | Als Klartext |
 | 24 | Zusatz 1 | Zusatz 1 | Text(10) | Ja | Kurze Zusatzinformation |
 | 25 | Zusatz 2 | Zusatz 2 | Text(10) | Ja |  |
-| 26 | SchILD-Adress-ID | SchILD-Adress-ID | Text | Ja |  |
+| 26 | `SchILD-Adress-ID` | `SchILD-Adress-ID` | Text | Ja |  |
 | 27 | externe Adress-ID | externe Adress-ID | Text | Ja |  |
 :::warning
 Jede Zeile der Importdatei muss entweder 20 oder 27 "Spalten" enthalten.\
@@ -540,8 +509,6 @@ Abel\|Sandra\|19.01.1986\|Betrieb\|Elektro Blau\|\|Kirchsgasse 430\|32978\|Wever
 :::
 
 **[Download einer Beispiel SchuelerAdressen.dat](/dateien/wiki/schueleradressen-983c73da.dat)**
-
-------------------------------------------------------------------------
 
 <a id="SchuelerASV.dat"></a>
 
@@ -565,8 +532,6 @@ Müller\|Hans\|10.03.1971\|2013\|2\
 Hans ist stets bemüht!\
 \</V\>
 :::
-
-------------------------------------------------------------------------
 
 <a id="SchuelerBasisdaten.dat"></a>
 
@@ -594,8 +559,7 @@ SchuelerMerkmale.dat
 
 SchuelerAdressen.dat
 
-enthaltenen Schüler schon in SchILD-NRW existieren (anhand von Nachname, Vorname und Geburtsdatum), so wird diese Datei beim Import nicht zwingend benötigt. Existieren die Schüler dagegen noch nicht, so muss diese Datei vorhanden sein.
-
+enthaltenen Schüler schon in SchILD-NRW 2 existieren (anhand von Nachname, Vorname und Geburtsdatum), so wird diese Datei beim Import nicht zwingend benötigt. Existieren die Schüler dagegen noch nicht, so muss diese Datei vorhanden sein.
 
 | Spalte | Beschreibung | Header-Text | Datentyp | Darf leer sein? | Bemerkung |
 | --- | --- | --- | --- | --- | --- |
@@ -652,7 +616,6 @@ enthaltenen Schüler schon in SchILD-NRW existieren (anhand von Nachname, Vornam
 
 Optional kann die Datei auch noch die folgenden Daten enthalten.
 
-
 | 51 | Jahr des Zuzugs | Zuzugsjahr | Integer | (Ja) |  |
 | --- | --- | --- | --- | --- | --- |
 | 52 | Geburtsland Schüler | Geburtsland Schüler | Text(3) | (Ja) | Als Statistik-Kürzel (zum Beispiel 000 für Deutschland) aus Statkue.mdb, Tabelle "Nationalitäten |
@@ -694,8 +657,6 @@ In diesem Fall enthält die Importdatei den Eintrag "Barnes, Daniela" zweimal, a
 Wenn die Klassenbezeichnung als zusätzliches Identifizierungsmerkmal verwendet werden soll, so muss sie auch bei allen abhängigen Tabellen in der beschriebenen Form vorhanden sein.\
 :::
 
-------------------------------------------------------------------------
-
 <a id="SchuelerBisherigeSchulen.dat"></a>
 
 ## SchuelerBisherigeSchulen.dat
@@ -703,7 +664,6 @@ Wenn die Klassenbezeichnung als zusätzliches Identifizierungsmerkmal verw
 Beschreibung: Enthält weitere Schulen, die bisher besucht wurden
 
 (zusätzlich zu der in den Basisdaten enthaltenen letzten Schule).
-
 
 | Spalte | Beschreibung | Header-Text | Datentyp | Darf leer sein? | Bemerkung |
 | --- | --- | --- | --- | --- | --- |
@@ -722,13 +682,11 @@ Beschreibung: Enthält weitere Schulen, die bisher besucht wurden
 | 13 | Jahrgang von | Jahrgang von | Text(2) | Ja | Jahrgang, den der Schüler bei Eintritt in die Schule besucht hat |
 | 14 | Jahrgang bis | Jahrgang bis | Text(2) | Ja | Jahrgang, in dem der Schüler die Schule verlassen hat |
 
-------------------------------------------------------------------------
-
 <a id="SchuelerDatenschutz.dat"></a>
 
 ## SchuelerDatenschutz.dat
 
-Beschreibung: Diese Datei enthält Datenschutzinformationen zu Schülerinnen und Schülern. Bei einem Import der Schnittstellendaten müssen alle in der Datei vorkommenden Datenschutzbezeichnungen vorab in Schild-NRW unter Schulverwaltung - DSGVO-Einwilligungen definiert worden sein, ansonsten erfolgt kein Import.
+Beschreibung: Diese Datei enthält Datenschutzinformationen zu Schülerinnen und Schülern. Bei einem Import der Schnittstellendaten müssen alle in der Datei vorkommenden Datenschutzbezeichnungen vorab in SchILD-NRW 2 unter Schulverwaltung - DSGVO-Einwilligungen definiert worden sein, ansonsten erfolgt kein Import.
 
 | Spalte | Beschreibung | Header-Text | Datentyp | Darf leer sein? | Bemerkung |
 |----|----|----|----|----|----|
@@ -743,8 +701,6 @@ Nachname\|Vorname\|Geburtsdatum\|Bezeichnung\|Zustimmung\|Abgefragt\
 Müller\|Sascha\|31.12.2008\|Fotos auf der Homepage\|J\|J\
 Zornbach\|Andrea\|01.01.2009\|Fotos auf der Homepage\|N\|J\
 :::
-
-------------------------------------------------------------------------
 
 <a id="SchuelerErzieher.dat"></a>
 
@@ -787,8 +743,6 @@ Abel\|Jennifer\|09.11.1990\|Mutter\|Frau\|\|Abel\|Andrea\|\|\|\|\|Kresseweg 188\
 Abendroth\|Marko\|04.05.1987\|Eltern\|Frau\|Dr.\|Abendroth\|Almuth\|Herr\|\|Abendroth\|Anton\|Basilikumweg 105\|33145\|Warburg\|Westerstede\|m.abendroth@t-online.de\|J\|a.abendroth@t-online.de
 :::
 
-------------------------------------------------------------------------
-
 <a id="SchuelerFachBemerkungen.dat"></a>
 
 ## SchuelerFachBemerkungen.dat
@@ -812,8 +766,6 @@ Müller\|Hans\|10.03.1971\|2013\|2\|D\
 Alles super auf dem Zeugnis!\
 \</V\>
 :::
-
-------------------------------------------------------------------------
 
 <a id="SchuelerFehlstunden.dat"></a>
 
@@ -843,8 +795,6 @@ Nachname\|Vorname\|Geburtsdatum\|Klasse\|Jahr\|Abschnitt\|Datum\|Fach\|von_Std.\
 Ann\|Klaudia\|28.09.2001\|10a\|2016\|2\|16.12.2016\|AL\|1\|2\|2\|N\|AN
 
 :::
-
-------------------------------------------------------------------------
 
 <a id="SchuelerGSDaten.dat"></a>
 
@@ -880,14 +830,11 @@ Becker\|Jule Lene\|06.06.2004\|2\|2\|2\|2\|2\|2\|2\|2\|2\|2\|2\|2\|2\|Frau\|Herm
 Bludau\|Leo Emilio\|18.08.2004\|1\|2\|1\|2\|1\|2\|1\|2\|1\|2\|1,33\|1,5\|1,43\|Frau\|Herm\|\|-
 :::
 
-------------------------------------------------------------------------
-
 <a id="SchuelerLeistungsdaten.dat"></a>
 
 ## SchuelerLeistungsdaten.dat
 
 Beschreibung: Enthält die Leistungsdaten (Fächer und Noten) eines Lernabschnittes (=Halbjahr oder Quartal) der Schüler.
-
 
 | Spalte | Beschreibung | Header-Text | Datentyp | Darf leer sein? | Bemerkung |
 | --- | --- | --- | --- | --- | --- |
@@ -928,8 +875,6 @@ Herse\|Tobias\|08.04.1995\|2005\|2\|VKM\|QU\|VTF\|VKM-G1\|E3\|\|2\|\|\|\|\|\|0\|
 
 **[Download einer Beispiel SchuelerLeistungsdaten.dat](/dateien/wiki/schuelerleistungsdaten-9a84d62c.dat)**
 
-------------------------------------------------------------------------
-
 <a id="SchuelerLELS.dat"></a>
 
 ## SchuelerLELS.dat
@@ -952,8 +897,6 @@ Müller\|Hans\|10.03.1971\|2013\|2\
 Hans wurde zum Schulsanitäter ausgebildet!\
 \</V\>
 :::
-
-------------------------------------------------------------------------
 
 <a id="SchuelerLernabschnittsdaten.dat"></a>
 
@@ -1000,8 +943,6 @@ Alford\|Daniel\|03.12.1994\|2005\|2\|05\|05C\|\*\*\*\|1\|RK\|\|\|\|N\|J\|N\|Mül
 
 **[Download einer Beispiel SchuelerLernabschnittsdaten.dat](/dateien/wiki/schuelerlernabschnittsdaten-f34f777a.dat)**
 
-------------------------------------------------------------------------
-
 <a id="SchuelerLernplattformen.dat"></a>
 
 ## SchuelerLernplattformen.dat
@@ -1013,7 +954,7 @@ Beschreibung: Diese Datei enthält Benutzernamen und Initialkennwörter zu Lernp
 | 1 | Nachname des Schülers | Nachname | Text | Nein | Nachname der Schülerin oder des Schülers |
 | 2 | Vorname des Schülers | Vorname | Text | Nein | Vorname der Schülerin oder des Schülers |
 | 3 | Geburtsdatum des Schülers | Geburtsdatum | Datum | Nein | Als TT.MM.JJJJ |
-| 4 | ID Schüler | ID | Ganzzahl | Nein | Die Schild-ID des Schülers |
+| 4 | ID Schüler | ID | Ganzzahl | Nein | Die `SchILD-ID` des Schülers |
 | 5 | Lernplattform | Lernplattform | Text | Nein | Enthält den Namen einer Lernplattform |
 | 6 | Benutzername | Benutzername | Text | Nein | Der Benutzername, mit dem man sich an der Lernplattform anmeldet |
 | 7 | Initialkennwort | Initialkennwort | Text | Nein | Das Kennwort für die Erstanmeldung an der Lernplattform. Darf kein Pipe-Zeichen ("\|") entalten. |
@@ -1022,8 +963,6 @@ Nachname\|Vorname\|Geburtsdatum\|ID\|Lernplattform\|Benutzername\|Initialkennwor
 Müller\|Sascha\|31.12.2008\|5\|SDS\|müller@sds.de\|hfz6\$+uu\
 Zornbach\|Andrea\|01.01.2009\|5\|SDS\|zornbach@sds.de\|hfj65ufZ\
 :::
-
-------------------------------------------------------------------------
 
 <a id="SchuelerMerkmale.dat"></a>
 
@@ -1042,8 +981,6 @@ Nachname\|Vorname\|Geburtsdatum\|Merkmal\
 Kortmann\|Marina\|26.04.1996\|13+\
 Krannowski\|Mariana\|21.07.1996\|GANZTAG
 :::
-
-------------------------------------------------------------------------
 
 <a id="SchuelerSprachenfolgen.dat"></a>
 
@@ -1075,8 +1012,6 @@ Abendroth\|Marko\|04.05.1987\|E\|1\|05\|1\|\|\|A2/B2\
 Abendroth\|Marko\|04.05.1987\|F7\|2\|07\|1\|\|\|B2
 :::
 
-------------------------------------------------------------------------
-
 <a id="SchuelerTeilleistungen.dat"></a>
 
 ## SchuelerTeilleistungen.dat
@@ -1101,8 +1036,6 @@ Nachname\|Vorname\|Geburtsdatum\|Jahr\|Abschnitt\|Fach\|Datum\|Teilleistung\|Not
 Schmidt\|Sarah\|01.04.2003\|2020\|1\|E\|20.10.2020\|1. Klausur\|3-\|\|WA
 :::
 
-------------------------------------------------------------------------
-
 <a id="SchuelerTelefonnummern.dat"></a>
 
 ## SchuelerTelefonnummern.dat
@@ -1122,8 +1055,6 @@ Abel\|Jennifer\|09.11.1990\|01234-775303\|Eltern\
 Achterberg\|David\|01.04.1992\|01234-182861\|Eltern\
 Addens\|Sophie\|05.12.1991\|01234-561482\|Eltern
 :::
-
-------------------------------------------------------------------------
 
 <a id="SchuelerVermerke.dat"></a>
 
@@ -1150,8 +1081,6 @@ Marina ist mehrfach dem Unterricht ferngeblieben\
 \</V\>
 :::
 
-------------------------------------------------------------------------
-
 <a id="SchuelerZeugnisBemerkungen.dat"></a>
 
 ## SchuelerZeugnisBemerkungen.dat
@@ -1174,8 +1103,6 @@ Müller\|Hans\|10.03.1971\|2013\|2\
 Alles super auf dem Zeugnis!\
 \</V\>
 :::
-
-------------------------------------------------------------------------
 
 <a id="SchuelerZusatzdaten.dat"></a>
 
@@ -1220,8 +1147,6 @@ Nachname\|Vorname\|Geburtsdatum\|Namenszusatz\|Geburtsname\|Geburtsort\|Ortsteil
 Fatirmay\|Jasemin\|26.01.1995\|\|\|Gütersloh\|Roisdorf\|01234-803324\|JFatirmay@w123.de\|163\|\|temporär - Ausdaueranforderung\|Schulbus\|Ottostraße\|\|\|\|\|
 :::
 
-------------------------------------------------------------------------
-
 <a id="SchuleMerkmale.dat"></a>
 
 ## SchuleMerkmale.dat
@@ -1238,14 +1163,11 @@ OFFGANZ\
 VERBUND
 :::
 
-------------------------------------------------------------------------
-
 <a id="Anhang"></a>
 
 ## Anhang
 
 Allgemeine Kursarten: Die in Kurse.dat vorkommenden Einträge für die "allgemeine Kursart" entsprechen in den meisten Fällen den "individuellen Kursarten" (aus Statkue.mdb, Tabelle "ZulKuArt"). Z.B.:
-
 
 **Allgemeine Kursarten**
 
@@ -1257,7 +1179,6 @@ Allgemeine Kursarten: Die in Kurse.dat vorkommenden Einträge für die "allgemei
 
 In folgenden Fällen müssen aber andere Einträge verwendet werden:
 
-
 **Allgemeine Kursarten**
 
 | schülerspezifische<br>Kursart | zugehörige allgemeine<br>Kursart |
@@ -1268,9 +1189,5 @@ In folgenden Fällen müssen aber andere Einträge verwendet werden:
 | AB4 | GK |
 | GKM | GK |
 | GKS | GK |
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Schnittstellenbeschreibung – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schnittstellenbeschreibung&oldid=6062)

@@ -20,8 +20,4 @@ Nach Aufruf dieses Menüpunktes erscheint eine Eingabeansicht der vorhandenen Fi
 
 Eine nachträgliche Änderung eines Filters ist nur eingeschränkt unter Filter II möglich.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Vorhandene Filterdefinition laden – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Vorhandene+Filterdefinition+laden&oldid=970)

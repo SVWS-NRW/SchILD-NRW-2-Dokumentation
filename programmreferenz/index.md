@@ -1,6 +1,6 @@
 # Programmreferenz
 
-Die Programmreferenz folgt den Menüs und Bereichen der SchILD-NRW-2-Oberfläche. Wählen Sie den Programmbereich, zu dessen Funktion Sie eine Anleitung suchen.
+Die Programmreferenz folgt den Menüs und Bereichen der SchILD-NRW 2-Oberfläche. Wählen Sie den Programmbereich, zu dessen Funktion Sie eine Anleitung suchen.
 
 ## Themen
 
@@ -15,3 +15,7 @@ Die Programmreferenz folgt den Menüs und Bereichen der SchILD-NRW-2-Oberfläche
 - [Datenschutzhinweis](/administration/benutzer-einstellungen/datenschutzhinweis?referenz=menue-88)
 - [Hilfe](/hilfe/probleme/hilfe?referenz=menue-89)
 - [Hauptfenster](/einstieg/grundlagen/hauptfenster?referenz=menue-2)
+
+<a id="inhaltsverzeichnis"></a>
+
+Quelle der übernommenen Übersicht: [Inhaltsverzeichnis – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Inhaltsverzeichnis&oldid=5938)

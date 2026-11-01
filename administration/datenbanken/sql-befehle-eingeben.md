@@ -16,9 +16,4 @@ Benutzen Sie diesen Menüpunkt nur, wenn Sie im Umgang mit SQL-Befehlen versiert
 
 Bitte haben Sie Verständnis, dass der Support keine Gewährleitsung auf Daten geben kann, die mit direkten Befehlen manipuliert worden sind.
 
-------------------------------------------------------------------------
-
-
----
-
 Quelle: [SQL-Befehle eingeben – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SQL-Befehle+eingeben&oldid=1544)

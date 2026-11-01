@@ -24,4 +24,4 @@ Beziehen Sie schulische Sperrtermine und Veranstaltungen in die Terminplanung ei
 
 Für weitere Klausurtermine wird die Planung entsprechend fortgeführt. Kontrollieren Sie vor dem Ausdruck, dass Kursbelegungen, Schriftlichkeit und Termine den aktuellen Stand haben. Die im Handbuch beschriebenen Ausdrucke und die Kursmatrix helfen bei der abschließenden Übersicht.
 
-Quelle: [Handbuch SchILD–LuPO–Kurs42, 22. Auflage, Mai 2022](https://www.svws.nrw.de/system/files/media/document/file/handbuch-schild-lupo-kurs42-22.auflage.pdf), Kapitel 8, Seiten 89–103.
+Quelle: [Handbuch SchILD-NRW 2–LuPO–Kurs42, 22. Auflage, Mai 2022](https://www.svws.nrw.de/system/files/media/document/file/handbuch-schild-lupo-kurs42-22.auflage.pdf), Kapitel 8, Seiten 89–103.

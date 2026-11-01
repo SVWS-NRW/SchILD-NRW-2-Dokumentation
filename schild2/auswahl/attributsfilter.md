@@ -16,7 +16,7 @@ Folgende Optionen stehen zur Verfügung:
 
 **Status**
 
-Hier legen Sie durch die Aktivierung der entsprechenden Karteikästen fest, über welche Schülergruppe ein Filter gelegt werden soll.
+Hier legen Sie durch die Aktivierung der entsprechenden Statusfilter fest, über welche Schülergruppe ein Filter gelegt werden soll.
 
 Als Standardvorgabe ist "Aktiv" eingestellt.
 
@@ -67,9 +67,5 @@ Der Filter kann verworfen werden. Das Fenster Attributs-Filter definieren schlie
 ![Attributsfilter02](/bilder/schild2/auswahl/attributsfilter02.jpg)
 
 Besonderheit: Wenn Schüler mit einer Löschmarkierung endgültig aus der Datenbank gelöscht werden sollen, so benötigen Sie diesen Filter, um diese zu löschenden Schüler sichtbar zu machen. Dazu setzt man nach Aufruf des Filters das Attribut 'gelöscht' auf 'Ja' und führt die Filterung durch. Anschließend ruft man in einem [Gruppenprozess](/schild2/gruppenprozesse/gruppenprozesse) die Option 'Schülerdatensätze löschen' auf.
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Attributsfilter – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Attributsfilter&oldid=1185)

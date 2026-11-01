@@ -20,8 +20,4 @@ Mit der Option "ausgewählte Fächer beim Schüler löschen" können Sie mehrere
 
 Die gewählten Fächer werden je nach Einstellung mit einem Mausklick auf "Übernehmen" bei den Schülern im aktuellen Halbjahr eingetragen oder entfernt.
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Stundentafeln zuweisen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Stundentafeln+zuweisen&oldid=3612)

@@ -36,6 +36,4 @@ RichText1.RichText:=EditRichTextEx('','Zeugnisbemerkung');
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [EditRichTextEx – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=EditRichTextEx&oldid=37)

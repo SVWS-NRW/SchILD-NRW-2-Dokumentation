@@ -12,7 +12,7 @@ Fachbezogene Bemerkungen beziehen sich auf ein einzelnes Unterrichtsfach. Diese 
 
 Fachbezogene Bemerkungen können freie Texteinträge zu beliebigen Unterrichtsfächern bei jedem einzelnen Schüler enthalten. Diese werden zum Beispiel dazu genutzt, um die Themenbezeichnungen für Fach- oder Abschlussarbeiten bei den Schülern speichern zu können. Dazu können diese Bemerkungen einzeln oder auch als Gruppenprozess bei mehreren Schülern gleichzeitig eingetragen werden.
 
-**Fachbezogene Bemerkungen in SchILD-NRW aktivieren:**
+**Fachbezogene Bemerkungen in SchILD-NRW 2 aktivieren:**
 
 ![FachbezogeneBem-00](/bilder/zeugnisse/vorbereitung/fachbezogenebem-00.png)
 
@@ -24,7 +24,7 @@ Danach steht Ihnen unter dem Karteireiter Akt. Halbjahr (beziehungsweise Akt. Qu
 
 ![FachbezogeneBem-02](/bilder/zeugnisse/vorbereitung/fachbezogenebem-02.png)
 
-Ein Doppelklick auf das Memofeld öffnet den aus Schild-NRW bekannten Texteditor und lässt nun eine freie Texteingabe zu. Es können zu allen Fächern Bemerkungen gemacht werden. Diese können auch von den Kollegen im Externen Notenmodul gemacht werden!
+Ein Doppelklick auf das Memofeld öffnet den aus SchILD-NRW 2 bekannten Texteditor und lässt nun eine freie Texteingabe zu. Es können zu allen Fächern Bemerkungen gemacht werden. Diese können auch von den Kollegen im Externen Notenmodul gemacht werden!
 
 **Fachbezogene Bemerkungen als Gruppenprozess setzen:**
 
@@ -33,9 +33,5 @@ Ein Doppelklick auf das Memofeld öffnet den aus Schild-NRW bekannten Texteditor
 ![FachbezogeneBem-03](/bilder/zeugnisse/vorbereitung/fachbezogenebem-03.png)
 
 ![FachbezogeneBem-04](/bilder/zeugnisse/vorbereitung/fachbezogenebem-04.png)
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Fachbezogene Bemerkungen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Fachbezogene+Bemerkungen&oldid=3238)

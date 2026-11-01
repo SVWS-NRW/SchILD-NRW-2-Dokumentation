@@ -12,15 +12,15 @@ Eine Datenquelle stellt einem Report die benötigten Daten bereit. Diese technis
 
 ## Einleitung
 
-Zur Nutzung von eigenen Datenquellen in der Reportverwaltung von Schild-NRW wurde ein Verfahren eingeführt, das es dem Nutzer ermöglicht, spezielle, für einen Report benötigte Datenquellen dynamisch zu erstellen und diese dann auch an andere Schild-Installationen weiterzugeben, ohne dass die Datenquellen im Report immer wieder neu angelegt werden müssen.
+Zur Nutzung von eigenen Datenquellen in der Reportverwaltung von SchILD-NRW 2 wurde ein Verfahren eingeführt, das es dem Nutzer ermöglicht, spezielle, für einen Report benötigte Datenquellen dynamisch zu erstellen und diese dann auch an andere SchILD-NRW 2-Installationen weiterzugeben, ohne dass die Datenquellen im Report immer wieder neu angelegt werden müssen.
 
-Außerdem besteht mit dieser Lösung eine Möglichkeit, auch für Schild-Zentral eigene Datenquellen zu nutzen. Die jeweiligen Datenquellen-Dateien müssen dann nur nach einer Sicherheitsüberprüfung von den jeweiligen IT-Administratoren in die Schild-Umgebung kopiert werden.
+Außerdem besteht mit dieser Lösung eine Möglichkeit, auch für Schild-Zentral eigene Datenquellen zu nutzen. Die jeweiligen Datenquellen-Dateien müssen dann nur nach einer Sicherheitsüberprüfung von den jeweiligen IT-Administratoren in die SchILD-NRW 2-Umgebung kopiert werden.
 
 <a id="Einrichtung"></a>
 
 ## Einrichtung
 
-Erstellen Sie zunächst ein Verzeichnis **Schild-Pipelines** in Ihrem Schild-NRW-Installationsordner.
+Erstellen Sie zunächst ein Verzeichnis **SchILD-NRW 2-Pipelines** in Ihrem SchILD-NRW 2-Installationsordner.
 
 ![SPD-01](/bilder/reporting/erstellung/spd-01.png)
 
@@ -72,15 +72,11 @@ Die Zeilen geführt von einem Semikolon werden als Kommentarzeilen interpretiert
 :::danger
 Die Datenquellendateien (SPD) und die zugehörigen Formulare können dann gemeinsam verteilt werden.
 
-Bitte beachten Sie, dass bei der Verteilung der SPD-Dateien ein Schreibzugriff auf das Schild-NRW-Installationsverzeichnis benötigt wird.
+Bitte beachten Sie, dass bei der Verteilung der SPD-Dateien ein Schreibzugriff auf das SchILD-NRW 2-Installationsverzeichnis benötigt wird.
 :::
 
 :::example
 In der beiliegenden ZIP-Datei sind zwei Beispiele für solche dynamisch erstellte Datenquellen enthalten: **[Medium:SPD_Dateien.zip](/dateien/wiki/spd-dateien-176ffe85.zip "SPD Dateien.zip")**
 :::
 
-------------------------------------------------------------------------
-
----
-
-Quelle: [Eigene Datenquellen für Schild-Reports – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Eigene+Datenquellen+f%C3%BCr+Schild-Reports&oldid=3527)
+Quelle: [Eigene Datenquellen für SchILD-NRW 2-Reports – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Eigene+Datenquellen+f%C3%BCr+Schild-Reports&oldid=3527)

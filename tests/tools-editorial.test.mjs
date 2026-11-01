@@ -8,8 +8,8 @@ const read = file => JSON.parse(fs.readFileSync(file,'utf8'))
 test('Tool-Menüs sind kurz, eindeutig und folgen dem Handbuchablauf',()=>{
   const groups=read('.vitepress/navigation.json').sidebar['/tools/'][0].items
   const lupo={items:groups.find(g=>g.link==='/tools/lupo').items.filter(g=>!g.link?.startsWith('/druck/'))}
-  assert.deepEqual(lupo.items.slice(0,8).map(g=>g.text),['Einleitung','Installation','Vorbereitungen in SchILD','Erste Schritte','Beratungsprozess','Fachwahlen auswerten','Fachwahlen an Kurs42 übergeben','Weitere Laufbahnprüfungen'])
-  assert.equal(lupo.items[3].items[0].text,'Schülerdateien erzeugen')
+  assert.deepEqual(lupo.items.slice(0,9).map(g=>g.text),['Einleitung','Installation','Vorbereitungen in SchILD-NRW 2','Erste Schritte','Schülerdateien erzeugen','Beratungsprozess','Fachwahlen auswerten','Fachwahlen an Kurs42 übergeben','Weitere Laufbahnprüfungen'])
+  assert.equal(lupo.items[4].text,'Schülerdateien erzeugen')
   assert.equal(groups.filter(g=>g.link==='/tools/anleitungen').length,1)
   for (const tool of groups.filter(g=>g.items)) {
     const group={items:tool.items.filter(g=>!g.link?.startsWith('/druck/'))}

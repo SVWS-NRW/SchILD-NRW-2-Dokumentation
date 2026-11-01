@@ -4,7 +4,7 @@ title: "Teilleistungen"
 
 # Teilleistungen
 
-Teilleistungen können immer dann sinnvoll sein, wenn zu einer Note noch Unterkategorien gehören, die in Schild-NRW mit archiviert werden sollen. (Z.B. Klassenarbeiten, Somitnoten oder Teilleistungen bei Bündelfächern). Unter dem Reiter Teilleistungen befinden sich die Prozesse zu deren Verarbeitung.
+Teilleistungen können immer dann sinnvoll sein, wenn zu einer Note noch Unterkategorien gehören, die in SchILD-NRW 2 mit archiviert werden sollen. (Z.B. Klassenarbeiten, Somitnoten oder Teilleistungen bei Bündelfächern). Unter dem Reiter Teilleistungen befinden sich die Prozesse zu deren Verarbeitung.
 
 ![GP-Teilleistungen](/bilder/schild2/gruppenprozesse/gp-teilleistungen.jpg)
 
@@ -31,8 +31,6 @@ Dieser Prozess gleicht dem vorherigen Prozess, kann aber verwendet werden, wenn 
 
 Sollten Teilleistungen nicht mehr benötigt werden oder deren Löschungsfrist überschritten sein, können mit diesem Gruppenprozess alle Teilleistungen eines Abschnitts gelöscht werden.
 
-------------------------------------------------------------------------
-
 <a id="Noteneingabe_(nur_vorbereitete_TL)"></a>
 <a id="Noteneingabe_.28nur_vorbereitete_TL.29"></a>
 
@@ -56,9 +54,5 @@ Dieser Prozess steht allen Kollegen mit der Berechtigung Leistungsdaten (funktio
 ![NE-Teilleitsung-nv](/bilder/schild2/gruppenprozesse/ne-teilleitsung-nv.jpg)
 
 Bei diesem Prozess wählt der eingebende Kollege die Klasse oder den Kurs, die Teilleistungsart und die weiteren Angaben. Diese Teilleistungen werden dann bei den Schülern angelegt und die Note / Bemerkung kann eingegeben werden.
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Teilleistungen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Teilleistungen&oldid=3622)

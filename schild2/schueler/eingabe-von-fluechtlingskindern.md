@@ -15,7 +15,7 @@ In diesem Artikel wird beschrieben, wie Flüchtlingskinder in der Datenbank korr
 
 Es ist möglich, neu zugewanderte Schülerinnen und Schüler ausschließlich in eigenständigen Klassen in vollständig äußerer Differenzierung zu unterrichten. Die zugewanderten Schülerinnen und Schüler nehmen dann an keinem Unterricht der anderen Regelklassen teil, sondern bilden eine eigene Lerngruppe. Über die Bezeichnung dieser Lerngruppen entscheidet die Schule (zum Beispiel Vorbereitungsklasse, Willkommensklasse, Internationale Klasse).
 
-Im diesem Fall legen Sie in SchILD-NRW in der [Klassen und Versetzungstabelle](/schild2/unterricht-kataloge/klassen-versetzungstabelle) eine eigene Klasse an. Vergeben Sie eine geeignete interne Bezeichnung (zum Beispiel IK für internationale Klasse) und bennen Sie die Klasse in der Statistikbezeichnung mit einer Parallelität. "JUA" steht im Beispiel für jahrgangsübergreifende Klasse der Parallelität A. Wenn Sie eine weitere internationale Klasse anlegen möchten, erhält diese in der Statistikbezeichnung das Kürzel JUB. Lassen Sie das Feld Jahrgang leer. Tragen Sie als Folgeklasse und Vorgängerklasse die eigene Klasse ein (Tipp: dies ist nur möglich, wenn Sie die Klasse vorab mit der Häkchen-Taste angelegt haben). Wählen Sie eine passende Schulgliederung (GY9-G9, \*\*\*-Standard für diese Schulform etc). Wählen Sie die Klassenart "Deutschförderklasse (gemäß BASS 13-63 Nr. 3, Nummer 3.5.1)".
+Im diesem Fall legen Sie in SchILD-NRW 2 in der [Klassen und Versetzungstabelle](/schild2/unterricht-kataloge/klassen-versetzungstabelle) eine eigene Klasse an. Vergeben Sie eine geeignete interne Bezeichnung (zum Beispiel IK für internationale Klasse) und bennen Sie die Klasse in der Statistikbezeichnung mit einer Parallelität. "JUA" steht im Beispiel für jahrgangsübergreifende Klasse der Parallelität A. Wenn Sie eine weitere internationale Klasse anlegen möchten, erhält diese in der Statistikbezeichnung das Kürzel JUB. Lassen Sie das Feld Jahrgang leer. Tragen Sie als Folgeklasse und Vorgängerklasse die eigene Klasse ein (Tipp: dies ist nur möglich, wenn Sie die Klasse vorab mit der Häkchen-Taste angelegt haben). Wählen Sie eine passende Schulgliederung (GY9-G9, \*\*\*-Standard für diese Schulform etc). Wählen Sie die Klassenart "Deutschförderklasse (gemäß BASS 13-63 Nr. 3, Nummer 3.5.1)".
 
 ![IK-Versetzungstabelle](/bilder/schild2/schueler/ik-versetzungstabelle.png)
 
@@ -77,9 +77,5 @@ Sollten Sie eine komplette Klasse mit Flüchtlingen gebildet haben, so wird auf 
 Sollten die Flüchtlingskinder auf Regelklassen verteilt sein und einzelne Deutschförderangebote erhalten, so bekommen die Schüler die Klassenart "Regelklasse", so wie alle anderen Schüler auch. Diese Schüler können dann über das Datum "Ende Eingliederungsphase" (Individual-Daten II) im Filter I gesucht werden, wenn Sie dieses Datum setzen.
 
 ![IK-AktHalbjahr](/bilder/schild2/schueler/ik-akthalbjahr.jpg)
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Eingabe von Flüchtlingskindern – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Eingabe+von+Fl%C3%BCchtlingskindern&oldid=5693)

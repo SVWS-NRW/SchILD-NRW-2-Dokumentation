@@ -12,8 +12,4 @@ Einträge zur Wiedervorlage können auch gruppenweise vorgenommen werden. Nach d
 
 ![Wiegervorlage-GP](/bilder/schild2/schueler/wiegervorlage-gp.jpg)
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Eintrag in Wiedervorlage machen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Eintrag+in+Wiedervorlage+machen&oldid=2005)

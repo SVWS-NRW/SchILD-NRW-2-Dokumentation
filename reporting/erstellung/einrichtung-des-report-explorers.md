@@ -14,9 +14,9 @@ Der Report-Explorer verwaltet die Dateien Ihrer Druckvorlagen. Diese Anleitung e
 
 ![Reportverzeichnisse](/bilder/administration/benutzer-einstellungen/reportverzeichnisse.jpg)
 
-Die Reports liegen nicht mehr in einer Report-Datenbank, sondern befinden sich nun als Einzeldateien in einem Ordner der Schild-Installation. Dieser Ordner hat den Namen Schild-Reports. Der genaue verwendete Speicherort kann unter [Menü Extras](/administration/benutzer-einstellungen/extras) \> [Programmeinstellungen](/administration/benutzer-einstellungen/programm-einstellungen) \> Report-Verzeichnisse festgelegt werden.
+Die Reports liegen nicht mehr in einer Report-Datenbank, sondern befinden sich nun als Einzeldateien in einem Ordner der SchILD-NRW 2-Installation. Dieser Ordner hat den Namen SchILD-NRW 2-Reports. Der genaue verwendete Speicherort kann unter [Menü Extras](/administration/benutzer-einstellungen/extras) \> [Programmeinstellungen](/administration/benutzer-einstellungen/programm-einstellungen) \> Report-Verzeichnisse festgelegt werden.
 
-Achten Sie darauf, dass diese Ordner auch in Ihrer Schildinstallation direkt im Ordner Schild-Reports angelegt sind, denn diese Ordner übernehmen spezielle Funktionen und müssen daher mit exakt diesem Namen existieren.
+Achten Sie darauf, dass diese Ordner auch in Ihrer Schildinstallation direkt im Ordner SchILD-NRW 2-Reports angelegt sind, denn diese Ordner übernehmen spezielle Funktionen und müssen daher mit exakt diesem Namen existieren.
 
 Wenn Sie eine Serverinstallation haben, stehen hier die Pfade des Netzlaufwerks oder die UNC-Pfadangaben des Servers.
 
@@ -29,11 +29,11 @@ Mit dem Haken "Standard-Verzeichnisstruktur verwenden" können Sie die eingetrag
 ![Reportordner](/bilder/reporting/erstellung/reportordner.jpg)
 
 1.  **Header_Footer**, dieser Ordner enthält alle Köpfe und Füße, die Sie in der neuen Reporting verwenden möchten. Auch diese liegen als Subreportdateien einzeln auf der Festplatte und können dort genauso wie „normale“ Reports bearbeitet werden. Viele Formulare durchsuchen genau diesen Ordner nach bestimmten Köpfen oder Füßen. Sie können sich eine Beispielsammlung von Köpfen und Füßen auf der Seite <http://www.svws.nrw.de> herunterladen.
-2.  **Standard**, dieser Ordner wird für den schnelleren Druckzugang verwendet. Der Zugriff kann über Schild-NRW neben dem Druckersymbol über "Standardformulare drucken" erreicht werden. Bei diesem Ordner haben Sie auch in der Benutzerverwaltung die Möglichkeit, einigen Benutzern nur den Zugriff auf den Ordner Standard zu gewähren. Alle Formulare außerhalb können dann von diesen Benutzern nicht erreicht werden.
+2.  **Standard**, dieser Ordner wird für den schnelleren Druckzugang verwendet. Der Zugriff kann über SchILD-NRW 2 neben dem Druckersymbol über "Standardformulare drucken" erreicht werden. Bei diesem Ordner haben Sie auch in der Benutzerverwaltung die Möglichkeit, einigen Benutzern nur den Zugriff auf den Ordner Standard zu gewähren. Alle Formulare außerhalb können dann von diesen Benutzern nicht erreicht werden.
 3.  **Subreports**, dieser Ordner enthält bestimmte Subreports, die von verschiedenen Formularen genutzt werden können. Die Formulare sehen dann vor dem Druck in diesem Ordner nach und laden die Subreports zur Laufzeit.
-4.  **Standardtexte**, hier liegen die RTF-Dateien (wordähnliches Format), die auf den Zeugnissen die Hinweistexte darstellen. Diese Standardtexte können auch von der Schild-Homepage im Zeugnisbereich heruntergeladen und dort hineinkopiert werden.
+4.  **Standardtexte**, hier liegen die RTF-Dateien (wordähnliches Format), die auf den Zeugnissen die Hinweistexte darstellen. Diese Standardtexte können auch von der SchILD-NRW 2-Homepage im Zeugnisbereich heruntergeladen und dort hineinkopiert werden.
 
-Daneben können Sie noch so viele Ordner anlegen wie Sie möchten. Diese müssen sich nur innerhalb des Schild-Reports-Ordners befinden!
+Daneben können Sie noch so viele Ordner anlegen wie Sie möchten. Diese müssen sich nur innerhalb des SchILD-NRW 2-Reports-Ordners befinden!
 
 <a id="Ablegen_der_Reportdateien"></a>
 
@@ -41,7 +41,7 @@ Daneben können Sie noch so viele Ordner anlegen wie Sie möchten. Diese müssen
 
 ![Reports](/bilder/reporting/erstellung/reports.jpg)
 
-Innerhalb des Schild-Reports-Ordners werden die einzelnen Formulardateien mit der Endung \*.rtm abgelegt. Dateien mit dieser Endung werden automatisch von der Reportverwaltung als Formulare erkannt und stehen beim nächsten Neustart zur Verfügung. Wahlweise können Sie auch das Aktualisieren-Symbol ![Aktualisieren](/bilder/reporting/erstellung/aktualisieren.jpg) im Reportexplorer drücken.
+Innerhalb des SchILD-NRW 2-Reports-Ordners werden die einzelnen Formulardateien mit der Endung \*.rtm abgelegt. Dateien mit dieser Endung werden automatisch von der Reportverwaltung als Formulare erkannt und stehen beim nächsten Neustart zur Verfügung. Wahlweise können Sie auch das Aktualisieren-Symbol ![Aktualisieren](/bilder/reporting/erstellung/aktualisieren.jpg) im Reportexplorer drücken.
 
 Im Dateifenster des Reportexplorers werden dann folgende Dateitypen angezeigt:
 
@@ -49,7 +49,7 @@ Im Dateifenster des Reportexplorers werden dann folgende Dateitypen angezeigt:
 2.  PDF: PDF-Dokumente (Bei einem Doppelklick öffnet sich der PDF-Reader.)
 3.  RTF: Richtextdateien (Bei einem Doppelklick öffnet sich das Word-Pad.)
 
-Wenn Sie Formulardateien heruntergeladen haben oder diese per E-Mail bekommen haben, müssen Sie diese Dateien in den jeweiligen Ordner der Schild-Reports-Umgebung speichern.
+Wenn Sie Formulardateien heruntergeladen haben oder diese per E-Mail bekommen haben, müssen Sie diese Dateien in den jeweiligen Ordner der SchILD-NRW 2-Reports-Umgebung speichern.
 
 <a id="Formulardownload"></a>
 
@@ -57,7 +57,7 @@ Wenn Sie Formulardateien heruntergeladen haben oder diese per E-Mail bekommen ha
 
 Auf der Internetseite der Schulverwaltungsprogramme <http://www.svws.nrw.de> können Sie sich zusätzliche Formulare, Zeugnisse und Köpfe und Füße herunterladen (Downloads -\> Drucken).
 
-Es steht auch ein Formularpaket mit über 100 Reports zur Verfügung [(Basic-Reportsammlung)](https://www.svws.nrw.de/index.php?id=schildformulare). Diese Reportsammlung enthält Reports, die für den alltäglichen Gebrauch in Schild-NRW bestimmt sind.
+Es steht auch ein Formularpaket mit über 100 Reports zur Verfügung [(Basic-Reportsammlung)](https://www.svws.nrw.de/index.php?id=schildformulare). Diese Reportsammlung enthält Reports, die für den alltäglichen Gebrauch in SchILD-NRW 2 bestimmt sind.
 
 Achten Sie bitte darauf, dass die Reports-Ordnerstruktur mit den 4 festgelegten Ordnern erhalten bleiben muss. (Header_Footer, Standard, Standardtexte und Subreports)
 
@@ -82,9 +82,5 @@ Folgende Aspekte können bei der Überarbeitung der Ordnerstruktur helfen:
 **Archiv**; hier liegt die alte Ordnerstruktur. dieser Ordner enthält bestimmte Subreports, die von verschiedenen Formularen genutzt werden können. Die Formulare sehen dann vor dem Druck in diesem Ordner nach und laden die Subreports zur Laufzeit.
 
 **Nirvana**; bevor Reports gelöscht werden, liegen sie ein Jahr im Nirvana (und nur dort). Wenn sie im Alltag nicht vermisst wurden, können sie gerne gelöscht werden. *Bitte nie Zeugnisformulare löschen! Diese gehören ins Archiv.*
-
-------------------------------------------------------------------------
-
----
 
 Quelle: [Einrichtung des Report-Explorers – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Einrichtung+des+Report-Explorers&oldid=4135)

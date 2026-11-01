@@ -46,6 +46,4 @@ Laut Wiki-Quelle wirkt die Filterung in manchen Fällen erst im Druckbetrieb und
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [Setzefilter – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Setzefilter&oldid=2115)

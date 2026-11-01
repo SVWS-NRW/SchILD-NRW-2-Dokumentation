@@ -41,6 +41,4 @@ Alle Vermerke der gewählten Art, durch den Delimiter voneinander getrennt.
 
 **Zurück zu [RAP-Funktionen](/reporting/rap)**
 
----
-
 Quelle: [LoadVermerkeEx – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LoadVermerkeEx&oldid=68)

@@ -35,8 +35,4 @@ Bitte klicken Sie die Artikel an, um Informationen zu den dahinter liegenden Sam
 - [Dokumentenverzeichnisse aktualisieren](/administration/benutzer-einstellungen/dokumentenverzeichnisse-aktualisieren)
 - [Dokumentenverwaltung aufräumen](/administration/benutzer-einstellungen/dokumentenverwaltung-aufraeumen)
 
-------------------------------------------------------------------------
-
----
-
 Quelle: [Allgemeines – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Allgemeines&oldid=3774)
