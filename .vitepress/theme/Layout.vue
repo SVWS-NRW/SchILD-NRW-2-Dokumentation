@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed, onMounted, provide, ref } from 'vue'
+import { computed, onMounted, onUnmounted, provide, ref } from 'vue'
 import DefaultTheme from 'vitepress/theme'
 import { useData } from 'vitepress'
 import { dataSymbol } from 'vitepress/dist/client/app/data.js'
@@ -11,6 +11,7 @@ import { articleIndexLink } from '../article-index.mjs'
 import VPHome from 'vitepress/dist/client/theme-default/components/VPHome.vue'
 import ReferenceSidebar from './ReferenceSidebar.vue'
 import ArticlePrintIcon from './ArticlePrintIcon.vue'
+import { installSidebarSelection } from './sidebar-selection.mjs'
 import VPSidebarGroup from 'vitepress/dist/client/theme-default/components/VPSidebarGroup.vue'
 import navigation from '../navigation.json'
 import reference from '../program-reference.json'
@@ -22,7 +23,12 @@ const { page, theme, frontmatter } = data
 // Static HTML cannot know the query parameter. Switch after hydration on
 // direct article visits so the server and client initially render alike.
 const mounted = ref(false)
-onMounted(() => { mounted.value = true })
+let disposeSidebarSelection: (() => void) | undefined
+onMounted(() => {
+  mounted.value = true
+  disposeSidebarSelection = installSidebarSelection()
+})
+onUnmounted(() => disposeSidebarSelection?.())
 const indexMode = computed(() => page.value.relativePath === 'hilfe/alle-artikel.md' || (mounted.value && articleIndexSelection.value))
 const referenceMode = computed(() => !indexMode.value && (page.value.relativePath.startsWith('programmreferenz/') || page.value.relativePath === 'druck/programmreferenz.md' || (mounted.value && !!referenceSelection.value) || ((!sectionSelection.value || sectionSelection.value === 'programmreferenz') && articlePath(getSidebar(theme.value.sidebar, page.value.relativePath)[0]?.items?.[0]?.link || '/') === '/programmreferenz')))
 const sections = Object.keys(navigation.sidebar)
@@ -36,7 +42,7 @@ const activeSection = computed(() => indexMode.value ? '/hilfe/' : referenceMode
   : selectedSection.value || (defaultGroups.value[0]?.items?.[0]?.link ? articlePath(defaultGroups.value[0].items[0].link) + '/' : ''))
 const readingGroups = computed(() => {
   const groups = theme.value.sidebar[activeSection.value]
-  return groups ? contextualSidebar(groups, activeSection.value, currentPath.value, menuSelection.value) : defaultGroups.value
+  return groups ? contextualSidebar(groups, activeSection.value, currentPath.value, mounted.value ? menuSelection.value : '') : defaultGroups.value
 })
 const readingEntries = computed(() => readingGroups.value.length ? sectionEntries(readingGroups.value, activeSection.value) : [])
 function adjacentInSection(offset: number) {
@@ -71,7 +77,7 @@ provide(dataSymbol, {
   ...data,
   theme: computed(() => ({ ...theme.value,
     nav: contextualNav(navigation.nav, activeSection.value, sections),
-    sidebar: indexMode.value ? helpSidebar.value : selectedSection.value && !referenceMode.value ? readingGroups.value : theme.value.sidebar
+    sidebar: indexMode.value ? helpSidebar.value : !referenceMode.value && readingGroups.value.length ? readingGroups.value : theme.value.sidebar
   })),
   frontmatter: computed(() => indexMode.value ? {
     ...frontmatter.value,

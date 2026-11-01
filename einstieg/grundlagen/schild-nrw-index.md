@@ -20,7 +20,7 @@ Die Dropdown-Menüs befinden sich darunter; über diese können alle Funktionen 
 
 Über die Iconleiste können bestimmte Funktionen von SchILD-NRW 2 direkt erreicht werden. Eine kurze Beschreibung aller Icons erreichen Sie unter dem Artikel: [Symbolleiste](/einstieg/grundlagen/iconleiste).
 
-Links im Hauptfenster bestimmen Sie mit dem [Statusfilter](/einstieg/grundlagen/karteikasten), welche Schülerstatus angezeigt werden. Klassen, Jahrgänge und weitere Gruppen grenzen Sie mit den [Schnellfiltern](/schild2/auswahl/schnellfilter) ein. Darunter zeigt die [Schülerliste](/einstieg/grundlagen/container) die ausgewählten Personen. Wenn Sie eine Person anklicken, erscheinen ihre Daten auf den Karteireitern im Hauptteil des Fensters.
+Links im Hauptfenster bestimmen Sie mit dem [Statusfilter](/schild2/auswahl/schnellfilter), welche Schülerstatus angezeigt werden. Klassen, Jahrgänge und weitere Gruppen grenzen Sie mit den [Schnellfiltern](/schild2/auswahl/schnellfilter) ein. Darunter zeigt die [Schülerliste](/einstieg/grundlagen/container) die ausgewählten Personen. Wenn Sie eine Person anklicken, erscheinen ihre Daten auf den Karteireitern im Hauptteil des Fensters.
 
 Eine ausführliche Beschreibung des Hauptfensters finden Sie im Artikel: **[Hauptfenster](/einstieg/grundlagen/hauptfenster)**
 

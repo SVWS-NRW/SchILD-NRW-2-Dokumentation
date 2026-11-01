@@ -21,7 +21,7 @@ Hier können Sie die verschiedenen Bereiche des Hauptfensters erkennen. Hinter d
 
 ## Statusfilter
 
-Im Bereich **Aktuelle Schülerauswahl** legen Sie mit dem [Statusfilter](/einstieg/grundlagen/karteikasten) fest, welche Schülerstatus angezeigt werden. Mehrere Häkchen sind möglich. Bestätigen Sie die Auswahl, falls die Schaltfläche zur Übernahme angezeigt wird. Der Filter verändert nur die Schülerliste; den gespeicherten Status einer Person ändern Sie unter **Individualdaten I**.
+Im Bereich **Aktuelle Schülerauswahl** legen Sie mit dem [Statusfilter](/schild2/auswahl/schnellfilter) fest, welche Schülerstatus angezeigt werden. Mehrere Häkchen sind möglich. Bestätigen Sie die Auswahl, falls die Schaltfläche zur Übernahme angezeigt wird. Der Filter verändert nur die Schülerliste; den gespeicherten Status einer Person ändern Sie unter **Individualdaten I**.
 
 <a id="Schnellfilter"></a>
 

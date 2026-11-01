@@ -14,7 +14,7 @@ SchILD-NRW 2 verbindet sich direkt mit der eingerichteten Datenbank. Lernen Sie 
 - [Häufige Begriffe](/einstieg/grundlagen/begriffe?rubrik=schild2)
 - [Hauptfenster](/einstieg/grundlagen/hauptfenster?rubrik=schild2)
 - [Symbolleiste](/einstieg/grundlagen/iconleiste?rubrik=schild2)
-- [Statusfilter](/einstieg/grundlagen/karteikasten?rubrik=schild2)
+- [Statusfilter](/schild2/auswahl/schnellfilter?rubrik=schild2)
 - [Status- und Schnellfilter](/schild2/auswahl/schnellfilter?rubrik=schild2)
 - [Schülerliste](/einstieg/grundlagen/container?rubrik=schild2)
 

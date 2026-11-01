@@ -1,4 +1,5 @@
 import { siteBase } from './site-base.mjs'
+import { fileURLToPath } from 'node:url'
 import { defineConfig } from 'vitepress'
 import navigation from './navigation.json'
 import { createSidebar } from './sidebar.mjs'
@@ -12,7 +13,13 @@ process.env.VITE_EXTRA_EXTENSIONS = extraExtensions
 export default defineConfig({
   lang: 'de-DE',
   base: siteBase,
-  vite: { define: { 'import.meta.env.VITE_EXTRA_EXTENSIONS': JSON.stringify(extraExtensions) } },
+  vite: {
+    define: { 'import.meta.env.VITE_EXTRA_EXTENSIONS': JSON.stringify(extraExtensions) },
+    resolve: { alias: [{
+      find: '../composables/sidebar',
+      replacement: fileURLToPath(new URL('./theme/sidebar-control.ts', import.meta.url))
+    }] }
+  },
   title: 'SchILD-NRW 2',
   description: 'Dokumentation für SchILD-NRW 2: Praxisanleitungen, Reporting und Nachschlagewerk',
   srcExclude: ['README.md', 'UMSETZUNG.md', 'CONTRIBUTING.md', 'WORKFLOW.md', 'tests/**', 'scripts/**', 'node_modules/**', 'tmp/**', 'test-results/**'],

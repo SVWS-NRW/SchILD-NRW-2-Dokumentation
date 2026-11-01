@@ -20,5 +20,7 @@ test('Nur der gewählte Themenzweig eines mehrfach verlinkten Artikels wird stan
   const menu = contextualSidebar(groups, '/schild2/', '/lehrkraefte', '1.0')[0].items
   assert.equal(menu[0].collapsed, true)
   assert.equal(menu[1].collapsed, false)
+  assert.equal(menu[0].items[0].sidebarActive, false)
+  assert.equal(menu[1].items[0].sidebarActive, true)
   assert.equal(new URL(menu[1].items[0].link, 'https://docs.test').searchParams.get('menue'), '1.0')
 })

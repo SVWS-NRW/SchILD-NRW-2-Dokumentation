@@ -102,5 +102,9 @@
   {
     "path": "zeugnisse/berufskolleg/bkabschluss.md",
     "replacement": "/zeugnisse/berufskolleg/bk-abschluss"
+  },
+  {
+    "path": "einstieg/grundlagen/karteikasten.md",
+    "replacement": "/schild2/auswahl/schnellfilter"
   }
 ]

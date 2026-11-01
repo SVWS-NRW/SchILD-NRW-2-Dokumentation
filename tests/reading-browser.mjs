@@ -17,6 +17,8 @@ export async function checkReadingNavigation(page, base) {
   await check(hrefs[0])
   await page.locator(matches).last().click()
   await check(hrefs[1])
+  await page.waitForFunction(() => [...document.querySelectorAll('#VPSidebarNav .item .text')]
+    .find(node => node.textContent.trim() === 'Erste Schritte')?.closest('.VPSidebarItem').classList.contains('collapsed'))
   await page.reload({ waitUntil: 'networkidle' })
   await check(hrefs[1])
   await page.goBack({ waitUntil: 'networkidle' })
@@ -33,6 +35,7 @@ export async function checkReadingNavigation(page, base) {
     ['/hilfe/ueber-diese-dokumentation.html', '/hilfe/quelltexte-und-originaldateien.html'],
     ['/hilfe/bedienung.html', '/einstieg/grundlagen.html'],
     ['/einstieg/grundlagen/inhaltsverzeichnis.html', '/programmreferenz/'],
+    ['/einstieg/grundlagen/karteikasten.html#die-status-im-uberblick', '/schild2/auswahl/schnellfilter.html'],
     ['/einstieg/erste-schritte/schild-nrw-tutorials.html#Kurzanleitungen', '/schild2/']
   ]) {
     await page.goto(base + oldPath, { waitUntil: 'networkidle' })
@@ -48,4 +51,65 @@ export async function checkReadingNavigation(page, base) {
     await page.screenshot({ path: `test-results/status-und-schnellfilter-${width}.png` })
   }
   console.log('Leseführung: eindeutige Menüauswahl, Verlauf, Datei-Menü, entfernte Übersichten und Status-/Schnellfilter geprüft.')
+}
+
+export async function checkFilterBranches(page, base) {
+  for (const width of [1440, 390]) {
+    await page.setViewportSize({ width, height: 950 })
+    await page.goto(base + '/schild2/?rubrik=schild2', { waitUntil: 'networkidle' })
+    const openMobile = async () => {
+      if (width < 960 && !await page.locator('.VPSidebar.open').count()) {
+        await page.locator('.VPLocalNav .menu').click()
+        await page.locator('.VPSidebar.open').waitFor()
+      }
+    }
+    await openMobile()
+    const menu = page.locator('#VPSidebarNav')
+    const group = name => menu.getByText(name, { exact: true }).first().locator('xpath=ancestor::*[contains(concat(" ", normalize-space(@class), " "), " VPSidebarItem ")][1]')
+    const collapsed = async (name, expected) => {
+      await page.waitForFunction(({ name, expected }) => {
+        const label = [...document.querySelectorAll('#VPSidebarNav .item .text')].find(node => node.textContent.trim() === name)
+        return label?.closest('.VPSidebarItem').classList.contains('collapsed') === expected
+      }, { name, expected })
+    }
+    await menu.getByRole('link', { name: 'Grundlagen und Orientierung', exact: true }).click()
+    await page.waitForFunction(() => document.querySelector('.vp-doc h1')?.textContent.includes('Grundlagen und Orientierung'))
+    await openMobile()
+    const entries = menu.locator('a[href*="/schild2/auswahl/schnellfilter"]')
+    assert.equal(await entries.count(), 2, 'Je ein gemeinsamer Filterartikel pro Themenzweig')
+    const hrefs = await entries.evaluateAll(nodes => nodes.map(node => node.getAttribute('href')))
+    await entries.first().click()
+    await page.waitForFunction(() => document.querySelector('.vp-doc h1')?.textContent.includes('Status- und Schnellfilter'))
+    await openMobile()
+    await collapsed('Grundlagen und Orientierung', false)
+    await collapsed('Auswählen und filtern', true)
+    await collapsed('Auswahl und Reihenfolge', true)
+    await page.screenshot({ path: `test-results/filterzweig-grundlagen-${width}.png` })
+    // An unrelated branch must remain manually openable and closable while
+    // its duplicate article is active in a different branch.
+    await group('Auswählen und filtern').locator(':scope > .item .caret').click()
+    await collapsed('Auswählen und filtern', false)
+    await group('Auswählen und filtern').locator(':scope > .item .caret').click()
+    await collapsed('Auswählen und filtern', true)
+    await page.reload({ waitUntil: 'networkidle' })
+    await openMobile()
+    await collapsed('Auswählen und filtern', true)
+    await group('Auswählen und filtern').locator(':scope > .item .caret').click()
+    await group('Auswahl und Reihenfolge').locator(':scope > .item .caret').click()
+    await entries.last().click()
+    await page.waitForURL(url => url.searchParams.get('menue') === new URL(hrefs[1], base).searchParams.get('menue'))
+    await openMobile()
+    await collapsed('Grundlagen und Orientierung', true)
+    await collapsed('Auswählen und filtern', false)
+    await collapsed('Auswahl und Reihenfolge', false)
+    await page.screenshot({ path: `test-results/filterzweig-auswahl-${width}.png` })
+    await page.reload({ waitUntil: 'networkidle' })
+    await openMobile()
+    await collapsed('Grundlagen und Orientierung', true)
+    await page.goBack({ waitUntil: 'networkidle' })
+    await openMobile()
+    await collapsed('Auswählen und filtern', true)
+    assert.equal(await menu.locator('a[aria-current="page"]').count(), 1)
+  }
+  console.log('Menüzweige: mehrfach verlinkte Filterartikel öffnen nur ihren eigenen Zweig; manuelle Bedienung, Neuladen und Verlauf bei Desktop/Mobil geprüft.')
 }
