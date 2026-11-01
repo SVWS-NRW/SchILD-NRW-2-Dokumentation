@@ -1046,15 +1046,13 @@
           "id": "menue-78",
           "text": "Import aus Textdateien",
           "link": "/schild2/import-export-statistik/import-aus-textdateien",
-          "source_title": "Import aus Textdateien",
-          "items": [
-            {
-              "id": "import-text-start",
-              "text": "Externes Importprogramm starten",
-              "items": [],
-              "link": "/schild2/import-export-statistik/import-aus-textdateien#importprogramm"
-            }
-          ]
+          "source_title": "Import aus Textdateien"
+        },
+        {
+          "id": "import-text-start",
+          "text": "Externes Importprogramm starten",
+          "items": [],
+          "link": "/schild2/import-export-statistik/import-aus-textdateien#importprogramm"
         },
         {
           "id": "menue-79",
@@ -1527,15 +1525,13 @@
               "id": "menue-menue-6-3",
               "text": "Individualdaten I",
               "link": "/schild2/schueler/individual-daten-i",
-              "source_title": "Individual-Daten I",
-              "items": [
-                {
-                  "id": "individual-laufbahn",
-                  "text": "Aktuelle Laufbahndaten",
-                  "items": [],
-                  "link": "/schild2/schueler/individual-daten-i#aktuelle-laufbahndaten"
-                }
-              ]
+              "source_title": "Individual-Daten I"
+            },
+            {
+              "id": "individual-laufbahn",
+              "text": "Aktuelle Laufbahndaten",
+              "items": [],
+              "link": "/schild2/schueler/individual-daten-i#aktuelle-laufbahndaten"
             },
             {
               "id": "menue-menue-6-4",
@@ -1932,15 +1928,13 @@
           "id": "menue-90",
           "text": "Benutzer",
           "link": "/administration/benutzer-einstellungen/benutzer",
-          "source_title": "Benutzer",
-          "items": [
-            {
-              "id": "benutzer-plugin",
-              "text": "Benutzerverwaltung als Plugin",
-              "items": [],
-              "link": "/administration/benutzer-einstellungen/benutzerverwaltung-plugin-dll"
-            }
-          ]
+          "source_title": "Benutzer"
+        },
+        {
+          "id": "benutzer-plugin",
+          "text": "Benutzerverwaltung als Plugin",
+          "items": [],
+          "link": "/administration/benutzer-einstellungen/benutzerverwaltung-plugin-dll"
         },
         {
           "id": "menue-91",

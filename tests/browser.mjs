@@ -6,6 +6,7 @@ import { checkEditorialNavigation } from './editorial-browser.mjs'
 import { checkPetrolTheme } from './petrol-browser.mjs'
 import { checkEditorLinks } from './editor-links-browser.mjs'
 import { checkReadingNavigation, checkFilterBranches } from './reading-browser.mjs'
+import { checkSingleMenus } from './single-menu-browser.mjs'
 const { chromium } = await import(process.env.PLAYWRIGHT_MODULE || 'playwright')
 const base = 'http://127.0.0.1:4192'
 const server = spawn(process.execPath, ['node_modules/vitepress/bin/vitepress.js', 'preview', '--host', '127.0.0.1', '--port', '4192'], {stdio:'ignore'})
@@ -32,6 +33,7 @@ try {
   await checkEditorLinks(page,base)
   await checkReadingNavigation(page,base)
   await checkFilterBranches(page,base)
+  await checkSingleMenus(page,base)
   const paths = ['/', '/schild2/', '/administration/installation/schild-nrw-installation.html', '/schild2/import-export-statistik/schnittstellenbeschreibung.html', '/reporting/rap.html', '/reporting/rap/anrede.html', '/reporting/rap/aufzaehlungrtf.html', '/reporting/rap/createnotenheader.html', '/programmreferenz/', '/bilder/', '/hilfe/alle-artikel.html','/tools/','/tools/lupo.html','/tools/ma2lbv.html','/hilfe/','/tools/enm-notenmanager/leistungsdaten.html','/tools/notenmodul-grundschule/vorbereitung.html','/tools/ma2lbv/abrechnung.html']
   for (const width of [1440,390]) for (const dark of [false,true]) {
     await page.setViewportSize({width,height:900})
