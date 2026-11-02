@@ -72,7 +72,7 @@ export async function checkToolsTree(page,base) {
   },tool.link)
   assert.equal(new URL(page.url()).searchParams.get('rubrik'),'tools')
   assert.equal(await page.locator('#VPSidebarNav').getByRole('link',{name:'Übersicht',exact:true}).count(),1)
-  if(previous)assert(await page.locator('#VPSidebarNav').getByRole('link',{name:previous.text,exact:true}).first().evaluate(a=>a.closest('.VPSidebarItem').classList.contains('collapsed')))
+  if(previous?.items.length)assert(await page.locator('#VPSidebarNav').getByRole('link',{name:previous.text,exact:true}).first().evaluate(a=>a.closest('.VPSidebarItem').classList.contains('collapsed')))
   const child=tool.items.find(x=>x.link?.startsWith('/')&&!x.link.startsWith('/druck/')&&!x.link.includes('#'))
   if(child) {
    await page.locator('#VPSidebarNav a').filter({hasText:child.text}).filter({visible:true}).first().click()

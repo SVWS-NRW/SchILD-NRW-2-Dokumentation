@@ -7,6 +7,7 @@ import { checkPetrolTheme } from './petrol-browser.mjs'
 import { checkEditorLinks } from './editor-links-browser.mjs'
 import { checkReadingNavigation, checkFilterBranches } from './reading-browser.mjs'
 import { checkSingleMenus } from './single-menu-browser.mjs'
+import { checkArticleMenus } from './article-menu-browser.mjs'
 const { chromium } = await import(process.env.PLAYWRIGHT_MODULE || 'playwright')
 const base = 'http://127.0.0.1:4192'
 const server = spawn(process.execPath, ['node_modules/vitepress/bin/vitepress.js', 'preview', '--host', '127.0.0.1', '--port', '4192'], {stdio:'ignore'})
@@ -34,6 +35,7 @@ try {
   await checkReadingNavigation(page,base)
   await checkFilterBranches(page,base)
   await checkSingleMenus(page,base)
+  await checkArticleMenus(page,base)
   const paths = ['/', '/schild2/', '/administration/installation/schild-nrw-installation.html', '/schild2/import-export-statistik/schnittstellenbeschreibung.html', '/reporting/rap.html', '/reporting/rap/anrede.html', '/reporting/rap/aufzaehlungrtf.html', '/reporting/rap/createnotenheader.html', '/programmreferenz/', '/bilder/', '/hilfe/alle-artikel.html','/tools/','/tools/lupo.html','/tools/ma2lbv.html','/hilfe/','/tools/enm-notenmanager/leistungsdaten.html','/tools/notenmodul-grundschule/vorbereitung.html','/tools/ma2lbv/abrechnung.html']
   for (const width of [1440,390]) for (const dark of [false,true]) {
     await page.setViewportSize({width,height:900})
@@ -92,17 +94,16 @@ try {
   await page.waitForURL('**/*?referenz=menue-75')
   await referenceMenu.getByRole('link',{name:'Export für LuPO',exact:true}).click()
   await page.waitForURL('**/*?referenz=menue-80')
-  await referenceMenu.getByRole('link',{name:'Nur Schülerdaten exportieren',exact:true}).click()
-  await page.waitForURL('**/*?referenz=lupo-schueler#*')
-  await page.waitForFunction(()=>document.querySelector('.program-reference-menu .reference-active')?.textContent==='Nur Schülerdaten exportieren')
+  assert.equal(await referenceMenu.getByRole('link',{name:'Nur Schülerdaten exportieren',exact:true}).count(),0)
+  await page.goto(base+'/schild2/import-export-statistik/export-fuer-lupo.html?referenz=lupo-schueler#Nur_Schülerdaten_exportieren',{waitUntil:'networkidle'})
+  await page.waitForFunction(()=>document.querySelector('.program-reference-menu .reference-active')?.textContent==='Export für LuPO')
   assert.equal(await referenceMenu.locator('.reference-active').count(),1)
   assert(await page.locator('.VPDocFooter .next a, .VPDocFooter a.next').count(),'Abschnittsbefehle behalten den Artikel-Pager')
   await page.reload({waitUntil:'networkidle'})
-  assert.equal(await referenceMenu.locator('.reference-active').innerText(),'Nur Schülerdaten exportieren')
+  assert.equal(await referenceMenu.locator('.reference-active').innerText(),'Export für LuPO')
   await referenceMenu.getByRole('link',{name:'Hauptfenster',exact:true}).click()
   await page.waitForURL('**/*?referenz=menue-2')
-  await referenceMenu.getByRole('link',{name:'Karteireiter',exact:true}).click()
-  await page.waitForURL('**/*?referenz=menue-6#*')
+  await referenceMenu.getByText('Karteireiter',{exact:true}).click()
   await referenceMenu.getByRole('link',{name:'Einwilligungen',exact:true}).click()
   await page.waitForURL('**/*?referenz=reiter-einwilligungen')
   await page.waitForFunction(()=>document.querySelector('.program-reference-menu .reference-active')?.textContent==='Einwilligungen')

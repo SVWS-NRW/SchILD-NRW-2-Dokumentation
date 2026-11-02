@@ -1468,7 +1468,6 @@
               {
                 "id": "menue-4",
                 "text": "Schnellfilter",
-                "link": "/einstieg/grundlagen/hauptfenster#Schnellfilter",
                 "source_title": "Hauptfenster",
                 "items": [
                   {
@@ -1588,7 +1587,6 @@
               {
                 "id": "menue-6",
                 "text": "Karteireiter",
-                "link": "/einstieg/grundlagen/hauptfenster#Karteireiter",
                 "source_title": "Hauptfenster",
                 "items": [
                   {
@@ -3618,16 +3616,8 @@
           {
             "text": "Anonymisierungstool",
             "link": "/tools/anonymisierungstool",
-            "items": [
-              {
-                "text": "Druckvorschau",
-                "link": "/druck/tools/anonymisierungstool.html"
-              },
-              {
-                "text": "Anwendung und Hinweise",
-                "link": "/tools/anonymisierungstool#anwendung-und-hinweise"
-              }
-            ]
+            "items": [],
+            "printLink": "/druck/tools/anonymisierungstool.html"
           },
           {
             "text": "ASDPC",
@@ -4090,16 +4080,8 @@
           {
             "text": "Schuljahr erhöhen",
             "link": "/tools/schuljahr-erhoehen",
-            "items": [
-              {
-                "text": "Druckvorschau",
-                "link": "/druck/tools/schuljahr-erhoehen.html"
-              },
-              {
-                "text": "Anwendung und Hinweise",
-                "link": "/tools/schuljahr-erhoehen#anwendung-und-hinweise"
-              }
-            ]
+            "items": [],
+            "printLink": "/druck/tools/schuljahr-erhoehen.html"
           },
           {
             "text": "Weitere Zusatzprogramme",
