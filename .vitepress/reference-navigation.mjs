@@ -18,6 +18,8 @@ export function referenceEntries(reference) {
 }
 
 export function referenceActiveId(reference, selection, route) {
+  // Existing deep links retain their article/anchor, but select its one menu entry.
+  selection = reference.aliases?.[selection] || selection
   function find(node) {
     if (selection
       ? node.id === selection || node.sections?.some(section => section.id === selection)
@@ -37,6 +39,7 @@ export function referenceActiveId(reference, selection, route) {
 
 // An in-article menu command still uses its enclosing article's pager position.
 export function referencePageId(reference, selection, route) {
+  selection = reference.aliases?.[selection] || selection
   const entries = referenceEntries(reference)
   if (entries.some(entry => entry.id === selection)) return selection
   function find(node, parents = []) {

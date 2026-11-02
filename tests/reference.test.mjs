@@ -12,9 +12,9 @@ const get=id=>nodes.find(node=>node.id===id)
 test('Programmreferenz folgt Menüleiste, Filterbereichen und Schülerkarteireitern der Screenshots',()=>{
  assert.deepEqual(reference.tabs.slice(0,10).map(n=>n.text),['Datei','Schulverwaltung','Kataloge','Gruppenprozesse','Auswahl','Druckausgabe','Datenaustausch','Extras','Datenschutzhinweis','Hilfe'])
  assert.deepEqual(get('menue-62').items.map(n=>n.text),['Allgemeines','Fächer','Teilleistungen','Noten und Zeugnisvorbereitung','Lernabschnitte und Versetzung'])
- assert.deepEqual(get('menue-4').items.map(n=>n.text),['Klasse','Jahrgang','Kurs','Schulgliederung'])
- assert.deepEqual(get('menue-6').items.map(n=>n.text),['Individualdaten I','Aktuelle Laufbahndaten','Individualdaten II','Erziehungsberechtigte','Schulbesuch','Weitere Adressen','Aktuelles Halbjahr','Laufbahninfo','Fördermaßnahmen','Einwilligungen','KAoA','Übersicht','FHR','Abitur','ZP 10'])
- assert.deepEqual(get('menue-80').items.map(n=>n.text),['Initial-Export','Nur Schülerdaten exportieren','Nur Fächerdaten exportieren'])
+ assert(!get('menue-4'),'Schnellfilter sind Abschnitte des Hauptfensterartikels')
+ assert.deepEqual(get('menue-6').items.map(n=>n.text),['Individualdaten I','Individualdaten II','Deutschförderung','Erziehungsberechtigte','Schulbesuch','Weitere Adressen','Aktuelles Halbjahr','Zeugnis und Abschluss','Laufbahninfo','Fördermaßnahmen','Einwilligungen','KAoA','Übersicht','FHR','Abitur','ZP 10'])
+ assert.equal(get('menue-80').items.length,0,'LuPO-Abschnitte sind keine eigenen Menüpunkte')
  assert(get('austausch-weitere').items.some(n=>n.id==='menue-81'))
  assert(get('menue-69').items.some(n=>n.id==='druck-archiv'))
  assert(get('menue-87').items.some(n=>n.id==='extras-benutzerverwaltung'))
@@ -32,9 +32,9 @@ test('Jeder Referenzlink erreicht einen vorhandenen Artikel oder einen belegten 
  }
 })
 
-test('Verschachtelte Abschnittsbefehle bleiben aktiv, blättern artikelweise und fehlen nicht im Druck',()=>{
+test('Alte Abschnittsbefehle wählen den Artikel, ohne zusätzliche Menüeinträge oder Druckverluste',()=>{
  const id='lupo-schueler',route='/schild2/import-export-statistik/export-fuer-lupo'
- assert.equal(referenceActiveId(reference,id,route),id)
+ assert.equal(referenceActiveId(reference,id,route),'menue-80')
  assert.equal(referencePageId(reference,id,route),'menue-80')
  assert.equal(referencePageId(reference,'schnellfilter-klasse','/einstieg/grundlagen/hauptfenster'),'menue-2')
  const entries=referenceEntries(reference)
@@ -44,4 +44,6 @@ test('Verschachtelte Abschnittsbefehle bleiben aktiv, blättern artikelweise und
  assert(printed.some(n=>n.key==='/schild2/schueler/individual-daten-i'))
  assert(printed.some(n=>n.key==='/reporting/verwaltung/report-aus-archiv-drucken'))
  assert.equal(printed.length,new Set(printed.map(n=>n.key)).size)
+ for(const node of nodes)assert(!node.link?.includes('#'),`Abschnitt im Seitenmenü: ${node.text}`)
+ for(const [oldId,id] of Object.entries(reference.aliases))assert(get(id),`Alte Kennung ohne Artikel: ${oldId}`)
 })

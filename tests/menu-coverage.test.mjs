@@ -14,6 +14,7 @@ test('Alle Themenmenüs und die Programmreferenz verzichten auf Gruppen mit nur 
  const reference=JSON.parse(fs.readFileSync('.vitepress/program-reference.json','utf8'))
  const nodes=[...Object.values(navigation.sidebar).flatMap(walk),...walk(reference.tabs)]
  for(const node of nodes)assert.notEqual(node.items?.length,1,`Unnötige Menüebene: ${node.text}`)
+ for(const node of nodes)assert(!node.link?.includes('#'),`Artikelabschnitt als Menüpunkt: ${node.text}`)
  const plugin=walk(reference.tabs).find(n=>n.id==='benutzer-plugin')
  const users=walk(reference.tabs).find(n=>n.id==='menue-90')
  assert(reference.tabs.some(tab=>tab.items?.includes(plugin)&&tab.items.includes(users)), 'Benutzer und Plugin stehen auf derselben Ebene')
