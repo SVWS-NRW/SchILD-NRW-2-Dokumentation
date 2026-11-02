@@ -114,5 +114,13 @@
   {
     "path": "tools/anleitungen.md",
     "replacement": "/tools/"
+  },
+  {
+    "path": "tools/weitere.md",
+    "replacement": "/tools/"
+  },
+  {
+    "path": "druck/tools/weitere.md",
+    "replacement": "/tools/"
   }
 ]

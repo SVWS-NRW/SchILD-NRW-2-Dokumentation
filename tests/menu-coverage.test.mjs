@@ -85,7 +85,7 @@ test('Tools ist ein normaler Hauptlink mit alphabetischen Themenzweigen ohne dop
  const tools=navigation.sidebar['/tools/'][0].items.filter(n=>n.items)
  const labels=tools.map(n=>n.text),collator=new Intl.Collator('de',{sensitivity:'base'})
  assert.deepEqual(labels,[...labels].sort(collator.compare))
- assert.equal(tools.length,20)
+ assert.equal(tools.length,19)
  for(const tool of tools)assert(!walk(tool.items).some(n=>n.text==='Übersicht'),tool.text)
  assert.deepEqual(Object.keys(navigation.sidebar),['/schild2/','/programmreferenz/','/reporting/','/tools/','/hilfe/'])
 })

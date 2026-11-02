@@ -4030,12 +4030,6 @@
             "link": "/tools/schuljahr-erhoehen",
             "items": [],
             "printLink": "/druck/tools/schuljahr-erhoehen.html"
-          },
-          {
-            "text": "Weitere Zusatzprogramme",
-            "link": "/tools/weitere",
-            "items": [],
-            "printLink": "/druck/tools/weitere.html"
           }
         ]
       }
