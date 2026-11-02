@@ -30,8 +30,8 @@ Meldet den aktuellen Benutzer ab und einen neuen Benutzer (gegebenenfalls mit an
 
 <a id="beenden"></a>
 
-Schließen
+Beenden
 
-Beendet das Programm.
+Mit [Beenden](/administration/datenbanken/beenden) schließen Sie SchILD-NRW 2.
 
 Quelle: [Datei – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datei&oldid=1539)
