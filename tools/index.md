@@ -27,6 +27,3 @@ Die Zusatzprogramme unterstützen Sie bei Planung, Leistungsbewertung und Datena
 | [Schuljahr erhöhen](/tools/schuljahr-erhoehen?rubrik=tools) | Das Schuljahr von Schulungsdatenbanken erhöhen. |
 | [Weitere Zusatzprogramme](/tools/weitere?rubrik=tools) | Weitere Programme zur Kursplanung, Kommunikation und Dateneingabe kennenlernen. |
 
-## Zum passenden Einstieg
-
-- [Alle Anleitungen](/tools/anleitungen?rubrik=tools) helfen bei der Auswahl des passenden Verfahrens.

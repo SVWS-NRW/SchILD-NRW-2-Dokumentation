@@ -9,4 +9,3 @@ Diese Programme ergänzen SchILD-NRW 2 bei Kursplanung, Kommunikation und Datene
 - [SchILDChat](/hilfe/zusatzprogramme/schildchat-exe?rubrik=tools)
 - [SchILDweb](/hilfe/zusatzprogramme/schildweb?rubrik=tools)
 - [Schnelleingabemodul](/hilfe/zusatzprogramme/sem-schnelleingabemodul?rubrik=tools)
-- [Tool-Übersicht](/hilfe/zusatzprogramme/zusatzprogramme-tools?rubrik=tools)

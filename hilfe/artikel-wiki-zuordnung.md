@@ -299,7 +299,7 @@ Die Tabelle führt die ursprünglichen Wiki-Inhaltsseiten zu den passenden Dokum
 | Zeugnisse drucken und Schüler ausschulen | [Zeugnisse drucken und Schüler entlassen](/zeugnisse/vorbereitung/zeugnisse-drucken-und-schueler-ausschulen) |
 | JG-Tabelle-BK | [Statistikjahrgänge am Berufskolleg](/schild2/unterricht-kataloge/jg-tabelle-bk) |
 | Versetzung/Übertragung ins neue Halbjahr oder in Abschluss | [Einzelne Schülergruppen fortschreiben](/schild2/versetzung/versetzung-uebertragung-ins-neue-halbjahr-oder-in-abschluss) |
-| Zusatzprogramme / Tools | [Zusatzprogramme im Überblick](/hilfe/zusatzprogramme/zusatzprogramme-tools) |
+| Zusatzprogramme / Tools | [Tools und Zusatzprogramme](/tools/) |
 | Benutzerverwaltung Useradmn.exe | [Benutzerrechte mit Useradmn verwalten](/administration/benutzer-einstellungen/benutzerverwaltung-useradmn-exe) |
 | Benutzerverwaltung PlugIn-DLL | [Benutzerverwaltung als Plugin einbinden](/administration/benutzer-einstellungen/benutzerverwaltung-plugin-dll) |
 | Shortcuts in SchILD-NRW 2 | [Tastenkürzel](/administration/benutzer-einstellungen/shortcuts-in-schild-nrw) |

@@ -2872,11 +2872,6 @@
             "text": "Angemeldete Benutzer",
             "link": "/administration/benutzer-einstellungen/benutzer",
             "items": []
-          },
-          {
-            "text": "Tool-Übersicht",
-            "link": "/hilfe/zusatzprogramme/zusatzprogramme-tools",
-            "items": []
           }
         ]
       }
@@ -4039,20 +4034,8 @@
           {
             "text": "Weitere Zusatzprogramme",
             "link": "/tools/weitere",
-            "items": [
-              {
-                "text": "Druckvorschau",
-                "link": "/druck/tools/weitere.html"
-              },
-              {
-                "text": "Tool-Übersicht",
-                "link": "/hilfe/zusatzprogramme/zusatzprogramme-tools"
-              }
-            ]
-          },
-          {
-            "text": "Alle Anleitungen",
-            "link": "/tools/anleitungen"
+            "items": [],
+            "printLink": "/druck/tools/weitere.html"
           }
         ]
       }

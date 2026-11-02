@@ -66,7 +66,7 @@ export function writeArticleRedirects(config) {
   const manifest = new URL('./redirects.json', import.meta.url)
   if (!existsSync(manifest)) return
   const retired = JSON.parse(readFileSync(manifest, 'utf8'))
-  const entries = [...retired, {path:'tools/handbuecher.md',replacement:'/tools/anleitungen'}]
+  const entries = [...retired, {path:'tools/handbuecher.md',replacement:'/tools/'}]
   for (const entry of entries) {
     const [route, anchor] = entry.replacement.split('#')
     const base = (config.site?.base || config.base || '/').replace(/\/$/, '')

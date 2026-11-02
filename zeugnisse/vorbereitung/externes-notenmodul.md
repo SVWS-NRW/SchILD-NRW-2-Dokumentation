@@ -12,7 +12,7 @@ Mit diesem Tool ist es möglich, für jeden Lehrer eine Noten-Datei zu erstellen
 
 Der Export in die Notendateien ist auf Grundlage der VO-DV-I abgesichert. ([Datenschutzhinweis](/administration/benutzer-einstellungen/datenschutzhinweis))
 
-Eine Anleitung zur Bedienung des Externen Notenprogramms für die Kollegen finden Sie unter [Tools](/hilfe/zusatzprogramme/zusatzprogramme-tools).
+Eine Anleitung zur Bedienung des Externen Notenprogramms für die Kollegen finden Sie unter [Externes Notenmodul](/tools/externes-notenmodul).
 
 Im Folgenden wird nun beschrieben, wie der Export/Import in SchILD-NRW 2 funktioniert.
 

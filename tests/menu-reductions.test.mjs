@@ -10,7 +10,8 @@ const reference=walk(ref.tabs),work=walk(nav.sidebar['/schild2/']),tools=walk(na
 test('Maßvoller Abbau entfernt doppelte Zugänge und erhält unterschiedliche Arbeitsabläufe',()=>{
  assert(!work.some(n=>n.text==='Weitere Wiki-Beschreibung'))
  const extra=tools.find(n=>n.link==='/tools/weitere')
- assert.deepEqual(extra.items.map(n=>n.text),['Druckvorschau','Tool-Übersicht'])
+ assert.deepEqual(extra.items,[])
+ assert.equal(extra.printLink,'/druck/tools/weitere.html')
  for(const route of ['externe-blockungs-tools','kursplanung-kplan-exe','schildchat-exe','schildweb','sem-schnelleingabemodul']) {
   const path='/hilfe/zusatzprogramme/'+route
   assert.equal(tools.filter(n=>n.link===path).length,1,path)

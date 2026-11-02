@@ -173,6 +173,6 @@ Diese Programme werden teilweise mit der SchILD-NRW 2-Installation ausgeliefert 
 
 Einzelheiten entnehmen Sie bitte den jeweiligen Artikeln:
 
-[Zusatzprogramme im Überblick](/hilfe/zusatzprogramme/zusatzprogramme-tools)
+[Tools und Zusatzprogramme](/tools/)
 
 Quelle: [SchILD-NRW 2-Index – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schild-NRW-Index&oldid=5935)
