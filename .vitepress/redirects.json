@@ -106,5 +106,13 @@
   {
     "path": "einstieg/grundlagen/karteikasten.md",
     "replacement": "/schild2/auswahl/schnellfilter"
+  },
+  {
+    "path": "hilfe/zusatzprogramme/zusatzprogramme-tools.md",
+    "replacement": "/tools/"
+  },
+  {
+    "path": "tools/anleitungen.md",
+    "replacement": "/tools/"
   }
 ]

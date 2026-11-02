@@ -10,7 +10,7 @@ test('Tool-Menüs sind kurz, eindeutig und folgen dem Handbuchablauf',()=>{
   const lupo={items:groups.find(g=>g.link==='/tools/lupo').items.filter(g=>!g.link?.startsWith('/druck/'))}
   assert.deepEqual(lupo.items.slice(0,9).map(g=>g.text),['Einleitung','Installation','Vorbereitungen in SchILD-NRW 2','Erste Schritte','Schülerdateien erzeugen','Beratungsprozess','Fachwahlen auswerten','Fachwahlen an Kurs42 übergeben','Weitere Laufbahnprüfungen'])
   assert.equal(lupo.items[4].text,'Schülerdateien erzeugen')
-  assert.equal(groups.filter(g=>g.link==='/tools/anleitungen').length,1)
+  assert.equal(groups.filter(g=>g.link==='/tools/anleitungen').length,0)
   for (const tool of groups.filter(g=>g.items)) {
     const group={items:tool.items.filter(g=>!g.link?.startsWith('/druck/'))}
     const seen=new Set()
