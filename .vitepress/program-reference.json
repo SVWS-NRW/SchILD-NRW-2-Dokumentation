@@ -1261,8 +1261,7 @@
                 {
                   "id": "zeugnis-bemerkungen",
                   "text": "Zeugnisbemerkungen",
-                  "items": [],
-                  "link": "/zeugnisse/vorbereitung/zeugnisbemerkungen-eintragen"
+                  "items": []
                 },
                 {
                   "id": "zeugnis-verhalten",
@@ -1413,45 +1412,10 @@
           "source_title": "Gruppenaktionen Abitur",
           "items": [
             {
-              "id": "menue-menue-68-1",
-              "text": "Leistungsdaten übernehmen",
-              "link": "/zeugnisse/sekundarstufen/leistungsdaten-holen",
-              "source_title": "Leistungsdaten holen",
-              "items": []
-            },
-            {
-              "id": "menue-menue-68-2",
-              "text": "Kurse für die Zulassung markieren",
-              "link": "/zeugnisse/sekundarstufen/kurse-algorithmisch-markieren",
-              "source_title": "Kurse algorithmisch markieren",
-              "items": []
-            },
-            {
-              "id": "menue-menue-68-3",
-              "text": "Abiturzulassung",
-              "link": "/zeugnisse/sekundarstufen/abitur-zulassung-berechnen",
-              "source_title": "Abitur-Zulassung berechnen",
-              "items": []
-            },
-            {
               "id": "menue-menue-68-4",
               "text": "Prüfungsergebnisse",
               "link": "/zeugnisse/sekundarstufen/pruefungsergebnisse-eingeben",
               "source_title": "Prüfungsergebnisse eingeben",
-              "items": []
-            },
-            {
-              "id": "menue-menue-68-5",
-              "text": "Mündliche Prüfungen festlegen",
-              "link": "/zeugnisse/sekundarstufen/muendliche-pruefungen-a1-a3-festlegen",
-              "source_title": "Mündliche Prüfungen A1-A3 festlegen",
-              "items": []
-            },
-            {
-              "id": "menue-menue-68-6",
-              "text": "Abiturergebnis",
-              "link": "/zeugnisse/sekundarstufen/gesamtergebnis-berechnen",
-              "source_title": "Gesamtergebnis berechnen",
               "items": []
             },
             {
@@ -1583,6 +1547,12 @@
     "laufbahn-erreichte-abschluesse": "menue-menue-6-9",
     "uebersicht-laufbahn": "reiter-uebersicht",
     "uebersicht-leistung": "reiter-uebersicht",
-    "menue-6": "menue-2"
+    "menue-6": "menue-2",
+    "menue-menue-68-1": "abitur-1",
+    "menue-menue-68-2": "abitur-2",
+    "menue-menue-68-3": "abitur-3",
+    "menue-menue-68-5": "abitur-5",
+    "menue-menue-68-6": "abitur-6",
+    "zeugnis-bemerkungen": "menue-menue-66-10"
   }
 }

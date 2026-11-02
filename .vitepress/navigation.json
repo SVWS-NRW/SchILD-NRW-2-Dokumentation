@@ -980,10 +980,6 @@
                       {
                         "text": "Sprachnachweise und Zusatzdaten",
                         "link": "/zeugnisse/sekundarstufen/zusatzdaten-latinum-eingeben"
-                      },
-                      {
-                        "text": "Weitere Wiki-Beschreibung",
-                        "link": "/zeugnisse/sekundarstufen/zusatzdaten-latinum-eingeben"
                       }
                     ]
                   },
@@ -1004,10 +1000,6 @@
                       },
                       {
                         "text": "Mündliche Prüfungen festlegen",
-                        "link": "/zeugnisse/sekundarstufen/muendliche-pruefungen-a1-a3-festlegen"
-                      },
-                      {
-                        "text": "Weitere Wiki-Beschreibung",
                         "link": "/zeugnisse/sekundarstufen/muendliche-pruefungen-a1-a3-festlegen"
                       },
                       {
@@ -1052,10 +1044,6 @@
                     "items": [
                       {
                         "text": "BK-Abschlussverfahren",
-                        "link": "/zeugnisse/berufskolleg/bk-abschluss"
-                      },
-                      {
-                        "text": "Weitere Wiki-Beschreibung",
                         "link": "/zeugnisse/berufskolleg/bk-abschluss"
                       },
                       {
@@ -2619,45 +2607,10 @@
                 "source_title": "Gruppenaktionen Abitur",
                 "items": [
                   {
-                    "id": "menue-menue-68-1",
-                    "text": "Leistungsdaten übernehmen",
-                    "link": "/zeugnisse/sekundarstufen/leistungsdaten-holen",
-                    "source_title": "Leistungsdaten holen",
-                    "items": []
-                  },
-                  {
-                    "id": "menue-menue-68-2",
-                    "text": "Kurse für die Zulassung markieren",
-                    "link": "/zeugnisse/sekundarstufen/kurse-algorithmisch-markieren",
-                    "source_title": "Kurse algorithmisch markieren",
-                    "items": []
-                  },
-                  {
-                    "id": "menue-menue-68-3",
-                    "text": "Abiturzulassung",
-                    "link": "/zeugnisse/sekundarstufen/abitur-zulassung-berechnen",
-                    "source_title": "Abitur-Zulassung berechnen",
-                    "items": []
-                  },
-                  {
                     "id": "menue-menue-68-4",
                     "text": "Prüfungsergebnisse",
                     "link": "/zeugnisse/sekundarstufen/pruefungsergebnisse-eingeben",
                     "source_title": "Prüfungsergebnisse eingeben",
-                    "items": []
-                  },
-                  {
-                    "id": "menue-menue-68-5",
-                    "text": "Mündliche Prüfungen festlegen",
-                    "link": "/zeugnisse/sekundarstufen/muendliche-pruefungen-a1-a3-festlegen",
-                    "source_title": "Mündliche Prüfungen A1-A3 festlegen",
-                    "items": []
-                  },
-                  {
-                    "id": "menue-menue-68-6",
-                    "text": "Abiturergebnis",
-                    "link": "/zeugnisse/sekundarstufen/gesamtergebnis-berechnen",
-                    "source_title": "Gesamtergebnis berechnen",
                     "items": []
                   },
                   {
@@ -4090,26 +4043,6 @@
               {
                 "text": "Druckvorschau",
                 "link": "/druck/tools/weitere.html"
-              },
-              {
-                "text": "Externe Blockungsprogramme",
-                "link": "/hilfe/zusatzprogramme/externe-blockungs-tools"
-              },
-              {
-                "text": "Kursplanung mit KPlan",
-                "link": "/hilfe/zusatzprogramme/kursplanung-kplan-exe"
-              },
-              {
-                "text": "SchILDChat",
-                "link": "/hilfe/zusatzprogramme/schildchat-exe"
-              },
-              {
-                "text": "SchILDweb",
-                "link": "/hilfe/zusatzprogramme/schildweb"
-              },
-              {
-                "text": "Schnelleingabemodul",
-                "link": "/hilfe/zusatzprogramme/sem-schnelleingabemodul"
               },
               {
                 "text": "Tool-Übersicht",
