@@ -1451,6 +1451,10 @@
             "items": []
           },
           {
+            "text": "Beenden",
+            "link": "/administration/datenbanken/beenden"
+          },
+          {
             "text": "Hauptfenster",
             "link": "/einstieg/grundlagen/hauptfenster",
             "items": [
