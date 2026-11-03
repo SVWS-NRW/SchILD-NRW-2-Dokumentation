@@ -1,0 +1,59 @@
+---
+title: "Symbolleiste"
+---
+
+<a id="iconleiste"></a>
+
+# Symbolleiste
+
+Die Symbolleiste bietet direkten Zugriff auf häufige Funktionen. Die folgende Übersicht erklärt die Symbole in ihrer Reihenfolge von links nach rechts. Nutzen Sie sie zum Nachschlagen, wenn Sie ein Symbol noch nicht kennen.
+
+![Iconleiste](/bilder/einstieg/grundlagen/iconleiste.jpg)
+
+Die Symbole bedeuten (von links nach rechts):
+
+- **Leuchtdiode** (Klick auf die Leuchtdiode kehrt zum Status "grün" zurück.)
+  - Grün: kein Filter gesetzt (alle aktiven Schüler werden angezeigt)
+  - Gelb: Filter auf Klasse, Jahrgang...
+  - Rot: benutzerdefinierter Filter
+
+<!-- -->
+
+- **Navigationsleiste**
+  - Erster Datensatz
+  - Vorheriger Datensatz
+  - Nächster Datensatz
+  - Letzter Datensatz
+  - Datensatz einfügen
+  - Datensatz löschen
+  - Datensatz bearbeiten
+  - Änderungen übernehmen
+  - Bearbeitung abbrechen
+  - Datenmenge aktualisieren
+
+<!-- -->
+
+- **Toolbuttons**
+  - Schüler markieren
+  - Schüler duplizieren
+  - Individualdaten anzeigen
+  - Schüler sperren
+  - Sperrung aufheben
+  - Sortierung festlegen
+  - Filter I aufrufen
+  - Schüler suchen
+  - [Wiedervorlage](/schild2/schueler/wiedervorlage)
+  - <a id="filter-markierte-schueler"></a>Filter auf markierte Schüler
+  - Gruppenprozesse aufrufen
+  - Hilfe aufrufen
+  - Fenster auf Standarddrucker ausgeben
+
+![Druckbutton](/bilder/einstieg/grundlagen/druckbutton.jpg)
+
+Ein Mausklick auf den Druckbutton öffnet bei entsprechender Berechtigung den Reportexplorer.
+
+Ein Klick auf das kleine Dreieck (Pulldown) öffnet folgende Optionen:
+
+Um die Standard-Schulbescheinigung und das -stammblatt zu drucken, müssen im Reportexplorer vorher die entsprechenden Formulare mit der rechten Maustaste aktiviert werden.
+
+Quelle: [Iconleiste – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Iconleiste&oldid=1386)

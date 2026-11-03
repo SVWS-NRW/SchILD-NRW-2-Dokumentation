@@ -1,0 +1,29 @@
+---
+title: "PM2-Handbuch"
+---
+
+<a id="prognos"></a>
+
+# PM2-Handbuch
+
+Dieses Handbuch erschließt die Arbeit mit dem Prognosemodul PM2. Beginnen Sie mit Einführung und Installation, wählen Sie danach ein Analyseverfahren und lesen Sie anschließend die Hinweise zur Auswertung.
+
+<a id="Inhaltsangabe"></a>
+
+## Inhaltsangabe
+
+- [Einführung](/hilfe/zusatzprogramme/prognos-einleitung)
+- [Installation](/hilfe/zusatzprogramme/prognos-installation)
+- [Erster Programmstart](/hilfe/zusatzprogramme/prognos-programmstart)
+- [Analyseverfahren](/hilfe/zusatzprogramme/prognos-hauptfenster)
+  - [Einzelfall analysieren](/hilfe/zusatzprogramme/prognos-analyseverfahren-einzelfall)
+  - [Klasse analysieren](/hilfe/zusatzprogramme/prognos-analyseverfahren-klasse)
+  - [Notendatei analysieren](/hilfe/zusatzprogramme/prognos-analyseverfahren-datei)
+- Tabelle
+- Kontextmenü
+- weitere Fenster
+  - Prognosefenster
+  - Einstellungen
+  - Auswahlfenster Klasse
+
+Quelle: [Prognos – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Prognos&oldid=4949)

@@ -2,34 +2,30 @@ name: Bedienung prüfen
 on:
   workflow_dispatch:
   pull_request:
-    branches: [dev]
-    paths:
-      - '.vitepress/**'
-      - 'tests/**'
-      - 'scripts/**'
-      - 'package*.json'
-      - '.github/workflows/**'
-      - 'hilfe/alle-artikel.md'
-      - 'schild3/import-export-statistik/schnittstellenbeschreibung.md'
+    branches: [dev, master]
+env:
+  NODE_OPTIONS: --max-old-space-size=6144
 permissions:
   contents: read
+concurrency:
+  group: browser-${{ github.ref }}
+  cancel-in-progress: true
 jobs:
-  browser:
+  browser-check:
     runs-on: ubuntu-24.04
-    timeout-minutes: 10
+    timeout-minutes: 20
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v7.0.1
+      - uses: actions/setup-node@v7.1.0
         with:
-          node-version: '22'
+          node-version-file: .nvmrc
           cache: npm
       - run: npm ci
       - run: npm run docs:build
-      - run: npm install --no-save --package-lock=false playwright@1.56.1
       - run: npx playwright install --with-deps chromium
       - run: npm run docs:check-browser
-      - uses: actions/upload-artifact@v4
-        if: failure()
+      - uses: actions/upload-artifact@v7.0.2
+        if: always()
         with:
-          name: browser-fehler
+          name: schild2-browser-pruefung
           path: test-results

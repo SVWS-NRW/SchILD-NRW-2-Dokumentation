@@ -1,0 +1,15 @@
+---
+title: "Sprachenfolge aus Leistungsdaten übernehmen"
+---
+
+<a id="sprachenfolge-aus-leistungsdaten-ermitteln"></a>
+
+# Sprachenfolge aus Leistungsdaten übernehmen
+
+Dieser Gruppenprozess bestimmt aus den Eintragungen der Leistungsdaten in den jeweiligen Lernabschnitten (Registerkarte [Daten im aktuellen Halbjahr bearbeiten](/zeugnisse/vorbereitung/akt-halbjahr)) für die aktuell ausgewählte Schülergruppe die "Beginn-" und "End"-Abschnitte für die Sprachenfolgen.
+
+Die Ergebnisse werden unter [Laufbahninformationen](/schild2/schueler/laufbahninfo) bei der Sprachenfolge eingetragen. Dabei können Sie noch auswählen, ob bestehende Einträge überschrieben werden sollen oder nicht.
+
+Handelt es sich um einen Jahrgang, der nicht "Abgangsjahrgang" ist, werden die Einträge mit offenem Ende erzeugt.
+
+Quelle: [Sprachenfolge aus Leistungsdaten ermitteln – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sprachenfolge+aus+Leistungsdaten+ermitteln&oldid=1901)

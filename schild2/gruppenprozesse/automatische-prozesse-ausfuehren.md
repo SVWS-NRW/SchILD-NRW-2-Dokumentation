@@ -1,0 +1,19 @@
+---
+title: "Automatische Prozesse ausführen"
+---
+
+# Automatische Prozesse ausführen
+
+Hier starten Sie die ansonsten regelmäßig automatisch angestoßenen Pflegeprozesse von Hand. Die folgende Übersicht beschreibt die betroffenen Aufgaben.
+
+Diese Prozesse werden einmal pro Woche von SchILD-NRW 2 automatisch angestoßen.
+
+Sie können diese aber auch manuell mit diesem Menüpunkt ablaufen lassen.
+
+Die "Automatischen Prozesse" prüfen, ob alle Schüler einen Lernabschnitt im aktuellen Halbjahr haben. Sollte zum Beispiel bei einigen Schülern, die vom Status "Neuaufnahme" auf "Aktiv" umgestellt wurden, noch nie der Reiter "Akt. Halbjahr" angeklickt worden sein, so wird dies an dieser Stelle nachgeholt.
+
+Es wird die Volljährigkeit geprüft.
+
+An weiterführenden Schulen (nicht BK) wird das Erreichen der Schulpflicht geprüft.
+
+Quelle: [Automatische Prozesse ausführen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Automatische+Prozesse+ausf%C3%BChren&oldid=1540)

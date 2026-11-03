@@ -1,0 +1,46 @@
+---
+title: "DateinameFuerDVAuswaehlen"
+---
+
+# DateinameFuerDVAuswaehlen
+
+<a id="RAP-Funktion_&quot;DateinameFuerDVAuswaehlen&quot;"></a>
+<a id="RAP-Funktion_.22DateinameFuerDVAuswaehlen.22"></a>
+
+<a id="signatur"></a>
+
+## Beschreibung
+
+Der Aufruf dieser Prozedur (typischerweise im Ereignis ReportBeforePrint) bewirkt,
+dass vor der Ausgabe eines Reportes als PDF-Datei in der Dokumentenverwaltung
+ein individueller Dateiname eingegeben werden kann. Dieser Name wird dann bei
+der Ermittlung des „schülerspezifischen“ Dateinamens anstelle des Namens der
+Reportvorlage verwendet. Dies ist besonders bei Serienbriefvorlagen hilfreich, bei
+denen der Briefinhalt zur Laufzeit aus einer RTF-Datei geladen wird.
+
+```pascal
+procedure DateinameFuerDVAuswaehlen;
+```
+
+## Rückgabewert
+
+Die Reportvorlage heißt „RTFBrief.rtm“, der nachgeladene RTF-Brieftext heißt "Hausaufgaben.rtf". Normalerweise würde dann die in der
+Dokumentenverwaltung des Schülers abgelegte Datei zum Beispiel den Namen
+„Hausaufgaben_2013_05_24.pdf“ erhalten, das heißt aus dem Dateinamen geht die Bedeutung
+des Schreibens bereits hervor. Durch Aufruf von „DateinameFuerDVAuswaehlen“ kann
+aber ein Dialog aufgerufen werden, in dem ein individueller Name definiert werden
+kann (zum Beispiel „Hausaufgaben - Zweite Information“), woraus sich dann der Dateinamen
+„Hausaufgaben - Zweite Information_2013_05_24.pdf“ ergibt.
+
+## Beispiel
+
+```pascal
+procedure GlobalOnCreate;
+ begin
+  DateinameFuerDVAuswaehlen;
+ end;
+```
+
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
+
+Quelle: [DateinameFuerDVAuswaehlen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=DateinameFuerDVAuswaehlen&oldid=6027)

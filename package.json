@@ -1,7 +1,7 @@
 {
-  "name": "schild3-doku",
+  "name": "schild2-doku",
   "version": "1.0.0",
-  "description": "Dokumentation zu SchILD-NRW 3",
+  "description": "Dokumentation zu SchILD-NRW 2",
   "scripts": {
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
@@ -12,23 +12,27 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SVWS-NRW/SchILD-NRW-3-Dokumentation.git"
+    "url": "git+https://github.com/SVWS-NRW/SchILD-NRW-2-Dokumentation.git"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/SVWS-NRW/SchILD-NRW-3-Dokumentation/issues"
+    "url": "https://github.com/SVWS-NRW/SchILD-NRW-2-Dokumentation/issues"
   },
-  "homepage": "https://github.com/SVWS-NRW/SchILD-NRW-3-Dokumentation#readme",
+  "homepage": "https://schild2.svws-nrw.de/",
   "devDependencies": {
-    "markdown-it-container": "^4.0.0",
-    "vitepress": "^1.6.4"
+    "markdown-it-container": "4.0.0",
+    "vitepress": "1.6.4",
+    "playwright": "1.64.1"
   },
   "overrides": {
     "vitepress": {
       "vite": "6.4.5"
     }
+  },
+  "license": "CC0-1.0",
+  "engines": {
+    "node": "22.x || 24.x"
   }
 }

@@ -1,0 +1,25 @@
+---
+title: "Noten, Mahnungen und Fehlstunden bearbeiten"
+---
+
+<a id="noten-mahnungen-und-fehlstunden-eingeben"></a>
+
+# Noten, Mahnungen und Fehlstunden bearbeiten
+
+Dieser Gruppenprozess ermöglicht es, für eine größere Schülergruppe Noten, Mahnungen oder Fehlstunden einzugeben. Zuerst werden in einem kleinen Fenster das Schuljahr und der Abschnitt abgefragt, für den die Eingaben vorgenommen werden sollen. Danach öffnet sich für die ausgewählte Schülergruppe die Eingabemaske. Sie können dort aus drei Sortierreihenfolgen auswählen:
+
+1.  zuerst nach dem Fach, dann dem Schüler (geeignet für die Eingabe der fehlenden Noten in einem Fach, von dem man die Noten auf einer Liste vorliegen hat.)
+2.  zuerst nach dem Schüler, dann dem Fach (hier erhalten Sie auf einen Blick Informationen zu den Schülern in allen Fächern)
+3.  zuerst nach einem Kurs, dann nach den Schülern (entspricht im Prinzip der Sortierung Fach, Schüler)
+
+Zusätzlich werden auch noch weitere Filtermöglichkeiten angeboten, um zum Beispiel Eintragungen für einen Kurs vorzunehmen.
+
+Das Setzen der Häkchen bei den Mahnungen erfolgt durch einen Doppelklick, die Eintragungen bei den Fehlstunden (FSG=Fehlstunden gesamt, FSU=Fehlstunden unentschuldigt) und den Noten durch Klick auf das entsprechende Tabellenfeld. Die Noten können auch aus dem Pull-Down-Menü ausgewählt werden.
+
+![GP-NotenFehlstdeingeben](/bilder/zeugnisse/vorbereitung/gp-notenfehlstdeingeben.jpg)
+
+Nach Abschluss der Eingabe werden die Daten durch Kick auf die Schaltfläche "In die Datenbank übernehmen" gespeichert.
+
+**Besonderheiten:** In der Sek.II kann durch einen Klick auf den Spaltentitel Noten auf eine Eingabe und Anzeige von Punkten umgeschaltet werden. In Jahrgängen, in denen keine Mahnungen vorgesehen sind (zum Beispiel in der Qualifikationsphase), wird die Spalte Mahnen nicht angezeigt.
+
+Quelle: [Noten, Mahnungen und Fehlstunden eingeben – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Noten%2C+Mahnungen+und+Fehlstunden+eingeben&oldid=3623)

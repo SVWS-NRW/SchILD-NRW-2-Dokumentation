@@ -1,0 +1,47 @@
+---
+title: "LehrerDatenLaden"
+---
+
+# LehrerDatenLaden
+
+<a id="RAP-Funktion_&quot;LehrerDatenLaden&quot;"></a>
+<a id="RAP-Funktion_.22LehrerDatenLaden.22"></a>
+
+<a id="signatur"></a>
+
+## Beschreibung
+
+Lädt Angaben zu einer Lehrkraft in die übergebenen Variablen, darunter Name, Anrede und Amtsbezeichnung.
+
+```pascal
+procedure LehrerDatenLaden(const Kuerzel: String; var Name, Vorname, Anrede, Titel, Amtsbez: String);
+```
+
+## Parameter
+
+| Parameter | Bedeutung |
+| --- | --- |
+| `Name` | Nachname des Lehrers |
+| `Vorname` | ..des Lehrers |
+| `Anrede` | ..des Lehrers |
+| `Titel` | ..des Lehrers |
+| `Amtsbez` | ..des Lehrers |
+
+## Beispiel
+
+```pascal
+procedure Label4711OnGetText(var Text: String);
+var
+  lName, lVorname, lAnrede, lTitel, lAmtsbez: String;
+begin
+  LehrerdatenLaden(Schueler['Lehrer'],lName, lVorname, lAnrede, lTitel,lAmtsbez);
+  Text:=lAnrede;
+  if lAmtsBez <> '' then Text:=Text + lAmtsBez;
+  if lTitel <> '' then Text:=Text +  lTitel;
+  Text:=Text + lVorname +  lName;
+end;
+```
+
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
+
+Quelle: [LehrerDatenLaden – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=LehrerDatenLaden&oldid=4843)

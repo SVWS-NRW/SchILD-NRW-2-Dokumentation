@@ -1,0 +1,42 @@
+---
+title: "Hilfe und Support finden"
+---
+
+<a id="hilfe-inhaltsverzeichnis"></a>
+
+# Hilfe und Support finden
+
+Hier sind die im früheren Wiki beschriebenen Hilfe- und Supportwege zusammengefasst. Die Seite dient zur Orientierung; eingebundene ältere Kontakte und Verweise gehören zum übernommenen Ausgangstext.
+
+<a id="Wo_bekomme_ich_Hilfe_zu_Schild-NRW_?"></a>
+<a id="Wo_bekomme_ich_Hilfe_zu_Schild-NRW_.3F"></a>
+
+<a id="wo-bekomme-ich-hilfe-zu-schild-nrw"></a>
+
+## Wo bekomme ich Hilfe zu SchILD-NRW 2 ?
+
+![Supportkonzept des MSW](/bilder/hilfe/wiki-archiv/supportkonzept-des-msw.png)
+
+[Historisches Supportkonzept des MSW](/dateien/wiki/supportkonzept-des-msw-49f6bce7.pdf)
+
+Jede Schule hat einen Fachberater, der diese bei Fragen rund um SchILD-NRW 2 unterstützen soll.
+
+Mit der Angabe Ihrer Schulnummer finden Sie Ihren Fachberater auf dieser Seite:
+
+**<http://www.svws.nrw.de/index.php?id=fachberatersuche>**
+
+Dieser Fachberater ist von den jeweiligen Bezirksregierungen für jede Schule bestellt.
+
+Einen Schulform spezifischen Ansprechpartner für erste Informationen finden Sie auch hier:
+
+**<http://www.svws.nrw.de/index.php?id=189>**
+
+Allgemeine Hinweise zu Hilfen finden Sie hier:
+
+**<http://www.svws.nrw.de/index.php?id=service>**
+
+Eine Installationsanleitung zu SchILD-NRW 2 und eine Versionsgeschichte erhalten Sie direkt auf der Homepage:
+
+Schnellinfo: **<http://www.svws.nrw.de/index.php?id=home>**
+
+Quelle: [Hilfe:Inhaltsverzeichnis – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Hilfe%3AInhaltsverzeichnis&oldid=2044)

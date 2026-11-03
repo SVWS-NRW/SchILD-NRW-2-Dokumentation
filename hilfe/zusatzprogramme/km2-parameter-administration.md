@@ -1,0 +1,40 @@
+---
+title: "Datenbank und Administratorzugang in KM2 einrichten"
+---
+
+<a id="km2-parameter-administration"></a>
+
+# Datenbank und Administratorzugang in KM2 einrichten
+
+![Km2_parameter_admin](/bilder/tools/km2/km2-parameter-admin.png)
+
+Die Einstellungen für den Administrator gliedern sich in zwei Bereiche:
+
+- die Festlegung der Parameter für den **Datenzugriff auf „SchILD-NRW 2"** (Punkte **(1)** bis **(5)** und
+- die Festlegung des Admin-Passwortes (Punkt **(6)**)
+
+<a id="Datenzugriff"></a>
+
+## Datenzugriff
+
+- **(1)**: Der Zugriff auf SchILD-NRW 2 kann mit Hilfe einer UDL-Datei erfolgen (**[UDL](http://msdn.microsoft.com/de-de/library/aa301691%28v=vs.71%29.aspx)**= **U**niversal **D**ata **L**ink):\
+  Wenn das Programm SchILD-NRW 2 selbst mit Hilfe einer UDL-Datei auf seine Datenbank zugreift, so können Sie diese Konfigurationsdatei auch für das Programm KM2 benutzen. Wählen Sie die entsprechende UDL-Datei mit Hilfe von **(3)** aus.\
+  **Hinweis**: Die UDL –Dateien für den Start von SchILD-NRW 2 befinden sich im UDL-Ordner (zum Beispiel c:\Program Files (x86)\SchILD-NRW\UDL\\).
+- **(2)**: Sollten sich Ihre SchILD-NRW 2-Daten in einer MDB-Datei befinden (Microsoft-Access-Format), was der Standardinstallation entspricht (zum Beispiel c:\Program Files (x86)\SchILD-NRW\DB\SchILD2000n.mdb), so können Sie mit Hilfe von **(3)** die MDB-Datei direkt auswählen.
+- **(4)**: Wenn sich Ihre SchILD-NRW 2-Daten nicht in einer MDB-Datei befinden, sondern zum Beispiel in einer SQL-Datenbank, so müssen Sie gegebenenfalls den Benutzernamen und das zugehörige Passwort hinterlegen, damit KM2 auf die Daten zugreifen kann.\
+  **Hinweis**: Der von SchILD-NRW 2 implementierte Mechanismus (Erzeugen einer zusätzlichen Datei, in der die Zugangsdaten verschlüsselt abgespeichert sind) wird von KM2 nicht unterstützt. Die Zugangsdaten werden in einer Konfigurationsdatei zusammen mit anderen sensiblen Daten gespeichert, die entsprechend verschlüsselt wird.
+- **(5)**: Mit der Schaltfläche "Verbindung testen" versucht das Programm auf der Basis der eingegebenen Parameter die SchILD-NRW 2-Datenbank zu öffnen. Ist dieser Vorgang erfolgreich, wird eine entsprechende Meldung angezeigt, und es werden zusätzlich einige Daten eingelesen, wie zum Beispiel die Liste der SchILD-NRW 2-Unterrichtsfächer.
+
+![Km2_verbindung_testen](/bilder/tools/km2/km2-verbindung-testen.png)
+
+- **(6)**: KM2 verwaltet den Benutzer "Administrator":
+
+<!-- -->
+
+- Benutzername: "Administrator"
+- Login-Name: "Admin"
+- Startpasswort "SchILD-NRW 2"
+
+siehe auch [Benutzerrechte in KM2](/administration/benutzer-einstellungen/benutzerverwaltung)
+
+Quelle: [KM2 - Parameter - Administration – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=KM2+-+Parameter+-+Administration&oldid=2983)

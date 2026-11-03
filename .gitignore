@@ -26,3 +26,6 @@ yarn-error.log*
 
 # Local browser test output
 test-results/
+
+# Temporary VitePress server bundle
+.vitepress/.temp/

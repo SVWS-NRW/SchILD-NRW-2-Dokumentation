@@ -1,0 +1,15 @@
+---
+title: "B06 Berufliche Kenntnisse und Hauptschulabschluss"
+---
+
+<a id="b06-berufliche-kenntnisse-hauptschulabschluss-kl-10-bk-hsa10-1j-vz"></a>
+
+# B06 Berufliche Kenntnisse und Hauptschulabschluss
+
+Diese Seite zeigt ein Bildbeispiel zur Abschlussberechnung für den im Titel genannten Bildungsgang. Vergleichen Sie die dargestellte Ansicht mit Ihrem Bildungsgang. Die Bedeutung des Karteireiters und die allgemeinen Arbeitsschritte erläutert [BK-Abschlussverfahren](/zeugnisse/berufskolleg/bk-abschluss?rubrik=schild2).
+
+Einjähriger Vollzeitbildungsgang mit beruflichen Kenntnissen und Hauptschulabschluss nach Klasse 10.
+
+![BK_Abschluss_B06](/bilder/zeugnisse/berufskolleg/bk-abschluss-b06.png)
+
+Quelle: [B06 Berufliche Kenntnisse/Hauptschulabschluss Kl. 10 (BK/HSA10; 1j. VZ) – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=B06+Berufliche+Kenntnisse%2FHauptschulabschluss+Kl.+10+%28BK%2FHSA10%3B+1j.+VZ%29&oldid=4758)
