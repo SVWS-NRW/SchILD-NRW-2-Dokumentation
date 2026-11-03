@@ -1,86 +1,35 @@
-name: Dokumentation auf GitHub Pages veröffentlichen
-
+name: Bedienung prüfen
 on:
-  # Nach einem Merge nach master automatisch veröffentlichen.
-  push:
-    branches: [master]
-  # Andere Branches können manuell gebaut werden, ohne sie zu veröffentlichen.
   workflow_dispatch:
-
+  pull_request:
+    branches: [dev]
+    paths:
+      - '.vitepress/**'
+      - 'tests/**'
+      - 'scripts/**'
+      - 'package*.json'
+      - '.github/workflows/**'
+      - 'hilfe/alle-artikel.md'
+      - 'schild3/import-export-statistik/schnittstellenbeschreibung.md'
 permissions:
   contents: read
-
-concurrency:
-  group: pages
-  cancel-in-progress: false
-
 jobs:
-  build:
+  browser:
     runs-on: ubuntu-24.04
-    # Build und Linkprüfung verwenden dieselbe Domainwurzel.
-    env:
-      DOCS_BASE: /
+    timeout-minutes: 10
     steps:
-      - name: Repository auschecken
-        uses: actions/checkout@v7
-
-      - name: Node.js einrichten
-        uses: actions/setup-node@v7
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: '22'
           cache: npm
-
-      - name: GitHub Pages konfigurieren
-        id: pages
-        uses: actions/configure-pages@v6
-
-      - name: Abhängigkeiten installieren
-        run: npm ci
-
-      - name: Website erstellen
-        run: npm run docs:build
-
-      - name: Interne Links und Bilder prüfen
-        run: npm run docs:check
-
-      # Diesen Build kann der bestehende Nginx-Server unverändert ausliefern.
-      - name: Build für die eigene Domain bereitstellen
-        uses: actions/upload-pages-artifact@v5
+      - run: npm ci
+      - run: npm run docs:build
+      - run: npm install --no-save --package-lock=false playwright@1.56.1
+      - run: npx playwright install --with-deps chromium
+      - run: npm run docs:check-browser
+      - uses: actions/upload-artifact@v4
+        if: failure()
         with:
-          name: schild2-domain
-          path: .vitepress/dist
-
-      # Solange GitHub Pages keine eigene Domain verwendet, ist die Vorschau
-      # unter dem Repository-Unterpfad erreichbar. Diesen getrennt bauen.
-      - name: GitHub-Pages-Pfad berücksichtigen
-        if: steps.pages.outputs.base_path != ''
-        env:
-          DOCS_BASE: ${{ steps.pages.outputs.base_path }}/
-        run: npm run docs:build
-
-      - name: GitHub-Pages-Links und Bilder prüfen
-        if: steps.pages.outputs.base_path != ''
-        env:
-          DOCS_BASE: ${{ steps.pages.outputs.base_path }}/
-        run: npm run docs:check
-
-      - name: Website für die Veröffentlichung hochladen
-        uses: actions/upload-pages-artifact@v5
-        with:
-          path: .vitepress/dist
-
-  deploy:
-    # Testläufe auf dev oder Arbeitsbranches veröffentlichen nichts.
-    if: github.ref == 'refs/heads/master'
-    needs: build
-    runs-on: ubuntu-24.04
-    permissions:
-      pages: write
-      id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Auf GitHub Pages veröffentlichen
-        id: deployment
-        uses: actions/deploy-pages@v5
+          name: browser-fehler
+          path: test-results
