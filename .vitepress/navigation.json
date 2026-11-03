@@ -900,6 +900,27 @@
                 "link": "/zeugnisse/grundschule",
                 "items": [
                   {
+                    "text": "Zeugnisse im Report-Explorer",
+                    "items": [
+                      {
+                        "text": "Ankreuzzeugnisse erstellen",
+                        "link": "/zeugnisse/grundschule/ankreuzzeugnisse-erstellen"
+                      },
+                      {
+                        "text": "Layout für Ankreuzzeugnisse",
+                        "link": "/zeugnisse/grundschule/ankreuzzeugnisse-ini"
+                      },
+                      {
+                        "text": "Text- und Notenzeugnisse erstellen",
+                        "link": "/zeugnisse/grundschule/textzeugnisse-erstellen"
+                      },
+                      {
+                        "text": "Layout für Text- und Notenzeugnisse",
+                        "link": "/zeugnisse/grundschule/textzeugnisse-ini"
+                      }
+                    ]
+                  },
+                  {
                     "text": "Textzeugnisse im Report-Explorer",
                     "link": "/zeugnisse/grundschule/grundschulzeugnisse-textzeugnis"
                   },
@@ -2895,6 +2916,10 @@
               {
                 "text": "Druckfunktionen",
                 "link": "/reporting/verwaltung/druckausgabe"
+              },
+              {
+                "text": "Zeugnisse als Broschüren drucken",
+                "link": "/zeugnisse/vorbereitung/zeugnisse-broschuerendruck"
               },
               {
                 "text": "Report-Explorer öffnen",
