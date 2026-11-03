@@ -1,11 +1,13 @@
 # Dokumentation und Wiki im Vergleich
 
-Die Tabelle führt die ursprünglichen Wiki-Inhaltsseiten zu den passenden Dokumentationsartikeln. Entfernte Leerartikel verweisen auf ihren Ersatz. Neue Anleitungen aus PDF-Quellen sind am Ende gesondert aufgeführt.
+Die erste Tabelle erfasst die Inhaltsseiten und LuPO-Artikel aus der gesicherten Wiki-Fassung sowie alle Artikelseiten der Dokumentation. Die Wiki-Spalte verwendet die ursprünglichen Seitentitel.
+
+**Kein Wiki-Artikel** kennzeichnet neue Artikelseiten der Dokumentation, darunter auch Übersichten und Anleitungen aus PDF-Quellen. **Kein eigener Dokumentationsartikel** kennzeichnet Wiki-Seiten ohne eigenständige Entsprechung. Wo es eine passende weiterführende Seite gibt, ist sie verlinkt. Zusammengeführte Artikel und übernommene Abschnitte sind ihrem Ziel zugeordnet.
 
 | Wiki-Artikel | Dokumentation |
 | --- | --- |
 | Hauptseite | [Frühere Wiki-Startseite](/hilfe/wiki-archiv/hauptseite) |
-| SchILD-NRW 2-Index | [Das Programm im Überblick](/einstieg/grundlagen/schild-nrw-index) |
+| Schild-NRW-Index | [Das Programm im Überblick](/einstieg/grundlagen/schild-nrw-index) |
 | Reporting | [Reporting im Überblick](/reporting/erstellung/reporting) |
 | RAP-Funktionen | [RAP-Funktionen](/reporting/rap "/reporting/rap") |
 | Anrede | [Anrede](/reporting/rap/anrede "/reporting/rap/anrede") |
@@ -123,7 +125,7 @@ Die Tabelle führt die ursprünglichen Wiki-Inhaltsseiten zu den passenden Dokum
 | NurGewerteteAbschnitte | [NurGewerteteAbschnitte](/reporting/rap/nurgewerteteabschnitte "/reporting/rap/nurgewerteteabschnitte") |
 | Hauptfenster | [Hauptfenster](/einstieg/grundlagen/hauptfenster "/einstieg/grundlagen/hauptfenster") |
 | StatistikKuerzelAusFachKuerzel | [StatistikKuerzelAusFachKuerzel](/reporting/rap/statistikkuerzelausfachkuerzel "/reporting/rap/statistikkuerzelausfachkuerzel") |
-| Statusfilter | [Status- und Schnellfilter](/schild2/auswahl/schnellfilter) |
+| Karteikasten | [Status- und Schnellfilter](/schild2/auswahl/schnellfilter) |
 | Kurs42:Inhaltsverzeichnis | [Kurs42:Inhaltsverzeichnis](/tools/kurs42 "/tools/kurs42") |
 | Kataloge | [Kataloge](/schild2/unterricht-kataloge/kataloge "/schild2/unterricht-kataloge/kataloge") |
 | Konfessionen | [Konfessionen](/schild2/unterricht-kataloge/konfessionen "/schild2/unterricht-kataloge/konfessionen") |
@@ -146,7 +148,7 @@ Die Tabelle führt die ursprünglichen Wiki-Inhaltsseiten zu den passenden Dokum
 | Verkehrssprachen | [Verkehrssprachen](/schild2/unterricht-kataloge/verkehrssprachen "/schild2/unterricht-kataloge/verkehrssprachen") |
 | Erzieher-Arten | [Arten von Erziehungsberechtigten](/schild2/unterricht-kataloge/erzieher-arten) |
 | Fahrschüler-Arten | [Fahrschülerarten](/schild2/unterricht-kataloge/fahrschueler-arten) |
-| Haltestelle | [Haltestelle](/schild2/unterricht-kataloge/haltestellen "/schild2/unterricht-kataloge/haltestellen") |
+| Haltestelle | Kein eigener Dokumentationsartikel. Verwandte Seite [Haltestelle](/schild2/unterricht-kataloge/haltestellen "/schild2/unterricht-kataloge/haltestellen") |
 | Haltestellen | [Haltestellen](/schild2/unterricht-kataloge/haltestellen "/schild2/unterricht-kataloge/haltestellen") |
 | Andere Schulen und Schulnummern | [Andere Schulen und Schulnummern](/schild2/unterricht-kataloge/andere-schulen-und-schulnummern "/schild2/unterricht-kataloge/andere-schulen-und-schulnummern") |
 | Schulen in NRW | [Schulen in NRW](/schild2/unterricht-kataloge/schulen-in-nrw "/schild2/unterricht-kataloge/schulen-in-nrw") |
@@ -163,7 +165,7 @@ Die Tabelle führt die ursprünglichen Wiki-Inhaltsseiten zu den passenden Dokum
 | Schule bearbeiten | [Schuldaten einrichten](/einstieg/erste-schritte/schule-bearbeiten) |
 | Lehrkräfte | [Lehrkräfte](/schild2/lehrkraefte/lehrkraefte "/schild2/lehrkraefte/lehrkraefte") |
 | Datenaustausch | [Datenaustausch](/schild2/import-export-statistik/datenaustausch "/schild2/import-export-statistik/datenaustausch") |
-| Schnittstelle SchILD-NRW 2 | [Datenaustausch über die SchILD-NRW 2-Schnittstelle](/schild2/import-export-statistik/schnittstelle-schild-nrw) |
+| Schnittstelle Schild-NRW | [Datenaustausch über die SchILD-NRW 2-Schnittstelle](/schild2/import-export-statistik/schnittstelle-schild-nrw) |
 | Schnittstellenbeschreibung | [Dateien und Felder der Textschnittstelle](/schild2/import-export-statistik/schnittstellenbeschreibung) |
 | Datenschutzhinweis | [Datenschutzhinweis](/administration/benutzer-einstellungen/datenschutzhinweis "/administration/benutzer-einstellungen/datenschutzhinweis") |
 | Individual-Daten I | [Individualdaten I](/schild2/schueler/individual-daten-i) |
@@ -190,7 +192,7 @@ Die Tabelle führt die ursprünglichen Wiki-Inhaltsseiten zu den passenden Dokum
 | Filter I | [Filter I](/schild2/auswahl/filter-i "/schild2/auswahl/filter-i") |
 | Filter II | [Filter II](/schild2/auswahl/filter-ii "/schild2/auswahl/filter-ii") |
 | Allgemeines | [Allgemeine Gruppenprozesse](/schild2/gruppenprozesse/allgemeines) |
-| SchILD-NRW 2-Tutorials | [Kurzanleitungen](/schild2/#kurzanleitungen) |
+| Schild-NRW-Tutorials | [Kurzanleitungen](/schild2/#kurzanleitungen) |
 | Fächer | [Gruppenprozesse für Fächer](/schild2/gruppenprozesse/faecher) |
 | Noten, Zeugnisvorbereitung | [Gruppenprozesse für Noten und Zeugnisse](/zeugnisse/vorbereitung/noten-zeugnisvorbereitung) |
 | Lernabschnitte, Versetzung | [Gruppenprozesse für Lernabschnitte und Versetzung](/schild2/versetzung/lernabschnitte-versetzung) |
@@ -299,10 +301,10 @@ Die Tabelle führt die ursprünglichen Wiki-Inhaltsseiten zu den passenden Dokum
 | Zeugnisse drucken und Schüler ausschulen | [Zeugnisse drucken und Schüler entlassen](/zeugnisse/vorbereitung/zeugnisse-drucken-und-schueler-ausschulen) |
 | JG-Tabelle-BK | [Statistikjahrgänge am Berufskolleg](/schild2/unterricht-kataloge/jg-tabelle-bk) |
 | Versetzung/Übertragung ins neue Halbjahr oder in Abschluss | [Einzelne Schülergruppen fortschreiben](/schild2/versetzung/versetzung-uebertragung-ins-neue-halbjahr-oder-in-abschluss) |
-| Zusatzprogramme / Tools | [Tools und Zusatzprogramme](/tools/) |
+| Zusatzprogramme / Tools | Kein eigener Dokumentationsartikel. Verwandte Seite [Tools und Zusatzprogramme](/tools/) |
 | Benutzerverwaltung Useradmn.exe | [Benutzerrechte mit Useradmn verwalten](/administration/benutzer-einstellungen/benutzerverwaltung-useradmn-exe) |
 | Benutzerverwaltung PlugIn-DLL | [Benutzerverwaltung als Plugin einbinden](/administration/benutzer-einstellungen/benutzerverwaltung-plugin-dll) |
-| Shortcuts in SchILD-NRW 2 | [Tastenkürzel](/administration/benutzer-einstellungen/shortcuts-in-schild-nrw) |
+| Shortcuts in Schild-NRW | [Tastenkürzel](/administration/benutzer-einstellungen/shortcuts-in-schild-nrw) |
 | Konferenzmodul KM2.exe | [Das Konferenzmodul KM2 kennenlernen](/hilfe/zusatzprogramme/konferenzmodul-km2-exe) |
 | Abitur | [Abitur](/zeugnisse/sekundarstufen/abitur "/zeugnisse/sekundarstufen/abitur") |
 | Betrieb/Adresse zuweisen | [Betrieb oder Adresse zuweisen](/schild2/gruppenprozesse/betrieb-adresse-zuweisen) |
@@ -332,9 +334,9 @@ Die Tabelle führt die ursprünglichen Wiki-Inhaltsseiten zu den passenden Dokum
 | Word-Seriendruck | [Word-Seriendruck](/reporting/verwaltung/word-seriendruck "/reporting/verwaltung/word-seriendruck") |
 | Abiturdurchlauf | [Abiturberechnungen durchführen](/zeugnisse/sekundarstufen/abiturdurchlauf) |
 | Textzeugnisse zuordnen | [Textzeugnisse zuordnen](/zeugnisse/grundschule/textzeugnisse-zuordnen "/zeugnisse/grundschule/textzeugnisse-zuordnen") |
-| Textzeugnisse erzeugen | [Textzeugnisse erzeugen](/tools/notenmodul-grundschule/rueckgabe-und-druck "/tools/notenmodul-grundschule/rueckgabe-und-druck") |
+| Textzeugnisse erzeugen | Kein eigener Dokumentationsartikel. Verwandte Seite [Textzeugnisse erzeugen](/tools/notenmodul-grundschule/rueckgabe-und-druck "/tools/notenmodul-grundschule/rueckgabe-und-druck") |
 | Textzeugnisse drucken | [Textzeugnisse drucken](/zeugnisse/grundschule/textzeugnisse-drucken "/zeugnisse/grundschule/textzeugnisse-drucken") |
-| Neuaufnahmen in SchILD-NRW 2 001 | [Neue Schüler aufnehmen](/einstieg/erste-schritte/neuaufnahmen-in-schild-nrw-001) |
+| Neuaufnahmen in Schild-NRW 001 | [Neue Schüler aufnehmen](/einstieg/erste-schritte/neuaufnahmen-in-schild-nrw-001) |
 | Einführung in die Gruppenprozesse 001 | [Gruppenprozesse kennenlernen](/einstieg/erste-schritte/einfuehrung-in-die-gruppenprozesse-001) |
 | Zeugnisvorbereitungen und Druck | [Zeugnisdruck vorbereiten und durchführen](/zeugnisse/vorbereitung/zeugnisvorbereitungen-und-druck) |
 | Leistungsdaten Kursunterricht | [Leistungsdaten im Kursunterricht bearbeiten](/schild2/unterricht-kataloge/leistungsdaten-kursunterricht) |
@@ -356,17 +358,17 @@ Die Tabelle führt die ursprünglichen Wiki-Inhaltsseiten zu den passenden Dokum
 | Benutzung von Filter I 001 | [Schüler mit Filter I auswählen](/schild2/auswahl/benutzung-von-filter-i-001) |
 | Datenexport nach Excel oder OpenOffice-Calc | [Daten nach Excel oder Calc exportieren](/schild2/import-export-statistik/datenexport-nach-excel-oder-openoffice-calc) |
 | Sortierung ändern | [Sortierung ändern](/schild2/auswahl/sortierung-aendern "/schild2/auswahl/sortierung-aendern") |
-| Import der Zeugnisformulare in SchILD-NRW 2 | [Zeugnisformulare importieren](/zeugnisse/vorbereitung/import-der-zeugnisformulare-in-schild-nrw) |
+| Import der Zeugnisformulare in Schild-NRW | [Zeugnisformulare importieren](/zeugnisse/vorbereitung/import-der-zeugnisformulare-in-schild-nrw) |
 | Fachbezogene Bemerkungen | [Fachbezogene Bemerkungen eintragen](/zeugnisse/vorbereitung/fachbezogene-bemerkungen) |
 | Datenbank kopieren | [Datenbank kopieren](/administration/datenbanken/datenbank-kopieren "/administration/datenbanken/datenbank-kopieren") |
 | Lupo:Handbuch | [LuPO-Handbuch](/tools/lupo/lupo-handbuch) |
 | Lupo:Einleitung | [LuPO kennenlernen](/tools/lupo/lupo-einleitung) |
 | Lupo:Installation | [LuPO bereitstellen und starten](/tools/lupo/lupo-installation) |
-| Lupo:Vorbereitungen in SchILD-NRW 2 | [SchILD-NRW 2-Daten für LuPO vorbereiten](/tools/lupo/lupo-vorbereitungen-in-schild-nrw) |
+| Lupo:Vorbereitungen in Schild-NRW | [SchILD-NRW 2-Daten für LuPO vorbereiten](/tools/lupo/lupo-vorbereitungen-in-schild-nrw) |
 | Transaktionsprotokoll verwenden | [Transaktionsprotokoll verwenden](/administration/datenbanken/transaktionsprotokoll-verwenden "/administration/datenbanken/transaktionsprotokoll-verwenden") |
 | Benutzung des externen Notenmoduls | [Noten im externen Notenmodul eingeben](/zeugnisse/vorbereitung/benutzung-des-externen-notenmoduls) |
 | Eintragung der Schüler im offenen Ganztag | [Offenen Ganztag statistisch erfassen](/schild2/schueler/eintragung-der-schueler-im-offenen-ganztag) |
-| Eigene Datenquellen für SchILD-NRW 2-Reports | [Eigene Datenquellen für Reports einrichten](/reporting/erstellung/eigene-datenquellen-fuer-schild-reports) |
+| Eigene Datenquellen für Schild-Reports | [Eigene Datenquellen für Reports einrichten](/reporting/erstellung/eigene-datenquellen-fuer-schild-reports) |
 | DQ01-Demo.spd | [Beispiel einer eigenen Report-Datenquelle](/reporting/erstellung/dq01-demo-spd) |
 | Eingabe von Flüchtlingskindern | [Geflüchtete Schüler erfassen](/schild2/schueler/eingabe-von-fluechtlingskindern) |
 | Erzieher mit Funktionen | [Elternfunktionen zuweisen](/schild2/unterricht-kataloge/erzieher-mit-funktionen) |
@@ -385,9 +387,9 @@ Die Tabelle führt die ursprünglichen Wiki-Inhaltsseiten zu den passenden Dokum
 | JaNa-Export (Jahrgang und Nationalität) | [Jahrgänge und Nationalitäten exportieren](/schild2/import-export-statistik/jana-export-jahrgang-und-nationalitaet) |
 | SchILDweb | [SchILDweb](/hilfe/zusatzprogramme/schildweb "/hilfe/zusatzprogramme/schildweb") |
 | Individuelle Schülergruppen bearbeiten und nutzen | [Mit eigenen Schülergruppen arbeiten](/schild2/auswahl/individuelle-schuelergruppen-bearbeiten-und-nutzen) |
-| Kursverwaltung KPlan.exe | [Kurse mit KPlan verwalten](/hilfe/zusatzprogramme/kursplanung-kplan-exe) |
+| Kursverwaltung KPlan.exe | Kein eigener Dokumentationsartikel. Verwandte Seite [Kurse mit KPlan verwalten](/hilfe/zusatzprogramme/kursplanung-kplan-exe) |
 | Kursplanung KPlan.exe | [Kurse mit KPlan verwalten](/hilfe/zusatzprogramme/kursplanung-kplan-exe) |
-| SchILD-NRW 2 Wiki:Aktuelle Ereignisse | [Technische Hinweise aus dem Wiki](/hilfe/wiki-archiv/schild-nrw-wiki-aktuelle-ereignisse) |
+| Schild-NRW Wiki:Aktuelle Ereignisse | [Technische Hinweise aus dem Wiki](/hilfe/wiki-archiv/schild-nrw-wiki-aktuelle-ereignisse) |
 | Access-Datenbanken und Windows-Server 2012 | [Access-Probleme unter Windows Server 2012 beheben](/administration/installation/access-datenbanken-und-windows-server-2012) |
 | UDL-Dateien unter 64-BIT | [UDL-Dateien auf 64-Bit-Systemen öffnen](/administration/installation/udl-dateien-unter-64-bit) |
 | S1PLAN:Übersicht | [S1Plan kennenlernen](/hilfe/zusatzprogramme/s1plan-uebersicht) |
@@ -395,7 +397,7 @@ Die Tabelle führt die ursprünglichen Wiki-Inhaltsseiten zu den passenden Dokum
 | S1PLAN:Installation | [S1Plan installieren](/hilfe/zusatzprogramme/s1plan-installation) |
 | S1PLAN:Erster Programmstart | [S1Plan erstmals starten](/hilfe/zusatzprogramme/s1plan-erster-programmstart) |
 | S1PLAN:Einrichtung von Kursen | [Kurse in S1Plan einrichten und zuweisen](/hilfe/zusatzprogramme/s1plan-einrichtung-von-kursen) |
-| S1PLAN:Übernahme von Kursen aus SchILD-NRW 2 | [SchILD-NRW 2-Kurse in S1Plan übernehmen](/hilfe/zusatzprogramme/s1plan-uebernahme-von-kursen-aus-schild) |
+| S1PLAN:Übernahme von Kursen aus Schild | [SchILD-NRW 2-Kurse in S1Plan übernehmen](/hilfe/zusatzprogramme/s1plan-uebernahme-von-kursen-aus-schild) |
 | Umgang mit Bildungsgangswechlsern am BK | [Bildungsgangwechsel am Berufskolleg](/schild2/versetzung/umgang-mit-bildungsgangswechlsern-am-bk) |
 | Datenbank reparieren und komprimieren | [Access-Datenbank reparieren und komprimieren](/administration/datenbanken/datenbank-reparieren-und-komprimieren) |
 | S1PLAN:Anhang | [Menüs und Zusatzfunktionen in S1Plan](/hilfe/zusatzprogramme/s1plan-anhang) |
@@ -405,9 +407,9 @@ Die Tabelle führt die ursprünglichen Wiki-Inhaltsseiten zu den passenden Dokum
 | AufFaecherFiltern | [AufFaecherFiltern](/reporting/rap/auffaecherfiltern "/reporting/rap/auffaecherfiltern") |
 | Datenliste | [Datenliste](/reporting/rap/datenliste "/reporting/rap/datenliste") |
 | Teilleistungen einrichten und verwalten | [Teilleistungen einrichten und verwalten](/schild2/unterricht-kataloge/teilleistungen-einrichten-und-verwalten) |
-| Teilleistungen Einrichten und Verwalten | [Teilleistungen einrichten und verwalten](/schild2/unterricht-kataloge/teilleistungen-einrichten-und-verwalten) |
-| SchILD-NRW 2 Wiki:Impressum | [Impressum des Wikis](/hilfe/wiki-archiv/schild-nrw-wiki-impressum) |
-| SchILD-NRW 2 Wiki:Datenschutz | [Datenschutzerklärung des Wikis](/hilfe/wiki-archiv/schild-nrw-wiki-datenschutz) |
+| Teilleistungen einrichten und verwalten | [Teilleistungen einrichten und verwalten](/schild2/unterricht-kataloge/teilleistungen-einrichten-und-verwalten) |
+| Schild-NRW Wiki:Impressum | [Impressum des Wikis](/hilfe/wiki-archiv/schild-nrw-wiki-impressum) |
+| Schild-NRW Wiki:Datenschutz | [Datenschutzerklärung des Wikis](/hilfe/wiki-archiv/schild-nrw-wiki-datenschutz) |
 | Externe Blockungs-Tools | [Externe Blockungsprogramme](/hilfe/zusatzprogramme/externe-blockungs-tools) |
 | K422CNF:Übersicht | [Blockung mit K422CNF](/hilfe/zusatzprogramme/k422cnf-uebersicht) |
 | Kurs42 To CNF:Hauptseite | [Blockung mit Kurs42 To CNF](/hilfe/zusatzprogramme/kurs42-to-cnf-hauptseite) |
@@ -416,8 +418,8 @@ Die Tabelle führt die ursprünglichen Wiki-Inhaltsseiten zu den passenden Dokum
 | Inhaltsverzeichnis | [Funktionen im Überblick](/programmreferenz/) |
 | Einrichtung des ENM-Moduls unter Ubuntu 18.04 | [Externes Notenmodul unter Ubuntu einrichten](/administration/installation/einrichtung-des-enm-moduls-unter-ubuntu-18-04) |
 | Grundschulzeugnisse Textzeugnis | [Textzeugnisse mit dem Report-Explorer erstellen](/zeugnisse/grundschule/grundschulzeugnisse-textzeugnis) |
-| Grundschulzeugnisse Ankreuzzeugnis | [Grundschulzeugnisse Ankreuzzeugnis](/tools/notenmodul-grundschule/leistungsdaten "/tools/notenmodul-grundschule/leistungsdaten") |
-| Grundschulzeugnisse Lernstandsberichte | [Grundschulzeugnisse Lernstandsberichte](/zeugnisse/grundschule "/zeugnisse/grundschule") |
+| Grundschulzeugnisse Ankreuzzeugnis | Kein eigener Dokumentationsartikel. Verwandte Seite [Grundschulzeugnisse Ankreuzzeugnis](/tools/notenmodul-grundschule/leistungsdaten "/tools/notenmodul-grundschule/leistungsdaten") |
+| Grundschulzeugnisse Lernstandsberichte | Kein eigener Dokumentationsartikel. Verwandte Seite [Grundschulzeugnisse Lernstandsberichte](/zeugnisse/grundschule "/zeugnisse/grundschule") |
 | Versetzung ins neue Schuljahr / Abschnittswechsel durchführen | [Schuljahr und Lernabschnitt wechseln](/schild2/versetzung/versetzung-ins-neue-schuljahr-abschnittswechsel-durchfuehren) |
 | Youtube | [Video aus dem Wiki](/hilfe/wiki-archiv/youtube) |
 | Mailversand aus der Reporting | [Reports per E-Mail versenden](/reporting/verwaltung/mailversand-aus-der-reporting) |
@@ -457,10 +459,10 @@ Die Tabelle führt die ursprünglichen Wiki-Inhaltsseiten zu den passenden Dokum
 | Statistik mit ASDPC Haupterhebung | [Haupterhebung mit ASDPC bearbeiten](/schild2/import-export-statistik/statistik-mit-asdpc-haupterhebung) |
 | Statistik mit ASDPC Übersicht | [Schulstatistik mit ASDPC im Überblick](/schild2/import-export-statistik/statistik-mit-asdpc-uebersicht) |
 | Statistik mit ASDPC Uebersicht | [Schulstatistik mit ASDPC im Überblick](/schild2/import-export-statistik/statistik-mit-asdpc-uebersicht) |
-| Versionsgeschichte SchILD-NRW 2 | [Änderungshistorie von SchILD-NRW 2](/hilfe/wiki-archiv/versionsgeschichte-schild-nrw) |
+| Versionsgeschichte Schild-NRW | [Änderungshistorie von SchILD-NRW 2](/hilfe/wiki-archiv/versionsgeschichte-schild-nrw) |
 | Fehler beim Export der Statistikdateien - Klasse nicht registriert | [Statistik-DLL registrieren](/hilfe/probleme/fehler-beim-export-der-statistikdateien-klasse-nicht-registriert) |
-| SchILD-NRW 2 Installation | [SchILD-NRW 2 installieren](/administration/installation/schild-nrw-installation) |
-| SchILD-NRW 2-Daten in eine andere Datenbank übertragen (migrieren) | [Daten in eine andere Datenbank übertragen](/administration/datenbanken/schild-nrw-daten-in-eine-andere-datenbank-uebertragen-migrieren) |
+| Schild-NRW Installation | [SchILD-NRW 2 installieren](/administration/installation/schild-nrw-installation) |
+| Schild-NRW-Daten in eine andere Datenbank übertragen (migrieren) | [Daten in eine andere Datenbank übertragen](/administration/datenbanken/schild-nrw-daten-in-eine-andere-datenbank-uebertragen-migrieren) |
 | Kurs42:Installationshinweise | [Kurs42 installieren und verbinden](/hilfe/zusatzprogramme/kurs42-installationshinweise) |
 | Kurs42:Versionsgeschichte | [Änderungshistorie von Kurs42](/hilfe/zusatzprogramme/kurs42-versionsgeschichte) |
 | Lupo:Versionsgeschichte | [Änderungshistorie von LuPO](/tools/lupo/lupo-versionsgeschichte) |
@@ -477,6 +479,75 @@ Die Tabelle führt die ursprünglichen Wiki-Inhaltsseiten zu den passenden Dokum
 | Erklärung zur Barrierefreiheit | [Barrierefreiheitserklärung des Wikis](/hilfe/wiki-archiv/erklaerung-zur-barrierefreiheit) |
 | Deutschförderung nach BASS 13-63 Nr. 3 (Stand 29.08.2024) | [Deutschförderung](/schild2/schueler/deutschfoerderung-nach-bass-13-63-nr-3-stand-29-08-2024) |
 | Schüler im offenen Ganztag und in der Übermittagsbetreuung | [Ganztag und Übermittagsbetreuung erfassen](/schild2/schueler/schueler-im-offenen-ganztag-und-in-der-uebermittagsbetreuung) |
+| Kein Wiki-Artikel | [Abrechnung erstellen und ausgeben](/tools/ma2lbv/abrechnung) |
+| Kein Wiki-Artikel | [Abrechnungsdaten importieren](/tools/ma2lbv/datenimport) |
+| Kein Wiki-Artikel | [Alle Artikel A–Z](/hilfe/alle-artikel) |
+| Kein Wiki-Artikel | [Analyseverfahren und Ergebnisse](/tools/pm2/analysen-und-ergebnisse) |
+| Kein Wiki-Artikel | [Anonymisierungstool](/tools/anonymisierungstool) |
+| Kein Wiki-Artikel | [Arbeiten mit der Reportverwaltung und dem Reportdesigner](/reporting/) |
+| Kein Wiki-Artikel | [Artikel schreiben und bearbeiten](/hilfe/artikel-schreiben) |
+| Kein Wiki-Artikel | [ASDPC](/tools/asdpc) |
+| Kein Wiki-Artikel | [Auswählen und filtern](/schild2/auswahl) |
+| Kein Wiki-Artikel | [Beenden](/administration/datenbanken/beenden) |
+| Kein Wiki-Artikel | [Benutzer und Einstellungen](/administration/benutzer-einstellungen) |
+| Kein Wiki-Artikel | [Berufskolleg](/zeugnisse/berufskolleg) |
+| Kein Wiki-Artikel | [Bilderkatalog](/bilder/) |
+| Kein Wiki-Artikel | [Datenbanken und Sicherung](/administration/datenbanken) |
+| Kein Wiki-Artikel | [Datenimport und Druck](/tools/enm-notenmanager/import-und-druck) |
+| Kein Wiki-Artikel | [Dokumentation und Wiki im Vergleich](/hilfe/artikel-wiki-zuordnung) |
+| Kein Wiki-Artikel | [Einrichtung und Datenbankzugriff](/tools/ma2lbv/einrichtung) |
+| Kein Wiki-Artikel | [ENM-Notenmanager](/tools/enm-notenmanager) |
+| Kein Wiki-Artikel | [Erste Schritte](/einstieg/erste-schritte) |
+| Kein Wiki-Artikel | [Ersteinrichtung und Anzeige](/tools/enm-notenmanager/ersteinrichtung) |
+| Kein Wiki-Artikel | [Externe Blockungsprogramme](/tools/blockungsprogramme) |
+| Kein Wiki-Artikel | [Externes Notenmodul](/tools/externes-notenmodul) |
+| Kein Wiki-Artikel | [Grundlagen und Orientierung](/einstieg/grundlagen) |
+| Kein Wiki-Artikel | [Grundschulzeugnisse](/zeugnisse/grundschule) |
+| Kein Wiki-Artikel | [Gruppenprozesse](/schild2/gruppenprozesse) |
+| Kein Wiki-Artikel | [Halbjahreswechsel und Fachwahlabgleich](/tools/kurs42/halbjahreswechsel) |
+| Kein Wiki-Artikel | [Hilfe und Problemlösungen](/hilfe/) |
+| Kein Wiki-Artikel | [Hilfe und Problemlösungen](/hilfe/probleme) |
+| Kein Wiki-Artikel | [Häufige Begriffe verstehen](/einstieg/grundlagen/begriffe) |
+| Kein Wiki-Artikel | [Import aus Textdateien](/tools/import-textdateien) |
+| Kein Wiki-Artikel | [Import, Export und Statistik](/schild2/import-export-statistik) |
+| Kein Wiki-Artikel | [Installation von SchILD-NRW 2](/administration/installation) |
+| Kein Wiki-Artikel | [Klausuren planen](/tools/kurs42/klausurplanung) |
+| Kein Wiki-Artikel | [KM2 – Konferenzmodul](/tools/km2) |
+| Kein Wiki-Artikel | [KPlan](/tools/kplan) |
+| Kein Wiki-Artikel | [MA2LBV](/tools/ma2lbv) |
+| Kein Wiki-Artikel | [Markdown und Gestaltung](/hilfe/markdown-und-gestaltung) |
+| Kein Wiki-Artikel | [Migrationstool](/tools/migrationstool) |
+| Kein Wiki-Artikel | [Mit dem GitHub-Editor bearbeiten](/hilfe/github-editor) |
+| Kein Wiki-Artikel | [Mit VS Code im Browser bearbeiten](/hilfe/vscode-editor) |
+| Kein Wiki-Artikel | [Mitarbeiten](/hilfe/mitarbeiten) |
+| Kein Wiki-Artikel | [Neue Blockung erstellen](/tools/kurs42/neue-blockung) |
+| Kein Wiki-Artikel | [Noten und Kompetenzen eingeben](/tools/notenmodul-grundschule/leistungsdaten) |
+| Kein Wiki-Artikel | [Noten und Zeugnisvorbereitung](/zeugnisse/vorbereitung) |
+| Kein Wiki-Artikel | [Noten, Teilleistungen und Bemerkungen](/tools/enm-notenmanager/leistungsdaten) |
+| Kein Wiki-Artikel | [Notenmodul für Grundschulen](/tools/notenmodul-grundschule) |
+| Kein Wiki-Artikel | [PM2 – Prognosemodul](/tools/pm2) |
+| Kein Wiki-Artikel | [Quelltexte und Originaldateien](/hilfe/quelltexte-und-originaldateien) |
+| Kein Wiki-Artikel | [Redaktionsworkflow](/hilfe/redaktionsworkflow) |
+| Kein Wiki-Artikel | [Reports erstellen](/reporting/erstellung) |
+| Kein Wiki-Artikel | [Reports verwalten und drucken](/reporting/verwaltung) |
+| Kein Wiki-Artikel | [Rückgabe, Import und Zeugnisdruck](/tools/notenmodul-grundschule/rueckgabe-und-druck) |
+| Kein Wiki-Artikel | [S1Plan](/tools/s1plan) |
+| Kein Wiki-Artikel | [SchILDChat](/tools/schildchat) |
+| Kein Wiki-Artikel | [SchILDweb](/tools/schildweb) |
+| Kein Wiki-Artikel | [Schnelleingabemodul](/tools/schnelleingabemodul) |
+| Kein Wiki-Artikel | [Schuljahr erhöhen](/tools/schuljahr-erhoehen) |
+| Kein Wiki-Artikel | [Schülerdaten und Laufbahn](/schild2/schueler) |
+| Kein Wiki-Artikel | [Sekundarstufen und Abitur](/zeugnisse/sekundarstufen) |
+| Kein Wiki-Artikel | [Startseite](/) |
+| Kein Wiki-Artikel | [Tools und Zusatzprogramme](/tools/) |
+| Kein Wiki-Artikel | [Unterricht und Kataloge](/schild2/unterricht-kataloge) |
+| Kein Wiki-Artikel | [Versetzung und Abschnittswechsel](/schild2/versetzung) |
+| Kein Wiki-Artikel | [Vorbereitung und Export](/tools/notenmodul-grundschule/vorbereitung) |
+| Kein Wiki-Artikel | [Wiki und Versionsgeschichte](/hilfe/wiki-archiv) |
+| Kein Wiki-Artikel | [Zentrale Prüfungen und Rückgabe](/tools/enm-notenmanager/pruefungen-und-rueckgabe) |
+| Kein Wiki-Artikel | [Zeugnisse](/zeugnisse/) |
+| Kein Wiki-Artikel | [Zusammenspiel mit SchILD-NRW 2 und LuPO](/tools/kurs42/datenfluss) |
+| Kein Wiki-Artikel | [Zusatzprogramme und Handbücher](/hilfe/zusatzprogramme) |
 
 ## Ergänzende PDF-Anleitungen
 
