@@ -9,7 +9,31 @@
       "tools/enm-notenmanager/import-und-druck.md"
     ],
     "disposition": "PDF ausgewertet; Binärdatei aus dem aktuellen Git-Stand entfernt",
-    "pages": 48
+    "pages": 48,
+    "coverage": [
+      {
+        "article": "tools/enm-notenmanager/ersteinrichtung.md",
+        "from_page": 4,
+        "to_page": 13
+      },
+      {
+        "article": "tools/enm-notenmanager/leistungsdaten.md",
+        "from_page": 14,
+        "to_page": 21
+      },
+      {
+        "article": "tools/enm-notenmanager/pruefungen-und-rueckgabe.md",
+        "from_page": 22,
+        "to_page": 26
+      },
+      {
+        "article": "tools/enm-notenmanager/import-und-druck.md",
+        "from_page": 27,
+        "to_page": 46
+      }
+    ],
+    "illustrations": 70,
+    "review": "Bedienabläufe und Abbildungen in bestehende Artikel übernommen."
   },
   {
     "source": "https://www.svws.nrw.de/system/files/media/document/file/handbuch-schild-lupo-kurs42-22.auflage.pdf",
@@ -21,7 +45,26 @@
       "tools/kurs42/halbjahreswechsel.md"
     ],
     "disposition": "PDF ausgewertet; Binärdatei aus dem aktuellen Git-Stand entfernt",
-    "pages": 184
+    "pages": 184,
+    "coverage": [
+      {
+        "article": "tools/kurs42/datenfluss.md",
+        "chapters": "3–4, 14–16, 18"
+      },
+      {
+        "article": "tools/kurs42/neue-blockung.md",
+        "chapters": "5–7, Verweis auf 17"
+      },
+      {
+        "article": "tools/kurs42/klausurplanung.md",
+        "chapters": "8"
+      },
+      {
+        "article": "tools/kurs42/halbjahreswechsel.md",
+        "chapters": "9, 19 und Querverweise zu 10–13 sowie 20–21"
+      }
+    ],
+    "review": "Arbeitsabläufe eigenständig erläutert und mit vier Schaubildern ergänzt. Vorwort, Menüreferenz und übrige Detailbeispiele bleiben im Original verlinkt."
   },
   {
     "source": "https://www.svws.nrw.de/system/files/media/document/file/km2_versionsgeschichte.pdf",
@@ -31,7 +74,21 @@
       "hilfe/zusatzprogramme/km2-001.md"
     ],
     "disposition": "PDF ausgewertet; Binärdatei aus dem aktuellen Git-Stand entfernt",
-    "pages": 7
+    "pages": 7,
+    "coverage": [
+      {
+        "article": "hilfe/zusatzprogramme/km2-001.md",
+        "from_page": 1,
+        "to_page": 2
+      },
+      {
+        "article": "tools/km2.md",
+        "from_page": 3,
+        "to_page": 7
+      }
+    ],
+    "illustrations": 1,
+    "review": "Bedienabläufe und Abbildungen in bestehende Artikel übernommen."
   },
   {
     "source": "https://www.svws.nrw.de/system/files/media/document/file/ma2lbv_anleitung.pdf",
@@ -42,7 +99,31 @@
       "tools/ma2lbv/datenimport.md"
     ],
     "disposition": "PDF ausgewertet; Binärdatei aus dem aktuellen Git-Stand entfernt",
-    "pages": 32
+    "pages": 32,
+    "coverage": [
+      {
+        "article": "tools/ma2lbv/einrichtung.md",
+        "from_page": 4,
+        "to_page": 11
+      },
+      {
+        "article": "tools/ma2lbv/abrechnung.md",
+        "from_page": 12,
+        "to_page": 17
+      },
+      {
+        "article": "tools/ma2lbv/einrichtung.md",
+        "from_page": 18,
+        "to_page": 25
+      },
+      {
+        "article": "tools/ma2lbv/datenimport.md",
+        "from_page": 26,
+        "to_page": 31
+      }
+    ],
+    "illustrations": 39,
+    "review": "Bedienabläufe und Abbildungen in bestehende Artikel übernommen."
   },
   {
     "source": "https://www.svws.nrw.de/system/files/media/document/file/ma2pdf_versionsgeschichte.pdf",
@@ -52,7 +133,21 @@
       "tools/ma2lbv/abrechnung.md"
     ],
     "disposition": "PDF ausgewertet; Binärdatei aus dem aktuellen Git-Stand entfernt",
-    "pages": 4
+    "pages": 4,
+    "coverage": [
+      {
+        "article": "tools/ma2lbv/einrichtung.md",
+        "from_page": 1,
+        "to_page": 2
+      },
+      {
+        "article": "tools/ma2lbv/abrechnung.md",
+        "from_page": 3,
+        "to_page": 4
+      }
+    ],
+    "illustrations": 1,
+    "review": "Bedienabläufe und Abbildungen in bestehende Artikel übernommen."
   },
   {
     "source": "https://www.svws.nrw.de/system/files/media/document/file/notenmodul_grundschule_anleitung.pdf",
@@ -63,35 +158,137 @@
       "tools/notenmodul-grundschule/rueckgabe-und-druck.md"
     ],
     "disposition": "PDF ausgewertet; Binärdatei aus dem aktuellen Git-Stand entfernt",
-    "pages": 16
+    "pages": 16,
+    "coverage": [
+      {
+        "article": "tools/notenmodul-grundschule/leistungsdaten.md",
+        "from_page": 3,
+        "to_page": 8
+      },
+      {
+        "article": "tools/notenmodul-grundschule/rueckgabe-und-druck.md",
+        "from_page": 9,
+        "to_page": 9
+      },
+      {
+        "article": "tools/notenmodul-grundschule/vorbereitung.md",
+        "from_page": 10,
+        "to_page": 14
+      },
+      {
+        "article": "tools/notenmodul-grundschule/rueckgabe-und-druck.md",
+        "from_page": 15,
+        "to_page": 16
+      }
+    ],
+    "illustrations": 27,
+    "review": "Bedienabläufe und Abbildungen in bestehende Artikel übernommen."
   },
   {
     "source": "https://www.svws.nrw.de/system/files/media/document/file/pm2_bedienungsanleitung_1.pdf",
     "sha256": "51c972f639f085186f8d6dd0210ae6c36a1555edbec4271188a3aa623f16afcf",
     "articles": [
-      "tools/pm2/analysen-und-ergebnisse.md"
+      "tools/pm2/analysen-und-ergebnisse.md",
+      "hilfe/zusatzprogramme/prognos-programmstart.md"
     ],
     "disposition": "PDF ausgewertet; Binärdatei aus dem aktuellen Git-Stand entfernt",
-    "pages": 72
+    "pages": 72,
+    "coverage": [
+      {
+        "article": "tools/pm2/analysen-und-ergebnisse.md",
+        "from_page": 9,
+        "to_page": 26
+      },
+      {
+        "article": "tools/pm2/analysen-und-ergebnisse.md",
+        "from_page": 27,
+        "to_page": 36
+      },
+      {
+        "article": "hilfe/zusatzprogramme/prognos-programmstart.md",
+        "from_page": 37,
+        "to_page": 42
+      },
+      {
+        "article": "tools/pm2/analysen-und-ergebnisse.md",
+        "from_page": 43,
+        "to_page": 54
+      }
+    ],
+    "illustrations": 74,
+    "review": "Bedienabläufe und Abbildungen in bestehende Artikel übernommen. Die historischen Rechtsübersichten auf Seiten 4–8 und 55–70 bleiben im Original verlinkt."
   },
   {
     "source": "https://www.svws.nrw.de/system/files/media/document/file/pm2_versionsgeschichte.pdf",
     "sha256": "c293512a3012ade3d1893a04bcd03ab400bf022db30814a3f4c0922ce93f1e6e",
     "articles": [
-      "tools/pm2/analysen-und-ergebnisse.md"
+      "tools/pm2/analysen-und-ergebnisse.md",
+      "hilfe/zusatzprogramme/prognos-installation.md"
     ],
     "disposition": "PDF ausgewertet; Binärdatei aus dem aktuellen Git-Stand entfernt",
-    "pages": 6
+    "pages": 6,
+    "coverage": [
+      {
+        "article": "hilfe/zusatzprogramme/prognos-installation.md",
+        "from_page": 1,
+        "to_page": 2
+      },
+      {
+        "article": "tools/pm2/analysen-und-ergebnisse.md",
+        "from_page": 3,
+        "to_page": 6
+      }
+    ],
+    "illustrations": 0,
+    "review": "Historische Versionshinweise in bestehende Artikel übernommen. Die PDF-Quelle enthält keine Abbildungen."
   },
   {
     "source": "https://www.svws.nrw.de/system/files/media/document/file/s1plan_anleitung.pdf",
     "sha256": "07b87f2ec936fcc6258fb358b414b6b28a9d1f29fe064d85ac3db76b35725f64",
     "articles": [
       "hilfe/zusatzprogramme/s1plan-einrichtung-von-kursen.md",
-      "hilfe/zusatzprogramme/s1plan-uebernahme-von-kursen-aus-schild.md"
+      "hilfe/zusatzprogramme/s1plan-uebernahme-von-kursen-aus-schild.md",
+      "hilfe/zusatzprogramme/s1plan-uebersicht.md",
+      "hilfe/zusatzprogramme/s1plan-installation.md",
+      "hilfe/zusatzprogramme/s1plan-erster-programmstart.md",
+      "hilfe/zusatzprogramme/s1plan-anhang.md"
     ],
     "disposition": "PDF ausgewertet; Binärdatei aus dem aktuellen Git-Stand entfernt",
-    "pages": 33
+    "pages": 33,
+    "coverage": [
+      {
+        "article": "hilfe/zusatzprogramme/s1plan-uebersicht.md",
+        "from_page": 4,
+        "to_page": 5
+      },
+      {
+        "article": "hilfe/zusatzprogramme/s1plan-installation.md",
+        "from_page": 6,
+        "to_page": 6
+      },
+      {
+        "article": "hilfe/zusatzprogramme/s1plan-erster-programmstart.md",
+        "from_page": 7,
+        "to_page": 12
+      },
+      {
+        "article": "hilfe/zusatzprogramme/s1plan-einrichtung-von-kursen.md",
+        "from_page": 13,
+        "to_page": 26
+      },
+      {
+        "article": "hilfe/zusatzprogramme/s1plan-uebernahme-von-kursen-aus-schild.md",
+        "from_page": 27,
+        "to_page": 30
+      },
+      {
+        "article": "hilfe/zusatzprogramme/s1plan-anhang.md",
+        "from_page": 31,
+        "to_page": 32
+      }
+    ],
+    "illustrations": 49,
+    "review": "Bedienabläufe und Abbildungen in bestehende Artikel übernommen."
   },
   {
     "source": "/dateien/pdf/Grundschule_Ankreuzzeugnisse_mit_SchILD2.pdf",
@@ -137,5 +334,39 @@
     ],
     "disposition": "Original-PDF und Abbildungen in der Dokumentation verfügbar",
     "pages": 5
+  },
+  {
+    "source": "/dateien/wiki/schildnrw-mysql-installation-3e4cc65d.pdf",
+    "pages": 13,
+    "sha256": "0eac56f3ff005320eb970eae9deb617251ebad06b8d9c12de18b31d75ec1807c",
+    "articles": [
+      "administration/installation/schild-nrw-installation.md"
+    ],
+    "coverage": [
+      {
+        "article": "administration/installation/schild-nrw-installation.md",
+        "from_page": 2,
+        "to_page": 13
+      }
+    ],
+    "illustrations": 24,
+    "review": "Bedienabläufe und Abbildungen in bestehende Artikel übernommen."
+  },
+  {
+    "source": "/dateien/wiki/ka17-zeugnis-kopf-128afae2.pdf",
+    "pages": 1,
+    "sha256": "288002afbddc0d8946dfc45a8e98862a36180e2d428fcbcfaaf479c55e2ffd81",
+    "articles": [
+      "reporting/erstellung/erstellen-einfacher-reports.md"
+    ],
+    "coverage": [
+      {
+        "article": "reporting/erstellung/erstellen-einfacher-reports.md",
+        "from_page": 1,
+        "to_page": 1
+      }
+    ],
+    "illustrations": 5,
+    "review": "Bedienabläufe und Abbildungen in bestehende Artikel übernommen."
   }
 ]

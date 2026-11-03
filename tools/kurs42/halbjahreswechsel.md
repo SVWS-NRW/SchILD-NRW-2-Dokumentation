@@ -36,3 +36,33 @@ Werden Umwahlen zuerst in Kurs42 vorgenommen, können sie über den direkten Exp
 Sichern Sie die beteiligten Arbeitsstände und prüfen Sie vor einer Übertragung nach SchILD-NRW 2, dass beide Programme denselben geplanten Abschnitt beschreiben.
 
 Quelle: [Handbuch SchILD-NRW 2–LuPO–Kurs42, 22. Auflage, Mai 2022](https://www.svws.nrw.de/system/files/media/document/file/handbuch-schild-lupo-kurs42-22.auflage.pdf), Kapitel 9, Seiten 104–118.
+
+## Von EF über Q1 bis Q2 planen
+
+![Blockungsstrategie für EF, Q1 und Q2](/bilder/pdf-anleitungen/kurs42/halbjahreswechsel.svg)
+
+### Übergang in die Q1
+
+Erstellen Sie die Blockung für Q1.1 auf Basis der Daten aus EF.2. Übernehmen Sie aus LuPO die Kursarten und Wahlen für **Q1.1**. Bearbeiten Sie zunächst die Leistungskurse. Wenn eine notwendige Umwahl die Fachwahl verändert, klären Sie sie mit der Beratung und übernehmen Sie die Änderung in die Laufbahnplanung. Blocken Sie danach die Grundkurse.
+
+Planen Sie zusätzliche Schienen für spätere Zusatzkurse mit ein. Bei einer Mischblockung liegen Grund- und Leistungskurse teilweise parallel. Legen Sie die beteiligten Kurse und deren zulässige Schienen bewusst fest und kontrollieren Sie anschließend auch die zeitliche Belegung. [Kapitel 9.2](https://www.svws.nrw.de/system/files/media/document/file/handbuch-schild-lupo-kurs42-22.auflage.pdf#page=111)
+
+### Übergang in die Q2
+
+Schreiben Sie die Blockung aus Q1.2 fort und übernehmen Sie die Fachwahlen des Zielhalbjahres aus LuPO. Prüfen Sie, ob die Literaturkurse entfallen und die Wahlen für Zusatzkurse Geschichte und Sozialwissenschaften richtig übernommen wurden.
+
+Wenn nach Abwahlen Kurse zusammengelegt werden können, prüfen Sie zuerst verbleibende Teilnehmerzahlen und Fixierungen. Lösen Sie erforderliche Fixierungen, wählen Sie die betreffenden Kurse und verwenden Sie **Verschmelzen**. Blocken Sie anschließend nur die nötigen Bereiche nach und prüfen Sie offene Wahlen sowie Kollisionen. [Kapitel 9.3](https://www.svws.nrw.de/system/files/media/document/file/handbuch-schild-lupo-kurs42-22.auflage.pdf#page=115)
+
+### Neue Schülerinnen und Schüler in Q1 oder Q2 aufnehmen
+
+Erfassen Sie zuerst die Stammdaten und die bisherige Laufbahn in SchILD-NRW 2. Laden Sie die Person in die passende Kurs42-Blockung nach, tragen Sie die aktuellen Wahlen ein und ordnen Sie die Kurse im Umwahldialog zu. Ergänzen und prüfen Sie die Leistungsdaten bereits abgeschlossener Halbjahre. Gleichen Sie den neuen Datensatz mit LuPO ab und kontrollieren Sie ihn nach dem Export im Zielabschnitt. [Anhang des Handbuchs](https://www.svws.nrw.de/system/files/media/document/file/handbuch-schild-lupo-kurs42-22.auflage.pdf#page=174)
+
+## Anschließende Laufbahn- und Abiturarbeit
+
+| Thema im Handbuch | Passende Dokumentation und Quelle |
+| --- | --- |
+| Fachhochschulreife und Wiederholung | [Fachhochschulreife](/zeugnisse/sekundarstufen/fhr), [Kapitel 10](https://www.svws.nrw.de/system/files/media/document/file/handbuch-schild-lupo-kurs42-22.auflage.pdf#page=118) |
+| Projektkurse und Laufbahnbescheinigungen | [Laufbahnübersicht](/zeugnisse/sekundarstufen/gesamtuebersicht), [Kapitel 11](https://www.svws.nrw.de/system/files/media/document/file/handbuch-schild-lupo-kurs42-22.auflage.pdf#page=123) |
+| Leistungsdaten für LuPO und Hochrechnung | [LuPO-Export](/schild2/import-export-statistik/export-fuer-lupo), [Kapitel 12](https://www.svws.nrw.de/system/files/media/document/file/handbuch-schild-lupo-kurs42-22.auflage.pdf#page=125) |
+| Zulassung, Prüfung, besondere Lernleistung und Zeugnis | [Abitur](/zeugnisse/sekundarstufen/abitur), [Kapitel 13](https://www.svws.nrw.de/system/files/media/document/file/handbuch-schild-lupo-kurs42-22.auflage.pdf#page=130) |
+| Formulare und abschließende Kontrollen | [Zeugnisvorbereitung](/zeugnisse/vorbereitung), [Kapitel 20 und 21](https://www.svws.nrw.de/system/files/media/document/file/handbuch-schild-lupo-kurs42-22.auflage.pdf#page=178) |

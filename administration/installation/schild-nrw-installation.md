@@ -453,3 +453,295 @@ SchILD-NRW 2-Dateien In diesem Fall müssen sich die Zusatzdateien in den folgen
 Auf das Verzeichnis \\\Server\SchILD-Dateien wird für alle Nutzer ein Schreib- und Leserecht benötigt.
 
 Quelle: [SchILD-NRW 2 Installation – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schild-NRW+Installation&oldid=6059)
+
+## MySQL-Anbindung im dokumentierten Installationsbeispiel
+
+Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 2–13](/dateien/wiki/schildnrw-mysql-installation-3e4cc65d.pdf#page=2).
+
+Das Beispiel von Martin Roß stammt aus Februar 2017. Es dokumentiert eine Installation mit MySQL und ODBC auf Windows Server 2016. Die darin genannten Versionen und Downloadpfade gehören zu diesem Beispiel.
+
+### Vorbemerkung
+
+Diese Installationsbeschreibung ist eine Aktualisierung der vorhandenen Installationsbeschreibungen, die auf dem Portal der Schulverwaltung-NRW heruntergeladen werden können:
+
+https://www.svws.nrw.de/fileadmin/user_upload/Kurzanleitungen/KA11_Installation_Schild-NRW.pdf https://www.svws.nrw.de/uploads/media/SchILD-NRW_MySQL_5-1.pdf
+
+Danke für die Installationsunterstützung durch die bestehenden Anleitungen z.B. von OStR Ralf Börger, für die Unterstützung des Forums sowie für die konkrete und schnelle Hilfe durch Herrn Pfotenhauer!
+
+### Portal der Schulverwaltung-NRW
+
+https://www.svws.nrw.de
+
+Auf dem Portal finden Sie neben wichtigen Programmdateien, Updates und Dokumentationen auch ein gut geführtes Forum, das Sie über Veränderungen informiert und an das Sie Ihre Fragen richten können.
+
+### Argumente für die Verwendung einer MySQL-Datenbank
+
+SchILD-NRW verwendet in der Standardinstallation eine Access-Datenbank. Die Clients greifen dabei auf Dateiebene auf diese Access-Datenbank zu. Ein gleichzeitiger Zugriff mehrerer Clients ist dabei trotzdem möglich, jedoch auf maximal etwa 10 beschränkt.
+
+Die Installation mit Anbindung an eine MySQL-Datenbank ist etwas aufwendiger, bietet aber im Netzwerk einen schnelleren Datenzugriff. Ein noch viel wichtigeres Argument ist die höhere Datensicherheit, da kein Zugriff auf Dateiebene nötig ist und die Datenbank selbst zusätzlich passwortgeschützt ist.
+
+### Installationsumgebung der Server-Installation
+
+SchILD-NRW läuft nur auf einer Windows-Plattform. Trotzdem eignet sich als Server auch eine Linux- Umgebung mit einem MySQL-Server, auf den dann die SchILD-NRW-Windows-Clients über das Netzwerk zugreifen können.
+
+Grundlage der im hier beschriebenen Installation ist ein Microsoft Server 2016 Standard Edition (64bit).
+
+### Installationsübersicht
+
+1. Schritt: SchILD-NRW inklusive Update auf dem Server installieren 2. Schritt: MySQL-Server und Workbench installieren 3. Schritt: MySQL-Datenbank-Schema generieren 4. Schritt: MySQL ODBC-Treiber installieren und ODBC-Datenquelle einrichten 5. Schritt: UDL-Datei anlegen 6. Schritt: Datenbank-Authentifizierung in SchILD einrichten 7. Schritt: Benutzer anlegen 8. Schritt: Daten-Migration aus einer Access-Datenbank in die MySQL-Datenbank. 9. Schritt: SchILD-NRW auf den Clients installieren 10. Schritt: Automatisiertes Backup der Datenbank Anhang: Mögliche Fehlermeldungen
+
+Die Installationsbeschreibung beinhaltet keine Installation weiterer Tools von SchILD-NRW. Diese müssen bei Bedarf zusätzlich installiert werden.
+
+### 1. Schritt: SchILD-NRW inklusive Update auf dem Server installieren
+
+Auf dem Portal der Schulverwaltung-NRW https://www.svws.nrw.de erhalten Sie unter Downloads &gt;&gt; Schild-NRW die Basisinstallationsdatei sowie das aktuelle Update (Version 2.0.16.3 oder aktueller).
+
+Download-Link: https://www.svws.nrw.de/index.php?id=schildnrw
+
+Starten Sie das Basissetup (SchILDBasisSetup.exe). Hier können Sie alle Hinweise und Fragen einfach bestätigen. Auf Wunsch kann das Installationsverzeichnis C:\\SchILD-NRW angepasst werden.
+
+Starten Sie das Update (schildupdate_2_0_16_3.exe oder aktueller). Passen Sie auch hier gegebenenfalls das Installationsverzeichnis an.
+
+### 2. Schritt: MySQL-Server und Workbench installieren
+
+Auf der Seite https://dev.mysql.com/downloads/installer/ erhalten Sie den MySQL Installer (aktuell mysqlinstaller-community-5.7.17.0.msi, als Webinstaller oder als vollständiges MSI-Paket).
+
+Der Installer beinhaltet unter anderem den MySQL Community Server sowie MySQL Workbench, ein grafisches Frontend-Tool für MySQL-Datenbanken. (Die Alternative MySQL GUI TOOLS wird nicht mehr weiterentwickelt.)
+
+Direkte Download-Links: https://dev.mysql.com/downloads/file/?id=467605 (MSI Web Installer) https://dev.mysql.com/downloads/file/?id=467606 (MSI Gesamtpaket) (Der Installer ist eine 32-Bit-Anwendung, die aber die 32-Bit und 64-Bit-Variante von MySQL-Server installiert!)
+
+Starten Sie die Installationsroutine (mysql-installer-community-5.7.17.0.msi oder aktueller). Wählen Sie unter Choosing a Setup Type die Option Server only, sofern Sie nur den MySQL-Server installieren möchten. Sofern Sie auch MySQL Workbench mitinstallieren möchten, wählen Sie die Option Custom (siehe Abb.).
+
+![2. Schritt: MySQL-Server und Workbench installieren – Abbildung aus der Originalanleitung, Seite 3](/bilder/pdf-anleitungen/mysql-installation/seite-03-bild-01.jpg)
+
+![2. Schritt: MySQL-Server und Workbench installieren – Abbildung aus der Originalanleitung, Seite 3](/bilder/pdf-anleitungen/mysql-installation/seite-03-bild-02.jpg)
+
+![2. Schritt: MySQL-Server und Workbench installieren – Abbildung aus der Originalanleitung, Seite 4](/bilder/pdf-anleitungen/mysql-installation/seite-04-bild-01.jpg)
+
+Ein Warnhinweis bezüglich des bereits bestehenden Installationspfades können Sie ignorieren. Unter Check Requirements müssen Sie unter Umständen durch einen Klick auf Execute benötigte Programme herunterladen und installieren lassen (im obigen Fall z.B. MS Visual C++ 2013 … ). Im Weiteren einfach dir Vorgaben bestätigen, bis Sie automatisch zur Konfigurationseinstellung gelangen (Type and Networking). Wählen Sie hier in der Auswahl Config Type den Eintrag Server Machine. Wählen Sie anschließend ein MySQL Root Passwort. MySQL User Accounts können später im 7. Schritt hinzugefügt werden.
+
+![2. Schritt: MySQL-Server und Workbench installieren – Abbildung aus der Originalanleitung, Seite 4](/bilder/pdf-anleitungen/mysql-installation/seite-04-bild-02.jpg)
+
+![2. Schritt: MySQL-Server und Workbench installieren – Abbildung aus der Originalanleitung, Seite 4](/bilder/pdf-anleitungen/mysql-installation/seite-04-bild-03.jpg)
+
+![2. Schritt: MySQL-Server und Workbench installieren – Abbildung aus der Originalanleitung, Seite 4](/bilder/pdf-anleitungen/mysql-installation/seite-04-bild-04.jpg)
+
+![2. Schritt: MySQL-Server und Workbench installieren – Abbildung aus der Originalanleitung, Seite 4](/bilder/pdf-anleitungen/mysql-installation/seite-04-bild-05.jpg)
+
+War die Installation und die automatisch folgende Konfiguration nicht erfolgreich, dann starten Sie den MySQL-Installer erneut und wählen sie den Eintrag reconfigure.
+
+### 3. Schritt: MySQL-Datenbank-Schema generieren
+
+Es wird nun mithilfe eines MySQL-Skripts ein leeres MySQL-Datenbank-Schema mit den erforderlichen Tabellen und Spalten generiert.
+
+Auf der Seite https://www.svws.nrw.de erhalten Sie unter Downloads &gt;&gt; Dokumentationen die Datei Schild_NRW_mySQL.zip.
+
+Link: https://www.svws.nrw.de/index.php?id=dokumentationen
+
+Kopieren Sie das in der Zip-Datei enthaltene MySQL-Skript Schild_NRW_mySQL_abV_x_x_x.sql in das Verzeichnis C:\\SchILD-NRW\\Vorlagen\\MySQL. Sofern das Unterverzeichnis MySQL nicht existiert, müssen Sie es per Hand erstellen.
+
+Starten Sie das Programm Workbench, mit dem das Skript ausgeführt werden kann.
+
+![3. Schritt: MySQL-Datenbank-Schema generieren – Abbildung aus der Originalanleitung, Seite 5](/bilder/pdf-anleitungen/mysql-installation/seite-05-bild-02.jpg)
+
+![3. Schritt: MySQL-Datenbank-Schema generieren – Abbildung aus der Originalanleitung, Seite 5](/bilder/pdf-anleitungen/mysql-installation/seite-05-bild-01.jpg)
+
+Mit einem Doppelklick auf „local instance MySQL57“ verbinden Sie sich mit dem MySQL-Server. Geben Sie dazu das Passwort ein, das Sie bei der Installation des MySQL-Servers gewählt haben.
+
+Wählen Sie im Menü den Eintrag File &gt;&gt; Open SQL Skript, navigieren Sie zum Verzeichnis C:\\SchILD-NRW\\Vorlagen\\MySQL und wählen Sie dort die Skript-Datei Schild_NRW_mySQL_abV1_7_78_6.sql aus. Das Skript wird nun angezeigt.
+
+Um das Skript auszuführen, klicken Sie auf das Blitzsymbol in er Symbolleiste über dem Skript. Im Bereich SCHEMAS wird nun das Schema schild_nrw angezeigt, dass durch das Skript erstellt wurde (eventuell die Ansicht aktualisieren oder MySQL Workbench neu starten).
+
+Im Bereich MANAGEMENT können Sie bei Bedarf weitere MySQL-User einrichten oder bestehende User verwalten.
+
+### 4. Schritt: MySQL ODBC-Treiber installieren und ODBC-Datenquelle einrichten
+
+Als Schnittstelle zwischen SchILD-NRW und dem MySQL-Server fungiert der MySQL ODBC-Treiber. Da SchILD-NRW selbst nur als 32-Bit-Variante vorliegt, muss auch der MySQL-ODBC-Treiber als 32-Bit-Variante installiert werden!
+
+ODBC-Treiber installieren: Laden Sie die 32-Bit-Variante des ODBC-Treibers herunter (das Forum empfiehlt die Version 5.1.13).
+
+Download-Link: https://dev.mysql.com/downloads/connector/odbc/5.1.html
+
+Bestätigen Sie bei der Installation einfach die Vorgaben.
+
+Sofern Sie die Fehlermeldung „Error 1918…“ erhalten, fehlt auf dem Client die Software „Microsoft Visual „C++ 2010 x86 Redistributable“. Die Versionen „2008“ und „2013“ haben bei meinen Versuchen nicht funktioniert.
+
+ODBC-Treiber mit MySQL Koppeln: Im nächsten Schritt muss der gerade installierte Treiber noch mit der MySQL-Datenbank gekoppelt werden. Führen Sie dazu auf dem Server folgende Datei aus:
+
+C:\\Windows\\SysWOW64\\odbcad32.exe
+
+Hinweis 1: Eine Datei mit gleichem Namen existiert auch im Verzeichnis C:\\Windows\\system32. Dabei handelt es sich aber um eine 64-bit-Variante, die für uns nicht relevant ist! Hinweis 2: Die Kopplung mit der Datenbank muss für jeden Benutzer durchgeführt werden, der SchILD-NRW ausführen möchte.
+
+Erstellen Sie im Register Benutzer-DSN über Hinzufügen eine neue Datenquelle. Wählen Sie den zuvor installierten Treiber MySQL ODBC 5.1 Driver aus.
+
+![4. Schritt: MySQL ODBC-Treiber installieren und ODBC-Datenquelle einrichten – Abbildung aus der Originalanleitung, Seite 6](/bilder/pdf-anleitungen/mysql-installation/seite-06-bild-01.jpg)
+
+![4. Schritt: MySQL ODBC-Treiber installieren und ODBC-Datenquelle einrichten – Abbildung aus der Originalanleitung, Seite 6](/bilder/pdf-anleitungen/mysql-installation/seite-06-bild-03.jpg)
+
+![4. Schritt: MySQL ODBC-Treiber installieren und ODBC-Datenquelle einrichten – Abbildung aus der Originalanleitung, Seite 6](/bilder/pdf-anleitungen/mysql-installation/seite-06-bild-02.jpg)
+
+Nach einem Klick auf Fertig stellen erscheint ein Konfigurationsfenster für Verbindungseinstellungen. Im Feld Data Source Name wählen Sie einen Namen für die Verbindung. Dieser muss später auch bei den Clients eingetragen werden (siehe auch Schritt 5). Als TCP/IP Server tragen Sie localhost ein, sofern Sie sich am Server befinden. Bei der Einrichtung der Clients wird hier später der Name des Servers oder seine IP eingetragen. Als User tragen Sie „root“ ein zusammen mit dem zuvor vergebene root-Passwort des SQL-Servers. Als Database tragen Sie „schild_nrw“ ein, also den Namen des im 3. Schritt erstellten MySQL-Schemas. Unter Details setzen Sie im Register Metadata einen Haken Bei Don‘t use INFORMATION_SCHEMA for metadata sowie unter Curosrs/Results einen Haken bei Return matched rows instead ov affected rows. Testen Sie die Verbindung. Ist dieser Test erfolgreich, leeren Sie das Passwort-Feld und schließen Sie beide noch offenen Fenster mit OK.
+
+### 5. Schritt: UDL-Datei (Universal Data Link) anlegen
+
+Um von SchILD-NRW auf die MySQL-Datenbank zugreifen zu können, muss noch eine UDL-Datei erstellt werden. Erst dadurch erscheint die MySQL-Auswahl bei Starten von SchILD-NRW.
+
+Wechseln Sie dazu in das Verzeichnis C:\\SchILD-NRW\\UDL.
+
+Erstellen Sie in diesem Verzeichnis eine leere Textdatei und geben Sie ihr den Namen, unter dem diese Datenbank beim Start von SchiILD-NRW aufgelistet sein soll. Ändern Sie die Dateiendung von txt auf UDL (z.B. MySQL-Musterschule.UDL).
+
+Eine leere Textdatei erstellen Sie, indem Sie im Dateimanager mit der rechten Maustaste auf einen leeren Bereich dieses Verzeichnisses klicken und im Kontextmenü den Eintrag Neu &gt;&gt; Textdokument wählen. Ändern Sie die Dateierweiterung von txt zu UDL (den Warnhinweis können Sie ignorieren). Wird die Dateiendung nicht angezeigt, wählen Sie im Dateimanager im Menü den Eintrag Ansicht &gt;&gt; Optionen &gt;&gt; Ordner- und Suchoptionen ändern. Entfernen Sie im Register Ansicht den Haken bei Erweiterungen bei bekannten Dateitypen ausblenden.
+
+Ein Doppelklick auf die neu erstellte Datei würde diese mit dem 64-Bit OLE Core Service öffnen. Um Sie als 32-Bit-Version zu öffnen, die folgende Zeile im Dos-Fenster ausführen: (eine Zeile!)
+
+C:\\Windows\\syswow64\\rundll32.exe “C:\\Program Files (x86)\\Common Files\\System\\Ole DB\\oledb32.dll”,OpenDSLFile C:\\SchILD-NRW\\UDL\\MySQL-Musterschule.UDL
+
+Hinweis: Die obige Zeile einfach als Inhalt einer Textdatei speichern. Diese Datei dann z.B. UDL.bat nennen. Ein Doppelklick führt diese Befehlszeile dann aus. So spart man sich die lästige Eingabe.
+
+Die vorherige Befehlszeile öffnet das Fenster Datenverknüpfungseigenschaften. Wählen Sie hier im Register Provider den Eintrag Microsoft OLE DB Provider for ODBC Drivers. Bestätigen Sie die Eingabe mit Weiter.
+
+Im Register Verbindung tragen Sie im Feld Datenquellenname verwenden den im 4. Schritt vergebenen Namen Data Source Name für die Verbindung ein.
+
+![5. Schritt: UDL-Datei (Universal Data Link) anlegen – Abbildung aus der Originalanleitung, Seite 7](/bilder/pdf-anleitungen/mysql-installation/seite-07-bild-01.jpg)
+
+![5. Schritt: UDL-Datei (Universal Data Link) anlegen – Abbildung aus der Originalanleitung, Seite 7](/bilder/pdf-anleitungen/mysql-installation/seite-07-bild-02.jpg)
+
+Geben Sie zum Testen der Datenverknüpfung Benutzername und Passwort des MySQL-Root-Users ein. Verläuft der Test positiv, leeren Sie unbedingt die Felder Benutzername und Passwort und übernehmen die Einstellungen mit OK. Öffnen Sie die Datei zur Sicherheit noch einmal mit einem Editor und überprüfen Sie, ob wirklich der Benutzername und das Passwort gelöscht waren.
+
+### 6. Schritt: Datenbank-Authentifizierung in SchILD einrichten
+
+Für den Zugriff auf die MySQL-Datenbank benötigt SchILD-NRW ein Kennwort. Dieses wird mithilfe des Programms SchILD_PWCryptneu.exe verschlüsselt in der SchILD-Benutzerverwaltung abgelegt.
+
+Starten Sie die Datei C:\\SchILD-NRW\\SchILD-PWCryptneu.exe.
+
+![6. Schritt: Datenbank-Authentifizierung in SchILD einrichten – Abbildung aus der Originalanleitung, Seite 8](/bilder/pdf-anleitungen/mysql-installation/seite-08-bild-01.jpg)
+
+Verweisen Sie hier auf die im 5. Schritt erstellt UDL-Datei. Ein Klick auf Start legt das Passwort in der SchILD-NRW-Benutzerverwaltung ab. Sie finden nun unter C:\\SchILD-NRW\\UDL eine neu erstellte DAT- Datei.
+
+Zum Test kann jetzt SchILD-NRW gestartet werden. Beim Start muss die neu erstellte MySQL-Datenbank ausgewählt werden. Es wurden die ersten 2-3 Startvorgänge in meinen Versuchen einige neue Felder und Tabellen angelegt. Danach öffnete sich SchILD-NRW ohne dieses Hinweisfenster.
+
+Sollten Sie das root-Passwort der MySQL-Datenbank einmal ändern, müssen sie den zuvor beschriebenen Vorgang erneut durchführen, um auch SchILD-NRW das neue Passwort mitzuteilen.
+
+### 7. Schritt: Benutzer anlegen
+
+Leider lässt sich bei Verwendung einer MySQL-Datenbank mittels der Benutzerverwaltung von SchILD-NRW kein Benutzer anlegen oder verwalten. Dieses erledigen Sie stattdessen mit der Anwendung
+
+C:\\SchILD-NRW\\UserAdmn.exe
+
+Eine aktuelle Version dieses Tools finden Sie auch auf dem Portal https://www.svws.nrw.de unter Downloads &gt;&gt; Schild-NRW &gt;&gt; Tools Schild-NRW.
+
+Starten Sie nun die Datei UserAdmn.exe. Nachdem Sie die Datenbank ausgewählt haben, für die Sie die Benutzer verwalten möchten, erscheint das Fenster Benutzer-Verwaltung. Eventuelle Fehlermeldungen klicken Sie weg.
+
+![7. Schritt: Benutzer anlegen – Abbildung aus der Originalanleitung, Seite 9](/bilder/pdf-anleitungen/mysql-installation/seite-09-bild-04.jpg)
+
+![7. Schritt: Benutzer anlegen – Abbildung aus der Originalanleitung, Seite 9](/bilder/pdf-anleitungen/mysql-installation/seite-09-bild-03.jpg)
+
+Sofern noch nicht geschehen, müssen Sie zunächst unter Benutzergruppen bearbeiten Benutzergruppen definieren. Werden später Benutzer angelegt, werden sie diesen Benutzergruppen zugeordnet und erhalten damit die zuvor definierten Rechte dieser Benutzergruppe.
+
+Legen Sie mindestens die Benutzergruppe Administratoren an mit ausreichenden Rechten an. Klicken Sie dazu unter Benutzergruppen bearbeiten auf das Pluszeichen . Schließen Sie anschließend das Fenster.
+
+Legen Sie auch zumindest den Benutzer Administrator an. Klicken Sie dazu im Fenster Benutzer-Verwaltung auf das Pluszeichen . Hier können Sie nun auch die zuvor eingerichtete Benutzergruppe zuweisen.
+
+### 8. Schritt: Daten-Migration aus einer Access-Datenbank in die MySQL-Datenbank
+
+Im 3. Schritt wurde bereits eine MySQL-Datenbank-Schema erstellt. Damit haben wir eine leere Datenbank mit den erforderlichen Tabellen und Spalten.
+
+Um sicherzustellen, dass dieses Datenbank-Schema auf dem neuesten Stand ist, starten Sie SchILD-NRW und wählen sie Ihre MySQL-Datenbank aus. Falls erforderlich werden nun automatisch einige Tabellen oder Spalten ergänzt. Das kann eine Weile dauern. Sie erhalten gegebenenfalls ein entsprechendes Hinweisfenster. Sie können in einem folgenden Schritt auch schon ihre Schulnummer eintragen.
+
+![8. Schritt: Daten-Migration aus einer Access-Datenbank in die MySQL-Datenbank – Abbildung aus der Originalanleitung, Seite 9](/bilder/pdf-anleitungen/mysql-installation/seite-09-bild-05.jpg)
+
+Starten Sie SchILD-NRW so oft, bis Sie kein entsprechendes Hinweisfenster mehr erscheint.
+
+Nun können die bestehenden Felder der MySQL-Datenbank mit den Inhalten Ihrer bestehenden Access- Datenbank gefüllt werden.
+
+Zum Test sollten Sie zunächst die zu migrierende Access-Datenbank mit SchILD-NRW öffnen. Dazu muss unter C:\\SchILD-NRW\\UDL eine entsprechende UDL-Verknüpfung existieren. Ist dies nicht der Fall, wird die Access-Datenbank auch nicht beim Start von SchILD-NRW aufgelistet. In diesem Fall müssen Sie die UDL- Datei zunächst erstellen.
+
+Wechseln Sie zum Erstellen einer UDL-Datei für die bestehende Access-Datenbank in das Verzeichnis C:\\SchILD-NRW\\UDL. Erstellen Sie z.B. von der Datei TestHauptschule_....UDL eine Kopie im selben Verzeichnis. Geben Sie dieser Datei einen passenden Namen, der auf die Access-Datenbank hinweist (z.B. access_alt.UDL). Öffnen Sie nun diese Datei mit einem Editor. Ändern Sie den Pfad in dieser Datei so, dass er auf ihre mdb-Access-Datenbank verweist. Speichern Sie Ihre Änderungen.
+
+Wenn Sie nun SchILD-NRW öffnen sollte ihre alte Access-Datenbank aufgelistet sein. Prüfen Sie, ob sich diese ohne Fehlermeldungen starten lässt.
+
+Starten Sie nun das Migrationstool. Sofern vorhanden, finden Sie es unter
+
+C:\\SchILD-NRW\\SchildMigration.exe.
+
+Eine aktuelle Version dieses Tools finden Sie ansonsten auch als Zip-Datei SchILD-Migration.zip auf dem Portal https://www.svws.nrw.de unter Downloads &gt;&gt; Schild-NRW &gt;&gt; Tools Schild-NRW.
+
+Es öffnet sich das folgende Fenster:
+
+![8. Schritt: Daten-Migration aus einer Access-Datenbank in die MySQL-Datenbank – Abbildung aus der Originalanleitung, Seite 10](/bilder/pdf-anleitungen/mysql-installation/seite-10-bild-01.jpg)
+
+In den beiden Feldern tragen Sie nun die Pfade zu den beiden UDL-Verknüpfungen der Access- Quelldatenbank sowie der MySQL-Zieldatenbank ein. Sie finden Sie im Verzeichnis C:\\SchILD-NRW\\UDL.
+
+Sofern der Verbindungstest positiv verläuft, können Sie die Migration starten. Ein Hinweisfenster weist vor der Migration noch darauf hin, dass eventuelle Feldinhalte in der Zieldatenbank gelöscht werden. Bestätigen Sie dieses Hinweisfenster, um die Migration endgültig zu starten. Die Migration dauert nun eine Weile.
+
+War die Migration erfolgreich, sollten Sie ihre Daten nun beim Starten von SchILD-NRW in Ihrer MySQL- Datenbank finden.
+
+### 9. Schritt: SchILD-NRW auf den Clients installieren
+
+Netzwerkfreigabe: Falls nicht bereits geschehen, erstellen Sie auf dem Server eine Netzwerkfreigabe des Verzeichnisses C:\\SchILD-NRW. Vergeben Sie mindestens Leseberechtigungen für das SchILD-NRW-Verzeichnis und Lese- und Schreibberechtigungen für die Unterverzeichnisse DB, Statistik und Schild-Reports.
+
+Wechseln Sie nun zum Client und führen Sie die folgenden Schritte als Administrator oder als User mit Administrator-Rechten aus.
+
+MySQL-ODBC-Treiber Installieren: Installieren und konfigurieren Sie auch auf dem Client wie oben im 4. Schritt beschrieben den MySQL ODBC-Treiber.
+
+SchILD-NRW-Programmverknüpfung erstellen: Navigieren Sie in den Netzwerkfreigaben zum Freigabeverzeichnis …\\SchILD-NRW des Servers und suchen Sie dort die Anwendung SCHILD2000.exe. Erstellen Sie z.B. auf dem Desktop des Clients eine Verknüpfung zu dieser Anwendung und führen Sie es einmal aus, um den Zugriff auf die Datenbank zu testen.
+
+Starten Sie nun auf dem Client SchILD-NRW und prüfen Sie den Zugriff auf die MySQL-Datenbank.
+
+Client-Registrierung durchführen: Führen Sie an jedem Client die Registrierung der Statistik.dlls aus, damit die Exporte für die Statistikdateien (UVD.txt, SIM.txt und Lehrer.txt) funktionieren können.
+
+Überprüfen Sie dazu zunächst, ob im Systemordner C:\\Windows\\SysWOW64 die beiden OCX-DLL-Dateien comctl32.ocx und comdlg32.ocx vorhanden sind. Fehlen sie, finden Sie diese unter
+
+http://www.svws.nrw.de/index.php?id=statistik (Datei comctl_ocx_dll.zip)
+
+Führen Sie nun SchILD-NRW als Administrator aus (siehe Abb., Rechtsklick auf die SchILD-Verknüpfung).
+
+![9. Schritt: SchILD-NRW auf den Clients installieren – Abbildung aus der Originalanleitung, Seite 11](/bilder/pdf-anleitungen/mysql-installation/seite-11-bild-01.jpg)
+
+Hinweis: Erhalten Sie hier die Fehlermeldung „Fehler beim Zugriff auf die Datenbank“, haben Sie eventuell für den User „Administrator“ den OBCD-Treiber noch nicht mit MySQL gekoppelt. Führen Sie wie im 4.Schritt beschrieben die Kopplung des ODBC-Treiber mit MySQL durch, indem Sie die Datei odbcad32.exe als Administrator ausführen (Rechtsklick mit der Maus, „als Administrator ausführen“).
+
+Öffnen Sie in SchILD-NRW den Menüpunkt
+
+Schulverwaltung &gt; Statistik/amtliche Schuldaten &gt; Hilfe bei Problemen
+
+Klicken Sie auf Dateien registrieren und prüfen Sie, ob alle nachfolgenden Hinweisfenster auf eine erfolgreiche Registrierung hinweisen.
+
+Testen Sie nun noch, ob die Durchführung der Registrierung erfolgreich war.
+
+Navigieren Sie dazu im Menü von SchILD-NRW auf
+
+Schulverwaltung &gt; Statistik/amtliche Schuldaten&gt;Export …&gt;Schülerdaten(SIM),
+
+Folgen Sie den Anweisungen und überprüfen Sie, ob die Datei sim.txt erstellt wird.
+
+### Anhang: Mögliche Fehlermeldungen
+
+Fehler:
+
+![Anhang: Mögliche Fehlermeldungen – Abbildung aus der Originalanleitung, Seite 12](/bilder/pdf-anleitungen/mysql-installation/seite-12-bild-04.jpg)
+
+Lösung: Holen Sie wie im 4. Schritt beschrieben die Installation des ODBC-Treibers nach (32-bit-Variante!!). Im 4. Schritt wird auch beschrieben, wie der ODBC-Treiber mit der MySQL-Datenbank gekoppelt wird. Beachten Sie, dass die Kopplung für jeden User, der SchILD-NRW ausführen möchte, einzeln durchgeführt werden muss, also auch speziell für den Administrator!
+
+![Anhang: Mögliche Fehlermeldungen – Abbildung aus der Originalanleitung, Seite 12](/bilder/pdf-anleitungen/mysql-installation/seite-12-bild-01.jpg)
+
+Fehler:
+
+Lösung: Holen Sie die Installation von „C++ 2010 x86 Redistributable“ nach und wiederholen Sie anschließend die Installation des MySQL ODBC-Treibers. (Eventuell Neustart)
+
+Fehler:
+
+![Anhang: Mögliche Fehlermeldungen – Abbildung aus der Originalanleitung, Seite 12](/bilder/pdf-anleitungen/mysql-installation/seite-12-bild-02.jpg)
+
+Lösung: Bei Problemen mit der Anmeldung an die Datenbank wiederholen Sie Schritt 6.
+
+Fehler:
+
+![Anhang: Mögliche Fehlermeldungen – Abbildung aus der Originalanleitung, Seite 12](/bilder/pdf-anleitungen/mysql-installation/seite-12-bild-03.jpg)
+
+Lösung: Die Registrierung auf den Clients schlägt fehl, wenn unter C:\\Windows\\SysWow64 die beiden Dateien comctl32.ocx und comdlg32.ocx fehlen (siehe 9. Schritt)
+
+### 10. Schritt: Automatisiertes Backup der Datenbank
+
+Das Einrichten eines automatisierten MySQL-Dumps wird hier beschrieben:
+
+http://www.olivergast.de/blog/2011/12/09/regelmasige-sicherung-von-mysql-datenbanken-unter-windows/

@@ -25,3 +25,15 @@ Beziehen Sie schulische Sperrtermine und Veranstaltungen in die Terminplanung ei
 Für weitere Klausurtermine wird die Planung entsprechend fortgeführt. Kontrollieren Sie vor dem Ausdruck, dass Kursbelegungen, Schriftlichkeit und Termine den aktuellen Stand haben. Die im Handbuch beschriebenen Ausdrucke und die Kursmatrix helfen bei der abschließenden Übersicht.
 
 Quelle: [Handbuch SchILD-NRW 2–LuPO–Kurs42, 22. Auflage, Mai 2022](https://www.svws.nrw.de/system/files/media/document/file/handbuch-schild-lupo-kurs42-22.auflage.pdf), Kapitel 8, Seiten 89–103.
+
+## Klausurtermine festlegen und Ausgabe kontrollieren
+
+![Klausurplanung von der Kursblockung bis zur Ausgabe](/bilder/pdf-anleitungen/kurs42/klausuren.svg)
+
+1. Öffnen Sie **Klausuren → Klausurtermin festlegen**. Wählen Sie die betreffende Klausurgruppe. Vergleichen Sie die Liste der beteiligten Kurse mit ihrer Position im Stundenraster.
+2. Tragen Sie Datum, betroffene Unterrichtsstunden, Beginn und Dauer ein. Prüfen Sie in der Ergebnisanzeige, welche weiteren Kurse durch die gewählte Lage ausfallen oder betroffen sind.
+3. Kontrollieren Sie die Verteilung der Klausuren je Person und Woche. Passen Sie Termine an, wenn die Prüfung Überschneidungen oder eine ungünstige Häufung ergibt.
+4. Legen Sie für eine weitere Klausurphase oder Nachschreibetermine eine eigene Terminplanung an. Ein vorhandenes Raster kann als Ausgangspunkt dienen. Prüfen und setzen Sie die Termine für die neue Planung gesondert.
+5. Öffnen Sie **Klausurtermine zeigen** und kontrollieren Sie den Plan vor dem Druck. Bei Bedarf ergänzen Sie über den Kurseintrag Bemerkungen. Wählen Sie das passende Druckformular und die gewünschte Terminplanung aus.
+
+Für eine Exkursion können Sie mit der Auswahl **Alle** die betroffenen Kursbelegungen der Teilnehmenden prüfen. Die Kursmatrix liefert eine Übersicht darüber, welche Personen in welchen Kursen zusammenkommen. Die Beispiele zu Terminen, Ausdruck, Exkursionen und Kursmatrix stehen in [Kapitel 8](https://www.svws.nrw.de/system/files/media/document/file/handbuch-schild-lupo-kurs42-22.auflage.pdf#page=89).

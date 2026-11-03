@@ -288,3 +288,35 @@ In der vorgegebenen Version der Kreuztabelle werden die Spaltenüberschriften nu
 ![Kreuztabelle-Layout](/bilder/reporting/erstellung/kreuztabelle-layout.png)
 
 Quelle: [Erstellen einfacher Reports – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Erstellen+einfacher+Reports&oldid=4143)
+
+## Zeugniskopf im Reportdesigner bearbeiten
+
+Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 1–1](/dateien/wiki/ka17-zeugnis-kopf-128afae2.pdf#page=1).
+
+![Zeugniskopf im Reportdesigner bearbeiten – Abbildung aus der Originalanleitung, Seite 1](/bilder/pdf-anleitungen/zeugniskopf/seite-01-bild-01.png)
+
+23.11.2012
+
+### Ändern des Zeugniskopfes im Reportdesigner
+
+Speichern Sie den Zeugniskopf im Reportverzeichnis der SchILD-NRW-Installation im Unterordner „Header_Footer“
+
+![Ändern des Zeugniskopfes im Reportdesigner – Abbildung aus der Originalanleitung, Seite 1](/bilder/pdf-anleitungen/zeugniskopf/seite-01-bild-02.jpg)
+
+Öffnen Sie nun Ihr SchILD-NRW-Programm und gehen Sie unter Druckausgabe &gt; Report-Explorer aufrufen in die Reportverwaltung.
+
+Dort können Sie nun im Ordner Header_Footer den Report durch Anklicken mit der rechten Maustaste und Report bearbeiten zur Bearbeitung öffnen.
+
+![Ändern des Zeugniskopfes im Reportdesigner – Abbildung aus der Originalanleitung, Seite 1](/bilder/pdf-anleitungen/zeugniskopf/seite-01-bild-03.jpg)
+
+Sollte der Zeugnis_Kopf.rtm noch nicht sichtbar sein, aktualisieren Sie bitte die Ansicht durch Klick auf das Symbol:
+
+![Ändern des Zeugniskopfes im Reportdesigner – Abbildung aus der Originalanleitung, Seite 1](/bilder/pdf-anleitungen/zeugniskopf/seite-01-bild-04.jpg)
+
+Nun können Sie durch Doppelklick auf das Label die Angaben zur Sekundarstufenform ändern. Es lassen sich auch weitere
+
+![Ändern des Zeugniskopfes im Reportdesigner – Abbildung aus der Originalanleitung, Seite 1](/bilder/pdf-anleitungen/zeugniskopf/seite-01-bild-05.png)
+
+Datenfelder oder Labels einfügen.
+
+Bitte vergessen Sie nicht, unter Datei &gt; Speichern den Kopf auch zu speichern!

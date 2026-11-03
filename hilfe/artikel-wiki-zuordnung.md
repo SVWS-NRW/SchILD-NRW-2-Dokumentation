@@ -585,3 +585,11 @@ Die erste Tabelle erfasst die Inhaltsseiten und LuPO-Artikel aus der gesicherten
 | [Text- und Notenzeugnisse mit dem Report-Explorer erstellen](/zeugnisse/grundschule/textzeugnisse-erstellen) | [Originalanleitung als PDF](/dateien/pdf/Grundschule_Textzeugnisse_mit_SchILD2_Anleitung.pdf) |
 | [Layout für Text- und Notenzeugnisse einstellen](/zeugnisse/grundschule/textzeugnisse-ini) | [Originalanleitung als PDF](/dateien/pdf/Grundschule_Textzeugnisse_mit_SchILD2_INI_Optionen.pdf) |
 | [Zeugnisse als Broschüren drucken](/zeugnisse/vorbereitung/zeugnisse-broschuerendruck) | [Originalanleitung als PDF](/dateien/pdf/Zeugnisse_Brosch%C3%BCrendruck.pdf) |
+| [PM2 erstmals starten](/hilfe/zusatzprogramme/prognos-programmstart) | [Originalanleitung als PDF](https://www.svws.nrw.de/system/files/media/document/file/pm2_bedienungsanleitung_1.pdf) |
+| [PM2 installieren](/hilfe/zusatzprogramme/prognos-installation) | [Originalanleitung als PDF](https://www.svws.nrw.de/system/files/media/document/file/pm2_versionsgeschichte.pdf) |
+| [S1Plan kennenlernen](/hilfe/zusatzprogramme/s1plan-uebersicht) | [Originalanleitung als PDF](https://www.svws.nrw.de/system/files/media/document/file/s1plan_anleitung.pdf) |
+| [S1Plan installieren](/hilfe/zusatzprogramme/s1plan-installation) | [Originalanleitung als PDF](https://www.svws.nrw.de/system/files/media/document/file/s1plan_anleitung.pdf) |
+| [S1Plan erstmals starten](/hilfe/zusatzprogramme/s1plan-erster-programmstart) | [Originalanleitung als PDF](https://www.svws.nrw.de/system/files/media/document/file/s1plan_anleitung.pdf) |
+| [Menüs und Zusatzfunktionen in S1Plan](/hilfe/zusatzprogramme/s1plan-anhang) | [Originalanleitung als PDF](https://www.svws.nrw.de/system/files/media/document/file/s1plan_anleitung.pdf) |
+| [SchILD-NRW 2 installieren](/administration/installation/schild-nrw-installation) | [Originalanleitung als PDF](/dateien/wiki/schildnrw-mysql-installation-3e4cc65d.pdf) |
+| [Einfache Reports erstellen und bearbeiten](/reporting/erstellung/erstellen-einfacher-reports) | [Originalanleitung als PDF](/dateien/wiki/ka17-zeugnis-kopf-128afae2.pdf) |
