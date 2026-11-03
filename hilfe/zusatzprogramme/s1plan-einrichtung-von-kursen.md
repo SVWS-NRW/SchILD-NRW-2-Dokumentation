@@ -216,3 +216,363 @@ Im Exportfenster stehen links die Kurse und Zuordnungen aus S1Plan, rechts die v
 Quelle der Ergänzung: [S1Plan-Bedienungsanleitung, Druckstand 11.12.2018](https://www.svws.nrw.de/system/files/media/document/file/s1plan_anleitung.pdf), Kapitel 4, Seiten 13–26.
 
 Quelle: [S1PLAN:Einrichtung von Kursen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=S1PLAN%3AEinrichtung+von+Kursen&oldid=4078)
+
+## Sprachenkurse, Arbeitsgemeinschaften und Export
+
+Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 13–26](https://www.svws.nrw.de/system/files/media/document/file/s1plan_anleitung.pdf#page=13).
+
+### 4 Einrichtung von Kursen
+
+Das Einrichten von Kursen kann auf zwei Wegen erfolgen.
+
+Falls in der angebundenen SchILD-Datenbank schon Kurse (mit oder ohne Schülerver-
+
+teilung) vorhanden sind, können diese in S1Plan eingelesen werden. Falls noch keine
+
+Kurse in der SchILD-Datenbank vorliegen, können in S1Plan alle Kurse eingerichtet
+
+und hier auch eine Schülerverteilung vorgenommen werden.
+
+Im Folgenden wird davon ausgegangen, dass in der SchILD-Datenbank noch keine
+
+Kurse eingerichtet wurden (Fall A 5 ).
+
+### 4.1 NeuEinrichtung von Kursen in S1Plan (Beispiel: GY)
+
+Am Beispiel einer 6. Jahrgangsstufe sollen folgende Kurse in S1Plan neu einge-
+
+richtet werden:
+
+Sprachenkurse L6-1, L6-2, F6-1 und F6-2 als WPI-Kurse
+
+Sport-AGs Fußball (1 Kurs), Handball (1 Kurs), Basketball (2 Kurse) und
+
+Volleyball (1 Kurs) mit Erst-, Zweit- und Drittwunsch der Schüler.
+
+Religionskurse/praktische Philosophie ER-1, ER-2 und PPL-1 als PUT-Kur-
+
+se.
+
+Falls nach der Erstinstallation noch kein Kursprofil erstellt wurde, kann dies unter
+
+![4.1 NeuEinrichtung von Kursen in S1Plan (Beispiel: GY) – Abbildung aus der Originalanleitung, Seite 13](/bilder/pdf-anleitungen/s1plan/seite-13-bild-02.png)
+
+erfolgen.
+
+### 4.1.1 Sprachenkurse einrichten (Kursart WPI)
+
+Als Kursprofil wird zunächst
+
+NeuEinrichtung von Kursen in S1Plan (Beispiel: GY)
+
+![4.1.1 Sprachenkurse einrichten (Kursart WPI) – Abbildung aus der Originalanleitung, Seite 14](/bilder/pdf-anleitungen/s1plan/seite-14-bild-01.png)
+
+gewählt oder neu erzeugt.
+
+Zunächst müssen die Kurse über
+
+![4.1.1 Sprachenkurse einrichten (Kursart WPI) – Abbildung aus der Originalanleitung, Seite 14](/bilder/pdf-anleitungen/s1plan/seite-14-bild-02.png)
+
+selber eingerichtet werden.
+
+Folgende Maske ist (zumindest teilweise) zu füllen:
+
+![4.1.1 Sprachenkurse einrichten (Kursart WPI) – Abbildung aus der Originalanleitung, Seite 14](/bilder/pdf-anleitungen/s1plan/seite-14-bild-03.png)
+
+Die hier nicht eingetragenen Felder sind (zunächst) nicht zwingend zu füllen, insbeson-
+
+dere dann nicht, wenn die Lehrerzuordnung (Kursleitung und ggf. Zusatzkraft) (noch)
+
+nicht bekannt sind. Tag, Zeit und Ort sind bei WPI-Kursen verzichtbar, da diese Daten
+
+üblicherweise aus dem Stundenplan hervorgehen.
+
+NeuEinrichtung von Kursen in S1Plan (Beispiel: GY)
+
+Die Fortschreibungsart „Komplett“ ist hier sinnvoll, weil die Schüler den Kurs von Jahr-
+
+gangsstufe 06 bis Jahrgangsstufe 09 besuchen.
+
+Nach Eintrag weiterer Kurse (durch Klick auf „+“) ergibt die Kursübersicht:
+
+![4.1.1 Sprachenkurse einrichten (Kursart WPI) – Abbildung aus der Originalanleitung, Seite 15](/bilder/pdf-anleitungen/s1plan/seite-15-bild-01.png)
+
+Hinweis:
+
+Die Nummer des Kurses (linke Spalte) ist fortlaufend und hängt davon ab,
+
+wie viele Kurse bisher eingerichtet wurden.
+
+### 4.1.1.1 Schülerzuweisung zu den Kursen
+
+Zunächst sollte der SchILD-Abgleich über den Menüpunkt
+
+![4.1.1.1 Schülerzuweisung zu den Kursen – Abbildung aus der Originalanleitung, Seite 15](/bilder/pdf-anleitungen/s1plan/seite-15-bild-03.png)
+
+vorgenommen werden. Dadurch werden die betreffenden Schüler aus SchILD-NRW
+
+nach S1Plan geladen.
+
+Über den Menüpunkt
+
+![4.1.1.1 Schülerzuweisung zu den Kursen – Abbildung aus der Originalanleitung, Seite 15](/bilder/pdf-anleitungen/s1plan/seite-15-bild-04.png)
+
+NeuEinrichtung von Kursen in S1Plan (Beispiel: GY)
+
+erreicht man das Fenster mit der Schülerliste der ausgewählten Jahrgänge:
+
+![4.1.1.1 Schülerzuweisung zu den Kursen – Abbildung aus der Originalanleitung, Seite 16](/bilder/pdf-anleitungen/s1plan/seite-16-bild-01.png)
+
+Hinweise:
+
+Hier wurde „Schnellzuweisung“ markiert. Damit reicht zur Zuweisung ein Ein-
+
+fachklick in die Matrix.
+
+„Einzelzuweisung“ wurde gewählt, weil in diesem Bereich WPI jeder Schüler
+
+nur genau einen Kurs belegen kann.
+
+Mit Klick auf „Speichern“ wird das Fenster geschlossen.
+
+Es erscheint nun wieder der Hauptbildschirm mit der Kurs- bzw. Schülerübersicht:
+
+![4.1.1.1 Schülerzuweisung zu den Kursen – Abbildung aus der Originalanleitung, Seite 16](/bilder/pdf-anleitungen/s1plan/seite-16-bild-03.png)
+
+Hier gibt es (auch) die Möglichkeit, Zuweisungen einzelner Schüler zu ändern. Hierzu
+
+klickt man auf die Spalte „Zuw.“. Im rechten Fenster. Nun kann man auf den Auswahl-
+
+NeuEinrichtung von Kursen in S1Plan (Beispiel: GY)
+
+knopf klicken oder einen Buchstaben oder eine Zahl eingeben. Es werden dann die
+
+Kurse angezeigt, die aufgrund der Eingabe in Frage kommen.
+
+Es gibt jetzt noch die Möglichkeit, die Kurse zu fixieren. Dies geschieht sinnvollerweise
+
+über den entsprechenden Gruppenprozess „Kurswahlen fixieren“.
+
+### 4.1.2 Export der Kurswahlen nach SchILD-NRW
+
+Über den Menüpunkt
+
+![4.1.2 Export der Kurswahlen nach SchILD-NRW – Abbildung aus der Originalanleitung, Seite 17](/bilder/pdf-anleitungen/s1plan/seite-17-bild-01.png)
+
+können die Kurswahlen nach SchILD exportiert werden.
+
+Das folgende Fenster
+
+![4.1.2 Export der Kurswahlen nach SchILD-NRW – Abbildung aus der Originalanleitung, Seite 17](/bilder/pdf-anleitungen/s1plan/seite-17-bild-02.png)
+
+gliedert sich in 4 Teile:
+
+NeuEinrichtung von Kursen in S1Plan (Beispiel: GY)
+
+1. Oben links sind die in S1Plan angelegten Kurse,
+
+2. oben rechts die (schon) in SchILD vorhandenen Kurse.
+
+3. Unten links sind die zu obigem markiertem Kurs zugeordneten Schüler,
+
+4. unten rechts eine Vorschau auf die später nach SchILD exportierten Schü-
+
+ler.
+
+Bisher wurde noch kein Export vorgenommen, was daran zu erkennen ist, dass noch
+
+keine grünen Markierungen (siehe nächste Seite) bei Kursen und Schülern vorkom-
+
+men.
+
+Mit dem Export-Symbol
+
+![4.1.2 Export der Kurswahlen nach SchILD-NRW – Abbildung aus der Originalanleitung, Seite 18](/bilder/pdf-anleitungen/s1plan/seite-18-bild-01.png)
+
+können alle Kurse incl. der Schülerbelegung nach SchILD exportiert werden.
+
+Hinweis:
+
+Dabei werden damit auch alle diejenigen Kurse des gewählten Jahrgangs
+
+in der SchILD-Datenbank gelöscht, deren Kursarten im verwendeten Kur-
+
+sprofil von S1Plan vorhanden sind!
+
+Es erscheint vor dem Export ein entsprechendes Hinweisfenster.
+
+Mit den beiden Doppelpfeilen in der Mitte kann der Export (ohne Löschung
+
+der bisherigen SchILD-Kurse) erfolgen.
+
+Nach dem Export (hier: alle Kurse und Löschung der bisherigen Kurse in SchILD-NRW)
+
+ergibt sich folgende Fensterdarstellung:
+
+NeuEinrichtung von Kursen in S1Plan (Beispiel: GY)
+
+![4.1.2 Export der Kurswahlen nach SchILD-NRW – Abbildung aus der Originalanleitung, Seite 19](/bilder/pdf-anleitungen/s1plan/seite-19-bild-01.png)
+
+Hier weisen die grünen Markierungen auf den erfolgten Export hin.
+
+In der SchILD-Datenbank sieht es nach dem Export folgendermaßen aus:
+
+![4.1.2 Export der Kurswahlen nach SchILD-NRW – Abbildung aus der Originalanleitung, Seite 19](/bilder/pdf-anleitungen/s1plan/seite-19-bild-02.png)
+
+Bei den Schülern erkennt man auf der Karteikarte „Akt. Halbjahr“ ebenfalls die Kurszu-
+
+ordnungen:
+
+NeuEinrichtung von Kursen in S1Plan (Beispiel: GY)
+
+![4.1.2 Export der Kurswahlen nach SchILD-NRW – Abbildung aus der Originalanleitung, Seite 20](/bilder/pdf-anleitungen/s1plan/seite-20-bild-01.png)
+
+### 4.1.3 Arbeitsgemeinschaften mit Wahlmöglichkeiten
+
+Im Folgenden werden für einen Jahrgang 07 als Sport-AGs Fußball (1 Kurs), Handball
+
+(1 Kurs), Basketball (2 Kurse) und Volleyball (1 Kurs) mit Erst-, Zweit- und Drittwunsch
+
+der Schüler behandelt.
+
+Zunächst wird im Menüpunkt „Einrichtung“ das entsprechende Kursprofil erstellt, ge-
+
+speichert und anschließend gewählt:
+
+![4.1.3 Arbeitsgemeinschaften mit Wahlmöglichkeiten – Abbildung aus der Originalanleitung, Seite 20](/bilder/pdf-anleitungen/s1plan/seite-20-bild-02.png)
+
+Da die Schüler Erst-, Zweit- und Drittwunsch äußern dürfen, muss im unteren Bereich
+
+der Haken bei „Wunschspalten“ gesetzt werden.
+
+Danach werden unter dem Menüpunkt „Einrichtung“ die Kurse selbst eingerichtet. Da-
+
+bei ist unbedingt darauf zu achten, dass das zur Kursart zugewiesene Fach nicht SP,
+
+NeuEinrichtung von Kursen in S1Plan (Beispiel: GY)
+
+sondern SPAG heißt. Dieses Fach muss ggf. vorher in SchILD-NRW bei den Unter-
+
+richtsfächern ergänzt werden. Falls dies nicht gemacht wird und nur das Fach SP zuge-
+
+ordnet wird, gibt es bei den Leistungsübersichten und Zeugnissen Probleme der Dar-
+
+stellung des Faches Sport bzw. der Sport-AG.
+
+![4.1.3 Arbeitsgemeinschaften mit Wahlmöglichkeiten – Abbildung aus der Originalanleitung, Seite 21](/bilder/pdf-anleitungen/s1plan/seite-21-bild-01.png)
+
+### 4.1.3.1 Schülerzuweisung zu den Arbeitsgemeinschaften
+
+Die Zuweisung zu Arbeitsgemeinschaften erfolgt hier klassenweise über
+
+![4.1.3.1 Schülerzuweisung zu den Arbeitsgemeinschaften – Abbildung aus der Originalanleitung, Seite 21](/bilder/pdf-anleitungen/s1plan/seite-21-bild-02.png)
+
+und Klassenauswahl
+
+![4.1.3.1 Schülerzuweisung zu den Arbeitsgemeinschaften – Abbildung aus der Originalanleitung, Seite 21](/bilder/pdf-anleitungen/s1plan/seite-21-bild-03.png)
+
+Im folgenden Fenster werden
+
+![4.1.3.1 Schülerzuweisung zu den Arbeitsgemeinschaften – Abbildung aus der Originalanleitung, Seite 21](/bilder/pdf-anleitungen/s1plan/seite-21-bild-04.png)
+
+die Wünsche eingegeben. Hier kann ausschließlich mit der Tastatur gearbeitet werden
+
+NeuEinrichtung von Kursen in S1Plan (Beispiel: GY)
+
+(Eingabe des ersten und ggf. zweiten Buchstabens des Kurses und Weiterschaltung
+
+mit der TAB-Taste). Nach Eingabe aller Wünsche wird das Fenster über das Symbol
+
+„Speichern“ geschlossen.
+
+Nach Eingabe aller Wünsche erhält man folgende Übersichtsmatrix:
+
+![4.1.3.1 Schülerzuweisung zu den Arbeitsgemeinschaften – Abbildung aus der Originalanleitung, Seite 22](/bilder/pdf-anleitungen/s1plan/seite-22-bild-01.png)
+
+Es wurde bisher noch keine Kurs-Zuweisung vorgenommen. Hier stellt sich das Pro-
+
+blem, dass der Erstwunsch im Kurs „BB“ die Maximalzahl über- und im Kurs FB unter-
+
+schreitet. Daher gibt es nun zwei Möglichkeiten:
+
+1. Einrichtung zweier Kurse BB-1 und BB-2 und Verteilung der Schüler auf die-
+
+se zwei Kurse. In diesem Fall würden alle Erstwünsche berücksichtigt wer-
+
+den können.
+
+2. Bei der Kurszuweisung werden einige Schüler von dem Kurs BB auf ihren
+
+Erst-, Zweit- oder Drittwunsch verschoben.
+
+Über
+
+![4.1.3.1 Schülerzuweisung zu den Arbeitsgemeinschaften – Abbildung aus der Originalanleitung, Seite 22](/bilder/pdf-anleitungen/s1plan/seite-22-bild-02.png)
+
+wird zunächst allen Schülern der Erstwunsch zugewiesen.
+
+Dieser Erstwusch wird dann in die Spalte „Zuw.“ eingetragen:
+
+NeuEinrichtung von Kursen in S1Plan (Beispiel: GY)
+
+![4.1.3.1 Schülerzuweisung zu den Arbeitsgemeinschaften – Abbildung aus der Originalanleitung, Seite 23](/bilder/pdf-anleitungen/s1plan/seite-23-bild-01.png)
+
+Bei der Kursübersicht ergibt sich dann:
+
+![4.1.3.1 Schülerzuweisung zu den Arbeitsgemeinschaften – Abbildung aus der Originalanleitung, Seite 23](/bilder/pdf-anleitungen/s1plan/seite-23-bild-02.png)
+
+Der Ausgleich (andere Zuordnung) kann natürlich per Hand erfolgen, aber auch als Op-
+
+timierung automatisch:
+
+Über
+
+![4.1.3.1 Schülerzuweisung zu den Arbeitsgemeinschaften – Abbildung aus der Originalanleitung, Seite 23](/bilder/pdf-anleitungen/s1plan/seite-23-bild-03.png)
+
+erhält man das Doppelfenster
+
+NeuEinrichtung von Kursen in S1Plan (Beispiel: GY)
+
+![4.1.3.1 Schülerzuweisung zu den Arbeitsgemeinschaften – Abbildung aus der Originalanleitung, Seite 24](/bilder/pdf-anleitungen/s1plan/seite-24-bild-01.png)
+
+Durch Klick auf
+
+![4.1.3.1 Schülerzuweisung zu den Arbeitsgemeinschaften – Abbildung aus der Originalanleitung, Seite 24](/bilder/pdf-anleitungen/s1plan/seite-24-bild-02.png)
+
+ergibt sich nach dem Optimierungslauf folgende Verteilung:
+
+NeuEinrichtung von Kursen in S1Plan (Beispiel: GY)
+
+![4.1.3.1 Schülerzuweisung zu den Arbeitsgemeinschaften – Abbildung aus der Originalanleitung, Seite 25](/bilder/pdf-anleitungen/s1plan/seite-25-bild-01.png)
+
+Hier wurde vor dem Optimierungslauf z.B. dem Schüler Biedermann der zunächst ein-
+
+getragene Erstwunsch „VB“ zugewiesen. Nach der Optimierung wurde ihm sein Zweit-
+
+wunsch „HB“ zugewiesen.
+
+Ein zugehöriges Protokoll kann im Browser eingesehen (und gespeichert) werden.
+
+Durch Klick auf
+
+![4.1.3.1 Schülerzuweisung zu den Arbeitsgemeinschaften – Abbildung aus der Originalanleitung, Seite 25](/bilder/pdf-anleitungen/s1plan/seite-25-bild-02.png)
+
+wird das Optimierungsergebnis gespeichert.
+
+Im Fenster der Kursübersicht und der Kurswahlen werden die Optimierungsergebnisse
+
+dargestellt:
+
+NeuEinrichtung von Kursen in S1Plan (Beispiel: GY)
+
+![4.1.3.1 Schülerzuweisung zu den Arbeitsgemeinschaften – Abbildung aus der Originalanleitung, Seite 26](/bilder/pdf-anleitungen/s1plan/seite-26-bild-01.png)
+
+Wie oben bereits beschriebe 17n, können alle Kurse in die SchILD-NRW-Datenbank
+
+übertragen werden.
+
+Hinweis:
+
+Analog zu den AG-Wahlen können auch z.B. die Wahlen zu Projekten bei ei-
+
+ner Projektwoche mit Erst-, Zweit- und Drittwunsch behandelt werden.
