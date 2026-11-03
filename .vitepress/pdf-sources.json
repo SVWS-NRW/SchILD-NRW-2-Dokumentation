@@ -92,5 +92,50 @@
     ],
     "disposition": "PDF ausgewertet; Binärdatei aus dem aktuellen Git-Stand entfernt",
     "pages": 33
+  },
+  {
+    "source": "/dateien/pdf/Grundschule_Ankreuzzeugnisse_mit_SchILD2.pdf",
+    "sha256": "b43962e35ca22f8fa89dd7ea0119c8fe9fd60f8e8631946b21f50c1998650413",
+    "articles": [
+      "zeugnisse/grundschule/ankreuzzeugnisse-erstellen.md"
+    ],
+    "disposition": "Original-PDF und Abbildungen in der Dokumentation verfügbar",
+    "pages": 44
+  },
+  {
+    "source": "/dateien/pdf/Grundschule_Ankreuzzeugnisse_mit_SchILD_INI_Optionen.pdf",
+    "sha256": "3004714e8b2a65656999cb1d569d2aa1b8759ff7dbe0252fcc1961e41f7c80b5",
+    "articles": [
+      "zeugnisse/grundschule/ankreuzzeugnisse-ini.md"
+    ],
+    "disposition": "Original-PDF und Abbildungen in der Dokumentation verfügbar",
+    "pages": 10
+  },
+  {
+    "source": "/dateien/pdf/Grundschule_Textzeugnisse_mit_SchILD2_Anleitung.pdf",
+    "sha256": "1c9c8ba31aca8eaf58eabff836dc7ca9e7d4b8154afe64cac71399b99cd07f5f",
+    "articles": [
+      "zeugnisse/grundschule/textzeugnisse-erstellen.md"
+    ],
+    "disposition": "Original-PDF und Abbildungen in der Dokumentation verfügbar",
+    "pages": 38
+  },
+  {
+    "source": "/dateien/pdf/Grundschule_Textzeugnisse_mit_SchILD2_INI_Optionen.pdf",
+    "sha256": "90c797ff80a5dff2e523489f758a1dc0aa33bbb2a518d5c3ef1f2b88babb6df5",
+    "articles": [
+      "zeugnisse/grundschule/textzeugnisse-ini.md"
+    ],
+    "disposition": "Original-PDF und Abbildungen in der Dokumentation verfügbar",
+    "pages": 9
+  },
+  {
+    "source": "/dateien/pdf/Zeugnisse_Brosch%C3%BCrendruck.pdf",
+    "sha256": "7591e2d78dcbcb5b22e9f6a210b87017396a7068e45c139630a4ca2e44ca4067",
+    "articles": [
+      "zeugnisse/vorbereitung/zeugnisse-broschuerendruck.md"
+    ],
+    "disposition": "Original-PDF und Abbildungen in der Dokumentation verfügbar",
+    "pages": 5
   }
 ]

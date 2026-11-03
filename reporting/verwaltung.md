@@ -3,6 +3,7 @@
 Wählen Sie zuerst den Report und die Schülergruppe aus, prüfen Sie die Vorschau und legen Sie anschließend die Ausgabe fest. Archivdruck, Word-Seriendruck und Mailversand sind eigene Ausgabewege.
 
 - [Druckfunktionen](/reporting/verwaltung/druckausgabe)
+- [Zeugnisse als Broschüren drucken](/zeugnisse/vorbereitung/zeugnisse-broschuerendruck)
 - [Report-Explorer öffnen](/reporting/verwaltung/reportexplorer-aufrufen)
 - [Standardformulare](/reporting/verwaltung/standard-formulare-drucken)
 - [Report aus Archiv drucken](/reporting/verwaltung/report-aus-archiv-drucken)
