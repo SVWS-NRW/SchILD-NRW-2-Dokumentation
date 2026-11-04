@@ -1,6 +1,6 @@
 # Noteneingabe in SchILDweb
 
-## 3.1 Allgemeine Informationen
+## Allgemeine Informationen
 
 Mit dem SchILDweb Notenmodul haben Lehrerinnen und Lehrer über das Inter- oder Intranet direkten Zugriff aus Schülerleistungsdaten in SchILDzentral. Diese können dann mit Hilfe eines aktuellen Webbrowsers eingesehen und editiert werden. Neben der reinen Noteneingabe können auch Bemerkungen zur Lernentwicklung und Zeugnisbemerkungen eingegeben werden. Dem Anwender steht hierfür eine komfortable Benutzeroberfläche mit selbstdefinierbaren Filter- und Anzeigefunktionen zur Verfügung.
 
@@ -11,7 +11,7 @@ Damit SchILDweb von einer Lehrerin oder einem Lehrer verwendet werden kann, müs
 - Für die betreffende Person muss in SchILDzentral eine gültige E-Mail-Adresse hinterlegt sein
 - Bei den Schülern, die von der jeweiligen Lehrkraft unterrichtet werden, müssen die unterrichteten Fächer mit Angabe der Lehrkraft eingetragen sein (siehe Abschnitt „Stundentafeln zuweisen“)
 
-## 3.2 Erster Aufruf
+## Erster Aufruf
 
 Sind die obigen Voraussetzungen erfüllt, so kann SchILDweb wie folgt gestartet werden:
 
@@ -37,7 +37,7 @@ Angaben identisch sind, wird eine E-Mail mit einem temporären Passwort an die A
 
 Hinweis: Fall Sie Ihr Passwort vergessen haben (oder dreimal hintereinander ein falsches Passwort eingegeben haben), aktivieren Sie wieder den Link „Neues Passwort beantragen“, die beschriebene Prozedur muss dann erneut durchlaufen werden.
 
-## 3.3 Noten und fachbezogene Bemerkungen eingeben
+## Noten und fachbezogene Bemerkungen eingeben
 
 Nach erfolgreicher Anmeldung werden auf dem Karteireiter „Leistungsdaten“ die Schüler und Fächer angezeigt, die von Ihnen unterrichtet werden.
 
@@ -69,7 +69,7 @@ Hinweis: Ein rotes Dreieck in einer Zelle der Tabelle deutet an, dass die jeweil
 
 ![Abbildung zu 3.3 Noten und fachbezogene Bemerkungen eingeben aus der PDF-Anleitung auf Seite 19](/bilder/zeugnisse/pdf-anleitungen/textzeugnisse-erstellen/seite-19-bild-027.png)
 
-## 3.4 Eingaben durch Klassenlehrer
+## Eingaben durch Klassenlehrer
 
 Wenn Sie Klassenlehrer oder Klassenlehrerin sind, steht Ihnen zusätzlich noch der Karteireiter „Bereichsnoten/Bemerkungen“ zur Verfügung. In den Spalten
 
@@ -83,7 +83,7 @@ Hinweis: Eingaben bei den „globalen“ Angaben zur Lernentwicklung und zum Lei
 
 Soll dagegen die Lernentwicklung und der Leistungsstand zusammenfassend für alle Fächer separat auf dem Zeugnis ausgegeben werden, so muss die Eingabe in der Spalte „L&amp;L“ erfolgen.
 
-## 3.5 Änderungen speichern
+## Änderungen speichern
 
 Geänderte Daten werden nicht sofort in der Datenbank gespeichert. Sie können den Speichervorgang für alle geänderten Datensätze aktivieren, indem Sie den Schalter „Speichern (alle Datensätze)“ anklicken. Um nur den aktuellen Datensatz zu speichern, klicken Sie auf „Speichern (aktueller Datensatz)“
 

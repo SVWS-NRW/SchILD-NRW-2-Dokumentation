@@ -6,7 +6,7 @@ In Ankreuzzeugnissen (auch Rasterzeugnisse genannt) wird pro Fach eine bestimmte
 
 Dazu sind folgende Vorarbeiten notwendig:
 
-## 2.1 Kompetenzbeschreibungen bearbeiten
+## Kompetenzbeschreibungen bearbeiten
 
 Kompetenzbeschreibungen sind die (i.d.R. einzeiligen) Texte, die in den Zeugnissen erscheinen und für die dann eine Kompetenzstufe angekreuzt wird. Die Bearbeitung erfolgt in SchILD-NRW 2 über den Menüpunkt „Schulverwaltung → Angaben zu Ankreuzzeugnissen“. Es erscheint dann das folgende Fenster:
 
@@ -30,11 +30,11 @@ In der Spalte „Fach“ ist bei Kompetenzbeschreibungen für das Arbeits- und S
 
 Hier noch weitere Hinweise:
 
-## Jahrgang 03
+### Jahrgang 03
 
 Für den Jahrgang E3 können keine Kompetenzbeschreibungen vergeben werden, es werden vielmehr die gleichen Beschreibungen wie für Jahrgang E2 verwendet.
 
-## Unterkategorien
+### Unterkategorien
 
 Zu einem Fach können durch Unterkategorien gebildet werden. Beispiel: Das Arbeits- und Sozialverhalten soll im Zeugnis in zwei Unterkategorien „Lern- und Leistungsbereitschaft“ und „Zuverlässigkeit und Sorgfalt“ ausgegeben werden. Die einzelnen Kompetenzbeschreibungen dazu sind dann wie folgt einzutragen
 
@@ -60,7 +60,7 @@ Im Zeugnis sieht das dann z.B. so aus:
 
 ![Abbildung zu Unterkategorien aus der PDF-Anleitung auf Seite 15](/bilder/zeugnisse/pdf-anleitungen/ankreuzzeugnisse-erstellen/seite-15-bild-023.png)
 
-## Zeilenumbrüche
+### Zeilenumbrüche
 
 Wenn eine Kompetenzbeschreibung länger als eine Zeile ist, so erfolgt im Zeugnis ein automatischer Zeilenumbruch. Falls aber der Text mit einem Spiegelstrich o.ä.
 
@@ -76,7 +76,7 @@ Im Ausdruck sieht das dann so aus:
 
 ![Abbildung zu Zeilenumbrüche aus der PDF-Anleitung auf Seite 16](/bilder/zeugnisse/pdf-anleitungen/ankreuzzeugnisse-erstellen/seite-16-bild-026.png)
 
-## Besondere Hinweise für „Deutsch“
+### Besondere Hinweise für „Deutsch“
 
 Für das eigentliche Kernfach „Deutsch“ werden oft keine expliziten Kompetenzbeschreibungen verwendet, vielmehr werden diese den Teilfächern „Lesen“, „Rechtschreiben“ und „Sprachgebrauch“ zugewiesen. In der Reportvorlage wird in einem solchen Fall automatisch eine Überschrift „Deutsch“ erzeugt, zusätzlich auch die Überschriften der Teilfächer.
 
@@ -98,9 +98,9 @@ Wichtig: Bitte tragen Sie die gewünschte Bezeichnung nicht im Feld „Bezeichnu
 
 ![Abbildung zu Besondere Hinweise für „Deutsch“ aus der PDF-Anleitung auf Seite 18](/bilder/zeugnisse/pdf-anleitungen/ankreuzzeugnisse-erstellen/seite-18-bild-030.png)
 
-## 2.2 Weitere Angaben zu Ankreuzzeugnissen
+## Weitere Angaben zu Ankreuzzeugnissen
 
-## Kompetenzstufen
+### Kompetenzstufen
 
 Neben den Kompetenzbeschreibungen müssen auch die Texte für die „Kompetenzstufen“ festgelegt werden. Das sind die Überschriften, die im Zeugnis oberhalb der „Ankreuzkästchen“ stehen:
 
@@ -120,7 +120,7 @@ Im Zeugnis sieht das dann so aus:
 
 ![Abbildung zu Kompetenzstufen aus der PDF-Anleitung auf Seite 20](/bilder/zeugnisse/pdf-anleitungen/ankreuzzeugnisse-erstellen/seite-20-bild-034.png)
 
-## Frei definierbare Zeugnisrubrik
+### Frei definierbare Zeugnisrubrik
 
 Neben den fest vorgegebenen Fächern (zuzüglich Arbeits- und Sozialverhalten), kann bei Bedarf auch eine frei definierbares zusätzliche „Zeugnisrubrik“ verwendet werden.
 
@@ -132,7 +132,7 @@ Wenn eine entsprechende Bezeichnung eingetragen ist, so können dafür Kompetenz
 
 Auf dem Zeugnis wird aber die selbst definierte Bezeichnung verwendet.
 
-## 2.3 Zuweisung der Kompetenzbeschreibungen
+## Zuweisung der Kompetenzbeschreibungen
 
 Nachdem die Einträge für die Ankreuzzeugnisse abgeschlossen sind, müssen die einzelnen Kompetenzbeschreibungen den Kindern (in Abhängigkeit von Jahrgang und Halbjahr) zugewiesen werden, damit anschließend eine individuelle Beurteilung erfolgen kann. Dazu muss aber erst festgelegt werden, in welchen Klassen Ankreuzzeugnisse verwendet werden sollen. Dies erfolgt über den Menüpunkt „Schulverwaltung → Klassen/Versetzungstabelle“.
 

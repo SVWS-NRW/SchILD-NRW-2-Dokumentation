@@ -11,7 +11,7 @@ Da in den Zeugnissen für jedes Kind individuelle Angaben ausgeben werden sollen
 
 Für die meisten dieser Schritte gibt es in SchILD-NRW 2 entsprechende Gruppenprozesse, mit denen die jeweiligen Aufgaben rasch erledigt werden können.
 
-## 1.1. Fächerkatalog konfigurieren
+## Fächerkatalog konfigurieren
 
 Um den Fächerkatalog zu bearbeiten, aktivieren Sie den Menüpunkt „Schulverwaltung → Unterrichtsfächer“. Es erscheint dann ein Fenster, in dem die derzeit vorhandenen Fächer aufgelistet werden:
 
@@ -40,7 +40,7 @@ Bitte überprüfen Sie den Fächerkatalog. Er sollte mindestens die folgenden F�
 - Musik
 - Kunst
 
-## Basis-Fächerkatalog laden
+### Basis-Fächerkatalog laden
 
 Wenn Sie bisher in SchILD-NRW 2 noch nicht mit Fächern gearbeitet haben, können Sie sich einen Basiskatalog, der die obigen Fächer enthält, automatisch erzeugen, indem Sie auf den Schalter „Basis-Fächerkatalog laden“ klicken. Es erscheint dann der Hinweis
 
@@ -48,7 +48,7 @@ Wenn Sie bisher in SchILD-NRW 2 noch nicht mit Fächern gearbeitet haben, könne
 
 Diesen Hinweis sollten Sie nur mit „Ja“ bestätigen, wenn Sie bisher noch keine Fächer den Schülern zugewiesen haben.
 
-## Fächer einzeln anlegen und bearbeiten
+### Fächer einzeln anlegen und bearbeiten
 
 Der Fächerkatalog kann aber auch jederzeit individuell ergänzt werden. Das folgende Beispiel zeigt, wie Sie islamische Religionslehre ergänzen.
 
@@ -76,7 +76,7 @@ Wichtig: Jedes Fach muss einer „Fächergruppe“ zugewiesen werden. Diese steu
 
 Und hier noch ein weiterer Hinweis: Das Häkchen bei „Auf Zeugnis“ steuert, ob ein Fach auf dem Zeugnis erscheinen soll. Eine Deaktivierung ist z.B. bei einem Förderunterricht sinnvoll.
 
-## Besondere Hinweise für „Deutsch“
+### Besondere Hinweise für „Deutsch“
 
 Das Fach „Deutsch“ wird an der Grundschule einmal als „Hauptfach“ auf dem Zeugnis ausgegeben, daneben aber zusätzlich auch als
 
@@ -108,7 +108,7 @@ Anschließend sollten die Fächer auf dem Karteireiter „Akt. Halbjahr“ in de
 
 ![Abbildung zu Besondere Hinweise für „Deutsch“ aus der PDF-Anleitung auf Seite 8](/bilder/zeugnisse/pdf-anleitungen/ankreuzzeugnisse-erstellen/seite-08-bild-010.png)
 
-## 1.2. Stundentafeln einrichten
+## Stundentafeln einrichten
 
 Nachdem der Fächerkatalog eingerichtet wurde, können Stundentafeln eingerichtet werden. Eine Stundentafel ist eine Teilmenge der vorhandenen Fächer, die unter einem Namen zusammengefasst werden und die den Unterricht beschreiben, der z.B. in einem Jahrgang gegeben wird. Da sich die Zusammensetzung des Unterrichtes nur selten ändert, müssen die Stundentafeln in der Regel nur einmal angelegt werden.
 
@@ -139,7 +139,7 @@ Hinweis: In der Grundschule sind die Stundentafeln für die einzelnen Jahrgänge
 - Legen Sie dann eine neue Stundentafel an und speichern diese
 - Aktvieren Sie dann den Schalter „Fächer einfügen“
 
-## Sonderfall Religion
+### Sonderfall Religion
 
 Religion nimmt bei den Stundentafeln eine gewisse Sonderrolle ein. Im Gegensatz zu den anderen Fächern wird katholische und evangelische Religionslehre (und evtl. auch islamische Religionslehre) nur einem Teil der Schüler des jeweiligen
 
@@ -150,7 +150,7 @@ Jahrganges zugewiesen. Es gibt zwei Optionen, mit den Religionsfächern umzugehe
 
 Beide Optionen sind im Anhang 1 beschrieben.
 
-## 1.3. Stundentafel zuweisen
+## Stundentafel zuweisen
 
 Nachdem die Stundentafeln eingerichtet wurden, können sie über einen Gruppenprozess den Schülern zugewiesen werden. Gehen Sie hierzu wie folgt vor:
 
@@ -165,7 +165,7 @@ Nachdem die Stundentafeln eingerichtet wurden, können sie über einen Gruppenpr
 
 und aktivieren Sie dann den Schalter „Übernehmen“. Anschließend können Sie ggf. das Schuljahr auswählen (standardmäßig werden die Fächer der Stundentafel in das aktuelle Halbjahr eingetragen). Nach Abschluss des Gruppenprozesses sind dann bei allen Kindern des ausgewählten Jahrganges die Fächer aus der Stundentafel eingetragen (auf Karteireiter „Akt. Halbjahr → Leistungsdaten“).
 
-## 1.4. Lehrkräfte zuweisen
+## Lehrkräfte zuweisen
 
 Nach der Zuweisung der Stundentafel sollten auch die Lehrkräfte, die die einzelnen Fächer unterrichten, zugewiesen werden:
 

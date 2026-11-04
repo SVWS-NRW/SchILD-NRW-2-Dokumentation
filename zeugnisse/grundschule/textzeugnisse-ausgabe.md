@@ -2,7 +2,7 @@
 
 Für eine Ausgabe in Heftform folgen Sie anschließend der Anleitung zum [Broschürendruck](/zeugnisse/vorbereitung/zeugnisse-broschuerendruck?rubrik=reporting).
 
-## 4.1 Allgemeine Angaben
+## Allgemeine Angaben
 
 Um die Noten und Bemerkungen über den Report-Explorer von SchILDzentral als Zeugnis auszugeben, muss zuerst (sofern noch nicht geschehen) die entsprechende „Druckvorlage“ in ein geeignetes Verzeichnis unterhalb Ihres Report-Verzeichnisses kopiert werden.
 
@@ -46,21 +46,21 @@ Hier können Sie z.B. auswählen, ob die ausgewählte Vorlage erst in einem Vors
 
 Falls die Zeugnisse als „Broschüren“ ausgegeben werden sollen, beachten Sie bitte die Hinweise in Anhang 3.
 
-## 4.2 Spezielle Informationen zum Textzeugnis
+## Spezielle Informationen zum Textzeugnis
 
 Im Folgenden finden Sie einige Erläuterungen, wie sich das Erscheinungsbild des Text-Zeugnisses beeinflussen lässt. Dies wird mit Beispielausgaben für den Jahrgang 03 und 04 im Anhang 4 demonstriert.
 
-## Anzeige von Arbeits- und Sozialverhalten
+### Anzeige von Arbeits- und Sozialverhalten
 
 Die Zeugnisvorlage enthält einen Bereich, in dem die Angaben zum Arbeits- und Sozialverhalten angezeigt werden. Dieser Bereich wird aber nur angezeigt, wenn tatsächlich eine Texteingabe für das Arbeits- und Sozialverhalten vorhanden ist.
 
-## Anzeige von Lernentwicklung- und Leistungsstand
+### Anzeige von Lernentwicklung- und Leistungsstand
 
 Die Zeugnisvorlage enthält einen weiteren Bereich, in dem allgemeine Angaben zur Lernentwicklung und zum Leistungsstand ausgegeben werden können. Dieser Bereich wird aber nur angezeigt, wenn tatsächlich eine entsprechende Texteingabe vorhanden ist. Falls dies der Fall ist, haben diese allgemeinen Bemerkungen Vorrang vor evtl. vorhandenen fachbezogenen Bemerkungen zur Lernentwicklung und zum Leistungsstand. Sie müssen sich daher grundsätzlich entscheiden, ob bei einem
 
 Kind für die Lernentwicklung und den Leistungsstand Bemerkungen pro Fach gemacht (und ausgegeben) werden sollen oder ob die Lernentwicklung und der Leistungsstand zusammenfassend beurteilt werden soll.
 
-## Versetzungsvermerk
+### Versetzungsvermerk
 
 Wird das Zeugnis für das zweite Halbjahr erzeugt, so wird auch der Versetzungsvermerk (in der Form „Markus wird zum 01.08.2013 in die Klasse 03A versetzt“) ausgegeben. Dazu werden die Angaben auf dem Karteireiter „Akt. Halbjahr“ ausgewertet.
 
