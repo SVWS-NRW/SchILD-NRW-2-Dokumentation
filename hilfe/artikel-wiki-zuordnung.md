@@ -6,7 +6,7 @@ Die erste Tabelle erfasst die Inhaltsseiten und LuPO-Artikel aus der gesicherten
 
 | Dokumentation | Wiki-Artikel |
 | --- | --- |
-| [Frühere Wiki-Startseite](/hilfe/wiki-archiv/hauptseite) | [Hauptseite](https://wiki.svws.nrw.de/mediawiki/index.php?title=Hauptseite) |
+| Kein eigener Artikel | [Hauptseite](https://wiki.svws.nrw.de/mediawiki/index.php?title=Hauptseite) |
 | [Das Programm im Überblick](/einstieg/grundlagen/schild-nrw-index) | [Schild-NRW-Index](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schild-NRW-Index) |
 | [Reporting im Überblick](/reporting/erstellung/reporting) | [Reporting](https://wiki.svws.nrw.de/mediawiki/index.php?title=Reporting) |
 | [RAP-Funktionen](/reporting/rap "/reporting/rap") | [RAP-Funktionen](https://wiki.svws.nrw.de/mediawiki/index.php?title=RAP-Funktionen) |
@@ -318,7 +318,7 @@ Die erste Tabelle erfasst die Inhaltsseiten und LuPO-Artikel aus der gesicherten
 | [Anzeige und Fächerauswahl in KM2 anpassen](/hilfe/zusatzprogramme/km2-parameter-allgemein) | [KM2 - Parameter - Allgemein](https://wiki.svws.nrw.de/mediawiki/index.php?title=KM2%20-%20Parameter%20-%20Allgemein) |
 | [Mit KM2 in der Konferenz arbeiten](/hilfe/zusatzprogramme/modulbenutzung) | [Modulbenutzung](https://wiki.svws.nrw.de/mediawiki/index.php?title=Modulbenutzung) |
 | [KM2 aktualisieren](/hilfe/zusatzprogramme/km2-programmupdate) | [KM2-Programmupdate](https://wiki.svws.nrw.de/mediawiki/index.php?title=KM2-Programmupdate) |
-| [Wiki-Kategorie KM2](/hilfe/wiki-archiv/kategorie-konferenzmodul-km2) | [Kategorie:Konferenzmodul KM2](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kategorie%3AKonferenzmodul%20KM2) |
+| Kein eigener Artikel | [Kategorie:Konferenzmodul KM2](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kategorie%3AKonferenzmodul%20KM2) |
 | [Markierte Schülerdatensätze endgültig löschen](/schild2/gruppenprozesse/schueler-datensaetze-loeschen) | [Schüler-Datensätze löschen](https://wiki.svws.nrw.de/mediawiki/index.php?title=Sch%C3%BCler-Datens%C3%A4tze%20l%C3%B6schen) |
 | [Grundschuldaten löschen](/schild2/gruppenprozesse/grundschuldaten-loeschen "/schild2/gruppenprozesse/grundschuldaten-loeschen") | [Grundschuldaten löschen](https://wiki.svws.nrw.de/mediawiki/index.php?title=Grundschuldaten%20l%C3%B6schen) |
 | [Dokumentenverzeichnisse aktualisieren](/administration/benutzer-einstellungen/dokumentenverzeichnisse-aktualisieren "/administration/benutzer-einstellungen/dokumentenverzeichnisse-aktualisieren") | [Dokumentenverzeichnisse aktualisieren](https://wiki.svws.nrw.de/mediawiki/index.php?title=Dokumentenverzeichnisse%20aktualisieren) |
@@ -389,7 +389,7 @@ Die erste Tabelle erfasst die Inhaltsseiten und LuPO-Artikel aus der gesicherten
 | [Mit eigenen Schülergruppen arbeiten](/schild2/auswahl/individuelle-schuelergruppen-bearbeiten-und-nutzen) | [Individuelle Schülergruppen bearbeiten und nutzen](https://wiki.svws.nrw.de/mediawiki/index.php?title=Individuelle%20Sch%C3%BClergruppen%20bearbeiten%20und%20nutzen) |
 | Kein eigener Dokumentationsartikel. Verwandte Seite [Kurse mit KPlan verwalten](/hilfe/zusatzprogramme/kursplanung-kplan-exe) | [Kursverwaltung KPlan.exe](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kursverwaltung%20KPlan.exe) |
 | [Kurse mit KPlan verwalten](/hilfe/zusatzprogramme/kursplanung-kplan-exe) | [Kursplanung KPlan.exe](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kursplanung%20KPlan.exe) |
-| [Technische Hinweise aus dem Wiki](/hilfe/wiki-archiv/schild-nrw-wiki-aktuelle-ereignisse) | [Schild-NRW Wiki:Aktuelle Ereignisse](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schild-NRW%20Wiki%3AAktuelle%20Ereignisse) |
+| Kein eigener Artikel | [Schild-NRW Wiki:Aktuelle Ereignisse](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schild-NRW%20Wiki%3AAktuelle%20Ereignisse) |
 | [Access-Probleme unter Windows Server 2012 beheben](/administration/installation/access-datenbanken-und-windows-server-2012) | [Access-Datenbanken und Windows-Server 2012](https://wiki.svws.nrw.de/mediawiki/index.php?title=Access-Datenbanken%20und%20Windows-Server%202012) |
 | [UDL-Dateien auf 64-Bit-Systemen öffnen](/administration/installation/udl-dateien-unter-64-bit) | [UDL-Dateien unter 64-BIT](https://wiki.svws.nrw.de/mediawiki/index.php?title=UDL-Dateien%20unter%2064-BIT) |
 | [S1Plan kennenlernen](/hilfe/zusatzprogramme/s1plan-uebersicht) | [S1PLAN:Übersicht](https://wiki.svws.nrw.de/mediawiki/index.php?title=S1PLAN%3A%C3%9Cbersicht) |
@@ -408,8 +408,8 @@ Die erste Tabelle erfasst die Inhaltsseiten und LuPO-Artikel aus der gesicherten
 | [Datenliste](/reporting/rap/datenliste "/reporting/rap/datenliste") | [Datenliste](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datenliste) |
 | [Teilleistungen einrichten und verwalten](/schild2/unterricht-kataloge/teilleistungen-einrichten-und-verwalten) | [Teilleistungen einrichten und verwalten](https://wiki.svws.nrw.de/mediawiki/index.php?title=Teilleistungen%20einrichten%20und%20verwalten) |
 | [Teilleistungen einrichten und verwalten](/schild2/unterricht-kataloge/teilleistungen-einrichten-und-verwalten) | [Teilleistungen einrichten und verwalten](https://wiki.svws.nrw.de/mediawiki/index.php?title=Teilleistungen%20einrichten%20und%20verwalten) |
-| [Impressum des Wikis](/hilfe/wiki-archiv/schild-nrw-wiki-impressum) | [Schild-NRW Wiki:Impressum](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schild-NRW%20Wiki%3AImpressum) |
-| [Datenschutzerklärung des Wikis](/hilfe/wiki-archiv/schild-nrw-wiki-datenschutz) | [Schild-NRW Wiki:Datenschutz](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schild-NRW%20Wiki%3ADatenschutz) |
+| Kein eigener Artikel | [Schild-NRW Wiki:Impressum](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schild-NRW%20Wiki%3AImpressum) |
+| Kein eigener Artikel | [Schild-NRW Wiki:Datenschutz](https://wiki.svws.nrw.de/mediawiki/index.php?title=Schild-NRW%20Wiki%3ADatenschutz) |
 | [Externe Blockungsprogramme](/hilfe/zusatzprogramme/externe-blockungs-tools) | [Externe Blockungs-Tools](https://wiki.svws.nrw.de/mediawiki/index.php?title=Externe%20Blockungs-Tools) |
 | [Blockung mit K422CNF](/hilfe/zusatzprogramme/k422cnf-uebersicht) | [K422CNF:Übersicht](https://wiki.svws.nrw.de/mediawiki/index.php?title=K422CNF%3A%C3%9Cbersicht) |
 | [Blockung mit Kurs42 To CNF](/hilfe/zusatzprogramme/kurs42-to-cnf-hauptseite) | [Kurs42 To CNF:Hauptseite](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurs42%20To%20CNF%3AHauptseite) |
@@ -417,11 +417,11 @@ Die erste Tabelle erfasst die Inhaltsseiten und LuPO-Artikel aus der gesicherten
 | [Mehrere Klausurpläne mit Multi Klausurplanung CNF erstellen](/hilfe/zusatzprogramme/multi-klausurplanung-cnf-hauptseite) | [Multi Klausurplanung CNF:Hauptseite](https://wiki.svws.nrw.de/mediawiki/index.php?title=Multi%20Klausurplanung%20CNF%3AHauptseite) |
 | [Funktionen im Überblick](/programmreferenz/) | [Inhaltsverzeichnis](https://wiki.svws.nrw.de/mediawiki/index.php?title=Inhaltsverzeichnis) |
 | [Externes Notenmodul unter Ubuntu einrichten](/administration/installation/einrichtung-des-enm-moduls-unter-ubuntu-18-04) | [Einrichtung des ENM-Moduls unter Ubuntu 18.04](https://wiki.svws.nrw.de/mediawiki/index.php?title=Einrichtung%20des%20ENM-Moduls%20unter%20Ubuntu%2018.04) |
-| [Textzeugnisse mit dem Report-Explorer erstellen](/zeugnisse/grundschule/grundschulzeugnisse-textzeugnis) | [Grundschulzeugnisse Textzeugnis](https://wiki.svws.nrw.de/mediawiki/index.php?title=Grundschulzeugnisse%20Textzeugnis) |
+| [Textzeugnisse Einführung](/zeugnisse/grundschule/grundschulzeugnisse-textzeugnis) | [Grundschulzeugnisse Textzeugnis](https://wiki.svws.nrw.de/mediawiki/index.php?title=Grundschulzeugnisse%20Textzeugnis) |
 | Kein eigener Dokumentationsartikel. Verwandte Seite [Grundschulzeugnisse Ankreuzzeugnis](/tools/notenmodul-grundschule/leistungsdaten "/tools/notenmodul-grundschule/leistungsdaten") | [Grundschulzeugnisse Ankreuzzeugnis](https://wiki.svws.nrw.de/mediawiki/index.php?title=Grundschulzeugnisse%20Ankreuzzeugnis) |
 | Kein eigener Dokumentationsartikel. Verwandte Seite [Grundschulzeugnisse Lernstandsberichte](/zeugnisse/grundschule "/zeugnisse/grundschule") | [Grundschulzeugnisse Lernstandsberichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Grundschulzeugnisse%20Lernstandsberichte) |
 | [Schuljahr und Lernabschnitt wechseln](/schild2/versetzung/versetzung-ins-neue-schuljahr-abschnittswechsel-durchfuehren) | [Versetzung ins neue Schuljahr / Abschnittswechsel durchführen](https://wiki.svws.nrw.de/mediawiki/index.php?title=Versetzung%20ins%20neue%20Schuljahr%20%2F%20Abschnittswechsel%20durchf%C3%BChren) |
-| [Video aus dem Wiki](/hilfe/wiki-archiv/youtube) | [Youtube](https://wiki.svws.nrw.de/mediawiki/index.php?title=Youtube) |
+| Kein eigener Artikel | [Youtube](https://wiki.svws.nrw.de/mediawiki/index.php?title=Youtube) |
 | [Reports per E-Mail versenden](/reporting/verwaltung/mailversand-aus-der-reporting) | [Mailversand aus der Reporting](https://wiki.svws.nrw.de/mediawiki/index.php?title=Mailversand%20aus%20der%20Reporting) |
 | [BK-Abschlüsse nach Anlage A](/zeugnisse/berufskolleg/bk-abschluss-anlage-a) | [BK-Abschluss:Anlage-A](https://wiki.svws.nrw.de/mediawiki/index.php?title=BK-Abschluss%3AAnlage-A) |
 | [BK-Abschlüsse nach Anlage B](/zeugnisse/berufskolleg/bk-abschluss-anlage-b) | [BK-Abschluss:Anlage-B](https://wiki.svws.nrw.de/mediawiki/index.php?title=BK-Abschluss%3AAnlage-B) |
@@ -466,8 +466,8 @@ Die erste Tabelle erfasst die Inhaltsseiten und LuPO-Artikel aus der gesicherten
 | [Kurs42 installieren und verbinden](/hilfe/zusatzprogramme/kurs42-installationshinweise) | [Kurs42:Installationshinweise](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurs42%3AInstallationshinweise) |
 | [Änderungshistorie von Kurs42](/hilfe/zusatzprogramme/kurs42-versionsgeschichte) | [Kurs42:Versionsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kurs42%3AVersionsgeschichte) |
 | [Änderungshistorie von LuPO](/tools/lupo/lupo-versionsgeschichte) | [Lupo:Versionsgeschichte](https://wiki.svws.nrw.de/mediawiki/index.php?title=Lupo%3AVersionsgeschichte) |
-| [Wiki-Kategorie LuPO](/hilfe/wiki-archiv/kategorie-lupo) | [Kategorie:LuPO](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kategorie%3ALuPO) |
-| [Frühere Menüübersicht](/hilfe/wiki-archiv/testseite) | [Testseite](https://wiki.svws.nrw.de/mediawiki/index.php?title=Testseite) |
+| Kein eigener Artikel | [Kategorie:LuPO](https://wiki.svws.nrw.de/mediawiki/index.php?title=Kategorie%3ALuPO) |
+| Kein eigener Artikel | [Testseite](https://wiki.svws.nrw.de/mediawiki/index.php?title=Testseite) |
 | [DatensatzZeigerBewegen](/reporting/rap/datensatzzeigerbewegen "/reporting/rap/datensatzzeigerbewegen") | [DatensatzZeigerBewegen](https://wiki.svws.nrw.de/mediawiki/index.php?title=DatensatzZeigerBewegen) |
 | [Versetzung jahrgangsübergreifender Klassen](/schild2/versetzung/versetzungstabelle-bei-jahrgangsuebergreifenden-klassen) | [Versetzungstabelle bei jahrgangsübergreifenden Klassen](https://wiki.svws.nrw.de/mediawiki/index.php?title=Versetzungstabelle%20bei%20jahrgangs%C3%BCbergreifenden%20Klassen) |
 | [Export für BAN-Portal](/schild2/import-export-statistik/export-fuer-ban-portal "/schild2/import-export-statistik/export-fuer-ban-portal") | [Export für BAN-Portal](https://wiki.svws.nrw.de/mediawiki/index.php?title=Export%20f%C3%BCr%20BAN-Portal) |
@@ -510,7 +510,6 @@ Die erste Tabelle erfasst die Inhaltsseiten und LuPO-Artikel aus der gesicherten
 | [Häufige Begriffe verstehen](/einstieg/grundlagen/begriffe) | Kein Wiki-Artikel |
 | [Import aus Textdateien](/tools/import-textdateien) | Kein Wiki-Artikel |
 | [Import, Export und Statistik](/schild2/import-export-statistik) | Kein Wiki-Artikel |
-| [Installation von SchILD-NRW 2](/administration/installation) | Kein Wiki-Artikel |
 | [Klausuren planen](/tools/kurs42/klausurplanung) | Kein Wiki-Artikel |
 | [KM2 – Konferenzmodul](/tools/km2) | Kein Wiki-Artikel |
 | [KPlan](/tools/kplan) | Kein Wiki-Artikel |
@@ -543,14 +542,26 @@ Die erste Tabelle erfasst die Inhaltsseiten und LuPO-Artikel aus der gesicherten
 | [Unterricht und Kataloge](/schild2/unterricht-kataloge) | Kein Wiki-Artikel |
 | [Versetzung und Abschnittswechsel](/schild2/versetzung) | Kein Wiki-Artikel |
 | [Vorbereitung und Export](/tools/notenmodul-grundschule/vorbereitung) | Kein Wiki-Artikel |
-| [Wiki und Versionsgeschichte](/hilfe/wiki-archiv) | Kein Wiki-Artikel |
 | [Zentrale Prüfungen und Rückgabe](/tools/enm-notenmanager/pruefungen-und-rueckgabe) | Kein Wiki-Artikel |
 | [Zeugnisse](/zeugnisse/) | Kein Wiki-Artikel |
 | [Zusammenspiel mit SchILD-NRW 2 und LuPO](/tools/kurs42/datenfluss) | Kein Wiki-Artikel |
-| [Zusatzprogramme und Handbücher](/hilfe/zusatzprogramme) | Kein Wiki-Artikel |
 | [Ankreuzzeugnisse mit dem Report-Explorer erstellen](/zeugnisse/grundschule/ankreuzzeugnisse-erstellen) | Kein Wiki-Artikel |
+| [Ankreuzzeugnisse: Allgemeine Vorbereitungen](/zeugnisse/grundschule/ankreuzzeugnisse-allgemeine-vorbereitungen) | Kein Wiki-Artikel |
+| [Ankreuzzeugnisse: Ankreuzzeugnisse vorbereiten](/zeugnisse/grundschule/ankreuzzeugnisse-spezielle-vorbereitungen) | Kein Wiki-Artikel |
+| [Ankreuzzeugnisse: Noteneingabe in SchILDweb](/zeugnisse/grundschule/ankreuzzeugnisse-noten-in-schildweb) | Kein Wiki-Artikel |
+| [Ankreuzzeugnisse: Zeugnisse ausgeben](/zeugnisse/grundschule/ankreuzzeugnisse-ausgabe) | Kein Wiki-Artikel |
+| [Ankreuzzeugnisse: Religion individuell zuweisen](/zeugnisse/grundschule/ankreuzzeugnisse-religion-zuweisen) | Kein Wiki-Artikel |
+| [Ankreuzzeugnisse: Zeugnislayout konfigurieren](/zeugnisse/grundschule/ankreuzzeugnisse-layout-konfigurieren) | Kein Wiki-Artikel |
 | [Layout für Ankreuzzeugnisse einstellen](/zeugnisse/grundschule/ankreuzzeugnisse-ini) | Kein Wiki-Artikel |
 | [Text- und Notenzeugnisse mit dem Report-Explorer erstellen](/zeugnisse/grundschule/textzeugnisse-erstellen) | Kein Wiki-Artikel |
+| [Text- und Notenzeugnisse: Allgemeine Vorbereitungen](/zeugnisse/grundschule/textzeugnisse-allgemeine-vorbereitungen) | Kein Wiki-Artikel |
+| [Text- und Notenzeugnisse: Textzeugnisse vorbereiten](/zeugnisse/grundschule/textzeugnisse-spezielle-vorbereitungen) | Kein Wiki-Artikel |
+| [Text- und Notenzeugnisse: Noteneingabe in SchILDweb](/zeugnisse/grundschule/textzeugnisse-noten-in-schildweb) | Kein Wiki-Artikel |
+| [Text- und Notenzeugnisse: Zeugnisse ausgeben](/zeugnisse/grundschule/textzeugnisse-ausgabe) | Kein Wiki-Artikel |
+| [Text- und Notenzeugnisse: Religion individuell zuweisen](/zeugnisse/grundschule/textzeugnisse-religion-zuweisen) | Kein Wiki-Artikel |
+| [Text- und Notenzeugnisse: Zeugnislayout konfigurieren](/zeugnisse/grundschule/textzeugnisse-layout-konfigurieren) | Kein Wiki-Artikel |
+| [Text- und Notenzeugnisse: Ankreuzkompetenzen im ASV](/zeugnisse/grundschule/textzeugnisse-asv-kompetenzen) | Kein Wiki-Artikel |
+| [Text- und Notenzeugnisse: Beispiele](/zeugnisse/grundschule/textzeugnisse-beispiele) | Kein Wiki-Artikel |
 | [Layout für Text- und Notenzeugnisse einstellen](/zeugnisse/grundschule/textzeugnisse-ini) | Kein Wiki-Artikel |
 | [Zeugnisse als Broschüren drucken](/zeugnisse/vorbereitung/zeugnisse-broschuerendruck) | Kein Wiki-Artikel |
 

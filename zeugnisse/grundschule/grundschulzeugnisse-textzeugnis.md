@@ -1,10 +1,12 @@
 ---
-title: "Textzeugnisse mit dem Report-Explorer erstellen"
+title: "Textzeugnisse Einführung"
 ---
 
 <a id="grundschulzeugnisse-textzeugnis"></a>
 
-# Textzeugnisse mit dem Report-Explorer erstellen
+<a id="textzeugnisse-mit-dem-report-explorer-erstellen"></a>
+
+# Textzeugnisse Einführung
 
 Seit dem Schuljahr 2020/21 ist es möglich mit SchILD-NRW 2 an der Grundschule auch Textzeugnisse mit dem Reportexplorer zu erstellen. Dazu wurde ein RTM-Report für die Reportverwaltung in SchILD-NRW 2 entwickelt. Das Paket besteht aus einem Zeugnis-Kopf-RTM einem Hybridzeugnis-RTM und einer INI-Datei.
 

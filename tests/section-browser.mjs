@@ -15,8 +15,8 @@ export async function checkSectionMenus(page,base) {
   if(!candidate)continue
   cases.push({section,target:candidate.link,start:category?.link||candidate.link})
  }
- // A shared article must stay in either the working rubric or the tool rubric.
- cases.push({section:'/schild2/',start:'/zeugnisse/grundschule',target:'/tools/notenmodul-grundschule/leistungsdaten'})
+ // The grade-entry guide stays in the primary-school grading tool.
+ cases.push({section:'/tools/',start:'/tools/notenmodul-grundschule',target:'/tools/notenmodul-grundschule/leistungsdaten'})
  for(const scenario of cases) {
   const {start,target}=scenario
   let section=scenario.section

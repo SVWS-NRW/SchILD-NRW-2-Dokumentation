@@ -32,7 +32,9 @@ test('Abitur und Grundschulzeugnisse führen von Vorbereitung zu Berechnung und 
  const abitur=walk(topic('/zeugnisse/sekundarstufen').items).filter(item=>item.link).map(item=>item.link.split('/').at(-1))
  const steps=['leistungsdaten-holen','kurse-algorithmisch-markieren','abitur-zulassung-berechnen','pruefungsergebnisse-eingeben','gesamtergebnis-berechnen','abitur-jahr-setzen-fuer-statistik']
  for(let i=1;i<steps.length;i++)assert(abitur.indexOf(steps[i-1])<abitur.indexOf(steps[i]),steps[i])
- const primary=topic('/zeugnisse/grundschule').items.map(item=>item.link)
+ const primary=topic('/zeugnisse/grundschule').items.find(item=>item.text==='Textzeugnisse mit Word').items.map(item=>item.link)
+ assert(primary.includes('/zeugnisse/grundschule/textzeugnisse-zuordnen'))
+ assert(primary.includes('/zeugnisse/grundschule/textzeugnisse-drucken'))
  assert(primary.indexOf('/zeugnisse/grundschule/textzeugnisse-zuordnen')<primary.indexOf('/zeugnisse/grundschule/textzeugnisse-drucken'))
 })
 
