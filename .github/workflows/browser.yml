@@ -11,7 +11,8 @@ env:
 jobs:
   browser-check:
     runs-on: ubuntu-24.04
-    timeout-minutes: 10
+    # Das Zeitlimit umfasst auch Build und Browserinstallation.
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v7
       - uses: actions/setup-node@v7

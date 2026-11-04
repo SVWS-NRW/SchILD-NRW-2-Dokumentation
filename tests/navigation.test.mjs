@@ -45,14 +45,14 @@ test('Jeder Artikelaufruf aus einem Rubrikmenü trägt seine Rubrik mit',()=>{
   }
 })
 
-test('Geteilte Artikel behalten Themenzweig, Pager und Hauptmenü ihrer gewählten Rubrik',()=>{
+test('Das Grundschulnotenmodul behält Themenzweig, Pager und Hauptmenü der Toolrubrik',()=>{
   const sidebar=createSidebar(navigation)
   const route='/tools/notenmodul-grundschule/leistungsdaten.html'
-  for(const section of ['/tools/','/schild2/']) {
+  for(const section of ['/tools/']) {
     const groups=contextualSidebar(sidebar[section],section,route)
     assert.equal(articlePath(groups[0].items[0].link),articlePath(section))
     const entry=sectionEntries(groups,section).find(item=>item.key===articlePath(route))
-    assert(entry,'Artikel muss in beiden gewählten Arbeitswegen vorhanden sein')
+    assert(entry,'Artikel muss in der Toolrubrik vorhanden sein')
     assert.equal(new URL(entry.link,'https://docs.invalid').searchParams.get('rubrik'),section.slice(1,-1))
     const main=contextualNav(navigation.nav,section,Object.keys(navigation.sidebar))
     assert.deepEqual(main.filter(item=>item.activeMatch==='.*').map(item=>item.text),[section.startsWith('/tools/')?'Tools':'Arbeiten mit SchILD-NRW 2'])

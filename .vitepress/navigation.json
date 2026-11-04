@@ -35,23 +35,17 @@
             "link": "/druck/schild2.html"
           },
           {
-            "text": "Installation von SchILD-NRW 2",
-            "link": "/administration/installation",
-            "items": [
-              {
-                "text": "SchILD-NRW 2 installieren",
-                "link": "/administration/installation/schild-nrw-installation"
-              },
-              {
-                "text": "Access unter Windows Server",
-                "link": "/administration/installation/access-datenbanken-und-windows-server-2012"
-              }
-            ]
+            "text": "SchILD-NRW 2 installieren",
+            "link": "/administration/installation/schild-nrw-installation"
           },
           {
             "text": "Grundlagen und Orientierung",
             "link": "/einstieg/grundlagen",
             "items": [
+              {
+                "text": "Häufige Begriffe",
+                "link": "/einstieg/grundlagen/begriffe"
+              },
               {
                 "text": "Programmüberblick",
                 "link": "/einstieg/grundlagen/schild-nrw-index"
@@ -59,10 +53,6 @@
               {
                 "text": "Datei-Menü",
                 "link": "/administration/datenbanken/datei"
-              },
-              {
-                "text": "Häufige Begriffe",
-                "link": "/einstieg/grundlagen/begriffe"
               },
               {
                 "text": "Hauptfenster",
@@ -108,7 +98,13 @@
               },
               {
                 "text": "Neuaufnahmen",
-                "link": "/einstieg/erste-schritte/neuaufnahmen-in-schild-nrw-001"
+                "link": "/einstieg/erste-schritte/neuaufnahmen-in-schild-nrw-001",
+                "items": [
+                  {
+                    "text": "Grundschuldaten eingeben",
+                    "link": "/schild2/schueler/grundschuldaten-eingeben"
+                  }
+                ]
               },
               {
                 "text": "Gruppenprozesse kennenlernen",
@@ -117,7 +113,7 @@
             ]
           },
           {
-            "text": "Schülerdaten und Laufbahn",
+            "text": "Schülerdaten",
             "link": "/schild2/schueler",
             "items": [
               {
@@ -150,16 +146,8 @@
                 ]
               },
               {
-                "text": "Laufbahn und Organisation",
+                "text": "Wiedervorlagen",
                 "items": [
-                  {
-                    "text": "Grundschuldaten eingeben",
-                    "link": "/schild2/schueler/grundschuldaten-eingeben"
-                  },
-                  {
-                    "text": "Laufbahninformationen",
-                    "link": "/schild2/schueler/laufbahninfo"
-                  },
                   {
                     "text": "Wiedervorlage",
                     "link": "/schild2/schueler/wiedervorlage"
@@ -775,6 +763,10 @@
                     "text": "Ablauf und Grundlagen",
                     "items": [
                       {
+                        "text": "Laufbahninformationen",
+                        "link": "/schild2/schueler/laufbahninfo"
+                      },
+                      {
                         "text": "Aktuelles Halbjahr",
                         "link": "/zeugnisse/vorbereitung/akt-halbjahr"
                       },
@@ -911,6 +903,10 @@
                         "link": "/zeugnisse/grundschule/ankreuzzeugnisse-ini"
                       },
                       {
+                        "text": "Textzeugnisse Einführung",
+                        "link": "/zeugnisse/grundschule/grundschulzeugnisse-textzeugnis"
+                      },
+                      {
                         "text": "Text- und Notenzeugnisse erstellen",
                         "link": "/zeugnisse/grundschule/textzeugnisse-erstellen"
                       },
@@ -921,24 +917,17 @@
                     ]
                   },
                   {
-                    "text": "Textzeugnisse im Report-Explorer",
-                    "link": "/zeugnisse/grundschule/grundschulzeugnisse-textzeugnis"
-                  },
-                  {
-                    "text": "Textzeugnisse zuordnen",
-                    "link": "/zeugnisse/grundschule/textzeugnisse-zuordnen"
-                  },
-                  {
-                    "text": "Noten und Kompetenzen eingeben",
-                    "link": "/tools/notenmodul-grundschule/leistungsdaten"
-                  },
-                  {
-                    "text": "Rückgabe, Import und Druck",
-                    "link": "/tools/notenmodul-grundschule/rueckgabe-und-druck"
-                  },
-                  {
-                    "text": "Textzeugnisse drucken",
-                    "link": "/zeugnisse/grundschule/textzeugnisse-drucken"
+                    "text": "Textzeugnisse mit Word",
+                    "items": [
+                      {
+                        "text": "Textzeugnisse zuordnen",
+                        "link": "/zeugnisse/grundschule/textzeugnisse-zuordnen"
+                      },
+                      {
+                        "text": "Textzeugnisse drucken",
+                        "link": "/zeugnisse/grundschule/textzeugnisse-drucken"
+                      }
+                    ]
                   },
                   {
                     "text": "Leistungsübersicht Primarstufe",
@@ -1391,51 +1380,6 @@
               {
                 "text": "Datenschutzhinweis",
                 "link": "/administration/benutzer-einstellungen/datenschutzhinweis"
-              }
-            ]
-          },
-          {
-            "text": "Hintergrund und frühere Wiki-Inhalte",
-            "items": [
-              {
-                "text": "Wiki und Versionsgeschichte",
-                "link": "/hilfe/wiki-archiv"
-              },
-              {
-                "text": "Zusatzprogramme und Handbücher",
-                "link": "/hilfe/zusatzprogramme"
-              },
-              {
-                "text": "Frühere Wiki-Startseite",
-                "link": "/hilfe/wiki-archiv/hauptseite"
-              },
-              {
-                "text": "Wiki-Kategorie KM2",
-                "link": "/hilfe/wiki-archiv/kategorie-konferenzmodul-km2"
-              },
-              {
-                "text": "Wiki-Kategorie LuPO",
-                "link": "/hilfe/wiki-archiv/kategorie-lupo"
-              },
-              {
-                "text": "Technische Hinweise aus dem Wiki",
-                "link": "/hilfe/wiki-archiv/schild-nrw-wiki-aktuelle-ereignisse"
-              },
-              {
-                "text": "Datenschutzerklärung des Wikis",
-                "link": "/hilfe/wiki-archiv/schild-nrw-wiki-datenschutz"
-              },
-              {
-                "text": "Impressum des Wikis",
-                "link": "/hilfe/wiki-archiv/schild-nrw-wiki-impressum"
-              },
-              {
-                "text": "Frühere Menüübersicht",
-                "link": "/hilfe/wiki-archiv/testseite"
-              },
-              {
-                "text": "Video aus dem Wiki",
-                "link": "/hilfe/wiki-archiv/youtube"
               }
             ]
           }
@@ -4136,6 +4080,10 @@
                 "link": "/administration/datenbanken/sql-befehle-eingeben",
                 "source_title": "SQL-Befehle eingeben",
                 "items": []
+              },
+              {
+                "text": "Access unter Windows Server",
+                "link": "/administration/installation/access-datenbanken-und-windows-server-2012"
               }
             ]
           },

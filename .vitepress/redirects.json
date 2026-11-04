@@ -122,5 +122,9 @@
   {
     "path": "druck/tools/weitere.md",
     "replacement": "/tools/"
+  },
+  {
+    "path": "administration/installation.md",
+    "replacement": "/administration/installation/schild-nrw-installation"
   }
 ]

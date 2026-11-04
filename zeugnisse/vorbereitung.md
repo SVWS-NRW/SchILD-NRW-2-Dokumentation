@@ -13,6 +13,7 @@ Bereiten Sie den Zeugnisdruck in dieser Reihenfolge vor: passendes Halbjahr und 
 
 ## Ablauf und Grundlagen
 
+- [Laufbahninformationen](/schild2/schueler/laufbahninfo?rubrik=schild2)
 - [Aktuelles Halbjahr](/zeugnisse/vorbereitung/akt-halbjahr?rubrik=schild2)
 - [Zeugnisdruck vorbereiten](/zeugnisse/vorbereitung/zeugnisvorbereitungen-und-druck?rubrik=schild2)
 - [Noten- und Zeugnisprozesse](/zeugnisse/vorbereitung/noten-zeugnisvorbereitung?rubrik=schild2)
