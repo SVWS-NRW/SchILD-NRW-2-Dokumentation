@@ -546,8 +546,22 @@ Die erste Tabelle erfasst die Inhaltsseiten und LuPO-Artikel aus der gesicherten
 | [Zeugnisse](/zeugnisse/) | Kein Wiki-Artikel |
 | [Zusammenspiel mit SchILD-NRW 2 und LuPO](/tools/kurs42/datenfluss) | Kein Wiki-Artikel |
 | [Ankreuzzeugnisse mit dem Report-Explorer erstellen](/zeugnisse/grundschule/ankreuzzeugnisse-erstellen) | Kein Wiki-Artikel |
+| [Ankreuzzeugnisse: Allgemeine Vorbereitungen](/zeugnisse/grundschule/ankreuzzeugnisse-allgemeine-vorbereitungen) | Kein Wiki-Artikel |
+| [Ankreuzzeugnisse: Ankreuzzeugnisse vorbereiten](/zeugnisse/grundschule/ankreuzzeugnisse-spezielle-vorbereitungen) | Kein Wiki-Artikel |
+| [Ankreuzzeugnisse: Noteneingabe in SchILDweb](/zeugnisse/grundschule/ankreuzzeugnisse-noten-in-schildweb) | Kein Wiki-Artikel |
+| [Ankreuzzeugnisse: Zeugnisse ausgeben](/zeugnisse/grundschule/ankreuzzeugnisse-ausgabe) | Kein Wiki-Artikel |
+| [Ankreuzzeugnisse: Religion individuell zuweisen](/zeugnisse/grundschule/ankreuzzeugnisse-religion-zuweisen) | Kein Wiki-Artikel |
+| [Ankreuzzeugnisse: Zeugnislayout konfigurieren](/zeugnisse/grundschule/ankreuzzeugnisse-layout-konfigurieren) | Kein Wiki-Artikel |
 | [Layout für Ankreuzzeugnisse einstellen](/zeugnisse/grundschule/ankreuzzeugnisse-ini) | Kein Wiki-Artikel |
 | [Text- und Notenzeugnisse mit dem Report-Explorer erstellen](/zeugnisse/grundschule/textzeugnisse-erstellen) | Kein Wiki-Artikel |
+| [Text- und Notenzeugnisse: Allgemeine Vorbereitungen](/zeugnisse/grundschule/textzeugnisse-allgemeine-vorbereitungen) | Kein Wiki-Artikel |
+| [Text- und Notenzeugnisse: Textzeugnisse vorbereiten](/zeugnisse/grundschule/textzeugnisse-spezielle-vorbereitungen) | Kein Wiki-Artikel |
+| [Text- und Notenzeugnisse: Noteneingabe in SchILDweb](/zeugnisse/grundschule/textzeugnisse-noten-in-schildweb) | Kein Wiki-Artikel |
+| [Text- und Notenzeugnisse: Zeugnisse ausgeben](/zeugnisse/grundschule/textzeugnisse-ausgabe) | Kein Wiki-Artikel |
+| [Text- und Notenzeugnisse: Religion individuell zuweisen](/zeugnisse/grundschule/textzeugnisse-religion-zuweisen) | Kein Wiki-Artikel |
+| [Text- und Notenzeugnisse: Zeugnislayout konfigurieren](/zeugnisse/grundschule/textzeugnisse-layout-konfigurieren) | Kein Wiki-Artikel |
+| [Text- und Notenzeugnisse: Ankreuzkompetenzen im ASV](/zeugnisse/grundschule/textzeugnisse-asv-kompetenzen) | Kein Wiki-Artikel |
+| [Text- und Notenzeugnisse: Beispiele](/zeugnisse/grundschule/textzeugnisse-beispiele) | Kein Wiki-Artikel |
 | [Layout für Text- und Notenzeugnisse einstellen](/zeugnisse/grundschule/textzeugnisse-ini) | Kein Wiki-Artikel |
 | [Zeugnisse als Broschüren drucken](/zeugnisse/vorbereitung/zeugnisse-broschuerendruck) | Kein Wiki-Artikel |
 
