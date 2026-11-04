@@ -4,7 +4,7 @@ SchILD-NRW 2 verbindet sich direkt mit der eingerichteten Datenbank. Lernen Sie 
 
 ## Installation vorbereiten
 
-1. Richten Sie [Programm und Datenbankverbindung](/administration/installation?rubrik=schild2) ein.
+1. Richten Sie [Programm und Datenbankverbindung](/administration/installation/schild-nrw-installation?rubrik=schild2) ein.
 2. Legen Sie die benötigten [Reports und den Report-Explorer](/reporting/erstellung/einrichtung-des-report-explorers?rubrik=reporting) bereit.
 3. [Importieren Sie die Zeugnisformulare](/zeugnisse/vorbereitung/import-der-zeugnisformulare-in-schild-nrw?rubrik=schild2), bevor Sie Zeugnisse zuordnen und drucken.
 

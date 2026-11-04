@@ -10,5 +10,6 @@ Richten Sie zuerst die Schuldaten und Kataloge ein. Danach können Sie Schüler 
 - [Klassen und Versetzung](/schild2/unterricht-kataloge/klassen-versetzungstabelle?rubrik=schild2)
 - [Unterrichtsfächer](/schild2/unterricht-kataloge/unterrichtsfaecher?rubrik=schild2)
 - [Neuaufnahmen](/einstieg/erste-schritte/neuaufnahmen-in-schild-nrw-001?rubrik=schild2)
+  - [Grundschuldaten eingeben](/schild2/schueler/grundschuldaten-eingeben?rubrik=schild2)
 - [Gruppenprozesse kennenlernen](/einstieg/erste-schritte/einfuehrung-in-die-gruppenprozesse-001?rubrik=schild2)
 - [Kurzanleitungen](/schild2/?rubrik=schild2#kurzanleitungen)

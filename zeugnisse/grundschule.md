@@ -11,9 +11,9 @@ Für Grundschulzeugnisse gibt es unterschiedliche Verfahren: Zeugnisse im Report
 
 ## Weitere Anleitungen
 
-- [Textzeugnisse im Report-Explorer](/zeugnisse/grundschule/grundschulzeugnisse-textzeugnis?rubrik=schild2)
+- [Textzeugnisse Einführung](/zeugnisse/grundschule/grundschulzeugnisse-textzeugnis?rubrik=schild2)
 - [Textzeugnisse zuordnen](/zeugnisse/grundschule/textzeugnisse-zuordnen?rubrik=schild2)
-- [Noten und Kompetenzen eingeben](/tools/notenmodul-grundschule/leistungsdaten?rubrik=schild2)
-- [Rückgabe, Import und Druck](/tools/notenmodul-grundschule/rueckgabe-und-druck?rubrik=schild2)
+- [Noten und Kompetenzen eingeben](/tools/notenmodul-grundschule/leistungsdaten?rubrik=tools)
+- [Rückgabe, Import und Druck](/tools/notenmodul-grundschule/rueckgabe-und-druck?rubrik=tools)
 - [Textzeugnisse drucken](/zeugnisse/grundschule/textzeugnisse-drucken?rubrik=schild2)
 - [Leistungsübersicht Primarstufe](/zeugnisse/grundschule/uebersicht-primarstufe?rubrik=schild2)

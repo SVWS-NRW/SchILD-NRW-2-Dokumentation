@@ -16,7 +16,7 @@ test('Maßvoller Abbau entfernt doppelte Zugänge und erhält unterschiedliche A
  for(const path of ['/schild2/lehrkraefte/lehrkraefte','/schild2/unterricht-kataloge/klassen-versetzungstabelle','/schild2/unterricht-kataloge/statistik-jahrgaenge','/schild2/unterricht-kataloge/unterrichtsfaecher','/schild2/auswahl/schnellfilter'])assert.equal(work.filter(n=>n.link===path).length,2,path)
  for(const suffix of ['leistungsdaten','rueckgabe-und-druck']) {
   const path='/tools/notenmodul-grundschule/'+suffix
-  assert(work.some(n=>n.link===path)&&tools.some(n=>n.link===path),'Zeugnisarbeit und Tool: '+path)
+  assert(!work.some(n=>n.link===path)&&tools.some(n=>n.link===path),'Anleitung im Grundschulnotenmodul: '+path)
  }
 })
 

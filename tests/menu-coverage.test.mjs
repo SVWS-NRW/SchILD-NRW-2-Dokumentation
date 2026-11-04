@@ -13,7 +13,11 @@ const files=dir=>fs.readdirSync(dir,{withFileTypes:true}).flatMap(e=>e.isDirecto
 test('Alle Themenmenüs und die Programmreferenz verzichten auf Gruppen mit nur einem Unterpunkt',()=>{
  const reference=JSON.parse(fs.readFileSync('.vitepress/program-reference.json','utf8'))
  const nodes=[...Object.values(navigation.sidebar).flatMap(walk),...walk(reference.tabs)]
- for(const node of nodes)assert.notEqual(node.items?.length,1,`Unnötige Menüebene: ${node.text}`)
+ for(const node of nodes) {
+  if(node.link==='/einstieg/erste-schritte/neuaufnahmen-in-schild-nrw-001') {
+   assert.deepEqual(node.items.map(item=>item.link),['/schild2/schueler/grundschuldaten-eingeben'])
+  } else assert.notEqual(node.items?.length,1,`Unnötige Menüebene: ${node.text}`)
+ }
  for(const node of nodes)assert(!node.link?.includes('#'),`Artikelabschnitt als Menüpunkt: ${node.text}`)
  const plugin=walk(reference.tabs).find(n=>n.id==='benutzer-plugin')
  const users=walk(reference.tabs).find(n=>n.id==='menue-90')

@@ -1,11 +1,11 @@
-# Schülerdaten und Laufbahn
+# Schülerdaten
 
-Hier erfassen und pflegen Sie die Angaben zu einzelnen Schülerinnen und Schülern. Beginnen Sie mit Stammdaten und Kontaktpersonen. Danach folgen Laufbahn, Förderangebote, Sprachen und Betreuung.
+Hier erfassen und pflegen Sie die Angaben zu einzelnen Schülerinnen und Schülern. Beginnen Sie mit Stammdaten und Kontaktpersonen. Danach folgen Wiedervorlagen, Förderangebote, Sprachen und Betreuung.
 
 ## Themen
 
 - [Stammdaten und Kontakte](#stammdaten-und-kontakte)
-- [Laufbahn und Organisation](#laufbahn-und-organisation)
+- [Wiedervorlagen](#wiedervorlagen)
 - [Förderung, Sprachen und Betreuung](#forderung-sprachen-und-betreuung)
 
 ## Stammdaten und Kontakte
@@ -17,10 +17,10 @@ Hier erfassen und pflegen Sie die Angaben zu einzelnen Schülerinnen und Schüle
 - [Schulbesuch](/schild2/schueler/schulbesuch?rubrik=schild2)
 - [Einwilligungen](/schild2/schueler/einwilligungen?rubrik=schild2)
 
-## Laufbahn und Organisation
+<a id="laufbahn-und-organisation"></a>
 
-- [Grundschuldaten eingeben](/schild2/schueler/grundschuldaten-eingeben?rubrik=schild2)
-- [Laufbahninformationen](/schild2/schueler/laufbahninfo?rubrik=schild2)
+## Wiedervorlagen
+
 - [Wiedervorlage](/schild2/schueler/wiedervorlage?rubrik=schild2)
 - [Wiedervorlage anlegen](/schild2/schueler/eintrag-in-wiedervorlage-machen?rubrik=schild2)
 
