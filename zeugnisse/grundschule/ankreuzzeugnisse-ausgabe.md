@@ -2,7 +2,7 @@
 
 Für eine Ausgabe in Heftform folgen Sie anschließend der Anleitung zum [Broschürendruck](/zeugnisse/vorbereitung/zeugnisse-broschuerendruck?rubrik=reporting).
 
-## 4.1 Allgemeine Angaben
+## Allgemeine Angaben
 
 Um die Noten und Bemerkungen über den Report-Explorer von SchILDzentral als Zeugnis auszugeben, muss zuerst (sofern noch nicht geschehen) die entsprechende „Druckvorlage“ in ein geeignetes Verzeichnis unterhalb Ihres Report-Verzeichnisses kopiert werden.
 
@@ -48,9 +48,9 @@ machen können. Die hier gemachten Angaben werden auch auf dem Zeugnis ausgegebe
 
 Falls die Zeugnisse als „Broschüren“ ausgegeben werden sollen, beachten Sie bitte die Hinweise in Anhang 3.
 
-## 4.2 Spezielle Informationen auf dem Zeugnis ausgeben
+## Spezielle Informationen auf dem Zeugnis ausgeben
 
-## Versetzungsvermerk
+### Versetzungsvermerk
 
 Wird das Zeugnis für das zweite Halbjahr erzeugt, so wird auch der Versetzungsvermerk (in der Form „Markus wird zum 01.08.2013 in die Klasse 03A versetzt“) ausgegeben. Dazu werden die Angaben auf dem Karteireiter „Akt. Halbjahr“ ausgewertet.
 

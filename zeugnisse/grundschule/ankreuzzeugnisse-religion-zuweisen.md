@@ -7,7 +7,7 @@ Da die Klassen in den meisten Fällen konfessionell gemischt sind, kann der Reli
 
 In beiden Fällen können entsprechende Gruppenprozesse verwendet werden.
 
-## Religionsfächer nachträglich zuweisen
+### Religionsfächer nachträglich zuweisen
 
 Führen Sie den Vorgang klassenweise durch, d.h. filtern Sie auf eine Klasse.
 
@@ -37,7 +37,7 @@ Wiederholen Sie den ganzen Vorgang mit den Kindern, die am katholischen und evtl
 
 Hinweis: Falls ein Religionsfach klassenübergreifend unterrichtet wird, können Sie den Vorgang z.B. auch jahrgangsweise durchführen.
 
-## Religionsfächer nachträglich löschen
+### Religionsfächer nachträglich löschen
 
 Wenn die Stundentafeln alle Religionsfächer enthalten, müssen die „überflüssigen“ nachträglich gelöscht werden. Führen Sie diesen Vorgang wieder klassenweise durch.
 

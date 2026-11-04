@@ -1,6 +1,6 @@
 # Textzeugnisse vorbereiten
 
-## 2.1 Floskeln bearbeiten
+## Floskeln bearbeiten
 
 An der Grundschule werden (zumindest bis einschließlich Jahrgang 03) im Zeugnis neben den Noten auch Erläuterungen zu jedem Fach oder zur allgemeinen Lernentwicklung und zum Leistungsstand gemacht. Um Sie bei der Eingabe solcher Texte zu unterstützen, können in SchILD-NRW 2 sogenannte „Floskeln“ verwendet werden. Dies sind Textbausteine, die in den Bemerkungsfeldern eingefügt werden können. Es können auch „Platzhalter“ verwendet werden, um z.B. automatisch den Vornamen eines Kindes einzufügen.
 
@@ -57,7 +57,7 @@ Der Import erfolgt über den Schalter „Import“ im Fenster „Floskeln bearbe
 
 ![Abbildung zu 2.1 Floskeln bearbeiten aus der PDF-Anleitung auf Seite 15](/bilder/zeugnisse/pdf-anleitungen/textzeugnisse-erstellen/seite-15-bild-023.png)
 
-## 2.2. Inklusionszeugnisse
+## Inklusionszeugnisse
 
 Das Hybridzeugnis kann für Schülerinnen und Schüler aus der Jahrgangsstufe 4, die zieldifferent unterrichtet werden, genutzt werden. Dazu muss in SchILD-NRW 2 die Auswahl „zieldifferentes Lernen“ unter Individualdaten II aktiviert sein.
 
