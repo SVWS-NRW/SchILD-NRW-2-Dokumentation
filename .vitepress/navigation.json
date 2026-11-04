@@ -98,13 +98,11 @@
               },
               {
                 "text": "Neuaufnahmen",
-                "link": "/einstieg/erste-schritte/neuaufnahmen-in-schild-nrw-001",
-                "items": [
-                  {
-                    "text": "Grundschuldaten eingeben",
-                    "link": "/schild2/schueler/grundschuldaten-eingeben"
-                  }
-                ]
+                "link": "/einstieg/erste-schritte/neuaufnahmen-in-schild-nrw-001"
+              },
+              {
+                "text": "Grundschuldaten eingeben",
+                "link": "/schild2/schueler/grundschuldaten-eingeben"
               },
               {
                 "text": "Gruppenprozesse kennenlernen",
@@ -892,23 +890,82 @@
                 "link": "/zeugnisse/grundschule",
                 "items": [
                   {
-                    "text": "Zeugnisse im Report-Explorer",
+                    "text": "Leistungsübersicht Primarstufe",
+                    "link": "/zeugnisse/grundschule/uebersicht-primarstufe"
+                  },
+                  {
+                    "text": "Ankreuzzeugnisse",
+                    "link": "/zeugnisse/grundschule/ankreuzzeugnisse-erstellen",
                     "items": [
                       {
-                        "text": "Ankreuzzeugnisse erstellen",
-                        "link": "/zeugnisse/grundschule/ankreuzzeugnisse-erstellen"
+                        "text": "Allgemeine Vorbereitungen",
+                        "link": "/zeugnisse/grundschule/ankreuzzeugnisse-allgemeine-vorbereitungen"
+                      },
+                      {
+                        "text": "Ankreuzzeugnisse vorbereiten",
+                        "link": "/zeugnisse/grundschule/ankreuzzeugnisse-spezielle-vorbereitungen"
+                      },
+                      {
+                        "text": "Noteneingabe in SchILDweb",
+                        "link": "/zeugnisse/grundschule/ankreuzzeugnisse-noten-in-schildweb"
+                      },
+                      {
+                        "text": "Zeugnisse ausgeben",
+                        "link": "/zeugnisse/grundschule/ankreuzzeugnisse-ausgabe"
+                      },
+                      {
+                        "text": "Religion individuell zuweisen",
+                        "link": "/zeugnisse/grundschule/ankreuzzeugnisse-religion-zuweisen"
+                      },
+                      {
+                        "text": "Zeugnislayout konfigurieren",
+                        "link": "/zeugnisse/grundschule/ankreuzzeugnisse-layout-konfigurieren"
                       },
                       {
                         "text": "Layout für Ankreuzzeugnisse",
                         "link": "/zeugnisse/grundschule/ankreuzzeugnisse-ini"
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Text- und Notenzeugnisse",
+                    "link": "/zeugnisse/grundschule/textzeugnisse-erstellen",
+                    "items": [
                       {
                         "text": "Textzeugnisse Einführung",
                         "link": "/zeugnisse/grundschule/grundschulzeugnisse-textzeugnis"
                       },
                       {
-                        "text": "Text- und Notenzeugnisse erstellen",
-                        "link": "/zeugnisse/grundschule/textzeugnisse-erstellen"
+                        "text": "Allgemeine Vorbereitungen",
+                        "link": "/zeugnisse/grundschule/textzeugnisse-allgemeine-vorbereitungen"
+                      },
+                      {
+                        "text": "Textzeugnisse vorbereiten",
+                        "link": "/zeugnisse/grundschule/textzeugnisse-spezielle-vorbereitungen"
+                      },
+                      {
+                        "text": "Noteneingabe in SchILDweb",
+                        "link": "/zeugnisse/grundschule/textzeugnisse-noten-in-schildweb"
+                      },
+                      {
+                        "text": "Zeugnisse ausgeben",
+                        "link": "/zeugnisse/grundschule/textzeugnisse-ausgabe"
+                      },
+                      {
+                        "text": "Religion individuell zuweisen",
+                        "link": "/zeugnisse/grundschule/textzeugnisse-religion-zuweisen"
+                      },
+                      {
+                        "text": "Zeugnislayout konfigurieren",
+                        "link": "/zeugnisse/grundschule/textzeugnisse-layout-konfigurieren"
+                      },
+                      {
+                        "text": "Ankreuzkompetenzen im ASV",
+                        "link": "/zeugnisse/grundschule/textzeugnisse-asv-kompetenzen"
+                      },
+                      {
+                        "text": "Beispiele",
+                        "link": "/zeugnisse/grundschule/textzeugnisse-beispiele"
                       },
                       {
                         "text": "Layout für Text- und Notenzeugnisse",
@@ -928,10 +985,6 @@
                         "link": "/zeugnisse/grundschule/textzeugnisse-drucken"
                       }
                     ]
-                  },
-                  {
-                    "text": "Leistungsübersicht Primarstufe",
-                    "link": "/zeugnisse/grundschule/uebersicht-primarstufe"
                   }
                 ]
               },

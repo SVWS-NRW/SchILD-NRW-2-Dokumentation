@@ -294,7 +294,13 @@
     "source": "/dateien/pdf/Grundschule_Ankreuzzeugnisse_mit_SchILD2.pdf",
     "sha256": "b43962e35ca22f8fa89dd7ea0119c8fe9fd60f8e8631946b21f50c1998650413",
     "articles": [
-      "zeugnisse/grundschule/ankreuzzeugnisse-erstellen.md"
+      "zeugnisse/grundschule/ankreuzzeugnisse-erstellen.md",
+      "zeugnisse/grundschule/ankreuzzeugnisse-allgemeine-vorbereitungen.md",
+      "zeugnisse/grundschule/ankreuzzeugnisse-spezielle-vorbereitungen.md",
+      "zeugnisse/grundschule/ankreuzzeugnisse-noten-in-schildweb.md",
+      "zeugnisse/grundschule/ankreuzzeugnisse-ausgabe.md",
+      "zeugnisse/grundschule/ankreuzzeugnisse-religion-zuweisen.md",
+      "zeugnisse/grundschule/ankreuzzeugnisse-layout-konfigurieren.md"
     ],
     "disposition": "Original-PDF und Abbildungen in der Dokumentation verfügbar",
     "pages": 44
@@ -312,7 +318,15 @@
     "source": "/dateien/pdf/Grundschule_Textzeugnisse_mit_SchILD2_Anleitung.pdf",
     "sha256": "1c9c8ba31aca8eaf58eabff836dc7ca9e7d4b8154afe64cac71399b99cd07f5f",
     "articles": [
-      "zeugnisse/grundschule/textzeugnisse-erstellen.md"
+      "zeugnisse/grundschule/textzeugnisse-erstellen.md",
+      "zeugnisse/grundschule/textzeugnisse-allgemeine-vorbereitungen.md",
+      "zeugnisse/grundschule/textzeugnisse-spezielle-vorbereitungen.md",
+      "zeugnisse/grundschule/textzeugnisse-noten-in-schildweb.md",
+      "zeugnisse/grundschule/textzeugnisse-ausgabe.md",
+      "zeugnisse/grundschule/textzeugnisse-religion-zuweisen.md",
+      "zeugnisse/grundschule/textzeugnisse-layout-konfigurieren.md",
+      "zeugnisse/grundschule/textzeugnisse-asv-kompetenzen.md",
+      "zeugnisse/grundschule/textzeugnisse-beispiele.md"
     ],
     "disposition": "Original-PDF und Abbildungen in der Dokumentation verfügbar",
     "pages": 38
