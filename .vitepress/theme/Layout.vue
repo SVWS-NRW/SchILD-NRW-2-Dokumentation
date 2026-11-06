@@ -1,8 +1,12 @@
 <script lang="ts">
 import { createSidebar } from '../sidebar.mjs'
 import navigation from '../navigation.json'
+import reference from '../program-reference.json'
+import { createReferenceLinks, referenceEntries } from '../reference-navigation.mjs'
 
 const sidebar = createSidebar(navigation)
+const referenceLink = createReferenceLinks(reference, sidebar.sectionFor)
+const referenceArticles = referenceEntries(reference, referenceLink)
 </script>
 
 <script setup lang="ts">
@@ -20,10 +24,8 @@ import ArticlePrintIcon from './ArticlePrintIcon.vue'
 import SiteFooter from './SiteFooter.vue'
 import { installSidebarSelection } from './sidebar-selection.mjs'
 import VPSidebarGroup from 'vitepress/dist/client/theme-default/components/VPSidebarGroup.vue'
-import reference from '../program-reference.json'
-import { referencePageId, referenceEntries } from '../reference-navigation.mjs'
+import { referencePageId } from '../reference-navigation.mjs'
 const referenceAreas = navigation.sidebar['/programmreferenz/'].slice(1)
-const referenceArticles = referenceEntries(reference)
 const data = useData()
 const { page, theme, frontmatter } = data
 // Static HTML cannot know the query parameter. Switch after hydration on
@@ -45,7 +47,7 @@ const selectedSection = computed(() => {
 })
 const referenceMode = computed(() => !indexMode.value && (
   page.value.relativePath.startsWith('programmreferenz/') ||
-  (mounted.value && !!referenceSelection.value) ||
+  (mounted.value && referenceSelection.value !== null) ||
   (selectedSection.value || standardSection.value) === '/programmreferenz/'
 ))
 const activeSection = computed(() => indexMode.value ? '/hilfe/' : referenceMode.value ? '/programmreferenz/'
@@ -104,7 +106,7 @@ provide(dataSymbol, {
     <DefaultTheme.Layout>
       <template #doc-before><VPHome v-if="indexHome" /><ArticlePrintIcon v-if="!page.relativePath.startsWith('druck/')" :key="page.relativePath" /></template>
       <template #sidebar-nav-before>
-        <ReferenceSidebar v-if="referenceMode" />
+        <ReferenceSidebar v-if="referenceMode" :link-for="referenceLink" />
         <div v-if="referenceMode" class="reference-areas">
           <VPSidebarGroup :items="referenceAreas" />
         </div>

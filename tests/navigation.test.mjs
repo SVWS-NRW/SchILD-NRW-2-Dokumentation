@@ -2,7 +2,7 @@ import test from 'node:test'
 import assert from 'node:assert/strict'
 import fs from 'node:fs'
 import { createSidebar } from '../.vitepress/sidebar.mjs'
-import { referenceEntries, referenceLink } from '../.vitepress/reference-navigation.mjs'
+import { referenceEntries, createReferenceLinks } from '../.vitepress/reference-navigation.mjs'
 import { articleIndexLink } from '../.vitepress/article-index.mjs'
 import { sectionPrintEntries, sectionArticleHtml } from '../.vitepress/section-print.mjs'
 import { articlePath, contextualNav, sectionLink } from '../.vitepress/section-navigation.mjs'
@@ -67,7 +67,13 @@ test('Referenz und A–Z behalten den gewählten Kontext, ohne Abschnitts-Doppel
   const entries=referenceEntries(reference)
   assert(entries.length>50)
   assert(!entries.some(entry=>entry.link.includes('#')))
-  assert.equal(referenceLink({id:'a',link:'/aufgabe#abschnitt'}),'/aufgabe?referenz=a#abschnitt')
+  const sidebar = createSidebar(navigation)
+  const linkFor = createReferenceLinks(reference, sidebar.sectionFor)
+  const links = new Map(referenceEntries(reference, linkFor).map(entry => [entry.id, entry.link]))
+  assert.equal(links.get('datei-beenden'), '/administration/datenbanken/beenden')
+  assert.equal(links.get('menue-73'), '/zeugnisse/grundschule/textzeugnisse-zuordnen?referenz')
+  assert.equal(links.get('reiter-einwilligungen'), '/schild2/schueler/einwilligungen?referenz=reiter-einwilligungen')
+  assert.equal(linkFor({id:'a',link:'/aufgabe#abschnitt'}),'/aufgabe?referenz#abschnitt')
   assert.equal(articleIndexLink('/aufgabe.html?referenz=a#abschnitt'),'/aufgabe.html?artikel=az#abschnitt')
 })
 

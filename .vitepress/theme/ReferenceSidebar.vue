@@ -5,6 +5,7 @@ import reference from '../program-reference.json'
 import { referenceSelection } from './reference-state'
 import ReferenceItem from './ReferenceItem.vue'
 import { referenceActiveId } from '../reference-navigation.mjs'
+defineProps<{ linkFor: (node: { id: string; link?: string }) => string | undefined }>()
 const { page } = useData()
 const isOverview = computed(() => page.value.relativePath === 'programmreferenz/index.md')
 const isPrint = computed(() => page.value.relativePath === 'druck/programmreferenz.md')
@@ -20,7 +21,7 @@ const activeId = computed(() => {
     <ul :key="activeId">
       <li><a :href="withBase('/programmreferenz/')" :class="{ 'reference-active': isOverview }" :aria-current="isOverview ? 'page' : undefined">Übersicht</a></li>
       <li><a :href="withBase('/druck/programmreferenz.html')" :class="{ 'reference-active': isPrint }" :aria-current="isPrint ? 'page' : undefined">Druckvorschau</a></li>
-      <ReferenceItem v-for="tab in reference.tabs" :key="tab.id" :node="tab" :active-id="activeId" />
+      <ReferenceItem v-for="tab in reference.tabs" :key="tab.id" :node="tab" :active-id="activeId" :link-for="linkFor" />
     </ul>
   </div>
 </template>
