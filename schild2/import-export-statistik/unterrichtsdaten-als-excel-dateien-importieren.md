@@ -2,8 +2,6 @@
 title: "Unterrichtsdaten aus Excel importieren"
 ---
 
-<a id="unterrichtsdaten-als-excel-dateien-importieren"></a>
-
 # Unterrichtsdaten aus Excel importieren
 
 ![UVDExelImport](/bilder/schild2/import-export-statistik/uvdexelimport.jpg)
@@ -75,8 +73,6 @@ Die Wochenstunden einer Zusatzkraft, wird bei Klassenunterricht (Spalte 2 nicht 
 **Spalte 15, 16 usw.: Wochenstunden und Kürzel von weiteren Zusatzkräften**
 
 Falls die Kursbezeichnung (Spalte 1) nicht leer ist, können hier im Wechsel beliebig viele Wochenstunden und Kürzel von weiteren Zusatzkräften eingegeben werden. Ist die Kursbezeichnung leer, so werden diese Angaben ignoriert.
-
-<a id="Beispiele"></a>
 
 ## Beispiele
 

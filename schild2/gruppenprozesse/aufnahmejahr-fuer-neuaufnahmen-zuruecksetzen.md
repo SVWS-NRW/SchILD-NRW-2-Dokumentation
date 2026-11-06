@@ -2,8 +2,6 @@
 title: "Aufnahmejahr für neue Schüler zurücksetzen"
 ---
 
-<a id="aufnahmejahr-fur-neuaufnahmen-zurucksetzen"></a>
-
 # Aufnahmejahr für neue Schüler zurücksetzen
 
 Diese Funktion setzt die Vorgabe für das Aufnahmejahr neuer Schülerdatensätze zurück. Sie betrifft den Aufnahmedialog, nicht die Versetzung bereits aufgenommener Schülerinnen und Schüler.

@@ -2,18 +2,11 @@
 title: "Kurs42 mit SchILDzentral verwenden"
 ---
 
-<a id="news-kurs42-unter-schild-zentral"></a>
-
 # Kurs42 mit SchILDzentral verwenden
-
-<a id="Programmstart_von_Kurs42_in_einer_SchILDzentral-Umgebung"></a>
 
 ### Programmstart von Kurs42 in einer SchILDzentral-Umgebung
 
 In einer Schild-Zentral Umgebung darf Kurs42 nur über SchILDzentral gestartet werden sollte (Externe-Tools). Lokale Kurs42 Versionen können nicht auf die SchILDzentral-DB zugreifen und ein Abgleich der Schüler oder eine Übertragung der Blockung funktionieren nicht.
-
-<a id="Grundeinstellungen_für_Kurs42_in_einer_SchILDzentral-Umgebung"></a>
-<a id="Grundeinstellungen_f.C3.BCr_Kurs42_in_einer_SchILDzentral-Umgebung"></a>
 
 ### Grundeinstellungen für Kurs42 in einer SchILDzentral-Umgebung
 
@@ -59,9 +52,6 @@ Falls die Blockungsdatei nicht in der Zentralumgebung, sondern mit Zugriff auf e
 :::warning
 Bei Wahl der Option „Über DLL“ wird kein automatisches Löschen einer gegebenenfalls schon in der Datenbank vorhandenen Blockung durchgeführt. Dies muss zuvor über den Menüpunkt „Blockung\>\>Blockung in der Datenbank löschen“ manuell angestoßen werden.\
 :::
-
-<a id="Datenabgleich_Kurs42_&lt;&gt;_SchILDzentral"></a>
-<a id="Datenabgleich_Kurs42_.3C.3E_SchILDzentral"></a>
 
 ## Datenabgleich Kurs42 \<\> SchILDzentral
 
@@ -114,9 +104,6 @@ In einem solchen Fall ist zu prüfen, ob möglicherweise unterschiedliche Schrei
 ![News Kurs42 012](/bilder/tools/kurs42/news-kurs42-012.jpg)
 
 Die ID-Nummern in der linken und rechten Liste sollten dann identisch sein. Speichern Sie anschließend die Blockungsdatei ab (gegebenenfalls unter neuem Namen).
-
-<a id="Blockung_in_Datenbank_übertragen"></a>
-<a id="Blockung_in_Datenbank_.C3.BCbertragen"></a>
 
 ## Blockung in Datenbank übertragen
 

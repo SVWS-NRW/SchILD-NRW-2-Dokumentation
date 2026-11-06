@@ -4,11 +4,6 @@ title: "LehrerDatenLaden"
 
 # LehrerDatenLaden
 
-<a id="RAP-Funktion_&quot;LehrerDatenLaden&quot;"></a>
-<a id="RAP-Funktion_.22LehrerDatenLaden.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Lädt Angaben zu einer Lehrkraft in die übergebenen Variablen, darunter Name, Anrede und Amtsbezeichnung.

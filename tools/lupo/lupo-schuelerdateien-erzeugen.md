@@ -6,9 +6,6 @@ title: "LuPO-Schülerdateien erzeugen"
 
 Mit Schülerdateien können Schülerinnen und Schüler ihre Fachwahlen in der LuPO-Schülerversion bearbeiten. Diese Anleitung beschreibt, wie Sie solche Dateien erzeugen und für die Weitergabe vorbereiten.
 
-<a id="Das_Lupo-Schülerprogramm"></a>
-<a id="Das_Lupo-Sch.C3.BClerprogramm"></a>
-
 ## Das Lupo-Schülerprogramm
 
 ![Lupo_schuelerversion](/bilder/tools/lupo/lupo-schuelerversion.png)
@@ -20,9 +17,6 @@ Verwenden Sie die Schülerversion nach den individuellen Voraussetzungen an Ihre
 Geben Sie vor der Erzeugung der Schülerdateien im Menü „Datenbearbeitung \> Grundeinstellungen“ eine E-Mail-Adresse ein, sofern die Schülerinnen und Schüler die Möglichkeit erhalten sollen, ihre Probewahl über eine Schaltfläche an den Beratungslehrer zurückzusenden.
 
 Die Verwendung des Schülerprogrammes ist keineswegs zwingend erforderlich. Die Lehrerversion von LuPO wurde für den Beratungsprozess optimiert, so dass eine vollständige Eingabe aller relevanten Daten innerhalb einiger Sekunden während der Beratung vorgenommen werden kann. Die gemeinsame Erarbeitung einer Fachwahl mit der Schülerin beziehungsweise dem Schüler birgt zahlreiche Vorteile, auf welche Sie durch den frühzeitigen Einsatz des Schülerprogramms eventuell verzichten. Sie können die Schülerversion auch verwenden, um den Schülern eine Möglichkeit zu bieten, mit Fachwahlen im Vorfeld zu spielen. Hierzu ist nicht unbedingt eine individualisierte Schülerdatei notwendig. Sie können ebenso gut eine allgemeine „Spieldatei“ für alle Schülerinnen und Schüler zum Download auf Ihrer Schulhomepage anbieten. Diese könnte die Fächer der Oberstufe der eigenen Schule enthalten, würde jedoch keine Angaben zur Sprachenfolge aufweisen. Erzeugen Sie hierzu einen Schüler „Toni Mustermann“ und exportieren lediglich die Datei für diesen Schüler. Anschließend können Sie den Schüler wieder löschen.
-
-<a id="Erzeugen_und_Versenden_der_Schülerdateien"></a>
-<a id="Erzeugen_und_Versenden_der_Sch.C3.BClerdateien"></a>
 
 ## Erzeugen und Versenden der Schülerdateien
 
@@ -37,9 +31,6 @@ Sofern bei den Schülerinnen und Schülern E-Mail-Adressen hinterlegt wurden und
 LuPO greift beim Versenden der E-Mails auf das E-Mail-Programm zurück, welches als Standard-Programm in Windows angemeldet ist. Es hat sich in der Vergangenheit gezeigt, dass nicht alle E-Mail-Clients reibungslos funktionieren, wenn Anhänge versendet werden. So kann es sein, dass Sie eine Mail versenden beziehungsweise erhalten, welche am Zielort einen befremdlichen Anhang aufweist. Dies liegt in der Regel daran, dass in dem jeweiligen E-Mail-Programm die Mails im Rich-Text-Format (RTF) angefertigt wurden. Empfehlen Sie in diesen Fällen den betreffenden Schülern, das Text- oder HTML-Format für E-Mails zu verwenden. Diese Einstellungen finden Sie in den Optionen des jeweiligen Programms. Der Fehler tritt vor allem bei älteren E-Mail-Clients auf.
 
 Die Schülerversion des Beratungstools öffnet lediglich Beratungsdateien mit der Endung ".lpo", die auf diese Weise erzeugt wurden. Die Schülerin oder der Schüler kann nun seine Wahl vornehmen und zum Beratungslehrer zurücksenden, so dass die Daten für das Beratungsgespräch bereits zur Verfügung stehen. Dies ist jedoch nur möglich, wenn der Beratungslehrer in den Grundeinstellungen eine E-Mail-Adresse angegeben hat.
-
-<a id="Einsammeln_der_Schülerdateien"></a>
-<a id="Einsammeln_der_Sch.C3.BClerdateien"></a>
 
 ## Einsammeln der Schülerdateien
 

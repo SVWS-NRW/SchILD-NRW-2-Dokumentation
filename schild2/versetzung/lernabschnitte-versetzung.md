@@ -2,8 +2,6 @@
 title: "Gruppenprozesse für Lernabschnitte und Versetzung"
 ---
 
-<a id="lernabschnitte-versetzung"></a>
-
 # Gruppenprozesse für Lernabschnitte und Versetzung
 
 Diese Übersicht führt zu den Gruppenprozessen für Lernabschnitte und Versetzung. Ein Lernabschnitt ist der Datenbestand eines Halbjahres oder Quartals. Die Funktionen reichen vom Anlegen fehlender Abschnitte bis zum Übertragen in den nächsten Abschnitt.

@@ -2,16 +2,11 @@
 title: "Anzeige und Fächerauswahl in KM2 anpassen"
 ---
 
-<a id="km2-parameter-allgemein"></a>
-
 # Anzeige und Fächerauswahl in KM2 anpassen
 
 Hier passen Sie die Darstellung der Leistungsdaten im Konferenzmodul KM2 an. Die Einstellungen betreffen unter anderem die Fächerauswahl und die Anordnung der Tabelle. Die Bildnummern verweisen auf die zugehörigen Bedienelemente.
 
 ![Km2_parameter_allgemein](/bilder/tools/km2/km2-parameter-allgemein.png)
-
-<a id="Fächerliste_festlegen"></a>
-<a id="F.C3.A4cherliste_festlegen"></a>
 
 ## Fächerliste festlegen
 
@@ -65,8 +60,6 @@ Zusätzlich werden im obigen Beispiel die Unterrichtsfächer KR, ER und PP in ei
 - Bei der Eingabe eines einzelnen Faches lässt sich mit Hilfe von \<Alt\>+\<↓\> ein einzelnes SchILD-NRW 2-Fach auswählen.
 - Die Fachreihenfolge verändert man durch ein einfaches Drag&Drop in der ersten Spalte
 
-<a id="Kompetenzmodus"></a>
-
 ## Kompetenzmodus
 
 **(3)**: Sollten in Ihrer Schule Kompetenzen vergeben beziehungsweise bewertet werden, so tragen Sie in der Gruppe „Kompetenzen" die notwendigen Parameter ein. Hierzu gehören:
@@ -75,8 +68,6 @@ Zusätzlich werden im obigen Beispiel die Unterrichtsfächer KR, ER und PP in ei
 - die Angabe der Datei, die die Kompetenzdefinitionen enthält.
 
 Näheres zum Thema „Kompetenzen" finden Sie im Kapitel „Verwaltung von Kompetenzen".
-
-<a id="ASV-Modus"></a>
 
 ## ASV-Modus
 
@@ -88,15 +79,10 @@ Näheres zum Thema „Kompetenzen" finden Sie im Kapitel „Verwaltung von Kompe
 
 Näheres zum Thema „ASV-Modus" finden Sie im Kapitel „Verwaltung von Bemerkungen zum Arbeits- und Sozialverhalten".
 
-<a id="Schülerlupe"></a>
-<a id="Sch.C3.BClerlupe"></a>
-
 ## Schülerlupe
 
 **(5)**: Neben der tabellarischen Leistungsdatenansicht der gesamten Lerngruppe bietet KM2 auch eine sogenannte Schülerlupe. Hier wird der einzelne Schüler mit all seinen aktuellen und bereits erteilten Leistungsdaten in den Mittelpunkt gestellt.\
 Hier bei der Wahl der Parameter können Sie festlegen, welche Lernabschnitte zur Anzeige gebracht werden sollen.
-
-<a id="Sonstige_Einstellungen"></a>
 
 ## Sonstige Einstellungen
 
@@ -127,13 +113,9 @@ Angezeigtes Schuljahr 2013 / Angezeigte Klasse 10a. Laut Versetzungstabelle der 
 
 - **Zeichengröße**: Legen Sie fest, mit welcher Schriftgröße die Leistungsdaten angezeigt werden. Die Anzeige der Informationen in der Schülerlupe wird von diesem Wert ebenfalls beeinflusst: Er vergrößert sich um das 1,5-fache gegenüber diesem hier ausgewählten Wert.
 
-<a id="Profildateien"></a>
-
 ## Profildateien
 
 **(7)**: Alle auf dieser Registerseite vorgenommenen Festlegungen können in eine (Profil-)Datei gespeichert werden beziehungsweise aus einer Profildatei wieder eingelesen werden. Profildateien werden im KM2-Unterordner „\Ini" abgelegt. Eine besondere Bedeutung haben Profildateien, deren Dateinamen mit **JG\_** beginnen, gefolgt von einer Jahrgangsangabe (zum Beispiel JG_09.KMP). Sollten Sie bei den **Sonstigen Einstellungen** das Auswahlfeld **Automatische Profilauswahl** aktiviert haben, so werden bei der Leistungsdatenanzeige einer Klasse des 9. Jahrgangs automatisch die Parameter aus der Profildatei JG_09.KMP geladen.
-
-<a id="Dialog_beenden"></a>
 
 ## Dialog beenden
 

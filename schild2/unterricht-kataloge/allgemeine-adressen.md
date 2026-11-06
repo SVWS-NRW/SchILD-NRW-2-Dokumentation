@@ -10,8 +10,6 @@ In den Berufskollegs ist es erforderlich, Informationen zu den von den Schülern
 
 Die Registerkarte enthält die Karteireiter Übersicht und Details (siehe rechts). Letztere ermöglicht die Erfassung eines neuen Datensatzes während die Übersicht alle bisher eingegebenen Adressen der Betriebe etc. auflistet. Zu jeder Adresse können beliebig viele Ansprechpartner (mit Name, Abteilung, Telefon, E-Mail) hinzugefügt werden, diese können dann auch den Schülern als Betreuer zugewiesen werden.
 
-<a id="Hinweise:"></a>
-
 ## Hinweise:
 
 - Durch die Wahl einer entsprechenden Option im Sortierfeld und anschließender Bestätigung werden in der Übersicht die eingegebenen Adressen sortiert aufgelistet.

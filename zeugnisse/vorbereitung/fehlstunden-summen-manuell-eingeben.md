@@ -2,8 +2,6 @@
 title: "Fehlstundensummen manuell eingeben"
 ---
 
-<a id="fehlstunden-summen-manuell-eingeben"></a>
-
 # Fehlstundensummen manuell eingeben
 
 Dieser Gruppenprozess ermöglicht es, für die gefilterte Schülergruppe Gesamtfehlstunden einzugeben. Es öffnet sich ein Fenster, bei dem man in die Tabellenfelder die Fehlzeiten (gesamte und unentschuldigte Fehlstunden) eintragen kann.

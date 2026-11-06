@@ -16,8 +16,6 @@ Die Klassenleitung kann über den Reiter **Zeugnisse** eine Vorschau oder einen 
 
 Fehlen **Zeugnisvorlagen zuweisen** und **Zeugnisse ausgeben** trotz eingetragener Klassenleitung, kontrolliert die Administration die Exporteinstellungen in SchILD-NRW 2. Dort muss **Zeugnisvorlagen exportieren** aktiviert sein. Die Vorlagen werden zuvor unter **Druckausgabe → Grundschulzeugnisse zuordnen** hinterlegt.
 
-<a id="rucklaufe-in-schild-importieren"></a>
-
 ## Rückläufe in SchILD-NRW 2 importieren
 
 Wählen Sie beim Notenimport die zurückgegebenen Dateien aus; mehrere Dateien können gemeinsam eingelesen werden. Kontrollieren Sie die Importoptionen vor der Übernahme:

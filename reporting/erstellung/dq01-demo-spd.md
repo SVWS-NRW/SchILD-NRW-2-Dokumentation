@@ -2,8 +2,6 @@
 title: "Beispiel einer eigenen Report-Datenquelle"
 ---
 
-<a id="dq01-demo-spd"></a>
-
 # Beispiel einer eigenen Report-Datenquelle
 
 Dieses Konfigurationsbeispiel ergänzt die Anleitung **Eigene Datenquellen für SchILD-NRW 2-Reports**. Es zeigt Abfragen und Zuordnungen für mehrere Datenquellen. Beginnen Sie mit der Grundlagenanleitung, bevor Sie die nachfolgenden technischen Angaben verwenden.

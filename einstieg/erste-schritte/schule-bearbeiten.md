@@ -2,8 +2,6 @@
 title: "Schuldaten einrichten"
 ---
 
-<a id="schule-bearbeiten"></a>
-
 # Schuldaten einrichten
 
 Tragen Sie hier die Grundangaben Ihrer Schule ein. Diese Angaben werden an anderen Stellen wiederverwendet, zum Beispiel bei Formularen und statistischen Ausgaben. Prüfen Sie sie deshalb bei der Ersteinrichtung, bevor Sie weitere Kataloge pflegen.
@@ -41,8 +39,6 @@ Nur wenn dieser Haken gesetzt ist, ist es möglich, bei Kursen und Klassenunterr
 **Gruppenprozesse für Abitur gesperrt**
 
 Nur für Schulen mit SEK-II-Bildungsgängen relevant. Wenn dort ein Jahrgang der Stufe SEKII-3 gefiltert ist, dann stehen unter "Gruppenprozesse" einige Funktionen zum Abitur zur Verfügung. Wenn man die gruppenweise Bearbeitung dieser Abiturjahrgänge zu bestimmten Zeiten im Jahr verhindern möchte, so können Sie diesen Haken setzen.
-
-<a id="Karteireiter_in_der_rechten_oberen_Ecke"></a>
 
 ## Karteireiter in der rechten oberen Ecke
 
@@ -82,8 +78,6 @@ Dient zur Kontrolle der Datenbank. Hier darf nur ein Datensatz vorhanden sein. B
 **SchILDweb**
 
 Hier können Sie einige Angaben zum SchILDweb-Export machen. Bitte beachten Sie, dass es sich bei SchILDweb um ein kostenpflichtiges Modul der Firma [Ribeka](http://www.ribeka.com/) handelt. Nähere Informationen dazu entnehmen Sie bitte der Anleitung von SchILDweb.
-
-<a id="Angaben_zum_aktuellen_Abschnitt"></a>
 
 ## Angaben zum aktuellen Abschnitt
 

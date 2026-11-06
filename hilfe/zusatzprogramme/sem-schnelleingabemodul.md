@@ -2,8 +2,6 @@
 title: "Schülerdaten im Schnelleingabemodul erfassen"
 ---
 
-<a id="sem-schnelleingabemodul"></a>
-
 # Schülerdaten im Schnelleingabemodul erfassen
 
 Das Programm dient zur schnellen Eingabe von Schülerdaten (Personen-, Erzieher-, Vorbildungs- und Adressdaten). Das Programm kann ohne Mauseinsatz über die Tastatur bedient werden. Eine Übersicht über die Tastaturbelegung finden Sie am Ende des Artikels.
@@ -11,9 +9,6 @@ Das Programm dient zur schnellen Eingabe von Schülerdaten (Personen-, Erzieher-
 Das Schnelleingabemodul befindet sich im Downloadbereich von SVWS.NRW.DE unter "Tools" und kann dort heruntergeladen werden, das Programm muss im Installationsverzeichnis von SchILD-NRW 2 liegen.
 
 Beim erstmaligen Aufruf des Programmes müssen Sie eine Datenbank auswählen, mit der Sie arbeiten wollen, es erscheint der gleiche Auswahldialog wie in SchILD-NRW 2. Bei allen weiteren Aufrufen des Programmes wird automatisch die Datenbank, die zuletzt benutzt wurde, geöffnet. Wenn Sie die Datenbank wechseln möchten, aktivieren Sie die Funktionstaste F11, es erscheint dann der bekannte Auswahldialog.
-
-<a id="Neuen_Schüler_anlegen"></a>
-<a id="Neuen_Sch.C3.BCler_anlegen"></a>
 
 ## Neuen Schüler anlegen
 
@@ -31,9 +26,6 @@ Falls für den Schüler mehr als eine Betriebsadresse beziehungsweise weitere Ad
 
 Um die neuen Schülerdaten in die Datenbank zu übernehmen, aktivieren Sie die Taste F4.
 
-<a id="Vorhandenen_Schüler_bearbeiten"></a>
-<a id="Vorhandenen_Sch.C3.BCler_bearbeiten"></a>
-
 ## Vorhandenen Schüler bearbeiten
 
 Falls Sie nach dem Abspeichern feststellen sollten, dass Sie etwas vergessen oder falsch eingegeben haben, so gehen Sie wie folgt vor:
@@ -43,9 +35,6 @@ Sind die Daten des Schülers noch sichtbar, so aktivieren Sie die Taste F3 und b
 Um die geänderten Daten in die Datenbank zu übernehmen, aktivieren Sie die Taste F4, um die Änderungen zu verwerfen, die Taste F5.
 
 Hinweis: Die Suchfunktion über die Taste F7 steht nicht zur Verfügung, wenn Sie sich als Gast angemeldet haben.
-
-<a id="Katalog-Einträge_ergänzen"></a>
-<a id="Katalog-Eintr.C3.A4ge_erg.C3.A4nzen"></a>
 
 ## Katalog-Einträge ergänzen
 

@@ -2,8 +2,6 @@
 title: "Fehlende Lernabschnitte anlegen"
 ---
 
-<a id="fehlende-abschnittsdaten-anlegen"></a>
-
 # Fehlende Lernabschnitte anlegen
 
 Ein Lernabschnitt enthält die Angaben zu einem bestimmten Halbjahr oder Quartal. Mit dieser Funktion legen Sie fehlende Abschnittsdaten mit Standardangaben an. Sie entspricht dem Gruppenprozess **Lernabschnitt mit Standardangaben anlegen**.

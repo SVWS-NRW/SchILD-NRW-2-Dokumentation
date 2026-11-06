@@ -12,7 +12,7 @@ export async function checkArticleMenus(page, base) {
     assert.equal(await menu.locator('a[href*="statistik-amtliche-schuldaten"]').count(),1)
     assert.equal(await menu.locator('a[href*="#"]').count(),0,'Keine Abschnittslinks im Referenzmenü')
     assert(await article.evaluate(a=>a.parentElement.tagName==='LI'),'Statistikartikel hat kein eigenes Untermenü')
-    await page.goto(base+'/schild2/import-export-statistik/statistik-amtliche-schuldaten.html?referenz=statistik-sim#Schülerdaten_(SIM)',{waitUntil:'networkidle'})
+    await page.goto(base+'/schild2/import-export-statistik/statistik-amtliche-schuldaten.html?referenz=statistik-sim#schulerdaten-sim',{waitUntil:'networkidle'})
     await page.waitForFunction(()=>document.querySelector('.program-reference-menu [aria-current=page]')?.textContent==='Statistik und amtliche Schuldaten')
     assert.equal(await page.locator('[id="Schülerdaten_(SIM)"]').count(),1,'Bisheriges Abschnittsziel bleibt erhalten')
     await page.reload({waitUntil:'networkidle'})

@@ -4,11 +4,6 @@ title: "ShortDayNames"
 
 # ShortDayNames
 
-<a id="RAP-Funktion_&quot;ShortDayNames&quot;"></a>
-<a id="RAP-Funktion_.22ShortDayNames.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Gibt den abgekürzten Namen eines Wochentags zurück. Die übergebene Zahl bestimmt den Wochentag.

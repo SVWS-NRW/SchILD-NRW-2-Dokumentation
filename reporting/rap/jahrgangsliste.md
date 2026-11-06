@@ -4,11 +4,6 @@ title: "JahrgangsListe"
 
 # JahrgangsListe
 
-<a id="RAP-Funktion_&quot;JahrgangsListe&quot;"></a>
-<a id="RAP-Funktion_.22JahrgangsListe.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Erzeugt eine durch Kommas getrennte Liste von Jahrgängen. Die Parameter legen den Endjahrgang und den Abstand zum Startjahrgang fest.

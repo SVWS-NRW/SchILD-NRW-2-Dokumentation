@@ -8,9 +8,6 @@ Zu KAoA gehört das *Belegungs-, Abrechnungs- und Nachweisportal*, das [*BAN-Por
 
 Hierbei sollen die Schüler identifiziert werden, die über keine konkrete Anschlussperspektive wie eine Ausbildung, Schulplatz, ein freiwilliges Jahr, Praktikum für den FHR und so weiter verfügen. Aus SchILD-NRW 2 lassen sich die im Portal einzulesenden Daten exportieren. In der Regel sollte dies nur wenige Schüler betreffen.
 
-<a id="Schüler_vorbereiten"></a>
-<a id="Sch.C3.BCler_vorbereiten"></a>
-
 ## Schüler vorbereiten
 
 ![SchILD-NRW 2_Export_BAN-Portal_Markieren](/bilder/schild2/import-export-statistik/schild-nrw-export-ban-portal-markieren.png)
@@ -38,8 +35,6 @@ Der voraussichtlich erreichte Abschluss wird bei der Übermittlung der Daten an 
 Für größere Gruppen lassen sich die Markierungen bei Bedarf komfortabel über einen *Gruppenprozess* setzen.
 
 Wählen Sie zuerst die Schülergruppe aus, für welche die BAN-Markierungen gesetzt werden sollen und starten Sie den Gruppenprozess *Individualdaten ändern ➜ Lernabschnitte*.\
-
-<a id="BAN-Export"></a>
 
 ## BAN-Export
 
@@ -75,8 +70,6 @@ Der Export ist abgeschlossen. Die erzeugte Datei kann nun im BAN-Portal eingeles
 :::info
 Da im Dateinamen der *BAN-Export.csv* selbst kein Lernabschnitt enthalten ist und diese daher von außen jedes Jahr gleich aussieht, achten Sie bitte darauf, tatsächlich die jeweils aktuelle und gerade exportierte Datei beim folgenden Import auf dem BAN-Portal zu verwenden.
 :::
-
-<a id="Bedeutung_der_Tabellenwerte"></a>
 
 ## Bedeutung der Tabellenwerte
 

@@ -2,16 +2,9 @@
 title: "SchILD-NRW 2-Kurse in S1Plan übernehmen"
 ---
 
-<a id="s1plan-ubernahme-von-kursen-aus-schild"></a>
-
-<a id="schild-kurse-in-s1plan-ubernehmen"></a>
-
 # SchILD-NRW 2-Kurse in S1Plan übernehmen
 
 Im Folgenden wird davon ausgegangen, dass in SchILD-NRW 2 Kurse vorhanden sind. Im neuen Schuljahr sollen diese Kurse aber neu zusammengesetzt werden. Dies wird am Beispiel von Religion und praktischer Philosophie in einem Jahrgang 08 erläutert.
-
-<a id="ANLEGEN_DES_ZUGEHÖRIGEN_KURSPROFILS"></a>
-<a id="ANLEGEN_DES_ZUGEH.C3.96RIGEN_KURSPROFILS"></a>
 
 ## ANLEGEN DES ZUGEHÖRIGEN KURSPROFILS
 
@@ -26,10 +19,6 @@ wird (siehe auch Seite 7) das Kursprofil mit den zugehörigen Kursen angelegt (h
 :::info
 Falls in den Fenstern „Kursübersicht“ und „Kurswahlen“ Inhalte einer vorhergehenden Kurszuweisung zu sehen waren, werden diese Inhalte nach Anwahl des neuen Kursprofiles gelöscht.
 :::
-
-<a id="KURSIMPORT_AUS_SCHILD-NRW"></a>
-
-<a id="kursimport-aus-schild-nrw"></a>
 
 ## KURSIMPORT AUS SchILD-NRW 2
 
@@ -50,8 +39,6 @@ Beachten Sie das nun folgende Bestätigungsfenster: Alle schon in S1Plan bestehe
 Nach der Bestätigung werden die beiden linken Fenster gefüllt und es liegt in S1Plan eine Kopie der SchILD-NRW 2-Kurswahl (bzgl. der betrachteten Kurse) vor:
 
 ![S1P-046-nach-Abgleich-mit-Schild](/bilder/tools/s1plan/s1p-046-nach-abgleich-mit-schild.jpg)
-
-<a id="KURSWAHLEN_BEARBEITEN"></a>
 
 ## KURSWAHLEN BEARBEITEN
 
@@ -75,11 +62,6 @@ Nach den Änderungen können die neuen Kurswahlen über den Gruppenprozess
 ![S1P-047-fixieren](/bilder/tools/s1plan/s1p-047-fixieren.jpg)
 
 fixiert werden. Danach ist eine Bearbeitung (Änderung) der Kurszuordnung im Fenster „Kurswahlen“ nicht mehr möglich. Über den gleichen Schalter können Sie die Kurswahlen wieder freigeben.
-
-<a id="KURSWAHLEN_NACH_SCHILD-NRW_ZURÜCKSCHREIBEN"></a>
-<a id="KURSWAHLEN_NACH_SCHILD-NRW_ZUR.C3.9CCKSCHREIBEN"></a>
-
-<a id="kurswahlen-nach-schild-nrw-zuruckschreiben"></a>
 
 ## KURSWAHLEN NACH SchILD-NRW 2 ZURÜCKSCHREIBEN
 

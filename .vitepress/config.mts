@@ -52,20 +52,6 @@ export default defineConfig({
               closeText: 'schließen', closeKeyAriaLabel: 'Escape'
             }
           }
-        },
-        // Alphabetical Wiki headings can contain several # links. The search
-        // index must use the generated heading anchor, not the first such link.
-        _render(src, env, md) {
-          return md.render(src, env).replace(
-            /<h([1-6])\b([^>]*)>([\s\S]*?)<\/h\1>/g,
-            (_, level, attrs, content) => {
-              const heading = content.replace(
-                /<a\b([^>]*)>([\s\S]*?)<\/a>/g,
-                (link, linkAttrs, label) => /class=["'][^"']*\bheader-anchor\b/.test(linkAttrs) ? link : label
-              )
-              return `<h${level}${attrs}>${heading}</h${level}>`
-            }
-          )
         }
       }
     },

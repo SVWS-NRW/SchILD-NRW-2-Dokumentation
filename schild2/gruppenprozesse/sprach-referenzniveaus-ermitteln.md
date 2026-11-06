@@ -2,8 +2,6 @@
 title: "Sprachreferenzniveaus ermitteln"
 ---
 
-<a id="sprach-referenzniveaus-ermitteln"></a>
-
 # Sprachreferenzniveaus ermitteln
 
 Dieser Gruppenprozess ermittelt aus den vorhandenen Einträgen bei der Sprachenfolge und den Leistungsdaten die Sprachreferenzniveaus der ausgewählten Schüler und trägt sie unter [Laufbahninformationen](/schild2/schueler/laufbahninfo) bei der entsprechenden Sprache ein. Einzelne Einträge oder Änderungen sollte man direkt bei dem betroffenen Schüler durchführen.

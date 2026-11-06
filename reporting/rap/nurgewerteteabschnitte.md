@@ -4,9 +4,6 @@ title: "NurGewerteteAbschnitte"
 
 # NurGewerteteAbschnitte
 
-<a id="RAP-Funktion_&quot;NurGewerteteAbschnitte&quot;"></a>
-<a id="RAP-Funktion_.22NurGewerteteAbschnitte.22"></a>
-
 ## Beschreibung
 
 Steuert, ob ausschließlich gewertete Lernabschnitte angezeigt werden. Die nachfolgenden Hinweise erläutern die Voreinstellung und ihre Bedeutung für Leistungsübersichten.

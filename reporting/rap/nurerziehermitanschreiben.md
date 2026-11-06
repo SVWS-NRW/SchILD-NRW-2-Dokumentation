@@ -4,11 +4,6 @@ title: "NurErzieherMitAnschreiben"
 
 # NurErzieherMitAnschreiben
 
-<a id="RAP-Funktion_&quot;NurErzieherMitAnschreiben&quot;"></a>
-<a id="RAP-Funktion_.22NurErzieherMitAnschreiben.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Steuert, ob nur Erziehungsberechtigte mit dem gesetzten Merkmal **Erhält Anschreiben** berücksichtigt werden.

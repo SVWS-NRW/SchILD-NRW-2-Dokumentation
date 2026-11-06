@@ -4,11 +4,6 @@ title: "SetTextAttributes"
 
 # SetTextAttributes
 
-<a id="RAP-Funktion_&quot;SetTextAttributes&quot;"></a>
-<a id="RAP-Funktion_.22SetTextAttributes.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Bearbeitet die Textattribute eines Richtextelements. Das betreffende Element wird über den Parameter `aText` übergeben.

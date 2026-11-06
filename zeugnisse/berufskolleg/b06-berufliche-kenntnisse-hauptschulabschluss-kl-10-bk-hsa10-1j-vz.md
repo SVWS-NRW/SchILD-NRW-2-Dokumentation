@@ -2,8 +2,6 @@
 title: "B06 Berufliche Kenntnisse und Hauptschulabschluss"
 ---
 
-<a id="b06-berufliche-kenntnisse-hauptschulabschluss-kl-10-bk-hsa10-1j-vz"></a>
-
 # B06 Berufliche Kenntnisse und Hauptschulabschluss
 
 Diese Seite zeigt ein Bildbeispiel zur Abschlussberechnung für den im Titel genannten Bildungsgang. Vergleichen Sie die dargestellte Ansicht mit Ihrem Bildungsgang. Die Bedeutung des Karteireiters und die allgemeinen Arbeitsschritte erläutert [BK-Abschlussverfahren](/zeugnisse/berufskolleg/bk-abschluss?rubrik=schild2).

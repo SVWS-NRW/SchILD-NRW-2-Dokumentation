@@ -17,6 +17,3 @@ SchILD-NRW 2 verbindet sich direkt mit der eingerichteten Datenbank. Lernen Sie 
 - [Statusfilter](/schild2/auswahl/schnellfilter?rubrik=schild2)
 - [Status- und Schnellfilter](/schild2/auswahl/schnellfilter?rubrik=schild2)
 - [Schülerliste](/einstieg/grundlagen/container?rubrik=schild2)
-
-<a id="schild-nrw-2-im-alltag-bedienen"></a>
-<a id="schild-nrw-im-alltag-bedienen"></a>

@@ -4,11 +4,6 @@ title: "LoadVermerke"
 
 # LoadVermerke
 
-<a id="RAP-Funktion_&quot;LoadVermerke&quot;"></a>
-<a id="RAP-Funktion_.22LoadVermerke.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Liest die Vermerke der angegebenen Vermerkart aus und verbindet sie zu einem Text. Das Trennzeichen zwischen den einzelnen Vermerken können Sie vorgeben.

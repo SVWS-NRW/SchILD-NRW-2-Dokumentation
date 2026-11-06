@@ -4,11 +4,6 @@ title: "NurFaecherMitAufsZeugnisFlag"
 
 # NurFaecherMitAufsZeugnisFlag
 
-<a id="RAP-Funktion_&quot;NurFaecherMitAufsZeugnisFlag&quot;"></a>
-<a id="RAP-Funktion_.22NurFaecherMitAufsZeugnisFlag.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Durch die Verwendung dieser Prozedur kann erreicht werden, dass

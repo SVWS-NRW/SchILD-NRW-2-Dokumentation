@@ -2,8 +2,6 @@
 title: "Angemeldete Benutzer anzeigen"
 ---
 
-<a id="benutzer"></a>
-
 # Angemeldete Benutzer anzeigen
 
 Hier sehen Sie, welche Benutzerkonten gerade an der Datenbank angemeldet sind. Der Menüpunkt gehört zum optionalen Plugin **Benutzerliste**; die folgende Einstellung blendet ihn ein.

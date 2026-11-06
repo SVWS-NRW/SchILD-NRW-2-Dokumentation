@@ -2,8 +2,6 @@
 title: "Vermerkarten"
 ---
 
-<a id="vermerk-arten"></a>
-
 # Vermerkarten
 
 Vermerkarten bieten die Möglichkeit mehrere selbst definierte Merkmale bei den Schülern mit einem Datum und einem speziellen Text zu vergeben. Da hier der Benutzer sehr frei in der Definition ist, wird auch bei jeder Anlage einer neuen Vermerkart der Datenschutzhinweis gezeigt! Bitte informieren Sie sich, ob Sie das Merkmal, welches Sie dort anlegen möchten auch wirklich verwalten dürfen!

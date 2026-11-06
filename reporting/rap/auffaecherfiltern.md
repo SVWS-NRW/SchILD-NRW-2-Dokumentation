@@ -4,9 +4,6 @@ title: "AufFaecherFiltern"
 
 # AufFaecherFiltern
 
-<a id="RAP-Funktion_&quot;AufFaecherFiltern&quot;"></a>
-<a id="RAP-Funktion_.22AufFaecherFiltern.22"></a>
-
 ## Beschreibung
 
 Ermöglicht eine Filterung in der Datenquelle „SchuelerJahresuebersicht“ auf bestimmte Fächer. Der Aufruf erfolgt typischerweise im Ereignis „ReportBeforPrint“

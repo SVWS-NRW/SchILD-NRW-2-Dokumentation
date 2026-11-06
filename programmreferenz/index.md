@@ -16,6 +16,4 @@ Die Programmreferenz folgt den Menüs und Bereichen der SchILD-NRW 2-Oberfläche
 - [Hilfe](/hilfe/probleme/hilfe)
 - [Hauptfenster](/einstieg/grundlagen/hauptfenster?referenz)
 
-<a id="inhaltsverzeichnis"></a>
-
 Quelle der übernommenen Übersicht: [Inhaltsverzeichnis – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Inhaltsverzeichnis&oldid=5938)

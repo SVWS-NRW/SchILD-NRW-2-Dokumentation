@@ -2,11 +2,7 @@
 title: "Haupterhebung mit ASDPC bearbeiten"
 ---
 
-<a id="statistik-mit-asdpc-haupterhebung"></a>
-
 # Haupterhebung mit ASDPC bearbeiten
-
-<a id="Die_Haupterhebung"></a>
 
 ## Die Haupterhebung
 
@@ -32,15 +28,9 @@ Je nachdem, ob in Ihrer Schule schon Vorgabedaten vorhanden sind oder ob schon a
 
 ![ASDPC_HE_Hauptfenster](/bilder/schild2/import-export-statistik/asdpc-he-hauptfenster.png)
 
-<a id="Die_Menüoptionen_in_der_Haupterhebung"></a>
-<a id="Die_Men.C3.BCoptionen_in_der_Haupterhebung"></a>
-
 ### Die Menüoptionen in der Haupterhebung
 
 Es ist nun zu sehen, dass sich das Menü in der Kopfzeile verändert hat. Diese Einträge sollen nun erläutert werden.
-
-<a id="Datei_➥_Import"></a>
-<a id="Datei_.E2.9E.A5_Import"></a>
 
 #### Datei ➥ Import
 
@@ -84,9 +74,6 @@ Der Import von Daten überschreibt den aktuellen Stand dieser Daten. Vor einem (
 Die *Abteilungsdaten* werden benötigt, wenn mehrere Personen - eventuell auch an unterschiedlichen Standorten mit unterschiedlichen Datenträgern - an der Statistik arbeiten. Über diesen Import ist das Zusammenführen dieser Daten möglich. Ist ein solches verteiltes Arbeiten bei Ihnen nicht der Fall beziehungsweise die Abteilungen sind digital vernetzt, muss hier nichts eingelesen werden.
 :::
 
-<a id="Datei_➥_Export"></a>
-<a id="Datei_.E2.9E.A5_Export"></a>
-
 #### Datei ➥ Export
 
 ![ASDPC_Export](/bilder/schild2/import-export-statistik/asdpc-export.png)
@@ -96,13 +83,10 @@ Die *Abteilungsdaten* werden benötigt, wenn mehrere Personen - eventuell auch a
 **Daten für IT.NRW**: Wenn Ihre Statistik getaner Arbeit komplett fertig ist, kann das Ergebnis über den Export für IT.NRW (verschlüsselt) ausgeben werden, um diese an IT.NRW zu mailen. Sie müssen hier auch wieder die vierstellige ASD-Signatur der Schule angeben. Es muss zuvor eine Gesamtprüfung der Daten durchgeführt worden sein und die Daten müssen frei von *Harten Fehlern* sein.
 
 :::info
-Das genaue Vorgehen wird im Kapitel [Bereitstellung der Daten](/schild2/import-export-statistik/statistik-mit-asdpc#Bereitstellung_der_Daten "Statistik mit ASDPC") behandelt.
+Das genaue Vorgehen wird im Kapitel [Bereitstellung der Daten](/schild2/import-export-statistik/statistik-mit-asdpc#bereitstellung-der-daten "Statistik mit ASDPC") behandelt.
 :::
 
 **Daten für den Schulträger**: Haben Sie mit dem Schulträger die Absprache, dass dieser Statistikdaten erhält, können diese hier (unverschlüsselt) gespeichert werden. Auch hier kann ein Dateiname für eine .txt-Datei frei vergeben werden.
-
-<a id="Datei_➥_Drucken"></a>
-<a id="Datei_.E2.9E.A5_Drucken"></a>
 
 #### Datei ➥ Drucken
 
@@ -111,9 +95,6 @@ Das genaue Vorgehen wird im Kapitel [Bereitstellung der Daten](/schild2/import-e
 Über dieses Menü können alle *Belege* gesammelt oder einzeln ausgedruckt werden, diese können zur Weiterbearbeitung, der Archivierung oder der Weitergabe an den Schulträger dienen. Weiterhin sind die Belege als *Leerbelege* in ihrer unausgefüllten Form ausdruckbar.
 
 Auch der Druck der *Schlüsseltabellen* und die Fehlerbeschreibung kann über dieses Menu angestoßen werden. Dies ist möglicherweise praktisch, die die Schlüsseltabellen in Teilen in Bezug auf bestimmte Belege gedruckt werden können. Unter dem Bereich *Prüfung* bei den Schlüsseltabellen sind die Ergebnisse der Prüfung ausdruckbar.
-
-<a id="Datei_➥_Daten_löschen"></a>
-<a id="Datei_.E2.9E.A5_Daten_l.C3.B6schen"></a>
 
 #### Datei ➥ Daten löschen
 
@@ -127,9 +108,6 @@ Die zu löschenden Datensätze werden über die Checkboxen ausgewählt. Sollte e
 Es empfiehlt sich, vor einem Löschvorgang eine Sicherung anzufertigen, da später doch benötigte, aber gelöschte Daten nur über eine vorherige Sicherung wiederhergestellt werden können.
 :::
 
-<a id="Datei_➥_Sicherung"></a>
-<a id="Datei_.E2.9E.A5_Sicherung"></a>
-
 #### Datei ➥ Sicherung
 
 ![ASDPC_Sicherung](/bilder/schild2/import-export-statistik/asdpc-sicherung.png)
@@ -142,14 +120,9 @@ Hier kann eine Sicherung über "Datei" ➥ "Sicherung" ➥ "Datenbank sichern" a
 Das Einlesen von Datensätzen aus einer Sicherung überschreibt den aktuellen Stand in ASDPC.
 :::
 
-<a id="Datei_➥_Schließen"></a>
-<a id="Datei_.E2.9E.A5_Schlie.C3.9Fen"></a>
-
 #### Datei ➥ Schließen
 
 Über das Feld **Schließen** wird die Haupterhebung des aktuellen Jahres verlassen und ASPDC kehrt zur Schulübersicht zurück.
-
-<a id="Belege"></a>
 
 #### Belege
 
@@ -159,16 +132,11 @@ Unter dieser Option verbergen sich die Belege von ASDPC, in dem die Daten der St
 
 Die Belege "SCD011" und "Weitere Belege" können noch weitere Unterbelege beinhalten, die ebenfalls in ihrer Menüreihenfolge abgearbeitet werden.
 
-<a id="Extras"></a>
-
 #### Extras
 
-Der Menüeintrag "Extras" ist wie im identisch zum übergeordneten Menü ["Extras"](/schild2/import-export-statistik/statistik-mit-asdpc-aufbau#Abschnitte_.22Extras.22) in ASDPC.
+Der Menüeintrag "Extras" ist wie im identisch zum übergeordneten Menü ["Extras"](/schild2/import-export-statistik/statistik-mit-asdpc-aufbau#abschnitte-extras) in ASDPC.
 
 ![ASDPC_Extras](/bilder/schild2/import-export-statistik/asdpc-extras.png)
-
-<a id="Prüfen"></a>
-<a id="Pr.C3.BCfen"></a>
 
 #### Prüfen
 
@@ -197,20 +165,15 @@ Zusammenfassend:\
 Im vorherigen Bildschirm erlaubt "Optionen" ➥ "Rotschwäche" eine Anpassung der Farbdarstellungen.
 :::
 
-<a id="Hilfe"></a>
-
 #### Hilfe
 
-Die Hilfe ist identisch zum übergeordneten Menü ["Hilfe"](/schild2/import-export-statistik/statistik-mit-asdpc-aufbau#Abschnitt_.22Hilfe.22). Die Hilfe kann von jedem Beleg aus aufgerufen werden.
-
-<a id="Durchführung_der_Haupterhebung"></a>
-<a id="Durchf.C3.BChrung_der_Haupterhebung"></a>
+Die Hilfe ist identisch zum übergeordneten Menü ["Hilfe"](/schild2/import-export-statistik/statistik-mit-asdpc-aufbau#abschnitt-hilfe). Die Hilfe kann von jedem Beleg aus aufgerufen werden.
 
 ### Durchführung der Haupterhebung
 
 ![Schaubild_ASDPC2](/bilder/schild2/import-export-statistik/schaubild-asdpc2.png)
 
-Nachdem Sie die [Statistik vorbereitet](/schild2/import-export-statistik/statistik-mit-asdpc#Vorbereitung_der_Statistik) haben, können Sie damit beginnen, Ihren Daten einzulesen. Beginnen Sie mit den Vorgabedaten. Die weiteren Daten, SIM.TXT, Lehrer.TXT etc. können eventuell aus Schulverwaltungsprogrammen wie SchILD-NRW 2 oder Untis usw. erstellt werden.
+Nachdem Sie die [Statistik vorbereitet](/schild2/import-export-statistik/statistik-mit-asdpc#vorbereitung-der-statistik) haben, können Sie damit beginnen, Ihren Daten einzulesen. Beginnen Sie mit den Vorgabedaten. Die weiteren Daten, SIM.TXT, Lehrer.TXT etc. können eventuell aus Schulverwaltungsprogrammen wie SchILD-NRW 2 oder Untis usw. erstellt werden.
 
 - Einlesen der Vorgabedaten
 - SIM.txt
@@ -225,8 +188,6 @@ Achten Sie darauf, schon beim Import auftretende Fehler in den Schulverwaltungsp
 :::
 
 Nun sind die Belege mit so vielen Daten befüllt, wie im Schulverwaltungsprogramm erfasst sind. Nun können die *Belege in ASDPC der Reihe nach* bearbeitet werden.
-
-<a id="Aufbau_der_Belege_am_Beispiel_der_LID123"></a>
 
 #### Aufbau der Belege am Beispiel der LID123
 
@@ -314,8 +275,6 @@ Wurde der Beleg komplett abgearbeitet, wird er über "Beleg schließen" verlasse
 Wurde viel geschafft, empfiehlt es sich, eine Sicherung zu erstellen.
 :::
 
-<a id="Beleg:_KLD323_-_Klassendaten"></a>
-
 #### Beleg: KLD323 - Klassendaten
 
 Wie im vorherigen Beleg findet sich die Kopfzeile mit den allgemeinen Steuerelementen. Besonders zu beachten ist hier jedoch die Schaltfläche \*\*Schülerzahlen\*\*, in der die korrekten Summen noch einmal als Kontrolle manuell einzugeben sind.
@@ -366,8 +325,6 @@ In den Fußfeldern können neue Einträge jeweils oben links mit dem entsprechen
 Rechts neben der "Herkunft der Schüler-/innen" werden die Auslandsherkünfte der Schülerinnen und Schüler in dem zugehörigen Eintrag links weiter aufgeschlüsselt. Hier sind die Staatsangehörigkeit (810), die Gesamtzahl (811) und wieder "Davon weiblich" (811W) zu erfassen.
 
 Schlussendlich können Einträge für die "Betreuung" mit einer Art (970) angelegt werden, auch hier wird wieder eine Gesamtzahl (971) erfasst.
-
-<a id="Beleg:_UVD223_-_Unterrichtsverteilung"></a>
 
 #### Beleg: UVD223 - Unterrichtsverteilung
 
@@ -423,9 +380,6 @@ Gemischtkonfessioneller Religionsunterricht wird über zwei Hauptzeilen erfasst,
 Weitere angepasste Beispiele und Konventionen finden sich in den Eintragungshilfen für das aktuelle Jahr.
 :::
 
-<a id="Beleg:_SCD011_-_Religionszugehörigkeiten"></a>
-<a id="Beleg:_SCD011_-_Religionszugeh.C3.B6rigkeiten"></a>
-
 #### Beleg: SCD011 - Religionszugehörigkeiten
 
 In diesem Beleg werden jahrgangsweise die Religionszugehörigkeiten und Abmeldungen vom Religionsunterricht erfasst.
@@ -436,9 +390,6 @@ In diesem Beleg werden jahrgangsweise die Religionszugehörigkeiten und Abmeldun
 Beachten Sie bitte hierzu die aktuellen Eintragungshilfen.\
 So sind zum Beispiel nur Mitglieder der Evangelischen Kirche als "evangelisch" zu erfassen. Schülerinnen und Schüler die zu einer Evangelischen Freikirche gehören, sind als "Andere" zu erfassen. Weiterhin ist festgelegt, welche Orthodoxen Kirchen unter "Orthodox" einzutragen sind und welche getrennt zu erfassen sind.
 :::
-
-<a id="Beleg:_SCD012_-_Abgänger"></a>
-<a id="Beleg:_SCD012_-_Abg.C3.A4nger"></a>
 
 #### Beleg: SCD012 - Abgänger
 
@@ -476,16 +427,11 @@ Es ist jeweils der höchste erreichte Abschluss einzutragen, selbst wenn er in e
 
 Um Rückfragen zu vermeiden empfiehlt es sich, die Gesamtzahlen zu vergleichen und eventuelle Differenzen im Feld "Bemerkungen" zu erläutern.
 
-<a id="Weitere_Belege"></a>
-
 #### Weitere Belege
 
 Hier finden sich diverse Belege für weitere Daten. Manche der Belege werden nur für passende Schulformen angezeigt.
 
 ![ASDPC_Weitere_Belege](/bilder/schild2/import-export-statistik/asdpc-weitere-belege.png)
-
-<a id="Abiturprüfungsergebnisse"></a>
-<a id="Abiturpr.C3.BCfungsergebnisse"></a>
 
 ##### Abiturprüfungsergebnisse
 
@@ -494,8 +440,6 @@ Hier finden sich diverse Belege für weitere Daten. Manche der Belege werden nur
 In diesem Beleg sind die Abiturprüfungsergebnisse einzulesen. Diese Daten können über die von SchILD-NRW 2 erzeugte ABI.txt eingelesen werden. Es ist zu beachten, dass bei "Bild.-Gang" von Gymnasien beziehungsweise von Gesamtschulen mit entsprechenden Bildungsgängen G8 beziehungsweise G9 einzutragen ist. Eine Automatik ist bei einer passenden Schulform unter "Bearbeiten" anwählbar.
 
 Zum Ende der Bearbeitung sind wie bei vorherigen Belegen über die gelben Schaltflächen in der Kopfzeile die Daten mit "Schülersummen" und dem Beleg "SCD012" abzugleichen.
-
-<a id="Zuwanderungsgeschichte"></a>
 
 ##### Zuwanderungsgeschichte
 
@@ -515,9 +459,6 @@ Somit kann es durchaus sein, dass Schülerinnen und Schüler keine deutsche Staa
 
 Nach getaner Arbeit sind die Kontrollzahlen manuell unter "Summe der Schüler mit Zuwanderungsgeschichte" zu bestätigen.
 
-<a id="Internatsplätze"></a>
-<a id="Internatspl.C3.A4tze"></a>
-
 ##### Internatsplätze
 
 Mögliche und tatsächlich belegte Internatsplätze Ihrer Schule sind über diesen Beleg zu erfassen.
@@ -525,8 +466,6 @@ Mögliche und tatsächlich belegte Internatsplätze Ihrer Schule sind über dies
 ![ASDPC_Internat](/bilder/schild2/import-export-statistik/asdpc-internat.png)
 
 Im Dropdown-Menü kann angewählt werden, ob es "Keine Internatsplätze" gibt oder wie die Geschlechterausrichtung des Internats gestaltet ist.
-
-<a id="Wohnorte"></a>
 
 ##### Wohnorte
 
@@ -548,8 +487,6 @@ Um die Auswahl der möglichen Wohnorte einzuschränken kann über "Wohnorte ausw
 
 Um diese Einschränkung rückgängig zu machen, steht das Feld "Auswahl zurücksetzen" zur Verfügung.
 
-<a id="Altersstruktur"></a>
-
 ##### Altersstruktur
 
 Die Schülerinnen und Schüler werden wieder nach Klassen und Teilklassen, wie in der KLD323 gesetzt, erfasst. Hierbei sind folgende Schülerinnen und Schüler gemeinsam als Gruppe unterhalb der (Teil-)klassenauswahl zu erfassen:
@@ -561,9 +498,6 @@ Jede Gruppe besteht aus Schülerinnen und Schülern mit gleichem Geburtsjahr und
 In der Kopfzeile sind wieder die "Schülersummen" manuell einzutragen und zu bestätigen.
 
 ![ASDPC_Schülersummen_Kontrolle](/bilder/schild2/import-export-statistik/asdpc-schulersummen-kontrolle.png)
-
-<a id="Deutschfördergruppen"></a>
-<a id="Deutschf.C3.B6rdergruppen"></a>
 
 ##### Deutschfördergruppen
 
@@ -594,9 +528,6 @@ Hier sind die eingerichteten Deutschfördergruppen nach Zahl der Gruppen und Zah
 :::info
 Die \*-Anmerkungen im Beleg verweisen für Details auf die entsprechenden Sektionen in der BASS 13-63 Nr. 3.
 :::
-
-<a id="Weitere_&quot;Weitere_Belege&quot;"></a>
-<a id="Weitere_.22Weitere_Belege.22"></a>
 
 ##### Weitere "Weitere Belege"
 

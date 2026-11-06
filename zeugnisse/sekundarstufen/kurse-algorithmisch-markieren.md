@@ -2,8 +2,6 @@
 title: "Kurse für die Abiturzulassung markieren"
 ---
 
-<a id="kurse-algorithmisch-markieren"></a>
-
 # Kurse für die Abiturzulassung markieren
 
 Dieser Gruppenprozess markiert die Kurse für die Zulassungsberechnung nach dem vorgesehenen Berechnungsverfahren. Übernehmen Sie zuvor die Leistungsdaten. Die Markierung bildet die zweite Stufe des Ablaufs.

@@ -6,14 +6,12 @@ title: "Lernplattformen"
 
 Diese Anleitung beschreibt, wie Sie Daten aus SchILD-NRW 2 für eine Lernplattform bereitstellen. Die folgenden Schritte führen von der Vorbereitung bis zur Übergabe der Daten.
 
-<a id="Einleitung"></a>
-
 ## Einleitung
 
 Die Bereitstellung von Daten für eine Lernplattform vollzieht sich in folgenden Schritten:
 
-1.  Anlegen der Lernplattform (siehe [Schulverwaltung \> Lernplattformen](#Schulverwaltung_%3E_Lernplattformen))
-2.  Erfassen der Einwilligungen der Schüler beziehungsweise Lehrer (siehe [Gruppenprozess Lernplattformen](#Gruppenprozess_Lernplattformen))
+1.  Anlegen der Lernplattform (siehe [Schulverwaltung \> Lernplattformen](#schulverwaltung-lernplattformen))
+2.  Erfassen der Einwilligungen der Schüler beziehungsweise Lehrer (siehe [Gruppenprozess Lernplattformen](#gruppenprozess-lernplattformen))
 3.  Export der Daten
 
 :::warning
@@ -23,9 +21,6 @@ Zwingend erforderlich ist der zweite Schritt, da ansonsten kein Export erfolgen 
 :::warning
 Dieser Eintrag befindet sich noch in der Bearbeitung, daher können sich die Inhalte noch ändern.
 :::
-
-<a id="Schulverwaltung_&gt;_Lernplattformen"></a>
-<a id="Schulverwaltung_.3E_Lernplattformen"></a>
 
 ## Schulverwaltung \> Lernplattformen
 
@@ -45,12 +40,7 @@ Wird dies bejaht, so kann im folgenden Fenster die Lernplattform ausgewählt wer
 
 Wird der Eintrag nicht vorgenommen, so kann dies per Gruppenprozess nachgeholt werden. Sollten nur wenige "Nein" einzutragen sein, so könnten mit der o.g. Möglichkeit alle auf "Ja" gesetzt werden, anschließend per geeigneter Selektion und Gruppenprozess die anderen mit einem gegebenenfalls "Nein" überschrieben werden. Für Lehrkräfte muss in der entsprechenden Übersicht erfolgen.
 
-<a id="Gruppenprozess_Lernplattformen"></a>
-
 ## Gruppenprozess Lernplattformen
-
-<a id="Einwilligungen_für_Schüler"></a>
-<a id="Einwilligungen_f.C3.BCr_Sch.C3.BCler"></a>
 
 ### Einwilligungen für Schüler
 
@@ -70,9 +60,6 @@ Auf dem Reiter Einwilligungen können diese Einträge dann bei den Schülern ein
 
 *border=20*
 
-<a id="Einwilligungen_für_Lehrer"></a>
-<a id="Einwilligungen_f.C3.BCr_Lehrer"></a>
-
 ### Einwilligungen für Lehrer
 
 Für die Erfassung der Einwilligungen wird die Übersicht der Lehrkräfte über Schulverwaltung \< Lehrkräfte aufgerufen. Mittels Rechtsklick öffnet sich das Kontextmenü, in dem als Eintrag "Einwilligungen zu Lernplattformen für ausgewählte Lehrkräfte" zur Verfügung steht:
@@ -88,9 +75,6 @@ Ebenfalls analog zu den Schülern können die Einwilligungen auf dem entsprechen
 ![border=20](/bilder/schild2/unterricht-kataloge/reiter-einwilligungen-lehrer.png)
 
 *border=20*
-
-<a id="Datenaustausch_&gt;_Lernplattformen_&gt;_Logineo_NRW_+_LMS,_IServ,_SDS"></a>
-<a id="Datenaustausch_.3E_Lernplattformen_.3E_Logineo_NRW_.2B_LMS.2C_IServ.2C_SDS"></a>
 
 ## Datenaustausch \> Lernplattformen \> Logineo NRW + LMS, IServ, SDS
 
@@ -109,17 +93,11 @@ Beim Export ist zu beachten, dass die Einstellungen korrekt erfolgen. Die auf de
 
 *border=20*
 
-<a id="XML-Export_für_Logineo_NRW"></a>
-<a id="XML-Export_f.C3.BCr_Logineo_NRW"></a>
-
 ### XML-Export für Logineo NRW
 
 ![border=20](/bilder/schild2/unterricht-kataloge/export-xlm-logineo.png)
 
 *border=20*
-
-<a id="CSV-Export_für_Logineo_LMS"></a>
-<a id="CSV-Export_f.C3.BCr_Logineo_LMS"></a>
 
 ### CSV-Export für Logineo LMS
 
@@ -127,17 +105,11 @@ Beim Export ist zu beachten, dass die Einstellungen korrekt erfolgen. Die auf de
 
 *border=20*
 
-<a id="Export_für_Iserv"></a>
-<a id="Export_f.C3.BCr_Iserv"></a>
-
 ### Export für Iserv
 
 ![border=20](/bilder/schild2/unterricht-kataloge/export-iserv.png)
 
 *border=20*
-
-<a id="Export_für_SDS"></a>
-<a id="Export_f.C3.BCr_SDS"></a>
 
 ### Export für SDS
 

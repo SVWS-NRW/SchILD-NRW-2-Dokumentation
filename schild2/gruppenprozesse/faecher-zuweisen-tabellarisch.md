@@ -2,8 +2,6 @@
 title: "Fächer tabellarisch zuweisen"
 ---
 
-<a id="facher-zuweisen-tabellarisch"></a>
-
 # Fächer tabellarisch zuweisen
 
 Mit der tabellarischen Fachzuweisung ordnen Sie Unterricht mehreren Personen in einer gemeinsamen Übersicht zu. Das Verfahren ist besonders für Klassenunterricht vorgesehen.

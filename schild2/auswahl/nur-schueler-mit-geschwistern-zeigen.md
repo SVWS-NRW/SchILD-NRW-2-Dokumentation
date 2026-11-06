@@ -2,8 +2,6 @@
 title: "Geschwister auswählen"
 ---
 
-<a id="nur-schuler-mit-geschwistern-zeigen"></a>
-
 # Geschwister auswählen
 
 Die Filteroption "Nur Schüler mit Geschwistern zeigen" soll dazu dienen, Schüler herauszufiltern, die Geschwister an der gleichen Schule haben. Dabei wird die aktuell in SchILD-NRW 2 eingestellte Sortierung verwendet. Außerdem sind mehrere Kombinationen für den Status möglich.

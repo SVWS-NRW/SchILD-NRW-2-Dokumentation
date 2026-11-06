@@ -2,8 +2,6 @@
 title: "Mit KM2 in der Konferenz arbeiten"
 ---
 
-<a id="modulbenutzung"></a>
-
 # Mit KM2 in der Konferenz arbeiten
 
 Diese Anleitung erklärt die Arbeit im Konferenzmodul KM2 nach der Einrichtung. Sie beschreibt die Anzeige der Leistungsdaten und die Bedienung während einer Konferenz.
@@ -11,8 +9,6 @@ Diese Anleitung erklärt die Arbeit im Konferenzmodul KM2 nach der Einrichtung. 
 ![KM2_Bildschirmaufbau_01](/bilder/tools/weitere/km2-bildschirmaufbau-01.png)
 
 *Bildschirmaufbau*
-
-<a id="Bildschirmdarstellung"></a>
 
 ## Bildschirmdarstellung
 
@@ -69,13 +65,9 @@ Hinweis: Das aktuelle SchILD-NRW 2 Schuljahr und der aktuelle Lernabschnitt sind
 - Name der automatischen geladenen Profildatei (beziehungsweise "Profildatei: Nicht gefunden", wenn die entsprechende Profildatei vom Programm nicht gefunden wurde)
 - Dateiname der SchILD-NRW 2-Datenbank (beziehungsweise der entsprechenden UDL-Datei) - siehe [Datenbank und Administration](/hilfe/zusatzprogramme/km2-parameter-administration).
 
-<a id="Datenbearbeitung"></a>
-
 ## Datenbearbeitung
 
-Die Bearbeitungsmöglichkeiten beschränken sich auf Leistungsdaten (die *normalen Noten*) und die unterschiedlichen Bemerkungen, die jedem Schüler zugeordnet werden können (siehe → [**KM<sup>2</sup>** - Parameter - Allgemein](/hilfe/zusatzprogramme/km2-parameter-allgemein)). Die Eingabemöglichkeit lässt sich bei der Parameterverwaltung ein- und ausschalten.
-
-<a id="Leistungsdaten"></a>
+Die Bearbeitungsmöglichkeiten beschränken sich auf Leistungsdaten (die *normalen Noten*) und die unterschiedlichen Bemerkungen, die jedem Schüler zugeordnet werden können (siehe → [**KM²** - Parameter - Allgemein](/hilfe/zusatzprogramme/km2-parameter-allgemein)). Die Eingabemöglichkeit lässt sich bei der Parameterverwaltung ein- und ausschalten.
 
 ### Leistungsdaten
 
@@ -92,8 +84,6 @@ Die Bearbeitungsmöglichkeiten beschränken sich auf Leistungsdaten (die *normal
 *Notenauswahlliste*
 
 - Wenn Sie in einer Fachspalte die Taste \[Entf\] drücken, wird der Noteneintrag gelöscht.
-
-<a id="Bemerkungsdaten"></a>
 
 ### Bemerkungsdaten
 
@@ -125,8 +115,6 @@ eingegeben wurde.
 ![KM2_BemerkungsMarkierung](/bilder/tools/weitere/km2-bemerkungsmarkierung.png)
 
 *Schüler mit Bemerkung*
-
-<a id="Protokolldaten"></a>
 
 ### Protokolldaten
 

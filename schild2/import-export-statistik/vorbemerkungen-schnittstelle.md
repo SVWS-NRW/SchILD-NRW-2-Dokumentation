@@ -2,8 +2,6 @@
 title: "Textschnittstelle vorbereiten"
 ---
 
-<a id="vorbemerkungen-schnittstelle"></a>
-
 # Textschnittstelle vorbereiten
 
 Hier finden Sie die allgemeinen Vorgaben für Dateien, die über die Textschnittstelle eingelesen werden. Eine Schnittstelle ist eine vereinbarte Form des Datenaustauschs. Die einzelnen Felder sind in der **Schnittstellenbeschreibung** erläutert.

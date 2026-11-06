@@ -2,15 +2,9 @@
 title: "Schulstatistik mit ASDPC erstellen"
 ---
 
-<a id="statistik-mit-asdpc"></a>
-
 # Schulstatistik mit ASDPC erstellen
 
-<a id="Einleitung"></a>
-
 ## Einleitung
-
-<a id="Aufbau_dieser_Anleitung"></a>
 
 ### Aufbau dieser Anleitung
 
@@ -40,8 +34,6 @@ Die Statistik mit ASDPC wird grundlegend in folgenden Schritten durchgeführt:
 Bei der Arbeit mit dieser umfangreichen Anleitung kann es hilfreich sein, Links im Browser in einem neuen Tab zu öffnen. Klicken Sie hierzu mit der rechten Maustaste auf einen Link und wählen Sie "In neuem Tab öffnen". Oft ist die Funktion auch durch einen Klick der mittleren Maustaste erreichbar.
 :::
 
-<a id="Supportangebote"></a>
-
 ### Supportangebote
 
 ![WikiSupportangebote](/bilder/schild2/import-export-statistik/wikisupportangebote.png)
@@ -66,194 +58,119 @@ Bei der Arbeit mit dieser umfangreichen Anleitung kann es hilfreich sein, Links 
 
 - Abschließend ist noch auf die [Fortbildungen](https://www.svws.nrw.de/service/fortbildungen) Ihrer Bezirksregierung zu verweisen, die im Vorfeld der Statisik angeboten werden.
 
-<a id="Erstinstallation,_Wartung_und_der_Aufbau_von_ASDPC"></a>
-<a id="Erstinstallation.2C_Wartung_und_der_Aufbau_von_ASDPC"></a>
-
 ## Erstinstallation, Wartung und der Aufbau von ASDPC
 
 [Erstinstallation, Wartung und der Aufbau von ASDPC](/schild2/import-export-statistik/statistik-mit-asdpc-technik)
 
-<a id="Erstinstallation"></a>
-
 ### Erstinstallation
 
-[Erstinstallation](/schild2/import-export-statistik/statistik-mit-asdpc-technik#Erstinstallation) - In diesem Kapitel finden Sie die Anleitung zur Erstinstallation von ASDPC, vom Download bis zur Installation.
-
-<a id="Updaten_von_ASDPC"></a>
+[Erstinstallation](/schild2/import-export-statistik/statistik-mit-asdpc-technik#erstinstallation) - In diesem Kapitel finden Sie die Anleitung zur Erstinstallation von ASDPC, vom Download bis zur Installation.
 
 ### Updaten von ASDPC
 
-[Updaten von ASDPC](/schild2/import-export-statistik/statistik-mit-asdpc-technik#Updaten_von_ASDPC) - Dieses Kapitel führt Sie durch den Updateprozess von ASDPC, der vor jeder Statistik vorzunehmen ist.
-
-<a id="Schlüsselmanagement"></a>
-<a id="Schl.C3.BCsselmanagement"></a>
+[Updaten von ASDPC](/schild2/import-export-statistik/statistik-mit-asdpc-technik#updaten-von-asdpc) - Dieses Kapitel führt Sie durch den Updateprozess von ASDPC, der vor jeder Statistik vorzunehmen ist.
 
 ### Schlüsselmanagement
 
 [Schlüsselmanagement](/schild2/import-export-statistik/statistik-mit-asdpc-schluesselmanagement) - In diesem Kapitel wird erläutert, wie Schlüssel in ASDPC zu erstellen, einzulesen und mit IT.NRW auszutauschen sind. Weiterhin wird auf mögliche Fehlerquellen beim Schlüsselmanagement eingegangen.
 
-<a id="Allgemeine_Informationen"></a>
-
 #### Allgemeine Informationen
 
-[Allgemeine Informationen](/schild2/import-export-statistik/statistik-mit-asdpc-schluesselmanagement#Allgemeine_Informationen)
-
-<a id="Neu_Erzeugen,_Einlesen_und_Sichern_von_existierenden_Schlüsseln"></a>
-<a id="Neu_Erzeugen.2C_Einlesen_und_Sichern_von_existierenden_Schl.C3.BCsseln"></a>
+[Allgemeine Informationen](/schild2/import-export-statistik/statistik-mit-asdpc-schluesselmanagement#allgemeine-informationen)
 
 #### Neu Erzeugen, Einlesen und Sichern von existierenden Schlüsseln
 
-[Neu Erzeugen, Einlesen und Sichern von existierenden Schlüsseln](/schild2/import-export-statistik/statistik-mit-asdpc-schluesselmanagement#Neu_Erzeugen,_Einlesen_und_Sichern_von_existierenden_Schl%C3%BCsseln)
-
-<a id="Mögliche_Fehler_bei_Ver-_und_Entschlüsselung"></a>
-<a id="M.C3.B6gliche_Fehler_bei_Ver-_und_Entschl.C3.BCsselung"></a>
+[Neu Erzeugen, Einlesen und Sichern von existierenden Schlüsseln](/schild2/import-export-statistik/statistik-mit-asdpc-schluesselmanagement#neu-erzeugen-einlesen-und-sichern-von-existierenden-schlusseln)
 
 #### Mögliche Fehler bei Ver- und Entschlüsselung
 
-[Mögliche Fehler bei Ver- und Entschlüsselung](/schild2/import-export-statistik/statistik-mit-asdpc-schluesselmanagement#M%C3%B6gliche_Fehler_bei_Ver-_und_Entschl%C3%BCsselung)
-
-<a id="Der_Aufbau_von_ASDPC_erklärt"></a>
-<a id="Der_Aufbau_von_ASDPC_erkl.C3.A4rt"></a>
+[Mögliche Fehler bei Ver- und Entschlüsselung](/schild2/import-export-statistik/statistik-mit-asdpc-schluesselmanagement#mogliche-fehler-bei-ver-und-entschlusselung)
 
 ## Der Aufbau von ASDPC erklärt
 
 [Starten von ASDPC](/schild2/import-export-statistik/statistik-mit-asdpc-aufbau) - In diesem Kapitel wird der grundlegende Aufbau von ASDPC erläutert und wie die Schule in der Haupterhebung zuerst einzurichten ist.
 
-<a id="Abschnitte_&quot;Extras&quot;"></a>
-<a id="Abschnitte_.22Extras.22"></a>
-
 #### Abschnitte "Extras"
 
-[Extras](/schild2/import-export-statistik/statistik-mit-asdpc-aufbau#Abschnitte_.22Extras.22) - In diesem Kapitel wird der Menüpunkt "Extras" von ASDPC erläutert. Dieser beinhaltet die Möglichkeit, "dienstliche Dokumente" zu ver- und entschlüsseln sowie das Schlüsselmanagement.
-
-<a id="Abschnitt_&quot;Optionen&quot;"></a>
-<a id="Abschnitt_.22Optionen.22"></a>
+[Extras](/schild2/import-export-statistik/statistik-mit-asdpc-aufbau#abschnitte-extras) - In diesem Kapitel wird der Menüpunkt "Extras" von ASDPC erläutert. Dieser beinhaltet die Möglichkeit, "dienstliche Dokumente" zu ver- und entschlüsseln sowie das Schlüsselmanagement.
 
 #### Abschnitt "Optionen"
 
-[Optionen](/schild2/import-export-statistik/statistik-mit-asdpc-aufbau#Abschnitt_.22Optionen.22) - In diesem Kapitel werden die globalen Optionen von ASDPC erläutert. Hier können Speicherorte für die Datenbanken gesetzt werden, es kann die automatische Datensicherung eingestellt werden. Weiterhin lassen sich die Unterrichtseinheiten in Minuten erfassen (Vorsicht!) und eine Farbeinstellung (Rotschwäche) vornehmen.
-
-<a id="Abschnitt_&quot;Hilfe&quot;"></a>
-<a id="Abschnitt_.22Hilfe.22"></a>
+[Optionen](/schild2/import-export-statistik/statistik-mit-asdpc-aufbau#abschnitt-optionen) - In diesem Kapitel werden die globalen Optionen von ASDPC erläutert. Hier können Speicherorte für die Datenbanken gesetzt werden, es kann die automatische Datensicherung eingestellt werden. Weiterhin lassen sich die Unterrichtseinheiten in Minuten erfassen (Vorsicht!) und eine Farbeinstellung (Rotschwäche) vornehmen.
 
 #### Abschnitt "Hilfe"
 
-[Hilfe](/schild2/import-export-statistik/statistik-mit-asdpc-aufbau#Abschnitt_.22Hilfe.22) - In diesem Kapitel werden die Hilfefunktionen von ASDPC erläutert: der Index, die Suchfunktion, ein Link auf die Eintragungshilfen und Schlüsseltabellen für Ihre Schulform, die Update-Funktion von ASDPC. Weiterhin sind über die Funktion das Schulverzeichnis NRW abzurufen und es kann ein Beratungspaket für IT.NRW erstellt werden. Schlussendlich werden auch Versionshinweise der aktuellen ASDPC-Version und der verwendeten Daten angezeigt.
-
-<a id="Vorbereitung_der_Statistik"></a>
+[Hilfe](/schild2/import-export-statistik/statistik-mit-asdpc-aufbau#abschnitt-hilfe) - In diesem Kapitel werden die Hilfefunktionen von ASDPC erläutert: der Index, die Suchfunktion, ein Link auf die Eintragungshilfen und Schlüsseltabellen für Ihre Schulform, die Update-Funktion von ASDPC. Weiterhin sind über die Funktion das Schulverzeichnis NRW abzurufen und es kann ein Beratungspaket für IT.NRW erstellt werden. Schlussendlich werden auch Versionshinweise der aktuellen ASDPC-Version und der verwendeten Daten angezeigt.
 
 ## Vorbereitung der Statistik
 
-[Vorbereitung der Statistik](/schild2/import-export-statistik/statistik-mit-asdpc-vorbereitung#Vorbereitung_der_Statistik) - In diesem Kapitel finden sich vorbereitende Arbeiten, zum Beispiel zum Updaten von ASDPC, SchILD-NRW 2, Export von Daten aus Schulverwaltungsprogrammen oder dem Besorgen der aktuellen Verfahrensanleitung, Schlüsseltabellen und Eintragungshilfen.
-
-<a id="Sammeln_der_notwendigen_Ressourcen_und_Updates"></a>
+[Vorbereitung der Statistik](/schild2/import-export-statistik/statistik-mit-asdpc-vorbereitung#vorbereitung-der-statistik) - In diesem Kapitel finden sich vorbereitende Arbeiten, zum Beispiel zum Updaten von ASDPC, SchILD-NRW 2, Export von Daten aus Schulverwaltungsprogrammen oder dem Besorgen der aktuellen Verfahrensanleitung, Schlüsseltabellen und Eintragungshilfen.
 
 ### Sammeln der notwendigen Ressourcen und Updates
 
-[Sammeln der notwendigen Ressourcen und Updates](/schild2/import-export-statistik/statistik-mit-asdpc-vorbereitung#Sammeln_der_notwendigen_Ressourcen_und_Updates)
-
-<a id="Export_aus_SchILD_NRW_und_anderen_Schulverwaltungsprogrammen"></a>
-
-<a id="export-aus-schild-nrw-und-anderen-schulverwaltungsprogrammen"></a>
+[Sammeln der notwendigen Ressourcen und Updates](/schild2/import-export-statistik/statistik-mit-asdpc-vorbereitung#sammeln-der-notwendigen-ressourcen-und-updates)
 
 #### Export aus SchILD-NRW 2 und anderen Schulverwaltungsprogrammen
 
-[Export aus SchILD-NRW 2 und anderen Schulverwaltungsprogrammen](/schild2/import-export-statistik/statistik-mit-asdpc-vorbereitung#Export_aus_SchILD_NRW_und_anderen_Schulverwaltungsprogrammen)
-
-<a id="Sammeln_der_Ressourcen"></a>
+[Export aus SchILD-NRW 2 und anderen Schulverwaltungsprogrammen](/schild2/import-export-statistik/statistik-mit-asdpc-vorbereitung#export-aus-schild-nrw-2-und-anderen-schulverwaltungsprogrammen)
 
 #### Sammeln der Ressourcen
 
-[Sammeln der Ressourcen](/schild2/import-export-statistik/statistik-mit-asdpc-vorbereitung#Sammeln_der_Ressourcen)
-
-<a id="Die_Haupterhebung"></a>
+[Sammeln der Ressourcen](/schild2/import-export-statistik/statistik-mit-asdpc-vorbereitung#sammeln-der-ressourcen)
 
 ## Die Haupterhebung
 
 [Die Haupterhebung](/schild2/import-export-statistik/statistik-mit-asdpc-haupterhebung) - dieses große Kapitel beinhaltet die Erläuterung der grafischen Oberfläche, der Menübänder, sowie der Belege zur Haupterhebung. Weiterhin durchläuft es exemplarisch eine komplette Haupterhebung.
 
-<a id="Die_Menüoptionen_in_der_Haupterhebung"></a>
-<a id="Die_Men.C3.BCoptionen_in_der_Haupterhebung"></a>
-
 ### Die Menüoptionen in der Haupterhebung
-
-<a id="Datei"></a>
 
 #### Datei
 
-[Menüoptionen Datei](/schild2/import-export-statistik/statistik-mit-asdpc-haupterhebung#Die_Men.C3.BCoptionen_in_der_Haupterhebung)
-
-<a id="Belege"></a>
+[Menüoptionen Datei](/schild2/import-export-statistik/statistik-mit-asdpc-haupterhebung#die-menuoptionen-in-der-haupterhebung)
 
 #### Belege
 
-[Belege](/schild2/import-export-statistik/statistik-mit-asdpc-haupterhebung#Belege) - Unter dieser Option verbergen sich die Belege von ASDPC, in dem die Daten der Statistik erfasst werden. Hinweise zur eigentlichen Erfassung der Daten erhalten Sie im folgenden Kapitel zur DURCHFÜRHUNG DER STATISIK. An dieser Stelle ist grundlegend zu vermerken, dass die Belege der Reihenfolge von oben nach unten abgearbeitet werden.
-
-<a id="Extras"></a>
+[Belege](/schild2/import-export-statistik/statistik-mit-asdpc-haupterhebung#belege) - Unter dieser Option verbergen sich die Belege von ASDPC, in dem die Daten der Statistik erfasst werden. Hinweise zur eigentlichen Erfassung der Daten erhalten Sie im folgenden Kapitel zur DURCHFÜRHUNG DER STATISIK. An dieser Stelle ist grundlegend zu vermerken, dass die Belege der Reihenfolge von oben nach unten abgearbeitet werden.
 
 #### Extras
 
-[Extras](/schild2/import-export-statistik/statistik-mit-asdpc-haupterhebung#Extras) - Der Menüeintrag "Extras" ist wie im identisch zum übergeordneten Menü ["Extras"](/schild2/import-export-statistik/statistik-mit-asdpc-aufbau#Abschnitte_.22Extras.22) in ASDPC.
-
-<a id="Prüfen"></a>
-<a id="Pr.C3.BCfen"></a>
+[Extras](/schild2/import-export-statistik/statistik-mit-asdpc-haupterhebung#extras) - Der Menüeintrag "Extras" ist wie im identisch zum übergeordneten Menü ["Extras"](/schild2/import-export-statistik/statistik-mit-asdpc-aufbau#abschnitte-extras) in ASDPC.
 
 #### Prüfen
 
-[Prüfen](/schild2/import-export-statistik/statistik-mit-asdpc-haupterhebung#Pr.C3.BCfen) - Nach der Dateneingabe in den Belegen können die Daten innerhalb der Belege geprüft werden. Mit der Option "Prüfen" ➥ "Gesamtprüfung" werden alle Belege und vor allem die Daten untereinander über die Belege hinweg geprüft.
-
-<a id="Hilfe"></a>
+[Prüfen](/schild2/import-export-statistik/statistik-mit-asdpc-haupterhebung#prufen) - Nach der Dateneingabe in den Belegen können die Daten innerhalb der Belege geprüft werden. Mit der Option "Prüfen" ➥ "Gesamtprüfung" werden alle Belege und vor allem die Daten untereinander über die Belege hinweg geprüft.
 
 #### Hilfe
 
-[Die Hilfe](/schild2/import-export-statistik/statistik-mit-asdpc-haupterhebung#Hilfe) ist identisch zum übergeordneten Menü ["Hilfe"](/schild2/import-export-statistik/statistik-mit-asdpc-aufbau#Abschnitt_.22Hilfe.22). Die Hilfe kann von jedem Beleg aus aufgerufen werden.
-
-<a id="Durchführung_der_Haupterhebung"></a>
-<a id="Durchf.C3.BChrung_der_Haupterhebung"></a>
+[Die Hilfe](/schild2/import-export-statistik/statistik-mit-asdpc-haupterhebung#hilfe) ist identisch zum übergeordneten Menü ["Hilfe"](/schild2/import-export-statistik/statistik-mit-asdpc-aufbau#abschnitt-hilfe). Die Hilfe kann von jedem Beleg aus aufgerufen werden.
 
 ### Durchführung der Haupterhebung
 
-[Die Haupterhebung](/schild2/import-export-statistik/statistik-mit-asdpc-haupterhebung#Durchf.C3.BChrung_der_Haupterhebung) - In diesem Kapitel wird Schritt für Schritt durch eine Haupterhebung geführt.
-
-<a id="Aufbau_der_Belege_am_Beispiel_der_LID123"></a>
+[Die Haupterhebung](/schild2/import-export-statistik/statistik-mit-asdpc-haupterhebung#durchfuhrung-der-haupterhebung) - In diesem Kapitel wird Schritt für Schritt durch eine Haupterhebung geführt.
 
 #### Aufbau der Belege am Beispiel der LID123
 
-[Aufbau der Belege am Beispiel der LID123](/schild2/import-export-statistik/statistik-mit-asdpc-haupterhebung#Aufbau_der_Belege_am_Beispiel_der_LID123)
-
-<a id="Beleg:_KLD323_-_Klassendaten"></a>
+[Aufbau der Belege am Beispiel der LID123](/schild2/import-export-statistik/statistik-mit-asdpc-haupterhebung#aufbau-der-belege-am-beispiel-der-lid123)
 
 #### Beleg: KLD323 - Klassendaten
 
-[Im Beleg KLD323](/schild2/import-export-statistik/statistik-mit-asdpc-haupterhebung#Beleg:_KLD323_-_Klassendaten) werden die Daten zu den Klassen erfasst.
-
-<a id="Beleg:_UVD223_-_Unterrichtsverteilung"></a>
+[Im Beleg KLD323](/schild2/import-export-statistik/statistik-mit-asdpc-haupterhebung#beleg-kld323-klassendaten) werden die Daten zu den Klassen erfasst.
 
 #### Beleg: UVD223 - Unterrichtsverteilung
 
-[Beleg der Unterrichtsverteilung](/schild2/import-export-statistik/statistik-mit-asdpc-haupterhebung#Beleg:_UVD223_-_Unterrichtsverteilung)
-
-<a id="Beleg:_SCD011_-_Religionszugehörigkeiten"></a>
-<a id="Beleg:_SCD011_-_Religionszugeh.C3.B6rigkeiten"></a>
+[Beleg der Unterrichtsverteilung](/schild2/import-export-statistik/statistik-mit-asdpc-haupterhebung#beleg-uvd223-unterrichtsverteilung)
 
 #### Beleg: SCD011 - Religionszugehörigkeiten
 
-[Religionszugehörigkeiten](/schild2/import-export-statistik/statistik-mit-asdpc-haupterhebung#Beleg:_SCD011_-_Religionszugeh.C3.B6rigkeiten)
-
-<a id="Beleg:_SCD012_-_Abgänger"></a>
-<a id="Beleg:_SCD012_-_Abg.C3.A4nger"></a>
+[Religionszugehörigkeiten](/schild2/import-export-statistik/statistik-mit-asdpc-haupterhebung#beleg-scd011-religionszugehorigkeiten)
 
 #### Beleg: SCD012 - Abgänger
 
-[Abgänger](/schild2/import-export-statistik/statistik-mit-asdpc-haupterhebung#Beleg:_SCD012_-_Abg.C3.A4nger) - in diesem Beleg werden die Abgänger der Abschlussjahrgänge erfasst.
-
-<a id="Weitere_Belege"></a>
+[Abgänger](/schild2/import-export-statistik/statistik-mit-asdpc-haupterhebung#beleg-scd012-abganger) - in diesem Beleg werden die Abgänger der Abschlussjahrgänge erfasst.
 
 #### Weitere Belege
 
-[Weitere Belege](/schild2/import-export-statistik/statistik-mit-asdpc-haupterhebung#Weitere_Belege) - Hier finden sich diverse Belege für weitere Daten. Manche der Belege werden nur für passende Schulformen angezeigt. Beispielsweise für die **Abiturprüfungsergebnisse**, **Zuwanderungsgeschichte**, **Internatsplätze**, **Wohnorte**, **Altersstruktur**, **Deutschfördergruppen** oder weitere Weitere "Weitere Belege".
-
-<a id="Bereitstellung_der_Daten"></a>
+[Weitere Belege](/schild2/import-export-statistik/statistik-mit-asdpc-haupterhebung#weitere-belege) - Hier finden sich diverse Belege für weitere Daten. Manche der Belege werden nur für passende Schulformen angezeigt. Beispielsweise für die **Abiturprüfungsergebnisse**, **Zuwanderungsgeschichte**, **Internatsplätze**, **Wohnorte**, **Altersstruktur**, **Deutschfördergruppen** oder weitere Weitere "Weitere Belege".
 
 ## Bereitstellung der Daten
 
@@ -266,8 +183,6 @@ Wenn alle Belege vollständig und so korrekt wie möglich ausgefüllt wurden, is
 :::warning
 Nach jeder Veränderung der Daten ist immer eine erneute Gesamtprüfung durchzuführen.
 :::
-
-<a id="an_IT.NRW"></a>
 
 ### an IT.NRW
 
@@ -305,9 +220,6 @@ Kontrollieren Sie bitte die Emailaddresse von IT.NRW ganz genau auf Korrektheit!
 
 Mit dem Absenden der Daten vor dem Stichtag ist die Statistik fertig bearbeitet.
 
-<a id="an_den_Schulträger"></a>
-<a id="an_den_Schultr.C3.A4ger"></a>
-
 ### an den Schulträger
 
 Über Datei ➥ Export können auch Daten für den Schulträger in unverschlüsselter Form erzeugt und diesem übergeben werden.
@@ -315,8 +227,6 @@ Mit dem Absenden der Daten vor dem Stichtag ist die Statistik fertig bearbeitet.
 :::danger
 Achten Sie bei diesen Daten auf den Datenschutz und nutzen Sie sichere Übertragungswege.
 :::
-
-<a id="Fehlersuche_-_typische_Fehler_aus_der_Praxis"></a>
 
 ## Fehlersuche - typische Fehler aus der Praxis
 

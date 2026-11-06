@@ -4,11 +4,6 @@ title: "StatistikKuerzelAusFachKuerzel"
 
 # StatistikKuerzelAusFachKuerzel
 
-<a id="RAP-Funktion_&quot;StatistikKuerzelAusFachKuerzel&quot;"></a>
-<a id="RAP-Funktion_.22StatistikKuerzelAusFachKuerzel.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Ermittelt das Statistik-Kürzel eines Faches aus dem internen Fachkürzel. Damit kann

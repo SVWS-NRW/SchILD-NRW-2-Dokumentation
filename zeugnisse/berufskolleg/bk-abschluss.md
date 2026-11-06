@@ -2,10 +2,6 @@
 title: "Abschlussverfahren am Berufskolleg"
 ---
 
-<a id="bk-abschluss"></a>
-
-<a id="bkabschluss"></a>
-
 # Abschlussverfahren am Berufskolleg
 
 Für die Schüler eines Bildungsganges im Berufskolleg, die einen Berufsabschluss erwerben, gibt es die Karteikarte **BK-Abschluss**. Abhängig vom Bildungsgang und der zugrunde liegenden Prüfungsordnung, werden die Felder und Schaltflächen auf dieser Karte eingeblendet.
@@ -19,9 +15,6 @@ Für die Schüler eines Bildungsganges im Berufskolleg, die einen Berufsabschlus
 5. Ergänzen Sie gegebenenfalls die mündlichen Prüfungen und wählen Sie anschließend **Abschluss berechnen**.
 
 Diese Schritte lassen sich für die ganze Gruppe über Gruppenprozesse ausführen. Beim Aufruf der Gruppenprozesse werden die Schalten am unteren Rand des Fensters eingeblendet. Dabei wird anhand der gefilterten Gruppe entschieden, ob und welche Schalter zur Verfügung stehen. Dabei wird auf Gliederung und Statistikjahrgang der Schüler geschaut. Bei Mischklassen kann es also notwendig sein, Teilgruppen zu filtern.
-
-<a id="Beispiele_und_Erläuterungen_für_die_verschiedenen_Anlagen"></a>
-<a id="Beispiele_und_Erl.C3.A4uterungen_f.C3.BCr_die_verschiedenen_Anlagen"></a>
 
 ## Beispiele und Erläuterungen für die verschiedenen Anlagen
 

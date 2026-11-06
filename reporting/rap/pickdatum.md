@@ -4,11 +4,6 @@ title: "PickDatum"
 
 # PickDatum
 
-<a id="RAP-Funktion_&quot;PickDatum&quot;"></a>
-<a id="RAP-Funktion_.22PickDatum.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Zeigt einen Dialog zur Datumsauswahl an. Das gewählte Datum wird als Text zurückgegeben.

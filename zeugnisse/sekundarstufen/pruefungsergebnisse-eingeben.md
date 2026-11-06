@@ -2,8 +2,6 @@
 title: "Abiturprüfungsergebnisse eingeben"
 ---
 
-<a id="prufungsergebnisse-eingeben"></a>
-
 # Abiturprüfungsergebnisse eingeben
 
 Hier erfassen Sie die Ergebnisse der Abiturprüfungen für die ausgewählte Gruppe. Diese Eingaben werden in den folgenden Schritten für weitere Prüfungsentscheidungen und das Gesamtergebnis verwendet.

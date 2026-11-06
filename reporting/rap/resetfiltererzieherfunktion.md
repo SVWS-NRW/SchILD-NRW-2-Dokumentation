@@ -4,11 +4,6 @@ title: "ResetFilterErzieherfunktion"
 
 # ResetFilterErzieherfunktion
 
-<a id="RAP-Funktion_&quot;ResetFilterErzieherfunktion&quot;"></a>
-<a id="RAP-Funktion_.22ResetFilterErzieherfunktion.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Entfernt den über FilterErzieherfunktion gesetzten Filter

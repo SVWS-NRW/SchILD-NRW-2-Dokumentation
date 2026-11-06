@@ -4,11 +4,6 @@ title: "SchuljahrToStr"
 
 # SchuljahrToStr
 
-<a id="RAP-Funktion_&quot;SchuljahrToStr&quot;"></a>
-<a id="RAP-Funktion_.22SchuljahrToStr.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Bildet aus Jahr und Abschnitt eine lesbare Schuljahresangabe. Ohne Abschnitt wird die Schuljahresangabe entsprechend verkürzt.

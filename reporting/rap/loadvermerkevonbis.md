@@ -4,11 +4,6 @@ title: "LoadVermerkeVonBis"
 
 # LoadVermerkeVonBis
 
-<a id="RAP-Funktion_&quot;LoadVermerkeVonBis&quot;"></a>
-<a id="RAP-Funktion_.22LoadVermerkeVonBis.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Liest Vermerke einer gewählten Art innerhalb eines Zeitraums aus. Beginn, Ende, Trennzeichen und die Ausgabe des Datums werden über Parameter festgelegt.

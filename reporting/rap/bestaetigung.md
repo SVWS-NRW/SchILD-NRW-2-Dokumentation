@@ -4,11 +4,6 @@ title: "Bestaetigung"
 
 # Bestaetigung
 
-<a id="RAP-Funktion_&quot;Bestaetigung&quot;"></a>
-<a id="RAP-Funktion_.22Bestaetigung.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Zeigt eine Frage in einem Bestätigungsdialog an und liefert zurück, ob die Eingabe bestätigt wurde.

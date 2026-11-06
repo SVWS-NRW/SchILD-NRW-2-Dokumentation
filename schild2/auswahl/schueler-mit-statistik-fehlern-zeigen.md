@@ -2,8 +2,6 @@
 title: "Statistikfehler finden"
 ---
 
-<a id="schuler-mit-statistik-fehlern-zeigen"></a>
-
 # Statistikfehler finden
 
 Mit diesem Filter suchen Sie Schülerdatensätze, bei denen die Statistikprüfung Fehler meldet. Die gefundenen Personen werden in der Schülerliste angezeigt, damit Sie die betreffenden Angaben prüfen können.

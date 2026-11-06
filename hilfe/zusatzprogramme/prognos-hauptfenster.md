@@ -2,13 +2,9 @@
 title: "Analyseverfahren in PM2 auswählen"
 ---
 
-<a id="prognos-hauptfenster"></a>
-
 # Analyseverfahren in PM2 auswählen
 
 Im Hauptfenster von PM2 wählen Sie aus, welche Daten untersucht werden sollen: einen Einzelfall, eine Klasse oder eine Notendatei. Die folgenden Abschnitte erklären die unterschiedlichen Zugänge.
-
-<a id="Programmstart"></a>
 
 ## Programmstart
 
@@ -22,9 +18,6 @@ Nach dem Programmstart wird als erstes der Analysemodus ausgewählt. Dabei stehe
 
 Wird die Option "Abbrechen" gewählt, so kann in dem Programm weiter gearbeitet werden. Eine Weiterarbeit kann dann aber wiederum nur durch eine Auswahl der o.g. Punkte, dann aber im Menüband des Programms, erfolgen.
 
-<a id="Menü"></a>
-<a id="Men.C3.BC"></a>
-
 ## Menü
 
 Im Menüband finden sich folgende Einträge:
@@ -34,8 +27,6 @@ Im Menüband finden sich folgende Einträge:
 - SchILD-NRW 2
 - Zusätze
 - Hilfe
-
-<a id="Datei"></a>
 
 ### Datei
 
@@ -65,8 +56,6 @@ Beim JSON-Export wird die Datei unter dem Namen Test1.json in der Zwischenablage
 
 ![PM2_Speichern_unter_03](/bilder/tools/pm2/pm2-speichern-unter-03.png)
 
-<a id="Prognose"></a>
-
 ### Prognose
 
 Im Bereich Prognose erscheinen im Symbolband drei beziehungsweise vier Bereiche:
@@ -76,23 +65,17 @@ Im Bereich Prognose erscheinen im Symbolband drei beziehungsweise vier Bereiche:
 - Optionen
 - Anzeige
 
-<a id="Analyse"></a>
-
 #### Analyse
 
 ![PM2_Analyse](/bilder/tools/pm2/pm2-analyse.png)
 
 Hierüber können die schon beim Programmstart angezeigten Möglichkeiten der Analyse erneut ausgewählt beziehungsweise geändert werden:
 
-<a id="Lernabschnitt"></a>
-
 #### Lernabschnitt
 
 ![PM2_Lernabschnitt](/bilder/tools/pm2/pm2-lernabschnitt.png)
 
 Dieser Bereich wird eingeblendet, wenn als Analyseverfahren "Klasse" ausgewählt worden ist. Es besteht die Möglichkeit, das Schuljahr und den Lernabschnitt zu ändern. Nach einer Änderung hier werden die Daten unmittelbar eingelesen. Mittels "Einlesen" können die ausgewählten Daten aus der verknüpften SchILD-NRW 2-Datenbank erneut eingelesen (ermöglicht paralleles Arbeiten zwischen SchILD-NRW 2 und Prognos. Denkbar zum Beispiel wenn LB-Noten für die HA10-Berechnung nachgetragen werden sollen, und Prognos diese direkt wieder einlesen kann für eine erneute Berechnung).
-
-<a id="Optionen"></a>
 
 #### Optionen
 
@@ -126,8 +109,6 @@ Dieser Bereich wird eingeblendet, wenn als Analyseverfahren "Klasse" ausgewählt
 
 \- Mittels Speichern werden die eingetragenen Abschlüsse in der SchILD-NRW 2-Datenbank gespeichert. Dies ist nur im aktuellen Abschnitt der Datenbank möglich!
 
-<a id="Anzeige"></a>
-
 #### Anzeige
 
 ![PM2_Anzeige](/bilder/tools/pm2/pm2-anzeige.png)
@@ -158,30 +139,17 @@ Diese Auswahlmöglichkeiten verändern das Fenster beziehungsweise öffnen ein w
 
 \- Durch das Ausblenden leerer Spalten wird die Anzeige komprimiert (sinnvoll zum Beispiel bei der Anzeige des Prognoseergebnisses).
 
-<a id="SchILD"></a>
-
-<a id="schild"></a>
-
 ### SchILD-NRW 2
 
 Bild
-
-<a id="SchILD-Zugriff"></a>
-
-<a id="schild-zugriff"></a>
 
 #### SchILD-NRW 2-Zugriff
 
 Beim Klick auf "SchILD-NRW 2-Zugriff" erscheint das aus dem Menüpunkt [Programmstart](/hilfe/zusatzprogramme/prognos-programmstart) bekannte Fenster.
 
-<a id="Benutzer_anmelden"></a>
-
 #### Benutzer anmelden
 
 Ebenso erscheint beim Klick auf "Benutzer anmelden" ein bekanntes Fenster, nämlich das unter [Programmstart](/hilfe/zusatzprogramme/prognos-programmstart) zuletzt beschrieben Fenster für die Zugangskontrolle des Programms.
-
-<a id="Zusätze"></a>
-<a id="Zus.C3.A4tze"></a>
 
 ### Zusätze
 
@@ -191,11 +159,7 @@ Dieser Menüpunkt enthält nur den Eintrag Einstellungen.
 
 Bild
 
-<a id="Allgemein"></a>
-
 #### Allgemein
-
-<a id="Allgemeine_Einstellungen"></a>
 
 ##### Allgemeine Einstellungen
 
@@ -233,19 +197,13 @@ Keine dieser Optionen ist notwendig, die Option Sonderregelungen bezieht sich au
 
 Beim Feld "Zusätzliche Fremdsprachenfächer" können Fremdsprachen eingetragen werden, die als normales Unterrichtsfach unterrichtet werden. Diese werden bei der Abschlussprüfung HA beziehungsweise HA10 nicht berücksichtigt.
 
-<a id="Startmodus"></a>
-
 ##### Startmodus
 
 Standard ist Auswahl, dass bedeutet, beim Programmstart wird mittels Dialogfenster gefragt, welches Prognoseverfahren verwendet werden soll. Wird nur eins regelmäßig angewendet, so kann dieses hier als Standard eingestellt werden.
 
-<a id="Reihenfolge"></a>
-
 ##### Reihenfolge
 
 Als Standard ist die Reihenfolge HA bis MSAQ eingestellt, diese Reihenfolge kann aber auch umgekehrt werden.
-
-<a id="Bedienungsanleitung"></a>
 
 ##### Bedienungsanleitung
 

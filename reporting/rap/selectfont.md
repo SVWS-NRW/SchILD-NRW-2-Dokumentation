@@ -4,11 +4,6 @@ title: "Selectfont"
 
 # Selectfont
 
-<a id="RAP-Funktion_&quot;Selectfont&quot;"></a>
-<a id="RAP-Funktion_.22Selectfont.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Dialog, um aus der Liste der im System registrierten Zeichensätze einen

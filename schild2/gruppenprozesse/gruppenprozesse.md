@@ -18,7 +18,7 @@ Erst danach werden die Gruppenprozesse für die ausgewählte Schülergruppe frei
 
 <!-- -->
 
-- Schülergruppen können über den [Schnellfilter](/einstieg/grundlagen/hauptfenster#Schnellfilter) ausgewählt werden.
+- Schülergruppen können über den [Schnellfilter](/einstieg/grundlagen/hauptfenster#schnellfilter) ausgewählt werden.
 
 <!-- -->
 

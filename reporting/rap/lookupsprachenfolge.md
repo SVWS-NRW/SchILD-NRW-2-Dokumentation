@@ -4,11 +4,6 @@ title: "LookupSprachenfolge"
 
 # LookupSprachenfolge
 
-<a id="RAP-Funktion_&quot;LookupSprachenfolge&quot;"></a>
-<a id="RAP-Funktion_.22LookupSprachenfolge.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Prüft, ob das über sein Statistikkürzel angegebene Fach in der Sprachenfolge vorhanden ist.

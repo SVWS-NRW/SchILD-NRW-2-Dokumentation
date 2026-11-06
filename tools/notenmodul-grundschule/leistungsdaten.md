@@ -2,8 +2,6 @@
 title: "Notenmodul für Grundschulen: Noten und Kompetenzen eingeben"
 ---
 
-<a id="leistungsdaten-eingeben"></a>
-
 # Noten und Kompetenzen eingeben
 
 Das Grundschul-Notenmodul arbeitet mit der von der Schule ausgegebenen Notendatei. Ein direkter Zugriff auf SchILD-NRW 2 ist für die Eingabe zu Hause nicht erforderlich.

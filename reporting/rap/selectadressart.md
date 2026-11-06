@@ -4,11 +4,6 @@ title: "SelectAdressArt"
 
 # SelectAdressArt
 
-<a id="RAP-Funktion_&quot;SelectAdressArt&quot;"></a>
-<a id="RAP-Funktion_.22SelectAdressArt.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Diese Funktion bietet alle im Feld „AdressArt“ des Kataloges „Adressarten“ gefundenen

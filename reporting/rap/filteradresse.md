@@ -4,11 +4,6 @@ title: "FilterAdresse"
 
 # FilterAdresse
 
-<a id="RAP-Funktion_&quot;FilterAdresse&quot;"></a>
-<a id="RAP-Funktion_.22FilterAdresse.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Grenzt die berücksichtigten Adressen auf die übergebene Adresse ein.

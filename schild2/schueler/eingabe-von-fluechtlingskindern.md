@@ -2,14 +2,9 @@
 title: "Geflüchtete Schüler erfassen"
 ---
 
-<a id="eingabe-von-fluchtlingskindern"></a>
-
 # Geflüchtete Schüler erfassen
 
 In diesem Artikel wird beschrieben, wie Flüchtlingskinder in der Datenbank korrekt eingegeben werden können, damit die Statistik keine Fehler zeigt.
-
-<a id="Einrichten_einer_neuen_Klasse_(nur_bei_vollständig_äußerer_Differenzierung)"></a>
-<a id="Einrichten_einer_neuen_Klasse_.28nur_bei_vollst.C3.A4ndig_.C3.A4u.C3.9Ferer_Differenzierung.29"></a>
 
 ## Einrichten einer neuen Klasse (nur bei vollständig äußerer Differenzierung)
 
@@ -18,8 +13,6 @@ Es ist möglich, neu zugewanderte Schülerinnen und Schüler ausschließlich in 
 Im diesem Fall legen Sie in SchILD-NRW 2 in der [Klassen und Versetzungstabelle](/schild2/unterricht-kataloge/klassen-versetzungstabelle) eine eigene Klasse an. Vergeben Sie eine geeignete interne Bezeichnung (zum Beispiel IK für internationale Klasse) und bennen Sie die Klasse in der Statistikbezeichnung mit einer Parallelität. "JUA" steht im Beispiel für jahrgangsübergreifende Klasse der Parallelität A. Wenn Sie eine weitere internationale Klasse anlegen möchten, erhält diese in der Statistikbezeichnung das Kürzel JUB. Lassen Sie das Feld Jahrgang leer. Tragen Sie als Folgeklasse und Vorgängerklasse die eigene Klasse ein (Tipp: dies ist nur möglich, wenn Sie die Klasse vorab mit der Häkchen-Taste angelegt haben). Wählen Sie eine passende Schulgliederung (GY9-G9, \*\*\*-Standard für diese Schulform etc). Wählen Sie die Klassenart "Deutschförderklasse (gemäß BASS 13-63 Nr. 3, Nummer 3.5.1)".
 
 ![IK-Versetzungstabelle](/bilder/schild2/schueler/ik-versetzungstabelle.png)
-
-<a id="Individual-Daten_I:"></a>
 
 ## Individual-Daten I:
 
@@ -33,8 +26,6 @@ Statistik-Jahrgang: Tragen Sie hier einen Jahrgang ein, der dem Alter des Schül
 
 ![IK-Individualdaten](/bilder/schild2/schueler/ik-individualdaten.png)
 
-<a id="Individual-Daten_II:"></a>
-
 ## Individual-Daten II:
 
 Tragen Sie den Migrationshintergrund und ein Datum für das Ende der Eingliederungsphase ein. Dann haben Sie die Möglichkeit, nach solchen Schülern mit Filter I zu filtern! Zudem können Sie das Häkchen "Neu zugewandert" auswählen, welches für ukrainische Flüchtlingskinder eingeführt wurde und sich ebenfalls über Filter I filtern lässt.
@@ -44,8 +35,6 @@ Tragen Sie den Migrationshintergrund und ein Datum für das Ende der Eingliederu
 oder
 
 ![IK-Migrationshintergrund](/bilder/schild2/schueler/ik-migrationshintergrund.png)
-
-<a id="Schulbesuch_-_Im_letzten_Schuljahr_besuchte_Schule:"></a>
 
 ## Schulbesuch - Im letzten Schuljahr besuchte Schule:
 
@@ -66,9 +55,6 @@ oder
 :::danger
 Schüler, die in der Grundschule im ersten Jahrgang (E1) aufgenommen werden, werden wie alle anderen Neuaufnahmen behandelt, in diesem Fall muss keine Herkunftsschule eingetragen werden!
 :::
-
-<a id="Akt._Halbjahr_/_Allgemeine_Angaben"></a>
-<a id="Akt._Halbjahr_.2F_Allgemeine_Angaben"></a>
 
 ## Akt. Halbjahr / Allgemeine Angaben
 

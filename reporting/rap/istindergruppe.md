@@ -4,11 +4,6 @@ title: "IstInDerGruppe"
 
 # IstInDerGruppe
 
-<a id="RAP-Funktion_&quot;IstInDerGruppe&quot;"></a>
-<a id="RAP-Funktion_.22IstInDerGruppe.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Diese Funktion ermittelt, ob ein bestimmter Benutzer einer Gruppe angehört

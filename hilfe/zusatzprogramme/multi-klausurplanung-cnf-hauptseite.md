@@ -2,11 +2,7 @@
 title: "Mehrere Klausurpläne mit Multi Klausurplanung CNF erstellen"
 ---
 
-<a id="multi-klausurplanung-cnf-hauptseite"></a>
-
 # Mehrere Klausurpläne mit Multi Klausurplanung CNF erstellen
-
-<a id="Hinweise"></a>
 
 ## Hinweise
 
@@ -18,15 +14,11 @@ Das Programm unterstützt eine Vielzahl von Nebenbedingungen (Regeln genannt). W
 
 Das Programm Multi_Klausurplanung_CNF berechnet mehrere Klausurpläne parallel und in Beziehung zueinander, so dass zum Beispiel in der gymnasialen Oberstufe alle drei Jahrgangsstufen in einer gemeinsamer Klausurplanung berechnet werden. Die Details dazu finden Sie in diesem Wiki.
 
-<a id="Vorbereitungen"></a>
-
 ## Vorbereitungen
 
 - Laden Sie sich den folgenden SAT-Solver (<https://github.com/msoos/cryptominisat/releases>) herunter und speichern Sie die Datei (für Windows: cryptominisat5-win-amd64-nogauss.exe) auf Ihrem PC und merken Sie sich den Pfad.
 - Installieren Sie gegebenenfalls JAVA und laden sich sich dann die aktuellste Version von Multi_Klausurplanung_CNF herunter (<https://schulverwaltungsinfos.nrw.de/svws/forum/viewtopic.php?f=71&t=1928>).
 - Sie haben nun das Programm in Form einer JAR-Datei, welche man mit einem Doppelklick starten kann. Dort müssen Sie dort zunächst den Pfad zu "cryptominisat...exe" angeben und können dann arbeiten, aber zuvor müssen Sie jedoch noch aus Kurs42 Ihre Daten exportieren.
-
-<a id="Daten_in_Kurs42_vorbereiten_und_exportieren"></a>
 
 ## Daten in Kurs42 vorbereiten und exportieren
 
@@ -35,8 +27,6 @@ Das Programm Multi_Klausurplanung_CNF berechnet mehrere Klausurpläne parallel u
 - Der letzte Schritt ist für alle zu planenden Jahrgangsstufen zu wiederholen - für jede Jahrgangsstufe muss ein separater Unterordner verwendet werden (bspw. "Blockung EF", "Blockung Q1", "Blockung Q2").
 - In Multi_Klausurplanung_CNF unter *Importieren* alle soeben erstellten Ordner gleichzeitig auswählen (Mehrfachauswahl: Strg-Taste gedrückt halten).
 - Das Programm ist nun bereit für die Arbeiten am Klausurplan.
-
-<a id="Vorbereitungen_und_Rechnung"></a>
 
 ## Vorbereitungen und Rechnung
 
@@ -48,8 +38,6 @@ Das Programm Multi_Klausurplanung_CNF berechnet mehrere Klausurpläne parallel u
 - Die maximale Anzahl von Klausuren eines Schüler beziehungsweise einer Schülerin ist standardmäßig auf drei pro Woche voreingestellt. Dies kann bei Bedarf geändert werden.
 - Im Fenster Regeln werden nun die nötigen Regeln für den Klausurplan per Dropdown ausgewählt und präzisiert (siehe nachfolgender Abschnitt).
 - Ist dies geschehen, kann die Rechnung durch Klick auf "+" gestartet werden. Mehrere Rechnungen sind, je nach Leistung des Computers, möglich. Es gibt eine "Warteschlange der Berechnungen", da eine Berechnung sehr viel Arbeitsspeicher verbraucht. So können Sie über Nacht auch mehrere Berechnungen zur Abarbeitung hinzufügen. Als Orientierungswert gilt: höchstens eine Rechnung pro CPU-Kern.
-
-<a id="Regelwerk"></a>
 
 ## Regelwerk
 
@@ -128,8 +116,6 @@ Beim Errechnen des Klausurplans wird nun so vorgegangen:
 
 Ein alternatives Vorgehen wäre es, alle Prioritäten als Ganzes in den Blick zu nehmen und eine ausgewogene Lösung zu erstellen. Dies hat sowohl Vor- als auch Nachteile, die von den konkreten Wünschen der Schulgemeinde abhängen.
 
-<a id="Regelkatalog"></a>
-
 ## Regelkatalog
 
 Hinweis: In den Regeln können konkrete Werte festgelegt werden. Setzt man stattdessen ein Sternchen, so bedeutet dies "alle"!
@@ -193,16 +179,11 @@ Hinweis: In den Regeln können konkrete Werte festgelegt werden. Setzt man statt
 | 921#Optimiere: Stufe \<A\> hat in der Summe mindestens \<B\> Klausurstunden, die laut Plan stattfinden. | Fächerübergreifende Variante von Regel 920. Wenn bei Stufe \* gewählt wird, gilt die gewählte Mindestzahl von Klausurstunden "pro Stufe". |
 | 922#Optimiere: Insgesamt gibt es mindestens \<A\> Klausurstunden, die laut Plan stattfinden. | Fächer- und Stufenübergreifende Variante von Regel 920. |
 
-<a id="Ergebnisse_einsehen"></a>
-
 ## Ergebnisse einsehen
 
 Im Reiter "Ausgabe" können Sie die Ergebnisse der durchgeführten Rechnungen sehen. Neben einigen relevanten Statistiken sehen Sie hier auch den kompletten Klausurplan nach Jahrgangsstufen. Hier ein Eindruck:
 
 ![Übersicht über die klausurschreibenden Klausuren pro Tag](/bilder/tools/weitere/multi-klausurplaner-klausuren-pro-tag.png) ![Belegung einzelner Stunden mit Klausuren (wochenübergreifend)](/bilder/tools/weitere/multi-klausurplaner-zellenubersicht.png) ![Klausurplan Beispielwoche](/bilder/tools/weitere/multi-klausurplaner-klausurplan.png)
-
-<a id="Speichern_und_Rückimport"></a>
-<a id="Speichern_und_R.C3.BCckimport"></a>
 
 ## Speichern und Rückimport
 
@@ -219,8 +200,6 @@ Rückimport der XML-Datei in Kurs42:
 - Wählen Sie in Kurs42 den Reiter "Import/Export" und danach "Klausuren Im/Export" und "Klausurtermine aus XML importieren".
 - Die Frage, ob die existierenden Klausurtermine gelöscht werden sollen, ist standardmäßig zu bejahen, kann im Einzelfall aber auch verneint werden, falls erforderlich (zum Beispiel wenn Quartale einzeln berechnet wurden und getrennt importiert werden).
 - Verwenden Sie nun Ihren Report, um die Daten weiter zu verarbeiten oder auszugeben.
-
-<a id="Beispiele"></a>
 
 ## Beispiele
 

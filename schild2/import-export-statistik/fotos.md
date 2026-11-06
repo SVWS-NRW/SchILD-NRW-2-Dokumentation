@@ -2,14 +2,9 @@
 title: "Schülerfotos und Fotolisten exportieren"
 ---
 
-<a id="fotos"></a>
-
 # Schülerfotos und Fotolisten exportieren
 
 Mit dieser Funktion exportieren Sie Schülerfotos in einen Ordner. Wählen Sie zuerst die benötigten Personen aus und legen Sie anschließend fest, wo die Bilddateien gespeichert werden sollen.
-
-<a id="Export_für_Fotoliste"></a>
-<a id="Export_f.C3.BCr_Fotoliste"></a>
 
 ## Export für Fotoliste
 
@@ -24,8 +19,6 @@ Die Datei ist wie folgt aufgebaut:
 Die Schüler bekommen dabei ihre interne Datenbank-ID und können daran identifiziert werden. Diese Liste wurde häufig bei Schulfotografen genutzt, damit die Fotos später wieder zum Schüler zugeordnet werden konnten.
 
 Für den automatischen Foto-Import gibt es ein kostenpflichtiges Programm der Firma Ribeka.
-
-<a id="Fotos_exportieren"></a>
 
 ## Fotos exportieren
 

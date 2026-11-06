@@ -37,7 +37,7 @@ npm run docs:dev
 
 - Artikel direkt in den Markdown-Dateien der Themenordner bearbeiten. Wiki-Quellenlinks, bestehende Artikeladressen und verwendete Überschrift-Sprungmarken erhalten. Alte Wiki-Kennungen, Revisionsnummern oder zusätzliche leere Sprungmarken werden nicht neu angelegt.
 - Bilder unter `public/bilder/`, andere Downloads unter `public/dateien/` ablegen. In Artikellinks das Präfix `public` weglassen.
-- Verwendete Bilder im Katalog `.vitepress/image-catalog.json` nachführen: Dateipfad, Beschreibung, Bildunterschriften und verlinkte Artikel berücksichtigen. Auch bei der Wiederverwendung eines Bildes den zusätzlichen Artikel eintragen.
+- Der Bilderkatalog ermittelt die verwendenden Artikel aus den Markdown-Bildverweisen. Besondere Bildnamen und Beschreibungen können in `.vitepress/image-catalog.json` gepflegt werden.
 - Hauptmenü und normale Seitenmenüs in `.vitepress/navigation.json` pflegen. Bei Themenübersichten können Untermenüs zusätzlich aus den dortigen Artikellisten entstehen; dies übernimmt `.vitepress/sidebar.mjs`.
 - Die Hierarchie der Programmreferenz steht in `.vitepress/program-reference.json`. Bestehende Referenz-IDs und Linkziele erhalten.
 - Die manuelle [Vergleichstabelle zwischen Dokumentation und Wiki](/hilfe/artikel-wiki-zuordnung) bei neuen, entfernten oder umbenannten Artikeln nachführen und ihren Aktualitätsstand anpassen.

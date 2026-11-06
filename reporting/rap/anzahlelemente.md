@@ -4,11 +4,6 @@ title: "AnzahlElemente"
 
 # AnzahlElemente
 
-<a id="RAP-Funktion_&quot;AnzahlElemente&quot;"></a>
-<a id="RAP-Funktion_.22AnzahlElemente.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Liefert die Anzahl der durch das Trennzeichen getrennten Einzelelemente in "text"

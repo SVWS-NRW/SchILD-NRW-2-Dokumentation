@@ -2,31 +2,17 @@
 title: "Änderungshistorie von SchILD-NRW 2"
 ---
 
-<a id="versionsgeschichte-schild-nrw"></a>
-
-<a id="anderungshistorie-von-schild-nrw"></a>
-
 # Änderungshistorie von SchILD-NRW 2
 
 Diese historische Änderungsliste dokumentiert frühere Anpassungen an SchILD-NRW 2. Die Einträge erklären die damaligen Änderungen; sie sind keine fortlaufende Arbeitsanleitung und werden hier als ursprüngliche Dokumentation erhalten.
 
-<a id="Version_2.0.36.4_vom_18.08.2026"></a>
-
 ## Version 2.0.36.4 vom 18.08.2026
-
-<a id="Schulformunabhängige_Änderungen"></a>
-<a id="Schulformunabh.C3.A4ngige_.C3.84nderungen"></a>
 
 ### Schulformunabhängige Änderungen
 
 In der statkue.mdb wurde eine nichtunterrichtliche Tätigkeit ergänzt.
 
-<a id="Version_2.0.36.2_vom_30.07.2026"></a>
-
 ## Version 2.0.36.2 vom 30.07.2026
-
-<a id="Schulformunabhängige_Änderungen_2"></a>
-<a id="Schulformunabh.C3.A4ngige_.C3.84nderungen_2"></a>
 
 ### Schulformunabhängige Änderungen
 
@@ -34,12 +20,7 @@ In der statkue.mdb und schulver.mdb wurden fehlende Einträge ergänzt.
 
 Die Dateien ASDStatistik.dll und ASDTABS.MDB, die für den Export der Statistikdaten und für die Gesamtprüfung notwendig sind, wurden aktualisiert.
 
-<a id="Version_2.0.35.2_vom_15.08.2025"></a>
-
 ## Version 2.0.35.2 vom 15.08.2025
-
-<a id="Schulformunabhängige_Änderungen_3"></a>
-<a id="Schulformunabh.C3.A4ngige_.C3.84nderungen_3"></a>
 
 ### Schulformunabhängige Änderungen
 
@@ -47,30 +28,19 @@ Die Dateien ASDStatistik.dll und ASDTABS.MDB, die für den Export der Statistikd
 - Im Reportexplorer kann jetzt nach Reportvorlagen gesucht werden.
 - Über Filter I können nun auch im Reiter Lernabschnitt/ Leistungsdaten SuS gefiltert werden, bei denen ein Sonderpädagogen eingetragen ist.
 
-<a id="Sekundarstufe_II"></a>
-
 ### Sekundarstufe II
 
 Die Abitur-Gruppenprozesse sind jetzt wieder verfügbar, wenn alle SuS in der aktuellen Auswahl in der Q1 oder Q2 (bzw. in einem gleichbedeutenden Jahrgang) sind.
-
-<a id="Gesamtschulen_und_Sekundarschulen"></a>
 
 ### Gesamtschulen und Sekundarschulen
 
 - die Niveaustufen im Fach Biologie flossen nicht korrekt in die Prognoseberechnung ein. Dies ist nun korrigiert.
 
-<a id="Berufskolleg"></a>
-
 ### Berufskolleg
 
 - die Gliederungen A17, A18 und A19 stehen nun unter Schulverwaltung/Eigene Schule zur Verfügung.
 
-<a id="Version_2.0.34.24_vom_06.05.2025"></a>
-
 ## Version 2.0.34.24 vom 06.05.2025
-
-<a id="Schulformunabhängige_Änderungen_4"></a>
-<a id="Schulformunabh.C3.A4ngige_.C3.84nderungen_4"></a>
 
 ### Schulformunabhängige Änderungen
 
@@ -90,73 +60,47 @@ Hinweis: Die Einträge der Vornamen können auch nach dem Umstieg angepasst werd
 
 - Im Reiter Einwilligungen wird eine Ergebnis-Spalte angezeigt, um die Option "Abgefragt" und "Zustimmung" auszuwerten.
 
-<a id="Gymnasium"></a>
-
 ### Gymnasium
 
 Für die Jahrgangsstufen EF, Q1 und Q2 war die Ansicht im ZP10 Reiter fehlerhaft. Dies ist nun korrigiert.
-
-<a id="Reportdesigner"></a>
 
 ### Reportdesigner
 
 In der Pipeline "SchildUmgebung" wurden neue Datenfelder definiert, um das in der Reporting eingestellte Schuljahr und Halbjahr einfacher ausdrucken zu können. Möchte man z.B. einen Leistungsbericht aus "2023/24 2. Hj." drucken, so kann diese Information mit den neuen Datenfeldern bequem ausgegeben werden.
 
-<a id="Version_2.0.34.16_vom_29.01.2025"></a>
-
 ## Version 2.0.34.16 vom 29.01.2025
-
-<a id="Schulformunabhängige_Änderungen_5"></a>
-<a id="Schulformunabh.C3.A4ngige_.C3.84nderungen_5"></a>
 
 ### Schulformunabhängige Änderungen
 
 - Beim Import der Datei SchuelerVermerke.dat kam es zu fehlerhaften Einträgen, wenn Schüler in der Importdatei aufgelistet wurden, die nicht in der SchILD-NRW 2-Datenbank vorhanden vorhanden waren. Dieser Bug ist nun behoben.
 - Ein Bug beim Import der SchuelerFehlstunden.dat wurde korrigiert.
 
-<a id="Sekundarstufe_II_2"></a>
-
 ### Sekundarstufe II
 
 - Der Reiter ZP10 ist nun ab dem Jahrgang 10.2 durchgehend sichtbar. Somit können auch nachträglich Noten ergänzt oder geändert werden. Der Reiter für die zentralen Prüfungen am Ende der Einführungsphase wurde abgeschafft. Da es sich bei diesen Prüfungen lediglich um eine Klausur handelt, können die Noten als Teilleistung des jeweiligen Faches eingetragen werden. Es wird empfohlen, den Export der ZP10-Ergebnisse über den Report aus der Basissammlung zu generieren.
-
-<a id="Gesamtschulen_und_Sekundarschulen_2"></a>
 
 ### Gesamtschulen und Sekundarschulen
 
 - Die überarbeitete Prognoseberechnung aus PM2 wurde in SchILD-NRW 2 integriert.
 
-<a id="Berufskolleg_2"></a>
-
 ### Berufskolleg
 
 - Der Import der Datei SchuelerAdressen.dat erzeugte bei der Aktualisierung eines Betreuerdatensatzes eine Fehlermeldung. Dies ist nun korrigiert.
 
-<a id="Version_2.0.34.2_vom_06.08.2024"></a>
-
 ## Version 2.0.34.2 vom 06.08.2024
-
-<a id="Schulformunabhängige_Änderungen_6"></a>
-<a id="Schulformunabh.C3.A4ngige_.C3.84nderungen_6"></a>
 
 ### Schulformunabhängige Änderungen
 
 - In der statkue.mdb und schulver.mdb wurden fehlende Einträge ergänzt.
 - Die Dateien ASDStatistik.dll und ASDTABS.MDB, die für den Export der Statistikdaten und für die Gesamtprüfung notwendig sind, wurden aktualisiert.
 
-<a id="Gesamtschule"></a>
-
 ### Gesamtschule
 
 - Für die Jahrgangsstufe 09 wurde der Eintrag im Feld "Vers.-Vermerk" korrigiert. Nach der Versetzungsberechnung wird der Wert nun auf "Versetzt" gesetzt, sofern der Schüler mindestens den Abschluss ESA erreicht hat.
 
-<a id="Gymnasium_2"></a>
-
 ### Gymnasium
 
 - Die Berechnung der Sprachenfolge wurde für den Jahrgang 10 korrigiert.
-
-<a id="Berufskolleg_3"></a>
 
 ### Berufskolleg
 
@@ -169,30 +113,18 @@ In der Pipeline "SchildUmgebung" wurden neue Datenfelder definiert, um das in de
 
 - Für die Abschlussart 4G unter Schulbesuch/Entlassung von eigener Schule wurde im Feld EntlassartText eine falsche Entlassfloskel gespeichert. Dadurch wurde beispielsweise im Schülerstammblatt ein falscher Text als Entlassart ausgegeben. Dies ist nun korrigiert.
 
-<a id="Version_2.0.33.8_vom_31.05.2024"></a>
-
 ## Version 2.0.33.8 vom 31.05.2024
-
-<a id="Gymnasium/_Gesamtschule"></a>
-<a id="Gymnasium.2F_Gesamtschule"></a>
 
 ### Gymnasium/ Gesamtschule
 
 - Eintragungen im Feld Versetzungsvermerk und Abschluss, die nach der Versetzungsberechnung im aktuellen Halbjahr gesetzt werden, wurden für den Jahrgang 10 korrigiert.
-
-<a id="Berufskolleg_4"></a>
 
 ### Berufskolleg
 
 - Unter Schulbesuch fehlten bei Art des Abschlusses die Auswahloptionen. Dieser Bug ist nun behoben.
 - Der BAN-Export wurde angepasst. Der Eintrag der ASD-Kürzel für Abschlüsse, die im BAN-Portal nicht erhoben werden, bleiben nun leer.
 
-<a id="Version_2.0.33.6_vom_23.05.2024"></a>
-
 ## Version 2.0.33.6 vom 23.05.2024
-
-<a id="Schulformunabhängige_Änderungen_7"></a>
-<a id="Schulformunabh.C3.A4ngige_.C3.84nderungen_7"></a>
 
 ### Schulformunabhängige Änderungen
 
@@ -204,15 +136,10 @@ Hinweis: Hier wird in den Sommerferien eine weitere Aktualisierung erwartet.
 
 - Fehlende Kursarten in der Datei "Hauptkursarten.txt" führten dazu, dass mangelhafte Leistungen im ersten Halbjahr nicht automatisch im zweiten Halbjahr gemahnt wurden. Die Datei wird mit dem Update erneut ausgerollt.
 
-<a id="Berufskolleg/Weiterbildungskolleg"></a>
-<a id="Berufskolleg.2FWeiterbildungskolleg"></a>
-
 ### Berufskolleg/Weiterbildungskolleg
 
 - Das Feld "Klassenart" ist nun auch für die Schulform WBK unter Individualdaten I sichtbar. Diese Anpassung ist auf Änderungen in der kommenden Haupterhebung zurückzuführen. Nähere Hinweise finden Sie hier: <https://schulverwaltungsprogramme.msb.nrw.de/schulen/download.htm#D86>
 - Beim Abitur wurde ein Detail bei der Prüfung der fortgeführten Fremdsprache und der neu einsetzenden Fremdsprache überarbeitet.
-
-<a id="Vorbereitung_zur_kommenden_Haupterhebung_der_amtlichen_Schuldaten"></a>
 
 ### Vorbereitung zur kommenden Haupterhebung der amtlichen Schuldaten
 
@@ -222,36 +149,23 @@ Hinweis: Hier wird in den Sommerferien eine weitere Aktualisierung erwartet.
 
 Hinweis: Der Eintrag "*Deutschförderklasse (gemäß BASS 13-63 Nr. 3, Nummer 3.5.1)*" unter Klassenart wurde ersetzt durch "*Deutschförderklasse – auslaufend (gemäß BASS 13-63 Nr. 3, Nummer 3.5.1)*". Dieser Eintrag muss bis zum nächsten Update gemäß der Vorgaben aus der Schulmail vom 17.04.24 angepasst werden.
 
-<a id="Version_2.0.33.4_vom_10.04.2024"></a>
-
 ## Version 2.0.33.4 vom 10.04.2024
-
-<a id="Berufskolleg_5"></a>
 
 ### Berufskolleg
 
 Beim BAN-Export wurde bei fehlendem Abschlusseintrag im Reiter aktuelles Halbjahr "Kein Abschluss" in die Exportdatei eingetragen. Nun wird für diesen Fall der Eintrag "Höchster allgemeinbildender Abschluss" aus dem Reiter Schulbesuch exportiert.
 
-<a id="Version_2.0.33.2_vom_08.04.2024"></a>
-
 ## Version 2.0.33.2 vom 08.04.2024
-
-<a id="Schulformunabhängige_Änderungen_8"></a>
-<a id="Schulformunabh.C3.A4ngige_.C3.84nderungen_8"></a>
 
 ### Schulformunabhängige Änderungen
 
 - Es steht nun ein Export zur Verfügung, um Schülerinnen und Schüler im BAN-Portal anzumelden. Eine Anleitung finden Sie hier: [https://wiki.svws.nrw.de/mediawiki/index.php?title=Export_f%C3%BCr_BAN-Portal](/schild2/import-export-statistik/export-fuer-ban-portal)
 - Die Ersetzung der Platzhalter bei der Floskeleingabe wurde überarbeitet. Es kann nun angegeben werden, dass der Vorname nach einer festgelegten Anzahl erneut im Floskeltext genannt wird.
 
-<a id="Gymnasium_3"></a>
-
 ### Gymnasium
 
 - Beim Ausführen einiger ZP10-Gruppenprozesse kam es zu einer Fehlermeldung. Dies ist nun korrigiert.
 - Versetzungs- und Abschlussberechnungen für den Jahrgang 10 wurden geprüft und angepasst.
-
-<a id="Gesamtschulen_und_Sekundarschulen_3"></a>
 
 ### Gesamtschulen und Sekundarschulen
 
@@ -260,31 +174,19 @@ Beim BAN-Export wurde bei fehlendem Abschlusseintrag im Reiter aktuelles Halbjah
 - Ein Bug bezüglich eines Spezialfalls in der Sprachenfolge, der im Zusammenhang mit der Abiturberechnung aufgetreten ist, wurde behoben.
 - Ein Bug im Abitur-Gruppenprozess in Zusammenhang mit bilingualem Unterricht wurde korrigiert.
 
-<a id="Förderschulen"></a>
-<a id="F.C3.B6rderschulen"></a>
-
 ### Förderschulen
 
 Für Primarstufen an Förderschulen steht nun ein Notenexport für das GS-Notenmodul zur Verfügung.
-
-<a id="Weiterbildungskolleg"></a>
 
 ### Weiterbildungskolleg
 
 - Beim Semesterwechsel über die Schaltfläche "Schulverwaltung/Schule bearbeiten/ Semesterwechsel durchführen" wurde die Schule nicht ins neue Semester übertragen. Dies ist nun korrigiert.
 
-<a id="Berufskolleg_6"></a>
-
 ### Berufskolleg
 
 - Für den Abschluss B08 (Kinderpflege) wurde ein Bug bei der Abschlussprüfung behoben.
 
-<a id="Version_2.0.32.8_vom_14.01.2024"></a>
-
 ## Version 2.0.32.8 vom 14.01.2024
-
-<a id="Schulformunabhängige_Änderungen_9"></a>
-<a id="Schulformunabh.C3.A4ngige_.C3.84nderungen_9"></a>
 
 ### Schulformunabhängige Änderungen
 
@@ -294,33 +196,21 @@ Für Primarstufen an Förderschulen steht nun ein Notenexport für das GS-Notenm
 - Beim Excel-Export von Schülerdaten kann nun auch ein Ausgabewert für divers definiert werden.
 - Für die Datenquelle „Wahlpflichtbereich“ wurde ein Ereignis hinzugefügt, sodass nun auch Ankreuzkompetenzen für diese Fächergruppe über einen Report geladen werden können.
 
-<a id="Gesamtschulen_und_Sekundarschulen_4"></a>
-
 ### Gesamtschulen und Sekundarschulen
 
 - Die überarbeitete Prognoseberechnung aus PM2 wurde in SchILD-NRW 2 integriert.
 - Wenn von der Prognoseberechnung das Ergebnis „MSAQ“ ermittelt wurde, so wurde dies nicht korrekt in der Datenbank gespeichert, nun behoben.
 - Das Ergebnis der Abschlussberechnung im Reiter aktuelles Halbjahr wurde als html-Quelltext abgebildet. Dies ist nun korrigiert
 
-<a id="Grundschulen"></a>
-
 ### Grundschulen
 
 - Es ist jetzt auch möglich, die Bemerkungen für die Übergangsempfehlung Jg. 05 über die Schnittstelle SchILD-NRW 2 zu exportieren und zu importieren.
-
-<a id="Förderschulen_2"></a>
-<a id="F.C3.B6rderschulen_2"></a>
 
 ### Förderschulen
 
 - An Förderschulen kann nun auch für die Jahrgangsstufen 01 bis 04 die Prüfungsordnung AOSF eingetragen werden.
 
-<a id="Version_2.0.32.2_vom_03.11.2023"></a>
-
 ## Version 2.0.32.2 vom 03.11.2023
-
-<a id="Schulformunabhängige_Änderungen_10"></a>
-<a id="Schulformunabh.C3.A4ngige_.C3.84nderungen_10"></a>
 
 ### Schulformunabhängige Änderungen
 
@@ -336,38 +226,25 @@ Eintrag in der Admin.ini:
 
 MaxEmails=100
 
-<a id="Gesamtschulen"></a>
-
 ### Gesamtschulen
 
 - In der APO-SI gab es Änderungen für Schülerinnen und Schüler der Gesamt- und (teil)-integrierten Sekundarschulen, die ab dem 01.08.2020 in die Jahrgangsstufe 5 übergegangen sind. Um dies in SchILD-NRW 2 abzubilden wurde die Prüfungsordnung APO-SI 20 in SchILD-NRW 2 eingepflegt. Die "neue" Prüfungsordnung muss wie folgt für die Jahrgangsstufe 5 bis 8 eingetragen werden:
   - Öffnen Sie unter Schulverwaltung die Klassen-/Versetzungstabellen.
   - Ändern Sie hier die Prüfungsordnung für alle Klassen der Jahrgangsstufen 5 bis 8. Wählen Sie für jede Klasse die Option "Aktuelle Angaben in Schülerdaten übernehmen" aus, sodass die Prüfungsordnung APO-SI 20 auch bei den Schülern hinterlegt ist.
 
-<a id="Gymnasium_4"></a>
-
 ### Gymnasium
 
 - Die Bezeichnung der Prüfungsordnung für die Oberstufe wurde geändert von APO-GOSt(B)10/G8 nach APO-GOSt(B)10.
-
-<a id="Grundschule"></a>
 
 ### Grundschule
 
 - Das Initialkennwort zum Bearbeiteten der Notendateien kann nun auch ohne Mailversand erstellt und als Liste exportiert werden (Unter Schulverwaltung/Lehrkräfte; dann rechte Maustaste).
 
-<a id="MariaDB_und_MySQL-Datenbanken"></a>
-
 ### MariaDB und MySQL-Datenbanken
 
 - Datenbank-Tabellen wurden bezüglich Groß- und Kleinschreibung angepasst.
 
-<a id="Version_2.0.31.2_vom_04.08.2023"></a>
-
 ## Version 2.0.31.2 vom 04.08.2023
-
-<a id="Schulformunabhängige_Änderungen_11"></a>
-<a id="Schulformunabh.C3.A4ngige_.C3.84nderungen_11"></a>
 
 ### Schulformunabhängige Änderungen
 
@@ -377,52 +254,33 @@ MaxEmails=100
 - In diesem Zusammenhang sei darauf hingewiesen, dass sich einige Kursbezeichnungen geändert haben. So wird an Gymnasien beispielsweise die Bezeichnung F3 in anderem Zusammenhang genutzt. An Hauptschulen werden nun anstatt der Kursarten E und G die Bezeichnungen E_H und G_H verwendet. Die genauen Kursartenschlüssel können der Schlüsseltabelle von ASDPC entnommen werden (<https://schulverwaltungsprogramme.msb.nrw.de/schulen/download.htm>). Diese Schlüssel müssen in der Schülerspezifischen Kurstabelle von SchILD-NRW 2 hinterlegt sein und verwendet werden.
 - Da es gelegentlich vorkommt, dass über den Schnittstellenimport versehentlich veraltete ".dat-Dateien" in SchILD-NRW 2 importiert werden, erscheint nun vor dem eigentlichen Import ein Hinweisfenster, sofern die entsprechende Importdatei nicht das aktuelle Tagesdatum hat.
 
-<a id="Gymnasium_5"></a>
-
 ### Gymnasium
 
 - Versetzungs- und Abschlussberechnungen für die EF wurden geprüft und angepasst. Hier wurden in bestimmten Konstellationen ausreichende Noten mit Mahnhaken in der Berechnung ignoriert.
-
-<a id="Berufskolleg_7"></a>
 
 ### Berufskolleg
 
 - Fehlerhafte Abschlussberechnungen wurden korrigiert.
 - In der Gliederung B08 erlangen die SuS i.d.R. ausreichende Leistungen im fachpraktischen Teil. Daher wird nun beim Holen der Fächer der Wert für das Feld "Fachpraktischer Anteil ausreichend" auf "Ja" gesetzt.
 
-<a id="Version_2.0.30.6_vom_04.06.2023"></a>
-
 ## Version 2.0.30.6 vom 04.06.2023
-
-<a id="Gesamtschulen_2"></a>
 
 ### Gesamtschulen
 
 - Für Schülerinnen und Schüler der Jahrgangsstufe 10, die den EESA nicht erreicht haben, wurde dennoch der Abschluss EESA eingetragen. Dies ist nun behoben.
-
-<a id="Berufskolleg_8"></a>
 
 ### Berufskolleg
 
 - Für die Gliederungen B06, B07 und B08 wurde ESA anstatt EESA als erreichter Abschluss berechnet. Dies ist nun behoben.
 - Bei den Gliederungen B08, B09 und B10 konnte der Abschluss MSAQ nicht manuell ausgewählt werden. Dies ist nun behoben.
 
-<a id="Version_2.0.30.2_vom_26.05.2023"></a>
-
 ## Version 2.0.30.2 vom 26.05.2023
-
-<a id="Grundschulen_2"></a>
 
 ### Grundschulen
 
 - an manchen Grundschulen wurden beim Export von Notendateien für das GS Notenmodul die Kompetenzen zum Arbeits- und Sozialverhalten nicht exportiert. In diesen forderte das Notenmodul die User auch bei jedem Start dazu auf, ein Kennwort zu vergeben. Der Fehler wurde bereinigt.
 
-<a id="Version_2.0.30.2_vom_25.05.2023"></a>
-
 ## Version 2.0.30.2 vom 25.05.2023
-
-<a id="Schulformunabhängige_Änderungen_12"></a>
-<a id="Schulformunabh.C3.A4ngige_.C3.84nderungen_12"></a>
 
 ### Schulformunabhängige Änderungen
 
@@ -435,12 +293,7 @@ MaxEmails=100
 - Für im Halbjahr zurückgestufte SuS wurde beim Datenexport für Lernplattformen auch Fächer exportiert, die vor der Zurückstufung belegt wurden. Dies ist nun behoben.
 - Im Filter I kann nun auch nach dem Anmeldedatum gefiltert werden.
 
-<a id="Version_2.0.29.10"></a>
-
 ## Version 2.0.29.10
-
-<a id="Schulformunabhängige_Änderungen_13"></a>
-<a id="Schulformunabh.C3.A4ngige_.C3.84nderungen_13"></a>
 
 ### Schulformunabhängige Änderungen
 
@@ -473,32 +326,21 @@ Die beiden Dateien schildinfo.inf und schildinfo.rtf liegen auch auf der Webseit
 - Der neue Hinweis "Keine Internet-Verbindung" wurde im Programm immer dann ausgegeben, wenn die Datei "schildinfo.inf" nicht heruntergeladen werden konnte. Da dies nicht zwingend bedeutete, dass keine Internet-Verbindung existierte, wurde nun diese missverständliche Information zu "Informationsdatei konnte nicht heruntergeladen werden" geändert.
 - Wenn SchILD-NRW 2 über eine Remote-Desktop-Verbindung gestartet wird, stehen auf dem RD-Server auch die auf dem lokalen Rechner installierten „weitergeleiteten“ Drucker zur Verfügung. Es trat aber das Problem auf, dass der (lokale) Standarddrucker unter bestimmten Bedingungen nicht korrekt als Standard erkannt wurde. Das Problem ist nun behoben.
 
-<a id="Gesamtschulen_3"></a>
-
 ## Gesamtschulen
 
 - Für die Jahrgangsstufe 9 kann nun auch "ohne Abschluss" im Reiter "Akt. Quartal" ausgewählt werden.
-
-<a id="Berufskolleg_9"></a>
 
 ## Berufskolleg
 
 - Zur Vorbereitung eines Verfahrens zum Antrag der Energiepreispauschale für Schülerinnen und Schüler steht nun ein Datenaustausch zur Verfügung. Weitere Informationen zum Verfahren erhalten die Schulen zu einem späteren Zeitpunkt. Der Datenaustausch gehört zur technischen Vorbereitung.
 - Beim Gruppenprozess „Leistungsdaten in Abiturbereich holen“ wurden in seltenen Fällen nicht alle Schülerinnen und Schüler berücksichtigt, sofern sich der Gruppenprozess auf Schüler aus unterschiedlichen Gliederungen bezog. Dies ist nun behoben.
 
-<a id="Reportdesigner_2"></a>
-
 ## Reportdesigner
 
 - In der Datenquelle Lernabschnitte ist ein neues Datenfeld "AbteilungBezeichnung“ verfügbar.
 - Wenn in einem Report im ReportAfterPrint-Ereignis die Funktion NurErzieherMitAnschreiben(true) verwendet wurde, lief der Reportgenerator beim Ausdruck mit Archivierung in eine Endlosschleife. Der Fehler konnte nur durch eine Anpassung des Reportdesigners abgefangen werden. Die Funktion NurErzieherMitAnschreiben wird nun nach Beenden des Reports automatisch zurückgesetzt und darf im ReportAfterprint-Ereignis nicht mehr aufgerufen werden. Reports aus der Serienbriefsammlung wurden entsprechend angepasst.
 
-<a id="Version_2.0.29.4"></a>
-
 ## Version 2.0.29.4
-
-<a id="Schulformunabhängige_Änderungen_14"></a>
-<a id="Schulformunabh.C3.A4ngige_.C3.84nderungen_14"></a>
 
 ### Schulformunabhängige Änderungen
 
@@ -511,12 +353,7 @@ Port=\<Port des Proxys\>\
 - Der E-Mail-Versand über Office-Server funktionierte seit dem letzten Update nicht meht. Durch den Austausch der ChilkatDelphi32.dll (v. 9.5.0.93) im Hauptverzeichnis wird dieses Problem behoben.
 - Durch das Entfernen des Auswahlfeldes zum Masernimpfschutz bei Lehrkräften kam es zu einer Fehlermeldung, wenn eine neue Lehrkraft angelegt werden sollte. Nun behoben.
 
-<a id="Version_2.0.29.2"></a>
-
 ## Version 2.0.29.2
-
-<a id="Schulform_unabhängige_Änderungen"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen"></a>
 
 ### Schulform unabhängige Änderungen
 
@@ -528,31 +365,20 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 
 - Das Auswahlfeld "Masernschutzimpfung" wurde aus Datenschutzgründen bei den Lehrkräften entfernt.
 
-<a id="Reportdesigner_3"></a>
-
 ### Reportdesigner
 
 - Die Datenquelle "Informatik" für die SI wurde wieder entfernt.
 - Die berechneten Adress-Memofelder der Datenpipeline Schüler und Erzieher im Reportdesigner wurden an das dritte Geschlecht angepasst.
 
-<a id="Grundschule_2"></a>
-
 ### Grundschule
 
 - Der Export der Notendateien wurde beschleunigt.
-
-<a id="Berufskolleg_10"></a>
 
 ### Berufskolleg
 
 - Im Reiter Schulbesuch wurden Bezeichnungen für den höchsten allgemeinbildenden Abschluss angepasst.
 
-<a id="Version_2.0.28.6"></a>
-
 ## Version 2.0.28.6
-
-<a id="Schulform_unabhängige_Änderungen_2"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_2"></a>
 
 ### Schulform unabhängige Änderungen
 
@@ -564,29 +390,17 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - Der iServ-Export berücksichtigt nun auch Lehrerinnen und Lehrer, sowie Schülerinnen und Schüler ohne Unterricht. Schülerinnen und Schüler mit Löschvermerk werden nicht mehr exportiert. Lehrerinnen und Lehrer ohne Exportvermerk werden nicht mehr exportiert.
 - Beim Löschen eines oder mehrerer Kurse gab es unter Umständen eine Fehlermeldung, obwohl die Kurse gelöscht wurden. Dies sollte nun behoben sein.
 
-<a id="Berufskollegs"></a>
-
 ### Berufskollegs
 
 - Abschlüsse an BKs können nun wieder ausgewählt werden. Dies war zwischenzeitlich nicht möglich.
 
-<a id="Version_2.0.28.4"></a>
-
 ## Version 2.0.28.4
-
-<a id="Schulform_unabhängige_Änderungen_3"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_3"></a>
 
 ### Schulform unabhängige Änderungen
 
 - Die schildintern.mdb enthielt einen Fehler. Dieser führte dazu, dass eine Fehlermeldung angezeigt wurde, sobald der Filter I aufgerufen wurde.
 
-<a id="Version_2.0.28.2"></a>
-
 ## Version 2.0.28.2
-
-<a id="Schulform_unabhängige_Änderungen_4"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_4"></a>
 
 ### Schulform unabhängige Änderungen
 
@@ -596,24 +410,15 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - Die Fächertabellen wurden entsprechend der Statistikvorgaben angepasst.
 - Ein Fehler, der beim Aufrufen der Lehrkräfte aufgetreten ist, wurde behoben.
 
-<a id="Berufskollegs_2"></a>
-
 ### Berufskollegs
 
 - Fehlerhafte Abschlussberechnung in B08, B09 und B10 korrigiert (Anlage B)
-
-<a id="Gymnasiale_Oberstufe"></a>
 
 ### Gymnasiale Oberstufe
 
 - Fehlerausgabe bei der Berechnung des Abiturgesamtergebnisses bei vorhandener besonderer Lernleistung mit null Punkten behoben.
 
-<a id="Version_2.0.27.8"></a>
-
 ## Version 2.0.27.8
-
-<a id="Schulform_unabhängige_Änderungen_5"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_5"></a>
 
 ### Schulform unabhängige Änderungen
 
@@ -627,12 +432,7 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - Benutzerdefinierte Sortierungs-Einstellung wurde bei einigen Katalogen wieder ergänzt.
 - Möglichkeit der Sortierung von Lernplattformen wurde entfernt.
 
-<a id="Version_2.0.27.2"></a>
-
 ## Version 2.0.27.2
-
-<a id="Schulform_unabhängige_Änderungen_6"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_6"></a>
 
 ### Schulform unabhängige Änderungen
 
@@ -650,35 +450,21 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - Der Reiter DSGVO wurde ein „Einwilligungen“ umbenannt. Hier können nun auch die Lernplattformen bei den Schülern und die Zustimmungen angelegt werden. (Auch per Gruppenprozess.)
 - In der Benutzerverwaltung ist eine Berechtigung für den Reiter Einwilligungen geschaffen worden.
 
-<a id="Reportausgabe"></a>
-
 ### Reportausgabe
 
 - Reports, welche die Hauptpipeline „Erzieher“ verwenden, können nun auch automatisch in die Dokumentenverwaltung der Schülerinnen und Schüler archiviert werden. So können Dokumente, welche mit den neuen Serienbriefreports erstellt wurden, automatisiert archiviert werden.
 
-<a id="Version_2.0.26.4"></a>
-
 ## Version 2.0.26.4
-
-<a id="Schulform_unabhängige_Änderungen_7"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_7"></a>
 
 ### Schulform unabhängige Änderungen
 
 - Es wurde nochmals die Statistik.dll ausgetauscht, die falsche Meldung, dass die Übergangsempfehlungen fehlen, ist damit behoben.
 
-<a id="Version_2.0.26.2"></a>
-
 ## Version 2.0.26.2
-
-<a id="Schulform_unabhängige_Änderungen_8"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_8"></a>
 
 ### Schulform unabhängige Änderungen
 
 - Es steht eine neue Datei ASDStatistik.dll für die Statistik-Gesamtprüfung und die Erstellung der Dateien SIM.TXT, LID.TXT, UVD.TXT und ABI.TXT zur Verfügung.
-
-<a id="Berufskollegs_3"></a>
 
 ### Berufskollegs
 
@@ -686,12 +472,7 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - Für die Gliederung C13 wurde der Prüfungsalgorithmus umgesetzt.
 - Für die Anlage E steht jetzt auch eine Zulassungsprüfung zur Verfügung.
 
-<a id="Version_2.0.25.6"></a>
-
 ## Version 2.0.25.6
-
-<a id="Schulform_unabhängige_Änderungen_9"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_9"></a>
 
 ### Schulform unabhängige Änderungen
 
@@ -700,26 +481,17 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
   1.  Ident-Nr. verwenden anstelle interner ID (falls vorhanden)
   2.  Suffix "L" anhängen (bei Verwendung der internen ID)
 
-<a id="Berufskollegs_4"></a>
-
 ### Berufskollegs
 
 - Im Algorithmus zur Abiturzulassung war die Defizitberechnung noch nicht auf die neuen Regeln angepasst, dies ist nun korrigiert.
 - Für die Fachklasse „FS Sozialwesen/Motopädie“ (Schlüssel 108-00, Gliederung E03 und E04) wurde die Abschlussberechnung angepasst, es wird jetzt nur noch auf zwei Abschlussarbeiten geprüft, in anderen Fällen aber weiterhin auf drei.
-
-<a id="Reportausgabe_2"></a>
 
 ### Reportausgabe
 
 - In Reports mit der Hauptdatenquelle „Erzieher“, bei denen die Datenquelle „Schueler“ als Unterdatenquelle benutzt wird, stehen nun alle davon abhängigen weiteren Datenquellen zur Verfügung (z.B. „Lernabschnitte“).
 - Wenn die Datenquelle „Klassen“ die Hauptdatenquelle eines Reports ist, können nun auch Serienmails an die Klassenlehrer verschickt werden.
 
-<a id="Version_2.0.25.4"></a>
-
 ## Version 2.0.25.4
-
-<a id="Schulform_unabhängige_Änderungen_10"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_10"></a>
 
 ### Schulform unabhängige Änderungen
 
@@ -730,35 +502,21 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - Bei Änderung des Schüler-Namens oder des Geburtsdatums erfolgt nun ein entsprechender Hinweis, damit nicht diese Angaben versehentlich durch die einer anderen Person überschrieben werden.
 - Beim Versenden von E-Mails per SMTP wurde unter bestimmten Bedingungen ein falscher SMTP-Port verwendet, nun korrigiert.
 
-<a id="Berufskollegs_5"></a>
-
 ### Berufskollegs
 
 - Der Algorithmus zur Abiturzulassung wurde auf die neueren Regeln angepasst. Es werden nun max. 40 Kurse eingebracht und die 0-Punkte-Regelungen sind implementiert.
 
-<a id="Version_2.0.24.14"></a>
-
 ## Version 2.0.24.14
-
-<a id="Schulform_unabhängige_Änderungen_11"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_11"></a>
 
 ### Schulform unabhängige Änderungen
 
 - Der Logineo-Export erfolgte (trotz gegenteiliger Angabe in der == Versionsgeschichte) irrtümlicherweise doch noch über eine separate DLL. Das ist nun korrigiert, es wird keine DLL mehr benötigt.
 
-<a id="Reportverwaltung"></a>
-
 ### Reportverwaltung
 
 - Bei aktivierter Dokumentenverwaltung wurden bei bestimmten Sonderzeichen im Namen die PDFs nicht in dem korrekten Verzeichnis gespeichert, sondern in einem ohne die Sonderzeichen. Dies ist nun korrigiert.
 
-<a id="Version_2.0.24.12"></a>
-
 ## Version 2.0.24.12
-
-<a id="Schulform_unabhängige_Änderungen_12"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_12"></a>
 
 ### Schulform unabhängige Änderungen
 
@@ -773,118 +531,73 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - Dort steht nun auch ein iServ-Export zur Verfügung. Der Logineo-Export wurde in SchILD-NRW 2 integriert und muss nun nicht mehr als DLL im Programmverzeichnis sein.
 - Beim Gruppenprozess „Zeugnisbemerkungen eintragen“ wird jetzt an bereits existierende Texte ein Leerzeichen angehängt, sofern dieser nicht mit der Kombination „Punkt + Leerzeichen“ endet.
 
-<a id="Reportausgabe_3"></a>
-
 ### Reportausgabe
 
 - Es können jetzt aus der Reportausgabe heraus auch Serien-Emails an Lehrer geschickt werden, d.h. wenn die Hauptdatenquelle des Reports "Lehrer" ist. Der betreffende Report muss die gleichen Bedingungen erfüllen wie ein Schüler-Report (Gruppierung, neue Seite/E-Mail bei Gruppenwechsel usw.).
-
-<a id="Berufskollegs_6"></a>
 
 ### Berufskollegs
 
 - Der Reiter KAOA wurde nun auch den BKs zur Verfügung gestellt.
 
-<a id="Grundschulen_3"></a>
-
 ### Grundschulen
 
 - Es wurde ein Fehler beim ASV-Import und MySQL-Datenbanken behoben.
-
-<a id="Gymnasiale_Oberstufe_2"></a>
 
 ### Gymnasiale Oberstufe
 
 - Es wurde ein Fehler im Zusammenhang mit Sport LK in der FHR-Berechnung korrigiert.
 
-<a id="Version_2.0.24.6"></a>
-
 ## Version 2.0.24.6
-
-<a id="Schulform_unabhängige_Änderungen_13"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_13"></a>
 
 ### Schulform unabhängige Änderungen
 
 - Es würde eine Sicherheitslücke bei der Verwendung von Notenmodulen behoben. Bitte erstellen Sie mit dieser Version neuen Notendateien.
 - Beim Erzeugen der Notendateien werden die Einstellungen für die Fehlstunden (siehe Einstellungen \> Globale Einstellungen \> Fächer, Noten) automatisch übernommen. Beim Noten-Export können Sie darüber hinaus steuern (siehe Ankreuzfeld: „Eingabe von Fehlstunden ermöglichen ( )“), ob im Notenmodul die Eingabe der Fehlzeiten grundsätzlich möglich ist und zwar unabhängig vom gewählten Fehlstunden-Modell.
 
-<a id="Gesamtschule,_Sekundarschule"></a>
-<a id="Gesamtschule.2C_Sekundarschule"></a>
-
 ### Gesamtschule, Sekundarschule
 
 - Bei der Abschlussprognose wurde ein Fehler beim HA10 behoben, dort wurden weitere Fremdsprachen unter gewissen Umständen als Defizit nicht ignoriert.
 
-<a id="Version_2.0.24.2"></a>
-
 ## Version 2.0.24.2
-
-<a id="Schulform_unabhängige_Änderungen_14"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_14"></a>
 
 ### Schulform unabhängige Änderungen
 
 - Für die Statistik stehen nun neue Einträge für Lehrer-Minderleistungen und -Mehrleistungen (wegen COVID-19) zur Verfügung.
 - Beim Notenimport aus Excel-Dateien wurden nicht vorhanden Fächer bei den Schülern nicht automatisch angelegt (auch wenn das entsprechende Häkchen aktiviert war). Dies wurde korrigiert.
 
-<a id="Gymnasien"></a>
-
 ### Gymnasien
 
 - Beim Schuljahreswechsel kam es zu Problemen bei der Hochschreibung von Kursen, sofern mit dem Jahrgangswechsel auch ein Wechsel der Gliederung einherging (z.B. wegen Umstellung auf G9). Damit das in Zukunft nicht erneut auftritt, sollte jedem Jahrgang (außer den Abschlussjahrgängen) ein expliziter Folgejahrgang zugewiesen werden. Vor einem Schuljahreswechsel wird dies nun geprüft und ggf. eine entsprechende Meldung ausgegeben.
-
-<a id="Schulen_mit_Sekundarstufe_I"></a>
 
 ### Schulen mit Sekundarstufe I
 
 - Die Schlüsseltabellen und Systematik für die KAoA-Eingabe wurden nochmals überarbeitet.
 
-<a id="Version_2.0.23.18"></a>
-
 ## Version 2.0.23.18
-
-<a id="Schulform_unabhängige_Änderungen_15"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_15"></a>
 
 ### Schulform unabhängige Änderungen
 
 - Beim Export für das externe Notenmodul wurde (sofern das entsprechende Häkchen aktiviert wurde) das nach dem alten Verfahren verschlüsselte Kennwort in die Notendatei geschrieben. Dies ist korrigiert, es wird nun das neue Hash-Verfahren verwendet.
 
-<a id="Gesamtschulen_mit_Quartalsbetrieb"></a>
-
 ### Gesamtschulen mit Quartalsbetrieb
 
 - Bei in der gymn. Oberstufe neu einsetzenden Fremdsprachen wurde das GeR-Niveau nicht korrekt berechnet, nun korrigiert.
-
-<a id="Berufskollegs_7"></a>
 
 ### Berufskollegs
 
 - Beim Holen der Fächer in den Bereich „BK-Abschluss“ wird nun auch das Feld „Fachpraktischer Anteil ausreichend“ berücksichtigt (nur bei einigen Gliederungen relevant).
 
-<a id="Version_2.0.23.16"></a>
-
 ## Version 2.0.23.16
-
-<a id="Reportausgabe_4"></a>
 
 ### Reportausgabe
 
 - Ein Fehler in der Datenquelle „SchuelerDSGVOEinwilligung“ wurde behoben.
 
-<a id="Version_2.0.23.14"></a>
-
 ## Version 2.0.23.14
-
-<a id="Grundschulen_4"></a>
 
 ### Grundschulen
 
 - Es wurden einige Fehler, die im Zusammenhang mit dem neuen „GS-Notenmodul“ aufgetreten sind, behoben.
-
-<a id="Schulform_unabhängige_Änderungen_16"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_16"></a>
 
 ### Schulform unabhängige Änderungen
 
@@ -892,25 +605,16 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - In den Lernabschnitten kann den Schülern nun eine Lehrkraft als Sonderpädagoge zugewiesen werden. In einem nächsten Schritt können diesen Lehrkräften dann die Schüler-/innnen in die Notendatei exportiert werden.
 - In allen Schulen ist nun die Möglichkeit „Ankreuzberichte“ zu erstellen freigeschaltet worden. Dies ermöglicht es auch weiterführenden Schulen Berichte nach dem Muster der Ankreuzzeugnisse in der Grundschule zu drucken.
 
-<a id="Berufskollegs_8"></a>
-
 ### Berufskollegs
 
 - In den Gliederungen B08, B09 und B10 wurde das Feld „Fachpraktische Anteile Ausreichend“ eingefügt, welches nun bei der Versetzung auch ausgewertet wird.
 - Aktuelle Schildintern.mdb aus dem Update wird benötigt!
 
-<a id="Sekundarstufe_II_3"></a>
-
 ### Sekundarstufe II
 
 - Die Datenquelle AbiturUebersicht wurde angepasst, es werden nun nur aktive Schüler mit Abiturzulassung gezählt.
 
-<a id="Version_2.0.23.12"></a>
-
 ## Version 2.0.23.12
-
-<a id="Schulform_unabhängige_Änderungen_17"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_17"></a>
 
 ### Schulform unabhängige Änderungen
 
@@ -921,23 +625,13 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - In den Abiturberechnungen wurde die Verpflichtung zur Abweichungsprüfung für das kommende Abitur entfernt.
 - Mailversand per SMTP. Das Fehlerprotokoll beim Mailversand wurde teilweise doppelt angezeigt. Die globalen Mail-Einstellungen wurden sofort beim Verbindungstest in SchILD-NRW 2 aktualisiert, nicht aber die individuellen (Benutzername und Kennwort), ist nun korrigiert.
 
-<a id="Version_2.0.23.10"></a>
-
 ## Version 2.0.23.10
-
-<a id="Schulform_unabhängige_Änderungen_18"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_18"></a>
 
 ### Schulform unabhängige Änderungen
 
 - Bei den Stammdaten der Schüler und Lehrkräfte gibt es nun ein Ankreuzhäkchen "Masern Impfnachweis". Bei den Schülern kann dies auch über den Gruppenprozess "Individualdaten ändern" gesetzt werden. Eine Filtermöglichkeit im Filter I besteht ebenso, außerdem ist das Feld in den Datenquellen "Schueler" und "Lehrer" verfügbar.
 
-<a id="Version_2.0.23.8"></a>
-
 ## Version 2.0.23.8
-
-<a id="Schulform_unabhängige_Änderungen_19"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_19"></a>
 
 ### Schulform unabhängige Änderungen
 
@@ -947,12 +641,7 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - Es erscheint nun eine Aufforderung sich beim Support zu melden, wenn eine FirebirdDB genutzt wird.
 - Im Gruppenprozess „Kurse zuweisen mehrere“ gibt es nun einen Excel-Export.
 
-<a id="Version_2.0.23.6"></a>
-
 ## Version 2.0.23.6
-
-<a id="Schulform_unabhängige_Änderungen_20"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_20"></a>
 
 ### Schulform unabhängige Änderungen
 
@@ -975,8 +664,6 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - Bei der Bearbeitung von Kursen ist es jetzt nicht mehr möglich, sowohl einen Eintrag in der Spalte "Jahrgang" als auch in der Spalte "mehrere Jahrgänge" zu machen (es gilt jetzt "entweder/oder"). Der Jahrgangsbezug kann nachträglich nur noch über die rechte Maustaste verändert werden. Beim Hochschreiben in einen neuen Abschnitt wird bei Kursen, bei denen beide Spalten gefüllt sind, eine automatische Korrektur durchgeführt, dabei haben Einträge in der Spalte "mehrere Jahrgänge" Vorrang.
 - Hinweis: Falls in der Spalte "mehrere Jahrgänge" Einträge enthalten sind, die betreffenden Jahrgänge aber nicht mehr existieren (weil gelöscht), so blieb bisher die Anzeige in der Kurstabelle leer. Das konnte zu schwer lokalisierbaren Problemen beim Hochschreiben führen. In solchen Fällen wird man nun durch "UNGÜLTIGE EINTRÄGE!" darauf hingewiesen, die Angaben zu korrigieren.
 
-<a id="Reportausgabe_5"></a>
-
 ### Reportausgabe
 
 - Es gibt zwei neue Datenquellen "SchuelerJahresuebersicht" und "SchuelerJahresuebersichtTeilleistungen“. Damit lassen sich relativ einfach Jahresübersichten der Leistungsdaten und der zugehörigen Teilleistungen erzeugen. Entsprechende Beispielreports gibt es im Supportforum oder auch im SchILD-NRW 2-Wiki.
@@ -988,14 +675,10 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
   - Hinweis: Komma oder Semikolon dürfen nicht vermischt werden, d.h. es dürfen nur Kommas oder nur Semikolons verwendet werden.
   - Beispiel: AufFaecherFiltern('D,E,M');
 
-<a id="Sekundarstufe_I"></a>
-
 ### Sekundarstufe I
 
 - Die KAOA-Daten wurde mit neuen Katalogen gefüllt, die mit dem MSB abgestimmt sind. Die jetzt zur Verfügung stehenden Kataloge stimmen mit den Angaben im BAN-Portal überein und sollen später zur Auswertung für das Monitoring genutzt werden können.
 - Unter Extras \> „Alte“ KAOA-Daten umschlüsseln kann ein Prozess aufgerufen werden, der (soweit möglich) die alten Bezeichnungen in die neuen SBO-Bezeichnungen umschlüsselt.
-
-<a id="Berufskollegs_9"></a>
 
 ### Berufskollegs
 
@@ -1015,12 +698,7 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
     - ***Höchster allg.-bildender Abschluss:*** Abschluss an der eigenen Schule (allg.-bildender Teil), sofern dieser höher ist als der ursprünglich dort mal eingetragene Abschluss
     - automatische Übertragung der zuletzt besuchten Schule (also der Eintrag oben) und des an der eigenen Schule besuchten Bildungsgangs mit Abschluss in die Liste der besuchten Schulen (unten Karteireiter Schulbesuch)
 
-<a id="Version_2.0.22.16"></a>
-
 ## Version 2.0.22.16
-
-<a id="Schulform_unabhängige_Änderungen_21"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_21"></a>
 
 ### Schulform unabhängige Änderungen
 
@@ -1028,36 +706,23 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - Bei der Abschlussberechnung hat das Programm in sehr vielen Fällen immer den HA10 unter Schulbesuch eingetragen, obwohl auch andere (höhere) Abschlüsse erreicht wurden.
 - Damit das schneller korrigiert werden kann wurde der Gruppenprozess „Individualdaten ändern“ so geändert, dass dieses Feld auch ohne Entlassjahrgang neu gesetzt werden kann.
 
-<a id="Grundschulen_5"></a>
-
 ### Grundschulen
 
 - An Grundschulen, wurde bei nicht versetzten Schülern in manchen Fällen die falsche Folgeklasse gewählt. Das wurde korrigiert.
 - Es wurden die aktuellen Statistik-Dateien für die kommende Statistik eingespielt.
-
-<a id="Gymnasium_6"></a>
 
 ### Gymnasium
 
 - Schüler mit der Gliederung „Standard für diese Schulform“ müssen nun die Gliederung „G8“ erhalten. Die Jahrgänge 05 und 06 müssen die Gliederung „G9“ bekommen.
 - Dies kann über den Gruppenprozess „Individualdaten ändern“ gemacht werden.
 
-<a id="Version_2.0.22.12"></a>
-
 ## Version 2.0.22.12
-
-<a id="Berufskollegs_10"></a>
 
 ### Berufskollegs
 
 - Bei der Berechnung der FHR-Durchschnittsnote trat ein Fehler auf, wenn eine der Fächer mit fünf benotet war und ein Ausgleichsfach gefunden wurde. Dieser Fehler ist nun behoben.
 
-<a id="Version_2.0.22.11"></a>
-
 ## Version 2.0.22.11
-
-<a id="Schulformübergreifende_Änderungen"></a>
-<a id="Schulform.C3.BCbergreifende_.C3.84nderungen"></a>
 
 ### Schulformübergreifende Änderungen
 
@@ -1066,20 +731,14 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - Der Migrationshintergrund wird nun beim Import über die Schnittstelle wieder korrekt importiert.
 - Ein Fehler beim Import von Excel-Export-Vorlagen wurde behoben.
 
-<a id="Grundschulen_6"></a>
-
 ### Grundschulen
 
 - Beim Notenmodul-Export kann nun gewählt werden, ob ZP10-Daten, Fördermaßnahmen und Teilleistungen exportiert werden sollen. Die Verarbeitung der ZP10-Daten im Notenmodul ist in Entwicklung.
 - Bei den Kompetenzbeschreibungen gibt es nun eine Spalte „Aktiv“. Bei „Kompetenzen f. Ankreuzzeugnisse“ auf dem Karteireiter „Akt. Halbjahr“ merkt sich das Programm nun, bei welchem Fach die Kompetenzliste ausgeklappt war und klappt sie dann bei einem Schülerwechsel automatisch bei diesem Fach wieder aus.
 
-<a id="Reportausgabe_6"></a>
-
 ### Reportausgabe
 
 - In Reports wird nun die Funktion „Email Settings \> Enabled“ ausgewertet. Damit kann man nun steuern, ob ein Report E-Mail-Versand unterstützt oder nicht.
-
-<a id="Berufskollegs_11"></a>
 
 ### Berufskollegs
 
@@ -1096,12 +755,7 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
   - Abschlussberechnungen in der SGL A04 werden nun wie in der SGL A01 ausgeführt.
   - Die GeR-Niveaus werden nun auch am BK berechnet. ***Wichtig:*** Bei den Sprachenfolgen wird nun „ab der Primarstufe“ gezählt, d.h. für eine neu einsetzende Fremdsprache muss der Jahrgang 11 verwendet werden (und nicht der Jahrgang 1, der bisher von einigen BKs für die neu einsetzenden FS verwendet wurde).
 
-<a id="Version_2.0.22.2"></a>
-
 ## Version 2.0.22.2
-
-<a id="Schulformübergreifende_Änderungen_2"></a>
-<a id="Schulform.C3.BCbergreifende_.C3.84nderungen_2"></a>
 
 ### Schulformübergreifende Änderungen
 
@@ -1111,26 +765,17 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - Der Import von Betrieben (bzw. Zuordnungen von Schülern zu Betrieben) über die „Schnittstelle SchILD-NRW 2“ wurde deutlich verbessert. Es wird jetzt anhand mehrerer Kriterien der „am besten passende Betrieb“ gesucht. Nur wenn kein solcher gefunden wird, erfolgt ein Neueintrag im Katalog „Allgemeine Adressen“.
 - Bei der Einstellung „Autoedit-Funktion für Individualdaten deaktivieren“ kam es zu einer Fehlermeldung, wenn in ein Editierfeld ein Text eingegeben wurde, dies ist nun korrigiert.
 
-<a id="Berufskollegs_12"></a>
-
 ### Berufskollegs
 
 - In der Anlagen-D wird nun bei der Versetzung von Jahrgang 1 nach Jahrgang 2 das „kleine FHR“ geprüft und die Durchschnittsnote im akt. Abschnitt gespeichert.
 - Die Datenquelle FachUebersicht wird nun auch an BKs korrekt gefüllt.
-
-<a id="Gymnasiale_Oberstufe_3"></a>
 
 ### Gymnasiale Oberstufe
 
 - Die Änderungen zur Berechnung des GER wurden eingefügt. Es wird nun der Durchschnitt aus zwei Abschnitten berücksichtigt.
 - Es wurden noch einige kleinere Fehler bei den Prüfalgorithmen behoben.
 
-<a id="Version_2.0.21.14"></a>
-
 ## Version 2.0.21.14
-
-<a id="Schulformübergreifende_Änderungen_3"></a>
-<a id="Schulform.C3.BCbergreifende_.C3.84nderungen_3"></a>
 
 ### Schulformübergreifende Änderungen
 
@@ -1142,31 +787,20 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - Der Gruppenprozesse KAOA-Daten eingeben wurde korrigiert.
 - Der Editor für die Floskeleingabe sollte sich nun an die Skalierung anpassen.
 
-<a id="Gesamtschulen_4"></a>
-
 ### Gesamtschulen
 
 - Beim neuen Prognosealgorithmus kam es zu Problemen, wenn ein Fach mit gleichem Statistik-Kürzel mehrfach vorkam. Der Algorithmus rechnet nun auch in diesem Fall korrekt.
 
-<a id="Berufskollegs_13"></a>
-
 ### Berufskollegs
 
 - Die Liste der „Abschlusshierarchien“ wurde ergänzt, so dass die Prüfung, ob der erzielte Abschluss höher ist als der eingebrachte Abschluss, korrekt funktionieren sollte.
-
-<a id="Reportausgabe_7"></a>
 
 ### Reportausgabe
 
 - Die Datenquelle „KlassenLehrer“ berücksichtigt jetzt auch das im Report-Explorer eingestellt Halbjahr. Gleiches gilt auch für die Datenquelle „Klassenlehrer_mit_Faechern“.
 - In der Datenquelle „Zuweisungen“ wurde das Fachkürzel nicht korrekt ausgegeben, nun korrigiert.
 
-<a id="Version_2.0.21.12"></a>
-
 ## Version 2.0.21.12
-
-<a id="Schulformübergreifende_Änderungen_4"></a>
-<a id="Schulform.C3.BCbergreifende_.C3.84nderungen_4"></a>
 
 ### Schulformübergreifende Änderungen
 
@@ -1186,65 +820,42 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - In Inklusionszeugnissen soll manchmal in den Bemerkungen auch das Konferenzdatum ausgegeben werden. Aus diesem Grund kann nun der Platzhalter \$KONFERENZDATUM\$ in Floskeln verwendet werden.
 - Wichtig: Da das Konferenzdatum i.d.R. erst nach den Bemerkungen eingetragen wird, erfolgt (anders als z.B. bei \$VORNAME\$) keine automatische Ersetzung des Platzhalters schon bei der Zuweisung einer Floskeln. Um den Platzhalter zu ersetzen, muss der Gruppenprozess „Noten, Zeugnisvorbereitung\>\>Platzhalter in Memo-Feldern ersetzen“ aufgerufen werden.
 
-<a id="Sekundarschulen_und_Gesamtschulen"></a>
-
 ### Sekundarschulen und Gesamtschulen
 
 - Bei eingetragener Gliederung „RH“ sollte nun die Abschlussberechnung so wie in den Gesamtschulen auch funktionieren.
 - Es wurde nun der Prognose-Algorithmus von PM2 auch in SchILD-NRW 2 implementiert. Damit sollten unterschiedliche Berechnungen zwischen den beiden Programmen nicht mehr vorkommen. Ein einfacher „Planspiel-Modus“ steht auch zur Verfügung.
 
-<a id="Gymnasium_7"></a>
-
 ### Gymnasium
 
 - Die Versetzungsberechnung in der EF am GY8 wurde freigeschaltet.
-
-<a id="Gymnasiale_Oberstufe_4"></a>
 
 ### Gymnasiale Oberstufe
 
 - Wenn die Kursarten AB3, AB4, LK1 und LK2 per Gruppenprozess verändert werden, wird das nun auch in der Spalte „Abifach“ berücksichtigt.
 
-<a id="Version_2.0.21.8"></a>
-
 ## Version 2.0.21.8
-
-<a id="Statistik"></a>
 
 ### Statistik
 
 - Es wird eine aktualisierte Version der Datei ASDTABS.MDB bereitgestellt. Diese enthält
 - korrigierte Fehlermeldungen für die Statistik-Prüfung.
 
-<a id="Reportausgabe_8"></a>
-
 ### Reportausgabe
 
 - Bei den Erzieher-Adressen wurde das Feld PLZOrt nicht gefüllt, nun korrigiert.
 
-<a id="Version_2.0.21.6"></a>
-
 ## Version 2.0.21.6
-
-<a id="Schulformübergreifende_Änderungen_5"></a>
-<a id="Schulform.C3.BCbergreifende_.C3.84nderungen_5"></a>
 
 ### Schulformübergreifende Änderungen
 
 - Bei der Ausgabe von Lehrerreports, bei denen die interaktive Lehrerauswahl aktiviert ist, kam es zu einer Fehlermeldung, nun behoben.
 - Beim Schulträgerexport („Datenaustausch\>\>Schnittstelle SchILD-NRW 2\>\>Export an Schulträger“) kann nun gewählt werden, ob nur die aktuelle Auswahl berücksichtigt werden soll oder alle Schüler (also auch solche mit Status „Abgänger“ oder „Abschluss“).
 
-<a id="Gesamtschulen_5"></a>
-
 ### Gesamtschulen
 
 - Beim Statistik-Export wurden E- und G-Kurse nicht mit dem korrekten Schlüsselwert exportiert, dies ist nun korrigiert.
 
-<a id="Version_2.0.21.4"></a>
-
 ## Version 2.0.21.4
-
-<a id="Reportausgabe_9"></a>
 
 ### Reportausgabe
 
@@ -1252,12 +863,7 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - Telefonart) nicht mehr im Klartext ausgegeben. Dies ist nun durch ein alternatives
 - Verfahren, die Daten in der Datenbank zu ermitteln, behoben.
 
-<a id="Version_2.0.21.3"></a>
-
 ## Version 2.0.21.3
-
-<a id="Schulform_unabhängige_Änderungen_22"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_22"></a>
 
 ### Schulform unabhängige Änderungen
 
@@ -1268,12 +874,7 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - Bei der ersten Option ist eine Entschlüsselung nur mit dem Schulträgermodul von SchILDzentral möglich, bei der zweiten Option kann ein eigenes Kennwort für die Verschlüsselung verwendet werden, das dann aber dem Schulträger mitgeteilt werden muss.
 - Wichtig: Falls die Daten per E-Mail verschickt werden, sollte das Kennwort keinesfalls in der gleichen E-Mail mitgeteilt werden.
 
-<a id="Version_2.0.21.1"></a>
-
 ## Version 2.0.21.1
-
-<a id="Schulform_unabhängige_Änderungen_23"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_23"></a>
 
 ### Schulform unabhängige Änderungen
 
@@ -1281,30 +882,19 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - Die Berechtigungen zur Eingabe/Änderung von Fördermaßnahmen wurden angepasst.
 - Beim Halbjahreswechsel werden jetzt bei Epochalfächern neben der Note auch die Bemerkungen zum Fach (sofern vorhanden) übernommen.
 
-<a id="Grundschulen_7"></a>
-
 ### Grundschulen
 
 - In Kürze wird ein auf die Belange der Grundschulen zugeschnittenes „Grundschul-Notenmodul“ zur Verfügung stehen. In der aktuellen SchILD-NRW 2-Version können bereits Notendateien für dieses Modul erzeugt werden („Datenaustausch\>\>Externes Notenmodul“).
-
-<a id="Berufskollegs_14"></a>
 
 ### Berufskollegs
 
 - Die Versetzungsart „Versetzt, Anforderungen nicht erfüllt“ wurde beim Schuljahreswechsel nicht korrekt berücksichtigt, dies ist nun korrigiert.
 
-<a id="Reportausgabe_10"></a>
-
 ### Reportausgabe
 
 - In der Datenquelle „Schueler_zu_aktuellem_Betrieb“ wurden die Namen der Betreuer (im jeweiligen Betrieb) und der betreuenden Lehrkräfte nicht immer korrekt ausgegeben, dies ist nun korrigiert.
 
-<a id="Version_2.0.20.2"></a>
-
 ## Version 2.0.20.2
-
-<a id="Schulform_unabhängige_Änderungen_24"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_24"></a>
 
 ### Schulform unabhängige Änderungen
 
@@ -1315,78 +905,48 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - In der Abteilung Migrationshintergrund (Indiv.-Daten II) steht nun das Feld „Ende Anschlussförderung“ zur Verfügung. Im Filter I steht das Feld auch zur Verfügung.
 - Die Hilfstabellen wurden mit den aktuellen Schlüsseln für die Statistik 2018/19 versehen.
 
-<a id="Schulform_Primus"></a>
-
 ### Schulform Primus
 
 - Die Abschlussberechnung ab Klasse 9 wurde freigeschaltet.
-
-<a id="Realschule_und_Hauptschule"></a>
 
 ### Realschule und Hauptschule
 
 - Das Betreuungsmerkmal 6 steht ab jetzt auf Individual-Daten II zur Verfügung. Es muss aber vorher unter“ Schule bearbeiten“ eingerichtet werden.
 
-<a id="Grundschulen_8"></a>
-
 ### Grundschulen
 
 - Beim Zuordnen der Word-Zeugnisvorlagen kam es zu einer Zugriffverletzung. Das wurde behoben.
 
-<a id="Version_2.0.19.3"></a>
-
 ## Version 2.0.19.3
-
-<a id="Schulform_unabhängige_Änderungen_25"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_25"></a>
 
 ### Schulform unabhängige Änderungen
 
 - Ein Fehler beim Import der Notendateien wurde behoben.
 - Schulen, die das 2.0.19.2 Update ausgeführt haben benötigen nur die korrigierte Schild2000.exe.
 
-<a id="Version_2.0.19.2"></a>
-
 ## Version 2.0.19.2
-
-<a id="Schulform_unabhängige_Änderungen_26"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_26"></a>
 
 ### Schulform unabhängige Änderungen
 
 - Beim Mail-Versand über SMTP erschien kein Dialog-Fenster. Die ist nun behoben. Außerdem wurde nochmal ein Update der Fleximailer-Komponente eingespielt.
-
-<a id="Grundschulen_9"></a>
 
 ### Grundschulen
 
 - Es ist nun möglich, Steuerdateien für Zeugnisse auch im Excel-Format zu erstellen. Dadurch ist es möglich, weitere Daten (insbesondere Noten und Bemerkungen zu Fächern) z \* exportieren, die dann im Seriendruck ausgegeben werden können.
 - Wichtig: Falls vorhandene Word-Vorlagen verwendet werden sollen, so müssen diese zuvor an die Struktur der neuen Excel-Steuerdatei angepasst werden.
 
-<a id="Reportverwaltung_2"></a>
-
 ### Reportverwaltung
 
 - Bei Nutzung der Datenquelle „schriftliche Abiturfächer“ kam es zu einer Fehlermeldung, nun korrigiert.
 - Die Datenquelle „SchuelerKlasse“ wurde in manchen Fällen nicht automatisch geöffnet, nun korrigiert.
 
-<a id="Version_2.0.18.16"></a>
-
 ## Version 2.0.18.16
-
-<a id="Schulform_unabhängige_Änderungen_27"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_27"></a>
 
 ### Schulform unabhängige Änderungen
 
 - In einer internen Komponente ist ein Fehler bei der Sortierung der Fächer aufgetreten. Der Fehler führte dazu, dass die Sortierung auf Leistungsübersichten nicht mehr korrekt war. Das wurde korrigiert.
 
-<a id="Version_2.0.18.15"></a>
-
 ## Version 2.0.18.15
-
-<a id="Schulform_unabhängige_Änderungen_28"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_28"></a>
 
 ### Schulform unabhängige Änderungen
 
@@ -1401,30 +961,19 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
     - Sollte es bei den oberen beiden Optionen immer noch Probleme geben, so empfehlen wir den Versand direkt über SMTP. Dazu müssen die Angaben zum Server (globale Einstellungen) und die individuellen Kontodaten (individuelle Einstellungen) für die Mailaccounts hinterlegt werden.
 - In der Datenquelle Lernabschnitte wird jetzt bei der Auswahl der E-Mail-Adresse zu Schülern und Lehrern berücksichtigt, welche Einstellung (privat/dienstlich) bevorzugt genommen werden soll.
 
-<a id="Gesamtschule_2"></a>
-
 ### Gesamtschule
 
 - Bei der Ermittlung der Sprachenfolge sollte nun in der Gesamtschule im letzten Abschnitt der Q2 korrekt der 13. Jahrgang angegeben werden.
-
-<a id="Gymnasium_8"></a>
 
 ### Gymnasium
 
 - Es steht nun das Sprachniveau C1 zur Verfügung. Eine Berechnung dieses Niveaus erfolgt nicht.
 
-<a id="Gymnasiale_Oberstufe_5"></a>
-
 ### Gymnasiale Oberstufe
 
 - Bei der Zulassung zum Abitur werden nun die neuen Statistikkürzel zu Vokalpraktischen Kursen und Instrumentalpraktischen Kursen korrekt interpretiert.
 
-<a id="Version_2.0.18.10"></a>
-
 ## Version 2.0.18.10
-
-<a id="Schulform_unabhängige_Änderungen_29"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_29"></a>
 
 ### Schulform unabhängige Änderungen
 
@@ -1432,8 +981,6 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - Beim Versand von Serienmails aus der Reporting und beim Versand von Notendateien, wird nun zu Kontrollzwecken die erste E-Mail angezeigt, wenn ein Standardmailprogramm genutzt wird. Alle weiteren E-Mails werden dann im Hintergrund versendet.
 - Mailversand hatte Probleme bei Pfadangaben mit Leerzeichen. Die Notendateien wurden dann nicht als Anhang gesendet.
 - Mailprogramme ohne Extended-MAPI-Unterstützung können nur Einzelmails versenden. (z.B. Mail in Windows 10). Es erscheint ein entsprechender Hinweis.
-
-<a id="Grundschule_3"></a>
 
 ### Grundschule
 
@@ -1446,12 +993,7 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - Es stehen auch Datenquellen für diese Kompetenzen zur Verfügung, welche in einem nächsten Schritt veröffentlicht werden.
 - Unter dem Menüpunkt „Test“ gibt es nun einen Testexport für die XLS-Datei, die zukünftig den Word-Seriendruck für die Grundschulzeugnisse regeln soll. Es entsteht eine GSZeugnisExport.xls und diese wird im Programmverzeichnis abgelegt.
 
-<a id="Version_2.0.18.3"></a>
-
 ## Version 2.0.18.3
-
-<a id="Schulform_unabhängige_Änderungen_30"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_30"></a>
 
 ### Schulform unabhängige Änderungen
 
@@ -1475,8 +1017,6 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - Beim Notenversand ohne Kennwort wurde keine Notendatei angefügt. Es sollten zwar nur verschlüsselte Notendateien gesendet werden, aber dieser Fehler ist behoben.
 - Bei den Betrieben / Adressen wurde ein Fehler behoben, der die Sichtbarkeitsumschaltung verhindert hat.
 
-<a id="Berufskollegs_15"></a>
-
 ### Berufskollegs
 
 - In den Bildungsgängen der A01 wurde auf dem Karteireiter BKAbschluss ein weiteres Feld eingeführt, das das Bestehen des IHK-Abschlusses mit Ja/Nein verwaltet.
@@ -1486,72 +1026,44 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - Die Reportingdatenquelle FHRFaecher verwendet jetzt die gliederungsbezogenen Einstellungen bei der Sortierung.
 - Im Gruppenprozess „Versetzungsvermerk setzen“ steht nun auch die Spalte „Zeugnisart“ zur Verfügung.
 
-<a id="Schulform_Primus_2"></a>
-
 ### Schulform Primus
 
 - Die Kursart DK steht nun zur Verfügung. Auch können nun Primusdatenbanken über die Ersteinrichtung selbst eingerichtet werden.
 
-<a id="Förderschulen_3"></a>
-<a id="F.C3.B6rderschulen_3"></a>
-
 ### Förderschulen
 
 - Es wurden einige Änderungen an dem Versetzungsalgorithmus gemacht. Es kann nun der Jahrgang der Klasse in der Klassen-/Versetzungstabelle leer bleiben. Die Folgejahrgänge werden chronologisch hochgeschrieben, wobei in den Primarjahrgängen die gleiche Reihenfolge genommen wird wie in der Grundschule. Förderschulen mit 11-jährigen Bildungsgängen müssen die Spalte Folgejahrgänge in den Statistikjahrgängen benutzen!
-
-<a id="Gesamtschulen_6"></a>
 
 ### Gesamtschulen
 
 - Die Sprachenfolge in der Q2 wird im Gruppenprozess nun wieder richtig mit 13 ermittelt.
 - Im Gruppenprozess „Individualdaten ändern“ ist den Lernabschnitten nun auch das Feld „Abschluss ist Prognose“ enthalten.
 
-<a id="Version_2.0.17.5"></a>
-
 ## Version 2.0.17.5
-
-<a id="Schulform_unabhängige_Änderungen_31"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_31"></a>
 
 ### Schulform unabhängige Änderungen
 
 - In einigen Datenbanken wurden Fächer mit leeren Fachkürzeln gefunden, was den Export von Notenmodulen verhindert hat. Dieser Fehler wurde abgefangen.
 
-<a id="Berufskollegs_16"></a>
-
 ### Berufskollegs
 
 - In MySQL-Datenbanken konnte in manchen Bildungsgängen die FHR-Durchschnittsnote nicht manuell eingetragen werden.
-
-<a id="Gesamtschule_3"></a>
 
 ### Gesamtschule
 
 - An der Gesamtschule wird beim Holen der Sprachenfolge nun 13 statt 12 eingetragen (bei Q2-Schülern)
 
-<a id="Grundschulen_10"></a>
-
 ### Grundschulen
 
 - Bei der Versetzung wurde der Jahrgang 03 versehentlich als Abschlussjahrgang ausgewiesen, dieses Problem wurde behoben.
 
-<a id="Version_2.0.17.3"></a>
-
 ## Version 2.0.17.3
-
-<a id="Schulform_unabhängige_Änderungen_32"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_32"></a>
 
 ### Schulform unabhängige Änderungen
 
 - Es wurde ein Fehler bei der Übermittlung der Benutzerbezogenen Kennwörter beim Export in die Notenmodule behoben.
 
-<a id="Version_2.0.17.2"></a>
-
 ## Version 2.0.17.2
-
-<a id="Schulform_unabhängige_Änderungen_33"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_33"></a>
 
 ### Schulform unabhängige Änderungen
 
@@ -1559,11 +1071,7 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - Ein Problem im letzten Update bei MySQL-Datenbanken in der Anzeige der Leistungsdaten bei eingeschaltetem Fehlzeiten-Reiter wurde behoben.
 - In einigen Fällen kam beim Export der Notendateien die Meldung „Operation kann bei geöffneter Datenmenge nicht ausgeführt werden“. Dieser Fehler wurde behoben.
 
-<a id="Version_2.0.17.1"></a>
-
 ## Version 2.0.17.1
-
-<a id="Grundschule_4"></a>
 
 ### Grundschule
 
@@ -1577,8 +1085,6 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - Eine Prüfung auf eine eindeutige Kombination von Jahrgang und Parallelität wurde nun auch eingeführt. Es ist nun nicht mehr möglich, z.B. JUA zweimal zu vergeben.
 - Das Feld „Klassenart“ aus den aktuellen Laufbahndaten wurde auf die Seite „Individual-Daten I“ geholt, damit es im aktuellen Abschnitt besser kontrolliert werden kann.
 
-<a id="Berufskolleg_11"></a>
-
 ### Berufskolleg
 
 - In der Anlage E wurde die Berechnung der Durchschnittsnote zur FHR angepasst. Es werden nun die Vornote und die Abschlussnote des schriftlichen FHR-Fachs in den Durschnitt eingebracht. Dabei kann man zwei Varianten wählen:
@@ -1586,60 +1092,38 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
   2.  Es wird eigens für die schriftliche Prüfung ein Fach eingeführt, dann bleibt hier die Vornote leer. Auch in diesem Fall werden ja dann beide Noten berücksichtigt.
 - Außerdem wird geprüft, ob das FHR-Fach mit mindestens 4 abgeschlossen wurde.
 
-<a id="Gymnasium_9"></a>
-
 ### Gymnasium
 
 - Bei Schülern mit der Gliederung „GY9=Wiedereinrichter G9“ wird jetzt wieder der ZP10/Reiter in dem Jahrgang 10 eingeblendet.
 
-<a id="Version_2.0.16.7"></a>
-
 ## Version 2.0.16.7
-
-<a id="Gymnasiale_Oberstufe_6"></a>
 
 ### Gymnasiale Oberstufe
 
 - Es wurde noch einige Fehler im Zulassungsalgorithmus behoben.
 - Es wird nun erkannt, dass die neueinsetzende Fremdsprache in Q2.2 mündlich sein muss und auch bei AB4 mündlich ist.
 
-<a id="Version_2.0.16.4"></a>
-
 ## Version 2.0.16.4
-
-<a id="Firebird-Datenbanken"></a>
 
 ### Firebird-Datenbanken
 
 - Beim Druck aus Firebird-Datenbanken kam es zu einem SQL-Error.
 
-<a id="Berufskolleg_Abitur"></a>
-
 ### Berufskolleg Abitur
 
 - Der Zulassungsalgorithmus in Anlage D hat die auftretenden Fehler nicht angezeigt. Das Protokoll wurde wieder aktiviert.
-
-<a id="Schulform_unabhängige_Änderungen_34"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_34"></a>
 
 ### Schulform unabhängige Änderungen
 
 - In der Klassen- / Versetzungstabelle wurde die Standardeinstellung bei „Auf Schülerdaten übertragen“ auf „nur aktueller Abschnitt“ gesetzt.
 - Datenquelle SchuelerFHRFaecher: Beim Berufskolleg wurden die „gliederungs-spezifischen Einstellungen“ nicht berücksichtigt, nun korrigiert.
 
-<a id="Version_2.0.16.3"></a>
-
 ## Version 2.0.16.3
-
-<a id="Gymnasiale_Oberstufe_7"></a>
 
 ### Gymnasiale Oberstufe
 
 - Änderungen zum Abituralgorithmus wurden eingepflegt. Der Lupo-Direkt-Export wurde korrigiert. Es sollten jetzt auch wieder alle Sprachenfolgen in der Lupo-Datei ankommen.
 - In der Fächertabelle können nun Projektkurse als zwei- oder dreistündige Oberstufenkurse definiert werden.
-
-<a id="Schulform_unabhängige_Änderungen_35"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_35"></a>
 
 ### Schulform unabhängige Änderungen
 
@@ -1658,31 +1142,18 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - Bei Eltern mit schulinterner Funktion wird nun die E-Mail-Adresse der zweiten Person auch korrekt übernommen.
 - Im Filter I unter den Lernabschnittsdaten kann nun auch auf ASV gefiltert werden.
 
-<a id="Gesamtschulen,_Sekundarschulen"></a>
-<a id="Gesamtschulen.2C_Sekundarschulen"></a>
-
 ### Gesamtschulen, Sekundarschulen
 
 - Es wurde eine PrognosLib.dll ins Hauptverzeichnis gespeichert.
 - Wenn in SchILD-NRW 2 eine Prognose angestoßen ist, meldet SchILD-NRW 2 nun in einem Fenster beide Prognosen (Prognos und SchILD-NRW 2-Intern). Sollten die Tests mit der Prognos.dll erfolgreich sein, kann diese eingeschaltet werden.
 
-<a id="Version_2.0.15.9"></a>
-
 ## Version 2.0.15.9
-
-<a id="Schulform_unabhängige_Änderungen_36"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_36"></a>
 
 ### Schulform unabhängige Änderungen
 
 - Es wurde ein Problem beim Import der SchuelerLeistungsdaten.dat über die Schnittstelle-Schild-NRW behoben.
 
-<a id="Version_2.0.15.8"></a>
-
 ## Version 2.0.15.8
-
-<a id="Schulform_unabhängige_Änderungen_37"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_37"></a>
 
 ### Schulform unabhängige Änderungen
 
@@ -1696,24 +1167,16 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - Es gibt nun einen Fehlzeitenimport/-export über die Schnittstelle. Die genaue Beschreibung wird in der Schnittstellenbeschreibung veröffentlicht. Damit ist es nun möglich die Tagesbezogenen Fehlzeiten extern zu erfassen und dann in SchILD-NRW 2 später zu importieren (oder anders herum).
 - In Filter I können Auswahlkriterien nun auch mit Doppelklick übernommen werden. (zusätzlich zum „roten Pfeil“)
 
-<a id="Realschule"></a>
-
 ### Realschule
 
 - In Realschulen mit Bildungsgang „H“ wurde der GeR-Rechner angepasst. Außerdem wurde die Anzeige der Lernbereichsnoten HA10 korrigiert.
-
-<a id="Grundschule_5"></a>
 
 ### Grundschule
 
 - Wenn beim Schuljahreswechsel über Schulverwaltung \> Eigene Schule bearbeiten in der Visuellen Kontrolle eine Änderung auf „nicht versetzt“ gemacht wurde, konnte es bei diesen Schülern zu Problemen bei der Versetzung kommen. Der Fehler ist behoben.
 - Bei der Versetzung mit Versetzungsvermerk „Verbleib in der Schuleingangsphase“ kam es zu einem Fehler bei den ersten Jahrgängen (Versetzung von E1 nach E3). Der Fehler ist behoben.
 
-<a id="Version_2.0.15.6"></a>
-
 ## Version 2.0.15.6
-
-<a id="Firebird-Datenbanken_2"></a>
 
 ### Firebird-Datenbanken
 
@@ -1728,9 +1191,6 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
       Falls sich der Primärschlüssel nicht anlegen lässt, kann es sein, dass noch der alte existiert, dann diesen mit alter table Floskeln drop constraint Floskeln_PK löschen und das Anlegen des neuen Primärschlüssels wiederholen.
   7.  Importieren Sie die Floskeln aus der Datei, die Sie exportiert haben.
 
-<a id="Schulform_unabhängige_Änderungen_38"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_38"></a>
-
 ### Schulform unabhängige Änderungen
 
 - Alle PlugIns (DLLs) wurden auf ein neues Verfahren umgestellt.
@@ -1741,32 +1201,20 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - In der Übersicht Sek1 wird nun eine Spalte Summe-Jahres-Wstd ausgegeben. Dort werden die unterrichteten Einheiten pro Schuljahr gerechnet und können nach Excel exportiert werden.
 - Die Floskelnummer (z.B. \#A11) wird nach dem ENTER wieder ersetzt.
 
-<a id="Berufskollegs_17"></a>
-
 ### Berufskollegs
 
 - In der Datenquelle AbiFaecher ist jetzt auch das Feld R_FA (Markierung der Facharbeit) enthalten.
 - Auf dem Reiter BKAbschluss wurden nun die Abschlussberechnungen und Änderungen für die Gliederungen B06, B07,B08-B10, A12 und A13 umgesetzt.
 - In der Statkue.mdb stehen neue Abgangsarten zur Verfügung.
 
-<a id="Version_2.0.15.4"></a>
-
 ## Version 2.0.15.4
-
-<a id="Schulform_unabhängige_Änderungen_39"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_39"></a>
 
 ### Schulform unabhängige Änderungen
 
 - Bei einigen Datenbanken kam es nach dem Update auf 2.0.15.3 zu einer Fehlermeldung beim Start von SchILD-NRW 2. (Listenindex überschreitet das Maximum)
 - Diese Version behebt diesen Fehler, Sie müssen das Update nur in diesem Fall einmal manuell ausführen.
 
-<a id="Version_2.0.15.3"></a>
-
 ## Version 2.0.15.3
-
-<a id="Schulform_unabhängige_Änderungen_40"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_40"></a>
 
 ### Schulform unabhängige Änderungen
 
@@ -1783,12 +1231,7 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - Beim Druck mit gleichzeitiger Archivierung konnte es zu einem Fehler kommen.
 - Mails an Erzieher werden nun auch gesendet, wenn der erste Erzieher keine Mailadresse eingetragen hat.
 
-<a id="Version_2.0.14.14"></a>
-
 ## Version 2.0.14.14
-
-<a id="Schulform_unabhängige_Änderungen_41"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_41"></a>
 
 ### Schulform unabhängige Änderungen
 
@@ -1799,19 +1242,12 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - Bei den Erzieher-Mails wird nun auch die zweite Mail-Adresse berücksichtigt.
 - In der Wiedervorlage können bestimmte Meldungen nun vom Löschprozess ausgenommen werden.
 
-<a id="Version_2.0.14.12"></a>
-
 ## Version 2.0.14.12
-
-<a id="Sekundarschulen_und_Gesamtschulen_2"></a>
 
 ### Sekundarschulen und Gesamtschulen
 
 - Änderungen in den Schulgliederungen unter Schulverwaltung \> Schule bearbeiten: Es wurden überflüssige und in der Statistik störende Gliederungen entfernt! Dadurch kann es sein, dass die bei Ihnen bisher eingestellte Gliederung (z.B. H\*\*) nicht mehr angezeigt wird. Wählen Sie bitte eine korrekte Gliederung aus (Im Beispiel H). Diese Gliederung muss bei allen Schülern per Gruppenprozess neu zugewiesen werden!!!
 - In diesem Zuge sollten nun auch Verbundschulen mit den auslaufenden Bildungsgängen R und H einige Korrekturen bei den Berechnungen erhalten. Die Versetzungsberechnungen sollten nun korrekt und ab Klasse 6 ausgeführt werden können. Außerdem kann eine korrekte Prüfungsordnung bei diesen Schülern gewählt werden.
-
-<a id="Schulform_unabhängige_Änderungen_42"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_42"></a>
 
 ### Schulform unabhängige Änderungen
 
@@ -1828,9 +1264,6 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - Die Funktion „Hilfe \> Auf Update prüfen“ steht ab sofort nur noch mit Admin-Rechten zur Verfügung.
 - Ein Fehler in der Abfrage von Lehrer-Stammblättern (Reporting) wurde behoben.
 
-<a id="Gymnasiale_Oberstufe_(z.T._auch_BK)"></a>
-<a id="Gymnasiale_Oberstufe_.28z.T._auch_BK.29"></a>
-
 ### Gymnasiale Oberstufe (z.T. auch BK)
 
 - Der Export der Schülerdaten für Lupo hatte einen falschen Ausgabedialog.
@@ -1838,24 +1271,15 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - Es können nun optional auch in der Sprachenfolge die Jahrgänge 3 und 4 verwendet werden, falls der Schüler den Englisch-Unterricht der Grundschule dokumentiert haben möchte.
 - Die Änderungen bei den GeR-Berechnungen (BASS) wurden berücksichtigt.
 
-<a id="Grundschule_6"></a>
-
 ### Grundschule
 
 - In der Klassen-/Versetzungstabelle wurde in der Übersichtstabelle der Jahrgang EP nicht angezeigt.
-
-<a id="Berufskollegs_18"></a>
 
 ### Berufskollegs
 
 - In der Tabelle Schulverwaltung \> Fachklassen können nun die neuen „Berufsebenen 1 bis 3“ zur Fachklasse nachgeladen werden. Hier stehen die Bezeichnungen für Schwerpunkt und Fachrichtungen für den Zeugnisdruck zur Verfügung. In den Datenquellen „Lernabschnitte“ und „Schueler“ gibt es nun Felder Berufsebene1…3 dazu.
 
-<a id="Version_2.0.14.9"></a>
-
 ## Version 2.0.14.9
-
-<a id="Schulform_unabhängige_Änderungen_43"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_43"></a>
 
 ### Schulform unabhängige Änderungen
 
@@ -1863,12 +1287,7 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - Bitte ersetzen Sie die Schild2000.exe umgehend durch den aktuellen BugFIX!
 - Wir bitten diese Unannehmlichkeiten zu entschuldigen.
 
-<a id="Version_2.0.14.7"></a>
-
 ## Version 2.0.14.7
-
-<a id="Schulform_unabhängige_Änderungen_44"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_44"></a>
 
 ### Schulform unabhängige Änderungen
 
@@ -1877,12 +1296,7 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - Fehler bei den fachbezogenen Bemerkungen behoben.
 - Bitte tauschen Sie die Schild2000.exe im Programmverzeichnis aus.
 
-<a id="Version_2.0.14.2"></a>
-
 ## Version 2.0.14.2
-
-<a id="Schulform_unabhängige_Änderungen_45"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_45"></a>
 
 ### Schulform unabhängige Änderungen
 
@@ -1916,13 +1330,9 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - Die ReplaceText-Funktion in der Reporting ersetzt nun auch Unicode-Zeichen korrekt.
 - Im Memofeld zu den Floskeln wird nun die Anzahl der Zeichen angezeigt.
 
-<a id="Grundschule_7"></a>
-
 ### Grundschule
 
 - In der Klassen-/Versetzungstabelle muss nun kein Jahrgang mehr bei den Klassen eingetragen werden. Die Versetzung kann aber trotzdem über „Schulverwaltung \> Schule bearbeiten“ durchgeführt werden.
-
-<a id="Berufskollegs_19"></a>
 
 ### Berufskollegs
 
@@ -1932,17 +1342,12 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - In der Anlage C03 werden nun wieder der berufsbildende Abschluss und das FHRs korrekt eingetragen.
 - In einigen Fällen wurde das Datenfeld „Lernabschnitte \> Abschluss_B“ nicht mit der korrekten Prüfungsordnung gefüllt, dies wurde korrigiert.
 
-<a id="Version_2.0.13.1"></a>
-
 ## Version 2.0.13.1
-
-<a id="Schulform_unabhängige_Änderungen_46"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_46"></a>
 
 ### Schulform unabhängige Änderungen
 
 - Neben den Leistungsdaten im akt. Abschnitt gibt es nun einen Karteireiter Fehlzeiten. Dort können Stundenbezogene Fehlzeiten mit Tagesdatum verwaltet werden.
-- Näheres dazu im WIKI: [Fehlzeiten](/zeugnisse/vorbereitung/akt-halbjahr#Fehlzeiten)
+- Näheres dazu im WIKI: [Fehlzeiten](/zeugnisse/vorbereitung/akt-halbjahr#fehlzeiten)
 - Über die globalen Programmeinstellungen (Karteireiter "Ansicht") kann jetzt eingestellt werden, ob der Reiter „Fehlzeiten“ im aktuellen Abschnitt gezeigt werden soll.
 - Die Statistik.dll wurde erneuert, damit wird nun eine SIN.txt erstellt, die auch die neue „kürzere“ Erfassung des Migrationshintergrundes exportiert.
 - Teilweise wurden Umlaute in von SchILD-NRW 2 versendeten Mails nicht korrekt dargestellt. Hier wurde eine Einstellung verändert.
@@ -1957,15 +1362,11 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - Die Sortierung der Betriebe in Reports wirkt sich nun auch auf das Versenden von Serien-Mails aus.
 - Die neuen Fortschreibungsarten werden beim Gruppenweise ändern unter „Kursverwaltung“ nun angeboten.
 
-<a id="Gymnasium_10"></a>
-
 ### Gymnasium
 
 - Im Abiturbereich verschwand das PJK-Thema bei manuellen Änderungen, das wurde behoben.
 - Berechnung der GeR-Referenzniveaus berücksichtigt in der Oberstufe nun die „4-„.
 - Abitur: Der Zusatz „/(G8)“ wurde aus der Prüfungsordnung „Apo-GOST(B) entfernt, da er ja an Gesamtschulen unsinnig ist.
-
-<a id="Berufskollegs_20"></a>
 
 ### Berufskollegs
 
@@ -1976,12 +1377,7 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
   2.  BKAbschlussFaecher_BUE (berufsübergreifend)
   3.  BKAbschlussFaecher_DIFF (Diffeenzierungsbereich)
 
-<a id="Version_2.0.12.1"></a>
-
 ## Version 2.0.12.1
-
-<a id="Schulform_unabhängige_Änderungen_47"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_47"></a>
 
 ### Schulform unabhängige Änderungen
 
@@ -2000,13 +1396,9 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
   2.  Vereinfachte Eingabe, dabei werden nur die Angaben "Nicht in Deutschland geboren", "Mindestens ein Elternteil nicht in Deutschland geboren" und "Verkehrssprache in der Familie nicht Deutsch" verlangt (als "Ankreuzfelder")
 - Wenn eine Schule die vereinfachte Eingabe nutzen möchte, so ist bei den globalen Programmeinstellungen die Option "Vereinfachte Eingabe für Zuwanderungsgeschichte verwenden" zu aktivieren. Bitte beachten Sie, dass eine Rückkehr zum detaillierten Modell nicht ohne Datenverlust möglich ist!
 
-<a id="Berufskollegs_21"></a>
-
 ### Berufskollegs
 
 - Bei der Herkunft XS auf dem Reiter Schulbesuch stehen nun alle Abschlüsse zur Verfügung, auch wenn XS als Schulform eingetragen ist.
-
-<a id="Gymnasium_11"></a>
 
 ### Gymnasium
 
@@ -2014,43 +1406,27 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - Die Möglichkeit, Hochrechnungen (z.B. für Abitur) durchzuführen, wurde entfernt. Dies kann über LuPO komfortabler gemacht werden.
 - An Gesamtschulen wurden beim Gruppenprozess "Sprachenfolge aus Leistungsdaten ermitteln" in der Oberstufe falsche Jahrgänge eingetragen, nun korrigiert.
 
-<a id="Gesamtschule_4"></a>
-
 ### Gesamtschule
 
 - Beim Gruppenprozess „Sprachenfolge ermitteln“ erhielten Schüler der EF an den Gesamtschulen den Eintrag Jahrgang 10, dies wurde auf 11 korrigiert.
-
-<a id="Reportausgabe_11"></a>
 
 ### Reportausgabe
 
 - Ausgabe von Betrieben und Praktikumsadressen: \* Wenn bei einem Schüler mehrere Betriebe (oder Praktikumsadressen) eingetragen waren, so wurde in Reports nicht immer die gleiche Reihenfolge verwendet wie im Programm selbst. Dies ist nun korrigiert, die Reports geben die Adressen in der gleichen Reihenfolge aus wie in SchILD-NRW 2.
 - Die Datenquelle SchuelerEinzelleistungen wurde in SchuelerTeilleistungen umbenannt. Dies muss in bestehenden Reports geändert werden.
 
-<a id="Version_2.0.11.8"></a>
-
 ## Version 2.0.11.8
-
-<a id="Schulform_unabhängige_Änderungen_48"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_48"></a>
 
 ### Schulform unabhängige Änderungen
 
 - Im Filter I wurde die Auswahl der Jahrgänge nicht korrekt berücksichtigt, nun behoben.
 - Im Filter I werden nun auf dem Karteireiter „Lernabschnitt/Leistungsdaten“ die Felder „Schuljahr“ und „Abschnitt“ mit den aktuellen Daten der Schule vorbelegt.
 
-<a id="Berufskollegs_22"></a>
-
 ### Berufskollegs
 
 - Im Fenster „Fachklassen bearbeiten“ wurde der Schreibschutz für das Feld „DQR-Niveau“ aufgehoben. Es ist jetzt möglich, in Fällen, in denen beim automatischen Abgleich kein DQR-Niveau gefunden wird, dieses manuell einzutragen.
 
-<a id="Version_2.0.11.7"></a>
-
 ## Version 2.0.11.7
-
-<a id="Schulform_unabhängige_Änderungen_49"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_49"></a>
 
 ### Schulform unabhängige Änderungen
 
@@ -2060,21 +1436,15 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - Die Programm-Einstellungen \> Global \> Report-Einstellungen und Report-Verzeichnisse wurden auf einen Reiter gelegt.
 - Es ist unter Report-Verzeichnisse nun auch möglich, einen Pfad (UNC-Pfad) einzutippen.
 
-<a id="Berufskollegs_23"></a>
-
 ### Berufskollegs
 
 - In der neuen Statkue wurden durch die neue APO-BK viele Fachklassen als auslaufend markiert. Diese waren unter „Schulbesuch“ nun nicht mehr in der Herkunft auswählbar.
 - Man kann nun alle auslaufenden Fachklassen auswählen, der Status der Fachklasse wird nun auch angezeigt.
 - Der Versetzungsalgorithmus wurde angepasst, es sollten nun auch Klassen korrekt behandelt werden, in denen Schüler sind, die im letzten Jahrgang eines 3,5-jährigen Bildungsgangs sind (mit Restabschnitt=1). In solchen Fällen wurden alle Mitglieder dieser Klasse fälschlicherweise auf den Status „Abschluss“ gesetzt.
 
-<a id="Gymnasium_12"></a>
-
 ### Gymnasium
 
 - Es wurde ein Darstellungsfehler auf dem „ZK-Reiter“ behoben. Jetzt können wieder die Fächer angezeigt werden.
-
-<a id="Reportverwaltung_3"></a>
 
 ### Reportverwaltung
 
@@ -2082,35 +1452,21 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - In der Datenquelle für die Schüler-Anrede wurde bei minderjährigen Schülern die Änderung zurückgenommen, damit bestehende Reports wieder funktionieren. Es steht nun unter Extras \> Programm-Einstellungen \> Report-Einstellungen eine Option zur Verfügung, wo die Ersetzung zu „Lieber/Liebe“ in der Anrede auf Wunsch eingeschaltet werden kann.
 - Reporting: Das Datum „Ende der Eingliederung“ unter Migrationshintergrund steht nun in der Datenquelle Schueler zur Verfügung.
 
-<a id="Version_2.0.11.5"></a>
-
 ## Version 2.0.11.5
-
-<a id="Schulform_unabhängige_Änderungen_50"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_50"></a>
 
 ### Schulform unabhängige Änderungen
 
 - Beim Abschnittswechsel über den Gruppenprozess konnte es passieren, dass die Schulbesuchsjahre nicht mehr angezeigt wurden.
 
-<a id="Reportausgabe_12"></a>
-
 ### Reportausgabe
 
 In der Datenquelle für die Schüler-Anrede wurde bei minderjährigen Schülern das Frau/Herr durch Liebe/Lieber ersetzt.
-
-<a id="Weiterbildungskolleg_2"></a>
 
 ### Weiterbildungskolleg
 
 - Bei der Markierung der Abiturfächer wurde die Berücksichtigung der Pflichtbindung geändert. Es werden aus aufeinanderfolgenden Kursen nun die zwei besten ausgewählt.
 
-<a id="Version_2.0.11.4"></a>
-
 ## Version 2.0.11.4
-
-<a id="Schulform_unabhängige_Änderungen_51"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_51"></a>
 
 ### Schulform unabhängige Änderungen
 
@@ -2143,13 +1499,9 @@ In der Datenquelle für die Schüler-Anrede wurde bei minderjährigen Schülern 
 - Teilleistungen_SchuelerFaecher: Die "Hauptdatenquelle", die die Schülernamen und Fachbezeichnungen liefert. Nur wenn diese als Hauptdatenquelle des Reports verwendet wird, erscheint ein Dialog, in dem ausgewählt werden kann, welche Fächer und Teilleistungsarten berücksichtigt werden sollen.
 - Wichtig: Es handelt sich um "Stand-Alone-Pipelines", die zwar die aktuelle Schülerauswahl berücksichtigen, ansonsten aber nicht mit anderen Pipelines kombiniert werden können.
 
-<a id="Gymnasiale_Oberstufe_8"></a>
-
 ### Gymnasiale Oberstufe
 
 - In der FHR-Berechnung kam es manchmal zu einer Punktdifferenz von einem Punkt.
-
-<a id="Berufskollegs_24"></a>
 
 ### Berufskollegs
 
@@ -2160,12 +1512,7 @@ In der Datenquelle für die Schüler-Anrede wurde bei minderjährigen Schülern 
 - Die FHR-Berechnung berücksichtigte das Fach Didaktik und Methodik „DM“ nicht unter Gesellschaftslehre.
 - In den Stundentafeln wird nun die Fachklassenbezeichnung in die Beschreibung übernommen.
 
-<a id="Version_2.0.10.1"></a>
-
 ## Version 2.0.10.1
-
-<a id="Schulform_unabhängige_Änderungen_52"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_52"></a>
 
 ### Schulform unabhängige Änderungen
 
@@ -2191,37 +1538,23 @@ In der Datenquelle für die Schüler-Anrede wurde bei minderjährigen Schülern 
 - Fachbezogene Bemerkungen werden nun auch wieder bei abgeschlossenen Fächern geholt.
 - Bei der Fortschreibungsart „Nur Definition (…)“ haben Kopieren und Einfügen von Fächern mit Kurs nicht funktioniert.
 
-<a id="Gymnasium_13"></a>
-
 ### Gymnasium
 
 - An Gymnasien mit G9 wird nun das Referenzniveau der sonstigen Fremdsprachen in Klasse 10 richtig berechnet.
 - Bei den FHR-Berechnungen wurden manchmal Noten statt Punkte geholt.
 
-<a id="Weiterbildungskollegs"></a>
-
 ### Weiterbildungskollegs
 
 - Einige Fehler bei den Abiturberechnungen und in der FHR-Berechnung wurden behoben.
 
-<a id="Version_2.0.9.3"></a>
-
 ## Version 2.0.9.3
-
-<a id="Schulform_unabhängige_Änderungen_53"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_53"></a>
 
 ### Schulform unabhängige Änderungen
 
 - Beim Menüpunkt „Schulverwaltung \> Statistik / amtl. Schuldaten“ ein Menüpunkt „Hilfe bei Problemen“ wurde noch ein Merkmal „Meldungen zeigen“ ergänzt. Damit kann man sich die Meldungen des Betriebssystems anzeigen lassen, um bei Problemen besser reagieren zu können.
 - Dieses Update brauchen Sie nur auszuführen, wenn Sie unter Windows 7 oder Windows 8 in einer Netzwerkumgebung immer noch die Fehlermeldung „Klasse nicht registriert“ beim Aufruf der Statistikfunktionen erhalten.
 
-<a id="Version_2.0.9.2"></a>
-
 ## Version 2.0.9.2
-
-<a id="Schulform_unabhängige_Änderungen_54"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_54"></a>
 
 ### Schulform unabhängige Änderungen
 
@@ -2236,12 +1569,7 @@ In der Datenquelle für die Schüler-Anrede wurde bei minderjährigen Schülern 
 - In der Tabelle „Schulverwaltung \> Kurse“ können nun per rechter Maustaste die Angaben zum Kurs bei Schülern aktualisiert werden, was nach einem Import sinnvoll sein kann.
 - Bei Schulform GY und „Wiedereinrichtern G9“ kam es u.U. zu Fehlern bei der Fortschreibung der Kurse.
 
-<a id="Version_2.0.9.1"></a>
-
 ## Version 2.0.9.1
-
-<a id="Schulform_unabhängige_Änderungen_55"></a>
-<a id="Schulform_unabh.C3.A4ngige_.C3.84nderungen_55"></a>
 
 ### Schulform unabhängige Änderungen
 
@@ -2263,15 +1591,11 @@ In der Datenquelle für die Schüler-Anrede wurde bei minderjährigen Schülern 
 - In der Klassen-/Versetzungstabelle gibt es an Hauptschulen, Sekundarschulen und Förderschulen nun das Feld „Kooperationsklasse“, dieses wird in der SIM.txt nun separat an die Statistik übergeben. Die Klassenart „Kooperationsklasse“ entfällt damit.
 - Bei „Doppelte Nennung des Vornamens vermeiden“ in den Floskeln wurde ein Problem mit der Kleinschreibung behoben.
 
-<a id="Berufskollegs_25"></a>
-
 ### Berufskollegs
 
 - Die Gruppenprozesse für den Reiter „BK-Abschluss“ werden nun wieder aus der gefilterten Menge der Schüler bestimmt.
 - Diese werden aber nur eingeblendet, wenn die Kombination aus Gliederung und Jahrgang eindeutig ist. Bei Mischklassen müssen also die Teile der Klasse gefiltert werden.
 - Die Eintragungen der Statistik-Abschlüsse in Anlage A01 wurden korrigiert.
-
-<a id="Sekundarschule"></a>
 
 ### Sekundarschule
 

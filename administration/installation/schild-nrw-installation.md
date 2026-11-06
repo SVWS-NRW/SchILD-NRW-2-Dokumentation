@@ -2,12 +2,6 @@
 title: "SchILD-NRW 2 installieren"
 ---
 
-<a id="installation-von-schild2"></a>
-
-<a id="schild-nrw-installation"></a>
-
-<a id="schild-nrw-installieren"></a>
-
 # SchILD-NRW 2 installieren
 
 Diese Anleitung führt durch die Installation von SchILD-NRW 2 und die Einrichtung des Datenbankzugriffs. SchILD-NRW 2 arbeitet direkt mit einer Datenbank. Hinweise zum Nachfolgeprogramm sind von den folgenden Installationsschritten zu unterscheiden.
@@ -24,13 +18,9 @@ Bitte wägen Sie ab, ob ein Umstieg auf SchILD-NRW 2 oder ein Umstieg der Datenh
 
 Ggf. ist der Aufbau einer neuen Umgebung für SVWS-Server und SchILD-NRW 3 hier ressourcenschonender.
 
-<a id="Einzelplatzinstallation"></a>
-
 ## Einzelplatzinstallation
 
 In den folgenden Abschnitten erfahren Sie, wie SchILD-NRW 2 installiert werden kann. Vor der Installation sollten Sie die Systemvoraussetzungen prüfen. Als Betriebssysteme benötigen Sie Windows 10 oder höher. Die Bildschirmauflösung sollte mindestens 1024x768 betragen.
-
-<a id="Download_der_Installationsdateien"></a>
 
 ### Download der Installationsdateien
 
@@ -43,9 +33,6 @@ Die Installation auf einem Einzelplatzrechner erfolgt über die Datei Basissetup
 Führen Sie diese Installationsdateien aus und lassen Sie sich von dem Assistenten durch die Routine leiten. Bei der Installation ist zu beachten, dass Sie Administratorrechte auf dem Windowsrechner benötigen. Bitte vergewissern Sie sich, dass dies der Fall ist.
 
 Durch die Besonderheiten, die durch den Schutz des „Programmverzeichnisses“ bei Windows 7 und Windows 10 zu beachten sind, empfehlen wir die Installation in das Verzeichnis C:\Schild-NRW. Der Installationsort kann auch verändert werden, bitte beachten Sie aber, dass Sie in dem gewählten Verzeichnis volle Zugriffsrechte haben.
-
-<a id="Registrierung_der_ASDStatitsik.dll"></a>
-<a id="Registrierung_der_Statitsik.dlls"></a>
 
 ### Registrierung der ASDStatitsik.dll
 
@@ -67,8 +54,6 @@ Ein Video-Tutorial gibt es hier:
 
 [Video ansehen](https://www.youtube-nocookie.com/embed/x0I1M7M5EMM)
 
-<a id="Verbindung_zur_Datenbank"></a>
-
 ### Verbindung zur Datenbank
 
 ![Datenbankdatei](/bilder/administration/installation/datenbankdatei.jpg)
@@ -78,8 +63,6 @@ Ein Video-Tutorial gibt es hier:
 Die Standarddatenbank liegt im Ordner DB der SchILD-NRW 2-Installation und hat den Namen Schild2000n.mdb. Diese Datenbank wird unter SchILD-NRW 2 unter der Bezeichnung `SchILD-Standarddatenbank` angeboten.
 
 Wenn Sie bereits eine bestehende Datenbank aus einer anderen Installation besitzen, so kopieren Sie die Datei Schild2000n.mdb in den Ordner DB und überschreiben die leere Datenbank aus der Basis-Installation. Somit stehen Ihnen die Schülerdaten wieder zur Verfügung.
-
-<a id="Verbindung_zu_mehreren_Datenbanken"></a>
 
 ### Verbindung zu mehreren Datenbanken
 
@@ -107,8 +90,6 @@ Speichern Sie diese Textdatei mit dem Dateinamen.udl als UNICODE-Datei ab! Kopie
 
 Diese Schritte sind nur notwendig, wenn Sie Zugriff auf mehrere Datenbanken haben wollen. Sollten Sie mit diesen Hinweisen nicht zurechtkommen, so kontaktieren Sie bitte Ihren Fachberater oder Ihren IT-Dienstleister.
 
-<a id="Einrichten_der_Reportverwaltung"></a>
-
 ### Einrichten der Reportverwaltung
 
 ![Reportexplorer](/bilder/administration/installation/reportexplorer.jpg)
@@ -125,23 +106,15 @@ Die einzelnen Reports liegen dann als RTM-Dateien im Ordner SchILD-NRW 2-Reports
 
 Bitte beachten Sie, dass hier sehr viele Reports angeboten werden. Löschen Sie die nicht benötigten Formulare, damit die Reportverwaltung übersichtlich bleibt!
 
-<a id="Schild-NRW_Module_und_Tools"></a>
-
-<a id="schild-nrw-module-und-tools"></a>
-
 ### SchILD-NRW 2 Module und Tools
 
 Sie können von der SchILD-NRW 2-Homepage auch noch zusätzliche Module für bestimmte Aufgaben herunterladen, die nicht alle Schulen immer benötigen. Bitte beachten Sie die jeweiligen Installationshinweise, die dort gegeben werden.
 
 \[[Module und Tools für SchILD-NRW 2](https://www.svws.nrw.de/schild-nrw-2/tools-module)\]
 
-<a id="Programm-Einstellungen"></a>
-
 ### Programm-Einstellungen
 
 Die Benutzer von SchILD-NRW 2 können das Programm in den Einstellungen an ihre Bedürfnisse anpassen. Hierzu finden Sie weitere Informationen im Artikel zu den [Programmeinstellungen](/administration/benutzer-einstellungen/programm-einstellungen).
-
-<a id="Einzelplatzinstallation_mit_Zugriff_von_einem_anderen_Rechner"></a>
 
 ## Einzelplatzinstallation mit Zugriff von einem anderen Rechner
 
@@ -155,8 +128,6 @@ Verbinden Sie auf dem Client, der Zugriff bekommen soll, ein Netzlaufwerk mit di
 
 Starten Sie die Anwendung SchILD-NRW 2 einmal auf jedem Client explizit mit der rechten Maustaste als Administrator und führen Sie die Schritte zur Registrierung der Statitsik.dlls einmal durch (Schulverwaltung \> Statistik amtl. Schuldaten \> Hilfe bei Problemen). Danach kann die Anwendung mit normalen Benutzer-Rechten gestartet werden. Der Zugriff auf SchILD-NRW 2 kann nur bei eingeschaltetem "Mini-Server" funktionieren!
 
-<a id="Server-Installation_mit_Access-Datenbank"></a>
-
 ## Server-Installation mit Access-Datenbank
 
 In allen Schulformen, die mit mehr als einem PC gleichzeitig an SchILD-NRW 2 arbeiten wollen, empfehlen wir eine Serverinstallation. Dieser Artikel beschreibt die notwendigen Installationsschritte für eine Serverinstallation mit Access-Datenbank.
@@ -165,17 +136,15 @@ Für den Betrieb von SchILD-NRW 2 mit einer Access-Datenbank ist es nicht von Be
 
 Empfohlen wird, auf den Verwaltungs-Clients ein Netzlaufwerk fest zu verbinden, das auf allen PCs den selben Buchstaben erhält. In SchILD-NRW 2 kann dann dieser Pfad unter Extras \> Programmeinstellungen \> globale Einstellungen verwendet werden, um für alle Benutzer die gewünschte Umgebung (zum Beispiel Reportverwaltung, Dokumentenverwaltung) zur Verfügung zu stellen. Erstellen Sie auf dem Desktop der Verwaltungs-PCs eine Verknüpung zur Anwendung Schild2000.exe aus dem Netzlaufwerk.
 
-Starten Sie die Anwendung SchILD-NRW 2 einmal auf jedem Client explizit mit der rechten Maustaste als Administrator und führen Sie die Schritte zur [Registrierung der Statitsik.dlls](#Registrierung_der_Statitsik.dlls) einmal durch. Danach kann die Anwendung mit normalen Benutzerrechten gestartet werden.
+Starten Sie die Anwendung SchILD-NRW 2 einmal auf jedem Client explizit mit der rechten Maustaste als Administrator und führen Sie die Schritte zur [Registrierung der Statitsik.dlls](#registrierung-der-asdstatitsik-dll) einmal durch. Danach kann die Anwendung mit normalen Benutzerrechten gestartet werden.
 
 Die Benutzer von SchILD-NRW 2 können das Programm in den Einstellungen an ihre Bedürfnisse anpassen. Hierzu finden Sie weitere Informationen im Artikel zu den [Programmeinstellungen](/administration/benutzer-einstellungen/programm-einstellungen).
-
-<a id="Server-Installation_mit_Microsoft_SQL_Server-Datenbank"></a>
 
 ## Server-Installation mit Microsoft SQL Server-Datenbank
 
 In allen Schulformen, die mit mehr als einem PC gleichzeitig an SchILD-NRW 2 arbeiten wollen, empfehlen wir eine Serverinstallation. Dieser Artikel beschreibt die notwendigen Installationsschritte für eine Serverinstallation mit MS SQL Server-Datenbank. Informationen zur Einrichtung und zur Inbetriebnahme des Datenbanksystems finden Sie hier. Grundsätzlich wird aber vorausgesetzt, dass bei einem Betrieb mit einem MS SQL Datenbankserver Kenntnisse über dieses Datenbanksystem vorhanden sind.
 
-Lesen Sie sich zunächst die Schritte zur Installation von SchILD-NRW 2 im Kapitel [Server-Installation mit Access-Datenbank](#Server-Installation_mit_Access-Datenbank) durch, da die grundsätzliche Installation bei Verwendung einer MS SQL Server Datenbank gleich ist. Stellen Sie sicher, dass ein Server im Schulverwaltungsnetz über den Port, den Sie später verwenden wollen, erreichbar ist. Installieren Sie dort den MS SQL Server in der gewünschten Variante. Die kostenfreie SQL Server Express-Variante können Sie über Microsoft beziehen. Wir empfehlen MS SQL Server Express 2017 oder 2019. Installieren Sie ein Datenbanktool, mit dem Sie auf den Server zugreifen können, zum Beispiel Microsoft SQL Server Management Studio.
+Lesen Sie sich zunächst die Schritte zur Installation von SchILD-NRW 2 im Kapitel [Server-Installation mit Access-Datenbank](#server-installation-mit-access-datenbank) durch, da die grundsätzliche Installation bei Verwendung einer MS SQL Server Datenbank gleich ist. Stellen Sie sicher, dass ein Server im Schulverwaltungsnetz über den Port, den Sie später verwenden wollen, erreichbar ist. Installieren Sie dort den MS SQL Server in der gewünschten Variante. Die kostenfreie SQL Server Express-Variante können Sie über Microsoft beziehen. Wir empfehlen MS SQL Server Express 2017 oder 2019. Installieren Sie ein Datenbanktool, mit dem Sie auf den Server zugreifen können, zum Beispiel Microsoft SQL Server Management Studio.
 
 Legen Sie auf dem Server eine neue Datenbank an und spielen Sie das Script zum Anlegen der Tabellen und Felder von SchILD-NRW 2 ein. Das Script legt zudem einen Benutzer 'Administrator' ohne Passwort an, mit dem Sie sich zu Beginn an SchILD-NRW 2 anmelden können. Bitte beachten Sie, dass dieses Script aus einer älteren Version sein kann! Die leere Datenbank muss dann einmal mit der aktuellen Version von SchILD-NRW 2 gestartet werden, damit alle Tabellen und Felder vorhanden sind!
 
@@ -197,18 +166,13 @@ Starten Sie nun SchILD-NRW 2 und wählen Sie die Datenbank-UDL aus. Es sollten n
 
 Sie können nun Ihre Schule einrichten. Dies muss aber nur geschehen, wenn Sie eine neue Datenbank aufbauen wollen. Wenn Sie aus einer bestehenden Datenbank in diese MS SQL Server-Datenbank migrieren wollen, so können Sie diese Einrichtung abbrechen und den [Migrationsprozess mit Hilfe des Migrationstools](/administration/datenbanken/schild-nrw-daten-in-eine-andere-datenbank-uebertragen-migrieren) vornehmen.
 
-<a id="Server-Installation_mit_MySQL-_oder_MariaDB-Datenbank"></a>
-
 ## Server-Installation mit MySQL- oder MariaDB-Datenbank
 
 In allen Schulformen, die mit mehr als einem PC gleichzeitig an SchILD-NRW 2 arbeiten wollen, empfehlen wir eine Serverinstallation. Dieser Artikel beschreibt die notwendigen Installationsschritte für eine Serverinstallation mit MySQL- oder MariaDB-Server-Datenbank.
 
 Die Einrichtung eines MySQL-Zugriffs beziehungsweise MariaDB-Zugriffs funktioniert im Prinzip so, wie die in einer MS SQL Server-Umgebung. Ein Unterschied besteht jedoch darin, dass für den Zugriff auf die Datenbank an jedem Client ein ODBC Treiber (MySQL Connector/ODBC oder MariaDB Connector/ODBC) installiert und vorab eingerichtet werden muss. Dieser Treiber prüft die Zugriffsberechtigung auf die Datenbank. Zudem muss eine UDL-Datei in SchILD-NRW 2 hinterlegt werden, damit SchILD-NRW 2 die Datenbank findet. Die einzelnen Schritte werden hier erklärt.
 
-Lesen Sie sich zunächst die Schritte zur Installation von SchILD-NRW 2 im Kapitel [Server-Installation mit Access-Datenbank](#Server-Installation_mit_Access-Datenbank) durch, da die grundsätzliche Installation bei Verwendung einer MySQL- oder MariaDB-Datenbankgleich ist.
-
-<a id="Download_des_Servers_und_einer_Benutzeroberfläche"></a>
-<a id="Download_des_Servers_und_einer_Benutzeroberfl.C3.A4che"></a>
+Lesen Sie sich zunächst die Schritte zur Installation von SchILD-NRW 2 im Kapitel [Server-Installation mit Access-Datenbank](#server-installation-mit-access-datenbank) durch, da die grundsätzliche Installation bei Verwendung einer MySQL- oder MariaDB-Datenbankgleich ist.
 
 ### Download des Servers und einer Benutzeroberfläche
 
@@ -223,8 +187,6 @@ Sofern ein Unix-Server verwendet wird, muss die mySQL-Einstellung in der my.cnf 
 lower_case_table_names=1
 :::
 
-<a id="Einrichten_eines_Schemas"></a>
-
 ### Einrichten eines Schemas
 
 Legen Sie auf dem Server eine neue Datenbank (Schema) an:
@@ -233,8 +195,6 @@ Zeichensatz UTF8\
 Collation UTF8_bin
 
 Legen Sie in MySQL oder MariaDB einen Datenbankuser an und sorgen Sie dafür dass dieser Benutzer volle Zugriffsrechte auf das Schema hat. Kontrollieren Sie auch, ob die Rechte für alle Zugriffsarten bestehen. Dieser Benutzer muss später in der UDL- beziehungsweise der SDBCFG-Datei verwendet werden (s.u.)!
-
-<a id="Einspielen_des_Datenbank-Scripts"></a>
 
 ### Einspielen des Datenbank-Scripts
 
@@ -248,9 +208,6 @@ Spielen Sie nun das Script zum Anlegen der Tabellen und Felder von SchILD-NRW 2 
 
 *MySQL Connector*
 
-<a id="Herunterladen_und_Einrichten_des_Connectors/ODBC"></a>
-<a id="Herunterladen_und_Einrichten_des_Connectors.2FODBC"></a>
-
 ### Herunterladen und Einrichten des Connectors/ODBC
 
 Laden Sie sich den MySQL Connector/ODBC in der älteren Version 5.1.13 in der 32Bit-Variante oder den MariaDB Connector/ODBC in der aktuellen Version 3.1 (Stand März 2022) herunter und installieren Sie diesen auf jedem Client, der eine Verbindung zur SchILD-NRW 2 Datenbank erhalten soll.
@@ -262,10 +219,6 @@ Setzen Sie im Menü **Connection** das Auswahlhäkchen **enable automatic reconn
 Setzen Sie im Menü **Cursors/Results** das Auswahlhäkchen **Return matched rows instead of affected rows**.
 
 Schließen Sie die Einrichtung ab. Dieser Schritt muss auch auf jedem Client gemacht werden, auf dem SchILD-NRW 2 genutzt werden soll!
-
-<a id="Verbindung_zwischen_Schild-NRW_und_der_Datenbank_herstellen"></a>
-
-<a id="verbindung-zwischen-schild-nrw-und-der-datenbank-herstellen"></a>
 
 ### Verbindung zwischen SchILD-NRW 2 und der Datenbank herstellen
 
@@ -284,8 +237,6 @@ SchILD-NRW 2 kann nun gestartet werden und die eingerichtet Datenbank sollte zur
 Sie können nun Ihre Schule einrichten, sofern Sie zum ersten Mal mit SchILD-NRW 2 arbeiten. Wenn Sie aus einer bestehenden Datenbank in die MySQL-Datenbank oder MariaDB-Datenbank migrieren wollen, so können Sie die Einrichtung abbrechen und den [Migrationsprozess mit Hilfe des Migrationstools](/administration/datenbanken/schild-nrw-daten-in-eine-andere-datenbank-uebertragen-migrieren) vornehmen.
 
 Eine [Anleitung zur Installation und Einrichtung einer MySQL-Datenbank von Herrn Roß als PDF](/dateien/wiki/schildnrw-mysql-installation-3e4cc65d.pdf) gibt es in einer etwas älteren Version.
-
-<a id="Die_Datei_ADMIN.INI_in_Serverumgebungen"></a>
 
 ## Die Datei ADMIN.INI in Serverumgebungen
 
@@ -306,15 +257,11 @@ Falls die Datei ADMIN.INI fehlt, reagiert SchILD-NRW 2 so, als ob für Einträge
 
 Im Folgenden werden die möglichen Einträge für AdminDir, GroupDir und PrivateDir beschrieben, anschließend finden Sie einige typische Konfigurationsbeispiele.
 
-<a id="Der_Eintrag_AdminDir"></a>
-
 ### Der Eintrag AdminDir
 
 Über den Eintrag `AdminDir={AdminDir}` kann dem Programm mitgeteilt werden, in welchem Verzeichnis sich die von SchILD-NRW 2 benötigten Datenbanken SchildIntern.mdb, Statkue.mdb, Schulver.mdb und ASDTabs.mdb befinden. Diese Dateien müssen sich im Verzeichnis \Keytabs unterhalb des hier eingetragenen Verzeichnisses befinden. Ist für AdminDir kein Eintrag vorhanden, so werden die Dateien im Verzeichnis \Keytabs unterhalb des Programmverzeichnisses gesucht. Dieser Eintrag wird nur sehr selten benötigt, zum Beispiel dann, wenn SchILD-NRW 2 in einer Terminalserver-Umgebung läuft.
 
 Beispiel: Sie haben Eintrag `AdminDir=S:\Schild-Daten` in der Datei ADMIN.INI gemacht. In diesem Fall müssen sich die Dateien SchildIntern.mdb, Statkue.mdb, Schulver.mdb und ASDTabs.mdb im Verzeichnis S:\Schild-Daten\Keytabs befinden. Für das Verzeichnis S:\Schild-Daten\Keytabs wird in diesem Fall für alle Benutzer, die mit SchILD-NRW 2 arbeiten, nur ein Lesezugriff benötigt.
-
-<a id="Der_Eintrag_GroupDir"></a>
 
 ### Der Eintrag GroupDir
 
@@ -342,15 +289,11 @@ Ist für GroupDir kein Eintrag vorhanden, so wird der Eintrag für AdminDir verw
 
 Für den Verzeichnis-Eintrag bei GroupDir und dessen Unterverzeichnisse wird für alle Benutzer, die mit SchILD-NRW 2 arbeiten, ein Lese- und Schreib-Zugriff benötigt.
 
-<a id="Der_Eintrag_PrivateDir"></a>
-
 ### Der Eintrag PrivateDir
 
 Über den Eintrag `PrivateDir={PrivateDir}` kann ein Verzeichnis definiert werden, in dem exportierte Daten gespeichert werden. Dies hat den Vorteil, dass zum Beispiel die Dateien für die Word-Serienbrieferstellung für jeden Benutzer getrennt abgelegt werden, so dass die Dateien nicht gegenseitig überschrieben werden, wenn mehrere Benutzer gleichzeitig die Serienbriefe erstellen wollen. Beispiel: Sie haben folgenden Eintrag in der Datei ADMIN.INI gemacht `PrivateDir=C:\Meine Schild-Daten`. In diesem Fall werden exportierte Daten in das jeweilige lokale Verzeichnis "C:\Meine SchILD-NRW 2-Daten"gespeichert. Hinweis: Über den Eintrag `PrivateDir=<PRIVATE>` (genau so geschrieben, inkl. der Größer- und Kleiner-Zeichen) kann auf das Verzeichnis "C:\Dokumente und Einstellungen\\{Benutzername}" verwiesen werden.
 
 Für den Verzeichnis-Eintrag bei PrivateDir und dessen Unterverzeichnisse wird für den jeweiligen Benutzer ein Lese- und Schreib-Zugriff benötigt.
-
-<a id="Konfigurationsbeispiel_1:_Lokale_Installation"></a>
 
 ### Konfigurationsbeispiel 1: Lokale Installation
 
@@ -382,8 +325,6 @@ In diesem Fall kann die Datei ADMIN.INI weggelassen werden beziehungsweise enth�
 AdminDir=\
 GroupDir=\
 PrivateDir=\
-
-<a id="Konfigurationsbeispiel_2:_Server-Installation"></a>
 
 ### Konfigurationsbeispiel 2: Server-Installation
 
@@ -417,9 +358,6 @@ In diesem Fall müssen sich die Zusatzdateien in den folgenden "Standard-Verzeic
 \\\Server\Programme\SchILD-NRW\DB\SchILD2000n.mdb
 
 Diese Konfiguration entspricht also einer lokalen Installation, mit dem einzigen Unterschied, dass das Programm nicht von der lokalen Festplatte, sondern von einem Server-Laufwerk aus gestartet wird, und dass exportierte Daten lokal (in C:\Dokumente und Einstellungen\\) gespeichert werden. Der Nachteil ist aber, dass alle Benutzer einen Schreibzugriff auf das Programmverzeichnis benötigen.
-
-<a id="Konfigurationsbeispiel_3:_Server-Installation_mit_schreibgeschütztem_Programmverzeichnis"></a>
-<a id="Konfigurationsbeispiel_3:_Server-Installation_mit_schreibgesch.C3.BCtztem_Programmverzeichnis"></a>
 
 ### Konfigurationsbeispiel 3: Server-Installation mit schreibgeschütztem Programmverzeichnis
 

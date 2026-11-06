@@ -2,8 +2,6 @@
 title: "Fachangaben gruppenweise ändern"
 ---
 
-<a id="details-zu-fachern-bei-schulern-andern"></a>
-
 # Fachangaben gruppenweise ändern
 
 Mit diesem Gruppenprozess ändern Sie Angaben zu bereits zugewiesenen Fächern für mehrere Personen. Wählen Sie zuerst die Schülergruppe aus und prüfen Sie im Eingabefenster, welche Fachangaben geändert werden sollen.

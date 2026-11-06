@@ -4,11 +4,6 @@ title: "SetAbitur"
 
 # SetAbitur
 
-<a id="RAP-Funktion_&quot;SetAbitur&quot;"></a>
-<a id="RAP-Funktion_.22SetAbitur.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Schaltet die für Abiturreports benötigten Datenquellen ein oder aus. Bei eingeschalteter Funktion werden sie beim Wechsel des Schülerdatensatzes aktualisiert.

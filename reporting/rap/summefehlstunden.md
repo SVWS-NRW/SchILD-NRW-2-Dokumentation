@@ -4,11 +4,6 @@ title: "SummeFehlstunden"
 
 # SummeFehlstunden
 
-<a id="RAP-Funktion_&quot;SummeFehlstunden&quot;"></a>
-<a id="RAP-Funktion_.22SummeFehlstunden.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Ermittelt die gesamten und unentschuldigten Fehlstunden einer Person für das aktuelle Schuljahr. Die beiden Werte werden über die dafür vorgesehenen Ausgabeparameter bereitgestellt.

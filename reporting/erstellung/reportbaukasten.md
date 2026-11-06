@@ -2,8 +2,6 @@
 title: "Reports mit dem Reportbaukasten erstellen"
 ---
 
-<a id="reportbaukasten"></a>
-
 # Reports mit dem Reportbaukasten erstellen
 
 Mit dem Reportbaukasten erstellen Sie eigene Druckvorlagen nach einem vorhandenen Muster. Die Anleitung erklärt die Bausteine einer Vorlage und zeigt, wie Daten und Gestaltung zusammenwirken.
@@ -87,8 +85,6 @@ Beim Einfügen von Funktionen und Proceduren sollte man sich die vorhandenen Ere
 
 Funktionen = Programmteile, die ohne bestimmtes Ereignis jederzeit im Prozedurenteil des Programms aufgerufen werden können
 
-<a id="Beispiel_1:_01_Stammblatt.rtm"></a>
-
 ## Beispiel 1: 01_Stammblatt.rtm
 
 Das Stammblatt dient als Beispiel für einige Elemente, die häufig im Zusammenhang mit Individualdaten verwendet werden.
@@ -147,8 +143,6 @@ Die Datenfelder zur vorherigen Schule und zur aufnehmenden Schule können Sie au
 
 Dabei steht LS für *letzte Schule* und ZS für *zukünftige Schule*. Alle Datenfelder, die mit diesen Präfixen beginnen, gehören hier dazu.
 
-<a id="Beispiel_2:_02_Input_Laufzeit.rtm"></a>
-
 ## Beispiel 2: 02_Input_Laufzeit.rtm
 
 ![RepBau18](/bilder/reporting/erstellung/repbau18.jpg)
@@ -179,8 +173,6 @@ Bestimmte Ersetzungen sind damit aber nicht möglich, dazu können feste Platzha
 
 Dort wird der Platzhalter dann durch eine entsprechende Programmierung im *OnPrint*-Ereignis des *Richtext1* ersetzt.
 
-<a id="Beispiel_3:_03_Lehrerdaten.rtm"></a>
-
 ## Beispiel 3: 03_Lehrerdaten.rtm
 
 ![RepBau22](/bilder/reporting/erstellung/repbau22.jpg)
@@ -201,8 +193,6 @@ Eine Übersicht über die Abhängigkeit der Datenquellen finden Sie in der Repor
 
 ![RepBau24](/bilder/reporting/erstellung/repbau24.jpg)
 
-<a id="Beispiel_4:_04_Konferenz.rtm"></a>
-
 ## Beispiel 4: 04_Konferenz.rtm
 
 ![RepBau25](/bilder/reporting/erstellung/repbau25.jpg)
@@ -220,8 +210,6 @@ Im Ereignis *BeforePrint* benötigen die beiden Datenquellen den Aufruf ***Faech
 Mit diesen Befehlen werden die Erzeugung des Notenheaders und die Einsortierung der fachspezifischen Daten in die Übersicht erzeugt.
 
 Der Bericht enthält zwei Gruppierungen. Die Gruppe\[0\]:Klasse erzeugt eine neue Seite, wenn die Klasse des Schülers wechselt. Die Gruppe\[1\]:ID sorgt dafür, dass die einzelnen Schülerdaten auf einer Seite zusammengehalten werden.
-
-<a id="Beispiel_5:_05_Konferenz.rtm"></a>
 
 ## Beispiel 5: 05_Konferenz.rtm
 
@@ -243,8 +231,6 @@ Dieser Report druckt auch zurückliegende Abschnitte, wenn dies im Report-Explor
 
 Die Gruppe\[0\]: ID sorgt im Bericht lediglich dafür, dass ein Schülerdatensatz auf einer Seite zusammengehalten wird.
 
-<a id="Beispiel_6:_06_Laufbahnuebersicht.rtm"></a>
-
 ## Beispiel 6: 06_Laufbahnuebersicht.rtm
 
 ![RepBau30](/bilder/reporting/erstellung/repbau30.jpg)
@@ -260,8 +246,6 @@ Damit der Report die Kopfzeile für die Fächer und die Laufbahn über alle Absc
 Dies wird dann im *AfterPrint*-Ereignis mit *SetUebersicht(False)* wieder aufgehoben.
 
 Die Gruppe\[0\]: ID dient lediglich dazu, dass die Schüler auf einer Seite zusammengehalten werden. Außerdem ist in allen Subreports darauf geachtet worden, dass die Seitenränder auf Null stehen, damit möglichst wenig Verschiebungen stattfinden.
-
-<a id="Beispiel_7:_07_Laufbahnuebersicht.rtm"></a>
 
 ## Beispiel 7: 07_Laufbahnuebersicht.rtm
 
@@ -285,8 +269,6 @@ Dies wird im *AfterPrint* Ereignis zusammen mit *FilterLaufbahnJahrgangASD(“)*
 
 Zusätzlich wurde in *OnGetText* des *DBText4*-Labels eine Abfrage eingebaut, die bei den Notenpunkten 0 bis 4 eine gelbe Farbe in das Element Shape1 setzt.
 
-<a id="Beispiel_8:_08_Zeugnisbemerkungen_AUE_ASV.rtm"></a>
-
 ## Beispiel 8: 08_Zeugnisbemerkungen_AUE_ASV.rtm
 
 Die Felder für die Bemerkungen auf den Zeugnissen wurden vor einigen Versionen in der Datenbank in Memo-Felder umgewandelt. Das bedeutet, dass dort nun nur noch die eigentlichen Texte ohne jegliche Formatierung in der Datenbank liegen.
@@ -303,15 +285,11 @@ Der Report gibt eine Übersicht über die Eintragungen des aktuellen Abschnittes
 
 Diese Unterberichte könnten so zum Beispiel auch auf einer Konferenzliste eingefügt werden, um die eingetragenen Daten zu kontrollieren.
 
-<a id="Beispiel_9:_09_Zuweisungen.rtm"></a>
-
 ## Beispiel 9: 09_Zuweisungen.rtm
 
 Dieser Report soll kurz ein Beispiel für die Verwendung der an den Gesamtschulen benötigten Zuweisungen zu den Kursarten der Folgeschuljahre geben.
 
 Diese werden an Gesamtschulen auf Zeugnissen und Übersichten benötigt.
-
-<a id="Beispiel_10:_10_Zeugnis.rtm"></a>
 
 ## Beispiel 10: 10_Zeugnis.rtm
 
@@ -342,8 +320,6 @@ Bitte beachten Sie, dass dieses im *ReportBeforeOpenDatenPipellines* Ereignis bi
 Für Zeugnisse oder Übersichten, die auf Abiturdaten, Sprachenfolge oder die Daten auf dem Karteireiter ZP10 zugreifen wollen, sind die Befehle *SetAbitur(true)* und *SetBKAbschluss(true)* notwendig!
 
 (Der ZP10-Reiter hat an BKs den Namen *BK-Abschluss*.)
-
-<a id="Beispiel_11:_11_Laufbahnuebersicht_mit_QT.rtm"></a>
 
 ## Beispiel 11: 11_Laufbahnuebersicht_mit_QT.rtm
 

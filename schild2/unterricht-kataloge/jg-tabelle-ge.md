@@ -2,8 +2,6 @@
 title: "Statistikjahrgänge an Gesamtschulen"
 ---
 
-<a id="jg-tabelle-ge"></a>
-
 # Statistikjahrgänge an Gesamtschulen
 
 Dieses Beispiel zeigt die Jahrgangstabelle einer Gesamtschule mit Quartalsbetrieb. Es ergänzt die allgemeine Anleitung zu den Statistikjahrgängen.

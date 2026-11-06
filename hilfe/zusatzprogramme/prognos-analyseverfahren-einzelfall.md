@@ -2,8 +2,6 @@
 title: "Einzelne Notenbilder mit PM2 analysieren"
 ---
 
-<a id="prognos-analyseverfahren-einzelfall"></a>
-
 # Einzelne Notenbilder mit PM2 analysieren
 
 Mit der Einzelfallanalyse untersuchen Sie ein einzelnes Notenbild in PM2. Die folgenden Abbildungen zeigen das Eingabefenster und die Anzeige der daraus berechneten Prognose.

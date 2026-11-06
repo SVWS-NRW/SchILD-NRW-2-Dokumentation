@@ -2,8 +2,6 @@
 title: "C01 Berufsabschluss und Fachhochschulreife"
 ---
 
-<a id="c01-berufsabschluss-fachhochschulreife-ohne-berufspraktikum-bab-fhr-3j-vz"></a>
-
 # C01 Berufsabschluss und Fachhochschulreife
 
 Diese Seite zeigt ein Bildbeispiel zur Abschlussberechnung für den im Titel genannten Bildungsgang. Vergleichen Sie die dargestellte Ansicht mit Ihrem Bildungsgang. Die Bedeutung des Karteireiters und die allgemeinen Arbeitsschritte erläutert [BK-Abschlussverfahren](/zeugnisse/berufskolleg/bk-abschluss?rubrik=schild2).

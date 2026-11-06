@@ -2,8 +2,6 @@
 title: "Daten nach Excel oder Calc exportieren"
 ---
 
-<a id="datenexport-nach-excel-oder-openoffice-calc"></a>
-
 # Daten nach Excel oder Calc exportieren
 
 Um SchILD-NRW 2-Daten in anderen Programmen weiter verwenden zu können (zum Beispiel Export für die Bundesjugendspiele) oder um Lehrern die Daten für ihre Klassen „Excel-fähig“ zur Verfügung stellen zu können, bietet SchILD-NRW 2 eine einfache Möglichkeit, diese Daten auf der Festplatte zu speichern.

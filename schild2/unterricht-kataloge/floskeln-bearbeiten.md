@@ -2,8 +2,6 @@
 title: "Floskeln bearbeiten"
 ---
 
-<a id="quot-floskeln-quot-bearbeiten"></a>
-
 # Floskeln bearbeiten
 
 In SchILD-NRW 2 gibt es sogenannte "Floskeln". Dies sind wiederkehrende Bemerkungen, die in Zeugnisbemerkungen, Bemerkungen zum Arbeits- und Sozialverhalten, Angaben zum außerunterrichtlichen Engagement oder den fachbezogenen Bemerkungen vorkommen können.
@@ -30,8 +28,6 @@ Beispiel:
 
 **&Klassenbuchführer%Klassenbuchführerin&** (&männl. Bezeichnung%weibl. Bezeichnung&)
 
-<a id="Floskelgruppen"></a>
-
 ## Floskelgruppen
 
 ![Floskelgruppen](/bilder/schild2/unterricht-kataloge/floskelgruppen.jpg)
@@ -48,9 +44,6 @@ Drücken Sie den Button **Floskelgruppen**, um Ihre Floskeln zu organisieren. Da
 Über die Floskelbezeichnung können Sie diese Kategorien noch weiter untergliedern.
 
 Zu jeder Gruppe kann eine Farbe definiert werden.
-
-<a id="Editoren_für_Bemerkungen"></a>
-<a id="Editoren_f.C3.BCr_Bemerkungen"></a>
 
 ## Editoren für Bemerkungen
 

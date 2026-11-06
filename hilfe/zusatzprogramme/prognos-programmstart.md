@@ -2,8 +2,6 @@
 title: "PM2 erstmals starten"
 ---
 
-<a id="prognos-programmstart"></a>
-
 # PM2 erstmals starten
 
 Beim ersten Programmstart erscheint folgendes Informationsfenster:

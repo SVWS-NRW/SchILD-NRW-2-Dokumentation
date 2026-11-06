@@ -2,8 +2,6 @@
 title: "Entlassungsbemerkungen"
 ---
 
-<a id="entlassungs-bemerkungen"></a>
-
 # Entlassungsbemerkungen
 
 In diesem Katalog legen Sie die Texte fest, die später als Bemerkung oder Entlassgrund ausgewählt werden können. Die Auswahl erfolgt beim Schüler unter **Schulbesuch → Entlassung von eigener Schule**.

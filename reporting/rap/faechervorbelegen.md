@@ -4,9 +4,6 @@ title: "Faechervorbelegen"
 
 # Faechervorbelegen
 
-<a id="RAP-Funktion_&quot;Faechervorbelegen&quot;"></a>
-<a id="RAP-Funktion_.22Faechervorbelegen.22"></a>
-
 ## Beschreibung
 
 Erzeugt einen Header, der alle bei den gewählten Schülern im gewählten Lernabschnitt

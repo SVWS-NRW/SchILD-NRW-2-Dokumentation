@@ -2,8 +2,6 @@
 title: "Noten, Mahnungen und Fehlstunden bearbeiten"
 ---
 
-<a id="noten-mahnungen-und-fehlstunden-eingeben"></a>
-
 # Noten, Mahnungen und Fehlstunden bearbeiten
 
 Dieser Gruppenprozess ermöglicht es, für eine größere Schülergruppe Noten, Mahnungen oder Fehlstunden einzugeben. Zuerst werden in einem kleinen Fenster das Schuljahr und der Abschnitt abgefragt, für den die Eingaben vorgenommen werden sollen. Danach öffnet sich für die ausgewählte Schülergruppe die Eingabemaske. Sie können dort aus drei Sortierreihenfolgen auswählen:

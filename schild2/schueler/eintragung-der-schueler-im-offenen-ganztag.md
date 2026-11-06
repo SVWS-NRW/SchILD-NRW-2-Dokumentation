@@ -2,8 +2,6 @@
 title: "Offenen Ganztag statistisch erfassen"
 ---
 
-<a id="eintragung-der-schuler-im-offenen-ganztag"></a>
-
 # Offenen Ganztag statistisch erfassen
 
 Hier erfahren Sie, welche Einträge für offenen Ganztag und Übermittagsbetreuung in der Statistik benötigt werden. Die Anleitung führt die betreffenden Felder und Zuordnungen zusammen.

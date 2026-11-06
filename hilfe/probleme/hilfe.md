@@ -2,13 +2,7 @@
 title: "Hilfefunktionen im Programm"
 ---
 
-<a id="hilfe"></a>
-
 # Hilfefunktionen im Programm
-
-<a id="Hilfe_zu_SchILD-NRW"></a>
-
-<a id="hilfe-zu-schild-nrw"></a>
 
 ## Hilfe zu SchILD-NRW 2
 
@@ -16,17 +10,11 @@ Unter diesem Menüpunkt finden Sie eine große Menge von Informationen zur Arbei
 
 Probieren Sie es einfach einmal aus. Da die Dateien im Programmverzeichnis \SchILD-NRW\Hilfe abgelegt sind, können diese Hilfefenster auch ohne Internet-Verbindung (offline) gelesen werden.
 
-<a id="Info"></a>
-
 ## Info
 
 ![Info](/bilder/hilfe/probleme/info.jpg)
 
 Hinter diesem Menüpunkt verbergen sich die Übersicht über die aktuellen Programmversionen und der Copyright-Hinweis. Ebenso finden Sie den Eintrag der Software-Entwickler-Firma "ribeka".
-
-<a id="Forum_SchILD-NRW_besuchen"></a>
-
-<a id="forum-schild-nrw-besuchen"></a>
 
 ## Forum SchILD-NRW 2 besuchen
 
@@ -74,8 +62,6 @@ Bei der Einstellung von Suchparametern beachten Sie bitte, dass ohne Veränderun
 
 Wenn Sie nach einer erfolglosen Suche selbst eine Frage eintragen wollen, müssen Sie sich zunächst registrieren (eine kurze Anleitung dazu unter FAQ - "Kann Validierungscode im Forum nicht lesen"). Die Registrierung (incl. der Angabe der Schulform) ist vollständig kostenlos und dient hauptsächlich der Erkennung von Spam-Bots (deshalb der Hinweis: "Schulform: SpamBot-Bitte unbedingt ändern!"). Belohnt werden Sie damit, dass Ihnen nach der Registrierung und erfolgreichem Login angezeigt wird, in welchem der Unterbereiche des Forums neue Beiträge abgelegt wurden, die Sie noch nicht gelesen haben. Sie erkennen das durch ein rotes Ausrufezeichen oder das Wort 'new' neben dem Beitrag.
 
-<a id="Online_-_Dokumentation_aufrufen"></a>
-
 ## Online - Dokumentation aufrufen
 
 Ein Klick führt Sie direkt zur Startseite des [Online-Wiki](http://www.svws.nrw.de/index.php?id=198).
@@ -84,16 +70,11 @@ Hier können Sie sich auch die Funktionen des Report-Designers oder Kurzanleitun
 
 Ebenso finden Sie auf dieser Seite einen Link, der Sie sofort zum FAQ - Teil des SchILD-NRW 2-Forums bringt.
 
-<a id="Versionsgeschichte_zeigen"></a>
-
 ## Versionsgeschichte zeigen
 
 An dieser Stelle wird Ihnen die Datei SchILD-NRW 2-Versionen.pdf aus Ihrem SchILD-NRW 2-Ordner angezeigt, in der die jeweiligen Veränderungen im Programm SchILD-NRW 2 dokumentiert werden. Diese Datei wird bei einem Programmupdate ebenfalls aktualisiert.
 
 Sie können sich so leicht über aktuelle implementierte Neuerungen im Programm einen Überblick verschaffen.
-
-<a id="Auf_Update_prüfen"></a>
-<a id="Auf_Update_pr.C3.BCfen"></a>
 
 ## Auf Update prüfen
 

@@ -4,11 +4,6 @@ title: "IncFontSize"
 
 # IncFontSize
 
-<a id="RAP-Funktion_&quot;IncFontSize&quot;"></a>
-<a id="RAP-Funktion_.22IncFontSize.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Vergrößert oder verkleinert die Schriftgröße.

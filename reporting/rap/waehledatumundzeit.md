@@ -4,11 +4,6 @@ title: "WaehleDatumUndZeit"
 
 # WaehleDatumUndZeit
 
-<a id="RAP-Funktion_&quot;WaehleDatumUndZeit&quot;"></a>
-<a id="RAP-Funktion_.22WaehleDatumUndZeit.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Öffnet einen Dialog zur Auswahl von Datum und Uhrzeit. Der Rückgabewert zeigt an, ob der Dialog bestätigt wurde.

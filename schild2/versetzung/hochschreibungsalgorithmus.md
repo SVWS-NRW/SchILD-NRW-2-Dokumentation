@@ -2,8 +2,6 @@
 title: "Versetzungsmodelle und Fortschreibung"
 ---
 
-<a id="hochschreibungsalgorithmus"></a>
-
 # Versetzungsmodelle und Fortschreibung
 
 Ein Versetzungsmodell legt fest, wie SchILD-NRW 2 die Klassen beim Schuljahreswechsel fortschreibt. Wählen Sie das Modell passend zur Klassenorganisation Ihrer Schule. Die folgenden Beispiele erläutern die Unterschiede.
@@ -32,8 +30,6 @@ Beim Schüler wird der Status auf "Abschluss" gesetzt, ein gegebenenfalls Eintra
 
 Hier muss zwischen dem verwendeten Klassen-Modell unterschieden werden
 
-<a id="Wechsel-Modell"></a>
-
 ## Wechsel-Modell
 
 Es wird zuerst beim aktuellen Lernabschnittsdatensatz geprüft, ob eine Folgeklasse eingetragen ist. Wenn nicht (kommt eigentlich nur bei Schulen vor, die von IBIS übernommen wurden, spätestens im nächsten Schuljahr sollte im akt. Abschnitt eine Folgeklasse vorhanden sein), wird in der Klassentabelle nachgeschaut, ob dort eine Folgeklasse eingetragen ist.
@@ -47,8 +43,6 @@ Wenn dagegen das Folgejahrgangs-Modell verwendet wird, wird in der Jahrgangstabe
 Wichtig: Wenn kein Folgejahrgang ermittelt werden kann, geht das Programm wiederum davon aus, dass der Eintrag "Versetzt" falsch ist, und ändert diesen auf "Abschluss".
 
 Wenn kein Folgejahrgang gefunden wird (weil der Schüler eigentlich schon im Abschlussjahrgang ist), aber eine Folgeklasse eingetragen ist (zum Beispiel die gleiche wie bisher), dann greift die o.a. Regel: Wenn kein Folgejahrgang ermittelt werden kann, geht das Programm wiederum davon aus, dass der Eintrag "Versetzt" falsch ist, und ändert diesen auf "Abschluss" nicht, vielmehr behält der Schüler den aktuellen Jahrgang, der Versetzungsvermerk wird nicht geändert.
-
-<a id="Verbleib-Modell"></a>
 
 ## Verbleib-Modell
 

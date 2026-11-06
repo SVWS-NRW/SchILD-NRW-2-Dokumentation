@@ -4,11 +4,6 @@ title: "SetAdressArt"
 
 # SetAdressArt
 
-<a id="RAP-Funktion_&quot;SetAdressArt&quot;"></a>
-<a id="RAP-Funktion_.22SetAdressArt.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Setzt einen Filter nach Adressart für die angegebene Zieldatenquelle. Die Parameter bestimmen Ziel und gewünschte Adressart.

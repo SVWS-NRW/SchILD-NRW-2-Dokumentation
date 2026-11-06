@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { computed, ref, watch } from 'vue'
 import { withBase } from 'vitepress'
-import catalog from '../image-catalog.json'
+import { data as catalog } from '../../bilder/katalog.data.mjs'
 
 const search = ref('')
 const folder = ref('')

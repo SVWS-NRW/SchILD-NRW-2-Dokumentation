@@ -2,11 +2,7 @@
 title: "Blockung mit Kurs42 To CNF"
 ---
 
-<a id="kurs42-to-cnf-hauptseite"></a>
-
 # Blockung mit Kurs42 To CNF
-
-<a id="Hinweise"></a>
 
 ## Hinweise
 
@@ -16,15 +12,11 @@ Das Programm arbeitet auf Basis der Daten des Programms Kurs42. Wenn Sie eine Im
 
 Das Programm unterstützt eine Vielzahl von Nebenbedingungen (Regeln genannt). Wenn Sie für Ihre Schule zusätzliche Regeln benötigen, können Sie ebenfalls den Autor kontaktieren.
 
-<a id="Vorbereitungen"></a>
-
 ## Vorbereitungen
 
 - Laden Sie sich den folgenden SAT-Solver (<https://github.com/msoos/cryptominisat/releases>) herunter und speichern Sie die Datei (für Windows: cryptominisat5-win-amd64-nogauss.exe) auf Ihrem PC und merken Sie sich den Pfad. Für Windows ist die aktuellste Version 5.6.8 (Stand: Mai 2020), Sie müssen den Reiter "Assets" aufklappen, um die Datei zu sehen. Hier ist der Direkt-Link ([https://github.com/msoos/cryptominisat/releases/download/5.6.8/cryptominisat5-win-amd64-nogauss.exe](https://github.com/msoos/cryptominisat/releases/download/5.6.8/cryptominisat5-win-amd64-nogauss.exe)).
 - Installieren Sie gegebenenfalls JAVA und laden sich sich dann die aktuellste Version von Kurs42_To_CNF herunter (<https://schulverwaltungsinfos.nrw.de/svws/forum/viewtopic.php?f=71&t=20&start=2000>). Sie finden das Programm auch hier (<https://www.svws.nrw.de/download/tools>), diese Version ist aber nicht immer die aktuellste.
 - Sie haben nun das Programm in Form einer JAR-Datei, welche man mit einem Doppelklick starten kann. Dort müssen Sie dort zunächst den Pfad zur Datei cryptominisat...exe angeben und können dann arbeiten, aber zuvor müssen Sie jedoch noch aus Kurs42 Ihre Daten als Textdateien exportieren. **Bitte vergewissern Sie sich, dass in den Einstellung das Exportformat UTF8 eingestellt ist.**
-
-<a id="Daten_in_Kurs42_vorbereiten_und_exportieren"></a>
 
 ## Daten in Kurs42 vorbereiten und exportieren
 
@@ -32,8 +24,6 @@ Das Programm unterstützt eine Vielzahl von Nebenbedingungen (Regeln genannt). W
 - In Kurs42 werden unter *Bearbeiten --\> Kurse einrichten* beziehungsweise *Bearbeiten --\> Kurse einrichten (ohne Fachwahl)* die Anzahl der Kurse pro Fach festgelegt.
 - **Unter *Extras* --\> *Einstellungen* wird bei Import-Export bei *Kodierung von Textexporten* auf den Eintrag *UTF8* gestellt.**
 - Unter *Import/Export --\> Export in Textdatei* werden sämtliche Häkchen gesetzt und ein Zielordner gewählt.
-
-<a id="Das_erste_schnelle_Ergebnis_mit_Kurs42_To_CNF"></a>
 
 ## Das erste schnelle Ergebnis mit Kurs42_To_CNF
 
@@ -51,9 +41,6 @@ Ziel ist es, zunächst ein beliebiges Blockungsergebnis zu erhalten. Anschließe
   - Stellen Sie die *Umwähler* zunächst auf 0 ein und klicken Sie auf den Button "Berechne!". Über dem Button können Sie die Anzahl der *Threads* auf 1 stehen lassen (mehr dazu unter *Technische Fragen*, siehe unten), das Ausgabeformat ist üblicherweise *Neu+BOM*. Falls Sie nun **keine** Lösung erhalten (ein Indiz dafür ist, dass die Berechnung sehr lange dauert oder es erscheint ein Tab mit dem Hinweis *UNSAT*), müssen Sie die Umwähler sukzessiv um 1 erhöhen. So lässt sich die Mindestzahl an Umwähler ermitteln.
 
 Sie haben nun eine Lösung. Das Ergebnis wird in einem Tab, zum Beispiel *B1_SAT* in sechs Fenstern dargestellt, die sich von selbst erklären. Dieses Ergebnis enthält allerdings noch eine viel zu große Kursgrößendifferenz. Sie könnten nun unter "Auto-Optimierung (GK-KD: Parallele Rechnungen: \_\_\_" auf den Button "K" klicken, dann probiert das Programm automatisch die Grundkurs-Kursgrößendifferenz zu optimieren. Dabei werden "\_\_\_" Prozessorkerne verwendet. Hier müssen Sie ziemlich genau wissen, wie viele Prozessorkerne ihr PC hat. Abbrechen können Sie die Automatisierung jederzeit mit dem Button "Stoppe alle Auto-Berechnungen" (oben rechts).
-
-<a id="Die_Blockung_mit_Nebenbedingungen/Wünschen_ergänzen"></a>
-<a id="Die_Blockung_mit_Nebenbedingungen.2FW.C3.BCnschen_erg.C3.A4nzen"></a>
 
 ## Die Blockung mit Nebenbedingungen/Wünschen ergänzen
 
@@ -73,8 +60,6 @@ Bei der Blockung der Q1 ist folgende Regel relativ typisch:
 3.  bis Schiene
 4.  2
 
-<a id="Daten_in_Kurs42_importieren"></a>
-
 ## Daten in Kurs42 importieren
 
 Nach einer erfolgreichen Berechnung einer Blockung legt das Programm im oben angelegten Ordner für den Export aus Kurs einen Unterordner an, dessen Name dem TAB *B1_SAT* entspricht und zusätzlich das Ausgabeformat enthält, hier also *B_00001_NEU_UTF8_BOM*. In disem Ordner gibt es auch eine Textdatei, die das Ergebnis der Berechnung und die angewendeten Regeln dokumentiert, sodass man das Vorgehen rekonstruieren kann. In Kurs42 gibt es zwei Möglichkeiten, diese Blockung zu importieren:
@@ -83,9 +68,6 @@ Nach einer erfolgreichen Berechnung einer Blockung legt das Programm im oben ang
 2.  Unter *Datei* --\> *Neue Blockung aus Textdatei* wird der o.g. Ordner gewählt, alle Häkchen gesetzt und importiert.
 
 Das zweite Vorgehen hat den Vorteil, dass man nicht versehentlich eine bestehende Blockung überschreibt und so die frisch importierte Blockung unter einem eigenen Namen speichern kann.
-
-<a id="Jahrgänge_Blocken"></a>
-<a id="Jahrg.C3.A4nge_Blocken"></a>
 
 ## Jahrgänge Blocken
 
@@ -248,8 +230,6 @@ Danach wird die Blockung in Textdateien exportiert und in CNF importiert. Dann w
 
 Wenn man dabei auf eine "Handvoll" Umwähler kommt, geht das Ganze zurück nach Kurs42 und man macht die restlichen Anpassungen von Hand. Sind es zu viele, können Sie alle Schüler mit GKM zur Umverteilung freigeben und fängt wieder bei 0 Umwählern an.
 
-<a id="Strategien_und_weitere_Tipps"></a>
-
 ## Strategien und weitere Tipps
 
 **Blockungsergebnis optimieren**
@@ -356,19 +336,13 @@ oder besser die zwei ER-Zeilen ersetzen durch:
 
 (andere LKs dadurch automatisch in Schiene 2)
 
-<a id="Best_Practice-Beispiele"></a>
-
 ## Best Practice-Beispiele
 
 ...
 
-<a id="Technische_Fragen"></a>
-
 ## Technische Fragen
 
 **Was sind Threads?**
-
-<a id="Video-Tutorials"></a>
 
 ## Video-Tutorials
 

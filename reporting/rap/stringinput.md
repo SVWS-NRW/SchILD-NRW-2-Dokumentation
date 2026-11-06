@@ -4,11 +4,6 @@ title: "StringInput"
 
 # StringInput
 
-<a id="RAP-Funktion_&quot;StringInput&quot;"></a>
-<a id="RAP-Funktion_.22StringInput.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Öffnet einen Dialog zur Texteingabe. Sie können einen Hinweis und einen bereits vorbelegten Text übergeben.

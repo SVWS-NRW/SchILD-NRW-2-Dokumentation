@@ -4,8 +4,6 @@ title: "Hauptfenster"
 
 # Hauptfenster
 
-<a id="Hauptfenster"></a>
-
 ## Hauptfenster
 
 Nach dem Start von SchILD-NRW 2 sehen Sie den Hauptbildschirm mit einigen Elementen, die die Daten hinter den Schülern zeigen. Dieser Artikel soll Ihnen eine Übersicht über die wesentlichen Elemente des Hauptfensters und deren Funktion geben.
@@ -16,14 +14,9 @@ Hier können Sie die verschiedenen Bereiche des Hauptfensters erkennen. Hinter d
 
 Über die [Symbolleiste](/einstieg/grundlagen/iconleiste) erreichen Sie einige, häufig gebrauchte Menüpunkte direkt. Wenn man mit der Maus über die Icons fährt, erscheint ein kleiner Hilfetext zum jeweiligen Icon. Am linken Rand befindet sich die "Leuchtdiode", die in SchILD-NRW 2 eine besondere Funktion übernimmt. Die Leuchtdiode ist nach dem Start von SchILD-NRW 2 grün. Dies zeigt an, dass alle aktiven Schüler im Zugriff ([Schülerliste und Auswahl](/einstieg/grundlagen/container)) sind. Wenn der Benutzer einen Filter auf eine Klasse, einen Jahrgang oder Ähnliches setzt, dann verändert sich die Leuchtdiode und wird gelb. Sollte der Benutzer einen weiteren Filter setzen, z.B über [Menü Auswahl](/schild2/auswahl/auswahl) und [Filter I](/schild2/auswahl/filter-i), so wird die Diode rot. Sie zeigt also an, wenn nicht die aktive Schülergruppe im Zugriff ist. Durch einen Mausklick auf die Leuchtdiode können Sie immer zu "grün" zurückkehren. Dies ist somit ein schneller Weg, alle Filter zu lösen!
 
-<a id="Karteikasten"></a>
-<a id="karteikasten"></a>
-
 ## Statusfilter
 
 Im Bereich **Aktuelle Schülerauswahl** legen Sie mit dem [Statusfilter](/schild2/auswahl/schnellfilter) fest, welche Schülerstatus angezeigt werden. Mehrere Häkchen sind möglich. Bestätigen Sie die Auswahl, falls die Schaltfläche zur Übernahme angezeigt wird. Der Filter verändert nur die Schülerliste; den gespeicherten Status einer Person ändern Sie unter **Individualdaten I**.
-
-<a id="Schnellfilter"></a>
 
 ## Schnellfilter
 
@@ -32,8 +25,6 @@ Im Bereich **Aktuelle Schülerauswahl** legen Sie mit dem [Statusfilter](/schild
 Klassen-, Jahrgangs-, Kurs- und Abteilungsfilter grenzen die Schülerliste weiter ein. Je nach Schulform werden zusätzlich ein Schulgliederungsfilter und ein Fachklassenfilter eingeblendet. Die Abbildung zeigt diese Auswahl an einem Berufskolleg.
 
 Die Filter hängen voneinander ab. Nach der Auswahl eines Jahrgangs stehen beispielsweise nur dazu passende Kurse zur Verfügung. Die gemeinsame Bedienung und die Einbeziehung jahrgangsübergreifender Kurse erklärt [Status- und Schnellfilter](/schild2/auswahl/schnellfilter).
-
-<a id="Container"></a>
 
 ## Container
 
@@ -52,8 +43,6 @@ Ziel des Containers ist es nicht nur, schnellen Zugriff auf einzelne Schülerdat
 Oberhalb des Containers befindet sich ein Eingabefeld zur Suche von einzelnen Namen. Beim Klicken auf die Pfeilspitze nach oben oder unten, wird die Suche innerhalb des Containers ausgeführt.
 
 Welche Möglichkeiten der Bedienung sich in diesem Objekt ergeben, gibt es in einem eigenen Artikel:**[Schülerliste und Auswahl](/einstieg/grundlagen/container)**
-
-<a id="Karteireiter"></a>
 
 ## Karteireiter
 
@@ -79,8 +68,6 @@ Im Folgenden werden die einzelnen Karteireiter aufgelistet und in ihren Artikeln
 - [Abitur](/zeugnisse/sekundarstufen/abitur)
 - [Dokumentenverwaltung](/administration/benutzer-einstellungen/dokumentenverwaltung)
 - [ZP10 und ZK10](/zeugnisse/sekundarstufen/zp10-zk10)
-
-<a id="statuszeile"></a>
 
 ## Statuszeile
 

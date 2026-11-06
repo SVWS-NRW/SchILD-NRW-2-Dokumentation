@@ -2,13 +2,9 @@
 title: "Statistikjahrgänge an Grundschulen"
 ---
 
-<a id="jg-tabelle-gs"></a>
-
 # Statistikjahrgänge an Grundschulen
 
 Hier sehen Sie die Jahrgangstabelle für Grundschulen. Die folgenden Vorgaben erläutern, welche Einträge unabhängig von der Klassenorganisation benötigt werden.
-
-<a id="Die_Jahrgangstabelle"></a>
 
 ## **Die Jahrgangstabelle**
 
@@ -18,15 +14,11 @@ In allen Grundschulen muss die Tabelle "Statistik-Jahrgänge" unabhängig von de
 
 Die Tabelle enthält die Schülerjahrgänge E1, E2,E3, 03 und 04 mit den zugehörigen Restabschnitten. Die Bezeichnungen für die Schuleingangsphase E1 und E2 ersetzen die früheren Jahrgangsbezeichnungen 01 und 02. Die Jahrgangsbezeichnung E3 ist Schülern vorbehalten, welche die zweite Klasse wiederholen und somit ein drittes Jahr in der Schuleingangsphase bleiben. Die oben abgebildete Tabelle zeigt eine sinnvolle Sortierung der Jahrgänge.
 
-<a id="Klassen-Versetzungstabelle"></a>
-
 ## **Klassen-Versetzungstabelle**
 
 :::danger
 Ab der Version 2.0.16.9 wird für die kommenden Statistiken die Darstellung der Statistikbezeichnung auf Jahrgang und Parallelität geändert. Somit entspricht die Darstellung in der Klassen-Versetzungstabelle der Darstellung der KLD in ASDPC32. In der Klassen-Versetzungstabelle werden nur noch statistikkonforme Klassenjahrgänge angeboten!
 :::
-
-<a id="Beispiel_1:_Klassen-Versetzungstabelle_einer_Grundschule_mit_jahrgangsbezogenem_Unterricht"></a>
 
 ## **Beispiel 1: Klassen-Versetzungstabelle einer Grundschule mit jahrgangsbezogenem Unterricht**
 
@@ -47,9 +39,6 @@ Die unten abgebildete Tabelle gibt einen exemplarischen Überblick über die vor
 | 04A | 04 | A |  | 03A | Regelklasse |
 | 04B | 04 | B |  | 03B | Regelklasse |
 
-<a id="Beispiel_2:_Klassen-Versetzungstabelle_einer_Grundschule_mit_jahrgangsübergreifendem_Unterricht_in_der_Schuleingangsphase"></a>
-<a id="Beispiel_2:_Klassen-Versetzungstabelle_einer_Grundschule_mit_jahrgangs.C3.BCbergreifendem_Unterricht_in_der_Schuleingangsphase"></a>
-
 ## **Beispiel 2: Klassen-Versetzungstabelle einer Grundschule mit jahrgangsübergreifendem Unterricht in der Schuleingangsphase**
 
 Die Klassen-Versetzungstabelle wird bei jahrgangsübergreifendem Unterricht wie folgt ausgefüllt:
@@ -68,9 +57,6 @@ Die unten abgebildete Tabelle gibt einen exemplarischen Überblick über die vor
 | 03B | 03 | B | 04B |  | Regelklasse |
 | 04A | 04 | A |  | 03A | Regelklasse |
 | 04B | 04 | B |  | 03B | Regelklasse |
-
-<a id="Beispiel_3:_Klassen-Versetzungstabelle_einer_Grundschule_mit_jahrgangsübergreifendem_Unterricht_in_allen_Jahrgängen"></a>
-<a id="Beispiel_3:_Klassen-Versetzungstabelle_einer_Grundschule_mit_jahrgangs.C3.BCbergreifendem_Unterricht_in_allen_Jahrg.C3.A4ngen"></a>
 
 ## **Beispiel 3: Klassen-Versetzungstabelle einer Grundschule mit jahrgangsübergreifendem Unterricht in allen Jahrgängen**
 

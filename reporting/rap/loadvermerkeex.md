@@ -4,11 +4,6 @@ title: "LoadVermerkeEx"
 
 # LoadVermerkeEx
 
-<a id="RAP-Funktion_&quot;LoadVermerkeEx&quot;"></a>
-<a id="RAP-Funktion_.22LoadVermerkeEx.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Liest Vermerke einer gewählten Art aus. Zusätzlich zum Trennzeichen können Sie festlegen, ob das Eintragsdatum mit ausgegeben wird.

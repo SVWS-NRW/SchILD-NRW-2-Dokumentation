@@ -4,11 +4,6 @@ title: "EditRichTextEx"
 
 # EditRichTextEx
 
-<a id="RAP-Funktion_&quot;EditRichTextEx&quot;"></a>
-<a id="RAP-Funktion_.22EditRichTextEx.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Öffnet einen Editor für formatierten Text. Zusätzlich zum Ausgangstext können Sie die Überschrift des Editorfensters vorgeben.

@@ -4,11 +4,6 @@ title: "FilterLaufbahnJahr"
 
 # FilterLaufbahnJahr
 
-<a id="RAP-Funktion_&quot;FilterLaufbahnJahr&quot;"></a>
-<a id="RAP-Funktion_.22FilterLaufbahnJahr.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Filtert die Laufbahndaten auf einen Zeitraum zwischen dem angegebenen Anfangs- und Endjahr.

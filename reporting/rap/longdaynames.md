@@ -4,11 +4,6 @@ title: "LongDayNames"
 
 # LongDayNames
 
-<a id="RAP-Funktion_&quot;LongDayNames&quot;"></a>
-<a id="RAP-Funktion_.22LongDayNames.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Gibt den ausgeschriebenen Namen eines Wochentags zurück. Die übergebene Zahl bestimmt den Wochentag.

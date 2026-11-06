@@ -4,11 +4,6 @@ title: "ZensurToStr"
 
 # ZensurToStr
 
-<a id="RAP-Funktion_&quot;ZensurToStr&quot;"></a>
-<a id="RAP-Funktion_.22ZensurToStr.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Wandelt eine numerische Zensur in die zugehörige Klartextdarstellung um.

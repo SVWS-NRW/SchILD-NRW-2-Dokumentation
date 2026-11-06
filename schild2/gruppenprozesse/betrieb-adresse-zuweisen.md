@@ -2,8 +2,6 @@
 title: "Betrieb oder Adresse zuweisen"
 ---
 
-<a id="betrieb-adresse-zuweisen"></a>
-
 # Betrieb oder Adresse zuweisen
 
 Wenn mehrere Schülerinnen oder Schüler in einem Betrieb ihr Praktikum oder ihre Ausbildung absolvieren, kann die Zuweisung der Adresse des Betriebes auch über einen Gruppenprozess erfolgen.

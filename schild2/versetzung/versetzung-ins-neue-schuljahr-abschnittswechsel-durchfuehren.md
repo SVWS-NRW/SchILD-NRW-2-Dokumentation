@@ -2,11 +2,7 @@
 title: "Schuljahr und Lernabschnitt wechseln"
 ---
 
-<a id="versetzung-ins-neue-schuljahr-abschnittswechsel-durchfuhren"></a>
-
 # Schuljahr und Lernabschnitt wechseln
-
-<a id="Einleitung"></a>
 
 ## Einleitung
 
@@ -20,8 +16,6 @@ Die Schüler Klassen- oder Jahrgangsweise über den Gruppenprozess zu versetzen 
 Grundschulen können fast immer den u.g. Weg wählen. Veraltete Anleitungen, die die Versetzung über Gruppenprozesse erklären, sollten nicht mehr verwendet werden!
 :::
 
-<a id="Abschnittswechsel_vom_1._Halbjahr_ins_2._Halbjahr_oder_Wechsel_des_Quartals_ohne_Versetzung"></a>
-
 ## Abschnittswechsel vom 1. Halbjahr ins 2. Halbjahr oder Wechsel des Quartals ohne Versetzung
 
 Gehen Sie einfach auf Schulverwaltung \> Schule bearbeiten und klicken Sie den Button "Halbjahreswechsel durchführen". Bei Quartalsbetrieb steht auf dem Button "Quartalswechsel durchführen". Sie werden dann automatisch durch den Wechsel geleitet. Bitte kontrollieren Sie, ob der Haken zur Mitnahme der Fächer wie gewünscht gesetzt ist. In der Regel ist die Mitnahme der Fächer gewünscht.
@@ -29,9 +23,6 @@ Gehen Sie einfach auf Schulverwaltung \> Schule bearbeiten und klicken Sie den B
 Die Angaben zu Beginn und Ende sind optional.
 
 ![Halbjahreswechsel](/bilder/schild2/versetzung/halbjahreswechsel.jpg)
-
-<a id="Abschnittswechsel_mit_Versetzung_(Schuljahreswechsel)"></a>
-<a id="Abschnittswechsel_mit_Versetzung_.28Schuljahreswechsel.29"></a>
 
 ## Abschnittswechsel mit Versetzung (Schuljahreswechsel)
 
@@ -53,9 +44,6 @@ Kontrollieren Sie nun die Einstellungen bei den Schülern. Sollte die Schule die
 Klicken Sie danach auf **Wechsel durchführen**.
 
 Im Anschluss können die Schüler im Kasten **Neuaufnahme** aktiviert werden.
-
-<a id="Erklärung_des_Versetzungsalgorithmus"></a>
-<a id="Erkl.C3.A4rung_des_Versetzungsalgorithmus"></a>
 
 ## Erklärung des Versetzungsalgorithmus
 

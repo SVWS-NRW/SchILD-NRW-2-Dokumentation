@@ -10,7 +10,7 @@ const referenceArticles = referenceEntries(reference, referenceLink)
 </script>
 
 <script setup lang="ts">
-import { computed, onMounted, onUnmounted, provide, ref } from 'vue'
+import { computed, onMounted, provide, ref, watchPostEffect } from 'vue'
 import DefaultTheme from 'vitepress/theme'
 import { useData } from 'vitepress'
 import { dataSymbol } from 'vitepress/dist/client/app/data.js'
@@ -22,7 +22,6 @@ import VPHome from 'vitepress/dist/client/theme-default/components/VPHome.vue'
 import ReferenceSidebar from './ReferenceSidebar.vue'
 import ArticlePrintIcon from './ArticlePrintIcon.vue'
 import SiteFooter from './SiteFooter.vue'
-import { installSidebarSelection } from './sidebar-selection.mjs'
 import VPSidebarGroup from 'vitepress/dist/client/theme-default/components/VPSidebarGroup.vue'
 import { referencePageId } from '../reference-navigation.mjs'
 const referenceAreas = navigation.sidebar['/programmreferenz/'].slice(1)
@@ -31,12 +30,7 @@ const { page, theme, frontmatter } = data
 // Static HTML cannot know the query parameter. Switch after hydration on
 // direct article visits so the server and client initially render alike.
 const mounted = ref(false)
-let disposeSidebarSelection: (() => void) | undefined
-onMounted(() => {
-  mounted.value = true
-  disposeSidebarSelection = installSidebarSelection()
-})
-onUnmounted(() => disposeSidebarSelection?.())
+onMounted(() => { mounted.value = true })
 const indexMode = computed(() => page.value.relativePath === 'hilfe/alle-artikel.md' || (mounted.value && articleIndexSelection.value))
 const sections = Object.keys(navigation.sidebar)
 const currentPath = computed(() => '/' + page.value.relativePath)
@@ -61,10 +55,26 @@ function adjacentInSection(offset: number) {
   return entry ? { text: entry.text, link: entry.link } : false
 }
 const indexBranch = (item: any): boolean => articlePath(item.link || '/') === '/hilfe/alle-artikel' || !!item.items?.some(indexBranch)
+const onIndexOverview = computed(() => articlePath(currentPath.value) === '/hilfe/alle-artikel' && !articleIndexSelection.value)
 const expandIndex = (item: any): any => articlePath(item.link || '/') === '/hilfe/alle-artikel'
- ? { ...item, collapsed: false, items: articles.map(article => ({ text: article.title.replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;'), link: articleIndexLink(article.url) })) }
- : { ...item, ...(item.items ? { items: item.items.map(expandIndex), ...(indexBranch(item) ? { collapsed: false } : {}) } : {}) }
+ ? { ...item, collapsed: false, sidebarActive: onIndexOverview.value, items: articles.map(article => ({ text: article.title.replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;'), link: articleIndexLink(article.url), sidebarActive: !onIndexOverview.value && articlePath(article.url) === articlePath(currentPath.value) })) }
+ : { ...item, sidebarActive: false, ...(item.items ? { items: item.items.map(expandIndex), ...(indexBranch(item) ? { collapsed: false } : {}) } : {}) }
 const helpSidebar = computed(() => sidebar.menuFor('/hilfe/').tree.map(expandIndex))
+const visibleSidebar = computed(() => indexMode.value ? helpSidebar.value : readingGroups.value)
+
+// The menu renders the active class. Mirror it for assistive technology.
+watchPostEffect(() => {
+  if (!mounted.value) return
+  void visibleSidebar.value
+  const menu = document.getElementById('VPSidebarNav')
+  if (!menu) return
+  for (const link of menu.querySelectorAll('.VPSidebarItem > .item > a[aria-current]')) {
+    link.removeAttribute('aria-current')
+  }
+  if (!referenceMode.value) {
+    menu.querySelector('.VPSidebarItem.is-active > .item > a')?.setAttribute('aria-current', 'page')
+  }
+})
 // Supply the context menu to the default theme, including its active states,
 // mobile navigation and previous/next links. Original page data stays intact.
 const indexHome = computed(() => indexMode.value && frontmatter.value.layout === 'home')
@@ -87,7 +97,7 @@ provide(dataSymbol, {
   ...data,
   theme: computed(() => ({ ...theme.value,
     nav: contextualNav(navigation.nav, activeSection.value, sections),
-    sidebar: indexMode.value ? helpSidebar.value : readingGroups.value
+    sidebar: visibleSidebar.value
   })),
   frontmatter: computed(() => indexMode.value ? {
     ...frontmatter.value,

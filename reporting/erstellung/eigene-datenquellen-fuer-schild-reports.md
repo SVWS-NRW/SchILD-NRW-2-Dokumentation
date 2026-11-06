@@ -2,21 +2,15 @@
 title: "Eigene Datenquellen für Reports einrichten"
 ---
 
-<a id="eigene-datenquellen-fur-schild-reports"></a>
-
 # Eigene Datenquellen für Reports einrichten
 
 Eine Datenquelle stellt einem Report die benötigten Daten bereit. Diese technische Anleitung erläutert, wie Sie eigene Datenquellen für besondere Ausgaben definieren und weitergeben. Für normale Listen und Formulare reichen zunächst die vorhandenen Datenquellen und Reportvorlagen.
-
-<a id="Einleitung"></a>
 
 ## Einleitung
 
 Zur Nutzung von eigenen Datenquellen in der Reportverwaltung von SchILD-NRW 2 wurde ein Verfahren eingeführt, das es dem Nutzer ermöglicht, spezielle, für einen Report benötigte Datenquellen dynamisch zu erstellen und diese dann auch an andere SchILD-NRW 2-Installationen weiterzugeben, ohne dass die Datenquellen im Report immer wieder neu angelegt werden müssen.
 
 Außerdem besteht mit dieser Lösung eine Möglichkeit, auch für Schild-Zentral eigene Datenquellen zu nutzen. Die jeweiligen Datenquellen-Dateien müssen dann nur nach einer Sicherheitsüberprüfung von den jeweiligen IT-Administratoren in die SchILD-NRW 2-Umgebung kopiert werden.
-
-<a id="Einrichtung"></a>
 
 ## Einrichtung
 
@@ -27,9 +21,6 @@ Erstellen Sie zunächst ein Verzeichnis **SchILD-NRW 2-Pipelines** in Ihrem SchI
 In diesen Ordner werden die Datenquellen-Dateien gespeichert.
 
 Es handelt sich dabei um einfache Textdateien mit der Dateiendung **\*.SPD**.
-
-<a id="Aufbau_der_Datenquellen-Dateien_(*.SPD)"></a>
-<a id="Aufbau_der_Datenquellen-Dateien_.28.2A.SPD.29"></a>
 
 ## Aufbau der Datenquellen-Dateien (\*.SPD)
 

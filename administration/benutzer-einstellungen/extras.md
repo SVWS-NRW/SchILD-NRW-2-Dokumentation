@@ -2,8 +2,6 @@
 title: "Menü Extras"
 ---
 
-<a id="extras"></a>
-
 # Menü Extras
 
 ![Extras](/bilder/administration/benutzer-einstellungen/extras.jpg)
@@ -14,13 +12,9 @@ Unter diesem Menüpunkt stehen Ihnen einige Prozesse zur Verfügung, die zur Ein
 
 Hier legen Sie einige Individuelle und Globale Einstellungen fest.
 
-<a id="kennwort-aendern"></a>
-
 - Kennwort ändern
 
 Hier kann das Kennwort des angemeldeten Datenbank-Benutzers neu vergeben werden. (Wichtig, wenn Sie über die Benutzerverwaltung die Lehrer eingefügt haben, da diese dann zunächst alle ihr eigenes Kürzel als Passwort haben und dies zeitnah durch jeden Kollegen geändert werden sollte.)
-
-<a id="datenbanknutzer"></a>
 
 - Aktuelle Datenbanknutzer zeigen.
 
@@ -29,8 +23,6 @@ Es werden die an der Datenbank angemeldeten Computer angezeigt. Da diese Daten d
 - [Datensicherung](/administration/datenbanken/datensicherung)
 
 Führen Sie mit diesem Menüpunkt eine schnelle Sicherung der Datenbank durch. Nur für Access-Datenbanken verfügbar.
-
-<a id="notenliste"></a>
 
 - Notenliste anzeigen
 
@@ -80,8 +72,6 @@ Steht nicht bei der Schulform BK zur Verfügung, weil diese Funktion dort als Gr
 
 <!-- -->
 
-<a id="markierungen-entfernen"></a>
-
 - Alle Markierungen entfernen
 
 Löscht alle Markierungen im [Schülerliste und Auswahl](/einstieg/grundlagen/container). Dieser Prozesss wird auch bei Programmende abgefragt, wenn noch Markierungen bei den Schülern vorhanden sind.
@@ -93,8 +83,6 @@ Löscht alle Markierungen im [Schülerliste und Auswahl](/einstieg/grundlagen/co
 - [Transaktionsprotokoll verwenden](/administration/datenbanken/transaktionsprotokoll-verwenden)
 
 <!-- -->
-
-<a id="transaktionsprotokoll-zeigen"></a>
 
 - Transaktionsprotokoll anzeigen
 

@@ -4,11 +4,6 @@ title: "WaehleDatumStr"
 
 # WaehleDatumStr
 
-<a id="RAP-Funktion_&quot;WaehleDatumStr&quot;"></a>
-<a id="RAP-Funktion_.22WaehleDatumStr.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Öffnet eine Datumsauswahl und gibt das gewählte Datum als formatierten Text zurück. Das gewünschte Datumsformat wird über den Parameter festgelegt.

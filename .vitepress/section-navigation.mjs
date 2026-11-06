@@ -36,7 +36,8 @@ export function createReadingMenu(groups, section) {
       link = url.pathname + url.search + url.hash
     }
     return {
-      ...node, sidebarActive: false,
+      ...node,
+      ...(link?.startsWith('/') && occurrences.get(articlePath(link)).length > 1 ? { sidebarActive: false } : {}),
       ...(link ? { link } : {}),
       ...(node.items?.length ? {
         collapsed: true,

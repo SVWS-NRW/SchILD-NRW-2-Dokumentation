@@ -2,11 +2,7 @@
 title: "Klausuren mit Klausurplanung CNF planen"
 ---
 
-<a id="klausurplanung-cnf-hauptseite"></a>
-
 # Klausuren mit Klausurplanung CNF planen
-
-<a id="Hinweise"></a>
 
 ## Hinweise
 
@@ -20,15 +16,11 @@ Das Programm Klausurplanung_CNF berechnet den Klausurplan einer Jahrgangsstufe. 
 
 **Wenn Sie sich neu mit diesem Programm beschäftigen, nutzen Sie bitte direkt den Multi-Klausurplaner: [Klick!](/hilfe/zusatzprogramme/multi-klausurplanung-cnf-hauptseite). Dieses Programm wird nicht mehr gepflegt!**
 
-<a id="Vorbereitungen"></a>
-
 ## Vorbereitungen
 
 - Laden Sie sich den folgenden SAT-Solver (<https://github.com/msoos/cryptominisat/releases>) herunter und speichern Sie die Datei (für Windows: cryptominisat5-win-amd64-nogauss.exe) auf Ihrem PC und merken Sie sich den Pfad.
 - Installieren Sie gegebenenfalls JAVA und laden sich sich dann die aktuellste Version von Klausurplanung_CNF herunter (<https://schulverwaltungsinfos.nrw.de/svws/forum/viewtopic.php?f=71&t=1302>).
 - Sie haben nun das Programm in Form einer JAR-Datei, welche man mit einem Doppelklick starten kann. Dort müssen Sie dort zunächst den Pfad zu cryptominisat...exe angeben und können dann arbeiten, aber zuvor müssen Sie jedoch noch aus Kurs42 Ihre Daten exportieren.
-
-<a id="Daten_in_Kurs42_vorbereiten_und_exportieren"></a>
 
 ## Daten in Kurs42 vorbereiten und exportieren
 
@@ -37,16 +29,12 @@ Das Programm Klausurplanung_CNF berechnet den Klausurplan einer Jahrgangsstufe. 
 - In Klausurplanung_CNF unter *Importieren* den soeben erstellten Ordner auswählen.
 - Das Programm ist nun bereit für die Arbeiten am Klausurplan.
 
-<a id="Vorbereitungen_und_Rechnung"></a>
-
 ## Vorbereitungen und Rechnung
 
 - Auf der Registerkarte "Berechnungen" legen Sie den Beginn und das Ende des Klausurzeitraums an (frühester Termin der 1. Klausur und spätester Termin der letzten Klausur).
 - Die maximale Anzahl von Klausuren eines Schüler beziehungsweise einer Schülerin ist standardmäßig auf drei pro Woche voreingestellt. Dies kann bei Bedarf geändert werden.
 - Im Fenster Regeln werden nun die nötigen Regeln für den Klausurplan per Dropdown ausgewählt und präzisiert (siehe nachfolgender Abschnitt).
 - Ist dies geschehen, kann die Rechnung durch Klick auf "+" gestartet werden. Mehrere Rechnungen sind, je nach Leistung des Computers, möglich. Als Orientierungswert gilt: höchstens eine Rechnung pro CPU-Kern.
-
-<a id="Regelwerk"></a>
 
 ## Regelwerk
 

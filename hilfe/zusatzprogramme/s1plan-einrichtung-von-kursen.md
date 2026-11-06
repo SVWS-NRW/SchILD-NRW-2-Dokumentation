@@ -2,14 +2,9 @@
 title: "Kurse in S1Plan einrichten und zuweisen"
 ---
 
-<a id="s1plan-einrichtung-von-kursen"></a>
-
 # Kurse in S1Plan einrichten und zuweisen
 
 Das Einrichten von Kursen kann auf zwei Wegen erfolgen. Falls in der angebundenen SchILD-NRW 2-Datenbank schon Kurse (mit oder ohne Schülerverteilung) vorhanden sind, können diese in S1Plan eingelesen werden. Falls noch keine Kurse in der SchILD-NRW 2-Datenbank vorliegen, können in S1Plan alle Kurse eingerichtet und hier auch eine Schülerverteilung vorgenommen werden. Im Folgenden wird davon ausgegangen, dass in der SchILD-NRW 2-Datenbank noch keine Kurse eingerichtet wurden (Fall A, siehe oben Seite 3).
-
-<a id="NEUEINRICHTUNG_VON_KURSEN_IN_S1PLAN_(Beispiel:_GY)"></a>
-<a id="NEUEINRICHTUNG_VON_KURSEN_IN_S1PLAN_.28Beispiel:_GY.29"></a>
 
 ## NEUEINRICHTUNG VON KURSEN IN S1PLAN (Beispiel: GY)
 
@@ -18,9 +13,6 @@ Am Beispiel einer 6. Jahrgangsstufe sollen folgende Kurse in S1Plan neu eingeric
 ![S1P-013-Kursprofil anlegen](/bilder/tools/s1plan/s1p-013-kursprofil-anlegen.jpg)
 
 erfolgen.
-
-<a id="SPRACHENKURSE_EINRICHTEN(KURSART_WPI)"></a>
-<a id="SPRACHENKURSE_EINRICHTEN.28KURSART_WPI.29"></a>
 
 ## SPRACHENKURSE EINRICHTEN(KURSART WPI)
 
@@ -48,9 +40,6 @@ Die hier nicht eingetragenen Felder sind (zunächst) nicht zwingend zu füllen, 
 Die Nummer des Kurses (linke Spalte) ist fortlaufend und hängt davon ab, wie viele Kurse bisher eingerichtet wurden.
 :::
 
-<a id="SCHÜLERZUWEISUNG_ZU_DEN_KURSEN"></a>
-<a id="SCH.C3.9CLERZUWEISUNG_ZU_DEN_KURSEN"></a>
-
 ## SCHÜLERZUWEISUNG ZU DEN KURSEN
 
 Zunächst sollte der Schildabgleich über den Menüpunkt
@@ -76,10 +65,6 @@ Es erscheint nun wieder der Hauptbildschirm mit der Kurs- beziehungsweise Schül
 ![S1P-022-Übersichtsseite](/bilder/tools/s1plan/s1p-022-ubersichtsseite.jpg)
 
 Hier gibt es (auch) die Möglichkeit, Zuweisungen einzelner Schüler zu ändern. Hierzu klicken Sie auf die Spalte „Zuw.“. Im rechten Fenster. Nun können Sie auf den Auswahlknopf klicken oder einen Buchstaben oder eine Zahl eingeben. Es werden dann die Kurse angezeigt, die aufgrund der Eingabe in Frage kommen. Es gibt jetzt noch die Möglichkeit, die Kurse zu fixieren. Dies geschieht sinnvollerweise über den entsprechenden Gruppenprozess „Kurswahlen fixieren“.
-
-<a id="EXPORT_DER_KURSWAHLEN_NACH_SCHILD-NRW"></a>
-
-<a id="export-der-kurswahlen-nach-schild-nrw"></a>
 
 ## EXPORT DER KURSWAHLEN NACH SchILD-NRW 2
 
@@ -115,9 +100,6 @@ Bei den Schülern erkennt man auf der Karteikarte „Akt. Halbjahr“ ebenfalls 
 
 ![S1P-027-Kurse_bei_Schüler_in_Schild](/bilder/tools/s1plan/s1p-027-kurse-bei-schuler-in-schild.jpg)
 
-<a id="ARBEITSGEMEINSCHAFTEN_MIT_WAHLMÖGLICHKEITEN"></a>
-<a id="ARBEITSGEMEINSCHAFTEN_MIT_WAHLM.C3.96GLICHKEITEN"></a>
-
 ## ARBEITSGEMEINSCHAFTEN MIT WAHLMÖGLICHKEITEN
 
 Im Folgenden werden für einen Jahrgang 07 als Sport-AGs Fußball (1 Kurs), Handball (1 Kurs), Basketball (2 Kurse) und Volleyball (1 Kurs) mit Erst-, Zweitund Drittwunsch der Schüler behandelt. Zunächst wird im Menüpunkt „Einrichtung“ das entsprechende Kursprofil erstellt, gespeichert und anschließend gewählt:
@@ -127,9 +109,6 @@ Im Folgenden werden für einen Jahrgang 07 als Sport-AGs Fußball (1 Kurs), Hand
 Da die Schüler Erst-, Zweit- und Drittwunsch äußern dürfen, muss im unteren Bereich der Haken bei „Wunschspalten“ gesetzt werden. Danach werden unter dem Menüpunkt „Einrichtung“ die Kurse selbst eingerichtet. Dabei ist unbedingt darauf zu achten, dass das zur Kursart zugewiesene Fach nicht SP, sondern SPAG heißt. Dieses Fach muss gegebenenfalls vorher in SchILD-NRW 2 bei den Unterrichtsfächern ergänzt werden. Falls dies nicht gemacht wird und nur das Fach SP zugeordnet wird, gibt es bei den Leistungsübersichten und Zeugnissen Probleme der Darstellung des Faches Sport beziehungsweise der Sport-AG.
 
 ![S1P-029-AG-Fach-fuer-SP](/bilder/tools/s1plan/s1p-029-ag-fach-fuer-sp.jpg)
-
-<a id="SCHÜLERZUWEISUNG_ZU_DEN_ARBEITSGEMEINSCHAFTEN"></a>
-<a id="SCH.C3.9CLERZUWEISUNG_ZU_DEN_ARBEITSGEMEINSCHAFTEN"></a>
 
 ## SCHÜLERZUWEISUNG ZU DEN ARBEITSGEMEINSCHAFTEN
 

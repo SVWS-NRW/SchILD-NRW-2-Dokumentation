@@ -2,8 +2,6 @@
 title: "Kurs42: Zusammenspiel mit SchILD-NRW 2 und LuPO"
 ---
 
-<a id="zusammenspiel-mit-schild-und-lupo"></a>
-
 # Zusammenspiel mit SchILD-NRW 2 und LuPO
 
 SchILD-NRW 2, LuPO und Kurs42 bearbeiten unterschiedliche Teile der Oberstufenplanung. Diese Anleitung erklärt, welche Daten zwischen den Programmen ausgetauscht werden und in welcher Reihenfolge die Arbeitsschritte zusammenpassen.

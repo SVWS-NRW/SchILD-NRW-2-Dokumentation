@@ -2,8 +2,6 @@
 title: "Unzulässige Fachkombinationen festlegen"
 ---
 
-<a id="nicht-mogliche-fachkombinationen"></a>
-
 # Unzulässige Fachkombinationen festlegen
 
 Hier legen Sie fest, welche Fächerkombinationen in einem bestimmten Zeitraum nicht zulässig sind. Die Einschränkungen können zusätzlich auf Kursarten begrenzt werden.

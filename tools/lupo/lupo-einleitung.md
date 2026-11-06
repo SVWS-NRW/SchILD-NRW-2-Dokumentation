@@ -2,8 +2,6 @@
 title: "LuPO kennenlernen"
 ---
 
-<a id="lupo-einleitung"></a>
-
 # LuPO kennenlernen
 
 LuPO unterstützt die Beratung zur Schullaufbahn und die Prüfung der Fachwahlen in der gymnasialen Oberstufe. Diese Einführung stellt die Programmoberfläche vor und erklärt die wichtigsten Bereiche für die anschließende Arbeit.

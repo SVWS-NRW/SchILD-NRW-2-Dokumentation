@@ -4,11 +4,6 @@ title: "SchuljahrToStrEx"
 
 # SchuljahrToStrEx
 
-<a id="RAP-Funktion_&quot;SchuljahrToStrEx&quot;"></a>
-<a id="RAP-Funktion_.22SchuljahrToStrEx.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Erzeugt eine Schuljahresangabe nach einem vorgegebenen Textformat. Die Parameter bestimmen außerdem die Reihenfolge von Jahr und Abschnitt.

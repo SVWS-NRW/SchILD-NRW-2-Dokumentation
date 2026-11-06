@@ -2,11 +2,7 @@
 title: "Reports per E-Mail versenden"
 ---
 
-<a id="mailversand-aus-der-reporting"></a>
-
 # Reports per E-Mail versenden
-
-<a id="Versenden_einer_Reportvorlage"></a>
 
 ## Versenden einer Reportvorlage
 
@@ -17,9 +13,6 @@ Klicken Sie mit der rechten Maustaste auf den Report, den Sie versenden wollen u
 ![RTM-Mailversand](/bilder/reporting/verwaltung/rtm-mailversand.png)
 
 Je nach Einstellung öffnet sich nun das Standard-Mailprogramm oder die SchILD-NRW 2-interne Mailfunktion.
-
-<a id="Versenden_eines_PDF_an_einen_oder_mehrere_Empfänger"></a>
-<a id="Versenden_eines_PDF_an_einen_oder_mehrere_Empf.C3.A4nger"></a>
 
 ## Versenden eines PDF an einen oder mehrere Empfänger
 
@@ -32,8 +25,6 @@ Drucken Sie den Report mit einem Doppelklick und wählen Sie folgende Option.
 Es erscheint nun die SchILD-NRW 2-Mail-Funktion oder das Standard-E-Mail-Programm mit dem ein fester gedruckter Report an die Empfänger gesendet werden kann.
 
 ![PDF-Mailversand02](/bilder/reporting/verwaltung/pdf-mailversand02.png)
-
-<a id="Versand_eines_Serienbriefs_als_PDF-Anhang"></a>
 
 ## Versand eines Serienbriefs als PDF-Anhang
 

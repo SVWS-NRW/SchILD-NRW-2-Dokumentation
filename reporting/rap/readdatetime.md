@@ -4,11 +4,6 @@ title: "ReadDateTime"
 
 # ReadDateTime
 
-<a id="RAP-Funktion_&quot;ReadDateTime&quot;"></a>
-<a id="RAP-Funktion_.22ReadDateTime.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Zeigt einen Dialog für Datum und Uhrzeiten an. Bei Bedarf lässt sich ein Zeitintervall mit Beginn und Ende erfassen.

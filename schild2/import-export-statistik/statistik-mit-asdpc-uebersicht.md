@@ -2,8 +2,6 @@
 title: "Schulstatistik mit ASDPC im Überblick"
 ---
 
-<a id="statistik-mit-asdpc-ubersicht"></a>
-
 # Schulstatistik mit ASDPC im Überblick
 
 Dies ist eine Übersicht über den Ablauf der Haupterhebung im Rahmen Amtlichen Schulstatistik NRW und dient als erste Orientierung in dem mitunter sehr umfangreichen Prozess.
@@ -40,7 +38,7 @@ Dieses Schaubild zeigt schematisch den Ablauf der Statistik.
 
 Wurde die Statistik korrekt durchgeführt, kann sie an IT.NRW abgeschickt werden.
 
-Sollte es Probleme geben, nutzen Sie die bestehenden [Supportangebote](/schild2/import-export-statistik/statistik-mit-asdpc#Supportangebote). Sie können auch nach in der Praxis auftauchenden [Fehlern](/schild2/import-export-statistik/statistik-mit-asdpc-fehlersuche) schauen. Einige Hinweise zu Problemen im Zusammenhang mit dem Austausch von verschlüsselten Daten und Schlüsseln finden sie [hier](/schild2/import-export-statistik/statistik-mit-asdpc-schluesselmanagement#M.C3.B6gliche_Fehler_bei_Ver-_und_Entschl.C3.BCsselung).
+Sollte es Probleme geben, nutzen Sie die bestehenden [Supportangebote](/schild2/import-export-statistik/statistik-mit-asdpc#supportangebote). Sie können auch nach in der Praxis auftauchenden [Fehlern](/schild2/import-export-statistik/statistik-mit-asdpc-fehlersuche) schauen. Einige Hinweise zu Problemen im Zusammenhang mit dem Austausch von verschlüsselten Daten und Schlüsseln finden sie [hier](/schild2/import-export-statistik/statistik-mit-asdpc-schluesselmanagement#mogliche-fehler-bei-ver-und-entschlusselung).
 
 :::info
 Zur ausführlichen Anleitung: [Link](/schild2/import-export-statistik/statistik-mit-asdpc "Statistik mit ASDPC").

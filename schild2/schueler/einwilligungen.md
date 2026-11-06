@@ -10,8 +10,6 @@ Dies kann im Datenschutzbereich viele Bereiche betreffen, wo Zustimmungen benöt
 
 Für die Zustimmung zur Teilnahme an Lernplattformen mit Audio- und Videokonferenzen gibt es einen eigenen Bereich, der bei den Schülerdatensätzen mit auf diesem Karteireiter eingeblendet wird.
 
-<a id="Anlegen_einer_Einwilligung"></a>
-
 ## Anlegen einer Einwilligung
 
 Zunächst muss eine Einwilligung angelegt werden. Öffnen Sie dazu das Menü unter Schulverwaltung:
@@ -23,9 +21,6 @@ Legen Sie dann über das Pluszeichen eine gewünsche Einwilligung an:
 ![Einwilligungen002](/bilder/schild2/schueler/einwilligungen002.png)
 
 Schließen Sie dann das Fenster. Bitte beachten Sie, dass es nun eine Weile dauern kann, da jetzt bei jedem Schülerdatensatz diese Einwilligung angelegt wird.
-
-<a id="Setzen_der_Einwilligung_über_den_Gruppenprozess"></a>
-<a id="Setzen_der_Einwilligung_.C3.BCber_den_Gruppenprozess"></a>
 
 ## Setzen der Einwilligung über den Gruppenprozess
 
@@ -40,9 +35,6 @@ Setzen Sie die zu bearbeitende Einwilligung auf den gewünschten Wert. (Zustimmu
 Auf dem Karteireiter des Schülerdatensatzes sollte nun der gewünschte Haken gesetzt sein und kann bei Widerruf individuell entfernt werden. (Dies geht natürlich auch mit dem Gruppenprozess bei mehreren Schülerdatensätzen.
 
 ![Einwilligungen005](/bilder/schild2/schueler/einwilligungen005.png)
-
-<a id="Filtern_auf_Schüler_mit_oder_ohne_Einwilligung"></a>
-<a id="Filtern_auf_Sch.C3.BCler_mit_oder_ohne_Einwilligung"></a>
 
 ## Filtern auf Schüler mit oder ohne Einwilligung
 

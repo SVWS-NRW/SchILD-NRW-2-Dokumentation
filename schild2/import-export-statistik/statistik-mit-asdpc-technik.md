@@ -2,15 +2,11 @@
 title: "ASDPC installieren und einrichten"
 ---
 
-<a id="statistik-mit-asdpc-technik"></a>
-
 # ASDPC installieren und einrichten
 
 Diese Anleitung behandelt Installation und technische Vorbereitung von ASDPC. Sie erläutert außerdem Aktualisierungen und den Umgang mit den Programmdateien. Den eigentlichen Erhebungsablauf finden Sie in den folgenden Kapiteln des ASDPC-Menüs.
 
 \_
-
-<a id="Erstinstallation"></a>
 
 ## Erstinstallation
 
@@ -56,8 +52,6 @@ Falls die Installation nicht komplett durchführbar ist, wählen Sie "Als Admini
 
 Klicken Sie bei der Installation von ASDPC nun immer auf die Felder, mit denen die Installation durchgeführt ist.
 
-<a id="Updaten_von_ASDPC"></a>
-
 ## Updaten von ASDPC
 
 Um ASDPC zu updaten können Sie hier [ein eventuelles Update](https://schulverwaltungsprogramme.msb.nrw.de/schulen/download.htm#D91) herunterladen.
@@ -84,34 +78,21 @@ Bitte beachten Sie, dass vor oder während der Statistik noch weitere Updates mi
 
 Denken Sie auch daran zu prüfen, ob Ihre Schulverwaltungsprogramme - zum Beispiel SchILD-NRW 2 - geupdated werden können.
 
-<a id="Schlüsselmanagement"></a>
-<a id="Schl.C3.BCsselmanagement"></a>
-
 ## Schlüsselmanagement
 
 [Schlüsselmanagement](/schild2/import-export-statistik/statistik-mit-asdpc-schluesselmanagement)
 
-<a id="Allgemeine_Informationen"></a>
-
 ### Allgemeine Informationen
 
-[Allgemeine Informationen](/schild2/import-export-statistik/statistik-mit-asdpc-schluesselmanagement#Allgemeine_Informationen)
-
-<a id="Neu_Erzeugen,_Einlesen_und_Sichern_von_existierenden_Schlüsseln"></a>
-<a id="Neu_Erzeugen.2C_Einlesen_und_Sichern_von_existierenden_Schl.C3.BCsseln"></a>
+[Allgemeine Informationen](/schild2/import-export-statistik/statistik-mit-asdpc-schluesselmanagement#allgemeine-informationen)
 
 ### Neu Erzeugen, Einlesen und Sichern von existierenden Schlüsseln
 
-[Neu Erzeugen, Einlesen und Sichern von existierenden Schlüsseln](/schild2/import-export-statistik/statistik-mit-asdpc-schluesselmanagement#Neu_Erzeugen,_Einlesen_und_Sichern_von_existierenden_Schl%C3%BCsseln)
-
-<a id="Mögliche_Fehler_bei_Ver-_und_Entschlüsselung"></a>
-<a id="M.C3.B6gliche_Fehler_bei_Ver-_und_Entschl.C3.BCsselung"></a>
+[Neu Erzeugen, Einlesen und Sichern von existierenden Schlüsseln](/schild2/import-export-statistik/statistik-mit-asdpc-schluesselmanagement#neu-erzeugen-einlesen-und-sichern-von-existierenden-schlusseln)
 
 ### Mögliche Fehler bei Ver- und Entschlüsselung
 
-[Mögliche Fehler bei Ver- und Entschlüsselung](/schild2/import-export-statistik/statistik-mit-asdpc-schluesselmanagement#M%C3%B6gliche_Fehler_bei_Ver-_und_Entschl%C3%BCsselung)
-
-<a id="Das_Programm_ASDPC"></a>
+[Mögliche Fehler bei Ver- und Entschlüsselung](/schild2/import-export-statistik/statistik-mit-asdpc-schluesselmanagement#mogliche-fehler-bei-ver-und-entschlusselung)
 
 ## Das Programm ASDPC
 
@@ -134,10 +115,7 @@ Haben Sie einmal den Modus "Erhebung Amtliche Schuldaten (ASDPC)" aufgerufen, bi
 ![ASDPC_HE_Menu](/bilder/schild2/import-export-statistik/asdpc-he-menu.png)
 
 - *Datei* - Hier kann der Modus "Erhebung Amtliche Schuldaten (ASDPC)" über "Schließen" verlassen werden.
-- *Erhebung* - Hier kann die aktuelle [Haupterhebung](/schild2/import-export-statistik/statistik-mit-asdpc#Die_Haupterhebung) gestartet werden.
-
-<a id="Abschnitte_&quot;Extras&quot;"></a>
-<a id="Abschnitte_.22Extras.22"></a>
+- *Erhebung* - Hier kann die aktuelle [Haupterhebung](/schild2/import-export-statistik/statistik-mit-asdpc#die-haupterhebung) gestartet werden.
 
 ### Abschnitte "Extras"
 
@@ -146,9 +124,6 @@ Haben Sie einmal den Modus "Erhebung Amtliche Schuldaten (ASDPC)" aufgerufen, bi
 - *ASDPC Datenbank reorganisieren*
 - *dienstliche Dokumente beziehungsweise Dateien entschlüsseln* - wird Ihnen per Email mitgeteilt, dass entsprechende Dateien vorliegen, können diese nach dem Download hier entschlüsselt werden (zum Beispiel für Mithilfe bei Fahndungen der Polizei).
 - *Schlüsselverwaltung* - verwalten Sie die Schlüssel von ASDPC: [Schlüsselverwaltung](/schild2/import-export-statistik/statistik-mit-asdpc-schluesselmanagement)
-
-<a id="Abschnitt_&quot;Optionen&quot;"></a>
-<a id="Abschnitt_.22Optionen.22"></a>
 
 ### Abschnitt "Optionen"
 
@@ -170,9 +145,6 @@ Sichern Sie die Ergebnisse Ihrer Arbeit. Eine Sicherung kann auch von der Haupte
 Eine Sicherung einzuspielen überschreibt den aktuellen Arbeitsstand mit dem der Sicherung.
 :::
 
-<a id="Abschnitt_&quot;Hilfe&quot;"></a>
-<a id="Abschnitt_.22Hilfe.22"></a>
-
 ### Abschnitt "Hilfe"
 
 ![ASDPC_Hilfe](/bilder/schild2/import-export-statistik/asdpc-hilfe.png)
@@ -181,7 +153,7 @@ Eine Sicherung einzuspielen überschreibt den aktuellen Arbeitsstand mit dem der
   - *Inhalt...* - Öffnet das ausführliche Hilfeverzeichnis von ASDPC, in dem Sie über einen Index Informationen zu nahezu allen Aspekten finden können (Belege, Hinweise, und vieles mehr).
   - *Suchen in Hilfe* - Öffnet von der Hilfe oben nicht den Index, sondern direkt das Suchfeld für einen schnellen Zugriff.
   - *Eintragungshilfen/Schlüsseltabellen* - öffnet eine Auswahl, mit der die *Schlüsseltabellen* oder *Eintragungshilfen* Ihrer Schulform direkt aus ASDPC im Browser geöffnet werden.
-  - *Update ausführen* - Hier kann ein Update von ASDPC ausgeführt werden. Siehe hierzu das Kapitel [Update von ASDPC](#Updaten_von_ASDPC).
+  - *Update ausführen* - Hier kann ein Update von ASDPC ausgeführt werden. Siehe hierzu das Kapitel [Update von ASDPC](#updaten-von-asdpc).
   - *Schulverzeichnis* - Öffnet das Verzeichnis mit allen Schulen in NRW der aktuell verwendeten SCHULVER.MDB.
   - *Beratungspaket für IT.NRW* - sollte es technische Probleme geben, bei denen IT.NRW Sie um ihre aktuelle Umgebung bittet, werden automatisch Konfigurationsinformationen von ASDPC zusammengestellt, die IT.NRW bei einem Supportkontakt zur Verfügung gestellt werden.
   - *Info* - zeigt Daten zur Dateiversion von ASDPC und der verwendeten Daten. Diese sehen Sie auch direkt im Startbildschirm.
