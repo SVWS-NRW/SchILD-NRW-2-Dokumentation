@@ -14,7 +14,7 @@ export async function checkArticleMenus(page, base) {
     assert(await article.evaluate(a=>a.parentElement.tagName==='LI'),'Statistikartikel hat kein eigenes Untermenü')
     await page.goto(base+'/schild2/import-export-statistik/statistik-amtliche-schuldaten.html?referenz=statistik-sim#schulerdaten-sim',{waitUntil:'networkidle'})
     await page.waitForFunction(()=>document.querySelector('.program-reference-menu [aria-current=page]')?.textContent==='Statistik und amtliche Schuldaten')
-    assert.equal(await page.locator('[id="Schülerdaten_(SIM)"]').count(),1,'Bisheriges Abschnittsziel bleibt erhalten')
+    assert.equal(await page.locator('[id="schulerdaten-sim"]').count(),1,'Markdown-Überschrift bleibt als Abschnittsziel erreichbar')
     await page.reload({waitUntil:'networkidle'})
     assert.equal(await article.getAttribute('aria-current'),'page')
     await page.goto(base+'/tools/anonymisierungstool.html?rubrik=tools',{waitUntil:'networkidle'})
