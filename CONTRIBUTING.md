@@ -1,31 +1,76 @@
 # An der Dokumentation mitarbeiten
 
-Vielen Dank für Hinweise und Ergänzungen. Sie können Artikel direkt im Browser bearbeiten oder einen Fehler über **Issues** im Repository melden.
+Sie können Fehler berichtigen und Anleitungen ergänzen, ohne etwas auf Ihrem Computer zu installieren. Öffnen Sie den gewünschten Artikel und wählen Sie neben dem Drucksymbol den **Stift** für den GitHub-Dateieditor oder **VS** für VS Code im Browser. Beide öffnen die Quelldatei auf `dev`. Melden Sie sich mit Ihrem GitHub-Konto an.
 
-## Artikel bearbeiten
+## Den passenden Bearbeitungsweg wählen
 
-1. Öffnen Sie den Artikel in der Dokumentation. Neben dem Drucksymbol öffnet der **Stift** den GitHub-Dateieditor. **VS** öffnet VS Code im Browser und eignet sich auch für Änderungen an mehreren Dateien. Melden Sie sich bei GitHub an.
-2. Legen Sie für Ihre Änderung einen eigenen Arbeitsbranch auf Basis von `dev` an. Verwenden Sie einen Namen mit Ihrem GitHub-Namen, etwa `musterfrau/filter-erklaeren`. Ohne Schreibrechte arbeiten Sie in einer eigenen Kopie des Repositorys auf GitHub, einem Fork.
-3. Speichern Sie die Änderung als Commit auf Ihrem Arbeitsbranch und laden Sie ihn zu GitHub hoch. Öffnen Sie einen Pull Request gegen `dev` des offiziellen Repositorys. Beschreiben Sie kurz, was Sie geändert und geprüft haben.
-4. Warten Sie die automatischen Prüfungen und die Rückmeldung der Redaktion ab. Die Übernahme erfolgt nach der Freigabe.
+- [Mit dem GitHub-Editor bearbeiten](/hilfe/github-editor): für eine einzelne Datei und kleine Textkorrekturen.
+- [Mit VS Code im Browser bearbeiten](/hilfe/vscode-editor): für längere Änderungen und die Arbeit an mehreren Dateien.
+- [Redaktionsworkflow](/hilfe/redaktionsworkflow): verbindliche Regeln für Arbeitsbranches, Prüfung, Freigabe und Veröffentlichung.
+- [Artikel schreiben](/hilfe/artikel-schreiben): verständliche Texte aufbauen und fachliche Inhalte erhalten.
+- [Markdown und Gestaltung](/hilfe/markdown-und-gestaltung): Überschriften, Listen, Links und Bilder einfügen.
 
-Die bebilderten Anleitungen zeigen die einzelnen Schritte im [GitHub-Dateieditor](https://svws-nrw.github.io/SchILD-NRW-2-Dokumentation/hilfe/github-editor.html) und in [VS Code im Browser](https://svws-nrw.github.io/SchILD-NRW-2-Dokumentation/hilfe/vscode-editor.html). Die Regeln zur Freigabe stehen im [Redaktionsworkflow](https://svws-nrw.github.io/SchILD-NRW-2-Dokumentation/hilfe/redaktionsworkflow.html).
+Ein **Branch** ist ein eigener Arbeitsstand. Speichern Sie Ihre Änderungen in einem neuen Branch mit Ihrem Autorennamen, etwa `musterfrau/filter-erklaeren`. Ein **Commit** hält die Änderung mit einer kurzen Erläuterung fest; **Push** überträgt sie zu GitHub. Mit einem **Pull Request** reichen Sie diesen Arbeitsstand zur Prüfung gegen `dev` ein. Eine Administratorin oder ein Administrator prüft den Vorschlag und übernimmt ihn nach Freigabe. Schreiben Sie deshalb nicht direkt in `dev` oder `master`.
 
-## Artikel schreiben und prüfen
+Unter [Alle Artikel A–Z](/hilfe/alle-artikel) finden Sie auch Seiten, deren genaue Menüposition Sie nicht kennen. Öffnen Sie zuerst den Artikel und verwenden Sie dann dessen Stift- oder VS-Schaltfläche. Die alphabetische Liste wird automatisch aus den Artikeln erstellt.
 
-- Benennen Sie die Aufgabe, nennen Sie die Voraussetzungen und beschreiben Sie die Schritte in der Reihenfolge, in der sie ausgeführt werden. Verwenden Sie die Bezeichnungen aus der Programmoberfläche.
-- Prüfen Sie fachliche Änderungen anhand der Quellen und für die betroffene Schulform. Erhalten Sie bestehende Artikeladressen, Sprungmarken, Quellen und Originaldateien. Verwenden Sie für Bildschirmfotos Beispieldaten.
-- Prüfen Sie Links, Bilder und Darstellung in der Vorschau. Ordnen Sie neue Artikel dem passenden Seitenmenü zu.
+Die folgenden Abschnitte richten sich an Personen, die lokal an Texten, Menüführung oder Gestaltung arbeiten. Bearbeitet werden Markdown-Dateien direkt; ein Wiki-Konverter ist nicht erforderlich.
 
-Die Hilfe enthält Beispiele zum [Schreiben von Artikeln](https://svws-nrw.github.io/SchILD-NRW-2-Dokumentation/hilfe/artikel-schreiben.html) und zur [Gestaltung mit Markdown](https://svws-nrw.github.io/SchILD-NRW-2-Dokumentation/hilfe/markdown-und-gestaltung.html).
+## Lokal beginnen
 
-## Lokal arbeiten
+Benötigt werden Git und Node.js 22. Öffnen Sie über das GitHub-Symbol im Kopfmenü das Repository dieser Dokumentation. Kopieren Sie dort unter **Code** die HTTPS-Adresse und klonen Sie den Branch `dev` auf Ihren Computer. Öffnen Sie anschließend den Ordner des lokalen Klons im Terminal.
 
-Mit Git und Node.js 22 können Sie die Dokumentation aus einem lokalen Klon bearbeiten. Legen Sie Ihren Arbeitsbranch vom aktuellen `dev` an und starten Sie die Vorschau:
+Legen Sie vom aktuellen `dev` einen Arbeitsbranch an und starten Sie die Vorschau:
 
 ```sh
+git fetch origin
+git switch -c redaktion/mein-thema origin/dev
 npm ci
 npm run docs:dev
 ```
 
-Öffnen Sie die im Terminal angezeigte Adresse. Vor dem Einreichen können Sie mit `npm test`, `npm run docs:build` und `npm run docs:check` lokal prüfen.
+`redaktion/mein-thema` ist ein Beispiel; wählen Sie einen eigenen passenden Branchnamen. Beginnen Sie auch in einem vorhandenen Klon mit einem aktuellen Stand von `dev` und arbeiten Sie auf einem eigenen Branch. Vorhandene lokale Änderungen vorher sichern.
+
+Öffnen Sie die im Terminal angezeigte Adresse. Die Vorschau bleibt verfügbar, solange der Prozess läuft; mit Strg+C beenden Sie ihn. In Windows PowerShell kann statt `npm` auch `npm.cmd` verwendet werden.
+
+## Dateien und Zuordnungen bearbeiten
+
+- Artikel direkt in den Markdown-Dateien der Themenordner bearbeiten. Wiki-Quellenlinks, bestehende Artikeladressen und verwendete Überschrift-Sprungmarken erhalten. Alte Wiki-Kennungen, Revisionsnummern oder zusätzliche leere Sprungmarken werden nicht neu angelegt.
+- Bilder unter `public/bilder/`, andere Downloads unter `public/dateien/` ablegen. In Artikellinks das Präfix `public` weglassen.
+- Verwendete Bilder im Katalog `.vitepress/image-catalog.json` nachführen: Dateipfad, Beschreibung, Bildunterschriften und verlinkte Artikel berücksichtigen. Auch bei der Wiederverwendung eines Bildes den zusätzlichen Artikel eintragen.
+- Hauptmenü und normale Seitenmenüs in `.vitepress/navigation.json` pflegen. Bei Themenübersichten können Untermenüs zusätzlich aus den dortigen Artikellisten entstehen; dies übernimmt `.vitepress/sidebar.mjs`.
+- Die Hierarchie der Programmreferenz steht in `.vitepress/program-reference.json`. Bestehende Referenz-IDs und Linkziele erhalten.
+- Die manuelle [Vergleichstabelle zwischen Dokumentation und Wiki](/hilfe/artikel-wiki-zuordnung) bei neuen, entfernten oder umbenannten Artikeln nachführen und ihren Aktualitätsstand anpassen.
+- Der Artikelindex und die lokale Suche erfassen veröffentlichte Markdown-Seiten automatisch. Eine neue Seite muss zusätzlich im passenden Themenmenü oder in einer Übersicht erreichbar sein.
+- Vollständige Quelltextarchive und ursprüngliche Wiki-Dateien erhalten. Ein fehlender aktueller Artikelverweis ist kein Grund, eine Datei zu entfernen.
+- Fachliche Änderungen anhand der Quelle und der betreffenden Schulform prüfen. Die Architektur und ältere Verfahren des dokumentierten Programms berücksichtigen; Unterschiede zu anderen Programmen sind kein Löschgrund. Laufzeittests nur behaupten, wenn sie tatsächlich mit passenden Beispieldaten durchgeführt wurden.
+
+## Änderung prüfen
+
+```sh
+npm test
+npm run docs:build
+npm run docs:check
+```
+
+Den Artikel außerdem in der lokalen Vorschau gegenlesen und Bilder, Verweise und Darstellung ansehen. Bei Änderungen an Menü, Suche oder Gestaltung zusätzlich `npm run docs:check-browser` ausführen. Die benötigte Playwright-Installation ist in der `README.md` des jeweiligen Repositorys beschrieben. Die npm-Befehle starten die zugehörigen Prüfskripte; auf GitHub laufen die Dokumentations- und Browserprüfungen bei jedem PR gegen `dev` und `master`. Ergebnisse liegen lokal unter `test-results/`.
+
+`QA_BROWSER` kann auf einen vorhandenen Chromium-Browser zeigen, `PLAYWRIGHT_MODULE` auf eine vorhandene Playwright-Installation. Bei Paketänderungen `npm ci` ausführen, `npm audit` auswerten und kompatible Aktualisierungen prüfen.
+
+## Änderung einreichen
+
+1. Die geänderten und neu hinzugefügten Dateien auf dem eigenen Branch committen.
+2. Den Branch nach GitHub pushen und einen Pull Request gegen `dev` öffnen.
+3. Im Pull Request kurz erklären, was geändert wurde, worauf fachliche Änderungen beruhen und was geprüft wurde.
+4. Die automatischen Prüfungen abwarten und gegebenenfalls Fehler beheben.
+5. Die [Freigabe- und Merge-Regeln](/hilfe/redaktionsworkflow#freigabe-und-merge-nach-dev) einhalten. Nur veröffentlichungsfähige Änderungen nach `dev` übernehmen.
+
+`dev` und `master` werden nicht direkt beschrieben. Den Merge übernimmt der Verantwortliche. Fehler oder fachliche Ergänzungsvorschläge können auch über **Issues** im Repository dieser Dokumentation gemeldet werden. Sie erreichen es über das GitHub-Symbol im Kopfmenü.
+
+## Druck und Betrieb
+
+Druckansichten entstehen aus Originalartikeln und Menüdaten. Ein Menüaufruf öffnet nur die Ansicht; gedruckt wird über die Druckschaltfläche. Druckgestaltung und Zustandswiederherstellung bleiben zentral im Theme. Keine getrennt gepflegten Artikelkopien erzeugen.
+
+Für Unterpfade `DOCS_BASE` setzen und eigene Vue-Komponenten mit `withBase()` verlinken. Kein `localhost` in veröffentlichte Artikel oder Menüdaten schreiben. Normale Pflege benötigt keine Python- oder Pandoc-Installation.
+
+Neue Aufgaben beginnen im offiziellen Repository vom aktuellen `origin/dev`. Frühere Migrationsrepositories dienen nicht als Grundlage neuer Änderungen. Veröffentlicht wird über einen geprüften PR von `dev` nach `master`; die vollständigen Regeln stehen im [Redaktionsworkflow](/hilfe/redaktionsworkflow).
