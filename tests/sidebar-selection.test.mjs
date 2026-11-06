@@ -1,7 +1,7 @@
 import test from 'node:test'
 import assert from 'node:assert/strict'
 import { selectedSidebarLink } from '../.vitepress/theme/sidebar-selection.mjs'
-import { contextualSidebar } from '../.vitepress/section-navigation.mjs'
+import { createReadingMenu } from '../.vitepress/section-navigation.mjs'
 
 test('Doppelte Artikellinks behalten eine eindeutige Auswahl beim Neuladen und bei Unterpfaden', () => {
   const links = ['/doku/lehrkraefte.html?rubrik=schild2&menue=2.0', '/doku/lehrkraefte.html?rubrik=schild2&menue=4']
@@ -17,7 +17,10 @@ test('Nur der gewählte Themenzweig eines mehrfach verlinkten Artikels wird stan
     { text: 'Erste Schritte', items: [{ text: 'Lehrkräfte', link: '/lehrkraefte' }] },
     { text: 'Schuldaten', items: [{ text: 'Lehrkräfte', link: '/lehrkraefte' }] }
   ] }]
-  const menu = contextualSidebar(groups, '/schild2/', '/lehrkraefte', '1.0')[0].items
+  const shared = createReadingMenu(groups, '/schild2/')
+  const menu = shared.forArticle('/lehrkraefte', '1.0')[0].items
+  assert.equal(menu[0], shared.tree[0].items[0], 'Der unbeteiligte Zweig wird wiederverwendet')
+  assert.equal(shared.forArticle('/lehrkraefte')[0].items[0].items[0].sidebarActive, true)
   assert.equal(menu[0].collapsed, true)
   assert.equal(menu[1].collapsed, false)
   assert.equal(menu[0].items[0].sidebarActive, false)

@@ -1,11 +1,17 @@
+<script lang="ts">
+import { createSidebar } from '../sidebar.mjs'
+import navigation from '../navigation.json'
+
+const sidebar = createSidebar(navigation)
+</script>
+
 <script setup lang="ts">
 import { computed, onMounted, onUnmounted, provide, ref } from 'vue'
 import DefaultTheme from 'vitepress/theme'
 import { useData } from 'vitepress'
 import { dataSymbol } from 'vitepress/dist/client/app/data.js'
 import { referenceSelection, articleIndexSelection, sectionSelection, menuSelection } from './reference-state'
-import { getSidebar } from 'vitepress/dist/client/theme-default/support/sidebar.js'
-import { articlePath, contextualSidebar, contextualNav, sectionEntries } from '../section-navigation.mjs'
+import { articlePath, contextualNav } from '../section-navigation.mjs'
 import { data as articles } from '../../hilfe/artikel.data.mjs'
 import { articleIndexLink } from '../article-index.mjs'
 import VPHome from 'vitepress/dist/client/theme-default/components/VPHome.vue'
@@ -14,7 +20,6 @@ import ArticlePrintIcon from './ArticlePrintIcon.vue'
 import SiteFooter from './SiteFooter.vue'
 import { installSidebarSelection } from './sidebar-selection.mjs'
 import VPSidebarGroup from 'vitepress/dist/client/theme-default/components/VPSidebarGroup.vue'
-import navigation from '../navigation.json'
 import reference from '../program-reference.json'
 import { referencePageId, referenceEntries } from '../reference-navigation.mjs'
 const referenceAreas = navigation.sidebar['/programmreferenz/'].slice(1)
@@ -31,21 +36,23 @@ onMounted(() => {
 })
 onUnmounted(() => disposeSidebarSelection?.())
 const indexMode = computed(() => page.value.relativePath === 'hilfe/alle-artikel.md' || (mounted.value && articleIndexSelection.value))
-const referenceMode = computed(() => !indexMode.value && (page.value.relativePath.startsWith('programmreferenz/') || page.value.relativePath === 'druck/programmreferenz.md' || (mounted.value && !!referenceSelection.value) || ((!sectionSelection.value || sectionSelection.value === 'programmreferenz') && articlePath(getSidebar(theme.value.sidebar, page.value.relativePath)[0]?.items?.[0]?.link || '/') === '/programmreferenz')))
 const sections = Object.keys(navigation.sidebar)
+const currentPath = computed(() => '/' + page.value.relativePath)
+const standardSection = computed(() => sidebar.sectionFor(currentPath.value))
 const selectedSection = computed(() => {
   const section = sectionSelection.value.startsWith('tools/') ? '/tools/' : '/' + sectionSelection.value + '/'
   return mounted.value && sections.includes(section) ? section : ''
 })
-const currentPath = computed(() => '/' + page.value.relativePath)
-const defaultGroups = computed(() => getSidebar(theme.value.sidebar, page.value.relativePath))
+const referenceMode = computed(() => !indexMode.value && (
+  page.value.relativePath.startsWith('programmreferenz/') ||
+  (mounted.value && !!referenceSelection.value) ||
+  (selectedSection.value || standardSection.value) === '/programmreferenz/'
+))
 const activeSection = computed(() => indexMode.value ? '/hilfe/' : referenceMode.value ? '/programmreferenz/'
-  : selectedSection.value || (defaultGroups.value[0]?.items?.[0]?.link ? articlePath(defaultGroups.value[0].items[0].link) + '/' : ''))
-const readingGroups = computed(() => {
-  const groups = theme.value.sidebar[activeSection.value]
-  return groups ? contextualSidebar(groups, activeSection.value, currentPath.value, mounted.value ? menuSelection.value : '') : defaultGroups.value
-})
-const readingEntries = computed(() => readingGroups.value.length ? sectionEntries(readingGroups.value, activeSection.value) : [])
+  : selectedSection.value || standardSection.value)
+const readingMenu = computed(() => sidebar.menuFor(activeSection.value))
+const readingGroups = computed(() => readingMenu.value?.forArticle(currentPath.value, mounted.value ? menuSelection.value : '') || [])
+const readingEntries = computed(() => readingMenu.value?.entries || [])
 function adjacentInSection(offset: number) {
   const position = readingEntries.value.findIndex(entry => entry.key === articlePath(currentPath.value))
   const entry = position < 0 ? undefined : readingEntries.value[position + offset]
@@ -55,7 +62,7 @@ const indexBranch = (item: any): boolean => articlePath(item.link || '/') === '/
 const expandIndex = (item: any): any => articlePath(item.link || '/') === '/hilfe/alle-artikel'
  ? { ...item, collapsed: false, items: articles.map(article => ({ text: article.title.replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;'), link: articleIndexLink(article.url) })) }
  : { ...item, ...(item.items ? { items: item.items.map(expandIndex), ...(indexBranch(item) ? { collapsed: false } : {}) } : {}) }
-const helpSidebar = computed(() => theme.value.sidebar['/hilfe/'].map(expandIndex))
+const helpSidebar = computed(() => sidebar.menuFor('/hilfe/').tree.map(expandIndex))
 // Supply the context menu to the default theme, including its active states,
 // mobile navigation and previous/next links. Original page data stays intact.
 const indexHome = computed(() => indexMode.value && frontmatter.value.layout === 'home')
@@ -78,7 +85,7 @@ provide(dataSymbol, {
   ...data,
   theme: computed(() => ({ ...theme.value,
     nav: contextualNav(navigation.nav, activeSection.value, sections),
-    sidebar: indexMode.value ? helpSidebar.value : !referenceMode.value && readingGroups.value.length ? readingGroups.value : theme.value.sidebar
+    sidebar: indexMode.value ? helpSidebar.value : readingGroups.value
   })),
   frontmatter: computed(() => indexMode.value ? {
     ...frontmatter.value,
@@ -86,7 +93,7 @@ provide(dataSymbol, {
     prev: adjacentArticle(-1), next: adjacentArticle(1)
   } : referenceMode.value ? {
     ...frontmatter.value, prev: adjacentReference(-1), next: adjacentReference(1)
-  } : selectedSection.value ? {
+  } : readingMenu.value ? {
     ...frontmatter.value, prev: adjacentInSection(-1), next: adjacentInSection(1)
   } : frontmatter.value)
 })

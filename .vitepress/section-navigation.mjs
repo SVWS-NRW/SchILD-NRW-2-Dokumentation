@@ -15,39 +15,62 @@ export function sectionLink(link, section) {
   return url.pathname + url.search + url.hash
 }
 
-export function contextualSidebar(groups, section, route, selection = '') {
-  const current = articlePath(route)
-  const entries = [], counts = new Map()
-  const collect = (nodes, parents = []) => nodes.forEach((node, index) => {
-    const id = [...parents, index].join('.')
+export function createReadingMenu(groups, section) {
+  const occurrences = new Map()
+  const collect = (nodes, parent = []) => nodes.forEach((node, index) => {
+    const position = [...parent, index]
     if (node.link?.startsWith('/')) {
       const path = articlePath(node.link)
-      entries.push({ node, id, path })
-      counts.set(path, (counts.get(path) || 0) + 1)
+      if (!occurrences.has(path)) occurrences.set(path, [])
+      occurrences.get(path).push(position)
     }
-    collect(node.items || [], [...parents, index])
+    collect(node.items || [], position)
   })
   collect(groups[0].items)
-  const requested = selection || new URL(route, 'https://docs.invalid').searchParams.get('menue')
-  const matches = entries.filter(entry => entry.path === current)
-  const chosen = matches.find(entry => entry.id === requested) || matches[0]
-  const contains = (node, id) => chosen?.id === id || (node.items || []).some((child, i) => contains(child, id + '.' + i))
-  const decorate = (node, id) => {
+
+  const decorate = (node, position) => {
     let link = node.link ? sectionLink(node.link, section) : undefined
-    if (link?.startsWith('/') && counts.get(articlePath(link)) > 1) {
+    if (link?.startsWith('/') && occurrences.get(articlePath(link)).length > 1) {
       const url = new URL(link, 'https://docs.invalid')
-      url.searchParams.set('menue', id)
+      url.searchParams.set('menue', position.join('.'))
       link = url.pathname + url.search + url.hash
     }
-    return { ...node,
-      sidebarActive: chosen?.id === id,
+    return {
+      ...node, sidebarActive: false,
       ...(link ? { link } : {}),
-      ...(node.items?.length ? { collapsed: !contains(node, id), items: node.items.map((child, i) => decorate(child, id + '.' + i)) } : {})
+      ...(node.items?.length ? {
+        collapsed: true,
+        items: node.items.map((child, index) => decorate(child, [...position, index]))
+      } : {})
     }
   }
-  // 'Weitere Bereiche' deliberately changes sections; only the reading menu
-  // inherits the current context.
-  return [{ ...groups[0], items: groups[0].items.map((node, i) => decorate(node, String(i))) }, ...groups.slice(1)]
+
+  // Other rubrics deliberately change context and keep their original links.
+  const tree = [{ ...groups[0], items: groups[0].items.map((node, index) => decorate(node, [index])) }, ...groups.slice(1)]
+  const openBranch = (items, position, depth = 0) => {
+    const index = position[depth]
+    const node = items[index]
+    const active = depth === position.length - 1
+    const opened = { ...node, sidebarActive: active }
+    if (node.items?.length) {
+      opened.collapsed = false
+      if (!active) opened.items = openBranch(node.items, position, depth + 1)
+    }
+    return items.map((item, i) => i === index ? opened : item)
+  }
+
+  return {
+    tree,
+    paths: occurrences.keys(),
+    entries: sectionEntries(tree, section),
+    forArticle(route, selection = '') {
+      const matches = occurrences.get(articlePath(route))
+      if (!matches) return tree
+      const requested = selection || new URL(route, 'https://docs.invalid').searchParams.get('menue')
+      const position = matches.find(match => match.join('.') === requested) || matches[0]
+      return [{ ...tree[0], items: openBranch(tree[0].items, position) }, ...tree.slice(1)]
+    }
+  }
 }
 
 export function sectionEntries(groups, section) {

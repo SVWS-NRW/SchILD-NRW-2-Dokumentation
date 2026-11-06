@@ -2,9 +2,8 @@ import { siteBase } from './site-base.mjs'
 import { fileURLToPath } from 'node:url'
 import { defineConfig } from 'vitepress'
 import navigation from './navigation.json'
-import { createSidebar } from './sidebar.mjs'
 import { configureMarkdown, containerLabels } from './markdown.mjs'
-import { compactSiteData, verifyBuiltHtml, writeArticleRedirects } from './site-data.mjs'
+import { verifyBuiltHtml, writeArticleRedirects } from './site-data.mjs'
 
 // VitePress must recognize spreadsheet links as files on server and client.
 const extraExtensions = [...new Set([process.env.VITE_EXTRA_EXTENSIONS, 'ods', 'xlsx', 'dat', 'chm', 'spd', 'exe', 'doc', 'txt', 'mdb'].filter(Boolean))].join(',')
@@ -23,7 +22,6 @@ export default defineConfig({
   title: 'SchILD-NRW 2',
   description: 'Dokumentation für SchILD-NRW 2: Praxisanleitungen, Reporting und Nachschlagewerk',
   srcExclude: ['README.md', 'UMSETZUNG.md', 'CONTRIBUTING.md', 'WORKFLOW.md', 'tests/**', 'scripts/**', 'node_modules/**', 'tmp/**', 'test-results/**'],
-  transformHtml: compactSiteData,
   buildEnd(config) { verifyBuiltHtml(config); writeArticleRedirects(config) },
   markdown: {
     image: { lazyLoading: true },
@@ -32,7 +30,6 @@ export default defineConfig({
   },
   themeConfig: {
     nav: navigation.nav,
-    sidebar: createSidebar(navigation),
     outline: { label: 'Auf dieser Seite', level: [2, 3] },
     docFooter: { prev: 'Vorheriges Thema', next: 'Nächstes Thema' },
     sidebarMenuLabel: 'Themen',
