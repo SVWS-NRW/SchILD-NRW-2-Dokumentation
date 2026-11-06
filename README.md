@@ -1,13 +1,71 @@
 # SchILD-NRW 2 – Dokumentation
 
-Die Dokumentation erklärt, wie Sie SchILD-NRW 2 einrichten und im Schulalltag nutzen. Sie enthält Arbeitsanleitungen, eine Programmreferenz sowie Hilfe zur Zeugniserstellung, zu Reports und zu Zusatzprogrammen.
+Praxisanleitungen und Nachschlagewerk für die tägliche Arbeit mit SchILD-NRW 2: Schülerdaten, Unterricht, Zeugnisse, Abschlüsse, Reporting und Administration.
 
-**[Dokumentation öffnen](https://svws-nrw.github.io/SchILD-NRW-2-Dokumentation/)**
+- Offizielles Repository: https://github.com/SVWS-NRW/SchILD-NRW-2-Dokumentation
 
-## Mitarbeiten
+- Veröffentlichte SchILD-NRW 2 Dokumentation: https://schild2.svws-nrw.de
 
-Fehler gefunden oder eine Ergänzung vorgeschlagen? In der [Anleitung zur Mitarbeit](CONTRIBUTING.md) erfahren Sie, wie Sie Artikel bearbeiten. Der [Redaktionsworkflow](WORKFLOW.md) beschreibt, wie Sie Änderungen zur Prüfung einreichen.
+- Veröffentlichte SchILD-NRW 2 Dokumentation auf GitHub Pages: https://svws-nrw.github.io/SchILD-NRW-2-Dokumentation
 
-## Lizenz
+## Lokal ansehen
 
-[CC0 1.0](LICENSE)
+Benötigt wird Node.js 22. Im Repository:
+
+```sh
+npm ci
+npm run docs:dev
+```
+
+Die im Terminal angezeigte lokale Adresse im Browser öffnen. Bilder und Downloads sind im Repository enthalten; sie werden nicht beim Start nachgeladen.
+
+## Artikel bearbeiten
+
+Die Artikel direkt in den Markdown-Dateien bearbeiten. Änderungen erfolgen auf einem eigenen Branch mit Pull Request gegen `dev`. Den Merge übernimmt der Verantwortliche.
+
+Unter **Hilfe** stehen [Artikel schreiben und bearbeiten](hilfe/artikel-schreiben.md) mit den gemeinsamen Schreibregeln und [Markdown und Gestaltung](hilfe/markdown-und-gestaltung.md) mit kopierbaren Beispielen. Die [Anleitung zur technischen Mitarbeit](CONTRIBUTING.md) erklärt lokale Vorschau, Dateien und Menüzuordnung. Der [verbindliche Redaktions- und Veröffentlichungsworkflow](WORKFLOW.md) regelt Branches, Pull Requests, Freigaben und Veröffentlichungen.
+
+## Prüfen
+
+Vor einem Pull Request:
+
+```sh
+npm test
+npm run docs:build
+npm run docs:check
+```
+
+Der Build erstellt die Website und prüft Seitenverweise. `docs:check` kontrolliert anschließend interne Links einschließlich Sprungmarken sowie die referenzierten Bilder im fertigen Ergebnis. Externe Websites werden dabei nicht abgefragt. Die kleinen Tests prüfen zentrale Darstellungsfunktionen und die Linkprüfung.
+
+Bei Änderungen an Menü, Suche oder Darstellung zusätzlich die gezielte Browserprüfung ausführen:
+
+```sh
+npm install --no-save --package-lock=false playwright@1.56.1
+npx playwright install chromium
+npm run docs:check-browser
+```
+
+Sie prüft Themenmenü, Programmreferenz, Weiterblättern und breite Tabellen auf Desktop und Smartphone sowie Suche und Artikelindex. Es gibt keinen vollständigen Artikelscan und keinen dauernden Vergleich mit alten Wiki-Fassungen.
+
+Auf GitHub laufen **Dokumentation prüfen** (`docs-check`) und **Bedienung prüfen** (`browser-check`) bei jedem Pull Request mit Ziel `dev` oder `master`, unabhängig von den geänderten Dateien. Beide Prüf-Workflows können außerdem manuell gestartet werden. Die npm-Befehle starten die Prüfungen aus `scripts/` und `tests/`. Fehleraufnahmen liegen als GitHub-Artefakt vor; lokale Ausgaben unter `test-results/` gehören nicht in Git.
+
+## Technischer Paketstand
+
+VitePress 1.6.4 und `markdown-it-container` 4.0.0 bleiben die stabilen Grundlagen. Die Vite-Abhängigkeit von VitePress ist über `overrides` in `package.json` auf **Vite 6.4.5** festgelegt. Diese gezielte Abweichung von der VitePress-Standardabhängigkeit behebt die gemeldeten Vite-/esbuild-Lücken und verwendet den vom vorhandenen Vue-Plugin unterstützten Vite-6-Zweig. Die mitgelieferten Build- und Browserprüfungen decken die verwendeten Funktionen ab.
+
+Bei einem späteren stabilen VitePress-Update prüfen, ob die Festlegung entfallen kann. Nach Paketänderungen `npm ci` ausführen. Entwicklungs- und Vorschau-Server bleiben lokal.
+
+## Veröffentlichen
+
+```sh
+npm run docs:build
+npm run docs:preview
+```
+
+Veröffentlicht wird ausschließlich der Inhalt von `.vitepress/dist` über statisches HTTPS-Hosting. Entwicklungs- und Vorschau-Server werden nicht öffentlich betrieben. Die Zieladresse ist `https://schild2.svws-nrw.de/`. Standardbuild und lokale Vorschau verwenden die Domainwurzel `/`; dies ist in `.vitepress/site-base.mjs` festgelegt. Ein anderer Unterpfad kann über `DOCS_BASE` angegeben werden.
+
+Ein Merge nach `master` startet `.github/workflows/deploy.yml`: Build, Link- und Bildprüfung sowie Veröffentlichung auf GitHub Pages. Ein manueller Lauf dieses Workflows auf `master` veröffentlicht ebenfalls; auf anderen Branches wird nur gebaut. Im regulären Ablauf ist der manuelle Veröffentlichungslauf nicht nötig; Einzelheiten stehen im [Workflow](WORKFLOW.md). Das Workflow-Artefakt `schild2-domain` enthält die fertige Website für die Domainwurzel des Nginx-Servers. Für die GitHub-Pages-Vorschau wird bei Bedarf zusätzlich mit dem von GitHub vorgegebenen Unterpfad gebaut. Die Anbindung der Zieladresse auf dem bestehenden Nginx-Server erfolgt getrennt; der Workflow ändert weder DNS noch diesen Server.
+
+Die Website verlinkt im Fußbereich das Impressum, die Datenschutzerklärung, die Erklärung zur Barrierefreiheit, die Seite in Leichter Sprache und die [Lizenz](LICENSE).
+
+Nach dem Upload Startseite, tiefe Artikellinks, Suche, Bilder und Mobilmenü auf der tatsächlichen Zieladresse prüfen.
