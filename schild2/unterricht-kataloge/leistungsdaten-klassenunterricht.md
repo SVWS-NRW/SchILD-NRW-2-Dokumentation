@@ -2,8 +2,6 @@
 title: "Leistungsdaten im Klassenunterricht bearbeiten"
 ---
 
-<a id="leistungsdaten-klassenunterricht"></a>
-
 # Leistungsdaten im Klassenunterricht bearbeiten
 
 Dieses Tutorial gibt eine Einführung in den Umgang mit den Leistungsdaten für Klassenunterricht. Klassenunterricht ist Unterricht, der im normalen Klassenverband gegeben wird. Für die Sekundarstufe I ist dies die Regelunterrichtsform. Ausnahmen sind zum Beispiel der Wahlpflichtbereich der Jahrgangsstufen 8 und 9 an Gymnasien oder der Religionsunterricht. Es wird erklärt, wie man die Leistungsdaten der Schüler in SchILD-NRW 2 anlegt, wo weitere Eintragungen, wie zum Beispiel Arbeits- und Sozialverhalten, durchgeführt werden können und wie man Daten ändern und löschen kann.

@@ -4,9 +4,6 @@ title: "SetUebersichtKursartFilter"
 
 # SetUebersichtKursartFilter
 
-<a id="RAP-Funktion_&quot;SetUebersichtKursartFilter&quot;"></a>
-<a id="RAP-Funktion_.22SetUebersichtKursartFilter.22"></a>
-
 ## Beschreibung
 
 Mit dieser Funktion können jetzt alle "Leistungsdatenquellen"

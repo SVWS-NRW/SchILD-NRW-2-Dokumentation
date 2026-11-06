@@ -2,8 +2,6 @@
 title: "PM2 installieren"
 ---
 
-<a id="prognos-installation"></a>
-
 # PM2 installieren
 
 **Installation**\

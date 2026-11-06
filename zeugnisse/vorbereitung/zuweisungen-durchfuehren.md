@@ -2,8 +2,6 @@
 title: "Fach- und Förderunterricht zuweisen"
 ---
 
-<a id="zuweisungen-durchfuhren"></a>
-
 # Fach- und Förderunterricht zuweisen
 
 Dieser Gruppenprozess steht den differenzierenden Schulformen zur Verfügung und dient der gruppenweisen Zuweisung von Fach- und Förderunterricht.

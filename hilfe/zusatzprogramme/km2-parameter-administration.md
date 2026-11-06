@@ -2,8 +2,6 @@
 title: "Datenbank und Administratorzugang in KM2 einrichten"
 ---
 
-<a id="km2-parameter-administration"></a>
-
 # Datenbank und Administratorzugang in KM2 einrichten
 
 ![Km2_parameter_admin](/bilder/tools/km2/km2-parameter-admin.png)
@@ -12,8 +10,6 @@ Die Einstellungen für den Administrator gliedern sich in zwei Bereiche:
 
 - die Festlegung der Parameter für den **Datenzugriff auf „SchILD-NRW 2"** (Punkte **(1)** bis **(5)** und
 - die Festlegung des Admin-Passwortes (Punkt **(6)**)
-
-<a id="Datenzugriff"></a>
 
 ## Datenzugriff
 
@@ -28,8 +24,6 @@ Die Einstellungen für den Administrator gliedern sich in zwei Bereiche:
 ![Km2_verbindung_testen](/bilder/tools/km2/km2-verbindung-testen.png)
 
 - **(6)**: KM2 verwaltet den Benutzer "Administrator":
-
-<!-- -->
 
 - Benutzername: "Administrator"
 - Login-Name: "Admin"

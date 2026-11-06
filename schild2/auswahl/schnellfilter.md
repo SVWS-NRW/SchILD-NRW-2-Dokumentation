@@ -1,6 +1,3 @@
-<a id="karteikasten"></a>
-<a id="karteikasten-und-schulerstatus"></a>
-<a id="statusfilter-und-schulerstatus"></a>
 
 # Status- und Schnellfilter
 
@@ -28,8 +25,6 @@ Die Abbildung zeigt die verfügbaren Filter an einem Berufskolleg. An anderen Sc
 2. Wählen Sie die passende Klasse, den Jahrgang, Kurs oder einen anderen eingeblendeten Filter.
 3. Kontrollieren Sie die Schülerliste und die Zahl der angezeigten Datensätze. Gruppenprozesse und viele Reports arbeiten mit dieser Auswahl.
 4. Wenn Sie wieder die Standard-Auswahl benötigen, verwenden Sie [Standard-Auswahl laden](/schild2/auswahl/standard-auswahl-laden).
-
-<a id="anzeige-filtern-oder-status-andern"></a>
 
 ## Statusfilter und Statusfeld unterscheiden
 

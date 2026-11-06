@@ -2,8 +2,6 @@
 title: "Eltern mit Funktionen auflisten"
 ---
 
-<a id="erzieher-mit-schulinternen-funktionen"></a>
-
 # Eltern mit Funktionen auflisten
 
 ![Erzieher-mit-Funktionen](/bilder/schild2/unterricht-kataloge/erzieher-mit-funktionen.jpg)

@@ -4,11 +4,6 @@ title: "FilterErzieherfunktion"
 
 # FilterErzieherfunktion
 
-<a id="RAP-Funktion_&quot;FilterErzieherfunktion&quot;"></a>
-<a id="RAP-Funktion_.22FilterErzieherfunktion.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Wählt aus den Erziehungsberechtigten die Einträge mit der angegebenen schulinternen Funktion aus.

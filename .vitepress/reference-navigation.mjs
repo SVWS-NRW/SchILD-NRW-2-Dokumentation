@@ -1,16 +1,23 @@
 // Use the visible menu order: overview, area introductions, groups and articles.
 // Section anchors belong to their article and never become separate pager steps.
-export function referenceLink(node) {
-  const link = node.link
-  if (!link || link.startsWith('/programmreferenz/')) return link
-  const [path, anchor] = link.split('#')
-  return path + '?referenz=' + node.id + (anchor ? '#' + anchor : '')
+export function createReferenceLinks(reference, sectionFor) {
+  const counts = new Map()
+  for (const entry of referenceEntries(reference).slice(1)) {
+    counts.set(entry.link, (counts.get(entry.link) || 0) + 1)
+  }
+  return node => {
+    if (!node.link || node.link.startsWith('/programmreferenz/')) return node.link
+    const [path, anchor] = node.link.split('#')
+    const query = counts.get(path) > 1 ? '?referenz=' + node.id
+      : sectionFor(path) === '/programmreferenz/' ? '' : '?referenz'
+    return path + query + (anchor ? '#' + anchor : '')
+  }
 }
 
-export function referenceEntries(reference) {
+export function referenceEntries(reference, linkFor = node => node.link) {
   const entries = [{ id: '', text: 'Programmreferenz', link: '/programmreferenz/' }]
   function visit(node) {
-    if (node.link && !node.link.includes('#')) entries.push({ id: node.id, text: node.text, link: referenceLink(node) })
+    if (node.link && !node.link.includes('#')) entries.push({ id: node.id, text: node.text, link: linkFor(node) })
     for (const child of node.items || []) visit(child)
   }
   for (const tab of reference.tabs) visit(tab)
@@ -41,7 +48,7 @@ export function referenceActiveId(reference, selection, route) {
 export function referencePageId(reference, selection, route) {
   selection = reference.aliases?.[selection] || selection
   const entries = referenceEntries(reference)
-  if (entries.some(entry => entry.id === selection)) return selection
+  if (selection && entries.some(entry => entry.id === selection)) return selection
   function find(node, parents = []) {
     const chain = [...parents, node]
     if (node.id === selection) {

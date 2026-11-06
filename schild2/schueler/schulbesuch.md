@@ -12,9 +12,6 @@ Mit dem roten Pfeil werden die Daten der Schule in die Liste aller bisher besuch
 
 ![Schulbesuch](/bilder/schild2/schueler/schulbesuch.jpg)
 
-<a id="Herkunft_des_Schülers"></a>
-<a id="Herkunft_des_Sch.C3.BClers"></a>
-
 ## Herkunft des Schülers
 
 Der Karteireiter **Schulbesuch** hat für die Erstellung der Statistik einige entscheidende Eintragungsfelder. Der gesamte Bereich "Vor der Aufnahme besuchte Schule/Einrichtung/Sonstige Herkunftsarten" wird bei allen Schülern der Schule ausgewertet, die im letzten Schuljahr noch nicht an der eigenen Schule waren. Das bedeutet bei allen Neuaufnahmen und den Schülern, die zu Schuljahresbeginn "zugezogen" sind. Ausnahme bilden hier die Grundschulen, bei allen "Erstklässlern" bleibt dieser Bereich natürlich leer (nur die Herkunftsart "Einschulung" wird eingetragen), stattdessen werden die Eintragungen zum Grundschulbesuch auf dem Karteireiter Individualdaten II ausgewertet.
@@ -32,13 +29,9 @@ Um die Eintragungen für die Statistik näher zu erklären, dient die folgende T
 | Höchster allgem.bildender Abschluss (BK,WBK) Art des Abschlusses (andere Schulen) <br>von abgebender Schule | Abgangsart | Filter auf Schulform und Jahrgang der abgebenden Schule. <br>(Hier haben die Bks und WBKs eine feste programminterne Tabelle in SchILD-NRW 2 wegen der Dopplungen in der Statkue.mdb) |
 | Art des Abschlusses <br>von eigener Schule | Abgangsart | Filter auf eigene Schulform und Jahrgang |
 
-<a id="Grundschuldaten_eingeben"></a>
-
 ## Grundschuldaten eingeben
 
 Auf dem Karteireiter **Schulbesuch** ist es an weiterführenden Schulen nun auch möglich, Daten der Grundschule für den Übergang an die Schule einzugeben. Bitte klicken Sie dazu auf den Button **[Grundschuldaten eingeben](/schild2/schueler/grundschuldaten-eingeben)**.
-
-<a id="Entlassung_von_eigener_Schule"></a>
 
 ## Entlassung von eigener Schule
 
@@ -49,8 +42,6 @@ Die Eintragungen zu "Entlassdatum" und "Art des Abschlusses" sind statistikrelev
 :::warning
 Bitte beachten Sie, dass an dieser Stelle nur Abschlüsse ausgewiesen werden, die an Ihrer Schule erworben wurden. Sollte ein Schüler an Ihrer Schule keinen "höheren" Abschluss erlangt haben, so wird der letzte Abschluss hier nicht erneut eingegeben. Genauere Angaben finden Sie in den Schlüsseltabellen von IT.NRW
 :::
-
-<a id="Wechsel_zu_aufnehmender_Schule"></a>
 
 ## Wechsel zu aufnehmender Schule
 
@@ -65,8 +56,6 @@ Diese Hintergrundfarbe ändert sich dann nochmals auf **grün**, wenn der Haken 
 ![WechselSchule1](/bilder/schild2/schueler/wechselschule1.jpg)
 
 Dies soll eine optische Hilfe zur Kontrolle aller Schulanmeldungen sein.
-
-<a id="Alle_bisher_besuchten_Schulen"></a>
 
 ## Alle bisher besuchten Schulen
 

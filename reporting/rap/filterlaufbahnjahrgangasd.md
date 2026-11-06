@@ -4,11 +4,6 @@ title: "FilterLaufbahnJahrgangASD"
 
 # FilterLaufbahnJahrgangASD
 
-<a id="RAP-Funktion_&quot;FilterLaufbahnJahrgangASD&quot;"></a>
-<a id="RAP-Funktion_.22FilterLaufbahnJahrgangASD.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 filtert die Laufbahndaten der Schüler für die angegebenen Jahrgänge;

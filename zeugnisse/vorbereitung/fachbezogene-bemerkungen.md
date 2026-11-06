@@ -2,8 +2,6 @@
 title: "Fachbezogene Bemerkungen eintragen"
 ---
 
-<a id="fachbezogene-bemerkungen"></a>
-
 # Fachbezogene Bemerkungen eintragen
 
 Fachbezogene Bemerkungen beziehen sich auf ein einzelnes Unterrichtsfach. Diese Anleitung erläutert ihre Eingabe und die Verwendung in den Leistungs- und Zeugnisdaten.

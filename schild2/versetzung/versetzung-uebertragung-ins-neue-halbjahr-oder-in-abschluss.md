@@ -2,8 +2,6 @@
 title: "Einzelne Schülergruppen fortschreiben"
 ---
 
-<a id="versetzung-ubertragung-ins-neue-halbjahr-oder-in-abschluss"></a>
-
 # Einzelne Schülergruppen fortschreiben
 
 :::danger

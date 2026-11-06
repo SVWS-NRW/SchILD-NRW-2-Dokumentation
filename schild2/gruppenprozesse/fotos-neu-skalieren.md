@@ -2,11 +2,9 @@
 title: "Fotos verkleinern"
 ---
 
-<a id="fotos-neu-skalieren"></a>
-
 # Fotos verkleinern
 
-SchILD-NRW 2 verändert die Größe der Schüler und Lehrerfotos beim Einlesen in die Datenbank nach dem Wert, der unter [Menü Extras](/administration/benutzer-einstellungen/extras) \> [Programmeinstellungen](/administration/benutzer-einstellungen/programm-einstellungen) \> [Globale Einstellungen](/administration/benutzer-einstellungen/programm-einstellungen#Globale_Einstellungen) gesetzt worden ist.
+SchILD-NRW 2 verändert die Größe der Schüler und Lehrerfotos beim Einlesen in die Datenbank nach dem Wert, der unter [Menü Extras](/administration/benutzer-einstellungen/extras) \> [Programmeinstellungen](/administration/benutzer-einstellungen/programm-einstellungen) \> [Globale Einstellungen](/administration/benutzer-einstellungen/programm-einstellungen#globale-einstellungen) gesetzt worden ist.
 
 Sollten Sie eine nachträgliche Skalierung der Fotos wünschen, so kann diese Funktion verwendet werden.
 

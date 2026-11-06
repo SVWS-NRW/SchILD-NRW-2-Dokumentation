@@ -2,8 +2,6 @@
 title: "Mit KM2 in der Konferenz arbeiten"
 ---
 
-<a id="modulbenutzung"></a>
-
 # Mit KM2 in der Konferenz arbeiten
 
 Diese Anleitung erklärt die Arbeit im Konferenzmodul KM2 nach der Einrichtung. Sie beschreibt die Anzeige der Leistungsdaten und die Bedienung während einer Konferenz.
@@ -11,8 +9,6 @@ Diese Anleitung erklärt die Arbeit im Konferenzmodul KM2 nach der Einrichtung. 
 ![KM2_Bildschirmaufbau_01](/bilder/tools/weitere/km2-bildschirmaufbau-01.png)
 
 *Bildschirmaufbau*
-
-<a id="Bildschirmdarstellung"></a>
 
 ## Bildschirmdarstellung
 
@@ -28,8 +24,6 @@ Die Elemente im Einzelnen:
 - **(1)**: Die Namen des gerade markierten Schülers, des Faches, des Kurses und des Fachlehrers sind hervorgehoben.
 - **(2)**: Spaltenbeschriftungen:
 
-<!-- -->
-
 - Unterrichtsfächer
 - Ersatzfächer beginnen mit einem "#"
 
@@ -37,17 +31,11 @@ Hinweis: Kursbezeichnungen werden gekürzt, wenn die Kursbezeichnung die Bezeich
 
 - Zusatzinformationen (zum Beispiel)
 
-<!-- -->
-
 - Gesamtfehlstunden (FS-G) und davon unentschuldigt (FS-ue)
 - Durchschnittsnote (DS.)
 - Grundschulempfehlung (GS.)
 
-<!-- -->
-
 - siehe [Anzeige und Fächerauswahl](/hilfe/zusatzprogramme/km2-parameter-allgemein)
-
-<!-- -->
 
 - **(3)**: gewählte Klasse und Klassenlehrer
 - **(4)**: gewähltes Schuljahr und Lernabschnitt
@@ -59,8 +47,6 @@ Hinweis: Das aktuelle SchILD-NRW 2 Schuljahr und der aktuelle Lernabschnitt sind
 - **(7)**: Gelbe Markierungen markieren die Daten eines Schülers beziehungsweise eines Faches.
 - **(8)**: Statuszeile (von links nach rechts):
 
-<!-- -->
-
 - gewählte Klasse
 - aktuelles Datum / Uhrzeit
 - angemeldeter Programmbenutzer
@@ -69,13 +55,9 @@ Hinweis: Das aktuelle SchILD-NRW 2 Schuljahr und der aktuelle Lernabschnitt sind
 - Name der automatischen geladenen Profildatei (beziehungsweise "Profildatei: Nicht gefunden", wenn die entsprechende Profildatei vom Programm nicht gefunden wurde)
 - Dateiname der SchILD-NRW 2-Datenbank (beziehungsweise der entsprechenden UDL-Datei) - siehe [Datenbank und Administration](/hilfe/zusatzprogramme/km2-parameter-administration).
 
-<a id="Datenbearbeitung"></a>
-
 ## Datenbearbeitung
 
-Die Bearbeitungsmöglichkeiten beschränken sich auf Leistungsdaten (die *normalen Noten*) und die unterschiedlichen Bemerkungen, die jedem Schüler zugeordnet werden können (siehe → [**KM<sup>2</sup>** - Parameter - Allgemein](/hilfe/zusatzprogramme/km2-parameter-allgemein)). Die Eingabemöglichkeit lässt sich bei der Parameterverwaltung ein- und ausschalten.
-
-<a id="Leistungsdaten"></a>
+Die Bearbeitungsmöglichkeiten beschränken sich auf Leistungsdaten (die *normalen Noten*) und die unterschiedlichen Bemerkungen, die jedem Schüler zugeordnet werden können (siehe → [**KM²** - Parameter - Allgemein](/hilfe/zusatzprogramme/km2-parameter-allgemein)). Die Eingabemöglichkeit lässt sich bei der Parameterverwaltung ein- und ausschalten.
 
 ### Leistungsdaten
 
@@ -92,8 +74,6 @@ Die Bearbeitungsmöglichkeiten beschränken sich auf Leistungsdaten (die *normal
 *Notenauswahlliste*
 
 - Wenn Sie in einer Fachspalte die Taste \[Entf\] drücken, wird der Noteneintrag gelöscht.
-
-<a id="Bemerkungsdaten"></a>
 
 ### Bemerkungsdaten
 
@@ -126,16 +106,12 @@ eingegeben wurde.
 
 *Schüler mit Bemerkung*
 
-<a id="Protokolldaten"></a>
-
 ### Protokolldaten
 
 Die Änderungen an den Leistungsdaten - sowohl Noten als auch Bemerkungstexte werden protokolliert. Um eine mögliche Weiterverwendung zu vereinfachen, so sind die Protokolldaten in einem HTML-Dokument abgespeichert. Es werden zwei Arten von Protokolldateien unterschieden und vom Programm automatisch gepflegt:
 
 - In der Datei **Prot.html** im Ordner \Prot werden alle Änderungen protokolliert.
 - In der Datei **KKK_Prot.html** (wobei KKK die jeweils aktive Klasse identifiziert, zum Beispiel 06a_Prot.html) werden alle Änderungen einer bestimmten Klasse dokumentiert.\
-
-<!-- -->
 
 -
 

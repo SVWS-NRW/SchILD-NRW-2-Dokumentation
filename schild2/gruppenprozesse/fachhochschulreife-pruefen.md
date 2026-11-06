@@ -2,8 +2,6 @@
 title: "Schulischen Teil der Fachhochschulreife prüfen"
 ---
 
-<a id="fachhochschulreife-prufen"></a>
-
 # Schulischen Teil der Fachhochschulreife prüfen
 
 Dieser Gruppenprozess prüft bei den ausgewählten Personen den schulischen Teil der Fachhochschulreife. Er steht nur Schulen mit gymnasialer Oberstufe zur Verfügung. Die Prüfung ist vom späteren Ausstellen einer Bescheinigung zu unterscheiden.

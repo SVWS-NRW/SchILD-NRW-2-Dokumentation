@@ -2,8 +2,6 @@
 title: "BK-Abschlüsse nach Anlage D"
 ---
 
-<a id="bk-abschluss-anlage-d"></a>
-
 # BK-Abschlüsse nach Anlage D
 
 Hier finden Sie die im ursprünglichen Wiki aufgeführten Bildungsgänge dieser Anlage. Wählen Sie den passenden Bildungsgang aus den verlinkten Einträgen. Die allgemeinen Erläuterungen stehen unter [BK-Abschlussverfahren](/zeugnisse/berufskolleg/bk-abschluss?rubrik=schild2).

@@ -2,8 +2,6 @@
 title: "Leistungsdaten für das Abitur übernehmen"
 ---
 
-<a id="leistungsdaten-holen"></a>
-
 # Leistungsdaten für das Abitur übernehmen
 
 Dieser Gruppenprozess bildet die Grundlage für alle weiteren Abitur-Gruppenprozesse und muss somit als Erstes durchgeführt werden.

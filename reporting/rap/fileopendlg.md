@@ -4,9 +4,6 @@ title: "FileOpenDlg"
 
 # FileOpenDlg
 
-<a id="RAP-Funktion_&quot;FileOpenDlg&quot;"></a>
-<a id="RAP-Funktion_.22FileOpenDlg.22"></a>
-
 ## Beschreibung
 
 Öffnet einen Dialog zur Auswahl einer zu öffnenden Datei. Das Ergebnis enthält deren Pfad und Dateinamen; ein Abbruch liefert eine leere Zeichenkette.

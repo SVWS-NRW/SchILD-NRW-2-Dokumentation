@@ -2,8 +2,6 @@
 title: "Notenhochrechnung durchführen"
 ---
 
-<a id="hochrechnung-durchfuhren-und-speichern"></a>
-
 # Notenhochrechnung durchführen
 
 Mithilfe dieses Gruppenprozesses ist es möglich für die ausgewählte Schülergruppe eine Hochrechnung durchzuführen und zu speichern. Dabei sind die folgenden Aspekte zu beachten:

@@ -4,11 +4,6 @@ title: "DateinameFuerDVAuswaehlen"
 
 # DateinameFuerDVAuswaehlen
 
-<a id="RAP-Funktion_&quot;DateinameFuerDVAuswaehlen&quot;"></a>
-<a id="RAP-Funktion_.22DateinameFuerDVAuswaehlen.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Der Aufruf dieser Prozedur (typischerweise im Ereignis ReportBeforePrint) bewirkt,

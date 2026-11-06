@@ -2,8 +2,6 @@
 title: "Arten von Erziehungsberechtigten"
 ---
 
-<a id="erzieher-arten"></a>
-
 # Arten von Erziehungsberechtigten
 
 Der Katalog der Erzieher-Arten bietet die Möglichkeit, nahezu alle Verwandtschafts- oder Rechtsverhältnisse zwischen Kind und dem "Erzieher" einzutragen. Sie werden bei den Schülern auf der Karteikarte der Erziehungsberechtigten verwendet beziehungsweise angezeigt.

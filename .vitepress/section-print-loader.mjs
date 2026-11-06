@@ -1,11 +1,10 @@
 import { createContentLoader } from 'vitepress'
 import navigation from './navigation.json' with { type: 'json' }
 import reference from './program-reference.json' with { type: 'json' }
-import { createSidebar } from './sidebar.mjs'
 import { sectionPrintEntries, canonicalArticle } from './section-print.mjs'
 
 export function printNavigation() {
-  const sidebar = createSidebar(navigation)
+  const sidebar = { ...navigation.sidebar }
   const groups = sidebar['/programmreferenz/']
   const referenceNode = node => ({ ...node, items: (node.items || []).map(referenceNode) })
   sidebar['/programmreferenz/'] = [{ ...groups[0], items: [...groups[0].items, ...reference.tabs.map(referenceNode)] }, ...groups.slice(1)]
@@ -20,13 +19,21 @@ export function printNavigation() {
 
 const escapeHtml = text => String(text).replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;').replaceAll('"', '&quot;')
 
+// VitePress bundles each data loader separately. Share the Markdown cache
+// through the current VitePress configuration, including during local preview.
+const printCache = Symbol.for("schild2.print-content-loader")
+
 export function createSectionPrintLoader(section) {
   const menus = printNavigation()
   const entries = sectionPrintEntries(menus, section)
   const title = menus.sidebar[section][0].text
-  const loader = createContentLoader(entries.map(entry => entry.path), {
-    render: true,
-    async transform(pages) {
+  const { watch } = createContentLoader(entries.map(entry => entry.path))
+  return {
+    watch: [...watch, '.vitepress/navigation.json', '.vitepress/program-reference.json'],
+    async load() {
+      const config = globalThis.VITEPRESS_CONFIG
+      const sharedLoader = config[printCache] ||= createContentLoader([], { render: true })
+      const pages = await sharedLoader.load(watch)
       const byKey = new Map(pages.map(page => [canonicalArticle(page.url), page]))
       const articles = []
       for (const entry of entries) {
@@ -45,6 +52,5 @@ export function createSectionPrintLoader(section) {
       }
       return { title, articles }
     }
-  })
-  return { ...loader, watch: [...loader.watch, '.vitepress/navigation.json', '.vitepress/program-reference.json'], load() { return loader.load() } }
+  }
 }

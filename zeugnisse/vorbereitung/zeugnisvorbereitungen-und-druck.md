@@ -2,8 +2,6 @@
 title: "Zeugnisdruck vorbereiten und durchführen"
 ---
 
-<a id="zeugnisvorbereitungen-und-druck"></a>
-
 # Zeugnisdruck vorbereiten und durchführen
 
 Dieses Tutorial erläutert zum einen, welche Vorbereitungen für den Zeugnisdruck zu treffen sind, und zum anderen, wie der Zeugnisdruck dann durchgeführt werden kann. Dabei muss unterschieden werden, ob es sich um einen "normalen Zeugnisdruck" handelt (Halbjahreszeugnis oder Versetzungszeugnis) oder ob es um Abgangs- oder Abschlusszeugnisse geht.

@@ -2,10 +2,10 @@ import test from 'node:test'
 import assert from 'node:assert/strict'
 import fs from 'node:fs'
 import { createSidebar } from '../.vitepress/sidebar.mjs'
-import { referenceEntries, referenceLink } from '../.vitepress/reference-navigation.mjs'
+import { referenceEntries, createReferenceLinks } from '../.vitepress/reference-navigation.mjs'
 import { articleIndexLink } from '../.vitepress/article-index.mjs'
 import { sectionPrintEntries, sectionArticleHtml } from '../.vitepress/section-print.mjs'
-import { articlePath, contextualSidebar, sectionEntries, contextualNav, sectionLink } from '../.vitepress/section-navigation.mjs'
+import { articlePath, contextualNav, sectionLink } from '../.vitepress/section-navigation.mjs'
 const navigation = JSON.parse(fs.readFileSync('.vitepress/navigation.json','utf8'))
 const reference = JSON.parse(fs.readFileSync('.vitepress/program-reference.json','utf8'))
 const visit = items => items.flatMap(item => [item,...visit(item.items || [])])
@@ -23,23 +23,25 @@ test('Menüs führen auf vorhandene Artikel und jede Rubrik bietet Übersicht un
     }
   }
   const sidebar=createSidebar(navigation)
-  assert.equal(sidebar['/bilder/'][0].text,'Hilfe')
-  assert.equal(articlePath(sidebar['/tools/notenmodul-grundschule/leistungsdaten.md'][0].items[0].link),'/tools')
-  for (const [route, groups] of Object.entries(sidebar)) {
-    if (route.startsWith('/programmreferenz/') || route==='/druck/programmreferenz.md') continue
-    assert.notEqual(groups[0].items[0].link,'/programmreferenz/',`Referenz überschreibt normale Artikelroute: ${route}`)
+  assert.equal(sidebar.sectionFor('/bilder/index.md'),'/hilfe/')
+  assert.equal(sidebar.sectionFor('/tools/notenmodul-grundschule/leistungsdaten.md'),'/tools/')
+  for (const [section, groups] of Object.entries(navigation.sidebar)) {
+    if (section==='/programmreferenz/') continue
+    for (const item of visit(groups[0].items)) {
+      if (item.link?.startsWith('/')) assert.notEqual(sidebar.sectionFor(item.link),'/programmreferenz/',item.link)
+    }
   }
 })
 
 test('Jeder Artikelaufruf aus einem Rubrikmenü trägt seine Rubrik mit',()=>{
   const sidebar=createSidebar(navigation)
   for(const section of Object.keys(navigation.sidebar)) {
-    for(const item of visit(sidebar[section][0].items)) {
+    for(const item of visit(sidebar.menuFor(section).tree[0].items)) {
       if(!item.link?.startsWith('/'))continue
       assert.equal(new URL(item.link,'https://docs.invalid').searchParams.get('rubrik'),section.slice(1,-1),item.link)
     }
     // Switching sections through 'Weitere Bereiche' must remain intentional.
-    for(const group of sidebar[section].slice(1))for(const item of visit([group])) {
+    for(const group of sidebar.menuFor(section).tree.slice(1))for(const item of visit([group])) {
       if(item.link)assert(!item.link.includes('rubrik='),item.link)
     }
   }
@@ -49,9 +51,10 @@ test('Das Grundschulnotenmodul behält Themenzweig, Pager und Hauptmenü der Too
   const sidebar=createSidebar(navigation)
   const route='/tools/notenmodul-grundschule/leistungsdaten.html'
   for(const section of ['/tools/']) {
-    const groups=contextualSidebar(sidebar[section],section,route)
+    const menu=sidebar.menuFor(section)
+    const groups=menu.forArticle(route)
     assert.equal(articlePath(groups[0].items[0].link),articlePath(section))
-    const entry=sectionEntries(groups,section).find(item=>item.key===articlePath(route))
+    const entry=menu.entries.find(item=>item.key===articlePath(route))
     assert(entry,'Artikel muss in der Toolrubrik vorhanden sein')
     assert.equal(new URL(entry.link,'https://docs.invalid').searchParams.get('rubrik'),section.slice(1,-1))
     const main=contextualNav(navigation.nav,section,Object.keys(navigation.sidebar))
@@ -64,7 +67,13 @@ test('Referenz und A–Z behalten den gewählten Kontext, ohne Abschnitts-Doppel
   const entries=referenceEntries(reference)
   assert(entries.length>50)
   assert(!entries.some(entry=>entry.link.includes('#')))
-  assert.equal(referenceLink({id:'a',link:'/aufgabe#abschnitt'}),'/aufgabe?referenz=a#abschnitt')
+  const sidebar = createSidebar(navigation)
+  const linkFor = createReferenceLinks(reference, sidebar.sectionFor)
+  const links = new Map(referenceEntries(reference, linkFor).map(entry => [entry.id, entry.link]))
+  assert.equal(links.get('datei-beenden'), '/administration/datenbanken/beenden')
+  assert.equal(links.get('menue-73'), '/zeugnisse/grundschule/textzeugnisse-zuordnen?referenz')
+  assert.equal(links.get('reiter-einwilligungen'), '/schild2/schueler/einwilligungen?referenz=reiter-einwilligungen')
+  assert.equal(linkFor({id:'a',link:'/aufgabe#abschnitt'}),'/aufgabe?referenz#abschnitt')
   assert.equal(articleIndexLink('/aufgabe.html?referenz=a#abschnitt'),'/aufgabe.html?artikel=az#abschnitt')
 })
 

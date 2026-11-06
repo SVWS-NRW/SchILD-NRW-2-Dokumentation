@@ -4,9 +4,6 @@ title: "CreateNotenHeader"
 
 # CreateNotenHeader
 
-<a id="RAP-Funktion_&quot;CreateNotenHeader&quot;"></a>
-<a id="RAP-Funktion_.22CreateNotenHeader.22"></a>
-
 ## Beschreibung
 
 Im tatsächlich erzeugten Header stehen die Fächer

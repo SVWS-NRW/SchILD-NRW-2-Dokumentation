@@ -17,8 +17,6 @@ Hier finden Sie Anleitungen von der Installation und Einrichtung bis zur täglic
 - [Import, Export und Statistik](/schild2/import-export-statistik?rubrik=schild2)
 - [Benutzer und Einstellungen](/administration/benutzer-einstellungen?rubrik=schild2)
 
-<a id="Kurzanleitungen"></a>
-
 ## Kurzanleitungen
 
 - [Deutschförderung](/schild2/schueler/deutschfoerderung-nach-bass-13-63-nr-3-stand-29-08-2024)
@@ -50,15 +48,5 @@ Hier finden Sie Anleitungen von der Installation und Einrichtung bis zur täglic
 - [Teilleistungen einrichten](/schild2/unterricht-kataloge/teilleistungen-einrichten-und-verwalten)
 - [Bildungsgangwechsel am BK](/schild2/versetzung/umgang-mit-bildungsgangswechlsern-am-bk)
 - [Umstellung von G8 auf G9](/schild2/versetzung/umstellung-der-gymnasien-von-g8-auf-g9)
-
-<a id="schild-nrw-tutorials"></a>
-<a id="Schild-NRW-Installation"></a>
-<a id="schild-nrw-installation"></a>
-<a id="Einführung_in_Schild-NRW"></a>
-<a id="Einf.C3.BChrung_in_Schild-NRW"></a>
-<a id="einfuhrung-in-schild-nrw"></a>
-<a id="ASDPC"></a>
-<a id="FAQ_-_häufig_gestellte_Fragen"></a>
-<a id="FAQ_-_h.C3.A4ufig_gestellte_Fragen"></a>
 
 Quelle der übernommenen Übersicht: [SchILD-NRW 2-Tutorials – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=SchILD-NRW 2-Tutorials&oldid=6040)

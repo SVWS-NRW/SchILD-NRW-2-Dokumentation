@@ -4,11 +4,6 @@ title: "FormatRTF"
 
 # FormatRTF
 
-<a id="RAP-Funktion_&quot;FormatRTF&quot;"></a>
-<a id="RAP-Funktion_.22FormatRTF.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Formatiert einen Richtext, also einen Text mit Schrift- und Formatangaben. Die Parameter bestimmen Schriftart, Größe, Farbe und Hervorhebungen.

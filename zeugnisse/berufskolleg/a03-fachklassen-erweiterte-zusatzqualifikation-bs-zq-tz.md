@@ -2,8 +2,6 @@
 title: "A03 Fachklassen mit Zusatzqualifikation"
 ---
 
-<a id="a03-fachklassen-erweiterte-zusatzqualifikation-bs-zq-tz"></a>
-
 # A03 Fachklassen mit Zusatzqualifikation
 
 Diese Seite zeigt ein Bildbeispiel zur Abschlussberechnung für den im Titel genannten Bildungsgang. Vergleichen Sie die dargestellte Ansicht mit Ihrem Bildungsgang. Die Bedeutung des Karteireiters und die allgemeinen Arbeitsschritte erläutert [BK-Abschlussverfahren](/zeugnisse/berufskolleg/bk-abschluss?rubrik=schild2).

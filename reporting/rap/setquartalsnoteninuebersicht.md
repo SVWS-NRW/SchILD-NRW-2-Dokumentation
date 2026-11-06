@@ -4,11 +4,6 @@ title: "SetQuartalsnotenInUebersicht"
 
 # SetQuartalsnotenInUebersicht
 
-<a id="RAP-Funktion_&quot;SetQuartalsnotenInUebersicht&quot;"></a>
-<a id="RAP-Funktion_.22SetQuartalsnotenInUebersicht.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Steuert, ob in Leistungsübersichten auch Quartalsnoten erscheinen sollen

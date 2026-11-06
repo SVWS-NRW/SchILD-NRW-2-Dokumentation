@@ -2,23 +2,15 @@
 title: "Änderungshistorie von Kurs42"
 ---
 
-<a id="kurs42-versionsgeschichte"></a>
-
 # Änderungshistorie von Kurs42
 
 Diese historische Änderungsliste hält frühere Anpassungen an Kurs42 fest. Die Einträge beziehen sich auf die jeweils genannte Ausgabe des Programms und dienen zum Nachschlagen älterer Änderungen.
-
-<a id="09.04.2025_(Kursversion:_3.33.30.528,_Kurs-Notenprogramm:_2.11.12.99)"></a>
-<a id="09.04.2025_.28Kursversion:_3.33.30.528.2C_Kurs-Notenprogramm:_2.11.12.99.29"></a>
 
 ## 09.04.2025 (Kursversion: 3.33.30.528, Kurs-Notenprogramm: 2.11.12.99)
 
 - Unter Extras-\>Spezial können jetzt die Teilleistungen separat gelöscht werden. Evtl. existierende Noten bleiben erhalten.
 - Beim Laden eines Schullogos im GIF-Format kam es zu einem Laufzeitfehler, nun behoben.
 - Defaultwert für die verwendete SchILD-NRW 2-Version ist nun SchILD-NRW 2.2x.
-
-<a id="19.03.2025_(Kursversion:_3.33.26.525,_Kurs-Notenprogramm:_2.11.12.98)"></a>
-<a id="19.03.2025_.28Kursversion:_3.33.26.525.2C_Kurs-Notenprogramm:_2.11.12.98.29"></a>
 
 ## 19.03.2025 (Kursversion: 3.33.26.525, Kurs-Notenprogramm: 2.11.12.98)
 
@@ -54,9 +46,6 @@ Die Platzhalter 1 - 4 werden nur ausgewertet, wenn der Export kursweise (Option 
 - Der Import von Klausuren aus XML-Dateien wurde überarbeitet, um Fehler, die durch fehlende Felder in Exporten externer Programme verursacht wurden, abzufangen.
 - Der Import der Kurse.dat der SchILD-NRW 2-Schnittstelle wurde überarbeitet.
 
-<a id="01.10.2024_(Kursversion:_3.33.14.509,_Kurs-Notenprogramm:_2.11.12.98)"></a>
-<a id="01.10.2024_.28Kursversion:_3.33.14.509.2C_Kurs-Notenprogramm:_2.11.12.98.29"></a>
-
 ## 01.10.2024 (Kursversion: 3.33.14.509, Kurs-Notenprogramm: 2.11.12.98)
 
 - Der Import der Kurse.dat der SchILD-NRW 2-Schnittstelle wurde überarbeitet.
@@ -84,9 +73,6 @@ Anschließend funktioniert das Blocken wie gewohnt.
 - Unter gewissen Umständen kam es beim Laden vorhandener Blockungen zu einem Laufzeitfehler, nun behoben.
 - Beim Versand von Reportausgaben per Email wurde ein falscher Dialog aufgerufen, nun behoben.
 
-<a id="08.04.2024_(Kursversion:_3.33.7.501,_Kurs-Notenprogramm:_2.11.8.82)"></a>
-<a id="08.04.2024_.28Kursversion:_3.33.7.501.2C_Kurs-Notenprogramm:_2.11.8.82.29"></a>
-
 ## 08.04.2024 (Kursversion: 3.33.7.501, Kurs-Notenprogramm: 2.11.8.82)
 
 - Bei der Notenübernahme aus alten Notendateien wurden die Teilleistungen nicht korrekt dargestellt, nun behoben.
@@ -97,9 +83,6 @@ Anschließend funktioniert das Blocken wie gewohnt.
 - Die Textkodierung wurde nicht in den Einstellungen gespeichert, nun behoben
 - Die Noteneingabe (Teilleistungen) wurde auf den alten Zustand zurückgesetzt.
 - Noten: Der Fehler beim Start ("DefaultStyle nicht gefunden") wurde beseitigt.
-
-<a id="30.11.2023_(Kursversion:_3.33.2.485,_Kurs-Notenprogramm:_2.11.8.82)"></a>
-<a id="30.11.2023_.28Kursversion:_3.33.2.485.2C_Kurs-Notenprogramm:_2.11.8.82.29"></a>
 
 ## 30.11.2023 (Kursversion: 3.33.2.485, Kurs-Notenprogramm: 2.11.8.82)
 
@@ -113,9 +96,6 @@ Anschließend funktioniert das Blocken wie gewohnt.
 - Datenpipeline "Umgebung" (enthält Informationen aus den Kurseinstellungen: TageProWoche, StundenProTag, StundenDauer, AWocheGerade, ErsteStunde, AbschnitteProSchuljahr) wieder aktiviert.
 - Beim Beenden des automatischen Blockens kam es unter gewissen Umständen zu einem Laufzeitfehler, nun behoben.
 - Beim Fachwahlimport aus LuPO wurde die Pseudo-Kursart "AT" im Fach Sport falsch interpretiert, nun behoben.
-
-<a id="24.05.2023_(Kurs_Version:_3.32.02.450,_Kurs-Notenprogramm:_2.11.8.82)"></a>
-<a id="24.05.2023_.28Kurs_Version:_3.32.02.450.2C_Kurs-Notenprogramm:_2.11.8.82.29"></a>
 
 ## 24.05.2023 (Kurs Version: 3.32.02.450, Kurs-Notenprogramm: 2.11.8.82)
 
@@ -133,17 +113,11 @@ Anschließend funktioniert das Blocken wie gewohnt.
 - Beim Import von UNTIS-Dateien fehlte im Pfad das begrenzende Trennzeichen, nun behoben
 - Im Dialog "Lehrer bearbeiten" kam es beim Export in eine Textdatei zu einem Laufzeitfehler, nun behoben.
 
-<a id="27.01.2023_(Kurs_Version:_3.31.9.445,_Kurs-Notenprogramm:_2.11.8.82)"></a>
-<a id="27.01.2023_.28Kurs_Version:_3.31.9.445.2C_Kurs-Notenprogramm:_2.11.8.82.29"></a>
-
 ## 27.01.2023 (Kurs Version: 3.31.9.445, Kurs-Notenprogramm: 2.11.8.82)
 
 - Bug im Kursexport (Schulnummer) beseitigt
 - Beim (zweiten) Druck eines Reports, der RAP-Code enthält, wurde die nicht zutreffende Fehlermeldung "raProgramInfo?" schon vorhanden ausgegeben, nun behoben
 - Beim Fachwahlvergleich (DB/Blockung) wurden nicht zutreffende Fehlermeldungen ausgegeben, nun behoben.
-
-<a id="20.01.2023_(Kurs_Version_3.31.8.443,_Kurs-Notenprogramm:_2.11.8.82)"></a>
-<a id="20.01.2023_.28Kurs_Version_3.31.8.443.2C_Kurs-Notenprogramm:_2.11.8.82.29"></a>
 
 ## 20.01.2023 (Kurs Version 3.31.8.443, Kurs-Notenprogramm: 2.11.8.82)
 
@@ -161,9 +135,6 @@ Dennoch sollten Reports, bei denen diese Anpassungen automatisch vorgenommen wur
 - Beim Druck von Stundenplänen gab es Probleme, nun behoben.
 - Beim Anlegen einer neuen Blockung aus SchildZentral wurden die Jahrgänge nicht korrekt angezeigt, nun behoben.
 - Mit dem Kommandozeilenparameter -DEBUG: {0\|1} kann eine erweiterte Protokollierung ein- und ausgeschaltet werden.
-
-<a id="07.12.2022_(Kurs_Version_3.31.0.436,_Kurs-Notenprogramm:_2.11.7.80)"></a>
-<a id="07.12.2022_.28Kurs_Version_3.31.0.436.2C_Kurs-Notenprogramm:_2.11.7.80.29"></a>
 
 ## 07.12.2022 (Kurs Version 3.31.0.436, Kurs-Notenprogramm: 2.11.7.80)
 
@@ -224,9 +195,6 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 - Blockungen im sqLite-Format konnten nicht gepeichert werden, nun behoben
 - In der Klausurplanung die Nachschreibe-Funktionalitä überarbeitet.
 
-<a id="25.02.2022_(Kurs_Version_3.30.5.405,_Noten:_2.11.6.78)"></a>
-<a id="25.02.2022_.28Kurs_Version_3.30.5.405.2C_Noten:_2.11.6.78.29"></a>
-
 ## 25.02.2022 (Kurs Version 3.30.5.405, Noten: 2.11.6.78)
 
 - Im Fachwahldialog wurde nach dem Öffnen der erste Schüler nicht automatisch selektiert, nun behoben.
@@ -242,9 +210,6 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 - Fehler (Bereichsüberschreitung) in der CNF-Blockung beseitigt.
 - Beim Übertragen in den nächsten Abschnitt wird abgefragt, ob evtl. vorhandene UNTIS-Unterrichtsnummern gelöscht werden sollen.
 
-<a id="07.02.2022_(Kurs_Version_3.30.0.400,_Noten:_2.11.6.78)"></a>
-<a id="07.02.2022_.28Kurs_Version_3.30.0.400.2C_Noten:_2.11.6.78.29"></a>
-
 ## 07.02.2022 (Kurs Version 3.30.0.400, Noten: 2.11.6.78)
 
 - Beim Export der Teilleistungen im Schnittstellenformat (Teilleistungen.dat) wurden nicht alle Teilleistungen exportiert, nun behoben.
@@ -253,9 +218,6 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 - Fehler beim Export von Teilleistungen, nun behoben.
 - Fehler bei der Erzeugung der Fachwahlmatrix, nun behoben.
 - Fehler beim Export von Leistungsdaten mit Mahnung, nun behoben.
-
-<a id="20.12.2021_(Kurs_Version:_3.28.9.393_,Noten:_2.11.6.78)"></a>
-<a id="20.12.2021_.28Kurs_Version:_3.28.9.393_.2CNoten:_2.11.6.78.29"></a>
 
 ## 20.12.2021 (Kurs Version: 3.28.9.393 ,Noten: 2.11.6.78)
 
@@ -267,9 +229,6 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 - Überarbeitung der Optik einiger Dialoge
 - Überarbeitung der Abwahl von Klausurnachschreibern.
 
-<a id="30.11.2021_(Kurs_Version:_3.28.8.391_,Noten:_2.11.5.75)"></a>
-<a id="30.11.2021_.28Kurs_Version:_3.28.8.391_.2CNoten:_2.11.5.75.29"></a>
-
 ## 30.11.2021 (Kurs Version: 3.28.8.391 ,Noten: 2.11.5.75)
 
 - Beim Export der GPU017.TXT und in einer Klausur-Datenquelle wurden Anfangs. und Endstunde der Klausuren nicht richtig dargestellt, nun behoben.
@@ -277,9 +236,6 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 - Das separate Notenprogramm wurde überarbeitet. Wegen einiger Änderungen in der Dateistruktur von Kurs 42 können ältere Versionen von Noten 42 Notendateien, die mit diesem Snapshot erzeugt wurden, nicht lesen.
 - Die im Dialog "Klausurtermine" eingegebenen Bemerkungen wurden nicht übernommen, nun behoben
 - In der Schülerplänen wurden einige Stunden nicht angezeigt, nun behoben.
-
-<a id="03.11.2021_(Kurs_Version:_3.28.5.390_,Noten:_2.11.5.75)"></a>
-<a id="03.11.2021_.28Kurs_Version:_3.28.5.390_.2CNoten:_2.11.5.75.29"></a>
 
 ## 03.11.2021 (Kurs Version: 3.28.5.390 ,Noten: 2.11.5.75)
 
@@ -293,9 +249,6 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 - In den Einstellungen kann unter "Allgemeines" festgelegt werden, ob beim Laden einer Blockung sofort die Fehlerbereinigung gestartet werden soll.
 - Neuer Menüpunkt: Unter "Extras" kann geprüft werden, ob ein neuer Snapshot existiert.
 
-<a id="03.09.2021_(Kurs_Version:_3.28.1.385_,Noten:_2.11.2.66)"></a>
-<a id="03.09.2021_.28Kurs_Version:_3.28.1.385_.2CNoten:_2.11.2.66.29"></a>
-
 ## 03.09.2021 (Kurs Version: 3.28.1.385 ,Noten: 2.11.2.66)
 
 - Im Dialog "Klausurtermine bearbeiten" können (auf Wunsch von Anwendern) Aufsichtslehrer und Klausurräume wieder getrennt über die Tastatur bzw. Dropdown-Listen eingegeben werden.
@@ -308,16 +261,10 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 - Diese Überprüfung kann auch unabhängig vom Export über "Extras \>Spezial\>Schülervergleich" gestartet werden.
 - Bei der Prüfung der Schülermenge vor dem Export in die DB konnte es wegen einer unvollständigen Abfrage zu einem Speicherüberlauf kommen, nun behoben.
 
-<a id="13.08.2021_(Kurs_Version:_3.27.12.382_,Noten:_2.11.2.66)"></a>
-<a id="13.08.2021_.28Kurs_Version:_3.27.12.382_.2CNoten:_2.11.2.66.29"></a>
-
 ## 13.08.2021 (Kurs Version: 3.27.12.382 ,Noten: 2.11.2.66)
 
 - Erweiterung der Fehlerbereinigung: "Karteileichen" in Kursen werden gefunden und gelöscht. In den Fällen, in denen Kurslisten nicht gedruckt werden können, sollten die Fehlerbereinigung aufgerufen werden.
 - Neue Funktion Extras-\>Spezial-\>Facharbeit löschen. Gelegentlich konnte es vorkommen, dass bei Schülern fälschlicherweise Facharbeiten eingetragen waren, die mit dieser Funktion komplett gelöscht werden können.
-
-<a id="10.06.2021_(Kurs_Version:_3.27.11.380_,Noten:_2.11.2.66)"></a>
-<a id="10.06.2021_.28Kurs_Version:_3.27.11.380_.2CNoten:_2.11.2.66.29"></a>
 
 ## 10.06.2021 (Kurs Version: 3.27.11.380 ,Noten: 2.11.2.66)
 
@@ -325,9 +272,6 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 - im Auswahldialog für Kurse beim Report-Druck kann jetzt auf Kurse eines bestimmten Faches gefiltert werden
 - Im Blockungsdialog kann die Anzahl der anzuzeigenden Zwischenergebnisse beschränkt werden (Standard ist 10)
 - Überarbeitung und Erweiterung der Fehlerbereinigung
-
-<a id="20.05.2021_(Kurs_Version:_3.27.10.376_,Noten:_2.11.2.66)"></a>
-<a id="20.05.2021_.28Kurs_Version:_3.27.10.376_.2CNoten:_2.11.2.66.29"></a>
 
 ## 20.05.2021 (Kurs Version: 3.27.10.376 ,Noten: 2.11.2.66)
 
@@ -342,9 +286,6 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 - Beim Mailversand an Schüler wird die SchILD-NRW 2-Einstellung (Schul-Email-Adresse verwenden) berücksichtigt.
 - Format-Fehler bein Laden von FORQ-Schülern beseitigt
 
-<a id="03.05.2021_(Kurs_Version:_3.27.8.374,_Noten:_2.11.2.66"></a>
-<a id="03.05.2021_.28Kurs_Version:_3.27.8.374.2C_Noten:_2.11.2.66"></a>
-
 ## 03.05.2021 (Kurs Version: 3.27.8.374, Noten: 2.11.2.66
 
 - Fehler bei der Noteneingabe beseitigt
@@ -357,9 +298,6 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 - Alle Tabellen- und Feldnamen auf Groß- und Kleinschreibung kontrolliert und, falls nötig, korrigiert.
 - Fehler im Fachwahldialog (falsche Übernahme von Wahlen) behoben.
 
-<a id="11.04.2021_(Kurs_Version:_3.27.6.372,_Noten:_2.11.2.66"></a>
-<a id="11.04.2021_.28Kurs_Version:_3.27.6.372.2C_Noten:_2.11.2.66"></a>
-
 ## 11.04.2021 (Kurs Version: 3.27.6.372, Noten: 2.11.2.66
 
 - Beim Aufruf der Stundenraster-Bearbeitung kam es zu einer Schutzverletzung, nun behoben.
@@ -371,33 +309,21 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 - Die Sortierung nach Kursart im Blockungsdialog wurde noch einmal überarbeitet
 - Beim Druck von Klausurübersichten kam es beim Druck der letzten Seite zu einer Schutzverletzung, nun behoben.
 
-<a id="30.03.2021_(Kurs_Version:_3.27.4.372,_Noten:_2.11.2.66"></a>
-<a id="30.03.2021_.28Kurs_Version:_3.27.4.372.2C_Noten:_2.11.2.66"></a>
-
 ## 30.03.2021 (Kurs Version: 3.27.4.372, Noten: 2.11.2.66
 
 - Bei der Datenbankverbindung wurden einige Provider für MS-SqlServer nicht richtig erkannt, nun behoben.
 - Im Dialog "Klausurblockung" wurde die Prüfung auf die Zahl der Klausuren pro Woche nicht korrekt ausgeführt, nun behoben.
-
-<a id="28.03.2021_(Kurs_Version:_3.23.4.371,_Noten:_2.11.2.66"></a>
-<a id="28.03.2021_.28Kurs_Version:_3.23.4.371.2C_Noten:_2.11.2.66"></a>
 
 ## 28.03.2021 (Kurs Version: 3.23.4.371, Noten: 2.11.2.66
 
 - Bei der Datenbankverbindung wurden einige Provider für MS-SqlServer nicht richtig erkannt, nun behoben.
 - Im Dialog "Klausurblockung" wurde die Prüfung auf die Zahl der Klausuren pro Woche nicht korrekt ausgeführt, nun behoben.
 
-<a id="23.03.2021_(Kurs_Version:_3.27.1.371,_Noten:_2.11.2.66"></a>
-<a id="23.03.2021_.28Kurs_Version:_3.27.1.371.2C_Noten:_2.11.2.66"></a>
-
 ## 23.03.2021 (Kurs Version: 3.27.1.371, Noten: 2.11.2.66
 
 - Fehler beim Import von Notendateien, nun behoben
 - Beim Auftreten eines Fehlers kann der Fehlerbericht per Mail an den Entwickler geschickt werden.
 - Im Setup ist die Anwendung (GExpertsDebugWindow.exe) enthalten, die nach dem Start die von Kurs 42 erzeugten Debug-Meldungen ausgibt.
-
-<a id="19.03.2021_(Kurs_Version:_3.27.0.371,_Noten:_2.11.2.66"></a>
-<a id="19.03.2021_.28Kurs_Version:_3.27.0.371.2C_Noten:_2.11.2.66"></a>
 
 ## 19.03.2021 (Kurs Version: 3.27.0.371, Noten: 2.11.2.66
 
@@ -414,17 +340,11 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 - Typischerweise setzt man die Option im Ereignis Report.onInitializeParameter und setzt sie in Report.Afterprint wieder zurück. Zwei Beispielreports, die die Benutzung demonstrieren, sind im Paket enthalten.
 - In der Blockungsansicht gibt es im lokalen Menü der Schülerliste die Option "Alle Kurse drucken", mit der es möglich ist, alle Kurslisten zu drucken, in denen der selektierte Schüler vertreten ist.
 
-<a id="24.02.2021_(Kurs_Version:_3.26.13.368,_Noten:_2.11.1.65"></a>
-<a id="24.02.2021_.28Kurs_Version:_3.26.13.368.2C_Noten:_2.11.1.65"></a>
-
 ## 24.02.2021 (Kurs Version: 3.26.13.368, Noten: 2.11.1.65
 
 - Bei der Klausurprüfung wurden Konflikte (Schüler mit mehr als x Klausuren pro Woche) nicht angezeigt, nun behoben.
 - Im Umwahldialog werden die selektierten Schüler nun mit Systemfarben (in Abhängigkeit vom gewählten Windows-Style) markiert.
 - Fehler beim Klausur Im/Export, nun behoben
-
-<a id="21.02.2021_(Kurs_Version:_3.26.12.367,_Noten:_2.11.1.65"></a>
-<a id="21.02.2021_.28Kurs_Version:_3.26.12.367.2C_Noten:_2.11.1.65"></a>
 
 ## 21.02.2021 (Kurs Version: 3.26.12.367, Noten: 2.11.1.65
 
@@ -438,15 +358,9 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 - Fehler beim Blockungsexport in MS-SQLServer, nun behoben
 - Fehler beim Import von Blockungen, nun behoben
 
-<a id="05.02.2021_(Kurs_Version:_3.26.8.367,_Noten:_2.11.1.65"></a>
-<a id="05.02.2021_.28Kurs_Version:_3.26.8.367.2C_Noten:_2.11.1.65"></a>
-
 ## 05.02.2021 (Kurs Version: 3.26.8.367, Noten: 2.11.1.65
 
 - Der Fachwahldialog konnte nicht aufgerufen werden, nun behoben.
-
-<a id="03.02.2021_(Kurs_Version:_3.26.7.367,_Noten:_2.11.1.65"></a>
-<a id="03.02.2021_.28Kurs_Version:_3.26.7.367.2C_Noten:_2.11.1.65"></a>
 
 ## 03.02.2021 (Kurs Version: 3.26.7.367, Noten: 2.11.1.65
 
@@ -461,37 +375,22 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 - In Extras-\>Einstellungen-\>Allgemeines sollte geprüft werden, ob die Option "Auf Datenbanken mit UDL zugreifen" aktiviert ist.
 - Die Benutzeroberfläche wude etwas umstrukturiert. Aus dem Menüpunkt "Blockung" ist "Verwaltung" geworden. Darunter gibt es zwei Menüpunkte: "Schule" und "Blockung". Unter Blockung sind die Bearbeitung der Blockung und der Blockgruppe zusammengefasst, zudem sind dort jetzt auch die Funktionen "Blockung in den nächsten Abschnitt übertragen" und "Blockung in der Datenbank löschen" angesiedelt.
 
-<a id="28.01.2021_(Kurs_Version:_3.26.3.367,_Noten:_2.11.1.65"></a>
-<a id="28.01.2021_.28Kurs_Version:_3.26.3.367.2C_Noten:_2.11.1.65"></a>
-
 ## 28.01.2021 (Kurs Version: 3.26.3.367, Noten: 2.11.1.65
 
 - Es gab Fehler im Umwahldialog (falsche Kurslisten) und beim Schülerabgleich mit der DB, nun behoben.
-
-<a id="27.01.2021_(Kurs_Version:_3.26.2.367,_Noten:_2.11.1.65"></a>
-<a id="27.01.2021_.28Kurs_Version:_3.26.2.367.2C_Noten:_2.11.1.65"></a>
 
 ## 27.01.2021 (Kurs Version: 3.26.2.367, Noten: 2.11.1.65
 
 - Fehler beim Import von Notendateien, nun behoben.
 - Bei der Sortierung der Kurse oder Fächer nach Kursart wird die Reihenfolge gewählt, die im Dialog "Zulässige Kursarten bearbeiten" für die Kursarten festgelegt wurde.
 
-<a id="23.01.2021_(Kurs_Version:_3.24.19.366,_Noten:_2.10.7.60"></a>
-<a id="23.01.2021_.28Kurs_Version:_3.24.19.366.2C_Noten:_2.10.7.60"></a>
-
 ## 23.01.2021 (Kurs Version: 3.24.19.366, Noten: 2.10.7.60
 
 - Datenquelle "Fachwahlen" um das Feld "Bezeichnung" (des Faches) ergänzt.
 
-<a id="20.01.2021_(Kurs_Version:_3.24.18.366,_Noten:_2.10.7.60"></a>
-<a id="20.01.2021_.28Kurs_Version:_3.24.18.366.2C_Noten:_2.10.7.60"></a>
-
 ## 20.01.2021 (Kurs Version: 3.24.18.366, Noten: 2.10.7.60
 
 - Der SQL-Cursor im Lehrer-Dialog wurde nach dem Lehrerimport aus der DB nicht zurückgesetzt, nun behoben.
-
-<a id="15.12.2020_(Kurs_Version:_3.24.17.365,_Noten:_2.10.7.60"></a>
-<a id="15.12.2020_.28Kurs_Version:_3.24.17.365.2C_Noten:_2.10.7.60"></a>
 
 ## 15.12.2020 (Kurs Version: 3.24.17.365, Noten: 2.10.7.60
 
@@ -499,53 +398,32 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 - Das Raumkürzel für Kurse wurde auf 32 Zeichen erweitert.
 - Im Kursblockungsdialog erfolgt jetzt auch vor dem Löschen einer Spalte eine Sicherungsabfrage.
 
-<a id="08.12.2020_(Kurs_Version:_3.24.16.361,_Noten:_2.10.7.60"></a>
-<a id="08.12.2020_.28Kurs_Version:_3.24.16.361.2C_Noten:_2.10.7.60"></a>
-
 ## 08.12.2020 (Kurs Version: 3.24.16.361, Noten: 2.10.7.60
 
 - Im Umwahldialog kam es bei der Fachabwahl gelegentlich zu einem Fehler, nun behoben.
-
-<a id="18.11.2020_(Kurs_Version:_3.24.15.360,_Noten:_2.10.7.60"></a>
-<a id="18.11.2020_.28Kurs_Version:_3.24.15.360.2C_Noten:_2.10.7.60"></a>
 
 ## 18.11.2020 (Kurs Version: 3.24.15.360, Noten: 2.10.7.60
 
 - Bei der Noteneingabe gab es bei der Eingabe von Teilnahmevermerken in die Einzelleistungen eine Fehlermeldung, nun behoben.
 
-<a id="13.11.2020_(Kurs_Version:_3.24.14.360,_Noten:_2.10.6.60"></a>
-<a id="13.11.2020_.28Kurs_Version:_3.24.14.360.2C_Noten:_2.10.6.60"></a>
-
 ## 13.11.2020 (Kurs Version: 3.24.14.360, Noten: 2.10.6.60
 
 - Fehler beim Einlesen von Notendateien, nun behoben.
-
-<a id="09.11.2020_(Kurs_Version:_3.24.13.360,_Noten:_2.10.6.60"></a>
-<a id="09.11.2020_.28Kurs_Version:_3.24.13.360.2C_Noten:_2.10.6.60"></a>
 
 ## 09.11.2020 (Kurs Version: 3.24.13.360, Noten: 2.10.6.60
 
 - Fehler bei der Noteneingabe (in beiden Programmen), nun behoben.
 - StartTLS-Option wird jetzt an den Reportbuilder weiter gegeben.
 
-<a id="31.10.2020_(Kurs_Version:_3.24.12.360,_Noten:_2.10.4.54"></a>
-<a id="31.10.2020_.28Kurs_Version:_3.24.12.360.2C_Noten:_2.10.4.54"></a>
-
 ## 31.10.2020 (Kurs Version: 3.24.12.360, Noten: 2.10.4.54
 
 - Die Terminnummer von Klausuren wurde nicht korrekt verwaltet, nun behoben.
 - Überarbeitung des LuPO-Importes
 
-<a id="30.09.2020_(Kurs_Version:_3.24.10.360,_Noten:_2.10.4.54"></a>
-<a id="30.09.2020_.28Kurs_Version:_3.24.10.360.2C_Noten:_2.10.4.54"></a>
-
 ## 30.09.2020 (Kurs Version: 3.24.10.360, Noten: 2.10.4.54
 
 - Über die Textexport-Schnittstelle können jetzt die Schüler-Individualpläne exportiert werden.
 - Die Sortierung im Dialog "Kurse einrichten" berücklsichtigt jetzt die eingestellte Fächersortierung.
-
-<a id="20.09.2020_(Kurs_Version:_3.24.9.358,_Noten:_2.10.4.54"></a>
-<a id="20.09.2020_.28Kurs_Version:_3.24.9.358.2C_Noten:_2.10.4.54"></a>
 
 ## 20.09.2020 (Kurs Version: 3.24.9.358, Noten: 2.10.4.54
 
@@ -554,74 +432,41 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 - In Reports wurde die Schülerzahl bzw. die Zahl der männlichen bzw. mündlichen Schüler nicht oder fehlerhaft ausgegeben, nun behoben.
 - Die Sortierung der Schüler in Noten 42 wurde korrigiert. Umlaute und "ß" werden korrekt berücksichtigt.
 
-<a id="26.08.2020_(Kurs_Version:_3.24.4.353,_Noten:_2.10.2.50"></a>
-<a id="26.08.2020_.28Kurs_Version:_3.24.4.353.2C_Noten:_2.10.2.50"></a>
-
 ## 26.08.2020 (Kurs Version: 3.24.4.353, Noten: 2.10.2.50
 
 - In den Schülerdatensatz wird jetzt auch die externeId-Nummer sus SchILD-NRW 2 importiert. Diese externe Id-Nummer wird in dem UNTIS-Export (gpu010) als "Fremdschlüssel (ab Version 2012) " exportiert.
 
-<!-- -->
-
 - Bei der Sortierung nach Fächern im Report-Auswahldialog für Kurse wird jetzt auch die Kursnummer berücksichtigt..
-
-<a id="16.07.2020_(Kurs_Version:_3.24.3.350,_Noten:_2.10.2.50"></a>
-<a id="16.07.2020_.28Kurs_Version:_3.24.3.350.2C_Noten:_2.10.2.50"></a>
 
 ## 16.07.2020 (Kurs Version: 3.24.3.350, Noten: 2.10.2.50
 
 - Beim Neuanlegen von Kursen wurden geänderte Werte nicht übernommen, nun behoben.
 
-<!-- -->
-
 - Die Anonymisierung einer Blockung wurde nach Hinweisen von Anwendern überarbeitet
 
-<!-- -->
-
 - Überarbeitung des Importdialoges für SAT-Ergebnisse
-
-<a id="20.06.2020_(Kurs_Version:_3.24.1.350,_Noten:_2.10.2.50"></a>
-<a id="20.06.2020_.28Kurs_Version:_3.24.1.350.2C_Noten:_2.10.2.50"></a>
 
 ## 20.06.2020 (Kurs Version: 3.24.1.350, Noten: 2.10.2.50
 
 - Beim Import von Textblockungen wurde die Kodierung nicht beachtet, nun behonen.
 
-<a id="08.06.2020_(Kurs_Version:_3.24.0.350,_Noten:_2.10.2.50"></a>
-<a id="08.06.2020_.28Kurs_Version:_3.24.0.350.2C_Noten:_2.10.2.50"></a>
-
 ## 08.06.2020 (Kurs Version: 3.24.0.350, Noten: 2.10.2.50
 
 - Beim Import aus Textdateien wurden die Fachwahlen verdoppelt, nun behoben.
 
-<!-- -->
-
 - Vor dem Textdateiimport werden existierende Kurse gelöscht.
-
-<!-- -->
 
 - Gelegentlich wurden in den Fachwahlen der Schüler Fächerfälschlicherweise als Koop-Fächer gekennzeichnet. Dieser Fehlerwird durch "Extras-\>Spezial-Fehlerbereinigung" beseitigt.
 
-<!-- -->
-
 - In dieser Version wurde ein neuer, alternativer Blockungsalgorithmus(Dank an Herrn Bartsch!) implementiert. Dieser Algorithmus kannüber "Extras-\>Einstellungen-\>Blocken-\>Blockungsalgorithmus neu"aktiviert oder deaktiviert werden. Dieser Algorithmus sollte als Beta-Version betrachtet und behandelt werden.
-
-<a id="03.06.2020_(Kurs:_Version:_3.23.16.336,_Noten:_2.10.2.50"></a>
-<a id="03.06.2020_.28Kurs:_Version:_3.23.16.336.2C_Noten:_2.10.2.50"></a>
 
 ## 03.06.2020 (Kurs: Version: 3.23.16.336, Noten: 2.10.2.50
 
 - Überarbeitung des GPU017.TXT-Exportes für UNTIS
 
-<a id="19.02.2020_(Kurs:_Version:_3.23.14.335,_Noten:_2.10.2.50"></a>
-<a id="19.02.2020_.28Kurs:_Version:_3.23.14.335.2C_Noten:_2.10.2.50"></a>
-
 ## 19.02.2020 (Kurs: Version: 3.23.14.335, Noten: 2.10.2.50
 
 - Im GPU017-Export werden jetzt auch Klausurräme und Aufsichten berücksichtigt.
-
-<a id="29.01.2020_(Kurs:_Version:_3.23.13.335,_Noten:_2.10.2.50"></a>
-<a id="29.01.2020_.28Kurs:_Version:_3.23.13.335.2C_Noten:_2.10.2.50"></a>
 
 ## 29.01.2020 (Kurs: Version: 3.23.13.335, Noten: 2.10.2.50
 
@@ -630,72 +475,41 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 - Fehler in der internen Kursbearbeitung führte bei der Bearbeitung von Klausurblockungen zu Problemen (unvereilte Schüler), nun behoben.
 - Fehler beim LuPO-Import, nun behoben.
 
-<a id="13.01.2020_(Kurs:_Version:_3.23.8.333,_Noten:_2.10.2.50"></a>
-<a id="13.01.2020_.28Kurs:_Version:_3.23.8.333.2C_Noten:_2.10.2.50"></a>
-
 ## 13.01.2020 (Kurs: Version: 3.23.8.333, Noten: 2.10.2.50
 
 - Die Lockdateien werden beim Schließen einer Blockung gelöscht.
 
-<!-- -->
-
 - Die Blockungsdateien können jetzt optional verschlüsselt werden.
 - Eine existierende Blockung verschlüsseln:
 
-<!-- -->
-
 - die Option 'Blockungsdatei verschlüsseln' deaktivieren
-
-<!-- -->
 
 - Unverschlüsselte Blockung laden
 
-<!-- -->
-
 - die Option 'Blockungsdatei verschlüsseln' wieder aktivieren
-
-<!-- -->
 
 - die Datei speichern und dabei ein Passwort vergeben
 
-<!-- -->
-
 - Beim Textexport der Schülerwahlen werden jetzt auch die Teilleistungen ex- und importiert.
-
-<!-- -->
 
 - Noten: In der Schülersicht wurden die Fächer nicht angezeigt, nun behoben.
 
-<!-- -->
-
 - Noten: Die Schülerliste wird wieder gemäß der Vorgabe sortiert.
-
-<a id="09.01.2020_(Kurs:_Version:_3.23.7.332,_Noten:_2.10.1.50"></a>
-<a id="09.01.2020_.28Kurs:_Version:_3.23.7.332.2C_Noten:_2.10.1.50"></a>
 
 ## 09.01.2020 (Kurs: Version: 3.23.7.332, Noten: 2.10.1.50
 
 - Nach der Noteneingabe in Kurs 42 wurden die Änderungen nicht übernommen, nun behoben.
-
-<a id="12.12.2019_(Kurs:_Version:_3.23.4.332,_Noten:_2.10.0.50"></a>
-<a id="12.12.2019_.28Kurs:_Version:_3.23.4.332.2C_Noten:_2.10.0.50"></a>
 
 ## 12.12.2019 (Kurs: Version: 3.23.4.332, Noten: 2.10.0.50
 
 - Fehler beim Import aus LuPO, nun behoben.
 - Klausurkurspläne werden jetzt nach dem Klausur-Import korrekt initialisiert.
 
-<a id="12.12.2019_(Kurs:_Version:_3.23.2.332,_Noten:_2.10.0.50"></a>
-<a id="12.12.2019_.28Kurs:_Version:_3.23.2.332.2C_Noten:_2.10.0.50"></a>
-
 ## 12.12.2019 (Kurs: Version: 3.23.2.332, Noten: 2.10.0.50
 
 - Fehler beim LuPO-Import, nun behoben.
 - Fehler beim Blockungsimport aus der DB beseitigt.
 - Textimport überarbeitet.
-
-<a id="01.12.2019_(Kurs:_Version:_3.23.0.330,_Noten:_2.10.0.50"></a>
-<a id="01.12.2019_.28Kurs:_Version:_3.23.0.330.2C_Noten:_2.10.0.50"></a>
 
 ## 01.12.2019 (Kurs: Version: 3.23.0.330, Noten: 2.10.0.50
 
@@ -704,24 +518,15 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 - Beim Import der Schülerdaten aus SchILD-NRW 2 wird die Einstellung "Vorzugsweise Schul-Emailadresse benutzen" ausgewertet.
 - Die Lockdatei wird jetzt erst beim Schließen der Blockungsdatei gelöscht.
 
-<a id="11.11.2019_(Kurs:_Version:_3.22.14.310,_Noten:_2.9.0.45"></a>
-<a id="11.11.2019_.28Kurs:_Version:_3.22.14.310.2C_Noten:_2.9.0.45"></a>
-
 ## 11.11.2019 (Kurs: Version: 3.22.14.310, Noten: 2.9.0.45
 
 - Fehler bei der Darstellung von Stundenrastern, nun behoben.
 - Noten: Anpassung an die neue Passwortvergabe in SchILD-NRW 2.
 
-<a id="10.11.2019_(Kurs:_Version:_3.22.13.310"></a>
-<a id="10.11.2019_.28Kurs:_Version:_3.22.13.310"></a>
-
 ## 10.11.2019 (Kurs: Version: 3.22.13.310
 
 - Fehler beim Druck von Formularen mit Kurs- bzw. Schülerauswahl, nun behoben.
 - Fehler beim Druck unverplanter Klausurschienen, nun behoben.
-
-<a id="06.11.2019_(Kurs:_Version:_3.22.12.310"></a>
-<a id="06.11.2019_.28Kurs:_Version:_3.22.12.310"></a>
 
 ## 06.11.2019 (Kurs: Version: 3.22.12.310
 
@@ -729,16 +534,10 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 - Im Dialog "Klausurtermine festlegen" gab es einen Darstellungsfehler, nun behoben.
 - Die Funktionen zum Zugriff auf Stundenplandateien von SchildPlan/WinPlan wurden in eine Bibliothek (PlanLib3_SP1.dll) ausgelagert.
 
-<a id="23.10.2019_(Kurs:_Version:_3.22.11.308"></a>
-<a id="23.10.2019_.28Kurs:_Version:_3.22.11.308"></a>
-
 ## 23.10.2019 (Kurs: Version: 3.22.11.308
 
 - Der Gruppen-EMail-Versand wurde erneut überarbeitet.
 - Beim Export der Kurse wird jetzt die Schulnummer mit exportiert (wichtig für die Arbeit mit dem SAT-Solver von Herrn Bartsch).
-
-<a id="16.10.2019_(Kurs:_Version:_3.22.10.308"></a>
-<a id="16.10.2019_.28Kurs:_Version:_3.22.10.308"></a>
 
 ## 16.10.2019 (Kurs: Version: 3.22.10.308
 
@@ -747,15 +546,9 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 - Beim Import einer Textblockung wurde die Schulnummer nicht übernommen, nun behoben.
 - Unter "Import aus Textdateien" steht nun ein weiterer Menüpunkt zur Verfügung, mit dem die Ergebnisse eines externen SAT-Blockungslaufes (nur Kurs- und Schienenbelegung) importiert werden können.
 
-<a id="04.10.2019_(Kurs:_Version:_3.22.9.308"></a>
-<a id="04.10.2019_.28Kurs:_Version:_3.22.9.308"></a>
-
 ## 04.10.2019 (Kurs: Version: 3.22.9.308
 
 - Der E-Mail-Versand wurde überarbeitet. Bitte lesen Sie die überarbeitete Anleitung in "Hilfe\EMails_mit_der_Reportverwaltung_2019.pdf".
-
-<a id="17.09.2019_(Kurs:_Version:_3.22.8.308"></a>
-<a id="17.09.2019_.28Kurs:_Version:_3.22.8.308"></a>
 
 ## 17.09.2019 (Kurs: Version: 3.22.8.308
 
@@ -763,37 +556,22 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 - Beim Export der gpu017.txt (Klausuren) für UNTIS kann jetzt gewählt werden, ob beim Export eine Zeile pro Schiene (Standard) oder eine Zeile pro Kurs geschrieben werden soll. Die Einstellung kann unter Extras-\>Einstellungen-\>Im/Export,Kurse bearbeitet werden.
 - Im Dialog "Kurse bearbeiten" kann jetzt die UNTIS-Unterrichtsnummer bearbeitet werden.
 
-<a id="12.09.2019_(Kurs:_Version:_3.22.7.305"></a>
-<a id="12.09.2019_.28Kurs:_Version:_3.22.7.305"></a>
-
 ## 12.09.2019 (Kurs: Version: 3.22.7.305
 
 - Das EMail-Feld der Lehrer wird jetzt in Abhängigkeit von den Einstellungen in SchILD-NRW 2 gefüllt.
 
-<a id="09.09.2019_(Kurs:_Version:_3.22.6.305"></a>
-<a id="09.09.2019_.28Kurs:_Version:_3.22.6.305"></a>
-
 ## 09.09.2019 (Kurs: Version: 3.22.6.305
 
 - Der Text-Im/Export der Jahrgangstabelle war fehlerhaft, nun behoben.
-
-<a id="10.07.2019_(Kurs:_Version:_3.22.4.305"></a>
-<a id="10.07.2019_.28Kurs:_Version:_3.22.4.305"></a>
 
 ## 10.07.2019 (Kurs: Version: 3.22.4.305
 
 - Die Option "Dauer einer Unterrichtseinheit" wurde nicht gespeichert, nun behoben.
 - Fehler beim Laden jahrgangsübergreifender Kurse, nun behoben.
 
-<a id="05.06.2019_(Kurs:_Version:_3.22.3.305"></a>
-<a id="05.06.2019_.28Kurs:_Version:_3.22.3.305"></a>
-
 ## 05.06.2019 (Kurs: Version: 3.22.3.305
 
 - Beim Blocken wurde der bisher verwendete Algorithmus reaktiviert, d.h. Kurse werden auch gesetzt, wenn im Einrichtungsdialog ein zu niedriger Wert für die Parallelität gesetzt wurde.
-
-<a id="29.03.2019_(Kurs:_Version:_3.22.1.302)"></a>
-<a id="29.03.2019_.28Kurs:_Version:_3.22.1.302.29"></a>
 
 ## 29.03.2019 (Kurs: Version: 3.22.1.302)
 
@@ -803,17 +581,11 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 - Im Blockungsdialog wurde die Option zur Einstellung der Anzahl paralleler Kurse pro Schiene entfernt, dafür wird jetzt die Angabe in der Spalte "parallel" im Kurs-Einrichtungsdialog ausgewertet.
 - Die Kommunikation mit dem Internet wurde überarbeitet, die jetzt über die Bibliothek "ChilkatDelphi32.dll" abgewickelt wird. Nutzer des Setup-Archivs müssen bitte daran denken, diese Datei in das Programmverzeichnis zu kopieren.
 
-<a id="21.02.2019_(Kurs:_Version:_3.21.3.300)"></a>
-<a id="21.02.2019_.28Kurs:_Version:_3.21.3.300.29"></a>
-
 ## 21.02.2019 (Kurs: Version: 3.21.3.300)
 
 - Beim Löschen der Blockung in der DB konnte es zu Fehlermeldungen kommen, nun behoben,
 - Im Klausur-Terminplanungsdialg wird in der Liste der Klausuren jetzt angezeigt, ob die Klausur in der A oder B-Woche liegt.
 - Im externen Notenmodul können jetzt schülerspezifische Bemerkungen eingetragen werden, die beim Import in die Blockung übernommen werden. (In der Schüleransicht Namen mit der rechten Maustaste anklicken)
-
-<a id="17.01.2019_(Kurs:_Version_3.21.0.300)"></a>
-<a id="17.01.2019_.28Kurs:_Version_3.21.0.300.29"></a>
 
 ## 17.01.2019 (Kurs: Version 3.21.0.300)
 
@@ -821,24 +593,15 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 - Exportproblem 2: Fehlerhafter Export der Teilleistungsarten: Bitte vor dem nächsten Export einmal Im/Export-\>Blockunngs-Grunddaten laden aufrufen und dann unter Extras-\>Einstellungen die Teilleistungsarten neu zuordnen.
 - Klausurblockungen: Unter Klausuren-\>Klausurtermin festlegen können jetzt Beginn und Dauer (in Minuten) der Klausur separat angegeben werden. Bei der Übernahme der Daten wird geprüft, ob der Beginn in der ersten Stunde liegt und Beginn plus Dauer innerhalb der letzten Stunde liegt. In der Datenquelle "Klausurschienen" sind entsprechende Datenfelder ("Startzeit" und "Klausurdauer") enthalten.
 
-<a id="09.01.2019_(Kurs:_Version_320.56.298)"></a>
-<a id="09.01.2019_.28Kurs:_Version_320.56.298.29"></a>
-
 ## 09.01.2019 (Kurs: Version 320.56.298)
 
 - Der Bereich der Konferenzblockung wurde überarbeitet. Unter Im/Export-\>Export in Textdateien können jetzt die Zuordnungsdateie Lehrer-\>Klassen und Lehrer-\>Fächer erzeugt werden.
 - Fehler beim Export von Kursen (bei Verwendung einer Access-DB), nun behoben
 - Fehler beim Export von Teilleistungen, nun behoben. In einigen Fällen wurde die schildinterne Tabelle der Teilleistunsarten verändert, so dass die Zuordnung fehlschlug. Abhilfe: Bei geöffneter Blockungsdatei unter Extras-\>Einstellungen einmal die Teilleistungsarten neu zuordnen.
 
-<a id="28.12.2018_(Kurs:_Version_3.20.55.297)"></a>
-<a id="28.12.2018_.28Kurs:_Version_3.20.55.297.29"></a>
-
 ## 28.12.2018 (Kurs: Version 3.20.55.297)
 
 - Fehler im Datenaustausch durch Textdateien, nun behoben
-
-<a id="05.12.2018_(Kurs:_Version_3.20.54.296)"></a>
-<a id="05.12.2018_.28Kurs:_Version_3.20.54.296.29"></a>
 
 ## 05.12.2018 (Kurs: Version 3.20.54.296)
 
@@ -849,85 +612,50 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 - Als Trennzeichen wird das im Betriebssystem (Systemsteuerung-\>Region) vereinbarte Listentrennzeichen verwendet.
 - Diese Änderungen betreffen nicht die für den Austausch mit der SchILD-NRW 2-Schnittstelle vorgesehenen Textdateien.
 
-<a id="24.10.2018_(Kurs:_Version_3.20.52.295)"></a>
-<a id="24.10.2018_.28Kurs:_Version_3.20.52.295.29"></a>
-
 ## 24.10.2018 (Kurs: Version 3.20.52.295)
 
 - Die Kommunikationsbibliothek (schildUA.dll) wurde überarbeitet. Die im Zusammenhang mit Windows 7/Windows 10 aufgetretenen Probleme sind nach unseren Tests beseitigt.
-
-<a id="01.10.2018_(Kurs:_Version_3.20.50.292)"></a>
-<a id="01.10.2018_.28Kurs:_Version_3.20.50.292.29"></a>
 
 ## 01.10.2018 (Kurs: Version 3.20.50.292)
 
 - Beseitigung eines Bugs im Klausurdruck
 
-<a id="26.09.2018_(Kurs:_Version_3.20.49.292)"></a>
-<a id="26.09.2018_.28Kurs:_Version_3.20.49.292.29"></a>
-
 ## 26.09.2018 (Kurs: Version 3.20.49.292)
 
 - Die Datenquelle für die Klausurtermine war fehlerhaft, nun behoben.
 
-<!-- -->
-
 - Im Stundenraster wurden Eintragungen gelöscht, nun behoben.
-
-<a id="10.09.2018_(Kurs:_Version_3.20.47.292)"></a>
-<a id="10.09.2018_.28Kurs:_Version_3.20.47.292.29"></a>
 
 ## 10.09.2018 (Kurs: Version 3.20.47.292)
 
 - Korrekturen im Einstellungsdialog.
 - Überarbeitung des Lehrerimportes. Beim Import aus SchildZentral werden Doppelungen vermieden, außerdem werden alle Lehrer geladen, auch wenn sie in der DB nicht als Benutzer angelegt sind.
 
-<a id="02.09.2018_(Kurs:_Version_3.20.46.292)"></a>
-<a id="02.09.2018_.28Kurs:_Version_3.20.46.292.29"></a>
-
 ## 02.09.2018 (Kurs: Version 3.20.46.292)
 
 - Beim Anlegen einer neuen Blockung kam es zu Fehlern (statkue.mdb nicht gefunden), nun behoben.
-
-<a id="27.08.2018_(Kurs:_Version_3.20.45.292)"></a>
-<a id="27.08.2018_.28Kurs:_Version_3.20.45.292.29"></a>
 
 ## 27.08.2018 (Kurs: Version 3.20.45.292)
 
 - Im Zusammenhang mit Schildzentral kam es beim Lehrerimport zu Verdoppelungen, nun behoben.
 - Im Einstellungsdialog waren die Exportarten (intern/über Dll) vertauscht, nun behoben.
 
-<a id="23.08.2018_(Kurs:_Version_3.20.44.292"></a>
-<a id="23.08.2018_.28Kurs:_Version_3.20.44.292"></a>
-
 ## 23.08.2018 (Kurs: Version 3.20.44.292
 
 - Die Passwortanzeige und -eingabe für den E-Mail-Versand erfolgt wieder ohne Klartextanzeige.
 - Im Druck-Auswahldialog für Kurse und Schüler funktionierte eine Sortierung nicht, nun behoben.
 
-<a id="20.08.2018_(Kurs:_Version_3.20.43.292)"></a>
-<a id="20.08.2018_.28Kurs:_Version_3.20.43.292.29"></a>
-
 ## 20.08.2018 (Kurs: Version 3.20.43.292)
 
 - In der Datenpipeline 'Fachwahl' wurde das Feld 'IstSchriftlich' nicht gefüllt, nun behoben
-
-<a id="16.08.2018_(Kurs:_Version_3.20.42.292)"></a>
-<a id="16.08.2018_.28Kurs:_Version_3.20.42.292.29"></a>
 
 ## 16.08.2018 (Kurs: Version 3.20.42.292)
 
 - Beseitigung kleiner Darstellungs- und Rechtschreibfehler
 
-<a id="06.08.2018_(Kurs:_Version:_3.20.41.290"></a>
-<a id="06.08.2018_.28Kurs:_Version:_3.20.41.290"></a>
-
 ## 06.08.2018 (Kurs: Version: 3.20.41.290
 
 - Der Zugriff auf das Internet ist jetzt auch über einen Proxy-Server möglich. Die notwendigen Einstellungen müssen auf der Seite "Verzeichnisse und Internet" vorgenommen werden,
-
-<a id="18.07.2018_(Kurs:_Version:_3.20.40.290)"></a>
-<a id="18.07.2018_.28Kurs:_Version:_3.20.40.290.29"></a>
 
 ## 18.07.2018 (Kurs: Version: 3.20.40.290)
 
@@ -940,45 +668,27 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 
 - Standardmaske ist '%Fachbez% %Kursart%%Kursnr%' und erzeugt die bekannten Kursbezeicher wie z.B. 'D GK1'.
 
-<a id="25.06.2018_(Kurs:_Version:_3.20.38.287_(Snapshot)"></a>
-<a id="25.06.2018_.28Kurs:_Version:_3.20.38.287_.28Snapshot.29"></a>
-
 ## 25.06.2018 (Kurs: Version: 3.20.38.287 (Snapshot)
 
 - Auf Wunsch einiger Fachberater kann die Blockung anonymisiert werden (Extras-\>Spezial-\>Blockung anonymisieren)
-
-<a id="16.05.2018_(Kurs:_Version_3.20.37.287,_Noten:_Version_2.8.2.34)"></a>
-<a id="16.05.2018_.28Kurs:_Version_3.20.37.287.2C_Noten:_Version_2.8.2.34.29"></a>
 
 ## 16.05.2018 (Kurs: Version 3.20.37.287, Noten: Version 2.8.2.34)
 
 - Beim Laden von Blockungen mit mehr als zwei Blockgruppen kam es zu einem Ladefehler, nun behoben.
 
-<a id="26.04.2018_(Kurs:_Version_3.20.36.287,_Noten:_Version_2.8.2.34)"></a>
-<a id="26.04.2018_.28Kurs:_Version_3.20.36.287.2C_Noten:_Version_2.8.2.34.29"></a>
-
 ## 26.04.2018 (Kurs: Version 3.20.36.287, Noten: Version 2.8.2.34)
 
 - Beim Export in MSSQLServer-DBs kam es gelegentlich zu Problemen, nun behoben.
 
-<a id="12.04.2018_(Kurs:_Version_3.20.34.287,_Noten:_Version_2.8.2.34)"></a>
-<a id="12.04.2018_.28Kurs:_Version_3.20.34.287.2C_Noten:_Version_2.8.2.34.29"></a>
-
 ## 12.04.2018 (Kurs: Version 3.20.34.287, Noten: Version 2.8.2.34)
 
 - Unter bestimmten Umständen konnte das Programm beim Blocken in eine Endlosschleife laufen, nun behoben
-
-<a id="03.03.2018_(Kurs:_Version_3.20.33.286,_Noten:_Version_2.8.2.34)"></a>
-<a id="03.03.2018_.28Kurs:_Version_3.20.33.286.2C_Noten:_Version_2.8.2.34.29"></a>
 
 ## 03.03.2018 (Kurs: Version 3.20.33.286, Noten: Version 2.8.2.34)
 
 - Der Import von UNTIS-Plänen aus gpu001.txt und gpu002.txt wurde überarbeitet
 - Fehler beim Druck von Blockplänen (Bei einzelnen Schienen wurden keine Kurse ausgegeben), nun behoben.
 - Nach der Bearbeitung eines Kurses im Dialog 'Kurse bearbeiten' sprang der Datensatzzeiger immer zum ersten Datensatz, nun behoben.
-
-<a id="17.02.2018_(Kurs:_Version_3.20.31.286,_Noten:_Version_2.8.2.34)"></a>
-<a id="17.02.2018_.28Kurs:_Version_3.20.31.286.2C_Noten:_Version_2.8.2.34.29"></a>
 
 ## 17.02.2018 (Kurs: Version 3.20.31.286, Noten: Version 2.8.2.34)
 
@@ -988,37 +698,22 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 - Alle Textdateien werden mit der unter Extras-\>Einstellungen-\>Im/Export gewählten Kodierung erzeugt bzw. gelesen.
 - Die Abschnittserhöhung funktioniert jetzt auch bei Weiterbildungskollegs mit Semesterbetrieb korrekt.
 
-<a id="23.11.2017_(Kurs:_Version_3.20.27.286,_Noten:_Version_2.8.1.34)"></a>
-<a id="23.11.2017_.28Kurs:_Version_3.20.27.286.2C_Noten:_Version_2.8.1.34.29"></a>
-
 ## 23.11.2017 (Kurs: Version 3.20.27.286, Noten: Version 2.8.1.34)
 
 - Der Datenaustausch mit LuPO wurde überarbeitet. Es werden nur noch Fachwahlen mit Kursart GK, LK, VTF und PJK ausgetauscht, d.h. Fachwahlen in einer Blockung mit einer davon abweichenden Kursart (z.B. AGGT oder ZUV) werden nicht mehr abgewählt, wenn die entsprechenden Fachwahlen in LuPO fehlen. Ebenso werden beim Export nur die oben angegebenen Kursarten berücksichtigt.
 
-<a id="05.07.2017_(Kurs:_Version_3.20.26.286,_Noten:_Version_2.8.1.34)"></a>
-<a id="05.07.2017_.28Kurs:_Version_3.20.26.286.2C_Noten:_Version_2.8.1.34.29"></a>
-
 ## 05.07.2017 (Kurs: Version 3.20.26.286, Noten: Version 2.8.1.34)
 
 - Fehler beim Export der Teilleistungen, nun behoben.
-
-<a id="01.07.2017_(Kurs:_Version_3.20.25.286,_Noten:_Version_2.8.1.34)"></a>
-<a id="01.07.2017_.28Kurs:_Version_3.20.25.286.2C_Noten:_Version_2.8.1.34.29"></a>
 
 ## 01.07.2017 (Kurs: Version 3.20.25.286, Noten: Version 2.8.1.34)
 
 - Überarbeitung interner Funktionen (Verbesserung des Blockungsalgorithmus)
 - Fehlerbereinigung im Im/Exportbereich
 
-<a id="14.05.2017_(Kurs:_Version_3.20.24.286,_Noten:_Version_2.8.1.34)"></a>
-<a id="14.05.2017_.28Kurs:_Version_3.20.24.286.2C_Noten:_Version_2.8.1.34.29"></a>
-
 ## 14.05.2017 (Kurs: Version 3.20.24.286, Noten: Version 2.8.1.34)
 
 - Fehler beim Speichern/Laden von Blockungen, in denen alle Kurse gelöscht wurden, nun behoben.
-
-<a id="18.04.2017_(Kurs:_Version_3.20.23.286,_Noten:_Version_2.8.1.34)"></a>
-<a id="18.04.2017_.28Kurs:_Version_3.20.23.286.2C_Noten:_Version_2.8.1.34.29"></a>
 
 ## 18.04.2017 (Kurs: Version 3.20.23.286, Noten: Version 2.8.1.34)
 
@@ -1026,17 +721,11 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 - Beim Import aus GPU019.TXT wurden Schienen nicht korrekt angelegt, nun behoben
 - Import aus LuPO: die Pseudo-Kursart "AT" wird in GKM mit Note "AT" umgesetzt
 
-<a id="20.02.2017_(Kurs:_Version_3.20.21.285,_Noten:_Version_2.8.1.34)"></a>
-<a id="20.02.2017_.28Kurs:_Version_3.20.21.285.2C_Noten:_Version_2.8.1.34.29"></a>
-
 ## 20.02.2017 (Kurs: Version 3.20.21.285, Noten: Version 2.8.1.34)
 
 - Beim Laden einer Blockung konnte es zu einer Schutzverletzung kommen, nun behoben.
 - Im Dialog "Klausurtermine" können nun Aufsichtslehrer und Klausurräume aus Dropdown-Listen ausgewählt werden. Wenn bei der Auswahl des Aufsichtslehrers die Strg-Taste gedrückt wird, wird die Aufsicht für die ganze Klausur übernommen.
 - Im Dialog "Klausurtermine" werden durch Aufruf der Option "Klausurräume löschen" die Räume tatsächlich gelöscht und nicht durch die Kursräume ersetzt.
-
-<a id="08.02.2017_(Kurs:_Version_3.20.20.285,_Noten:_Version_2.8.1.34)"></a>
-<a id="08.02.2017_.28Kurs:_Version_3.20.20.285.2C_Noten:_Version_2.8.1.34.29"></a>
 
 ## 08.02.2017 (Kurs: Version 3.20.20.285, Noten: Version 2.8.1.34)
 
@@ -1045,69 +734,42 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 - Im Klausurplanungsdialog werden die Klausurstunden in den kleinen Plänen farbig markiert.
 - Beim Export der GPU015.TXT bleiben die Kursbezeichnungen unverändert.
 
-<a id="10.01.2017_(Kurs:_Version_3.20.16.285,_Noten:_Version_2.8.1.34)"></a>
-<a id="10.01.2017_.28Kurs:_Version_3.20.16.285.2C_Noten:_Version_2.8.1.34.29"></a>
-
 ## 10.01.2017 (Kurs: Version 3.20.16.285, Noten: Version 2.8.1.34)
 
 - Im Dialog "Klausurtermine anzeigen" wurden nicht alle Klausurstunden angezeigt, nun behoben. Damit in vorhandenen Blockungen alle Stunden angezeigt werden, muss im Dialog "Klausurtermin festlegen" einmal die Funktion "Alle Termine neu berechnen" (erreichbar im lokalen Menü der Klausurenliste) ausgeführt werden.
-
-<a id="31.12.2016_(Kurs:_Version_3.20.15.284,_Noten:_Version_2.8.1.34)"></a>
-<a id="31.12.2016_.28Kurs:_Version_3.20.15.284.2C_Noten:_Version_2.8.1.34.29"></a>
 
 ## 31.12.2016 (Kurs: Version 3.20.15.284, Noten: Version 2.8.1.34)
 
 - Anpassung an geänderte Prüfungsordnung (3. Fremdsprache)
 - Kleine Anpassungsarbeiten im Bereich der Einstellungen.
 
-<a id="17.09.2016_(Kurs:_Version_3.20.13.284,_Noten:_Version_2.8.1.34)"></a>
-<a id="17.09.2016_.28Kurs:_Version_3.20.13.284.2C_Noten:_Version_2.8.1.34.29"></a>
-
 ## 17.09.2016 (Kurs: Version 3.20.13.284, Noten: Version 2.8.1.34)
 
 - Überarbeitung des UNTIS-Planimportes über gpu001.txt. Ab sofort wird auch gpu002.txt ausgewertet, um A- und B-Wochenpläne importieren zu können. Unter Extras-\>Einstellungen-\>Im/Export kann festgelegt werden, durch welche Zeichenkette A- bzw. B-Woche identifiziert werden. Ausgewertet wird aus gpu002.txt das Feld \#12 (Gruppe).
 - Beim Export der Kurse nach SchILD-NRW 2 wurde das Feld für die Stunden des Kursleiters mit einem falschen Wert gefüllt; nun behoben.
-
-<a id="08.09.2016_(Kurs:_Version_3.20.12.284,_Noten:_Version_2.8.1.34)"></a>
-<a id="08.09.2016_.28Kurs:_Version_3.20.12.284.2C_Noten:_Version_2.8.1.34.29"></a>
 
 ## 08.09.2016 (Kurs: Version 3.20.12.284, Noten: Version 2.8.1.34)
 
 - Durch Aufruf der Klausurplanung konnten Schülerstundenpläne zerstört werden, nun behoben.
 - Fehler beim Druck von Klausurübersichten beseitigt.
 
-<a id="09.08.2016_(Kurs:_Version_3.20.8.284,_Noten:_Version_2.8.1.34)"></a>
-<a id="09.08.2016_.28Kurs:_Version_3.20.8.284.2C_Noten:_Version_2.8.1.34.29"></a>
-
 ## 09.08.2016 (Kurs: Version 3.20.8.284, Noten: Version 2.8.1.34)
 
 - Im Dialog "Kurse bearbeiten" wurde bei einer Änderung des Faches die Änderung nicht bei den Schülern übernommen, nun behoben.
 
-<a id="15.06.2016_(Kurs:_Version_3.20.7.284,_Noten:_Version_2.8.1.34)"></a>
-<a id="15.06.2016_.28Kurs:_Version_3.20.7.284.2C_Noten:_Version_2.8.1.34.29"></a>
-
 ## 15.06.2016 (Kurs: Version 3.20.7.284, Noten: Version 2.8.1.34)
 
 - Durch einen internen Fehler wurde bei der Updateprüfung eine falsche URL verwendet, nun behoben.
-
-<a id="19.05.2016_(Kurs:_Version_3.20.7.283,_Noten:_Version_2.8.1.34)"></a>
-<a id="19.05.2016_.28Kurs:_Version_3.20.7.283.2C_Noten:_Version_2.8.1.34.29"></a>
 
 ## 19.05.2016 (Kurs: Version 3.20.7.283, Noten: Version 2.8.1.34)
 
 - In Blockungen für die WBKs wurden die Kursarten nicht richtig angezeigt, nun behoben.
 - Beim Raumplanimport wird nun auch die Option "Plan gilt jede Woche" berücksichtigt.
 
-<a id="19.05.2016_(Kurs:_Version_3.20.6.283,_Noten:_Version_2.8.1.34)"></a>
-<a id="19.05.2016_.28Kurs:_Version_3.20.6.283.2C_Noten:_Version_2.8.1.34.29"></a>
-
 ## 19.05.2016 (Kurs: Version 3.20.6.283, Noten: Version 2.8.1.34)
 
 - Im Dialog "Kurse bearbeiten" das fehlende Feld "Schienen" ergänzt
 - In den Einstellungen kann jetzt unter "Verschiedenes" festgelegt werden, ob die A-Woche im Plan die gerade oder ungerade Woche sein soll.
-
-<a id="07.04.2016_(Kurs:_Version_3.20.5.283,_Noten:_Version_2.8.1.34)"></a>
-<a id="07.04.2016_.28Kurs:_Version_3.20.5.283.2C_Noten:_Version_2.8.1.34.29"></a>
 
 ## 07.04.2016 (Kurs: Version 3.20.5.283, Noten: Version 2.8.1.34)
 
@@ -1115,16 +777,10 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 - Beim Direktimport aus einer LuPO-Datei wurden die Leistungen nicht korrekt importiert, nun behoben.
 - Wenn als Schulform 'Weiterbildungskolleg' gewählt war, wurden die Kursarten nicht angezeigt, nun behoben.
 
-<a id="12.02.2016_(Kurs:_Version_3.20.4.283,_Noten:_Version:_2.8.1.34)"></a>
-<a id="12.02.2016_.28Kurs:_Version_3.20.4.283.2C_Noten:_Version:_2.8.1.34.29"></a>
-
 ## 12.02.2016 (Kurs: Version 3.20.4.283, Noten: Version: 2.8.1.34)
 
 - Durch einen Fehler in der Reportkomponente wurde der Rap-Code, wenn ältere Reports bearbeitet und gespeichert wurden, nicht gespeichert. Der Fehler ist durch einen Bugfix des Lieferanten der Komponente nun behoben.
 - Nach dem Anlegen einer neuen Blockung wurde unter Umständen das Blockungsfenster nicht dargestellt, nun behoben.
-
-<a id="31.01.2016_(Kurs:_Version_3.20.2.283,_Noten:_Version:_2.8.1.34)"></a>
-<a id="31.01.2016_.28Kurs:_Version_3.20.2.283.2C_Noten:_Version:_2.8.1.34.29"></a>
 
 ## 31.01.2016 (Kurs: Version 3.20.2.283, Noten: Version: 2.8.1.34)
 
@@ -1136,15 +792,9 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 - Die E-Mail-Einstellung (Indy/Mapi) wurde nicht richtig ausgewertet, nun behoben.
 - Beim Export der Schülerpläne im XML-Format wird jetzt auch die Kopplungs-Id ( = Blockungskürzel) mit ausgegeben.
 
-<a id="25.10.2015_(Kurs:_Version_3.19.18.282,_Noten:_Version:_2.8.1.34)"></a>
-<a id="25.10.2015_.28Kurs:_Version_3.19.18.282.2C_Noten:_Version:_2.8.1.34.29"></a>
-
 ## 25.10.2015 (Kurs: Version 3.19.18.282, Noten: Version: 2.8.1.34)
 
 - Beseitigung kleinerer Fehler.
-
-<a id="28.09.2015_(Kurs:_Version_3.19.16.280,_Noten:_Version_2.7.15.32_)"></a>
-<a id="28.09.2015_.28Kurs:_Version_3.19.16.280.2C_Noten:_Version_2.7.15.32_.29"></a>
 
 ## 28.09.2015 (Kurs: Version 3.19.16.280, Noten: Version 2.7.15.32 )
 
@@ -1156,9 +806,6 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 - Initialisierungsfehler der Reportverwaltung beseitigt.
 - Neu: Die Optik der Benutzeroberfläche kann über die Auswahl von Themen gestaltet werden. Im Programmverzeichnis von Kurs 42 wird dazu das Verzeichnis 'Styles' eingerichtet, das die verfügbaren GUI-Stildateien enthält.
 
-<a id="27.08.2015_(Kurs_Version_3.19.3.280,_Noten:_Version_2.7.15.32_)"></a>
-<a id="27.08.2015_.28Kurs_Version_3.19.3.280.2C_Noten:_Version_2.7.15.32_.29"></a>
-
 ## 27.08.2015 (Kurs Version 3.19.3.280, Noten: Version 2.7.15.32 )
 
 - Die Klausurfilterung wirkt sich jetzt auch auf die Datenquelle 'SchuelerKlausurTermine aus. Der Filter muss in der Hauptdatenquelle 'Schueler' gesetzt werden.
@@ -1166,9 +813,6 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 - Die interne Raum- und Stundenplanverwaltung wurde komplett überarbeitet.
 - Im Dialog 'Stundenraster bearbeiten' können jetzt auch die Stunden für Einzelkurse gesetzt werden.
 - Die Menüpunkte 'Raumplan initialisieren' und die Funktion 'Kurspläne initialisieren' sind nicht mehr nötig und wurden deaktiviert.
-
-<a id="09.08.2015_(Kurs_Version_3.19.0.280,_Noten:_Version_2.7.15.32_)"></a>
-<a id="09.08.2015_.28Kurs_Version_3.19.0.280.2C_Noten:_Version_2.7.15.32_.29"></a>
 
 ## 09.08.2015 (Kurs Version 3.19.0.280, Noten: Version 2.7.15.32 )
 
@@ -1252,15 +896,9 @@ Kursbelegung.txt
 
 - Da die Belegprüfung seit einiger Zeit ausschließlich über LuPO statfindet, wurden die alten Prüfroutinen entfernt. Damit ist auch die Bibliothek "AbiturBelegpruefung.dll" überflüssig geworden und kann gelöscht werden.
 
-<a id="21.05.2015_(Kurs_Version_3.18.29.280,_Noten:_Version_2.7.14.32_)"></a>
-<a id="21.05.2015_.28Kurs_Version_3.18.29.280.2C_Noten:_Version_2.7.14.32_.29"></a>
-
 ## 21.05.2015 (Kurs Version 3.18.29.280, Noten: Version 2.7.14.32 )
 
 - Durch einen Fehler in der Verwaltung der zulässigen Kursarten gab es Probleme beim LuPO-Import und der Kursartanzeige, nun behoben.
-
-<a id="18.05.2015_(Kurs_Version_3.18.28.280,_Noten:_Version_2.7.14.32_)"></a>
-<a id="18.05.2015_.28Kurs_Version_3.18.28.280.2C_Noten:_Version_2.7.14.32_.29"></a>
 
 ## 18.05.2015 (Kurs Version 3.18.28.280, Noten: Version 2.7.14.32 )
 
@@ -1268,25 +906,16 @@ Kursbelegung.txt
 - Beim Direktimport aus LuPO wurden bei neu angelegten Schülern nicht alle Fächer importiert, nun behoben.
 - Beim Export nach SchILD-NRW 2 wurden unter gewissen Umständen die Fächer nicht exportiert, nun behoben.
 
-<a id="02.04.2015_(Kurs_Version_3.18.24.276,_Noten:_Version_2.7.13.32_)"></a>
-<a id="02.04.2015_.28Kurs_Version_3.18.24.276.2C_Noten:_Version_2.7.13.32_.29"></a>
-
 ## 02.04.2015 (Kurs Version 3.18.24.276, Noten: Version 2.7.13.32 )
 
 - Der Dialog zur Eingabe des Stundenrasters wurde überarbeitet. Es wird je ein Raster für die geraden und ungeraden Wochen angezeigt. Die Schienen werden in einer Baumansicht links neben den Rastern dargestellt. Stunden werden gesetzt, indem per Drag-And-Drop eine Schiene auf das jeweilige Raster gezogen wird. Bei gleichzeitig gedrückter \<Strg\>:-Taste (oder wenn die Option "Plan gilt jede Woche" gesetzt ist) wird in beiden Rastern gesetzt. Stunden werden gelöscht, indem sie vom Raster zurück auf die zugehörige Schiene gezogen werden.
 - Gesamtschulen: Beim Anlegen einer neuen Blockung können optional nur Schüler mit FORQ-Prognose berücksichtigt werden. Voraussetzung: Die Blockung wird für die zukünftige EF angelegt. In diesem Fall erscheint auf der letzten Seite des Dialoges eine Checkbox "Nur Schüler mit FORQ-Prognose laden".
 - Bei der Klausurplanung werden jetzt auch Abiturklausuren berücksichtigt. Dazu muss im Dialog "Klausuren-\>Klausurblockung bearbeiten" das Flag "Abiturtermin" gesetzt werden. Damit alte Klausurblockungen angepasst werden können, müssen sie unter "Klausuren-\>Klausurtermin festlegen" neu berechnet werden. In der Datenquelle "Klausurtermine" ist das boolesche Feld "IstAbiturtermin" hinzugekommen.
 
-<a id="04.03.2015_(Kurs_Version_3.18.20.276,_Noten:_Version_2.7.12.32)"></a>
-<a id="04.03.2015_.28Kurs_Version_3.18.20.276.2C_Noten:_Version_2.7.12.32.29"></a>
-
 ## 04.03.2015 (Kurs Version 3.18.20.276, Noten: Version 2.7.12.32)
 
 - Datenquelle Klausurkurse: 'Raum' wird zu 'Klausurraum'.
 - Fehler beim Import von Koop-Fachwahlen behoben.
-
-<a id="25.02.2015_(Kurs_Version_3.18.19.276,_Noten:_Version_2.7.12.32)"></a>
-<a id="25.02.2015_.28Kurs_Version_3.18.19.276.2C_Noten:_Version_2.7.12.32.29"></a>
 
 ## 25.02.2015 (Kurs Version 3.18.19.276, Noten: Version 2.7.12.32)
 
@@ -1315,17 +944,11 @@ Datenquelle 'Schueler': Feld 'Unentsch' wird zu 'GesUnentsch'
 - Beim Export von UNTIS-Kursen kann eine existierende Unterrichtsnummer jetzt auf Wunsch überschrieben werden.
 - Der Dialog 'Fachwahlen mit DB abgleichen' wurde überarbeitet.
 
-<a id="16.12.2014_(Kurs_Version_3.18.14.276,_Noten:_Version_2.7.10.32)"></a>
-<a id="16.12.2014_.28Kurs_Version_3.18.14.276.2C_Noten:_Version_2.7.10.32.29"></a>
-
 ## 16.12.2014 (Kurs Version 3.18.14.276, Noten: Version 2.7.10.32)
 
 - Beim Export einer Koop-Blockung können jetzt die Schüler der Koop-Schulen als Externe in die DB übernommen werden.
 - Beim Export der Notendateien kam es zu einer Schutzverletzung, nun behoben.
 - Bei fehlender oder unvollständiger Einstellungsdatei gab es unter bestimmten Umständen beim Progrannstart eine Schutzverletzung, nun behoben.
-
-<a id="28.11.2014_(Kurs_Version_3.18.13.276,_Noten:_Version_2.7.9.32)"></a>
-<a id="28.11.2014_.28Kurs_Version_3.18.13.276.2C_Noten:_Version_2.7.9.32.29"></a>
 
 ## 28.11.2014 (Kurs Version 3.18.13.276, Noten: Version 2.7.9.32)
 
@@ -1338,9 +961,6 @@ Datenquelle 'Schueler': Feld 'Unentsch' wird zu 'GesUnentsch'
 - Neue Funktion 'Kalenderwoche' im Reportdesigner.
 - Im Terminplanungsdialog kann durch Rechtsklick auf die Liste der Klausurschienen ein Dialog aufgerufen werden, in dem ein Zusatztermin festgelegt sowie die Klausurschiene gelöscht oder das Datum zurückgesetzt werden kann. Die Bezeichnung ist natürlich frei wählbar, allerdings ist es wenig sinnvoll, allen Zusatzterminen die gleiche Bezeichnung zuzuweisen. Damit der Termin auch auf Ausdrucken erscheint, wird ein (mehr oder weniger fiktiver) Kurs eingefügt. Die Anzahl der Zusatztermine ist beliebig. Der eigentliche Termin wird, wie üblich, durch anklicken des Termins und Betätigung des 'Start'-Buttons festgelegt. Die Ergebnisliste bleibt natürlich leer, da der Kurs keine Schüler enthält
 - Im Klausurplanungsdialog wurde bisher im Prinzip nur der Inhalt der Ergebnisliste gedruckt. Das wurde jetzt durch ein frei gestaltbares Standardformular (ein Beispiel wird mitgeliefert) ersetzt.
-
-<a id="29.08.2014_(Kurs_Version_3.17.16.275,_Noten:_Version_2.7.8.32)"></a>
-<a id="29.08.2014_.28Kurs_Version_3.17.16.275.2C_Noten:_Version_2.7.8.32.29"></a>
 
 ## 29.08.2014 (Kurs Version 3.17.16.275, Noten: Version 2.7.8.32)
 
@@ -1359,30 +979,17 @@ Notenmobil=1
 
 - Das Arbeitsverzeichnis kann beliebig gewählt oder auch weggelassen (dann wird als Arbeitsverzeichnis das Programmverzeichnis verwendet) werden. Der Laufwerksbuchstabe im Pfad des jeweiligen Arbeitsverzeichnisses wird beim Programmstart auf den dem Stick zugewiesenen Laufwerksbuchstaben geändert.
 
-<a id="13.08.2014_(Kurs:_Version_3.17.15.275,_Noten:_Version_2.7.7.32)"></a>
-<a id="13.08.2014_.28Kurs:_Version_3.17.15.275.2C_Noten:_Version_2.7.7.32.29"></a>
-
 ## 13.08.2014 (Kurs: Version 3.17.15.275, Noten: Version 2.7.7.32)
 
 - Textdatei-Import der Schüler um das Feld "E-Mail" ergänzt. Als Headerzeile wird
 
-<!-- -->
-
 - Name;Vorname;GebDat;Geschlecht;Status;Klasse;Jahrgang;Schulnummer;E-Mail
 
-<!-- -->
-
 - erwartet.
-
-<a id="19.07.2014_(Kurs:_Version_3.17.14.275,_Noten:_Version_2.7.7.32)"></a>
-<a id="19.07.2014_.28Kurs:_Version_3.17.14.275.2C_Noten:_Version_2.7.7.32.29"></a>
 
 ## 19.07.2014 (Kurs: Version 3.17.14.275, Noten: Version 2.7.7.32)
 
 - Protokollausgabe beim LuPO-Import ergänzt.
-
-<a id="18.05.2014_(Kurs:_Version_3.17.13.275,_Noten:_Version_2.7.7.32)"></a>
-<a id="18.05.2014_.28Kurs:_Version_3.17.13.275.2C_Noten:_Version_2.7.7.32.29"></a>
 
 ## 18.05.2014 (Kurs: Version 3.17.13.275, Noten: Version 2.7.7.32)
 
@@ -1390,16 +997,10 @@ Notenmobil=1
 - Beim Import von UTF 8 - kodierten LuPO-Schnittstellendateien wird ein eventuell vorhandenes BOM (Byte Order Mark) berücksichtigt.
 - Import von UNTIS-Schnittstellendateien verbessert.
 
-<a id="10.04.2014_(Kurs:_Version_3.17.9.275,_Noten:_Version_2.7.7.32)"></a>
-<a id="10.04.2014_.28Kurs:_Version_3.17.9.275.2C_Noten:_Version_2.7.7.32.29"></a>
-
 ## 10.04.2014 (Kurs: Version 3.17.9.275, Noten: Version 2.7.7.32)
 
 - Im Fenster zur Klausurterminfestlegung wurden Anfangs- und Endstunde der Klausur falsch angezeigt, falls die Stundenzählung nicht mit Stunde 1 beginnt, nun behoben.
 - Beim Öffnen von Notendateien wurde gelegentlich eine fehlende Notentabelle gemeldet, nun behoben.
-
-<a id="27.03.2014_(Kurs:_Version_3.17.8.275,_Noten:_Version_2.7.4.32)"></a>
-<a id="27.03.2014_.28Kurs:_Version_3.17.8.275.2C_Noten:_Version_2.7.4.32.29"></a>
 
 ## 27.03.2014 (Kurs: Version 3.17.8.275, Noten: Version 2.7.4.32)
 
@@ -1408,17 +1009,11 @@ Notenmobil=1
 - Untis-Export: Beim Kursexport kann optional der Kurslehrer mit exportiert werden.
 - Die notwendigen Einstellungen müssen unter 'Extras-\>Einstellungen-\>Im/Export' vorgenommen werden.
 
-<a id="16.03.2014_(Kurs:_Version_3.17.6.275,_Noten:_Version_2.7.3.32)"></a>
-<a id="16.03.2014_.28Kurs:_Version_3.17.6.275.2C_Noten:_Version_2.7.3.32.29"></a>
-
 ## 16.03.2014 (Kurs: Version 3.17.6.275, Noten: Version 2.7.3.32)
 
 - Fehler beim Direktexport von Gesamtschulblockungen nach LuPO beseitigt.
 - Bei der Bestimmung der Schriftlichkeit von Fächern werden jetzt die neu einsetzenden Fremdsprachen berücksichtigt.
 - Beim Import von Notendateien kam es zu einem Fehler ("zu wenig Arbeitsspeicher"), nun behoben.
-
-<a id="24.02.2014_(Kurs:_Version_3.17.4.275,_Noten:_Version_2.7.3.32)"></a>
-<a id="24.02.2014_.28Kurs:_Version_3.17.4.275.2C_Noten:_Version_2.7.3.32.29"></a>
 
 ## 24.02.2014 (Kurs: Version 3.17.4.275, Noten: Version 2.7.3.32)
 
@@ -1426,39 +1021,24 @@ Notenmobil=1
 - Im Dialog zur Klausurterminfestlegung wir jetzt beim Start der erste belegte Klausurtermin (falls vorhanden) markiert. Der gleichzeitig auftretende Anzeigefehler wurde ebenfalls beseitigt
 - Beim Export der Blockung werden Schüler mit Status 'Extern' in jedem Fall mit exportiert.
 
-<a id="19.02.2014_(Kurs:_Version_3.17.2.275,_Noten:_Version_2.7.3.32)"></a>
-<a id="19.02.2014_.28Kurs:_Version_3.17.2.275.2C_Noten:_Version_2.7.3.32.29"></a>
-
 ## 19.02.2014 (Kurs: Version 3.17.2.275, Noten: Version 2.7.3.32)
 
 - Kurs 42: Der Klausurplanungsbereich wurde überarbeitet.
 - Noten 42: Die (unnötige) Abhängigkeit von SchildUAneu.dll wurde beseitigt
 - Das Plugin für die Plananzeige in SchILD-NRW 2 wurde überarbeitet, so dass eine Schutzverletzung bei der Plananzeige vermieden wird.
 
-<a id="11.02.2014_(Kurs:_Version_3.17.1.275,_Noten:_Version_2.7.1.32)"></a>
-<a id="11.02.2014_.28Kurs:_Version_3.17.1.275.2C_Noten:_Version_2.7.1.32.29"></a>
-
 ## 11.02.2014 (Kurs: Version 3.17.1.275, Noten: Version 2.7.1.32)
 
 - Einige Bugs, die im Zuge der Umstellung auf Unicode entstanden, wurden beseitigt.
-
-<a id="05.02.2014_(Kurs:_Version_3.17.0.275,_Noten:_Version_2.7.0.32)"></a>
-<a id="05.02.2014_.28Kurs:_Version_3.17.0.275.2C_Noten:_Version_2.7.0.32.29"></a>
 
 ## 05.02.2014 (Kurs: Version 3.17.0.275, Noten: Version 2.7.0.32)
 
 - Kurs 42 ist jetzt für die Verwendung von Unicode vorbereitet.
 
-<a id="03.02.2014_(Kurs:_Version_3.16.2.272,_Noten:_Version_2.7.0.32)"></a>
-<a id="03.02.2014_.28Kurs:_Version_3.16.2.272.2C_Noten:_Version_2.7.0.32.29"></a>
-
 ## 03.02.2014 (Kurs: Version 3.16.2.272, Noten: Version 2.7.0.32)
 
 - In der Schülerauswahl beim Druck können jetzt alle Schüler markiert werden, die keinen Kurs belegt haben. Die Option erscheint durch Anklicken der Schülerliste mit der rechten Maustaste.
 - Die Toolbars im Hauptfenster sind jetzt konfigurierbar. Durch Anklicken mit der rechten Maustaste erscheint ein lokales Menü, über das Toolbars ein- und ausgeblendet sowie Aktionen hinzugefügt werden können.
-
-<a id="27.01.2014_(Kurs:_Version_3.16.1.272,_Noten:_Version_2.7.0.32)"></a>
-<a id="27.01.2014_.28Kurs:_Version_3.16.1.272.2C_Noten:_Version_2.7.0.32.29"></a>
 
 ## 27.01.2014 (Kurs: Version 3.16.1.272, Noten: Version 2.7.0.32)
 
@@ -1466,16 +1046,10 @@ Notenmobil=1
 - Das Protokollfenster konnte unter gewissen Umständen mehrfach erzeugt werden, nun behoben
 - Beim Import von LuPO-Fachwahlen wurden bereits vorhandene Fächer gelegentlich neu erzeugt, nun behoben
 
-<a id="24.01.2014_(Kurs:_Version_3.16.0.272,_Noten:_Version_2.7.0.32)"></a>
-<a id="24.01.2014_.28Kurs:_Version_3.16.0.272.2C_Noten:_Version_2.7.0.32.29"></a>
-
 ## 24.01.2014 (Kurs: Version 3.16.0.272, Noten: Version 2.7.0.32)
 
 - Kurs 42/Noten 42: Im Noteneingabe-Dialog wird die Spalte der Endnote bei fehlendem Eintrag eingefärbt (Vorgabe: rot). Die Farbe kann unter Extras-\>Einstellungen-\>Farben angepasst werden.
 - Kurs 42: Beim Export von UNTIS-Dif-Dateien wird jetzt, falls schon geblockt wurde, in GPU015.TXT die tatsächliche Kursbelegung der Schüler ausgegeben.
-
-<a id="10.12.2013_(Kurs:_Version_3.15.14.271,_Noten:_Version_2.6.33.31)"></a>
-<a id="10.12.2013_.28Kurs:_Version_3.15.14.271.2C_Noten:_Version_2.6.33.31.29"></a>
 
 ## 10.12.2013 (Kurs: Version 3.15.14.271, Noten: Version 2.6.33.31)
 
@@ -1484,45 +1058,27 @@ Notenmobil=1
 - Die in der Blockung gespeicherten Fächer können jetzt auch ohne DB-Zugriff bearbeitet werden.
 - Das Kursplugin brachte unter gewissen Umständen SchILD-NRW 2 zum Absturz, nun behoben.
 
-<a id="04.12.2013_(Kurs:_Version_3.15.12.271,_Noten:_Version_2.6.33.31)"></a>
-<a id="04.12.2013_.28Kurs:_Version_3.15.12.271.2C_Noten:_Version_2.6.33.31.29"></a>
-
 ## 04.12.2013 (Kurs: Version 3.15.12.271, Noten: Version 2.6.33.31)
 
 - In Kurs 42 und Noten 42 können jetzt auch bei den Teilleistungen Teilnahmevermerke und "Pseudonoten" ("NB", "NE" etc.) verwendet werden.
 - Bei der Verwendung von JPEG-Bildern als Logo konnte es zu Fehlern beim Lesen einer Blockung kommen, nun behoben.
 - Beim Raumeintrag im Dialog "Kurse bearbeiten" wurde ein falscher Raum übernommen, nun behoben.
 
-<a id="23.11.2013_(Kurs:_Version_3.15.10.271,_Noten:_Version_2.6.32.31)"></a>
-<a id="23.11.2013_.28Kurs:_Version_3.15.10.271.2C_Noten:_Version_2.6.32.31.29"></a>
-
 ## 23.11.2013 (Kurs: Version 3.15.10.271, Noten: Version 2.6.32.31)
 
 - In Kurs 42 wurde das korrekte Arbeitsverzeichnis nicht gefunden, nun behoben.
-
-<a id="17.11.2013_(Kurs:_Version_3.15.9.271,_Noten:_Version_2.6.32.31)"></a>
-<a id="17.11.2013_.28Kurs:_Version_3.15.9.271.2C_Noten:_Version_2.6.32.31.29"></a>
 
 ## 17.11.2013 (Kurs: Version 3.15.9.271, Noten: Version 2.6.32.31)
 
 - Noten: Bein Druck von Reports wurde die Datenpipeline nicht korrekt initialisiert; nun behoben.
 
-<a id="17.11.2013_(Kurs:_Version_3.15.9.271,_Noten:_Version_2.6.31.31)"></a>
-<a id="17.11.2013_.28Kurs:_Version_3.15.9.271.2C_Noten:_Version_2.6.31.31.29"></a>
-
 ## 17.11.2013 (Kurs: Version 3.15.9.271, Noten: Version 2.6.31.31)
 
 - Im Klausurplanungsbereich wurden die Kursgrößen nicht korrekt angezeigt, nun behoben.
 
-<a id="13.11.2013_(Kurs:_Version_3.15.7.271,_Noten:_Version_2.6.31.31)"></a>
-<a id="13.11.2013_.28Kurs:_Version_3.15.7.271.2C_Noten:_Version_2.6.31.31.29"></a>
-
 ## 13.11.2013 (Kurs: Version 3.15.7.271, Noten: Version 2.6.31.31)
 
 - Beim E-Mail-Versand über MAPI kam es zu einer (unberechtigten) Fehlermeldung, nun behoben.
-
-<a id="17.10.2013_(Kurs:_Version_3.15.6.271,_Noten:_Version_2.6.31.31)"></a>
-<a id="17.10.2013_.28Kurs:_Version_3.15.6.271.2C_Noten:_Version_2.6.31.31.29"></a>
 
 ## 17.10.2013 (Kurs: Version 3.15.6.271, Noten: Version 2.6.31.31)
 
@@ -1534,9 +1090,6 @@ Notenmobil=1
 - o Persönliche Einstellungen: Das Verzeichnis 'Eigene Dokumente' des Benutzers.
 - Der Dateiname ist, um Verwechslungen mit der Noten-Einstellungsdatei zu vermeiden, in beiden Fällen 'Kurseinstellungen.ini'.
 - Beim Arbeitsverzeichnis (AdminDir=...) ist zu beachten, dass bei einer Server-Installation unbedingt der UNC-Pfad eingetragen werden muss.
-
-<a id="06.10.2013_(Kurs:_Version_3.15.2.271,_Noten:_Version_2.6.31.31)"></a>
-<a id="06.10.2013_.28Kurs:_Version_3.15.2.271.2C_Noten:_Version_2.6.31.31.29"></a>
 
 ## 06.10.2013 (Kurs: Version 3.15.2.271, Noten: Version 2.6.31.31)
 
@@ -1551,9 +1104,6 @@ Notenmobil=1
 - ...
 - Label8.Caption:='Wiederbeginn des Unterrichts: ' + DateToStr(D) + ' um ' + copy(TimeToStr(T1),1,5) + ' Uhr';
 
-<a id="12.09.2013_(Kurs:_Version_3.15.1.270,_Noten:_Version_2.6.31.31)"></a>
-<a id="12.09.2013_.28Kurs:_Version_3.15.1.270.2C_Noten:_Version_2.6.31.31.29"></a>
-
 ## 12.09.2013 (Kurs: Version 3.15.1.270, Noten: Version 2.6.31.31)
 
 - Alle Einstellungen werden jetzt in Ini-Dateien gespeichert. Über 'Extras-\>Optionen Registry-\>Inifile' können die Einstellungen aus der Registry in die Ini-Dateien übernommen werden.
@@ -1561,9 +1111,6 @@ Notenmobil=1
 - Der Im- und Export von Notendateien führte zu Schutzverletzungen, nun behoben.
 - Die Kurspläne werden automatisch auf die Klausurkurse übertragen, wenn der Klausurblockungsdialog geschlossen wird. Darüber hinaus gibt es jetzt im Dialog 'Klausurtermine festlegen' eine Schaltfläche 'Kurspläne aktualisieren', die genau diese Funktion auslöst. Damit können Änderungen in der Stundenplanung sofort auf die Klausurkurse übertragen werden.
 - Im Dialog 'Kurse bearbeiten' wird nach der Betätigung der Schaltfläche 'Kurspläne initialisieren' ein Warnhinweis ausgegeben und der Vorgang kann abgebrochen werden.
-
-<a id="02.09.2013_(Kurs:_Version_3.15.0.270,_Noten:_Version_2.6.30.31)"></a>
-<a id="02.09.2013_.28Kurs:_Version_3.15.0.270.2C_Noten:_Version_2.6.30.31.29"></a>
 
 ## 02.09.2013 (Kurs: Version 3.15.0.270, Noten: Version 2.6.30.31)
 
@@ -1583,9 +1130,6 @@ Notenmobil=1
 - AdminDir=Hier_steht_der_Pfad_zum_Einstellungsverzeichnis
 - Wenn Admin.ini nicht existiert oder AdminDir ein Leerstring ist, wird als Verzeichnis für die Einstellungen das Programmverzeichnis verwendet. Bei einem Einsatz im Netzwerk sollte ein UNC-Pfad eingetragen werden.
 
-<a id="24.06.2013_(Kurs:_Version_3.14.3.264,_Noten:_Version_2.6.28.28)"></a>
-<a id="24.06.2013_.28Kurs:_Version_3.14.3.264.2C_Noten:_Version_2.6.28.28.29"></a>
-
 ## 24.06.2013 (Kurs: Version 3.14.3.264, Noten: Version 2.6.28.28)
 
 - Kurs 42 benötigt als Systemvoraussetzung mindestens Windows XP SP1, d.h. für Windows 3.1, Win95, Win98, Win2000 wird die Lauffähigkeit von Kurs 42 nicht mehr garantiert!
@@ -1601,39 +1145,24 @@ Notenmobil=1
 - Wenn im Dialog 'Bearbeiten-\>Blockung bearbeiten' das Schuljahr bzw. der Schuljahresabschnitt erhöht wird, wird die Blockung komplett in den neuen Abschnitt übertragen.
 - Die systemweiten Einstellungen werden jetzt im Verzeichnis users\public\documents in der Datei 'einstellungen.ini' gespeichert. Vorhandene Einstellungen werden an diesen Ort übertragen.
 
-<a id="08.03.2013_(Kurs:_Version_3.12.27.261,_Noten:_Version_2.6.28.28)"></a>
-<a id="08.03.2013_.28Kurs:_Version_3.12.27.261.2C_Noten:_Version_2.6.28.28.29"></a>
-
 ## 08.03.2013 (Kurs: Version 3.12.27.261, Noten: Version 2.6.28.28)
 
 - In Kurs 42 konnte es beim Laden von Blockungen, die eine PNG-Graphik eingebunden hatten, zu einem Ladefehler kommen, nun behoben.
 
-<a id="05.03.2013_(Kurs:_Version_3.12.26.261,_Noten:_Version_2.6.28.28)"></a>
-<a id="05.03.2013_.28Kurs:_Version_3.12.26.261.2C_Noten:_Version_2.6.28.28.29"></a>
-
 ## 05.03.2013 (Kurs: Version 3.12.26.261, Noten: Version 2.6.28.28)
 
 - Kleinere Anpassungsarbeiten und Bugfixes
-
-<a id="01.02.2013_(Kurs:_Version_3.12.20.260,_Noten:_Version_2.6.28.28)"></a>
-<a id="01.02.2013_.28Kurs:_Version_3.12.20.260.2C_Noten:_Version_2.6.28.28.29"></a>
 
 ## 01.02.2013 (Kurs: Version 3.12.20.260, Noten: Version 2.6.28.28)
 
 - E-Mail-Versand (Gruppen-E-Mails) überarbeitet. Der Versand funktioniert jetzt mit Mapi (Standard-Mailclient) und Indy (direkter Versand)
 - Fehler in der Noteneingabe (Plausibilitätsprüfung der Fehlstunden) beseitigt..
 
-<a id="17.01.2013_(Kurs:_Version_3.12.18.260,_Noten:_Version_2.6.26.27)"></a>
-<a id="17.01.2013_.28Kurs:_Version_3.12.18.260.2C_Noten:_Version_2.6.26.27.29"></a>
-
 ## 17.01.2013 (Kurs: Version 3.12.18.260, Noten: Version 2.6.26.27)
 
 - Problem beim Export der Teilleistungen beseitigt.
 - Problem im Bereich der Klausurblockungen beseitigt.
 - Neue Funktion (Extras-\>Backup wiederherstellen): Hiermit kann eine der automatisch erzeugten Backup-Kopien wiederhergestellt werden.
-
-<a id="07.12.2012_(Kurs:_Version_3.12.15.260,_Noten:_Version_2.6.26.27)"></a>
-<a id="07.12.2012_.28Kurs:_Version_3.12.15.260.2C_Noten:_Version_2.6.26.27.29"></a>
 
 ## 07.12.2012 (Kurs: Version 3.12.15.260, Noten: Version 2.6.26.27)
 
@@ -1642,9 +1171,6 @@ Notenmobil=1
 - Beim Versand der Notendateien per Email wird, falls im Anwendungsverzeichnis des Benutzers (Users\Benutzername\Appdata\Roaming\Kurs 42) die Datei 'NotenBegleitText.txt' gefunden wird, der Inhalt dieser Datei als Mailbody verwendet.
 - Die Systemverzeichnisse können über Hilfe-\>Systemverzeichnisse angezeigt und mit dem Windows-Explorer auch direkt angesteuert werden.
 - Das Auswahlmenü für den Druck wurde verändert, so dass neben den drei Optionen 'Vorschau', 'Drucker' und 'Email' jetzt 'Report-Vorgabe' angeboten wird, so dass das Ausgabemedium gewählt werden kann, das in den Report-Eigenschaften als 'Devicetype' eingegtragen ist.
-
-<a id="18.09.2012_(Kurs:_Version_3.11.27.258,_Noten:_Version_2.6.23.27)"></a>
-<a id="18.09.2012_.28Kurs:_Version_3.11.27.258.2C_Noten:_Version_2.6.23.27.29"></a>
 
 ## 18.09.2012 (Kurs: Version 3.11.27.258, Noten: Version 2.6.23.27)
 
@@ -1667,25 +1193,16 @@ Notenmobil=1
 - Die Aufsichtsbelegung wurde dahingehend verändert, dass der Kurslehrer bei der Festlegung der Klausurtermine nur dann als Aufsichtslehrer eingetragen wird, wenn er am Klausurtermin in den betroffenen Stunden tatsächlich Unterricht im Kurs hat, anderenfalls steht dort nur '=='. Die freien Aufsichten müssen dann natürlich im Termindialog oder extern festgelegt werden.
 - Der Dialog 'Fächer bearbeiten' wurde modifiziert, so dass, wenn Fächer von der linken Seite (SchILD-NRW 2) nach rechts (Blockung) gezogen werden, geprüft wird, ob es bereits ein Fach mit gleicher ID-Nummer in der Blockung gibt. Nach Rückfrage kann das existierende Fach (Kürzel, Bezeichnung, Fachgruppe) überschrieben werden.
 
-<a id="21.07.2012_(Kurs:_Version_3.11.16.258,_Noten:_Version_2.6.23.27)"></a>
-<a id="21.07.2012_.28Kurs:_Version_3.11.16.258.2C_Noten:_Version_2.6.23.27.29"></a>
-
 ## 21.07.2012 (Kurs: Version 3.11.16.258, Noten: Version 2.6.23.27)
 
 - Der Datei-Öffnungsdialog für Unterberichte berücksichtigt jetzt auch die neue Dateiendung '\*.rtk'.
 - Beim E-Mail-Versand kann jetzt (Extras-\>Einstellungen-\>E-Mail) zwischen internen Routinen und dem Versand über den Standard-E-Mail-Client gewählt werden.
 - Beim wiederholten Export von Blockungen kam es zu Schutzverletzungen, nun behoben.
 
-<a id="17.06.2012_(Kurs:_Version_3.11.11.258,_Noten:_Version_2.6.23.27)"></a>
-<a id="17.06.2012_.28Kurs:_Version_3.11.11.258.2C_Noten:_Version_2.6.23.27.29"></a>
-
 ## 17.06.2012 (Kurs: Version 3.11.11.258, Noten: Version 2.6.23.27)
 
 - Der Notenimport wurde überarbeitet. "Umwahlen" (Änderung der Kursart) finden nicht mehr (oder nur auf Wusch) statt.
 - Der Speicherort für die Einstellungen (bei der Speicherung in Ini-Dateien) wurde geändert. Die persönlichen Einstellungen speichert Kurs 42 jetzt in c:\Users\BenutzerLoginName\AppData\Roaming\Kurs 42\Einstellungen.ini und die globalen Einstellungen in c:\ProgramData\Kurs 42\Einstellungen.ini. Die bisherigen Einstellungen können durch umkopieren der bisherigen Ini-Dateien in diese Verzeichnisse (und Umbenennung) übernommen werden.
-
-<a id="03.05.2012_(Kurs:_Version_3.11.8.258,_Noten:_Version_2.6.23.27)"></a>
-<a id="03.05.2012_.28Kurs:_Version_3.11.8.258.2C_Noten:_Version_2.6.23.27.29"></a>
 
 ## 03.05.2012 (Kurs: Version 3.11.8.258, Noten: Version 2.6.23.27)
 

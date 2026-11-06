@@ -2,14 +2,9 @@
 title: "Menüs und Zusatzfunktionen in S1Plan"
 ---
 
-<a id="s1plan-anhang"></a>
-
 # Menüs und Zusatzfunktionen in S1Plan
 
 Hier finden Sie ergänzende Erläuterungen zu den Menüs und Symbolen von S1Plan. Verwenden Sie diese Übersicht zum Nachschlagen, nachdem das Programm eingerichtet ist.
-
-<a id="MENÜPUNKT_DATEI"></a>
-<a id="MEN.C3.9CPUNKT_DATEI"></a>
 
 ## MENÜPUNKT DATEI
 
@@ -17,20 +12,11 @@ Hier finden Sie ergänzende Erläuterungen zu den Menüs und Symbolen von S1Plan
 
 Führen Sie den Mauszeiger über die verschiedenen Symbole. Die Bedeutungen werden jeweils in kleinen Erläuterungsfenstern dargestellt.
 
-<a id="ERZEUGUNG_VON_STEUERDATEIEN"></a>
-
 ## ERZEUGUNG VON STEUERDATEIEN
-
-<a id="DER_DRUCKDESIGNER"></a>
 
 ## DER DRUCKDESIGNER
 
-<a id="SONSTIGES"></a>
-
 ## SONSTIGES
-
-<a id="MENÜPUNKT_„ZUSÄTZE“"></a>
-<a id="MEN.C3.9CPUNKT_.E2.80.9EZUS.C3.84TZE.E2.80.9C"></a>
 
 ## MENÜPUNKT „ZUSÄTZE“
 

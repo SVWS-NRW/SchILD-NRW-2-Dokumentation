@@ -2,8 +2,6 @@
 title: "Einzelne Fächer löschen"
 ---
 
-<a id="einzelne-facher-bei-schulern-loschen"></a>
-
 # Einzelne Fächer löschen
 
 Dieser Gruppenprozess entfernt ausgewählte Fächer aus den Leistungsdaten mehrerer Personen. Kontrollieren Sie die Schülerauswahl und die betroffenen Fächer vor dem Löschen.

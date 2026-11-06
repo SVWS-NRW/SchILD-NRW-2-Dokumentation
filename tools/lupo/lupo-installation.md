@@ -2,8 +2,6 @@
 title: "LuPO bereitstellen und starten"
 ---
 
-<a id="lupo-installation"></a>
-
 # LuPO bereitstellen und starten
 
 Bei Lupo handelt es sich um ein Programm, welches auf einem Windows-Betriebssystem ausgeführt werden muss. Lupo benötigt keine Installation im eigentlichen Sinne. Sie können die Programmdatei in jedem beliebigen Ordner ausführen, solange sich der Unterordner „Vorlagen“ mit der Datendatei „vorlage.lpo“ im gleichen Verzeichnis befindet. Lupo kann gleichwohl auf einem USB-Stick gespeichert und auf jedem Windows-PC ausgeführt werden, auf einem PC installiert oder auf einem Server gespeichert und ausgeführt werden. Da es sich bei der LPO-Datei um eine Datenbank handelt, ist es zudem möglich, mit mehreren Beratungslehrerinnen und -lehrern gleichzeitig auf die Datei zuzugreifen. In der Praxis haben sich zwei typische Szenarien etabliert:
@@ -16,7 +14,7 @@ Die Programmdatei wird zusammen mit der Datendatei auf einem Server installiert.
 ***Nachteil:*** Eine Beratung kann nur an PCs im Netzwerk vorgenommen werden.
 
 :::danger
-Zitat Microsoft: „Wenn eine Datenbankdatei in einem Netzwerk freigegeben ist und mehrere Benutzer gleichzeitig direkt mit der Datei arbeiten, besteht für die Datei ein geringes Beschädigungsrisiko. Das Risiko einer Beschädigung ist etwas größer, wenn Benutzer häufig Daten in Memofeldern bearbeiten, und dieses Risiko wächst im Lauf der Zeit.“ Quelle: <a href="https://support.microsoft.com/de-de/office/verhindern-und-beheben-von-datenbankdateiproblemen-mithilfe-von-komprimieren-und-reparieren-6ee60f16-aed0-40ac-bf22-85fa9f4005b2#bm1_2" class="external free" rel="nofollow">https://support.microsoft.com/de-de/office/verhindern-und-beheben-von-datenbankdateiproblemen-mithilfe-von-komprimieren-und-reparieren-6ee60f16-aed0-40ac-bf22-85fa9f4005b2#bm1_2</a>.
+Zitat Microsoft: „Wenn eine Datenbankdatei in einem Netzwerk freigegeben ist und mehrere Benutzer gleichzeitig direkt mit der Datei arbeiten, besteht für die Datei ein geringes Beschädigungsrisiko. Das Risiko einer Beschädigung ist etwas größer, wenn Benutzer häufig Daten in Memofeldern bearbeiten, und dieses Risiko wächst im Lauf der Zeit.“ Quelle: [https://support.microsoft.com/de-de/office/verhindern-und-beheben-von-datenbankdateiproblemen-mithilfe-von-komprimieren-und-reparieren-6ee60f16-aed0-40ac-bf22-85fa9f4005b2#bm1_2](https://support.microsoft.com/de-de/office/verhindern-und-beheben-von-datenbankdateiproblemen-mithilfe-von-komprimieren-und-reparieren-6ee60f16-aed0-40ac-bf22-85fa9f4005b2#bm1_2).
 
 Bei den Lupo-Datenbankdateien handelt es sich um Access-Datenbanken. In Lupo werden mit jedem Klick Memofelder beschrieben. Das Risiko einer Beschädigung ist also erhöht. Es empfiehlt sich daher, eher dezentral zu arbeiten. Eine beschädigte Lupo-Datei kann in der Regel sehr schnell und verlustfrei von Ihrem Fachberater repariert werden.
 :::

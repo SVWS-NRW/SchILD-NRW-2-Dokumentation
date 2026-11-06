@@ -2,13 +2,9 @@
 title: "Daten als Text- oder Excel-Datei exportieren"
 ---
 
-<a id="export-in-text-excel-dateien"></a>
-
 # Daten als Text- oder Excel-Datei exportieren
 
 ![Datenexport_Excel](/bilder/schild2/import-export-statistik/datenexport-excel.jpg)
-
-<a id="exportieren"></a>
 
 Um SchILD-NRW 2-Daten in anderen Programmen weiter verwenden zu können (zum Beispiel Export für die Bundesjugendspiele) oder um Lehrern die Daten für ihre Klassen „Excel-fähig“ zur Verfügung stellen zu können, bietet SchILD-NRW 2 eine einfache Möglichkeit, diese Daten auf der Festplatte zu speichern.
 

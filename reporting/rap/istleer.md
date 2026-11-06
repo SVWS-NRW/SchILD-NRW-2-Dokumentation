@@ -4,11 +4,6 @@ title: "IstLeer"
 
 # IstLeer
 
-<a id="RAP-Funktion_&quot;IstLeer&quot;"></a>
-<a id="RAP-Funktion_.22IstLeer.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Prüft, ob das angegebene Feld einer Datenquelle leer ist. Das Ergebnis ist ein Wahrheitswert: `True` bedeutet hier „leer“.

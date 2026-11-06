@@ -16,8 +16,6 @@ Eine Anleitung zur Bedienung des Externen Notenprogramms für die Kollegen finde
 
 Im Folgenden wird nun beschrieben, wie der Export/Import in SchILD-NRW 2 funktioniert.
 
-<a id="Noten_Export"></a>
-
 ## Noten Export
 
 ![Notenexport1](/bilder/zeugnisse/vorbereitung/notenexport1.jpg)
@@ -72,8 +70,6 @@ Der E-Mail-Versand setzt voraus, dass die Mail-Einstellungen unter den [Programm
 Wenn man den Text in der Mail verändern will, der mit dem Versand der Notendateien gesendet wird, dann müssen Sie eine TXT-Datei mit dem Namen Notendateitext.txt im Installationsverzeichnis ablegen. Der darin enthaltene Text wird dann im Mailbody gesendet.
 
 Beispiel: [Mustertext zur Notendatei](/dateien/wiki/notendateitext-b8c20be9.txt)
-
-<a id="Noten_Import"></a>
 
 ## Noten Import
 

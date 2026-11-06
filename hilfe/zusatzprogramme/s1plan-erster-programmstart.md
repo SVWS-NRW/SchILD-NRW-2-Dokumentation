@@ -2,8 +2,6 @@
 title: "S1Plan erstmals starten"
 ---
 
-<a id="s1plan-erster-programmstart"></a>
-
 # S1Plan erstmals starten
 
 Nach der Erstinstallation erscheint beim Programmstart zunächst ein Hinweis-fenster für die Ersteinrichtung des Programms:

@@ -2,10 +2,6 @@
 title: "Mündliche Prüfungen in den Abiturfächern festlegen"
 ---
 
-<a id="mundliche-prufungen-a1-a3-festlegen"></a>
-
-<a id="mdl-prufungen-a1-a3-festlegen"></a>
-
 # Mündliche Prüfungen in den Abiturfächern festlegen
 
 Dieser Gruppenprozess sollte erst durchgeführt werden, wenn die Ergebnisse in den ersten drei Abiturfächern ( mithilfe des Gruppenprozesses [Abiturprüfungsergebnisse eingeben](/zeugnisse/sekundarstufen/pruefungsergebnisse-eingeben)) eingegeben wurden.

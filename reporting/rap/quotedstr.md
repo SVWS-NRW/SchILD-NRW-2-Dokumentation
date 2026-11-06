@@ -4,11 +4,6 @@ title: "QuotedStr"
 
 # QuotedStr
 
-<a id="RAP-Funktion_&quot;QuotedStr&quot;"></a>
-<a id="RAP-Funktion_.22QuotedStr.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 schließt den String Value in Delphi-Hochkommata ein

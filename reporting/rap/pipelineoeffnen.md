@@ -4,11 +4,6 @@ title: "PipelineOeffnen"
 
 # PipelineOeffnen
 
-<a id="RAP-Funktion_&quot;PipelineOeffnen&quot;"></a>
-<a id="RAP-Funktion_.22PipelineOeffnen.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Öffnet die angegebene Datenquelle für den Report. Der Name der Datenquelle wird als Text übergeben.

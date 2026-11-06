@@ -2,8 +2,6 @@
 title: "Fehlstundensummen automatisch berechnen"
 ---
 
-<a id="fehlstunden-summen-automatisch-berechnen"></a>
-
 # Fehlstundensummen automatisch berechnen
 
 Dieser Gruppenprozess berechnet bei Aktivierung automatisch die Gesamtfehlstunden bei der ausgewählten Schülergruppe. Dabei werden vorhandene Einträge überschrieben.

@@ -4,11 +4,6 @@ title: "SelectAdressName"
 
 # SelectAdressName
 
-<a id="RAP-Funktion_&quot;SelectAdressName&quot;"></a>
-<a id="RAP-Funktion_.22SelectAdressName.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Diese Funktion bietet alle im Feld „Name“ der „Allgemeinen Adressen“ gefundenen

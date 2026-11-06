@@ -2,8 +2,6 @@
 title: "Nachrichten mit SchILDChat austauschen"
 ---
 
-<a id="schildchat-exe"></a>
-
 # Nachrichten mit SchILDChat austauschen
 
 Das Chatmodul SchildChat.exe wird ab der SchILD-NRW 2-Version 2.0.14.2 unterstützt. Das Programm wird in den kommenden Versionen mit dem Update-Setup ausgeliefert und liegt im Programmverzeichnis von SchILD-NRW 2.
@@ -18,13 +16,9 @@ Auf dem SchILD-NRW 2-Admin-Rechner startet das Modul dann mit folgendem Fenster:
 
 ![Chatmodul01](/bilder/tools/weitere/chatmodul01.jpg)
 
-<a id="Reiter_Client"></a>
-
 ## Reiter **Client**
 
 Dies ist das eigentliche Chatfenster, es können Nachrichten gesendet (auch vom Client aus, also einem "normalen" SchILD-NRW 2-Benutzer). Dies kann zum Beispiel dazu genutzt werden, wenn der Admin ein Update ankündigt, eine Nachricht zu senden, wenn das Herunterfahren noch verschoben werden soll.
-
-<a id="Reiter_Admin"></a>
 
 ## Reiter **Admin**
 
@@ -37,8 +31,6 @@ Im unteren Grid kann der Administrator sehen, welche Clients in SchILD-NRW 2 ang
 :::danger
 Bei Betätigung des Buttons wird SchILD-NRW 2 am Client **sofort** und ohne weitere Vorwarnung beendet!
 :::
-
-<a id="Reiter_Status"></a>
 
 ## Reiter **Status**
 

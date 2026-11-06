@@ -2,8 +2,6 @@
 title: "Benutzerrechte mit Useradmn verwalten"
 ---
 
-<a id="benutzerverwaltung-useradmn-exe"></a>
-
 # Benutzerrechte mit Useradmn verwalten
 
 Mit der externen Benutzerverwaltung legen Sie fest, wer sich an SchILD-NRW 2 anmelden darf und welche Aufgaben diese Person ausführen kann. Die Benutzerrechte werden im Programm auch „Kompetenzen“ genannt.

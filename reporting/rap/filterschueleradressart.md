@@ -4,11 +4,6 @@ title: "FilterSchuelerAdressArt"
 
 # FilterSchuelerAdressArt
 
-<a id="RAP-Funktion_&quot;FilterSchuelerAdressArt&quot;"></a>
-<a id="RAP-Funktion_.22FilterSchuelerAdressArt.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Filtert die Schüleradressen nach der angegebenen Adressart.

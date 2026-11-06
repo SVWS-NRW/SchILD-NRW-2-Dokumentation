@@ -4,11 +4,6 @@ title: "SetJgIntervall"
 
 # SetJgIntervall
 
-<a id="RAP-Funktion_&quot;SetJgIntervall&quot;"></a>
-<a id="RAP-Funktion_.22SetJgIntervall.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 ist veraltet. Statt dessen sollte SetJgIntervall_ASD benutzt werden.

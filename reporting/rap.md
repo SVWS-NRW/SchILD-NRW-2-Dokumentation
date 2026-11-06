@@ -2,11 +2,6 @@
 title: "RAP-Funktionsreferenz"
 ---
 
-<a id="rap-funktionen"></a>
-
-<a id="inhaltsverzeichnis-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z"></a>
-<a id="inhaltsverzeichnis-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z-1"></a>
-
 # RAP-Funktionsreferenz
 
 RAP ist die Programmiersprache für zusätzliche Berechnungen und Abläufe im Reportdesigner. Zum Auswählen und Drucken vorhandener Reports brauchen Sie diese Funktionen nicht. Die Referenz richtet sich an Personen, die Vorlagen programmieren oder vorhandenen Code nachvollziehen möchten.
@@ -32,8 +27,6 @@ RAP erweitert Reports mit Pascal-Funktionen und Prozeduren. Im Seitenmenü könn
 
 Verändern Sie zunächst eine Kopie des Reports. Prüfen Sie die Ausgabe mit passenden Beispieldaten; ein korrekt dargestellter Quelltext belegt noch keine erfolgreiche Ausführung im Reportdesigner.
 
-<a id="A"></a>
-
 ## A
 
 - [AlleFaecherLaden](/reporting/rap/allefaecherladen) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=AlleFaecherLaden&oldid=2671)
@@ -43,20 +36,14 @@ Verändern Sie zunächst eine Kopie des Reports. Prüfen Sie die Ausgabe mit pas
 - [AufFaecherFiltern](/reporting/rap/auffaecherfiltern) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=AufFaecherFiltern&oldid=4247)
 - [AufzaehlungRTF](/reporting/rap/aufzaehlungrtf) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=AufzaehlungRTF&oldid=2077)
 
-<a id="B"></a>
-
 ## B
 
 - [Bestaetigung](/reporting/rap/bestaetigung) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=Bestaetigung&oldid=28)
-
-<a id="C"></a>
 
 ## C
 
 - [CreateNotenHeader](/reporting/rap/createnotenheader) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=CreateNotenHeader&oldid=183)
 - [CreateNotenHeaderUS](/reporting/rap/createnotenheaderus) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=CreateNotenHeaderUS&oldid=35)
-
-<a id="D"></a>
 
 ## D
 
@@ -64,16 +51,12 @@ Verändern Sie zunächst eine Kopie des Reports. Prüfen Sie die Ausgabe mit pas
 - [Datenliste](/reporting/rap/datenliste) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datenliste&oldid=4250)
 - [DatensatzZeigerBewegen](/reporting/rap/datensatzzeigerbewegen) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=DatensatzZeigerBewegen&oldid=5690)
 
-<a id="E"></a>
-
 ## E
 
 - [EditRichText](/reporting/rap/editrichtext) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=EditRichText&oldid=36)
 - [EditRichTextEx](/reporting/rap/editrichtextex) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=EditRichTextEx&oldid=37)
 - [EditText](/reporting/rap/edittext) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=EditText&oldid=408)
 - [EinzelElement](/reporting/rap/einzelelement) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=EinzelElement&oldid=164)
-
-<a id="F"></a>
 
 ## F
 
@@ -92,8 +75,6 @@ Verändern Sie zunächst eine Kopie des Reports. Prüfen Sie die Ausgabe mit pas
 - [FilterSchuelerAdressArt](/reporting/rap/filterschueleradressart) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=FilterSchuelerAdressArt&oldid=50)
 - [FormatRTF](/reporting/rap/formatrtf) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=FormatRTF&oldid=51)
 
-<a id="G"></a>
-
 ## G
 
 - [GeRNiveauAusFachKrz](/reporting/rap/gerniveauausfachkrz) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=GeRNiveauAusFachKrz&oldid=2720)
@@ -102,31 +83,19 @@ Verändern Sie zunächst eine Kopie des Reports. Prüfen Sie die Ausgabe mit pas
 - [GetSqlText](/reporting/rap/getsqltext) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=GetSqlText&oldid=54)
 - [GruppenDesBenutzers](/reporting/rap/gruppendesbenutzers) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=GruppenDesBenutzers&oldid=55)
 
-<a id="H"></a>
-
-<a id="h"></a>
-
-<a id="I"></a>
-
 ## I
 
 - [IncFontSize](/reporting/rap/incfontsize) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=IncFontSize&oldid=56)
 - [IstInDerGruppe](/reporting/rap/istindergruppe) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=IstInDerGruppe&oldid=57)
 - [IstLeer](/reporting/rap/istleer) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=IstLeer&oldid=58)
 
-<a id="J"></a>
-
 ## J
 
 - [JahrgangsListe](/reporting/rap/jahrgangsliste) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=JahrgangsListe&oldid=59)
 
-<a id="K"></a>
-
 ## K
 
 - [KursBezIgnorieren](/reporting/rap/kursbezignorieren) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=KursBezIgnorieren&oldid=60)
-
-<a id="L"></a>
 
 ## L
 
@@ -143,15 +112,11 @@ Verändern Sie zunächst eine Kopie des Reports. Prüfen Sie die Ausgabe mit pas
 - [LongDayNames](/reporting/rap/longdaynames) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=LongDayNames&oldid=70)
 - [LookupSprachenfolge](/reporting/rap/lookupsprachenfolge) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=LookupSprachenfolge&oldid=71)
 
-<a id="M"></a>
-
 ## M
 
 - [Mehrfachauswahl](/reporting/rap/mehrfachauswahl) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=Mehrfachauswahl&oldid=1842)
 - [MehrfachauswahlEx](/reporting/rap/mehrfachauswahlex) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=MehrfachauswahlEx&oldid=5725)
 - [MitLernabschnitten](/reporting/rap/mitlernabschnitten) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=MitLernabschnitten&oldid=5723)
-
-<a id="N"></a>
 
 ## N
 
@@ -161,12 +126,6 @@ Verändern Sie zunächst eine Kopie des Reports. Prüfen Sie die Ausgabe mit pas
 - [NurFaecherMitNoten](/reporting/rap/nurfaechermitnoten) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=NurFaecherMitNoten&oldid=78)
 - [NurGewerteteAbschnitte](/reporting/rap/nurgewerteteabschnitte) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=NurGewerteteAbschnitte&oldid=185)
 
-<a id="O"></a>
-
-<a id="o"></a>
-
-<a id="P"></a>
-
 ## P
 
 - [PickDatum](/reporting/rap/pickdatum) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=PickDatum&oldid=79)
@@ -174,13 +133,9 @@ Verändern Sie zunächst eine Kopie des Reports. Prüfen Sie die Ausgabe mit pas
 - [PluginVersion](/reporting/rap/pluginversion) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=PluginVersion&oldid=160)
 - [Praktikumstage](/reporting/rap/praktikumstage) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=Praktikumstage&oldid=170)
 
-<a id="Q"></a>
-
 ## Q
 
 - [QuotedStr](/reporting/rap/quotedstr) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=QuotedStr&oldid=80)
-
-<a id="R"></a>
 
 ## R
 
@@ -195,8 +150,6 @@ Verändern Sie zunächst eine Kopie des Reports. Prüfen Sie die Ausgabe mit pas
 - [ResetFilterErzieherfunktion](/reporting/rap/resetfiltererzieherfunktion) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=ResetFilterErzieherfunktion&oldid=89)
 - [ResetFilterLaufbahnJahr](/reporting/rap/resetfilterlaufbahnjahr) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=ResetFilterLaufbahnJahr&oldid=90)
 - [RtfToPlaintext](/reporting/rap/rtftoplaintext) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=RtfToPlaintext&oldid=91)
-
-<a id="S"></a>
 
 ## S
 
@@ -235,27 +188,19 @@ Verändern Sie zunächst eine Kopie des Reports. Prüfen Sie die Ausgabe mit pas
 - [StringInput](/reporting/rap/stringinput) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=StringInput&oldid=125)
 - [SummeFehlstunden](/reporting/rap/summefehlstunden) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=SummeFehlstunden&oldid=126)
 
-<a id="T"></a>
-
 ## T
 
 - [Textbreite](/reporting/rap/textbreite) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=Textbreite&oldid=3668)
 - [ThemaProjektKurs](/reporting/rap/themaprojektkurs) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=ThemaProjektKurs&oldid=405)
-
-<a id="U"></a>
 
 ## U
 
 - [UebersichtsfachModus](/reporting/rap/uebersichtsfachmodus) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=UebersichtsfachModus&oldid=127)
 - [UeberspringeRecord](/reporting/rap/ueberspringerecord) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=UeberspringeRecord&oldid=2723)
 
-<a id="V"></a>
-
 ## V
 
 - [VerzeichnisseErzeugen](/reporting/rap/verzeichnisseerzeugen) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=VerzeichnisseErzeugen&oldid=129)
-
-<a id="W"></a>
 
 ## W
 
@@ -263,25 +208,11 @@ Verändern Sie zunächst eine Kopie des Reports. Prüfen Sie die Ausgabe mit pas
 - [WaehleDatumUndZeit](/reporting/rap/waehledatumundzeit) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=WaehleDatumUndZeit&oldid=132)
 - [Wiederholungen](/reporting/rap/wiederholungen) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=Wiederholungen&oldid=5721)
 
-<a id="X"></a>
-
-<a id="x"></a>
-
-<a id="Y"></a>
-
-<a id="y"></a>
-
-<a id="Z"></a>
-
 ## Z
 
 - [Zahlwort](/reporting/rap/zahlwort) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=Zahlwort&oldid=134)
 - [ZensurToStr](/reporting/rap/zensurtostr) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=ZensurToStr&oldid=135)
 - [ZeugnisDatenquellenOeffnen](/reporting/rap/zeugnisdatenquellenoeffnen) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=ZeugnisDatenquellenOeffnen&oldid=175)
 - [ZeugnisParameter](/reporting/rap/zeugnisparameter) · [Wiki-Quelle](https://wiki.svws.nrw.de/mediawiki/index.php?title=ZeugnisParameter&oldid=136)
-
-<a id="Inhaltsverzeichnis_A_B_C_D_E_F_G_H_I_J_K_L_M_N_O_P_Q_R_S_T_U_V_W_X_Y_Z"></a>
-
-<a id="Inhaltsverzeichnis_A_B_C_D_E_F_G_H_I_J_K_L_M_N_O_P_Q_R_S_T_U_V_W_X_Y_Z_2"></a>
 
 Quelle: [RAP-Funktionen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=RAP-Funktionen&oldid=5689)

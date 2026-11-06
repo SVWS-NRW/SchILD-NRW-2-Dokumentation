@@ -4,11 +4,6 @@ title: "NurFaecherMitNoten"
 
 # NurFaecherMitNoten
 
-<a id="RAP-Funktion_&quot;NurFaecherMitNoten&quot;"></a>
-<a id="RAP-Funktion_.22NurFaecherMitNoten.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Steuert, ob nur Leistungsdaten mit einer eingetragenen Note geladen werden.

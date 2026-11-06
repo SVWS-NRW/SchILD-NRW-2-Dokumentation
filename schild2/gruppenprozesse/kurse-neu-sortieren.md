@@ -2,8 +2,6 @@
 title: "Kurse sortieren"
 ---
 
-<a id="kurse-neu-sortieren"></a>
-
 # Kurse sortieren
 
 Hier aktualisieren Sie die Reihenfolge der Kurse nach den Vorgaben der Kursverwaltung. Die Funktion sortiert vorhandene Einträge; sie weist den Schülerinnen und Schülern keine neuen Kurse zu.

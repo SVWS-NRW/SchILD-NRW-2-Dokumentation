@@ -4,11 +4,6 @@ title: "GeschlechtToString"
 
 # GeschlechtToString
 
-<a id="RAP-Funktion_&quot;GeschlechtToString&quot;"></a>
-<a id="RAP-Funktion_.22GeschlechtToString.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Wählt abhängig von der übergebenen Geschlechtsangabe die männliche oder weibliche Textform aus.

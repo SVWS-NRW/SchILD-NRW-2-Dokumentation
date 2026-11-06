@@ -2,8 +2,6 @@
 title: "Schulpflicht zum Schuljahresende setzen"
 ---
 
-<a id="schulpflicht-autom-setzen-zum-sj-ende"></a>
-
 # Schulpflicht zum Schuljahresende setzen
 
 Dieser Gruppenprozess bearbeitet die Angaben zur Schulpflicht am Schuljahresende. Die beschriebenen Einstellungen betreffen vor allem die Sekundarstufe I.

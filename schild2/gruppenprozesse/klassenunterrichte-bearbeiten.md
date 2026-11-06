@@ -2,8 +2,6 @@
 title: "Klassenunterricht gruppenweise bearbeiten"
 ---
 
-<a id="klassenunterrichte-bearbeiten"></a>
-
 # Klassenunterricht gruppenweise bearbeiten
 
 Mit dem Aufruf des Gruppenprozesses "Klassenunterrichte bearbeiten" erscheint das Fenster "Nicht-kursgebundene Fächer bearbeiten".

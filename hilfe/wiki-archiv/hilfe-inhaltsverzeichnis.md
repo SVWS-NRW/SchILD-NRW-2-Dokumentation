@@ -2,16 +2,9 @@
 title: "Hilfe und Support finden"
 ---
 
-<a id="hilfe-inhaltsverzeichnis"></a>
-
 # Hilfe und Support finden
 
 Hier sind die im früheren Wiki beschriebenen Hilfe- und Supportwege zusammengefasst. Die Seite dient zur Orientierung; eingebundene ältere Kontakte und Verweise gehören zum übernommenen Ausgangstext.
-
-<a id="Wo_bekomme_ich_Hilfe_zu_Schild-NRW_?"></a>
-<a id="Wo_bekomme_ich_Hilfe_zu_Schild-NRW_.3F"></a>
-
-<a id="wo-bekomme-ich-hilfe-zu-schild-nrw"></a>
 
 ## Wo bekomme ich Hilfe zu SchILD-NRW 2 ?
 

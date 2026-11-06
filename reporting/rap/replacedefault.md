@@ -4,11 +4,6 @@ title: "ReplaceDefault"
 
 # ReplaceDefault
 
-<a id="RAP-Funktion_&quot;ReplaceDefault&quot;"></a>
-<a id="RAP-Funktion_.22ReplaceDefault.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Platzhalter              | Wird ersetzt durch

@@ -2,8 +2,6 @@
 title: "Datenbank aufräumen"
 ---
 
-<a id="aufraumen"></a>
-
 # Datenbank aufräumen
 
 Mit dieser Funktion bereinigen Sie nicht mehr benötigte Datenbankeinträge. Erstellen Sie vor der Bereinigung eine Datensicherung. Die folgenden Auswahlmöglichkeiten bestimmen, welche Daten entfernt werden.

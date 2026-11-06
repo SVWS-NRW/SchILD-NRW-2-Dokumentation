@@ -4,11 +4,6 @@ title: "ReplaceTextEx"
 
 # ReplaceTextEx
 
-<a id="RAP-Funktion_&quot;ReplaceTextEx&quot;"></a>
-<a id="RAP-Funktion_.22ReplaceTextEx.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Im Unterschied zu ReplaceText berücksichtigt ReplaceTextEx Groß- und Kleinschreibung.

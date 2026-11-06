@@ -2,8 +2,6 @@
 title: "Reports im Report-Explorer auswählen"
 ---
 
-<a id="reportexplorer-aufrufen"></a>
-
 # Reports im Report-Explorer auswählen
 
 Nach dem Aufruf des Report-Explorers öffnet sich ein neues Fenster mit der Ordnerstruktur, in der sich die verschiedenen Reports befinden. Diese Ordner entsprechen den Ordnern im Verzeichnis, in dem Sie SchILD-NRW 2 installiert haben.

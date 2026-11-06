@@ -4,11 +4,6 @@ title: "FileAge"
 
 # FileAge
 
-<a id="RAP-Funktion_&quot;FileAge&quot;"></a>
-<a id="RAP-Funktion_.22FileAge.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Ermittelt das Datum der angegebenen Datei.

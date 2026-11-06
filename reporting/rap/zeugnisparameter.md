@@ -4,11 +4,6 @@ title: "ZeugnisParameter"
 
 # ZeugnisParameter
 
-<a id="RAP-Funktion_&quot;ZeugnisParameter&quot;"></a>
-<a id="RAP-Funktion_.22ZeugnisParameter.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Fragt Angaben für Zeugnisse ab: den Wiederbeginn des Unterrichts sowie zwei Sprechtage mit ihren Zeitangaben.

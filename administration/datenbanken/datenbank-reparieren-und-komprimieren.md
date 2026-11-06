@@ -2,8 +2,6 @@
 title: "Access-Datenbank reparieren und komprimieren"
 ---
 
-<a id="datenbank-reparieren-und-komprimieren"></a>
-
 # Access-Datenbank reparieren und komprimieren
 
 Diese Funktion überprüft und komprimiert eine Access-Datenbank. „Komprimieren“ bedeutet hier, nicht mehr belegten Speicherplatz innerhalb der Datenbankdatei freizugeben. Die Funktion ist von einer Datensicherung zu unterscheiden.

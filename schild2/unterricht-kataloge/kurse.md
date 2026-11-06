@@ -20,9 +20,6 @@ Es stehen Ihnen ein Excel-Export dieser Tabelle und einige Aktualisierungsmögli
 
 Ergänzen Sie einen Kurs wie in allen Tabellen über das Pluszeichen.
 
-<a id="Verfügbare_Spalten"></a>
-<a id="Verf.C3.BCgbare_Spalten"></a>
-
 ## Verfügbare Spalten
 
 - Jahrgang
@@ -105,9 +102,6 @@ wenn das Kursfach eine andere Bezeichnung als das "normale" Fach haben
 
 Zeigt die Klassen an, in denen der Kurs belegt ist.\
 
-<a id="Optionen_über_die_rechte_Maustaste"></a>
-<a id="Optionen_.C3.BCber_die_rechte_Maustaste"></a>
-
 ## Optionen über die rechte Maustaste
 
 - Alles markieren
@@ -120,8 +114,6 @@ Löscht alle markierten Kurse.\
 Dieser Menüpunkt kann nützlich sein, wenn Sie zum Beispiel eine Blockung für alle Schüler eines Jahrgangs löschen wollen.\
 
 - Markierte Kurse kopieren
-
-<!-- -->
 
 - Kurse einfügen (in neuen Abschnitt)
 

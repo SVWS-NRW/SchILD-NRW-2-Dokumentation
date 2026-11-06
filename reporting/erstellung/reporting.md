@@ -2,8 +2,6 @@
 title: "Reporting im Überblick"
 ---
 
-<a id="reporting"></a>
-
 # Reporting im Überblick
 
 ![Drucken02](/bilder/reporting/erstellung/drucken02.png)
@@ -16,9 +14,6 @@ Die Datenformulare werden als RTM-Dateien auf dem Computer gespeichert und könn
 
 Wie diese Formulare erstellt werden, wo Sie gespeichert sein müssen und wie der Umgang mit solchen Reports geregelt wird, finden Sie unter dieser Rubrick.
 
-<a id="Reporting-Tutorials"></a>
-<a id="Reporting_Tutorials"></a>
-
 ## Reporting-Tutorials
 
 [Report-Explorer einrichten](/reporting/erstellung/einrichtung-des-report-explorers)
@@ -27,15 +22,11 @@ Wie diese Formulare erstellt werden, wo Sie gespeichert sein müssen und wie der
 
 [Reports per E-Mail versenden](/reporting/verwaltung/mailversand-aus-der-reporting)
 
-<a id="Beispielreports"></a>
-
 ## Beispielreports
 
 [Reports mit dem Reportbaukasten erstellen](/reporting/erstellung/reportbaukasten)
 
 [Beispiele aus der BASIC-Reportsammlung](/reporting/erstellung/ausgewaehlte-beispiele-aus-der-basic-sammlung)
-
-<a id="RAP-Funktionen"></a>
 
 ## RAP-Funktionen
 

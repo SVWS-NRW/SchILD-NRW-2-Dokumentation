@@ -4,11 +4,6 @@ title: "UeberspringeRecord"
 
 # UeberspringeRecord
 
-<a id="RAP-Funktion_&quot;UeberspringeRecord&quot;"></a>
-<a id="RAP-Funktion_.22UeberspringeRecord.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 überspringt einen Datensatz der Datenquelle

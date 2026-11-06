@@ -2,8 +2,6 @@
 title: "A12 Ausbildungsvorbereitung in Vollzeit"
 ---
 
-<a id="a12-ausbildungsvorbereitung-bs-1j-vz"></a>
-
 # A12 Ausbildungsvorbereitung in Vollzeit
 
 Diese Seite zeigt ein Bildbeispiel zur Abschlussberechnung für den im Titel genannten Bildungsgang. Vergleichen Sie die dargestellte Ansicht mit Ihrem Bildungsgang. Die Bedeutung des Karteireiters und die allgemeinen Arbeitsschritte erläutert [BK-Abschlussverfahren](/zeugnisse/berufskolleg/bk-abschluss?rubrik=schild2).

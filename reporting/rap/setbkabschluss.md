@@ -4,11 +4,6 @@ title: "SetBKAbschluss"
 
 # SetBKAbschluss
 
-<a id="RAP-Funktion_&quot;SetBKAbschluss&quot;"></a>
-<a id="RAP-Funktion_.22SetBKAbschluss.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Schaltet die für Abschlussreports am Berufskolleg benötigten Datenquellen ein oder aus.

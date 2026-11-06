@@ -2,8 +2,6 @@
 title: "Abiturjahr für die Statistik setzen"
 ---
 
-<a id="abitur-jahr-setzen-fur-statistik"></a>
-
 # Abiturjahr für die Statistik setzen
 
 Dieser Gruppenprozess bildet den Abschluss für die Berechnungen in SchILD-NRW 2 und setzt bei allen ausgewählten Schülern das Abitur-Jahr. Dies ist besonders für die Statistik und gegebenenfalls weiteren Datenaustausch wichtig, damit zum Beispiel die richtigen Ergebnisse für den Export der Abiturergebnisse zur Verfügung gestellt werden können.

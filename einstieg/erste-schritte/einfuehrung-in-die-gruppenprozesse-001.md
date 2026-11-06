@@ -2,8 +2,6 @@
 title: "Gruppenprozesse kennenlernen"
 ---
 
-<a id="einfuhrung-in-die-gruppenprozesse-001"></a>
-
 # Gruppenprozesse kennenlernen
 
 Dieses Tutorial soll einen Einblick in die Benutzung der sogenannten Gruppenprozesse liefern. Dazu wird an zwei Beispielen das Vorgehen zur Nutzung der Gruppenprozesse erläutert.
@@ -54,7 +52,7 @@ Problemstellung: Einzelne Schüler (aus verschiedenen Jahrgangsstufen) nehmen an
 **Zweites Beispiel zur Nutzung der Gruppenprozesse:**\
 Problemstellung: Einer gesamten Klasse sollen die Klassenart, die Klassen-Organisationsform und eine Prüfungsordnung zugewiesen werden.\
 
-1.  Wählen Sie die entsprechende Klasse mit dem [Schnellfilter](/einstieg/grundlagen/hauptfenster#Schnellfilter) aus.\
+1.  Wählen Sie die entsprechende Klasse mit dem [Schnellfilter](/einstieg/grundlagen/hauptfenster#schnellfilter) aus.\
 
     ![GruppenprozesseTut08](/bilder/einstieg/erste-schritte/gruppenprozessetut08.jpg)\
 

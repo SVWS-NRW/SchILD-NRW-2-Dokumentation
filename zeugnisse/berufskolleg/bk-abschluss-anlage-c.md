@@ -2,14 +2,9 @@
 title: "BK-Abschlüsse nach Anlage C"
 ---
 
-<a id="bk-abschluss-anlage-c"></a>
-
 # BK-Abschlüsse nach Anlage C
 
 Hier finden Sie die im ursprünglichen Wiki aufgeführten Bildungsgänge dieser Anlage. Wählen Sie den passenden Bildungsgang aus den verlinkten Einträgen. Die allgemeinen Erläuterungen stehen unter [BK-Abschlussverfahren](/zeugnisse/berufskolleg/bk-abschluss?rubrik=schild2).
-
-<a id="Bildungsgänge,_die_zu_einem_Berufsabschluss_nach_Landesrecht_und_zur_Fachhochschulreife_oder_zu_beruflichen_Kenntnissen_und_zur_Fachhochschulreife_führen"></a>
-<a id="Bildungsg.C3.A4nge.2C_die_zu_einem_Berufsabschluss_nach_Landesrecht_und_zur_Fachhochschulreife_oder_zu_beruflichen_Kenntnissen_und_zur_Fachhochschulreife_f.C3.BChren"></a>
 
 ## Bildungsgänge, die zu einem Berufsabschluss nach Landesrecht und zur Fachhochschulreife oder zu beruflichen Kenntnissen und zur Fachhochschulreife führen
 

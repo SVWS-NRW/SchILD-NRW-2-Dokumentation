@@ -4,11 +4,6 @@ title: "FileSaveDlg"
 
 # FileSaveDlg
 
-<a id="RAP-Funktion_&quot;FileSaveDlg&quot;"></a>
-<a id="RAP-Funktion_.22FileSaveDlg.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Öffnet einen Dialog zur Auswahl eines Speicherorts und Dateinamens. Bei einem Abbruch wird eine leere Zeichenkette zurückgegeben.

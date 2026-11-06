@@ -2,13 +2,9 @@
 title: "Individualdaten II"
 ---
 
-<a id="individual-daten-ii"></a>
-
 # Individualdaten II
 
 Auf dem Karteireiter *Individual-Daten II* werden die Daten zum **Migrationshintergrund**, zur **sonderpädagogischen Förderung** und zu den **besonderen Merkmalen** gespeichert.
-
-<a id="migrationshintergrund"></a>
 
 Die Verwaltung des Migrationshintergrundes für die Statistik kann auf zwei Arten geschehen. Stellen Sie unter [Programmeinstellungen](/administration/benutzer-einstellungen/programm-einstellungen) ein, welche Art Sie verwenden möchten.
 

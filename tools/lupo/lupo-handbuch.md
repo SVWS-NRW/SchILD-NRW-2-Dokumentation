@@ -6,8 +6,6 @@ title: "LuPO-Handbuch"
 
 Dieses Inhaltsverzeichnis führt durch das LuPO-Handbuch. Für die Arbeit im Programm folgen Sie den Kapiteln von der Installation über die Vorbereitung der Daten bis zur Beratung und Auswertung.
 
-<a id="Inhaltsangabe"></a>
-
 ## Inhaltsangabe
 
 - [Einleitung](/tools/lupo/lupo-einleitung)

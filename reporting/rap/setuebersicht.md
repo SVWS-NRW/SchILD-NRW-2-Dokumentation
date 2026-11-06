@@ -4,11 +4,6 @@ title: "SetUebersicht"
 
 # SetUebersicht
 
-<a id="RAP-Funktion_&quot;SetUebersicht&quot;"></a>
-<a id="RAP-Funktion_.22SetUebersicht.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Schaltet die Aufbereitung der Leistungsdaten für eine tabellarische Übersicht ein oder aus. Das berücksichtigte Jahrgangsintervall wird zuvor mit `SetJgIntervall` festgelegt.

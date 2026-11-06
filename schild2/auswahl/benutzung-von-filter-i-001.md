@@ -2,8 +2,6 @@
 title: "Schüler mit Filter I auswählen"
 ---
 
-<a id="benutzung-von-filter-i-001"></a>
-
 # Schüler mit Filter I auswählen
 
 Diese Anleitung zeigt drei Beispiele für **Filter I**. Beginnen Sie mit Beispiel 1. Danach können Sie Bedingungen zu Leistungsdaten und schließlich zu mehreren Datenbereichen kombinieren. Die [Bedienelemente von Filter I](/schild2/auswahl/filter-i?rubrik=schild2) sind in einem eigenen Artikel erklärt.

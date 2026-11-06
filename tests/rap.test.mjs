@@ -21,7 +21,8 @@ test('RAP-Einstieg und Seitenmenü erschließen alle 122 Funktionen alphabetisch
  assert.deepEqual(visit(menu.items).filter(n=>n.link).map(n=>n.link),links.map(x=>x[2]))
  const redirects=JSON.parse(fs.readFileSync('.vitepress/redirects.json','utf8'))
  assert.equal(redirects.find(n=>n.path==='reporting/rap/rap-funktionen.md').replacement,'/reporting/rap')
- for(const letter of 'ABCDEFGHIJKLMNOPQRSTUVWXYZ')assert(intro.includes(`id="${letter}"`))
+ for(const letter of 'ABCDEFGIJKLMNPQRSTUVWZ')assert(intro.includes(`## ${letter}
+`))
 })
 
 test('Alle RAP-Artikel folgen der SchILD3-Gliederung und bewahren Quellen sowie Rückweg',async()=>{
@@ -50,7 +51,7 @@ test('Alle RAP-Artikel folgen der SchILD3-Gliederung und bewahren Quellen sowie 
  const html=md.render(read('aufzaehlungrtf.md'))
  assert(html.includes('&lt;ul&gt;..&lt;/ul&gt;'),'RTF-Marken müssen als Text in der Tabelle bleiben')
  assert(!html.includes('<ul>..</ul>'))
- assert(read('anrede.md').includes('<a id="signatur"></a>'))
+ assert(read('anrede.md').includes('## Beschreibung'))
  assert(read('anrede.md').includes('Ergebnis: Sehr geehrter Herr Meier'))
  for(const snippet of ["CreateNotenHeader('D,E,M,F,L');","CreateNotenHeader( 'D,M,E*' );","CreateNotenHeader( 'D,M,E#' );"])
   assert(read('createnotenheader.md').includes(snippet))

@@ -2,16 +2,9 @@
 title: "Erste Schritte mit LuPO"
 ---
 
-<a id="lupo-erste-schritte-in-lupo"></a>
-
 # Erste Schritte mit LuPO
 
 Die ersten Schritte in Lupo hängen davon ab, ob Sie mit Hilfe von SchILD-NRW 2 direkt eine Lupo-Datei erstellt haben, ob Sie Schnittstellen-Dateien für Lupo bereitgestellt haben oder ob Sie alle Eingaben in Lupo manuell durchführen wollen.
-
-<a id="Öffnen_einer_von_Schild-NRW_bereitgestellten_Lupo-Datei"></a>
-<a id=".C3.96ffnen_einer_von_Schild-NRW_bereitgestellten_Lupo-Datei"></a>
-
-<a id="offnen-einer-von-schild-nrw-bereitgestellten-lupo-datei"></a>
 
 ## Öffnen einer von SchILD-NRW 2 bereitgestellten Lupo-Datei
 
@@ -29,8 +22,6 @@ Sie haben die Möglichkeit, den Schülerinnen und Schülern Ihrer Schule individ
 
 Wenn Sie das Fenster "Ersteinrichtung" verlassen, werden Sie vom Programm automatisch zu den "Grundeinstellungen" weitergeleitet. Überprüfen Sie hier Ihre Schuldaten und nehmen Sie bei Bedarf Korrekturen vor.
 
-<a id="Neue_Beratungsdatei_anlegen"></a>
-
 ## Neue Beratungsdatei anlegen
 
 Die Kennwörter der einzelnen Benutzer können von jedem Benutzer geändert werden. Jeder Beratungslehrer fungiert somit als Administrator von Lupo. Öffnen Sie das Beratungsprogramm durch einen Doppelklick auf das Symbol und legen Sie eine neue Beratungsdatei an. Die Beratungsdatei sollte üblicherweise in demselben Ordner liegen, in dem sich auch der Ordner der Initial-Dateien befindet. Vergeben Sie einen Dateinamen und wählen Sie den Speicherpfad im entsprechenden Dialogfeld aus. Danach werden Sie aufgefordert, einen Benutzernamen, ein Kennwort und optional eine E-Mail-Adresse einzugeben. Die doppelte Kennworteingabe dient dazu, Tippfehler aufzudecken.
@@ -38,11 +29,6 @@ Die Kennwörter der einzelnen Benutzer können von jedem Benutzer geändert werd
 Über das Menü „Datenbearbeitung \> Beratungslehrer“ können Sie weitere Benutzer hinzufügen. Bei jeder Schülerin und jedem Schüler wird festgehalten, welcher Benutzer sie/ihn beraten hat. Diese Funktion steht auch zur Verfügung, wenn Sie mit mehreren Benutzern im Netzwerk auf eine Beratungsdatei zugreifen. Der Beratungslehrer wird beim Ausdruck der Beratungsbögen mit ausgegeben. Jedem Benutzer kann optional ein eigenes Kennwort zugeteilt werden. Jeder angemeldete Benutzer kann sein persönliches Kennwort jederzeit im Menü „Datei \> Kennwort ändern“ korrigieren, sofern er angemeldet ist.
 
 Eine einmal angelegte Beratungsdatei können Sie später jederzeit über das Menü „Datei \> Vorhandene Beratungsdatei öffnen“ laden, sofern Sie als Benutzer der Beratungsdatei eingerichtet sind und im Besitz des Kennworts sind.
-
-<a id="Import_der_Exportdateien_aus_SchILD-NRW_(Initial-Import)"></a>
-<a id="Import_der_Exportdateien_aus_SchILD-NRW_.28Initial-Import.29"></a>
-
-<a id="import-der-exportdateien-aus-schild-nrw-initial-import"></a>
 
 ## Import der Exportdateien aus SchILD-NRW 2 (Initial-Import)
 
@@ -54,12 +40,7 @@ Grundsätzlich ist es auch möglich, über das Import-Menü Initial-Dateien in m
 
 Es ist theoretisch auch möglich, alle benötigten Angaben ohne Initial-Import manuell einzugeben. Dies ist insbesondere für Schulen interessant, die keine Schulverwaltungssoftware besitzen. Es bietet sich dabei an, die benötigten Daten nicht einzeln einzutippen, sondern Listen eines Tabellenkalkulationsprogramms in das Importformat zu überführen. So können die Dateien „SchuelerBasisdaten.dat“, „SchuelerSprachenfolgen.dat“, „SchuelerZusatzdaten.dat“ und „Faecher.dat“ leicht erzeugt werden. Diese Dateien bilden die Grundlage für einen SchILD-NRW 2 unabhängigen Initial-Import. Der Aufbau der DAT-Textdateien wird in der [Dateien und Felder der Textschnittstelle](/schild2/import-export-statistik/schnittstellenbeschreibung) erläutert.
 
-<a id="Datenbearbeitung"></a>
-
 ## Datenbearbeitung
-
-<a id="Die_Schulform_entscheidet_über_den_verwendeten_Prüfalgorithmus"></a>
-<a id="Die_Schulform_entscheidet_.C3.BCber_den_verwendeten_Pr.C3.BCfalgorithmus"></a>
 
 ### Die Schulform entscheidet über den verwendeten Prüfalgorithmus
 
@@ -74,9 +55,6 @@ LuPO erkennt beim Initial-Import bilinguale Sachfächer. Die Sprachen dieser Sac
 Für den Ausdruck der einzelnen Beratungsbögen werden das Beratungshalbjahr (EF.1, EF.2, Q1.1, Q1.2, Q2.1, Q2.2) und der Schulnamen herangezogen. Sie haben zudem die Möglichkeit, den Text im Kopf des Beratungsbogens und das Anschreiben in der E-Mail zu ändern.
 
 Mit dem Auswahlfeld „Im Beratungsbogen alle Fächer ausgeben“ können Sie festlegen, ob im Beratungsbogen nur die gewählten Fächer oder ob auch die nicht gewählten Fächer erscheinen sollen. Während in der ersten Variante der Beratungsbogen übersichtlicher aussieht, können bei der zweiten Variante leichter Umwahlen in den Bogen eingetragen werden.
-
-<a id="Schüler"></a>
-<a id="Sch.C3.BCler"></a>
 
 ### Schüler
 
@@ -94,16 +72,13 @@ Für Schülerinnen und Schüler, die zum Zeitpunkt der Beratung ein Sport-Langze
 
 In diesem Dialog können Sie ebenfalls Schülergruppen filtern und die gefilterte Gruppe in einer Liste ausdrucken.
 
-<a id="Fächerdialog_für_Gymnasien_und_Gesamtschulen"></a>
-<a id="F.C3.A4cherdialog_f.C3.BCr_Gymnasien_und_Gesamtschulen"></a>
-
 ### Fächerdialog für Gymnasien und Gesamtschulen
 
 ![Lupo_faecher_bearbeiten](/bilder/tools/lupo/lupo-faecher-bearbeiten.png)
 
 *Lupo-Dialog "Datenbearbeitung &gt; Fächer"*
 
-Im Dialog „Datenbearbeitung \> Fächer“ können Sie Fächer hinzufügen, entfernen und deaktivieren, Abiturfächer festsetzen, Unterrichtssprachen, Leitfächer und Fremdsprachenfächer einrichten sowie nicht mögliche Fächerkombinationen und Fächerprofile anlegen (siehe auch: [Vorbereitungen in SchILD-NRW 2 \> Unterrichtsfächer der Oberstufe festlegen und bearbeiten](/tools/lupo/lupo-vorbereitungen-in-schild-nrw#Unterrichtsf%C3%A4cher_der_Oberstufe_festlegen_und_bearbeiten)).
+Im Dialog „Datenbearbeitung \> Fächer“ können Sie Fächer hinzufügen, entfernen und deaktivieren, Abiturfächer festsetzen, Unterrichtssprachen, Leitfächer und Fremdsprachenfächer einrichten sowie nicht mögliche Fächerkombinationen und Fächerprofile anlegen (siehe auch: [Vorbereitungen in SchILD-NRW 2 \> Unterrichtsfächer der Oberstufe festlegen und bearbeiten](/tools/lupo/lupo-vorbereitungen-in-schild-nrw#unterrichtsfacher-der-oberstufe-festlegen-und-bearbeiten)).
 
 Sie können in diesem Dialog zu jeder Zeit Fachbezeichnungen oder fehlende Einträge korrigieren. Sollten Sie jedoch Fächer deaktivieren, so hat dies in der Regel auch Auswirkungen auf die Fachwahlen der Schülerinnen und Schüler, sofern das Fach bereits gewählt wurde. Sie können sich jedoch die Schülerinnen und Schüler mit Hilfe der Schaltfläche „Konflikte bei Schülern ermitteln“ ausgeben lassen, auf die die Änderung einen Einfluss genommen hat.
 
@@ -112,9 +87,6 @@ Deaktivieren Sie die Auswahlfelder von nicht mehr benötigten Fächern anstatt s
 Es stehen in diesem Dialog Kontrollkästchen bereit, mit welchen Sie das Angebot von Zusatzkursen an Ihrer Schule einstellen können. Zudem können Sie mit einem weiteren Kontrollkästchen festlegen, ob nur die fortgeführten Fremdsprachen gewählt werden dürfen, für die auch eine Sprachenfolge aus der Sekundarstufe I eingetragen wurde. Dies ist dann sinnvoll, wenn Sie die Sprachenfolgen gepflegt haben und den Schülern die Eingabe überlassen wollen. Auf diese Weise verhindern Sie fehlerhafte Wahlen durch die Schüler, andererseits schränken Sie jedoch die Eingabemöglichkeiten bei fehlender Sprachenfolge ein.
 
 Das Kontrollkästchen „Alle Feldinhalte anzeigen“ sollte nur im Notfall verwendet werden. In seltenen Fällen können fehlerhafte Eingaben durch den Benutzer zu fehlerhaften Initial-Dateien und damit zu unerwünschten Einstellungen im Fächerdialog führen (zum Beispiel die Möglichkeit zur Belegung von Literatur in EF.1). Mit Hilfe des Kontrollkästchens „Alle Feldinhalte anzeigen“ können ausgeblendete Kontrollkästchen der Fächer sichtbar gemacht werden.
-
-<a id="Fächerdialog_für_Weiterbildungskollegs"></a>
-<a id="F.C3.A4cherdialog_f.C3.BCr_Weiterbildungskollegs"></a>
 
 ### Fächerdialog für Weiterbildungskollegs
 

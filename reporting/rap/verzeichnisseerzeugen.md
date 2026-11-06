@@ -4,11 +4,6 @@ title: "VerzeichnisseErzeugen"
 
 # VerzeichnisseErzeugen
 
-<a id="RAP-Funktion_&quot;VerzeichnisseErzeugen&quot;"></a>
-<a id="RAP-Funktion_.22VerzeichnisseErzeugen.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 VerzeichnisseErzeugen erstellt das in 'aVerzeichnis' vollständig angegebene Verzeichnis.

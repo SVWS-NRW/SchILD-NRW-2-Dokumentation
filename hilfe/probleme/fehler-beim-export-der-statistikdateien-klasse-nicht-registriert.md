@@ -2,13 +2,9 @@
 title: "Statistik-DLL registrieren"
 ---
 
-<a id="fehler-beim-export-der-statistikdateien-klasse-nicht-registriert"></a>
-
 # Statistik-DLL registrieren
 
 Diese Anleitung behandelt die Fehlermeldung **Klasse nicht registriert** beim Statistikexport. Ursache kann eine auf dem Arbeitsplatz nicht registrierte Statistik-DLL sein. Eine DLL ist eine Programmbibliothek, die SchILD-NRW 2 für diesen Export verwendet.
-
-<a id="Registrierung_per_Klick"></a>
 
 ## Registrierung per Klick
 
@@ -26,15 +22,11 @@ Gehen Sie dann unter "Schulverwaltung \> Statistik / amtliche Schuldaten \> Hilf
 
 Durch Betätigen der Schaltfläche wird ein Programm mit dem Namen "statistik_dlls_regiestrieren.exe" ausgeführt. Dieses registriert die Fehlenden Statistikkomponenten im Betriebssystem. Das Programm befindet sich im SchILD-NRW 2 Installationsverzeicnis und kann auch manuell als Administrator gestartet werden. Beim manuellen Start müssen Sie darauf achten, dass der korrekte Serverpfad zur SchILD-NRW 2-Installation angegeben wird!
 
-<a id="Anleitung_als_Video-Tutorial"></a>
-
 ## Anleitung als Video-Tutorial
 
 Ein Video-Tutorial gibt es hier:
 
 [Video ansehen](https://www.youtube-nocookie.com/embed/x0I1M7M5EMM)
-
-<a id="Manuelle_Registrierung_durch_Administratoren"></a>
 
 ## Manuelle Registrierung durch Administratoren
 

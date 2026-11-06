@@ -4,11 +4,6 @@ title: "SortierungVon"
 
 # SortierungVon
 
-<a id="RAP-Funktion_&quot;SortierungVon&quot;"></a>
-<a id="RAP-Funktion_.22SortierungVon.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Liefert die Sortierfelder der angegebenen Datenquelle als Liste zurück.

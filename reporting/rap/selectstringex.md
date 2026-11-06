@@ -4,11 +4,6 @@ title: "SelectStringEx"
 
 # SelectStringEx
 
-<a id="RAP-Funktion_&quot;SelectStringEx&quot;"></a>
-<a id="RAP-Funktion_.22SelectStringEx.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Zeigt eine Auswahlliste an und liefert den gewählten Eintrag zurück. Das Trennzeichen zwischen den vorgegebenen Einträgen können Sie selbst festlegen.

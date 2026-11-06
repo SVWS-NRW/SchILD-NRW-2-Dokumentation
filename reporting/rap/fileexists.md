@@ -4,11 +4,6 @@ title: "FileExists"
 
 # FileExists
 
-<a id="RAP-Funktion_&quot;FileExists&quot;"></a>
-<a id="RAP-Funktion_.22FileExists.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Prüft, ob die angegebene Datei vorhanden ist.

@@ -4,11 +4,6 @@ title: "SelectString"
 
 # SelectString
 
-<a id="RAP-Funktion_&quot;SelectString&quot;"></a>
-<a id="RAP-Funktion_.22SelectString.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Zeigt eine Auswahlliste mit vorgegebenen Texten an und liefert den gewählten Eintrag zurück. Die Einträge werden als durch Kommas getrennte Liste übergeben.

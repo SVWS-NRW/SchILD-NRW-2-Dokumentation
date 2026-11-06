@@ -4,11 +4,6 @@ title: "LehrerAuswaehlen"
 
 # LehrerAuswaehlen
 
-<a id="RAP-Funktion_&quot;LehrerAuswaehlen&quot;"></a>
-<a id="RAP-Funktion_.22LehrerAuswaehlen.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Bisher wurde vor dem Druck eines Berichtes mit der Datenquelle

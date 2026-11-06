@@ -4,11 +4,6 @@ title: "LehrerKursartStatistikLaden"
 
 # LehrerKursartStatistikLaden
 
-<a id="RAP-Funktion_&quot;LehrerKursartStatistikLaden&quot;"></a>
-<a id="RAP-Funktion_.22LehrerKursartStatistikLaden.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Durch den Aufruf dieser Prozedur wird die Datenquelle

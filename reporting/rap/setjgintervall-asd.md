@@ -4,11 +4,6 @@ title: "SetJgIntervall ASD"
 
 # SetJgIntervall ASD
 
-<a id="RAP-Funktion_&quot;SetJgIntervall_ASD&quot;"></a>
-<a id="RAP-Funktion_.22SetJgIntervall_ASD.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Legt fest, für welche Jahrgänge eine Leistungsübersicht erzeugt werden soll. Die Jahrgänge werden als Liste übergeben.

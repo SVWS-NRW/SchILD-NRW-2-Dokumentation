@@ -2,8 +2,6 @@
 title: "Abiturzulassung berechnen"
 ---
 
-<a id="abitur-zulassung-berechnen"></a>
-
 # Abiturzulassung berechnen
 
 Mit diesem Gruppenprozess berechnen Sie die Abiturzulassung auf Grundlage der zuvor übernommenen Leistungsdaten und markierten Kurse. Er ist die dritte Stufe des hier beschriebenen Zulassungsablaufs.

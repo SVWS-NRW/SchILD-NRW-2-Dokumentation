@@ -4,11 +4,6 @@ title: "LoadFromFile"
 
 # LoadFromFile
 
-<a id="RAP-Funktion_&quot;LoadFromFile&quot;"></a>
-<a id="RAP-Funktion_.22LoadFromFile.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Liest den Inhalt einer Textdatei ein und gibt ihn als Text zurück. Übergeben Sie dazu den vollständigen Pfad und Dateinamen.

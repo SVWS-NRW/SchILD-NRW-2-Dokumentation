@@ -2,8 +2,6 @@
 title: "Zeugnisformulare importieren"
 ---
 
-<a id="import-der-zeugnisformulare-in-schild-nrw"></a>
-
 # Zeugnisformulare importieren
 
 Laden Sie sich das benötigte Paket mit Zeugnisformularen von der Homepage **[www.svws.nrw.de](http://www.svws.nrw.de)**.

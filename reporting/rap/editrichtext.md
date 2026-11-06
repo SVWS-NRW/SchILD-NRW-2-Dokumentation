@@ -4,11 +4,6 @@ title: "EditRichText"
 
 # EditRichText
 
-<a id="RAP-Funktion_&quot;EditRichText&quot;"></a>
-<a id="RAP-Funktion_.22EditRichText.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Öffnet einen Editor für formatierten Text und liefert den bearbeiteten Text zurück. Der Ausgangstext wird über den Parameter `Default` übergeben.

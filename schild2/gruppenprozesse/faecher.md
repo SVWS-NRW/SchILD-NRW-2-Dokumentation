@@ -2,8 +2,6 @@
 title: "Gruppenprozesse für Fächer"
 ---
 
-<a id="facher"></a>
-
 # Gruppenprozesse für Fächer
 
 Hier finden Sie Gruppenprozesse zum Zuweisen und Bearbeiten von Unterrichtsfächern. Beginnen Sie mit dem Hinzufügen oder Zuweisen von Fächern; Sortier-, Korrektur- und Löschfunktionen folgen danach.

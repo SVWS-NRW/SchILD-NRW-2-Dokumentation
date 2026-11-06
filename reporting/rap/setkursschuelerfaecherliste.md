@@ -4,11 +4,6 @@ title: "SetKursSchuelerFaecherListe"
 
 # SetKursSchuelerFaecherListe
 
-<a id="RAP-Funktion_&quot;SetKursSchuelerFaecherListe&quot;"></a>
-<a id="RAP-Funktion_.22SetKursSchuelerFaecherListe.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Übergibt eine durch Kommas getrennte Liste der gewünschten Fächer für die Kurs-Schüler-Fächerliste.

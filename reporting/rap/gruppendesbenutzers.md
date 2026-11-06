@@ -4,11 +4,6 @@ title: "GruppenDesBenutzers"
 
 # GruppenDesBenutzers
 
-<a id="RAP-Funktion_&quot;GruppenDesBenutzers&quot;"></a>
-<a id="RAP-Funktion_.22GruppenDesBenutzers.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Ermittelt die Benutzergruppen, denen ein Benutzer angehört

@@ -4,9 +4,6 @@ title: "CreateNotenHeaderUS"
 
 # CreateNotenHeaderUS
 
-<a id="RAP-Funktion_&quot;CreateNotenHeaderUS&quot;"></a>
-<a id="RAP-Funktion_.22CreateNotenHeaderUS.22"></a>
-
 ## Beschreibung
 
 US steht für unsortiert, das heißt der erzeugte Header entspricht der im

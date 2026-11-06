@@ -2,13 +2,9 @@
 title: "Das Programm im Überblick"
 ---
 
-<a id="schild-nrw-index"></a>
-
 # Das Programm im Überblick
 
 Hier lernen Sie die wichtigsten Bereiche von SchILD-NRW 2 kennen. Die Übersicht erklärt, wo Sie Schülerdaten, schulische Vorgaben und wiederkehrende Arbeitsabläufe finden. Für einzelne Aufgaben folgen Sie den verlinkten Anleitungen.
-
-<a id="Hauptfenster"></a>
 
 ## Hauptfenster
 
@@ -24,15 +20,9 @@ Links im Hauptfenster bestimmen Sie mit dem [Statusfilter](/schild2/auswahl/schn
 
 Eine ausführliche Beschreibung des Hauptfensters finden Sie im Artikel: **[Hauptfenster](/einstieg/grundlagen/hauptfenster)**
 
-<a id="Datei"></a>
-
-<a id="datei"></a>
-
 ## Datei-Menü
 
 Weitere Informationen finden Sie unter [Datei-Menü](/administration/datenbanken/datei).
-
-<a id="Schulverwaltung"></a>
 
 ## Schulverwaltung
 
@@ -44,8 +34,6 @@ So wird hier die Schule mit ihrem Namen und den Adressangaben hinterlegt. Außer
 
 Eine genaue Beschreibung finden Sie im Artikel: **[Schulverwaltung](/schild2/unterricht-kataloge/schulverwaltung)**
 
-<a id="Kataloge"></a>
-
 ## Kataloge
 
 ![Kataloge_01](/bilder/einstieg/grundlagen/kataloge-01.jpg)
@@ -53,10 +41,6 @@ Eine genaue Beschreibung finden Sie im Artikel: **[Schulverwaltung](/schild2/unt
 Das Programm SchILD-NRW 2 verwaltet die Schülerdaten in einer Datenbank mit festen Zuordnungen für die meisten Eintragungen. Aus diesem Grund können viele Werte nur aus Katalogen ausgewählt und nicht "eingetippt" werden.
 
 Dies hat den Vorteil, dass Benutzer nicht willkürlich in den Katalogen die Bezeichnungen auswählen können und die Eintragungen bei jedem Schüler gleich lauten. Welche Kataloge fest vorgegeben sind und welche Kataloge Sie bearbeiten können, entnehmen Sie bitte dem Artikel: **[Kataloge](/schild2/unterricht-kataloge/kataloge)**
-
-<a id="Auswahl"></a>
-
-<a id="auswahl"></a>
 
 ## Auswahlmenü
 
@@ -68,8 +52,6 @@ Dieses Menü beinhaltet die Programmpunkte, die es erlauben, die Menge der Schü
 
 Die vielfältigen Möglichkeiten zur Filterung finden Sie im Artikel: **[Menü Auswahl](/schild2/auswahl/auswahl)**
 
-<a id="Gruppenprozesse"></a>
-
 ## Gruppenprozesse
 
 ![Gruppenprozesse_01](/bilder/einstieg/grundlagen/gruppenprozesse-01.jpg)
@@ -79,10 +61,6 @@ Die [Gruppenprozesse](/schild2/gruppenprozesse/gruppenprozesse) stellen das wich
 Hier finden Sie eine Sammlung der häufigsten Tätigkeiten, die im Schulalltag an vielen Schülerdatensätzen gleichzeitig ausgeführt werden müssen. Grundsätzlich sind die [Gruppenprozesse](/schild2/gruppenprozesse/gruppenprozesse) nach Themengebieten sortiert und sollten immer dann aufgerufen werden, wenn Arbeiten anstehen, die mehr als einen Schüler betreffen.
 
 Weitere Informationen gibt es im Artikel: **[Gruppenprozesse](/schild2/gruppenprozesse/gruppenprozesse)**.
-
-<a id="Druckausgabe"></a>
-
-<a id="druckausgabe"></a>
 
 ## Druckfunktionen
 
@@ -98,8 +76,6 @@ Viele Informationen zum Thema **[Reporting im Überblick](/reporting/erstellung/
 
 Die Benutzung des Menüs **[Druckfunktionen und Reportausgabe](/reporting/verwaltung/druckausgabe)** wird in diesem Artikel erklärt.
 
-<a id="Datenaustausch"></a>
-
 ## Datenaustausch
 
 ![Datenaustausch_01](/bilder/einstieg/grundlagen/datenaustausch-01.jpg)
@@ -111,10 +87,6 @@ SchILD-NRW 2 versteht sich dabei als "offenes Programm", so dass Stundenplanprog
 Über die Textschnittstelle von SchILD-NRW 2 können fast alle Schülerdaten in einem festgelegten Schema importiert und exportiert werden.
 
 Nähere Informationen dazu im Artikel: **[Datenaustausch](/schild2/import-export-statistik/datenaustausch)**.
-
-<a id="Extras"></a>
-
-<a id="extras"></a>
 
 ## Extras-Menü
 
@@ -128,17 +100,11 @@ Dabei ist sicherlich der Menü-Punkt [Programmeinstellungen](/administration/ben
 
 Bitte beachten Sie, dass dieses Menü je nach Schulform und Einstellung anders aussehen kann.
 
-<a id="Datenschutzhinweis"></a>
-
 ## Datenschutzhinweis
 
 Unter diesem Menü-Punkt bekommen Sie lediglich noch einmal den Hinweis, der auch schon beim Start von SchILD-NRW 2 gezeigt wird.
 
 Hier finden Sie einen Verweis auf die VO-DVI und die VO-DVII, die die Richtlinien zur elektronischen Datenverarbeitung von Schülerdaten und Lehrerdaten regeln. Im Artikel: **[Datenschutzhinweis](/administration/benutzer-einstellungen/datenschutzhinweis)** finden Sie noch einige Informationen zu den Regelungen und einige zusätzliche Informationen, die für Datenschutzbeauftragte interessant sein könnten.
-
-<a id="Hilfe"></a>
-
-<a id="hilfe"></a>
 
 ## Programmhilfe
 
@@ -148,10 +114,6 @@ Zusätzlich finden Sie hier auch die automatische Updatefunktion.
 
 Alle Informationen befinden sich im Artikel: **[Hilfefunktionen im Programm](/hilfe/probleme/hilfe)**.
 
-<a id="Benutzer"></a>
-
-<a id="benutzer"></a>
-
 ## Angemeldete Benutzer
 
 Dieser Menü-Punkt steht Ihnen zur Verfügung, wenn die PlugIns zur Benutzerverwaltung oder Benutzeranzeige aktiviert sind. Wie diese Aktivierung funktioniert, finden Sie unter [Programmeinstellungen](/administration/benutzer-einstellungen/programm-einstellungen).
@@ -159,11 +121,6 @@ Dieser Menü-Punkt steht Ihnen zur Verfügung, wenn die PlugIns zur Benutzerverw
 In der Benutzerverwaltung stehen Ihnen viele Optionen zur Verfügung, wie Sie die angelegten Benutzer in SchILD-NRW 2 verwalten wollen.
 
 Eine genaue Beschreibung aller Optionen finden Sie im Artikel: **[Angemeldete Benutzer anzeigen](/administration/benutzer-einstellungen/benutzer)**.
-
-<a id="Zusatzprogramme_/_Tools"></a>
-<a id="Zusatzprogramme_.2F_Tools"></a>
-
-<a id="zusatzprogramme-tools"></a>
 
 ## Tool-Übersicht
 

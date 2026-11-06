@@ -2,8 +2,6 @@
 title: "Einen Kurs zuweisen"
 ---
 
-<a id="kurse-zuweisen-einzelkurs"></a>
-
 # Einen Kurs zuweisen
 
 Startet man den Gruppenprozess "Kurse zuweisen (Einzelkurs)", öffnet sich das Fenster "Gruppenweise Kurse zuweisen". Nachdem man den angezeigten Jahrgang und den Abschnitt kontrolliert beziehungsweise geändert hat, klicken Sie auf die Schaltfläche "Schülerdaten holen". Dadurch werden die im Container ausgewählten Schüler geladen und die Schaltfläche "Kurs auswählen" wird angezeigt.

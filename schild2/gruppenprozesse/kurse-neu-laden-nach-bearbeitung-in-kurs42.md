@@ -2,8 +2,6 @@
 title: "Kurse nach Änderungen in Kurs42 neu laden"
 ---
 
-<a id="kurse-neu-laden-nach-bearbeitung-in-kurs42"></a>
-
 # Kurse nach Änderungen in Kurs42 neu laden
 
 Bei der Arbeit mit der Kombination SchILD-NRW 2 und Kurs42 kann es vorkommen, dass ein Kurs42-Bearbeiter die Blockungsdaten eines Jahrgangs bei geöffneter SchILD-NRW 2-Datenbank in diese exportiert.

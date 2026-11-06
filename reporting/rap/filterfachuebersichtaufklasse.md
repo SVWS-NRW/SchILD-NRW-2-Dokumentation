@@ -4,9 +4,6 @@ title: "FilterFachUebersichtAufKlasse"
 
 # FilterFachUebersichtAufKlasse
 
-<a id="RAP-Funktion_&quot;FilterFachUebersichtAufKlasse&quot;"></a>
-<a id="RAP-Funktion_.22FilterFachUebersichtAufKlasse.22"></a>
-
 ## Beschreibung
 
 Mit dieser Prozedur kann bei einem Gruppenwechsel (wobei die Gruppierung auf

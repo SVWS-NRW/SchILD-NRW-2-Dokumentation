@@ -4,11 +4,6 @@ title: "Anrede"
 
 # Anrede
 
-<a id="RAP-Funktion_&quot;Anrede&quot;"></a>
-<a id="RAP-Funktion_.22Anrede.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Erzeugt aus den Namen, Titeln und Anreden die gemeinsame Anrede für die Erziehungsberechtigten.

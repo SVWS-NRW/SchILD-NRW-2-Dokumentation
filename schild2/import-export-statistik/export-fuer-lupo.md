@@ -2,15 +2,11 @@
 title: "Schülerdaten für LuPO exportieren"
 ---
 
-<a id="export-fur-lupo"></a>
-
 # Schülerdaten für LuPO exportieren
 
 Um eine Lupo-Datei für die Beratung der Oberstufenschüler zu erstellen, beachten Sie bitte folgende Hinweise:
 
 Filtern Sie bitte vor dem Export die Schülergruppe, für die Sie eine Lupo-Datei erstellen wollen. Für die Beratung der kommenden EF, also Jahrgang 09 oder 10 je nach Schulform. Sie können aber zum Beispiel auch für die laufende Q2 eine neue Lupo-Datei erstellen, die dann alle bisherigen Leistungsdaten enthält.
-
-<a id="Initial-Export"></a>
 
 ## Initial-Export
 
@@ -26,9 +22,6 @@ Nach dem Starten des Exports wird eine fertige Lupo-Datei mit der Endung \*.lup 
 
 Wenn Sie den Export in Schnittstellendateien gewählt haben, erzeugt SchILD-NRW 2 im Ausgabeordner zunächst Textdateien mit der Endung \*.dat im [Schnittstellenformat](/schild2/import-export-statistik/schnittstelle-schild-nrw). Diese können dann auch dazu benutzt werden (wie im Lupo-Handbuch beschrieben), in Lupo durch einen Initial-Import eine Datei zu erstellen. Dieser Weg ist aber nach der Einführung des Direkt-Exports nur noch für Fremdprogramme oder andere Import-/Exportzwecke wichtig.
 
-<a id="Nur_Schülerdaten_exportieren"></a>
-<a id="Nur_Sch.C3.BClerdaten_exportieren"></a>
-
 ## Nur Schülerdaten exportieren
 
 Hier können Sie einen Export-Ordner wählen und dann die Schülerdaten der gefilterten Schüler im [Schnittstellenformat](/schild2/import-export-statistik/schnittstelle-schild-nrw) exportieren.
@@ -36,9 +29,6 @@ Hier können Sie einen Export-Ordner wählen und dann die Schülerdaten der gefi
 ![LupoExport2](/bilder/schild2/import-export-statistik/lupoexport2.jpg)
 
 Diese Exportmöglichkeit ist geschaffen worden, um zum Beispiel Schüler, die später aufgenommen wurden, noch nachträglich in eine bestehende Lupo-Datei einfügen zu können.
-
-<a id="Nur_Fächerdaten_exportieren"></a>
-<a id="Nur_F.C3.A4cherdaten_exportieren"></a>
 
 ## Nur Fächerdaten exportieren
 

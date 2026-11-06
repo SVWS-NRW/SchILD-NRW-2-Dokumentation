@@ -2,8 +2,6 @@
 title: "Access-Probleme unter Windows Server 2012 beheben"
 ---
 
-<a id="access-datenbanken-und-windows-server-2012"></a>
-
 # Access-Probleme unter Windows Server 2012 beheben
 
 Diese historische Anleitung behandelt mögliche Schäden an gemeinsam genutzten Access-Datenbanken unter älteren Windows-Systemen. Die beschriebenen Änderungen betreffen die Dateiübertragung im Netzwerk und gehören zur technischen Betreuung der Installation.

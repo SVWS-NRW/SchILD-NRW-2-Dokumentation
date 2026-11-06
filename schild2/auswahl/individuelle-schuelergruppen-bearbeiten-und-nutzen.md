@@ -2,8 +2,6 @@
 title: "Mit eigenen Schülergruppen arbeiten"
 ---
 
-<a id="individuelle-schulergruppen-bearbeiten-und-nutzen"></a>
-
 # Mit eigenen Schülergruppen arbeiten
 
 Mit einer individuellen Schülergruppe können Gruppen definiert werden und somit unabhängig von den Zuordnungen in den Leistungsdaten (Klassen, Kurse, AGs, ZUV etc.) als Auswahl zur Verfügung stehen. Nützlich ist dies bei der Verwaltung von Gruppen für
@@ -11,9 +9,6 @@ Mit einer individuellen Schülergruppe können Gruppen definiert werden und somi
   - Austausch\
   - Sportteams\
   - Fachwahlen im Wahlpflichtbereich u.ä.\
-
-<a id="Definition_von_Schülergruppen"></a>
-<a id="Definition_von_Sch.C3.BClergruppen"></a>
 
 ## Definition von Schülergruppen
 
@@ -25,9 +20,6 @@ In SchILD-NRW 2: Auswahl / Individuelle Schülergruppe bearbeiten
 
 \+ = Datensatz einfügen - = Datensatz löschen
 
-<a id="Schüler_hinzufügen"></a>
-<a id="Sch.C3.BCler_hinzuf.C3.BCgen"></a>
-
 ## Schüler hinzufügen
 
 \- Schüler im Container auswählen (Häkchen setzen) - rMt / zu individueller Schülergruppe hinzufügen / Schülergruppe auswählen / Doppelklick
@@ -36,14 +28,9 @@ rMt im Container öffnet Auswahlmenü - Komplement zur Auswahl, nützlich zum Be
 
 ![ISG-003](/bilder/schild2/auswahl/isg-003.jpg) ![ISG-002](/bilder/schild2/auswahl/isg-002.jpg)
 
-<a id="Schüler_entfernen"></a>
-<a id="Sch.C3.BCler_entfernen"></a>
-
 ## Schüler entfernen
 
 Auswahl / Individuelle Schülergruppe bearbeiten / Schüler auswählen: Feld neben Namen markieren mit lMt oder STRG+lMt (Mehrfachauswahl)
-
-<a id="Nutzung"></a>
 
 ## Nutzung
 

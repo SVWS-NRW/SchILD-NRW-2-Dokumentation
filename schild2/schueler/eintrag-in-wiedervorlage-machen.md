@@ -2,8 +2,6 @@
 title: "Wiedervorlage für Schülergruppen anlegen"
 ---
 
-<a id="eintrag-in-wiedervorlage-machen"></a>
-
 # Wiedervorlage für Schülergruppen anlegen
 
 Mit einer Wiedervorlage halten Sie eine Aufgabe oder Erinnerung zu Schülerdatensätzen fest. Diese Anleitung beschreibt das Anlegen eines Eintrags für mehrere zuvor ausgewählte Personen.

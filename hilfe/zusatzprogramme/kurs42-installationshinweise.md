@@ -2,8 +2,6 @@
 title: "Kurs42 installieren und verbinden"
 ---
 
-<a id="kurs42-installationshinweise"></a>
-
 # Kurs42 installieren und verbinden
 
 Kurs42 ist ein Programm, das den Abteilungsleiterinnen und Oberstufenkoordinatoren die Kursplanung der Oberstufe ermöglichen soll. Darüber hinaus, kann Kurs42 selbstverständlich auch für SekI-Kurse verwendet werden.

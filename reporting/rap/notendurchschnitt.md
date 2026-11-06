@@ -4,11 +4,6 @@ title: "NotenDurchschnitt"
 
 # NotenDurchschnitt
 
-<a id="RAP-Funktion_&quot;NotenDurchschnitt&quot;"></a>
-<a id="RAP-Funktion_.22NotenDurchschnitt.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 var Beste, Schlechteste: Integer; var Schnitt: String);

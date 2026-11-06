@@ -2,8 +2,6 @@
 title: "UDL-Dateien auf 64-Bit-Systemen öffnen"
 ---
 
-<a id="udl-dateien-unter-64-bit"></a>
-
 # UDL-Dateien auf 64-Bit-Systemen öffnen
 
 Eine UDL-Datei beschreibt die Verbindung zu einer Datenbank. Diese Anleitung erläutert einen technischen Lösungsweg für den Zugriff auf 32-Bit-Datenbanktreiber unter einem 64-Bit-Windows. Er ist nur nötig, wenn Sie solche Verbindungsdateien bearbeiten müssen.

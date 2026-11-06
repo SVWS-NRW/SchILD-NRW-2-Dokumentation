@@ -4,11 +4,6 @@ title: "GetSqlText"
 
 # GetSqlText
 
-<a id="RAP-Funktion_&quot;GetSqlText&quot;"></a>
-<a id="RAP-Funktion_.22GetSqlText.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 liefert den Text der SQL-Abfrage, die der als Parameter übergebenen
