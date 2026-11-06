@@ -6,7 +6,7 @@ const links = [
   { text: 'Datenschutzerklärung', href: '/datenschutz.html' },
   { text: 'Barrierefreiheitserklärung', href: '/barrierefreiheit.html' },
   { text: 'Leichte Sprache', href: '/leichtesprache.html' },
-  { text: 'Lizenz', href: 'https://github.com/SVWS-NRW/SchILD-NRW-2-Dokumentation/blob/master/LICENSE' }
+  { text: 'Lizenz', href: '/LICENSE.html' }
 ]
 </script>
 
