@@ -36,10 +36,10 @@ export async function checkEditorialNavigation(page,base) {
  for(const [route,id] of [
   ['/einstieg/grundlagen.html','installation-vorbereiten'],
   ['/einstieg/grundlagen.html','im-programm-orientieren'],
-  ['/tools/lupo/lupo-der-beratungsprozess.html','fehlende-sus-anschreiben']
+  ['/tools/lupo/lupo-der-beratungsprozess.html','fehlende-schulerinnen-und-schuler-anschreiben']
  ]) {
   await page.goto(base+route+'#'+id,{waitUntil:'networkidle'})
-  assert.equal(await page.locator('[id="'+id+'"]').count(),1,'Alter Überschriftenlink bleibt erhalten: '+id)
+  assert.equal(await page.locator('[id="'+id+'"]').count(),1,'Markdown-Überschrift bleibt als Sprungziel erreichbar: '+id)
  }
  console.log('Lektorat: fünf neue Themenzweige, zusammenhängender Filter-I-Ablauf, RAP-Bereich und Begriffsübersicht geprüft.')
 }
