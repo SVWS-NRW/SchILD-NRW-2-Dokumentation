@@ -82,21 +82,15 @@ In einem ersten Beispiel wird davon ausgegangen, dass die Schule in der EF quasi
 - Kurs#E5-GK3#in Schiene#1
 - Kurs#SP-GK4#in Schiene#1
 
-<!-- -->
-
 - Kurs#D-GK2#in Schiene#2
 - Kurs#M-GK3#in Schiene#2
 - Kurs#E5-GK4#in Schiene#2
 - Kurs#SP-GK1#in Schiene#2
 
-<!-- -->
-
 - Kurs#D-GK3#in Schiene#3
 - Kurs#M-GK4#in Schiene#3
 - Kurs#E5-GK1#in Schiene#3
 - Kurs#SP-GK2#in Schiene#3
-
-<!-- -->
 
 - Kurs#D-GK4#in Schiene#4
 - Kurs#M-GK1#in Schiene#4

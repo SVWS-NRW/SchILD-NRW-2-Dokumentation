@@ -33,8 +33,6 @@ Es soll die Datei V4\[SCHULNUMMER\].\[JAHR\]X versendet werden. In der Praxis ka
 - die Programmdatei ASDPC32.exe
 - es wurde vergessen, die Datei anzuhängen
 
-<!-- -->
-
 - die Statistik wurde mit einer Vorjahresversion von ASDPC erstellt
 
 ### Keine Bestätigungsmail erhalten

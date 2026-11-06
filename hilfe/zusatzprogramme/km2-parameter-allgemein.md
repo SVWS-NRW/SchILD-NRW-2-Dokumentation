@@ -29,8 +29,6 @@ Zusätzlich werden im obigen Beispiel die Unterrichtsfächer KR, ER und PP in ei
 - Statt alle Fächer einzeln aufzulisten, lässt sich das Ersatzfach **\#WP** auch durch den Eintrag **WP1\*** als Ersatzfach vereinbaren ("\*" als *wildcard*).
 - KM2 fügt automatisch in der Beschreibungsspalte
 
-<!-- -->
-
 - entweder die SchILD-NRW 2-Langbezeichnung des Faches hinzu oder
 - das Wort "Ersatzfach" oder
 - das Wort "nicht definiert", wenn das eingegebene Unterrichtsfach nicht in der SchILD-NRW 2-Fachliste enthalten ist und es sich offensichtlich nicht um ein Ersatzfach handelt (kein vorgestelltes "#").
@@ -38,8 +36,6 @@ Zusätzlich werden im obigen Beispiel die Unterrichtsfächer KR, ER und PP in ei
 **(2)**: **Eingabehilfen:**
 
 - Neben der Liste mit den Fächern / Ersatzfächern stehen Ihnen vier "Schnellwahl-Button" zur Verfügung, um
-
-<!-- -->
 
 - Fächer aus der Liste der SchILD-NRW 2-Unterrichtsfächer zu übernehmen\
 

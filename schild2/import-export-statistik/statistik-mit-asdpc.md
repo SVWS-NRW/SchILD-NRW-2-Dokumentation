@@ -42,19 +42,11 @@ Bei der Arbeit mit dieser umfangreichen Anleitung kann es hilfreich sein, Links 
 
 - Das [SVWS-Forum](https://schulverwaltungsinfos.nrw.de/svws/forum/viewforum.php?f=22), um zu zu suchen, ob Ihre Frage oder das Problem schon beantwortet beziehungsweise gelöst wurde. Hier können Sie auch neue Fragen stellen, die von Fachberatern beantwortet werden.
 
-<!-- -->
-
 - Hier in diesem Wiki finden sich Kurzanleitungen und Tutorials, die eventuell Ihre Frage abdecken.
-
-<!-- -->
 
 - Weiterhin sind Schulen in NRW *Fachberater* zugeordnet, die Sie über die [Fachberatersuche](https://www.svws.nrw.de/service/fachberatersuche) unter Angabe Ihrer Schulnummer finden können. Versuchen Sie bitte zuerst eventuelle Fragen über die Supportangebote und/oder mit Ihrem Fachberater zu klären, bevor Sie sich direkt an IT.NRW wenden.
 
-<!-- -->
-
 - Kontakte zu IT.NRW für Fragen zu ASDPC32 und Inhalten der Statistik beziehungsweise zu technischem Support finden Sie im jährlichen Rundschreiben zur Haupterhebung von IT.NRW: ["Anschreiben zu ASDPC"](https://schulverwaltungsprogramme.msb.nrw.de/schulen/download.htm#D92). In diesem Anschreiben sind auch die Fachberater-Kontakte der Bezirksregierungen genannt, die für eventuelle Abgabetermine betreffende Anfragen zuständig sind.
-
-<!-- -->
 
 - Abschließend ist noch auf die [Fortbildungen](https://www.svws.nrw.de/service/fortbildungen) Ihrer Bezirksregierung zu verweisen, die im Vorfeld der Statisik angeboten werden.
 

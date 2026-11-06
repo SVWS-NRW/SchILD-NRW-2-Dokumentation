@@ -425,8 +425,6 @@ Ist das Datum neuer als bisher, wird eine rtf-Datei nachgeladen und in SchILD-NR
 - Es wurde unter den Daten zum Migrationshintergrund ein Merkmal "neu zugewandert" bereitgestellt. Dieses Merkmal kann im Zusammenhang mit dem Zuzugsjahr und der Staatsangehörigkeit genutzt werden, die aktuelle Lage abzubilden und Schülergruppen schnell zu filtern.
 - Die Auswahl Hilfe-\>Versionsgeschichte zeigen verweist auf den Wiki-Eintrag zur Versionsgeschichte.
 
-<!-- -->
-
 - Der Export für die Lernplattform IServ wurde überarbeitet. Es werden nun auch Team-Teacher exportiert. Probleme beim Schließen des Exportfensters wurden behoben.
 - Probleme bei der Auswahl mehrerer Einwilligungen unter dem Reiter „Lehrkräfte“ wurde behoben.
 - Benutzerdefinierte Sortierungs-Einstellung wurde bei einigen Katalogen wieder ergänzt.

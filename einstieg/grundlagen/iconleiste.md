@@ -15,8 +15,6 @@ Die Symbole bedeuten (von links nach rechts):
   - Gelb: Filter auf Klasse, Jahrgang...
   - Rot: benutzerdefinierter Filter
 
-<!-- -->
-
 - **Navigationsleiste**
   - Erster Datensatz
   - Vorheriger Datensatz
@@ -28,8 +26,6 @@ Die Symbole bedeuten (von links nach rechts):
   - Änderungen übernehmen
   - Bearbeitung abbrechen
   - Datenmenge aktualisieren
-
-<!-- -->
 
 - **Toolbuttons**
   - Schüler markieren

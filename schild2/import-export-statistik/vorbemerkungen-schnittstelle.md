@@ -30,11 +30,7 @@ Bei den einzelnen Spalten ist angegeben, ob diese leer sein dürfen. Dabei trete
 
 - Nein: Spalte darf nicht leer sein, das heißt muss einen (gültigen) Wert enthalten. Ein Eintrag wird aus datentechnischen Gründen benötigt.
 
-<!-- -->
-
 - (Ja): Spalte darf aus datentechnischen Gründen leer sein, für die Statistik-Erhebung wird aber unter Umständen ein entsprechender Eintrag in SchILD-NRW 2 benötigt. Wenn der Eintrag in der Import-Datei leer ist, muss er später in SchILD-NRW 2 nachgepflegt werden.
-
-<!-- -->
 
 - Ja: Spalte darf leer sein
 
@@ -42,11 +38,7 @@ Bei den einzelnen Spalten ist jeweils der erwartete Datentyp angegeben:
 
 - Text(n): Text mit einer maximalen Länge von n Zeichen (Beispiel: Text(20) bedeutet, dass der Spalteninhalt maximal 20 Zeichen umfassen darf)
 
-<!-- -->
-
 - Integer: Ganzzahl
-
-<!-- -->
 
 - Float: Gleitkommazahl (es kann entweder ein Komma oder ein Punkt als dezimales Trennzeichen verwendet werden)
 
@@ -54,19 +46,11 @@ Es ist nicht unbedingt notwendig, dass alle der nachfolgend beschriebenen Dateie
 
 - Die Basisdaten der Schüler, deren Lernabschnitts- und Leistungsdaten importiert werden sollen
 
-<!-- -->
-
 - Die Lehrkräfte, die als Klassen- oder Fachlehrer eingetragen sind
-
-<!-- -->
 
 - Die Fächer, auf die in den Leistungsdaten verwiesen wird
 
-<!-- -->
-
 - Die Kurse, auf die in den Leistungsdaten verwiesen wird
-
-<!-- -->
 
 - Die Jahrgänge und Klassen, auf die in den Lernabschnittsdaten verwiesen wird
 

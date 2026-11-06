@@ -25,8 +25,6 @@ Die Einstellungen für den Administrator gliedern sich in zwei Bereiche:
 
 - **(6)**: KM2 verwaltet den Benutzer "Administrator":
 
-<!-- -->
-
 - Benutzername: "Administrator"
 - Login-Name: "Admin"
 - Startpasswort "SchILD-NRW 2"

@@ -436,19 +436,13 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 
 - In den Schülerdatensatz wird jetzt auch die externeId-Nummer sus SchILD-NRW 2 importiert. Diese externe Id-Nummer wird in dem UNTIS-Export (gpu010) als "Fremdschlüssel (ab Version 2012) " exportiert.
 
-<!-- -->
-
 - Bei der Sortierung nach Fächern im Report-Auswahldialog für Kurse wird jetzt auch die Kursnummer berücksichtigt..
 
 ## 16.07.2020 (Kurs Version: 3.24.3.350, Noten: 2.10.2.50
 
 - Beim Neuanlegen von Kursen wurden geänderte Werte nicht übernommen, nun behoben.
 
-<!-- -->
-
 - Die Anonymisierung einer Blockung wurde nach Hinweisen von Anwendern überarbeitet
-
-<!-- -->
 
 - Überarbeitung des Importdialoges für SAT-Ergebnisse
 
@@ -460,15 +454,9 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 
 - Beim Import aus Textdateien wurden die Fachwahlen verdoppelt, nun behoben.
 
-<!-- -->
-
 - Vor dem Textdateiimport werden existierende Kurse gelöscht.
 
-<!-- -->
-
 - Gelegentlich wurden in den Fachwahlen der Schüler Fächerfälschlicherweise als Koop-Fächer gekennzeichnet. Dieser Fehlerwird durch "Extras-\>Spezial-Fehlerbereinigung" beseitigt.
-
-<!-- -->
 
 - In dieser Version wurde ein neuer, alternativer Blockungsalgorithmus(Dank an Herrn Bartsch!) implementiert. Dieser Algorithmus kannüber "Extras-\>Einstellungen-\>Blocken-\>Blockungsalgorithmus neu"aktiviert oder deaktiviert werden. Dieser Algorithmus sollte als Beta-Version betrachtet und behandelt werden.
 
@@ -491,36 +479,20 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 
 - Die Lockdateien werden beim Schließen einer Blockung gelöscht.
 
-<!-- -->
-
 - Die Blockungsdateien können jetzt optional verschlüsselt werden.
 - Eine existierende Blockung verschlüsseln:
 
-<!-- -->
-
 - die Option 'Blockungsdatei verschlüsseln' deaktivieren
-
-<!-- -->
 
 - Unverschlüsselte Blockung laden
 
-<!-- -->
-
 - die Option 'Blockungsdatei verschlüsseln' wieder aktivieren
-
-<!-- -->
 
 - die Datei speichern und dabei ein Passwort vergeben
 
-<!-- -->
-
 - Beim Textexport der Schülerwahlen werden jetzt auch die Teilleistungen ex- und importiert.
 
-<!-- -->
-
 - Noten: In der Schülersicht wurden die Fächer nicht angezeigt, nun behoben.
-
-<!-- -->
 
 - Noten: Die Schülerliste wird wieder gemäß der Vorgabe sortiert.
 
@@ -651,8 +623,6 @@ Fehler bei"Schüler mit DB-Zugriff bearbeiten", nun behoben
 ## 26.09.2018 (Kurs: Version 3.20.49.292)
 
 - Die Datenquelle für die Klausurtermine war fehlerhaft, nun behoben.
-
-<!-- -->
 
 - Im Stundenraster wurden Eintragungen gelöscht, nun behoben.
 
@@ -1013,11 +983,7 @@ Notenmobil=1
 
 - Textdatei-Import der Schüler um das Feld "E-Mail" ergänzt. Als Headerzeile wird
 
-<!-- -->
-
 - Name;Vorname;GebDat;Geschlecht;Status;Klasse;Jahrgang;Schulnummer;E-Mail
-
-<!-- -->
 
 - erwartet.
 

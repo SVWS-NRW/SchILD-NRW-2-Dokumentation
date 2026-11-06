@@ -115,8 +115,6 @@ Dieser Menüpunkt kann nützlich sein, wenn Sie zum Beispiel eine Block
 
 - Markierte Kurse kopieren
 
-<!-- -->
-
 - Kurse einfügen (in neuen Abschnitt)
 
 Nach dieser Funktion muss einmal der Button "Kurse neu laden" gedrückt werden. \

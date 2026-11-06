@@ -21,8 +21,6 @@ title: "Das Konferenzmodul KM2 kennenlernen"
 - Leistungsdatenänderungen können direkt in die SchILD-NRW 2-Datenbank zurückgeschrieben werden, wobei diese Änderungen gesondert protokolliert werden.
 - **KM²** implementiert ein zusätzliches Verfahren
 
-<!-- -->
-
 - zur Verwaltung von Bemerkungen zum "**Arbeits- und Sozialverhalten**".
 - zur Verwaltung von **fachbezogenen Kompetenzen**.
 
@@ -98,12 +96,8 @@ Bei der Installation des Programms (genauer beim ersten Aufruf von KM2) wird ein
 - Im Ordner **Bilder** legen Sie bitte alle Schüler-Bilddateien ab. Bilder von Schülern können beim Aufruf der Schülerlupe angezeigt werden.
 - Im Ordner **Ini** werden vom Programm erzeugte Konfigurationsdateien gespeichert
 
-<!-- -->
-
 - Die Datei **KM2_Admin.INI** enthält die SchILD-NRW 2-Verbindungsdaten in verschlüsselter Form
 - Alle anderen Dateien enthalten die Benutzerdaten (zum Beispiel enthält die Datei LEH_KM2.Ini die Konfigurationsparameter des (SchILD-NRW 2-)Benutzers LEH)
-
-<!-- -->
 
 - Der Ordner **Prot** enthält Protokolldaten im HTML-Format. Für jede Klasse wird eine Protokolldatei angelegt.
 - Der Ordner **Temp** wird temporär für Dateien benötigt, die vom Programm KM2 selbst erzeugt werden. Diese Dateien können nach Programmende wieder gelöscht werden.

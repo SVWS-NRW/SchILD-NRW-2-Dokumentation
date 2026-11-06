@@ -16,11 +16,7 @@ Erst danach werden die Gruppenprozesse für die ausgewählte Schülergruppe frei
 
 - Sie können Schüler im [Schülerliste](/einstieg/grundlagen/container) durch Doppelklick markieren und die Filterung vornehmen.
 
-<!-- -->
-
 - Schülergruppen können über den [Schnellfilter](/einstieg/grundlagen/hauptfenster#schnellfilter) ausgewählt werden.
-
-<!-- -->
 
 - Schülergruppen können über die Anwendung von [Filter I](/schild2/auswahl/filter-i) und [Filter II](/schild2/auswahl/filter-ii) ausgewählt werden.
 
@@ -32,19 +28,11 @@ In den folgenden Artikeln werden die Gruppenaktionen genauer beschrieben:
 
 - [Allgemeine Änderungen](/schild2/gruppenprozesse/allgemeines)
 
-<!-- -->
-
 - [Fachzuweisungen](/schild2/gruppenprozesse/faecher)
-
-<!-- -->
 
 - [Teilleistungen](/schild2/gruppenprozesse/teilleistungen)
 
-<!-- -->
-
 - [Noten- und Zeugnisprozesse](/zeugnisse/vorbereitung/noten-zeugnisvorbereitung)
-
-<!-- -->
 
 - [Lernabschnitte und Versetzung](/schild2/versetzung/lernabschnitte-versetzung)
 

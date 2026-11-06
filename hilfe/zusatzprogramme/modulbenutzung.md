@@ -24,8 +24,6 @@ Die Elemente im Einzelnen:
 - **(1)**: Die Namen des gerade markierten Schülers, des Faches, des Kurses und des Fachlehrers sind hervorgehoben.
 - **(2)**: Spaltenbeschriftungen:
 
-<!-- -->
-
 - Unterrichtsfächer
 - Ersatzfächer beginnen mit einem "#"
 
@@ -33,17 +31,11 @@ Hinweis: Kursbezeichnungen werden gekürzt, wenn die Kursbezeichnung die Bezeich
 
 - Zusatzinformationen (zum Beispiel)
 
-<!-- -->
-
 - Gesamtfehlstunden (FS-G) und davon unentschuldigt (FS-ue)
 - Durchschnittsnote (DS.)
 - Grundschulempfehlung (GS.)
 
-<!-- -->
-
 - siehe [Anzeige und Fächerauswahl](/hilfe/zusatzprogramme/km2-parameter-allgemein)
-
-<!-- -->
 
 - **(3)**: gewählte Klasse und Klassenlehrer
 - **(4)**: gewähltes Schuljahr und Lernabschnitt
@@ -54,8 +46,6 @@ Hinweis: Das aktuelle SchILD-NRW 2 Schuljahr und der aktuelle Lernabschnitt sind
 - **(6)**: Hauptmenü, mit dessen Hilfe alle Programmfunktionen aufgerufen werden können.
 - **(7)**: Gelbe Markierungen markieren die Daten eines Schülers beziehungsweise eines Faches.
 - **(8)**: Statuszeile (von links nach rechts):
-
-<!-- -->
 
 - gewählte Klasse
 - aktuelles Datum / Uhrzeit
@@ -122,8 +112,6 @@ Die Änderungen an den Leistungsdaten - sowohl Noten als auch Bemerkungstexte we
 
 - In der Datei **Prot.html** im Ordner \Prot werden alle Änderungen protokolliert.
 - In der Datei **KKK_Prot.html** (wobei KKK die jeweils aktive Klasse identifiziert, zum Beispiel 06a_Prot.html) werden alle Änderungen einer bestimmten Klasse dokumentiert.\
-
-<!-- -->
 
 -
 
