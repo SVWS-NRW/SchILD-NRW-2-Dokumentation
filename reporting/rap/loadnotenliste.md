@@ -4,11 +4,6 @@ title: "LoadNotenliste"
 
 # LoadNotenliste
 
-<a id="RAP-Funktion_&quot;LoadNotenliste&quot;"></a>
-<a id="RAP-Funktion_.22LoadNotenliste.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Die zu ladende Textdatei muss pro Zeile ein Paar der Form

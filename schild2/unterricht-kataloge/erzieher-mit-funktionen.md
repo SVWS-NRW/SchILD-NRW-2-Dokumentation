@@ -2,8 +2,6 @@
 title: "Elternfunktionen zuweisen"
 ---
 
-<a id="erzieher-mit-funktionen"></a>
-
 # Elternfunktionen zuweisen
 
 Zur einfacheren Verwaltung von Eltern, die eine Funktion übernommen haben, lassen sich bei den Erzieherdaten diese Funktionen hinterlegen.

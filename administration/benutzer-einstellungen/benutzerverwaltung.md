@@ -2,8 +2,6 @@
 title: "Benutzerrechte in KM2"
 ---
 
-<a id="benutzerverwaltung"></a>
-
 # Benutzerrechte in KM2
 
 Hier richten Sie Benutzerrechte für das Konferenzmodul KM2 ein. Unterscheiden Sie das Administratorkonto für die Einrichtung von den Konten, mit denen Lehrkräfte in einer Konferenz arbeiten.

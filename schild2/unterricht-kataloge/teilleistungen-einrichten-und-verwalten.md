@@ -6,9 +6,6 @@ title: "Teilleistungen einrichten und verwalten"
 
 Über die Teilleistungen können Sie zum Beispiel Klassenarbeits- oder Mitarbeitsnoten in SchILD-NRW 2 erfassen.
 
-<a id="Teilleistungsarten_einrichten_und_den_Kursarten_der_Fächer_zuweisen"></a>
-<a id="Teilleistungsarten_einrichten_und_den_Kursarten_der_F.C3.A4cher_zuweisen"></a>
-
 ## Teilleistungsarten einrichten und den Kursarten der Fächer zuweisen
 
 Die in diesem Abschnitt beschriebenen Vorbereitungsarbeiten müssen nur einmal in SchILD-NRW 2 durchgeführt werden.
@@ -23,14 +20,9 @@ Anschließend müssen Sie unter *Schulverwaltung-\>Unterrichtsfächer* für jede
 
 ![Tl2](/bilder/schild2/unterricht-kataloge/tl2.jpg)
 
-<a id="Teilleistungsarten_den_Schülern_zuweisen"></a>
-<a id="Teilleistungsarten_den_Sch.C3.BClern_zuweisen"></a>
-
 ## Teilleistungsarten den Schülern zuweisen
 
 Sobald zu Beginn eines Halbjahres allen Schülern ihr Unterricht zugewiesen wurde, können Sie allen Schülern über *Gruppenprozesse-\>Teilleistungen: Teilleistungsarten aus Vorlage zuweisen* die Teilleistungsarten zuweisen, die bei den Fächerdetails eingetragen wurden (siehe oben).
-
-<a id="Teilleistungsnoten_eingeben"></a>
 
 ## Teilleistungsnoten eingeben
 
@@ -45,8 +37,6 @@ Hier gibt man bei den *Auswahlkriterien* zunächst das Fach und die Teilleistung
 ![Tl5](/bilder/schild2/unterricht-kataloge/tl5.jpg)
 
 **Alternativ** können Sie die Teilleistungen auch über das **Externe Notenmodul** oder **SchildWeb** erfassen.
-
-<a id="Teilleistungen_ansehen_und_drucken"></a>
 
 ## Teilleistungen ansehen und drucken
 

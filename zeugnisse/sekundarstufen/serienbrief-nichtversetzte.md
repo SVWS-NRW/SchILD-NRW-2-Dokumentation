@@ -6,16 +6,11 @@ title: "Serienbriefe zur Nichtversetzung erstellen"
 
 Der *Serienbrief Nichtversetzte* ist dafür vorgesehen, dass Schülerinnen und Schüler vor den Sommerferien ein Anschreiben erhalten, welches über die Nichtversetzung und mögliche Nachprüfungsfächer informiert. Damit jede Schülerin und jeder Schüler das korrekte Anschreiben erhält, analysiert der Serienbrief die Schulform, die Gliederung, den Jahrgang, das Versetzungskürzel, die Wiederholung und die Verweildauer.
 
-<a id="Filtern_der_nichtversetzten_Schülerinnen_und_Schüler"></a>
-<a id="Filtern_der_nichtversetzten_Sch.C3.BClerinnen_und_Sch.C3.BCler"></a>
-
 ## Filtern der nichtversetzten Schülerinnen und Schüler
 
 Rufen Sie *Filter I ➜ Lernabschnitt / Leistungsdaten* auf. Wählen Sie dort die Versetzungsvermerke *Nichtversetzt* und *N.v., Nachprüfung möglich* auf. In manchen Fällen ist auch der Versetzungsvermerk *Abschluss* hinzuzunehmen.
 
 Es werden daraufhin alle Schülerinnen und Schüler gefiltert, die ein Anschreiben erhalten sollen.
-
-<a id="RTF-Anschreiben_anpassen"></a>
 
 ## RTF-Anschreiben anpassen
 
@@ -36,10 +31,6 @@ Im Ordner *Serienbriefe* finden sie den Unterordner *RTF-Serienbriefvorlagen ➜
 
 Jeder Brief kann inhaltlich in einem RTF-Editor (zum Beispiel WordPad) an die eigenen Bedürfnisse angepasst werden. Die RTF-Editoren unterscheiden sich teils deutlich in der Menge des RTF-Codes, der erzeugt wird. Es ist zu empfehlen, hier auf einen sparsamen RTF-Editoren zurückzugreifen. Sie können RTF-Dokumente auch im Reportdesigner öffnen, bearbeiten und speichern.
 
-<a id="Serienbrief_Nichtversetzte"></a>
-
-<a id="serienbrief-nichtversetzte-1"></a>
-
 ## Serienbrief Nichtversetzte
 
 ![Nichtversetzung_Beispiel](/bilder/zeugnisse/sekundarstufen/nichtversetzung-beispiel.png)
@@ -49,8 +40,6 @@ Jeder Brief kann inhaltlich in einem RTF-Editor (zum Beispiel WordPad) an die ei
 Wenn der Serienbrief aufgerufen wird, analysiert dieser schülerspezifisch die Bedingungen der Nichtversetzung und die Folgen. Anhand des Analyseergebnisses wird das passende RTF-Dokument aufgerufen. Enthält das Dokument Abfragefelder zur Text- oder Datumseingabe, so werden diese einmalig abgefragt. In den RTF-Dokumenten sind hierzu entsprechende Platzhalter zu setzen. Solange identische Platzhalter verwendet werden, erfolgt die Abfrage auch in anderen RTF-Dokumenten nicht erneut. Möchte man in anderen RTF-Dokumenten andere Text- oder Datumseingaben vornehmen, so sind dort Platzhalter zu verwenden, die sich unterscheiden. Als Beispiel sei hier eine Schule genannt, welche die schriftlichen Nachprüfungen der SI und der SII an unterschiedlichen Tagen plant. Hier kann in den RTF-Dokumenten der SI der Platzhalter `$Eingabe|Datum|GY-07-10-NP: schriftliches Nachprüfungsdatum$` und in RTF-Dokumenten der SII der Platzhalter `$Eingabe|Datum|GY-EF-NP: schriftliches Nachprüfungsdatum$` hinterlegt werden. In diesem Fall erfolgen zwei gesonderte Abfragen des Datums für die RTF-Dokumente, da sich die Platzhalter unterscheiden.
 
 Der Programmcode kann unter *Berechnungen* in der Ansicht *Verwendete Module* in der Prozedur *RtfNichtversetztAutomatischLaden* eingesehen werden. Der Code ist so strukturiert, dass individuelle Anpassungen leicht vorgenommen werden können. Hier können auch die Dateinamen der RTF-Dokumente definiert und sonderfälle hinterlegt werden.
-
-<a id="Weitere_Informationen"></a>
 
 ## Weitere Informationen
 

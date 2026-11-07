@@ -4,11 +4,6 @@ title: "Zahlwort"
 
 # Zahlwort
 
-<a id="RAP-Funktion_&quot;Zahlwort&quot;"></a>
-<a id="RAP-Funktion_.22Zahlwort.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Wandelt eine Zahl in ihre ausgeschriebene Textform um.

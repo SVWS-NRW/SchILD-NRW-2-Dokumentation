@@ -2,13 +2,9 @@
 title: "Schlüsselverwaltung in ASDPC"
 ---
 
-<a id="statistik-mit-asdpc-schluesselmanagement"></a>
-
 # Schlüsselverwaltung in ASDPC
 
 Für den geschützten Austausch der Statistikdateien werden Schlüsseldateien verwendet. Sie dienen der Ver- und Entschlüsselung der Dateien. Die folgenden Schritte erklären, welche Schlüssel Sie benötigen und wie Sie damit arbeiten.
-
-<a id="Allgemeine_Informationen"></a>
 
 ## Allgemeine Informationen
 
@@ -33,9 +29,6 @@ Der öffentliche Schlüssel wird standardmäßig im Verzeichnis \ASDPC32\ASD\SCH
 :::info
 Es empfiehlt sich, das Schlüsselpaar separat zum Beispiel auf einer externen Sicherungsfestplatte oder einem beschrifteten USB-Stick zu speichern und sicher, etwa im Tresor, zu lagern.
 :::
-
-<a id="Neu_Erzeugen,_Einlesen_und_Sichern_von_existierenden_Schlüsseln"></a>
-<a id="Neu_Erzeugen.2C_Einlesen_und_Sichern_von_existierenden_Schl.C3.BCsseln"></a>
 
 ## Neu Erzeugen, Einlesen und Sichern von existierenden Schlüsseln
 
@@ -78,9 +71,6 @@ Hier im Beispiel geht hervor, dass diese Schlüssel am 09.09.2021 um 10:55:53 er
 :::info
 Über "Extras" in der aktuellen Haupterhebung haben Sie auch in einem laufenden Schuljahr Zugriff auf die Funktion "dienstliche Dokumente bzw. Dateien entschlüsseln". Diese Funktion hat mit der amtlichen Schulstatistik nichts zu tun, sondern wird genutzt, um der Schule Dateien über den gesicherten Bereich des Bildungsportals zukommen zu lassen. In einem solchen Fall werden Sie per Email über das Vorliegen solcher Dateien informiert.
 :::
-
-<a id="Mögliche_Fehler_bei_Ver-_und_Entschlüsselung"></a>
-<a id="M.C3.B6gliche_Fehler_bei_Ver-_und_Entschl.C3.BCsselung"></a>
 
 ## Mögliche Fehler bei Ver- und Entschlüsselung
 

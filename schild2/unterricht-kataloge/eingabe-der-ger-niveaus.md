@@ -2,8 +2,6 @@
 title: "GeR-Niveaus erfassen"
 ---
 
-<a id="eingabe-der-ger-niveaus"></a>
-
 # GeR-Niveaus erfassen
 
 GeR bedeutet **Gemeinsamer europäischer Referenzrahmen für Sprachen**. Seine Niveaustufen beschreiben Sprachkenntnisse. Diese Anleitung erläutert die Eintragung in Verbindung mit der Sprachenfolge und die Verwendung in Abschlusszeugnissen.

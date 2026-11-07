@@ -2,8 +2,6 @@
 title: "Herkunft am Berufskolleg und Weiterbildungskolleg erfassen"
 ---
 
-<a id="eintragung-herkunft-am-bk-wbk"></a>
-
 # Herkunft am Berufskolleg und Weiterbildungskolleg erfassen
 
 Hier erfahren Sie, wie die Herkunft aus dem letzten Schuljahr am Berufskolleg und Weiterbildungskolleg eingetragen wird. Die Angaben werden auf **Schulbesuch** erfasst.

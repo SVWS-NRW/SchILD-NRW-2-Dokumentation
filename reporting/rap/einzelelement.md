@@ -4,9 +4,6 @@ title: "EinzelElement"
 
 # EinzelElement
 
-<a id="RAP-Funktion_&quot;EinzelElement&quot;"></a>
-<a id="RAP-Funktion_.22EinzelElement.22"></a>
-
 ## Beschreibung
 
 Liefert das Einzelelement an Position "position" aus dem durch das Trennzeichen

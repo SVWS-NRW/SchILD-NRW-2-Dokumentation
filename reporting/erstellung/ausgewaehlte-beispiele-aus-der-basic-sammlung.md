@@ -2,8 +2,6 @@
 title: "Beispiele aus der BASIC-Reportsammlung"
 ---
 
-<a id="ausgewahlte-beispiele-aus-der-basic-sammlung"></a>
-
 # Beispiele aus der BASIC-Reportsammlung
 
 Wenn Sie anfangen, mit dem Reportexplorer zu arbeiten, bietet es sich an, die BASIC-Reportsammlung \[[\[1\]](http://www.svws.nrw.de/index.php?id=schildformulare)\] herunterzuladen. Sie haben damit Beispiele aus den verschiedenen Anwendungsbereichen zur Verfügung, die Sie als Grundlage verwenden können.
@@ -11,9 +9,6 @@ Wenn Sie anfangen, mit dem Reportexplorer zu arbeiten, bietet es sich an, die BA
 Einzelne Reports aus der Sammlung werden in diesem Kapitel genauer vorgestellt.
 
 Vorausgesetzt ist, dass Sie die Reportsammlung im Ordner **SchILD-NRW 2-Reports** abgespeichert haben und die mitgelieferten Briefköpfe und -füße in den Ordner **Header_Footer**, der ein direkter Unterordner von SchILD-NRW 2-Reports sein muss, verschoben haben.
-
-<a id="DIN-Erzieherbrief_(Ordner:_A4_Mitteilungen)"></a>
-<a id="DIN-Erzieherbrief_.28Ordner:_A4_Mitteilungen.29"></a>
 
 ## DIN-Erzieherbrief (Ordner: A4_Mitteilungen)
 
@@ -55,9 +50,6 @@ Bestätigen Sie Ihre Eingabe mit *Anwenden*, Sie sehen dann, wie das RichText-Fe
 
 ![Erzieherbrief-10](/bilder/reporting/erstellung/erzieherbrief-10.png)
 
-<a id="Unfallanzeige_Unfallkasse_NRW_(Ordner:_A1_Formulare)"></a>
-<a id="Unfallanzeige_Unfallkasse_NRW_.28Ordner:_A1_Formulare.29"></a>
-
 ## Unfallanzeige Unfallkasse NRW (Ordner: A1_Formulare)
 
 Das Formular für die Unfallanzeige muss vor dem Einsatz zunächst mit den schulspezifischen Angaben zum zuständigen Gemeindeunfallversicherungsverband und der Versicherungsnummer gefüllt werden. Wenn Sie anschließend den Report aufrufen, werden Sie mit Hilfe von Texteingabefeldern durch das Formular geleitet.
@@ -92,9 +84,6 @@ Wenn Sie ein größeres Eingabefeld, zum Beispiel bei der Schilderung des Unfall
 
 ![Unfallanzeige-06](/bilder/reporting/erstellung/unfallanzeige-06.png)
 
-<a id="Leistungsuebersicht_akt_HJ_A3.rtm_(Ordner:_A5_Leistungsübersichten_--&gt;_Uebersichten_Sekundarstufe_1)"></a>
-<a id="Leistungsuebersicht_akt_HJ_A3.rtm_.28Ordner:_A5_Leistungs.C3.BCbersichten_--.3E_Uebersichten_Sekundarstufe_1.29"></a>
-
 ## Leistungsuebersicht_akt_HJ_A3.rtm (Ordner: A5_Leistungsübersichten --\> Uebersichten Sekundarstufe 1)
 
 Im Ordner A5_Leistungsübersichten finden Sie Formulare unterschiedlicher Komplexität für die Leistungsübersichten der Sekundarstufe I und II. Die Leistungsübersicht *Leistungsuebersicht_akt_HJ_A3.rtm* listet die Leistungen der Schüler im aktuellen Halbjahr auf. Berechnungen werden in diesem Formular nicht durchgeführt.
@@ -124,9 +113,6 @@ Die Daten aus dieser internen Tabelle werden auch im Subreport2 verwendet, der s
 ![Leistungsuebersicht-05](/bilder/reporting/erstellung/leistungsuebersicht-05.png)
 
 Hier wird für jedes Fach aus der Datenquelle *Fachuebersicht* die Note in Kurzform, also als Ziffer, ausgegeben. Wird das Fach als Kurs unterrichtet, dann wird zusätzlich die Kurzbezeichnung des Kurses mit ausgegeben.
-
-<a id="S2_Konferenz_LeistÜbersicht.rtm_(Ordner:_A6_Konferenzen\Zeugniskonferenzen\Sekundarstufe_II)"></a>
-<a id="S2_Konferenz_Leist.C3.9Cbersicht.rtm_.28Ordner:_A6_Konferenzen.5CZeugniskonferenzen.5CSekundarstufe_II.29"></a>
 
 ## S2 Konferenz LeistÜbersicht.rtm (Ordner: A6_Konferenzen\Zeugniskonferenzen\Sekundarstufe II)
 

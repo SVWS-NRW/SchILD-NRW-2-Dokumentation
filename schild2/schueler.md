@@ -17,8 +17,6 @@ Hier erfassen und pflegen Sie die Angaben zu einzelnen Schülerinnen und Schüle
 - [Schulbesuch](/schild2/schueler/schulbesuch?rubrik=schild2)
 - [Einwilligungen](/schild2/schueler/einwilligungen?rubrik=schild2)
 
-<a id="laufbahn-und-organisation"></a>
-
 ## Wiedervorlagen
 
 - [Wiedervorlage](/schild2/schueler/wiedervorlage?rubrik=schild2)

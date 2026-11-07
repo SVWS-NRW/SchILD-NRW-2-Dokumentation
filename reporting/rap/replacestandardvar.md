@@ -4,11 +4,6 @@ title: "ReplaceStandardVar"
 
 # ReplaceStandardVar
 
-<a id="RAP-Funktion_&quot;ReplaceStandardVar&quot;"></a>
-<a id="RAP-Funktion_.22ReplaceStandardVar.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Ersetzt einen angegebenen Standardplatzhalter in einem Text. Die Parameter bestimmen den Text und die zu ersetzende Standardvariable.

@@ -2,8 +2,6 @@
 title: "Deutschförderung"
 ---
 
-<a id="deutschforderung-nach-bass-13-63-nr-3-stand-29-08-2024"></a>
-
 # Deutschförderung
 
 Die ursprüngliche Anleitung beschreibt die Erfassung nach BASS 13-63 Nr. 3 mit Stand vom 29.08.2024.
@@ -12,15 +10,9 @@ Für die Erhebung der amtlichen Schuldaten wurde zur Kennung von Schülerinnen u
 
 Alle Schülerinnen und Schüler, die an einer Deutschförderung nach BASS 13-63 Nr. 3 teilnehmen, erhalten als Klassenart Deutschförderung (ohne Bildungsgangzuordnung, BASS 13-63 Nr. 3) mit dem Schlüssel DF unabhängig davon, ob sie in einer Deutschförderklasse oder einer Regelklasse unterrichtet werden.
 
-<a id="Schritt_1:_Klassenart_Deutschförderung_für_den_aktuellen_Abschnitt_anpassen"></a>
-<a id="Schritt_1:_Klassenart_Deutschf.C3.B6rderung_f.C3.BCr_den_aktuellen_Abschnitt_anpassen"></a>
-
 ## Schritt 1: Klassenart Deutschförderung für den aktuellen Abschnitt anpassen
 
 Tragen Sie für alle Deutschförderschüler ( nach BASS 13-63 Nr. 3 ) die Klassenart Deutschförderung ein.
-
-<a id="Möglichkeit_1:_Für_jeden_Schüler_separat_unter_Individualdaten_I"></a>
-<a id="M.C3.B6glichkeit_1:_F.C3.BCr_jeden_Sch.C3.BCler_separat_unter_Individualdaten_I"></a>
 
 #### Möglichkeit 1: Für jeden Schüler separat unter Individualdaten I
 
@@ -30,9 +22,6 @@ Tragen Sie für alle Deutschförderschüler ( nach BASS 13-63 Nr. 3 ) die Klasse
 
 Alternativ kann der Eintrag auch im aktuellen Halbjahr/ Allgemeine Angaben angepasst werden.
 
-<a id="Möglichkeit_2:_Über_einen_Gruppenprozess"></a>
-<a id="M.C3.B6glichkeit_2:_.C3.9Cber_einen_Gruppenprozess"></a>
-
 #### Möglichkeit 2: Über einen Gruppenprozess
 
 Sind viele Schülerinnen und Schüler von der Änderung betroffen, können Sie dies auch mit einem Gruppenprozesse realisieren. Unter Gruppenprozess/Individualdaten ändern/Individualdaten I kann die Klassenart für eine Gruppe von Schülerinnen und Schülern angepasst werden. Diese Änderung wird nur für den aktuellen Abschnitt durchgeführt, sofern keine weiteren Angaben erfolgen.
@@ -41,13 +30,7 @@ Sind viele Schülerinnen und Schüler von der Änderung betroffen, können Sie d
 
 *Klassenart mit Hilfe eines Gruppenprozesses anpassen.*
 
-<a id="Schritt_2:_Was_war_mit_dem_Deutschförder-Schüler_im_letzten_Schuljahr?"></a>
-<a id="Schritt_2:_Was_war_mit_dem_Deutschf.C3.B6rder-Sch.C3.BCler_im_letzten_Schuljahr.3F"></a>
-
 ## Schritt 2: Was war mit dem Deutschförder-Schüler im letzten Schuljahr?
-
-<a id="Fall_1:_Der_Deutschförderschüler_war_bereits_im_letzten_Schuljahr_auf_derselben_Schule"></a>
-<a id="Fall_1:_Der_Deutschf.C3.B6rdersch.C3.BCler_war_bereits_im_letzten_Schuljahr_auf_derselben_Schule"></a>
 
 ### Fall 1: Der Deutschförderschüler war bereits im letzten Schuljahr auf derselben Schule
 
@@ -61,7 +44,7 @@ Unter aktuelles Halbjahr/Allgemeine Angaben können Sie für vorherige Abschnitt
 
 *Klassenart im vorangegangenem Abschnitt anpassen.*
 
-Hinweis: Sollte diese Anpassung nicht erfolgt sein und die Schülerdaten wurden bereits in ASDPC importiert und bearbeitet, kann dies auch unmittelbar in ASDPC korrigiert werden (siehe [hier](#Daten_in_ASDPC_nachpflegen)).
+Hinweis: Sollte diese Anpassung nicht erfolgt sein und die Schülerdaten wurden bereits in ASDPC importiert und bearbeitet, kann dies auch unmittelbar in ASDPC korrigiert werden (siehe [hier](#daten-in-asdpc-nachpflegen)).
 
 **Möglichkeit 2: Änderung der Klassenart im vergangenen Abschnitt über einen Gruppenprozess**
 
@@ -70,9 +53,6 @@ Unter Gruppenprozesse/Allgemeines/Individualdaten ändern/Lernabschnitte kann de
 ![DFVorherigerAbschnittGP](/bilder/schild2/schueler/dfvorherigerabschnittgp.png)
 
 *Klassenart im vorangegangenem Abschnitt für mehrere Schüler anpassen.*
-
-<a id="Fall_2:_Der_Schüler_kam_von_einer_anderen_deutschen_Schule"></a>
-<a id="Fall_2:_Der_Sch.C3.BCler_kam_von_einer_anderen_deutschen_Schule"></a>
 
 ### Fall 2: Der Schüler kam von einer anderen deutschen Schule
 
@@ -88,9 +68,6 @@ Hinweis: Prüfen Sie gegebenenfalls, ob der Migrationshintergrund korrekt einget
 
 *Eintrag für den Migrationshintergrund.*
 
-<a id="Fall_3:_Der_Schüler_ist_aus_dem_Ausland_in_diesem_Schuljahr_zugezogen"></a>
-<a id="Fall_3:_Der_Sch.C3.BCler_ist_aus_dem_Ausland_in_diesem_Schuljahr_zugezogen"></a>
-
 ### Fall 3: Der Schüler ist aus dem Ausland in diesem Schuljahr zugezogen
 
 Analog zum zweiten Fall muss auch hier der Reiter Schulbesuch korrekt gepflegt werden:
@@ -101,11 +78,7 @@ Analog zum zweiten Fall muss auch hier der Reiter Schulbesuch korrekt gepflegt w
 
 Hinweis: Hat der aus dem Ausland zugezogene Schüler die deutsche Staatsangehörigkeit (Eintrag der Staatsangehörigkeit unter Individualdaten I), muss für die allgemeine Herkunft des Schülers der Schlüssel "XS" verwendet werden.
 
-<a id="FAQ"></a>
-
 ## FAQ
-
-<a id="Fehler_E89"></a>
 
 ### Fehler E89
 
@@ -122,8 +95,6 @@ Vermutlich fehlt unter Individualdaten II das Zuzugsjahr.
 ![FehlerE89Lsg](/bilder/schild2/schueler/fehlere89lsg.png)
 
 *Korrektur des Fehlers E89.*
-
-<a id="Daten_in_ASDPC_nachpflegen"></a>
 
 ### Daten in ASDPC nachpflegen
 

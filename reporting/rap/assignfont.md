@@ -4,11 +4,6 @@ title: "AssignFont"
 
 # AssignFont
 
-<a id="RAP-Funktion_&quot;AssignFont&quot;"></a>
-<a id="RAP-Funktion_.22AssignFont.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Ändert die Schriftart eines formatierten Textes. Die Schriftgröße bleibt unverändert.

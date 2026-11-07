@@ -2,11 +2,7 @@
 title: "Bildungsgangwechsel am Berufskolleg"
 ---
 
-<a id="umgang-mit-bildungsgangswechlsern-am-bk"></a>
-
 # Bildungsgangwechsel am Berufskolleg
-
-<a id="Bildungsgangwechsler_ohne_Online-Verfahren_zur_Anmeldung"></a>
 
 ## Bildungsgangwechsler ohne Online-Verfahren zur Anmeldung
 
@@ -14,15 +10,9 @@ title: "Bildungsgangwechsel am Berufskolleg"
 
 Verwendet die Schule kein Online-Anmeldeverfahren, so müssen Datensätze neu-er Schüler manuell eingetragen werden. Handelt es sich um Schüler der eigenen Schule, die einen weiteren Bildungsgang besuchen möchten, so können Sie sich die Eingabe der Daten ersparen, indem man ein Duplikat anlegt: Zunächst aktiviert man zusätzlich den Haken bei „Neuaufnahme“, wählt den Da-tensatz des Schülers aus und drückt anschließend auf „Schüler duplizieren“. Hierdurch wird ein neuer Datensatz mit den Daten des Schülers angelegt, der dann in die zukünftige Klasse und in das entsprechende (kommende) Halbjahr einsortiert wird.
 
-<a id="Bildungsgangwechsler_mit_Schüler-Online_(oder_anderen_Verfahren)"></a>
-<a id="Bildungsgangwechsler_mit_Sch.C3.BCler-Online_.28oder_anderen_Verfahren.29"></a>
-
 ## Bildungsgangwechsler mit Schüler-Online (oder anderen Verfahren)
 
 Exportiert man Schülerdaten aus Schüler-Online, wird der Name des Schülers in der zu erzeugten Datei (SchuelerBasisidaten.dat) durch „#neueKlasse“ ergänzt. Wenn SchILD-NRW 2 beim Import bereits einen Schülerdatensatz für den gleichen Schüler (Kriterien sind Name, Vorname und Geburtsdatum) findet, so wird dieser als Dupli-kat mit der neuen Klasse für das kommende Schuljahr eingetragen. Bei Verwendung anderer Online-Anmeldungen (OSA,…) sollte man versuchen, die zu übertragende Datei genauso zu strukturieren, um den gleichen Effekt beim Im-port zu erreichen.
-
-<a id="Verschmelzen_von_Duplikat_und_ursprünglichem_Datensatz"></a>
-<a id="Verschmelzen_von_Duplikat_und_urspr.C3.BCnglichem_Datensatz"></a>
 
 ## Verschmelzen von Duplikat und ursprünglichem Datensatz
 

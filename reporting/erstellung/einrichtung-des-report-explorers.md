@@ -2,13 +2,9 @@
 title: "Report-Explorer einrichten"
 ---
 
-<a id="einrichtung-des-report-explorers"></a>
-
 # Report-Explorer einrichten
 
 Der Report-Explorer verwaltet die Dateien Ihrer Druckvorlagen. Diese Anleitung erklärt die benötigten Einstellungen, bevor Sie Vorlagen auswählen, bearbeiten und drucken.
-
-<a id="Dateistruktur_in_der_Installation"></a>
 
 ## Dateistruktur in der Installation
 
@@ -22,8 +18,6 @@ Wenn Sie eine Serverinstallation haben, stehen hier die Pfade des Netzlaufwerks 
 
 Mit dem Haken "Standard-Verzeichnisstruktur verwenden" können Sie die eingetragenen Werte übergehen, dies ist zum Beispiel nützlich, wenn man mit einer Kopie der Datenbank außerhalb der Serverumgebung arbeiten muss.
 
-<a id="Funktionen_der_Ordner"></a>
-
 ## Funktionen der Ordner
 
 ![Reportordner](/bilder/reporting/erstellung/reportordner.jpg)
@@ -34,8 +28,6 @@ Mit dem Haken "Standard-Verzeichnisstruktur verwenden" können Sie die eingetrag
 4.  **Standardtexte**, hier liegen die RTF-Dateien (wordähnliches Format), die auf den Zeugnissen die Hinweistexte darstellen. Diese Standardtexte können auch von der SchILD-NRW 2-Homepage im Zeugnisbereich heruntergeladen und dort hineinkopiert werden.
 
 Daneben können Sie noch so viele Ordner anlegen wie Sie möchten. Diese müssen sich nur innerhalb des SchILD-NRW 2-Reports-Ordners befinden!
-
-<a id="Ablegen_der_Reportdateien"></a>
 
 ## Ablegen der Reportdateien
 
@@ -51,8 +43,6 @@ Im Dateifenster des Reportexplorers werden dann folgende Dateitypen angezeigt:
 
 Wenn Sie Formulardateien heruntergeladen haben oder diese per E-Mail bekommen haben, müssen Sie diese Dateien in den jeweiligen Ordner der SchILD-NRW 2-Reports-Umgebung speichern.
 
-<a id="Formulardownload"></a>
-
 ## Formulardownload
 
 Auf der Internetseite der Schulverwaltungsprogramme <http://www.svws.nrw.de> können Sie sich zusätzliche Formulare, Zeugnisse und Köpfe und Füße herunterladen (Downloads -\> Drucken).
@@ -60,8 +50,6 @@ Auf der Internetseite der Schulverwaltungsprogramme <http://www.svws.nrw.de> kö
 Es steht auch ein Formularpaket mit über 100 Reports zur Verfügung [(Basic-Reportsammlung)](https://www.svws.nrw.de/index.php?id=schildformulare). Diese Reportsammlung enthält Reports, die für den alltäglichen Gebrauch in SchILD-NRW 2 bestimmt sind.
 
 Achten Sie bitte darauf, dass die Reports-Ordnerstruktur mit den 4 festgelegten Ordnern erhalten bleiben muss. (Header_Footer, Standard, Standardtexte und Subreports)
-
-<a id="Ordnerstruktur"></a>
 
 ## Ordnerstruktur
 

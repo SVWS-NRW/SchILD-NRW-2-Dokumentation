@@ -2,8 +2,6 @@
 title: "Gespeicherte Filter löschen"
 ---
 
-<a id="vorhandene-filterdefinition-loschen"></a>
-
 # Gespeicherte Filter löschen
 
 Hier entfernen Sie gespeicherte Filterdefinitionen, die Sie nicht mehr benötigen. Gelöscht wird die gespeicherte Auswahlregel, nicht ein Schülerdatensatz.

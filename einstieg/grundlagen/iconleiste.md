@@ -2,8 +2,6 @@
 title: "Symbolleiste"
 ---
 
-<a id="iconleiste"></a>
-
 # Symbolleiste
 
 Die Symbolleiste bietet direkten Zugriff auf häufige Funktionen. Die folgende Übersicht erklärt die Symbole in ihrer Reihenfolge von links nach rechts. Nutzen Sie sie zum Nachschlagen, wenn Sie ein Symbol noch nicht kennen.
@@ -17,8 +15,6 @@ Die Symbole bedeuten (von links nach rechts):
   - Gelb: Filter auf Klasse, Jahrgang...
   - Rot: benutzerdefinierter Filter
 
-<!-- -->
-
 - **Navigationsleiste**
   - Erster Datensatz
   - Vorheriger Datensatz
@@ -31,8 +27,6 @@ Die Symbole bedeuten (von links nach rechts):
   - Bearbeitung abbrechen
   - Datenmenge aktualisieren
 
-<!-- -->
-
 - **Toolbuttons**
   - Schüler markieren
   - Schüler duplizieren
@@ -43,7 +37,7 @@ Die Symbole bedeuten (von links nach rechts):
   - Filter I aufrufen
   - Schüler suchen
   - [Wiedervorlage](/schild2/schueler/wiedervorlage)
-  - <a id="filter-markierte-schueler"></a>Filter auf markierte Schüler
+  - Filter auf markierte Schüler
   - Gruppenprozesse aufrufen
   - Hilfe aufrufen
   - Fenster auf Standarddrucker ausgeben

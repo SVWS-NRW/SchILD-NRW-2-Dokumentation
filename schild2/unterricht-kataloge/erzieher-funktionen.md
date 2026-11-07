@@ -2,8 +2,6 @@
 title: "Funktionen von Erziehungsberechtigten"
 ---
 
-<a id="erzieher-funktionen"></a>
-
 # Funktionen von Erziehungsberechtigten
 
 Erzieherfunktionen beschreiben Aufgaben an der Schule, zum Beispiel eine Tätigkeit als Elternvertretung. Sie sind von Erzieherarten zu unterscheiden: Diese beschreiben das Verhältnis zum Kind, etwa Mutter oder Vater.

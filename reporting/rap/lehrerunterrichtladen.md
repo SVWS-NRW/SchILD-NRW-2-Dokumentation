@@ -4,11 +4,6 @@ title: "LehrerUnterrichtLaden"
 
 # LehrerUnterrichtLaden
 
-<a id="RAP-Funktion_&quot;LehrerUnterrichtLaden&quot;"></a>
-<a id="RAP-Funktion_.22LehrerUnterrichtLaden.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Durch den Aufruf dieser Prozedur werden die Datenquellen

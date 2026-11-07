@@ -4,11 +4,6 @@ title: "MehrfachauswahlEx"
 
 # MehrfachauswahlEx
 
-<a id="RAP-Funktion_&quot;MehrfachauswahlEx&quot;"></a>
-<a id="RAP-Funktion_.22MehrfachauswahlEx.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 ermöglicht die Auswahl mehrerer Elemente einer Auswahlliste

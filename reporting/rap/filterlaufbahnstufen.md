@@ -4,11 +4,6 @@ title: "FilterLaufbahnStufen"
 
 # FilterLaufbahnStufen
 
-<a id="RAP-Funktion_&quot;FilterLaufbahnStufen&quot;"></a>
-<a id="RAP-Funktion_.22FilterLaufbahnStufen.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Filtert für Leistungsübersichten auf bestimmte Jahrgangsstufen. Damit ist es möglich,

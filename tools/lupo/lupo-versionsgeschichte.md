@@ -2,38 +2,26 @@
 title: "Änderungshistorie von LuPO"
 ---
 
-<a id="lupo-versionsgeschichte"></a>
-
 # Änderungshistorie von LuPO
 
 Diese Änderungsliste dokumentiert frühere Anpassungen an LuPO. Einzelne Hinweise beziehen sich auf den damaligen Entwicklungsstand; für den Arbeitsablauf verwenden Sie die übrigen Kapitel des Handbuchs.
-
-<a id="Version_2.1.8.1"></a>
 
 ## Version 2.1.8.1
 
 Im Ausdruck wird nun auch statt APO-GOSt(B)10/G8 die neue Bezeichnung APO-GOSt(B)10 ausgegeben.
 
-<a id="Version_2.1.7.3"></a>
-
 ## Version 2.1.7.3
 
 Bei den neuen Belegprüfungen nach APO-GOSt § 8 (5) Satz 2 und APO-GOSt VV 8.5.3 wird nun auch das Häkchen "2. Fremdsprache in Sek. I manuell geprüft" berücksichtigt.
-
-<a id="Version_2.1.7.2"></a>
 
 ## Version 2.1.7.2
 
 In LuPO (und SchILD-NRW 2) wurde die APO-GOSt(B)10/G8 in APO-GOSt(B)10 umbenannt, um Verwirrungen zu vermeiden.
 
-<a id="Version_2.1.7.1"></a>
-
 ## Version 2.1.7.1
 
 - LuPO konnte noch keine Fremdsprachen ab Klasse 7 und ab Klasse 9 auswerten (Rückkehr GY zu G9 mit Änderung der Sprachenfolge in allen Schulformen). Dies wurde nun ergänzt.
 - Es wurde eine neue Belegprüfung hinzugefügt, welche die Belegung nach APO-GOSt § 8 (5) Satz 2 und APO-GOSt VV 8.5.3 prüft.
-
-<a id="Version_2.1.6.2"></a>
 
 ## Version 2.1.6.2
 
@@ -50,15 +38,11 @@ In LuPO (und SchILD-NRW 2) wurde die APO-GOSt(B)10/G8 in APO-GOSt(B)10 umbenannt
 - Es gab eine exotische Sonderkonstellationen von Sprachenbeginn und Sprachenfolge, bei welchen Fehlermeldungen nicht ausgelöst wurden.
 - Wenn man Schüler gefiltert hatte und anschließend bei den gefilterten Schülern die Belegung geändert hatte, so konnte es zu Fehlern kommen, wenn die geänderte Belegung die eigentliche Filterbedingung aufhob.
 
-<a id="Version_2.1.4.5"></a>
-
 ## Version 2.1.4.5
 
 - Bei manchen Belegungen der Fächer Geschichte und Sozialwissenschaften in Zusammenhang mit Zusatzkursen kam es zu einer falschen Fehlermeldung. Dies ist nun behoben.
 - Bei einer Belegungsprüfung der fortgeführten Fremdsprachen wurde anstatt des ASD-Kürzels das schulinterne Kürzel ausgewertet. Dies führte immer dann zu Problemen, wenn das schulinterne Kürzel nicht mit dem ASD-Buchstaben des Sprachenfaches begann. Dies ist nun behoben.
 - Die Schaltfläche „Konflikte ermitteln“ hat nicht alle Fälle korrekt ermittelt. Dies ist nun behoben.
-
-<a id="Version_2.1.4.0"></a>
 
 ## Version 2.1.4.0
 
@@ -80,13 +64,9 @@ In LuPO (und SchILD-NRW 2) wurde die APO-GOSt(B)10/G8 in APO-GOSt(B)10 umbenannt
 - Diese neue Funktionalität macht die Auslieferung zweier zusätzlicher Dateien notwendig.
 - Beim Versand zu Adressen von Google trat ein Fehler aufgrund einer vorangestellten „SMTP“ Zeichenkette auf. Diese wurde nun gelöscht, in der Hoffnung, dass damit das Problem behoben ist und andere Provider trotzdem beliefert werden können. Bei Verwendung des internen E-Mail-Versandes sollte das Problem ohnehin nicht auftreten.
 
-<a id="Version_2.1.2.6"></a>
-
 ## Version 2.1.2.6
 
 - Es wurden noch einige kleinere Fehler in den Algorithmen behoben.
-
-<a id="Version_2.1.2.1"></a>
 
 ## Version 2.1.2.1
 
@@ -115,15 +95,11 @@ In LuPO (und SchILD-NRW 2) wurde die APO-GOSt(B)10/G8 in APO-GOSt(B)10 umbenannt
 - Es gibt einen neuen Gruppenprozess "Laufbahnprüfung durchführen".
 - Die automatische und manuelle Auswahl der eingeschalteten Prüf-Algorithmen ist nun besser nachvollziehbar.
 
-<a id="Version_2.0.3.10"></a>
-
 ## Version 2.0.3.10
 
 - Bei der Ausgabe des Beratungsbogens wurden Bemerkungen und Angaben zu evtl. noch vorhandenen Beratungsfehlern und nicht berücksichtigt, nun korrigiert.
 - Wenn bei einem Projektkurs das Leitfach „Religion“ (insbesondere ER) eingetragen war, wurde ein Belegungsfehler ausgegeben, nun korrigiert.
 - In der Schülerversion konnte der Beratungsbogen nicht gedruckt werden, nun korrigiert.
-
-<a id="Version_2.0.3.9"></a>
 
 ## Version 2.0.3.9
 
@@ -137,19 +113,13 @@ In LuPO (und SchILD-NRW 2) wurde die APO-GOSt(B)10/G8 in APO-GOSt(B)10 umbenannt
 - HINWEIS: Die Markierung von Religionslehre/Philosophie entspricht noch nicht dem aktuellen Stand, da es von Seiten des MSW kurzfristig abermals zu einer Änderung kommen wird und zeitnahe Umprogrammierarbeiten anstehen werden.
 - Beim Import der Sprachenfolge kam es vereinzelt zu Problemen. Dies wurde behoben.
 
-<a id="Version_2.0.2.18"></a>
-
 ## Version 2.0.2.18
 
 - Einige Fehler bei WBKs wurden behoben.
 
-<a id="Version_2.0.2.15"></a>
-
 ## Version 2.0.2.15
 
 - Einige Fehler im Zusammenhang mit neu einsetzenden Fremdsprachen wurden behoben.
-
-<a id="Version_2.0.2.14"></a>
 
 ## Version 2.0.2.14
 
@@ -158,25 +128,17 @@ In LuPO (und SchILD-NRW 2) wurde die APO-GOSt(B)10/G8 in APO-GOSt(B)10 umbenannt
 - Bei der Auswertung nach Fach wurden keine LKs angezeigt, nun behoben.
 - WBKs: Es wurden zwei Probleme bei den Sprachenfolgen behoben.
 
-<a id="Version_2.0.2.12"></a>
-
 ## Version 2.0.2.12
 
 - Beim Export im Schnittstellenformat kann jetzt auch eine UTF8-Kodierung gewählt werden.
-
-<a id="Version_2.0.2.11"></a>
 
 ## Version 2.0.2.11
 
 - Korrektur eines Fehlers bei der Religionsprüfung.
 
-<a id="Version_2.0.2.9"></a>
-
 ## Version 2.0.2.9
 
 - Korrektur eines Fehlers bei der Belegung von L8.
-
-<a id="Version_2.0.2.8"></a>
 
 ## Version 2.0.2.8
 
@@ -193,15 +155,11 @@ In LuPO (und SchILD-NRW 2) wurde die APO-GOSt(B)10/G8 in APO-GOSt(B)10 umbenannt
 - Kleinerer Fehler beim Datenimport und bei der Reportausgabe wurden behoben
 - Kleinere funktionale Verbesserungen
 
-<a id="Version_2.0.1.45"></a>
-
 ## Version 2.0.1.45
 
 - Der Prüfungsalgorithmus für die APO-WBK ist aus dem Beta-Status.
 - Beim Import aus Textdateien wurde die neu einsetzende Fremdsprache im letzten Abschnitt der Qualifikationsphase auf GKM gesetzt, dieser Fehler wurde behoben.
 - Abitur an Weiterbildungskollegs: Defizitüberschreitung wurde in manchen Fällen nicht bemängelt, nun korrigiert.
-
-<a id="Version_2.0.1.43"></a>
 
 ## Version 2.0.1.43
 

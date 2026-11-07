@@ -4,11 +4,6 @@ title: "MitLernabschnitten"
 
 # MitLernabschnitten
 
-<a id="RAP-Funktion_&quot;MitLernabschnitten&quot;"></a>
-<a id="RAP-Funktion_.22MitLernabschnitten.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Erzwingt die Aktualisierung der Datenquelle Lernabschnitte beim Wechsel

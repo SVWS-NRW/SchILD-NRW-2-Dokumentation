@@ -4,11 +4,6 @@ title: "SetUebersichtEx"
 
 # SetUebersichtEx
 
-<a id="RAP-Funktion_&quot;SetUebersichtEx&quot;"></a>
-<a id="RAP-Funktion_.22SetUebersichtEx.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Schaltet die Aufbereitung der Leistungsdaten für eine tabellarische Übersicht ein oder aus. Die berücksichtigten Jahrgänge werden direkt als Liste übergeben.

@@ -2,17 +2,11 @@
 title: "Haupterhebung vorbereiten"
 ---
 
-<a id="statistik-mit-asdpc-vorbereitung"></a>
-
 # Haupterhebung vorbereiten
 
 Bereiten Sie die Daten und Programme vor, bevor Sie die Haupterhebung beginnen. Die folgenden Abschnitte erläutern, welche Angaben und Dateien vorliegen müssen und an welchen Stellen Sie diese prüfen.
 
-<a id="Vorbereitung_der_Statistik"></a>
-
 ## Vorbereitung der Statistik
-
-<a id="Sammeln_der_notwendigen_Ressourcen_und_Updates"></a>
 
 ### Sammeln der notwendigen Ressourcen und Updates
 
@@ -21,17 +15,13 @@ Wurde ASDPC schon in den letzten Jahren genutzt oder wurde nicht direkt vor Begi
 Auch in der laufenden Statistik kann es vorkommen, dass eine neue Version bereitgestellt wird, die überarbeitet wurde.
 :::
 
-Schauen Sie hierzu bitte bei Bedarf in das Kapitel [Updaten von ASDPC](/schild2/import-export-statistik/statistik-mit-asdpc-technik#Updaten_von_ASDPC).
+Schauen Sie hierzu bitte bei Bedarf in das Kapitel [Updaten von ASDPC](/schild2/import-export-statistik/statistik-mit-asdpc-technik#updaten-von-asdpc).
 
 Sofern Sie SchILD-NRW 2 nutzen, führen Sie auch hier bitte das Update aus, da beide Programme zusammen für die Statistik genutzt werden können. Eventuell kann es sinnvoll sein, auch andere Schulverwaltungsprogramme zu updaten.
 
 ![SchILD_Update](/bilder/schild2/import-export-statistik/schild-update.png)
 
 Sofern es eine aktuellere Version von SchILD-NRW 2 gibt, wird diese nun heruntergeladen und installiert.
-
-<a id="Export_aus_SchILD_NRW_und_anderen_Schulverwaltungsprogrammen"></a>
-
-<a id="export-aus-schild-nrw-und-anderen-schulverwaltungsprogrammen"></a>
 
 #### Export aus SchILD-NRW 2 und anderen Schulverwaltungsprogrammen
 
@@ -61,8 +51,6 @@ Bei den Daten zu Lehrkräften und der Unterrichtsverteilung kann ein weiteres, e
 :::warning
 Werden SchILD-NRW 2 und ASDPC in einer Netzwerkumgebung eingesetzt, ist darauf zu achten, welche .dlls beziehungsweise .mds (etwa die SCHULVER.mdb) mit den aktuellen Daten registriert sind und wo diese gespeichert sind, damit SchILD-NRW 2 und ASDPC immer die gleichen, aktuellen Grundlagen nutzen! Konsultieren Sie in diesem Fall bitte die entsprechenden Dokumentationen von SchILD-NRW 2 und ASDPC!
 :::
-
-<a id="Sammeln_der_Ressourcen"></a>
 
 #### Sammeln der Ressourcen
 

@@ -4,11 +4,6 @@ title: "AufzaehlungRTF"
 
 # AufzaehlungRTF
 
-<a id="RAP-Funktion_&quot;AufzaehlungRTF&quot;"></a>
-<a id="RAP-Funktion_.22AufzaehlungRTF.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Fügt eine Aufzählung ohne Nummerierung in einen RTF-Text ein. RTF ist ein Format für Texte mit Schrift- und Formatangaben.

@@ -2,14 +2,9 @@
 title: "BK-Abschlüsse nach Anlage A"
 ---
 
-<a id="bk-abschluss-anlage-a"></a>
-
 # BK-Abschlüsse nach Anlage A
 
 Hier finden Sie die im ursprünglichen Wiki aufgeführten Bildungsgänge dieser Anlage. Wählen Sie den passenden Bildungsgang aus den verlinkten Einträgen. Die allgemeinen Erläuterungen stehen unter [BK-Abschlussverfahren](/zeugnisse/berufskolleg/bk-abschluss?rubrik=schild2).
-
-<a id="Bildungsgänge_der_Berufsschule"></a>
-<a id="Bildungsg.C3.A4nge_der_Berufsschule"></a>
 
 ## Bildungsgänge der Berufsschule
 

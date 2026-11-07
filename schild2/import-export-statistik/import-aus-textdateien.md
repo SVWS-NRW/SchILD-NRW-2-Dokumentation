@@ -2,8 +2,6 @@
 title: "Import aus Textdateien"
 ---
 
-<a id="importprogramm"></a>
-
 # Import aus Textdateien
 
 ![ExternImport1](/bilder/schild2/import-export-statistik/externimport1.jpg)

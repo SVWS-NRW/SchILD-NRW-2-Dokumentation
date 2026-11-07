@@ -2,8 +2,6 @@
 title: "Daten im aktuellen Halbjahr bearbeiten"
 ---
 
-<a id="akt-halbjahr"></a>
-
 # Daten im aktuellen Halbjahr bearbeiten
 
 Auf **Akt. Halbjahr** bearbeiten Sie die Angaben zu einem ausgewählten Lernabschnitt, etwa Unterricht, Noten, Fehlzeiten und Zeugnisbemerkungen. Ein Lernabschnitt entspricht je nach Schulorganisation einem Halbjahr oder Quartal.
@@ -44,21 +42,13 @@ Auf der Karteikarte Leistungsdaten sehen Sie die Fächer, die dem Schüler zugeo
 
 Der dritte Karteireiter zeigt - nach erfolgter Berechnung - das Ergebnis der Versetzungs- beziehungsweise Abschlussberechnung an.
 
-<a id="zeugnis-abschluss"></a>
-
 Im unteren Bereich des Fensters sind die Angaben zum Zeugnis beziehungsweise zur Versetzung zu finden.
 
 ![Zeugnis-Abschluss](/bilder/zeugnisse/vorbereitung/zeugnis-abschluss.png)
 
-<a id="Allgemeine_Angaben"></a>
-
 ## Allgemeine Angaben
 
-<a id="Leistungsdaten"></a>
-
 ## Leistungsdaten
-
-<a id="Fehlzeiten"></a>
 
 ## Fehlzeiten
 
@@ -101,9 +91,6 @@ Dabei sind auch negative Zahlen möglich, wenn man zum Beispiel die Schüler wis
 In den Leistungsdaten können die zur Eingabe berechtigten Personen nun auch mit der rechten Maustaste direkt fachbezogene Fehlzeiten zu einem Fach eintragen.
 
 ![Fehlzeiten009](/bilder/zeugnisse/vorbereitung/fehlzeiten009.jpg)
-
-<a id="Ergebnis_der_Versetzungs-/Abschluss-Berechnung"></a>
-<a id="Ergebnis_der_Versetzungs-.2FAbschluss-Berechnung"></a>
 
 ## Ergebnis der Versetzungs-/Abschluss-Berechnung
 

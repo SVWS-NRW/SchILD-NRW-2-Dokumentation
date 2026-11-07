@@ -4,11 +4,6 @@ title: "PluginVersion"
 
 # PluginVersion
 
-<a id="RAP-Funktion_&quot;PluginVersion&quot;"></a>
-<a id="RAP-Funktion_.22PluginVersion.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Liefert die Version der Reporting.dll

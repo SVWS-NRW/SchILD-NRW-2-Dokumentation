@@ -2,20 +2,13 @@
 title: "Einfache Reports erstellen und bearbeiten"
 ---
 
-<a id="erstellen-einfacher-reports"></a>
-
 # Einfache Reports erstellen und bearbeiten
 
 Erstellen Sie hier eine einfache Liste oder passen Sie eine vorhandene Vorlage an. Die Anleitung beginnt mit Beispielen und dem Berichtsassistenten. Danach folgt das Erstellen einer Liste ohne Assistenten.
 
-<a id="Einfache_Änderungen_an_bestehenden_Reports_vornehmen"></a>
-<a id="Einfache_.C3.84nderungen_an_bestehenden_Reports_vornehmen"></a>
-
 ## Einfache Änderungen an bestehenden Reports vornehmen
 
 Beispiel aus der BASIC-Reportsammlung \[[\[1\]](http://www.svws.nrw.de/index.php?id=schildformulare)\] verwenden --\> Schriftart und –größe anpassen, Position verändern, Größe eines Textfeldes verändern
-
-<a id="Einstellungen_im_Report-Explorer"></a>
 
 ## Einstellungen im Report-Explorer
 
@@ -48,8 +41,6 @@ Für jeden Bericht lassen sich die Ränder einstellen. Der angezeigte Bereich is
 Beim Karteireiter **Ränder** können Sie die gewünschten Werte eingeben.
 
 ![Report-Neu-Raender](/bilder/reporting/erstellung/report-neu-raender.png)
-
-<a id="Erstellen_einer_einfachen_Liste_mit_dem_Berichtsassistenten"></a>
 
 ## Erstellen einer einfachen Liste mit dem Berichtsassistenten
 
@@ -84,8 +75,6 @@ Mit **Fertigstellen** wird der Bericht mit der ausgewählten Schülergruppe gef�
 ![Assistent-Vorschau](/bilder/reporting/erstellung/assistent-vorschau.png)
 
 Über **Datei** – **Speichern** unter kann das Formular unter einem von Ihnen gewählten Dateinamen in einem von Ihnen gewählten Verzeichnis abgespeichert werden.
-
-<a id="Erstellen_einer_einfachen_Liste"></a>
 
 ## Erstellen einer einfachen Liste
 
@@ -139,8 +128,6 @@ Vorschau der gesamten Liste:
 
 ![Report-Neu-Vorschau-3](/bilder/reporting/erstellung/report-neu-vorschau-3.png)
 
-<a id="Schulkopf_in_ein_Formular_einbinden"></a>
-
 ## Schulkopf in ein Formular einbinden
 
 Viele Listen und Briefe sollten denselben Schulkopf bekommen. Möglicherweise unterscheidet man zwischen einem internen Schulkopf und einem Schulkopf für die verschiedenen Schreiben. Die benötigten Köpfe können einmal gestaltet werden und dann in die verschiedenen Formulare eingebunden werden. Als Grundlage finden Sie in der Basis-Reportsammlung verschiedene Schulköpfe, die Sie einsetzen können.
@@ -175,24 +162,15 @@ Wählen Sie die Vorschau und lassen Sie sich das Formular anzeigen.
 
 Speichern Sie im Entwurfsmodus das Formular in einem Verzeichnis Ihrer Wahl ab.
 
-<a id="Erstellen_eines_einfachen_Briefes"></a>
-
 ## Erstellen eines einfachen Briefes
 
 --\> Brief oder Bescheinigung erstellen
 
-<a id="Zeilenzählungen_(DBCalc)_einfügen"></a>
-<a id="Zeilenz.C3.A4hlungen_.28DBCalc.29_einf.C3.BCgen"></a>
-
 ## Zeilenzählungen (DBCalc) einfügen
-
-<a id="Gruppierung_von_Listenausdrucken"></a>
 
 ## Gruppierung von Listenausdrucken
 
 Um bestimmte Inhalte (zum Beispiel: Klassen, Geburtsjahrgänge, m/w u.a.) zusammenzuhalten, werden über *Entwurf / Bericht / Gruppen* \[Strg+G\] Gruppen definiert. Dabei können beliebig viele Gruppierungsebenen genutzt werden. Beispiele hierfür sind vor allem Klassen- oder Kurslisten beziehungsweise Übersichten für die Bundesjugendspiele etc.
-
-<a id="Dialog_Gruppen"></a>
 
 ### Dialog Gruppen
 
@@ -221,9 +199,6 @@ Um bestimmte Inhalte (zum Beispiel: Klassen, Geburtsjahrgänge, m/w u.a.) zusamm
     auf den folgenden Seiten erneut gedruckt werden sollen. \
     Allerdings müssen dies dann auch in den entsprechenden Gruppenkopf im Entwurf eingetragen sein!\
 
-<a id="Verwendung_von_Unterberichten_(SubReports)"></a>
-<a id="Verwendung_von_Unterberichten_.28SubReports.29"></a>
-
 ## Verwendung von Unterberichten (SubReports)
 
 zum Beispiel zur Ausgabe aller Telefonnummern eines Schülersin
@@ -237,8 +212,6 @@ Nicht verwechseln mit *Dynamisch ladbarer SubReport*!
 
 ![Unterbericht_004](/bilder/reporting/erstellung/unterbericht-004.png)
 
-<a id="Wichtige_Anpassungen_der_Standardeinstellungen"></a>
-
 ### Wichtige Anpassungen der Standardeinstellungen
 
 1\. *Breite der Stammkomponente*: Wenn der Unterbericht nicht über die gesamte Report-Breite verlaufen soll über rMt / Breite der Stammkomponenten / deaktivieren
@@ -249,13 +222,9 @@ Nicht verwechseln mit *Dynamisch ladbarer SubReport*!
 
 Ansonsten kann ein Unterbericht wie ein normaler Report bearbeitet werden.
 
-<a id="Einfache_Programmierung_von_Text-_und_Datenbankfeldern"></a>
-
 ## Einfache Programmierung von Text- und Datenbankfeldern
 
 zum Beispiel Einfügen der korrekten Anrede „Herr..“ oder „Frau..“ beziehungsweise „Klassenlehrer“ oder Klassenlehrerin“ in Abhängigkeit vom Geschlecht der Personen
-
-<a id="Anpassen_von_Kreuztabellen"></a>
 
 ## Anpassen von Kreuztabellen
 

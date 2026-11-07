@@ -2,17 +2,11 @@
 title: "KM2 aktualisieren"
 ---
 
-<a id="km2-programmupdate"></a>
-
 # KM2 aktualisieren
-
-<a id="Grundinstallation"></a>
 
 ## Grundinstallation
 
 Wenn Sie KM2 noch nicht installiert haben sollten, so laden Sie vom SchILD-NRW 2 Portal das → [Grundinstallationspaket](https://www.svws.nrw.de/schild-nrw-2/tools-module) herunter.
-
-<a id="Automatisches_Update"></a>
 
 ## Automatisches Update
 

@@ -2,8 +2,6 @@
 title: "Fahrschülerarten"
 ---
 
-<a id="fahrschuler-arten"></a>
-
 # Fahrschülerarten
 
 Mit diesem Katalog verwalten Sie die Auswahlmöglichkeiten für Fahrschüler. Neben den vorgegebenen Angaben **ja** und **nein** können Sie die im Artikel beschriebenen weiteren Einträge verwenden.

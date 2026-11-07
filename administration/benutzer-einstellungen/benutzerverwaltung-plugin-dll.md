@@ -2,8 +2,6 @@
 title: "Benutzerverwaltung als Plugin einbinden"
 ---
 
-<a id="benutzerverwaltung-plugin-dll"></a>
-
 # Benutzerverwaltung als Plugin einbinden
 
 Das Plugin ergänzt SchILD-NRW 2 um einen direkten Zugang zur Benutzerverwaltung. Nach dem Einschalten müssen Sie das externe Verwaltungsprogramm nicht mehr gesondert starten.

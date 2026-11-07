@@ -4,9 +4,6 @@ title: "Unterrichtsfächer"
 
 # Unterrichtsfächer
 
-<a id="Unterrichtsfächer_bearbeiten"></a>
-<a id="Unterrichtsf.C3.A4cher_bearbeiten"></a>
-
 ## Unterrichtsfächer bearbeiten
 
 Unter dem Menüpunkt 'Schulverwaltung' - 'Unterrichtsfächer' haben Sie die Möglichkeit, die an Ihrer Schule angebotenen Unterrichtsfächer und Arbeitsgemeinschaften zu bearbeiten.
@@ -20,8 +17,6 @@ Es öffnet sich unter diesem Menüpunkt das Fenster 'Unterrichtsfächer bearbeit
 *(Den Screenshots hier liegt eine anonymisierte Gymnasialdatenbank zugrunde.)*
 
 Zunächst ist die Tabelle unter dem Reiter 'Übersicht' nur mit den Fächern gefüllt, die üblicherweise an der jeweiligen Schulform angeboten werden.
-
-<a id="Teilleistungsarten_vorbereiten"></a>
 
 ## Teilleistungsarten vorbereiten
 
@@ -42,17 +37,11 @@ Wählen Sie hier mit dem "Plussymbol" die benötigten Teilleistungsarten zu jede
 
 Wenn diese Vorbereitung stattgefunden hat, kann mit dem Gruppenprozess Teilleistungsarten aus Vorlage zuweisen für alle vorbereiteten Fächer die Eingabe der Teilleistungen angelegt werden. Dies wird bei der Verwendung von externen Programmen (SchildWeb, Notenmodul) notwendig sein.
 
-<a id="Sichtbarkeit_von_Unterrichtsfächern"></a>
-<a id="Sichtbarkeit_von_Unterrichtsf.C3.A4chern"></a>
-
 ## Sichtbarkeit von Unterrichtsfächern
 
 Schalten Sie als erstes die Fächer, die an Ihrer Schule nicht unterrichtet werden, auf unsichtbar. Dies kann auf zwei verschiedene Weisen geschehen: Sie können durch einen Doppelklick auf das Plussymbol in der Spalte 'Sichtbar' die Markierung ändern. Es erscheint dann ein Minuszeichen. Oder Sie wechseln durch einen Doppelklick auf das jeweilige Fach zum 'Details'-Fenster und entfernen unter 'Sonstige Einstellungen' - 'Sichtbar' die Markierung und bestätigen diese Aktion oben in der Steuerleiste durch Klick auf das nun freigegebene Hakensymbol.
 
 Schalten Sie Unterrichtsfächer nur "unsichtbar", wenn Sie diese nicht mehr benötigen! In den Schülerdatensätzen werden unsichtbare Fächer ausgeblendet. Es sieht dann so aus, als ob nichts eingetragen wäre!
-
-<a id="Unterrichtsfächer_ergänzen"></a>
-<a id="Unterrichtsf.C3.A4cher_erg.C3.A4nzen"></a>
 
 ## Unterrichtsfächer ergänzen
 
@@ -70,13 +59,9 @@ Der Haken **Fremdsprache** markiert für SchILD-NRW 2 alle Fächer, die als verw
 
 **Fach der Oberstufe** bringt das Fach in den Oberstufenpool, diese Fächer sind wichtig für die Erstellung von Lupo-Dateien.
 
-<a id="Besonderheit_Vertiefungskurs_und_Projektkurs_der_gymnasialen_Oberstufe"></a>
-
 ## Besonderheit Vertiefungskurs und Projektkurs der gymnasialen Oberstufe
 
 Für Vertiefungskurse steht ein Fachunabhängiges Statistikkürzel "VX - Vertiefungsfach (Pseudofach: nicht für ASD) bereit. Für Projektkurse steht ein fachunabhängiges Statistikkürzel "PX - Projektkurs (Pseudofach: nicht für ASD) bereit. Beide Fächer müssen als Fächer der Oberstufe markiert und über die Schaltfläche "Fächer der Oberstufe bearbeiten" mit einem Leitfach versehen werden. Ohne 1. Leitfach ist kein korrekter Export über die uvd.txt an ASDPC möglich.
-
-<a id="Weitere_Optionen"></a>
 
 ## Weitere Optionen
 
@@ -102,9 +87,6 @@ Mit dieser Funktion können Sie ein bestimmtes Fach in allen (!) Leistungsdatens
 
 Diese Funktion ist zur Bereinigung der Datenbank zum Beispiel nach einem Import aus Fremddaten gedacht.
 
-<a id="Fächer_der_gymnasialen_Oberstufe"></a>
-<a id="F.C3.A4cher_der_gymnasialen_Oberstufe"></a>
-
 ## Fächer der gymnasialen Oberstufe
 
 Wenn es sich bei Ihrer Schule um eine weiterführende Schule mit einer gymnasialen Oberstufe handelt, dann finden Sie oberhalb der Filter noch die Funktion **Fächer der Oberstufe bearbeiten**. Haben Sie bei einem Fach im Detailbereich unter 'Sonstige Einstellungen' das Kästchen **Fach der Oberstufe** markiert, so färbt sich in der Übersichtstabelle das ausgewählte Fach grün. Wenn Sie nun die Option **Fächer der Oberstufe bearbeiten** anwählen, so taucht dieses Fach in der Übersicht der Oberstufenfächer auf und kann weiter bearbeitet werden. Sie können nun über Markierungen festlegen, in welchen Abschnitten der gymnasialen Oberstufe eine Anwahl des Faches möglich sein soll und ob das Fach als Abiturfach bestimmt werden kann oder nicht (AF 3-4 beziehungsweise AF 1-2). Prüfen Sie, ob bei den Fremdsprachen, die in der Oberstufe neu einsetzen, auch die entsprechende Markierung in der Spalte **als neue FS in SII** gesetzt ist.
@@ -113,16 +95,11 @@ Wenn es sich bei Ihrer Schule um eine weiterführende Schule mit einer gymnasial
 
 Die Wahlmöglichkeiten an Ihrer Schule können Sie unter den Karteireitern **[Unzulässige Fachkombinationen festlegen](/schild2/unterricht-kataloge/nicht-moegliche-fachkombinationen)** und **Fächerprofile** noch detaillierter abbilden. Dort bestimmen Sie die Fächer, die für einen bestimmten Zeitraum nicht gleichzeitig angewählt werden können (evt. Religionslehre und Philosophie) beziehungsweise die zwingend zusammen angewählt werden müssen. Wählen Sie dazu einfach über die Dropdown-Menüs in den Tabellen die entsprechenden Fächer, Kursarten und Zeiträume aus. Über die Ihnen bekannten Symbole in der Steuerleiste können Sie Zeilen hinzufügen, entfernen und Ihre Eintragungen bestätigen oder annulieren.
 
-<a id="Excel-Export"></a>
-
 ## Excel-Export
 
 Schließlich haben Sie noch die Möglichkeit, die Angaben zu den Unterrichtsfächern in eine Exceltabelle zu exportieren. Markieren Sie hierzu ein Fach und fahren Sie mit der Maus bei gedrückter Shift-Taste zur letzten Zeile des Bereiches, den Sie exportieren wollen. Diese Zeilen sind nun ausgewählt und blau eingefärbt. Wenn Sie nun die Funktion '**Excel-Export'** anwählen, sehen Sie zunächst eine Vorschau der zukünftigen Exceltabelle. Durch Mausklick auf '**Speichern'** wird die Exceltabelle erzeugt.
 
 ![Excelexport](/bilder/schild2/unterricht-kataloge/excelexport.jpg)
-
-<a id="Einstellungen_für_Berufskollegs"></a>
-<a id="Einstellungen_f.C3.BCr_Berufskollegs"></a>
 
 ## Einstellungen für Berufskollegs
 

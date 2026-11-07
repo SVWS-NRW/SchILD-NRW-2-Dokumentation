@@ -2,13 +2,9 @@
 title: "Programmeinstellungen"
 ---
 
-<a id="programm-einstellungen"></a>
-
 # Programmeinstellungen
 
 In den Programmeinstellungen passen Sie die Bedienung und Darstellung an. **Individuelle Einstellungen** gelten für das eigene Benutzerkonto. **Globale Einstellungen** betreffen gemeinsame Vorgaben; prüfen Sie deshalb vor einer Änderung, welchen Bereich Sie geöffnet haben.
-
-<a id="Individuelle_Einstellungen"></a>
 
 ## Individuelle Einstellungen
 
@@ -16,7 +12,7 @@ In den individuellen Einstellungen werden Parameter festgelegt, die zum jeweilig
 
 Bei Schülerwechsel immer Individualseite anzeigen
 
-Diese Option bewirkt, dass bei einem Datensatzwechsel im [Schülercontainer](/einstieg/grundlagen/container) immer wieder der [Karteireiter](/einstieg/grundlagen/hauptfenster#Karteireiter) Individual-Daten I angezeigt wird.
+Diese Option bewirkt, dass bei einem Datensatzwechsel im [Schülercontainer](/einstieg/grundlagen/container) immer wieder der [Karteireiter](/einstieg/grundlagen/hauptfenster#karteireiter) Individual-Daten I angezeigt wird.
 
 In Tabellen horiz. Gitterlinien zeigen
 
@@ -70,11 +66,7 @@ E-Mail-Kontodaten bearbeiten (SMTP)
 
 Wenn unter den globalen Einstellungen der E-Mail-Versand via SMTP eingestellt ist, können hier für jeden Benutzer das E-Mail-Konto und die Zugangsdaten verwaltet werden.
 
-<a id="Globale_Einstellungen"></a>
-
 ## Globale Einstellungen
-
-<a id="Allgemeines"></a>
 
 ### Allgemeines
 
@@ -138,8 +130,6 @@ Standard-WinPlan-Datei
 
 Hier kann der Pfad zu einer WinPlan-Datei angegeben werden, so dass die Schülerstundenpläne in SchILD-NRW 2 angezeigt werden können.
 
-<a id="Ansicht"></a>
-
 ### Ansicht
 
 Warnung "Schuljahr korrekt?" anzeigen (falls angebracht)
@@ -165,9 +155,6 @@ Blendet den genannten Karteireiter aus, falls er nicht verwendet werden soll.
 Fachbezogenes Bemerkungsfeld zeigen
 
 Blendet das Datenfeld unter [Daten im aktuellen Halbjahr bearbeiten](/zeugnisse/vorbereitung/akt-halbjahr) in den Leistungsdaten der Fächer im Schülerdatensatz ein. Hier können Texte und Bemerkungen zu jedem einzelnen Fach in einem Memofeld verwaltet werden. Dieses Feld wird häufig für Textzeugnisse genutzt. In der gymnasialen Oberstufe sollte hier zum Beispiel das Projektkursthema eingetragen werden.
-
-<a id="Fächer_und_Noten"></a>
-<a id="F.C3.A4cher_und_Noten"></a>
 
 ### Fächer und Noten
 
@@ -220,8 +207,6 @@ Maximale Zeichenzahl für Bemerkungen
 
 Hier kann für die Zeugnisbemerkungen, das au8ßerunterrichtliche Engagement und das Arbeits- und Sozialverhalten eine maximale Zeichenanzahl voreingestellt werden.
 
-<a id="Dokumentenverwaltung"></a>
-
 ### Dokumentenverwaltung
 
 Dokumentenverwaltung verwenden
@@ -248,8 +233,6 @@ Auch Status "Abgänger" und "Abschluss" berücksichtigen
 
 Bezieht sich auf den o.g. Prozess.
 
-<a id="E-Mail-Versand"></a>
-
 ### E-Mail-Versand
 
 Verfahren zum Versenden der E-Mails
@@ -265,8 +248,6 @@ Typische Mailprogramme sind zum Beispiel Outlook oder Thunderbird. Bei diesem Ei
 Bei Sammel-E-Mails Adresse als BCC eintragen
 
 Diese Option bewirkt, dass bei mehreren Empfängern alle weiteren Mailadressen als BCC eingetragen sind und für die E-Mail-Empfänger dann nicht sichtbar sind. Diese Einstellung ist zum "Spam-Schutz" zu empfehlen.
-
-<a id="Wiedervorlage"></a>
 
 ### Wiedervorlage
 
@@ -284,11 +265,7 @@ Auch nicht erledigte Einträge werden nach diesem Zeitraum aus der Datenbank ent
 
 Dabei werden Einträge in die Wiedervorlage auch erhalten, wenn Schüler in den Abgänger- oder Abschlusskasten verschoben werden, so dass man auch von ehemaligen Schülern eine Wiedervorlage bekommen kann.
 
-<a id="Report-Einstellungen"></a>
-
 ### Report-Einstellungen
-
-<a id="Grundeinstellungen"></a>
 
 #### Grundeinstellungen
 
@@ -312,8 +289,6 @@ Standard-Verzeichnisstruktur verwenden
 
 Diese Option bewirkt, dass SchILD-NRW 2 automatisch im eigenen Installationsverzeichnis nach dem Ordner "SchILD-NRW 2-Reports" und den anderen Unterverzeichnissen sucht.
 
-<a id="Schnellzugriff"></a>
-
 #### Schnellzugriff
 
 ![Schnellzugriff](/bilder/administration/benutzer-einstellungen/schnellzugriff.jpg)
@@ -323,8 +298,6 @@ Auf diesem Reiter können Sie den Schnellzugriff für Repoortvorlagen aktivieren
 ![Schnellzugriff-Fenster](/bilder/administration/benutzer-einstellungen/schnellzugriff-fenster.jpg)
 
 Das Schnellzugriff-Fenster erscheint immer beim Start von SchILD-NRW 2, es kann aber über das "Schließen"-Symbol geschlossen werden. Ein Klick auf das "Drucken"-Symbol im Hauptfenster öffnet den Schnellzugriff dann wieder!
-
-<a id="SchildChat"></a>
 
 #### SchildChat
 
@@ -336,15 +309,11 @@ Legen Sie den Port fest, der für das Chatmodul verwendet werden soll. Bitte den
 
 Das Zeitintervall legt fest, in welchen Abständen die Client nach dem Chatserver suchen, da dieser ja unter Umständen erst nach dem Start der Clients aktiv wird.
 
-<a id="Farben"></a>
-
 ## Farben
 
 In diesem Menü können Sie durch Doppelklick auf die Spalte "Farbe" eine individuelle Gestaltung für die vorhandenen Fächergruppen vornehmen. Viele Schulen nutzen diese Einstellungen zur besseren Übersichtlichkeit der Fächerliste in den Leistungsdaten-Tabellen.
 
 ![Fächerfarben](/bilder/administration/benutzer-einstellungen/facherfarben.jpg)
-
-<a id="Plugins"></a>
 
 ## Plugins
 
@@ -361,8 +330,6 @@ Einige der Plugins (wie zum Beispiel auch das Plugin der Benutzerverwaltung) mü
 Sie sehen, dass es eine \*.exe (selbst ausführende Installation) und eine \*.zip (gepackte Installation) - Datei gibt.
 
 Beide haben denselben Inhalt. Da einige Kommunen die Installation von Programmen durch den Anwender in der Schule verhindern, wird auch eine Zip-Datei bereitgestellt. In der Regel können Anwender solche Dateien entpacken, wohingegen Installationen durch Beschränkungen auf dem PC unterbunden werden. Auf diesem Weg können Schulen dann Programmaktualisierungen oder Einbindungen von Plugins (auch ohne administrative Rechte auf dem PC) vornehmen.
-
-<a id="SchILDweb"></a>
 
 ## SchILDweb
 

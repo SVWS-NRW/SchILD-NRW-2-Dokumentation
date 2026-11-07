@@ -2,8 +2,6 @@
 title: "Gespeicherte Filter laden"
 ---
 
-<a id="vorhandene-filterdefinition-laden"></a>
-
 # Gespeicherte Filter laden
 
 Gespeicherte Filter müssen Sie nicht bei jeder Verwendung neu zusammenstellen. Hier laden Sie eine zuvor gespeicherte Filterdefinition und wenden sie wieder auf die Schülerauswahl an.

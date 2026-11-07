@@ -2,8 +2,6 @@
 title: "Externes Notenmodul unter Ubuntu einrichten"
 ---
 
-<a id="einrichtung-des-enm-moduls-unter-ubuntu-18-04"></a>
-
 # Externes Notenmodul unter Ubuntu einrichten
 
 Das Externe Notenmodul kann auch unter Ubuntu ausgeführt werden.

@@ -2,8 +2,6 @@
 title: "Tastenkürzel"
 ---
 
-<a id="shortcuts-in-schild-nrw"></a>
-
 # Tastenkürzel
 
 Mit Tastenkombinationen erreichen Sie häufige Funktionen ohne Maus. Die folgende Übersicht ordnet die Tasten den jeweiligen Aufgaben zu.

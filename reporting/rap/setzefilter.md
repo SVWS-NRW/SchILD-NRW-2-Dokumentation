@@ -4,11 +4,6 @@ title: "Setzefilter"
 
 # Setzefilter
 
-<a id="RAP-Funktion_&quot;Setzefilter&quot;"></a>
-<a id="RAP-Funktion_.22Setzefilter.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 schränkt die Datensätze durch die übergebene Filterbedingung ein.

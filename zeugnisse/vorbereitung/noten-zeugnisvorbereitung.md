@@ -2,8 +2,6 @@
 title: "Gruppenprozesse für Noten und Zeugnisse"
 ---
 
-<a id="noten-zeugnisvorbereitung"></a>
-
 # Gruppenprozesse für Noten und Zeugnisse
 
 Diese Übersicht bündelt die Gruppenprozesse für Noten und Zeugnisse. Beginnen Sie mit der Eingabe und der Prüfung fehlender Angaben. Danach folgen Mahnungen, Druck und besondere Korrekturfunktionen.

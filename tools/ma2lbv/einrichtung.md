@@ -12,8 +12,6 @@ Nach der Installation werden die Formulardaten der Schule, die Programmeinstellu
 
 Über **Einstellungen** tragen Sie unter anderem Schule beziehungsweise Dienststelle, Schulnummer und die übrigen nicht personenbezogenen Formulardaten ein.
 
-<a id="schild-zugriff-konfigurieren"></a>
-
 ## SchILD-NRW 2-Zugriff konfigurieren
 
 1. Öffnen Sie aus den allgemeinen Einstellungen den Dialog für **SchILD-NRW 2-Zugriff / Benutzerdaten**.

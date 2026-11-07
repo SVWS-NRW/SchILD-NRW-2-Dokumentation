@@ -2,8 +2,6 @@
 title: "Abgänger mit fehlendem Lernabschnitt"
 ---
 
-<a id="schuler-mit-fehlendem-abschnitt-status-abgang"></a>
-
 # Abgänger mit fehlendem Lernabschnitt
 
 Bei Auswahl dieser Filtermöglichkeit werden Ihnen unter allen Abgängern beziehungsweise Schülern mit Abschluss alle die mit fehlendem Abschnitt angezeigt.

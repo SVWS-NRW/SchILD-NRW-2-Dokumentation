@@ -4,11 +4,6 @@ title: "SelectOption"
 
 # SelectOption
 
-<a id="RAP-Funktion_&quot;SelectOption&quot;"></a>
-<a id="RAP-Funktion_.22SelectOption.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 ermöglicht die Auswahl eines Elements aus einer Auswahlliste

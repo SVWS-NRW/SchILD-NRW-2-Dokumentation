@@ -2,8 +2,6 @@
 title: "Menü Extras"
 ---
 
-<a id="extras"></a>
-
 # Menü Extras
 
 ![Extras](/bilder/administration/benutzer-einstellungen/extras.jpg)
@@ -14,13 +12,9 @@ Unter diesem Menüpunkt stehen Ihnen einige Prozesse zur Verfügung, die zur Ein
 
 Hier legen Sie einige Individuelle und Globale Einstellungen fest.
 
-<a id="kennwort-aendern"></a>
-
 - Kennwort ändern
 
 Hier kann das Kennwort des angemeldeten Datenbank-Benutzers neu vergeben werden. (Wichtig, wenn Sie über die Benutzerverwaltung die Lehrer eingefügt haben, da diese dann zunächst alle ihr eigenes Kürzel als Passwort haben und dies zeitnah durch jeden Kollegen geändert werden sollte.)
-
-<a id="datenbanknutzer"></a>
 
 - Aktuelle Datenbanknutzer zeigen.
 
@@ -30,31 +24,19 @@ Es werden die an der Datenbank angemeldeten Computer angezeigt. Da diese Daten d
 
 Führen Sie mit diesem Menüpunkt eine schnelle Sicherung der Datenbank durch. Nur für Access-Datenbanken verfügbar.
 
-<a id="notenliste"></a>
-
 - Notenliste anzeigen
 
 Es erscheint ein Fenster, das die verfügbaren Notenkürzel und den zugehörigen Notenklartext anzeigt.
 
 - [Automatische Prozesse ausführen](/schild2/gruppenprozesse/automatische-prozesse-ausfuehren)
 
-<!-- -->
-
 - [Gelöschte Daten zurückholen](/schild2/gruppenprozesse/geloeschte-daten-zurueckholen)
-
-<!-- -->
 
 - [Schulpflicht zum Schuljahresende](/schild2/gruppenprozesse/schulpflicht-autom-setzen-zum-sj-ende)
 
-<!-- -->
-
 - [Fehlende Lernabschnitte](/schild2/gruppenprozesse/fehlende-abschnittsdaten-anlegen)
 
-<!-- -->
-
 - [Kurse aus Kurs42 neu laden](/schild2/gruppenprozesse/kurse-neu-laden-nach-bearbeitung-in-kurs42)
-
-<!-- -->
 
 - [Fächer sortieren](/schild2/gruppenprozesse/faecher-in-leistungsdaten-neu-sortieren)
 
@@ -62,25 +44,13 @@ Steht nicht bei der Schulform BK zur Verfügung, weil diese Funktion dort als Gr
 
 - [Kurse sortieren](/schild2/gruppenprozesse/kurse-neu-sortieren)
 
-<!-- -->
-
 - [Fotos verkleinern](/schild2/gruppenprozesse/fotos-neu-skalieren)
-
-<!-- -->
 
 - [Aufnahmejahr zurücksetzen](/schild2/gruppenprozesse/aufnahmejahr-fuer-neuaufnahmen-zuruecksetzen)
 
-<!-- -->
-
 - [Straße und Hausnummer trennen](/schild2/gruppenprozesse/strasse-und-hausnummer-bei-schuelerdaten-trennen)
 
-<!-- -->
-
 - [Datenbank aufräumen](/administration/datenbanken/aufraeumen)
-
-<!-- -->
-
-<a id="markierungen-entfernen"></a>
 
 - Alle Markierungen entfernen
 
@@ -88,13 +58,7 @@ Löscht alle Markierungen im [Schülerliste und Auswahl](/einstieg/grundlagen/co
 
 - [SQL-Befehle eingeben](/administration/datenbanken/sql-befehle-eingeben)
 
-<!-- -->
-
 - [Transaktionsprotokoll verwenden](/administration/datenbanken/transaktionsprotokoll-verwenden)
-
-<!-- -->
-
-<a id="transaktionsprotokoll-zeigen"></a>
 
 - Transaktionsprotokoll anzeigen
 

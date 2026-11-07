@@ -2,8 +2,6 @@
 title: "Schülerliste und Auswahl"
 ---
 
-<a id="container"></a>
-
 # Schülerliste und Auswahl
 
 Die Schülerliste zeigt die Personen, auf die Ihre aktuelle Auswahl zutrifft. Im früheren Wiki und an einigen Programmstellen heißt dieser Bereich „Container“. Filter verändern den Inhalt der Liste; die Anzahl der ausgewählten Personen steht unten links.

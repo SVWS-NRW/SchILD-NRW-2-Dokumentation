@@ -2,8 +2,6 @@
 title: "Fehlende Einträge finden"
 ---
 
-<a id="filter-auf-fehlende-eintrage"></a>
-
 # Fehlende Einträge finden
 
 Dieser Menüpunkt dient ausschließlich zur Überprüfung der Vollständigkeit der Schülerdaten.

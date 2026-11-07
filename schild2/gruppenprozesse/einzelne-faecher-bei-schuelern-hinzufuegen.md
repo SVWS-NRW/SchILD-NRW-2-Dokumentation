@@ -2,8 +2,6 @@
 title: "Einzelne Fächer hinzufügen"
 ---
 
-<a id="einzelne-facher-bei-schulern-hinzufugen"></a>
-
 # Einzelne Fächer hinzufügen
 
 Hier tragen Sie ein einzelnes Unterrichtsfach bei mehreren ausgewählten Personen nach. Die vorhandenen Leistungsdaten bilden dabei den Ausgangspunkt; das Eingabefenster heißt **Einzelfach nachtragen**.

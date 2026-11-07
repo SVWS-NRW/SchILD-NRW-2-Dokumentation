@@ -4,11 +4,6 @@ title: "SetFont"
 
 # SetFont
 
-<a id="RAP-Funktion_&quot;SetFont&quot;"></a>
-<a id="RAP-Funktion_.22SetFont.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Setzt den Zeichensatz für alle Komponenten des Reports

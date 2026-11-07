@@ -2,8 +2,6 @@
 title: "Allgemeine Gruppenprozesse"
 ---
 
-<a id="allgemeines"></a>
-
 # Allgemeine Gruppenprozesse
 
 Der Reiter **Allgemeines** bündelt Gruppenprozesse für Stammdaten, Zuordnungen und Datenpflege. Ein Gruppenprozess führt dieselbe Änderung für mehrere ausgewählte Personen aus. Wählen Sie die Personen deshalb aus, bevor Sie die konkrete Funktion starten.

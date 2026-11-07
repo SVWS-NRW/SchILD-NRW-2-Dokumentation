@@ -12,4 +12,4 @@ Sichern Sie die Datenbank vor Wartung oder umfangreichen Änderungen. Die folgen
 - [UDL-Dateien öffnen](/administration/installation/udl-dateien-unter-64-bit?rubrik=hilfe)
 - [SQL-Befehle eingeben](/administration/datenbanken/sql-befehle-eingeben?rubrik=hilfe)
 
-Die allgemeine Menüreferenz finden Sie unter [Datei-Menü](/administration/datenbanken/datei?referenz=menue-1).
+Die allgemeine Menüreferenz finden Sie unter [Datei-Menü](/administration/datenbanken/datei?referenz).

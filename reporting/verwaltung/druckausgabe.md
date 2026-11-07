@@ -2,15 +2,9 @@
 title: "Druckfunktionen und Reportausgabe"
 ---
 
-<a id="druckausgabe"></a>
-
 # Druckfunktionen und Reportausgabe
 
 Im Menü **Druckausgabe** wählen Sie den Ausgabeweg für Ihre Daten. Der Report-Explorer verwaltet Vorlagen, während die Archivfunktion bereits gespeicherte Ausgaben öffnet. Welche Funktionen verfügbar sind, hängt auch von den Benutzerrechten ab.
-
-<a id="Reportexplorer_aufrufen"></a>
-
-<a id="reportexplorer-aufrufen"></a>
 
 ## Report-Explorer öffnen
 
@@ -19,8 +13,6 @@ Der Aufruf dieses Menüpunktes "Report-Explorer aufrufen" kann in den Benutzerei
 Hier haben Sie Zugriff auf alle Reports, die im Report-Verzeichnis von SchILD-NRW 2 gespeichert sind.
 
 Weitere Informationen: [Reports im Report-Explorer auswählen](/reporting/verwaltung/reportexplorer-aufrufen)
-
-<a id="Report_aus_Ordner_Standard_drucken"></a>
 
 ## Report aus Ordner Standard drucken
 
@@ -32,8 +24,6 @@ Ansonsten sind die Funktionen je nach Benutzereinstellungen wie im Menüpunkt
 
 [Reports im Report-Explorer auswählen](/reporting/verwaltung/reportexplorer-aufrufen).
 
-<a id="Report_aus_Archiv_drucken"></a>
-
 ## Report aus Archiv drucken
 
 Der ReportBuilder ermöglicht es, aus allen Reports in ein SchILD-NRW 2 eigenes Archiv-Format zu drucken.
@@ -42,8 +32,6 @@ Informationen und Hinweise zum Archivdruck finden Sie hier.
 
 [Report aus Archiv drucken](/reporting/verwaltung/report-aus-archiv-drucken)
 
-<a id="Word-Seriendruck"></a>
-
 ## Word-Seriendruck
 
 Es werden zwei Textverarbeitungsprogramme unterstützt. (OpenOffice und MSWord)
@@ -51,8 +39,6 @@ Es werden zwei Textverarbeitungsprogramme unterstützt. (OpenOffice und MSWord)
 SchILD-NRW 2 erzeugt dabei eine Steuerdatei für den Serienbriefdruck und verknüpft die entsprechenden Dokumente direkt mit dieser Steuerdatei.
 
 Hinweise zum Verfahren mit Serienbriefen finden Sie hier: [Word-Seriendruck](/reporting/verwaltung/word-seriendruck)
-
-<a id="Textzeugnisse_zuordnen"></a>
 
 ## Textzeugnisse zuordnen
 
@@ -67,8 +53,6 @@ Diese Vordrucke werden dann mit entsprechenden Daten versehen, wobei Leistungsda
 Die Zeugnisse können dann von den Kollegen außerhalb von SchILD-NRW 2 vervollständigt werden.
 
 Lesen Sie bitte hier weiter: [Textzeugnisse zuordnen](/zeugnisse/grundschule/textzeugnisse-zuordnen).
-
-<a id="Textzeugnisse_erzeugen"></a>
 
 ## Textzeugnisse erzeugen
 

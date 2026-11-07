@@ -4,11 +4,6 @@ title: "UebersichtsfachModus"
 
 # UebersichtsfachModus
 
-<a id="RAP-Funktion_&quot;UebersichtsfachModus&quot;"></a>
-<a id="RAP-Funktion_.22UebersichtsfachModus.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Durch den Parameter dieser Prozedur wird die Einsortierung

@@ -2,8 +2,6 @@
 title: "Versetzung jahrgangsübergreifender Klassen"
 ---
 
-<a id="versetzungstabelle-bei-jahrgangsubergreifenden-klassen"></a>
-
 # Versetzung jahrgangsübergreifender Klassen
 
 In Schulen, die teilweise oder durchgehend mit jahrgangsübergreifenden Klassen arbeiten (was häufig an Förderschulen der Fall ist), ist die Versetzungstabelle folgendermaßen anzulegen:

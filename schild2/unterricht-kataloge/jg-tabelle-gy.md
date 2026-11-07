@@ -2,8 +2,6 @@
 title: "Statistikjahrgänge an Gymnasien"
 ---
 
-<a id="jg-tabelle-gy"></a>
-
 # Statistikjahrgänge an Gymnasien
 
 Dieses Beispiel zeigt eine Jahrgangstabelle für ein Gymnasium mit Halbjahresbetrieb. Die Abbildung und die Hinweise stammen aus der ursprünglichen Anleitung; die allgemeine Bedeutung der Felder erläutert der Artikel **Statistikjahrgänge**.

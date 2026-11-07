@@ -2,8 +2,6 @@
 title: "Leistungsdaten im Kursunterricht bearbeiten"
 ---
 
-<a id="leistungsdaten-kursunterricht"></a>
-
 # Leistungsdaten im Kursunterricht bearbeiten
 
 Dieses Tutorial gibt eine Einführung in den Umgang mit den Leistungsdaten für Kursunterricht. Kursunterricht ist Unterricht, der nicht im normalen Klassenverband gegeben wird. Dies ist zum Beispiel im Wahlpflichtbereich der Jahrgangsstufen 8 und 9 an Gymnasien der Fall. Auch der gesamte Oberstufenunterricht ist im Regelfall Kursunterricht. Daher wird in diesem Tutorial ebendies gesondert betrachtet, da sich hier verschiedene Vorgehensweisen anbieten. Es wird erklärt, wie man die Kurs- und Leistungsdaten der Schüler in SchILD-NRW 2 anlegt beziehungsweise importiert, wo weitere Eintragungen, wie zum Beispiel Arbeits- und Sozialverhalten, durchgeführt werden können und wie man Daten ändern und löschen kann.

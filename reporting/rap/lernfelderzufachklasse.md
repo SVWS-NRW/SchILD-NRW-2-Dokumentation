@@ -4,11 +4,6 @@ title: "LernfelderZuFachklasse"
 
 # LernfelderZuFachklasse
 
-<a id="RAP-Funktion_&quot;LernfelderZuFachklasse&quot;"></a>
-<a id="RAP-Funktion_.22LernfelderZuFachklasse.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Gibt die Lernfelder einer Fachklasse aus

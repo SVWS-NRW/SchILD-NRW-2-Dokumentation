@@ -4,11 +4,6 @@ title: "GeRNiveauAusFachKrz"
 
 # GeRNiveauAusFachKrz
 
-<a id="RAP-Funktion_&quot;GeRNiveauAusFachKrz&quot;"></a>
-<a id="RAP-Funktion_.22GeRNiveauAusFachKrz.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 bestimmt das eingetragene Sprachniveau zum Fachkürzel aus der Sprachenfolge

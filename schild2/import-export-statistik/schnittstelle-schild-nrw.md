@@ -2,10 +2,6 @@
 title: "Datenaustausch über die SchILD-NRW 2-Schnittstelle"
 ---
 
-<a id="schnittstelle-schild-nrw"></a>
-
-<a id="datenaustausch-uber-die-schild-schnittstelle"></a>
-
 # Datenaustausch über die SchILD-NRW 2-Schnittstelle
 
 Die Schnittstelle SchILD-NRW 2 wurde ursprünglich zum Import beziehungsweise Export der statistikrelevanten Daten eingeführt.

@@ -2,8 +2,6 @@
 title: "Neue Schüler aufnehmen"
 ---
 
-<a id="neuaufnahmen-in-schild-nrw-001"></a>
-
 # Neue Schüler aufnehmen
 
 Diese Anleitung beschreibt die Neuaufnahme von Schülerinnen und Schülern in SchILD-NRW 2.

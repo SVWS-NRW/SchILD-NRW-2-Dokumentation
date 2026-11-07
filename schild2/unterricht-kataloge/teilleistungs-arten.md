@@ -2,8 +2,6 @@
 title: "Teilleistungsarten"
 ---
 
-<a id="teilleistungs-arten"></a>
-
 # Teilleistungsarten
 
 In diesem Menü werden die Einträge angelegt, die als Teilleistungen bei den Schülerleistungsdaten zur Verfügung stehen sollen.

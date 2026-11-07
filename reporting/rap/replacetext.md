@@ -4,11 +4,6 @@ title: "ReplaceText"
 
 # ReplaceText
 
-<a id="RAP-Funktion_&quot;ReplaceText&quot;"></a>
-<a id="RAP-Funktion_.22ReplaceText.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Ersetzt eine vorgegebene Textstelle durch einen anderen Text und liefert den veränderten Text zurück.

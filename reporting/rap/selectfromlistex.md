@@ -4,11 +4,6 @@ title: "SelectFromListEx"
 
 # SelectFromListEx
 
-<a id="RAP-Funktion_&quot;SelectFromListEx&quot;"></a>
-<a id="RAP-Funktion_.22SelectFromListEx.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 ermöglicht die Auswahl eines Elemente aus einer Dropdown-Liste, deren

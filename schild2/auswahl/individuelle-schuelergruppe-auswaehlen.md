@@ -2,8 +2,6 @@
 title: "Gespeicherte Schülergruppe auswählen"
 ---
 
-<a id="individuelle-schulergruppe-auswahlen"></a>
-
 # Gespeicherte Schülergruppe auswählen
 
 Eine gespeicherte Schülergruppe können Sie als aktuelle Schülerauswahl laden. Legen Sie die Gruppe vorher über **Individuelle Schülergruppe bearbeiten** an, falls sie noch nicht vorhanden ist.

@@ -4,11 +4,6 @@ title: "EditText"
 
 # EditText
 
-<a id="RAP-Funktion_&quot;EditText&quot;"></a>
-<a id="RAP-Funktion_.22EditText.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Ruft einen Texteditor für Text ohne Formatierung auf.

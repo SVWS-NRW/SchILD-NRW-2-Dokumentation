@@ -2,8 +2,6 @@
 title: "Bescheinigungen für bilinguale Bildungsgänge"
 ---
 
-<a id="bescheinigungen-des-bilingualen-bildungsgangs"></a>
-
 # Bescheinigungen für bilinguale Bildungsgänge
 
 Diese Anleitung erläutert die Einstellungen für Bescheinigungen eines bilingualen Bildungsgangs. Die folgenden Parameter steuern, welche Angaben das verwendete Formular ausgibt.

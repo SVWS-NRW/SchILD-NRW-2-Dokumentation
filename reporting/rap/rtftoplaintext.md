@@ -4,11 +4,6 @@ title: "RtfToPlaintext"
 
 # RtfToPlaintext
 
-<a id="RAP-Funktion_&quot;RtfToPlaintext&quot;"></a>
-<a id="RAP-Funktion_.22RtfToPlaintext.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Entfernt die Formatangaben aus einem RTF-Text. Zurück bleibt der reine Textinhalt.

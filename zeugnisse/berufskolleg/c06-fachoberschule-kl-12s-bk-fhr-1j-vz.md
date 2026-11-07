@@ -2,8 +2,6 @@
 title: "C06 Fachoberschule Klasse 12S"
 ---
 
-<a id="c06-fachoberschule-kl-12s-bk-fhr-1j-vz"></a>
-
 # C06 Fachoberschule Klasse 12S
 
 Diese Seite zeigt ein Bildbeispiel zur Abschlussberechnung für den im Titel genannten Bildungsgang. Vergleichen Sie die dargestellte Ansicht mit Ihrem Bildungsgang. Die Bedeutung des Karteireiters und die allgemeinen Arbeitsschritte erläutert [BK-Abschlussverfahren](/zeugnisse/berufskolleg/bk-abschluss?rubrik=schild2).

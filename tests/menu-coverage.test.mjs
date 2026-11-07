@@ -1,7 +1,7 @@
 import test from 'node:test'
 import assert from 'node:assert/strict'
 import fs from 'node:fs'
-import { articlePath, contextualSidebar } from '../.vitepress/section-navigation.mjs'
+import { articlePath } from '../.vitepress/section-navigation.mjs'
 import { createMarkdownRenderer } from 'vitepress'
 import { createSidebar } from '../.vitepress/sidebar.mjs'
 import { printNavigation } from '../.vitepress/section-print-loader.mjs'
@@ -27,7 +27,7 @@ test('Jeder veröffentlichte Artikel ist ausdrücklich einem Themenmenü zugeord
   for(const file of files(dir).filter(f=>f.endsWith('.md'))) {
    const route='/'+file.replace(/\/index\.md$/,'/').replace(/\.md$/,'')
    assert(entries.has(articlePath(route)),`Artikel ohne Menü: ${file}`)
-   assert(Object.keys(sidebar).some(prefix=>('/'+file).startsWith(prefix)),`Direkt aufgerufener Artikel ohne Seitenmenü: ${file}`)
+   assert(sidebar.sectionFor(route),`Direkt aufgerufener Artikel ohne Seitenmenü: ${file}`)
   }
  }
 })
@@ -36,7 +36,7 @@ test('Alle Rubriken und Toolmenüs behalten jeden Seitenmenülink im eigenen Kon
  const sidebar=createSidebar(navigation),sections=Object.keys(navigation.sidebar)
  for(const section of sections) {
   for(const target of walk(navigation.sidebar[section]).filter(n=>n.link?.startsWith('/'))) {
-   const menu=contextualSidebar(sidebar[section],section,target.link)
+   const menu=sidebar.menuFor(section).forArticle(target.link)
    for(const entry of walk(menu[0].items).filter(n=>n.link?.startsWith('/'))) {
     const url=new URL(entry.link,'https://docs.invalid')
     const expected=section

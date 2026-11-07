@@ -4,9 +4,6 @@ title: "Datenliste"
 
 # Datenliste
 
-<a id="RAP-Funktion_&quot;Datenliste&quot;"></a>
-<a id="RAP-Funktion_.22Datenliste.22"></a>
-
 ## Beschreibung
 
 Diese liefert eine Liste (getrennt durch ein wählbares Trennzeichen ) für ein Feld in einer Datenquelle, mit der Option, ob doppelt auftretende Werte ausgegeben werden sollen oder nicht.

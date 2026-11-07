@@ -2,8 +2,6 @@
 title: "Statistikjahrgänge einrichten"
 ---
 
-<a id="statistik-jahrgange"></a>
-
 # Statistikjahrgänge einrichten
 
 Bei den Statistik-Jahrgängen handelt es sich um eine entscheidende Tabelle in SchILD-NRW 2. Hier wird festgelegt, welche Jahrgänge in den Bildungsgängen zur Verfügung stehen und wie diese an die Statistik übermittelt werden.

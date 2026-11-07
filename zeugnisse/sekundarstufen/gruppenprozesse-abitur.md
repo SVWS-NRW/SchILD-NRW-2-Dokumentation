@@ -2,8 +2,6 @@
 title: "Gruppenprozesse für das Abitur"
 ---
 
-<a id="gruppenprozesse-abitur"></a>
-
 # Gruppenprozesse für das Abitur
 
 Diese Übersicht führt durch die Gruppenprozesse der Abiturberechnung. Folgen Sie der Reihenfolge von der Übernahme der Leistungsdaten über die Zulassung bis zur Ermittlung des Gesamtergebnisses.

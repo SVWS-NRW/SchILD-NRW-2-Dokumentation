@@ -2,8 +2,6 @@
 title: "Individualdaten I"
 ---
 
-<a id="individual-daten-i"></a>
-
 # Individualdaten I
 
 Auf diesem Karteireiter wird der erste Teil der Individualdaten gespeichert. Die statistisch relevanten Daten werden mit grüner Farbe gekennzeichnet. (Diese Färbung lässt sich unter den Programmeinstellungen verändern.)
@@ -34,8 +32,6 @@ Hier können über ein Menü einige Funktionen erreicht werden:
 - Zugehörigkeit zu Gruppen zeigen (Schwebefenster mit Gruppen wird gezeigt)
 - Vermerke zeigen (Schwebefenster mit Vermerken zum Schüler wird gezeigt)
 - Telefonnummern zeigen (Schwebefenster mit Telefonnummern von [Erziehungsberechtigte](/schild2/schueler/erz-berechtigte) wird gezeigt
-
-<a id="aktuelle-laufbahndaten"></a>
 
 ## Aktuelle Laufbahndaten
 

@@ -2,8 +2,6 @@
 title: "Abiturberechnungen durchführen"
 ---
 
-<a id="abiturdurchlauf"></a>
-
 # Abiturberechnungen durchführen
 
 Dieses Tutorial soll helfen, die kompletten Abiturberechnungen fehlerfrei durchzuführen. Dazu wird erläutert, welche Vorbereitungen für die Abiturberechnungen zu treffen sind, in welcher Reihenfolge die Berechnungen durchgeführt werden sollten und es wird auf mögliche Fehlerquellen hingewiesen. Genutzt werden dazu die [Gruppenaktionen für das Abitur](/zeugnisse/sekundarstufen/gruppenaktionen-abitur) und der Karteireiter [Abitur](/zeugnisse/sekundarstufen/abitur). Diesen Seiten können Sie jeweils weitere Informationen entnehmen. Alle Berechnungen sollten für den gesamten Abiturjahrgang über die zur Verfügung stehenden Gruppenprozesse durchgeführt werden. Jede Aktion beziehungsweise Berechnung kann aber auch für einen einzelnen Schüler unter dem Karteireiter "Abitur" vorgenommen werden.

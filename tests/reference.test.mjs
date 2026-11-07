@@ -36,6 +36,7 @@ test('Alte Abschnittsbefehle wählen den Artikel, ohne zusätzliche Menüeinträ
  const id='lupo-schueler',route='/schild2/import-export-statistik/export-fuer-lupo'
  assert.equal(referenceActiveId(reference,id,route),'menue-80')
  assert.equal(referencePageId(reference,id,route),'menue-80')
+ assert.equal(referencePageId(reference,'',route),'menue-80')
  assert.equal(referencePageId(reference,'schnellfilter-klasse','/einstieg/grundlagen/hauptfenster'),'menue-2')
  const entries=referenceEntries(reference)
  assert(entries.some(n=>n.id==='menue-menue-6-3'),'Kinder unter einem Abschnitt dürfen nicht verschwinden')

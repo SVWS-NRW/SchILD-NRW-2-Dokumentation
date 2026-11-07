@@ -4,11 +4,6 @@ title: "SetzeKlassenAdressArt"
 
 # SetzeKlassenAdressArt
 
-<a id="RAP-Funktion_&quot;SetzeKlassenAdressArt&quot;"></a>
-<a id="RAP-Funktion_.22SetzeKlassenAdressArt.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Diese Prozedur kann benutzt werden, wenn die Datenquelle

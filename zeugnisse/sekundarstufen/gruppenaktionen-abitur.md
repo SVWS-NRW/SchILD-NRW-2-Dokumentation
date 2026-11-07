@@ -2,8 +2,6 @@
 title: "Gruppenaktionen für das Abitur"
 ---
 
-<a id="gruppenaktionen-abitur"></a>
-
 # Gruppenaktionen für das Abitur
 
 Hier finden Sie die Gruppenprozesse für die Abiturberechnung in ihrer Arbeitsreihenfolge. Übernehmen Sie zuerst die Leistungsdaten; darauf bauen Zulassung, Prüfungen und Gesamtergebnis auf.

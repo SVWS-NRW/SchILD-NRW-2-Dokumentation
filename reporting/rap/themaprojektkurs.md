@@ -4,11 +4,6 @@ title: "ThemaProjektKurs"
 
 # ThemaProjektKurs
 
-<a id="RAP-Funktion_&quot;ThemaProjektKurs&quot;"></a>
-<a id="RAP-Funktion_.22ThemaProjektKurs.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Liefert das bei den Leistungsdaten des Fachs hinterlegte Thema des Projektkurses.

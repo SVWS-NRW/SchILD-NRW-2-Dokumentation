@@ -4,11 +4,6 @@ title: "FilterAdressArt"
 
 # FilterAdressArt
 
-<a id="RAP-Funktion_&quot;FilterAdressArt&quot;"></a>
-<a id="RAP-Funktion_.22FilterAdressArt.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Grenzt die berücksichtigten Adressen auf die angegebene Adressart ein. Die Adressart wird als Text übergeben.

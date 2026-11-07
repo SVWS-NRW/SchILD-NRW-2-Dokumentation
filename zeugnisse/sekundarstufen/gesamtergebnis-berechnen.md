@@ -2,8 +2,6 @@
 title: "Abiturergebnis berechnen"
 ---
 
-<a id="gesamtergebnis-berechnen"></a>
-
 # Abiturergebnis berechnen
 
 Dieser Gruppenprozess bildet den Abschluss bei der Abiturberechnung.

@@ -4,11 +4,6 @@ title: "ZeugnisDatenquellenOeffnen"
 
 # ZeugnisDatenquellenOeffnen
 
-<a id="RAP-Funktion_&quot;ZeugnisDatenquellenOeffnen&quot;"></a>
-<a id="RAP-Funktion_.22ZeugnisDatenquellenOeffnen.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Öffnet alle in Zeugnissen benötigten Datenquellen. In Zeugnissen, in denen die

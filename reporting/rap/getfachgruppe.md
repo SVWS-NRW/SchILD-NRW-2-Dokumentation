@@ -4,11 +4,6 @@ title: "GetFachgruppe"
 
 # GetFachgruppe
 
-<a id="RAP-Funktion_&quot;GetFachgruppe&quot;"></a>
-<a id="RAP-Funktion_.22GetFachgruppe.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 bestimmt den Klartextnamen einer bestimmten Fächergruppe

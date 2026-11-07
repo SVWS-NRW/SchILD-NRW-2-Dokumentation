@@ -3,13 +3,9 @@ title: "Barrierefreiheitserklärung des Wikis"
 search: false
 ---
 
-<a id="erklarung-zur-barrierefreiheit"></a>
-
 # Barrierefreiheitserklärung des Wikis
 
 Diese Erklärung bezieht sich auf die frühere Wiki-Website. Sie beschreibt deren damaligen Stand der Barrierefreiheit und ist keine Bewertung dieser VitePress-Dokumentation.
-
-<a id="Barrierefreiheit_dieser_Internetseite"></a>
 
 ## Barrierefreiheit dieser Internetseite
 
@@ -18,8 +14,6 @@ Das Ministerium für Schule und Bildung des Landes Nordrhein-Westfalen ist bemü
 Die Anforderungen der Barrierefreiheit ergeben sich aus Paragraphen 3 Absätze 1 bis 4 und Paragraph 4 der Barrierefreien-Informationstechnik-Verordnung NRW (BITV NRW), die auf der Grundlage von § 10e Behindertengleichstellungsgesetz (BGG NRW) erlassen wurde.
 
 Die folgende Erklärung zur Barrierefreiheit gilt für den Internetauftritt <https://wiki.svws.nrw.de/mediawiki/> und wurde im Juni 2024 angepasst.
-
-<a id="Stand_der_Vereinbarkeit_mit_den_Anforderungen_zur_barrierefreien_Informationstechnik"></a>
 
 ## Stand der Vereinbarkeit mit den Anforderungen zur barrierefreien Informationstechnik
 
@@ -35,14 +29,9 @@ Die aufgeführten Inhalte sind nicht barrierefrei:
 - PDF-Dokumente sind nicht ausreichend barrierefrei gestaltet
 - XHTML-Syntax ist vereinzelt fehlerhaft
 
-<a id="Erstellung_dieser_Erklärung"></a>
-<a id="Erstellung_dieser_Erkl.C3.A4rung"></a>
-
 ## Erstellung dieser Erklärung
 
 Diese Erklärung wurde im Juni 2024 zu Düsseldorf angepasst.
-
-<a id="Feedback_und_Kontakt"></a>
 
 ## Feedback und Kontakt
 
@@ -60,9 +49,6 @@ Völklinger Straße 49
 
 Telefon: (0211) 58 67 - 40
 
-<a id="Überwachungsstelle_für_barrierefreie_Informationstechnik_des_Landes_Nordrhein-Westfalen"></a>
-<a id=".C3.9Cberwachungsstelle_f.C3.BCr_barrierefreie_Informationstechnik_des_Landes_Nordrhein-Westfalen"></a>
-
 ## Überwachungsstelle für barrierefreie Informationstechnik des Landes Nordrhein-Westfalen
 
 Die Überwachungsstelle für barrierefreie Informationstechnik des Landes Nordrhein-Westfalen prüft regelmäßig, ob und inwiefern Internetseiten und mobile Anwendungen öffentlicher Stellen des Landes den Anforderungen an die Barrierefreiheit genügen. Ziel der Arbeit der Überwachungsstelle ist es, die Einhaltung der Anforderungen an die barrierefreie Informationstechnik sicherzustellen und für eine flächendeckende Umsetzung der gesetzlichen Regelungen zu sorgen.
@@ -70,9 +56,6 @@ Die Überwachungsstelle für barrierefreie Informationstechnik des Landes Nordrh
 Eine E-Mail an die Überwachungsstelle können Sie an die E-Mail-Adresse <ombudsstelle-barrierefreie-it@mags.nrw.de> senden.
 
 Weitere Informationen zur Überwachungsstelle finden Sie hier: [www.mags.nrw/ueberwachungsstelle-barrierefreie-informationstechnik](https://www.mags.nrw/ueberwachungsstelle-barrierefreie-informationstechnik)
-
-<a id="Schlichtungsverfahren/Durchsetzungsverfahren"></a>
-<a id="Schlichtungsverfahren.2FDurchsetzungsverfahren"></a>
 
 ## Schlichtungsverfahren/Durchsetzungsverfahren
 

@@ -18,8 +18,6 @@ Wenn Sie in der Übersicht der Lehrkräfte auf den Karteireiter "Details" klicke
 
 Lehrer, die auf "unsichtbar" geschaltet sind, sind in der Übersichtstabelle grau hinterlegt. Wenn der Haken bei "nur sichtbare Datensätze anzeigen" angeklickt ist, werden diese Lehrer ausgeblendet. Bei unsichtbaren Lehrern ist der Karteireiter "Details" ausgeblendet. Wenn Sie diesen dennoch erreichen möchten, müssen Sie auf das "-"-Zeichen in der Spalte "Sichtbar" einen Doppelklick machen.
 
-<a id="Basisdaten_der_Lehrer"></a>
-
 ## Basisdaten der Lehrer
 
 ![Lehrer_02](/bilder/schild2/lehrkraefte/lehrer-02.jpg)
@@ -36,16 +34,11 @@ Das Feld "kann folgende Fächer unterrichten" ist ein frei definierbares Textfel
 
 Fotos von Lehrern können über den Kamera-Button eingebunden werden. Bitte beachten Sie dabei wie in allen anderen Stellen in SchILD-NRW 2, wo Fotos eingebunden werden, dass die Bilder (möglichst im jpg-Format) vorher in eine sinnvolle Größe gebracht werden. Über den Button mit dem Radiergummi werden Fotos gelöscht. Der Button mit dem Pinsel öffnet ein Fenster mit drei Bearbeitungsmöglichkeiten. (Helligkeit, Kontrast und Drehung)
 
-<a id="Schulbezogene_Daten_der_Lehrer"></a>
-
 ## Schulbezogene Daten der Lehrer
 
 Dieser Karteireiter beinhaltet ausschließlich statistikrelevante Daten. Diese Eintragungen benötigen Sie, wenn Sie die Lehrerdaten per Lehrer.txt nach ASDPC32 bringen wollen. Die Lehrämter, -befähigungen und Anerkennungen werden dabei aus der Datei Statkue.mdb aus dem Ordner "Keytabs" der Schildinstallation ausgewertet. Sollten hier einmal neuere Werte nicht zur Verfügung stehen, so führen Sie bitte ein Update durch (Startseite -\> Downloads -\> Hilfstabellen --\>\> statkue.zip herunterladen und in das Verzeichnis Keytabs von SchILD-NRW 2 entpacken).
 
 Die möglichen und nötigen Eintragungen in diesem Bereich können Sie aus den Schlüsselverzeichnissen von IT.NRW entnehmen.
-
-<a id="Zeitabhängige_Daten_der_Lehrer"></a>
-<a id="Zeitabh.C3.A4ngige_Daten_der_Lehrer"></a>
 
 ## Zeitabhängige Daten der Lehrer
 
@@ -60,8 +53,6 @@ Die Angaben für Mehrleistung, Minderleistung und Nichtunterrichtliche Tätigkei
 Der Reiter "Schulinterne Funktionen" bietet Ihnen zusätzlich bei den Lehrkräften eigene Funktionen oder Merkmale zu verwalten. Bevor Sie bei "Funktion" auswählen können, müssen Sie über den Schalter "Katalog der schulinternen Funktionen bearbeiten" zunächst die gewünschten Funktionen definieren, wobei Sie die gewünschten Bezeichnungen frei wählen können. Dieser Katalog ist nicht relevant für die Statistik.
 
 In einem Report können Sie über die Datenquelle "Lehrerfunktionen" als Unterdatenquelle auf diese Werte zugreifen.
-
-<a id="SchildWeb"></a>
 
 ## SchildWeb
 

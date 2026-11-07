@@ -2,30 +2,19 @@
 title: "Herkunftssprachlicher Unterricht"
 ---
 
-<a id="herkunftssprachlicher-unterricht-bass-13-61-nr-2"></a>
-
 # Herkunftssprachlicher Unterricht
 
 Diese Anleitung erläutert die Erfassung des herkunftssprachlichen Unterrichts, der zugehörigen Sprachprüfung und der Zeugnisangaben. Zuerst werden die im Ausgangstext beschriebenen Voraussetzungen eingeordnet; danach folgen die Einstellungen in SchILD-NRW 2.
 
-<a id="Herkunftssprachlicher_Unterricht"></a>
-
 ## Herkunftssprachlicher Unterricht
-
-<a id="Zielgruppe"></a>
 
 ### Zielgruppe
 
 Schülerinnen und Schülern mit internationaler Familiengeschichte, die ganz normal am Regelunterricht teilnehmen.
 
-<a id="Teilnahmepflicht"></a>
-
 ### Teilnahmepflicht
 
 Die Anmeldung verpflichtet zur regelmäßigen Teilnahme. Eine Abmeldung ist nur zum Schuljahresende für das kommende Schuljahr möglich.
-
-<a id="Sprachprüfung"></a>
-<a id="Sprachpr.C3.BCfung"></a>
 
 ### Sprachprüfung
 
@@ -35,11 +24,7 @@ Schülerinnen und Schüler können mit einer mindestens guten Leistung in der Sp
 
 Bei Erreichen einer mindestens ausreichenden Note in der Sprachprüfung im Herkunftssprachlichen Unterricht auf dem Anspruchsniveau des Mittleren Schulabschlusses (MSA) kann diese Sprache in der gymnasialen Oberstufe als fortgeführte Fremdsprache belegt werden, sofern ein entsprechendes Angebot besteht.
 
-<a id="Zeugnisse_und_Bescheinigungen"></a>
-
 ## Zeugnisse und Bescheinigungen
-
-<a id="Zeugnis:_Zeugnisse_in_der_innerhalb_der_Primarstufe_Klassen_3_und_4_und_Sekundarstufe_I"></a>
 
 ### Zeugnis: Zeugnisse in der innerhalb der Primarstufe Klassen 3 und 4 und Sekundarstufe I
 
@@ -51,8 +36,6 @@ Die Herkunftssprache und die Note muss in der Floskel entsprechend eingetragen w
 
 In den Zeugnissen der Schuleingangsphase der Grundschule wird statt der Leistungsnote eine Aussage über die Lernentwicklung im Herkunftssprachlichen Unterricht unter „Hinweise zu den Lernbereichen/Fächern" aufgenommen. Dies gilt auch für Klasse 3, wenn die Schulkonferenz beschließt, im Zeugnis der Klasse 3 oder im Versetzungszeugnis der Klasse 3 auf Noten zu verzichten. In Klasse 4 wird eine Leistungsnote erteilt.
 
-<a id="Zeugnis:_Abschlusszeugnisse_der_Sekundarstufe_I"></a>
-
 ### Zeugnis: Abschlusszeugnisse der Sekundarstufe I
 
 Die Note wird im Abschlusszeugnis Ende der Sekundarstufe I im Prüfungsjahr, oder zeitverzögert in der Sekundarstufe II unter „Leistungen“ bescheinigt. Unter „Bemerkungen“ wird angegeben, dass die Note auf einer Sprachprüfung nach der Teilnahme am Herkunftssprachlichen Unterricht beruht und auf welcher Anspruchshöhe die Sprachprüfung abgelegt wurde. Sofern die Sprachprüfung nicht bestanden wurde, wird eine Bescheinigung über die Teilnahme am Unterricht ausgestellt. Als Bemerkung kann folgende Floskel angelegt werden:
@@ -61,28 +44,17 @@ Die Note wird im Abschlusszeugnis Ende der Sekundarstufe I im Prüfungsjahr, ode
 
 Die Herkunftssprache und die Anspruchshöhe (ESA, EESA und MSA) muss in der Floskel entsprechend eingetragen werden.
 
-<a id="Zeugnis:_Abiturzeugnis_und_Abgangszeugnisse_der_Sekundarstufe_II"></a>
-
 ### Zeugnis: Abiturzeugnis und Abgangszeugnisse der Sekundarstufe II
 
 Auf dem Abiturzeugnis und den Abgangszeugnisse der Sekundarstufe II erfolgt keine Bescheinigung der Prüfungsnote unter Leistungen, sondern lediglich das erreichte GER-Niveau B1 unter "Fremdsprachen" auf Seite 4 mit folgender Bemerkung:
 
 ***"Das für HERKUNFTSPRACHE ausgewiesene Niveau wurde durch eine Sprachprüfung nach der Teilnahme am Herkunftssprachlichen Unterricht erreicht.“"***
 
-<a id="Bescheinigung"></a>
-
 ### Bescheinigung
 
 Die Teilnahme am Unterricht in der Herkunftsprache wird zusätzlich gemäß Anlage BASS 13-61 Nr. 2 bescheinigt.
 
-<a id="Einstellungen_in_Schild-NRW"></a>
-
-<a id="einstellungen-in-schild-nrw"></a>
-
 ## Einstellungen in SchILD-NRW 2
-
-<a id="Unterrichtsfächer"></a>
-<a id="Unterrichtsf.C3.A4cher"></a>
 
 ### Unterrichtsfächer
 
@@ -102,8 +74,6 @@ Legen Sie ein Fach für die Prüfungssprache an (Schulverwaltung - Unterrichtsf�
 
 Hinweis: Nach Anlegen des Faches sollte SchILD-NRW 2 einmalig neu gestartet werden.
 
-<a id="Sprachenfolge"></a>
-
 ### Sprachenfolge
 
 ![Hsu_sprachenfolge](/bilder/schild2/schueler/hsu-sprachenfolge.png)
@@ -117,9 +87,6 @@ Tragen Sie das Fach in die Sprachenfolge auf dem Reiter Laufbahninfo ein:
 - Referenzniveau: B1 (MSA)
 - von Jahrgang/Abschnitt: leer lassen, gegebenenfalls mit der Taste Entf. leeren
 - bis Jahrgang/Abschnitt: leer lassen, gegebenenfalls mit der Taste Entf. leeren
-
-<a id="Leistungsdaten_für_das_Abschlusszeugnis_der_Sekundarstufe_I"></a>
-<a id="Leistungsdaten_f.C3.BCr_das_Abschlusszeugnis_der_Sekundarstufe_I"></a>
 
 ### Leistungsdaten für das Abschlusszeugnis der Sekundarstufe I
 
@@ -137,9 +104,6 @@ Fügen Sie den Leistungsdaten ein Fach hinzu:
 - Wochenzeiteinheit: leer
 
 Zeugnisbemerkung: ***"Die Note im Fach HERKUNFTSPRACHE beruht auf einer Sprachenprüfung nach der Teilnahme am Herkunftssprachlichen Unterricht und wurde auf der Anspruchshöhe ANSPRUCHSHÖHE abgelegt."***
-
-<a id="Leistungsdaten_für_Abgangszeugnisse_und_das_Abiturzeugnis"></a>
-<a id="Leistungsdaten_f.C3.BCr_Abgangszeugnisse_und_das_Abiturzeugnis"></a>
 
 ### Leistungsdaten für Abgangszeugnisse und das Abiturzeugnis
 

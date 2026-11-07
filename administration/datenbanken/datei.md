@@ -2,13 +2,9 @@
 title: "Menü Datei"
 ---
 
-<a id="datei"></a>
-
 # Menü Datei
 
 Das Menü **Datei** enthält Funktionen zum Drucker, zur Datenbank und zur Anmeldung. Wählen Sie die gewünschte Funktion aus der folgenden Übersicht.
-
-<a id="drucker-einrichten"></a>
 
 Drucker einrichten
 
@@ -22,13 +18,9 @@ Führen Sie diese Funktion regelmäßig vor größeren Datenbank-Arbeiten oder D
 
 Diese Funktion steht nur bei Access zur Verfügung!
 
-<a id="benutzer-wechseln"></a>
-
 Benutzer wechseln
 
 Meldet den aktuellen Benutzer ab und einen neuen Benutzer (gegebenenfalls mit anderen Berechtigungen) an.
-
-<a id="beenden"></a>
 
 Beenden
 

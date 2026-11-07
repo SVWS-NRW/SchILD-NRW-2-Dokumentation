@@ -4,11 +4,6 @@ title: "Praktikumstage"
 
 # Praktikumstage
 
-<a id="RAP-Funktion_&quot;Praktikumstage&quot;"></a>
-<a id="RAP-Funktion_.22Praktikumstage.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Liefert die Anzahl der Praktikumstage eines Schülers (optional nur solche mit

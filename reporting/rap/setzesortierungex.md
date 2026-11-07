@@ -4,11 +4,6 @@ title: "SetzeSortierungEx"
 
 # SetzeSortierungEx
 
-<a id="RAP-Funktion_&quot;SetzeSortierungEx&quot;"></a>
-<a id="RAP-Funktion_.22SetzeSortierungEx.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Ändert die Sortierung einer Datenquelle. Im Unterschied zu `SetzeSortierung` können auch die im Artikel beschriebenen speziellen Feldausdrücke verwendet werden.

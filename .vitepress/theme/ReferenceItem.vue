@@ -1,14 +1,16 @@
 <script setup lang="ts">
 import { computed } from 'vue'
 import { withBase } from 'vitepress'
-import { referenceLink } from '../reference-navigation.mjs'
 
 type Node = { id: string; text: string; link?: string; items?: Node[]; sections?: Node[] }
-const props = defineProps<{ node: Node; activeId: string }>()
+const props = defineProps<{ node: Node; activeId: string; linkFor: (node: Node) => string | undefined }>()
 const children = computed(() => props.node.items || [])
 const containsActive = (node: Node): boolean => node.id === props.activeId || (node.items || []).some(containsActive)
 const open = computed(() => containsActive(props.node))
-const href = computed(() => props.node.link ? withBase(referenceLink(props.node)) : undefined)
+const href = computed(() => {
+  const link = props.linkFor(props.node)
+  return link ? withBase(link) : undefined
+})
 function toggle(event: Event) {
   const current = event.target as HTMLDetailsElement
   if (!current.open) return
@@ -30,7 +32,7 @@ function toggle(event: Event) {
         <span class="reference-caret" aria-hidden="true"><span class="vpi-chevron-right" /></span>
       </summary>
       <ul>
-        <ReferenceItem v-for="child in children" :key="child.id" :node="child" :active-id="activeId" />
+        <ReferenceItem v-for="child in children" :key="child.id" :node="child" :active-id="activeId" :link-for="linkFor" />
       </ul>
     </details>
     <a v-else-if="href" :href="href" :class="{ 'reference-active': activeId === node.id }" :aria-current="activeId === node.id ? 'page' : undefined">{{ node.text }}</a>

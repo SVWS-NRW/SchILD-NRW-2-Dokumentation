@@ -4,11 +4,6 @@ title: "SelectNotenliste"
 
 # SelectNotenliste
 
-<a id="RAP-Funktion_&quot;SelectNotenliste&quot;"></a>
-<a id="RAP-Funktion_.22SelectNotenliste.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Öffnet die Auswahl einer Notendefinitionsdatei und lädt die ausgewählte Datei.

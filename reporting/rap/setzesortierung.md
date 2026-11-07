@@ -4,11 +4,6 @@ title: "SetzeSortierung"
 
 # SetzeSortierung
 
-<a id="RAP-Funktion_&quot;SetzeSortierung&quot;"></a>
-<a id="RAP-Funktion_.22SetzeSortierung.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Ändert die Reihenfolge der Datensätze einer Datenquelle anhand der angegebenen Sortierfelder.

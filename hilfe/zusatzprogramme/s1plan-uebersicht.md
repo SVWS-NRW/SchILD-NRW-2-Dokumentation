@@ -2,14 +2,9 @@
 title: "S1Plan kennenlernen"
 ---
 
-<a id="s1plan-ubersicht"></a>
-
 # S1Plan kennenlernen
 
 S1Plan unterstützt die Planung von Kurszuordnungen in der Sekundarstufe I. Die folgenden Kapitel führen von Installation und Ersteinrichtung über das Anlegen von Kursen bis zur Übernahme vorhandener SchILD-NRW 2-Daten.
-
-<a id="Kapitelübersicht"></a>
-<a id="Kapitel.C3.BCbersicht"></a>
 
 ## Kapitelübersicht
 
@@ -27,13 +22,9 @@ Arbeitsweise
 
 [Anhang](/hilfe/zusatzprogramme/s1plan-anhang)
 
-<a id="Vorbemerkungen"></a>
-
 ## Vorbemerkungen
 
 S1Plan ist ein Zusatzprogramm, welches im Downloadbereich zusätzlich zu SchILD-NRW 2 heruntergeladen werden kann. Das Programm benötigt einen Datenbankzugriff auf die SchILD-NRW 2-Datenbank. Es ermöglicht den Benutzern eine Verwaltung aller möglicher Kurse in der Sekundarstufe I. Eingeschlossen ist dabei auch zum Beispiel die Möglichkeit, für die Projektwoche die Projektwahl mit 1., 2. oder 3.-Wunsch der Schüler zu erfassen und zu organisieren. Es sind damit auch alle Arbeitsgemeinschaften (mit Erst-, Zweit,- oder Drittwunsch der Schüler) planbar, aber auch zum Beispiel die Gruppenzusammensetzung bei den Themen einer Projektwoche. Die verwendeten Bezeichnungen sind mit der Bedeutung der entsprechenden Bezeichnungen in SchILD-NRW 2 identisch.
-
-<a id="Arbeitsweise"></a>
 
 ## Arbeitsweise
 

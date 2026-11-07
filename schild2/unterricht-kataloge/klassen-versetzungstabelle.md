@@ -2,8 +2,6 @@
 title: "Klassen und Versetzungstabelle"
 ---
 
-<a id="klassen-versetzungstabelle"></a>
-
 # Klassen und Versetzungstabelle
 
 In der Klassen-/Versetzungstabelle werden alle Klassen, die in SchILD-NRW 2 Schülergruppen aufnehmen sollen, angelegt. Wie in allen Katalogen gibt es auch hier eine Benutzerdefinierte Sortierung und ein Merkmal für die Sichtbarkeit, damit Klassen, die zwar noch Schüler (Abgänger) enthalten, aber gegebenenfalls nicht mehr benötigt werden, ausgeblendet werden können.

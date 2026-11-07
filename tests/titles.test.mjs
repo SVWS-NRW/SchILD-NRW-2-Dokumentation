@@ -23,9 +23,7 @@ test('Artikelüberschriften und Metadaten bleiben lesbar, die alten Beispieladre
  }
  const overview=fs.readFileSync('einstieg/grundlagen/schild-nrw-index.md','utf8')
  assert(overview.includes('# Das Programm im Überblick'))
- assert(overview.includes('id="schild-nrw-index"'))
  const german=fs.readFileSync('schild2/schueler/deutschfoerderung-nach-bass-13-63-nr-3-stand-29-08-2024.md','utf8')
  assert(/^# Deutschförderung\r?$/m.test(german))
  assert(german.includes('BASS 13-63 Nr. 3'))
- assert(german.includes('id="deutschforderung-nach-bass-13-63-nr-3-stand-29-08-2024"'))
 })

@@ -2,8 +2,6 @@
 title: "A13 Ausbildungsvorbereitung in Teilzeit"
 ---
 
-<a id="a13-ausbildungsvorbereitung-bs-1j-tz"></a>
-
 # A13 Ausbildungsvorbereitung in Teilzeit
 
 Diese Seite zeigt ein Bildbeispiel zur Abschlussberechnung für den im Titel genannten Bildungsgang. Vergleichen Sie die dargestellte Ansicht mit Ihrem Bildungsgang. Die Bedeutung des Karteireiters und die allgemeinen Arbeitsschritte erläutert [BK-Abschlussverfahren](/zeugnisse/berufskolleg/bk-abschluss?rubrik=schild2).

@@ -4,11 +4,6 @@ title: "SchulText"
 
 # SchulText
 
-<a id="RAP-Funktion_&quot;SchulText&quot;"></a>
-<a id="RAP-Funktion_.22SchulText.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Gibt den Text zurück, der dem übergebenen Kürzel zugeordnet ist.

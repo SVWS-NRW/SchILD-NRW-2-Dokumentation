@@ -4,11 +4,6 @@ title: "DatensatzZeigerBewegen"
 
 # DatensatzZeigerBewegen
 
-<a id="RAP-Funktion_&quot;DatensatzZeigerBewegen&quot;"></a>
-<a id="RAP-Funktion_.22DatensatzZeigerBewegen.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Bewegt den Datensatzzeiger der als Parameter angegebenen Datenquelle

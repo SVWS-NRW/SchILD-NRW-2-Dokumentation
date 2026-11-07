@@ -1,60 +1,80 @@
+<script lang="ts">
+import { createSidebar } from '../sidebar.mjs'
+import navigation from '../navigation.json'
+import reference from '../program-reference.json'
+import { createReferenceLinks, referenceEntries } from '../reference-navigation.mjs'
+
+const sidebar = createSidebar(navigation)
+const referenceLink = createReferenceLinks(reference, sidebar.sectionFor)
+const referenceArticles = referenceEntries(reference, referenceLink)
+</script>
+
 <script setup lang="ts">
-import { computed, onMounted, onUnmounted, provide, ref } from 'vue'
+import { computed, onMounted, provide, ref, watchPostEffect } from 'vue'
 import DefaultTheme from 'vitepress/theme'
 import { useData } from 'vitepress'
 import { dataSymbol } from 'vitepress/dist/client/app/data.js'
 import { referenceSelection, articleIndexSelection, sectionSelection, menuSelection } from './reference-state'
-import { getSidebar } from 'vitepress/dist/client/theme-default/support/sidebar.js'
-import { articlePath, contextualSidebar, contextualNav, sectionEntries } from '../section-navigation.mjs'
+import { articlePath, contextualNav } from '../section-navigation.mjs'
 import { data as articles } from '../../hilfe/artikel.data.mjs'
 import { articleIndexLink } from '../article-index.mjs'
 import VPHome from 'vitepress/dist/client/theme-default/components/VPHome.vue'
 import ReferenceSidebar from './ReferenceSidebar.vue'
 import ArticlePrintIcon from './ArticlePrintIcon.vue'
-import { installSidebarSelection } from './sidebar-selection.mjs'
+import SiteFooter from './SiteFooter.vue'
 import VPSidebarGroup from 'vitepress/dist/client/theme-default/components/VPSidebarGroup.vue'
-import navigation from '../navigation.json'
-import reference from '../program-reference.json'
-import { referencePageId, referenceEntries } from '../reference-navigation.mjs'
+import { referencePageId } from '../reference-navigation.mjs'
 const referenceAreas = navigation.sidebar['/programmreferenz/'].slice(1)
-const referenceArticles = referenceEntries(reference)
 const data = useData()
 const { page, theme, frontmatter } = data
 // Static HTML cannot know the query parameter. Switch after hydration on
 // direct article visits so the server and client initially render alike.
 const mounted = ref(false)
-let disposeSidebarSelection: (() => void) | undefined
-onMounted(() => {
-  mounted.value = true
-  disposeSidebarSelection = installSidebarSelection()
-})
-onUnmounted(() => disposeSidebarSelection?.())
+onMounted(() => { mounted.value = true })
 const indexMode = computed(() => page.value.relativePath === 'hilfe/alle-artikel.md' || (mounted.value && articleIndexSelection.value))
-const referenceMode = computed(() => !indexMode.value && (page.value.relativePath.startsWith('programmreferenz/') || page.value.relativePath === 'druck/programmreferenz.md' || (mounted.value && !!referenceSelection.value) || ((!sectionSelection.value || sectionSelection.value === 'programmreferenz') && articlePath(getSidebar(theme.value.sidebar, page.value.relativePath)[0]?.items?.[0]?.link || '/') === '/programmreferenz')))
 const sections = Object.keys(navigation.sidebar)
+const currentPath = computed(() => '/' + page.value.relativePath)
+const standardSection = computed(() => sidebar.sectionFor(currentPath.value))
 const selectedSection = computed(() => {
   const section = sectionSelection.value.startsWith('tools/') ? '/tools/' : '/' + sectionSelection.value + '/'
   return mounted.value && sections.includes(section) ? section : ''
 })
-const currentPath = computed(() => '/' + page.value.relativePath)
-const defaultGroups = computed(() => getSidebar(theme.value.sidebar, page.value.relativePath))
+const referenceMode = computed(() => !indexMode.value && (
+  page.value.relativePath.startsWith('programmreferenz/') ||
+  (mounted.value && referenceSelection.value !== null) ||
+  (selectedSection.value || standardSection.value) === '/programmreferenz/'
+))
 const activeSection = computed(() => indexMode.value ? '/hilfe/' : referenceMode.value ? '/programmreferenz/'
-  : selectedSection.value || (defaultGroups.value[0]?.items?.[0]?.link ? articlePath(defaultGroups.value[0].items[0].link) + '/' : ''))
-const readingGroups = computed(() => {
-  const groups = theme.value.sidebar[activeSection.value]
-  return groups ? contextualSidebar(groups, activeSection.value, currentPath.value, mounted.value ? menuSelection.value : '') : defaultGroups.value
-})
-const readingEntries = computed(() => readingGroups.value.length ? sectionEntries(readingGroups.value, activeSection.value) : [])
+  : selectedSection.value || standardSection.value)
+const readingMenu = computed(() => sidebar.menuFor(activeSection.value))
+const readingGroups = computed(() => readingMenu.value?.forArticle(currentPath.value, mounted.value ? menuSelection.value : '') || [])
+const readingEntries = computed(() => readingMenu.value?.entries || [])
 function adjacentInSection(offset: number) {
   const position = readingEntries.value.findIndex(entry => entry.key === articlePath(currentPath.value))
   const entry = position < 0 ? undefined : readingEntries.value[position + offset]
   return entry ? { text: entry.text, link: entry.link } : false
 }
 const indexBranch = (item: any): boolean => articlePath(item.link || '/') === '/hilfe/alle-artikel' || !!item.items?.some(indexBranch)
+const onIndexOverview = computed(() => articlePath(currentPath.value) === '/hilfe/alle-artikel' && !articleIndexSelection.value)
 const expandIndex = (item: any): any => articlePath(item.link || '/') === '/hilfe/alle-artikel'
- ? { ...item, collapsed: false, items: articles.map(article => ({ text: article.title.replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;'), link: articleIndexLink(article.url) })) }
- : { ...item, ...(item.items ? { items: item.items.map(expandIndex), ...(indexBranch(item) ? { collapsed: false } : {}) } : {}) }
-const helpSidebar = computed(() => theme.value.sidebar['/hilfe/'].map(expandIndex))
+ ? { ...item, collapsed: false, sidebarActive: onIndexOverview.value, items: articles.map(article => ({ text: article.title.replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;'), link: articleIndexLink(article.url), sidebarActive: !onIndexOverview.value && articlePath(article.url) === articlePath(currentPath.value) })) }
+ : { ...item, sidebarActive: false, ...(item.items ? { items: item.items.map(expandIndex), ...(indexBranch(item) ? { collapsed: false } : {}) } : {}) }
+const helpSidebar = computed(() => sidebar.menuFor('/hilfe/').tree.map(expandIndex))
+const visibleSidebar = computed(() => indexMode.value ? helpSidebar.value : readingGroups.value)
+
+// The menu renders the active class. Mirror it for assistive technology.
+watchPostEffect(() => {
+  if (!mounted.value) return
+  void visibleSidebar.value
+  const menu = document.getElementById('VPSidebarNav')
+  if (!menu) return
+  for (const link of menu.querySelectorAll('.VPSidebarItem > .item > a[aria-current]')) {
+    link.removeAttribute('aria-current')
+  }
+  if (!referenceMode.value) {
+    menu.querySelector('.VPSidebarItem.is-active > .item > a')?.setAttribute('aria-current', 'page')
+  }
+})
 // Supply the context menu to the default theme, including its active states,
 // mobile navigation and previous/next links. Original page data stays intact.
 const indexHome = computed(() => indexMode.value && frontmatter.value.layout === 'home')
@@ -77,7 +97,7 @@ provide(dataSymbol, {
   ...data,
   theme: computed(() => ({ ...theme.value,
     nav: contextualNav(navigation.nav, activeSection.value, sections),
-    sidebar: indexMode.value ? helpSidebar.value : !referenceMode.value && readingGroups.value.length ? readingGroups.value : theme.value.sidebar
+    sidebar: visibleSidebar.value
   })),
   frontmatter: computed(() => indexMode.value ? {
     ...frontmatter.value,
@@ -85,7 +105,7 @@ provide(dataSymbol, {
     prev: adjacentArticle(-1), next: adjacentArticle(1)
   } : referenceMode.value ? {
     ...frontmatter.value, prev: adjacentReference(-1), next: adjacentReference(1)
-  } : selectedSection.value ? {
+  } : readingMenu.value ? {
     ...frontmatter.value, prev: adjacentInSection(-1), next: adjacentInSection(1)
   } : frontmatter.value)
 })
@@ -96,11 +116,12 @@ provide(dataSymbol, {
     <DefaultTheme.Layout>
       <template #doc-before><VPHome v-if="indexHome" /><ArticlePrintIcon v-if="!page.relativePath.startsWith('druck/')" :key="page.relativePath" /></template>
       <template #sidebar-nav-before>
-        <ReferenceSidebar v-if="referenceMode" />
+        <ReferenceSidebar v-if="referenceMode" :link-for="referenceLink" />
         <div v-if="referenceMode" class="reference-areas">
           <VPSidebarGroup :items="referenceAreas" />
         </div>
       </template>
+      <template #layout-bottom><SiteFooter /></template>
     </DefaultTheme.Layout>
   </div>
 </template>

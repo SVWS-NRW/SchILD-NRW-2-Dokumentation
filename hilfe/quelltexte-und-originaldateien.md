@@ -2,10 +2,7 @@
 
 Hier finden Sie die gesicherten Wiki-Quelltexte und ergänzende Originaldateien der Dokumentation von SchILD-NRW 2.
 
-<a id="quelltexte-und-erganzende-dateien"></a>
-
 ## Quelltexte und ergänzende Dateien
-
 
 Das [vollständige Quelltext-ZIP](/dateien/quellen/wiki-quelltexte.zip) enthält die 1.405 gesicherten Wiki-Seiten sowie sechs Bestands- und Metadatendateien. Es bewahrt die ursprünglichen Inhalte unabhängig von der redaktionellen Bearbeitung.
 
@@ -26,5 +23,4 @@ Auch Dateien ohne aktuellen Verweis in einem Fachartikel bleiben erhalten. Fehle
 | [Mustertext zur Notendatei](/dateien/wiki/notendateitext-b8c20be9.txt) | Historischer Begleittext mit Hinweisen zum externen Notenmodul. |
 
 Die 109 ergänzenden Screenshots und Abbildungen sind ebenfalls erhalten und über den [Bilderkatalog](/bilder/) auffindbar.
-
 

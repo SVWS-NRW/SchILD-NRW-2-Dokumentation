@@ -2,8 +2,6 @@
 title: "Standardformulare drucken"
 ---
 
-<a id="standard-formulare-drucken"></a>
-
 # Standardformulare drucken
 
 In SchILD-NRW 2 ist es möglich, ausgewählte Formulare in dem Ordner "Standard" innerhalb des Report-Explorers abzulegen. Sie können einem Benutzer das Recht geben, nur Formulare aus diesem Ordner drucken zu können.

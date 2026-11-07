@@ -4,11 +4,6 @@ title: "Wiederholungen"
 
 # Wiederholungen
 
-<a id="RAP-Funktion_&quot;Wiederholungen&quot;"></a>
-<a id="RAP-Funktion_.22Wiederholungen.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Liefert die wiederholten Schuljahre und Jahrgänge einer Person als Text. Die Quelle kennzeichnet diese Funktion als überholt und empfiehlt, sie nicht mehr zu verwenden.

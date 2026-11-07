@@ -2,8 +2,6 @@
 title: "Gymnasien von G8 auf G9 umstellen"
 ---
 
-<a id="umstellung-der-gymnasien-von-g8-auf-g9"></a>
-
 # Gymnasien von G8 auf G9 umstellen
 
 1\. Führen Sie ein Update auf die neuste Version von SchILD-NRW 2 durch.

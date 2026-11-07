@@ -4,11 +4,6 @@ title: "KursBezIgnorieren"
 
 # KursBezIgnorieren
 
-<a id="RAP-Funktion_&quot;KursBezIgnorieren&quot;"></a>
-<a id="RAP-Funktion_.22KursBezIgnorieren.22"></a>
-
-<a id="signatur"></a>
-
 ## Beschreibung
 
 Durch den Aufruf dieser Prozedur wird bei der Einsortierung
