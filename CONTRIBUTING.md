@@ -4,15 +4,15 @@ Sie können Fehler berichtigen und Anleitungen ergänzen, ohne etwas auf Ihrem C
 
 ## Den passenden Bearbeitungsweg wählen
 
-- [Mit dem GitHub-Editor bearbeiten](/hilfe/github-editor): für eine einzelne Datei und kleine Textkorrekturen.
-- [Mit VS Code im Browser bearbeiten](/hilfe/vscode-editor): für längere Änderungen und die Arbeit an mehreren Dateien.
-- [Redaktionsworkflow](/hilfe/redaktionsworkflow): verbindliche Regeln für Arbeitsbranches, Prüfung, Freigabe und Veröffentlichung.
-- [Artikel schreiben](/hilfe/artikel-schreiben): verständliche Texte aufbauen und fachliche Inhalte erhalten.
-- [Markdown und Gestaltung](/hilfe/markdown-und-gestaltung): Überschriften, Listen, Links und Bilder einfügen.
+- [Mit dem GitHub-Editor bearbeiten](https://schild2.svws-nrw.de/hilfe/github-editor.html): für eine einzelne Datei und kleine Textkorrekturen.
+- [Mit VS Code im Browser bearbeiten](https://schild2.svws-nrw.de/hilfe/vscode-editor.html): für längere Änderungen und die Arbeit an mehreren Dateien.
+- [Redaktionsworkflow](https://schild2.svws-nrw.de/hilfe/redaktionsworkflow.html): verbindliche Regeln für Arbeitsbranches, Prüfung, Freigabe und Veröffentlichung.
+- [Artikel schreiben](https://schild2.svws-nrw.de/hilfe/artikel-schreiben.html): verständliche Texte aufbauen und fachliche Inhalte erhalten.
+- [Markdown und Gestaltung](https://schild2.svws-nrw.de/hilfe/markdown-und-gestaltung.html): Überschriften, Listen, Links und Bilder einfügen.
 
 Ein **Branch** ist ein eigener Arbeitsstand. Speichern Sie Ihre Änderungen in einem neuen Branch mit Ihrem Autorennamen, etwa `musterfrau/filter-erklaeren`. Ein **Commit** hält die Änderung mit einer kurzen Erläuterung fest; **Push** überträgt sie zu GitHub. Mit einem **Pull Request** reichen Sie diesen Arbeitsstand zur Prüfung gegen `dev` ein. Eine Administratorin oder ein Administrator prüft den Vorschlag und übernimmt ihn nach Freigabe. Schreiben Sie deshalb nicht direkt in `dev` oder `master`.
 
-Unter [Alle Artikel A–Z](/hilfe/alle-artikel) finden Sie auch Seiten, deren genaue Menüposition Sie nicht kennen. Öffnen Sie zuerst den Artikel und verwenden Sie dann dessen Stift- oder VS-Schaltfläche. Die alphabetische Liste wird automatisch aus den Artikeln erstellt.
+Unter [Alle Artikel A–Z](https://schild2.svws-nrw.de/hilfe/alle-artikel.html) finden Sie auch Seiten, deren genaue Menüposition Sie nicht kennen. Öffnen Sie zuerst den Artikel und verwenden Sie dann dessen Stift- oder VS-Schaltfläche. Die alphabetische Liste wird automatisch aus den Artikeln erstellt.
 
 Die folgenden Abschnitte richten sich an Personen, die lokal an Texten, Menüführung oder Gestaltung arbeiten. Bearbeitet werden Markdown-Dateien direkt; ein Wiki-Konverter ist nicht erforderlich.
 
@@ -40,7 +40,7 @@ npm run docs:dev
 - Der Bilderkatalog ermittelt die verwendenden Artikel aus den Markdown-Bildverweisen. Besondere Bildnamen und Beschreibungen können in `.vitepress/image-catalog.json` gepflegt werden.
 - Hauptmenü und normale Seitenmenüs in `.vitepress/navigation.json` pflegen. Bei Themenübersichten können Untermenüs zusätzlich aus den dortigen Artikellisten entstehen; dies übernimmt `.vitepress/sidebar.mjs`.
 - Die Hierarchie der Programmreferenz steht in `.vitepress/program-reference.json`. Bestehende Referenz-IDs und Linkziele erhalten.
-- Die manuelle [Vergleichstabelle zwischen Dokumentation und Wiki](/hilfe/artikel-wiki-zuordnung) bei neuen, entfernten oder umbenannten Artikeln nachführen und ihren Aktualitätsstand anpassen.
+- Die manuelle [Vergleichstabelle zwischen Dokumentation und Wiki](https://schild2.svws-nrw.de/hilfe/artikel-wiki-zuordnung.html) bei neuen, entfernten oder umbenannten Artikeln nachführen und ihren Aktualitätsstand anpassen.
 - Der Artikelindex und die lokale Suche erfassen veröffentlichte Markdown-Seiten automatisch. Eine neue Seite muss zusätzlich im passenden Themenmenü oder in einer Übersicht erreichbar sein.
 - Vollständige Quelltextarchive und ursprüngliche Wiki-Dateien erhalten. Ein fehlender aktueller Artikelverweis ist kein Grund, eine Datei zu entfernen.
 - Fachliche Änderungen anhand der Quelle und der betreffenden Schulform prüfen. Die Architektur und ältere Verfahren des dokumentierten Programms berücksichtigen; Unterschiede zu anderen Programmen sind kein Löschgrund. Laufzeittests nur behaupten, wenn sie tatsächlich mit passenden Beispieldaten durchgeführt wurden.
@@ -63,7 +63,7 @@ Den Artikel außerdem in der lokalen Vorschau gegenlesen und Bilder, Verweise un
 2. Den Branch nach GitHub pushen und einen Pull Request gegen `dev` öffnen.
 3. Im Pull Request kurz erklären, was geändert wurde, worauf fachliche Änderungen beruhen und was geprüft wurde.
 4. Die automatischen Prüfungen abwarten und gegebenenfalls Fehler beheben.
-5. Die [Freigabe- und Merge-Regeln](/hilfe/redaktionsworkflow#freigabe-und-merge-nach-dev) einhalten. Nur veröffentlichungsfähige Änderungen nach `dev` übernehmen.
+5. Die [Freigabe- und Merge-Regeln](https://schild2.svws-nrw.de/hilfe/redaktionsworkflow.html#freigabe-und-merge-nach-dev) einhalten. Nur veröffentlichungsfähige Änderungen nach `dev` übernehmen.
 
 `dev` und `master` werden nicht direkt beschrieben. Den Merge übernimmt der Verantwortliche. Fehler oder fachliche Ergänzungsvorschläge können auch über **Issues** im Repository dieser Dokumentation gemeldet werden. Sie erreichen es über das GitHub-Symbol im Kopfmenü.
 
@@ -73,4 +73,4 @@ Druckansichten entstehen aus Originalartikeln und Menüdaten. Ein Menüaufruf ö
 
 Für Unterpfade `DOCS_BASE` setzen und eigene Vue-Komponenten mit `withBase()` verlinken. Kein `localhost` in veröffentlichte Artikel oder Menüdaten schreiben. Normale Pflege benötigt keine Python- oder Pandoc-Installation.
 
-Neue Aufgaben beginnen im offiziellen Repository vom aktuellen `origin/dev`. Frühere Migrationsrepositories dienen nicht als Grundlage neuer Änderungen. Veröffentlicht wird über einen geprüften PR von `dev` nach `master`; die vollständigen Regeln stehen im [Redaktionsworkflow](/hilfe/redaktionsworkflow).
+Neue Aufgaben beginnen im offiziellen Repository vom aktuellen `origin/dev`. Frühere Migrationsrepositories dienen nicht als Grundlage neuer Änderungen. Veröffentlicht wird über einen geprüften PR von `dev` nach `master`; die vollständigen Regeln stehen im [Redaktionsworkflow](https://schild2.svws-nrw.de/hilfe/redaktionsworkflow.html).
