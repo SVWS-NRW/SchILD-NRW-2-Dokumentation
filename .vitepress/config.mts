@@ -21,7 +21,7 @@ export default defineConfig({
   },
   title: 'SchILD-NRW 2',
   description: 'Dokumentation für SchILD-NRW 2: Praxisanleitungen, Reporting und Nachschlagewerk',
-  srcExclude: ['README.md', 'UMSETZUNG.md', 'CONTRIBUTING.md', 'WORKFLOW.md', 'tests/**', 'scripts/**', 'node_modules/**', 'tmp/**', 'test-results/**'],
+  srcExclude: ['README.md', 'UMSETZUNG.md', 'CONTRIBUTING.md', 'WORKFLOW.md', 'scripts/**', 'node_modules/**', 'tmp/**', 'test-results/**'],
   buildEnd(config) { verifyBuiltHtml(config); writeArticleRedirects(config) },
   markdown: {
     image: { lazyLoading: true },

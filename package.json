@@ -6,9 +6,9 @@
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview",
-    "test": "node --test tests/*.test.mjs",
+    "test": "node --test scripts/*.test.mjs",
     "docs:check": "node scripts/check-site.mjs",
-    "docs:check-browser": "node tests/browser.mjs"
+    "docs:check-browser": "node scripts/browser.mjs"
   },
   "repository": {
     "type": "git",

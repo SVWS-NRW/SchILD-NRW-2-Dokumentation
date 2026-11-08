@@ -4,7 +4,7 @@ import fs from 'node:fs/promises'
 import os from 'node:os'
 import path from 'node:path'
 import {normalizeSiteBase} from '../.vitepress/site-base.mjs'
-import {checkSite} from '../scripts/check-site.mjs'
+import {checkSite} from './check-site.mjs'
 
 test('Domainwurzel und GitHub-Pages-Unterpfad werden eindeutig normalisiert',()=>{
  assert.equal(normalizeSiteBase('/'),'/')
