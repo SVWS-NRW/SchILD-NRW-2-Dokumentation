@@ -14,10 +14,9 @@ export async function checkEditorialNavigation(page,base) {
   await page.locator('.vp-doc a[href*="'+scenario.target+'"]').first().click()
   await page.waitForURL(url=>url.pathname.endsWith(scenario.target+'.html')&&url.searchParams.get('rubrik')==='schild2')
   const check=async()=>{
-   await page.waitForFunction(group=>[...document.querySelectorAll('#VPSidebarNav .item')].some(el=>el.textContent.includes(group)&&!el.closest('.VPSidebarItem').classList.contains('collapsed')),scenario.group)
-   const heading=page.locator('#VPSidebarNav .item').filter({hasText:scenario.group}).filter({visible:true}).first()
-   await heading.waitFor({state:'visible'})
-   assert(await heading.evaluate(el=>!el.closest('.VPSidebarItem').classList.contains('collapsed')),scenario.group)
+   const openGroup=page.locator('#VPSidebarNav .VPSidebarItem:not(.collapsed) > .item')
+     .filter({has:page.getByText(scenario.group,{exact:true})})
+   await openGroup.waitFor({state:'visible'})
    const overview=page.locator('#VPSidebarNav').getByRole('link',{name:'Übersicht',exact:true})
    assert.equal(new URL(await overview.getAttribute('href'),base).pathname,'/schild2/')
   }
