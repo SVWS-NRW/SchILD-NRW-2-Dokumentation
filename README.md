@@ -40,8 +40,7 @@ Der Build erstellt die Website und prüft Seitenverweise. `docs:check` kontrolli
 Bei Änderungen an Menü, Suche oder Darstellung zusätzlich die gezielte Browserprüfung ausführen:
 
 ```sh
-npm install --no-save --package-lock=false playwright@1.56.1
-npx playwright install chromium
+npx playwright install chromium --only-shell
 npm run docs:check-browser
 ```
 
