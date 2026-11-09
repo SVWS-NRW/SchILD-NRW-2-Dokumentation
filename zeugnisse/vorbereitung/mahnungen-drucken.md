@@ -81,7 +81,7 @@ WHERE\
       AND SLD.Warnung = '+'\
       AND SLD.Warndatum IS NULL)\
 
-Alternativ zur Eingabe des Codes können Sie auch einen SQL-Filter "Aus Datei laden". [SQL-Filter für SchILD-NRW 2 herunterladen](/dateien/wiki/serienbrief-mahnung-gefaehrdete-versetzung-filter-ii-211e3c93.zip) Diese Datei muss vor der Benutzung noch entpackt werden. [SQL-Filter für SchILDzentral herunterladen](/dateien/wiki/serienbrief-mahnung-gefaehrdete-versetzung-filter-ii-schildzentral-5642ca5b.zip)
+Alternativ zur Eingabe des Codes können Sie auch einen SQL-Filter "Aus Datei laden". [SQL-Filter für SchILD-NRW 2 herunterladen](/dateien/originaldateien/serienbrief-mahnung-gefaehrdete-versetzung-filter-ii-211e3c93.zip) Diese Datei muss vor der Benutzung noch entpackt werden. [SQL-Filter für SchILDzentral herunterladen](/dateien/originaldateien/serienbrief-mahnung-gefaehrdete-versetzung-filter-ii-schildzentral-5642ca5b.zip)
 
 Passen Sie die Jahrgänge im Codeabschnitt `AND Schueler.ASDJahrgang IN ('06','07','08','09','10','EF')` entsprechend ihrer Schulform an.
 

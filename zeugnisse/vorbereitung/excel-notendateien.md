@@ -28,6 +28,6 @@ Zur Noteneingabe können jetzt auch Excel-Dateien verwendet werden. Hierzu steht
 
 **Download einer Beispieldatei:**
 
-[Media:Notenbeispiel.xlsx](/dateien/wiki/notenbeispiel-e5e8e2ce.xlsx)
+[Media:Notenbeispiel.xlsx](/dateien/originaldateien/notenbeispiel-e5e8e2ce.xlsx)
 
 Quelle: [Excel-Notendateien – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Excel-Notendateien&oldid=2774)

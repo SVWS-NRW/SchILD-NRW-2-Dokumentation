@@ -26,11 +26,11 @@ Die Sichtbarkeit einzelner Teilleistungsspalten steuern Sie außerdem über **Zu
 
 Weiter: [Fachnoten und Teilleistungen eingeben](/tools/enm-notenmanager/leistungsdaten).
 
-Quelle: [Bedienungsanleitung ENM-Notenmanager, Druckstand 15.12.2020](https://www.svws.nrw.de/system/files/media/document/file/enm_bedienungsanleitung_2.pdf), Kapitel 1–4, Seiten 4–13.
+Quelle: [Bedienungsanleitung ENM-Notenmanager, Druckstand 15.12.2020](/dateien/pdf/enm_bedienungsanleitung_2.pdf), Kapitel 1–4, Seiten 4–13.
 
 ## Installation, erster Start und Anzeige
 
-Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 4–13](https://www.svws.nrw.de/system/files/media/document/file/enm_bedienungsanleitung_2.pdf#page=4).
+Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 4–13](/dateien/pdf/enm_bedienungsanleitung_2.pdf#page=4).
 
 ### 1 Vorbemerkung
 

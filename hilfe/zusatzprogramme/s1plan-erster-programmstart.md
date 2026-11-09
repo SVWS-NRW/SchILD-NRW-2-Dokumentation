@@ -58,7 +58,7 @@ Quelle: [S1PLAN:Erster Programmstart – ursprüngliches Wiki](https://wiki.svws
 
 ## Datenbankzugriff und Ersteinrichtung
 
-Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 7–12](https://www.svws.nrw.de/system/files/media/document/file/s1plan_anleitung.pdf#page=7).
+Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 7–12](/dateien/pdf/s1plan_anleitung.pdf#page=7).
 
 Installation
 

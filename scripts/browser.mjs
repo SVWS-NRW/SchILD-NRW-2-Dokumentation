@@ -127,7 +127,7 @@ try {
   await page.goto(base+'/bilder/',{waitUntil:'networkidle'})
   await page.getByRole('searchbox').fill('hauptfenster')
   assert(await page.locator('.image-catalog img').count()>0,'Bilderkatalog findet kein Hauptfenster')
-  const download=await page.request.get(base+'/dateien/wiki/schildnrw-mysql-installation-3e4cc65d.pdf')
+  const download=await page.request.get(base+'/dateien/originaldateien/schildnrw-mysql-installation-3e4cc65d.pdf')
   assert(download.ok(),'Original-PDF muss lokal abrufbar bleiben')
   assert((await download.body()).subarray(0,5).toString()==='%PDF-','Dateiziel darf nicht versehentlich eine HTML-Seite liefern')
   assert((await page.locator('#VPSidebarNav').innerText()).includes('Artikel schreiben'))

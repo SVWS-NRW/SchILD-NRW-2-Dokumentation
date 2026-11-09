@@ -53,7 +53,7 @@ Quelle: [S1PLAN:Übersicht – ursprüngliches Wiki](https://wiki.svws.nrw.de/me
 
 ## Voraussetzungen und drei Vorgehensweisen
 
-Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 4–5](https://www.svws.nrw.de/system/files/media/document/file/s1plan_anleitung.pdf#page=4).
+Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 4–5](/dateien/pdf/s1plan_anleitung.pdf#page=4).
 
 Vorbemerkungen
 

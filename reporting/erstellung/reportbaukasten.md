@@ -10,7 +10,7 @@ Mit dem Reportbaukasten erstellen Sie eigene Druckvorlagen nach einem vorhandene
 
 Der Reportbaukasten soll Benutzern dabei behilflich sein, eigene Formulare nach einem Vorbild für bestimmte Zwecke erstellen zu können.
 
-Die Formulare können in einem ZIP-Archiv hier herunter geladen werden. **[Report-Baukasten mit elf Vorlagen](/dateien/wiki/report-baukasten-24954b57.zip)**
+Die Formulare können in einem ZIP-Archiv hier herunter geladen werden. **[Report-Baukasten mit elf Vorlagen](/dateien/originaldateien/report-baukasten-24954b57.zip)**
 
 Dabei werden Themengruppen herausgesucht und einige Beispielreports erstellt. Diese Reports sind möglichst einfach gehalten und enthalten auch sehr wenig Layout-Elemente. Sie sollen lediglich als Beispiele für die gewünschte Funktion dienen.
 

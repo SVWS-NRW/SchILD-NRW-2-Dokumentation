@@ -57,7 +57,7 @@ Quelle: [Prognos:Installation – ursprüngliches Wiki](https://wiki.svws.nrw.de
 
 ## Installationshinweise aus der Versionsdokumentation
 
-Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 1–2](https://www.svws.nrw.de/system/files/media/document/file/pm2_versionsgeschichte.pdf#page=1).
+Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 1–2](/dateien/pdf/pm2_versionsgeschichte.pdf#page=1).
 
 Dieser Abschnitt gibt die Hinweise der dokumentierten Programmausgabe wieder.
 

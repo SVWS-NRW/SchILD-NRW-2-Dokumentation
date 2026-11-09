@@ -32,7 +32,7 @@ Quelle: [S1PLAN:Installation – ursprüngliches Wiki](https://wiki.svws.nrw.de/
 
 ## Programm installieren
 
-Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 6–6](https://www.svws.nrw.de/system/files/media/document/file/s1plan_anleitung.pdf#page=6).
+Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 6–6](/dateien/pdf/s1plan_anleitung.pdf#page=6).
 
 Installation
 

@@ -29,7 +29,7 @@ Legen Sie fest, wer Importe, Exporte und Sicherungen ausführt. So wird vermiede
 
 Weiter: [Neue Blockung erstellen](/tools/kurs42/neue-blockung) oder [Halbjahreswechsel vorbereiten](/tools/kurs42/halbjahreswechsel).
 
-Quelle: [Handbuch SchILD-NRW 2–LuPO–Kurs42, 22. Auflage, Mai 2022](https://www.svws.nrw.de/system/files/media/document/file/handbuch-schild-lupo-kurs42-22.auflage.pdf), Kapitel 3–4, Seiten 11–41.
+Quelle: [Handbuch SchILD-NRW 2–LuPO–Kurs42, 22. Auflage, Mai 2022](/dateien/pdf/handbuch-schild-lupo-kurs42-22.auflage.pdf), Kapitel 3–4, Seiten 11–41.
 
 ## Vorbereitung für die Oberstufenplanung
 
@@ -42,10 +42,10 @@ Quelle: [Handbuch SchILD-NRW 2–LuPO–Kurs42, 22. Auflage, Mai 2022](https://w
 5. Öffnen Sie in Kurs42 **Extras → Einstellungen**. Prüfen Sie die Einstellungen für Datenbankzugriff, Im- und Export, Kursbezeichnungen, Stundenzeiten und Druckvorlagen. Die Maske `%Fachbez%-%Kursart%%Kursnr%` ergibt beispielsweise `D-GK1`.
 6. Legen Sie Arbeitsverzeichnisse und Schreibrechte für die Blockungs- und LuPO-Dateien fest. Verwenden Sie beim Wechsel zwischen mehreren Arbeitsplätzen denselben vereinbarten Datenstand und sichern Sie die Dateien vor einem Abgleich.
 
-Die Abfolge und der Erstexport stehen in [Kapitel 3 und 4 des Handbuchs](https://www.svws.nrw.de/system/files/media/document/file/handbuch-schild-lupo-kurs42-22.auflage.pdf#page=11). Das Netzwerkbeispiel in [Kapitel 18](https://www.svws.nrw.de/system/files/media/document/file/handbuch-schild-lupo-kurs42-22.auflage.pdf#page=172) zeigt, wie gemeinsame Programm- und Datenverzeichnisse organisiert werden.
+Die Abfolge und der Erstexport stehen in [Kapitel 3 und 4 des Handbuchs](/dateien/pdf/handbuch-schild-lupo-kurs42-22.auflage.pdf#page=11). Das Netzwerkbeispiel in [Kapitel 18](/dateien/pdf/handbuch-schild-lupo-kurs42-22.auflage.pdf#page=172) zeigt, wie gemeinsame Programm- und Datenverzeichnisse organisiert werden.
 
 ## Zusammenarbeit mit einer Partnerschule und Notenerfassung
 
-Kennzeichnen Sie Kurse an einer Partnerschule und halten Sie die Zuordnung zu den eigenen Schülerinnen und Schülern nachvollziehbar. Stimmen Sie die benötigten Schüler- und Kurslisten sowie die Rückgabe der Noten mit der Partnerschule ab. Prüfen Sie im aktuellen Halbjahr, ob der Unterricht als extern erfasst ist. [Kapitel 14](https://www.svws.nrw.de/system/files/media/document/file/handbuch-schild-lupo-kurs42-22.auflage.pdf#page=153) zeigt einen Arbeitsablauf und ein Formular für den Austausch.
+Kennzeichnen Sie Kurse an einer Partnerschule und halten Sie die Zuordnung zu den eigenen Schülerinnen und Schülern nachvollziehbar. Stimmen Sie die benötigten Schüler- und Kurslisten sowie die Rückgabe der Noten mit der Partnerschule ab. Prüfen Sie im aktuellen Halbjahr, ob der Unterricht als extern erfasst ist. [Kapitel 14](/dateien/pdf/handbuch-schild-lupo-kurs42-22.auflage.pdf#page=153) zeigt einen Arbeitsablauf und ein Formular für den Austausch.
 
-Die Kursblockung legt die Belegungen fest. Übertragen Sie diese vor der Notenerfassung in den passenden Lernabschnitt und kontrollieren Sie die Zuordnungen. Das Handbuch unterscheidet die [Notenerfassung in Kurs42 und in SchILD-NRW 2](https://www.svws.nrw.de/system/files/media/document/file/handbuch-schild-lupo-kurs42-22.auflage.pdf#page=156). Für den Austausch von Leistungsdaten nutzen Sie die Anleitung zum [externen Notenmodul](/zeugnisse/vorbereitung/externes-notenmodul).
+Die Kursblockung legt die Belegungen fest. Übertragen Sie diese vor der Notenerfassung in den passenden Lernabschnitt und kontrollieren Sie die Zuordnungen. Das Handbuch unterscheidet die [Notenerfassung in Kurs42 und in SchILD-NRW 2](/dateien/pdf/handbuch-schild-lupo-kurs42-22.auflage.pdf#page=156). Für den Austausch von Leistungsdaten nutzen Sie die Anleitung zum [externen Notenmodul](/zeugnisse/vorbereitung/externes-notenmodul).

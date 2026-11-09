@@ -10,7 +10,7 @@ Hier sind die im früheren Wiki beschriebenen Hilfe- und Supportwege zusammengef
 
 ![Supportkonzept des MSW](/bilder/hilfe/wiki-archiv/supportkonzept-des-msw.png)
 
-[Historisches Supportkonzept des MSW](/dateien/wiki/supportkonzept-des-msw-49f6bce7.pdf)
+[Historisches Supportkonzept des MSW](/dateien/originaldateien/supportkonzept-des-msw-49f6bce7.pdf)
 
 Jede Schule hat einen Fachberater, der diese bei Fragen rund um SchILD-NRW 2 unterstützen soll.
 

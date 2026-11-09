@@ -35,11 +35,11 @@ Der Dateiname enthält Lehrerkürzel, Schuljahr und Halbjahr; ein zusätzliches 
 
 Weiter: [Leistungsdaten eingeben](/tools/notenmodul-grundschule/leistungsdaten).
 
-Quelle: [Bedienungsanleitung des GS-Notenmoduls, Stand 10.05.2023](https://www.svws.nrw.de/system/files/media/document/file/notenmodul_grundschule_anleitung.pdf), Kapitel 2, Seiten 10–16.
+Quelle: [Bedienungsanleitung des GS-Notenmoduls, Stand 10.05.2023](/dateien/pdf/notenmodul_grundschule_anleitung.pdf), Kapitel 2, Seiten 10–16.
 
 ## Klassenunterricht, Floskeln, Kompetenzen und Export
 
-Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 10–14](https://www.svws.nrw.de/system/files/media/document/file/notenmodul_grundschule_anleitung.pdf#page=10).
+Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 10–14](/dateien/pdf/notenmodul_grundschule_anleitung.pdf#page=10).
 
 ### 2. Vorbereitungen in SchILD
 

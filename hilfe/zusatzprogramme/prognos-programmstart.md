@@ -43,7 +43,7 @@ Quelle: [Prognos:Programmstart – ursprüngliches Wiki](https://wiki.svws.nrw.d
 
 ## SchILD-Zugriff, Benutzerdaten und Startparameter
 
-Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 37–42](https://www.svws.nrw.de/system/files/media/document/file/pm2_bedienungsanleitung_1.pdf#page=37).
+Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 37–42](/dateien/pdf/pm2_bedienungsanleitung_1.pdf#page=37).
 
 Report-Explorer
 

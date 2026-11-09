@@ -67,7 +67,7 @@ Bitte beachten Sie, dass bei der Verteilung der SPD-Dateien ein Schreibzugriff a
 :::
 
 :::example
-In der beiliegenden ZIP-Datei sind zwei Beispiele für solche dynamisch erstellte Datenquellen enthalten: **[Medium:SPD_Dateien.zip](/dateien/wiki/spd-dateien-176ffe85.zip "SPD Dateien.zip")**
+In der beiliegenden ZIP-Datei sind zwei Beispiele für solche dynamisch erstellte Datenquellen enthalten: **[Medium:SPD_Dateien.zip](/dateien/originaldateien/spd-dateien-176ffe85.zip "SPD Dateien.zip")**
 :::
 
 Quelle: [Eigene Datenquellen für SchILD-NRW 2-Reports – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Eigene+Datenquellen+f%C3%BCr+Schild-Reports&oldid=3527)

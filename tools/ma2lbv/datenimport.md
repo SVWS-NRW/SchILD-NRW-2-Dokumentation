@@ -24,11 +24,11 @@ Das erste beschriebene Format enthält Lehrkraft-Stammdaten und Angaben für gen
 
 Wenn keine passende Abrechnungsdatei vorliegt, können Sie stattdessen die Lehrkraftdaten aus SchILD-NRW 2 importieren und die Mehrarbeitsstunden im Programm ergänzen. Der dafür verwendete SchILD-NRW 2-Benutzer benötigt Leserechte auf die Lehrkraftdaten.
 
-Quelle: [Bedienungsanleitung MA2, Druckstand 18.03.2024](https://www.svws.nrw.de/system/files/media/document/file/ma2lbv_anleitung.pdf), Kapitel 4, 5.3 und 6.1, Seiten 12–17 und 23–31.
+Quelle: [Bedienungsanleitung MA2, Druckstand 18.03.2024](/dateien/pdf/ma2lbv_anleitung.pdf), Kapitel 4, 5.3 und 6.1, Seiten 12–17 und 23–31.
 
 ## Dateiformat, Import und Plausibilitätsprüfung
 
-Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 26–31](https://www.svws.nrw.de/system/files/media/document/file/ma2lbv_anleitung.pdf#page=26).
+Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 26–31](/dateien/pdf/ma2lbv_anleitung.pdf#page=26).
 
 Datenimport
 
