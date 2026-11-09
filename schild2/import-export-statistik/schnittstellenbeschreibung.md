@@ -80,7 +80,7 @@ L7\|L7\|L7\|Latein\|Latein (ab Kl. 7)\|D\|4\|11\|1\
 M\|M\|Mathematik\|Mathematik\|Mathematik\|D\|5\|6\|1
 :::
 
-**[Download einer Beispiel-Faecher.dat](/dateien/wiki/faecher-f76c8a51.dat)**
+**[Download einer Beispiel-Faecher.dat](/dateien/originaldateien/faecher-f76c8a51.dat)**
 
 ## Jahrgaenge.dat
 
@@ -102,7 +102,7 @@ E3\|E3\|\*\*\*\
 Q1\|Q1\|GY8
 :::
 
-**[Download einer Beispiel-Jahrgaenge.dat](/dateien/wiki/jahrgaenge-546fc188.dat)**
+**[Download einer Beispiel-Jahrgaenge.dat](/dateien/originaldateien/jahrgaenge-546fc188.dat)**
 
 ## Klassen.dat
 
@@ -475,7 +475,7 @@ Nachname\|Vorname\|Geburtsdatum\|Adressart\|Name1\|Name2\|Straße\|PLZ\|Ort\|1. 
 Abel\|Sandra\|19.01.1986\|Betrieb\|Elektro Blau\|\|Kirchsgasse 430\|32978\|Weveringen\|01234-880016\|\|\|Müller\|Anton\|Herr\|04567-98765\|mueller@elektro-blau.de\|Instandsetzung\|01.08.2005\|
 :::
 
-**[Download einer Beispiel SchuelerAdressen.dat](/dateien/wiki/schueleradressen-983c73da.dat)**
+**[Download einer Beispiel SchuelerAdressen.dat](/dateien/originaldateien/schueleradressen-983c73da.dat)**
 
 ## SchuelerASV.dat
 
@@ -822,7 +822,7 @@ Herse\|Tobias\|08.04.1995\|2005\|2\|PKE\|WE\|PJK\|PJK-G1\|1-\|\|3\|\|\|\|\|\|0\|
 Herse\|Tobias\|08.04.1995\|2005\|2\|VKM\|QU\|VTF\|VKM-G1\|E3\|\|2\|\|\|\|\|\|0\|0
 :::
 
-**[Download einer Beispiel SchuelerLeistungsdaten.dat](/dateien/wiki/schuelerleistungsdaten-9a84d62c.dat)**
+**[Download einer Beispiel SchuelerLeistungsdaten.dat](/dateien/originaldateien/schuelerleistungsdaten-9a84d62c.dat)**
 
 ## SchuelerLELS.dat
 
@@ -886,7 +886,7 @@ Nachname\|Vorname\|Geburtsdatum\|Jahr\|Abschnitt\|Jahrgang\|Klasse\|Schulglieder
 Alford\|Daniel\|03.12.1994\|2005\|2\|05\|05C\|\*\*\*\|1\|RK\|\|\|\|N\|J\|N\|Müller\|V\|0 Bader\|Heike\|25.02.1995\|2005\|2\|05\|05D\|\*\*\*\|1\|RK\|\|\|\|N\|J\|N\|Müller\|V\|0\|
 :::
 
-**[Download einer Beispiel SchuelerLernabschnittsdaten.dat](/dateien/wiki/schuelerlernabschnittsdaten-f34f777a.dat)**
+**[Download einer Beispiel SchuelerLernabschnittsdaten.dat](/dateien/originaldateien/schuelerlernabschnittsdaten-f34f777a.dat)**
 
 ## SchuelerLernplattformen.dat
 

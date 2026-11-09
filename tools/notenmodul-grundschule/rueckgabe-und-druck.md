@@ -32,11 +32,11 @@ Soll eine im Modul gelöschte Zeugnisbemerkung auch in SchILD-NRW 2 verschwinden
 
 Für die Übernahme der Schulformempfehlung nach **Individual-Daten II** müssen anschließend die Schülerdaten aktualisiert werden. Prüfen Sie nach dem Import stichprobenartig Noten, Bemerkungen und die betroffenen Empfehlungen.
 
-Quelle: [Bedienungsanleitung des GS-Notenmoduls, Stand 10.05.2023](https://www.svws.nrw.de/system/files/media/document/file/notenmodul_grundschule_anleitung.pdf), Seiten 9 und 13–16.
+Quelle: [Bedienungsanleitung des GS-Notenmoduls, Stand 10.05.2023](/dateien/pdf/notenmodul_grundschule_anleitung.pdf), Seiten 9 und 13–16.
 
 ## Zeugnisse aus der Notendatei drucken
 
-Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 9–9](https://www.svws.nrw.de/system/files/media/document/file/notenmodul_grundschule_anleitung.pdf#page=9).
+Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 9–9](/dateien/pdf/notenmodul_grundschule_anleitung.pdf#page=9).
 
 1.9.2. Zeugnisse drucken
 
@@ -70,7 +70,7 @@ Exporteinstellungen, die der Administrator im Vorfeld im Schild-System eingestel
 
 ## Notendateien einlesen und Zeugnisse zuordnen
 
-Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 15–16](https://www.svws.nrw.de/system/files/media/document/file/notenmodul_grundschule_anleitung.pdf#page=15).
+Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 15–16](/dateien/pdf/notenmodul_grundschule_anleitung.pdf#page=15).
 
 Wenn FachlehrerInnen Leistungsdaten einpflegen sollen, muss der Haken „keine Fachlehrer-Fächer
 

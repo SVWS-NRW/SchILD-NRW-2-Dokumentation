@@ -24,11 +24,11 @@ Für den Import von Lehrkraftdaten benötigt ein verwendeter SchILD-NRW 2-Benutz
 
 Bei SchILDzentral wird das Modul aus der SchILDzentral-Anwendung gestartet. Eine dort abgelegte Programmdatei lässt sich nicht unabhängig davon direkt aufrufen; die Einrichtung der zentralen Umgebung ist von der Einrichtung einer gewöhnlichen SchILD-NRW 2-Installation zu unterscheiden.
 
-Quelle: [Bedienungsanleitung MA2, Druckstand 18.03.2024](https://www.svws.nrw.de/system/files/media/document/file/ma2lbv_anleitung.pdf), Seiten 4–12 und 20–25; [Versionshinweise](https://www.svws.nrw.de/system/files/media/document/file/ma2pdf_versionsgeschichte.pdf), Version 3.2.3.2.
+Quelle: [Bedienungsanleitung MA2, Druckstand 18.03.2024](/dateien/pdf/ma2lbv_anleitung.pdf), Seiten 4–12 und 20–25; [Versionshinweise](/dateien/pdf/ma2pdf_versionsgeschichte.pdf), Version 3.2.3.2.
 
 ## Systembeschreibung und Installation
 
-Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 4–11](https://www.svws.nrw.de/system/files/media/document/file/ma2lbv_anleitung.pdf#page=4).
+Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 4–11](/dateien/pdf/ma2lbv_anleitung.pdf#page=4).
 
 ### 1 Vorbemerkung
 
@@ -350,7 +350,7 @@ werden, sondern nur aus der SchILDzentral-Anwendung heraus!
 
 ## Updates, Einstellungen und Zugriff auf SchILD-NRW 2
 
-Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 18–25](https://www.svws.nrw.de/system/files/media/document/file/ma2lbv_anleitung.pdf#page=18).
+Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 18–25](/dateien/pdf/ma2lbv_anleitung.pdf#page=18).
 
 Updates durchführen
 
@@ -593,7 +593,7 @@ zer" hinterlegt werden:
 
 ## Installationshinweise der Versionsdokumentation
 
-Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 1–2](https://www.svws.nrw.de/system/files/media/document/file/ma2pdf_versionsgeschichte.pdf#page=1).
+Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 1–2](/dateien/pdf/ma2pdf_versionsgeschichte.pdf#page=1).
 
 Dieser Abschnitt gibt die Hinweise der dokumentierten Programmausgabe wieder.
 

@@ -24,14 +24,13 @@ test('Tool-Menüs sind kurz, eindeutig und folgen dem Handbuchablauf',()=>{
     visit(group)
   }
 })
-test('PDFs sind in Artikel ausgewertet und zusätzliche Downloads entfernt',()=>{
+test('Ausgewertete PDFs werden lokal bereitgestellt und in den Artikeln verlinkt',()=>{
   const evaluated=read('.vitepress/pdf-sources.json')
   assert(evaluated.length>0)
   for (const pdf of evaluated) for (const article of pdf.articles) {
     assert(fs.readFileSync(article,'utf8').includes(pdf.source),`Quellenbeleg fehlt: ${article}`)
   }
-  const directory='public/dateien/handbuecher'
-  assert(!fs.existsSync(directory)||fs.readdirSync(directory).length===0)
+  for (const pdf of evaluated) assert(fs.existsSync('public'+decodeURIComponent(pdf.source)), 'Lokales PDF fehlt: '+pdf.source)
   assert(!fs.existsSync('quellen/fehlende-downloads.md'))
   for (const retirement of read('.vitepress/redirects.json')) assert(!fs.existsSync(retirement.path))
 })

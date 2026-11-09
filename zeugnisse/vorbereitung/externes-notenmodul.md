@@ -69,7 +69,7 @@ Der E-Mail-Versand setzt voraus, dass die Mail-Einstellungen unter den [Programm
 
 Wenn man den Text in der Mail verändern will, der mit dem Versand der Notendateien gesendet wird, dann müssen Sie eine TXT-Datei mit dem Namen Notendateitext.txt im Installationsverzeichnis ablegen. Der darin enthaltene Text wird dann im Mailbody gesendet.
 
-Beispiel: [Mustertext zur Notendatei](/dateien/wiki/notendateitext-b8c20be9.txt)
+Beispiel: [Mustertext zur Notendatei](/dateien/originaldateien/notendateitext-b8c20be9.txt)
 
 ## Noten Import
 

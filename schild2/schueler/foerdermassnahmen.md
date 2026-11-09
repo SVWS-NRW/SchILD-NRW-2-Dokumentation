@@ -37,17 +37,17 @@ In der Reporting (ab SchILD-NRW 2-Version 2.0.14.1) stehen zwei Datenquellen zum
 
 Diese Datenquelle stellt einen eigenen Bezug zu den Fördermaßnahmen her und ist nicht an die sonstigen Schülerdaten gekoppelt. Beim Aufruf dieser Datenquelle erscheint ein Auswahlfenster. In diesem Fenster kann gewählt werden, aus welchen Lernabschnitten gedruckt werden soll. Die Auswahl filtert selbstständig alle Schüler, die in diesem Abschnitt eine Fördermaßnahme haben.
 
-1\. [Reportvorlage für eine Fördermaßnahme](/dateien/wiki/foerdermassnahme-v02-dfcabde2.zip)
+1\. [Reportvorlage für eine Fördermaßnahme](/dateien/originaldateien/foerdermassnahme-v02-dfcabde2.zip)
 
 - **Datenquelle Schueler \> Lernabschnitte \> SchuelerFoerdermassnahmen**
 
 Diese Datenquelle stellt einen Bezug zu den Schülerdaten her. Hier werden die Fördermaßnahmen für den im Report-Explorer gewählten Lernabschnitt gedruckt. Hier gibt es zwei Verwendungsbeispiele:
 
-1\. [Reportvorlage für eine Liste der Fördermaßnahmen](/dateien/wiki/liste-foerdermassnahmen-v01-a4bc0697.zip)
+1\. [Reportvorlage für eine Liste der Fördermaßnahmen](/dateien/originaldateien/liste-foerdermassnahmen-v01-a4bc0697.zip)
 
 Dieser Report druckt eine Klassenliste, wobei bei den Schülern, die eine Fördermaßnahme haben (oder mehrere,) dies in der Zeile vermerkt ist.
 
-2\. [Reportvorlage für abschnittsbezogene Fördermaßnahmen](/dateien/wiki/foerdermassnahmen-abschnitt-dv-v01-31efc0cd.zip)
+2\. [Reportvorlage für abschnittsbezogene Fördermaßnahmen](/dateien/originaldateien/foerdermassnahmen-abschnitt-dv-v01-31efc0cd.zip)
 
 Dieser Report ist nach Schüler ID gruppiert und druckt alle Fördermaßnahmen zu einem Schüler auf eine eigene Seite. Für diesen Report ist es sinnvoll, vorher auf bestehende Fördermaßnahmen zu filtern. Dies geht ab SchILD-NRW 2-Version 2.0.14.1 mit Filter I \> Lernabschnitte! Dieser Report ist geeignet, um in die Dokumentenverwaltung zu drucken.
 

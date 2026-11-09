@@ -26,7 +26,7 @@ Quelle: [S1PLAN:Anhang – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediaw
 
 ## Steuerdateien, Druckdesigner und Optimierung
 
-Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 31–32](https://www.svws.nrw.de/system/files/media/document/file/s1plan_anleitung.pdf#page=31).
+Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 31–32](/dateien/pdf/s1plan_anleitung.pdf#page=31).
 
 Menüpunkt „Datei“
 

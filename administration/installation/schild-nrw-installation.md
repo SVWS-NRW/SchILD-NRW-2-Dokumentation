@@ -148,7 +148,7 @@ Lesen Sie sich zunächst die Schritte zur Installation von SchILD-NRW 2 im Kapit
 
 Legen Sie auf dem Server eine neue Datenbank an und spielen Sie das Script zum Anlegen der Tabellen und Felder von SchILD-NRW 2 ein. Das Script legt zudem einen Benutzer 'Administrator' ohne Passwort an, mit dem Sie sich zu Beginn an SchILD-NRW 2 anmelden können. Bitte beachten Sie, dass dieses Script aus einer älteren Version sein kann! Die leere Datenbank muss dann einmal mit der aktuellen Version von SchILD-NRW 2 gestartet werden, damit alle Tabellen und Felder vorhanden sind!
 
-[Downloadlink zur MS SQL Server-Script-Datei als ZIP](/dateien/wiki/mssql-script-2021-02-22-44a64a7b.zip)
+[Downloadlink zur MS SQL Server-Script-Datei als ZIP](/dateien/originaldateien/mssql-script-2021-02-22-44a64a7b.zip)
 
 Richten Sie nun im SchILD-NRW 2-Unterverzeichnis 'UDL' eine UDL-Datei für den Zugriff auf den MS SQL Server ein. Kopieren Sie hierzu folgende Zeilen in eine Text-Datei und speichern Sie diese in Unicode-Kodierung mit der Dateiendung .udl ab!
 
@@ -200,7 +200,7 @@ Legen Sie in MySQL oder MariaDB einen Datenbankuser an und sorgen Sie dafür das
 
 Spielen Sie nun das Script zum Anlegen der Tabellen und Felder von SchILD-NRW 2 ein. Das Script legt zudem in der Tabelle 'User' einen SchILD-NRW 2 Benutzer 'Administrator' ohne Passwort an, mit dem Sie sich zu Beginn an SchILD-NRW 2 anmelden können. Bitte beachten Sie, dass dieses Script für eine ältere SchILD-NRW 2 Version bestimmt sein sein kann, in der noch manche Tabellen für neuere SchILD-NRW 2-Versionen fehlen! Diese fehlenden Tabellen werden angelegt, sobald die Datenbank mit der aktuellen Version von SchILD-NRW 2 gestartet wird.
 
-[Downloadlink zur MySQL-Script-Datei als ZIP](/dateien/wiki/mysql-script-2023-10-21-dadbda68.zip)
+[Downloadlink zur MySQL-Script-Datei als ZIP](/dateien/originaldateien/mysql-script-2023-10-21-dadbda68.zip)
 
 Öffnen Sie eine neue SQL-Abfrage. Stellen Sie sicher, dass das angelegte Schema verwendet wird (use 'schemaname'). Kopieren sie das Script in die Abfrage und führen Sie die Abfrage aus.
 
@@ -236,7 +236,7 @@ SchILD-NRW 2 kann nun gestartet werden und die eingerichtet Datenbank sollte zur
 
 Sie können nun Ihre Schule einrichten, sofern Sie zum ersten Mal mit SchILD-NRW 2 arbeiten. Wenn Sie aus einer bestehenden Datenbank in die MySQL-Datenbank oder MariaDB-Datenbank migrieren wollen, so können Sie die Einrichtung abbrechen und den [Migrationsprozess mit Hilfe des Migrationstools](/administration/datenbanken/schild-nrw-daten-in-eine-andere-datenbank-uebertragen-migrieren) vornehmen.
 
-Eine [Anleitung zur Installation und Einrichtung einer MySQL-Datenbank von Herrn Roß als PDF](/dateien/wiki/schildnrw-mysql-installation-3e4cc65d.pdf) gibt es in einer etwas älteren Version.
+Eine [Anleitung zur Installation und Einrichtung einer MySQL-Datenbank von Herrn Roß als PDF](/dateien/originaldateien/schildnrw-mysql-installation-3e4cc65d.pdf) gibt es in einer etwas älteren Version.
 
 ## Die Datei ADMIN.INI in Serverumgebungen
 
@@ -396,15 +396,13 @@ Quelle: [SchILD-NRW 2 Installation – ursprüngliches Wiki](https://wiki.svws.n
 
 ## MySQL-Anbindung im dokumentierten Installationsbeispiel
 
-Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 2–13](/dateien/wiki/schildnrw-mysql-installation-3e4cc65d.pdf#page=2).
+Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 2–13](/dateien/originaldateien/schildnrw-mysql-installation-3e4cc65d.pdf#page=2).
 
 Das Beispiel von Martin Roß stammt aus Februar 2017. Es dokumentiert eine Installation mit MySQL und ODBC auf Windows Server 2016. Die darin genannten Versionen und Downloadpfade gehören zu diesem Beispiel.
 
 ### Vorbemerkung
 
-Diese Installationsbeschreibung ist eine Aktualisierung der vorhandenen Installationsbeschreibungen, die auf dem Portal der Schulverwaltung-NRW heruntergeladen werden können:
-
-https://www.svws.nrw.de/fileadmin/user_upload/Kurzanleitungen/KA11_Installation_Schild-NRW.pdf https://www.svws.nrw.de/uploads/media/SchILD-NRW_MySQL_5-1.pdf
+Die Anleitung von 2017 aktualisiert zwei ältere Veröffentlichungen, die Kurzanleitung KA11 zur SchILD-NRW-Installation und die Anleitung zur MySQL-Anbindung in Version 5.1. Die Original-PDFs dieser beiden älteren Veröffentlichungen sind unter ihren bisherigen Adressen nicht mehr verfügbar.
 
 Danke für die Installationsunterstützung durch die bestehenden Anleitungen z.B. von OStR Ralf Börger, für die Unterstützung des Forums sowie für die konkrete und schnelle Hilfe durch Herrn Pfotenhauer!
 

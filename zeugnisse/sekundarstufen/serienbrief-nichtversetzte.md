@@ -49,8 +49,8 @@ Der Serienbrief analysiert keine Abschlüsse, welche durch eine Nachprüfung err
 
 An dieser Stelle kann zudem eine Excel-Übersicht und eine LibreCalc-Übersicht heruntergeladen werden, welche die Konstellationen der Nichtversetzung an den einzelnen Schulformen und Gliederungen zeigt. Die Dateien enthalten zudem eine Übersicht darüber, welcher Serienbrief in welcher Konstellation geladen wird.
 
-[LibreCalc - Schulform Jahrgang Nichtversetzte Matrix](/dateien/wiki/schulform-jahrgang-nichtversetzte-matrix-50c8e079.ods)
+[LibreCalc - Schulform Jahrgang Nichtversetzte Matrix](/dateien/originaldateien/schulform-jahrgang-nichtversetzte-matrix-50c8e079.ods)
 
-[Excel - Schulform Jahrgang Nichtversetzte Matrix](/dateien/wiki/schulform-jahrgang-nichtversetzte-matrix-90b9c252.xlsx)
+[Excel - Schulform Jahrgang Nichtversetzte Matrix](/dateien/originaldateien/schulform-jahrgang-nichtversetzte-matrix-90b9c252.xlsx)
 
 Quelle: [Serienbrief Nichtversetzte – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Serienbrief+Nichtversetzte&oldid=5863)
