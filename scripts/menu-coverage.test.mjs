@@ -46,9 +46,9 @@ test('Alle Rubriken und Toolmenüs behalten jeden Seitenmenülink im eigenen Kon
  }
 })
 
-test('Einzelne Archivseiten entfallen, das Quelltext-ZIP bleibt und der Wiki-Vergleich hat zwei Spalten',()=>{
+test('Einzelne Archivseiten entfallen, das Quelltext-ZIP entfällt und der Wiki-Vergleich hat zwei Spalten',()=>{
  assert(!fs.existsSync('quellen'))
- assert.deepEqual(fs.readdirSync('public/dateien/quellen'),['wiki-quelltexte.zip'])
+ assert(!fs.existsSync('public/dateien/quellen/wiki-quelltexte.zip'))
  const comparison=fs.readFileSync('hilfe/artikel-wiki-zuordnung.md','utf8')
  for(const row of comparison.split('\n').filter(s=>s.startsWith('| '))) assert.equal(row.split('|').length,4,row)
  for(const dir of ['einstieg','schild2','zeugnisse','reporting','tools','administration','hilfe','programmreferenz','bilder']) {
