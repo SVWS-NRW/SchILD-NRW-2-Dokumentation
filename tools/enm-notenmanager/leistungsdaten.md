@@ -32,11 +32,11 @@ Vorbereitete Floskeln lassen sich per Doppelklick übernehmen und anschließend 
 
 Fördermaßnahmen erreichen Sie über **Leistungsdaten → Fördern**.
 
-Quelle: [Bedienungsanleitung ENM-Notenmanager, Druckstand 15.12.2020](https://www.svws.nrw.de/system/files/media/document/file/enm_bedienungsanleitung_2.pdf), Kapitel 5–6, Seiten 14–21.
+Quelle: [Bedienungsanleitung ENM-Notenmanager, Druckstand 15.12.2020](/dateien/pdf/enm_bedienungsanleitung_2.pdf), Kapitel 5–6, Seiten 14–21.
 
 ## Eingabe als Fachlehrkraft und Klassenleitung
 
-Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 14–21](https://www.svws.nrw.de/system/files/media/document/file/enm_bedienungsanleitung_2.pdf#page=14).
+Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 14–21](/dateien/pdf/enm_bedienungsanleitung_2.pdf#page=14).
 
 ### 5 Dateneingabe Fachlehrer
 

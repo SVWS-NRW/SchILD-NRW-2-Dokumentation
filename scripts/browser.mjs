@@ -1,0 +1,177 @@
+import { spawn } from 'node:child_process'
+import fs from 'node:fs/promises'
+import assert from 'node:assert/strict'
+import { checkSectionMenus, checkToolsTree } from './browser-section.mjs'
+import { checkEditorialNavigation } from './browser-editorial.mjs'
+import { checkPetrolTheme } from './browser-petrol.mjs'
+import { checkEditorLinks } from './browser-editor-links.mjs'
+import { checkReadingNavigation, checkFilterBranches } from './browser-reading.mjs'
+import { checkSingleMenus } from './browser-single-menu.mjs'
+import { checkArticleMenus } from './browser-article-menu.mjs'
+const { chromium } = await import(process.env.PLAYWRIGHT_MODULE || 'playwright')
+const base = 'http://127.0.0.1:4192'
+const server = spawn(process.execPath, ['node_modules/vitepress/bin/vitepress.js', 'preview', '--host', '127.0.0.1', '--port', '4192'], {stdio:'ignore'})
+let browser
+const errors = []
+const results = []
+try {
+  let ready = false
+  for (let i=0;i<100;i++) {
+    try { if ((await fetch(base)).ok) {ready=true;break} } catch {}
+    await new Promise(resolve=>setTimeout(resolve,100))
+  }
+  assert(ready, 'Vorschau startet nicht')
+  browser = await chromium.launch({headless:true,...(process.env.QA_BROWSER ? {executablePath:process.env.QA_BROWSER} : {})})
+  const page = await browser.newPage()
+  page.on('pageerror', e=>errors.push(e.message))
+  page.on('console', message=>{
+    // Chromium may probe favicon.ico although the site does not declare one.
+    if(new URL(message.location().url || base,base).pathname==='/favicon.ico')return
+    if(message.type()==='error'||/hydration/i.test(message.text()))errors.push(message.text())
+  })
+  await page.route(/https?:\/\/(?:www\.)?(?:youtube(?:-nocookie)?\.com|player\.vimeo\.com)\//, route=>route.fulfill({contentType:'text/html',body:'<html lang="de"><body>Videovorschau für die Browserprüfung</body></html>'}))
+  await fs.mkdir('test-results', {recursive:true})
+  await checkEditorLinks(page,base)
+  await checkReadingNavigation(page,base)
+  await checkFilterBranches(page,base)
+  await checkSingleMenus(page,base)
+  await checkArticleMenus(page,base)
+  const paths = ['/', '/schild2/', '/administration/installation/schild-nrw-installation.html', '/schild2/import-export-statistik/schnittstellenbeschreibung.html', '/reporting/rap.html', '/reporting/rap/anrede.html', '/reporting/rap/aufzaehlungrtf.html', '/reporting/rap/createnotenheader.html', '/programmreferenz/', '/bilder/', '/hilfe/alle-artikel.html','/tools/','/tools/lupo.html','/tools/ma2lbv.html','/hilfe/','/tools/enm-notenmanager/leistungsdaten.html','/tools/notenmodul-grundschule/vorbereitung.html','/tools/ma2lbv/abrechnung.html']
+  for (const width of [1440,390]) {
+    await page.setViewportSize({width,height:900})
+    for (const route of paths) {
+      const response=await page.goto(base+route)
+      assert(response.ok(),route)
+      for (const dark of [false,true]) {
+        await page.evaluate(dark=>{document.documentElement.classList.toggle('dark',dark);localStorage.setItem('vitepress-theme-appearance',dark?'dark':'light')},dark)
+        const overflow=await page.evaluate(()=>({scroll:document.documentElement.scrollWidth,viewport:innerWidth}))
+        assert(overflow.scroll<=overflow.viewport+2, `${route} bei ${width}px: Überlauf ${JSON.stringify(overflow)}`)
+        const broken=await page.locator('.vp-doc img').evaluateAll(imgs=>imgs.filter(img=>img.loading!=='lazy'&&(!img.complete||!img.naturalWidth)).map(img=>img.src))
+        assert.deepEqual(broken,[],route)
+        results.push({route,width,dark,overflow:false})
+        if (route==='/reporting/rap.html' || route==='/reporting/rap/anrede.html' || route==='/reporting/rap/aufzaehlungrtf.html') await page.screenshot({path:`test-results/${route==='/reporting/rap.html'?'rap-einstieg':route.includes('anrede')?'rap-anrede':'rap-rtf'}-${width}-${dark?'dark':'light'}.png`})
+        if (route==='/' || route==='/programmreferenz/' || route.includes('schild-nrw-installation')) await page.screenshot({path:`test-results/${route==='/'?'start':route.includes('installation')?'installation':'referenz'}-${width}-${dark?'dark':'light'}.png`})
+        if (route==='/tools/' || route==='/tools/lupo.html') await page.screenshot({path:`test-results/${route==='/tools/'?'tools':'lupo'}-${width}-${dark?'dark':'light'}.png`})
+      }
+    }
+  }
+  await page.setViewportSize({width:1440,height:900})
+  await page.goto(base+'/reporting/rap.html',{waitUntil:'networkidle'})
+  assert.equal(await page.locator('.vp-doc li > a[href^="/reporting/rap/"]').count(),122,'RAP-Einstieg muss alle Funktionen verknüpfen')
+  await page.locator('.vp-doc').getByRole('link',{name:'Anrede',exact:true}).click()
+  await page.waitForURL('**/reporting/rap/anrede.html')
+  await page.waitForFunction(()=>document.querySelector('.vp-doc h1')?.textContent.includes('Anrede'))
+  assert.equal(await page.locator('.vp-doc table tbody tr').count(),6,'Anrede benötigt sechs lesbare Parameterzeilen')
+  assert.equal(await page.locator('.vp-doc h2').allTextContents().then(xs=>xs.map(x=>x.replace(/[\u200b#]/g,'').trim())).then(xs=>xs.join('|')),'Beschreibung|Parameter|Rückgabewert|Beispiel')
+  await page.locator('.vp-doc').getByRole('link',{name:'RAP-Funktionen',exact:true}).click()
+  await page.waitForURL('**/reporting/rap.html')
+  await page.goto(base+'/reporting/rap/rap-funktionen.html#a',{waitUntil:'networkidle'})
+  await page.waitForURL('**/reporting/rap.html#a')
+  assert(await page.locator('.vp-doc #a').count(),'RAP-Weiterleitung erreicht die Markdown-Überschrift')
+  await page.goto(base+'/reporting/rap/aufzaehlungrtf.html#beschreibung',{waitUntil:'networkidle'})
+  assert((await page.locator('.vp-doc table').innerText()).includes('<ul>..</ul>'),'RTF-Marken dürfen keine HTML-Listen erzeugen')
+  assert(await page.locator('.vp-doc #beschreibung').count(),'Sprungmarke der Beschreibung fehlt')
+  await checkPetrolTheme(page,base)
+  await checkSectionMenus(page,base)
+  await checkToolsTree(page,base)
+  await checkEditorialNavigation(page,base)
+  await page.goto(base+'/schild2/import-export-statistik/schnittstellenbeschreibung.html',{waitUntil:'networkidle'})
+  assert(await page.locator('.interface-fields').count()>20,'Feldtabellen müssen ihre tatsächliche Layoutklasse erhalten')
+  await page.locator('.interface-table-scroll').first().focus()
+  assert(await page.locator('.interface-table-scroll').first().evaluate(node=>node===document.activeElement),'Tabellenbereich muss mit Tastatur fokussierbar sein')
+  await page.goto(base+'/programmreferenz/',{waitUntil:'networkidle'})
+  assert.equal(await page.locator('.program-reference-menu .reference-caption').count(),0)
+  await page.locator('.program-reference-menu').getByRole('link',{name:'Datei',exact:true}).click()
+  await page.locator('.program-reference-menu').getByRole('link',{name:'Beenden',exact:true}).click()
+  await page.waitForURL('**/administration/datenbanken/beenden.html')
+  await page.locator('.vp-doc').getByText('um SchILD-NRW 2 zu beenden.', {exact:false}).waitFor()
+  assert((await page.locator('.vp-doc').innerText()).includes('um SchILD-NRW 2 zu beenden.'))
+  await page.locator('.program-reference-menu').getByRole('link',{name:'Schulverwaltung',exact:true}).click()
+  await page.waitForURL(url => url.searchParams.has('referenz'))
+  assert(await page.locator('.program-reference-menu .reference-active').count())
+  await page.reload({waitUntil:'networkidle'})
+  assert(await page.locator('.program-reference-menu .reference-active').count())
+  const referenceMenu=page.locator('.program-reference-menu')
+  await referenceMenu.getByRole('link',{name:'Datenaustausch',exact:true}).click()
+  await page.waitForURL(url => url.pathname.endsWith('/datenaustausch.html') && url.searchParams.get('referenz') === '')
+  await referenceMenu.getByRole('link',{name:'Export für LuPO',exact:true}).click()
+  await page.waitForURL(url => url.pathname.endsWith('/export-fuer-lupo.html') && url.searchParams.get('referenz') === '')
+  assert.equal(await referenceMenu.getByRole('link',{name:'Nur Schülerdaten exportieren',exact:true}).count(),0)
+  await page.goto(base+'/schild2/import-export-statistik/export-fuer-lupo.html?referenz=lupo-schueler#nur-schulerdaten-exportieren',{waitUntil:'networkidle'})
+  await page.waitForFunction(()=>document.querySelector('.program-reference-menu .reference-active')?.textContent==='Export für LuPO')
+  assert.equal(await referenceMenu.locator('.reference-active').count(),1)
+  assert(await page.locator('.VPDocFooter .next a, .VPDocFooter a.next').count(),'Abschnittsbefehle behalten den Artikel-Pager')
+  await page.reload({waitUntil:'networkidle'})
+  assert.equal(await referenceMenu.locator('.reference-active').innerText(),'Export für LuPO')
+  await referenceMenu.getByRole('link',{name:'Hauptfenster',exact:true}).click()
+  await page.waitForURL(url => url.pathname.endsWith('/hauptfenster.html') && url.searchParams.get('referenz') === '')
+  await referenceMenu.getByText('Karteireiter',{exact:true}).click()
+  await referenceMenu.getByRole('link',{name:'Einwilligungen',exact:true}).click()
+  await page.waitForURL('**/*?referenz=reiter-einwilligungen')
+  await page.waitForFunction(()=>document.querySelector('.program-reference-menu .reference-active')?.textContent==='Einwilligungen')
+  assert.equal(await referenceMenu.locator('a').filter({hasText:/^KAoA$/}).count(),0,'Undokumentierte Funktionen erhalten keinen Scheinlink')
+  assert(await referenceMenu.getByText('KAoA',{exact:true}).isVisible())
+  await page.screenshot({path:'test-results/referenz-karteireiter-1440.png'})
+  await page.goto(base+'/reporting/rap/anrede.html',{waitUntil:'networkidle'})
+  assert((await page.locator('.vp-doc').innerText()).includes("Anrede('Herr','','Meier'"), 'Leere Pascal-Zeichenkette wurde verändert')
+  await page.goto(base+'/tools/lupo.html',{waitUntil:'networkidle'})
+  assert(await page.locator('.vp-doc a[href*="lupo-einleitung"]').count()>0,'LuPO-Einstieg fehlt')
+  assert.equal(await page.locator('a[href^="/dateien/handbuecher/"]').count(),0,'Zusätzliche Downloads sind noch verlinkt')
+  await page.goto(base+'/hilfe/zusatzprogramme/lupo-lupo.html',{waitUntil:'networkidle'})
+  await page.waitForURL('**/tools/lupo.html')
+  assert(await page.locator('.VPNavBarMenu').getByRole('link',{name:'Tools',exact:true}).evaluate(e=>e.classList.contains('active')),'Alte LuPO-Adresse muss Tools im Kopfmenü aktivieren')
+  await page.goto(base+'/schild2/import-export-statistik/statistik-mit-asdpc-uebersicht-1346.html',{waitUntil:'networkidle'})
+  await page.waitForURL('**/statistik-mit-asdpc-uebersicht.html')
+  await page.goto(base+'/hilfe/zusatzprogramme/prognos-analyseverfahren-klasse.html',{waitUntil:'networkidle'})
+  assert((await page.locator('#VPSidebarNav').innerText()).includes('PM2'),'Verschachtelte Klassenanalyse muss das Tool-Menü behalten')
+  await page.goto(base+'/bilder/',{waitUntil:'networkidle'})
+  await page.getByRole('searchbox').fill('hauptfenster')
+  assert(await page.locator('.image-catalog img').count()>0,'Bilderkatalog findet kein Hauptfenster')
+  const download=await page.request.get(base+'/dateien/originaldateien/schildnrw-mysql-installation-3e4cc65d.pdf')
+  assert(download.ok(),'Original-PDF muss lokal abrufbar bleiben')
+  assert((await download.body()).subarray(0,5).toString()==='%PDF-','Dateiziel darf nicht versehentlich eine HTML-Seite liefern')
+  assert((await page.locator('#VPSidebarNav').innerText()).includes('Artikel schreiben'))
+  await page.goto(base+'/hilfe/alle-artikel.html',{waitUntil:'networkidle'})
+  await page.locator('.article-index a').filter({hasText:'Anrede'}).first().click()
+  await page.waitForURL('**/*?artikel=az')
+  await page.reload({waitUntil:'networkidle'})
+  assert((await page.locator('#VPSidebarNav').innerText()).includes('Alle Artikel A–Z'))
+  assert(await page.locator('#VPSidebarNav').getByRole('link',{name:'Anrede',exact:true}).isVisible(),'A–Z muss einschließlich seiner übergeordneten Kategorie geöffnet bleiben')
+  assert((await page.locator('.VPDocFooter a.next').getAttribute('href')).includes('artikel=az'))
+  await page.goto(base+'/schild2/',{waitUntil:'networkidle'})
+  await page.locator('.DocSearch-Button').click()
+  await page.locator('#localsearch-input').fill('Datensicherung')
+  await page.waitForSelector('.VPLocalSearchBox .result')
+  assert(await page.locator('.VPLocalSearchBox').getByText('Datensicherung',{exact:false}).count()>0)
+  await page.keyboard.press('Escape')
+  await page.setViewportSize({width:390,height:900})
+  await page.goto(base+'/schild2/',{waitUntil:'networkidle'})
+  await page.locator('.VPLocalNav .menu').click()
+  await page.locator('.VPSidebar.open').waitFor()
+  await page.locator('#VPSidebarNav').getByRole('link',{name:'Grundlagen und Orientierung',exact:true}).click()
+  await page.waitForURL(url=>url.pathname==='/einstieg/grundlagen.html'&&url.searchParams.get('rubrik')==='schild2')
+  await page.locator('.VPSidebar.open').waitFor({state:'detached'})
+  await page.goto(base+'/druck/schild2.html',{waitUntil:'networkidle'})
+  assert(await page.locator('.book-article').count()>5,'Rubrikdruck enthält keine Artikel')
+  assert(await page.locator('.book-toolbar button').isVisible(),'Rubrikdruck braucht einen ausdrücklichen Druckstart')
+  await page.emulateMedia({media:'print'})
+  assert(await page.locator('.book-article').first().isVisible())
+  await page.emulateMedia({media:'screen'})
+  await page.goto(base+'/hilfe/markdown-und-gestaltung.html',{waitUntil:'networkidle'})
+  const lifecycle=await page.evaluate(()=>{
+    const details=[...document.querySelectorAll('.vp-doc details')]
+    const initial=details.map(node=>node.open)
+    window.dispatchEvent(new Event('beforeprint'))
+    const opened=details.every(node=>node.open)
+    const source=!!document.querySelector('.print-source')
+    window.dispatchEvent(new Event('afterprint'))
+    return {count:details.length,opened,source,restored:details.every((node,i)=>node.open===initial[i]),clean:!document.querySelector('.print-source')}
+  })
+  assert(lifecycle.count>0&&lifecycle.opened&&lifecycle.source&&lifecycle.restored&&lifecycle.clean,'Druck muss Details öffnen und anschließend den Lesezustand wiederherstellen')
+  assert.deepEqual(errors,[])
+  await fs.writeFile('test-results/browser-check.json',JSON.stringify({checks:results,reference:true,search:true,catalog:true,mobileMenu:true,pascalStrings:true,sectionPrint:true,errors},null,2)+'\n')
+  console.log(`${results.length} Ansichten sowie Suche, Bilderkatalog, Referenzmenü, Mobilmenü, Pascal-Beispiele und Rubrikdruck geprüft.`)
+} finally {
+  await browser?.close()
+  server.kill()
+}

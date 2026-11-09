@@ -32,11 +32,11 @@ Für Klassenleitungen stehen zusätzliche Felder zur Verfügung: Fehlstunden, im
 
 Weiter: [Zeugnisse ausgeben und Daten zurückgeben](/tools/notenmodul-grundschule/rueckgabe-und-druck).
 
-Quelle: [Bedienungsanleitung des GS-Notenmoduls, Stand 10.05.2023](https://www.svws.nrw.de/system/files/media/document/file/notenmodul_grundschule_anleitung.pdf), Kapitel 1, Seiten 3–9.
+Quelle: [Bedienungsanleitung des GS-Notenmoduls, Stand 10.05.2023](/dateien/pdf/notenmodul_grundschule_anleitung.pdf), Kapitel 1, Seiten 3–9.
 
 ## Programm öffnen und Leistungsdaten erfassen
 
-Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 3–8](https://www.svws.nrw.de/system/files/media/document/file/notenmodul_grundschule_anleitung.pdf#page=3).
+Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 3–8](/dateien/pdf/notenmodul_grundschule_anleitung.pdf#page=3).
 
 Einleitung
 

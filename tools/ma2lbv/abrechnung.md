@@ -33,11 +33,11 @@ Die am Bildschirm bearbeiteten Abrechnungsdaten werden als verschlüsselte `.MAA
 
 Die Versionshinweise zu 3.2.3.2 beschreiben die Umbenennung von MA2LBV in MA2 und die Entfernung des ausgelaufenen Förderanlasses „Nachholen und Ankommen nach Corona“. Ältere Abbildungen und Anleitungen können daher andere Bezeichnungen oder Auswahlmöglichkeiten zeigen.
 
-Quelle: [Bedienungsanleitung MA2, Druckstand 18.03.2024](https://www.svws.nrw.de/system/files/media/document/file/ma2lbv_anleitung.pdf), Seiten 12–20; [Versionshinweise](https://www.svws.nrw.de/system/files/media/document/file/ma2pdf_versionsgeschichte.pdf), Version 3.2.3.2.
+Quelle: [Bedienungsanleitung MA2, Druckstand 18.03.2024](/dateien/pdf/ma2lbv_anleitung.pdf), Seiten 12–20; [Versionshinweise](/dateien/pdf/ma2pdf_versionsgeschichte.pdf), Version 3.2.3.2.
 
 ## Mehrarbeitsfälle erfassen, prüfen und ausgeben
 
-Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 12–17](https://www.svws.nrw.de/system/files/media/document/file/ma2lbv_anleitung.pdf#page=12).
+Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 12–17](/dateien/pdf/ma2lbv_anleitung.pdf#page=12).
 
 ### 4 Programmstart / Programmbedienung
 
@@ -188,7 +188,7 @@ werden bei dieser Aktion gelöscht!
 
 ## Änderungen bei der Abrechnung
 
-Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 3–4](https://www.svws.nrw.de/system/files/media/document/file/ma2pdf_versionsgeschichte.pdf#page=3).
+Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 3–4](/dateien/pdf/ma2pdf_versionsgeschichte.pdf#page=3).
 
 Dieser Abschnitt gibt die Hinweise der dokumentierten Programmausgabe wieder.
 

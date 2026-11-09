@@ -81,13 +81,13 @@ Legen Sie zuerst das zum Import passende Kursprofil an und führen Sie den Daten
 Der Import ersetzt die bereits in S1Plan bestehenden Kurse der betroffenen Kursart. Prüfen Sie den Bestätigungsdialog, bevor Sie eine schon bearbeitete Kursverteilung überschreiben.
 :::
 
-Quelle der Ergänzung: [S1Plan-Bedienungsanleitung, Druckstand 11.12.2018](https://www.svws.nrw.de/system/files/media/document/file/s1plan_anleitung.pdf), Kapitel 5, Seiten 27–31.
+Quelle der Ergänzung: [S1Plan-Bedienungsanleitung, Druckstand 11.12.2018](/dateien/pdf/s1plan_anleitung.pdf), Kapitel 5, Seiten 27–31.
 
 Quelle: [S1PLAN:Übernahme von Kursen aus SchILD-NRW 2 – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=S1PLAN%3A%C3%9Cbernahme+von+Kursen+aus+Schild&oldid=4073)
 
 ## Kursprofil, Import, Umwahlen und Rückgabe
 
-Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 27–30](https://www.svws.nrw.de/system/files/media/document/file/s1plan_anleitung.pdf#page=27).
+Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 27–30](/dateien/pdf/s1plan_anleitung.pdf#page=27).
 
 ### 5 Übernahme von Kursen aus SchILD-NRW
 

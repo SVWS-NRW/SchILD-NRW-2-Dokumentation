@@ -18,6 +18,6 @@ Bei der Erstellung von UDLs erweist sich das als besonders lästig, weil diese j
 
 Aber dafür gibt es jetzt eine Lösung: Per Registry können Sie einen Kontextmenü-Eintrag erzeugen, der Zugriff auf die 32-bit Treiberliste ermöglicht. Dazu importieren Sie einfach die verlinkte Registry-Datei. Danach sehen Sie bei Rechtsklick auf eine UDL-Datei einen neuen Menüeintrag Open32. Dort kann dann wieder ganz normal die Datenbank und der Provider ausgewählt werden!
 
-Download: [Udlfile_open32_reg.zip](/dateien/wiki/udlfile-open32-reg-cb5cf3a2.zip)
+Download: [Udlfile_open32_reg.zip](/dateien/originaldateien/udlfile-open32-reg-cb5cf3a2.zip)
 
 Quelle: [UDL-Dateien unter 64-BIT – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=UDL-Dateien+unter+64-BIT&oldid=3933)

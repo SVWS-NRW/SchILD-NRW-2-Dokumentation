@@ -192,13 +192,13 @@ Der vollständige Export kann die bisherigen SchILD-NRW 2-Kurse des gewählten J
 
 Im Exportfenster stehen links die Kurse und Zuordnungen aus S1Plan, rechts die vorhandenen beziehungsweise vorgesehenen Daten in SchILD-NRW 2. Grüne Markierungen zeigen die erfolgte Übertragung an.
 
-Quelle der Ergänzung: [S1Plan-Bedienungsanleitung, Druckstand 11.12.2018](https://www.svws.nrw.de/system/files/media/document/file/s1plan_anleitung.pdf), Kapitel 4, Seiten 13–26.
+Quelle der Ergänzung: [S1Plan-Bedienungsanleitung, Druckstand 11.12.2018](/dateien/pdf/s1plan_anleitung.pdf), Kapitel 4, Seiten 13–26.
 
 Quelle: [S1PLAN:Einrichtung von Kursen – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=S1PLAN%3AEinrichtung+von+Kursen&oldid=4078)
 
 ## Sprachenkurse, Arbeitsgemeinschaften und Export
 
-Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 13–26](https://www.svws.nrw.de/system/files/media/document/file/s1plan_anleitung.pdf#page=13).
+Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 13–26](/dateien/pdf/s1plan_anleitung.pdf#page=13).
 
 ### 4 Einrichtung von Kursen
 

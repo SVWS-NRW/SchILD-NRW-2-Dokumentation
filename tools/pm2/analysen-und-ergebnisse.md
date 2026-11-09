@@ -33,11 +33,11 @@ Lesen Sie das Ergebnis zusammen mit den zugrunde gelegten Fachzuordnungen und Hi
 
 Die Versionshinweise führen für 1.8.3.0 eine Erweiterung zur Fachleistungsdifferenzierung in Biologie und Fehlerkorrekturen auf. Stimmen Oberfläche oder Auswertungsmöglichkeiten nicht mit einer älteren Wiki-Abbildung überein, vergleichen Sie deshalb den eingesetzten Programmstand mit den Versionshinweisen.
 
-Quelle: [Bedienungsanleitung PM2, Druckstand 15.01.2024](https://www.svws.nrw.de/system/files/media/document/file/pm2_bedienungsanleitung_1.pdf), Kapitel 2–4 und 7, Seiten 9–23 und 30–33; [Versionshinweise](https://www.svws.nrw.de/system/files/media/document/file/pm2_versionsgeschichte.pdf), Version 1.8.3.0.
+Quelle: [Bedienungsanleitung PM2, Druckstand 15.01.2024](/dateien/pdf/pm2_bedienungsanleitung_1.pdf), Kapitel 2–4 und 7, Seiten 9–23 und 30–33; [Versionshinweise](/dateien/pdf/pm2_versionsgeschichte.pdf), Version 1.8.3.0.
 
 ## Analysewege, Dialog, Ergebnis und Berechnung
 
-Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 9–26](https://www.svws.nrw.de/system/files/media/document/file/pm2_bedienungsanleitung_1.pdf#page=9).
+Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 9–26](/dateien/pdf/pm2_bedienungsanleitung_1.pdf#page=9).
 
 ### 2 Prognoseverfahren
 
@@ -478,7 +478,7 @@ schlüssen und Berechtigungen befinden sich im Anhang .
 
 ## Einstellungen, Fachersetzungen, Export und Reports
 
-Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 27–36](https://www.svws.nrw.de/system/files/media/document/file/pm2_bedienungsanleitung_1.pdf#page=27).
+Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 27–36](/dateien/pdf/pm2_bedienungsanleitung_1.pdf#page=27).
 
 ### 6 Einstellungen
 
@@ -643,7 +643,7 @@ Hinweise:
 
 ## Ansicht, Rollen und Tastaturkürzel
 
-Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 43–54](https://www.svws.nrw.de/system/files/media/document/file/pm2_bedienungsanleitung_1.pdf#page=43).
+Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 43–54](/dateien/pdf/pm2_bedienungsanleitung_1.pdf#page=43).
 
 Startparameter
 
@@ -895,7 +895,7 @@ F8 Ansichtsoptionen für die Klassenanalyse konfigurieren Strg+B Bearbeiten in d
 
 ## Änderungen der dokumentierten Programmstände
 
-Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 3–6](https://www.svws.nrw.de/system/files/media/document/file/pm2_versionsgeschichte.pdf#page=3).
+Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 3–6](/dateien/pdf/pm2_versionsgeschichte.pdf#page=3).
 
 Dieser Abschnitt gibt die Hinweise der dokumentierten Programmausgabe wieder.
 
@@ -934,4 +934,4 @@ Ministerium für Schule und Bildung Nordrhein-Westfalen Völklinger Str. 49
 
 ## Rechtsübersichten der Handbuchausgabe
 
-Die Originalanleitung enthält einen [Vergleich der damaligen Regelungen](https://www.svws.nrw.de/system/files/media/document/file/pm2_bedienungsanleitung_1.pdf#page=4) und einen [Anhang mit Rechtsgrundlagen, Abschlussübersichten und Nachprüfungen](https://www.svws.nrw.de/system/files/media/document/file/pm2_bedienungsanleitung_1.pdf#page=55). Diese Abschnitte dokumentieren den Rechtsstand der Handbuchausgabe.
+Die Originalanleitung enthält einen [Vergleich der damaligen Regelungen](/dateien/pdf/pm2_bedienungsanleitung_1.pdf#page=4) und einen [Anhang mit Rechtsgrundlagen, Abschlussübersichten und Nachprüfungen](/dateien/pdf/pm2_bedienungsanleitung_1.pdf#page=55). Diese Abschnitte dokumentieren den Rechtsstand der Handbuchausgabe.

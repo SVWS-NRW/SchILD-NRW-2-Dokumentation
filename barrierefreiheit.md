@@ -28,4 +28,4 @@ Wenn Sie auf Ihre Meldung keine zufriedenstellende Antwort erhalten, können Sie
 
 E-Mail [ombudsstelle-barrierefreie-it@mags.nrw.de](mailto:ombudsstelle-barrierefreie-it@mags.nrw.de)\
 Telefon [0211 855 3451](tel:+492118553451)\
-[Antrag auf ein Ombudsverfahren](https://mags.nrw/system/files/media/document/file/antrag_ombudsverfahren_bf.pdf)
+[Antrag auf ein Ombudsverfahren](/dateien/pdf/antrag_ombudsverfahren_bf.pdf)

@@ -40,14 +40,13 @@ Der Build erstellt die Website und prüft Seitenverweise. `docs:check` kontrolli
 Bei Änderungen an Menü, Suche oder Darstellung zusätzlich die gezielte Browserprüfung ausführen:
 
 ```sh
-npm install --no-save --package-lock=false playwright@1.56.1
-npx playwright install chromium
+npx playwright install chromium --only-shell
 npm run docs:check-browser
 ```
 
 Sie prüft Themenmenü, Programmreferenz, Weiterblättern und breite Tabellen auf Desktop und Smartphone sowie Suche und Artikelindex. Es gibt keinen vollständigen Artikelscan und keinen dauernden Vergleich mit alten Wiki-Fassungen.
 
-Auf GitHub laufen **Dokumentation prüfen** (`docs-check`) und **Bedienung prüfen** (`browser-check`) bei jedem Pull Request mit Ziel `dev` oder `master`, unabhängig von den geänderten Dateien. Beide Prüf-Workflows können außerdem manuell gestartet werden. Die npm-Befehle starten die Prüfungen aus `scripts/` und `tests/`. Fehleraufnahmen liegen als GitHub-Artefakt vor; lokale Ausgaben unter `test-results/` gehören nicht in Git.
+Auf GitHub laufen **Dokumentation prüfen** (`docs-check`) und **Bedienung prüfen** (`browser-check`) bei jedem Pull Request mit Ziel `dev` oder `master`, unabhängig von den geänderten Dateien. Beide Prüf-Workflows können außerdem manuell gestartet werden. Prüfskripte, kleine Tests und Browserprüfungen liegen gemeinsam unter `scripts/`; die npm-Befehle bleiben der einheitliche Einstieg. Fehleraufnahmen liegen als GitHub-Artefakt vor; lokale Ausgaben unter `test-results/` gehören nicht in Git.
 
 ## Technischer Paketstand
 

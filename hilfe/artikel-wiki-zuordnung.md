@@ -525,7 +525,7 @@ Die erste Tabelle erfasst die Inhaltsseiten und LuPO-Artikel aus der gesicherten
 | [Noten, Teilleistungen und Bemerkungen](/tools/enm-notenmanager/leistungsdaten) | Kein Wiki-Artikel |
 | [Notenmodul für Grundschulen](/tools/notenmodul-grundschule) | Kein Wiki-Artikel |
 | [PM2 – Prognosemodul](/tools/pm2) | Kein Wiki-Artikel |
-| [Quelltexte und Originaldateien](/hilfe/quelltexte-und-originaldateien) | Kein Wiki-Artikel |
+| [Anleitungen und Dateien](/hilfe/quelltexte-und-originaldateien) | Kein Wiki-Artikel |
 | [Redaktionsworkflow](/hilfe/redaktionsworkflow) | Kein Wiki-Artikel |
 | [Reports erstellen](/reporting/erstellung) | Kein Wiki-Artikel |
 | [Reports verwalten und drucken](/reporting/verwaltung) | Kein Wiki-Artikel |
@@ -569,38 +569,38 @@ Die erste Tabelle erfasst die Inhaltsseiten und LuPO-Artikel aus der gesicherten
 
 | Dokumentation | PDF-Quelle |
 | --- | --- |
-| [Ersteinrichtung und Anzeige](/tools/enm-notenmanager/ersteinrichtung) | [Originalanleitung](https://www.svws.nrw.de/system/files/media/document/file/enm_bedienungsanleitung_2.pdf) |
-| [Noten, Teilleistungen und Bemerkungen](/tools/enm-notenmanager/leistungsdaten) | [Originalanleitung](https://www.svws.nrw.de/system/files/media/document/file/enm_bedienungsanleitung_2.pdf) |
-| [Zentrale Prüfungen und Rückgabe](/tools/enm-notenmanager/pruefungen-und-rueckgabe) | [Originalanleitung](https://www.svws.nrw.de/system/files/media/document/file/enm_bedienungsanleitung_2.pdf) |
-| [Datenimport und Druck](/tools/enm-notenmanager/import-und-druck) | [Originalanleitung](https://www.svws.nrw.de/system/files/media/document/file/enm_bedienungsanleitung_2.pdf) |
-| [Zusammenspiel mit SchILD-NRW 2 und LuPO](/tools/kurs42/datenfluss) | [Originalanleitung](https://www.svws.nrw.de/system/files/media/document/file/handbuch-schild-lupo-kurs42-22.auflage.pdf) |
-| [Neue Blockung erstellen](/tools/kurs42/neue-blockung) | [Originalanleitung](https://www.svws.nrw.de/system/files/media/document/file/handbuch-schild-lupo-kurs42-22.auflage.pdf) |
-| [Klausuren planen](/tools/kurs42/klausurplanung) | [Originalanleitung](https://www.svws.nrw.de/system/files/media/document/file/handbuch-schild-lupo-kurs42-22.auflage.pdf) |
-| [Halbjahreswechsel und Fachwahlabgleich](/tools/kurs42/halbjahreswechsel) | [Originalanleitung](https://www.svws.nrw.de/system/files/media/document/file/handbuch-schild-lupo-kurs42-22.auflage.pdf) |
-| [KM2 – Konferenzmodul](/tools/km2) | [Originalanleitung](https://www.svws.nrw.de/system/files/media/document/file/km2_versionsgeschichte.pdf) |
-| [KM2 installieren und einrichten](/hilfe/zusatzprogramme/km2-001) | [Originalanleitung](https://www.svws.nrw.de/system/files/media/document/file/km2_versionsgeschichte.pdf) |
-| [Einrichtung und Datenbankzugriff](/tools/ma2lbv/einrichtung) | [Originalanleitung](https://www.svws.nrw.de/system/files/media/document/file/ma2lbv_anleitung.pdf) |
-| [Abrechnung erstellen und ausgeben](/tools/ma2lbv/abrechnung) | [Originalanleitung](https://www.svws.nrw.de/system/files/media/document/file/ma2lbv_anleitung.pdf) |
-| [Abrechnungsdaten importieren](/tools/ma2lbv/datenimport) | [Originalanleitung](https://www.svws.nrw.de/system/files/media/document/file/ma2lbv_anleitung.pdf) |
-| [Einrichtung und Datenbankzugriff](/tools/ma2lbv/einrichtung) | [Originalanleitung](https://www.svws.nrw.de/system/files/media/document/file/ma2pdf_versionsgeschichte.pdf) |
-| [Abrechnung erstellen und ausgeben](/tools/ma2lbv/abrechnung) | [Originalanleitung](https://www.svws.nrw.de/system/files/media/document/file/ma2pdf_versionsgeschichte.pdf) |
-| [Vorbereitung und Export](/tools/notenmodul-grundschule/vorbereitung) | [Originalanleitung](https://www.svws.nrw.de/system/files/media/document/file/notenmodul_grundschule_anleitung.pdf) |
-| [Leistungsdaten eingeben](/tools/notenmodul-grundschule/leistungsdaten) | [Originalanleitung](https://www.svws.nrw.de/system/files/media/document/file/notenmodul_grundschule_anleitung.pdf) |
-| [Rückgabe, Import und Zeugnisdruck](/tools/notenmodul-grundschule/rueckgabe-und-druck) | [Originalanleitung](https://www.svws.nrw.de/system/files/media/document/file/notenmodul_grundschule_anleitung.pdf) |
-| [Analyseverfahren und Ergebnisse](/tools/pm2/analysen-und-ergebnisse) | [Originalanleitung](https://www.svws.nrw.de/system/files/media/document/file/pm2_bedienungsanleitung_1.pdf) |
-| [Analyseverfahren und Ergebnisse](/tools/pm2/analysen-und-ergebnisse) | [Originalanleitung](https://www.svws.nrw.de/system/files/media/document/file/pm2_versionsgeschichte.pdf) |
-| [Kurse in S1Plan einrichten und zuweisen](/hilfe/zusatzprogramme/s1plan-einrichtung-von-kursen) | [Originalanleitung](https://www.svws.nrw.de/system/files/media/document/file/s1plan_anleitung.pdf) |
-| [SchILD-NRW 2-Kurse in S1Plan übernehmen](/hilfe/zusatzprogramme/s1plan-uebernahme-von-kursen-aus-schild) | [Originalanleitung](https://www.svws.nrw.de/system/files/media/document/file/s1plan_anleitung.pdf) |
+| [Ersteinrichtung und Anzeige](/tools/enm-notenmanager/ersteinrichtung) | [Originalanleitung](/dateien/pdf/enm_bedienungsanleitung_2.pdf) |
+| [Noten, Teilleistungen und Bemerkungen](/tools/enm-notenmanager/leistungsdaten) | [Originalanleitung](/dateien/pdf/enm_bedienungsanleitung_2.pdf) |
+| [Zentrale Prüfungen und Rückgabe](/tools/enm-notenmanager/pruefungen-und-rueckgabe) | [Originalanleitung](/dateien/pdf/enm_bedienungsanleitung_2.pdf) |
+| [Datenimport und Druck](/tools/enm-notenmanager/import-und-druck) | [Originalanleitung](/dateien/pdf/enm_bedienungsanleitung_2.pdf) |
+| [Zusammenspiel mit SchILD-NRW 2 und LuPO](/tools/kurs42/datenfluss) | [Originalanleitung](/dateien/pdf/handbuch-schild-lupo-kurs42-22.auflage.pdf) |
+| [Neue Blockung erstellen](/tools/kurs42/neue-blockung) | [Originalanleitung](/dateien/pdf/handbuch-schild-lupo-kurs42-22.auflage.pdf) |
+| [Klausuren planen](/tools/kurs42/klausurplanung) | [Originalanleitung](/dateien/pdf/handbuch-schild-lupo-kurs42-22.auflage.pdf) |
+| [Halbjahreswechsel und Fachwahlabgleich](/tools/kurs42/halbjahreswechsel) | [Originalanleitung](/dateien/pdf/handbuch-schild-lupo-kurs42-22.auflage.pdf) |
+| [KM2 – Konferenzmodul](/tools/km2) | [Originalanleitung](/dateien/pdf/km2_versionsgeschichte.pdf) |
+| [KM2 installieren und einrichten](/hilfe/zusatzprogramme/km2-001) | [Originalanleitung](/dateien/pdf/km2_versionsgeschichte.pdf) |
+| [Einrichtung und Datenbankzugriff](/tools/ma2lbv/einrichtung) | [Originalanleitung](/dateien/pdf/ma2lbv_anleitung.pdf) |
+| [Abrechnung erstellen und ausgeben](/tools/ma2lbv/abrechnung) | [Originalanleitung](/dateien/pdf/ma2lbv_anleitung.pdf) |
+| [Abrechnungsdaten importieren](/tools/ma2lbv/datenimport) | [Originalanleitung](/dateien/pdf/ma2lbv_anleitung.pdf) |
+| [Einrichtung und Datenbankzugriff](/tools/ma2lbv/einrichtung) | [Originalanleitung](/dateien/pdf/ma2pdf_versionsgeschichte.pdf) |
+| [Abrechnung erstellen und ausgeben](/tools/ma2lbv/abrechnung) | [Originalanleitung](/dateien/pdf/ma2pdf_versionsgeschichte.pdf) |
+| [Vorbereitung und Export](/tools/notenmodul-grundschule/vorbereitung) | [Originalanleitung](/dateien/pdf/notenmodul_grundschule_anleitung.pdf) |
+| [Leistungsdaten eingeben](/tools/notenmodul-grundschule/leistungsdaten) | [Originalanleitung](/dateien/pdf/notenmodul_grundschule_anleitung.pdf) |
+| [Rückgabe, Import und Zeugnisdruck](/tools/notenmodul-grundschule/rueckgabe-und-druck) | [Originalanleitung](/dateien/pdf/notenmodul_grundschule_anleitung.pdf) |
+| [Analyseverfahren und Ergebnisse](/tools/pm2/analysen-und-ergebnisse) | [Originalanleitung](/dateien/pdf/pm2_bedienungsanleitung_1.pdf) |
+| [Analyseverfahren und Ergebnisse](/tools/pm2/analysen-und-ergebnisse) | [Originalanleitung](/dateien/pdf/pm2_versionsgeschichte.pdf) |
+| [Kurse in S1Plan einrichten und zuweisen](/hilfe/zusatzprogramme/s1plan-einrichtung-von-kursen) | [Originalanleitung](/dateien/pdf/s1plan_anleitung.pdf) |
+| [SchILD-NRW 2-Kurse in S1Plan übernehmen](/hilfe/zusatzprogramme/s1plan-uebernahme-von-kursen-aus-schild) | [Originalanleitung](/dateien/pdf/s1plan_anleitung.pdf) |
 | [Ankreuzzeugnisse mit dem Report-Explorer erstellen](/zeugnisse/grundschule/ankreuzzeugnisse-erstellen) | [Originalanleitung als PDF](/dateien/pdf/Grundschule_Ankreuzzeugnisse_mit_SchILD2.pdf) |
 | [Layout für Ankreuzzeugnisse einstellen](/zeugnisse/grundschule/ankreuzzeugnisse-ini) | [Originalanleitung als PDF](/dateien/pdf/Grundschule_Ankreuzzeugnisse_mit_SchILD_INI_Optionen.pdf) |
 | [Text- und Notenzeugnisse mit dem Report-Explorer erstellen](/zeugnisse/grundschule/textzeugnisse-erstellen) | [Originalanleitung als PDF](/dateien/pdf/Grundschule_Textzeugnisse_mit_SchILD2_Anleitung.pdf) |
 | [Layout für Text- und Notenzeugnisse einstellen](/zeugnisse/grundschule/textzeugnisse-ini) | [Originalanleitung als PDF](/dateien/pdf/Grundschule_Textzeugnisse_mit_SchILD2_INI_Optionen.pdf) |
 | [Zeugnisse als Broschüren drucken](/zeugnisse/vorbereitung/zeugnisse-broschuerendruck) | [Originalanleitung als PDF](/dateien/pdf/Zeugnisse_Brosch%C3%BCrendruck.pdf) |
-| [PM2 erstmals starten](/hilfe/zusatzprogramme/prognos-programmstart) | [Originalanleitung als PDF](https://www.svws.nrw.de/system/files/media/document/file/pm2_bedienungsanleitung_1.pdf) |
-| [PM2 installieren](/hilfe/zusatzprogramme/prognos-installation) | [Originalanleitung als PDF](https://www.svws.nrw.de/system/files/media/document/file/pm2_versionsgeschichte.pdf) |
-| [S1Plan kennenlernen](/hilfe/zusatzprogramme/s1plan-uebersicht) | [Originalanleitung als PDF](https://www.svws.nrw.de/system/files/media/document/file/s1plan_anleitung.pdf) |
-| [S1Plan installieren](/hilfe/zusatzprogramme/s1plan-installation) | [Originalanleitung als PDF](https://www.svws.nrw.de/system/files/media/document/file/s1plan_anleitung.pdf) |
-| [S1Plan erstmals starten](/hilfe/zusatzprogramme/s1plan-erster-programmstart) | [Originalanleitung als PDF](https://www.svws.nrw.de/system/files/media/document/file/s1plan_anleitung.pdf) |
-| [Menüs und Zusatzfunktionen in S1Plan](/hilfe/zusatzprogramme/s1plan-anhang) | [Originalanleitung als PDF](https://www.svws.nrw.de/system/files/media/document/file/s1plan_anleitung.pdf) |
-| [SchILD-NRW 2 installieren](/administration/installation/schild-nrw-installation) | [Originalanleitung als PDF](/dateien/wiki/schildnrw-mysql-installation-3e4cc65d.pdf) |
-| [Einfache Reports erstellen und bearbeiten](/reporting/erstellung/erstellen-einfacher-reports) | [Originalanleitung als PDF](/dateien/wiki/ka17-zeugnis-kopf-128afae2.pdf) |
+| [PM2 erstmals starten](/hilfe/zusatzprogramme/prognos-programmstart) | [Originalanleitung als PDF](/dateien/pdf/pm2_bedienungsanleitung_1.pdf) |
+| [PM2 installieren](/hilfe/zusatzprogramme/prognos-installation) | [Originalanleitung als PDF](/dateien/pdf/pm2_versionsgeschichte.pdf) |
+| [S1Plan kennenlernen](/hilfe/zusatzprogramme/s1plan-uebersicht) | [Originalanleitung als PDF](/dateien/pdf/s1plan_anleitung.pdf) |
+| [S1Plan installieren](/hilfe/zusatzprogramme/s1plan-installation) | [Originalanleitung als PDF](/dateien/pdf/s1plan_anleitung.pdf) |
+| [S1Plan erstmals starten](/hilfe/zusatzprogramme/s1plan-erster-programmstart) | [Originalanleitung als PDF](/dateien/pdf/s1plan_anleitung.pdf) |
+| [Menüs und Zusatzfunktionen in S1Plan](/hilfe/zusatzprogramme/s1plan-anhang) | [Originalanleitung als PDF](/dateien/pdf/s1plan_anleitung.pdf) |
+| [SchILD-NRW 2 installieren](/administration/installation/schild-nrw-installation) | [Originalanleitung als PDF](/dateien/originaldateien/schildnrw-mysql-installation-3e4cc65d.pdf) |
+| [Einfache Reports erstellen und bearbeiten](/reporting/erstellung/erstellen-einfacher-reports) | [Originalanleitung als PDF](/dateien/originaldateien/ka17-zeugnis-kopf-128afae2.pdf) |

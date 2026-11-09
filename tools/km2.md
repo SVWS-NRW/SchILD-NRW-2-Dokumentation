@@ -13,13 +13,13 @@ Das Konferenzmodul zeigt Leistungsdaten und unterstützt die Bearbeitung währen
 
 ## Zum passenden Einstieg
 
-Die Versionshinweise zu 1.9.6.0 nennen die Integration des neueren PM2-Einzelanalyse-Dialogs und Änderungen der Menüoberfläche. Ältere Wiki-Abbildungen können deshalb von der eingesetzten Version abweichen. Grundlage: [KM2-Versionshinweise](https://www.svws.nrw.de/system/files/media/document/file/km2_versionsgeschichte.pdf), Seiten 1–2.
+Die Versionshinweise zu 1.9.6.0 nennen die Integration des neueren PM2-Einzelanalyse-Dialogs und Änderungen der Menüoberfläche. Ältere Wiki-Abbildungen können deshalb von der eingesetzten Version abweichen. Grundlage: [KM2-Versionshinweise](/dateien/pdf/km2_versionsgeschichte.pdf), Seiten 1–2.
 
 Programmbezug und verfügbare Ausgaben: [offizielle Programmseite](https://www.svws.nrw.de/schild-nrw-2/tools-module).
 
 ## Änderungen der dokumentierten Programmstände
 
-Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 3–7](https://www.svws.nrw.de/system/files/media/document/file/km2_versionsgeschichte.pdf#page=3).
+Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 3–7](/dateien/pdf/km2_versionsgeschichte.pdf#page=3).
 
 Dieser Abschnitt gibt die Hinweise der dokumentierten Programmausgabe wieder.
 

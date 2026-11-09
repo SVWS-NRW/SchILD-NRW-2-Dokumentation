@@ -10,7 +10,7 @@ Dabei legt die VO-DV-I fest, welche Schülerdaten verwaltet werden dürfen und w
 
 Bitte informieren Sie sich über die Art und Anzahl der Daten, die verwaltet werden dürfen, und halten Sie auch deren Löschungsfristen ein. Beachten Sie dabei bitte auch die Anbietungspflicht an die zuständigen Archive nach § 4 Abs. 1 und 2 i.V.m. § 10 Abs. 5 ArchivG NRW.
 
-[Downloadlink zur VO-DV-I](/dateien/wiki/vo-dv-i-6e5a587d.pdf)
+[Downloadlink zur VO-DV-I](/dateien/originaldateien/vo-dv-i-6e5a587d.pdf)
 
 Einen Link zur VO-DV-II auf der Seite des Schulministeriums:
 
@@ -20,6 +20,6 @@ Die Datenschutzbeauftragen der Schulen (das können auch kommunal bestellte Pers
 
 Ein Musterverfahrensverzeichnis für SchILD-NRW 2 stellen wir hier zur Verfügung:
 
-[Downloadlink Verfahrensverzeichnis](/dateien/wiki/verfahrensverzeichnis-34512fbd.pdf)
+[Downloadlink Verfahrensverzeichnis](/dateien/originaldateien/verfahrensverzeichnis-34512fbd.pdf)
 
 Quelle: [Datenschutzhinweis – ursprüngliches Wiki](https://wiki.svws.nrw.de/mediawiki/index.php?title=Datenschutzhinweis&oldid=4136)

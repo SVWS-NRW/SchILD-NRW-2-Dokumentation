@@ -260,7 +260,7 @@ Quelle: [Erstellen einfacher Reports – ursprüngliches Wiki](https://wiki.svws
 
 ## Zeugniskopf im Reportdesigner bearbeiten
 
-Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 1–1](/dateien/wiki/ka17-zeugnis-kopf-128afae2.pdf#page=1).
+Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 1–1](/dateien/originaldateien/ka17-zeugnis-kopf-128afae2.pdf#page=1).
 
 ![Zeugniskopf im Reportdesigner bearbeiten – Abbildung aus der Originalanleitung, Seite 1](/bilder/pdf-anleitungen/zeugniskopf/seite-01-bild-01.png)
 

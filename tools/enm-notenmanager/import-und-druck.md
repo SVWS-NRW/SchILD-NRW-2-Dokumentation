@@ -28,11 +28,11 @@ Die Register für Lerngruppen und Klassenleitung verwenden unterschiedliche Vorl
 
 Die Vorlage und der Ausdruck sind von der gespeicherten Notendatei zu unterscheiden. Für die Übernahme nach SchILD-NRW 2 muss weiterhin die bearbeitete Notendatei zurückgegeben werden.
 
-Quelle: [Bedienungsanleitung ENM-Notenmanager, Druckstand 15.12.2020](https://www.svws.nrw.de/system/files/media/document/file/enm_bedienungsanleitung_2.pdf), Kapitel 9.1–9.2, Seiten 27–41.
+Quelle: [Bedienungsanleitung ENM-Notenmanager, Druckstand 15.12.2020](/dateien/pdf/enm_bedienungsanleitung_2.pdf), Kapitel 9.1–9.2, Seiten 27–41.
 
 ## Report-Explorer, Datenimport, Wartung und Ausgabe
 
-Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 27–46](https://www.svws.nrw.de/system/files/media/document/file/enm_bedienungsanleitung_2.pdf#page=27).
+Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 27–46](/dateien/pdf/enm_bedienungsanleitung_2.pdf#page=27).
 
 Report-Explorer
 

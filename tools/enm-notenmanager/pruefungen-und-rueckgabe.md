@@ -20,11 +20,11 @@ Wählen Sie die betreffende Person aus und erfassen Sie die verfügbaren Prüfun
 
 Eine gedruckte Liste ersetzt die Rückgabe der bearbeiteten Datei nicht.
 
-Quelle: [Bedienungsanleitung ENM-Notenmanager, Druckstand 15.12.2020](https://www.svws.nrw.de/system/files/media/document/file/enm_bedienungsanleitung_2.pdf), Kapitel 7–8, Seiten 22–26.
+Quelle: [Bedienungsanleitung ENM-Notenmanager, Druckstand 15.12.2020](/dateien/pdf/enm_bedienungsanleitung_2.pdf), Kapitel 7–8, Seiten 22–26.
 
 ## Zentrale Prüfungen und Eingabeabschluss
 
-Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 22–26](https://www.svws.nrw.de/system/files/media/document/file/enm_bedienungsanleitung_2.pdf#page=22).
+Die folgenden Arbeitsschritte beziehen sich auf [die Originalquelle, Seiten 22–26](/dateien/pdf/enm_bedienungsanleitung_2.pdf#page=22).
 
 ### 7 Dateneingabe Zentrale Prüfungen
 
