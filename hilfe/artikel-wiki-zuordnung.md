@@ -525,7 +525,7 @@ Die erste Tabelle erfasst die Inhaltsseiten und LuPO-Artikel aus der gesicherten
 | [Noten, Teilleistungen und Bemerkungen](/tools/enm-notenmanager/leistungsdaten) | Kein Wiki-Artikel |
 | [Notenmodul für Grundschulen](/tools/notenmodul-grundschule) | Kein Wiki-Artikel |
 | [PM2 – Prognosemodul](/tools/pm2) | Kein Wiki-Artikel |
-| [Quelltexte und Originaldateien](/hilfe/quelltexte-und-originaldateien) | Kein Wiki-Artikel |
+| [Anleitungen und Dateien](/hilfe/quelltexte-und-originaldateien) | Kein Wiki-Artikel |
 | [Redaktionsworkflow](/hilfe/redaktionsworkflow) | Kein Wiki-Artikel |
 | [Reports erstellen](/reporting/erstellung) | Kein Wiki-Artikel |
 | [Reports verwalten und drucken](/reporting/verwaltung) | Kein Wiki-Artikel |

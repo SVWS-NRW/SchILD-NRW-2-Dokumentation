@@ -1,12 +1,6 @@
-# Quelltexte und Originaldateien
+# Anleitungen und Dateien
 
-Hier finden Sie die gesicherten Wiki-Quelltexte und ergänzende Originaldateien der Dokumentation von SchILD-NRW 2.
-
-## Quelltexte und ergänzende Dateien
-
-Das [vollständige Quelltext-ZIP](/dateien/quellen/wiki-quelltexte.zip) enthält die 1.405 gesicherten Wiki-Seiten sowie sechs Bestands- und Metadatendateien. Es bewahrt die ursprünglichen Inhalte unabhängig von der redaktionellen Bearbeitung.
-
-Auch Dateien ohne aktuellen Verweis in einem Fachartikel bleiben erhalten. Fehlende Verlinkungen sagen nichts über ihren fachlichen Wert aus. Die folgenden historischen Unterlagen und Vorlagen stammen aus dem ursprünglichen Wiki; sie werden unverändert bereitgestellt.
+Hier finden Sie die PDF-Anleitungen dieser Dokumentation sowie historische Unterlagen und Vorlagen aus dem SchILD-NRW-Wiki. Ältere Unterlagen sind in der Tabelle entsprechend gekennzeichnet.
 
 | Datei | Inhalt |
 | --- | --- |
@@ -21,6 +15,11 @@ Auch Dateien ohne aktuellen Verweis in einem Fachartikel bleiben erhalten. Fehle
 | [Filter für Mahnungsserienbriefe](/dateien/wiki/serienbrief-mahnung-gefaehrdete-versetzung-filter-ii-211e3c93.zip) | Zwei SQL-Dateien für Serienbrief und Übersichtsliste. |
 | [Filter für Mahnungsserienbriefe mit SchILDzentral](/dateien/wiki/serienbrief-mahnung-gefaehrdete-versetzung-filter-ii-schildzentral-5642ca5b.zip) | Entsprechende Filter für SchILDzentral. |
 | [Mustertext zur Notendatei](/dateien/wiki/notendateitext-b8c20be9.txt) | Historischer Begleittext mit Hinweisen zum externen Notenmodul. |
-
-Die 109 ergänzenden Screenshots und Abbildungen sind ebenfalls erhalten und über den [Bilderkatalog](/bilder/) auffindbar.
-
+| [Ankreuzzeugnisse erstellen](/dateien/pdf/Grundschule_Ankreuzzeugnisse_mit_SchILD2.pdf) | Anleitung zur Vorbereitung, Eingabe und Ausgabe von Ankreuzzeugnissen für Grundschulen. |
+| [Layout für Ankreuzzeugnisse](/dateien/pdf/Grundschule_Ankreuzzeugnisse_mit_SchILD_INI_Optionen.pdf) | Einstellungen der INI-Datei für Ankreuzzeugnisse. |
+| [Text- und Notenzeugnisse erstellen](/dateien/pdf/Grundschule_Textzeugnisse_mit_SchILD2_Anleitung.pdf) | Anleitung zur Vorbereitung, Eingabe und Ausgabe von Text- und Notenzeugnissen für Grundschulen. |
+| [Layout für Text- und Notenzeugnisse](/dateien/pdf/Grundschule_Textzeugnisse_mit_SchILD2_INI_Optionen.pdf) | Einstellungen der INI-Datei für Text- und Notenzeugnisse. |
+| [Zeugnisse als Broschüre drucken](/dateien/pdf/Zeugnisse_Brosch%C3%BCrendruck.pdf) | Anleitung zum Broschürendruck von Zeugnissen. |
+| [SchILD-NRW 2 mit MySQL installieren](/dateien/wiki/schildnrw-mysql-installation-3e4cc65d.pdf) | Historische Installationsanleitung für MySQL. |
+| [Verfahrensverzeichnis](/dateien/wiki/verfahrensverzeichnis-34512fbd.pdf) | Historisches Muster aus dem SchILD-NRW-Wiki. |
+| [VO-DV I](/dateien/wiki/vo-dv-i-6e5a587d.pdf) | Historische Fassung der Verordnung aus dem SchILD-NRW-Wiki. |
