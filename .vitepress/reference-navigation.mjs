@@ -1,16 +1,10 @@
 // Use the visible menu order: overview, area introductions, groups and articles.
 // Section anchors belong to their article and never become separate pager steps.
-export function createReferenceLinks(reference, sectionFor) {
-  const counts = new Map()
-  for (const entry of referenceEntries(reference).slice(1)) {
-    counts.set(entry.link, (counts.get(entry.link) || 0) + 1)
-  }
+export function createReferenceLinks() {
   return node => {
     if (!node.link || node.link.startsWith('/programmreferenz/')) return node.link
     const [path, anchor] = node.link.split('#')
-    const query = counts.get(path) > 1 ? '?referenz=' + node.id
-      : sectionFor(path) === '/programmreferenz/' ? '' : '?referenz'
-    return path + query + (anchor ? '#' + anchor : '')
+    return path + '?referenz=' + node.id + (anchor ? '#' + anchor : '')
   }
 }
 
