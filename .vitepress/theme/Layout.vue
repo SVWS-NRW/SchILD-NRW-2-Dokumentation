@@ -5,7 +5,7 @@ import reference from '../program-reference.json'
 import { createReferenceLinks, referenceEntries } from '../reference-navigation.mjs'
 
 const sidebar = createSidebar(navigation)
-const referenceLink = createReferenceLinks(reference, sidebar.sectionFor)
+const referenceLink = createReferenceLinks()
 const referenceArticles = referenceEntries(reference, referenceLink)
 </script>
 
