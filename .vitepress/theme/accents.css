@@ -57,7 +57,13 @@
     border-color: var(--schild-hover-border);
     box-shadow: var(--schild-shadow);
   }
-
+  .VPNavBarMenuLink.active > span {
+     border-radius: 6px;
+     background: var(--vp-c-brand-soft);
+     padding: 4px 8px;
+     margin-inline: -8px;
+     line-height: 1.5;
+   }
   .VPSidebarItem.is-active > .item {
     padding-inline-start: 6px;
     border-radius: 6px;
