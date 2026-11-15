@@ -44,11 +44,11 @@ jobs:
         run: npm run docs:check
 
       # Diesen Build kann der bestehende Nginx-Server unverändert ausliefern.
-      - name: Build für die eigene Domain bereitstellen
-        uses: actions/upload-pages-artifact@v5
-        with:
-          name: schild2-domain
-          path: .vitepress/dist
+      # - name: Build für die eigene Domain bereitstellen
+      #   uses: actions/upload-pages-artifact@v5
+      #   with:
+      #     name: schild2-domain
+      #     path: .vitepress/dist
 
       # Solange GitHub Pages keine eigene Domain verwendet, ist die Vorschau
       # unter dem Repository-Unterpfad erreichbar. Diesen getrennt bauen.
