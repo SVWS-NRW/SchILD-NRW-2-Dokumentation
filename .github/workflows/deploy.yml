@@ -31,6 +31,7 @@ jobs:
           cache: npm
 
       - name: GitHub Pages konfigurieren
+        if: github.ref == 'refs/heads/master'
         id: pages
         uses: actions/configure-pages@v6
 
@@ -65,6 +66,7 @@ jobs:
         run: npm run docs:check
 
       - name: Website für die Veröffentlichung hochladen
+        if: github.ref == 'refs/heads/master'
         uses: actions/upload-pages-artifact@v5
         with:
           path: .vitepress/dist
